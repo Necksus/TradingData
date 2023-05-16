@@ -1,4 +1,5 @@
-﻿using IPTMGrabber.ISM;
+﻿using IPTMGrabber.Investing;
+using IPTMGrabber.ISM;
 
 namespace IPTMGrabber
 {
@@ -47,12 +48,13 @@ namespace IPTMGrabber
             "https://www.prnewswire.com/news-releases/services-pmi-at-51-9-april-2023-services-ism-report-on-business-301813773.html"
         };
 
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             _dataRoot = args.Single();
 
             var newsWireGrabber = new PrNewsWireGrabber();
             var nasdaqGrabber = new NasdaqGrabber();
+            var investingGrabber = new InvestingGrabber(_dataRoot);
 
             var newPMI = ISMManufactoringHistoryUrls
                 .Select(url => newsWireGrabber.ParseISMReport<ManufacturingROB>(url))
@@ -95,6 +97,8 @@ namespace IPTMGrabber
             // Write Sector file
             File.WriteAllText(GetISMSectorFilename(false), mmiReport.GetSectorCsvLine(false));
             AddRecords(GetISMSectorFilename(false), newMMI.Select(r => r.GetSectorCsvLine()));
+
+            await investingGrabber.DownloadAllAsync();
         }
 
         private static void AddRecords(string filePath, IEnumerable<string> newResults)
