@@ -1,5 +1,6 @@
 ﻿using IPTMGrabber.Investing;
 using IPTMGrabber.ISM;
+using IPTMGrabber.Nasdaq;
 
 namespace IPTMGrabber
 {
@@ -52,7 +53,7 @@ namespace IPTMGrabber
         {
             _dataRoot = args.Single();
 
-            var newsWireGrabber = new PrNewsWireGrabber();
+            var newsWireGrabber = new ISMGrabber();
             var nasdaqGrabber = new NasdaqGrabber();
             var investingGrabber = new InvestingGrabber(_dataRoot);
 

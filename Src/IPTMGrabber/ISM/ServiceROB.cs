@@ -1,4 +1,6 @@
-﻿namespace IPTMGrabber.ISM
+﻿using IPTMGrabber.Nasdaq;
+
+namespace IPTMGrabber.ISM
 {
     internal class ServiceROB : ROBBase
     {

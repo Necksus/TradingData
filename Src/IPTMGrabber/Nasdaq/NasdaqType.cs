@@ -1,9 +1,11 @@
 ﻿// ReSharper disable InconsistentNaming
 // ReSharper disable IdentifierTypo
-namespace IPTMGrabber.ISM
+namespace IPTMGrabber.Nasdaq
 {
     internal enum NasdaqType
     {
+        #region
+
         /// <summary>
         /// Manufactured Aggregate PMI
         /// </summary>
@@ -113,5 +115,7 @@ namespace IPTMGrabber.ISM
         /// Service Inventory Sentiment
         /// </summary>
         NONMAN_INVSENT
+
+        #endregion
     }
 }

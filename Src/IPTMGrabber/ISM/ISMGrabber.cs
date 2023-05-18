@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 
 namespace IPTMGrabber.ISM
 {
-    internal class PrNewsWireGrabber
+    internal class ISMGrabber
     {
         public ROBBase ParseISMReport<T>(string url) where T : ROBBase, new()
         {
