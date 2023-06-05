@@ -24,7 +24,7 @@ namespace IPTMGrabber.ISM
             if (dateNode != null)
             {
                 // Url from prnewswire.com
-                var date = DateTime.ParseExact(dateNode.InnerText, "MMM dd, yyyy, HH:mm 'ET'", System.Globalization.CultureInfo.InvariantCulture);
+                var date = DateTime.ParseExact(dateNode.InnerText, "dd MMM, yyyy, HH:mm 'ET'", System.Globalization.CultureInfo.InvariantCulture);
 
                 var report = new T
                 {
