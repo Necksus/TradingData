@@ -70,21 +70,38 @@ namespace IPTMGrabber.YahooFinance
             while (await csv.ReadAsync())
             {
                 var ticker = FixTicker(csv.GetField<string>("Ticker")!);
-                var response = await client.GetAsync(GetUrl(ticker,
-                    YahooModule.AssetProfile, YahooModule.DefaultKeyStatistics, YahooModule.Earnings, YahooModule.FinancialData, YahooModule.IndustryTrend,
-                    YahooModule.RecommendationTrend));
+
+                HttpResponseMessage response = null;
+                bool error;
+
+                do
+                {
+                    error = false;
+                    try
+                    {
+                        response = await client.GetAsync(GetUrl(ticker, YahooModule.AssetProfile));
+                    }
+                    catch (Exception ex)
+                    {
+                        error = true;
+                    }
+                } while (error);
 
                 if (response.IsSuccessStatusCode)
                 {
                     var quoteDetail = QuoteDetail.FromJson(ticker, await response.Content.ReadAsStringAsync());
                     csvWriter.WriteRecord(quoteDetail);
                     await csvWriter.NextRecordAsync();
+                    Console.WriteLine($"{ticker} : {quoteDetail.WebSite}");
                 }
                 else
                 {
                     Console.WriteLine($"Erreur HTTP : {response.StatusCode}, ticker {ticker}");
                 }
+
+                //TimeSerieType.annualTotalAssets + TimeSerieType.annualInterestExpense + TimeSerieType.annualWorkingCapital
             }
+
         }
 
 

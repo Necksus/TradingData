@@ -19,14 +19,18 @@ namespace IPTMGrabber.NAICS
             public string Naics1 { get; }
             public string Nacis2 { get; }
             public string Duns { get; }
+            public string Website { get; }
+            public string Address { get; }
 
-            public NAICSCompany(int code, string name, string naics1, string nacis2, string duns)
+            public NAICSCompany(int code, string name, string naics1, string nacis2, string duns, string website, string address)
             {
                 Code = code;
                 Name = name;
                 Naics1 = naics1;
                 Nacis2 = nacis2;
                 Duns = duns;
+                Website = website;
+                Address = address;
             }
         }
 
@@ -44,7 +48,7 @@ namespace IPTMGrabber.NAICS
                 }
             };
 
-            await using var writer = new StreamWriter(Path.Combine(dataRoot, "NAICS_Companies.csv"));
+            await using var writer = new StreamWriter(Path.Combine(dataRoot, "NAICS", "NAICS_Companies.csv"));
             await using var csvWriter = new CsvWriter(writer, new CsvConfiguration(CultureInfo.InvariantCulture)
             {
                 Delimiter = ",",
@@ -75,8 +79,17 @@ namespace IPTMGrabber.NAICS
                 var dunsNode = doc.DocumentNode.SelectSingleNode("//strong[contains(., 'DUNS#:')]");
                 var naics1Node = doc.DocumentNode.SelectSingleNode("//td[starts-with(., 'NAICS 1: ')]/a");
                 var naics2Node = doc.DocumentNode.SelectSingleNode("//td[starts-with(., 'NAICS 2: ')]/a");
+                var addressNode = doc.DocumentNode.SelectSingleNode("//td[contains(., 'Street Address: ')]");
 
-                if (companyNameNode == null || dunsNode == null || naics1Node == null || naics2Node == null)
+                var href = doc.DocumentNode.SelectSingleNode("//td[contains(., 'URL: ')]/a")?.GetAttributeValue("href", "");
+                var webSite = string.Empty;
+                if (href != null)
+                {
+                    var uri = new Uri(href);
+                    webSite = uri.Host.StartsWith("www.") ? uri.Host.Substring(4) : uri.Host;
+                }
+
+                if (companyNameNode == null || dunsNode == null || naics1Node == null || naics2Node == null || addressNode == null)
                 {
                     Console.WriteLine($"Error for code: {code}");
                 }
@@ -86,7 +99,9 @@ namespace IPTMGrabber.NAICS
                     companyNameNode.InnerText.Trim().Replace("Company Name: ", "").Replace("&amp;", "&"),
                     naics1Node.InnerText,
                     naics2Node.InnerText,
-                    dunsNode.InnerText.Trim().Replace("DUNS#: ", ""));
+                    dunsNode.InnerText.Trim().Replace("DUNS#: ", ""),
+                    webSite,
+                    addressNode.InnerText.Replace("Street Address: ", "").Trim());
 
                 if (company.Name != "Company Name:")
                 {
@@ -97,7 +112,7 @@ namespace IPTMGrabber.NAICS
                 else
                     errors++;
 
-                Console.WriteLine($"{code} : {company.Name} ({company.Naics1})");
+                Console.WriteLine($"{code} : {company.Name} => {company.Address}");
 
                 code++;
             }

@@ -13,6 +13,7 @@
     <PackageReference Include="JsonPath" Version="1.0.6" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="SecuritiesExchangeCommission.Edgar" Version="6.3.2" />
+    <PackageReference Include="smartystreets-dotnet-sdk" Version="8.13.18" />
   </ItemGroup>
 
   <ItemGroup>
