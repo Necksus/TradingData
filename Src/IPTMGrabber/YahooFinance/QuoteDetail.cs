@@ -25,6 +25,22 @@ namespace IPTMGrabber.YahooFinance
         [JsonPath("$.quoteSummary.result[0].assetProfile.website")]
         public string YahooWebsite { get; private set; }
 
+        [JsonPath("$.quoteSummary.result[0].assetProfile.address1")]
+        public string Address1 { get; set; }
+
+        [JsonPath("$.quoteSummary.result[0].assetProfile.address2")]
+        public string Address2 { get; set; }
+
+        [JsonPath("$.quoteSummary.result[0].assetProfile.city")]
+        public string City { get; set; }
+
+        [JsonPath("$.quoteSummary.result[0].assetProfile.zip")]
+        public string Zip { get; set; }
+
+        [JsonPath("$.quoteSummary.result[0].assetProfile.state")]
+        public string State { get; set; }
+        
+
         public string WebSite
         {
             get
