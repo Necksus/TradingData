@@ -1,10 +1,4 @@
-﻿using IPTMGrabber.YahooFinance;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Net;
 
 namespace IPTMGrabber.FinancialModeling
 {
@@ -24,20 +18,13 @@ namespace IPTMGrabber.FinancialModeling
             "5be13c41d65855b9f03652fd66033c59"
         };
 
-        private readonly string _dataroot;
-
-        public FinancialModelingGrabber(string dataroot)
-        {
-            _dataroot = dataroot;
-        }
-
-        private string GetFilename(string ticker)
-            => Path.Combine(_dataroot, "FinancialModeling", $"{ticker}.json");
+        public static string GetFilename(string dataroot, string ticker)
+            => Path.Combine(dataroot, "FinancialModeling", $"{ticker}.json");
 
         private string GetUrl(string ticker, string apiKey)
             => $"https://financialmodelingprep.com/api/v3/profile/{ticker}?apikey={apiKey}";
 
-        public async Task ExecuteAsync()
+        public async Task ExecuteAsync(string dataroot)
         {
             var currentApiKey = 0;
             using var client = new HttpClient
@@ -45,9 +32,9 @@ namespace IPTMGrabber.FinancialModeling
                 Timeout = TimeSpan.FromSeconds(5)
 
             };
-            foreach (var ticker in Zacks.Zacks.GetTickers(_dataroot))
+            foreach (var ticker in Zacks.Zacks.GetTickers(dataroot))
             {
-                if (File.Exists(GetFilename(ticker)))
+                if (File.Exists(GetFilename(dataroot, ticker)))
                     continue;
 
                 HttpResponseMessage response = null;
@@ -78,7 +65,7 @@ namespace IPTMGrabber.FinancialModeling
                                 error = true;
                                 break;
                             case HttpStatusCode.Forbidden:
-                                File.WriteAllText(GetFilename(ticker), "{}");
+                                File.WriteAllText(GetFilename(dataroot, ticker), "[]");
                                 continue;
                             default:
                                 break;
@@ -86,7 +73,7 @@ namespace IPTMGrabber.FinancialModeling
                     }
                 } while (error);
 
-                await File.WriteAllTextAsync(GetFilename(ticker), await response.Content.ReadAsStringAsync());
+                await File.WriteAllTextAsync(GetFilename(dataroot, ticker), await response.Content.ReadAsStringAsync());
                 Console.WriteLine($"Get Financial Modeling profile for {ticker}.");
             }
         }

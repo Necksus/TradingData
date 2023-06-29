@@ -10,6 +10,7 @@ using System.Linq;
 using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json.Linq;
 
 namespace IPTMGrabber.YahooFinance
 {
@@ -37,6 +38,7 @@ namespace IPTMGrabber.YahooFinance
         SectorTrend,
         InsiderHolders,
         UpgradeDowngradeHistory,
+        CalendarEvents,
     }
 
     internal class YahooGrabber
@@ -69,17 +71,16 @@ namespace IPTMGrabber.YahooFinance
             // Dump data from Yahoo Finance
             while (await csv.ReadAsync())
             {
-                var ticker = FixTicker(csv.GetField<string>("Ticker")!);
+                var ticker = csv.GetField<string>("Ticker")!;
 
                 HttpResponseMessage response = null;
                 bool error;
-
                 do
                 {
                     error = false;
                     try
                     {
-                        response = await client.GetAsync(GetUrl(ticker, YahooModule.AssetProfile));
+                        response = await client.GetAsync(GetUrl(FixTicker(ticker), YahooModule.AssetProfile, YahooModule.CalendarEvents));
                     }
                     catch (Exception ex)
                     {
@@ -90,6 +91,18 @@ namespace IPTMGrabber.YahooFinance
                 if (response.IsSuccessStatusCode)
                 {
                     var quoteDetail = QuoteDetail.FromJson(ticker, await response.Content.ReadAsStringAsync());
+
+                    var financialModelingFile = FinancialModeling.FinancialModelingGrabber.GetFilename(dataRoot, ticker);
+                    if (File.Exists(financialModelingFile))
+                    {
+                        var jArray = JsonConvert.DeserializeObject<JArray>(File.ReadAllText(financialModelingFile));
+                        if (jArray.Count > 0)
+                        {
+                            var json = JsonConvert.SerializeObject(jArray[0] as JObject);
+                            QuoteDetail.FillObjectWithJson(quoteDetail, json);
+                        }
+                    }
+
                     csvWriter.WriteRecord(quoteDetail);
                     await csvWriter.NextRecordAsync();
                     Console.WriteLine($"{ticker} : {quoteDetail.WebSite}");
