@@ -1,0 +1,961 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/07/2023 00:00:00,Vecchio Jennifer,4,F-InKind,--D,212,61467,1,0001641994,Common Stock
+A,05/18/2023 00:00:00,Rodriguez Jessica,4,A-Award,--D,934,4624,1,0001655269,Common Stock
+A,05/18/2023 00:00:00,MCNAMARA WILLIAM P,4,A-Award,--D,934,1865,2,0001184644,Common Stock
+A,05/18/2023 00:00:00,Sullivan Paul,4,A-Award,--D,934,8188,1,0001585969,Common Stock
+A,05/18/2023 00:00:00,SEN LAURA,4,A-Award,--D,934,4916,1,0001192575,Common Stock
+A,05/18/2023 00:00:00,HITCH JORDAN,4,A-Award,--D,934,9943,1,0001213400,Common Stock
+A,05/18/2023 00:00:00,Goodwin Michael,4,A-Award,--D,934,2649,1,0001832425,Common Stock
+A,05/18/2023 00:00:00,MAHONEY JOHN,4,A-Award,--D,934,14447,1,0001181715,Common Stock
+A,05/18/2023 00:00:00,ENGLISH EDMOND J,4,A-Award,--D,934,7505,1,0001216137,Common Stock
+A,05/18/2023 00:00:00,TOCIO MARY ANN,4,A-Award,--D,934,10517,1,0001193293,Common Stock
+D,05/03/2023 00:00:00,LAUB JEFFREY,4,F-InKind,--D,16,3514,6,0001101931,Common Stock
+D,05/03/2023 00:00:00,LAUB JEFFREY,4,F-InKind,--D,288,3530,5,0001101931,Common Stock
+D,05/03/2023 00:00:00,Vecchio Jennifer,4,F-InKind,--D,311,61679,5,0001641994,Common Stock
+D,05/03/2023 00:00:00,O SULLIVAN MICHAEL B,4,F-InKind,--D,712,91137,4,0001262142,Common Stock
+D,05/03/2023 00:00:00,Marquette Travis,4,F-InKind,--D,1775,15327,3,0001784967,Common Stock
+D,05/03/2023 00:00:00,Allison Michael R,4,F-InKind,--D,41,6989,3,0001525996,Common Stock
+D,05/02/2023 00:00:00,LAUB JEFFREY,4,F-InKind,--D,49,3818,4,0001101931,Common Stock
+D,05/02/2023 00:00:00,Vecchio Jennifer,4,F-InKind,--D,816,61990,4,0001641994,Common Stock
+D,05/02/2023 00:00:00,O SULLIVAN MICHAEL B,4,F-InKind,--D,1259,91849,3,0001262142,Common Stock
+D,05/02/2023 00:00:00,Marquette Travis,4,F-InKind,--D,297,17102,2,0001784967,Common Stock
+D,05/02/2023 00:00:00,Allison Michael R,4,F-InKind,--D,83,7030,2,0001525996,Common Stock
+A,05/01/2023 00:00:00,LAUB JEFFREY,4,A-Award,--D,1021,1021,7,0001101931,Employee Stock Option (right to buy)
+D,05/01/2023 00:00:00,LAUB JEFFREY,4,F-InKind,--D,28,3867,3,0001101931,Common Stock
+D,05/01/2023 00:00:00,LAUB JEFFREY,4,F-InKind,--D,29,3895,2,0001101931,Common Stock
+A,05/01/2023 00:00:00,LAUB JEFFREY,4,A-Award,--D,759,3924,1,0001101931,Common Stock
+A,05/01/2023 00:00:00,Vecchio Jennifer,4,A-Award,--D,23234,23234,8,0001641994,Employee Stock Option (right to buy)
+D,05/01/2023 00:00:00,Vecchio Jennifer,4,F-InKind,--D,481,62806,3,0001641994,Common Stock
+D,05/01/2023 00:00:00,Vecchio Jennifer,4,F-InKind,--D,523,63287,2,0001641994,Common Stock
+A,05/01/2023 00:00:00,Vecchio Jennifer,4,A-Award,--D,8637,63810,1,0001641994,Common Stock
+A,05/01/2023 00:00:00,O SULLIVAN MICHAEL B,4,A-Award,--D,36831,36831,5,0001262142,Employee Stock Option (right to buy)
+D,05/01/2023 00:00:00,O SULLIVAN MICHAEL B,4,F-InKind,--D,1297,93108,2,0001262142,Common Stock
+A,05/01/2023 00:00:00,O SULLIVAN MICHAEL B,4,A-Award,--D,13692,94405,1,0001262142,Common Stock
+A,05/01/2023 00:00:00,Wolfe Kristin,4,A-Award,--D,6758,6758,2,0001936931,Employee Stock Option (right to buy)
+A,05/01/2023 00:00:00,Wolfe Kristin,4,A-Award,--D,2512,16034,1,0001936931,Common Stock
+A,05/01/2023 00:00:00,Marquette Travis,4,A-Award,--D,9925,9925,4,0001784967,Employee Stock Option (right to buy)
+A,05/01/2023 00:00:00,Marquette Travis,4,A-Award,--D,3690,17399,1,0001784967,Common Stock
+A,05/01/2023 00:00:00,Allison Michael R,4,A-Award,--D,3920,3920,4,0001525996,Employee Stock Option (right to buy)
+A,05/01/2023 00:00:00,Allison Michael R,4,A-Award,--D,1457,7113,1,0001525996,Common Stock
+D,03/21/2023 00:00:00,MCNAMARA WILLIAM P,4,S-Sale,--I,500,8154,1,0001184644,Common Stock
+D,03/17/2023 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,25699,0,8,0001641994,Employee Stock Option (right to buy)
+D,03/17/2023 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,21454,0,7,0001641994,Employee Stock Option (right to buy)
+D,03/17/2023 00:00:00,Vecchio Jennifer,4,S-Sale,--D,6899,55173,4,0001641994,Common Stock
+D,03/17/2023 00:00:00,Vecchio Jennifer,4,S-Sale,--D,40254,62072,3,0001641994,Common Stock
+A,03/17/2023 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,25699,102326,2,0001641994,Common Stock
+A,03/17/2023 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,21454,76627,1,0001641994,Common Stock
+D,03/10/2023 00:00:00,Vecchio Jennifer,4,F-InKind,--D,739,55173,1,0001641994,Common Stock
+D,03/10/2023 00:00:00,O SULLIVAN MICHAEL B,4,F-InKind,--D,2069,80713,1,0001262142,Common Stock
+A,02/13/2023 00:00:00,Vecchio Jennifer,4,A-Award,--D,1964,55912,1,0001641994,Common Stock
+A,02/13/2023 00:00:00,O SULLIVAN MICHAEL B,4,A-Award,--D,6370,82782,1,0001262142,Common Stock
+D,11/28/2022 00:00:00,LAUB JEFFREY,4,M-Exempt,--D,540,541,10,0001101931,Employee Stock Option (right to buy)
+D,11/28/2022 00:00:00,LAUB JEFFREY,4,M-Exempt,--D,776,259,9,0001101931,Employee Stock Option (right to buy)
+D,11/28/2022 00:00:00,LAUB JEFFREY,4,M-Exempt,--D,632,0,8,0001101931,Employee Stock Option (right to buy)
+D,11/28/2022 00:00:00,LAUB JEFFREY,4,M-Exempt,--D,365,0,7,0001101931,Employee Stock Option (right to buy)
+D,11/28/2022 00:00:00,LAUB JEFFREY,4,S-Sale,--D,604,3165,6,0001101931,Common Stock
+D,11/28/2022 00:00:00,LAUB JEFFREY,4,S-Sale,--D,2313,3769,5,0001101931,Common Stock
+A,11/28/2022 00:00:00,LAUB JEFFREY,4,M-Exempt,--D,540,6082,4,0001101931,Common Stock
+A,11/28/2022 00:00:00,LAUB JEFFREY,4,M-Exempt,--D,776,5542,3,0001101931,Common Stock
+A,11/28/2022 00:00:00,LAUB JEFFREY,4,M-Exempt,--D,632,4766,2,0001101931,Common Stock
+A,11/28/2022 00:00:00,LAUB JEFFREY,4,M-Exempt,--D,365,4134,1,0001101931,Common Stock
+D,10/25/2022 00:00:00,LAUB JEFFREY,4,F-InKind,--D,10,3769,1,0001101931,Common Stock
+D,10/04/2022 00:00:00,Marquette Travis,4,F-InKind,--D,167,13709,1,0001784967,Common Stock
+D,09/16/2022 00:00:00,O SULLIVAN MICHAEL B,4,F-InKind,--D,755,76412,2,0001262142,Common Stock
+D,09/16/2022 00:00:00,O SULLIVAN MICHAEL B,4,F-InKind,--D,9477,77167,1,0001262142,Common Stock
+A,08/01/2022 00:00:00,Wolfe Kristin,4,A-Award,--D,31814,31814,4,0001936931,Employee Stock Option (right to buy)
+A,08/01/2022 00:00:00,Wolfe Kristin,4,A-Award,--D,5025,5025,3,0001936931,Employee Stock Option (right to buy)
+A,08/01/2022 00:00:00,Wolfe Kristin,4,A-Award,--D,11654,13522,2,0001936931,Common Stock
+A,08/01/2022 00:00:00,Wolfe Kristin,4,A-Award,--D,1868,1868,1,0001936931,Common Stock
+A,06/09/2022 00:00:00,MCNAMARA WILLIAM P,4,G-Gift,-EI,8654,8654,2,0001184644,Common Stock
+D,06/09/2022 00:00:00,MCNAMARA WILLIAM P,4,G-Gift,-ED,8654,931,1,0001184644,Common Stock
+D,06/07/2022 00:00:00,Vecchio Jennifer,4,F-InKind,--D,212,53948,1,0001641994,Common Stock
+A,05/19/2022 00:00:00,ENGLISH EDMOND J,4,A-Award,--D,931,6571,1,0001216137,Common Stock
+A,05/19/2022 00:00:00,Goodwin Michael,4,A-Award,--D,931,1715,1,0001832425,Common Stock
+A,05/19/2022 00:00:00,HITCH JORDAN,4,A-Award,--D,931,9009,1,0001213400,Common Stock
+A,05/19/2022 00:00:00,MAHONEY JOHN,4,A-Award,--D,931,13513,1,0001181715,Common Stock
+A,05/19/2022 00:00:00,MCNAMARA WILLIAM P,4,A-Award,--D,931,9585,1,0001184644,Common Stock
+A,05/19/2022 00:00:00,Rodriguez Jessica,4,A-Award,--D,931,3690,1,0001655269,Common Stock
+A,05/19/2022 00:00:00,SEN LAURA,4,A-Award,--D,931,3982,1,0001192575,Common Stock
+A,05/19/2022 00:00:00,Sullivan Paul,4,A-Award,--D,931,7254,1,0001585969,Common Stock
+A,05/19/2022 00:00:00,TOCIO MARY ANN,4,A-Award,--D,931,9583,1,0001193293,Common Stock
+D,05/03/2022 00:00:00,Allison Michael R,4,F-InKind,--D,50,5656,3,0001525996,Common Stock
+D,05/03/2022 00:00:00,LAUB JEFFREY,4,F-InKind,--D,16,3779,5,0001101931,Common Stock
+D,05/03/2022 00:00:00,Marquette Travis,4,F-InKind,--D,1529,13876,2,0001784967,Common Stock
+D,05/03/2022 00:00:00,Vecchio Jennifer,4,F-InKind,--D,310,54160,5,0001641994,Common Stock
+D,05/03/2022 00:00:00,Crimmins John,4,F-InKind,--D,82,20158,6,0001585980,Common Stock
+D,05/03/2022 00:00:00,O SULLIVAN MICHAEL B,4,F-InKind,--D,712,86644,3,0001262142,Common Stock
+A,05/02/2022 00:00:00,Allison Michael R,4,A-Award,--D,3455,3455,4,0001525996,Employee Stock Option (right to buy)
+A,05/02/2022 00:00:00,Allison Michael R,4,A-Award,--D,3780,5706,2,0001525996,Common Stock
+A,05/02/2022 00:00:00,Allison Michael R,4,A-Award,--D,1285,1926,1,0001525996,Common Stock
+A,05/02/2022 00:00:00,LAUB JEFFREY,4,A-Award,--D,878,878,6,0001101931,Employee Stock Option (right to buy)
+A,05/02/2022 00:00:00,LAUB JEFFREY,4,A-Award,--D,653,3795,4,0001101931,Common Stock
+D,05/02/2022 00:00:00,LAUB JEFFREY,4,F-InKind,--D,28,3142,3,0001101931,Common Stock
+D,05/02/2022 00:00:00,LAUB JEFFREY,4,F-InKind,--D,29,3170,2,0001101931,Common Stock
+D,05/02/2022 00:00:00,LAUB JEFFREY,4,F-InKind,--D,37,3199,1,0001101931,Common Stock
+A,05/02/2022 00:00:00,Marquette Travis,4,A-Award,--D,8578,8578,3,0001784967,Employee Stock Option (right to buy)
+A,05/02/2022 00:00:00,Marquette Travis,4,A-Award,--D,3189,15405,1,0001784967,Common Stock
+A,05/02/2022 00:00:00,Vecchio Jennifer,4,A-Award,--D,16680,16680,8,0001641994,Employee Stock Option (right to buy)
+A,05/02/2022 00:00:00,Vecchio Jennifer,4,A-Award,--D,6201,54470,4,0001641994,Common Stock
+D,05/02/2022 00:00:00,Vecchio Jennifer,4,F-InKind,--D,481,48269,3,0001641994,Common Stock
+D,05/02/2022 00:00:00,Vecchio Jennifer,4,F-InKind,--D,523,48750,2,0001641994,Common Stock
+D,05/02/2022 00:00:00,Vecchio Jennifer,4,F-InKind,--D,424,49273,1,0001641994,Common Stock
+A,05/02/2022 00:00:00,Crimmins John,4,A-Award,--D,3564,3564,7,0001585980,Employee Stock Option (right to buy)
+A,05/02/2022 00:00:00,Crimmins John,4,A-Award,--D,1325,20240,5,0001585980,Common Stock
+D,05/02/2022 00:00:00,Crimmins John,4,F-InKind,--D,1463,18915,4,0001585980,Common Stock
+D,05/02/2022 00:00:00,Crimmins John,4,F-InKind,--D,160,20378,3,0001585980,Common Stock
+D,05/02/2022 00:00:00,Crimmins John,4,F-InKind,--D,96,20538,2,0001585980,Common Stock
+D,05/02/2022 00:00:00,Crimmins John,4,F-InKind,--D,125,20634,1,0001585980,Common Stock
+A,05/02/2022 00:00:00,O SULLIVAN MICHAEL B,4,A-Award,--D,30962,30962,4,0001262142,Employee Stock Option (right to buy)
+A,05/02/2022 00:00:00,O SULLIVAN MICHAEL B,4,A-Award,--D,11510,87356,2,0001262142,Common Stock
+D,05/02/2022 00:00:00,O SULLIVAN MICHAEL B,4,F-InKind,--D,1297,75846,1,0001262142,Common Stock
+D,03/21/2022 00:00:00,Crimmins John,4,F-InKind,--D,512,20759,1,0001585980,Common Stock
+D,03/21/2022 00:00:00,O SULLIVAN MICHAEL B,4,F-InKind,--D,5243,77143,1,0001262142,Common Stock
+D,03/21/2022 00:00:00,Vecchio Jennifer,4,F-InKind,--D,3388,49697,1,0001641994,Common Stock
+A,03/08/2022 00:00:00,Crimmins John,4,A-Award,--D,1875,21271,1,0001585980,Common Stock
+D,03/08/2022 00:00:00,O SULLIVAN MICHAEL B,4,A-Award,--D,13808,82386,1,0001262142,Common Stock
+A,03/08/2022 00:00:00,Vecchio Jennifer,4,A-Award,--D,7950,53085,1,0001641994,Common Stock
+A,10/04/2021 00:00:00,Marquette Travis,4,A-Award,--D,31598,31598,4,0001784967,Employee Stock Option (right to buy)
+A,10/04/2021 00:00:00,Marquette Travis,4,A-Award,--D,3988,3988,3,0001784967,Employee Stock Option (right to buy)
+A,10/04/2021 00:00:00,Marquette Travis,4,A-Award,--D,10821,12216,2,0001784967,Common Stock
+A,10/04/2021 00:00:00,Marquette Travis,4,A-Award,--D,1395,1395,1,0001784967,Common Stock
+D,09/16/2021 00:00:00,O SULLIVAN MICHAEL B,4,F-InKind,--D,755,68578,2,0001262142,Common Stock
+D,09/16/2021 00:00:00,O SULLIVAN MICHAEL B,4,F-InKind,--D,9461,69333,1,0001262142,Common Stock
+A,06/07/2021 00:00:00,Vecchio Jennifer,4,A-Award,--D,4599,4599,4,0001641994,Employee Stock Option (right to buy)
+A,06/07/2021 00:00:00,Vecchio Jennifer,4,A-Award,--D,1608,45135,1,0001641994,Common Stock
+D,06/03/2021 00:00:00,Metheny Mike,4,M-Exempt,--D,777,2333,18,0001585972,Employee Stock Option (right to buy)
+D,06/03/2021 00:00:00,Metheny Mike,4,M-Exempt,--D,1497,1498,17,0001585972,Employee Stock Option (right to buy)
+D,06/03/2021 00:00:00,Metheny Mike,4,M-Exempt,--D,2763,2764,16,0001585972,Employee Stock Option (right to buy)
+D,06/03/2021 00:00:00,Metheny Mike,4,M-Exempt,--D,3117,0,15,0001585972,Employee Stock Option (right to buy)
+D,06/03/2021 00:00:00,Metheny Mike,4,M-Exempt,--D,11000,11000,14,0001585972,Employee Stock Option (right to buy)
+D,06/03/2021 00:00:00,Metheny Mike,4,S-Sale,--D,252,2349,13,0001585972,Common Stock
+D,06/03/2021 00:00:00,Metheny Mike,4,S-Sale,--D,5623,2601,12,0001585972,Common Stock
+D,06/03/2021 00:00:00,Metheny Mike,4,S-Sale,--D,2850,8224,11,0001585972,Common Stock
+D,06/03/2021 00:00:00,Metheny Mike,4,S-Sale,--D,2751,11074,10,0001585972,Common Stock
+D,06/03/2021 00:00:00,Metheny Mike,4,S-Sale,--D,3613,13825,9,0001585972,Common Stock
+D,06/03/2021 00:00:00,Metheny Mike,4,S-Sale,--D,2228,17438,8,0001585972,Common Stock
+D,06/03/2021 00:00:00,Metheny Mike,4,S-Sale,--D,1942,19666,7,0001585972,Common Stock
+D,06/03/2021 00:00:00,Metheny Mike,4,S-Sale,--D,878,21608,6,0001585972,Common Stock
+A,06/03/2021 00:00:00,Metheny Mike,4,M-Exempt,--D,777,22486,5,0001585972,Common Stock
+A,06/03/2021 00:00:00,Metheny Mike,4,M-Exempt,--D,1497,21709,4,0001585972,Common Stock
+A,06/03/2021 00:00:00,Metheny Mike,4,M-Exempt,--D,2763,20212,3,0001585972,Common Stock
+A,06/03/2021 00:00:00,Metheny Mike,4,M-Exempt,--D,3117,17449,2,0001585972,Common Stock
+A,06/03/2021 00:00:00,Metheny Mike,4,M-Exempt,--D,11000,14332,1,0001585972,Common Stock
+D,06/02/2021 00:00:00,Hodgson Dennis,4,M-Exempt,--D,632,1897,15,0001864007,Employee Stock Option (right to buy)
+D,06/02/2021 00:00:00,Hodgson Dennis,4,M-Exempt,--D,609,1218,14,0001864007,Employee Stock Option (right to buy)
+D,06/02/2021 00:00:00,Hodgson Dennis,4,M-Exempt,--D,2303,2303,13,0001864007,Employee Stock Option (right to buy)
+D,06/02/2021 00:00:00,Hodgson Dennis,4,M-Exempt,--D,1087,0,12,0001864007,Employee Stock Option (right to buy)
+D,06/02/2021 00:00:00,Hodgson Dennis,4,M-Exempt,--D,2200,2200,11,0001864007,Employee Stock Option (right to buy)
+D,06/02/2021 00:00:00,Hodgson Dennis,4,S-Sale,--D,481,1918,10,0001864007,Common Stock
+D,06/02/2021 00:00:00,Hodgson Dennis,4,S-Sale,--D,773,2399,9,0001864007,Common Stock
+D,06/02/2021 00:00:00,Hodgson Dennis,4,S-Sale,--D,1353,3172,8,0001864007,Common Stock
+D,06/02/2021 00:00:00,Hodgson Dennis,4,S-Sale,--D,2171,4525,7,0001864007,Common Stock
+D,06/02/2021 00:00:00,Hodgson Dennis,4,S-Sale,--D,2934,6696,6,0001864007,Common Stock
+A,06/02/2021 00:00:00,Hodgson Dennis,4,M-Exempt,--D,632,9630,5,0001864007,Common Stock
+A,06/02/2021 00:00:00,Hodgson Dennis,4,M-Exempt,--D,609,8998,4,0001864007,Common Stock
+A,06/02/2021 00:00:00,Hodgson Dennis,4,M-Exempt,--D,2303,8389,3,0001864007,Common Stock
+A,06/02/2021 00:00:00,Hodgson Dennis,4,M-Exempt,--D,1087,6086,2,0001864007,Common Stock
+A,06/02/2021 00:00:00,Hodgson Dennis,4,M-Exempt,--D,2200,4999,1,0001864007,Common Stock
+A,05/20/2021 00:00:00,TOCIO MARY ANN,4,A-Award,--D,466,8652,1,0001193293,Common Stock
+A,05/20/2021 00:00:00,Sullivan Paul,4,A-Award,--D,466,6323,1,0001585969,Common Stock
+A,05/20/2021 00:00:00,SEN LAURA,4,A-Award,--D,466,3051,1,0001192575,Common Stock
+A,05/20/2021 00:00:00,Rodriguez Jessica,4,A-Award,--D,466,2759,1,0001655269,Common Stock
+A,05/20/2021 00:00:00,MCNAMARA WILLIAM P,4,A-Award,--D,466,8654,1,0001184644,Common Stock
+A,05/20/2021 00:00:00,MAHONEY JOHN,4,A-Award,--D,466,12582,1,0001181715,Common Stock
+A,05/20/2021 00:00:00,HITCH JORDAN,4,A-Award,--D,466,8078,1,0001213400,Common Stock
+A,05/20/2021 00:00:00,Goodwin Michael,4,A-Award,--D,466,784,1,0001832425,Common Stock
+A,05/20/2021 00:00:00,ENGLISH EDMOND J,4,A-Award,--D,466,5640,1,0001216137,Common Stock
+A,05/03/2021 00:00:00,Crimmins John,4,A-Award,--D,2298,2298,7,0001585980,Employee Stock Option (right to buy)
+A,05/03/2021 00:00:00,Crimmins John,4,A-Award,--D,804,19396,6,0001585980,Common Stock
+D,05/03/2021 00:00:00,Crimmins John,4,F-InKind,--D,166,18592,5,0001585980,Common Stock
+D,05/03/2021 00:00:00,Crimmins John,4,F-InKind,--D,100,18758,4,0001585980,Common Stock
+D,05/03/2021 00:00:00,Crimmins John,4,F-InKind,--D,125,18858,3,0001585980,Common Stock
+D,05/03/2021 00:00:00,Crimmins John,4,F-InKind,--D,1943,18983,2,0001585980,Common Stock
+D,05/03/2021 00:00:00,Crimmins John,4,F-InKind,--D,274,20926,1,0001585980,Common Stock
+A,05/03/2021 00:00:00,MAGRINI JOYCE MANNING,4,A-Award,--D,1473,1473,6,0001330749,Employee Stock Option (right to buy)
+A,05/03/2021 00:00:00,MAGRINI JOYCE MANNING,4,A-Award,--D,515,5958,5,0001330749,Common Stock
+D,05/03/2021 00:00:00,MAGRINI JOYCE MANNING,4,F-InKind,--D,59,5443,4,0001330749,Common Stock
+D,05/03/2021 00:00:00,MAGRINI JOYCE MANNING,4,F-InKind,--D,61,5502,3,0001330749,Common Stock
+D,05/03/2021 00:00:00,MAGRINI JOYCE MANNING,4,F-InKind,--D,79,5563,2,0001330749,Common Stock
+D,05/03/2021 00:00:00,MAGRINI JOYCE MANNING,4,F-InKind,--D,103,5642,1,0001330749,Common Stock
+A,05/03/2021 00:00:00,Vecchio Jennifer,4,A-Award,--D,6757,6757,8,0001641994,Employee Stock Option (right to buy)
+A,05/03/2021 00:00:00,Vecchio Jennifer,4,A-Award,--D,2363,43527,5,0001641994,Common Stock
+D,05/03/2021 00:00:00,Vecchio Jennifer,4,F-InKind,--D,481,41164,4,0001641994,Common Stock
+D,05/03/2021 00:00:00,Vecchio Jennifer,4,F-InKind,--D,523,41645,3,0001641994,Common Stock
+D,05/03/2021 00:00:00,Vecchio Jennifer,4,F-InKind,--D,424,42168,2,0001641994,Common Stock
+D,05/03/2021 00:00:00,Vecchio Jennifer,4,F-InKind,--D,580,42592,1,0001641994,Common Stock
+A,05/03/2021 00:00:00,Hand Fred,4,A-Award,--D,4651,4651,6,0001585982,Employee Stock Option (right to buy)
+A,05/03/2021 00:00:00,Hand Fred,4,A-Award,--D,1626,47002,5,0001585982,Common Stock
+D,05/03/2021 00:00:00,Hand Fred,4,F-InKind,--D,261,45376,4,0001585982,Common Stock
+D,05/03/2021 00:00:00,Hand Fred,4,F-InKind,--D,270,45637,3,0001585982,Common Stock
+D,05/03/2021 00:00:00,Hand Fred,4,F-InKind,--D,330,45907,2,0001585982,Common Stock
+D,05/03/2021 00:00:00,Hand Fred,4,F-InKind,--D,453,46237,1,0001585982,Common Stock
+A,05/03/2021 00:00:00,O SULLIVAN MICHAEL B,4,A-Award,--D,18634,18634,3,0001262142,Employee Stock Option (right to buy)
+A,05/03/2021 00:00:00,O SULLIVAN MICHAEL B,4,A-Award,--D,6516,78794,2,0001262142,Common Stock
+D,05/03/2021 00:00:00,O SULLIVAN MICHAEL B,4,F-InKind,--D,852,72278,1,0001262142,Common Stock
+D,03/10/2021 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,66,21454,18,0001641994,Employee Stock Option (right to buy)
+D,03/10/2021 00:00:00,Vecchio Jennifer,4,S-Sale,--D,66,43172,14,0001641994,Common Stock
+A,03/10/2021 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,66,43238,13,0001641994,Common Stock
+D,03/09/2021 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,8889,21520,17,0001641994,Employee Stock Option (right to buy)
+D,03/09/2021 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,9269,0,16,0001641994,Employee Stock Option (right to buy)
+D,03/09/2021 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,1776,0,15,0001641994,Employee Stock Option (right to buy)
+A,03/09/2021 00:00:00,Vecchio Jennifer,4,G-Gift,-EI,49,186,12,0001641994,Common Stock
+A,03/09/2021 00:00:00,Vecchio Jennifer,4,G-Gift,-EI,49,186,11,0001641994,Common Stock
+D,03/09/2021 00:00:00,Vecchio Jennifer,4,G-Gift,-ED,49,43172,10,0001641994,Common Stock
+D,03/09/2021 00:00:00,Vecchio Jennifer,4,G-Gift,-ED,49,43221,9,0001641994,Common Stock
+D,03/09/2021 00:00:00,Vecchio Jennifer,4,S-Sale,--D,610,43270,8,0001641994,Common Stock
+D,03/09/2021 00:00:00,Vecchio Jennifer,4,S-Sale,--D,3994,43880,7,0001641994,Common Stock
+D,03/09/2021 00:00:00,Vecchio Jennifer,4,S-Sale,--D,10245,47874,6,0001641994,Common Stock
+D,03/09/2021 00:00:00,Vecchio Jennifer,4,S-Sale,--D,5085,58119,5,0001641994,Common Stock
+A,03/09/2021 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,8889,63204,4,0001641994,Common Stock
+A,03/09/2021 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,9269,54315,3,0001641994,Common Stock
+A,03/09/2021 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,1776,45046,2,0001641994,Common Stock
+D,02/23/2021 00:00:00,Vecchio Jennifer,4,G-Gift,-ED,300,43270,1,0001641994,Common Stock
+D,02/01/2021 00:00:00,Hand Fred,4,F-InKind,--D,105,46690,1,0001585982,Common Stock
+D,02/01/2021 00:00:00,Vecchio Jennifer,4,F-InKind,--D,140,43570,1,0001641994,Common Stock
+D,12/04/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,15000,1776,10,0001641994,Employee Stock Option (right to buy)
+D,12/04/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,95,43710,7,0001641994,Common Stock
+D,12/04/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,4047,43805,6,0001641994,Common Stock
+D,12/04/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,1524,47852,5,0001641994,Common Stock
+D,12/04/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,2895,49376,4,0001641994,Common Stock
+D,12/04/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,3944,52271,3,0001641994,Common Stock
+D,12/04/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,2495,56215,2,0001641994,Common Stock
+A,12/04/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,15000,58710,1,0001641994,Common Stock
+D,12/02/2020 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,624,1872,9,0001330749,Employee Stock Option (right to buy)
+D,12/02/2020 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,2303,4606,8,0001330749,Employee Stock Option (right to buy)
+D,12/02/2020 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,2587,2587,7,0001330749,Employee Stock Option (right to buy)
+D,12/02/2020 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,1516,0,6,0001330749,Employee Stock Option (right to buy)
+D,12/02/2020 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,7030,5745,5,0001330749,Common Stock
+A,12/02/2020 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,624,12775,4,0001330749,Common Stock
+A,12/02/2020 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,2303,12151,3,0001330749,Common Stock
+A,12/02/2020 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,2587,9848,2,0001330749,Common Stock
+A,12/02/2020 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,1516,7261,1,0001330749,Common Stock
+D,12/01/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,0,8,0001641994,Employee Stock Option (right to buy)
+D,12/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,263,43710,5,0001641994,Common Stock
+D,12/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,232,43973,4,0001641994,Common Stock
+D,12/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,1269,44205,3,0001641994,Common Stock
+D,12/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,236,45474,2,0001641994,Common Stock
+A,12/01/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,45710,1,0001641994,Common Stock
+D,12/01/2020 00:00:00,Hand Fred,4,M-Exempt,--D,12435,12435,3,0001585982,Employee Stock Option (right to buy)
+D,12/01/2020 00:00:00,Hand Fred,4,S-Sale,--D,12435,46795,2,0001585982,Common Stock
+A,12/01/2020 00:00:00,Hand Fred,4,M-Exempt,--D,12435,59230,1,0001585982,Common Stock
+A,12/01/2020 00:00:00,Goodwin Michael,4,A-Award,--D,318,318,1,0001832425,Common Stock
+D,11/02/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,2000,9,0001641994,Employee Stock Option (right to buy)
+D,11/02/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,6,43710,6,0001641994,Common Stock
+D,11/02/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,235,43716,5,0001641994,Common Stock
+D,11/02/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,871,43951,4,0001641994,Common Stock
+D,11/02/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,238,44822,3,0001641994,Common Stock
+D,11/02/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,650,45060,2,0001641994,Common Stock
+A,11/02/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,45710,1,0001641994,Common Stock
+D,10/01/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,4000,9,0001641994,Employee Stock Option (right to buy)
+D,10/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,89,43710,6,0001641994,Common Stock
+D,10/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,230,43799,5,0001641994,Common Stock
+D,10/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,545,44029,4,0001641994,Common Stock
+D,10/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,981,44574,3,0001641994,Common Stock
+D,10/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,155,45555,2,0001641994,Common Stock
+A,10/01/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,45710,1,0001641994,Common Stock
+D,09/16/2020 00:00:00,O SULLIVAN MICHAEL B,4,F-InKind,--D,800,73130,2,0001262142,Common Stock
+D,09/16/2020 00:00:00,O SULLIVAN MICHAEL B,4,F-InKind,--D,9849,73930,1,0001262142,Common Stock
+D,09/01/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,6000,10,0001641994,Employee Stock Option (right to buy)
+D,09/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,380,43710,7,0001641994,Common Stock
+D,09/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,947,44090,6,0001641994,Common Stock
+D,09/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,123,45037,5,0001641994,Common Stock
+D,09/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,293,45160,4,0001641994,Common Stock
+D,09/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,134,45453,3,0001641994,Common Stock
+D,09/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,123,45587,2,0001641994,Common Stock
+A,09/01/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,45710,1,0001641994,Common Stock
+D,09/01/2020 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,9385,22000,9,0001330749,Employee Stock Option (right to buy)
+D,09/01/2020 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,779,5745,7,0001330749,Common Stock
+D,09/01/2020 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,6962,6524,6,0001330749,Common Stock
+D,09/01/2020 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1644,13486,5,0001330749,Common Stock
+A,09/01/2020 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,9385,15130,4,0001330749,Common Stock
+D,08/31/2020 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,1615,31385,8,0001330749,Employee Stock Option (right to buy)
+D,08/31/2020 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1615,5745,3,0001330749,Common Stock
+A,08/31/2020 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,1615,7360,2,0001330749,Common Stock
+D,08/03/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,8000,8,0001641994,Employee Stock Option (right to buy)
+D,08/03/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,378,43710,5,0001641994,Common Stock
+D,08/03/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,502,44088,4,0001641994,Common Stock
+D,08/03/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,843,44590,3,0001641994,Common Stock
+D,08/03/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,277,45433,2,0001641994,Common Stock
+A,08/03/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,45710,1,0001641994,Common Stock
+D,07/01/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,10000,10,0001641994,Employee Stock Option (right to buy)
+A,07/01/2020 00:00:00,Vecchio Jennifer,4,A-Award,--D,4854,43710,7,0001641994,Common Stock
+D,07/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,203,38856,6,0001641994,Common Stock
+D,07/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,307,39059,5,0001641994,Common Stock
+D,07/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,426,39366,4,0001641994,Common Stock
+D,07/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,792,39792,3,0001641994,Common Stock
+D,07/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,272,40584,2,0001641994,Common Stock
+A,07/01/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,40856,1,0001641994,Common Stock
+A,07/01/2020 00:00:00,Hand Fred,4,A-Award,--D,3833,46795,1,0001585982,Common Stock
+A,07/01/2020 00:00:00,Crimmins John,4,A-Award,--D,3449,21200,1,0001585980,Common Stock
+D,06/18/2020 00:00:00,MAGRINI JOYCE MANNING,4,G-Gift,-ED,1250,5745,1,0001330749,Common Stock
+D,06/17/2020 00:00:00,Hand Fred,4,M-Exempt,--D,7357,7357,8,0001585982,Employee Stock Option (right to buy)
+D,06/17/2020 00:00:00,Hand Fred,4,M-Exempt,--D,2242,2243,7,0001585982,Employee Stock Option (right to buy)
+D,06/17/2020 00:00:00,Hand Fred,4,M-Exempt,--D,4773,0,6,0001585982,Employee Stock Option (right to buy)
+D,06/17/2020 00:00:00,Hand Fred,4,S-Sale,--D,5085,42962,5,0001585982,Common Stock
+D,06/17/2020 00:00:00,Hand Fred,4,S-Sale,--D,9287,48047,4,0001585982,Common Stock
+A,06/17/2020 00:00:00,Hand Fred,4,M-Exempt,--D,7357,57334,3,0001585982,Common Stock
+A,06/17/2020 00:00:00,Hand Fred,4,M-Exempt,--D,2242,49977,2,0001585982,Common Stock
+A,06/17/2020 00:00:00,Hand Fred,4,M-Exempt,--D,4773,47735,1,0001585982,Common Stock
+D,06/16/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,12000,7,0001641994,Employee Stock Option (right to buy)
+A,06/16/2020 00:00:00,Vecchio Jennifer,4,G-Gift,-EI,70,137,6,0001641994,Common Stock
+A,06/16/2020 00:00:00,Vecchio Jennifer,4,G-Gift,-EI,70,137,5,0001641994,Common Stock
+D,06/16/2020 00:00:00,Vecchio Jennifer,4,G-Gift,-ED,70,38856,4,0001641994,Common Stock
+D,06/16/2020 00:00:00,Vecchio Jennifer,4,G-Gift,-ED,70,38926,3,0001641994,Common Stock
+D,06/16/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,2000,38996,2,0001641994,Common Stock
+A,06/16/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,40996,1,0001641994,Common Stock
+D,06/15/2020 00:00:00,MCNAMARA WILLIAM P,4,S-Sale,--D,374,8188,1,0001184644,Common Stock
+D,06/15/2020 00:00:00,Crimmins John,4,M-Exempt,--D,599,0,5,0001585980,Employee Stock Option (right to buy)
+D,06/15/2020 00:00:00,Crimmins John,4,M-Exempt,--D,2200,2200,4,0001585980,Employee Stock Option (right to buy)
+D,06/15/2020 00:00:00,Crimmins John,4,S-Sale,--D,2799,17751,3,0001585980,Common Stock
+A,06/15/2020 00:00:00,Crimmins John,4,M-Exempt,--D,599,20550,2,0001585980,Common Stock
+A,06/15/2020 00:00:00,Crimmins John,4,M-Exempt,--D,2200,19951,1,0001585980,Common Stock
+D,06/15/2020 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,11000,33000,3,0001330749,Employee Stock Option (right to buy)
+D,06/15/2020 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,12231,6995,2,0001330749,Common Stock
+A,06/15/2020 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,11000,19226,1,0001330749,Common Stock
+D,06/01/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,14000,9,0001641994,Employee Stock Option (right to buy)
+D,06/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,232,38996,6,0001641994,Common Stock
+D,06/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,476,39228,5,0001641994,Common Stock
+D,06/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,487,39704,4,0001641994,Common Stock
+D,06/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,799,40191,3,0001641994,Common Stock
+D,06/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,6,40990,2,0001641994,Common Stock
+A,06/01/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,40996,1,0001641994,Common Stock
+A,05/21/2020 00:00:00,ENGLISH EDMOND J,4,A-Award,--D,741,5174,1,0001216137,Common Stock
+A,05/21/2020 00:00:00,HITCH JORDAN,4,A-Award,--D,741,7612,1,0001213400,Common Stock
+A,05/21/2020 00:00:00,MAHONEY JOHN,4,A-Award,--D,741,12116,1,0001181715,Common Stock
+A,05/21/2020 00:00:00,MCNAMARA WILLIAM P,4,A-Award,--D,741,8562,1,0001184644,Common Stock
+A,05/21/2020 00:00:00,Rodriguez Jessica,4,A-Award,--D,741,2293,1,0001655269,Common Stock
+A,05/21/2020 00:00:00,SEN LAURA,4,A-Award,--D,741,2585,1,0001192575,Common Stock
+A,05/21/2020 00:00:00,Sullivan Paul,4,A-Award,--D,741,5857,1,0001585969,Common Stock
+A,05/21/2020 00:00:00,TOCIO MARY ANN,4,A-Award,--D,741,8186,1,0001193293,Common Stock
+D,05/04/2020 00:00:00,Hand Fred,4,F-InKind,--D,12421,42962,5,0001585982,Common Stock
+A,05/01/2020 00:00:00,MAGRINI JOYCE MANNING,4,A-Award,--D,2605,2605,5,0001330749,Employee Stock Option (right to buy)
+A,05/01/2020 00:00:00,MAGRINI JOYCE MANNING,4,A-Award,--D,917,8226,4,0001330749,Common Stock
+D,05/01/2020 00:00:00,MAGRINI JOYCE MANNING,4,F-InKind,--D,61,7309,3,0001330749,Common Stock
+D,05/01/2020 00:00:00,MAGRINI JOYCE MANNING,4,F-InKind,--D,79,7370,2,0001330749,Common Stock
+D,05/01/2020 00:00:00,MAGRINI JOYCE MANNING,4,F-InKind,--D,103,7449,1,0001330749,Common Stock
+A,05/01/2020 00:00:00,Crimmins John,4,A-Award,--D,4449,4449,5,0001585980,Employee Stock Option (right to buy)
+A,05/01/2020 00:00:00,Crimmins John,4,A-Award,--D,1567,17751,4,0001585980,Common Stock
+D,05/01/2020 00:00:00,Crimmins John,4,F-InKind,--D,64,16184,3,0001585980,Common Stock
+D,05/01/2020 00:00:00,Crimmins John,4,F-InKind,--D,81,16248,2,0001585980,Common Stock
+D,05/01/2020 00:00:00,Crimmins John,4,F-InKind,--D,177,16329,1,0001585980,Common Stock
+A,05/01/2020 00:00:00,Hand Fred,4,A-Award,--D,6998,6998,6,0001585982,Employee Stock Option (right to buy)
+A,05/01/2020 00:00:00,Hand Fred,4,A-Award,--D,2464,55383,4,0001585982,Common Stock
+D,05/01/2020 00:00:00,Hand Fred,4,F-InKind,--D,174,52919,3,0001585982,Common Stock
+D,05/01/2020 00:00:00,Hand Fred,4,F-InKind,--D,214,53093,2,0001585982,Common Stock
+D,05/01/2020 00:00:00,Hand Fred,4,F-InKind,--D,292,53307,1,0001585982,Common Stock
+A,05/01/2020 00:00:00,Vecchio Jennifer,4,A-Award,--D,10386,10386,12,0001641994,Employee Stock Option (right to buy)
+D,05/01/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,16000,11,0001641994,Employee Stock Option (right to buy)
+A,05/01/2020 00:00:00,Vecchio Jennifer,4,A-Award,--D,3657,38996,8,0001641994,Common Stock
+D,05/01/2020 00:00:00,Vecchio Jennifer,4,F-InKind,--D,522,35339,7,0001641994,Common Stock
+D,05/01/2020 00:00:00,Vecchio Jennifer,4,F-InKind,--D,424,35861,6,0001641994,Common Stock
+D,05/01/2020 00:00:00,Vecchio Jennifer,4,F-InKind,--D,580,36285,5,0001641994,Common Stock
+D,05/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,682,36865,4,0001641994,Common Stock
+D,05/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,715,37547,3,0001641994,Common Stock
+D,05/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,603,38262,2,0001641994,Common Stock
+A,05/01/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,38865,1,0001641994,Common Stock
+A,05/01/2020 00:00:00,O SULLIVAN MICHAEL B,4,A-Award,--D,33689,33689,2,0001262142,Employee Stock Option (right to buy)
+A,05/01/2020 00:00:00,O SULLIVAN MICHAEL B,4,A-Award,--D,11862,83779,1,0001262142,Common Stock
+D,04/08/2020 00:00:00,Vecchio Jennifer,4,F-InKind,--D,488,36865,1,0001641994,Common Stock
+D,04/08/2020 00:00:00,Crimmins John,4,F-InKind,--D,70,16506,1,0001585980,Common Stock
+D,04/08/2020 00:00:00,Hand Fred,4,F-InKind,--D,190,53599,1,0001585982,Common Stock
+D,04/08/2020 00:00:00,MAGRINI JOYCE MANNING,4,F-InKind,--D,58,7552,1,0001330749,Common Stock
+D,04/01/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,18000,6,0001641994,Employee Stock Option (right to buy)
+D,04/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,6,37353,3,0001641994,Common Stock
+D,04/01/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,1994,37359,2,0001641994,Common Stock
+A,04/01/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,39353,1,0001641994,Common Stock
+D,03/02/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,20000,10,0001641994,Employee Stock Option (right to buy)
+D,03/02/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,6,37353,7,0001641994,Common Stock
+D,03/02/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,35,37359,6,0001641994,Common Stock
+D,03/02/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,660,37394,5,0001641994,Common Stock
+D,03/02/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,778,38054,4,0001641994,Common Stock
+D,03/02/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,276,38832,3,0001641994,Common Stock
+D,03/02/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,245,39108,2,0001641994,Common Stock
+A,03/02/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,39353,1,0001641994,Common Stock
+D,02/03/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,22000,8,0001641994,Employee Stock Option (right to buy)
+D,02/03/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,1277,37353,5,0001641994,Common Stock
+D,02/03/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,412,38630,4,0001641994,Common Stock
+D,02/03/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,205,39042,3,0001641994,Common Stock
+D,02/03/2020 00:00:00,Vecchio Jennifer,4,S-Sale,--D,106,39247,2,0001641994,Common Stock
+A,02/03/2020 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,39353,1,0001641994,Common Stock
+D,01/30/2020 00:00:00,Hand Fred,4,F-InKind,--D,99,53789,1,0001585982,Common Stock
+D,01/30/2020 00:00:00,Vecchio Jennifer,4,F-InKind,--D,133,37353,1,0001641994,Common Stock
+D,01/23/2020 00:00:00,Kingsbury Thomas,4,F-InKind,--D,11015,107378,1,0001371136,Common Stock
+D,01/10/2020 00:00:00,Kingsbury Thomas,4,S-Sale,--D,6998,118393,3,0001371136,Common Stock
+D,01/10/2020 00:00:00,Kingsbury Thomas,4,S-Sale,--D,16050,125391,2,0001371136,Common Stock
+D,01/10/2020 00:00:00,Kingsbury Thomas,4,S-Sale,--D,1952,141441,1,0001371136,Common Stock
+D,12/12/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,1321,143393,5,0001371136,Common Stock
+D,12/12/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,7831,144714,4,0001371136,Common Stock
+D,12/12/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,10875,152545,3,0001371136,Common Stock
+D,12/12/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,3452,163420,2,0001371136,Common Stock
+D,12/12/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,1521,166872,1,0001371136,Common Stock
+A,12/02/2019 00:00:00,Vecchio Jennifer,4,G-Gift,-EI,67,67,13,0001641994,Common Stock
+A,12/02/2019 00:00:00,Vecchio Jennifer,4,G-Gift,-EI,67,67,12,0001641994,Common Stock
+D,12/02/2019 00:00:00,Vecchio Jennifer,4,G-Gift,-ED,67,37486,11,0001641994,Common Stock
+D,12/02/2019 00:00:00,Vecchio Jennifer,4,G-Gift,-ED,67,37553,10,0001641994,Common Stock
+D,12/02/2019 00:00:00,Vecchio Jennifer,4,G-Gift,-ED,440,37620,9,0001641994,Common Stock
+D,11/29/2019 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,2302,6909,7,0001330749,Employee Stock Option (right to buy)
+D,11/29/2019 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,5173,5174,6,0001330749,Employee Stock Option (right to buy)
+D,11/29/2019 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,2178,7610,5,0001330749,Common Stock
+D,11/29/2019 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,2136,9788,4,0001330749,Common Stock
+D,11/29/2019 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,3161,11924,3,0001330749,Common Stock
+A,11/29/2019 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,2302,15085,2,0001330749,Common Stock
+A,11/29/2019 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,5173,12783,1,0001330749,Common Stock
+D,11/29/2019 00:00:00,Hand Fred,4,M-Exempt,--D,4485,4485,7,0001585982,Employee Stock Option (right to buy)
+D,11/29/2019 00:00:00,Hand Fred,4,M-Exempt,--D,14714,14714,6,0001585982,Employee Stock Option (right to buy)
+D,11/29/2019 00:00:00,Hand Fred,4,S-Sale,--D,7241,53888,5,0001585982,Common Stock
+D,11/29/2019 00:00:00,Hand Fred,4,S-Sale,--D,5684,61129,4,0001585982,Common Stock
+D,11/29/2019 00:00:00,Hand Fred,4,S-Sale,--D,8458,66813,3,0001585982,Common Stock
+A,11/29/2019 00:00:00,Hand Fred,4,M-Exempt,--D,4485,75271,2,0001585982,Common Stock
+A,11/29/2019 00:00:00,Hand Fred,4,M-Exempt,--D,14714,70786,1,0001585982,Common Stock
+D,11/29/2019 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,4000,16776,15,0001641994,Employee Stock Option (right to buy)
+D,11/29/2019 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,13016,24000,14,0001641994,Employee Stock Option (right to buy)
+D,11/29/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,5026,38060,8,0001641994,Common Stock
+D,11/29/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,3648,43086,7,0001641994,Common Stock
+D,11/29/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,6342,46734,6,0001641994,Common Stock
+A,11/29/2019 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,4000,53076,5,0001641994,Common Stock
+A,11/29/2019 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,11016,49076,4,0001641994,Common Stock
+D,11/29/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,473,38060,3,0001641994,Common Stock
+D,11/29/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,1527,38533,2,0001641994,Common Stock
+A,11/29/2019 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,2000,40060,1,0001641994,Common Stock
+D,11/11/2019 00:00:00,Vecchio Jennifer,4,F-InKind,--D,6577,38060,1,0001641994,Common Stock
+D,09/26/2019 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,15000,20776,6,0001641994,Employee Stock Option (right to buy)
+D,09/26/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,4137,44637,5,0001641994,Common Stock
+D,09/26/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,4620,48774,4,0001641994,Common Stock
+D,09/26/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,2971,53394,3,0001641994,Common Stock
+D,09/26/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,3272,56365,2,0001641994,Common Stock
+A,09/26/2019 00:00:00,Vecchio Jennifer,4,M-Exempt,--D,15000,59637,1,0001641994,Common Stock
+D,09/20/2019 00:00:00,Kingsbury Thomas,4,G-Gift,-ED,5000,168393,1,0001371136,Common Stock
+A,09/16/2019 00:00:00,O SULLIVAN MICHAEL B,4,A-Award,--D,174235,174235,4,0001262142,Employee Stock Option (right to buy)
+A,09/16/2019 00:00:00,O SULLIVAN MICHAEL B,4,A-Award,--D,18227,18227,3,0001262142,Employee Stock Option (right to buy)
+A,09/16/2019 00:00:00,O SULLIVAN MICHAEL B,4,A-Award,--D,65013,71917,2,0001262142,Common Stock
+A,09/16/2019 00:00:00,O SULLIVAN MICHAEL B,4,A-Award,--D,6904,6904,1,0001262142,Common Stock
+D,09/06/2019 00:00:00,MCNAMARA WILLIAM P,4,S-Sale,--D,828,7821,1,0001184644,Common Stock
+D,09/03/2019 00:00:00,Crimmins John,4,M-Exempt,--D,2349,7047,13,0001585980,Employee Stock Option (right to buy)
+D,09/03/2019 00:00:00,Crimmins John,4,M-Exempt,--D,2973,2974,12,0001585980,Employee Stock Option (right to buy)
+D,09/03/2019 00:00:00,Crimmins John,4,M-Exempt,--D,1795,599,11,0001585980,Employee Stock Option (right to buy)
+D,09/03/2019 00:00:00,Crimmins John,4,M-Exempt,--D,2200,4400,10,0001585980,Employee Stock Option (right to buy)
+D,09/03/2019 00:00:00,Crimmins John,4,S-Sale,--D,716,16576,9,0001585980,Common Stock
+D,09/03/2019 00:00:00,Crimmins John,4,S-Sale,--D,4108,17292,8,0001585980,Common Stock
+D,09/03/2019 00:00:00,Crimmins John,4,S-Sale,--D,2859,21400,7,0001585980,Common Stock
+D,09/03/2019 00:00:00,Crimmins John,4,S-Sale,--D,1486,24259,6,0001585980,Common Stock
+D,09/03/2019 00:00:00,Crimmins John,4,S-Sale,--D,5084,25745,5,0001585980,Common Stock
+A,09/03/2019 00:00:00,Crimmins John,4,M-Exempt,--D,2349,30829,4,0001585980,Common Stock
+A,09/03/2019 00:00:00,Crimmins John,4,M-Exempt,--D,2973,28480,3,0001585980,Common Stock
+A,09/03/2019 00:00:00,Crimmins John,4,M-Exempt,--D,1795,25507,2,0001585980,Common Stock
+A,09/03/2019 00:00:00,Crimmins John,4,M-Exempt,--D,2200,23712,1,0001585980,Common Stock
+D,09/03/2019 00:00:00,Hand Fred,4,M-Exempt,--D,4772,4773,8,0001585982,Employee Stock Option (right to buy)
+D,09/03/2019 00:00:00,Hand Fred,4,M-Exempt,--D,4790,0,7,0001585982,Employee Stock Option (right to buy)
+D,09/03/2019 00:00:00,Hand Fred,4,S-Sale,--D,2695,56072,6,0001585982,Common Stock
+D,09/03/2019 00:00:00,Hand Fred,4,S-Sale,--D,673,58767,5,0001585982,Common Stock
+D,09/03/2019 00:00:00,Hand Fred,4,S-Sale,--D,1339,59440,4,0001585982,Common Stock
+D,09/03/2019 00:00:00,Hand Fred,4,S-Sale,--D,4855,60779,3,0001585982,Common Stock
+A,09/03/2019 00:00:00,Hand Fred,4,M-Exempt,--D,4772,65634,2,0001585982,Common Stock
+A,09/03/2019 00:00:00,Hand Fred,4,M-Exempt,--D,4790,60862,1,0001585982,Common Stock
+A,09/03/2019 00:00:00,MAGRINI JOYCE MANNING,4,A-Award,--D,4547,1516,3,0001330749,Employee Stock Option (right to buy)
+D,09/03/2019 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,4547,7610,2,0001330749,Common Stock
+A,09/03/2019 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,4547,12157,1,0001330749,Common Stock
+D,09/03/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,15183,173393,5,0001371136,Common Stock
+D,09/03/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,11317,188576,4,0001371136,Common Stock
+D,09/03/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,5900,199893,3,0001371136,Common Stock
+D,09/03/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,15000,205793,2,0001371136,Common Stock
+D,09/03/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,2600,220793,1,0001371136,Common Stock
+D,08/12/2019 00:00:00,Hand Fred,4,M-Exempt,--D,6486,0,6,0001585982,Employee Stock Option (right to buy)
+D,08/12/2019 00:00:00,Hand Fred,4,S-Sale,--D,363,56072,5,0001585982,Common Stock
+D,08/12/2019 00:00:00,Hand Fred,4,S-Sale,--D,1592,56435,4,0001585982,Common Stock
+D,08/12/2019 00:00:00,Hand Fred,4,S-Sale,--D,2065,58027,3,0001585982,Common Stock
+D,08/12/2019 00:00:00,Hand Fred,4,S-Sale,--D,2466,60092,2,0001585982,Common Stock
+A,08/12/2019 00:00:00,Hand Fred,4,M-Exempt,--D,6486,62558,1,0001585982,Common Stock
+D,07/11/2019 00:00:00,Hand Fred,4,M-Exempt,--D,6486,6486,5,0001585982,Employee Stock Option (right to buy)
+D,07/11/2019 00:00:00,Hand Fred,4,S-Sale,--D,748,56072,4,0001585982,Common Stock
+D,07/11/2019 00:00:00,Hand Fred,4,S-Sale,--D,3337,56820,3,0001585982,Common Stock
+D,07/11/2019 00:00:00,Hand Fred,4,S-Sale,--D,2401,60157,2,0001585982,Common Stock
+A,07/11/2019 00:00:00,Hand Fred,4,M-Exempt,--D,6486,62558,1,0001585982,Common Stock
+D,07/01/2019 00:00:00,Kingsbury Thomas,4,F-InKind,--D,66090,223393,1,0001371136,Common Stock
+D,06/11/2019 00:00:00,Hand Fred,4,M-Exempt,--D,6486,12972,5,0001585982,Employee Stock Option (right to buy)
+D,06/11/2019 00:00:00,Hand Fred,4,S-Sale,--D,1600,56072,4,0001585982,Common Stock
+D,06/11/2019 00:00:00,Hand Fred,4,S-Sale,--D,2986,57672,3,0001585982,Common Stock
+D,06/11/2019 00:00:00,Hand Fred,4,S-Sale,--D,1900,60658,2,0001585982,Common Stock
+A,06/11/2019 00:00:00,Hand Fred,4,M-Exempt,--D,6486,62558,1,0001585982,Common Stock
+D,06/10/2019 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,200000,5,0001371136,Employee Stock Option (right to buy)
+D,06/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,12189,289483,4,0001371136,Common Stock
+D,06/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,7111,301672,3,0001371136,Common Stock
+D,06/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,700,308783,2,0001371136,Common Stock
+A,06/10/2019 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,309483,1,0001371136,Common Stock
+A,05/23/2019 00:00:00,MCNAMARA WILLIAM P,4,A-Award,--D,964,8649,1,0001184644,Common Stock
+A,05/23/2019 00:00:00,Sullivan Paul,4,A-Award,--D,964,5116,1,0001585969,Common Stock
+A,05/23/2019 00:00:00,Rodriguez Jessica,4,A-Award,--D,964,1552,1,0001655269,Common Stock
+A,05/23/2019 00:00:00,SEN LAURA,4,A-Award,--D,964,1844,1,0001192575,Common Stock
+A,05/23/2019 00:00:00,TOCIO MARY ANN,4,A-Award,--D,964,7445,1,0001193293,Common Stock
+A,05/23/2019 00:00:00,MAHONEY JOHN,4,A-Award,--D,964,11375,1,0001181715,Common Stock
+A,05/23/2019 00:00:00,ENGLISH EDMOND J,4,A-Award,--D,964,4433,1,0001216137,Common Stock
+A,05/23/2019 00:00:00,HITCH JORDAN,4,A-Award,--D,964,6871,1,0001213400,Common Stock
+A,05/14/2019 00:00:00,MAGRINI JOYCE MANNING,4,A-Award,--D,22000,44000,6,0001330749,Employee Stock Option (right to buy)
+D,05/14/2019 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,3827,7610,5,0001330749,Common Stock
+D,05/14/2019 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,10172,11437,4,0001330749,Common Stock
+D,05/14/2019 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,5776,21609,3,0001330749,Common Stock
+D,05/14/2019 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,2225,27385,2,0001330749,Common Stock
+A,05/14/2019 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,22000,29610,1,0001330749,Common Stock
+D,05/13/2019 00:00:00,Vecchio Jennifer,4,F-InKind,--D,706,44637,1,0001641994,Common Stock
+D,05/13/2019 00:00:00,Hand Fred,4,M-Exempt,--D,3942,9545,9,0001585982,Employee Stock Option (right to buy)
+D,05/13/2019 00:00:00,Hand Fred,4,M-Exempt,--D,2542,19458,8,0001585982,Employee Stock Option (right to buy)
+D,05/13/2019 00:00:00,Hand Fred,4,S-Sale,--D,100,56072,7,0001585982,Common Stock
+D,05/13/2019 00:00:00,Hand Fred,4,S-Sale,--D,900,56172,6,0001585982,Common Stock
+D,05/13/2019 00:00:00,Hand Fred,4,S-Sale,--D,1432,57072,5,0001585982,Common Stock
+D,05/13/2019 00:00:00,Hand Fred,4,S-Sale,--D,1552,58504,4,0001585982,Common Stock
+D,05/13/2019 00:00:00,Hand Fred,4,S-Sale,--D,2500,60056,3,0001585982,Common Stock
+A,05/13/2019 00:00:00,Hand Fred,4,M-Exempt,--D,3942,62556,2,0001585982,Common Stock
+A,05/13/2019 00:00:00,Hand Fred,4,M-Exempt,--D,2542,58614,1,0001585982,Common Stock
+D,05/10/2019 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,220000,7,0001371136,Employee Stock Option (right to buy)
+D,05/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,600,289483,6,0001371136,Common Stock
+D,05/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,2300,290083,5,0001371136,Common Stock
+D,05/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,7012,292383,4,0001371136,Common Stock
+D,05/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,3688,299395,3,0001371136,Common Stock
+D,05/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,6400,303083,2,0001371136,Common Stock
+A,05/10/2019 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,309483,1,0001371136,Common Stock
+A,05/01/2019 00:00:00,MAGRINI JOYCE MANNING,4,A-Award,--D,2496,2496,3,0001330749,Employee Stock Option (right to buy)
+A,05/01/2019 00:00:00,MAGRINI JOYCE MANNING,4,A-Award,--D,942,7610,2,0001330749,Common Stock
+D,05/01/2019 00:00:00,MAGRINI JOYCE MANNING,4,F-InKind,--D,182,6668,1,0001330749,Common Stock
+A,05/01/2019 00:00:00,Crimmins John,4,A-Award,--D,2484,2484,3,0001585980,Employee Stock Option (right to buy)
+A,05/01/2019 00:00:00,Crimmins John,4,A-Award,--D,938,21512,2,0001585980,Common Stock
+D,05/01/2019 00:00:00,Crimmins John,4,F-InKind,--D,258,20574,1,0001585980,Common Stock
+A,05/01/2019 00:00:00,Hand Fred,4,A-Award,--D,6738,6738,3,0001585982,Employee Stock Option (right to buy)
+A,05/01/2019 00:00:00,Hand Fred,4,A-Award,--D,2543,56072,2,0001585982,Common Stock
+D,05/01/2019 00:00:00,Hand Fred,4,F-InKind,--D,1077,53529,1,0001585982,Common Stock
+A,05/01/2019 00:00:00,Katz Marc,4,A-Award,--D,6738,6738,3,0001585978,Employee Stock Option (right to buy)
+A,05/01/2019 00:00:00,Katz Marc,4,A-Award,--D,2543,89699,2,0001585978,Common Stock
+D,05/01/2019 00:00:00,Katz Marc,4,F-InKind,--D,1177,87156,1,0001585978,Common Stock
+A,05/01/2019 00:00:00,Kingsbury Thomas,4,A-Award,--D,24534,24534,3,0001371136,Employee Stock Option (right to buy)
+A,05/01/2019 00:00:00,Kingsbury Thomas,4,A-Award,--D,8857,289483,2,0001371136,Common Stock
+D,05/01/2019 00:00:00,Kingsbury Thomas,4,F-InKind,--D,4294,280626,1,0001371136,Common Stock
+A,05/01/2019 00:00:00,Vecchio Jennifer,4,A-Award,--D,10534,10534,5,0001641994,Employee Stock Option (right to buy)
+D,05/01/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,400,45343,4,0001641994,Common Stock
+D,05/01/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,400,45743,3,0001641994,Common Stock
+A,05/01/2019 00:00:00,Vecchio Jennifer,4,A-Award,--D,3975,46143,2,0001641994,Common Stock
+D,05/01/2019 00:00:00,Vecchio Jennifer,4,F-InKind,--D,1004,42168,1,0001641994,Common Stock
+D,04/11/2019 00:00:00,Hand Fred,4,M-Exempt,--D,5603,13487,7,0001585982,Employee Stock Option (right to buy)
+D,04/11/2019 00:00:00,Hand Fred,4,M-Exempt,--D,883,4790,6,0001585982,Employee Stock Option (right to buy)
+D,04/11/2019 00:00:00,Hand Fred,4,S-Sale,--D,100,54606,5,0001585982,Common Stock
+D,04/11/2019 00:00:00,Hand Fred,4,S-Sale,--D,2079,54706,4,0001585982,Common Stock
+D,04/11/2019 00:00:00,Hand Fred,4,S-Sale,--D,4307,56785,3,0001585982,Common Stock
+A,04/11/2019 00:00:00,Hand Fred,4,M-Exempt,--D,5603,61092,2,0001585982,Common Stock
+A,04/11/2019 00:00:00,Hand Fred,4,M-Exempt,--D,883,55489,1,0001585982,Common Stock
+D,04/10/2019 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,240000,4,0001371136,Employee Stock Option (right to buy)
+D,04/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,15088,284920,3,0001371136,Common Stock
+D,04/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,4912,300008,2,0001371136,Common Stock
+A,04/10/2019 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,304920,1,0001371136,Common Stock
+D,04/08/2019 00:00:00,Kingsbury Thomas,4,F-InKind,--D,1538,284920,1,0001371136,Common Stock
+D,04/08/2019 00:00:00,Katz Marc,4,F-InKind,--D,321,88333,1,0001585978,Common Stock
+D,04/08/2019 00:00:00,Hand Fred,4,F-InKind,--D,190,54606,1,0001585982,Common Stock
+D,04/08/2019 00:00:00,MAGRINI JOYCE MANNING,4,F-InKind,--D,58,6850,1,0001330749,Common Stock
+D,04/08/2019 00:00:00,Vecchio Jennifer,4,F-InKind,--D,488,43172,1,0001641994,Common Stock
+D,04/08/2019 00:00:00,Crimmins John,4,F-InKind,--D,69,20832,1,0001585980,Common Stock
+D,04/01/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,100,43660,4,0001641994,Common Stock
+D,04/01/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,100,43760,3,0001641994,Common Stock
+D,04/01/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,200,43860,2,0001641994,Common Stock
+D,04/01/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,400,44060,1,0001641994,Common Stock
+D,03/20/2019 00:00:00,Sullivan Paul,4,S-Sale,--D,4159,4152,1,0001585969,Common Stock
+D,03/18/2019 00:00:00,Hand Fred,4,M-Exempt,--D,6486,5673,3,0001585982,Employee Stock Option (right to buy)
+D,03/18/2019 00:00:00,Hand Fred,4,S-Sale,--D,6486,54796,2,0001585982,Common Stock
+A,03/18/2019 00:00:00,Hand Fred,4,M-Exempt,--D,6486,61282,1,0001585982,Common Stock
+D,03/11/2019 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,260000,6,0001371136,Employee Stock Option (right to buy)
+D,03/11/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,1704,286458,5,0001371136,Common Stock
+D,03/11/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,7015,288162,4,0001371136,Common Stock
+D,03/11/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,5281,295177,3,0001371136,Common Stock
+D,03/11/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,6000,300458,2,0001371136,Common Stock
+A,03/11/2019 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,306458,1,0001371136,Common Stock
+D,03/01/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,450,44460,2,0001641994,Common Stock
+D,03/01/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,350,44910,1,0001641994,Common Stock
+D,02/11/2019 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,280000,5,0001371136,Employee Stock Option (right to buy)
+D,02/11/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,2218,286458,4,0001371136,Common Stock
+D,02/11/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,12125,288676,3,0001371136,Common Stock
+D,02/11/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,5657,300801,2,0001371136,Common Stock
+A,02/11/2019 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,306458,1,0001371136,Common Stock
+D,02/05/2019 00:00:00,Hand Fred,4,S-Sale,--D,400,54796,3,0001585982,Common Stock
+D,02/05/2019 00:00:00,Hand Fred,4,S-Sale,--D,1716,55196,2,0001585982,Common Stock
+D,02/05/2019 00:00:00,Hand Fred,4,S-Sale,--D,1959,56912,1,0001585982,Common Stock
+D,02/04/2019 00:00:00,Katz Marc,4,M-Exempt,--D,3666,22000,8,0001585978,Employee Stock Option (right to buy)
+D,02/04/2019 00:00:00,Katz Marc,4,S-Sale,--D,1000,88654,7,0001585978,Common Stock
+D,02/04/2019 00:00:00,Katz Marc,4,S-Sale,--D,1800,89654,6,0001585978,Common Stock
+D,02/04/2019 00:00:00,Katz Marc,4,S-Sale,--D,1600,91454,5,0001585978,Common Stock
+D,02/04/2019 00:00:00,Katz Marc,4,S-Sale,--D,800,93054,4,0001585978,Common Stock
+D,02/04/2019 00:00:00,Katz Marc,4,S-Sale,--D,1000,93854,3,0001585978,Common Stock
+D,02/04/2019 00:00:00,Katz Marc,4,S-Sale,--D,1300,94854,2,0001585978,Common Stock
+A,02/04/2019 00:00:00,Katz Marc,4,M-Exempt,--D,3666,96154,1,0001585978,Common Stock
+D,02/01/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,500,45260,2,0001641994,Common Stock
+D,02/01/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,300,45760,1,0001641994,Common Stock
+D,02/01/2019 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,100,6908,3,0001330749,Common Stock
+D,02/01/2019 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1500,7008,2,0001330749,Common Stock
+D,02/01/2019 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,900,8508,1,0001330749,Common Stock
+D,01/30/2019 00:00:00,Katz Marc,4,F-InKind,--D,102,92488,1,0001585978,Common Stock
+D,01/30/2019 00:00:00,Hand Fred,4,F-InKind,--D,106,58871,1,0001585982,Common Stock
+D,01/30/2019 00:00:00,Vecchio Jennifer,4,F-InKind,--D,144,46060,1,0001641994,Common Stock
+D,01/23/2019 00:00:00,Kingsbury Thomas,4,F-InKind,--D,11015,286458,1,0001371136,Common Stock
+D,01/10/2019 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,300000,9,0001371136,Employee Stock Option (right to buy)
+D,01/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,100,297473,8,0001371136,Common Stock
+D,01/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,7528,297573,7,0001371136,Common Stock
+D,01/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,5300,305101,6,0001371136,Common Stock
+D,01/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,4172,310401,5,0001371136,Common Stock
+D,01/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,700,314573,4,0001371136,Common Stock
+D,01/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,1400,315273,3,0001371136,Common Stock
+D,01/10/2019 00:00:00,Kingsbury Thomas,4,S-Sale,--D,800,316673,2,0001371136,Common Stock
+A,01/10/2019 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,317473,1,0001371136,Common Stock
+D,01/07/2019 00:00:00,Hand Fred,4,S-Sale,--D,400,58977,6,0001585982,Common Stock
+D,01/07/2019 00:00:00,Hand Fred,4,S-Sale,--D,1900,59377,5,0001585982,Common Stock
+D,01/07/2019 00:00:00,Hand Fred,4,S-Sale,--D,876,61277,4,0001585982,Common Stock
+D,01/07/2019 00:00:00,Hand Fred,4,S-Sale,--D,300,62153,3,0001585982,Common Stock
+D,01/07/2019 00:00:00,Hand Fred,4,S-Sale,--D,400,62453,2,0001585982,Common Stock
+D,01/07/2019 00:00:00,Hand Fred,4,S-Sale,--D,195,62853,1,0001585982,Common Stock
+D,01/03/2019 00:00:00,Katz Marc,4,M-Exempt,--D,3666,25666,8,0001585978,Employee Stock Option (right to buy)
+D,01/03/2019 00:00:00,Katz Marc,4,S-Sale,--D,300,92590,7,0001585978,Common Stock
+D,01/03/2019 00:00:00,Katz Marc,4,S-Sale,--D,2300,92890,6,0001585978,Common Stock
+D,01/03/2019 00:00:00,Katz Marc,4,S-Sale,--D,2372,95190,5,0001585978,Common Stock
+D,01/03/2019 00:00:00,Katz Marc,4,S-Sale,--D,1228,97562,4,0001585978,Common Stock
+D,01/03/2019 00:00:00,Katz Marc,4,S-Sale,--D,1000,98790,3,0001585978,Common Stock
+D,01/03/2019 00:00:00,Katz Marc,4,S-Sale,--D,300,99790,2,0001585978,Common Stock
+A,01/03/2019 00:00:00,Katz Marc,4,M-Exempt,--D,3666,100090,1,0001585978,Common Stock
+D,01/02/2019 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,800,9408,3,0001330749,Common Stock
+D,01/02/2019 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1100,10208,2,0001330749,Common Stock
+D,01/02/2019 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,600,11308,1,0001330749,Common Stock
+D,01/02/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,300,46204,2,0001641994,Common Stock
+D,01/02/2019 00:00:00,Vecchio Jennifer,4,S-Sale,--D,500,46504,1,0001641994,Common Stock
+D,12/10/2018 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,320000,8,0001371136,Employee Stock Option (right to buy)
+D,12/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,1790,297473,7,0001371136,Common Stock
+D,12/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,3150,299263,6,0001371136,Common Stock
+D,12/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,3750,302413,5,0001371136,Common Stock
+D,12/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,3200,306163,4,0001371136,Common Stock
+D,12/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,5910,309363,3,0001371136,Common Stock
+D,12/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,2200,315273,2,0001371136,Common Stock
+A,12/10/2018 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,317473,1,0001371136,Common Stock
+D,12/06/2018 00:00:00,Hand Fred,4,M-Exempt,--D,3287,22000,6,0001585982,Employee Stock Option (right to buy)
+D,12/06/2018 00:00:00,Hand Fred,4,S-Sale,--D,100,63048,5,0001585982,Common Stock
+D,12/06/2018 00:00:00,Hand Fred,4,S-Sale,--D,1301,63148,4,0001585982,Common Stock
+D,12/06/2018 00:00:00,Hand Fred,4,S-Sale,--D,2170,64449,3,0001585982,Common Stock
+D,12/06/2018 00:00:00,Hand Fred,4,S-Sale,--D,500,66619,2,0001585982,Common Stock
+A,12/06/2018 00:00:00,Hand Fred,4,M-Exempt,--D,3287,67119,1,0001585982,Common Stock
+D,12/03/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,100,11908,5,0001330749,Common Stock
+D,12/03/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1000,12008,4,0001330749,Common Stock
+D,12/03/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,500,13008,3,0001330749,Common Stock
+D,12/03/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,700,13508,2,0001330749,Common Stock
+D,12/03/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,200,14208,1,0001330749,Common Stock
+D,12/03/2018 00:00:00,Vecchio Jennifer,4,S-Sale,--D,300,47004,3,0001641994,Common Stock
+D,12/03/2018 00:00:00,Vecchio Jennifer,4,S-Sale,--D,200,47304,2,0001641994,Common Stock
+D,12/03/2018 00:00:00,Vecchio Jennifer,4,S-Sale,--D,300,47504,1,0001641994,Common Stock
+D,12/03/2018 00:00:00,Katz Marc,4,M-Exempt,--D,3667,29332,8,0001585978,Employee Stock Option (right to buy)
+D,12/03/2018 00:00:00,Katz Marc,4,S-Sale,--D,407,96424,7,0001585978,Common Stock
+D,12/03/2018 00:00:00,Katz Marc,4,S-Sale,--D,2904,96831,6,0001585978,Common Stock
+D,12/03/2018 00:00:00,Katz Marc,4,S-Sale,--D,1694,99735,5,0001585978,Common Stock
+D,12/03/2018 00:00:00,Katz Marc,4,S-Sale,--D,1560,101429,4,0001585978,Common Stock
+D,12/03/2018 00:00:00,Katz Marc,4,S-Sale,--D,535,102989,3,0001585978,Common Stock
+D,12/03/2018 00:00:00,Katz Marc,4,S-Sale,--D,400,103524,2,0001585978,Common Stock
+A,12/03/2018 00:00:00,Katz Marc,4,M-Exempt,--D,3667,103924,1,0001585978,Common Stock
+D,12/03/2018 00:00:00,Kingsbury Thomas,4,G-Gift,-ED,5500,297473,1,0001371136,Common Stock
+D,11/12/2018 00:00:00,Vecchio Jennifer,4,F-InKind,--D,6577,47804,1,0001641994,Common Stock
+D,11/12/2018 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,340000,6,0001371136,Employee Stock Option (right to buy)
+D,11/12/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,1000,302973,5,0001371136,Common Stock
+D,11/12/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,6237,303973,4,0001371136,Common Stock
+D,11/12/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,6000,310210,3,0001371136,Common Stock
+D,11/12/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,6763,316210,2,0001371136,Common Stock
+A,11/12/2018 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,322973,1,0001371136,Common Stock
+D,11/05/2018 00:00:00,Hand Fred,4,M-Exempt,--D,4071,25287,7,0001585982,Employee Stock Option (right to buy)
+D,11/05/2018 00:00:00,Hand Fred,4,S-Sale,--D,500,63832,6,0001585982,Common Stock
+D,11/05/2018 00:00:00,Hand Fred,4,S-Sale,--D,1918,64332,5,0001585982,Common Stock
+D,11/05/2018 00:00:00,Hand Fred,4,S-Sale,--D,900,66250,4,0001585982,Common Stock
+D,11/05/2018 00:00:00,Hand Fred,4,S-Sale,--D,400,67150,3,0001585982,Common Stock
+D,11/05/2018 00:00:00,Hand Fred,4,S-Sale,--D,353,67550,2,0001585982,Common Stock
+A,11/05/2018 00:00:00,Hand Fred,4,M-Exempt,--D,4071,67903,1,0001585982,Common Stock
+D,11/05/2018 00:00:00,Katz Marc,4,M-Exempt,--D,3667,32999,7,0001585978,Employee Stock Option (right to buy)
+D,11/05/2018 00:00:00,Katz Marc,4,S-Sale,--D,1000,100257,6,0001585978,Common Stock
+D,11/05/2018 00:00:00,Katz Marc,4,S-Sale,--D,3449,101257,5,0001585978,Common Stock
+D,11/05/2018 00:00:00,Katz Marc,4,S-Sale,--D,1700,104706,4,0001585978,Common Stock
+D,11/05/2018 00:00:00,Katz Marc,4,S-Sale,--D,800,106406,3,0001585978,Common Stock
+D,11/05/2018 00:00:00,Katz Marc,4,S-Sale,--D,551,107206,2,0001585978,Common Stock
+A,11/05/2018 00:00:00,Katz Marc,4,M-Exempt,--D,3667,107757,1,0001585978,Common Stock
+D,11/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,600,14408,6,0001330749,Common Stock
+D,11/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1000,15008,5,0001330749,Common Stock
+D,11/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,300,16008,4,0001330749,Common Stock
+D,11/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,300,16308,3,0001330749,Common Stock
+D,11/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,200,16608,2,0001330749,Common Stock
+D,11/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,100,16808,1,0001330749,Common Stock
+D,10/10/2018 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,360000,6,0001371136,Employee Stock Option (right to buy)
+D,10/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,100,302973,5,0001371136,Common Stock
+D,10/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,4023,303073,4,0001371136,Common Stock
+D,10/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,14877,307096,3,0001371136,Common Stock
+D,10/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,1000,321973,2,0001371136,Common Stock
+A,10/10/2018 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,322973,1,0001371136,Common Stock
+D,10/05/2018 00:00:00,Hand Fred,4,M-Exempt,--D,4071,29358,5,0001585982,Employee Stock Option (right to buy)
+D,10/05/2018 00:00:00,Hand Fred,4,S-Sale,--D,500,63832,4,0001585982,Common Stock
+D,10/05/2018 00:00:00,Hand Fred,4,S-Sale,--D,1471,64332,3,0001585982,Common Stock
+D,10/05/2018 00:00:00,Hand Fred,4,S-Sale,--D,2100,65803,2,0001585982,Common Stock
+A,10/05/2018 00:00:00,Hand Fred,4,M-Exempt,--D,4071,67903,1,0001585982,Common Stock
+D,10/03/2018 00:00:00,Katz Marc,4,M-Exempt,--D,3667,36666,4,0001585978,Employee Stock Option (right to buy)
+D,10/03/2018 00:00:00,Katz Marc,4,S-Sale,--D,6100,104090,3,0001585978,Common Stock
+D,10/03/2018 00:00:00,Katz Marc,4,S-Sale,--D,1400,110190,2,0001585978,Common Stock
+A,10/03/2018 00:00:00,Katz Marc,4,M-Exempt,--D,3667,111590,1,0001585978,Common Stock
+D,10/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,100,16908,4,0001330749,Common Stock
+D,10/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,280,17008,3,0001330749,Common Stock
+D,10/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,300,17288,2,0001330749,Common Stock
+D,10/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1820,17588,1,0001330749,Common Stock
+A,10/01/2018 00:00:00,Rodriguez Jessica,4,A-Award,--D,588,588,1,0001655269,Common Stock
+D,09/28/2018 00:00:00,Hand Fred,4,G-Gift,-ED,300,63832,1,0001585982,Common Stock
+D,09/10/2018 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,380000,5,0001371136,Employee Stock Option (right to buy)
+D,09/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,800,302973,4,0001371136,Common Stock
+D,09/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,7933,303773,3,0001371136,Common Stock
+D,09/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,11267,311706,2,0001371136,Common Stock
+A,09/10/2018 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,322973,1,0001371136,Common Stock
+D,09/04/2018 00:00:00,Crimmins John,4,M-Exempt,--D,2200,6600,3,0001585980,Employee Stock Option (right to buy)
+D,09/04/2018 00:00:00,Crimmins John,4,S-Sale,--D,2200,20901,2,0001585980,Common Stock
+A,09/04/2018 00:00:00,Crimmins John,4,M-Exempt,--D,2200,23101,1,0001585980,Common Stock
+D,09/04/2018 00:00:00,Katz Marc,4,M-Exempt,--D,3667,40333,8,0001585978,Employee Stock Option (right to buy)
+D,09/04/2018 00:00:00,Katz Marc,4,S-Sale,--D,2600,107923,7,0001585978,Common Stock
+D,09/04/2018 00:00:00,Katz Marc,4,S-Sale,--D,2900,110523,6,0001585978,Common Stock
+D,09/04/2018 00:00:00,Katz Marc,4,S-Sale,--D,400,113423,5,0001585978,Common Stock
+D,09/04/2018 00:00:00,Katz Marc,4,S-Sale,--D,800,113823,4,0001585978,Common Stock
+D,09/04/2018 00:00:00,Katz Marc,4,S-Sale,--D,600,114623,3,0001585978,Common Stock
+D,09/04/2018 00:00:00,Katz Marc,4,S-Sale,--D,200,115223,2,0001585978,Common Stock
+A,09/04/2018 00:00:00,Katz Marc,4,M-Exempt,--D,3667,115423,1,0001585978,Common Stock
+D,09/04/2018 00:00:00,Hand Fred,4,M-Exempt,--D,4071,33429,8,0001585982,Employee Stock Option (right to buy)
+D,09/04/2018 00:00:00,Hand Fred,4,S-Sale,--D,1471,64132,7,0001585982,Common Stock
+D,09/04/2018 00:00:00,Hand Fred,4,S-Sale,--D,1500,65603,6,0001585982,Common Stock
+D,09/04/2018 00:00:00,Hand Fred,4,S-Sale,--D,200,67103,5,0001585982,Common Stock
+D,09/04/2018 00:00:00,Hand Fred,4,S-Sale,--D,400,67303,4,0001585982,Common Stock
+D,09/04/2018 00:00:00,Hand Fred,4,S-Sale,--D,300,67703,3,0001585982,Common Stock
+D,09/04/2018 00:00:00,Hand Fred,4,S-Sale,--D,200,68003,2,0001585982,Common Stock
+A,09/04/2018 00:00:00,Hand Fred,4,M-Exempt,--D,4071,68203,1,0001585982,Common Stock
+D,09/04/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,900,19408,5,0001330749,Common Stock
+D,09/04/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,900,20308,4,0001330749,Common Stock
+D,09/04/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,200,21208,3,0001330749,Common Stock
+D,09/04/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,300,21408,2,0001330749,Common Stock
+D,09/04/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,200,21708,1,0001330749,Common Stock
+D,08/10/2018 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,400000,5,0001371136,Employee Stock Option (right to buy)
+D,08/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,6168,302973,4,0001371136,Common Stock
+D,08/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,10449,309141,3,0001371136,Common Stock
+D,08/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,3383,319590,2,0001371136,Common Stock
+A,08/10/2018 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,322973,1,0001371136,Common Stock
+D,08/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,500,21908,3,0001330749,Common Stock
+D,08/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,700,22408,2,0001330749,Common Stock
+D,08/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1300,23108,1,0001330749,Common Stock
+D,07/10/2018 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,420000,4,0001371136,Employee Stock Option (right to buy)
+D,07/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,7306,302973,3,0001371136,Common Stock
+D,07/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,12694,310279,2,0001371136,Common Stock
+A,07/10/2018 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,20000,322973,1,0001371136,Common Stock
+D,07/02/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,100,24408,4,0001330749,Common Stock
+D,07/02/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1200,24508,3,0001330749,Common Stock
+D,07/02/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,500,25708,2,0001330749,Common Stock
+D,07/02/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,700,26208,1,0001330749,Common Stock
+A,06/29/2018 00:00:00,SEN LAURA,4,A-Award,--D,880,880,1,0001192575,Common Stock
+D,06/11/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,757,302973,2,0001371136,Common Stock
+D,06/11/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,19243,303730,1,0001371136,Common Stock
+D,06/04/2018 00:00:00,Crimmins John,4,M-Exempt,--D,2200,8800,5,0001585980,Employee Stock Option (right to buy)
+D,06/04/2018 00:00:00,Crimmins John,4,M-Exempt,--D,5500,0,4,0001585980,Employee Stock Option (right to buy)
+D,06/04/2018 00:00:00,Crimmins John,4,S-Sale,--D,7700,20901,3,0001585980,Common Stock
+A,06/04/2018 00:00:00,Crimmins John,4,M-Exempt,--D,2200,28601,2,0001585980,Common Stock
+A,06/04/2018 00:00:00,Crimmins John,4,M-Exempt,--D,5500,26401,1,0001585980,Common Stock
+D,06/04/2018 00:00:00,Hand Fred,4,M-Exempt,--D,6500,37500,3,0001585982,Employee Stock Option (right to buy)
+D,06/04/2018 00:00:00,Hand Fred,4,S-Sale,--D,6500,64132,2,0001585982,Common Stock
+A,06/04/2018 00:00:00,Hand Fred,4,M-Exempt,--D,6500,70632,1,0001585982,Common Stock
+D,06/04/2018 00:00:00,Katz Marc,4,M-Exempt,--D,6772,11546,5,0001585978,Employee Stock Option (right to buy)
+D,06/04/2018 00:00:00,Katz Marc,4,M-Exempt,--D,4790,4790,4,0001585978,Employee Stock Option (right to buy)
+D,06/04/2018 00:00:00,Katz Marc,4,S-Sale,--D,11562,111756,3,0001585978,Common Stock
+A,06/04/2018 00:00:00,Katz Marc,4,M-Exempt,--D,6772,123318,2,0001585978,Common Stock
+A,06/04/2018 00:00:00,Katz Marc,4,M-Exempt,--D,4790,116546,1,0001585978,Common Stock
+D,06/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,900,26908,4,0001330749,Common Stock
+D,06/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1100,27808,3,0001330749,Common Stock
+D,06/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,200,28908,2,0001330749,Common Stock
+D,06/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,300,29108,1,0001330749,Common Stock
+A,05/17/2018 00:00:00,ENGLISH EDMOND J,4,A-Award,--D,1069,3469,1,0001216137,Common Stock
+A,05/17/2018 00:00:00,HITCH JORDAN,4,A-Award,--D,1069,5907,1,0001213400,Common Stock
+A,05/17/2018 00:00:00,MAHONEY JOHN,4,A-Award,--D,1069,10411,1,0001181715,Common Stock
+A,05/17/2018 00:00:00,MCNAMARA WILLIAM P,4,A-Award,--D,1069,7685,1,0001184644,Common Stock
+A,05/17/2018 00:00:00,Patrick Tricia,4,A-Award,--D,1069,5907,1,0001585849,Common Stock
+A,05/17/2018 00:00:00,Sullivan Paul,4,A-Award,--D,1069,8311,1,0001585969,Common Stock
+A,05/17/2018 00:00:00,TOCIO MARY ANN,4,A-Award,--D,1069,6481,1,0001193293,Common Stock
+A,05/14/2018 00:00:00,MAGRINI JOYCE MANNING,4,A-Award,--D,22000,66000,5,0001330749,Employee Stock Option (right to buy)
+D,05/14/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,6230,29408,4,0001330749,Common Stock
+D,05/14/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,15170,35638,3,0001330749,Common Stock
+D,05/14/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,600,50808,2,0001330749,Common Stock
+A,05/14/2018 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,22000,51408,1,0001330749,Common Stock
+D,05/11/2018 00:00:00,Vecchio Jennifer,4,F-InKind,--D,706,54381,1,0001641994,Common Stock
+D,05/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,200,322973,3,0001371136,Common Stock
+D,05/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,12411,323173,2,0001371136,Common Stock
+D,05/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,7389,335584,1,0001371136,Common Stock
+A,05/01/2018 00:00:00,Hand Fred,4,A-Award,--D,24870,24870,3,0001585982,Employee Stock Option (right to buy)
+A,05/01/2018 00:00:00,Hand Fred,4,A-Award,--D,3117,64132,2,0001585982,Common Stock
+D,05/01/2018 00:00:00,Hand Fred,4,F-InKind,--D,4988,61015,1,0001585982,Common Stock
+A,05/01/2018 00:00:00,Crimmins John,4,A-Award,--D,9396,9396,3,0001585980,Employee Stock Option (right to buy)
+A,05/01/2018 00:00:00,Crimmins John,4,A-Award,--D,1178,20901,2,0001585980,Common Stock
+D,05/01/2018 00:00:00,Crimmins John,4,F-InKind,--D,274,19723,1,0001585980,Common Stock
+A,05/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,A-Award,--D,9211,9211,5,0001330749,Employee Stock Option (right to buy)
+A,05/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,A-Award,--D,1155,29408,4,0001330749,Common Stock
+D,05/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,F-InKind,--D,103,28253,3,0001330749,Common Stock
+D,05/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,800,28356,2,0001330749,Common Stock
+D,05/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1700,29156,1,0001330749,Common Stock
+A,05/01/2018 00:00:00,Katz Marc,4,A-Award,--D,24870,24870,3,0001585978,Employee Stock Option (right to buy)
+A,05/01/2018 00:00:00,Katz Marc,4,A-Award,--D,3117,111756,2,0001585978,Common Stock
+D,05/01/2018 00:00:00,Katz Marc,4,F-InKind,--D,816,108639,1,0001585978,Common Stock
+A,05/01/2018 00:00:00,Vecchio Jennifer,4,A-Award,--D,25699,25699,3,0001641994,Employee Stock Option (right to buy)
+A,05/01/2018 00:00:00,Vecchio Jennifer,4,A-Award,--D,3221,55087,2,0001641994,Common Stock
+D,05/01/2018 00:00:00,Vecchio Jennifer,4,F-InKind,--D,579,51866,1,0001641994,Common Stock
+A,05/01/2018 00:00:00,Kingsbury Thomas,4,A-Award,--D,89131,89131,3,0001371136,Employee Stock Option (right to buy)
+A,05/01/2018 00:00:00,Kingsbury Thomas,4,A-Award,--D,10804,342973,2,0001371136,Common Stock
+D,05/01/2018 00:00:00,Kingsbury Thomas,4,F-InKind,--D,3104,332169,1,0001371136,Common Stock
+D,04/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,300,335273,3,0001371136,Common Stock
+D,04/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,19700,335573,2,0001371136,Common Stock
+D,04/09/2018 00:00:00,Crimmins John,4,F-InKind,--D,71,19997,1,0001585980,Common Stock
+D,04/09/2018 00:00:00,Hand Fred,4,F-InKind,--D,190,66003,1,0001585982,Common Stock
+D,04/09/2018 00:00:00,Katz Marc,4,F-InKind,--D,217,109455,1,0001585978,Common Stock
+D,04/09/2018 00:00:00,MAGRINI JOYCE MANNING,4,F-InKind,--D,58,30856,1,0001330749,Common Stock
+D,04/09/2018 00:00:00,Vecchio Jennifer,4,F-InKind,--D,488,52445,1,0001641994,Common Stock
+D,04/09/2018 00:00:00,Kingsbury Thomas,4,F-InKind,--D,1015,355273,1,0001371136,Common Stock
+D,04/02/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,700,30914,3,0001330749,Common Stock
+D,04/02/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1240,31614,2,0001330749,Common Stock
+D,04/02/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,560,32854,1,0001330749,Common Stock
+D,03/14/2018 00:00:00,Sullivan Paul,4,M-Exempt,--D,5870,0,5,0001585969,Employee Stock Option (right to buy)
+D,03/14/2018 00:00:00,Sullivan Paul,4,M-Exempt,--D,2931,0,4,0001585969,Employee Stock Option (right to buy)
+D,03/14/2018 00:00:00,Sullivan Paul,4,S-Sale,--D,5000,7242,3,0001585969,Common Stock
+A,03/14/2018 00:00:00,Sullivan Paul,4,M-Exempt,--D,2931,12242,2,0001585969,Common Stock
+A,03/14/2018 00:00:00,Sullivan Paul,4,M-Exempt,--D,5870,9311,1,0001585969,Common Stock
+D,03/13/2018 00:00:00,Hand Fred,4,M-Exempt,--D,7000,12159,3,0001585982,Employee Stock Option (right to buy)
+D,03/13/2018 00:00:00,Hand Fred,4,S-Sale,--D,7000,66193,2,0001585982,Common Stock
+A,03/13/2018 00:00:00,Hand Fred,4,M-Exempt,--D,7000,73193,1,0001585982,Common Stock
+D,03/12/2018 00:00:00,Katz Marc,4,M-Exempt,--D,772,18318,7,0001585978,Employee Stock Option (right to buy)
+D,03/12/2018 00:00:00,Katz Marc,4,M-Exempt,--D,9579,9580,6,0001585978,Employee Stock Option (right to buy)
+D,03/12/2018 00:00:00,Katz Marc,4,S-Sale,--D,1372,109672,5,0001585978,Common Stock
+D,03/12/2018 00:00:00,Katz Marc,4,S-Sale,--D,5967,111044,4,0001585978,Common Stock
+D,03/12/2018 00:00:00,Katz Marc,4,S-Sale,--D,3012,117011,3,0001585978,Common Stock
+A,03/12/2018 00:00:00,Katz Marc,4,M-Exempt,--D,772,120023,2,0001585978,Common Stock
+A,03/12/2018 00:00:00,Katz Marc,4,M-Exempt,--D,9579,119251,1,0001585978,Common Stock
+D,03/12/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,200,33414,3,0001330749,Common Stock
+D,03/12/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,992,33614,2,0001330749,Common Stock
+D,03/12/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1308,34606,1,0001330749,Common Stock
+D,03/12/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,600,356288,5,0001371136,Common Stock
+D,03/12/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,1000,356888,4,0001371136,Common Stock
+D,03/12/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,1400,357888,3,0001371136,Common Stock
+D,03/12/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,9603,359288,2,0001371136,Common Stock
+D,03/12/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,7397,368891,1,0001371136,Common Stock
+D,02/12/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,7990,376288,4,0001371136,Common Stock
+D,02/12/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,6610,384278,3,0001371136,Common Stock
+D,02/12/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,5200,390888,2,0001371136,Common Stock
+D,02/12/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,200,396088,1,0001371136,Common Stock
+D,02/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,800,35914,3,0001330749,Common Stock
+D,02/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1500,36714,2,0001330749,Common Stock
+D,02/01/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,100,38214,1,0001330749,Common Stock
+D,01/30/2018 00:00:00,Vecchio Jennifer,4,F-InKind,--D,154,52933,1,0001641994,Common Stock
+D,01/30/2018 00:00:00,Katz Marc,4,F-InKind,--D,112,109672,1,0001585978,Common Stock
+D,01/30/2018 00:00:00,Hand Fred,4,F-InKind,--D,116,66193,1,0001585982,Common Stock
+D,01/23/2018 00:00:00,Kingsbury Thomas,4,F-InKind,--D,10520,396288,1,0001371136,Common Stock
+D,01/12/2018 00:00:00,Crimmins John,4,F-InKind,--D,1892,20068,1,0001585980,Common Stock
+D,01/12/2018 00:00:00,Katz Marc,4,F-InKind,--D,3771,109784,1,0001585978,Common Stock
+D,01/10/2018 00:00:00,Kingsbury Thomas,4,S-Sale,--D,20000,406808,1,0001371136,Common Stock
+D,01/02/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,200,38314,3,0001330749,Common Stock
+D,01/02/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,400,38514,2,0001330749,Common Stock
+D,01/02/2018 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1800,38914,1,0001330749,Common Stock
+D,12/11/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,2200,426808,3,0001371136,Common Stock
+D,12/11/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,8600,429008,2,0001371136,Common Stock
+D,12/11/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,9200,437608,1,0001371136,Common Stock
+D,12/07/2017 00:00:00,MAGRINI JOYCE MANNING,4,G-Gift,--D,2000,40714,1,0001330749,Common Stock
+D,12/01/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,600,42714,4,0001330749,Common Stock
+D,12/01/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1289,43314,3,0001330749,Common Stock
+D,12/01/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,411,44603,2,0001330749,Common Stock
+D,12/01/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,100,45014,1,0001330749,Common Stock
+D,11/27/2017 00:00:00,Kingsbury Thomas,4,G-Gift,--D,8500,446808,1,0001371136,Common Stock
+D,11/27/2017 00:00:00,Hand Fred,4,M-Exempt,--D,499,44000,8,0001585982,Employee Stock Option (right to buy)
+D,11/27/2017 00:00:00,Hand Fred,4,S-Sale,--D,2000,66309,6,0001585982,Common Stock
+D,11/27/2017 00:00:00,Hand Fred,4,S-Sale,--D,499,68309,5,0001585982,Common Stock
+A,11/27/2017 00:00:00,Hand Fred,4,M-Exempt,--D,499,68808,4,0001585982,Common Stock
+D,11/24/2017 00:00:00,Hand Fred,4,M-Exempt,--D,3501,44499,7,0001585982,Employee Stock Option (right to buy)
+D,11/24/2017 00:00:00,Hand Fred,4,S-Sale,--D,1500,68309,3,0001585982,Common Stock
+D,11/24/2017 00:00:00,Hand Fred,4,S-Sale,--D,2001,69809,2,0001585982,Common Stock
+A,11/24/2017 00:00:00,Hand Fred,4,M-Exempt,--D,3501,71810,1,0001585982,Common Stock
+D,11/24/2017 00:00:00,Katz Marc,4,M-Exempt,--D,11000,44000,4,0001585978,Employee Stock Option (right to buy)
+D,11/24/2017 00:00:00,Katz Marc,4,S-Sale,--D,6242,113555,3,0001585978,Common Stock
+D,11/24/2017 00:00:00,Katz Marc,4,S-Sale,--D,4758,119797,2,0001585978,Common Stock
+A,11/24/2017 00:00:00,Katz Marc,4,M-Exempt,--D,11000,124555,1,0001585978,Common Stock
+D,11/13/2017 00:00:00,Vecchio Jennifer,4,F-InKind,--D,6492,53087,1,0001641994,Common Stock
+D,11/10/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,100,455308,3,0001371136,Common Stock
+D,11/10/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,3700,455408,2,0001371136,Common Stock
+D,11/10/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,16200,459108,1,0001371136,Common Stock
+D,11/01/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,899,45114,2,0001330749,Common Stock
+D,11/01/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1501,46013,1,0001330749,Common Stock
+D,10/10/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,500,475308,2,0001371136,Common Stock
+D,10/10/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,19500,475808,1,0001371136,Common Stock
+D,10/02/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,2400,47514,1,0001330749,Common Stock
+D,09/11/2017 00:00:00,Hand Fred,4,M-Exempt,--D,8000,48000,3,0001585982,Employee Stock Option (right to buy)
+D,09/11/2017 00:00:00,Hand Fred,4,S-Sale,--D,8000,68309,2,0001585982,Common Stock
+A,09/11/2017 00:00:00,Hand Fred,4,M-Exempt,--D,8000,76309,1,0001585982,Common Stock
+D,09/11/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,20000,495308,1,0001371136,Common Stock
+D,09/07/2017 00:00:00,Sullivan Paul,4,S-Sale,--D,1722,3441,1,0001585969,Common Stock
+D,09/01/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,2400,49914,1,0001330749,Common Stock
+D,08/28/2017 00:00:00,Katz Marc,4,M-Exempt,--D,11000,55000,3,0001585978,Employee Stock Option (right to buy)
+D,08/28/2017 00:00:00,Katz Marc,4,S-Sale,--D,11000,113555,2,0001585978,Common Stock
+A,08/28/2017 00:00:00,Katz Marc,4,M-Exempt,--D,11000,124555,1,0001585978,Common Stock
+D,08/10/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,2700,515308,2,0001371136,Common Stock
+D,08/10/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,17300,518008,1,0001371136,Common Stock
+D,08/01/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1635,52314,2,0001330749,Common Stock
+D,08/01/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1700,53949,1,0001330749,Common Stock
+D,07/20/2017 00:00:00,Dhillon Janet,4,F-InKind,--D,213,6171,1,0001374487,Common Stock
+D,07/10/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,1000,535308,3,0001371136,Common Stock
+D,07/10/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,2000,536308,2,0001371136,Common Stock
+D,07/10/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,17000,538308,1,0001371136,Common Stock
+D,07/03/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1233,55649,2,0001330749,Common Stock
+D,07/03/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,2100,56882,1,0001330749,Common Stock
+D,06/06/2017 00:00:00,Hand Fred,4,S-Sale,--D,2500,68309,3,0001585982,Common Stock
+D,06/05/2017 00:00:00,Hand Fred,4,M-Exempt,--D,10000,56000,4,0001585982,Employee Stock Option (right to buy)
+D,06/05/2017 00:00:00,Hand Fred,4,S-Sale,--D,10000,70809,2,0001585982,Common Stock
+A,06/05/2017 00:00:00,Hand Fred,4,M-Exempt,--D,10000,80809,1,0001585982,Common Stock
+D,06/01/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,2933,58982,2,0001330749,Common Stock
+D,06/01/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,400,61915,1,0001330749,Common Stock
+D,06/01/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,17400,555308,2,0001371136,Common Stock
+D,06/01/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,2600,572708,1,0001371136,Common Stock
+D,05/31/2017 00:00:00,Crimmins John,4,M-Exempt,--D,22000,5500,4,0001585980,Employee Stock Option (right to buy)
+D,05/31/2017 00:00:00,Crimmins John,4,S-Sale,--D,18900,21960,3,0001585980,Common Stock
+D,05/31/2017 00:00:00,Crimmins John,4,S-Sale,--D,3100,40860,2,0001585980,Common Stock
+A,05/31/2017 00:00:00,Crimmins John,4,M-Exempt,--D,22000,43960,1,0001585980,Common Stock
+D,05/30/2017 00:00:00,Katz Marc,4,M-Exempt,--D,4000,66000,4,0001585978,Employee Stock Option (right to buy)
+D,05/30/2017 00:00:00,Katz Marc,4,S-Sale,--D,6000,113555,3,0001585978,Common Stock
+D,05/30/2017 00:00:00,Katz Marc,4,S-Sale,--D,4000,119555,2,0001585978,Common Stock
+A,05/30/2017 00:00:00,Katz Marc,4,M-Exempt,--D,4000,123555,1,0001585978,Common Stock
+A,05/18/2017 00:00:00,Patrick Tricia,4,A-Award,--D,1074,4838,1,0001585849,Common Stock
+A,05/18/2017 00:00:00,HITCH JORDAN,4,A-Award,--D,1074,4838,1,0001213400,Common Stock
+A,05/18/2017 00:00:00,TOCIO MARY ANN,4,A-Award,--D,1074,5412,1,0001193293,Common Stock
+A,05/18/2017 00:00:00,MCNAMARA WILLIAM P,4,A-Award,--D,1074,6616,1,0001184644,Common Stock
+A,05/18/2017 00:00:00,MAHONEY JOHN,4,A-Award,--D,1074,9342,1,0001181715,Common Stock
+A,05/18/2017 00:00:00,Sullivan Paul,4,A-Award,--D,1074,5163,1,0001585969,Common Stock
+A,05/18/2017 00:00:00,ENGLISH EDMOND J,4,A-Award,--D,1074,2400,1,0001216137,Common Stock
+D,05/15/2017 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,22000,88000,5,0001330749,Employee Stock Option (right to buy)
+D,05/15/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,3500,62315,4,0001330749,Common Stock
+D,05/15/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,10127,65815,3,0001330749,Common Stock
+D,05/15/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,8373,75942,2,0001330749,Common Stock
+A,05/15/2017 00:00:00,MAGRINI JOYCE MANNING,4,M-Exempt,--D,22000,84315,1,0001330749,Common Stock
+D,05/11/2017 00:00:00,Vecchio Jennifer,4,F-InKind,--D,545,59579,1,0001641994,Common Stock
+A,05/01/2017 00:00:00,Dhillon Janet,4,A-Award,--D,11447,11447,2,0001374487,Employee Stock Option (right to buy)
+A,05/01/2017 00:00:00,Dhillon Janet,4,A-Award,--D,1659,6384,1,0001374487,Common Stock
+A,05/01/2017 00:00:00,Hand Fred,4,A-Award,--D,29428,29428,3,0001585982,Employee Stock Option (right to buy)
+A,05/01/2017 00:00:00,Hand Fred,4,A-Award,--D,4265,70809,2,0001585982,Common Stock
+D,05/01/2017 00:00:00,Hand Fred,4,F-InKind,--D,211,66544,1,0001585982,Common Stock
+A,05/01/2017 00:00:00,Crimmins John,4,A-Award,--D,5947,5947,3,0001585980,Employee Stock Option (right to buy)
+A,05/01/2017 00:00:00,Crimmins John,4,A-Award,--D,5000,21960,2,0001585980,Common Stock
+A,05/01/2017 00:00:00,Crimmins John,4,A-Award,--D,2586,16960,1,0001585980,Common Stock
+A,05/01/2017 00:00:00,MAGRINI JOYCE MANNING,4,A-Award,--D,10347,10347,4,0001330749,Employee Stock Option (right to buy)
+A,05/01/2017 00:00:00,MAGRINI JOYCE MANNING,4,A-Award,--D,1500,62315,3,0001330749,Common Stock
+D,05/01/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1502,60815,2,0001330749,Common Stock
+D,05/01/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,1831,62317,1,0001330749,Common Stock
+A,05/01/2017 00:00:00,Katz Marc,4,A-Award,--D,29428,29428,3,0001585978,Employee Stock Option (right to buy)
+A,05/01/2017 00:00:00,Katz Marc,4,A-Award,--D,4265,119555,2,0001585978,Common Stock
+D,05/01/2017 00:00:00,Katz Marc,4,F-InKind,--D,238,115290,1,0001585978,Common Stock
+A,05/01/2017 00:00:00,Vecchio Jennifer,4,A-Award,--D,30409,30409,2,0001641994,Employee Stock Option (right to buy)
+A,05/01/2017 00:00:00,Vecchio Jennifer,4,A-Award,--D,4407,60124,1,0001641994,Common Stock
+A,05/01/2017 00:00:00,Kingsbury Thomas,4,A-Award,--D,102015,102015,5,0001371136,Employee Stock Option (right to buy)
+A,05/01/2017 00:00:00,Kingsbury Thomas,4,A-Award,--D,14785,575308,4,0001371136,Common Stock
+D,05/01/2017 00:00:00,Kingsbury Thomas,4,F-InKind,--D,1564,560523,3,0001371136,Common Stock
+D,05/01/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,4000,562087,2,0001371136,Common Stock
+D,05/01/2017 00:00:00,Kingsbury Thomas,4,S-Sale,--D,16000,566087,1,0001371136,Common Stock
+D,04/10/2017 00:00:00,MAGRINI JOYCE MANNING,4,F-InKind,--D,65,64148,1,0001330749,Common Stock
+D,04/10/2017 00:00:00,Kingsbury Thomas,4,F-InKind,--D,1119,582087,1,0001371136,Common Stock
+D,04/10/2017 00:00:00,Katz Marc,4,F-InKind,--D,237,115528,1,0001585978,Common Stock
+D,04/10/2017 00:00:00,Hand Fred,4,F-InKind,--D,210,66755,1,0001585982,Common Stock
+D,04/10/2017 00:00:00,Dhillon Janet,4,F-InKind,--D,170,4725,1,0001374487,Common Stock
+D,04/10/2017 00:00:00,Crimmins John,4,F-InKind,--D,79,14374,1,0001585980,Common Stock
+D,04/10/2017 00:00:00,Vecchio Jennifer,4,F-InKind,--D,526,55717,1,0001641994,Common Stock
+D,04/03/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,300,64213,3,0001330749,Common Stock
+D,04/03/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,700,64513,2,0001330749,Common Stock
+D,04/03/2017 00:00:00,MAGRINI JOYCE MANNING,4,S-Sale,--D,2333,65213,1,0001330749,Common Stock

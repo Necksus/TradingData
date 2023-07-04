@@ -1,0 +1,500 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,05/11/2023 00:00:00,Valentine John A.,4,G-Gift,-EI,913709,913709,5,0001787661,"LLC Units in Baldwin Risk Partners, LLC"
+D,05/11/2023 00:00:00,Valentine John A.,4,G-Gift,-ED,913709,0,4,0001787661,"LLC Units in Baldwin Risk Partners, LLC"
+A,05/11/2023 00:00:00,Valentine John A.,4,G-Gift,-EI,913709,913709,2,0001787661,Class B Common Stock
+D,05/11/2023 00:00:00,Valentine John A.,4,G-Gift,-ED,913709,0,1,0001787661,Class B Common Stock
+D,05/11/2023 00:00:00,Cohen Seth Bala,4,S-Sale,--D,2000,21982,1,0001908559,Class A Common Stock
+A,04/01/2023 00:00:00,Matas Barbara Ruth,4,A-Award,--D,737,9346,1,0001671249,Class A Common Stock
+A,04/01/2023 00:00:00,SULLIVAN CHRIS THOMAS,4,A-Award,--D,737,91030,1,0000901870,Class A Common Stock
+A,04/01/2023 00:00:00,Parasuraman Sunita,4,A-Award,--D,737,4191,1,0001901482,Class A Common Stock
+A,04/01/2023 00:00:00,CASEY PHILLIP E,4,A-Award,--D,737,11030,1,0001104173,Class A Common Stock
+A,04/01/2023 00:00:00,Shook Ellyn,4,A-Award,--D,737,4191,1,0001600370,Class A Common Stock
+A,04/01/2023 00:00:00,Williams Myron K,4,A-Award,--D,737,4191,1,0001901459,Class A Common Stock
+A,04/01/2023 00:00:00,KADOW JOSEPH JOHN,4,A-Award,--D,737,9346,1,0001019438,Class A Common Stock
+A,04/01/2023 00:00:00,Cohen Jay A,4,A-Award,--D,737,8369,1,0001866862,Class A Common Stock
+D,04/01/2023 00:00:00,Galbraith Daniel,4,F-InKind,--D,11268,69037,2,0001787629,Class A Common Stock
+A,04/01/2023 00:00:00,Galbraith Daniel,4,A-Award,--D,32629,80305,1,0001787629,Class A Common Stock
+D,04/01/2023 00:00:00,Cohen Seth Bala,4,J-Other,--D,60,23982,4,0001908559,Class A Common Stock
+A,04/01/2023 00:00:00,Cohen Seth Bala,4,A-Award,--D,3799,24042,3,0001908559,Class A Common Stock
+D,04/01/2023 00:00:00,Cohen Seth Bala,4,F-InKind,--D,3789,20243,2,0001908559,Class A Common Stock
+A,04/01/2023 00:00:00,Cohen Seth Bala,4,A-Award,--D,14959,24032,1,0001908559,Class A Common Stock
+D,04/01/2023 00:00:00,Baldwin Trevor,4,F-InKind,--D,25047,150839,2,0001787711,Class A Common Stock
+D,04/01/2023 00:00:00,Baldwin Trevor,4,A-Award,--D,76938,175886,1,0001787711,Class A Common Stock
+D,04/01/2023 00:00:00,Hale Bradford,4,F-InKind,--D,10750,84320,2,0001787574,Class A Common Stock
+A,04/01/2023 00:00:00,Hale Bradford,4,A-Award,--D,31106,95070,1,0001787574,Class A Common Stock
+D,04/01/2023 00:00:00,Valentine John A.,4,F-InKind,--D,10398,88222,2,0001787661,Class A Common Stock
+A,04/01/2023 00:00:00,Valentine John A.,4,A-Award,--D,33157,98620,1,0001787661,Class A Common Stock
+D,04/01/2023 00:00:00,Galloway Corbyn N.,4,F-InKind,--D,608,34232,4,0001849136,Class A Common Stock
+A,04/01/2023 00:00:00,Galloway Corbyn N.,4,A-Award,--D,1773,34840,3,0001849136,Class A Common Stock
+D,04/01/2023 00:00:00,Galloway Corbyn N.,4,F-InKind,--D,2549,33067,2,0001849136,Class A Common Stock
+A,04/01/2023 00:00:00,Galloway Corbyn N.,4,A-Award,--D,9744,35616,1,0001849136,Class A Common Stock
+D,04/01/2023 00:00:00,Wiebeck Kristopher Aaron,4,F-InKind,--D,7999,75035,2,0001787635,Class A Common Stock
+A,04/01/2023 00:00:00,Wiebeck Kristopher Aaron,4,A-Award,--D,32629,83034,1,0001787635,Class A Common Stock
+D,03/15/2023 00:00:00,Galloway Corbyn N.,4,F-InKind,--D,60,25872,2,0001849136,Class A Common Stock
+D,03/15/2023 00:00:00,Galloway Corbyn N.,4,F-InKind,--D,83,25932,1,0001849136,Class A Common Stock
+D,03/15/2023 00:00:00,Baldwin Trevor,4,F-InKind,--D,505,98948,2,0001787711,Class A Common Stock
+D,03/15/2023 00:00:00,Baldwin Trevor,4,F-InKind,--D,844,99453,1,0001787711,Class A Common Stock
+D,03/15/2023 00:00:00,Hale Bradford,4,F-InKind,--D,406,63964,2,0001787574,Class A Common Stock
+D,03/15/2023 00:00:00,Hale Bradford,4,F-InKind,--D,560,64370,1,0001787574,Class A Common Stock
+D,03/15/2023 00:00:00,Valentine John A.,4,F-InKind,--D,373,65463,2,0001787661,Class A Common Stock
+D,03/15/2023 00:00:00,Valentine John A.,4,F-InKind,--D,515,65836,1,0001787661,Class A Common Stock
+D,03/15/2023 00:00:00,Galbraith Daniel,4,F-InKind,--D,406,47676,2,0001787629,Class A Common Stock
+D,03/15/2023 00:00:00,Galbraith Daniel,4,F-InKind,--D,560,48082,1,0001787629,Class A Common Stock
+D,03/15/2023 00:00:00,Wiebeck Kristopher Aaron,4,F-InKind,--D,303,50405,2,0001787635,Class A Common Stock
+D,03/15/2023 00:00:00,Wiebeck Kristopher Aaron,4,F-InKind,--D,418,50708,1,0001787635,Class A Common Stock
+D,03/15/2023 00:00:00,Cohen Seth Bala,4,F-InKind,--D,209,9073,1,0001908559,Class A Common Stock
+A,01/01/2023 00:00:00,Shook Ellyn,4,A-Award,--D,746,3454,1,0001600370,Class A Common Stock
+A,01/01/2023 00:00:00,Cohen Jay A,4,A-Award,--D,746,7632,1,0001866862,Class A Common Stock
+A,01/01/2023 00:00:00,Williams Myron K,4,A-Award,--D,746,3454,1,0001901459,Class A Common Stock
+A,01/01/2023 00:00:00,KADOW JOSEPH JOHN,4,A-Award,--D,746,8609,1,0001019438,Class A Common Stock
+A,01/01/2023 00:00:00,SULLIVAN CHRIS THOMAS,4,A-Award,--D,746,90293,1,0000901870,Class A Common Stock
+A,01/01/2023 00:00:00,CASEY PHILLIP E,4,A-Award,--D,746,10293,1,0001104173,Class A Common Stock
+A,01/01/2023 00:00:00,Matas Barbara Ruth,4,A-Award,--D,746,8609,1,0001671249,Class A Common Stock
+A,01/01/2023 00:00:00,Parasuraman Sunita,4,A-Award,--D,746,3454,1,0001901482,Class A Common Stock
+A,12/15/2022 00:00:00,Sherman Laura,4,G-Gift,-EI,2417704,2417704,6,0001787578,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/15/2022 00:00:00,Sherman Laura,4,G-Gift,-ED,2417704,0,5,0001787578,"LLC Units in Baldwin Risk Partners, LLC"
+A,12/15/2022 00:00:00,Sherman Laura,4,G-Gift,-EI,2417704,2417704,2,0001787578,Class B Common Stock
+D,12/15/2022 00:00:00,Sherman Laura,4,G-Gift,-ED,2417704,0,1,0001787578,Class B Common Stock
+A,12/08/2022 00:00:00,Krystyn Elizabeth,4,G-Gift,-EI,1826963,1826963,6,0001787715,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/08/2022 00:00:00,Krystyn Elizabeth,4,G-Gift,-ED,1826963,0,5,0001787715,"LLC Units in Baldwin Risk Partners, LLC"
+A,12/08/2022 00:00:00,Krystyn Elizabeth,4,G-Gift,-EI,1826963,1826963,2,0001787715,Class B Common Stock
+D,12/08/2022 00:00:00,Krystyn Elizabeth,4,G-Gift,-ED,1826963,0,1,0001787715,Class B Common Stock
+A,12/08/2022 00:00:00,Galbraith Daniel,4,G-Gift,-EI,1365244,1365244,5,0001787629,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/08/2022 00:00:00,Galbraith Daniel,4,G-Gift,-ED,1365244,0,4,0001787629,"LLC Units in Baldwin Risk Partners, LLC"
+A,12/08/2022 00:00:00,Galbraith Daniel,4,G-Gift,-EI,1365244,1365244,2,0001787629,Class B Common Stock
+D,12/08/2022 00:00:00,Galbraith Daniel,4,G-Gift,-ED,1365244,0,1,0001787629,Class B Common Stock
+D,12/02/2022 00:00:00,Baldwin Lowry,4,S-Sale,--I,70000,15811478,2,0001787626,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/02/2022 00:00:00,Baldwin Lowry,4,S-Sale,--I,70000,15811478,1,0001787626,Class B Common Stock
+D,12/02/2022 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,70000,15811478,2,0001787620,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/02/2022 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,70000,15811478,1,0001787620,Class B Common Stock
+A,12/01/2022 00:00:00,Wiebeck Kristopher Aaron,4,G-Gift,-EI,1113367,1113367,11,0001787635,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/01/2022 00:00:00,Wiebeck Kristopher Aaron,4,G-Gift,-ED,1113367,0,10,0001787635,"LLC Units in Baldwin Risk Partners, LLC"
+A,12/01/2022 00:00:00,Wiebeck Kristopher Aaron,4,G-Gift,-EI,1113367,1113367,6,0001787635,Class B Common Stock
+D,12/01/2022 00:00:00,Wiebeck Kristopher Aaron,4,G-Gift,-ED,1113367,0,5,0001787635,Class B Common Stock
+D,11/29/2022 00:00:00,Wiebeck Kristopher Aaron,4,C-Conversion,--I,10000,385965,9,0001787635,"LLC Units in Baldwin Risk Partners, LLC"
+D,11/29/2022 00:00:00,Wiebeck Kristopher Aaron,4,S-Sale,--I,10000,0,4,0001787635,Class A Common Stock
+A,11/29/2022 00:00:00,Wiebeck Kristopher Aaron,4,C-Conversion,--I,10000,10000,3,0001787635,Class A Common Stock
+D,11/29/2022 00:00:00,Wiebeck Kristopher Aaron,4,C-Conversion,--I,10000,385965,2,0001787635,Class B Common Stock
+D,11/29/2022 00:00:00,Wiebeck Kristopher Aaron,4,S-Sale,--D,15000,51126,1,0001787635,Class A Common Stock
+D,11/21/2022 00:00:00,Cohen Seth Bala,4,S-Sale,--D,3463,9282,1,0001908559,Class A Common Stock
+A,10/01/2022 00:00:00,Matas Barbara Ruth,4,A-Award,--D,712,7863,1,0001671249,Class A Common Stock
+A,10/01/2022 00:00:00,Cohen Jay A,4,A-Award,--D,712,6886,1,0001866862,Class A Common Stock
+A,10/01/2022 00:00:00,KADOW JOSEPH JOHN,4,A-Award,--D,712,7863,1,0001019438,Class A Common Stock
+A,10/01/2022 00:00:00,Parasuraman Sunita,4,A-Award,--D,712,2708,1,0001901482,Class A Common Stock
+A,10/01/2022 00:00:00,CASEY PHILLIP E,4,A-Award,--D,712,9547,1,0001104173,Class A Common Stock
+A,10/01/2022 00:00:00,Shook Ellyn,4,A-Award,--D,712,2708,1,0001600370,Class A Common Stock
+A,10/01/2022 00:00:00,SULLIVAN CHRIS THOMAS,4,A-Award,--D,712,89547,1,0000901870,Class A Common Stock
+A,10/01/2022 00:00:00,Williams Myron K,4,A-Award,--D,712,2708,1,0001901459,Class A Common Stock
+A,09/30/2022 00:00:00,Krystyn Elizabeth,4,G-Gift,-EI,4635,244411,12,0001787715,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2022 00:00:00,Krystyn Elizabeth,4,G-Gift,-EI,4635,0,11,0001787715,"LLC Units in Baldwin Risk Partners, LLC"
+A,09/30/2022 00:00:00,Krystyn Elizabeth,4,G-Gift,-ED,24407,1826963,10,0001787715,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2022 00:00:00,Krystyn Elizabeth,4,G-Gift,-EI,24407,4635,9,0001787715,"LLC Units in Baldwin Risk Partners, LLC"
+A,09/30/2022 00:00:00,Krystyn Elizabeth,4,G-Gift,-ED,15058,1802556,8,0001787715,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2022 00:00:00,Krystyn Elizabeth,4,G-Gift,-EI,15058,269502,7,0001787715,"LLC Units in Baldwin Risk Partners, LLC"
+A,09/30/2022 00:00:00,Krystyn Elizabeth,4,G-Gift,-EI,4635,244411,6,0001787715,Class B Common Stock
+D,09/30/2022 00:00:00,Krystyn Elizabeth,4,G-Gift,-EI,4635,0,5,0001787715,Class B Common Stock
+A,09/30/2022 00:00:00,Krystyn Elizabeth,4,G-Gift,-ED,24407,1826963,4,0001787715,Class B Common Stock
+D,09/30/2022 00:00:00,Krystyn Elizabeth,4,G-Gift,-EI,24407,4635,3,0001787715,Class B Common Stock
+A,09/30/2022 00:00:00,Krystyn Elizabeth,4,G-Gift,-ED,15058,1802556,2,0001787715,Class B Common Stock
+D,09/30/2022 00:00:00,Krystyn Elizabeth,4,G-Gift,-EI,15058,269502,1,0001787715,Class B Common Stock
+A,09/30/2022 00:00:00,Galbraith Daniel,4,G-Gift,-EI,11348,11348,8,0001787629,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2022 00:00:00,Galbraith Daniel,4,G-Gift,-EI,11348,0,7,0001787629,"LLC Units in Baldwin Risk Partners, LLC"
+A,09/30/2022 00:00:00,Galbraith Daniel,4,G-Gift,-ED,59742,1365244,6,0001787629,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2022 00:00:00,Galbraith Daniel,4,G-Gift,-EI,59742,11348,5,0001787629,"LLC Units in Baldwin Risk Partners, LLC"
+A,09/30/2022 00:00:00,Galbraith Daniel,4,G-Gift,-EI,11348,11348,4,0001787629,Class B Common Stock
+D,09/30/2022 00:00:00,Galbraith Daniel,4,G-Gift,-EI,11348,0,3,0001787629,Class B Common Stock
+A,09/30/2022 00:00:00,Galbraith Daniel,4,G-Gift,-ED,59742,1365244,2,0001787629,Class B Common Stock
+D,09/30/2022 00:00:00,Galbraith Daniel,4,G-Gift,-EI,59742,11348,1,0001787629,Class B Common Stock
+A,09/30/2022 00:00:00,Sherman Laura,4,G-Gift,-ED,6636,2417704,8,0001787578,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2022 00:00:00,Sherman Laura,4,G-Gift,-EI,6636,9106,7,0001787578,"LLC Units in Baldwin Risk Partners, LLC"
+A,09/30/2022 00:00:00,Sherman Laura,4,G-Gift,-ED,3771,2411068,6,0001787578,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2022 00:00:00,Sherman Laura,4,G-Gift,-EI,3771,67364,5,0001787578,"LLC Units in Baldwin Risk Partners, LLC"
+A,09/30/2022 00:00:00,Sherman Laura,4,G-Gift,-ED,6636,2417704,4,0001787578,Class B Common Stock
+D,09/30/2022 00:00:00,Sherman Laura,4,G-Gift,-EI,6636,9106,3,0001787578,Class B Common Stock
+A,09/30/2022 00:00:00,Sherman Laura,4,G-Gift,-ED,3771,2411068,2,0001787578,Class B Common Stock
+D,09/30/2022 00:00:00,Sherman Laura,4,G-Gift,-EI,3771,67364,1,0001787578,Class B Common Stock
+A,09/30/2022 00:00:00,Valentine John A.,4,G-Gift,-EI,1122,395460,16,0001787661,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2022 00:00:00,Valentine John A.,4,G-Gift,-EI,1122,0,15,0001787661,"LLC Units in Baldwin Risk Partners, LLC"
+A,09/30/2022 00:00:00,Valentine John A.,4,G-Gift,-ED,5912,913709,14,0001787661,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2022 00:00:00,Valentine John A.,4,G-Gift,-EI,5912,1122,13,0001787661,"LLC Units in Baldwin Risk Partners, LLC"
+A,09/30/2022 00:00:00,Valentine John A.,4,G-Gift,-EI,154338,394338,12,0001787661,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2022 00:00:00,Valentine John A.,4,G-Gift,-EI,154338,0,11,0001787661,"LLC Units in Baldwin Risk Partners, LLC"
+A,09/30/2022 00:00:00,Valentine John A.,4,G-Gift,-ED,15511,907797,10,0001787661,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2022 00:00:00,Valentine John A.,4,G-Gift,-EI,15511,154338,9,0001787661,"LLC Units in Baldwin Risk Partners, LLC"
+A,09/30/2022 00:00:00,Valentine John A.,4,G-Gift,-EI,1122,395460,8,0001787661,Class B Common Stock
+D,09/30/2022 00:00:00,Valentine John A.,4,G-Gift,-EI,1122,0,7,0001787661,Class B Common Stock
+A,09/30/2022 00:00:00,Valentine John A.,4,G-Gift,-ED,5912,913709,6,0001787661,Class B Common Stock
+D,09/30/2022 00:00:00,Valentine John A.,4,G-Gift,-EI,5912,1122,5,0001787661,Class B Common Stock
+A,09/30/2022 00:00:00,Valentine John A.,4,G-Gift,-EI,154338,394338,4,0001787661,Class B Common Stock
+D,09/30/2022 00:00:00,Valentine John A.,4,G-Gift,-EI,154338,0,3,0001787661,Class B Common Stock
+A,09/30/2022 00:00:00,Valentine John A.,4,G-Gift,-ED,15511,907797,2,0001787661,Class B Common Stock
+D,09/30/2022 00:00:00,Valentine John A.,4,G-Gift,-EI,15511,154338,1,0001787661,Class B Common Stock
+A,09/30/2022 00:00:00,Wiebeck Kristopher Aaron,4,G-Gift,-EI,4624,395965,8,0001787635,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2022 00:00:00,Wiebeck Kristopher Aaron,4,G-Gift,-EI,4624,0,7,0001787635,"LLC Units in Baldwin Risk Partners, LLC"
+A,09/30/2022 00:00:00,Wiebeck Kristopher Aaron,4,G-Gift,-ED,24348,1113367,6,0001787635,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2022 00:00:00,Wiebeck Kristopher Aaron,4,G-Gift,-EI,24348,4624,5,0001787635,"LLC Units in Baldwin Risk Partners, LLC"
+A,09/30/2022 00:00:00,Wiebeck Kristopher Aaron,4,G-Gift,-EI,4624,395965,4,0001787635,Class B Common Stock
+D,09/30/2022 00:00:00,Wiebeck Kristopher Aaron,4,G-Gift,-EI,4624,0,3,0001787635,Class B Common Stock
+A,09/30/2022 00:00:00,Wiebeck Kristopher Aaron,4,G-Gift,-ED,24348,1113367,2,0001787635,Class B Common Stock
+D,09/30/2022 00:00:00,Wiebeck Kristopher Aaron,4,G-Gift,-EI,24348,4624,1,0001787635,Class B Common Stock
+A,09/20/2022 00:00:00,Baldwin Lowry,4,P-Purchase,--I,172000,172000,2,0001787626,Class A Common Stock
+D,09/20/2022 00:00:00,Baldwin Lowry,4,S-Sale,--I,172000,171799,1,0001787626,Class A Common Stock
+A,08/05/2022 00:00:00,Finney Joseph D.,4,G-Gift,-EI,337852,337852,8,0001791751,"LLC Units in Baldwin Risk Partners, LLC"
+D,08/05/2022 00:00:00,Finney Joseph D.,4,G-Gift,-ED,337852,0,7,0001791751,"LLC Units in Baldwin Risk Partners, LLC"
+A,08/05/2022 00:00:00,Finney Joseph D.,4,G-Gift,--I,337852,337852,6,0001791751,Class B Common Stock
+D,08/05/2022 00:00:00,Finney Joseph D.,4,G-Gift,--D,337852,0,5,0001791751,Class B Common Stock
+A,07/01/2022 00:00:00,Williams Myron K,4,A-Award,--D,777,1996,1,0001901459,Class A Common Stock
+A,07/01/2022 00:00:00,SULLIVAN CHRIS THOMAS,4,A-Award,--D,777,88835,1,0000901870,Class A Common Stock
+A,07/01/2022 00:00:00,Shook Ellyn,4,A-Award,--D,777,1996,1,0001600370,Class A Common Stock
+A,07/01/2022 00:00:00,Parasuraman Sunita,4,A-Award,--D,777,1996,1,0001901482,Class A Common Stock
+A,07/01/2022 00:00:00,Matas Barbara Ruth,4,A-Award,--D,777,7151,1,0001671249,Class A Common Stock
+A,07/01/2022 00:00:00,KADOW JOSEPH JOHN,4,A-Award,--D,777,7151,1,0001019438,Class A Common Stock
+A,07/01/2022 00:00:00,Cohen Jay A,4,A-Award,--D,777,6174,1,0001866862,Class A Common Stock
+A,07/01/2022 00:00:00,CASEY PHILLIP E,4,A-Award,--D,777,8835,1,0001104173,Class A Common Stock
+A,06/13/2022 00:00:00,Sherman Laura,4,J-Other,--D,1884,1884,1,0001787578,Class A Common Stock
+A,05/16/2022 00:00:00,Baldwin Trevor,4,P-Purchase,--D,12000,100297,2,0001787711,Class A Common Stock
+A,05/13/2022 00:00:00,Baldwin Trevor,4,P-Purchase,--D,2559,88297,1,0001787711,Class A Common Stock
+A,05/13/2022 00:00:00,Valentine John A.,4,P-Purchase,--D,10000,66351,1,0001787661,Class A Common Stock
+A,05/13/2022 00:00:00,Cohen Seth Bala,4,P-Purchase,--D,2500,12745,1,0001908559,Class A Common Stock
+D,04/01/2022 00:00:00,Finney Joseph D.,4,F-InKind,--D,54,869,4,0001791751,Class A Common Stock
+A,04/01/2022 00:00:00,Galbraith Daniel,4,F-InKind,--D,7065,48642,3,0001787629,Class A Common Stock
+D,04/01/2022 00:00:00,Galbraith Daniel,4,F-InKind,--D,2551,41577,2,0001787629,Class A Common Stock
+A,04/01/2022 00:00:00,Galbraith Daniel,4,A-Award,--D,10480,44128,1,0001787629,Class A Common Stock
+A,04/01/2022 00:00:00,Cohen Seth Bala,4,A-Award,--D,3532,10245,3,0001908559,Class A Common Stock
+D,04/01/2022 00:00:00,Cohen Seth Bala,4,F-InKind,--D,229,6713,2,0001908559,Class A Common Stock
+A,04/01/2022 00:00:00,Cohen Seth Bala,4,A-Award,--D,942,6942,1,0001908559,Class A Common Stock
+D,04/01/2022 00:00:00,Galloway Corbyn N.,4,F-InKind,--D,940,26015,4,0001849136,Class A Common Stock
+A,04/01/2022 00:00:00,Galloway Corbyn N.,4,A-Award,--D,1413,26955,3,0001849136,Class A Common Stock
+D,04/01/2022 00:00:00,Galloway Corbyn N.,4,F-InKind,--D,1310,25542,2,0001849136,Class A Common Stock
+A,04/01/2022 00:00:00,Galloway Corbyn N.,4,A-Award,--D,3523,26852,1,0001849136,Class A Common Stock
+A,04/01/2022 00:00:00,SULLIVAN CHRIS THOMAS,4,A-Award,--D,699,88058,1,0000901870,Class A Common Stock
+A,04/01/2022 00:00:00,Hale Bradford,4,A-Award,--D,7065,64930,3,0001787574,Class A Common Stock
+D,04/01/2022 00:00:00,Hale Bradford,4,F-InKind,--D,3955,57865,2,0001787574,Class A Common Stock
+A,04/01/2022 00:00:00,Hale Bradford,4,A-Award,--D,10344,61820,1,0001787574,Class A Common Stock
+A,04/01/2022 00:00:00,Wiebeck Kristopher Aaron,4,A-Award,--D,7065,66126,3,0001787635,Class A Common Stock
+D,04/01/2022 00:00:00,Wiebeck Kristopher Aaron,4,F-InKind,--D,2690,59061,2,0001787635,Class A Common Stock
+A,04/01/2022 00:00:00,Wiebeck Kristopher Aaron,4,A-Award,--D,11049,61751,1,0001787635,Class A Common Stock
+A,04/01/2022 00:00:00,Baldwin Trevor,4,A-Award,--D,16486,85738,3,0001787711,Class A Common Stock
+D,04/01/2022 00:00:00,Baldwin Trevor,4,F-InKind,--D,12611,69252,2,0001787711,Class A Common Stock
+A,04/01/2022 00:00:00,Baldwin Trevor,4,A-Award,--D,32050,81863,1,0001787711,Class A Common Stock
+A,04/01/2022 00:00:00,Parasuraman Sunita,4,A-Award,--D,699,1219,1,0001901482,Class A Common Stock
+A,04/01/2022 00:00:00,Matas Barbara Ruth,4,A-Award,--D,699,6374,1,0001671249,Class A Common Stock
+A,04/01/2022 00:00:00,CASEY PHILLIP E,4,A-Award,--D,699,8058,1,0001104173,Class A Common Stock
+A,04/01/2022 00:00:00,Williams Myron K,4,A-Award,--D,699,1219,1,0001901459,Class A Common Stock
+A,04/01/2022 00:00:00,Valentine John A.,4,A-Award,--D,7065,56351,3,0001787661,Class A Common Stock
+D,04/01/2022 00:00:00,Valentine John A.,4,F-InKind,--D,4576,49286,2,0001787661,Class A Common Stock
+A,04/01/2022 00:00:00,Valentine John A.,4,A-Award,--D,10810,53862,1,0001787661,Class A Common Stock
+A,04/01/2022 00:00:00,KADOW JOSEPH JOHN,4,A-Award,--D,699,6374,1,0001019438,Class A Common Stock
+A,04/01/2022 00:00:00,Shook Ellyn,4,A-Award,--D,699,1219,1,0001600370,Class A Common Stock
+A,04/01/2022 00:00:00,Cohen Jay A,4,A-Award,--D,699,5397,1,0001866862,Class A Common Stock
+D,03/15/2022 00:00:00,Wiebeck Kristopher Aaron,4,F-InKind,--D,194,50702,1,0001787635,Class A Common Stock
+D,03/15/2022 00:00:00,Baldwin Trevor,4,F-InKind,--D,447,49813,1,0001787711,Class A Common Stock
+D,03/15/2022 00:00:00,Valentine John A.,4,F-InKind,--D,259,43052,1,0001787661,Class A Common Stock
+D,03/15/2022 00:00:00,Galbraith Daniel,4,F-InKind,--D,280,33648,1,0001787629,Class A Common Stock
+D,03/15/2022 00:00:00,Galloway Corbyn N.,4,F-InKind,--D,51,23329,1,0001849136,Class A Common Stock
+D,03/15/2022 00:00:00,Hale Bradford,4,F-InKind,--D,277,51476,1,0001787574,Class A Common Stock
+A,03/14/2022 00:00:00,Valentine John A.,4,P-Purchase,--D,1000,43311,2,0001787661,Class A Common Stock
+A,03/14/2022 00:00:00,Valentine John A.,4,P-Purchase,--D,4000,42311,1,0001787661,Class A Common Stock
+A,03/11/2022 00:00:00,Wiebeck Kristopher Aaron,4,P-Purchase,--D,10000,50896,1,0001787635,Class A Common Stock
+A,03/09/2022 00:00:00,Baldwin Trevor,4,P-Purchase,--I,8614,13117,2,0001787711,Class A Common Stock
+A,03/09/2022 00:00:00,Baldwin Trevor,4,P-Purchase,--I,4503,4503,1,0001787711,Class A Common Stock
+A,03/08/2022 00:00:00,Galbraith Daniel,4,P-Purchase,--D,1000,33928,2,0001787629,Class A Common Stock
+A,03/08/2022 00:00:00,Galbraith Daniel,4,P-Purchase,--D,4000,32928,1,0001787629,Class A Common Stock
+A,03/07/2022 00:00:00,Valentine John A.,4,P-Purchase,--D,250,38311,4,0001787661,Class A Common Stock
+A,03/07/2022 00:00:00,Valentine John A.,4,P-Purchase,--D,250,38061,3,0001787661,Class A Common Stock
+A,03/04/2022 00:00:00,Valentine John A.,4,P-Purchase,--D,500,37811,2,0001787661,Class A Common Stock
+A,03/04/2022 00:00:00,Valentine John A.,4,P-Purchase,--D,500,37311,1,0001787661,Class A Common Stock
+A,03/04/2022 00:00:00,Wiebeck Kristopher Aaron,4,P-Purchase,--I,500,1000,4,0001787635,Class A Common Stock
+A,03/04/2022 00:00:00,Wiebeck Kristopher Aaron,4,P-Purchase,--I,500,500,3,0001787635,Class A Common Stock
+A,03/04/2022 00:00:00,Wiebeck Kristopher Aaron,4,P-Purchase,--I,500,1000,2,0001787635,Class A Common Stock
+A,03/04/2022 00:00:00,Wiebeck Kristopher Aaron,4,P-Purchase,--I,500,500,1,0001787635,Class A Common Stock
+A,01/01/2022 00:00:00,Williams Myron K,4,A-Award,--D,520,520,1,0001901459,Class A Common Stock
+A,01/01/2022 00:00:00,SULLIVAN CHRIS THOMAS,4,A-Award,--D,520,87359,1,0000901870,Class A Common Stock
+A,01/01/2022 00:00:00,Shook Ellyn,4,A-Award,--D,520,520,1,0001600370,Class A Common Stock
+A,01/01/2022 00:00:00,Parasuraman Sunita,4,A-Award,--D,520,520,1,0001901482,Class A Common Stock
+A,01/01/2022 00:00:00,Matas Barbara Ruth,4,A-Award,--D,520,5675,1,0001671249,Class A Common Stock
+A,01/01/2022 00:00:00,KADOW JOSEPH JOHN,4,A-Award,--D,520,5675,1,0001019438,Class A Common Stock
+A,01/01/2022 00:00:00,Cohen Jay A,4,A-Award,--D,520,4698,1,0001866862,Class A Common Stock
+A,01/01/2022 00:00:00,CASEY PHILLIP E,4,A-Award,--D,520,7359,1,0001104173,Class A Common Stock
+A,12/07/2021 00:00:00,Valentine John A.,4,G-Gift,--I,240000,416883,7,0001787661,"LLC Units to Baldwin Risk Partners, LLC"
+D,12/07/2021 00:00:00,Valentine John A.,4,G-Gift,--D,240000,892286,5,0001787661,"LLC Units in Baldwin Risk Partners, LLC"
+A,12/07/2021 00:00:00,Valentine John A.,4,G-Gift,--I,240000,416883,3,0001787661,Class B Common Stock
+D,12/07/2021 00:00:00,Valentine John A.,4,G-Gift,--D,240000,892286,1,0001787661,Class B Common Stock
+D,12/07/2021 00:00:00,Sherman Laura,4,J-Other,--I,73170,133578,7,0001787578,"LLC Units in Baldwin Risk Partners, LLC"
+A,12/07/2021 00:00:00,Sherman Laura,4,J-Other,--D,73170,2407297,5,0001787578,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/07/2021 00:00:00,Sherman Laura,4,J-Other,--I,73170,133578,3,0001787578,Class B Common Stock
+A,12/07/2021 00:00:00,Sherman Laura,4,J-Other,--D,73170,2407297,1,0001787578,Class B Common Stock
+A,12/06/2021 00:00:00,Finney Joseph D.,4,G-Gift,--I,35000,35000,3,0001791751,Class A Common Stock
+D,12/06/2021 00:00:00,Finney Joseph D.,4,G-Gift,--D,35000,923,2,0001791751,Class A Common Stock
+D,12/06/2021 00:00:00,Baldwin Lowry,4,S-Sale,--I,114201,343799,9,0001787626,Class A Common Stock
+D,12/06/2021 00:00:00,Baldwin Lowry,4,S-Sale,--I,35799,0,8,0001787626,Class A Common Stock
+D,12/03/2021 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,70000,15881478,4,0001787620,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/03/2021 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,500000,15951478,3,0001787620,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/03/2021 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,70000,15881478,2,0001787620,Class B Common Stock
+D,12/03/2021 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,500000,15951478,1,0001787620,Class B Common Stock
+D,12/03/2021 00:00:00,Baldwin Lowry,4,S-Sale,--I,70000,15881478,11,0001787626,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/03/2021 00:00:00,Baldwin Lowry,4,C-Conversion,--I,500000,15951478,10,0001787626,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/03/2021 00:00:00,Baldwin Lowry,4,S-Sale,--I,6201,35799,7,0001787626,Class A Common Stock
+A,12/03/2021 00:00:00,Baldwin Lowry,4,C-Conversion,--I,42000,42000,6,0001787626,Class A Common Stock
+A,12/03/2021 00:00:00,Baldwin Lowry,4,A-Award,--I,42000,42000,5,0001787626,Class B Common Stock
+A,12/03/2021 00:00:00,Baldwin Lowry,4,C-Conversion,--I,458000,458000,4,0001787626,Class A Common Stock
+A,12/03/2021 00:00:00,Baldwin Lowry,4,A-Award,--I,458000,458000,3,0001787626,Class B Common Stock
+D,12/03/2021 00:00:00,Baldwin Lowry,4,S-Sale,--I,70000,15881478,2,0001787626,Class B Common Stock
+D,12/03/2021 00:00:00,Baldwin Lowry,4,C-Conversion,--I,500000,15951478,1,0001787626,Class B Common Stock
+A,10/01/2021 00:00:00,Cohen Jay A,4,A-Award,--D,564,4178,1,0001866862,Class A Common Stock
+A,10/01/2021 00:00:00,SULLIVAN CHRIS THOMAS,4,A-Award,--D,564,86839,1,0000901870,Class A Common Stock
+A,10/01/2021 00:00:00,CASEY PHILLIP E,4,A-Award,--D,564,6839,1,0001104173,Class A Common Stock
+A,10/01/2021 00:00:00,KADOW JOSEPH JOHN,4,A-Award,--D,564,5155,1,0001019438,Class A Common Stock
+A,10/01/2021 00:00:00,Matas Barbara Ruth,4,A-Award,--D,564,5155,1,0001671249,Class A Common Stock
+A,09/30/2021 00:00:00,"Daniel A. Galbraith 2020 Grantor Retained Annuity Trust, dated September 30, 2020",4,G-Gift,-EI,119871,206748,13,0001827259,"LLC Units in Baldwin Risk Partners, LLC"
+A,09/30/2021 00:00:00,"Daniel A. Galbraith 2020 Grantor Retained Annuity Trust, dated September 30, 2020",4,G-Gift,-EI,391341,420313,11,0001827259,"LLC Units in Baldwin Risk Partners, LLC"
+A,09/30/2021 00:00:00,"Daniel A. Galbraith 2020 Grantor Retained Annuity Trust, dated September 30, 2020",4,G-Gift,-EI,239776,553378,9,0001827259,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2021 00:00:00,"Daniel A. Galbraith 2020 Grantor Retained Annuity Trust, dated September 30, 2020",4,G-Gift,-ED,37488,71090,8,0001827259,"LLC Units in Baldwin Risk Partners, LLC"
+A,09/30/2021 00:00:00,"Daniel A. Galbraith 2020 Grantor Retained Annuity Trust, dated September 30, 2020",4,G-Gift,-EI,119871,206748,6,0001827259,Class B Common Stock
+A,09/30/2021 00:00:00,"Daniel A. Galbraith 2020 Grantor Retained Annuity Trust, dated September 30, 2020",4,G-Gift,-EI,391341,420313,4,0001827259,Class B Common Stock
+A,09/30/2021 00:00:00,"Daniel A. Galbraith 2020 Grantor Retained Annuity Trust, dated September 30, 2020",4,G-Gift,-EI,239776,553378,2,0001827259,Class B Common Stock
+D,09/30/2021 00:00:00,"Daniel A. Galbraith 2020 Grantor Retained Annuity Trust, dated September 30, 2020",4,G-Gift,-ED,37488,71090,1,0001827259,Class B Common Stock
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,4164,15742,26,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,2366,71135,25,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,119871,0,24,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,15376,119871,23,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,15278,28972,22,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,391341,0,21,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,40086,391341,20,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,3710,7034,19,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,9733,169849,18,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,15316,29042,17,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,9449,284560,16,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,239776,0,15,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,30735,239776,14,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,4164,15742,13,0001791810,Class B Common Stock
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,2366,71135,12,0001791810,Class B Common Stock
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,119871,0,11,0001791810,Class B Common Stock
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,15376,119871,10,0001791810,Class B Common Stock
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,15278,28972,9,0001791810,Class B Common Stock
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,391341,0,8,0001791810,Class B Common Stock
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,40086,391341,7,0001791810,Class B Common Stock
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,3710,7034,6,0001791810,Class B Common Stock
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,9733,169849,5,0001791810,Class B Common Stock
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,15316,29042,4,0001791810,Class B Common Stock
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,9449,284560,3,0001791810,Class B Common Stock
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,239776,0,2,0001791810,Class B Common Stock
+D,09/30/2021 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,30735,239776,1,0001791810,Class B Common Stock
+D,09/21/2021 00:00:00,CASEY PHILLIP E,4,G-Gift,-EI,65000,65000,1,0001104173,Class A Common Stock
+A,09/17/2021 00:00:00,Cohen Jay A,4,P-Purchase,--D,2800,3614,1,0001866862,Class A Common Stock
+D,09/10/2021 00:00:00,Millennial Specialty Holdco LLC,4,J-Other,--D,4285714,0,2,0001792043,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/10/2021 00:00:00,Millennial Specialty Holdco LLC,4,J-Other,--D,4285714,0,1,0001792043,Class B Common Stock
+A,07/01/2021 00:00:00,SULLIVAN CHRIS THOMAS,4,A-Award,--D,704,86275,1,0000901870,Class A Common Stock
+A,07/01/2021 00:00:00,Matas Barbara Ruth,4,A-Award,--D,704,4591,1,0001671249,Class A Common Stock
+A,07/01/2021 00:00:00,KADOW JOSEPH JOHN,4,A-Award,--D,704,4591,1,0001019438,Class A Common Stock
+A,07/01/2021 00:00:00,CASEY PHILLIP E,4,A-Award,--D,704,6275,1,0001104173,Class A Common Stock
+A,07/01/2021 00:00:00,Cohen Jay A,4,A-Award,--D,814,814,1,0001866862,Class A Common Stock
+A,05/03/2021 00:00:00,Stephens Christopher John,4,A-Award,--D,3198,12360,1,0001788917,Class A Common Stock
+A,05/03/2021 00:00:00,Galbraith Daniel,4,A-Award,--D,5117,28928,1,0001787629,Class A Common Stock
+A,05/03/2021 00:00:00,Wiebeck Kristopher Aaron,4,A-Award,--D,5117,40896,1,0001787635,Class A Common Stock
+A,05/03/2021 00:00:00,Hale Bradford,4,A-Award,--D,5117,51753,1,0001787574,Class A Common Stock
+A,05/03/2021 00:00:00,Galloway Corbyn N.,4,A-Award,--D,1023,23380,1,0001849136,Class A Common Stock
+A,05/03/2021 00:00:00,Baldwin Trevor,4,A-Award,--D,8529,50260,1,0001787711,Class A Common Stock
+A,05/03/2021 00:00:00,Valentine John A.,4,A-Award,--D,5117,36811,1,0001787661,Class A Common Stock
+A,04/01/2021 00:00:00,Finney Joseph D.,4,J-Other,--D,923,35923,1,0001791751,Class A Common Stock
+A,04/01/2021 00:00:00,Galloway Corbyn N.,4,A-Award,--D,10000,22357,1,0001849136,Class A Common Stock
+A,04/01/2021 00:00:00,Matas Barbara Ruth,4,A-Award,--D,689,3887,1,0001671249,Class A Common Stock
+A,04/01/2021 00:00:00,CASEY PHILLIP E,4,A-Award,--D,689,135571,1,0001104173,Class A Common Stock
+A,04/01/2021 00:00:00,SULLIVAN CHRIS THOMAS,4,A-Award,--D,689,85571,1,0000901870,Class A Common Stock
+D,04/01/2021 00:00:00,Galbraith Daniel,4,F-InKind,--D,4188,23811,2,0001787629,Class A Common Stock
+A,04/01/2021 00:00:00,Galbraith Daniel,4,A-Award,--D,17280,27999,1,0001787629,Class A Common Stock
+A,04/01/2021 00:00:00,KADOW JOSEPH JOHN,4,A-Award,--D,689,3887,1,0001019438,Class A Common Stock
+A,04/01/2021 00:00:00,Hale Bradford,4,A-Award,--D,25000,46636,3,0001787574,Class A Common Stock
+D,04/01/2021 00:00:00,Hale Bradford,4,F-InKind,--D,4860,21636,2,0001787574,Class A Common Stock
+A,04/01/2021 00:00:00,Hale Bradford,4,A-Award,--D,19496,26496,1,0001787574,Class A Common Stock
+D,04/01/2021 00:00:00,Stephens Christopher John,4,F-InKind,--D,2949,9162,2,0001788917,Class A Common Stock
+A,04/01/2021 00:00:00,Stephens Christopher John,4,A-Award,--D,12111,12111,1,0001788917,Class A Common Stock
+D,04/01/2021 00:00:00,Baldwin Trevor,4,F-InKind,--D,6573,41731,2,0001787711,Class A Common Stock
+A,04/01/2021 00:00:00,Baldwin Trevor,4,A-Award,--D,26733,48304,1,0001787711,Class A Common Stock
+A,04/01/2021 00:00:00,Eddy Robert D.,4,A-Award,--D,689,7571,1,0001788452,Class A Common Stock
+D,04/01/2021 00:00:00,Wiebeck Kristopher Aaron,4,F-InKind,--D,5055,35779,2,0001787635,Class A Common Stock
+A,04/01/2021 00:00:00,Wiebeck Kristopher Aaron,4,A-Award,--D,20271,40834,1,0001787635,Class A Common Stock
+D,04/01/2021 00:00:00,Valentine John A.,4,F-InKind,--D,5279,31694,2,0001787661,Class A Common Stock
+A,04/01/2021 00:00:00,Valentine John A.,4,A-Award,--D,17834,36973,1,0001787661,Class A Common Stock
+A,01/01/2021 00:00:00,Eddy Robert D.,4,A-Award,--D,626,6882,1,0001788452,Class A Common Stock
+A,01/01/2021 00:00:00,KADOW JOSEPH JOHN,4,A-Award,--D,626,3198,1,0001019438,Class A Common Stock
+A,01/01/2021 00:00:00,CASEY PHILLIP E,4,A-Award,--D,626,134882,1,0001104173,Class A Common Stock
+A,01/01/2021 00:00:00,SULLIVAN CHRIS THOMAS,4,A-Award,--D,626,84882,1,0000901870,Class A Common Stock
+A,01/01/2021 00:00:00,Matas Barbara Ruth,4,A-Award,--D,626,3198,1,0001671249,Class A Common Stock
+D,12/18/2020 00:00:00,"Kristopher A. Wiebeck 2019 Grantor Retained Annuity Trust Dated September 30, 2019",4,S-Sale,--D,20000,431427,2,0001791793,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/18/2020 00:00:00,"Kristopher A. Wiebeck 2019 Grantor Retained Annuity Trust Dated September 30, 2019",4,S-Sale,--D,20000,431427,1,0001791793,Class B Common Stock
+D,12/18/2020 00:00:00,Baldwin Lowry,4,D-Return,--I,250000,0,5,0001787626,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/18/2020 00:00:00,Baldwin Lowry,4,D-Return,--I,216667,0,4,0001787626,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/18/2020 00:00:00,Baldwin Lowry,4,D-Return,--I,250000,0,2,0001787626,Class B Common Stock
+D,12/18/2020 00:00:00,Baldwin Lowry,4,D-Return,--I,216667,0,1,0001787626,Class B Common Stock
+D,12/18/2020 00:00:00,Krystyn Elizabeth,4,S-Sale,--D,200000,1731998,3,0001787715,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/18/2020 00:00:00,Krystyn Elizabeth,4,S-Sale,--D,200000,1731998,1,0001787715,Class B Common Stock
+D,12/18/2020 00:00:00,Sherman Laura,4,S-Sale,--D,300000,2312221,3,0001787578,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/18/2020 00:00:00,Sherman Laura,4,S-Sale,--D,300000,2312221,1,0001787578,Class B Common Stock
+D,12/18/2020 00:00:00,Valentine John A.,4,D-Return,--D,50000,1118843,3,0001787661,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/18/2020 00:00:00,Valentine John A.,4,D-Return,--D,50000,1118843,1,0001787661,Class B Common Stock
+D,12/18/2020 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,250000,16451478,4,0001787620,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/18/2020 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,216667,16701478,3,0001787620,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/18/2020 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,250000,16451478,2,0001787620,Class B Common Stock
+D,12/18/2020 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,216667,16701478,1,0001787620,Class B Common Stock
+D,12/18/2020 00:00:00,Wiebeck Kristopher Aaron,4,D-Return,--I,35751,0,7,0001787635,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/18/2020 00:00:00,Wiebeck Kristopher Aaron,4,D-Return,--I,20000,431427,6,0001787635,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/18/2020 00:00:00,Wiebeck Kristopher Aaron,4,D-Return,--D,44249,1033655,5,0001787635,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/18/2020 00:00:00,Wiebeck Kristopher Aaron,4,D-Return,--I,35751,0,3,0001787635,Class B Common Stock
+D,12/18/2020 00:00:00,Wiebeck Kristopher Aaron,4,D-Return,--I,20000,431427,2,0001787635,Class B Common Stock
+D,12/18/2020 00:00:00,Wiebeck Kristopher Aaron,4,D-Return,--D,44249,1033655,1,0001787635,Class B Common Stock
+D,12/11/2020 00:00:00,Wiebeck Kristopher Aaron,4,D-Return,--D,100000,1077904,4,0001787635,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/11/2020 00:00:00,Wiebeck Kristopher Aaron,4,D-Return,--D,100000,1077904,1,0001787635,Class B Common Stock
+D,12/11/2020 00:00:00,Valentine John A.,4,D-Return,--D,100000,1168843,3,0001787661,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/11/2020 00:00:00,Valentine John A.,4,D-Return,--D,100000,1168843,1,0001787661,Class B Common Stock
+D,12/11/2020 00:00:00,Krystyn Elizabeth,4,S-Sale,--D,100000,1931998,3,0001787715,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/11/2020 00:00:00,Krystyn Elizabeth,4,S-Sale,--D,100000,1931998,1,0001787715,Class B Common Stock
+D,12/11/2020 00:00:00,Sherman Laura,4,S-Sale,--D,100000,2612221,3,0001787578,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/11/2020 00:00:00,Sherman Laura,4,S-Sale,--D,100000,2612221,1,0001787578,Class B Common Stock
+D,12/11/2020 00:00:00,Baldwin Lowry,4,D-Return,--I,100000,0,3,0001787626,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/11/2020 00:00:00,Baldwin Lowry,4,D-Return,--I,100000,0,1,0001787626,Class B Common Stock
+D,12/11/2020 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,100000,16918145,2,0001787620,"LLC Units in Baldwin Risk Partners, LLC"
+D,12/11/2020 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,100000,16918145,1,0001787620,Class B Common Stock
+A,11/30/2020 00:00:00,"IHC Holdings, Inc./NV",4,J-Other,--D,3857622,3857622,2,0001833999,"LLC units in Baldwin Risk Partners, LLC"
+A,11/30/2020 00:00:00,"IHC Holdings, Inc./NV",4,J-Other,--D,3857622,3857622,1,0001833999,Class B Common Stock
+A,10/01/2020 00:00:00,CASEY PHILLIP E,4,A-Award,--D,467,134256,1,0001104173,Class A Common Stock
+A,10/01/2020 00:00:00,KADOW JOSEPH JOHN,4,A-Award,--D,467,2572,1,0001019438,Class A Common Stock
+A,10/01/2020 00:00:00,Matas Barbara Ruth,4,A-Award,--D,467,2572,1,0001671249,Class A Common Stock
+A,10/01/2020 00:00:00,SULLIVAN CHRIS THOMAS,4,A-Award,--D,467,84256,1,0000901870,Class A Common Stock
+A,10/01/2020 00:00:00,Eddy Robert D.,4,A-Award,--D,467,6256,1,0001788452,Class A Common Stock
+D,09/30/2020 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,2612,73501,12,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2020 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,16973,135247,11,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2020 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,44250,451427,10,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2020 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,10744,179582,9,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2020 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,10430,294009,8,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2020 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,33928,270511,7,0001791810,"LLC Units in Baldwin Risk Partners, LLC"
+D,09/30/2020 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,2612,73501,6,0001791810,Class B Common Stock
+D,09/30/2020 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,16973,135247,5,0001791810,Class B Common Stock
+D,09/30/2020 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,44250,451427,4,0001791810,Class B Common Stock
+D,09/30/2020 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,10744,179582,3,0001791810,Class B Common Stock
+D,09/30/2020 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,10430,294009,2,0001791810,Class B Common Stock
+D,09/30/2020 00:00:00,"Elizabeth H. Krystyn 2019 Grantor Retained Annuity Trust I Dated September 30, 2019",4,G-Gift,-ED,33928,270511,1,0001791810,Class B Common Stock
+A,07/01/2020 00:00:00,Eddy Robert D.,4,A-Award,--D,753,5789,1,0001788452,Class A Common Stock
+A,07/01/2020 00:00:00,KADOW JOSEPH JOHN,4,A-Award,--D,753,2105,1,0001019438,Class A Common Stock
+A,07/01/2020 00:00:00,CASEY PHILLIP E,4,A-Award,--D,753,133789,1,0001104173,Class A Common Stock
+A,07/01/2020 00:00:00,Matas Barbara Ruth,4,A-Award,--D,753,2105,1,0001671249,Class A Common Stock
+A,07/01/2020 00:00:00,SULLIVAN CHRIS THOMAS,4,A-Award,--D,753,83789,1,0000901870,Class A Common Stock
+D,06/29/2020 00:00:00,Baldwin Lowry,4,D-Return,--D,1875000,0,3,0001787626,"LLC Units in Baldwin Risk Partners, LLC"
+D,06/29/2020 00:00:00,Baldwin Lowry,4,D-Return,--D,1875000,0,1,0001787626,Class B Common Stock
+D,06/29/2020 00:00:00,Krystyn Elizabeth,4,S-Sale,--D,450000,2031998,3,0001787715,"LLC Units in Baldwin Risk Partners, LLC"
+D,06/29/2020 00:00:00,Krystyn Elizabeth,4,S-Sale,--D,450000,2031998,1,0001787715,Class B Common Stock
+D,06/29/2020 00:00:00,Sherman Laura,4,S-Sale,--D,150000,2712542,3,0001787578,"LLC Units in Baldwin Risk Partners, LLC"
+D,06/29/2020 00:00:00,Sherman Laura,4,S-Sale,--D,150000,2712542,1,0001787578,Class B Common Stock
+D,06/26/2020 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,1875000,17018145,2,0001787620,"LLC Units in Baldwin Risk Partners, LLC"
+D,06/26/2020 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,1875000,17018145,1,0001787620,Class B Common Stock
+D,06/26/2020 00:00:00,"Loper Enterprises, LLC",4,S-Sale,--D,1875000,0,3,0001787701,"LLC Units in Baldwin Risk Partners, LLC"
+D,06/26/2020 00:00:00,"Loper Enterprises, LLC",4,S-Sale,--D,1875000,0,1,0001787701,Class B Common Stock
+D,06/05/2020 00:00:00,Baldwin Lowry,4,C-Conversion,--I,35987,18893145,12,0001787626,"LLC Units in Baldwin Risk Partners, LLC"
+D,06/05/2020 00:00:00,Baldwin Lowry,4,S-Sale,--I,35987,0,9,0001787626,Class A Common Stock
+A,06/05/2020 00:00:00,Baldwin Lowry,4,C-Conversion,--I,35987,35987,8,0001787626,Class A Common Stock
+D,06/05/2020 00:00:00,Baldwin Lowry,4,C-Conversion,--I,35987,18893145,7,0001787626,Class B Common Stock
+D,06/05/2020 00:00:00,"Loper Enterprises, LLC",4,C-Conversion,--D,35987,0,13,0001787701,"LLC Units in Baldwin Risk Partners, LLC"
+D,06/05/2020 00:00:00,"Loper Enterprises, LLC",4,S-Sale,--D,35987,0,9,0001787701,Class A Common Stock
+A,06/05/2020 00:00:00,"Loper Enterprises, LLC",4,C-Conversion,--D,35987,35987,8,0001787701,Class A Common Stock
+D,06/05/2020 00:00:00,"Loper Enterprises, LLC",4,C-Conversion,--D,35987,0,7,0001787701,Class B Common Stock
+D,06/05/2020 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,35987,18893145,6,0001787620,"LLC Units in Baldwin Risk Partners, LLC"
+D,06/05/2020 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,35987,18893145,3,0001787620,Class B Common Stock
+D,06/04/2020 00:00:00,Baldwin Lowry,4,C-Conversion,--I,4675,18929132,11,0001787626,"LLC Units in Baldwin Risk Partners, LLC"
+D,06/04/2020 00:00:00,Baldwin Lowry,4,S-Sale,--I,4675,0,6,0001787626,Class A Common Stock
+A,06/04/2020 00:00:00,Baldwin Lowry,4,C-Conversion,--I,4675,4675,5,0001787626,Class A Common Stock
+D,06/04/2020 00:00:00,Baldwin Lowry,4,C-Conversion,--I,4675,18929132,4,0001787626,Class B Common Stock
+D,06/04/2020 00:00:00,"Loper Enterprises, LLC",4,C-Conversion,--D,4675,0,12,0001787701,"LLC Units in Baldwin Risk Partners, LLC"
+D,06/04/2020 00:00:00,"Loper Enterprises, LLC",4,S-Sale,--D,4675,0,6,0001787701,Class A Common Stock
+A,06/04/2020 00:00:00,"Loper Enterprises, LLC",4,C-Conversion,--D,4675,4675,5,0001787701,Class A Common Stock
+D,06/04/2020 00:00:00,"Loper Enterprises, LLC",4,C-Conversion,--D,4675,0,4,0001787701,Class B Common Stock
+D,06/04/2020 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,4675,18929132,5,0001787620,"LLC Units in Baldwin Risk Partners, LLC"
+D,06/04/2020 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,4675,18929132,2,0001787620,Class B Common Stock
+D,06/03/2020 00:00:00,Baldwin Lowry,4,C-Conversion,--I,100,18933807,10,0001787626,"LLC Units in Baldwin Risk Partners, LLC"
+D,06/03/2020 00:00:00,Baldwin Lowry,4,S-Sale,--I,100,0,3,0001787626,Class A Common Stock
+A,06/03/2020 00:00:00,Baldwin Lowry,4,C-Conversion,--I,100,100,2,0001787626,Class A Common Stock
+D,06/03/2020 00:00:00,Baldwin Lowry,4,C-Conversion,--I,100,18933807,1,0001787626,Class B Common Stock
+D,06/03/2020 00:00:00,"Loper Enterprises, LLC",4,C-Conversion,--D,100,0,11,0001787701,"LLC Units in Baldwin Risk Partners, LLC"
+D,06/03/2020 00:00:00,"Loper Enterprises, LLC",4,S-Sale,--D,100,0,3,0001787701,Class A Common Stock
+A,06/03/2020 00:00:00,"Loper Enterprises, LLC",4,C-Conversion,--D,100,100,2,0001787701,Class A Common Stock
+D,06/03/2020 00:00:00,"Loper Enterprises, LLC",4,C-Conversion,--D,100,0,1,0001787701,Class B Common Stock
+D,06/03/2020 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,100,18933807,4,0001787620,"LLC Units in Baldwin Risk Partners, LLC"
+D,06/03/2020 00:00:00,"Baldwin Insurance Group Holdings, LLC",4,S-Sale,--D,100,18933807,1,0001787620,Class B Common Stock
+A,04/01/2020 00:00:00,CASEY PHILLIP E,4,A-Award,--D,1352,133036,1,0001104173,Class A Common Stock
+A,04/01/2020 00:00:00,KADOW JOSEPH JOHN,4,A-Award,--D,1352,1352,1,0001019438,Class A Common Stock
+D,04/01/2020 00:00:00,Valentine John A.,4,F-InKind,--D,7981,19139,2,0001787661,Class A Common Stock
+A,04/01/2020 00:00:00,Valentine John A.,4,A-Award,--D,27120,27120,1,0001787661,Class A Common Stock
+D,04/01/2020 00:00:00,Baldwin Trevor,4,F-InKind,--D,6911,21571,2,0001787711,Class A Common Stock
+A,04/01/2020 00:00:00,Baldwin Trevor,4,A-Award,--D,28482,28482,1,0001787711,Class A Common Stock
+A,04/01/2020 00:00:00,SULLIVAN CHRIS THOMAS,4,A-Award,--D,1352,83036,1,0000901870,Class A Common Stock
+A,04/01/2020 00:00:00,Matas Barbara Ruth,4,A-Award,--D,1352,1352,1,0001671249,Class A Common Stock
+A,04/01/2020 00:00:00,Eddy Robert D.,4,A-Award,--D,1352,5036,1,0001788452,Class A Common Stock
+D,04/01/2020 00:00:00,Galbraith Daniel,4,F-InKind,--D,3469,10719,2,0001787629,Class A Common Stock
+A,04/01/2020 00:00:00,Galbraith Daniel,4,A-Award,--D,14188,14188,1,0001787629,Class A Common Stock
+D,04/01/2020 00:00:00,Wiebeck Kristopher Aaron,4,F-InKind,--D,6557,20563,2,0001787635,Class A Common Stock
+A,04/01/2020 00:00:00,Wiebeck Kristopher Aaron,4,A-Award,--D,27120,27120,1,0001787635,Class A Common Stock
+A,01/01/2020 00:00:00,CASEY PHILLIP E,4,A-Award,--D,766,131684,1,0001104173,Class A Common Stock
+A,01/01/2020 00:00:00,SULLIVAN CHRIS THOMAS,4,A-Award,--D,766,81684,1,0000901870,Class A Common Stock
+A,01/01/2020 00:00:00,Eddy Robert D.,4,A-Award,--D,766,3684,1,0001788452,Class A Common Stock
+A,12/27/2019 00:00:00,Stephens Christopher John,4,A-Award,--D,69503,71430,2,0001788917,"LLC Units in Baldwin Risk Partners, LLC"
+A,12/27/2019 00:00:00,Stephens Christopher John,4,A-Award,--D,69503,71430,1,0001788917,Class B Common Stock
+A,12/05/2019 00:00:00,Eddy Robert D.,4,A-Award,--D,918,2918,1,0001788452,Class A Common Stock
+A,12/05/2019 00:00:00,CASEY PHILLIP E,4,A-Award,--D,918,130918,1,0001104173,Class A Common Stock
+A,12/05/2019 00:00:00,SULLIVAN CHRIS THOMAS,4,A-Award,--D,918,80918,1,0000901870,Class A Common Stock
+D,10/28/2019 00:00:00,Parr Jennifer L.,4,S-Sale,--I,600000,2477559,3,0001792981,"LLC Units in Baldwin Risk Partners, LLC"
+D,10/28/2019 00:00:00,Parr Jennifer L.,4,J-Other,--I,600000,2477559,1,0001792981,Class B Common Stock
+D,10/28/2019 00:00:00,Morse Mark G.,4/A,S-Sale,--I,600000,2477559,1,0001792723,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/28/2019 00:00:00,Morse Mark G.,4,S-Sale,--I,600000,2477559,3,0001792723,"LLC Units in Baldwin Risk Partners, LLC"
+D,10/28/2019 00:00:00,Morse Mark G.,4,J-Other,--I,600000,2477559,1,0001792723,Class B Common Stock
+D,10/28/2019 00:00:00,Mark G. Morse Family Trust u/a/d 9/8/2005,4,S-Sale,--I,600000,2477559,3,0001792725,"LLC Units in Baldwin Risk Partners, LLC"
+D,10/28/2019 00:00:00,Mark G. Morse Family Trust u/a/d 9/8/2005,4,J-Other,--I,600000,2477559,1,0001792725,Class B Common Stock
+D,10/28/2019 00:00:00,Jennifer L. Parr Family Trust u/a/d 10/6/2005,4,S-Sale,--I,600000,2477559,3,0001792717,"LLC Units in Baldwin Risk Partners, LLC"
+D,10/28/2019 00:00:00,Jennifer L. Parr Family Trust u/a/d 10/6/2005,4,J-Other,--I,600000,2477559,1,0001792717,Class B Common Stock
+D,10/28/2019 00:00:00,Tracy Morse Family Trust u/a/d 10/1/2019,4,S-Sale,--I,600000,2477559,3,0001792701,"LLC Units in Baldwin Risk Partners, LLC"
+D,10/28/2019 00:00:00,Tracy Morse Family Trust u/a/d 10/1/2019,4,J-Other,--I,600000,2477559,1,0001792701,Class B Common Stock
+D,10/28/2019 00:00:00,Dadeo Tracy Morse,4,S-Sale,--I,600000,2477559,3,0001792719,"LLC Units in Baldwin Risk Partners, LLC"
+D,10/28/2019 00:00:00,Dadeo Tracy Morse,4,J-Other,--I,600000,2477559,1,0001792719,Class B Common Stock
+D,10/28/2019 00:00:00,"Villages Invesco, LLC",4,S-Sale,--D,600000,2477559,2,0001792697,"LLC Units in Baldwin Risk Partners, LLC"
+D,10/28/2019 00:00:00,"Villages Invesco, LLC",4,J-Other,--D,600000,2477559,1,0001792697,Class B Common Stock
+A,10/28/2019 00:00:00,Baldwin Lowry,4/A,A-Award,--I,16753,16753,1,0001787626,Class A Common Stock
+D,10/28/2019 00:00:00,Eddy Robert D.,4/A,D-Return,--I,600000,3077559,4,0001788452,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/28/2019 00:00:00,Eddy Robert D.,4/A,A-Award,--I,3677559,3677559,3,0001788452,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/28/2019 00:00:00,Eddy Robert D.,4/A,D-Return,--I,600000,3077559,2,0001788452,Class B Common Stock
+A,10/28/2019 00:00:00,Eddy Robert D.,4/A,A-Award,--I,3677559,3677559,1,0001788452,Class B Common Stock
+A,10/28/2019 00:00:00,Galbraith Daniel,4,A-Award,--D,1376592,1376592,2,0001787629,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/28/2019 00:00:00,Galbraith Daniel,4,A-Award,--D,1376592,1376592,1,0001787629,Class B Common Stock
+A,10/28/2019 00:00:00,Baldwin Trevor,4,A-Award,--D,120172,120172,2,0001787711,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/28/2019 00:00:00,Baldwin Trevor,4,A-Award,--D,120172,120172,1,0001787711,Class B Common Stock
+A,10/28/2019 00:00:00,Valentine John A.,4,A-Award,--I,190326,190326,4,0001787661,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/28/2019 00:00:00,Valentine John A.,4,A-Award,--D,1268843,1268843,3,0001787661,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/28/2019 00:00:00,Valentine John A.,4,A-Award,--I,190326,190326,2,0001787661,Class B Common Stock
+A,10/28/2019 00:00:00,Valentine John A.,4,A-Award,--D,1268843,1268843,1,0001787661,Class B Common Stock
+A,10/28/2019 00:00:00,Finney Joseph D.,4,P-Purchase,--D,35000,35000,1,0001791751,Class A Common Stock
+A,10/28/2019 00:00:00,Eddy Robert D.,4,A-Award,--I,3186246,3186246,7,0001788452,"LLC Units in Baldwin Risk Partners, LLC"
+D,10/28/2019 00:00:00,Eddy Robert D.,4,D-Return,--I,600000,2477559,6,0001788452,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/28/2019 00:00:00,Eddy Robert D.,4,A-Award,--I,3077559,3077559,5,0001788452,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/28/2019 00:00:00,Eddy Robert D.,4,A-Award,--I,3186246,3186246,4,0001788452,Class B Common Stock
+A,10/28/2019 00:00:00,Eddy Robert D.,4,D-Return,--I,600000,2477559,3,0001788452,Class B Common Stock
+A,10/28/2019 00:00:00,Eddy Robert D.,4,A-Award,--I,3077559,3077559,2,0001788452,Class B Common Stock
+A,10/28/2019 00:00:00,Eddy Robert D.,4,P-Purchase,--D,2000,2000,1,0001788452,Class A Common Stock
+A,10/28/2019 00:00:00,Roche James Morgan,4,P-Purchase,--D,266700,266700,1,0001789496,Class A Common Stock
+A,10/28/2019 00:00:00,CASEY PHILLIP E,4,P-Purchase,--D,130000,130000,1,0001104173,Class A Common Stock
+A,10/28/2019 00:00:00,Stephens Christopher John,4,A-Award,--D,1927,1927,2,0001788917,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/28/2019 00:00:00,Stephens Christopher John,4,A-Award,--D,1927,1927,1,0001788917,Class B Common Stock
+D,10/28/2019 00:00:00,Baldwin Lowry,4,D-Return,--D,1800000,0,8,0001787626,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/28/2019 00:00:00,Baldwin Lowry,4,A-Award,--I,18933907,18933907,7,0001787626,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/28/2019 00:00:00,Baldwin Lowry,4,A-Award,--D,1799999,1800000,6,0001787626,"LLC Units in Baldwin Risk Partners, LLC"
+D,10/28/2019 00:00:00,Baldwin Lowry,4,D-Return,--D,1800000,0,4,0001787626,Class B Common Stock
+A,10/28/2019 00:00:00,Baldwin Lowry,4,A-Award,--I,18933907,18933907,3,0001787626,Class B Common Stock
+A,10/28/2019 00:00:00,Baldwin Lowry,4,A-Award,--D,1799999,1800000,2,0001787626,Class B Common Stock
+A,10/28/2019 00:00:00,SULLIVAN CHRIS THOMAS,4,P-Purchase,--D,80000,80000,1,0000901870,Class A Common Stock
+A,10/28/2019 00:00:00,Wiebeck Kristopher Aaron,4,A-Award,--I,35751,35751,6,0001787635,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/28/2019 00:00:00,Wiebeck Kristopher Aaron,4,A-Award,--I,495677,495677,5,0001787635,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/28/2019 00:00:00,Wiebeck Kristopher Aaron,4,A-Award,--D,1177904,1177904,4,0001787635,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/28/2019 00:00:00,Wiebeck Kristopher Aaron,4,A-Award,--I,35751,35751,3,0001787635,Class B Common Stock
+A,10/28/2019 00:00:00,Wiebeck Kristopher Aaron,4,A-Award,--I,495677,495677,2,0001787635,Class B Common Stock
+A,10/28/2019 00:00:00,Wiebeck Kristopher Aaron,4,A-Award,--D,1177904,1177904,1,0001787635,Class B Common Stock
+A,10/28/2019 00:00:00,Hale Bradford,4,A-Award,--D,120171,120171,3,0001787574,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/28/2019 00:00:00,Hale Bradford,4,P-Purchase,--D,7000,7000,2,0001787574,Class A Common Stock
+A,10/28/2019 00:00:00,Hale Bradford,4,A-Award,--D,120171,120171,1,0001787574,Class B Common Stock
+A,10/24/2019 00:00:00,Baldwin Lowry,4,A-Award,--D,1,1,5,0001787626,"LLC Units in Baldwin Risk Partners, LLC"
+A,10/24/2019 00:00:00,Baldwin Lowry,4,A-Award,--D,1,1,1,0001787626,Class B Common Stock

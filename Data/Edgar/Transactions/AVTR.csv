@@ -1,0 +1,661 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,05/26/2023 00:00:00,Stubblefield Michael,4,G-Gift,-EI,40000,469500,3,0001776153,Common Stock
+D,05/26/2023 00:00:00,Stubblefield Michael,4,G-Gift,-ED,40000,1032937,2,0001776153,Common Stock
+D,05/17/2023 00:00:00,Couturier Christophe,4,F-InKind,--D,15706,82944,1,0001684076,Common Stock
+D,05/17/2023 00:00:00,Miller Justin,4,F-InKind,--D,12449,93336,1,0001776122,Common Stock
+D,05/17/2023 00:00:00,Stubblefield Michael,4,F-InKind,--D,106200,1172937,1,0001776153,Common Stock
+D,05/17/2023 00:00:00,Brophy Gerard,4,F-InKind,--D,19683,89032,1,0001776107,Common Stock
+D,05/17/2023 00:00:00,Eck Steven W,4,F-InKind,--D,553,21180,1,0001748813,Common Stock
+D,05/17/2023 00:00:00,Vanderhaegen Frederic,4,F-InKind,--D,2210,185735,1,0001776162,Common Stock
+D,05/17/2023 00:00:00,Szlosek Thomas A,4,F-InKind,--D,23261,77489,1,0001293167,Common Stock
+D,05/17/2023 00:00:00,Bramwell James,4,F-InKind,--D,18917,85393,1,0001776099,Common Stock
+A,05/11/2023 00:00:00,SEVERINO MICHAEL,4,A-Award,--D,9808,34974,1,0001609447,Common Stock
+A,05/11/2023 00:00:00,SUMME GREGORY L,4,A-Award,--D,9808,32534,1,0001143422,Common Stock
+A,05/11/2023 00:00:00,Murthy Mala,4,A-Award,--D,9808,18632,1,0001780955,Common Stock
+A,05/11/2023 00:00:00,Carethers John,4,A-Award,--D,9808,20281,1,0001874604,Common Stock
+A,05/11/2023 00:00:00,Peacock Jonathan M,4,A-Award,--D,9808,186147,1,0001500241,Common Stock
+A,05/11/2023 00:00:00,Kang Lan,4,A-Award,--D,9808,21738,1,0001863043,Common Stock
+A,05/11/2023 00:00:00,Massaro Joseph R,4,A-Award,--D,9808,18461,1,0001380017,Common Stock
+A,05/11/2023 00:00:00,Andres Juan,4,A-Award,--D,9808,39903,1,0001760670,Common Stock
+A,05/11/2023 00:00:00,Shaw Christi,4,A-Award,--D,9808,36271,1,0001702473,Common Stock
+A,04/16/2023 00:00:00,Stone Randy Lee,4,A-Award,--D,252238,252238,2,0001777439,Stock Options (Right to Buy)
+A,04/16/2023 00:00:00,Stone Randy Lee,4,A-Award,--D,48332,48332,1,0001777439,Common Stock
+D,04/11/2023 00:00:00,Couturier Christophe,4,S-Sale,--D,1498,98650,1,0001684076,Common Stock
+D,04/05/2023 00:00:00,Couturier Christophe,4,F-InKind,--D,569,100148,1,0001684076,Common Stock
+D,03/03/2023 00:00:00,Brophy Gerard,4,S-Sale,--D,3914,108715,1,0001776107,Common Stock
+D,02/28/2023 00:00:00,Couturier Christophe,4,S-Sale,--D,2324,100717,1,0001684076,Common Stock
+D,02/27/2023 00:00:00,Brophy Gerard,4,S-Sale,--D,3059,112629,1,0001776107,Common Stock
+D,02/25/2023 00:00:00,Brophy Gerard,4,F-InKind,--D,2040,115688,3,0001776107,Common Stock
+D,02/25/2023 00:00:00,Eck Steven W,4,F-InKind,--D,505,21733,3,0001748813,Common Stock
+D,02/25/2023 00:00:00,Szlosek Thomas A,4,F-InKind,--D,2040,104853,3,0001293167,Common Stock
+D,02/25/2023 00:00:00,Vanderhaegen Frederic,4,F-InKind,--D,299,187945,3,0001776162,Common Stock
+D,02/25/2023 00:00:00,Couturier Christophe,4,F-InKind,--D,467,103041,4,0001684076,Common Stock
+D,02/25/2023 00:00:00,Henson Meghan,4,F-InKind,--D,800,40184,3,0001839411,Common Stock
+D,02/25/2023 00:00:00,Bramwell James,4,F-InKind,--D,511,104310,3,0001776099,Common Stock
+D,02/25/2023 00:00:00,Miller Justin,4,F-InKind,--D,560,105785,3,0001776122,Common Stock
+D,02/25/2023 00:00:00,Lewis Sheri,4,F-InKind,--D,1340,75248,3,0001839410,Common Stock
+D,02/25/2023 00:00:00,Stubblefield Michael,4,F-InKind,--D,7685,1279137,3,0001776153,Common Stock
+A,02/24/2023 00:00:00,Brophy Gerard,4,A-Award,--D,49215,49215,4,0001776107,Stock Options (Right to Buy)
+A,02/24/2023 00:00:00,Brophy Gerard,4,A-Award,--D,20308,117728,2,0001776107,Common Stock
+A,02/24/2023 00:00:00,Eck Steven W,4,A-Award,--D,12963,12963,4,0001748813,Stock Options (Right to Buy)
+A,02/24/2023 00:00:00,Eck Steven W,4,A-Award,--D,5347,22238,2,0001748813,Common Stock
+A,02/24/2023 00:00:00,Szlosek Thomas A,4,A-Award,--D,54135,54135,6,0001293167,Stock Options (Right to Buy)
+A,02/24/2023 00:00:00,Szlosek Thomas A,4,A-Award,--D,22339,106893,2,0001293167,Common Stock
+A,02/24/2023 00:00:00,Vanderhaegen Frederic,4,A-Award,--D,49215,49215,4,0001776162,Stock Options (Right to Buy)
+A,02/24/2023 00:00:00,Vanderhaegen Frederic,4,A-Award,--D,20308,188244,2,0001776162,Common Stock
+A,02/24/2023 00:00:00,Couturier Christophe,4,A-Award,--D,22149,22149,5,0001684076,Stock Options (Right to Buy)
+A,02/24/2023 00:00:00,Couturier Christophe,4,A-Award,--D,9138,103508,3,0001684076,Common Stock
+A,02/24/2023 00:00:00,Henson Meghan,4,A-Award,--D,29529,29529,4,0001839411,Stock Options (Right to Buy)
+A,02/24/2023 00:00:00,Henson Meghan,4,A-Award,--D,12185,40984,2,0001839411,Common Stock
+A,02/24/2023 00:00:00,Bramwell James,4,A-Award,--D,49215,49215,4,0001776099,Stock Options (Right to Buy)
+A,02/24/2023 00:00:00,Bramwell James,4,A-Award,--D,20308,104821,2,0001776099,Common Stock
+A,02/24/2023 00:00:00,Miller Justin,4,A-Award,--D,22149,22149,4,0001776122,Stock Options (Right to Buy)
+A,02/24/2023 00:00:00,Miller Justin,4,A-Award,--D,9138,106345,2,0001776122,Common Stock
+A,02/24/2023 00:00:00,Lewis Sheri,4,A-Award,--D,29529,29529,4,0001839410,Stock Options (Right to Buy)
+A,02/24/2023 00:00:00,Lewis Sheri,4,A-Award,--D,12185,76588,2,0001839410,Common Stock
+A,02/24/2023 00:00:00,Stubblefield Michael,4,A-Award,--D,239915,239915,6,0001776153,Stock Options (Right to Buy)
+A,02/24/2023 00:00:00,Stubblefield Michael,4,A-Award,--D,99004,1286822,2,0001776153,Common Stock
+A,02/24/2023 00:00:00,Sahin Kitty,4,A-Award,--D,29529,29529,2,0001963717,Stock Options (Right to Buy)
+A,02/24/2023 00:00:00,Sahin Kitty,4,A-Award,--D,12185,38875,1,0001963717,Common Stock
+D,02/23/2023 00:00:00,Brophy Gerard,4,F-InKind,--D,1893,97420,1,0001776107,Common Stock
+D,02/23/2023 00:00:00,Eck Steven W,4,F-InKind,--D,421,16891,1,0001748813,Common Stock
+D,02/23/2023 00:00:00,Szlosek Thomas A,4,F-InKind,--D,2082,88790,1,0001293167,Common Stock
+D,02/23/2023 00:00:00,Vanderhaegen Frederic,4,F-InKind,--D,213,167936,1,0001776162,Common Stock
+D,02/23/2023 00:00:00,Couturier Christophe,4,S-Sale,--D,3078,94370,2,0001684076,Common Stock
+D,02/23/2023 00:00:00,Couturier Christophe,4,F-InKind,--D,416,97448,1,0001684076,Common Stock
+D,02/23/2023 00:00:00,Henson Meghan,4,F-InKind,--D,816,28799,1,0001839411,Common Stock
+D,02/23/2023 00:00:00,Bramwell James,4,F-InKind,--D,569,84513,1,0001776099,Common Stock
+D,02/23/2023 00:00:00,Miller Justin,4,F-InKind,--D,468,97207,1,0001776122,Common Stock
+D,02/23/2023 00:00:00,Lewis Sheri,4,F-InKind,--D,970,64403,1,0001839410,Common Stock
+D,02/23/2023 00:00:00,Stubblefield Michael,4,F-InKind,--D,7422,1187818,1,0001776153,Common Stock
+D,02/22/2023 00:00:00,Couturier Christophe,4,S-Sale,--D,19160,97160,2,0001684076,Common Stock
+D,02/20/2023 00:00:00,Szlosek Thomas A,4,F-InKind,--D,4253,90872,1,0001293167,Common Stock
+D,02/20/2023 00:00:00,Couturier Christophe,4,F-InKind,--D,1167,117024,1,0001684076,Common Stock
+D,02/20/2023 00:00:00,Miller Justin,4,F-InKind,--D,1167,97675,1,0001776122,Common Stock
+D,02/20/2023 00:00:00,Eck Steven W,4,F-InKind,--D,435,17312,1,0001748813,Common Stock
+D,02/20/2023 00:00:00,Vanderhaegen Frederic,4,F-InKind,--D,398,168149,1,0001776162,Common Stock
+D,02/20/2023 00:00:00,Brophy Gerard,4,F-InKind,--D,3072,99313,1,0001776107,Common Stock
+D,02/20/2023 00:00:00,Bramwell James,4,F-InKind,--D,1066,85082,1,0001776099,Common Stock
+D,02/20/2023 00:00:00,Stubblefield Michael,4,F-InKind,--D,15026,1195240,1,0001776153,Common Stock
+D,02/20/2023 00:00:00,Wondrasch Michael,4,F-InKind,--D,1356,96072,1,0001776065,Common Stock
+D,02/02/2023 00:00:00,Brophy Gerard,4,S-Sale,--D,11339,102385,3,0001776107,Common Stock
+D,01/31/2023 00:00:00,Couturier Christophe,4,F-InKind,--D,7658,118191,2,0001684076,Common Stock
+A,01/31/2023 00:00:00,Couturier Christophe,4,A-Award,--D,26818,125849,1,0001684076,Common Stock
+D,01/31/2023 00:00:00,Stubblefield Michael,4,F-InKind,--D,91140,1210266,2,0001776153,Common Stock
+A,01/31/2023 00:00:00,Stubblefield Michael,4,A-Award,--D,223482,1301406,1,0001776153,Common Stock
+D,01/31/2023 00:00:00,Brophy Gerard,4,F-InKind,--D,15221,113724,2,0001776107,Common Stock
+A,01/31/2023 00:00:00,Brophy Gerard,4,A-Award,--D,38737,128945,1,0001776107,Common Stock
+D,01/31/2023 00:00:00,Miller Justin,4,F-InKind,--D,7942,98842,2,0001776122,Common Stock
+A,01/31/2023 00:00:00,Miller Justin,4,A-Award,--D,26818,106784,1,0001776122,Common Stock
+D,01/31/2023 00:00:00,Szlosek Thomas A,4,F-InKind,--D,24187,124574,2,0001293167,Common Stock
+A,01/31/2023 00:00:00,Szlosek Thomas A,4,A-Award,--D,53636,148761,1,0001293167,Common Stock
+D,01/31/2023 00:00:00,Vanderhaegen Frederic,4,F-InKind,--D,2515,168547,2,0001776162,Common Stock
+A,01/31/2023 00:00:00,Vanderhaegen Frederic,4,A-Award,--D,44669,171062,1,0001776162,Common Stock
+D,01/02/2023 00:00:00,Brophy Gerard,4,F-InKind,--D,6727,90208,1,0001776107,Common Stock
+D,01/02/2023 00:00:00,Szlosek Thomas A,4,F-InKind,--D,8313,109395,1,0001293167,Common Stock
+D,01/02/2023 00:00:00,Vanderhaegen Frederic,4,F-InKind,--D,1017,126363,1,0001776162,Common Stock
+D,12/31/2022 00:00:00,Henson Meghan,4,F-InKind,--D,1790,29615,1,0001839411,Common Stock
+D,12/31/2022 00:00:00,Lewis Sheri,4,F-InKind,--D,6075,65373,1,0001839410,Common Stock
+A,11/16/2022 00:00:00,Szlosek Thomas A,4,P-Purchase,--I,12500,35668,1,0001293167,Common Stock
+A,11/16/2022 00:00:00,Stubblefield Michael,4,P-Purchase,--I,15000,429500,1,0001776153,Common Stock
+D,05/23/2022 00:00:00,Vanderhaegen Frederic,4,S-Sale,--D,39000,126764,1,0001776162,Common Stock
+D,05/20/2022 00:00:00,Brophy Gerard,4,S-Sale,--D,19603,96935,1,0001776107,Common Stock
+D,05/17/2022 00:00:00,Vanderhaegen Frederic,4,F-InKind,--D,2210,165764,1,0001776162,Common Stock
+D,05/17/2022 00:00:00,Eck Steven W,4,F-InKind,--D,573,17747,1,0001748813,Common Stock
+D,05/17/2022 00:00:00,Miller Justin,4,F-InKind,--D,12935,79312,1,0001776122,Common Stock
+D,05/17/2022 00:00:00,Szlosek Thomas A,4,F-InKind,--D,23261,140260,1,0001293167,Common Stock
+D,05/17/2022 00:00:00,Couturier Christophe,4,F-InKind,--D,16212,98348,1,0001684076,Common Stock
+D,05/17/2022 00:00:00,Stubblefield Michael,4,F-InKind,--D,108700,1189841,1,0001776153,Common Stock
+D,05/17/2022 00:00:00,Brophy Gerard,4,F-InKind,--D,19683,116538,1,0001776107,Common Stock
+A,05/12/2022 00:00:00,SEVERINO MICHAEL,4,A-Award,--D,6693,25166,1,0001609447,Common Stock
+A,05/12/2022 00:00:00,Shaw Christi,4,A-Award,--D,6693,26463,1,0001702473,Common Stock
+A,05/12/2022 00:00:00,Holt Matthew S.,4,A-Award,--D,6693,7908,1,0001631836,Common Stock
+A,05/12/2022 00:00:00,Murthy Mala,4,A-Award,--D,6693,8824,1,0001780955,Common Stock
+A,05/12/2022 00:00:00,Massaro Joseph R,4,A-Award,--D,6693,8653,1,0001380017,Common Stock
+A,05/12/2022 00:00:00,Carethers John,4,A-Award,--D,6693,10473,1,0001874604,Common Stock
+A,05/12/2022 00:00:00,Andres Juan,4,A-Award,--D,6693,30095,1,0001760670,Common Stock
+A,05/12/2022 00:00:00,Peacock Jonathan M,4,A-Award,--D,6693,176339,1,0001500241,Common Stock
+A,05/12/2022 00:00:00,Kang Lan,4,A-Award,--D,6693,11930,1,0001863043,Common Stock
+A,05/12/2022 00:00:00,SUMME GREGORY L,4,A-Award,--D,6693,22726,1,0001143422,Common Stock
+A,05/04/2022 00:00:00,Stubblefield Michael,4,G-Gift,-EI,14500,414500,2,0001776153,Common Stock
+D,05/04/2022 00:00:00,Stubblefield Michael,4,G-Gift,-ED,14500,1298541,1,0001776153,Common Stock
+D,04/05/2022 00:00:00,Couturier Christophe,4,F-InKind,--D,568,114560,1,0001684076,Common Stock
+A,04/01/2022 00:00:00,Holt Matthew S.,4,A-Award,--D,1215,1215,1,0001631836,Common Stock
+A,04/01/2022 00:00:00,Massaro Joseph R,4,A-Award,--D,1215,1960,1,0001380017,Common Stock
+A,04/01/2022 00:00:00,Andres Juan,4,A-Award,--D,1215,23402,1,0001760670,Common Stock
+A,04/01/2022 00:00:00,Shaw Christi,4,A-Award,--D,1215,19770,1,0001702473,Common Stock
+A,04/01/2022 00:00:00,Peacock Jonathan M,4,A-Award,--D,1215,169646,1,0001500241,Common Stock
+A,04/01/2022 00:00:00,Kang Lan,4,A-Award,--D,1215,5237,1,0001863043,Common Stock
+A,04/01/2022 00:00:00,GUPTA RAJIV,4,A-Award,--D,1215,780562,1,0001068731,Common Stock
+A,04/01/2022 00:00:00,Murthy Mala,4,A-Award,--D,1215,2131,1,0001780955,Common Stock
+A,04/01/2022 00:00:00,SUMME GREGORY L,4,A-Award,--D,1215,16033,1,0001143422,Common Stock
+A,04/01/2022 00:00:00,SEVERINO MICHAEL,4,A-Award,--D,1215,18473,1,0001609447,Common Stock
+A,04/01/2022 00:00:00,Carethers John,4,A-Award,--D,1215,3780,1,0001874604,Common Stock
+D,03/01/2022 00:00:00,Brophy Gerard,4,S-Sale,--D,2027,136221,1,0001776107,Common Stock
+D,02/25/2022 00:00:00,Vanderhaegen Frederic,4,F-InKind,--D,216,167974,2,0001776162,Common Stock
+D,02/25/2022 00:00:00,Szlosek Thomas A,4,F-InKind,--D,2043,252746,2,0001293167,Common Stock
+D,02/25/2022 00:00:00,Brophy Gerard,4,F-InKind,--D,2043,138248,3,0001776107,Common Stock
+D,02/25/2022 00:00:00,Couturier Christophe,4,F-InKind,--D,467,115128,2,0001684076,Common Stock
+D,02/25/2022 00:00:00,Eck Steven W,4,F-InKind,--D,518,18320,2,0001748813,Common Stock
+D,02/25/2022 00:00:00,Henson Meghan,4,F-InKind,--D,931,31405,2,0001839411,Common Stock
+D,02/25/2022 00:00:00,Lewis Sheri,4,F-InKind,--D,1137,71448,2,0001839410,Common Stock
+D,02/25/2022 00:00:00,Miller Justin,4,F-InKind,--D,583,92247,2,0001776122,Common Stock
+D,02/25/2022 00:00:00,Stubblefield Michael,4,F-InKind,--D,7866,1313041,2,0001776153,Common Stock
+A,02/23/2022 00:00:00,Vanderhaegen Frederic,4,A-Award,--D,43708,43708,3,0001776162,Stock Options (Right to Buy)
+A,02/23/2022 00:00:00,Vanderhaegen Frederic,4,A-Award,--D,15110,168190,1,0001776162,Common Stock
+A,02/23/2022 00:00:00,Szlosek Thomas A,4,A-Award,--D,48079,48079,3,0001293167,Stock Options (Right to Buy)
+A,02/23/2022 00:00:00,Szlosek Thomas A,4,A-Award,--D,16621,254789,1,0001293167,Common Stock
+A,02/23/2022 00:00:00,Brophy Gerard,4,A-Award,--D,43708,43708,4,0001776107,Stock Options (Right to Buy)
+A,02/23/2022 00:00:00,Brophy Gerard,4,A-Award,--D,15110,140291,2,0001776107,Common Stock
+D,02/23/2022 00:00:00,Brophy Gerard,4,S-Sale,--D,3059,125181,1,0001776107,Common Stock
+A,02/23/2022 00:00:00,Couturier Christophe,4,A-Award,--D,17483,17483,3,0001684076,Stock Options (Right to Buy)
+A,02/23/2022 00:00:00,Couturier Christophe,4,A-Award,--D,6044,115595,1,0001684076,Common Stock
+A,02/23/2022 00:00:00,Eck Steven W,4,A-Award,--D,14858,14858,3,0001748813,Stock Options (Right to Buy)
+A,02/23/2022 00:00:00,Eck Steven W,4,A-Award,--D,5138,18838,1,0001748813,Common Stock
+A,02/23/2022 00:00:00,Henson Meghan,4,A-Award,--D,24035,24035,3,0001839411,Stock Options (Right to Buy)
+A,02/23/2022 00:00:00,Henson Meghan,4,A-Award,--D,8311,32336,1,0001839411,Common Stock
+A,02/23/2022 00:00:00,Lewis Sheri,4,A-Award,--D,28406,28406,3,0001839410,Stock Options (Right to Buy)
+A,02/23/2022 00:00:00,Lewis Sheri,4,A-Award,--D,9822,72585,1,0001839410,Common Stock
+A,02/23/2022 00:00:00,Miller Justin,4,A-Award,--D,19664,19664,3,0001776122,Stock Options (Right to Buy)
+A,02/23/2022 00:00:00,Miller Justin,4,A-Award,--D,6800,92830,1,0001776122,Common Stock
+A,02/23/2022 00:00:00,Stubblefield Michael,4,A-Award,--D,202143,202143,3,0001776153,Stock Options (Right to Buy)
+A,02/23/2022 00:00:00,Stubblefield Michael,4,A-Award,--D,69885,1320907,1,0001776153,Common Stock
+D,02/20/2022 00:00:00,Miller Justin,4,F-InKind,--D,1328,86030,1,0001776122,Common Stock
+D,02/20/2022 00:00:00,Szlosek Thomas A,4,F-InKind,--D,4040,238168,1,0001293167,Common Stock
+D,02/20/2022 00:00:00,Couturier Christophe,4,F-InKind,--D,1267,109551,1,0001684076,Common Stock
+D,02/20/2022 00:00:00,Brophy Gerard,4,F-InKind,--D,3072,128240,1,0001776107,Common Stock
+D,02/20/2022 00:00:00,Stubblefield Michael,4,F-InKind,--D,10959,1251022,1,0001776153,Common Stock
+D,02/20/2022 00:00:00,Vanderhaegen Frederic,4,F-InKind,--D,398,153080,1,0001776162,Common Stock
+D,02/20/2022 00:00:00,Eck Steven W,4,F-InKind,--D,448,13700,1,0001748813,Common Stock
+D,01/13/2022 00:00:00,Murray Mark Christopher,4,F-InKind,--D,918,18680,1,0001800013,Common Stock
+D,01/05/2022 00:00:00,Brophy Gerard,4,S-Sale,--D,11551,131312,4,0001776107,Common Stock
+D,01/03/2022 00:00:00,Brophy Gerard,4,M-Exempt,--D,59418,59417,5,0001776107,Stock Options (Right to Buy)
+D,01/03/2022 00:00:00,Brophy Gerard,4,S-Sale,--D,59418,142863,3,0001776107,Common Stock
+A,01/03/2022 00:00:00,Brophy Gerard,4,M-Exempt,--D,59418,202281,2,0001776107,Common Stock
+D,01/02/2022 00:00:00,Wondrasch Michael,4,F-InKind,--D,9517,104312,1,0001776065,Common Stock
+D,01/02/2022 00:00:00,Brophy Gerard,4,F-InKind,--D,6516,142863,1,0001776107,Common Stock
+D,01/02/2022 00:00:00,Szlosek Thomas A,4,F-InKind,--D,8101,242208,1,0001293167,Common Stock
+D,01/02/2022 00:00:00,Vanderhaegen Frederic,4,F-InKind,--D,1017,153478,1,0001776162,Common Stock
+D,12/31/2021 00:00:00,Henson Meghan,4,F-InKind,--D,1877,24025,1,0001839411,Common Stock
+D,12/31/2021 00:00:00,Lewis Sheri,4,F-InKind,--D,4093,62763,1,0001839410,Common Stock
+D,12/27/2021 00:00:00,Couturier Christophe,4,M-Exempt,--D,10184,96901,3,0001684076,Stock Options (Right to Buy)
+D,12/27/2021 00:00:00,Couturier Christophe,4,S-Sale,--D,10184,110497,2,0001684076,Common Stock
+A,12/27/2021 00:00:00,Couturier Christophe,4,M-Exempt,--D,10184,120681,1,0001684076,Common Stock
+D,12/22/2021 00:00:00,Couturier Christophe,4,M-Exempt,--D,28125,107085,6,0001684076,Stock Options (Right to Buy)
+D,12/22/2021 00:00:00,Couturier Christophe,4,S-Sale,--D,28125,110497,4,0001684076,Common Stock
+A,12/22/2021 00:00:00,Couturier Christophe,4,M-Exempt,--D,28125,138622,3,0001684076,Common Stock
+D,12/21/2021 00:00:00,Couturier Christophe,4,M-Exempt,--D,38309,96901,5,0001684076,Stock Options (Right to Buy)
+D,12/21/2021 00:00:00,Couturier Christophe,4,S-Sale,--D,38309,110497,2,0001684076,Common Stock
+A,12/21/2021 00:00:00,Couturier Christophe,4,M-Exempt,--D,38309,148806,1,0001684076,Common Stock
+D,12/09/2021 00:00:00,Couturier Christophe,4,M-Exempt,--D,7859,41058,6,0001684076,Stock Options (Right to Buy)
+D,12/09/2021 00:00:00,Couturier Christophe,4,S-Sale,--D,7859,110497,4,0001684076,Common Stock
+A,12/09/2021 00:00:00,Couturier Christophe,4,M-Exempt,--D,7859,118356,3,0001684076,Common Stock
+D,12/08/2021 00:00:00,Couturier Christophe,4,M-Exempt,--D,5828,48917,5,0001684076,Stock Options (Right to Buy)
+D,12/08/2021 00:00:00,Couturier Christophe,4,S-Sale,--D,5828,110497,2,0001684076,Common Stock
+A,12/08/2021 00:00:00,Couturier Christophe,4,M-Exempt,--D,5828,116325,1,0001684076,Common Stock
+D,12/01/2021 00:00:00,GUPTA RAJIV,4,S-Sale,--D,100000,879347,1,0001068731,Common Stock
+D,11/12/2021 00:00:00,Vanderhaegen Frederic,4,M-Exempt,--D,80000,460830,4,0001776162,Stock Options (Right to Buy)
+D,11/12/2021 00:00:00,Vanderhaegen Frederic,4,S-Sale,--D,80000,154495,3,0001776162,Common Stock
+A,11/12/2021 00:00:00,Vanderhaegen Frederic,4,M-Exempt,--D,80000,234495,2,0001776162,Common Stock
+D,11/11/2021 00:00:00,Vanderhaegen Frederic,4,S-Sale,--D,60804,154495,1,0001776162,Common Stock
+D,11/09/2021 00:00:00,GUPTA RAJIV,5,G-Gift,--D,100000,779347,1,0001068731,Common Stock
+A,11/08/2021 00:00:00,Massaro Joseph R,4,A-Award,--D,745,745,1,0001380017,Common Stock
+D,11/01/2021 00:00:00,GUPTA RAJIV,4,S-Sale,--D,100000,979347,1,0001068731,Common Stock
+A,10/28/2021 00:00:00,Murthy Mala,4,A-Award,--D,916,916,1,0001780955,Common Stock
+D,10/01/2021 00:00:00,GUPTA RAJIV,4,S-Sale,--D,100000,1079347,1,0001068731,Common Stock
+D,09/20/2021 00:00:00,Stubblefield Michael,4,S-Sale,--D,141300,1261981,1,0001776153,Common Stock
+D,09/01/2021 00:00:00,GUPTA RAJIV,4,S-Sale,--D,100000,1179347,1,0001068731,Common Stock
+D,08/26/2021 00:00:00,Eck Steven W,4,S-Sale,--D,17383,14148,1,0001748813,Common Stock
+D,08/20/2021 00:00:00,GUPTA RAJIV,4,S-Sale,--D,100000,1279347,1,0001068731,Common Stock
+D,07/30/2021 00:00:00,Brophy Gerard,4,M-Exempt,--D,81125,81125,3,0001776107,Stock Options (Right to Buy)
+D,07/30/2021 00:00:00,Brophy Gerard,4,S-Sale,--D,81125,149379,2,0001776107,Common Stock
+A,07/30/2021 00:00:00,Brophy Gerard,4,M-Exempt,--D,81125,230504,1,0001776107,Common Stock
+D,07/20/2021 00:00:00,Bramwell James,4,S-Sale,--D,6112,79899,1,0001776099,Common Stock
+A,07/15/2021 00:00:00,Carethers John,4,A-Award,--D,2565,2565,1,0001874604,Common Stock
+A,07/12/2021 00:00:00,Natauri Jo,4,P-Purchase,--I,300,557656.3,1,0001776123,"Common Stock, par value $0.01 per share"
+D,07/09/2021 00:00:00,Bramwell James,4,S-Sale,--D,12221,86011,2,0001776099,Common Stock
+D,07/09/2021 00:00:00,Bramwell James,4,S-Sale,--D,6110,98232,1,0001776099,Common Stock
+D,06/28/2021 00:00:00,Couturier Christophe,4,S-Sale,--D,28096,110077,1,0001684076,Common Stock
+D,06/25/2021 00:00:00,GUPTA RAJIV,4,S-Sale,--D,68605,1379347,1,0001068731,Common Stock
+D,06/10/2021 00:00:00,Stubblefield Michael,4,M-Exempt,--D,57375,0,12,0001776153,Common Stock
+D,06/10/2021 00:00:00,Stubblefield Michael,4,M-Exempt,--D,42512,0,11,0001776153,Stock Options (Right to Buy)
+D,06/10/2021 00:00:00,Stubblefield Michael,4,S-Sale,--D,57375,1403281,8,0001776153,Common Stock
+A,06/10/2021 00:00:00,Stubblefield Michael,4,M-Exempt,--D,57375,1460656,7,0001776153,Common Stock
+D,06/10/2021 00:00:00,Stubblefield Michael,4,S-Sale,--D,42512,1403281,6,0001776153,Common Stock
+A,06/10/2021 00:00:00,Stubblefield Michael,4,M-Exempt,--D,42512,1445793,5,0001776153,Common Stock
+D,06/09/2021 00:00:00,Stubblefield Michael,4,M-Exempt,--D,235170,42512,10,0001776153,Stock Options (Right to Buy)
+D,06/09/2021 00:00:00,Stubblefield Michael,4,S-Sale,--D,235170,1403281,4,0001776153,Common Stock
+A,06/09/2021 00:00:00,Stubblefield Michael,4,M-Exempt,--D,235170,1638451,3,0001776153,Common Stock
+D,06/08/2021 00:00:00,Stubblefield Michael,4,M-Exempt,--D,152643,277682,9,0001776153,Stock Options (Right to Buy)
+D,06/08/2021 00:00:00,Stubblefield Michael,4,S-Sale,--D,152643,1403281,2,0001776153,Common Stock
+A,06/08/2021 00:00:00,Stubblefield Michael,4,M-Exempt,--D,152643,1555924,1,0001776153,Common Stock
+D,05/27/2021 00:00:00,GUPTA RAJIV,4,S-Sale,--I,78109,278109,3,0001068731,Common Stock
+D,05/27/2021 00:00:00,Ohri Devashish,4,M-Exempt,--D,100000,347181,3,0001776125,Stock Options (Right to Buy)
+D,05/27/2021 00:00:00,Ohri Devashish,4,S-Sale,--D,100000,139095,2,0001776125,Common Stock
+A,05/27/2021 00:00:00,Ohri Devashish,4,M-Exempt,--D,100000,239095,1,0001776125,Common Stock
+D,05/26/2021 00:00:00,GUPTA RAJIV,4,S-Sale,--I,150000,356218,2,0001068731,Common Stock
+D,05/26/2021 00:00:00,Ohri Devashish,4,M-Exempt,--D,15000,447181,3,0001776125,Stock Options (Right to Buy)
+D,05/26/2021 00:00:00,Ohri Devashish,4,S-Sale,--D,15000,139095,2,0001776125,Common Stock
+A,05/26/2021 00:00:00,Ohri Devashish,4,M-Exempt,--D,15000,154095,1,0001776125,Common Stock
+D,05/24/2021 00:00:00,GUPTA RAJIV,4,S-Sale,--I,157571,506218,3,0001068731,Common Stock
+D,05/24/2021 00:00:00,GUPTA RAJIV,4,S-Sale,--I,180000,663789,2,0001068731,Common Stock
+D,05/24/2021 00:00:00,Ohri Devashish,4,M-Exempt,--D,9124,27372,3,0001776125,Stock Options (Right to Buy)
+D,05/24/2021 00:00:00,Ohri Devashish,4,S-Sale,--D,9124,139095,2,0001776125,Common Stock
+A,05/24/2021 00:00:00,Ohri Devashish,4,M-Exempt,--D,9124,148219,1,0001776125,Common Stock
+D,05/21/2021 00:00:00,Wondrasch Michael,4,S-Sale,--D,18488,113295,1,0001776065,Common Stock
+D,05/20/2021 00:00:00,Miller Justin,4,S-Sale,--D,18488,86536,1,0001776122,Common Stock
+D,05/20/2021 00:00:00,Couturier Christophe,4,S-Sale,--D,25010,138173,1,0001684076,Common Stock
+D,05/20/2021 00:00:00,Brophy Gerard,4,S-Sale,--D,19603,149379,1,0001776107,Common Stock
+D,05/17/2021 00:00:00,Brophy Gerard,4,F-InKind,--D,19683,168982,1,0001776107,Common Stock
+D,05/17/2021 00:00:00,Vanderhaegen Frederic,4,F-InKind,--D,2210,214384,1,0001776162,Common Stock
+D,05/17/2021 00:00:00,Bramwell James,4,F-InKind,--D,14324,103812,1,0001776099,Common Stock
+D,05/17/2021 00:00:00,Szlosek Thomas A,4,F-InKind,--D,23261,249394,1,0001293167,Common Stock
+D,05/17/2021 00:00:00,Miller Justin,4,F-InKind,--D,13655,105024,1,0001776122,Common Stock
+D,05/17/2021 00:00:00,Wondrasch Michael,4,F-InKind,--D,13655,131783,1,0001776065,Common Stock
+D,05/17/2021 00:00:00,Eck Steven W,4,F-InKind,--D,553,31531,1,0001748813,Common Stock
+D,05/17/2021 00:00:00,Stubblefield Michael,4,F-InKind,--D,106200,1403281,1,0001776153,Common Stock
+D,05/17/2021 00:00:00,Couturier Christophe,4,F-InKind,--D,14276,163183,1,0001684076,Common Stock
+D,05/17/2021 00:00:00,Ohri Devashish,4,F-InKind,--D,16793,139095,1,0001776125,Common Stock
+A,05/14/2021 00:00:00,Kang Lan,4,A-Award,--D,4022,4022,1,0001863043,Common Stock
+D,05/14/2021 00:00:00,Ohri Devashish,4,M-Exempt,--D,25000,462181,3,0001776125,Stock Options (Right to Buy)
+D,05/14/2021 00:00:00,Ohri Devashish,4,D-Return,--D,25000,155888,2,0001776125,Common Stock
+A,05/14/2021 00:00:00,Ohri Devashish,4,M-Exempt,--D,25000,180888,1,0001776125,Common Stock
+A,05/11/2021 00:00:00,Natauri Jo,4,J-Other,--D,92661,92661,3,0001776123,"Common Stock, par value $0.01 per share"
+D,05/11/2021 00:00:00,Natauri Jo,4,J-Other,--I,24729495,175624.77,2,0001776123,"Common Stock, par value $0.01 per share"
+D,05/11/2021 00:00:00,Natauri Jo,4,S-Sale,--I,2626771,24807517.77,1,0001776123,"Common Stock, par value $0.01 per share"
+D,04/30/2021 00:00:00,Ohri Devashish,4,M-Exempt,--D,53649,487181,3,0001776125,Stock Options (Right to Buy)
+D,04/30/2021 00:00:00,Ohri Devashish,4,S-Sale,--D,53649,155888,2,0001776125,Common Stock
+A,04/30/2021 00:00:00,Ohri Devashish,4,M-Exempt,--D,53649,209537,1,0001776125,Common Stock
+D,04/12/2021 00:00:00,Ohri Devashish,4,M-Exempt,--D,100160,0,3,0001776125,Stock Options (Right to Buy)
+D,04/12/2021 00:00:00,Ohri Devashish,4,S-Sale,--D,100160,155888,2,0001776125,Common Stock
+A,04/12/2021 00:00:00,Ohri Devashish,4,M-Exempt,--D,100160,256048,1,0001776125,Common Stock
+D,04/12/2021 00:00:00,Vanderhaegen Frederic,4,S-Sale,--D,17075,216594,2,0001776162,Common Stock
+D,04/12/2021 00:00:00,Vanderhaegen Frederic,4,S-Sale,--D,10000,233669,1,0001776162,Common Stock
+D,04/12/2021 00:00:00,Bramwell James,4,S-Sale,--D,2505,118136,1,0001776099,Common Stock
+D,04/12/2021 00:00:00,Miller Justin,4,M-Exempt,--D,100000,305625,4,0001776122,Stock Options (Right to Buy)
+D,04/12/2021 00:00:00,Miller Justin,4,S-Sale,--D,100000,118679,3,0001776122,Common Stock
+A,04/12/2021 00:00:00,Miller Justin,4,M-Exempt,--D,100000,218679,2,0001776122,Common Stock
+D,04/12/2021 00:00:00,Miller Justin,4,S-Sale,--D,2895,118679,1,0001776122,Common Stock
+A,04/05/2021 00:00:00,Couturier Christophe,4,A-Award,--D,8267,177459,1,0001684076,Common Stock
+D,03/09/2021 00:00:00,Vanderhaegen Frederic,4,S-Sale,--D,10000,243669,1,0001776162,Common Stock
+D,03/02/2021 00:00:00,Wondrasch Michael,4,S-Sale,--D,3036,145438,1,0001776065,Common Stock
+A,02/25/2021 00:00:00,Eck Steven W,4,A-Award,--D,19906,19906,2,0001748813,Stock Options (Right to Buy)
+A,02/25/2021 00:00:00,Eck Steven W,4,A-Award,--D,6151,32084,1,0001748813,Common Stock
+A,02/25/2021 00:00:00,Peacock Jonathan M,4,A-Award,--D,7236,168431,1,0001500241,Common Stock
+A,02/25/2021 00:00:00,Andres Juan,4,A-Award,--D,7236,22187,1,0001760670,Common Stock
+A,02/25/2021 00:00:00,SUMME GREGORY L,4,A-Award,--D,7236,14818,1,0001143422,Common Stock
+A,02/25/2021 00:00:00,Shaw Christi,4,A-Award,--D,7236,18555,1,0001702473,Common Stock
+A,02/25/2021 00:00:00,GUPTA RAJIV,4,A-Award,--D,7236,1447952,1,0001068731,Common Stock
+A,02/25/2021 00:00:00,Lewis Sheri,4,A-Award,--D,43911,43911,2,0001839410,Stock Options (Right to Buy)
+A,02/25/2021 00:00:00,Lewis Sheri,4,A-Award,--D,13567,66856,1,0001839410,Common Stock
+A,02/25/2021 00:00:00,SEVERINO MICHAEL,4,A-Award,--D,7236,17258,1,0001609447,Common Stock
+A,02/25/2021 00:00:00,Henrichwark Sven,4,A-Award,--D,17564,17564,2,0001800677,Stock Options (Right to Buy)
+A,02/25/2021 00:00:00,Henrichwark Sven,4,A-Award,--D,5427,19802,1,0001800677,Common Stock
+A,02/25/2021 00:00:00,Stubblefield Michael,4,A-Award,--D,234192,234192,2,0001776153,Stock Options (Right to Buy)
+A,02/25/2021 00:00:00,Stubblefield Michael,4,A-Award,--D,72359,1509481,1,0001776153,Common Stock
+A,02/25/2021 00:00:00,Couturier Christophe,4,A-Award,--D,21956,21956,2,0001684076,Stock Options (Right to Buy)
+A,02/25/2021 00:00:00,Couturier Christophe,4,A-Award,--D,6784,169192,1,0001684076,Common Stock
+A,02/25/2021 00:00:00,SACHDEV RAKESH,4,A-Award,--D,7236,32841,1,0001259543,Common Stock
+A,02/25/2021 00:00:00,Bramwell James,4,A-Award,--D,17564,17564,2,0001776099,Stock Options (Right to Buy)
+A,02/25/2021 00:00:00,Bramwell James,4,A-Award,--D,5427,120641,1,0001776099,Common Stock
+A,02/25/2021 00:00:00,Ohri Devashish,4,A-Award,--D,17564,17564,2,0001776125,Stock Options (Right to Buy)
+A,02/25/2021 00:00:00,Ohri Devashish,4,A-Award,--D,5427,155888,1,0001776125,Common Stock
+A,02/25/2021 00:00:00,Henson Meghan,4,A-Award,--D,26347,26347,2,0001839411,Common Stock
+A,02/25/2021 00:00:00,Henson Meghan,4,A-Award,--D,8140,25902,1,0001839411,Common Stock
+A,02/25/2021 00:00:00,Szlosek Thomas A,4,A-Award,--D,52693,52693,2,0001293167,Stock Options (Right to Buy)
+A,02/25/2021 00:00:00,Szlosek Thomas A,4,A-Award,--D,16281,272655,1,0001293167,Common Stock
+A,02/25/2021 00:00:00,Miller Justin,4,A-Award,--D,26347,26347,2,0001776122,Stock Options (Right to Buy)
+A,02/25/2021 00:00:00,Miller Justin,4,A-Award,--D,8140,121574,1,0001776122,Common Stock
+A,02/25/2021 00:00:00,Wondrasch Michael,4,A-Award,--D,26347,26347,2,0001776065,Stock Options (Right to Buy)
+A,02/25/2021 00:00:00,Wondrasch Michael,4,A-Award,--D,8140,148474,1,0001776065,Common Stock
+A,02/25/2021 00:00:00,Vanderhaegen Frederic,4,A-Award,--D,52693,52693,2,0001776162,Stock Options (Right to Buy)
+A,02/25/2021 00:00:00,Vanderhaegen Frederic,4,A-Award,--D,16281,253669,1,0001776162,Common Stock
+A,02/25/2021 00:00:00,Murray Mark Christopher,4,A-Award,--D,26347,26347,2,0001800013,Stock Options (Right to Buy)
+A,02/25/2021 00:00:00,Murray Mark Christopher,4,A-Award,--D,8140,19598,1,0001800013,Common Stock
+A,02/25/2021 00:00:00,Brophy Gerard,4,A-Award,--D,52693,52693,2,0001776107,Stock Options (Right to Buy)
+A,02/25/2021 00:00:00,Brophy Gerard,4,A-Award,--D,16281,188665,1,0001776107,Common Stock
+D,02/24/2021 00:00:00,Eck Steven W,4,F-InKind,--D,2577,25955,2,0001748813,Common Stock
+A,02/24/2021 00:00:00,Eck Steven W,4,M-Exempt,--D,8550,28532,1,0001748813,Common Stock
+D,02/24/2021 00:00:00,Brophy Gerard,4,S-Sale,--D,3059,172384,1,0001776107,Common Stock
+D,02/22/2021 00:00:00,Brophy Gerard,4,M-Exempt,--D,19769,59306,4,0001776107,Stock Options (Right to Buy)
+D,02/22/2021 00:00:00,Brophy Gerard,4,S-Sale,--D,19769,175443,3,0001776107,Common Stock
+A,02/22/2021 00:00:00,Brophy Gerard,4,M-Exempt,--D,19769,195212,2,0001776107,Common Stock
+D,02/22/2021 00:00:00,Brophy Gerard,4,F-InKind,--D,3072,175443,1,0001776107,Common Stock
+D,02/22/2021 00:00:00,Couturier Christophe,4,F-InKind,--D,1313,162408,1,0001684076,Common Stock
+D,02/22/2021 00:00:00,Wondrasch Michael,4,F-InKind,--D,1209,140334,1,0001776065,Common Stock
+D,02/22/2021 00:00:00,Miller Justin,4,F-InKind,--D,1350,113434,1,0001776122,Common Stock
+D,02/22/2021 00:00:00,Eck Steven W,4,F-InKind,--D,449,19982,1,0001748813,Common Stock
+D,02/22/2021 00:00:00,Vanderhaegen Frederic,4,F-InKind,--D,398,237388,1,0001776162,Common Stock
+D,02/22/2021 00:00:00,Stubblefield Michael,4,F-InKind,--D,10141,1437122,1,0001776153,Common Stock
+D,02/22/2021 00:00:00,Bramwell James,4,F-InKind,--D,1216,115214,1,0001776099,Common Stock
+D,02/22/2021 00:00:00,Ohri Devashish,4,F-InKind,--D,1210,150461,1,0001776125,Common Stock
+D,02/22/2021 00:00:00,Szlosek Thomas A,4,F-InKind,--D,2980,256374,1,0001293167,Common Stock
+D,02/05/2021 00:00:00,Wondrasch Michael,4,M-Exempt,--D,40000,230415,4,0001776065,Stock Options (Right to Buy)
+D,02/05/2021 00:00:00,Wondrasch Michael,4,S-Sale,--D,40000,141543,3,0001776065,Common Stock
+A,02/05/2021 00:00:00,Wondrasch Michael,4,M-Exempt,--D,40000,181543,2,0001776065,Common Stock
+D,02/05/2021 00:00:00,Wondrasch Michael,4,S-Sale,--D,9468,141543,1,0001776065,Common Stock
+D,01/13/2021 00:00:00,Murray Mark Christopher,4,F-InKind,--D,918,11458,1,0001800013,Common Stock
+D,01/11/2021 00:00:00,Bramwell James,4,S-Sale,--D,2505,116430,1,0001776099,Common Stock
+D,01/11/2021 00:00:00,Brophy Gerard,4,M-Exempt,--D,162248,162250,5,0001776107,Stock Options (Right to Buy)
+D,01/11/2021 00:00:00,Brophy Gerard,4,S-Sale,--D,162248,178515,4,0001776107,Common Stock
+A,01/11/2021 00:00:00,Brophy Gerard,4,M-Exempt,--D,162248,340763,3,0001776107,Common Stock
+D,01/11/2021 00:00:00,Brophy Gerard,4,S-Sale,--D,216332,178515,2,0001776107,Common Stock
+A,01/11/2021 00:00:00,Brophy Gerard,4,M-Exempt,--D,216332,394847,1,0001776107,Common Stock
+D,01/06/2021 00:00:00,Brophy Gerard,4,S-Sale,--D,11509,178515,1,0001776107,Common Stock
+D,01/04/2021 00:00:00,Brophy Gerard,4,M-Exempt,--D,59418,118835,4,0001776107,Stock Options (Right to Buy)
+D,01/04/2021 00:00:00,Brophy Gerard,4,S-Sale,--D,59418,190024,3,0001776107,Common Stock
+A,01/04/2021 00:00:00,Brophy Gerard,4,M-Exempt,--D,59418,249442,2,0001776107,Common Stock
+D,01/02/2021 00:00:00,Brophy Gerard,4,F-InKind,--D,6559,190024,1,0001776107,Common Stock
+D,01/02/2021 00:00:00,Szlosek Thomas A,4,F-InKind,--D,8135,257999,1,0001293167,Common Stock
+D,01/02/2021 00:00:00,Vanderhaegen Frederic,4,F-InKind,--D,1017,236414,1,0001776162,Common Stock
+D,01/02/2021 00:00:00,Wondrasch Michael,4,F-InKind,--D,4083,149974,1,0001776065,Common Stock
+A,12/31/2020 00:00:00,Henson Meghan,4,A-Award,--D,177305,177305,2,0001839411,Stock Options (Right to Buy)
+A,12/31/2020 00:00:00,Henson Meghan,4,A-Award,--D,17762,17762,1,0001839411,Common Stock
+A,12/31/2020 00:00:00,Lewis Sheri,4,A-Award,--D,59102,59102,2,0001839410,Stock Options (Right to Buy)
+A,12/31/2020 00:00:00,Lewis Sheri,4,A-Award,--D,53286,53286,1,0001839410,Common Stock
+D,12/31/2020 00:00:00,Eck Steven W,4,F-InKind,--D,3052,20431,1,0001748813,Common Stock
+D,12/21/2020 00:00:00,Bramwell James,4,S-Sale,--D,10020,117768,1,0001776099,Common Stock
+D,12/11/2020 00:00:00,GUPTA RAJIV,5,G-Gift,--D,316000,1440716,1,0001068731,Common Stock
+A,12/11/2020 00:00:00,Stubblefield Michael,4,G-Gift,-EI,400000,400000,2,0001776153,Common Stock
+D,12/11/2020 00:00:00,Stubblefield Michael,4,G-Gift,-ED,400000,1447265,1,0001776153,Common Stock
+D,12/11/2020 00:00:00,Shaw Christi,4,S-Sale,--D,14286,11319,1,0001702473,Common Stock
+D,12/07/2020 00:00:00,Stubblefield Michael,4,M-Exempt,--D,201369,0,6,0001776153,Stock Options (Right to Buy)
+D,12/07/2020 00:00:00,Stubblefield Michael,4,S-Sale,--D,98452,1847265,4,0001776153,Common Stock
+A,12/07/2020 00:00:00,Stubblefield Michael,4,M-Exempt,--D,210369,1945717,3,0001776153,Common Stock
+D,12/04/2020 00:00:00,Stubblefield Michael,4,M-Exempt,--D,880601,201369,5,0001776153,Stock Options (Right to Buy)
+D,12/04/2020 00:00:00,Stubblefield Michael,4,S-Sale,--D,412188,1735348,2,0001776153,Common Stock
+A,12/04/2020 00:00:00,Stubblefield Michael,4,M-Exempt,--D,880601,2147536,1,0001776153,Common Stock
+D,11/10/2020 00:00:00,"New Mountain Investments III, LLC",4,S-Sale,--I,36016093,28000000,1,0001515175,Common Stock
+D,10/05/2020 00:00:00,Ohri Devashish,4,M-Exempt,--D,50000,100160,9,0001776125,Stock Options (Right to Buy)
+D,10/05/2020 00:00:00,Ohri Devashish,4,M-Exempt,--D,35000,150160,8,0001776125,Stock Options (Right to Buy)
+D,10/05/2020 00:00:00,Ohri Devashish,4,M-Exempt,--D,18440,0,7,0001776125,Stock Options (Right to Buy)
+D,10/05/2020 00:00:00,Ohri Devashish,4,S-Sale,--D,50000,151671,6,0001776125,Common Stock
+A,10/05/2020 00:00:00,Ohri Devashish,4,M-Exempt,--D,50000,201671,5,0001776125,Common Stock
+D,10/05/2020 00:00:00,Ohri Devashish,4,S-Sale,--D,35000,151671,4,0001776125,Common Stock
+A,10/05/2020 00:00:00,Ohri Devashish,4,M-Exempt,--D,35000,186671,3,0001776125,Common Stock
+D,10/05/2020 00:00:00,Ohri Devashish,4,S-Sale,--D,18440,151671,2,0001776125,Common Stock
+A,10/05/2020 00:00:00,Ohri Devashish,4,M-Exempt,--D,18440,170111,1,0001776125,Common Stock
+D,09/16/2020 00:00:00,Ohri Devashish,4,M-Exempt,--D,35000,18440,3,0001776125,Stock Options (Right to Buy)
+D,09/16/2020 00:00:00,Ohri Devashish,4,S-Sale,--D,35000,151671,2,0001776125,Common Stock
+A,09/16/2020 00:00:00,Ohri Devashish,4,M-Exempt,--D,35000,186671,1,0001776125,Common Stock
+D,09/08/2020 00:00:00,Miller Justin,4,S-Sale,--D,22887,113507,1,0001776122,Common Stock
+D,08/21/2020 00:00:00,"New Mountain Investments III, LLC",4,S-Sale,--I,25575472,64016093,1,0001515175,Common Stock
+D,08/21/2020 00:00:00,Natauri Jo,4,S-Sale,--I,15397005,43483708,1,0001776123,"Common Stock, par value $0.01 per share"
+D,08/21/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,15397005,43483708,1,0000769993,"Common Stock, par value $0.01 per share"
+D,08/19/2020 00:00:00,GUPTA RAJIV,4,M-Exempt,--D,430325,0,5,0001068731,Stock Options (Right to Buy)
+D,08/19/2020 00:00:00,GUPTA RAJIV,4,M-Exempt,--D,717645,0,4,0001068731,Stock Options (Right to Buy)
+D,08/19/2020 00:00:00,GUPTA RAJIV,4,G-Gift,--D,100000,1756716,2,0001068731,Common Stock
+A,08/19/2020 00:00:00,GUPTA RAJIV,4,M-Exempt,--D,1147970,1856716,1,0001068731,Common Stock
+D,07/30/2020 00:00:00,Ohri Devashish,4,M-Exempt,--D,35000,53440,3,0001776125,Stock Options (Right to Buy)
+D,07/30/2020 00:00:00,Ohri Devashish,4,S-Sale,--D,35000,151671,2,0001776125,Common Stock
+A,07/30/2020 00:00:00,Ohri Devashish,4,M-Exempt,--D,35000,186671,1,0001776125,Common Stock
+A,07/01/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,62,58861148,30,0001776123,"Common Stock, par value $0.01 per share"
+D,07/01/2020 00:00:00,Natauri Jo,4/A,S-Sale,--I,13404,58861086,29,0001776123,"Common Stock, par value $0.01 per share"
+D,07/01/2020 00:00:00,Natauri Jo,4/A,S-Sale,--I,2006,58874490,28,0001776123,"Common Stock, par value $0.01 per share"
+A,07/01/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,347,58876496,27,0001776123,"Common Stock, par value $0.01 per share"
+A,07/01/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,436,58876149,26,0001776123,"Common Stock, par value $0.01 per share"
+D,07/01/2020 00:00:00,Natauri Jo,4/A,S-Sale,--I,10000,58875713,25,0001776123,"Common Stock, par value $0.01 per share"
+A,07/01/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,646,58885713,24,0001776123,"Common Stock, par value $0.01 per share"
+A,07/01/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,62,58861148,30,0000769993,"Common Stock, par value $0.01 per share"
+D,07/01/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,S-Sale,--I,13404,58861086,29,0000769993,"Common Stock, par value $0.01 per share"
+D,07/01/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,S-Sale,--I,2006,58874490,28,0000769993,"Common Stock, par value $0.01 per share"
+A,07/01/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,347,58876496,27,0000769993,"Common Stock, par value $0.01 per share"
+A,07/01/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,436,58876149,26,0000769993,"Common Stock, par value $0.01 per share"
+D,07/01/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,S-Sale,--I,10000,58875713,25,0000769993,"Common Stock, par value $0.01 per share"
+A,07/01/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,646,58885713,24,0000769993,"Common Stock, par value $0.01 per share"
+A,06/30/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,56,58883342,23,0001776123,"Common Stock, par value $0.01 per share"
+A,06/30/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,1103,58883286,22,0001776123,"Common Stock, par value $0.01 per share"
+D,06/30/2020 00:00:00,Natauri Jo,4/A,S-Sale,--I,3653,58882183,21,0001776123,"Common Stock, par value $0.01 per share"
+A,06/30/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,400,58885836,20,0001776123,"Common Stock, par value $0.01 per share"
+A,06/30/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,584,58885436,19,0001776123,"Common Stock, par value $0.01 per share"
+D,06/30/2020 00:00:00,Natauri Jo,4/A,S-Sale,--I,400,58884852,18,0001776123,"Common Stock, par value $0.01 per share"
+A,06/30/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,1910,58885252,17,0001776123,"Common Stock, par value $0.01 per share"
+A,06/30/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,56,58883342,23,0000769993,"Common Stock, par value $0.01 per share"
+A,06/30/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,1103,58883286,22,0000769993,"Common Stock, par value $0.01 per share"
+D,06/30/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,S-Sale,--I,3653,58882183,21,0000769993,"Common Stock, par value $0.01 per share"
+A,06/30/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,400,58885836,20,0000769993,"Common Stock, par value $0.01 per share"
+A,06/30/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,584,58885436,19,0000769993,"Common Stock, par value $0.01 per share"
+D,06/30/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,S-Sale,--I,400,58884852,18,0000769993,"Common Stock, par value $0.01 per share"
+A,06/30/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,1910,58885252,17,0000769993,"Common Stock, par value $0.01 per share"
+D,06/26/2020 00:00:00,Natauri Jo,4/A,S-Sale,--I,20,58881208,16,0001776123,"Common Stock, par value $0.01 per share"
+A,06/26/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,20,58881228,15,0001776123,"Common Stock, par value $0.01 per share"
+D,06/26/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,S-Sale,--I,20,58881208,16,0000769993,"Common Stock, par value $0.01 per share"
+A,06/26/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,20,58881228,15,0000769993,"Common Stock, par value $0.01 per share"
+A,06/25/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,151,58881889,14,0001776123,"Common Stock, par value $0.01 per share"
+D,06/25/2020 00:00:00,Natauri Jo,4/A,S-Sale,--I,151,58881738,13,0001776123,"Common Stock, par value $0.01 per share"
+A,06/25/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,151,58881889,14,0000769993,"Common Stock, par value $0.01 per share"
+D,06/25/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,S-Sale,--I,151,58881738,13,0000769993,"Common Stock, par value $0.01 per share"
+D,06/23/2020 00:00:00,Natauri Jo,4/A,S-Sale,--I,300,58881411,12,0001776123,"Common Stock, par value $0.01 per share"
+A,06/23/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,300,58881711,11,0001776123,"Common Stock, par value $0.01 per share"
+D,06/23/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,S-Sale,--I,300,58881411,12,0000769993,"Common Stock, par value $0.01 per share"
+A,06/23/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,300,58881711,11,0000769993,"Common Stock, par value $0.01 per share"
+D,06/22/2020 00:00:00,Natauri Jo,4/A,S-Sale,--I,29,58881433,10,0001776123,"Common Stock, par value $0.01 per share"
+A,06/22/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,29,58881462,9,0001776123,"Common Stock, par value $0.01 per share"
+D,06/22/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,S-Sale,--I,29,58881433,10,0000769993,"Common Stock, par value $0.01 per share"
+A,06/22/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,29,58881462,9,0000769993,"Common Stock, par value $0.01 per share"
+D,06/19/2020 00:00:00,Natauri Jo,4/A,S-Sale,--I,2,58881467,8,0001776123,"Common Stock, par value $0.01 per share"
+A,06/19/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,2,58881469,7,0001776123,"Common Stock, par value $0.01 per share"
+D,06/19/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,S-Sale,--I,2,58881467,8,0000769993,"Common Stock, par value $0.01 per share"
+A,06/19/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,2,58881469,7,0000769993,"Common Stock, par value $0.01 per share"
+D,06/18/2020 00:00:00,Natauri Jo,4/A,S-Sale,--I,630,96,32,0001776123,6.250% Series A Mandatory Convertible Preferred Stock
+A,06/18/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,630,726,31,0001776123,6.250% Series A Mandatory Convertible Preferred Stock
+A,06/18/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,6798,58881461,6,0001776123,"Common Stock, par value $0.01 per share"
+D,06/18/2020 00:00:00,Natauri Jo,4/A,S-Sale,--I,6798,58874663,5,0001776123,"Common Stock, par value $0.01 per share"
+D,06/18/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,S-Sale,--I,630,96,32,0000769993,6.250% Series A Mandatory Convertible Preferred Stock
+A,06/18/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,630,726,31,0000769993,6.250% Series A Mandatory Convertible Preferred Stock
+A,06/18/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,6798,58881461,6,0000769993,"Common Stock, par value $0.01 per share"
+D,06/18/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,S-Sale,--I,6798,58874663,5,0000769993,"Common Stock, par value $0.01 per share"
+D,06/18/2020 00:00:00,Connolly Thomas,4,S-Sale,--I,630,96,32,0001776597,6.250% Series A Mandatory Convertible Preferred Stock
+A,06/18/2020 00:00:00,Connolly Thomas,4,P-Purchase,--I,630,726,31,0001776597,6.250% Series A Mandatory Convertible Preferred Stock
+A,06/12/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,300,58881101,4,0001776123,"Common Stock, par value $0.01 per share"
+D,06/12/2020 00:00:00,Natauri Jo,4/A,S-Sale,--I,300,58880801,3,0001776123,"Common Stock, par value $0.01 per share"
+A,06/12/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,300,58881101,4,0000769993,"Common Stock, par value $0.01 per share"
+D,06/12/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,S-Sale,--I,300,58880801,3,0000769993,"Common Stock, par value $0.01 per share"
+D,06/11/2020 00:00:00,Natauri Jo,4/A,S-Sale,--I,2055,58880977,2,0001776123,"Common Stock, par value $0.01 per share"
+A,06/11/2020 00:00:00,Natauri Jo,4/A,P-Purchase,--I,2055,58883032,1,0001776123,"Common Stock, par value $0.01 per share"
+D,06/11/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,S-Sale,--I,2055,58880977,2,0000769993,"Common Stock, par value $0.01 per share"
+A,06/11/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4/A,P-Purchase,--I,2055,58883032,1,0000769993,"Common Stock, par value $0.01 per share"
+D,05/29/2020 00:00:00,Ohri Devashish,4,M-Exempt,--D,35000,88440,6,0001776125,Stock Options (Right to Buy)
+D,05/29/2020 00:00:00,Ohri Devashish,4,M-Exempt,--D,30000,185160,5,0001776125,Stock Options (Right to Buy)
+D,05/29/2020 00:00:00,Ohri Devashish,4,S-Sale,--D,35000,151671,4,0001776125,Common Stock
+A,05/29/2020 00:00:00,Ohri Devashish,4,M-Exempt,--D,35000,186671,3,0001776125,Common Stock
+D,05/29/2020 00:00:00,Ohri Devashish,4,S-Sale,--D,30000,151671,2,0001776125,Common Stock
+A,05/29/2020 00:00:00,Ohri Devashish,4,M-Exempt,--D,30000,181671,1,0001776125,Common Stock
+D,05/26/2020 00:00:00,"New Mountain Investments III, LLC",4,S-Sale,--I,20886424,89591565,1,0001515175,Common Stock
+D,05/26/2020 00:00:00,Natauri Jo,4,S-Sale,--I,13726411,58881710,2,0001776123,"Common Stock, par value $0.01 per share"
+D,05/26/2020 00:00:00,Connolly Thomas,4,S-Sale,--I,13726411,58881710,2,0001776597,"Common Stock, par value $0.01 per share"
+D,05/26/2020 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,13726411,58881710,2,0000769993,"Common Stock, par value $0.01 per share"
+D,05/22/2020 00:00:00,Wondrasch Michael,4,S-Sale,--D,22987,154087,1,0001776065,Common Stock
+D,05/20/2020 00:00:00,Brophy Gerard,4,S-Sale,--D,25495,196583,1,0001776107,Common Stock
+D,05/17/2020 00:00:00,Szlosek Thomas A,4,F-InKind,--D,21287,266134,1,0001293167,Common Stock
+D,05/17/2020 00:00:00,Wondrasch Michael,4,F-InKind,--D,9155,177044,1,0001776065,Common Stock
+D,05/17/2020 00:00:00,Brophy Gerard,4,F-InKind,--D,13790,222078,1,0001776107,Common Stock
+D,05/17/2020 00:00:00,Couturier Christophe,4,F-InKind,--D,11189,162932,1,0001684076,Common Stock
+D,05/17/2020 00:00:00,Vanderhaegen Frederic,4,F-InKind,--D,2210,237431,1,0001776162,Common Stock
+D,05/17/2020 00:00:00,Miller Justin,4,F-InKind,--D,9155,136394,1,0001776122,Common Stock
+D,05/17/2020 00:00:00,Ohri Devashish,4,F-InKind,--D,16791,151671,1,0001776125,Common Stock
+D,05/17/2020 00:00:00,McAllister Eric,4,F-InKind,--D,9155,197899,1,0001776120,Common Stock
+D,05/17/2020 00:00:00,Stubblefield Michael,4,F-InKind,--D,108700,1266935,1,0001776153,Common Stock
+D,05/17/2020 00:00:00,Bramwell James,4,F-InKind,--D,12102,127788,1,0001776099,Common Stock
+D,05/17/2020 00:00:00,Eck Steven W,4,F-InKind,--D,573,23483,1,0001748813,Common Stock
+A,05/08/2020 00:00:00,SUMME GREGORY L,4,A-Award,--D,7582,7582,1,0001143422,Common Stock
+D,04/24/2020 00:00:00,McAllister Eric,4,F-InKind,--D,8975,207054,1,0001776120,Common Stock
+A,04/23/2020 00:00:00,SEVERINO MICHAEL,4,A-Award,--D,10022,10022,1,0001609447,Common Stock
+D,03/12/2020 00:00:00,Stubblefield Michael,4,M-Exempt,--D,200000,1090970,2,0001776153,Stock Options (Right to Buy)
+A,03/12/2020 00:00:00,Stubblefield Michael,4,M-Exempt,--D,200000,1375635,1,0001776153,Common Stock
+D,03/10/2020 00:00:00,GUPTA RAJIV,4,M-Exempt,--D,143000,717645,3,0001068731,Stock Options (Right to Buy)
+A,03/10/2020 00:00:00,GUPTA RAJIV,4,M-Exempt,--D,143000,708746,1,0001068731,Common Stock
+A,02/21/2020 00:00:00,Foxe Tanya,4,A-Award,--D,66910,66910,2,0001790162,Stock Options (Right to Buy)
+A,02/21/2020 00:00:00,Foxe Tanya,4,A-Award,--D,20751,39458,1,0001790162,Common Stock
+A,02/21/2020 00:00:00,Ohri Devashish,4,A-Award,--D,36496,36496,2,0001776125,Stock Options (Right to Buy)
+A,02/21/2020 00:00:00,Ohri Devashish,4,A-Award,--D,11319,168462,1,0001776125,Common Stock
+A,02/21/2020 00:00:00,Shaw Christi,4,A-Award,--D,11319,25605,1,0001702473,Common Stock
+A,02/21/2020 00:00:00,Andres Juan,4,A-Award,--D,11319,14951,1,0001760670,Common Stock
+A,02/21/2020 00:00:00,Miller Justin,4,A-Award,--D,54745,54745,2,0001776122,Stock Options (Right to Buy)
+A,02/21/2020 00:00:00,Miller Justin,4,A-Award,--D,16978,145549,1,0001776122,Common Stock
+A,02/21/2020 00:00:00,GUPTA RAJIV,4,A-Award,--D,11319,565746,1,0001068731,Common Stock
+A,02/21/2020 00:00:00,SACHDEV RAKESH,4,A-Award,--D,11319,25605,1,0001259543,Common Stock
+A,02/21/2020 00:00:00,Wondrasch Michael,4,A-Award,--D,54745,54745,2,0001776065,Stock Options (Right to Buy)
+A,02/21/2020 00:00:00,Wondrasch Michael,4,A-Award,--D,16978,186199,1,0001776065,Common Stock
+A,02/21/2020 00:00:00,Couturier Christophe,4,A-Award,--D,54745,54745,2,0001684076,Stock Options (Right to Buy)
+A,02/21/2020 00:00:00,Couturier Christophe,4,A-Award,--D,16978,174121,1,0001684076,Common Stock
+A,02/21/2020 00:00:00,Stubblefield Michael,4,A-Award,--D,456204,456204,2,0001776153,Stock Options (Right to Buy)
+A,02/21/2020 00:00:00,Stubblefield Michael,4,A-Award,--D,141483,1175635,1,0001776153,Common Stock
+A,02/21/2020 00:00:00,Eck Steven W,4,A-Award,--D,51323,51323,2,0001748813,Stock Options (Right to Buy)
+A,02/21/2020 00:00:00,Eck Steven W,4,A-Award,--D,5306,24056,1,0001748813,Common Stock
+A,02/21/2020 00:00:00,Bramwell James,4,A-Award,--D,36496,36496,2,0001776099,Stock Options (Right to Buy)
+A,02/21/2020 00:00:00,Bramwell James,4,A-Award,--D,11319,139890,1,0001776099,Common Stock
+A,02/21/2020 00:00:00,Vanderhaegen Frederic,4,A-Award,--D,91241,91241,2,0001776162,Stock Options (Right to Buy)
+A,02/21/2020 00:00:00,Vanderhaegen Frederic,4,A-Award,--D,28297,239641,1,0001776162,Common Stock
+A,02/21/2020 00:00:00,Peacock Jonathan M,4,A-Award,--D,11319,161195,1,0001500241,Common Stock
+A,02/21/2020 00:00:00,McAllister Eric,4,A-Award,--D,54745,54745,2,0001776120,Stock Options (Right to Buy)
+A,02/21/2020 00:00:00,McAllister Eric,4,A-Award,--D,16978,216029,1,0001776120,Common Stock
+A,02/21/2020 00:00:00,Szlosek Thomas A,4,A-Award,--D,109489,109489,2,0001293167,Stock Options (Right to Buy)
+A,02/21/2020 00:00:00,Szlosek Thomas A,4,A-Award,--D,33956,287421,1,0001293167,Common Stock
+A,02/21/2020 00:00:00,Brophy Gerard,4,A-Award,--D,79075,79075,2,0001776107,Stock Options (Right to Buy)
+A,02/21/2020 00:00:00,Brophy Gerard,4,A-Award,--D,24524,235868,1,0001776107,Common Stock
+D,02/18/2020 00:00:00,Ohri Devashish,4,M-Exempt,--D,20000,123440,3,0001776125,Stock Options (Right to Buy)
+D,02/18/2020 00:00:00,Ohri Devashish,4,S-Sale,--D,20000,157143,2,0001776125,Common Stock
+A,02/18/2020 00:00:00,Ohri Devashish,4,M-Exempt,--D,20000,177143,1,0001776125,Common Stock
+A,01/21/2020 00:00:00,Henrichwark Sven,4,A-Award,--D,140306,140306,2,0001800677,Stock Options (Right to Buy)
+A,01/21/2020 00:00:00,Henrichwark Sven,4,A-Award,--D,14375,14375,1,0001800677,Common Stock
+A,01/13/2020 00:00:00,Murray Mark Christopher,4,A-Award,--D,120107,120107,2,0001800013,Stock Options (Right to Buy)
+A,01/13/2020 00:00:00,Murray Mark Christopher,4,A-Award,--D,12376,12376,1,0001800013,Common Stock
+A,01/02/2020 00:00:00,Szlosek Thomas A,4,A-Award,--D,222816,222816,2,0001293167,Stock Options (Right to Buy)
+A,01/02/2020 00:00:00,Szlosek Thomas A,4,A-Award,--D,67751,253465,1,0001293167,Common Stock
+A,01/02/2020 00:00:00,Wondrasch Michael,4,A-Award,--D,133690,133690,2,0001776065,Stock Options (Right to Buy)
+A,01/02/2020 00:00:00,Wondrasch Michael,4,A-Award,--D,40650,169221,1,0001776065,Common Stock
+A,01/02/2020 00:00:00,Brophy Gerard,4,A-Award,--D,178253,178253,2,0001776107,Stock Options (Right to Buy)
+A,01/02/2020 00:00:00,Brophy Gerard,4,A-Award,--D,54201,211344,1,0001776107,Common Stock
+A,01/02/2020 00:00:00,Vanderhaegen Frederic,4,A-Award,--D,178253,178253,2,0001776162,Stock Options (Right to Buy)
+A,01/02/2020 00:00:00,Vanderhaegen Frederic,4,A-Award,--D,54201,211344,1,0001776162,Common Stock
+A,09/30/2019 00:00:00,Foxe Tanya,4,A-Award,--D,171162,171162,2,0001790162,Stock Options (Right to Buy)
+A,09/30/2019 00:00:00,Foxe Tanya,4,A-Award,--D,18707,18707,1,0001790162,Common Stock
+D,09/25/2019 00:00:00,Natauri Jo,4,S-Sale,--I,9922,72620082.41,30,0001776123,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,Natauri Jo,4,P-Purchase,--I,9922,72630004.41,29,0001776123,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,Natauri Jo,4,S-Sale,--I,5164,72620082.41,28,0001776123,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,Natauri Jo,4,P-Purchase,--I,5164,72625246.41,27,0001776123,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,Natauri Jo,4,S-Sale,--I,100,72620082.41,26,0001776123,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,Natauri Jo,4,P-Purchase,--I,100,72620182.41,25,0001776123,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,Natauri Jo,4,S-Sale,--I,3800,72620082.41,24,0001776123,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,Natauri Jo,4,P-Purchase,--I,3800,72623882.41,23,0001776123,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,Natauri Jo,4,S-Sale,--I,100,72620082.41,22,0001776123,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,Natauri Jo,4,P-Purchase,--I,100,72620182.41,21,0001776123,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,Natauri Jo,4,S-Sale,--I,4146,72620082.41,20,0001776123,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,Natauri Jo,4,P-Purchase,--I,4146,72624228.41,19,0001776123,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,Natauri Jo,4,S-Sale,--I,1768,72620082.41,18,0001776123,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,Natauri Jo,4,P-Purchase,--I,1768,72621850.41,17,0001776123,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,9922,72620082.41,30,0000769993,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,P-Purchase,--I,9922,72630004.41,29,0000769993,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,5164,72620082.41,28,0000769993,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,P-Purchase,--I,5164,72625246.41,27,0000769993,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,100,72620082.41,26,0000769993,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,P-Purchase,--I,100,72620182.41,25,0000769993,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,3800,72620082.41,24,0000769993,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,P-Purchase,--I,3800,72623882.41,23,0000769993,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,100,72620082.41,22,0000769993,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,P-Purchase,--I,100,72620182.41,21,0000769993,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,4146,72620082.41,20,0000769993,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,P-Purchase,--I,4146,72624228.41,19,0000769993,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,1768,72620082.41,18,0000769993,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,P-Purchase,--I,1768,72621850.41,17,0000769993,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,Connolly Thomas,4,S-Sale,--I,9922,72620082.41,30,0001776597,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,Connolly Thomas,4,P-Purchase,--I,9922,72630004.41,29,0001776597,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,Connolly Thomas,4,S-Sale,--I,5164,72620082.41,28,0001776597,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,Connolly Thomas,4,P-Purchase,--I,5164,72625246.41,27,0001776597,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,Connolly Thomas,4,S-Sale,--I,100,72620082.41,26,0001776597,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,Connolly Thomas,4,P-Purchase,--I,100,72620182.41,25,0001776597,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,Connolly Thomas,4,S-Sale,--I,3800,72620082.41,24,0001776597,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,Connolly Thomas,4,P-Purchase,--I,3800,72623882.41,23,0001776597,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,Connolly Thomas,4,S-Sale,--I,100,72620082.41,22,0001776597,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,Connolly Thomas,4,P-Purchase,--I,100,72620182.41,21,0001776597,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,Connolly Thomas,4,S-Sale,--I,4146,72620082.41,20,0001776597,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,Connolly Thomas,4,P-Purchase,--I,4146,72624228.41,19,0001776597,"Common Stock, par value $0.01 per share"
+D,09/25/2019 00:00:00,Connolly Thomas,4,S-Sale,--I,1768,72620082.41,18,0001776597,"Common Stock, par value $0.01 per share"
+A,09/25/2019 00:00:00,Connolly Thomas,4,P-Purchase,--I,1768,72621850.41,17,0001776597,"Common Stock, par value $0.01 per share"
+A,09/20/2019 00:00:00,Andres Juan,4,A-Award,--D,3632,3632,1,0001760670,Common Stock
+D,09/09/2019 00:00:00,Natauri Jo,4,S-Sale,--I,149694,72623876.99,16,0001776123,"Common Stock, par value $0.01 per share"
+A,09/09/2019 00:00:00,Natauri Jo,4,P-Purchase,--I,149694,72773570.99,15,0001776123,"Common Stock, par value $0.01 per share"
+D,09/09/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,149694,72623876.99,16,0000769993,"Common Stock, par value $0.01 per share"
+A,09/09/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,P-Purchase,--I,149694,72773570.99,15,0000769993,"Common Stock, par value $0.01 per share"
+D,09/09/2019 00:00:00,Connolly Thomas,4,S-Sale,--I,149694,72623876.99,16,0001776597,"Common Stock, par value $0.01 per share"
+A,09/09/2019 00:00:00,Connolly Thomas,4,P-Purchase,--I,149694,72773570.99,15,0001776597,"Common Stock, par value $0.01 per share"
+D,09/06/2019 00:00:00,Natauri Jo,4,S-Sale,--I,49200,72616161,14,0001776123,"Common Stock, par value $0.01 per share"
+A,09/06/2019 00:00:00,Natauri Jo,4,P-Purchase,--I,49200,72665361,13,0001776123,"Common Stock, par value $0.01 per share"
+D,09/06/2019 00:00:00,Natauri Jo,4,S-Sale,--I,67437,72616161,12,0001776123,"Common Stock, par value $0.01 per share"
+A,09/06/2019 00:00:00,Natauri Jo,4,P-Purchase,--I,67437,72683598,11,0001776123,"Common Stock, par value $0.01 per share"
+D,09/06/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,49200,72616161,14,0000769993,"Common Stock, par value $0.01 per share"
+A,09/06/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,P-Purchase,--I,49200,72665361,13,0000769993,"Common Stock, par value $0.01 per share"
+D,09/06/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,67437,72616161,12,0000769993,"Common Stock, par value $0.01 per share"
+A,09/06/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,P-Purchase,--I,67437,72683598,11,0000769993,"Common Stock, par value $0.01 per share"
+D,09/06/2019 00:00:00,Connolly Thomas,4,S-Sale,--I,49200,72616161,14,0001776597,"Common Stock, par value $0.01 per share"
+A,09/06/2019 00:00:00,Connolly Thomas,4,P-Purchase,--I,49200,72665361,13,0001776597,"Common Stock, par value $0.01 per share"
+D,09/06/2019 00:00:00,Connolly Thomas,4,S-Sale,--I,67437,72616161,12,0001776597,"Common Stock, par value $0.01 per share"
+A,09/06/2019 00:00:00,Connolly Thomas,4,P-Purchase,--I,67437,72683598,11,0001776597,"Common Stock, par value $0.01 per share"
+D,08/12/2019 00:00:00,Natauri Jo,4,S-Sale,--I,9,72616449,10,0001776123,"Common Stock, par value $0.01 per share"
+A,08/12/2019 00:00:00,Natauri Jo,4,P-Purchase,--I,9,72616458,9,0001776123,"Common Stock, par value $0.01 per share"
+D,08/12/2019 00:00:00,Natauri Jo,4,S-Sale,--I,16245,72616449,8,0001776123,"Common Stock, par value $0.01 per share"
+A,08/12/2019 00:00:00,Natauri Jo,4,P-Purchase,--I,16245,72632694,7,0001776123,"Common Stock, par value $0.01 per share"
+D,08/12/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,9,72616449,10,0000769993,"Common Stock, par value $0.01 per share"
+A,08/12/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,P-Purchase,--I,9,72616458,9,0000769993,"Common Stock, par value $0.01 per share"
+D,08/12/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,16245,72616449,8,0000769993,"Common Stock, par value $0.01 per share"
+A,08/12/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,P-Purchase,--I,16245,72632694,7,0000769993,"Common Stock, par value $0.01 per share"
+D,08/12/2019 00:00:00,Connolly Thomas,4,S-Sale,--I,9,72616449,10,0001776597,"Common Stock, par value $0.01 per share"
+A,08/12/2019 00:00:00,Connolly Thomas,4,P-Purchase,--I,9,72616458,9,0001776597,"Common Stock, par value $0.01 per share"
+D,08/12/2019 00:00:00,Connolly Thomas,4,S-Sale,--I,16245,72616449,8,0001776597,"Common Stock, par value $0.01 per share"
+A,08/12/2019 00:00:00,Connolly Thomas,4,P-Purchase,--I,16245,72632694,7,0001776597,"Common Stock, par value $0.01 per share"
+D,08/06/2019 00:00:00,Natauri Jo,4,S-Sale,--I,88,72614176.87,6,0001776123,"Common Stock, par value $0.01 per share"
+A,08/06/2019 00:00:00,Natauri Jo,4,P-Purchase,--I,88,72614264.87,5,0001776123,"Common Stock, par value $0.01 per share"
+D,08/06/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,88,72614176.87,6,0000769993,"Common Stock, par value $0.01 per share"
+A,08/06/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,P-Purchase,--I,88,72614264.87,5,0000769993,"Common Stock, par value $0.01 per share"
+D,08/06/2019 00:00:00,Connolly Thomas,4,S-Sale,--I,88,72614176.87,6,0001776597,"Common Stock, par value $0.01 per share"
+A,08/06/2019 00:00:00,Connolly Thomas,4,P-Purchase,--I,88,72614264.87,5,0001776597,"Common Stock, par value $0.01 per share"
+D,07/31/2019 00:00:00,Natauri Jo,4,S-Sale,--I,55,72612175,4,0001776123,"Common Stock, par value $0.01 per share"
+A,07/31/2019 00:00:00,Natauri Jo,4,P-Purchase,--I,55,72612230,3,0001776123,"Common Stock, par value $0.01 per share"
+D,07/31/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,55,72612175,4,0000769993,"Common Stock, par value $0.01 per share"
+A,07/31/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,P-Purchase,--I,55,72612230,3,0000769993,"Common Stock, par value $0.01 per share"
+D,07/31/2019 00:00:00,Connolly Thomas,4,S-Sale,--I,55,72612175,4,0001776597,"Common Stock, par value $0.01 per share"
+A,07/31/2019 00:00:00,Connolly Thomas,4,P-Purchase,--I,55,72612230,3,0001776597,"Common Stock, par value $0.01 per share"
+D,06/13/2019 00:00:00,Natauri Jo,4,X-InTheMoney,--I,1133920,0,3,0001776123,Warrants to purchase Common Stock
+A,06/13/2019 00:00:00,Natauri Jo,4,X-InTheMoney,--I,1133920,72605349,1,0001776123,"Common Stock, par value $0.01 per share"
+D,06/13/2019 00:00:00,Connolly Thomas,4,X-InTheMoney,--I,1133920,0,3,0001776597,Warrants to purchase Common Stock
+A,06/13/2019 00:00:00,Connolly Thomas,4,X-InTheMoney,--I,1133920,72605349,1,0001776597,"Common Stock, par value $0.01 per share"
+D,06/13/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,X-InTheMoney,--I,1133920,0,3,0000769993,Warrants to purchase Common Stock
+A,06/13/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,X-InTheMoney,--I,1133920,72605349,1,0000769993,"Common Stock, par value $0.01 per share"
+A,05/21/2019 00:00:00,Miller Justin,4,A-Award,--D,128571,128571,1,0001776122,Common Stock
+D,05/21/2019 00:00:00,"New Mountain Investments III, LLC",4,S-Sale,--I,100,110477989,1,0001515175,Common Stock
+A,05/21/2019 00:00:00,Kulkarni Ashish,4,A-Award,--D,128571,128571,1,0001776119,Common Stock
+A,05/21/2019 00:00:00,Couturier Christophe,4,A-Award,--D,157143,157143,1,0001684076,Common Stock
+A,05/21/2019 00:00:00,Bramwell James,4,A-Award,--D,128571,128571,1,0001776099,Common Stock
+D,05/21/2019 00:00:00,Peacock Jonathan M,4,M-Exempt,--D,1000,0,3,0001500241,Existing Junior Convertible Preferred
+A,05/21/2019 00:00:00,Peacock Jonathan M,4,M-Exempt,--D,117857,142001,2,0001500241,Common Stock
+A,05/21/2019 00:00:00,Peacock Jonathan M,4,A-Award,--D,14286,24144,1,0001500241,Common Stock
+A,05/21/2019 00:00:00,Ohri Devashish,4,A-Award,--D,157143,157143,1,0001776125,Common Stock
+A,05/21/2019 00:00:00,Shaw Christi,4,A-Award,--D,14286,14286,1,0001702473,Common Stock
+A,05/21/2019 00:00:00,Walker Corey,4,A-Award,--D,157143,227623,1,0001776172,Common Stock
+A,05/21/2019 00:00:00,Vanderhaegen Frederic,4,A-Award,--D,157143,157143,1,0001776162,Common Stock
+A,05/21/2019 00:00:00,Brophy Gerard,4,A-Award,--D,157143,157143,1,0001776107,Common Stock
+A,05/21/2019 00:00:00,Szlosek Thomas A,4,A-Award,--D,185714,185714,1,0001293167,Common Stock
+D,05/21/2019 00:00:00,GUPTA RAJIV,4,M-Exempt,--I,4440,0,3,0001068731,Existing Junior Convertible Preferred
+A,05/21/2019 00:00:00,GUPTA RAJIV,4,M-Exempt,--I,523286,843791,2,0001068731,Common Stock
+A,05/21/2019 00:00:00,GUPTA RAJIV,4,A-Award,--D,14286,554427,1,0001068731,Common Stock
+A,05/21/2019 00:00:00,Stubblefield Michael,4,A-Award,--D,1000000,1034150,1,0001776153,Common Stock
+A,05/21/2019 00:00:00,Hofman Bjorn,4,A-Award,--D,157143,157143,1,0001776116,Common Stock
+A,05/21/2019 00:00:00,Wondrasch Michael,4,A-Award,--D,128571,128571,1,0001776065,Common Stock
+A,05/21/2019 00:00:00,McAllister Eric,4,A-Award,--D,128571,199051,1,0001776120,Common Stock
+A,05/21/2019 00:00:00,SACHDEV RAKESH,4,A-Award,--D,14286,14286,1,0001259543,Common Stock
+A,05/21/2019 00:00:00,Connolly Thomas,4,A-Award,--I,1133920,1133920,3,0001776597,Warrants
+A,05/21/2019 00:00:00,Connolly Thomas,4,C-Conversion,--I,66471429,66471429,2,0001776597,"Common Stock, par value $0.01 per share"
+A,05/21/2019 00:00:00,Connolly Thomas,4,A-Award,--I,5000000,71471429,1,0001776597,"Common Stock, par value $0.01 per share"
+A,05/21/2019 00:00:00,Natauri Jo,4,A-Award,--I,1133920,1133920,3,0001776123,Warrants
+A,05/21/2019 00:00:00,Natauri Jo,4,A-Award,--I,5000000,71471429,2,0001776123,"Common Stock, par value $0.01 per share"
+A,05/21/2019 00:00:00,Natauri Jo,4,C-Conversion,--I,66471429,66471429,1,0001776123,"Common Stock, par value $0.01 per share"
+A,05/21/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,A-Award,--I,1133920,1133920,3,0000769993,Warrants
+A,05/21/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,A-Award,--I,5000000,71471429,2,0000769993,"Common Stock, par value $0.01 per share"
+A,05/21/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,C-Conversion,--I,66471429,66471429,1,0000769993,"Common Stock, par value $0.01 per share"
+D,05/17/2019 00:00:00,Natauri Jo,4,S-Sale,--I,14049,67605348,2,0001776123,"Common Stock, par value $0.01 per share"
+A,05/17/2019 00:00:00,Natauri Jo,4,P-Purchase,--I,13099,67619397,1,0001776123,"Common Stock, par value $0.01 per share"
+D,05/17/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,S-Sale,--I,14049,67605348,2,0000769993,"Common Stock, par value $0.01 per share"
+A,05/17/2019 00:00:00,GOLDMAN SACHS & CO. LLC,4,P-Purchase,--I,13099,67619397,1,0000769993,"Common Stock, par value $0.01 per share"
+D,05/17/2019 00:00:00,Connolly Thomas,4,S-Sale,--I,14049,67605348,2,0001776597,"Common Stock, par value $0.01 per share"
+A,05/17/2019 00:00:00,Connolly Thomas,4,P-Purchase,--I,13099,67619397,1,0001776597,"Common Stock, par value $0.01 per share"

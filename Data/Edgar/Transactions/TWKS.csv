@@ -1,0 +1,159 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/20/2023 00:00:00,Mandapaty Sai Krishna,4/A,G-Gift,--D,0,210637,2,0001882281,Common Stock
+A,06/20/2023 00:00:00,Mandapaty Sai Krishna,4/A,G-Gift,--I,0,250000,1,0001882281,Common Stock
+A,06/20/2023 00:00:00,Mandapaty Sai Krishna,4,G-Gift,--D,250000,460637,2,0001882281,Common Stock
+D,06/20/2023 00:00:00,Mandapaty Sai Krishna,4,G-Gift,--I,250000,0,1,0001882281,Common Stock
+A,06/05/2023 00:00:00,Chwick Jane,4,A-Award,--D,19699,97372,1,0001589706,Common Stock
+A,06/05/2023 00:00:00,Taylor Roxanne,4,A-Award,--D,19699,32029,1,0001768759,Common Stock
+A,06/05/2023 00:00:00,LOFTEN GINA,4,A-Award,--D,19699,32029,1,0001849272,Common Stock
+A,06/05/2023 00:00:00,Davis Ian,4,A-Award,--D,28892,72055,1,0001494009,Common Stock
+A,06/05/2023 00:00:00,Brennan Robert T,4,A-Award,--D,22326,35982,1,0001317446,Common Stock
+A,06/05/2023 00:00:00,Parrett William G,4,A-Award,--D,22326,40344,1,0001418280,Common Stock
+A,03/07/2023 00:00:00,Cummins Erin,4,P-Purchase,--D,14500,332009,1,0001882339,Common Stock
+A,03/02/2023 00:00:00,Xiao Guo,4,P-Purchase,--D,35000,1389647,1,0001882331,Common Stock
+A,11/23/2022 00:00:00,Davis Ian,4,P-Purchase,--D,25000,43163,1,0001494009,Common Stock
+D,11/22/2022 00:00:00,Murphy Christopher Gerard,4,S-Sale,--D,4124,469401,3,0001882279,Common Stock
+D,11/22/2022 00:00:00,Mandapaty Sai Krishna,4,S-Sale,--D,5139,210637,3,0001882281,Common Stock
+D,11/22/2022 00:00:00,Woods-Moss Julie,4,S-Sale,--D,5000,77814,2,0001882323,Common Stock
+D,11/18/2022 00:00:00,Murphy Christopher Gerard,4,F-InKind,--I,111,6042,2,0001882279,Common Stock
+D,11/18/2022 00:00:00,Murphy Christopher Gerard,4,F-InKind,--D,5103,473525,1,0001882279,Common Stock
+D,11/18/2022 00:00:00,Mandapaty Sai Krishna,4,F-InKind,--D,4088,215776,2,0001882281,Common Stock
+D,11/18/2022 00:00:00,Parke Joanna,4,F-InKind,--D,1657,321695,1,0001882364,Common Stock
+D,11/18/2022 00:00:00,Xiao Guo,4,F-InKind,--D,9370,1354647,1,0001882331,Common Stock
+D,11/18/2022 00:00:00,Mateiu Ramona,4,F-InKind,--D,1657,87273,1,0001882280,Common Stock
+D,11/18/2022 00:00:00,Woods-Moss Julie,4,F-InKind,--D,1868,82814,1,0001882323,Common Stock
+D,11/18/2022 00:00:00,Cummins Erin,4,F-InKind,--D,4453,317509,1,0001882339,Common Stock
+D,11/18/2022 00:00:00,Parsons Rebecca J,4,F-InKind,--D,3631,832999,1,0001882295,Common Stock
+D,11/18/2022 00:00:00,Wathington Chad-Affonso,4,F-InKind,--D,1919,95123,1,0001882300,Common Stock
+A,11/15/2022 00:00:00,Woods-Moss Julie,4,A-Award,--D,54348,84682,1,0001882323,Common Stock
+A,11/15/2022 00:00:00,Mandapaty Sai Krishna,4,A-Award,--D,81522,469864,1,0001882281,Common Stock
+A,11/15/2022 00:00:00,Cummins Erin,4,A-Award,--D,81522,321962,1,0001882339,Common Stock
+A,11/15/2022 00:00:00,Parke Joanna,4,A-Award,--D,67935,323352,1,0001882364,Common Stock
+A,11/15/2022 00:00:00,Murphy Christopher Gerard,4,A-Award,--I,3231,6153,2,0001882279,Common Stock
+A,11/15/2022 00:00:00,Murphy Christopher Gerard,4,A-Award,--D,95109,478628,1,0001882279,Common Stock
+A,11/15/2022 00:00:00,Parsons Rebecca J,4,A-Award,--D,67935,836630,1,0001882295,Common Stock
+A,11/15/2022 00:00:00,Mateiu Ramona,4,A-Award,--D,54348,88930,1,0001882280,Common Stock
+A,11/15/2022 00:00:00,Wathington Chad-Affonso,4,A-Award,--D,54348,97042,1,0001882300,Common Stock
+A,11/15/2022 00:00:00,Xiao Guo,4,A-Award,--D,244566,445275,1,0001882331,Common Stock
+D,10/31/2022 00:00:00,Ferguson Angela,4,M-Exempt,--D,10000,330849,3,0001882611,Options to purchase common stock
+D,10/31/2022 00:00:00,Ferguson Angela,4,S-Sale,--D,10000,142755,2,0001882611,Common Stock
+A,10/31/2022 00:00:00,Ferguson Angela,4,M-Exempt,--D,10000,152755,1,0001882611,Common Stock
+D,09/30/2022 00:00:00,Ferguson Angela,4,M-Exempt,--D,20000,340849,3,0001882611,Options to purchase common stock
+D,09/30/2022 00:00:00,Ferguson Angela,4,S-Sale,--D,20000,142755,2,0001882611,Common Stock
+A,09/30/2022 00:00:00,Ferguson Angela,4,M-Exempt,--D,20000,162755,1,0001882611,Common Stock
+D,09/20/2022 00:00:00,Mandapaty Sai Krishna,4,S-Sale,--D,8794,388342,2,0001882281,Common Stock
+D,09/20/2022 00:00:00,Mandapaty Sai Krishna,4,S-Sale,--D,7324,397136,1,0001882281,Common Stock
+D,09/20/2022 00:00:00,Murphy Christopher Gerard,4,S-Sale,--D,6638,383519,2,0001882279,Common Stock
+D,09/20/2022 00:00:00,Murphy Christopher Gerard,4,S-Sale,--D,7841,390157,1,0001882279,Common Stock
+D,09/20/2022 00:00:00,Ferguson Angela,4,S-Sale,--D,995,142755,2,0001882611,Common Stock
+D,09/20/2022 00:00:00,Ferguson Angela,4,S-Sale,--D,1143,143750,1,0001882611,Common Stock
+D,09/17/2022 00:00:00,Mateiu Ramona,4,F-InKind,--D,2480,34582,1,0001882280,Common Stock
+D,09/17/2022 00:00:00,Xiao Guo,4,F-InKind,--D,34200,200709,1,0001882331,Common Stock
+D,09/17/2022 00:00:00,Wathington Chad-Affonso,4,F-InKind,--D,9225,42694,1,0001882300,Common Stock
+D,09/17/2022 00:00:00,Parke Joanna,4,F-InKind,--D,2905,255417,1,0001882364,Common Stock
+D,09/17/2022 00:00:00,Murphy Christopher Gerard,4,F-InKind,--D,17914,397998,2,0001882279,Common Stock
+D,09/17/2022 00:00:00,Murphy Christopher Gerard,4,F-InKind,--I,457,2922,1,0001882279,Common Stock
+D,09/17/2022 00:00:00,Parsons Rebecca J,4,F-InKind,--D,15942,768695,1,0001882295,Common Stock
+D,09/17/2022 00:00:00,Woods-Moss Julie,4,F-InKind,--D,6845,30334,1,0001882323,Common Stock
+D,09/17/2022 00:00:00,Mandapaty Sai Krishna,4,F-InKind,--D,12820,404460,1,0001882281,Common Stock
+D,09/17/2022 00:00:00,Cummins Erin,4,F-InKind,--D,10475,240440,1,0001882339,Common Stock
+D,08/18/2022 00:00:00,Ferguson Angela,4,S-Sale,--D,2000,144893,1,0001882611,Common Stock
+D,07/14/2022 00:00:00,Ferguson Angela,4,S-Sale,--D,2000,146893,1,0001882611,Common Stock
+D,07/05/2022 00:00:00,Ferguson Angela,4,S-Sale,--D,4000,148893,1,0001882611,Common Stock
+A,06/15/2022 00:00:00,Taylor Roxanne,4,A-Award,--D,9949,12330,1,0001768759,Common Stock
+A,06/15/2022 00:00:00,Brennan Robert T,4,A-Award,--D,11275,13656,1,0001317446,Common Stock
+A,06/15/2022 00:00:00,LOFTEN GINA,4,A-Award,--D,9949,12330,1,0001849272,Common Stock
+A,06/15/2022 00:00:00,Parrett William G,4,A-Award,--D,11275,18018,1,0001418280,Common Stock
+A,06/15/2022 00:00:00,Davis Ian,4,A-Award,--D,14591,18163,1,0001494009,Common Stock
+A,06/15/2022 00:00:00,Chwick Jane,4,A-Award,--D,9949,77673,1,0001589706,Common Stock
+D,04/26/2022 00:00:00,Mandapaty Sai Krishna,4,G-Gift,-ED,250000,219864,1,0001882281,Common Stock
+D,03/17/2022 00:00:00,Murphy Christopher Gerard,4,F-InKind,--D,14138,415912,2,0001882279,Common Stock
+D,03/17/2022 00:00:00,Murphy Christopher Gerard,4,F-InKind,--I,458,3379,1,0001882279,Common Stock
+D,03/17/2022 00:00:00,Mandapaty Sai Krishna,4,F-InKind,--D,9234,417280,1,0001882281,Common Stock
+D,03/17/2022 00:00:00,Woods-Moss Julie,4,F-InKind,--D,6668,37179,1,0001882323,Common Stock
+D,03/17/2022 00:00:00,Parsons Rebecca J,4,F-InKind,--D,14019,784637,1,0001882295,Common Stock
+D,03/17/2022 00:00:00,Parke Joanna,4,F-InKind,--D,2905,258322,1,0001882364,Common Stock
+D,03/17/2022 00:00:00,Cummins Erin,4,F-InKind,--D,10204,250915,1,0001882339,Common Stock
+D,03/17/2022 00:00:00,Xiao Guo,4,F-InKind,--D,34148,234909,1,0001882331,Common Stock
+D,03/17/2022 00:00:00,Mateiu Ramona,4,F-InKind,--D,2480,37062,1,0001882280,Common Stock
+D,03/17/2022 00:00:00,Wathington Chad-Affonso,4,F-InKind,--D,7619,51919,1,0001882300,Common Stock
+A,11/18/2021 00:00:00,Woods-Moss Julie,4,A-Award,--D,15477,43847,1,0001882323,Common Stock
+A,11/18/2021 00:00:00,Ferguson Angela,4,A-Award,--D,15477,152893,1,0001882611,Common Stock
+A,11/18/2021 00:00:00,Mateiu Ramona,4,A-Award,--D,22620,39542,1,0001882280,Common Stock
+A,11/18/2021 00:00:00,Mandapaty Sai Krishna,4,A-Award,--D,36905,94781,1,0001882281,Common Stock
+A,11/18/2021 00:00:00,Wathington Chad-Affonso,4,A-Award,--D,15477,59538,1,0001882300,Common Stock
+A,11/18/2021 00:00:00,Parke Joanna,4,A-Award,--D,22620,261227,1,0001882364,Common Stock
+A,11/18/2021 00:00:00,Murphy Christopher Gerard,4,A-Award,--I,1117,3837,2,0001882279,Common Stock
+A,11/18/2021 00:00:00,Murphy Christopher Gerard,4,A-Award,--D,36905,430050,1,0001882279,Common Stock
+A,11/18/2021 00:00:00,Parsons Rebecca J,4,A-Award,--D,36905,798656,1,0001882295,Common Stock
+A,11/18/2021 00:00:00,Cummins Erin,4,A-Award,--D,36905,261119,1,0001882339,Common Stock
+A,11/18/2021 00:00:00,Xiao Guo,4,A-Award,--D,95239,269057,1,0001882331,Common Stock
+D,09/21/2021 00:00:00,Ferguson Angela,4,D-Return,--D,2005,0,5,0001882611,Stock appreciation rights
+A,09/21/2021 00:00:00,Ferguson Angela,4,A-Award,--D,28502,137416,2,0001882611,Common Stock
+D,09/21/2021 00:00:00,Cummins Erin,4,D-Return,--D,2005,0,7,0001882339,Stock appreciation rights
+A,09/21/2021 00:00:00,Cummins Erin,4,A-Award,--D,43416,224214,2,0001882339,Common Stock
+D,09/21/2021 00:00:00,Parsons Rebecca J,4,D-Return,--D,2005,0,5,0001882295,Stock appreciation rights
+A,09/21/2021 00:00:00,Parsons Rebecca J,4,A-Award,--D,81023,761751,1,0001882295,Common Stock
+D,09/21/2021 00:00:00,Mandapaty Sai Krishna,4,D-Return,--D,2005,0,6,0001882281,Stock appreciation rights
+A,09/21/2021 00:00:00,Mandapaty Sai Krishna,4,A-Award,--D,57876,57876,1,0001882281,Common Stock
+D,09/21/2021 00:00:00,Xiao Guo,4,D-Return,--D,2005,0,7,0001882331,Stock appreciation rights
+A,09/21/2021 00:00:00,Xiao Guo,4,A-Award,--D,173818,173818,2,0001882331,Common Stock
+D,09/21/2021 00:00:00,Parke Joanna,4,D-Return,--D,2005,0,5,0001882364,Stock appreciation rights
+A,09/21/2021 00:00:00,Parke Joanna,4,A-Award,--D,19825,238607,2,0001882364,Common Stock
+D,09/21/2021 00:00:00,Mateiu Ramona,4,D-Return,--D,2005,0,7,0001882280,Stock appreciation rights
+A,09/21/2021 00:00:00,Mateiu Ramona,4,A-Award,--D,16922,16922,2,0001882280,Common Stock
+A,09/21/2021 00:00:00,Parrett William G,4,A-Award,--D,6743,6743,2,0001418280,Common Stock
+D,09/21/2021 00:00:00,Woods-Moss Julie,4,D-Return,--D,2005,0,5,0001882323,Stock appreciation rights
+A,09/21/2021 00:00:00,Woods-Moss Julie,4,A-Award,--D,28370,28370,2,0001882323,Common Stock
+D,09/21/2021 00:00:00,Murphy Christopher Gerard,4,D-Return,--D,2005,0,8,0001882279,Stock appreciation rights
+A,09/21/2021 00:00:00,Murphy Christopher Gerard,4,A-Award,--I,2703,2703,3,0001882279,Common Stock
+A,09/21/2021 00:00:00,Murphy Christopher Gerard,4,A-Award,--D,64787,393145,2,0001882279,Common Stock
+A,09/21/2021 00:00:00,Chwick Jane,4,A-Award,--D,6743,67724,1,0001589706,Common Stock
+D,09/21/2021 00:00:00,Wathington Chad-Affonso,4,D-Return,--D,2005,0,6,0001882300,Stock appreciation rights
+A,09/21/2021 00:00:00,Wathington Chad-Affonso,4,A-Award,--D,44061,44061,2,0001882300,Common Stock
+A,09/17/2021 00:00:00,Ferguson Angela,4,A-Award,--D,5928,10459,4,0001882611,Options to purchase common stock
+A,09/17/2021 00:00:00,Ferguson Angela,4,A-Award,--D,132878.29,360849,3,0001882611,Options to purchase common stock
+D,09/17/2021 00:00:00,Ferguson Angela,4,S-Sale,--D,117668,108914,1,0001882611,Common Stock
+A,09/17/2021 00:00:00,Cummins Erin,4,A-Award,--D,9879,17432,6,0001882339,Options to purchase common stock
+A,09/17/2021 00:00:00,Cummins Erin,4,A-Award,--D,56973.52,217902,5,0001882339,Options to purchase common stock
+A,09/17/2021 00:00:00,Cummins Erin,4,A-Award,--D,50136.27,191754,4,0001882339,Options to purchase common stock
+A,09/17/2021 00:00:00,Cummins Erin,4,A-Award,--D,110732.19,230476,3,0001882339,Options to purchase common stock
+D,09/17/2021 00:00:00,Cummins Erin,4,S-Sale,--D,104376,180798,1,0001882339,Common Stock
+A,09/17/2021 00:00:00,Parsons Rebecca J,4,A-Award,--D,16300,28763,4,0001882295,Options to purchase common stock
+A,09/17/2021 00:00:00,Parsons Rebecca J,4,A-Award,--D,54694.43,209186,3,0001882295,Options to purchase common stock
+A,09/17/2021 00:00:00,Parsons Rebecca J,4,A-Award,--D,365415.68,1212367,2,0001882295,Options to purchase common stock
+A,09/17/2021 00:00:00,Mandapaty Sai Krishna,4,A-Award,--D,11361,20047,5,0001882281,Options to purchase common stock
+A,09/17/2021 00:00:00,Mandapaty Sai Krishna,4,A-Award,--D,41020.37,156889,4,0001882281,Options to purchase common stock
+A,09/17/2021 00:00:00,Mandapaty Sai Krishna,4,A-Award,--D,276830.55,849694,3,0001882281,Options to purchase common stock
+D,09/17/2021 00:00:00,Turing EquityCo. II L.P.,4,D-Return,--D,24685980,197750138,1,0001882470,Common Stock
+A,09/17/2021 00:00:00,Xiao Guo,4,A-Award,--D,16300,28763,6,0001882331,Options to purchase common stock
+A,09/17/2021 00:00:00,Xiao Guo,4,A-Award,--D,169780.78,543838,5,0001882331,Options to purchase common stock
+A,09/17/2021 00:00:00,Xiao Guo,4,A-Award,--D,941223.34,2445472,4,0001882331,Options to purchase common stock
+D,09/17/2021 00:00:00,Xiao Guo,4,S-Sale,--D,130742,0,1,0001882331,Common Stock
+A,09/17/2021 00:00:00,Brennan Robert T,4,A-Award,--D,2381,2381,1,0001317446,Common Stock
+A,09/17/2021 00:00:00,LOFTEN GINA,4,A-Award,--D,2381,2381,1,0001849272,Common Stock
+A,09/17/2021 00:00:00,Parke Joanna,4,A-Award,--D,8891,15688,4,0001882364,Options to purchase common stock
+A,09/17/2021 00:00:00,Parke Joanna,4,A-Award,--D,121805.46,314467,3,0001882364,Options to purchase common stock
+D,09/17/2021 00:00:00,Parke Joanna,4,S-Sale,--D,43581,218782,1,0001882364,Common Stock
+A,09/17/2021 00:00:00,Mateiu Ramona,4,A-Award,--D,7162,12638,6,0001882280,Options to purchase common stock
+A,09/17/2021 00:00:00,Mateiu Ramona,4,A-Award,--D,11394.53,43580,5,0001882280,Options to purchase common stock
+A,09/17/2021 00:00:00,Mateiu Ramona,4,A-Award,--D,71976.24,200111,4,0001882280,Options to purchase common stock
+D,09/17/2021 00:00:00,Mateiu Ramona,4,S-Sale,--D,20701,0,1,0001882280,Common Stock
+A,09/17/2021 00:00:00,Taylor Roxanne,4,A-Award,--D,2381,2381,1,0001768759,Common Stock
+D,09/17/2021 00:00:00,Parrett William G,4,S-Sale,--I,65371,56555,1,0001418280,Common Stock
+A,09/17/2021 00:00:00,Woods-Moss Julie,4,A-Award,--D,6916,12202,4,0001882323,Options to purchase common stock
+A,09/17/2021 00:00:00,Woods-Moss Julie,4,A-Award,--D,125341.55,466310,3,0001882323,Options to purchase common stock
+D,09/17/2021 00:00:00,Woods-Moss Julie,4,S-Sale,--D,13075,0,1,0001882323,Common Stock
+A,09/17/2021 00:00:00,Davis Ian,4,A-Award,--D,3572,3572,1,0001494009,Common Stock
+A,09/17/2021 00:00:00,Murphy Christopher Gerard,4,A-Award,--D,14819,26148,7,0001882279,Options to purchase common stock
+A,09/17/2021 00:00:00,Murphy Christopher Gerard,4,A-Award,--D,80956.87,127114,6,0001882279,Options to purchase common stock
+A,09/17/2021 00:00:00,Murphy Christopher Gerard,4,A-Award,--D,28486.98,108951,5,0001882279,Options to purchase common stock
+A,09/17/2021 00:00:00,Murphy Christopher Gerard,4,A-Award,--D,276830.55,789234,4,0001882279,Options to purchase common stock
+D,09/17/2021 00:00:00,Murphy Christopher Gerard,4,S-Sale,--D,86595,328358,1,0001882279,Common Stock
+A,09/17/2021 00:00:00,Wathington Chad-Affonso,4,A-Award,--D,8644,15253,5,0001882300,Options to purchase common stock
+A,09/17/2021 00:00:00,Wathington Chad-Affonso,4,A-Award,--D,17092.02,65370,4,0001882300,Options to purchase common stock
+A,09/17/2021 00:00:00,Wathington Chad-Affonso,4,A-Award,--D,199317.76,693146,3,0001882300,Options to purchase common stock
+D,09/17/2021 00:00:00,Wathington Chad-Affonso,4,S-Sale,--I,58834,122897,1,0001882300,Common Stock
+D,09/15/2021 00:00:00,Murphy Christopher Gerard,4,M-Exempt,--D,82586,46157,3,0001882279,Options to purchase common stock
+D,09/15/2021 00:00:00,Murphy Christopher Gerard,4,F-InKind,--D,45692,414953,2,0001882279,Common Stock
+A,09/15/2021 00:00:00,Murphy Christopher Gerard,4,M-Exempt,--D,82586,460645,1,0001882279,Common Stock

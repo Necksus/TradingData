@@ -1,0 +1,481 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,06/27/2023 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,398.3098,23615.3596,1,0001042873,Stock Equivalent Units
+A,06/27/2023 00:00:00,Sanner J. Michael,4,A-Award,--D,796.6196,40020.8377,1,0001714324,Stock Equiv Units
+A,03/28/2023 00:00:00,Sanner J. Michael,4,A-Award,--D,794.1989,38796.2605,1,0001714324,Stock Equiv Units
+A,03/28/2023 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,397.0994,22963.7392,1,0001042873,Stock Equivalent Units
+A,03/14/2023 00:00:00,HAUSER DAVID L,4,P-Purchase,--D,1000,3000,1,0001237305,"Common Stock, par value $0.01 per share"
+A,03/06/2023 00:00:00,Gates Cathy R.,4,P-Purchase,--D,100,100,1,0001745417,Common Stock-$.01 par value per share
+A,03/01/2023 00:00:00,PARKER DAVID A,4,I-Discretionary,--D,697.1568,2218.78,1,0001848490,Stock Equiv Units
+A,02/27/2023 00:00:00,RAINBOLT DAVID E,4,P-Purchase,--D,5000,15000,1,0001042873,Common Stock-$.01 par value per share
+D,02/22/2023 00:00:00,WHITFIELD JOHNNY W JR,4,F-InKind,--D,164,1472.475,2,0001959148,"Common Stock, par value $0.01 per share"
+D,02/22/2023 00:00:00,WALWORTH CHARLES B,4,F-InKind,--D,1033,22358,2,0001600429,Common Stock-$.01 par value per share
+D,02/22/2023 00:00:00,Trauschke Sean,4,F-InKind,--D,14053,421580,2,0001462584,Common Stock-$.01 par value per share
+D,02/22/2023 00:00:00,Stafford Sarah R.,4,F-InKind,--D,1023,15663,2,0001733450,"Common Stock, par value $0.01 per share"
+D,02/22/2023 00:00:00,SCHUERMANN MATTHEW J,4,F-InKind,--D,270,6541,2,0001847580,"Common Stock, par value $0.01 per share"
+D,02/22/2023 00:00:00,PARKER DAVID A,4,F-InKind,--D,291,6989.151,2,0001848490,Com Stk
+D,02/22/2023 00:00:00,MILLER KENNETH ADAMS,4,F-InKind,--D,923,6982,2,0001763423,"Common Stock, par value $0.01 per share"
+D,02/22/2023 00:00:00,SULTEMEIER WILLIAM H,4,F-InKind,--D,2429,42614,2,0001694221,Common Stock-$.01 par value per share
+D,02/22/2023 00:00:00,McQuistion Cristina F,4,F-InKind,--D,735,23532,2,0001444969,Common Stock-$.01 par value per share
+D,02/22/2023 00:00:00,Jones Donnie O.,4,F-InKind,--D,1226,24943,2,0001794168,Com Stk
+D,02/22/2023 00:00:00,ERICKSON KEITH E,4,F-InKind,--D,201,3206,2,0001959017,"Common Stock, par value $0.01 per share"
+D,02/22/2023 00:00:00,DENNIS ANDREA M.,4,F-InKind,--D,777,8510,2,0001805069,"Common Stock, par value $0.01 per share"
+D,02/22/2023 00:00:00,BURCH ROBERT J,4,F-InKind,--D,391,6405,2,0001847540,"Common Stock, par value $0.01 per share"
+D,02/22/2023 00:00:00,BRIGGS SCOTT A,4,F-InKind,--D,742,5676,2,0001847576,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,WHITFIELD JOHNNY W JR,4,A-Award,--D,879,2351.475,3,0001959148,Common Stock-$.01 par value per share
+A,02/21/2023 00:00:00,WHITFIELD JOHNNY W JR,4,A-Award,--D,474,1636.475,1,0001959148,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,WOODWORTH CHRISTINE OSTENDORF,4,A-Award,--D,1571,4534,1,0001858172,Com Stk
+A,02/21/2023 00:00:00,WALWORTH CHARLES B,4,A-Award,--D,2456,24814,3,0001600429,Common Stock-$.01 par value per share
+A,02/21/2023 00:00:00,WALWORTH CHARLES B,4,A-Award,--D,2140,23391,1,0001600429,Common Stock-$.01 par value per share
+A,02/21/2023 00:00:00,Trauschke Sean,4,A-Award,--D,38175,459755,3,0001462584,Common Stock-$.01 par value per share
+A,02/21/2023 00:00:00,Trauschke Sean,4,A-Award,--D,31866,435633,1,0001462584,Common Stock-$.01 par value per share
+A,02/21/2023 00:00:00,Stafford Sarah R.,4,A-Award,--D,2455,18118,3,0001733450,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,Stafford Sarah R.,4,A-Award,--D,2117,16686,1,0001733450,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,SCHUERMANN MATTHEW J,4,A-Award,--D,2219,8760,3,0001847580,Common Stock-$.01 par value per share
+A,02/21/2023 00:00:00,SCHUERMANN MATTHEW J,4,A-Award,--D,784,6811,1,0001847580,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,PARKER DAVID A,4,A-Award,--D,2447,9436.151,3,0001848490,Com Stk
+A,02/21/2023 00:00:00,PARKER DAVID A,4,A-Award,--D,589,7280.151,1,0001848490,Com Stk
+A,02/21/2023 00:00:00,MILLER KENNETH ADAMS,4,A-Award,--D,2301,9283,3,0001763423,Common Stock-$.01 par value per share
+A,02/21/2023 00:00:00,MILLER KENNETH ADAMS,4,A-Award,--D,1867,7905,1,0001763423,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,SULTEMEIER WILLIAM H,4,A-Award,--D,5921,48535,3,0001694221,Common Stock-$.01 par value per share
+A,02/21/2023 00:00:00,SULTEMEIER WILLIAM H,4,A-Award,--D,5506,45043,1,0001694221,Common Stock-$.01 par value per share
+A,02/21/2023 00:00:00,McQuistion Cristina F,4,A-Award,--D,2574,26106,3,0001444969,Common Stock-$.01 par value per share
+A,02/21/2023 00:00:00,McQuistion Cristina F,4,A-Award,--D,2247,24267,1,0001444969,Common Stock-$.01 par value per share
+A,02/21/2023 00:00:00,Jones Donnie O.,4,A-Award,--D,5602,30545,3,0001794168,Com Stk
+A,02/21/2023 00:00:00,Jones Donnie O.,4,A-Award,--D,2675,26169,1,0001794168,Com Stk
+A,02/21/2023 00:00:00,ERICKSON KEITH E,4,A-Award,--D,916,4122,3,0001959017,Common Stock-$.01 par value per share
+A,02/21/2023 00:00:00,ERICKSON KEITH E,4,A-Award,--D,582,3407,1,0001959017,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,Buckler William Bryan,4,A-Award,--D,6725,27091,2,0001839332,Common Stock-$.01 par value per share
+A,02/21/2023 00:00:00,Buckler William Bryan,4,A-Award,--D,5713,20366,1,0001839332,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,DENNIS ANDREA M.,4,A-Award,--D,2393,10903,3,0001805069,Common Stock-$.01 par value per share
+A,02/21/2023 00:00:00,DENNIS ANDREA M.,4,A-Award,--D,1572,9287,1,0001805069,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,BURCH ROBERT J,4,A-Award,--D,2059,8464,3,0001847540,Common Stock-$.01 par value per share
+A,02/21/2023 00:00:00,BURCH ROBERT J,4,A-Award,--D,791,6796,1,0001847540,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,BRIGGS SCOTT A,4,A-Award,--D,2541,8217,3,0001847576,Common Stock-$.01 par value per share
+A,02/21/2023 00:00:00,BRIGGS SCOTT A,4,A-Award,--D,1501,6418,1,0001847576,"Common Stock, par value $0.01 per share"
+D,01/31/2023 00:00:00,BOZICH FRANK A,4,I-Discretionary,--D,3567.9854,18819.5718,1,0001660737,Stock Equivalent Units
+D,01/31/2023 00:00:00,Talton Sheila,4,I-Discretionary,--D,2342.2232,35289.5019,1,0001490478,Stock Equivalent Units
+A,01/10/2023 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,361.8173,22334.7007,1,0001042873,Stock Equivalent Units
+A,01/10/2023 00:00:00,Sanner J. Michael,4,A-Award,--D,723.6345,37612.6721,1,0001714324,Stock Equivalent Units
+D,01/03/2023 00:00:00,Trauschke Sean,4,F-InKind,--D,8639,403767,1,0001462584,"Common Stock, par value $0.01 per share"
+D,01/03/2023 00:00:00,SCHUERMANN MATTHEW J,4,F-InKind,--D,163,6027,1,0001847580,"Common Stock, par value $0.01 per share"
+D,01/03/2023 00:00:00,BRIGGS SCOTT A,4,F-InKind,--D,446,4917,1,0001847576,"Common Stock, par value $0.01 per share"
+D,01/03/2023 00:00:00,ERICKSON KEITH E,4,F-InKind,--D,121,2825,1,0001959017,"Common Stock, par value $0.01 per share"
+D,01/03/2023 00:00:00,Stafford Sarah R.,4,F-InKind,--D,628,14569,1,0001733450,"Common Stock, par value $0.01 per share"
+D,01/03/2023 00:00:00,PARKER DAVID A,4,F-InKind,--D,175,6691.151,1,0001848490,"Common Stock, par value $0.01 per share"
+D,01/03/2023 00:00:00,DENNIS ANDREA M.,4,F-InKind,--D,467,7715,1,0001805069,"Common Stock, par value $0.01 per share"
+D,01/03/2023 00:00:00,BURCH ROBERT J,4,F-InKind,--D,235,6005,1,0001847540,"Common Stock, par value $0.01 per share"
+D,01/03/2023 00:00:00,Jones Donnie O.,4,F-InKind,--D,794,23494,1,0001794168,"Common Stock, par value $0.01 per share"
+D,01/03/2023 00:00:00,McQuistion Cristina F,4,F-InKind,--D,465,22020,1,0001444969,"Common Stock, par value $0.01 per share"
+D,01/03/2023 00:00:00,MILLER KENNETH ADAMS,4,F-InKind,--D,554,6038,1,0001763423,"Common Stock, par value $0.01 per share"
+D,01/03/2023 00:00:00,WALWORTH CHARLES B,4,F-InKind,--D,635,21251,1,0001600429,"Common Stock, par value $0.01 per share"
+D,01/03/2023 00:00:00,WOODWORTH CHRISTINE OSTENDORF,4,F-InKind,--D,365,2963,1,0001858172,"Common Stock, par value $0.01 per share"
+D,01/03/2023 00:00:00,WHITFIELD JOHNNY W JR,4,F-InKind,--D,99,1162.475,1,0001959148,"Common Stock, par value $0.01 per share"
+D,01/03/2023 00:00:00,SULTEMEIER WILLIAM H,4,F-InKind,--D,1633,39537,1,0001694221,"Common Stock, par value $0.01 per share"
+A,12/13/2022 00:00:00,Sanner J. Michael,4,A-Award,--D,3988.0359,36889.0376,1,0001714324,Stock Equivalent Units
+A,12/13/2022 00:00:00,MCREYNOLDS JUDY R,4,A-Award,--D,3489.5314,44960.8939,1,0001193004,Stock Equivalent Units
+A,12/13/2022 00:00:00,Clarke Peter D.,4,A-Award,--D,3489.5314,18556.423,1,0001732772,Stock Equivalent Units
+A,12/13/2022 00:00:00,HAUSER DAVID L,4,A-Award,--D,3489.5314,34941.5743,1,0001237305,Stock Equivalent Units
+A,12/13/2022 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,3551.8445,21972.8834,1,0001042873,Stock Equivalent Units
+A,12/13/2022 00:00:00,Talton Sheila,4,A-Award,--D,3489.5314,37238.6449,1,0001490478,Stock Equivalent Units
+A,12/13/2022 00:00:00,KISSAM LUTHER C IV,4,A-Award,--D,3489.5314,8855.4742,1,0001266395,Stock Equivalent Units
+A,12/13/2022 00:00:00,BOZICH FRANK A,4,A-Award,--D,3489.5314,22153.7094,1,0001660737,Stock Equivalent Units
+A,11/18/2022 00:00:00,BRIGGS SCOTT A,4,I-Discretionary,--I,3597,4871.472,1,0001847576,Common Stock-$.01 par value per share
+A,11/17/2022 00:00:00,SULTEMEIER WILLIAM H,4,I-Discretionary,--D,4620.7043,7787.2283,2,0001694221,Stock Equivalent Units
+D,11/11/2022 00:00:00,McQuistion Cristina F,4,S-Sale,--D,577,22485,2,0001444969,Common Stock-$.01 par value per share
+D,11/11/2022 00:00:00,McQuistion Cristina F,4,S-Sale,--D,2490,23062,1,0001444969,Common Stock-$.01 par value per share
+A,09/27/2022 00:00:00,Sanner J. Michael,4,A-Award,--D,720.8388,32535.9746,1,0001714324,Stock Equiv Units
+A,09/27/2022 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,360.4194,18216.6629,1,0001042873,Stock Equiv Units
+A,06/28/2022 00:00:00,Sanner J. Michael,4,A-Award,--D,719.8953,31500.742,1,0001714324,Stock Equiv Units
+A,06/28/2022 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,359.9476,17679.7897,1,0001042873,Stock Equiv Units
+A,03/30/2022 00:00:00,Sanner J. Michael,4,A-Award,--D,679.8517,30457.9982,1,0001714324,Stock Equiv Units
+A,03/30/2022 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,339.9258,17138.181,1,0001042873,Stock Equiv Units
+A,03/30/2022 00:00:00,CORBETT LUKE R,4,A-Award,--D,679.8517,187466.543,1,0001187268,Stock Equiv Units
+D,03/28/2022 00:00:00,Horn Patricia D,4,S-Sale,--D,4015,27875.209,1,0001424580,Common Stock-$.01 par value per share
+D,03/08/2022 00:00:00,McQuistion Cristina F,4,S-Sale,--D,2200,25552,1,0001444969,Common Stock-$.01 par value per share
+A,03/01/2022 00:00:00,HAUSER DAVID L,4,P-Purchase,--D,1000,2000,1,0001237305,"Common Stock, par value $0.01 per share"
+D,02/28/2022 00:00:00,Buckler William Bryan,4,F-InKind,--D,728,14653,1,0001839332,"Common Stock, par value $0.01 per share"
+A,02/25/2022 00:00:00,WOODWORTH CHRISTINE OSTENDORF,4,A-Award,--D,2.2757,73.0492,1,0001858172,Stock Equiv Units
+A,02/22/2022 00:00:00,WOODWORTH CHRISTINE OSTENDORF,4,A-Award,--D,1472,3328,1,0001858172,Common Stock-$.01 par value per share
+A,02/22/2022 00:00:00,WALWORTH CHARLES B,4,A-Award,--D,2492,21886,1,0001600429,Common Stock-$.01 par value per share
+A,02/22/2022 00:00:00,Trauschke Sean,4,A-Award,--D,38739,412406,1,0001462584,Common Stock-$.01 par value per share
+A,02/22/2022 00:00:00,SULTEMEIER WILLIAM H,4,A-Award,--D,6008,41170,1,0001694221,Common Stock-$.01 par value per share
+A,02/22/2022 00:00:00,Stafford Sarah R.,4,A-Award,--D,2468,15197,1,0001733450,"Common Stock, par value $0.01 per share"
+A,02/22/2022 00:00:00,SCHUERMANN MATTHEW J,4,A-Award,--D,2111,6190,1,0001847580,"Common Stock, par value $0.01 per share"
+A,02/22/2022 00:00:00,PARKER DAVID A,4,A-Award,--D,2264,6866.151,1,0001848490,"Common Stock, par value $0.01 per share"
+A,02/22/2022 00:00:00,MILLER KENNETH ADAMS,4,A-Award,--D,2168,6592,1,0001763423,"Common Stock, par value $0.01 per share"
+A,02/22/2022 00:00:00,McQuistion Cristina F,4,A-Award,--D,2449,27752,1,0001444969,Common Stock-$.01 par value per share
+A,02/22/2022 00:00:00,Jones Donnie O.,4,A-Award,--D,5132,24288,1,0001794168,Com Stk
+A,02/22/2022 00:00:00,Horn Patricia D,4,A-Award,--D,2065,31890.209,1,0001424580,Common Stock-$.01 par value per share
+A,02/22/2022 00:00:00,DENNIS ANDREA M.,4,A-Award,--D,2286,8182,1,0001805069,Common Stock-$.01 par value per share
+A,02/22/2022 00:00:00,BURCH ROBERT J,4,A-Award,--D,1829,6240,1,0001847540,Common Stock-$.01 par value per share
+A,02/22/2022 00:00:00,Buckler William Bryan,4,A-Award,--D,6824,15381,1,0001839332,"Common Stock, par value $0.01 per share"
+A,02/22/2022 00:00:00,BRIGGS SCOTT A,4,A-Award,--D,2394,5363,1,0001847576,"Common Stock, par value $0.01 per share"
+A,02/11/2022 00:00:00,WOODWORTH CHRISTINE OSTENDORF,4,A-Award,--D,2.3036,70.7735,1,0001858172,Stock Equiv Units
+D,01/31/2022 00:00:00,Talton Sheila,4/A,I-Discretionary,--D,857.7636,32698.2774,1,0001490478,Stock Equiv Units
+D,01/31/2022 00:00:00,Talton Sheila,4,I-Discretionary,--D,1715.527,31840.5139,1,0001490478,Stock Equiv Units
+D,01/31/2022 00:00:00,BOZICH FRANK A,4,I-Discretionary,--D,2657.49,18083.0386,1,0001660737,Stock Equiv Units
+A,01/28/2022 00:00:00,WOODWORTH CHRISTINE OSTENDORF,4/A,A-Award,--D,2.236,68.4699,1,0001858172,Stock Equiv Units
+A,01/28/2022 00:00:00,WOODWORTH CHRISTINE OSTENDORF,4,A-Award,--D,2.236,74.4926,1,0001858172,Stock Equiv Units
+A,01/14/2022 00:00:00,WOODWORTH CHRISTINE OSTENDORF,4,A-Award,--D,2.2266,65.5479,1,0001858172,Stock Equiv Units
+A,01/11/2022 00:00:00,Sanner J. Michael,4,A-Award,--D,738.056,29466.867,1,0001714324,Stock Equiv Units
+A,01/11/2022 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,369.028,16622.151,1,0001042873,Stock Equiv Units
+A,01/11/2022 00:00:00,CORBETT LUKE R,4,A-Award,--D,738.056,184792.444,1,0001187268,Stock Equiv Units
+D,01/03/2022 00:00:00,DENNIS ANDREA M.,4,F-InKind,--D,176,5896,1,0001805069,Common Stock-$.01 par value per share
+D,01/03/2022 00:00:00,WALWORTH CHARLES B,4,F-InKind,--D,621,19394,1,0001600429,Common Stock-$.01 par value per share
+D,01/03/2022 00:00:00,Trauschke Sean,4,F-InKind,--D,8806,373667,1,0001462584,Common Stock-$.01 par value per share
+D,01/03/2022 00:00:00,SULTEMEIER WILLIAM H,4,I-Discretionary,--D,202.77,3035.0438,2,0001694221,Stock Equiv Units
+D,01/03/2022 00:00:00,SULTEMEIER WILLIAM H,4,F-InKind,--D,1688,35162,1,0001694221,Common Stock-$.01 par value per share
+D,01/03/2022 00:00:00,Stafford Sarah R.,4,F-InKind,--D,614,12729,1,0001733450,"Common Stock, par value $0.01 per share"
+D,01/03/2022 00:00:00,SCHUERMANN MATTHEW J,4,F-InKind,--D,107,4079,1,0001847580,"Common Stock, par value $0.01 per share"
+D,01/03/2022 00:00:00,PARKER DAVID A,4,F-InKind,--D,183,4602.151,1,0001848490,"Common Stock, par value $0.01 per share"
+D,01/03/2022 00:00:00,MILLER KENNETH ADAMS,4,F-InKind,--D,838,4424,1,0001763423,"Common Stock, par value $0.01 per share"
+D,01/03/2022 00:00:00,McQuistion Cristina F,4,F-InKind,--D,490,25303,1,0001444969,Common Stock-$.01 par value per share
+D,01/03/2022 00:00:00,Jones Donnie O.,4,F-InKind,--D,659,19156,1,0001794168,Com Stk
+D,01/03/2022 00:00:00,Horn Patricia D,4,F-InKind,--D,592,29825.209,1,0001424580,Common Stock-$.01 par value per share
+D,01/03/2022 00:00:00,BURCH ROBERT J,4,F-InKind,--D,184,4411,1,0001847540,"Common Stock, par value $0.01 per share"
+D,01/03/2022 00:00:00,BRIGGS SCOTT A,4,F-InKind,--D,416,2969,1,0001847576,"Common Stock, par value $0.01 per share"
+D,01/03/2022 00:00:00,WOODWORTH CHRISTINE OSTENDORF,4,F-InKind,--D,378,1856,1,0001858172,Common Stock-$.01 par value per share
+A,12/31/2021 00:00:00,WOODWORTH CHRISTINE OSTENDORF,4,A-Award,--D,4.0946,59.0579,2,0001858172,Stock Equiv Units
+A,12/14/2021 00:00:00,CORBETT LUKE R,4,A-Award,--D,1377.0311,184054.3876,1,0001187268,Stock Equiv Units
+A,12/07/2021 00:00:00,Talton Sheila,4,A-Award,--D,3744.7989,33196.3549,1,0001490478,Stock Equiv Units
+A,12/07/2021 00:00:00,Sanner J. Michael,4,A-Award,--D,4299.5839,28728.8103,1,0001714324,Stock Equiv Units
+A,12/07/2021 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,3814.147,16253.1226,1,0001042873,Stock Equiv Units
+A,12/07/2021 00:00:00,MCREYNOLDS JUDY R,4,A-Award,--D,3744.7989,39749.3922,1,0001193004,Stock Equiv Units
+A,12/07/2021 00:00:00,KISSAM LUTHER C IV,4,A-Award,--D,3744.7989,5143.1387,1,0001266395,Stock Equiv Units
+A,12/07/2021 00:00:00,HAUSER DAVID L,4,A-Award,--D,3744.7989,30146.0939,1,0001237305,Stock Equiv Units
+A,12/07/2021 00:00:00,CORBETT LUKE R,4,A-Award,--D,3744.7989,182677.3565,1,0001187268,Stock Equiv Units
+A,12/07/2021 00:00:00,Clarke Peter D.,4,A-Award,--D,3744.7989,14441.2852,1,0001732772,Stock Equiv Units
+A,12/07/2021 00:00:00,BOZICH FRANK A,4,A-Award,--D,3744.7989,20518.2095,1,0001660737,Stock Equiv Units
+A,12/03/2021 00:00:00,WOODWORTH CHRISTINE OSTENDORF,5,A-Award,--D,4.3726,54.9633,12,0001858172,Stock Equiv Units
+A,11/19/2021 00:00:00,WOODWORTH CHRISTINE OSTENDORF,5,A-Award,--D,4.4759,50.5907,11,0001858172,Stock Equiv Units
+A,11/11/2021 00:00:00,RAINBOLT DAVID E,4,P-Purchase,--D,3000,10000,1,0001042873,Common Stock-$.01 par value per share
+A,11/05/2021 00:00:00,WOODWORTH CHRISTINE OSTENDORF,5,A-Award,--D,4.5419,46.1148,10,0001858172,Stock Equiv Units
+A,10/22/2021 00:00:00,WOODWORTH CHRISTINE OSTENDORF,5,A-Award,--D,4.5923,41.1332,9,0001858172,Stock Equiv Units
+A,10/08/2021 00:00:00,WOODWORTH CHRISTINE OSTENDORF,5,A-Award,--D,4.7535,36.5409,8,0001858172,Stock Equiv Units
+A,09/28/2021 00:00:00,Sanner J. Michael,4,A-Award,--D,796.9035,24138.7394,1,0001714324,Stock Equiv Units
+A,09/28/2021 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,398.4517,12291.0642,1,0001042873,Stock Equiv Units
+A,09/28/2021 00:00:00,CORBETT LUKE R,4,A-Award,--D,2314.8148,176804.8793,1,0001187268,Stock Equiv Units
+A,09/24/2021 00:00:00,WOODWORTH CHRISTINE OSTENDORF,5,A-Award,--D,4.6674,31.7874,7,0001858172,Stock Equiv Units
+A,09/10/2021 00:00:00,WOODWORTH CHRISTINE OSTENDORF,5,A-Award,--D,4.4785,27.12,6,0001858172,Stock Equiv Units
+A,08/27/2021 00:00:00,WOODWORTH CHRISTINE OSTENDORF,5,A-Award,--D,4.418,22.6416,5,0001858172,Stock Equiv Units
+A,08/23/2021 00:00:00,RAINBOLT DAVID E,4,P-Purchase,--D,5000,7000,1,0001042873,Common Stock-$.01 par value per share
+A,08/16/2021 00:00:00,PARKER DAVID A,4,I-Discretionary,--D,330.608,1426.047,3,0001848490,Stock Equiv Units
+D,08/16/2021 00:00:00,PARKER DAVID A,4,S-Sale,--D,250,4785.151,1,0001848490,"Common Stock, par value $0.01 per share"
+A,08/13/2021 00:00:00,WOODWORTH CHRISTINE OSTENDORF,5,A-Award,--D,4.3304,18.2235,4,0001858172,Stock Equiv Units
+A,08/10/2021 00:00:00,KISSAM LUTHER C IV,4,P-Purchase,--D,7500,7500,1,0001266395,"Common Stock, par value $0.01 per share"
+A,07/30/2021 00:00:00,WOODWORTH CHRISTINE OSTENDORF,5,A-Award,--D,4.6563,13.8931,3,0001858172,Stock Equiv Units
+A,07/16/2021 00:00:00,WOODWORTH CHRISTINE OSTENDORF,5,A-Award,--D,4.591,9.182,2,0001858172,Stock Equiv Units
+A,07/02/2021 00:00:00,WOODWORTH CHRISTINE OSTENDORF,5,A-Award,--D,4.591,4.591,1,0001858172,Stock Equiv Units
+A,06/29/2021 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,389.697,11752.454,1,0001042873,Stock Equiv Units
+A,06/29/2021 00:00:00,CORBETT LUKE R,4,A-Award,--D,2263.955,172433.634,1,0001187268,Stock Equiv Units
+A,06/29/2021 00:00:00,Sanner J. Michael,4,A-Award,--D,779.394,23066.743,1,0001714324,Stock Equiv Units
+A,05/14/2021 00:00:00,BRIGGS SCOTT A,4,I-Discretionary,--I,1121,1121,2,0001847576,Com Stk
+D,05/14/2021 00:00:00,BRIGGS SCOTT A,4,S-Sale,--D,380,3385,1,0001847576,Com Stk
+A,05/13/2021 00:00:00,WALWORTH CHARLES B,4,I-Discretionary,--D,589.0851,4127.189,1,0001600429,Stock Equiv Units
+A,05/03/2021 00:00:00,WOODWORTH CHRISTINE OSTENDORF,4,A-Award,--D,2234,2234,1,0001858172,Common Stock-$.01 par value per share
+D,03/31/2021 00:00:00,BRIGGS SCOTT A,4,F-InKind,--D,202,3765,1,0001847576,Com Stk
+A,03/30/2021 00:00:00,Sanner J. Michael,4,A-Award,--D,808.936,22023.214,1,0001714324,Stock Equiv Units
+A,03/30/2021 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,404.468,11228.092,1,0001042873,Stock Equiv Units
+A,03/30/2021 00:00:00,CORBETT LUKE R,4,A-Award,--D,2349.768,168152.946,1,0001187268,Stock Equiv Units
+D,03/10/2021 00:00:00,McQuistion Cristina F,4,S-Sale,--D,7000,25793,1,0001444969,Common Stock-$.01 par value per share
+A,03/02/2021 00:00:00,PARKER DAVID A,4,I-Discretionary,--I,4800,10452.414,1,0001848490,"Common Stock, par value $0.01 per share"
+A,03/01/2021 00:00:00,Sanner J. Michael,4,P-Purchase,--D,2000,5000,1,0001714324,"Common Stock, par value $0.01 per share"
+A,02/26/2021 00:00:00,PARKER DAVID A,4,A-Award,--D,9.409,1069.701,5,0001848490,Stock Equiv Units
+D,02/26/2021 00:00:00,Buckler William Bryan,4,F-InKind,--D,889,8557,1,0001839332,"Common Stock, par value $0.01 per share"
+D,02/25/2021 00:00:00,PARKER DAVID A,4,F-InKind,--D,471,3709.151,2,0001848490,"Common Stock, par value $0.01 per share"
+D,02/25/2021 00:00:00,WALWORTH CHARLES B,4,F-InKind,--D,2360,18034,2,0001600429,Common Stock-$.01 par value per share
+D,02/25/2021 00:00:00,Trauschke Sean,4,F-InKind,--D,33550,355090,2,0001462584,Common Stock-$.01 par value per share
+D,02/25/2021 00:00:00,SULTEMEIER WILLIAM H,4,F-InKind,--D,6112,32072,2,0001694221,Common Stock-$.01 par value per share
+D,02/25/2021 00:00:00,Stafford Sarah R.,4,F-InKind,--D,1998,11381,2,0001733450,"Common Stock, par value $0.01 per share"
+D,02/25/2021 00:00:00,SCHUERMANN MATTHEW J,4,F-InKind,--D,442,2866,2,0001847580,"Common Stock, par value $0.01 per share"
+D,02/25/2021 00:00:00,McQuistion Cristina F,4,F-InKind,--D,2753,30845,2,0001444969,Common Stock-$.01 par value per share
+D,02/25/2021 00:00:00,Jones Donnie O.,4,F-InKind,--D,2567,16976,2,0001794168,Com Stk
+D,02/25/2021 00:00:00,Horn Patricia D,4,F-InKind,--D,2351,28775.209,2,0001424580,Common Stock-$.01 par value per share
+D,02/25/2021 00:00:00,DENNIS ANDREA M.,4,F-InKind,--D,720,4095,2,0001805069,Common Stock-$.01 par value per share
+D,02/25/2021 00:00:00,BURCH ROBERT J,4,F-InKind,--D,519,3264,2,0001847540,"Common Stock, par value $0.01 per share"
+A,02/24/2021 00:00:00,PARKER DAVID A,4,A-Award,--D,1326,5035.151,3,0001848490,"Common Stock, par value $0.01 per share"
+A,02/24/2021 00:00:00,PARKER DAVID A,4,A-Award,--D,1358,4180.151,1,0001848490,"Common Stock, par value $0.01 per share"
+A,02/24/2021 00:00:00,WALWORTH CHARLES B,4,A-Award,--D,1981,20015,3,0001600429,Common Stock-$.01 par value per share
+A,02/24/2021 00:00:00,WALWORTH CHARLES B,4,A-Award,--D,5015,20394,1,0001600429,Common Stock-$.01 par value per share
+A,02/24/2021 00:00:00,Trauschke Sean,4,A-Award,--D,27383,382473,3,0001462584,Common Stock-$.01 par value per share
+A,02/24/2021 00:00:00,Trauschke Sean,4,A-Award,--D,75667,388640,1,0001462584,Common Stock-$.01 par value per share
+A,02/24/2021 00:00:00,SULTEMEIER WILLIAM H,4,A-Award,--D,4778,36850,3,0001694221,Common Stock-$.01 par value per share
+A,02/24/2021 00:00:00,SULTEMEIER WILLIAM H,4,A-Award,--D,13534,38184,1,0001694221,Common Stock-$.01 par value per share
+A,02/24/2021 00:00:00,Stafford Sarah R.,4,A-Award,--D,1962,13343,3,0001733450,"Common Stock, par value $0.01 per share"
+A,02/24/2021 00:00:00,Stafford Sarah R.,4,A-Award,--D,4183,13379,1,0001733450,"Common Stock, par value $0.01 per share"
+A,02/24/2021 00:00:00,SCHUERMANN MATTHEW J,4,A-Award,--D,1320,4186,3,0001847580,"Common Stock, par value $0.01 per share"
+A,02/24/2021 00:00:00,SCHUERMANN MATTHEW J,4,A-Award,--D,1271,3308,1,0001847580,"Common Stock, par value $0.01 per share"
+A,02/24/2021 00:00:00,MILLER KENNETH ADAMS,4,A-Award,--D,1624,5262,1,0001763423,"Common Stock, par value $0.01 per share"
+A,02/24/2021 00:00:00,McQuistion Cristina F,4,A-Award,--D,1948,32793,3,0001444969,Common Stock-$.01 par value per share
+A,02/24/2021 00:00:00,McQuistion Cristina F,4,A-Award,--D,5913,33598,1,0001444969,Common Stock-$.01 par value per share
+A,02/24/2021 00:00:00,Jones Donnie O.,4,A-Award,--D,2839,19815,3,0001794168,Com Stk
+A,02/24/2021 00:00:00,Jones Donnie O.,4,A-Award,--D,5493,19543,1,0001794168,Com Stk
+A,02/24/2021 00:00:00,Horn Patricia D,4,A-Award,--D,1642,30417.209,3,0001424580,Common Stock-$.01 par value per share
+A,02/24/2021 00:00:00,Horn Patricia D,4,A-Award,--D,4972,31126.209,1,0001424580,Common Stock-$.01 par value per share
+A,02/24/2021 00:00:00,DENNIS ANDREA M.,4,A-Award,--D,1624,5719,3,0001805069,Common Stock-$.01 par value per share
+A,02/24/2021 00:00:00,DENNIS ANDREA M.,4,A-Award,--D,1449,4815,1,0001805069,Common Stock-$.01 par value per share
+A,02/24/2021 00:00:00,BURCH ROBERT J,4,A-Award,--D,1331,4595,3,0001847540,Common Stock-$.01 par value per share
+A,02/24/2021 00:00:00,BURCH ROBERT J,4,A-Award,--D,1494,3783,1,0001847540,"Common Stock, par value $0.01 per share"
+A,02/24/2021 00:00:00,Buckler William Bryan,4,A-Award,--D,4794,9446,1,0001839332,"Common Stock, par value $0.01 per share"
+A,02/24/2021 00:00:00,BRIGGS SCOTT A,4,A-Award,--D,1648,3967,1,0001847576,Com Stk
+D,02/01/2021 00:00:00,Talton Sheila,4,I-Discretionary,--D,831.0889,28417.5551,1,0001490478,Stock Equiv Units
+D,02/01/2021 00:00:00,BOZICH FRANK A,4,I-Discretionary,--D,1956.0492,16184.5207,1,0001660737,Stock Equiv Units
+A,01/12/2021 00:00:00,Sanner J. Michael,4,A-Award,--D,842.426,20949.109,1,0001714324,Stock Equiv Units
+A,01/12/2021 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,421.213,10688.222,1,0001042873,Stock Equiv Units
+A,01/12/2021 00:00:00,CORBETT LUKE R,4,A-Award,--D,2447.047,163676.866,1,0001187268,Stock Equiv Units
+A,01/04/2021 00:00:00,Buckler William Bryan,4,A-Award,--D,4652,4652,1,0001839332,"Common Stock, par value $0.01 per share"
+D,01/04/2021 00:00:00,MILLER KENNETH ADAMS,4,F-InKind,--D,222,3638,1,0001763423,"Common Stock, par value $0.01 per share"
+D,01/01/2021 00:00:00,SULTEMEIER WILLIAM H,4,I-Discretionary,--D,77.2122,3124.139,1,0001694221,Stock Equiv Units
+A,12/08/2020 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,4071.911,10267.009,1,0001042873,Stock Equiv Units
+A,12/08/2020 00:00:00,Talton Sheila,4,A-Award,--D,3995.083,28867.931,1,0001490478,Stock Equiv Units
+A,12/08/2020 00:00:00,Sanner J. Michael,4,A-Award,--D,4302.397,20106.683,1,0001714324,Stock Equiv Units
+A,12/08/2020 00:00:00,MCREYNOLDS JUDY R,4,A-Award,--D,3995.083,34288.326,1,0001193004,Stock Equiv Units
+A,12/08/2020 00:00:00,KISSAM LUTHER C IV,4,A-Award,--D,1331.684,1336.684,1,0001266395,Stock Equiv Units
+A,12/08/2020 00:00:00,HAUSER DAVID L,4,A-Award,--D,4018.131,25142.79,1,0001237305,Stock Equiv Units
+A,12/08/2020 00:00:00,CORBETT LUKE R,4,A-Award,--D,4917.025,161229.819,1,0001187268,Stock Equiv Units
+A,12/08/2020 00:00:00,Clarke Peter D.,4,A-Award,--D,3995.083,10186.606,1,0001732772,Stock Equiv Units
+A,12/08/2020 00:00:00,Brandi James H,4,A-Award,--D,3995.083,40793.329,1,0001365524,Stock Equiv Units
+A,12/08/2020 00:00:00,BOZICH FRANK A,4,A-Award,--D,3995.083,17904.444,1,0001660737,Stock Equiv Units
+D,11/17/2020 00:00:00,Horn Patricia D,4,S-Sale,--D,23401,26154.209,1,0001424580,Common Stock-$.01 par value per share
+D,11/16/2020 00:00:00,Merrill Stephen E,4,S-Sale,--D,12300,59449,1,0001216780,Common Stock-$.01 par value per share
+D,11/13/2020 00:00:00,GRANT KENNETH R.,4,S-Sale,--D,3000,9082.091,1,0001668361,Common Stock-$.01 par value per share
+A,11/12/2020 00:00:00,Sanner J. Michael,4,P-Purchase,--D,1000,3000,2,0001714324,"Common Stock, par value $0.01 per share"
+A,11/11/2020 00:00:00,Sanner J. Michael,4,P-Purchase,--D,1000,2000,1,0001714324,"Common Stock, par value $0.01 per share"
+D,11/10/2020 00:00:00,Merrill Stephen E,4,I-Discretionary,--D,5067.6249,0,3,0001216780,Stock Equiv Units
+D,11/10/2020 00:00:00,Merrill Stephen E,4,I-Discretionary,--I,15235.69,0,1,0001216780,Common Stock-$.01 par value per share
+A,09/29/2020 00:00:00,Sanner J. Michael,4,A-Award,--D,442.366,15600.221,1,0001714324,Stock Equiv Units
+A,09/29/2020 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,442.366,6115.106,1,0001042873,Stock Equiv Units
+A,09/29/2020 00:00:00,HAUSER DAVID L,4,A-Award,--D,132.709,20851.904,1,0001237305,Stock Equiv Units
+A,09/29/2020 00:00:00,CORBETT LUKE R,4,A-Award,--D,884.732,154294.48,1,0001187268,Stock Equiv Units
+A,08/17/2020 00:00:00,Sanner J. Michael,4,P-Purchase,--D,1000,1000,1,0001714324,"Common Stock, par value $0.01 per share"
+D,08/11/2020 00:00:00,GRANT KENNETH R.,4,S-Sale,--D,6000,12082.091,1,0001668361,Common Stock-$.01 par value per share
+A,06/23/2020 00:00:00,Sanner J. Michael,4,A-Award,--D,429.202,14981.878,1,0001714324,Stock Equiv Units
+A,06/23/2020 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,429.202,5606.882,1,0001042873,Stock Equiv Units
+A,06/23/2020 00:00:00,HAUSER DAVID L,4,A-Award,--D,128.76,20478.652,1,0001237305,Stock Equiv Units
+A,06/23/2020 00:00:00,CORBETT LUKE R,4,A-Award,--D,858.404,151628.719,1,0001187268,Stock Equiv Units
+A,03/24/2020 00:00:00,Sanner J. Michael,4,A-Award,--D,485.571,14375.941,1,0001714324,Stock Equiv Units
+A,03/24/2020 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,485.571,5114.8,1,0001042873,Stock Equiv Units
+A,03/24/2020 00:00:00,HAUSER DAVID L,4,A-Award,--D,145.671,20102.753,1,0001237305,Stock Equiv Units
+A,03/24/2020 00:00:00,CORBETT LUKE R,4,A-Award,--D,971.143,148939.288,1,0001187268,Stock Equiv Units
+A,03/13/2020 00:00:00,DENNIS ANDREA M.,4,P-Purchase,--D,1010,3366,1,0001805069,Common Stock-$.01 par value per share
+A,03/10/2020 00:00:00,SULTEMEIER WILLIAM H,4,I-Discretionary,--D,774.491,3046.205,1,0001694221,Stock Equiv Units
+A,03/03/2020 00:00:00,SULTEMEIER WILLIAM H,4,I-Discretionary,--D,2271.713,2271.713,1,0001694221,Stock Equiv Units
+A,03/03/2020 00:00:00,Stafford Sarah R.,4,I-Discretionary,--D,2441.187,2441.187,1,0001733450,Stock Equiv Units
+D,02/26/2020 00:00:00,WALWORTH CHARLES B,4,F-InKind,--D,3320,14094,2,0001600429,Common Stock-$.01 par value per share
+D,02/26/2020 00:00:00,Trauschke Sean,4,F-InKind,--D,48360,293848,2,0001462584,Common Stock-$.01 par value per share
+D,02/26/2020 00:00:00,SULTEMEIER WILLIAM H,4,F-InKind,--D,6720,21345,2,0001694221,Common Stock-$.01 par value per share
+D,02/26/2020 00:00:00,Stafford Sarah R.,4,F-InKind,--D,2305,7925,2,0001733450,"Common Stock, par value $0.01 per share"
+D,02/26/2020 00:00:00,Mitchell E Keith,4,F-InKind,--D,13158,93879,2,0001424581,Common Stock-$.01 par value per share
+D,02/26/2020 00:00:00,Merrill Stephen E,4,F-InKind,--D,12609,67289,2,0001216780,Common Stock-$.01 par value per share
+D,02/26/2020 00:00:00,McQuistion Cristina F,4,F-InKind,--D,2753,26336,2,0001444969,Common Stock-$.01 par value per share
+D,02/26/2020 00:00:00,Leger Jean C Jr,4,F-InKind,--D,7350,44061,2,0001424579,Common Stock-$.01 par value per share
+D,02/26/2020 00:00:00,Jones Donnie O.,4,F-InKind,--D,2387,12444,2,0001794168,Com Stk
+D,02/26/2020 00:00:00,Horn Patricia D,4,F-InKind,--D,2343,48419.209,2,0001424580,Common Stock-$.01 par value per share
+D,02/26/2020 00:00:00,GRANT KENNETH R.,4,F-InKind,--D,2510,16845.181,2,0001668361,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,WALWORTH CHARLES B,4,A-Award,--D,1285,15379,3,0001600429,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,WALWORTH CHARLES B,4,A-Award,--D,7294,17414,1,0001600429,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,Trauschke Sean,4,A-Award,--D,19125,312973,3,0001462584,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,Trauschke Sean,4,A-Award,--D,109041,342208,1,0001462584,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,SULTEMEIER WILLIAM H,4,A-Award,--D,3305,24650,3,0001694221,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,SULTEMEIER WILLIAM H,4,A-Award,--D,15040,28065,1,0001694221,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,Stafford Sarah R.,4,A-Award,--D,1271,9196,3,0001733450,"Common Stock, par value $0.01 per share"
+A,02/25/2020 00:00:00,Stafford Sarah R.,4,A-Award,--D,5005,10230,1,0001733450,"Common Stock, par value $0.01 per share"
+A,02/25/2020 00:00:00,Mitchell E Keith,4,A-Award,--D,4562,98441,3,0001424581,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,Mitchell E Keith,4,A-Award,--D,29602,107037,1,0001424581,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,MILLER KENNETH ADAMS,4,A-Award,--D,1121,3860,1,0001763423,"Common Stock, par value $0.01 per share"
+A,02/25/2020 00:00:00,Merrill Stephen E,4,A-Award,--D,4460,71749,3,0001216780,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,Merrill Stephen E,4,A-Award,--D,28342,79898,1,0001216780,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,McQuistion Cristina F,4,A-Award,--D,1349,27685,3,0001444969,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,McQuistion Cristina F,4,A-Award,--D,9109,29089,1,0001444969,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,Leger Jean C Jr,4,A-Award,--D,2479,46540,3,0001424579,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,Leger Jean C Jr,4,A-Award,--D,16426,51411,1,0001424579,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,Jones Donnie O.,4,A-Award,--D,1606,14050,3,0001794168,Com Stk
+A,02/25/2020 00:00:00,Jones Donnie O.,4,A-Award,--D,7854,14831,1,0001794168,Com Stk
+A,02/25/2020 00:00:00,Horn Patricia D,4,A-Award,--D,1136,49555.209,3,0001424580,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,Horn Patricia D,4,A-Award,--D,7661,50762.209,1,0001424580,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,GRANT KENNETH R.,4,A-Award,--D,1237,18082.181,3,0001668361,Common Stock-$.01 par value per share
+A,02/25/2020 00:00:00,GRANT KENNETH R.,4,A-Award,--D,8255,19355.181,1,0001668361,Common Stock-$.01 par value per share
+A,01/07/2020 00:00:00,Sanner J. Michael,4,A-Award,--D,297.956,13775.031,1,0001714324,Stock Equiv Units
+A,01/07/2020 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,297.957,4590.79,1,0001042873,Stock Equiv Units
+A,01/07/2020 00:00:00,HAUSER DAVID L,4,A-Award,--D,89.387,19791.37,1,0001237305,Stock Equiv Units
+A,01/07/2020 00:00:00,CORBETT LUKE R,4,A-Award,--D,595.913,146739.502,1,0001187268,Stock Equiv Units
+D,01/03/2020 00:00:00,MILLER KENNETH ADAMS,4,F-InKind,--D,222,2739,1,0001763423,"Common Stock, par value $0.01 per share"
+A,12/10/2019 00:00:00,Talton Sheila,4,A-Award,--D,3043.071,23772.898,1,0001490478,Stock Equiv Units
+A,12/10/2019 00:00:00,Sanner J. Michael,4,A-Award,--D,3323.97,13477.075,1,0001714324,Stock Equiv Units
+A,12/10/2019 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,3101.591,4292.833,1,0001042873,Stock Equiv Units
+A,12/10/2019 00:00:00,MCREYNOLDS JUDY R,4,A-Award,--D,3043.071,28953.589,1,0001193004,Stock Equiv Units
+A,12/10/2019 00:00:00,HAUSER DAVID L,4,A-Award,--D,3060.627,19701.983,1,0001237305,Stock Equiv Units
+A,12/10/2019 00:00:00,CORBETT LUKE R,4,A-Award,--D,3628.277,146143.589,1,0001187268,Stock Equiv Units
+A,12/10/2019 00:00:00,Clarke Peter D.,4,A-Award,--D,3043.071,5917.716,1,0001732772,Stock Equiv Units
+A,12/10/2019 00:00:00,Brandi James H,4,A-Award,--D,3043.071,35170.921,1,0001365524,Stock Equiv Units
+A,12/10/2019 00:00:00,BOZICH FRANK A,4,A-Award,--D,3043.071,13294.249,1,0001660737,Stock Equiv Units
+A,09/24/2019 00:00:00,Sanner J. Michael,4,A-Award,--D,332.741,10062.634,1,0001714324,Stock Equiv Units
+A,09/24/2019 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,277.284,1180.626,1,0001042873,Stock Equiv Units
+A,09/24/2019 00:00:00,HAUSER DAVID L,4,A-Award,--D,83.185,16493.07,1,0001237305,Stock Equiv Units
+A,09/24/2019 00:00:00,CORBETT LUKE R,4,A-Award,--D,554.569,141245.414,1,0001187268,Stock Equiv Units
+D,08/20/2019 00:00:00,Leger Jean C Jr,4,G-Gift,-ED,1300,34985,1,0001424579,Common Stock-$.01 par value per share
+D,08/14/2019 00:00:00,WALWORTH CHARLES B,4,S-Sale,--D,705,10120,1,0001600429,Common Stock-$.01 par value per share
+A,06/25/2019 00:00:00,Sanner J. Michael,4,A-Award,--D,347.463,9648.015,1,0001714324,Stock Equiv Units
+A,06/25/2019 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,289.552,895.74,1,0001042873,Stock Equiv Units
+A,06/25/2019 00:00:00,HAUSER DAVID L,4,A-Award,--D,86.865,16271.796,1,0001237305,Stock Equiv Units
+A,06/25/2019 00:00:00,CORBETT LUKE R,4,A-Award,--D,579.105,139506.933,1,0001187268,Stock Equiv Units
+A,05/22/2019 00:00:00,MILLER KENNETH ADAMS,4,A-Award,--D,599,2961,1,0001763423,"Common Stock, par value $0.01 per share"
+D,05/07/2019 00:00:00,Sanner J. Michael,4,S-Sale,--I,75,0,1,0001714324,"Common Stock, par value $0.01 per share"
+D,05/06/2019 00:00:00,Peace Jerry A,4,I-Discretionary,--D,2324.7636,0,3,0001318737,Stock Equiv Units
+D,05/06/2019 00:00:00,Peace Jerry A,4,I-Discretionary,--I,1660.453,0,1,0001318737,Common Stock-$.01 par value per share
+A,03/26/2019 00:00:00,Sanner J. Michael,4,A-Award,--D,343.563,9221.06,1,0001714324,Stock Equiv Units
+A,03/26/2019 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,286.303,601.006,1,0001042873,Stock Equiv Units
+A,03/26/2019 00:00:00,HAUSER DAVID L,4,A-Award,--D,85.891,16046.598,1,0001237305,Stock Equiv Units
+A,03/26/2019 00:00:00,CORBETT LUKE R,4,A-Award,--D,572.606,137740.41,1,0001187268,Stock Equiv Units
+D,03/06/2019 00:00:00,McQuistion Cristina F,4,I-Discretionary,--D,4550.394,0,3,0001444969,Stock Equiv Units
+D,03/06/2019 00:00:00,McQuistion Cristina F,4,I-Discretionary,--I,7427.058,0,1,0001444969,Common Stock-$.01 par value per share
+D,03/01/2019 00:00:00,Peace Jerry A,4,S-Sale,--D,3820,12417,2,0001318737,Common Stock-$.01 par value per share
+D,03/01/2019 00:00:00,Peace Jerry A,4,S-Sale,--D,2180,16237,1,0001318737,Common Stock-$.01 par value per share
+D,02/27/2019 00:00:00,GRANT KENNETH R.,4,S-Sale,--D,1500,10767.656,1,0001668361,Common Stock-$.01 par value per share
+D,02/26/2019 00:00:00,WALWORTH CHARLES B,4,I-Discretionary,1-I,2975,2280.122,1,0001600429,Common Stock-$.01 par value per share
+D,02/25/2019 00:00:00,Peace Jerry A,4,S-Sale,--D,4000,18417,1,0001318737,Common Stock-$.01 par value per share
+D,02/25/2019 00:00:00,Leger Jean C Jr,4,I-Discretionary,--D,20374.8446,0,1,0001424579,Stock Equiv Units
+D,02/20/2019 00:00:00,WALWORTH CHARLES B,4,F-InKind,--D,3386,9576,2,0001600429,Common Stock-$.01 par value per share
+D,02/20/2019 00:00:00,Trauschke Sean,4,F-InKind,--D,71563,213741,2,0001462584,Common Stock-$.01 par value per share
+D,02/20/2019 00:00:00,SULTEMEIER WILLIAM H,4,F-InKind,--D,3509,9627,2,0001694221,Common Stock-$.01 par value per share
+D,02/20/2019 00:00:00,Stafford Sarah R.,4,F-InKind,--D,1421,3990,2,0001733450,"Common Stock, par value $0.01 per share"
+D,02/20/2019 00:00:00,Peace Jerry A,4,F-InKind,--D,4170,21164,2,0001318737,Common Stock-$.01 par value per share
+D,02/20/2019 00:00:00,Mitchell E Keith,4,F-InKind,--D,20877,72789,2,0001424581,Common Stock-$.01 par value per share
+D,02/20/2019 00:00:00,Merrill Stephen E,4,F-InKind,--D,16840,46925,2,0001216780,Common Stock-$.01 par value per share
+D,02/20/2019 00:00:00,McQuistion Cristina F,4,F-InKind,--D,4667,18566,2,0001444969,Common Stock-$.01 par value per share
+D,02/20/2019 00:00:00,Leger Jean C Jr,4,F-InKind,--D,10402,33711,2,0001424579,Common Stock-$.01 par value per share
+D,02/20/2019 00:00:00,Horn Patricia D,4,F-InKind,--D,4039,40490.334,2,0001424580,Common Stock-$.01 par value per share
+D,02/20/2019 00:00:00,GRANT KENNETH R.,4,F-InKind,--D,4229,10982.656,2,0001668361,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,WALWORTH CHARLES B,4,A-Award,--D,1249,10825,3,0001600429,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,WALWORTH CHARLES B,4,A-Award,--D,11542,12962,1,0001600429,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,Trauschke Sean,4,A-Award,--D,19426,233167,3,0001462584,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,Trauschke Sean,4,A-Award,--D,161359,285304,1,0001462584,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,SULTEMEIER WILLIAM H,4,A-Award,--D,3398,13025,3,0001694221,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,SULTEMEIER WILLIAM H,4,A-Award,--D,11952,13136,1,0001694221,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,Stafford Sarah R.,4,A-Award,--D,1235,5225,3,0001733450,"Common Stock, par value $0.01 per share"
+A,02/19/2019 00:00:00,Stafford Sarah R.,4,A-Award,--D,4851,5411,1,0001733450,"Common Stock, par value $0.01 per share"
+A,02/19/2019 00:00:00,Peace Jerry A,4,A-Award,--D,1253,22417,3,0001318737,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,Peace Jerry A,4,A-Award,--D,14209,25334,1,0001318737,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,Mitchell E Keith,4,A-Award,--D,4646,77435,3,0001424581,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,Mitchell E Keith,4,A-Award,--D,51663,93666,1,0001424581,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,MILLER KENNETH ADAMS,4,A-Award,--D,1086,2362,1,0001763423,"Common Stock, par value $0.01 per share"
+A,02/19/2019 00:00:00,Merrill Stephen E,4,A-Award,--D,4631,51556,3,0001216780,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,Merrill Stephen E,4,A-Award,--D,42259,63765,1,0001216780,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,McQuistion Cristina F,4,A-Award,--D,1414,19980,3,0001444969,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,McQuistion Cristina F,4,A-Award,--D,15898,23233,1,0001444969,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,Leger Jean C Jr,4,A-Award,--D,2574,36285,3,0001424579,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,Leger Jean C Jr,4,A-Award,--D,28947,44113,1,0001424579,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,Horn Patricia D,4,A-Award,--D,1191,41681.334,3,0001424580,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,Horn Patricia D,4,A-Award,--D,13769,44529.334,1,0001424580,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,GRANT KENNETH R.,4,A-Award,--D,1285,12267.656,3,0001668361,Common Stock-$.01 par value per share
+A,02/19/2019 00:00:00,GRANT KENNETH R.,4,A-Award,--D,14407,15211.656,1,0001668361,Common Stock-$.01 par value per share
+A,01/11/2019 00:00:00,RAINBOLT DAVID E,4,A-Award,--D,314.703,314.703,1,0001042873,Stock Equiv Units
+A,01/08/2019 00:00:00,Sanner J. Michael,4,A-Award,--D,375.845,8797.755,1,0001714324,Stock Equiv Units
+A,01/08/2019 00:00:00,HAUSER DAVID L,4,A-Award,--D,93.961,15817.341,1,0001237305,Stock Equiv Units
+A,01/08/2019 00:00:00,CORBETT LUKE R,4,A-Award,--D,626.409,135935.707,1,0001187268,Stock Equiv Units
+A,01/01/2019 00:00:00,MILLER KENNETH ADAMS,4,A-Award,--D,1276,1276,1,0001763423,"Common Stock, par value $0.01 per share"
+A,12/11/2018 00:00:00,Talton Sheila,4,A-Award,--D,3028.1,20016.676,1,0001490478,Stock Equiv Units
+A,12/11/2018 00:00:00,Sanner J. Michael,4,A-Award,--D,3149.224,8421.909,1,0001714324,Stock Equiv Units
+A,12/11/2018 00:00:00,MCREYNOLDS JUDY R,4,A-Award,--D,3028.1,25019.139,1,0001193004,Stock Equiv Units
+A,12/11/2018 00:00:00,LORENZ ROBERT O,4,A-Award,--D,3028.1,114592.019,1,0001252162,Stock Equiv Units
+A,12/11/2018 00:00:00,HAUSER DAVID L,4,A-Award,--D,3046.269,15723.38,1,0001237305,Stock Equiv Units
+A,12/11/2018 00:00:00,CORBETT LUKE R,4,A-Award,--D,3633.72,135309.297,1,0001187268,Stock Equiv Units
+A,12/11/2018 00:00:00,Clarke Peter D.,4,A-Award,--D,2775.751,2775.751,1,0001732772,Stock Equiv Units
+A,12/11/2018 00:00:00,Brandi James H,4,A-Award,--D,3028.1,31022.582,1,0001365524,Stock Equiv Units
+A,12/11/2018 00:00:00,BOZICH FRANK A,4,A-Award,--D,3028.1,9898.515,1,0001660737,Stock Equiv Units
+D,11/19/2018 00:00:00,Horn Patricia D,4,S-Sale,--D,10000,30483.566,1,0001424580,Common Stock-$.01 par value per share
+A,11/14/2018 00:00:00,BOZICH FRANK A,4,P-Purchase,--D,10000,15000,1,0001660737,Common Stock-$.01 par value per share
+D,11/12/2018 00:00:00,McQuistion Cristina F,4,S-Sale,--D,4000,7335,1,0001444969,Common Stock-$.01 par value per share
+A,09/25/2018 00:00:00,Sanner J. Michael,4,A-Award,--D,698.519,5221.054,1,0001714324,Stock Equiv Units
+A,09/25/2018 00:00:00,HAUSER DAVID L,4,A-Award,--D,104.777,12552.975,1,0001237305,Stock Equiv Units
+A,09/25/2018 00:00:00,CORBETT LUKE R,4,A-Award,--D,698.519,130386.197,1,0001187268,Stock Equiv Units
+D,08/14/2018 00:00:00,Peace Jerry A,4,S-Sale,--D,2513,11125,1,0001318737,Common Stock-$.01 par value per share
+D,08/09/2018 00:00:00,Horn Patricia D,4,S-Sale,--D,3715,40085.203,1,0001424580,Common Stock-$.01 par value per share
+A,06/26/2018 00:00:00,Sanner J. Michael,4,A-Award,--D,713.47,4481.089,1,0001714324,Stock Equiv Units
+A,06/26/2018 00:00:00,HAUSER DAVID L,4,A-Award,--D,107.02,12334.119,1,0001237305,Stock Equiv Units
+A,06/26/2018 00:00:00,CORBETT LUKE R,4,A-Award,--D,713.47,128499.195,1,0001187268,Stock Equiv Units
+D,05/18/2018 00:00:00,Leger Jean C Jr,4,G-Gift,-ED,600,15166,1,0001424579,Common Stock-$.01 par value per share
+A,03/27/2018 00:00:00,Sanner J. Michael,4,A-Award,--D,774.953,3729.889,1,0001714324,Stock Equiv Units
+A,03/27/2018 00:00:00,HAUSER DAVID L,4,A-Award,--D,116.243,12104.652,1,0001237305,Stock Equiv Units
+A,03/27/2018 00:00:00,CORBETT LUKE R,4,A-Award,--D,774.953,126506.039,1,0001187268,Stock Equiv Units
+A,02/27/2018 00:00:00,WALWORTH CHARLES B,4,I-Discretionary,--I,1600,3965.234,2,0001600429,Common Stock-$.01 par value per share
+A,02/26/2018 00:00:00,WALWORTH CHARLES B,4,I-Discretionary,--D,1798.375,3093.233,3,0001600429,Stock Equiv Units
+A,02/26/2018 00:00:00,WALWORTH CHARLES B,4,P-Purchase,--D,100,1420,1,0001600429,Common Stock-$.01 par value per share
+A,02/26/2018 00:00:00,Clarke Peter D.,4,P-Purchase,--D,1850,1850,1,0001732772,"Common Stock, par value $0.01 per share"
+D,02/21/2018 00:00:00,WALWORTH CHARLES B,4,F-InKind,--D,183,1320,2,0001600429,Common Stock-$.01 par value per share
+D,02/21/2018 00:00:00,Trauschke Sean,4,F-InKind,--D,1409,123945,2,0001462584,Common Stock-$.01 par value per share
+D,02/21/2018 00:00:00,SULTEMEIER WILLIAM H,4,F-InKind,--D,628,1184,2,0001694221,Common Stock-$.01 par value per share
+D,02/21/2018 00:00:00,Peace Jerry A,4,F-InKind,--D,261,13638,2,0001318737,Common Stock-$.01 par value per share
+D,02/21/2018 00:00:00,Mitchell E Keith,4,F-InKind,--D,881,42003,2,0001424581,Common Stock-$.01 par value per share
+D,02/21/2018 00:00:00,Merrill Stephen E,4,F-InKind,--D,667,21506,2,0001216780,Common Stock-$.01 par value per share
+D,02/21/2018 00:00:00,McQuistion Cristina F,4,F-InKind,--D,296,11335,2,0001444969,Common Stock-$.01 par value per share
+D,02/21/2018 00:00:00,Leger Jean C Jr,4,F-InKind,--D,541,15766,2,0001424579,Common Stock-$.01 par value per share
+D,02/21/2018 00:00:00,Horn Patricia D,4,F-InKind,--D,257,42967.064,2,0001424580,Common Stock-$.01 par value per share
+D,02/21/2018 00:00:00,GRANT KENNETH R.,4,F-InKind,--D,142,774.464,2,0001668361,Common Stock-$.01 par value per share
+D,02/21/2018 00:00:00,Forbes H Scott,4,F-InKind,--D,350,15760,2,0001336296,Common Stock-$.01 par value per share
+A,02/20/2018 00:00:00,WALWORTH CHARLES B,4,A-Award,--D,526,1503,1,0001600429,Common Stock-$.01 par value per share
+A,02/20/2018 00:00:00,Trauschke Sean,4,A-Award,--D,4848,125354,1,0001462584,Common Stock-$.01 par value per share
+A,02/20/2018 00:00:00,SULTEMEIER WILLIAM H,4,A-Award,--D,1812,1812,1,0001694221,Common Stock-$.01 par value per share
+A,02/20/2018 00:00:00,Peace Jerry A,4,A-Award,--D,752,13899,1,0001318737,Common Stock-$.01 par value per share
+A,02/20/2018 00:00:00,Mitchell E Keith,4,A-Award,--D,2733,42884,1,0001424581,Common Stock-$.01 par value per share
+A,02/20/2018 00:00:00,Merrill Stephen E,4,A-Award,--D,1938,22173,1,0001216780,Common Stock-$.01 par value per share
+A,02/20/2018 00:00:00,McQuistion Cristina F,4,A-Award,--D,854,11631,1,0001444969,Common Stock-$.01 par value per share
+A,02/20/2018 00:00:00,Leger Jean C Jr,4,A-Award,--D,1561,16307,1,0001424579,Common Stock-$.01 par value per share
+A,02/20/2018 00:00:00,Horn Patricia D,4,A-Award,--D,739,43224.064,1,0001424580,Common Stock-$.01 par value per share
+A,02/20/2018 00:00:00,GRANT KENNETH R.,4,A-Award,--D,409,916.464,1,0001668361,Common Stock-$.01 par value per share
+A,02/20/2018 00:00:00,Forbes H Scott,4,A-Award,--D,1009,16110,1,0001336296,Common Stock-$.01 par value per share
+A,01/09/2018 00:00:00,Sanner J. Michael,4,A-Award,--D,778.816,2924.273,1,0001714324,Stock Equiv Units
+A,01/09/2018 00:00:00,HAUSER DAVID L,4,A-Award,--D,116.822,11864.008,1,0001237305,Stock Equiv Units
+A,01/09/2018 00:00:00,CORBETT LUKE R,4,A-Award,--D,778.816,124426.394,1,0001187268,Stock Equiv Units
+A,12/05/2017 00:00:00,Sanner J. Michael,4,A-Award,--D,1215.844,2145.456,1,0001714324,Stock Equiv Units
+A,12/05/2017 00:00:00,LORENZ ROBERT O,4,A-Award,--D,3209.805,107238.471,1,0001252162,Stock Equiv Units
+A,12/05/2017 00:00:00,Talton Sheila,4,A-Award,--D,3209.804,16329.91,1,0001490478,Stock Equiv Units
+A,12/05/2017 00:00:00,Brandi James H,4,A-Award,--D,3209.805,26909.107,1,0001365524,Stock Equiv Units
+A,12/05/2017 00:00:00,BOZICH FRANK A,4,A-Award,--D,3209.804,6604.041,1,0001660737,Stock Equiv Units
+A,12/05/2017 00:00:00,HAUSER DAVID L,4,A-Award,--D,3238.984,11747.185,1,0001237305,Stock Equiv Units
+A,12/05/2017 00:00:00,Humphreys Kirk David,4,A-Award,--D,3209.805,74131.527,1,0001420329,Stock Equiv Units
+A,12/05/2017 00:00:00,CORBETT LUKE R,4,A-Award,--D,3939.305,123647.578,1,0001187268,Stock Equiv Units
+A,12/05/2017 00:00:00,MCREYNOLDS JUDY R,4,A-Award,--D,3209.805,21138.424,1,0001193004,Stock Equiv Units
+D,11/15/2017 00:00:00,Peace Jerry A,4,S-Sale,--D,3000,13147,1,0001318737,Common Stock-$.01 par value per share
+D,11/15/2017 00:00:00,Horn Patricia D,4,S-Sale,--D,10051,42048.209,1,0001424580,Common Stock-$.01 par value per share
+A,09/26/2017 00:00:00,Talton Sheila,4,A-Award,--D,345.494,13002.938,1,0001490478,Stock Equiv Units
+A,09/26/2017 00:00:00,Sanner J. Michael,4,A-Award,--D,921.31,921.31,1,0001714324,Stock Equiv Units
+A,09/26/2017 00:00:00,HAUSER DAVID L,4,A-Award,--D,138.197,8432.219,1,0001237305,Stock Equiv Units
+A,09/26/2017 00:00:00,CORBETT LUKE R,4,A-Award,--D,690.989,118639.233,1,0001187268,Stock Equiv Units
+D,08/08/2017 00:00:00,CORBETT LUKE R,4,S-Sale,--I,1250,0,1,0001187268,Common Stock-$.01 par value per share
+D,08/07/2017 00:00:00,Forbes H Scott,4,S-Sale,--D,3210,15101,2,0001336296,Common Stock-$.01 par value per share
+D,08/07/2017 00:00:00,Forbes H Scott,4,S-Sale,--D,1460,18311,1,0001336296,Common Stock-$.01 par value per share
+A,06/27/2017 00:00:00,Talton Sheila,4,A-Award,--D,353.007,12551.388,1,0001490478,Stock Equiv Units
+A,06/27/2017 00:00:00,HAUSER DAVID L,4,A-Award,--D,141.203,8224.526,1,0001237305,Stock Equiv Units
+A,06/27/2017 00:00:00,CORBETT LUKE R,4,A-Award,--D,706.015,116959.965,1,0001187268,Stock Equiv Units
+A,03/28/2017 00:00:00,Talton Sheila,4,A-Award,--D,351.025,12093.199,1,0001490478,Stock Equiv Units
+A,03/28/2017 00:00:00,HAUSER DAVID L,4,A-Award,--D,140.41,8013.625,1,0001237305,Stock Equiv Units
+A,03/28/2017 00:00:00,GROENDYKE JOHN D,4,A-Award,--D,351.025,84761.976,1,0001226563,Stock Equiv Units
+A,03/28/2017 00:00:00,CORBETT LUKE R,4,A-Award,--D,702.05,115251.546,1,0001187268,Stock Equiv Units
+D,03/07/2017 00:00:00,McQuistion Cristina F,4,S-Sale,--D,1012.916,10777,1,0001444969,Common Stock-$.01 par value per share
+D,03/06/2017 00:00:00,Peace Jerry A,4,I-Discretionary,--D,3054.005,2139.184,1,0001318737,Stock Equiv Units
+D,03/02/2017 00:00:00,McQuistion Cristina F,4,S-Sale,--D,988,11789.916,1,0001444969,Common Stock-$.01 par value per share
+A,01/10/2017 00:00:00,Talton Sheila,4,A-Award,--D,378.1,11636.279,1,0001490478,Stock Equiv Units
+A,01/10/2017 00:00:00,HAUSER DAVID L,4,A-Award,--D,151.24,7802.211,1,0001237305,Stock Equiv Units
+A,01/10/2017 00:00:00,GROENDYKE JOHN D,4,A-Award,--D,378.1,83649.699,1,0001226563,Stock Equiv Units
+A,01/10/2017 00:00:00,CORBETT LUKE R,4,A-Award,--D,756.2,113516.441,1,0001187268,Stock Equiv Units
+A,12/06/2016 00:00:00,Talton Sheila,4,A-Award,--D,3277.153,11258.178,1,0001490478,Stock Equiv Units
+A,12/06/2016 00:00:00,MCREYNOLDS JUDY R,4,A-Award,--D,3277.153,17310.172,1,0001193004,Stock Equiv Units
+A,12/06/2016 00:00:00,LORENZ ROBERT O,4,A-Award,--D,4088.639,100440.201,1,0001252162,Stock Equiv Units
+A,12/06/2016 00:00:00,Humphreys Kirk David,4,A-Award,--D,3620.474,68475.281,1,0001420329,Stock Equiv Units
+A,12/06/2016 00:00:00,HAUSER DAVID L,4,A-Award,--D,3345.817,7650.97,1,0001237305,Stock Equiv Units
+A,12/06/2016 00:00:00,GROENDYKE JOHN D,4,A-Award,--D,3370.786,83271.598,1,0001226563,Stock Equiv Units
+A,12/06/2016 00:00:00,CORBETT LUKE R,4,A-Award,--D,4026.217,112760.241,1,0001187268,Stock Equiv Units
+A,12/06/2016 00:00:00,Brandi James H,4,A-Award,--D,3277.153,22881.796,1,0001365524,Stock Equiv Units
+A,12/06/2016 00:00:00,BOZICH FRANK A,4,A-Award,--D,3277.153,3277.153,1,0001660737,Stock Equiv Units
+A,11/11/2016 00:00:00,WALWORTH CHARLES B,4,I-Discretionary,--D,1237.218,1237.218,1,0001600429,Stock Equiv Units
+A,09/27/2016 00:00:00,LORENZ ROBERT O,4,A-Award,--D,812.807,95411.13,1,0001252162,Stock Equiv Units
+A,09/27/2016 00:00:00,Humphreys Kirk David,4,A-Award,--D,812.807,64221.796,1,0001420329,Stock Equiv Units
+A,09/27/2016 00:00:00,HAUSER DAVID L,4,A-Award,--D,174.876,4263.133,1,0001237305,Stock Equiv Units
+A,09/27/2016 00:00:00,GROENDYKE JOHN D,4,A-Award,--D,437.192,79120.946,1,0001226563,Stock Equiv Units
+A,09/27/2016 00:00:00,CORBETT LUKE R,4,A-Award,--D,812.807,107672.733,1,0001187268,Stock Equiv Units
+D,09/08/2016 00:00:00,Forbes H Scott,4,S-Sale,--D,2470,19771,2,0001336296,Common Stock-$.01 par value per share
+D,09/07/2016 00:00:00,HAUSER DAVID L,4,J-Other,--I,1000,0,1,0001237305,"Common Stock, par value $0.01 per share"
+D,09/07/2016 00:00:00,Forbes H Scott,4,S-Sale,--D,2489,22241,1,0001336296,Common Stock-$.01 par value per share
+D,08/09/2016 00:00:00,Leger Jean C Jr,4,S-Sale,--D,10000,14746,1,0001424579,Common Stock-$.01 par value per share
+A,06/28/2016 00:00:00,LORENZ ROBERT O,4,A-Award,--D,646.592,93796.518,1,0001252162,Stock Equiv Units

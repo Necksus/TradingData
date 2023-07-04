@@ -1,0 +1,641 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,05/19/2023 00:00:00,FROST PATRICK B,4,S-Sale,--D,2600,210946,3,0001128400,"Common Stock, $0.01 par value"
+D,05/19/2023 00:00:00,FROST PATRICK B,4,S-Sale,--D,4017,213546,2,0001128400,"Common Stock, $0.01 par value"
+A,05/19/2023 00:00:00,FROST PATRICK B,4,M-Exempt,--D,8080,217563,1,0001128400,"Common Stock, $0.01 par value"
+A,05/17/2023 00:00:00,FROST PATRICK B,4,G-Gift,--I,8348,30351.2,12,0001128400,"Common Stock, $0.01 par value"
+A,05/17/2023 00:00:00,FROST PATRICK B,4,G-Gift,--I,8349,30352.2,11,0001128400,"Common Stock, $0.01 par value"
+A,05/17/2023 00:00:00,FROST PATRICK B,4,G-Gift,--I,8348,30351.2,10,0001128400,"Common Stock, $0.01 par value"
+D,05/17/2023 00:00:00,FROST PATRICK B,4,G-Gift,--I,25045,0,9,0001128400,"Common Stock, $0.01 par value"
+A,05/16/2023 00:00:00,FROST PATRICK B,4,G-Gift,--I,22003.2,22003.2,8,0001128400,"Common Stock, $0.01 par value"
+A,05/16/2023 00:00:00,FROST PATRICK B,4,G-Gift,--I,22003.2,22003.2,7,0001128400,"Common Stock, $0.01 par value"
+A,05/16/2023 00:00:00,FROST PATRICK B,4,G-Gift,--I,22003.2,22003.2,6,0001128400,"Common Stock, $0.01 par value"
+D,05/16/2023 00:00:00,FROST PATRICK B,4,G-Gift,--I,66009.6,25045,5,0001128400,"Common Stock, $0.01 par value"
+A,05/16/2023 00:00:00,FROST PATRICK B,4,W-Will,--I,30773.7,30773.7,4,0001128400,"Common Stock, $0.01 par value"
+A,05/16/2023 00:00:00,FROST PATRICK B,4,W-Will,--I,30773.7,30773.7,3,0001128400,"Common Stock, $0.01 par value"
+A,05/16/2023 00:00:00,FROST PATRICK B,4,W-Will,--I,30773.7,30773.7,2,0001128400,"Common Stock, $0.01 par value"
+D,05/16/2023 00:00:00,FROST PATRICK B,4,W-Will,--I,92321.1,128356.08,1,0001128400,"Common Stock, $0.01 par value"
+A,05/15/2023 00:00:00,John Howard Willome,4,P-Purchase,--I,2000,9000,1,0001964771,"Common Stock, $0.01 par value"
+A,05/10/2023 00:00:00,Avery Chris,4,P-Purchase,--D,5000,10000,1,0001662107,"Common Stock, $0.01 par value"
+A,05/05/2023 00:00:00,Kasanoff Howard L.,4,P-Purchase,--I,1000,2912.351,1,0001960954,"Common Stock, $0.01 Par Value"
+A,05/04/2023 00:00:00,Berman Bobby,4,P-Purchase,--D,1500,26662,1,0001388767,"Common Stock, $0.01 par value"
+A,04/26/2023 00:00:00,John Howard Willome,4,A-Award,--D,773,773,1,0001964771,Deferred Stock Units
+A,04/26/2023 00:00:00,Rutherford Linda B.,4,A-Award,--D,773,1371,1,0001870857,Deferred Stock Units
+A,04/26/2023 00:00:00,Pierce Joseph A.,4,A-Award,--D,773,773,1,0001953028,Deferred Stock Units
+A,04/26/2023 00:00:00,MATTHEWS CHARLES W,4,A-Award,--D,773,7676,1,0001199008,Deferred Stock Units
+A,04/26/2023 00:00:00,HAEMISEGGER DAVID J,4,A-Award,--D,773,8837,1,0001449103,Deferred Stock Units
+A,04/26/2023 00:00:00,EDWARDS CRAWFORD H,4,A-Award,--D,773,9382,1,0001344078,Deferred Stock Units
+A,04/26/2023 00:00:00,Dawson Samuel G.,4,A-Award,--D,773,4464,1,0001695714,Deferred Stock Units
+A,04/26/2023 00:00:00,Comparin Cynthia Jane,4,A-Award,--D,773,3497,1,0001688444,Deferred Stock Units
+A,04/26/2023 00:00:00,CHASE ANTHONY R,4,A-Award,--D,773,2913,1,0001223756,Deferred Stock Units
+A,04/26/2023 00:00:00,Avery Chris,4,A-Award,--D,773,5096,1,0001662107,Deferred Stock Units
+A,04/26/2023 00:00:00,ALVAREZ CARLOS,4,A-Award,--D,773,9382,1,0001188022,Deferred Stock Units
+A,03/15/2023 00:00:00,Wolfshohl Candace K,4,P-Purchase,--D,700,16291,1,0001649841,"Common Stock, $0.01 par value"
+A,03/13/2023 00:00:00,Severyn Carol Jean,4,P-Purchase,--D,1500,5371,1,0001767197,"Common Stock, $0.01 par value"
+A,03/13/2023 00:00:00,John Howard Willome,4,P-Purchase,--I,1000,7000,2,0001964771,"Common Stock, $0.01 par value"
+A,03/13/2023 00:00:00,John Howard Willome,4,P-Purchase,--I,1000,6000,1,0001964771,"Common Stock, $0.01 par value"
+A,03/13/2023 00:00:00,Avery Chris,4,P-Purchase,--I,5000,13000,1,0001662107,"Common Stock, $0.01 par value"
+A,03/13/2023 00:00:00,GREEN PHILLIP D,4,P-Purchase,--D,9500,114729,1,0001128404,"Common Stock, $0.01 par value"
+D,03/07/2023 00:00:00,Wolfshohl Candace K,4,F-InKind,--D,368,15591,2,0001649841,"Common Stock, $0.01 par value"
+A,03/07/2023 00:00:00,Wolfshohl Candace K,4,A-Award,--D,1512,15959,1,0001649841,"Common Stock, $0.01 par value"
+D,03/07/2023 00:00:00,Stead Jimmy,4,F-InKind,--D,355,6964,2,0001695033,"Common Stock, $0.01 par value"
+A,03/07/2023 00:00:00,Stead Jimmy,4,A-Award,--D,1460,7319,1,0001695033,"Common Stock, $0.01 par value"
+D,03/07/2023 00:00:00,Severyn Carol Jean,4,F-InKind,--D,323,3871,2,0001767197,"Common Stock, $0.01 par value"
+A,03/07/2023 00:00:00,Severyn Carol Jean,4,A-Award,--D,1327,4194,1,0001767197,"Common Stock, $0.01 par value"
+D,03/07/2023 00:00:00,Salinas Jerry,4,F-InKind,--D,626,31543,2,0001632462,"Common Stock, $0.01 par value"
+A,03/07/2023 00:00:00,Salinas Jerry,4,A-Award,--D,2573,32169,1,0001632462,"Common Stock, $0.01 par value"
+D,03/07/2023 00:00:00,GREEN PHILLIP D,4,F-InKind,--D,4698,105229,2,0001128404,"Common Stock, $0.01 par value"
+A,03/07/2023 00:00:00,GREEN PHILLIP D,4,A-Award,--D,11940,109927,1,0001128404,"Common Stock, $0.01 par value"
+D,03/07/2023 00:00:00,FROST PATRICK B,4,F-InKind,--D,465,209476,2,0001128400,"Common  Stock, $0.01 par value"
+A,03/07/2023 00:00:00,FROST PATRICK B,4,A-Award,--D,1910,209941,1,0001128400,"Common Stock, $0.01 par value"
+D,03/07/2023 00:00:00,Bracher Paul,4,F-InKind,--D,1023,94411,2,0001388772,"Common Stock, $0.01 par value"
+A,03/07/2023 00:00:00,Bracher Paul,4,A-Award,--D,2600,95434,1,0001388772,"Common Stock, $0.01 par value"
+D,03/07/2023 00:00:00,Berman Bobby,4,F-InKind,--D,323,25162,2,0001388767,"Common Stock, $0.01 par value"
+A,03/07/2023 00:00:00,Berman Bobby,4,A-Award,--D,1327,25485,1,0001388767,"Common Stock, $0.01 par value"
+D,03/07/2023 00:00:00,Alonzo Annette M,4,F-InKind,--D,387,11350,2,0001649840,"Common Stock, $0.01 par value"
+A,03/07/2023 00:00:00,Alonzo Annette M,4,A-Award,--D,1592,11737,1,0001649840,"Common Stock, $0.01 par value"
+A,02/14/2023 00:00:00,Bracher Paul,4,M-Exempt,--D,8080,0,3,0001388772,Employee Stock Option (right to buy)
+D,02/14/2023 00:00:00,Bracher Paul,4,S-Sale,--D,5848,92834,2,0001388772,"Common Stock, $0.01 par value"
+A,02/14/2023 00:00:00,Bracher Paul,4,M-Exempt,--D,8080,98682,1,0001388772,"Common Stock, $0.01 par value"
+A,02/01/2023 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,508,0,4,0001767197,Restricted Stock Units
+D,02/01/2023 00:00:00,Severyn Carol Jean,4,F-InKind,--D,150,2867,2,0001767197,"Common Stock, $0.01 par value"
+A,02/01/2023 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,508,3017,1,0001767197,"Common Stock, $0.01 par value"
+D,12/14/2022 00:00:00,Berman Bobby,4,G-Gift,--D,175,24064,2,0001388767,"Common Stock, $0.01 par value"
+D,12/13/2022 00:00:00,Berman Bobby,4,G-Gift,--D,350,24239,1,0001388767,"Common Stock, $0.01 par value"
+D,11/09/2022 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,2000,97987,3,0001128404,"Common Stock, $0.01 par value"
+A,10/28/2022 00:00:00,GREEN PHILLIP D,4/A,A-Award,--D,11097,11097,1,0001128404,Restricted Stock Units
+D,10/28/2022 00:00:00,Berman Bobby,4,S-Sale,--D,1941,24589,1,0001388767,"Common Stock, $0.01 par value"
+A,10/25/2022 00:00:00,Rhodes Coolidge E JR,4,A-Award,--D,2097,2097,1,0001883925,Restricted Stock Units
+A,10/25/2022 00:00:00,Wolfshohl Candace K,4,A-Award,--D,1398,1398,1,0001649841,Restricted Stock Units
+A,10/25/2022 00:00:00,Stead Jimmy,4,A-Award,--D,2621,2621,1,0001695033,Restricted Stock Units
+A,10/25/2022 00:00:00,Severyn Carol Jean,4,A-Award,--D,2045,2045,1,0001767197,Restricted Stock Units
+A,10/25/2022 00:00:00,Salinas Jerry,4,A-Award,--D,2761,2761,1,0001632462,Restricted Stock Units
+A,10/25/2022 00:00:00,Perotti William L,4,A-Award,--D,1450,1450,1,0001388771,Restricted Stock Units
+A,10/25/2022 00:00:00,GREEN PHILLIP D,4,A-Award,--D,11534,11534,1,0001128404,Restricted Stock Units
+A,10/25/2022 00:00:00,FROST PATRICK B,4,A-Award,--D,1748,1748,1,0001128400,Restricted Stock Units
+A,10/25/2022 00:00:00,Bracher Paul,4,A-Award,--D,2796,2796,1,0001388772,Restricted Stock Units
+A,10/25/2022 00:00:00,Berman Bobby,4,A-Award,--D,1573,1573,1,0001388767,Restricted Stock Units
+A,10/25/2022 00:00:00,Alonzo Annette M,4,A-Award,--D,1992,1992,1,0001649840,Restricted Stock Units
+D,10/23/2022 00:00:00,Salinas Jerry,4/A,M-Exempt,--D,2558,0,4,0001632462,Restricted Stock Units
+D,10/23/2022 00:00:00,Salinas Jerry,4/A,F-InKind,--D,1006,29344,2,0001632462,"Common Stock, $0.01 par value"
+A,10/23/2022 00:00:00,Salinas Jerry,4/A,M-Exempt,--D,2558,30350,1,0001632462,"Common Stock, $0.01 par value"
+D,10/23/2022 00:00:00,FROST PATRICK B,4,M-Exempt,--D,1846,0,12,0001128400,Restricted Stock Units
+D,10/23/2022 00:00:00,FROST PATRICK B,4,F-InKind,--D,726,207803,2,0001128400,"Common  Stock, $0.01 par value"
+A,10/23/2022 00:00:00,FROST PATRICK B,4,M-Exempt,--D,1846,208529,1,0001128400,"Common Stock, $0.01 par value"
+D,10/23/2022 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,11338,0,5,0001128404,Restricted Stock Units
+D,10/23/2022 00:00:00,GREEN PHILLIP D,4,F-InKind,--D,4461,99305,2,0001128404,"Common Stock, $0.01 par value"
+A,10/23/2022 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,11338,103766,1,0001128404,"Common Stock, $0.01 par value"
+D,10/23/2022 00:00:00,Wolfshohl Candace K,4,M-Exempt,--D,1450,0,4,0001649841,Restricted Stock Units
+D,10/23/2022 00:00:00,Wolfshohl Candace K,4,F-InKind,--D,353,14417,2,0001649841,"Common Stock, $0.01 par value"
+A,10/23/2022 00:00:00,Wolfshohl Candace K,4,M-Exempt,--D,1450,14770,1,0001649841,"Common Stock, $0.01 par value"
+D,10/23/2022 00:00:00,Stead Jimmy,4,M-Exempt,--D,1134,0,4,0001695033,Restricted Stock Units
+D,10/23/2022 00:00:00,Stead Jimmy,4,F-InKind,--D,276,5649,2,0001695033,"Common Stock, $0.01 par value"
+A,10/23/2022 00:00:00,Stead Jimmy,4,M-Exempt,--D,1134,5925,1,0001695033,"Common Stock, $0.01 par value"
+D,10/23/2022 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,897,0,4,0001767197,Restricted Stock Units
+D,10/23/2022 00:00:00,Severyn Carol Jean,4,F-InKind,--D,218,2351,2,0001767197,"Common Stock, $0.01 par value"
+A,10/23/2022 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,897,2569,1,0001767197,"Common Stock, $0.01 par value"
+D,10/23/2022 00:00:00,Salinas Jerry,4,M-Exempt,--D,2588,0,4,0001632462,Restricted Stock Units
+D,10/23/2022 00:00:00,Salinas Jerry,4,F-InKind,--D,1006,29344,2,0001632462,"Common Stock, $0.01 par value"
+A,10/23/2022 00:00:00,Salinas Jerry,4,M-Exempt,--D,2558,30350,1,0001632462,"Common Stock, $0.01 par value"
+D,10/23/2022 00:00:00,Perotti William L,4,M-Exempt,--D,1846,0,4,0001388771,Restricted Stock Units
+D,10/23/2022 00:00:00,Perotti William L,4,F-InKind,--D,726,99049,2,0001388771,"Common Stock, $0.01 par value"
+A,10/23/2022 00:00:00,Perotti William L,4,M-Exempt,--D,1846,99775,1,0001388771,"Common Stock, $0.01 par value"
+D,10/23/2022 00:00:00,Bracher Paul,4,M-Exempt,--D,2584,0,4,0001388772,Restricted Stock Units
+D,10/23/2022 00:00:00,Bracher Paul,4,F-InKind,--D,892,90344,2,0001388772,"Common Stock, $0.01 par value"
+A,10/23/2022 00:00:00,Bracher Paul,4,M-Exempt,--D,2584,91236,1,0001388772,"Common Stock, $0.01 par value"
+D,10/23/2022 00:00:00,Berman Bobby,4,M-Exempt,--D,1292,0,4,0001388767,Restricted Stock Units
+D,10/23/2022 00:00:00,Berman Bobby,4,F-InKind,--D,314,26530,2,0001388767,"Common Stock, $0.01 par value"
+A,10/23/2022 00:00:00,Berman Bobby,4,M-Exempt,--D,1292,26844,1,0001388767,"Common Stock, $0.01 par value"
+D,10/23/2022 00:00:00,Alonzo Annette M,4,M-Exempt,--D,1529,0,4,0001649840,Restricted Stock Units
+D,10/23/2022 00:00:00,Alonzo Annette M,4,F-InKind,--D,372,10067,2,0001649840,"Common Stock, $0.01 par value"
+A,10/23/2022 00:00:00,Alonzo Annette M,4,M-Exempt,--D,1529,10439,1,0001649840,"Common Stock, $0.01 par value"
+D,09/06/2022 00:00:00,Perotti William L,4,M-Exempt,--D,10490,0,4,0001388771,Employee Stock Option (right to buy)
+D,09/06/2022 00:00:00,Perotti William L,4,S-Sale,--D,10490,97929,2,0001388771,"Common Stock, $0.01 par value"
+A,09/06/2022 00:00:00,Perotti William L,4,M-Exempt,--D,10490,108419,1,0001388771,"Common Stock, $0.01 par value"
+D,08/11/2022 00:00:00,Salinas Jerry,4,M-Exempt,--D,12000,0,5,0001632462,Employee Stock Option (right to buy)
+D,08/11/2022 00:00:00,Salinas Jerry,4,S-Sale,--D,12000,27792,2,0001632462,"Common Stock, $0.01 par value"
+A,08/11/2022 00:00:00,Salinas Jerry,4,M-Exempt,--D,12000,39792,1,0001632462,"Common Stock, $0.01 par value"
+D,08/04/2022 00:00:00,FROST PATRICK B,4,S-Sale,--I,5,16870.88,16,0001128400,"Common Stock, $0.01 par value"
+D,08/04/2022 00:00:00,FROST PATRICK B,4,S-Sale,--I,33,16875.88,15,0001128400,"Common Stock, $0.01 par value"
+D,08/04/2022 00:00:00,FROST PATRICK B,4,S-Sale,--I,375,16908.88,14,0001128400,"Common Stock, $0.01 par value"
+D,08/04/2022 00:00:00,FROST PATRICK B,4,S-Sale,--I,727,17283.88,13,0001128400,"Common Stock, $0.01 par value"
+D,08/04/2022 00:00:00,FROST PATRICK B,4,S-Sale,--I,418,251450.1,12,0001128400,"Common Stock, $0.01 par value"
+D,08/04/2022 00:00:00,FROST PATRICK B,4,S-Sale,--I,2771,251868.1,11,0001128400,"Common Stock, $0.01 par value"
+D,08/04/2022 00:00:00,FROST PATRICK B,4,S-Sale,--I,31715,254639.1,10,0001128400,"Common Stock, $0.01 par value"
+D,08/04/2022 00:00:00,FROST PATRICK B,4,S-Sale,--I,61500,286354.1,9,0001128400,"Common Stock, $0.01 par value"
+D,08/04/2022 00:00:00,FROST PATRICK B,4,S-Sale,--D,78,206676,8,0001128400,"Common Stock, $0.01 par value"
+D,08/04/2022 00:00:00,FROST PATRICK B,4,S-Sale,--D,517,206754,7,0001128400,"Common Stock, $0.01 par value"
+D,08/04/2022 00:00:00,FROST PATRICK B,4,S-Sale,--D,5922,207271,6,0001128400,"Common Stock, $0.01 par value"
+D,08/04/2022 00:00:00,FROST PATRICK B,4,S-Sale,--D,11483,213193,5,0001128400,"Common Stock, $0.01 par value"
+D,08/03/2022 00:00:00,FROST PATRICK B,4,W-Will,--I,31837.185,0,4,0001128400,"Common Stock, $0.01 par value"
+A,08/03/2022 00:00:00,FROST PATRICK B,4,W-Will,--I,450,18010.88,3,0001128400,"Common Stock, $0.01 par value"
+A,05/09/2022 00:00:00,FROST PATRICK B,4,W-Will,--I,690,17560.88,2,0001128400,"Common  Stock, $0.01 par value"
+D,05/09/2022 00:00:00,FROST PATRICK B,4,W-Will,--I,250839,0,1,0001128400,"Common Stock, $0.01 par value"
+A,05/02/2022 00:00:00,Avery Chris,4,P-Purchase,--I,5000,17000,1,0001662107,"Common Stock, $0.01 par value"
+D,04/27/2022 00:00:00,STEEN IDA CLEMENT,4,M-Exempt,--D,8011,0,2,0001128410,Deferred Stock Units
+A,04/27/2022 00:00:00,STEEN IDA CLEMENT,4,M-Exempt,--D,8011,10073,1,0001128410,"Common Stock, $0.01 par value"
+D,04/27/2022 00:00:00,JENNINGS KAREN E,4,M-Exempt,--D,8011,0,2,0001182672,Deferred Stock Units
+A,04/27/2022 00:00:00,JENNINGS KAREN E,4,M-Exempt,--D,8011,10311,1,0001182672,"Common Stock, $0.01 par value"
+A,04/27/2022 00:00:00,Rutherford Linda B.,4,A-Award,--D,598,598,1,0001870857,Deferred Stock Units
+A,04/27/2022 00:00:00,MATTHEWS CHARLES W,4,A-Award,--D,598,6903,1,0001199008,Deferred Stock Units
+A,04/27/2022 00:00:00,HAEMISEGGER DAVID J,4,A-Award,--D,598,8064,1,0001449103,Deferred Stock Units
+A,04/27/2022 00:00:00,EDWARDS CRAWFORD H,4,A-Award,--D,598,8609,1,0001344078,Deferred Stock Units
+A,04/27/2022 00:00:00,Dawson Samuel G.,4,A-Award,--D,598,3691,1,0001695714,Deferred Stock Units
+A,04/27/2022 00:00:00,Comparin Cynthia Jane,4,A-Award,--D,598,2724,1,0001688444,Deferred Stock Units
+A,04/27/2022 00:00:00,CHASE ANTHONY R,4,A-Award,--D,598,2140,1,0001223756,Deferred Stock Units
+A,04/27/2022 00:00:00,Avery Chris,4,A-Award,--D,598,4323,1,0001662107,Deferred Stock Units
+A,04/27/2022 00:00:00,ALVAREZ CARLOS,4,A-Award,--D,598,8609,1,0001188022,Deferred Stock Units
+D,03/15/2022 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,1610,99987,2,0001128404,"Common Stock, $0.01 par value"
+D,03/10/2022 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,920,101597,1,0001128404,"Common Stock, $0.01 par value"
+D,03/08/2022 00:00:00,GREEN PHILLIP D,4,F-InKind,--D,4391,45543,2,0001128404,"Common Stock, $0.01 par value"
+A,03/08/2022 00:00:00,GREEN PHILLIP D,4,A-Award,--D,11161,49934,1,0001128404,"Common Stock, $0.01 par value"
+D,03/08/2022 00:00:00,FROST PATRICK B,4,F-InKind,--D,714,141051,2,0001128400,"Common  Stock, $0.01 par value"
+A,03/08/2022 00:00:00,FROST PATRICK B,4,A-Award,--D,1817,141765,1,0001128400,"Common Stock, $0.01 par value"
+D,03/08/2022 00:00:00,Wolfshohl Candace K,4,F-InKind,--D,347,13320,2,0001649841,"Common Stock, $0.01 par value"
+A,03/08/2022 00:00:00,Wolfshohl Candace K,4,A-Award,--D,1428,13667,1,0001649841,"Common Stock, $0.01 par value"
+D,03/08/2022 00:00:00,Stead Jimmy,4,F-InKind,--D,271,4791,2,0001695033,"Common Stock, $0.01 par value"
+A,03/08/2022 00:00:00,Stead Jimmy,4,A-Award,--D,1117,5062,1,0001695033,"Common Stock, $0.01 par value"
+A,03/08/2022 00:00:00,Salinas Jerry,4,A-Award,--D,2518,27792,1,0001632462,"Common Stock, $0.01 par value"
+D,03/08/2022 00:00:00,Perotti William L,4,F-InKind,--D,442,97929,2,0001388771,"Common Stock, $0.01 par value"
+A,03/08/2022 00:00:00,Perotti William L,4,A-Award,--D,1817,98371,1,0001388771,"Common Stock, $0.01 par value"
+D,03/08/2022 00:00:00,Bracher Paul,4,F-InKind,--D,619,88652,2,0001388772,"Common Stock, $0.01 par value"
+A,03/08/2022 00:00:00,Bracher Paul,4,A-Award,--D,2544,89271,1,0001388772,"Common Stock, $0.01 par value"
+D,03/08/2022 00:00:00,Berman Bobby,4,F-InKind,--D,309,25552,2,0001388767,"Common Stock, $0.01 par value"
+A,03/08/2022 00:00:00,Berman Bobby,4,A-Award,--D,1272,25831,1,0001388767,"Common Stock, $0.01 par value"
+D,03/08/2022 00:00:00,Alonzo Annette M,4,F-InKind,--D,366,8910,2,0001649840,"Common Stock, $0.01 par value"
+A,03/08/2022 00:00:00,Alonzo Annette M,4,A-Award,--D,1506,9276,1,0001649840,"Common Stock, $0.01 par value"
+D,02/04/2022 00:00:00,FROST PATRICK B,4,M-Exempt,--D,10490,0,13,0001128400,Employee Stock Option (right to buy)
+D,02/04/2022 00:00:00,FROST PATRICK B,4,S-Sale,--D,6601,139948,2,0001128400,"Common  Stock, $0.01 par value"
+A,02/04/2022 00:00:00,FROST PATRICK B,4,M-Exempt,--D,10490,146549,1,0001128400,"Common Stock, $0.01 par value"
+D,12/13/2021 00:00:00,EDWARDS CRAWFORD H,5,G-Gift,--D,500,53142,1,0001344078,"Common Stock, $0.01 par value"
+D,11/10/2021 00:00:00,Salinas Jerry,4,M-Exempt,--D,15340,0,11,0001632462,Employee Stock Option (right to buy)
+D,11/10/2021 00:00:00,Salinas Jerry,4,M-Exempt,--D,12000,0,10,0001632462,Employee Stock Option (right to buy)
+D,11/10/2021 00:00:00,Salinas Jerry,4,M-Exempt,--D,9240,0,9,0001632462,Employee Stock Option (right to buy)
+D,11/10/2021 00:00:00,Salinas Jerry,4,S-Sale,--D,551,25040,6,0001632462,"Common Stock, $0.01 par value"
+D,11/10/2021 00:00:00,Salinas Jerry,4,S-Sale,--D,15978,25591,5,0001632462,"Common Stock, $0.01 par value"
+D,11/10/2021 00:00:00,Salinas Jerry,4,S-Sale,--D,20051,41569,4,0001632462,"Common Stock, $0.01 par value"
+A,11/10/2021 00:00:00,Salinas Jerry,4,M-Exempt,--D,15340,61620,3,0001632462,"Common Stock, $0.01 par value"
+A,11/10/2021 00:00:00,Salinas Jerry,4,M-Exempt,--D,12000,46280,2,0001632462,"Common Stock, $0.01 par value"
+A,11/10/2021 00:00:00,Salinas Jerry,4,M-Exempt,--D,9240,34280,1,0001632462,"Common Stock, $0.01 par value"
+D,11/05/2021 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,2500,0,6,0001767197,Employee Stock Option (right to buy)
+D,11/05/2021 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,5000,0,5,0001767197,Employee Stock Option (right to buy)
+D,11/05/2021 00:00:00,Severyn Carol Jean,4,S-Sale,--D,7500,1421,3,0001767197,"Common Stock, $0.01 par value"
+A,11/05/2021 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,2500,8921,2,0001767197,"Common Stock, $0.01 par value"
+A,11/05/2021 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,5000,6421,1,0001767197,"Common Stock, $0.01 par value"
+D,11/03/2021 00:00:00,Wolfshohl Candace K,4,M-Exempt,--D,3080,0,6,0001649841,Employee Stock Option (right to buy)
+D,11/03/2021 00:00:00,Wolfshohl Candace K,4,M-Exempt,--D,4000,0,5,0001649841,Employee Stock Option (right to buy)
+D,11/03/2021 00:00:00,Wolfshohl Candace K,4,S-Sale,--D,7080,12221,3,0001649841,"Common Stock, $0.01 par value"
+A,11/03/2021 00:00:00,Wolfshohl Candace K,4,M-Exempt,--D,3080,19301,2,0001649841,"Common Stock, $0.01 par value"
+A,11/03/2021 00:00:00,Wolfshohl Candace K,4,M-Exempt,--D,4000,16221,1,0001649841,"Common Stock, $0.01 par value"
+D,11/02/2021 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,34505,34505,14,0001128404,Employee Stock Option (right to buy)
+D,11/02/2021 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,14910,0,13,0001128404,Employee Stock Option (right to buy)
+D,11/02/2021 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,12260,0,12,0001128404,Employee Stock Option (right to buy)
+D,11/02/2021 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,15900,0,11,0001128404,Employee Stock Option (right to buy)
+D,11/02/2021 00:00:00,GREEN PHILLIP D,4,S-Sale,--D,2604,60936,7,0001128404,"Common Stock, $0.01 par value"
+D,11/02/2021 00:00:00,GREEN PHILLIP D,4,S-Sale,--D,61263,63540,6,0001128404,"Common Stock, $0.01 par value"
+D,11/02/2021 00:00:00,GREEN PHILLIP D,4,S-Sale,--D,13708,124803,5,0001128404,"Common Stock, $0.01 par value"
+A,11/02/2021 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,34505,138511,4,0001128404,"Common Stock, $0.01 par value"
+A,11/02/2021 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,14910,104006,3,0001128404,"Common Stock, $0.01 par value"
+A,11/02/2021 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,12260,89096,2,0001128404,"Common Stock, $0.01 par value"
+A,11/02/2021 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,15900,76836,1,0001128404,"Common Stock, $0.01 par value"
+D,11/02/2021 00:00:00,Alonzo Annette M,4,M-Exempt,--D,10540,0,7,0001649840,Employee Stock Option (right to buy)
+D,11/02/2021 00:00:00,Alonzo Annette M,4,M-Exempt,--D,5000,0,6,0001649840,Employee Stock Option (right to buy)
+D,11/02/2021 00:00:00,Alonzo Annette M,4,S-Sale,--D,1800,7734,4,0001649840,"Common Stock, $0.01 par value"
+D,11/02/2021 00:00:00,Alonzo Annette M,4,S-Sale,--D,13740,9534,3,0001649840,"Common Stock, $0.01 par value"
+A,11/02/2021 00:00:00,Alonzo Annette M,4,M-Exempt,--D,10540,23274,2,0001649840,"Common Stock, $0.01 par value"
+A,11/02/2021 00:00:00,Alonzo Annette M,4,M-Exempt,--D,5000,12734,1,0001649840,"Common Stock, $0.01 par value"
+D,11/02/2021 00:00:00,Berman Bobby,4,S-Sale,--D,2518,24499,1,0001388767,"Common Stock, $0.01 par value"
+D,11/02/2021 00:00:00,Wolfshohl Candace K,4,S-Sale,--I,0.501,0,2,0001649841,"Common Stock, $0.01 par value"
+D,11/01/2021 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,8980,38773,8,0001128404,"Common Stock, $0.01 par value"
+D,10/29/2021 00:00:00,Wolfshohl Candace K,4,S-Sale,--I,7799,0.501,1,0001649841,"Common Stock, $0.01 par value"
+A,10/26/2021 00:00:00,Wolfshohl Candace K,4,A-Award,--D,1335,1335,1,0001649841,Restricted Stock Units
+A,10/26/2021 00:00:00,Stead Jimmy,4,A-Award,--D,2302,2302,1,0001695033,Restricted Stock Units
+A,10/26/2021 00:00:00,Rhodes Coolidge E JR,4,A-Award,--D,1630,1630,1,0001883925,Restricted Stock Units
+A,10/26/2021 00:00:00,Severyn Carol Jean,4,A-Award,--D,1611,1611,1,0001767197,Restricted Stock Units
+A,10/26/2021 00:00:00,Salinas Jerry,4,A-Award,--D,2359,2359,1,0001632462,Restricted Stock Units
+A,10/26/2021 00:00:00,Perotti William L,4,A-Award,--D,1592,1592,1,0001388771,Restricted Stock Units
+A,10/26/2021 00:00:00,GREEN PHILLIP D,4,A-Award,--D,11125,11125,1,0001128404,Restricted Stock Units
+A,10/26/2021 00:00:00,FROST PATRICK B,4,A-Award,--D,1534,1534,1,0001128400,Restricted Stock Units
+A,10/26/2021 00:00:00,Bracher Paul,4,A-Award,--D,2378,2378,1,0001388772,Restricted Stock Units
+A,10/26/2021 00:00:00,Berman Bobby,4,A-Award,--D,1247,1247,1,0001388767,Restricted Stock Units
+A,10/26/2021 00:00:00,Alonzo Annette M,4,A-Award,--D,1515,1515,1,0001649840,Restricted Stock Units
+D,10/24/2021 00:00:00,FROST PATRICK B,4,M-Exempt,--D,1643,0,13,0001128400,Restricted Stock Units
+D,10/24/2021 00:00:00,FROST PATRICK B,4,F-InKind,--D,607,135833,2,0001128400,"Common  Stock, $0.01 par value"
+A,10/24/2021 00:00:00,FROST PATRICK B,4,M-Exempt,--D,1643,136440,1,0001128400,"Common Stock, $0.01 par value"
+D,10/24/2021 00:00:00,Wolfshohl Candace K,4,M-Exempt,--D,1264,0,5,0001649841,Restricted Stock Units
+D,10/24/2021 00:00:00,Wolfshohl Candace K,4,F-InKind,--D,307,12221,2,0001649841,"Common Stock, $0.01 par value"
+A,10/24/2021 00:00:00,Wolfshohl Candace K,4,M-Exempt,--D,1264,12528,1,0001649841,"Common Stock, $0.01 par value"
+D,10/24/2021 00:00:00,Stead Jimmy,4,M-Exempt,--D,1031,0,4,0001695033,Restricted Stock Units
+D,10/24/2021 00:00:00,Stead Jimmy,4,F-InKind,--D,251,3825,2,0001695033,"Common Stock, $0.01 par value"
+A,10/24/2021 00:00:00,Stead Jimmy,4,M-Exempt,--D,1031,4076,1,0001695033,"Common Stock, $0.01 par value"
+D,10/24/2021 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,708,0,4,0001767197,Restricted Stock Units
+D,10/24/2021 00:00:00,Severyn Carol Jean,4,F-InKind,--D,172,1421,2,0001767197,"Common Stock, $0.01 par value"
+A,10/24/2021 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,708,1593,1,0001767197,"Common Stock, $0.01 par value"
+D,10/24/2021 00:00:00,Salinas Jerry,4,M-Exempt,--D,2275,0,4,0001632462,Restricted Stock Units
+A,10/24/2021 00:00:00,Salinas Jerry,4,M-Exempt,--D,2275,25040,1,0001632462,"Common Stock, $0.01 par value"
+D,10/24/2021 00:00:00,Perotti William L,4,M-Exempt,--D,1643,0,4,0001388771,Restricted Stock Units
+D,10/24/2021 00:00:00,Perotti William L,4,F-InKind,--D,646,96340,2,0001388771,"Common Stock, $0.01 par value"
+A,10/24/2021 00:00:00,Perotti William L,4,M-Exempt,--D,1643,96986,1,0001388771,"Common Stock, $0.01 par value"
+D,10/24/2021 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,8595,0,6,0001128404,Restricted Stock Units
+D,10/24/2021 00:00:00,GREEN PHILLIP D,4,F-InKind,--D,3382,60936,2,0001128404,"Common Stock, $0.01 par value"
+A,10/24/2021 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,8595,64318,1,0001128404,"Common Stock, $0.01 par value"
+D,10/24/2021 00:00:00,Bracher Paul,4,M-Exempt,--D,2275,0,4,0001388772,Restricted Stock Units
+D,10/24/2021 00:00:00,Bracher Paul,4,F-InKind,--D,895,86487,2,0001388772,"Common Stock, $0.01 par value"
+A,10/24/2021 00:00:00,Bracher Paul,4,M-Exempt,--D,2275,87382,1,0001388772,"Common Stock, $0.01 par value"
+D,10/24/2021 00:00:00,Berman Bobby,4,M-Exempt,--D,1213,0,6,0001388767,Restricted Stock Units
+D,10/24/2021 00:00:00,Berman Bobby,4,F-InKind,--D,295,27017,2,0001388767,"Common Stock, $0.01 par value"
+A,10/24/2021 00:00:00,Berman Bobby,4,M-Exempt,--D,1213,27312,1,0001388767,"Common Stock, $0.01 par value"
+D,10/24/2021 00:00:00,Alonzo Annette M,4,M-Exempt,--D,1390,0,4,0001649840,Restricted Stock Units
+D,10/24/2021 00:00:00,Alonzo Annette M,4,F-InKind,--D,338,7734,2,0001649840,"Common Stock, $0.01 par value"
+A,10/24/2021 00:00:00,Alonzo Annette M,4,M-Exempt,--D,1390,8072,1,0001649840,"Common Stock, $0.01 par value"
+D,05/18/2021 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,8132,47753,7,0001128404,"Common Stock, $0.01 par value"
+D,05/06/2021 00:00:00,Stead Jimmy,4,M-Exempt,--D,2000,0,6,0001695033,Employee Stock Option (right to buy)
+D,05/06/2021 00:00:00,Stead Jimmy,4,M-Exempt,--D,1000,0,5,0001695033,Employee Stock Option (right to buy)
+D,05/06/2021 00:00:00,Stead Jimmy,4,S-Sale,--D,3000,3045,3,0001695033,"Common Stock, $0.01 par value"
+A,05/06/2021 00:00:00,Stead Jimmy,4,M-Exempt,--D,2000,6045,2,0001695033,"Common Stock, $0.01 par value"
+A,05/06/2021 00:00:00,Stead Jimmy,4,M-Exempt,--D,1000,4045,1,0001695033,"Common Stock, $0.01 par value"
+A,04/28/2021 00:00:00,Dawson Samuel G.,4,A-Award,--D,594,3093,1,0001695714,Deferred Stock Units
+A,04/28/2021 00:00:00,CHASE ANTHONY R,4,A-Award,--D,594,1542,1,0001223756,Deferred Stock Units
+A,04/28/2021 00:00:00,Avery Chris,4,A-Award,--D,594,3725,1,0001662107,Deferred Stock Units
+A,04/28/2021 00:00:00,STEEN IDA CLEMENT,4,A-Award,--D,594,8011,1,0001128410,Deferred Stock Units
+A,04/28/2021 00:00:00,MATTHEWS CHARLES W,4,A-Award,--D,594,6305,1,0001199008,Deferred Stock Units
+A,04/28/2021 00:00:00,JENNINGS KAREN E,4,A-Award,--D,594,8011,1,0001182672,Deferred Stock Units
+A,04/28/2021 00:00:00,HAEMISEGGER DAVID J,4,A-Award,--D,594,7466,1,0001449103,Deferred Stock Units
+A,04/28/2021 00:00:00,EDWARDS CRAWFORD H,4,A-Award,--D,594,8011,1,0001344078,Deferred Stock Units
+A,04/28/2021 00:00:00,Comparin Cynthia Jane,4,A-Award,--D,594,2126,1,0001688444,Deferred Stock Units
+A,04/28/2021 00:00:00,ALVAREZ CARLOS,4,A-Award,--D,594,8011,1,0001188022,Deferred Stock Units
+D,03/09/2021 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,1335,55885,6,0001128404,"Common Stock, $0.01 par value"
+D,03/05/2021 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,275,57220,5,0001128404,"Common Stock, $0.01 par value"
+D,03/05/2021 00:00:00,Perotti William L,4,F-InKind,--D,732,95343,2,0001388771,"Common Stock, $0.01 par value"
+A,03/05/2021 00:00:00,Perotti William L,4,A-Award,--D,2560,96075,1,0001388771,"Common Stock, $0.01 par value"
+D,03/05/2021 00:00:00,Stead Jimmy,4,F-InKind,--D,387,3045,2,0001695033,"Common Stock, $0.01 par value"
+A,03/05/2021 00:00:00,Stead Jimmy,4,A-Award,--D,1607,3432,1,0001695033,"Common Stock, $0.01 par value"
+D,03/05/2021 00:00:00,Salinas Jerry,4,F-InKind,--D,986,22765,2,0001632462,"Common Stock, $0.01 par value"
+A,03/05/2021 00:00:00,Salinas Jerry,4,A-Award,--D,3545,23751,1,0001632462,"Common Stock, $0.01 par value"
+D,03/05/2021 00:00:00,GREEN PHILLIP D,4,F-InKind,--D,5270,55723,2,0001128404,"Common Stock, $0.01 par value"
+A,03/05/2021 00:00:00,GREEN PHILLIP D,4,A-Award,--D,13394,60993,1,0001128404,"Common Stock, $0.01 par value"
+D,03/05/2021 00:00:00,Bracher Paul,4,F-InKind,--D,1394,85107,2,0001388772,"Common Stock, $0.01 par value"
+A,03/05/2021 00:00:00,Bracher Paul,4,A-Award,--D,3545,86501,1,0001388772,"Common Stock, $0.01 par value"
+A,03/05/2021 00:00:00,Wolfshohl Candace K,4,W-Will,-ED,360,11264,3,0001649841,"Common Stock, $0.01 par value"
+D,03/05/2021 00:00:00,Wolfshohl Candace K,4,F-InKind,--D,502,10904,2,0001649841,"Common Stock, $0.01 par value"
+A,03/05/2021 00:00:00,Wolfshohl Candace K,4,A-Award,--D,1970,11406,1,0001649841,"Common Stock, $0.01 par value"
+D,03/05/2021 00:00:00,FROST PATRICK B,4,F-InKind,--D,623,132242,4,0001128400,"Common Stock, $0.01 par value"
+A,03/05/2021 00:00:00,FROST PATRICK B,4,A-Award,--D,2560,132865,3,0001128400,"Common Stock, $0.01 par value"
+D,03/05/2021 00:00:00,Berman Bobby,4,F-InKind,--D,460,26099,2,0001388767,"Common Stock, $0.01 par value"
+A,03/05/2021 00:00:00,Berman Bobby,4,A-Award,--D,1892,26559,1,0001388767,"Common Stock, $0.01 par value"
+D,03/05/2021 00:00:00,Alonzo Annette M,4,F-InKind,--D,527,6682,2,0001649840,"Common Stock, $0.01 par value"
+A,03/05/2021 00:00:00,Alonzo Annette M,4,A-Award,--D,2166,7209,1,0001649840,"Common Stock, $0.01 par value"
+D,03/04/2021 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,275,57495,4,0001128404,"Common Stock, $0.01 par value"
+D,03/03/2021 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,825,57770,3,0001128404,"Common Stock, $0.01 par value"
+D,02/25/2021 00:00:00,ALVAREZ CARLOS,4,S-Sale,--D,40000,294000,1,0001188022,"Common Stock, $0.01 par value"
+D,02/24/2021 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,3850,0,4,0001767197,Employee Stock Option (right to buy)
+D,02/24/2021 00:00:00,Severyn Carol Jean,4,S-Sale,--D,3850,885,2,0001767197,"Common Stock, $0.01 par value"
+A,02/24/2021 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,3850,4735,1,0001767197,"Common Stock, $0.01 par value"
+D,02/23/2021 00:00:00,Perotti William L,4,M-Exempt,--D,12250,0,4,0001388771,Employee Stock Option (right to buy)
+D,02/23/2021 00:00:00,Perotti William L,4,S-Sale,--D,12250,93515,2,0001388771,"Common Stock, $0.01 par value"
+A,02/23/2021 00:00:00,Perotti William L,4,M-Exempt,--D,12250,105765,1,0001388771,"Common Stock, $0.01 par value"
+D,02/22/2021 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,1141,58595,2,0001128404,"Common Stock, $0.01 par value"
+D,02/22/2021 00:00:00,ALVAREZ CARLOS,4,S-Sale,--D,40000,334000,1,0001188022,"Common Stock, $0.01 par value"
+D,02/17/2021 00:00:00,ALVAREZ CARLOS,4,S-Sale,--D,40000,374000,1,0001188022,"Common Stock, $0.01 par value"
+D,02/17/2021 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,18580,0,6,0001128404,Employee Stock Option (right to buy)
+D,02/17/2021 00:00:00,GREEN PHILLIP D,4,S-Sale,--D,18580,47599,2,0001128404,"Common Stock, $0.01 par value"
+A,02/17/2021 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,18580,66179,1,0001128404,"Common Stock, $0.01 par value"
+D,02/16/2021 00:00:00,Berman Bobby,4,M-Exempt,--D,5270,0,11,0001388767,Employee Stock Option (right to buy)
+D,02/16/2021 00:00:00,Berman Bobby,4,M-Exempt,--D,4160,0,10,0001388767,Employee Stock Option (right to buy)
+D,02/16/2021 00:00:00,Berman Bobby,4,M-Exempt,--D,1710,0,9,0001388767,Employee Stock Option (right to buy)
+D,02/16/2021 00:00:00,Berman Bobby,4,S-Sale,--D,6362,24667,5,0001388767,"Common Stock, $0.01 par value"
+D,02/16/2021 00:00:00,Berman Bobby,4,S-Sale,--D,11140,31029,4,0001388767,"Common Stock, $0.01 par value"
+A,02/16/2021 00:00:00,Berman Bobby,4,M-Exempt,--D,5270,42169,3,0001388767,"Common Stock, $0.01 par value"
+A,02/16/2021 00:00:00,Berman Bobby,4,M-Exempt,--D,4160,36899,2,0001388767,"Common Stock, $0.01 par value"
+A,02/16/2021 00:00:00,Berman Bobby,4,M-Exempt,--D,1710,32739,1,0001388767,"Common Stock, $0.01 par value"
+D,02/11/2021 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,1826,59736,1,0001128404,"Common Stock, $0.01 par value"
+D,02/09/2021 00:00:00,ALVAREZ CARLOS,4,S-Sale,--D,40000,414000,1,0001188022,"Common Stock, $0.01 par value"
+D,02/09/2021 00:00:00,Salinas Jerry,4,M-Exempt,--D,12000,0,5,0001632462,Employee Stock Option (right to buy)
+D,02/09/2021 00:00:00,Salinas Jerry,4,S-Sale,--D,12000,20206,2,0001632462,"Common Stock, $0.01 par value"
+A,02/09/2021 00:00:00,Salinas Jerry,4,M-Exempt,--D,12000,32206,1,0001632462,"Common Stock, $0.01 par value"
+D,02/05/2021 00:00:00,Bracher Paul,4,M-Exempt,--D,10490,0,6,0001388772,Employee Stock Option (right to buy)
+D,02/05/2021 00:00:00,Bracher Paul,4,M-Exempt,--D,12250,0,5,0001388772,Employee Stock Option (right to buy)
+D,02/05/2021 00:00:00,Bracher Paul,4,S-Sale,--D,22740,82956,3,0001388772,"Common Stock, $0.01 par value"
+A,02/05/2021 00:00:00,Bracher Paul,4,M-Exempt,--D,10490,105696,2,0001388772,"Common Stock, $0.01 par value"
+A,02/05/2021 00:00:00,Bracher Paul,4,M-Exempt,--D,12250,95206,1,0001388772,"Common Stock, $0.01 par value"
+D,02/05/2021 00:00:00,Alonzo Annette M,4,M-Exempt,--D,3080,0,6,0001649840,Employee Stock Option (right to buy)
+D,02/05/2021 00:00:00,Alonzo Annette M,4,M-Exempt,--D,4000,0,5,0001649840,Employee Stock Option (right to buy)
+D,02/05/2021 00:00:00,Alonzo Annette M,4,S-Sale,--D,7080,5043,3,0001649840,"Common Stock, $0.01 par value"
+A,02/05/2021 00:00:00,Alonzo Annette M,4,M-Exempt,--D,3080,12123,2,0001649840,"Common Stock, $0.01 par value"
+A,02/05/2021 00:00:00,Alonzo Annette M,4,M-Exempt,--D,4000,9043,1,0001649840,"Common Stock, $0.01 par value"
+A,02/03/2021 00:00:00,Avery Chris,4,P-Purchase,--I,3500,8000,1,0001662107,"Common Stock, $0.01 par value"
+D,02/02/2021 00:00:00,FROST PATRICK B,4,M-Exempt,--D,12250,0,15,0001128400,Employee Stock Option (right to buy)
+D,02/02/2021 00:00:00,FROST PATRICK B,4,S-Sale,--D,12250,130305,2,0001128400,"Common  Stock, $0.01 par value"
+A,02/02/2021 00:00:00,FROST PATRICK B,4,M-Exempt,--D,12250,142555,1,0001128400,"Common Stock, $0.01 par value"
+D,12/08/2020 00:00:00,EDWARDS CRAWFORD H,5,G-Gift,--D,500,53642,1,0001344078,"Common Stock, $0.01 par value"
+D,11/10/2020 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,100,47599,6,0001128404,"Common Stock, $0.01 par value"
+D,11/10/2020 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,406,47699,5,0001128404,"Common Stock, $0.01 par value"
+D,11/05/2020 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,4743,48105,4,0001128404,"Common Stock, $0.01 par value"
+A,10/27/2020 00:00:00,Wolfshohl Candace K,4,A-Award,--D,2143,2143,1,0001649841,Restricted Stock Units
+A,10/27/2020 00:00:00,Waters James L,4,A-Award,--D,2256,2256,1,0001733701,Restricted Stock Units
+A,10/27/2020 00:00:00,Waters James L,4,A-Award,--D,2256,2256,1,0001733701,Restricted Stock Units
+A,10/27/2020 00:00:00,Stead Jimmy,4,A-Award,--D,2068,2068,1,0001695033,Restricted Stock Units
+A,10/27/2020 00:00:00,Severyn Carol Jean,4,A-Award,--D,1880,1880,1,0001767197,Restricted Stock Units
+A,10/27/2020 00:00:00,Salinas Jerry,4,A-Award,--D,3647,3647,1,0001632462,Restricted Stock Units
+A,10/27/2020 00:00:00,Perotti William L,4,A-Award,--D,2707,2707,1,0001388771,Restricted Stock Units
+A,10/27/2020 00:00:00,GREEN PHILLIP D,4,A-Award,--D,16917,16917,1,0001128404,Restricted Stock Units
+A,10/27/2020 00:00:00,FROST PATRICK B,4,A-Award,--D,2707,2707,1,0001128400,Restricted Stock Units
+A,10/27/2020 00:00:00,Bracher Paul,4,A-Award,--D,3684,3684,1,0001388772,Restricted Stock Units
+A,10/27/2020 00:00:00,Berman Bobby,4,A-Award,--D,1880,1880,1,0001388767,Restricted Stock Units
+A,10/27/2020 00:00:00,Alonzo Annette M,4,A-Award,--D,2256,2256,1,0001649840,Restricted Stock Units
+D,10/25/2020 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,860,0,4,0001767197,Restricted Stock Units
+D,10/25/2020 00:00:00,Severyn Carol Jean,4,F-InKind,--D,209,651,2,0001767197,"Common Stock, $0.01 par value"
+A,10/25/2020 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,860,860,1,0001767197,"Common Stock, $0.01 par value"
+D,10/25/2020 00:00:00,FROST PATRICK B,4,M-Exempt,--D,1970,0,15,0001128400,Restricted Stock Units
+D,10/25/2020 00:00:00,FROST PATRICK B,4,F-InKind,--D,775,128904,2,0001128400,"Common Stock, $0.01 par value"
+A,10/25/2020 00:00:00,FROST PATRICK B,4,M-Exempt,--D,1970,129679,1,0001128400,"Common  Stock, $0.01 par value"
+D,10/25/2020 00:00:00,Wolfshohl Candace K,4,M-Exempt,--D,1640,0,5,0001649841,Restricted Stock Units
+D,10/25/2020 00:00:00,Wolfshohl Candace K,4,F-InKind,--D,399,9364,2,0001649841,"Common Stock, $0.01 par value"
+A,10/25/2020 00:00:00,Wolfshohl Candace K,4,M-Exempt,--D,1640,9763,1,0001649841,"Common Stock, $0.01 par value"
+D,10/25/2020 00:00:00,Stead Jimmy,4,M-Exempt,--D,820,0,4,0001695033,Restricted Stock Units
+D,10/25/2020 00:00:00,Stead Jimmy,4,F-InKind,--D,199,1643,2,0001695033,"Common Stock, $0.01 par value"
+A,10/25/2020 00:00:00,Stead Jimmy,4,M-Exempt,--D,820,1842,1,0001695033,"Common Stock, $0.01 par value"
+D,10/25/2020 00:00:00,Salinas Jerry,4,M-Exempt,--D,2630,0,5,0001632462,Restricted Stock Units
+D,10/25/2020 00:00:00,Salinas Jerry,4,F-InKind,--D,1034,19720,2,0001632462,"Common Stock, $0.01 par value"
+A,10/25/2020 00:00:00,Salinas Jerry,4,M-Exempt,--D,2630,20754,1,0001632462,"Common Stock, $0.01 par value"
+D,10/25/2020 00:00:00,Perotti William L,4,M-Exempt,--D,1970,0,4,0001388771,Restricted Stock Units
+D,10/25/2020 00:00:00,Perotti William L,4,F-InKind,--D,541,93063,2,0001388771,"Common Stock, $0.01 par value"
+A,10/25/2020 00:00:00,Perotti William L,4,M-Exempt,--D,1970,93604,1,0001388771,"Common Stock, $0.01 par value"
+D,10/25/2020 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,11510,0,6,0001128404,Restricted Stock Units
+D,10/25/2020 00:00:00,GREEN PHILLIP D,4,F-InKind,--D,4529,52820,2,0001128404,"Common Stock, $0.01 par value"
+A,10/25/2020 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,11510,57349,1,0001128404,"Common Stock, $0.01 par value"
+D,10/25/2020 00:00:00,Bracher Paul,4,M-Exempt,--D,2140,0,4,0001388772,Restricted Stock Units
+D,10/25/2020 00:00:00,Bracher Paul,4,F-InKind,--D,521,82456,2,0001388772,"Common Stock, $0.01 par value"
+A,10/25/2020 00:00:00,Bracher Paul,4,M-Exempt,--D,2140,82977,1,0001388772,"Common Stock, $0.01 par value"
+D,10/25/2020 00:00:00,Berman Bobby,4,M-Exempt,--D,1640,0,6,0001388767,Restricted Stock Units
+D,10/25/2020 00:00:00,Berman Bobby,4,F-InKind,--D,399,30861,2,0001388767,"Common Stock, $0.01 par value"
+A,10/25/2020 00:00:00,Berman Bobby,4,M-Exempt,--D,1640,31260,1,0001388767,"Common Stock, $0.01 par value"
+D,10/25/2020 00:00:00,Alonzo Annette M,4,M-Exempt,--D,1640,0,4,0001649840,Restricted Stock Units
+D,10/25/2020 00:00:00,Alonzo Annette M,4,F-InKind,--D,399,4915,2,0001649840,"Common Stock, $0.01 par value"
+A,10/25/2020 00:00:00,Alonzo Annette M,4,M-Exempt,--D,1640,5314,1,0001649840,"Common Stock, $0.01 par value"
+D,08/11/2020 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,874,52848,3,0001128404,"Common Stock, $0.01 par value"
+D,07/30/2020 00:00:00,FROST PATRICK B,4,G-Gift,--I,130,200,2,0001128400,"Common  Stock, $0.01 par value"
+A,06/25/2020 00:00:00,FROST PATRICK B,4,W-Will,--I,450,347854.1,1,0001128400,"Common Stock, $0.01 par value"
+D,06/04/2020 00:00:00,Perotti William L,4,M-Exempt,--D,9360,0,5,0001388771,Employee Stock Option (right to buy)
+D,06/04/2020 00:00:00,Perotti William L,4,S-Sale,--D,760,91634,3,0001388771,"Common Stock, $0.01 par value"
+D,06/04/2020 00:00:00,Perotti William L,4,S-Sale,--D,8600,92394,2,0001388771,"Common Stock, $0.01 par value"
+A,06/04/2020 00:00:00,Perotti William L,4,M-Exempt,--D,9360,100994,1,0001388771,"Common Stock, $0.01 par value"
+D,06/03/2020 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,100,53722,2,0001128404,"Common Stock, $0.01 par value"
+D,06/03/2020 00:00:00,Salinas Jerry,4,M-Exempt,--D,12000,0,5,0001632462,Employee Stock Option (right to buy)
+D,06/03/2020 00:00:00,Salinas Jerry,4,S-Sale,--D,9661,18124,2,0001632462,"Common Stock, $0.01 par value"
+A,06/03/2020 00:00:00,Salinas Jerry,4,M-Exempt,--D,12000,27785,1,0001632462,"Common Stock, $0.01 par value"
+A,05/29/2020 00:00:00,Dawson Samuel G.,4,P-Purchase,--D,1306,5606,1,0001695714,"Common Stock, $0.01 par value"
+D,05/28/2020 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,200,53822,1,0001128404,"Common Stock, $0.01 par value"
+D,05/27/2020 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,14210,0,7,0001128404,Employee Stock Option (right to buy)
+D,05/27/2020 00:00:00,GREEN PHILLIP D,4,S-Sale,--D,10337,45839,3,0001128404,"Common Stock, $0.01 par value"
+D,05/27/2020 00:00:00,GREEN PHILLIP D,4,S-Sale,--D,1243,56176,2,0001128404,"Common Stock, $0.01 par value"
+A,05/27/2020 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,14210,57419,1,0001128404,"Common Stock, $0.01 par value"
+A,05/01/2020 00:00:00,WESTON GRAHAM M,4,P-Purchase,--I,3000,164113,3,0001119355,"Common Stock, $0.01 par value"
+A,05/01/2020 00:00:00,WESTON GRAHAM M,4,P-Purchase,--I,11419,161113,2,0001119355,"Common Stock, $0.01 par value"
+A,05/01/2020 00:00:00,WESTON GRAHAM M,4,P-Purchase,--I,14981,149694,1,0001119355,"Common Stock, $0.01 par value"
+A,04/29/2020 00:00:00,WESTON GRAHAM M,4,A-Award,--D,948,2499,1,0001119355,Deferred Stock Units
+A,04/29/2020 00:00:00,CHASE ANTHONY R,4,A-Award,--D,948,948,1,0001223756,Deferred Stock Units
+A,04/29/2020 00:00:00,STEEN IDA CLEMENT,4,A-Award,--D,948,7417,1,0001128410,Deferred Stock Units
+A,04/29/2020 00:00:00,MATTHEWS CHARLES W,4,A-Award,--D,948,5711,1,0001199008,Deferred Stock Units
+A,04/29/2020 00:00:00,JENNINGS KAREN E,4,A-Award,--D,948,7417,1,0001182672,Deferred Stock Units
+A,04/29/2020 00:00:00,HAEMISEGGER DAVID J,4,A-Award,--D,948,6872,1,0001449103,Deferred Stock Units
+A,04/29/2020 00:00:00,EDWARDS CRAWFORD H,4,A-Award,--D,948,7417,1,0001344078,Deferred Stock Units
+A,04/29/2020 00:00:00,Dawson Samuel G.,4,A-Award,--D,948,2499,1,0001695714,Deferred Stock Units
+A,04/29/2020 00:00:00,Comparin Cynthia Jane,4,A-Award,--D,948,1532,1,0001688444,Deferred Stock Units
+A,04/29/2020 00:00:00,Avery Chris,4,A-Award,--D,948,3131,1,0001662107,Deferred Stock Units
+A,04/29/2020 00:00:00,ALVAREZ CARLOS,4,A-Award,--D,948,7417,1,0001188022,Deferred Stock Units
+D,03/04/2020 00:00:00,Wolfshohl Candace K,4,F-InKind,--D,570,8123,2,0001649841,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,Wolfshohl Candace K,4,A-Award,--D,2342,8693,1,0001649841,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,Salinas Jerry,4,A-Award,--D,3756,15785,1,0001632462,"Common Stock, $0.01 par value"
+D,03/04/2020 00:00:00,Stead Jimmy,4,F-InKind,--D,285,1022,2,0001695033,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,Stead Jimmy,4,A-Award,--D,1171,1307,1,0001695033,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,Perotti William L,4,A-Award,--D,2813,91634,1,0001388771,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,Perotti William L,4,A-Award,--D,2813,91634,1,0001388771,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,GREEN PHILLIP D,4,A-Award,--D,16436,43209,1,0001128404,"Common Stock, $0.01 par value"
+D,03/04/2020 00:00:00,FROST PATRICK B,4,F-InKind,--D,684,126150,2,0001128400,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,FROST PATRICK B,4,A-Award,--D,2813,126834,1,0001128400,"Common  Stock, $0.01 par value"
+A,03/04/2020 00:00:00,Bracher Paul,4,A-Award,--D,3056,80837,1,0001388772,"Common Stock, $0.01 par value"
+D,03/04/2020 00:00:00,Alonzo Annette M,4,F-InKind,--D,570,3674,2,0001649840,Common Stock $0.01 par value
+A,03/04/2020 00:00:00,Alonzo Annette M,4,A-Award,--D,2342,4244,1,0001649840,"Common Stock, $0.01 par value"
+D,03/04/2020 00:00:00,Berman Bobby,4,F-InKind,--D,570,29620,2,0001388767,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,Berman Bobby,4,A-Award,--D,2342,30190,1,0001388767,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,Avery Chris,4,P-Purchase,--I,3000,12000,1,0001662107,"Common Stock, $0.01 par value"
+A,02/27/2020 00:00:00,Avery Chris,4,P-Purchase,--I,4000,9000,1,0001662107,"Common Stock, $0.01 par value"
+D,02/11/2020 00:00:00,FROST PATRICK B,4,M-Exempt,--D,9360,0,15,0001128400,Employee Stock Option (right to buy)
+D,02/11/2020 00:00:00,FROST PATRICK B,4,S-Sale,--D,9360,124021,3,0001128400,"Common  Stock, $0.01 par value"
+A,02/11/2020 00:00:00,FROST PATRICK B,4,M-Exempt,--D,9360,133381,2,0001128400,"Common Stock, $0.01 par value"
+A,02/06/2020 00:00:00,Avery Chris,4,P-Purchase,--I,5000,5000,2,0001662107,"Common Stock, $0.01 par value"
+A,02/05/2020 00:00:00,FROST PATRICK B,4,W-Will,--I,550,347404.1,1,0001128400,"Common Stock, $0.01 par value"
+D,12/13/2019 00:00:00,EDWARDS CRAWFORD H,5,G-Gift,--D,371,54142,1,0001344078,"Common Stock, $0.01 par value"
+D,12/11/2019 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,2500,26773,2,0001128404,"Common Stock, $0.01 par value"
+D,11/01/2019 00:00:00,Bracher Paul,4,M-Exempt,--D,9360,0,4,0001388772,Employee Stock Option (right to buy)
+D,11/01/2019 00:00:00,Bracher Paul,4,S-Sale,--D,9360,77383,2,0001388772,"Common Stock, $0.01 par value"
+A,11/01/2019 00:00:00,Bracher Paul,4,M-Exempt,--D,9360,86743,1,0001388772,"Common Stock, $0.01 par value"
+A,10/29/2019 00:00:00,Severyn Carol Jean,4,A-Award,--D,1330,1330,1,0001767197,Restricted Stock Units
+A,10/29/2019 00:00:00,Wolfshohl Candace K,4,A-Award,--D,1516,1516,1,0001649841,Restricted Stock Units
+A,10/29/2019 00:00:00,Stead Jimmy,4,A-Award,--D,1604,1604,1,0001695033,Restricted Stock Units
+A,10/29/2019 00:00:00,Berman Bobby,4,A-Award,--D,1330,1330,1,0001388767,Restricted Stock Units
+A,10/29/2019 00:00:00,Russell Michael E.,4,A-Award,--D,1489,1489,1,0001730205,Restricted Stock Units
+A,10/29/2019 00:00:00,Waters James L,4,A-Award,--D,1595,1595,1,0001733701,Restricted Stock Units
+A,10/29/2019 00:00:00,FROST PATRICK B,4,A-Award,--D,1914,1914,1,0001128400,Restricted Stock Units
+A,10/29/2019 00:00:00,Perotti William L,4,A-Award,--D,1914,1914,1,0001388771,Restricted Stock Units
+A,10/29/2019 00:00:00,Salinas Jerry,4,A-Award,--D,2579,2579,1,0001632462,Restricted Stock Units
+A,10/29/2019 00:00:00,Bracher Paul,4,A-Award,--D,2606,2606,1,0001388772,Restricted Stock Units
+A,10/29/2019 00:00:00,GREEN PHILLIP D,4,A-Award,--D,11966,11966,1,0001128404,Restricted Stock Units
+A,10/29/2019 00:00:00,Alonzo Annette M,4,A-Award,--D,1595,1595,1,0001649840,Restricted Stock Units
+D,10/27/2019 00:00:00,FROST PATRICK B,4,F-InKind,--D,751,147322,5,0001128400,"Common Stock, $0.01 par value"
+D,10/27/2019 00:00:00,Wolfshohl Candace K,4,F-InKind,--D,374,6299,1,0001649841,"Common Stock, $0.01 par value"
+D,10/27/2019 00:00:00,Salinas Jerry,4,F-InKind,--D,1211,11645,1,0001632462,"Common Stock, $0.01 par value"
+D,10/27/2019 00:00:00,Perotti William L,4,F-InKind,--D,595,88463,1,0001388771,"Common Stock, $0.01 par value"
+D,10/27/2019 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,13850,0,6,0001128404,Restricted Stock Units
+D,10/27/2019 00:00:00,GREEN PHILLIP D,4,F-InKind,--D,5449,29628,2,0001128404,"Common Stock, $0.01 par value"
+A,10/27/2019 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,13850,35077,1,0001128404,"Common Stock, $0.01 par value"
+D,10/27/2019 00:00:00,Bracher Paul,4,F-InKind,--D,562,77383,1,0001388772,"Common Stock, $0.01 par value"
+D,10/27/2019 00:00:00,Berman Bobby,4,F-InKind,--D,516,27712,1,0001388767,"Common Stock, $0.01 par value"
+D,10/27/2019 00:00:00,Alonzo Annette M,4,F-InKind,--D,516,1798,1,0001649840,"Common Stock, $0.01 par value"
+A,09/06/2019 00:00:00,JENNINGS KAREN E,4,P-Purchase,--D,200,2300,1,0001182672,"Common Stock, $0.01 par value"
+A,08/21/2019 00:00:00,FROST PATRICK B,4,G-Gift,--I,19456.06,46555.87,4,0001128400,"Common Stock, $0.01 par value"
+D,08/21/2019 00:00:00,FROST PATRICK B,4,G-Gift,--I,77824.23,16870.88,3,0001128400,"Common Stock, $0.01 par value"
+A,08/20/2019 00:00:00,FROST PATRICK B,4,W-Will,--I,346854.1,346854.1,2,0001128400,"Common Stock, $0.01 par value"
+A,08/20/2019 00:00:00,FROST PATRICK B,4,W-Will,--I,42449.58,42449.58,1,0001128400,"Common Stock, $0.01 par value"
+D,08/20/2019 00:00:00,Perotti William L,4,M-Exempt,--D,9360,0,3,0001388771,Employee Stock Option (right to buy)
+A,08/20/2019 00:00:00,Perotti William L,4,M-Exempt,--D,9360,89058,1,0001388771,"Common Stock, $0.01 par value"
+A,08/16/2019 00:00:00,ALVAREZ CARLOS,4,P-Purchase,--D,30000,454000,1,0001188022,"Common Stock, $0.01 par value"
+A,08/05/2019 00:00:00,Avery Chris,4,P-Purchase,--I,4500,4500,1,0001662107,"Common Stock, $0.01 par value"
+D,07/29/2019 00:00:00,FROST PATRICK B,4,M-Exempt,--D,9360,0,13,0001128400,Employee Stock Option (right to buy)
+D,07/29/2019 00:00:00,FROST PATRICK B,4,S-Sale,--D,9360,148073,2,0001128400,"Common Stock, $0.01 par value"
+A,07/29/2019 00:00:00,FROST PATRICK B,4,M-Exempt,--D,9360,157433,1,0001128400,"Common Stock, $0.01 par value"
+A,06/10/2019 00:00:00,MATTHEWS CHARLES W,4,P-Purchase,--D,1000,3000,1,0001199008,"Common Stock, $0.01 par value"
+D,05/07/2019 00:00:00,Salinas Jerry,4,M-Exempt,--D,12000,0,5,0001632462,Employee Stock Option (right to buy)
+D,05/07/2019 00:00:00,Salinas Jerry,4,S-Sale,--D,12000,12856,2,0001632462,"Common Stock, $0.01 par value"
+A,05/07/2019 00:00:00,Salinas Jerry,4,M-Exempt,--D,12000,24856,1,0001632462,"Common Stock, $0.01 par value"
+D,05/03/2019 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,1307,29273,1,0001128404,"Common Stock, $0.01 par value"
+D,04/30/2019 00:00:00,GREEN PHILLIP D,4/A,S-Sale,--D,14210,21227,1,0001128404,"Common Stock, $0.01 par value"
+D,04/30/2019 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,14210,0,6,0001128404,Employee Stock Option (right to buy)
+D,04/30/2019 00:00:00,GREEN PHILLIP D,4,S-Sale,--D,14210,20127,2,0001128404,"Common Stock, $0.01 par value"
+A,04/30/2019 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,14210,34337,1,0001128404,"Common Stock, $0.01 par value"
+A,04/24/2019 00:00:00,WILKINS HORACE JR,4,A-Award,--D,584,6469,1,0001128411,Deferred Stock Units
+A,04/24/2019 00:00:00,WESTON GRAHAM M,4,A-Award,--D,584,1551,1,0001119355,Deferred Stock Units
+A,04/24/2019 00:00:00,STEEN IDA CLEMENT,4,A-Award,--D,584,6469,1,0001128410,Deferred Stock Units
+A,04/24/2019 00:00:00,MATTHEWS CHARLES W,4,A-Award,--D,584,4763,1,0001199008,Deferred Stock Units
+A,04/24/2019 00:00:00,KLEBERG RICHARD M III,4,A-Award,--D,584,6469,1,0001128407,Deferred Stock Units
+A,04/24/2019 00:00:00,JENNINGS KAREN E,4,A-Award,--D,584,6469,1,0001182672,Deferred Stock Units
+A,04/24/2019 00:00:00,Hollingsworth Jarvis V.,4,A-Award,--D,584,1132,1,0001737855,Deferred Stock Units
+A,04/24/2019 00:00:00,HAEMISEGGER DAVID J,4,A-Award,--D,584,5924,1,0001449103,Deferred Stock Units
+A,04/24/2019 00:00:00,EDWARDS CRAWFORD H,4,A-Award,--D,584,6469,1,0001344078,Deferred Stock Units
+A,04/24/2019 00:00:00,Dawson Samuel G.,4,A-Award,--D,584,1551,1,0001695714,Deferred Stock Units
+A,04/24/2019 00:00:00,Comparin Cynthia Jane,4,A-Award,--D,584,584,1,0001688444,Deferred Stock Units
+A,04/24/2019 00:00:00,Avery Chris,4,A-Award,--D,584,2183,1,0001662107,Deferred Stock Units
+A,04/24/2019 00:00:00,ALVAREZ CARLOS,4,A-Award,--D,584,6469,1,0001188022,Deferred Stock Units
+D,02/14/2019 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,2500,0,6,0001767197,Employee Stock Option (right to buy)
+D,02/14/2019 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,1250,0,5,0001767197,Employee Stock Option (right to buy)
+D,02/14/2019 00:00:00,Severyn Carol Jean,4,S-Sale,--D,3750,0,3,0001767197,"Common Stock, $0.01 par value"
+A,02/14/2019 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,2500,3750,2,0001767197,"Common Stock, $0.01 par value"
+A,02/14/2019 00:00:00,Severyn Carol Jean,4,M-Exempt,--D,1250,1250,1,0001767197,"Common Stock, $0.01 par value"
+A,01/30/2019 00:00:00,FROST PATRICK B,4,J-Other,--I,334452,334452,1,0001128400,"Common Stock, $0.01 par value"
+A,12/14/2018 00:00:00,Comparin Cynthia Jane,4,P-Purchase,--D,1000,1000,1,0001688444,"Common Stock, $0.01 par value"
+D,12/13/2018 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,1000,20127,5,0001128404,"Common Stock, $0.01 par value"
+D,11/19/2018 00:00:00,Berman Bobby,4,S-Sale,--D,1391,28112,1,0001388767,"Common Stock, $0.01 par value"
+A,11/07/2018 00:00:00,Dawson Samuel G.,4,P-Purchase,--D,3441,4300,1,0001695714,"Common Stock, $0.01 par value"
+D,10/28/2018 00:00:00,Bracher Paul,4,F-InKind,--D,759,77605,1,0001388772,"Common Stock, $0.01 par value"
+D,10/28/2018 00:00:00,Berman Bobby,4,F-InKind,--D,409,29503,1,0001388767,"Common Stock, $0.01 par value"
+D,10/28/2018 00:00:00,FROST PATRICK B,4,F-InKind,--D,779,147757,1,0001128400,"Common Stock, $0.01 par value"
+D,10/28/2018 00:00:00,Perotti William L,4,F-InKind,--D,779,78603,1,0001388771,"Common Stock, $0.01 par value"
+D,10/28/2018 00:00:00,GREEN PHILLIP D,4,F-InKind,--D,1184,24729,1,0001128404,"Common Stock, $0.01 par value"
+D,10/26/2018 00:00:00,STEEN IDA CLEMENT,5,G-Gift,--I,200,0,1,0001128410,"Common Stock, $0.01 par value"
+A,10/26/2018 00:00:00,ALVAREZ CARLOS,4,P-Purchase,--D,37500,424000,2,0001188022,"Common Stock, $0.01 par value"
+A,10/26/2018 00:00:00,ALVAREZ CARLOS,4,P-Purchase,--D,16500,386500,1,0001188022,"Common Stock, $0.01 par value"
+A,10/23/2018 00:00:00,FROST PATRICK B,4,A-Award,--D,1846,1846,11,0001128400,Restricted Stock Units
+A,10/23/2018 00:00:00,Wolfshohl Candace K,4,A-Award,--D,1450,1450,1,0001649841,Restricted Stock Units
+A,10/23/2018 00:00:00,Waters James L,4,A-Award,--D,1318,1318,1,0001733701,Restricted Stock Units
+A,10/23/2018 00:00:00,Stead Jimmy,4,A-Award,--D,1134,1134,1,0001695033,Restricted Stock Units
+A,10/23/2018 00:00:00,Salinas Jerry,4,A-Award,--D,2558,2558,1,0001632462,Restricted Stock Units
+A,10/23/2018 00:00:00,Russell Michael E.,4,A-Award,--D,1450,1450,1,0001730205,Restricted Stock Units
+A,10/23/2018 00:00:00,Perotti William L,4,A-Award,--D,1846,1846,1,0001388771,Restricted Stock Units
+A,10/23/2018 00:00:00,GREEN PHILLIP D,4,A-Award,--D,11338,11338,1,0001128404,Restricted Stock Units
+A,10/23/2018 00:00:00,Bracher Paul,4,A-Award,--D,2584,2584,1,0001388772,Restricted Stock Units
+A,10/23/2018 00:00:00,Berman Bobby,4,A-Award,--D,1292,1292,1,0001388767,Restricted Stock Units
+A,10/23/2018 00:00:00,Alonzo Annette M,4,A-Award,--D,1529,1529,1,0001649840,Restricted Stock Units
+A,08/10/2018 00:00:00,FROST PATRICK B,4,G-Gift,-EI,186422,186422,7,0001128400,"Common Stock, $0.01 par value"
+D,05/21/2018 00:00:00,Stead Jimmy,4,M-Exempt,--D,1000,2000,8,0001695033,Employee Stock Option (right to buy)
+D,05/21/2018 00:00:00,Stead Jimmy,4,M-Exempt,--D,3000,1000,7,0001695033,Employee Stock Option (right to buy)
+D,05/21/2018 00:00:00,Stead Jimmy,4,M-Exempt,--D,482,0,6,0001695033,Employee Stock Option (right to buy)
+D,05/21/2018 00:00:00,Stead Jimmy,4,S-Sale,--D,4482,6,4,0001695033,"Common Stock, $0.01 par value"
+A,05/21/2018 00:00:00,Stead Jimmy,4,M-Exempt,--D,1000,4488,3,0001695033,"Common Stock, $0.01 par value"
+A,05/21/2018 00:00:00,Stead Jimmy,4,M-Exempt,--D,3000,3488,2,0001695033,"Common Stock, $0.01 par value"
+A,05/21/2018 00:00:00,Stead Jimmy,4,M-Exempt,--D,482,488,1,0001695033,"Common Stock, $0.01 par value"
+D,05/14/2018 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,1374,21127,4,0001128404,"Common Stock, $0.01 par value"
+D,05/10/2018 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,2500,22501,3,0001128404,"Common Stock, $0.01 par value"
+A,05/04/2018 00:00:00,WESTON GRAHAM M,4,P-Purchase,--I,500,134713,5,0001119355,"Common Stock, $0.01 par value"
+A,05/04/2018 00:00:00,WESTON GRAHAM M,4,P-Purchase,--I,700,134213,4,0001119355,"Common Stock, $0.01 par value"
+A,05/04/2018 00:00:00,WESTON GRAHAM M,4,P-Purchase,--I,100,133513,3,0001119355,"Common Stock, $0.01 par value"
+A,05/04/2018 00:00:00,WESTON GRAHAM M,4,P-Purchase,--I,1700,133413,2,0001119355,"Common Stock, $0.01 par value"
+A,05/03/2018 00:00:00,WESTON GRAHAM M,4,P-Purchase,--I,40000,131713,1,0001119355,"Common Stock, $0.01 par value"
+A,05/02/2018 00:00:00,WESTON GRAHAM M,4,P-Purchase,--I,2200,91713,4,0001119355,"Common Stock, $0.01 par value"
+A,05/02/2018 00:00:00,WESTON GRAHAM M,4,P-Purchase,--I,21042,89513,3,0001119355,"Common Stock, $0.01 par value"
+A,05/01/2018 00:00:00,WESTON GRAHAM M,4,P-Purchase,--I,6299,68471,2,0001119355,"Common Stock, $0.01 par value"
+A,05/01/2018 00:00:00,WESTON GRAHAM M,4,P-Purchase,--I,13801,62172,1,0001119355,"Common Stock, $0.01 par value"
+A,05/01/2018 00:00:00,Dawson Samuel G.,4,P-Purchase,--D,859,859,1,0001695714,"Common Stock, $0.01 par value"
+A,04/27/2018 00:00:00,WESTON GRAHAM M,4/A,P-Purchase,--I,26290,48371,1,0001119355,"Common Stock, $0.01 par value"
+A,04/27/2018 00:00:00,WESTON GRAHAM M,4,P-Purchase,--I,26290,48371,1,0001119355,"Common Stock, $0.01 par value"
+A,04/25/2018 00:00:00,WILKINS HORACE JR,4,A-Award,--D,548,5885,1,0001128411,Deferred Stock Units
+A,04/25/2018 00:00:00,WESTON GRAHAM M,4,A-Award,--D,548,967,1,0001119355,Deferred Stock Units
+A,04/25/2018 00:00:00,STEEN IDA CLEMENT,4,A-Award,--D,548,5885,1,0001128410,Deferred Stock Units
+A,04/25/2018 00:00:00,MATTHEWS CHARLES W,4,A-Award,--D,548,4179,1,0001199008,Deferred Stock Units
+A,04/25/2018 00:00:00,KLEBERG RICHARD M III,4,A-Award,--D,548,5885,1,0001128407,Deferred Stock Units
+A,04/25/2018 00:00:00,JENNINGS KAREN E,4,A-Award,--D,548,5885,1,0001182672,Deferred Stock Units
+A,04/25/2018 00:00:00,Hollingsworth Jarvis V.,4,A-Award,--D,548,548,1,0001737855,Deferred Stock Units
+A,04/25/2018 00:00:00,HAEMISEGGER DAVID J,4,A-Award,--D,548,5340,1,0001449103,Deferred Stock Units
+A,04/25/2018 00:00:00,EDWARDS CRAWFORD H,4,A-Award,--D,548,5885,1,0001344078,Deferred Stock Units
+A,04/25/2018 00:00:00,Dawson Samuel G.,4,A-Award,--D,548,967,1,0001695714,Deferred Stock Units
+A,04/25/2018 00:00:00,Avery Chris,4,A-Award,--D,548,1599,1,0001662107,Deferred Stock Units
+A,04/25/2018 00:00:00,ALVAREZ CARLOS,4,A-Award,--D,548,5885,1,0001188022,Deferred Stock Units
+D,04/25/2018 00:00:00,ESCOBEDO RUBEN M,4,M-Exempt,--D,5337,0,2,0001015542,Deferred Stock Units
+A,04/25/2018 00:00:00,ESCOBEDO RUBEN M,4,M-Exempt,--D,5337,35487,1,0001015542,"Common Stock, $0.01 par value"
+D,04/25/2018 00:00:00,ALEXANDER R DENNY,4,M-Exempt,--D,5337,0,3,0001128390,Deferred Stock Units
+A,04/25/2018 00:00:00,ALEXANDER R DENNY,4,M-Exempt,--D,5337,5337,1,0001128390,"Common Stock, $0.01 par value"
+D,03/09/2018 00:00:00,ALEXANDER R DENNY,4,S-Sale,--I,2000,14050,1,0001128390,"Common Stock, $0.01 par value"
+D,02/26/2018 00:00:00,Bracher Paul,4,M-Exempt,--D,9360,0,5,0001388772,Employee Stock Option (right to buy)
+D,02/26/2018 00:00:00,Bracher Paul,4,S-Sale,--D,9360,78364,2,0001388772,"Common Stock, $0.01 par value"
+A,02/26/2018 00:00:00,Bracher Paul,4,M-Exempt,--D,9360,87724,1,0001388772,"Common Stock, $0.01 par value"
+D,02/22/2018 00:00:00,GREEN PHILLIP D,5,G-Gift,--I,2306,25535,2,0001128404,"Common Stock, $0.01 par value"
+D,02/20/2018 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,1028,26451,1,0001128404,"Common Stock, $0.01 par value"
+D,02/02/2018 00:00:00,Perotti William L,4,M-Exempt,--D,13000,0,5,0001388771,Employee Stock Option (right to buy)
+D,02/02/2018 00:00:00,Perotti William L,4,S-Sale,--D,2589,79382,3,0001388771,"Common Stock, $0.01 par value"
+D,02/02/2018 00:00:00,Perotti William L,4,S-Sale,--D,10411,81971,2,0001388771,"Common Stock, $0.01 par value"
+A,02/02/2018 00:00:00,Perotti William L,4,M-Exempt,--D,13000,92382,1,0001388771,"Common Stock, $0.01 par value"
+D,01/30/2018 00:00:00,FROST PATRICK B,4,M-Exempt,--D,13000,0,9,0001128400,Employee Stock Option (right to buy)
+D,01/30/2018 00:00:00,FROST PATRICK B,4,S-Sale,--D,13000,148536,2,0001128400,"Common Stock, $0.01 par value"
+A,01/30/2018 00:00:00,FROST PATRICK B,4,M-Exempt,--D,13000,161536,1,0001128400,"Common Stock, $0.01 par value"
+D,01/29/2018 00:00:00,ALEXANDER R DENNY,4,S-Sale,--I,3000,16050,1,0001128390,"Common Stock, $0.01 par value"
+A,01/29/2018 00:00:00,Alonzo Annette M,4,M-Exempt,--D,3000,0,6,0001649840,Employee Stock Option (right to buy)
+A,01/29/2018 00:00:00,Alonzo Annette M,4,M-Exempt,--D,1500,0,5,0001649840,Employee Stock Option (right to buy)
+D,01/29/2018 00:00:00,Alonzo Annette M,4,S-Sale,--D,4500,2238,3,0001649840,"Common Stock, $0.01 par value"
+A,01/29/2018 00:00:00,Alonzo Annette M,4,M-Exempt,--D,3000,6738,2,0001649840,"Common Stock, $0.01 par value"
+A,01/29/2018 00:00:00,Alonzo Annette M,4,M-Exempt,--D,1500,3738,1,0001649840,"Common Stock, $0.01 par value"
+D,01/26/2018 00:00:00,McKnight Gary C,4,M-Exempt,--D,12000,0,7,0001649912,Employee Stock Option (right to buy)
+D,01/26/2018 00:00:00,McKnight Gary C,4,M-Exempt,--D,12000,0,6,0001649912,Employee Stock Option (right to buy)
+D,01/26/2018 00:00:00,McKnight Gary C,4,S-Sale,--D,2100,844,4,0001649912,"Common Stock, $0.01 par value"
+D,01/26/2018 00:00:00,McKnight Gary C,4,S-Sale,--D,21900,2944,3,0001649912,"Common Stock, $0.01 par value"
+A,01/26/2018 00:00:00,McKnight Gary C,4,M-Exempt,--D,12000,24844,2,0001649912,"Common Stock, $0.01 par value"
+A,01/26/2018 00:00:00,McKnight Gary C,4,M-Exempt,--D,12000,12844,1,0001649912,"Common Stock, $0.01 par value"
+D,12/15/2017 00:00:00,McKnight Gary C,4,I-Discretionary,--I,7224,1412,1,0001649912,"Common Stock, $0.01 par value"
+D,12/13/2017 00:00:00,Wolfshohl Candace K,4,M-Exempt,--D,3000,0,9,0001649841,Employee Stock Option (right to buy)
+D,12/13/2017 00:00:00,Wolfshohl Candace K,4,M-Exempt,--D,1500,0,8,0001649841,Employee Stock Option (right to buy)
+D,12/13/2017 00:00:00,Wolfshohl Candace K,4,M-Exempt,--D,2500,0,7,0001649841,Employee Stock Option (right to buy)
+D,12/13/2017 00:00:00,Wolfshohl Candace K,4,S-Sale,--D,7000,6645,4,0001649841,"Common Stock, $0.01 par value"
+A,12/13/2017 00:00:00,Wolfshohl Candace K,4,M-Exempt,--D,3000,13645,3,0001649841,"Common Stock, $0.01 par value"
+A,12/13/2017 00:00:00,Wolfshohl Candace K,4,M-Exempt,--D,1500,10645,2,0001649841,"Common Stock, $0.01 par value"
+A,12/13/2017 00:00:00,Wolfshohl Candace K,4,M-Exempt,--D,2500,9145,1,0001649841,"Common Stock, $0.01 par value"
+D,12/12/2017 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,1185,25913,4,0001128404,"Common Stock, $0.01 par value"
+D,12/05/2017 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,583,27098,3,0001128404,"Common Stock, $0.01 par value"
+D,11/30/2017 00:00:00,Salinas Jerry,4,M-Exempt,--D,12000,0,7,0001632462,Employee Stock Option (right to buy)
+D,11/30/2017 00:00:00,Salinas Jerry,4,S-Sale,--D,4409,12184,4,0001632462,"Common Stock, $0.01 par value"
+D,11/30/2017 00:00:00,Salinas Jerry,4,S-Sale,--D,3014,16593,3,0001632462,"Common Stock, $0.01 par value"
+D,11/30/2017 00:00:00,Salinas Jerry,4,S-Sale,--D,4577,19607,2,0001632462,"Common Stock, $0.01 par value"
+A,11/30/2017 00:00:00,Salinas Jerry,4,M-Exempt,--D,12000,24184,1,0001632462,"Common Stock, $0.01 par value"
+D,11/29/2017 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,20000,0,8,0001128404,Employee Stock Option (right to buy)
+D,11/29/2017 00:00:00,GREEN PHILLIP D,4,S-Sale,--D,1960,31403,4,0001128404,"Common Stock, $0.01 par value"
+D,11/29/2017 00:00:00,GREEN PHILLIP D,4,S-Sale,--D,8719,33363,3,0001128404,"Common Stock, $0.01 par value"
+D,11/29/2017 00:00:00,GREEN PHILLIP D,4,S-Sale,--D,3738,42082,2,0001128404,"Common Stock, $0.01 par value"
+A,11/29/2017 00:00:00,GREEN PHILLIP D,4,M-Exempt,--D,20000,45820,1,0001128404,"Common Stock, $0.01 par value"
+D,11/17/2017 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,2500,27681,2,0001128404,"Common Stock, $0.01 par value"
+D,10/29/2017 00:00:00,Olivier Paul,4,M-Exempt,--D,2060,0,4,0001388769,Restricted Stock Units
+D,10/29/2017 00:00:00,Olivier Paul,4,F-InKind,--D,864,19416,2,0001388769,"Common Stock, $0.01 par value"
+A,10/29/2017 00:00:00,Olivier Paul,4,M-Exempt,--D,2060,20280,1,0001388769,"Common Stock, $0.01 par value"
+D,10/29/2017 00:00:00,Kardys Richard,4,M-Exempt,--D,2770,0,4,0001388768,Restricted Stock Units
+D,10/29/2017 00:00:00,Kardys Richard,4,F-InKind,--D,757,117592,2,0001388768,"Common Stock, $0.01 par value"
+A,10/29/2017 00:00:00,Kardys Richard,4,M-Exempt,--D,2770,118349,1,0001388768,"Common Stock, $0.01 par value"
+D,10/29/2017 00:00:00,Perotti William L,4,F-InKind,--D,664,79044,1,0001388771,"Common Stock, $0.01 par value"
+D,10/29/2017 00:00:00,GREEN PHILLIP D,4,F-InKind,--D,1547,25820,1,0001128404,"Common Stock, $0.01 par value"
+D,10/29/2017 00:00:00,FROST PATRICK B,4,F-InKind,--D,999,148198,1,0001128400,"Common Stock, $0.01 par value"
+D,10/29/2017 00:00:00,Bracher Paul,4,F-InKind,--D,664,78014,1,0001388772,"Common Stock, $0.01 par value"
+D,10/29/2017 00:00:00,Berman Bobby,4,F-InKind,--D,864,29792,9,0001388767,"Common Stock, $0.01 par value"
+D,10/27/2017 00:00:00,Berman Bobby,4,M-Exempt,--D,5270,5270,18,0001388767,Employee Stock Option (right to buy)
+D,10/27/2017 00:00:00,Berman Bobby,4,M-Exempt,--D,4160,4160,17,0001388767,Employee Stock Option (right to buy)
+D,10/27/2017 00:00:00,Berman Bobby,4,M-Exempt,--D,5130,1710,16,0001388767,Employee Stock Option (right to buy)
+D,10/27/2017 00:00:00,Berman Bobby,4,M-Exempt,--D,8880,0,15,0001388767,Employee Stock Option (right to buy)
+D,10/27/2017 00:00:00,Berman Bobby,4,M-Exempt,--D,10380,0,14,0001388767,Employee Stock Option (right to buy)
+D,10/27/2017 00:00:00,Berman Bobby,4,M-Exempt,--D,7940,0,13,0001388767,Employee Stock Option (right to buy)
+D,10/27/2017 00:00:00,Berman Bobby,4,S-Sale,--D,12700,30656,8,0001388767,"Common Stock, $0.01 par value"
+D,10/27/2017 00:00:00,Berman Bobby,4,S-Sale,--D,29060,43356,7,0001388767,"Common Stock, $0.01 par value"
+A,10/27/2017 00:00:00,Berman Bobby,4,M-Exempt,--D,5270,72416,6,0001388767,"Common Stock, $0.01 par value"
+A,10/27/2017 00:00:00,Berman Bobby,4,M-Exempt,--D,4160,67146,5,0001388767,"Common Stock, $0.01 par value"
+A,10/27/2017 00:00:00,Berman Bobby,4,M-Exempt,--D,5130,62986,4,0001388767,"Common Stock, $0.01 par value"
+A,10/27/2017 00:00:00,Berman Bobby,4,M-Exempt,--D,8880,57856,3,0001388767,"Common Stock, $0.01 par value"
+A,10/27/2017 00:00:00,Berman Bobby,4,M-Exempt,--D,10380,48976,2,0001388767,"Common Stock, $0.01 par value"
+A,10/27/2017 00:00:00,Berman Bobby,4,M-Exempt,--D,7940,38596,1,0001388767,"Common Stock, $0.01 par value"
+A,10/24/2017 00:00:00,Wolfshohl Candace K,4,A-Award,--D,1264,1264,1,0001649841,Restricted Stock Units
+A,10/24/2017 00:00:00,Stead Jimmy,4,A-Award,--D,1031,1031,1,0001695033,Restricted Stock Units
+A,10/24/2017 00:00:00,Salinas Jerry,4,A-Award,--D,2275,2275,1,0001632462,Restricted Stock Units
+A,10/24/2017 00:00:00,Perotti William L,4,A-Award,--D,1643,1643,1,0001388771,Restricted Stock Units
+A,10/24/2017 00:00:00,McKnight Gary C,4,A-Award,--D,1213,1213,1,0001649912,Restricted Stock Units
+A,10/24/2017 00:00:00,GREEN PHILLIP D,4,A-Award,--D,8595,8595,1,0001128404,Restricted Stock Units
+A,10/24/2017 00:00:00,FROST PATRICK B,4,A-Award,--D,1643,1643,1,0001128400,Restricted Stock Units
+A,10/24/2017 00:00:00,Bracher Paul,4,A-Award,--D,2275,2275,1,0001388772,Restricted Stock Units
+A,10/24/2017 00:00:00,Berman Bobby,4,A-Award,--D,1213,1213,5,0001388767,Restricted Stock Units
+A,10/24/2017 00:00:00,Alonzo Annette M,4,A-Award,--D,1390,1390,1,0001649840,Restricted Stock Units
+A,05/16/2017 00:00:00,WESTON GRAHAM M,4,P-Purchase,--I,4485,22081,3,0001119355,"Common Stock, $0.01 par value"
+A,05/16/2017 00:00:00,WESTON GRAHAM M,4,P-Purchase,--I,6500,17596,2,0001119355,"Common Stock, $0.01 par value"
+A,05/15/2017 00:00:00,WESTON GRAHAM M,4,P-Purchase,--I,11096,11096,1,0001119355,"Common Stock, $0.01 par value"
+D,05/04/2017 00:00:00,GREEN PHILLIP D,5,G-Gift,--D,2122,30181,1,0001128404,"Common Stock, $0.01 par value"
+D,04/27/2017 00:00:00,CALDWELL ROYCE S,4/A,M-Exempt,--D,4918,0,2,0001128392,Deferred Stock Units

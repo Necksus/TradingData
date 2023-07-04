@@ -1,0 +1,782 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,06/26/2023 00:00:00,Lopez Esteban,4,A-Award,--D,3000,6600,1,0001839999,Common Stock
+A,06/26/2023 00:00:00,Demski David M,4,A-Award,--D,3000,9542,1,0001555392,Common Stock
+A,06/26/2023 00:00:00,Kiernan Jane E,4,A-Award,--D,3000,19861,1,0001379171,Common Stock
+A,06/26/2023 00:00:00,snyderman nancy lynn MD,4,A-Award,--D,3000,19944,1,0001675198,Common Stock
+A,06/26/2023 00:00:00,CARREL MICHAEL H,4,A-Award,--D,3000,18361,1,0001230584,Common Stock
+A,06/26/2023 00:00:00,McNamara Robert,4,A-Award,--D,3000,14861,1,0001387652,Common Stock
+D,05/26/2023 00:00:00,Dearen Danny L.,4,S-Sale,--D,300,9202,2,0001756438,Common Stock
+D,05/26/2023 00:00:00,Dearen Danny L.,4,S-Sale,--D,7699,9502,1,0001756438,Common Stock
+D,04/21/2023 00:00:00,Dearen Danny L.,4,M-Exempt,--D,13208,0,4,0001756438,Stock Options (Right to buy)
+D,04/21/2023 00:00:00,Dearen Danny L.,4,S-Sale,--D,9637,17201,3,0001756438,Common Stock
+D,04/21/2023 00:00:00,Dearen Danny L.,4,S-Sale,--D,10363,26838,2,0001756438,Common Stock
+A,04/21/2023 00:00:00,Dearen Danny L.,4,M-Exempt,--D,13208,37201,1,0001756438,Common Stock
+D,04/20/2023 00:00:00,Dearen Danny L.,4,M-Exempt,--D,2001,13208,3,0001756438,Stock Options (Right to buy)
+D,04/20/2023 00:00:00,Dearen Danny L.,4,S-Sale,--D,2001,23993,2,0001756438,Common Stock
+A,04/20/2023 00:00:00,Dearen Danny L.,4,M-Exempt,--D,2001,25994,1,0001756438,Common Stock
+D,03/31/2023 00:00:00,Dearen Danny L.,4,M-Exempt,--D,2899,0,8,0001756438,Stock Options (Right to buy)
+D,03/31/2023 00:00:00,Dearen Danny L.,4,M-Exempt,--D,5468,7032,7,0001756438,Stock Options (Right to buy)
+D,03/31/2023 00:00:00,Dearen Danny L.,4,M-Exempt,--D,6633,15209,6,0001756438,Stock Options (Right to buy)
+D,03/31/2023 00:00:00,Dearen Danny L.,4,S-Sale,--D,7802,23993,5,0001756438,Common Stock
+D,03/31/2023 00:00:00,Dearen Danny L.,4,S-Sale,--D,7198,31795,4,0001756438,Common Stock
+A,03/31/2023 00:00:00,Dearen Danny L.,4,M-Exempt,--D,2899,38993,3,0001756438,Common Stock
+A,03/31/2023 00:00:00,Dearen Danny L.,4,M-Exempt,--D,5468,36094,2,0001756438,Common Stock
+A,03/31/2023 00:00:00,Dearen Danny L.,4,M-Exempt,--D,6633,30626,1,0001756438,Common Stock
+D,02/21/2023 00:00:00,Sama Rinda,4,S-Sale,--I,3392,608,3,0001756399,Common Stock
+D,02/21/2023 00:00:00,Sama Rinda,4,S-Sale,--D,3700,55854,2,0001756399,Common Stock
+D,02/21/2023 00:00:00,Sama Rinda,4,S-Sale,--D,16229,59554,1,0001756399,Common Stock
+D,02/01/2023 00:00:00,Sama Rinda,4,S-Sale,--D,4334,75783,6,0001756399,Common Stock
+D,02/01/2023 00:00:00,Sama Rinda,4,S-Sale,--D,741,80117,5,0001756399,Common Stock
+D,02/01/2023 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,3164,50834,6,0001359446,Common Stock
+D,02/01/2023 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,541,53998,5,0001359446,Common Stock
+D,02/01/2023 00:00:00,Dearen Danny L.,4,S-Sale,--D,2772,23993,6,0001756438,Common Stock
+D,02/01/2023 00:00:00,Dearen Danny L.,4,S-Sale,--D,474,26765,5,0001756438,Common Stock
+D,02/01/2023 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,6932,160596,6,0001258288,Common Stock
+D,02/01/2023 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,1185,167528,5,0001258288,Common Stock
+D,02/01/2023 00:00:00,Noblett Karen,4,S-Sale,--D,795,42215,6,0001756240,Common Stock
+D,02/01/2023 00:00:00,Noblett Karen,4,S-Sale,--D,136,43010,5,0001756240,Common Stock
+D,02/01/2023 00:00:00,Woock John,4,S-Sale,--D,3398,65302,6,0001756437,Common Stock
+D,02/01/2023 00:00:00,Woock John,4,S-Sale,--D,581,68700,5,0001756437,Common Stock
+D,01/31/2023 00:00:00,Sama Rinda,4,M-Exempt,--D,20000,0,11,0001756399,Performance-Based Restricted Stock Units
+D,01/31/2023 00:00:00,Sama Rinda,4,M-Exempt,--D,10875,0,10,0001756399,Performance-Based Restricted Stock Units
+A,01/31/2023 00:00:00,Sama Rinda,4,A-Award,--D,8750,8750,9,0001756399,Performance-Based Restricted Stock Units
+A,01/31/2023 00:00:00,Sama Rinda,4,A-Award,--D,17500,17500,8,0001756399,Performance-Based Restricted Stock Units
+D,01/31/2023 00:00:00,Sama Rinda,4,S-Sale,--D,5634,80858,4,0001756399,Common Stock
+D,01/31/2023 00:00:00,Sama Rinda,4,S-Sale,--D,7791,86492,3,0001756399,Common Stock
+A,01/31/2023 00:00:00,Sama Rinda,4,M-Exempt,--D,30875,94283,2,0001756399,Common Stock
+A,01/31/2023 00:00:00,Sama Rinda,4,A-Award,--D,8750,63408,1,0001756399,Common Stock
+D,01/31/2023 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,11250,0,10,0001359446,Performance-Based Restricted Stock Units
+D,01/31/2023 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,5250,0,9,0001359446,Performance-Based Restricted Stock Units
+A,01/31/2023 00:00:00,Ford Alfred J Jr,4,A-Award,--D,7500,7500,8,0001359446,Performance-Based Restricted Stock Units
+A,01/31/2023 00:00:00,Ford Alfred J Jr,4,A-Award,--D,15000,15000,7,0001359446,Performance-Based Restricted Stock Units
+D,01/31/2023 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,1999,54539,4,0001359446,Common Stock
+D,01/31/2023 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,4235,56538,3,0001359446,Common Stock
+A,01/31/2023 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,16500,60773,2,0001359446,Common Stock
+A,01/31/2023 00:00:00,Ford Alfred J Jr,4,A-Award,--D,7500,44273,1,0001359446,Common Stock
+D,01/31/2023 00:00:00,Dearen Danny L.,4,M-Exempt,--D,20000,0,10,0001756438,Performance-Based Restricted Stock Units
+D,01/31/2023 00:00:00,Dearen Danny L.,4,M-Exempt,--D,5250,0,9,0001756438,Performance-Based Restricted Stock Units
+A,01/31/2023 00:00:00,Dearen Danny L.,4,A-Award,--D,5000,5000,8,0001756438,Performance-Based Restricted Stock Units
+A,01/31/2023 00:00:00,Dearen Danny L.,4,A-Award,--D,15000,15000,7,0001756438,Performance-Based Restricted Stock Units
+D,01/31/2023 00:00:00,Dearen Danny L.,4,S-Sale,--D,2720,27239,4,0001756438,Common Stock
+D,01/31/2023 00:00:00,Dearen Danny L.,4,S-Sale,--D,7791,29959,3,0001756438,Common Stock
+A,01/31/2023 00:00:00,Dearen Danny L.,4,M-Exempt,--D,25250,37750,2,0001756438,Common Stock
+A,01/31/2023 00:00:00,Dearen Danny L.,4,A-Award,--D,5000,12500,1,0001756438,Common Stock
+D,01/31/2023 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,40000,0,10,0001258288,Performance-Based Restricted Stock Units
+D,01/31/2023 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,21968,0,9,0001258288,Performance-Based Restricted Stock Units
+A,01/31/2023 00:00:00,COHEN RAYMOND W,4,A-Award,--D,20750,20750,8,0001258288,Performance-Based Restricted Stock Units
+A,01/31/2023 00:00:00,COHEN RAYMOND W,4,A-Award,--D,41500,41500,7,0001258288,Performance-Based Restricted Stock Units
+D,01/31/2023 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,9032,168713,4,0001258288,Common Stock
+D,01/31/2023 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,13872,177745,3,0001258288,Common Stock
+A,01/31/2023 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,61968,191617,2,0001258288,Common Stock
+A,01/31/2023 00:00:00,COHEN RAYMOND W,4,A-Award,--D,20750,129649,1,0001258288,Common Stock
+D,01/31/2023 00:00:00,Noblett Karen,4,M-Exempt,--D,6000,0,10,0001756240,Performance-Based Restricted Stock Units
+D,01/31/2023 00:00:00,Noblett Karen,4,M-Exempt,--D,4250,0,9,0001756240,Performance-Based Restricted Stock Units
+A,01/31/2023 00:00:00,Noblett Karen,4,A-Award,--D,5000,5000,8,0001756240,Performance-Based Restricted Stock Units
+A,01/31/2023 00:00:00,Noblett Karen,4,A-Award,--D,15000,15000,7,0001756240,Performance-Based Restricted Stock Units
+D,01/31/2023 00:00:00,Noblett Karen,4,S-Sale,--D,1536,43146,4,0001756240,Common Stock
+D,01/31/2023 00:00:00,Noblett Karen,4,S-Sale,--D,2167,44682,3,0001756240,Common Stock
+A,01/31/2023 00:00:00,Noblett Karen,4,M-Exempt,--D,10250,46849,2,0001756240,Common Stock
+A,01/31/2023 00:00:00,Noblett Karen,4,A-Award,--D,5000,36599,1,0001756240,Common Stock
+D,01/31/2023 00:00:00,Woock John,4,M-Exempt,--D,11250,0,10,0001756437,Performance-Based Restricted Stock Units
+D,01/31/2023 00:00:00,Woock John,4,M-Exempt,--D,10875,0,9,0001756437,Performance-Based Restricted Stock Units
+A,01/31/2023 00:00:00,Woock John,4,A-Award,--D,8750,8750,8,0001756437,Performance-Based Restricted Stock Units
+A,01/31/2023 00:00:00,Woock John,4,A-Award,--D,17500,17500,7,0001756437,Performance-Based Restricted Stock Units
+D,01/31/2023 00:00:00,Woock John,4,S-Sale,--D,4181,69281,4,0001756437,Common Stock
+D,01/31/2023 00:00:00,Woock John,4,S-Sale,--D,3389,73462,3,0001756437,Common Stock
+A,01/31/2023 00:00:00,Woock John,4,M-Exempt,--D,22125,76851,2,0001756437,Common Stock
+A,01/31/2023 00:00:00,Woock John,4,A-Award,--D,8750,54726,1,0001756437,Common Stock
+D,01/17/2023 00:00:00,Woock John,4,M-Exempt,--D,2793,0,12,0001756437,Stock Options (Right to buy)
+D,01/17/2023 00:00:00,Woock John,4,M-Exempt,--D,378,0,11,0001756437,Stock Options (Right to buy)
+D,01/17/2023 00:00:00,Woock John,4,M-Exempt,--D,15000,15555,10,0001756437,Stock Options (Right to buy)
+D,01/17/2023 00:00:00,Woock John,4,M-Exempt,--D,12044,3581,9,0001756437,Stock Options (Right to buy)
+D,01/17/2023 00:00:00,Woock John,4,S-Sale,--D,12044,45976,8,0001756437,Common Stock
+A,01/17/2023 00:00:00,Woock John,4,M-Exempt,--D,12044,58020,7,0001756437,Common Stock
+D,01/17/2023 00:00:00,Woock John,4,S-Sale,--D,15000,45976,6,0001756437,Common Stock
+A,01/17/2023 00:00:00,Woock John,4,M-Exempt,--D,15000,60976,5,0001756437,Common Stock
+D,01/17/2023 00:00:00,Woock John,4,S-Sale,--D,378,45976,4,0001756437,Common Stock
+A,01/17/2023 00:00:00,Woock John,4,M-Exempt,--D,378,46354,3,0001756437,Common Stock
+D,01/17/2023 00:00:00,Woock John,4,S-Sale,--D,2793,45976,2,0001756437,Common Stock
+A,01/17/2023 00:00:00,Woock John,4,M-Exempt,--D,2793,48769,1,0001756437,Common Stock
+D,01/13/2023 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,22052,108899,2,0001258288,Common Stock
+D,01/13/2023 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,18684,130951,1,0001258288,Common Stock
+D,01/13/2023 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,8509,0,11,0001359446,Stock Option (Right to Buy)
+D,01/13/2023 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,1899,0,10,0001359446,Stock Option (Right to Buy)
+D,01/13/2023 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,16297,0,9,0001359446,Stock Option (Right to Buy)
+D,01/13/2023 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,9310,4655,8,0001359446,Stock Option (Right to Buy)
+D,01/13/2023 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,3615,36773,7,0001359446,Common Stock
+D,01/13/2023 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,17108,40388,6,0001359446,Common Stock
+D,01/13/2023 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,15292,57496,5,0001359446,Common Stock
+A,01/13/2023 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,16297,72788,4,0001359446,Common Stock
+A,01/13/2023 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,9310,56491,3,0001359446,Common Stock
+A,01/13/2023 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,1899,47181,2,0001359446,Common Stock
+A,01/13/2023 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,8509,45282,1,0001359446,Common Stock
+D,12/13/2022 00:00:00,Lopez Esteban,4,S-Sale,--D,2000,3600,1,0001839999,Common Stock
+D,09/13/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,656,7500,1,0001756438,Common Stock
+D,09/12/2022 00:00:00,Noblett Karen,4,M-Exempt,--D,13964,6348,5,0001756240,Stock Options (Right to buy)
+D,09/12/2022 00:00:00,Noblett Karen,4,M-Exempt,--D,18519,2963,4,0001756240,Stock Option (Right to Buy)
+D,09/12/2022 00:00:00,Noblett Karen,4,S-Sale,--D,32483,31599,3,0001756240,Common Stock
+A,09/12/2022 00:00:00,Noblett Karen,4,M-Exempt,--D,13964,64082,2,0001756240,Common Stock
+A,09/12/2022 00:00:00,Noblett Karen,4,M-Exempt,--D,18519,50118,1,0001756240,Common Stock
+D,09/08/2022 00:00:00,Woock John,4,M-Exempt,--D,3800,378,6,0001756437,Stock Option (Right to Buy)
+D,09/08/2022 00:00:00,Woock John,4,M-Exempt,--D,3700,0,5,0001756437,Stock Option (Right to Buy)
+D,09/08/2022 00:00:00,Woock John,4,S-Sale,--D,3700,45976,4,0001756437,Common Stock
+A,09/08/2022 00:00:00,Woock John,4,M-Exempt,--D,3700,49676,3,0001756437,Common Stock
+D,09/08/2022 00:00:00,Woock John,4,S-Sale,--D,3800,45976,2,0001756437,Common Stock
+A,09/08/2022 00:00:00,Woock John,4,M-Exempt,--D,3800,49776,1,0001756437,Common Stock
+D,09/07/2022 00:00:00,Noblett Karen,4,S-Sale,--D,10454,31599,1,0001756240,Common Stock
+D,08/25/2022 00:00:00,Woock John,4,S-Sale,--D,542,45976,2,0001756437,Common Stock
+D,08/25/2022 00:00:00,Woock John,4,S-Sale,--D,6958,46518,1,0001756437,Common Stock
+A,08/18/2022 00:00:00,Lopez Esteban,4,A-Award,--D,2100,5600,1,0001839999,Common Stock
+A,08/18/2022 00:00:00,Demski David M,4,A-Award,--D,2100,6542,1,0001555392,Common Stock
+A,08/18/2022 00:00:00,Kiernan Jane E,4,A-Award,--D,2100,16861,1,0001379171,Common Stock
+A,08/18/2022 00:00:00,snyderman nancy lynn MD,4,A-Award,--D,2100,16944,1,0001675198,Common Stock
+A,08/18/2022 00:00:00,McNamara Robert,4,A-Award,--D,2100,11861,1,0001387652,Common Stock
+A,08/18/2022 00:00:00,CARREL MICHAEL H,4,A-Award,--D,2100,15361,1,0001230584,Common Stock
+D,08/11/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,6250,12500,13,0001756438,Stock Options (Right to buy)
+D,08/11/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,7047,2223,12,0001756438,Stock Options (Right to buy)
+D,08/11/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,20545,0,11,0001756438,Stock Options (Right to buy)
+D,08/11/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,2044,0,10,0001756438,Stock Options (Right to buy)
+D,08/11/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,1616,0,9,0001756438,Stock Options (Right to buy)
+D,08/11/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,6960,8156,8,0001756438,Common Stock
+D,08/11/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,16280,15116,7,0001756438,Common Stock
+D,08/11/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,26760,31396,6,0001756438,Common Stock
+A,08/11/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,6250,58156,5,0001756438,Common Stock
+A,08/11/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,7047,51906,4,0001756438,Common Stock
+A,08/11/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,20545,44859,3,0001756438,Common Stock
+A,08/11/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,2044,24314,2,0001756438,Common Stock
+A,08/11/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,1616,22270,1,0001756438,Common Stock
+D,08/10/2022 00:00:00,Woock John,4,M-Exempt,--D,7500,3700,4,0001756437,Stock Option (Right to Buy)
+D,08/10/2022 00:00:00,Woock John,4,S-Sale,--D,5849,53476,3,0001756437,Common Stock
+D,08/10/2022 00:00:00,Woock John,4,S-Sale,--D,9151,59325,2,0001756437,Common Stock
+A,08/10/2022 00:00:00,Woock John,4,M-Exempt,--D,7500,68476,1,0001756437,Common Stock
+D,08/10/2022 00:00:00,Sama Rinda,4,M-Exempt,--D,8301,9962,8,0001756399,Stock Options (Right to buy)
+D,08/10/2022 00:00:00,Sama Rinda,4,M-Exempt,--D,25549,11019,7,0001756399,Stock Options (Right to buy)
+D,08/10/2022 00:00:00,Sama Rinda,4,S-Sale,--D,9372,54658,5,0001756399,Common Stock
+D,08/10/2022 00:00:00,Sama Rinda,4,S-Sale,--D,24478,64030,4,0001756399,Common Stock
+A,08/10/2022 00:00:00,Sama Rinda,4,M-Exempt,--D,9372,88508,3,0001756399,Common Stock
+A,08/10/2022 00:00:00,Sama Rinda,4,M-Exempt,--D,8301,79136,2,0001756399,Common Stock
+A,08/10/2022 00:00:00,Sama Rinda,4,M-Exempt,--D,16177,70835,1,0001756399,Common Stock
+D,08/08/2022 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,1776,149635,4,0001258288,Common Stock
+D,08/08/2022 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,12032,151411,3,0001258288,Common Stock
+D,08/08/2022 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,12092,163443,2,0001258288,Common Stock
+D,08/08/2022 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,18100,175535,1,0001258288,Common Stock
+D,08/05/2022 00:00:00,Sama Rinda,4,S-Sale,--D,400,54658,2,0001756399,Common Stock
+D,08/05/2022 00:00:00,Sama Rinda,4,S-Sale,--D,12694,55058,1,0001756399,Common Stock
+D,07/20/2022 00:00:00,COHEN RAYMOND W,5,G-Gift,--D,8000,152596,1,0001258288,Common Stock
+D,07/05/2022 00:00:00,Kiernan Jane E,4,S-Sale,--D,5250,14761,4,0001379171,Common Stock
+D,04/01/2022 00:00:00,Kiernan Jane E,4,S-Sale,--D,1750,20011,3,0001379171,Common Stock
+D,03/29/2022 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,50000,193635,1,0001258288,Common Stock
+D,03/29/2022 00:00:00,Kiernan Jane E,4,S-Sale,--D,1750,7594,2,0001379171,Common Stock
+D,03/29/2022 00:00:00,Kiernan Jane E,4,S-Sale,--D,3500,9344,1,0001379171,Common Stock
+D,03/18/2022 00:00:00,Noblett Karen,4,S-Sale,--D,13531,42053,1,0001756240,Common Stock
+D,03/14/2022 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,16900,243635,5,0001258288,Common Stock
+D,03/14/2022 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,11232,260535,4,0001258288,Common Stock
+D,03/14/2022 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,1981,271767,3,0001258288,Common Stock
+D,03/14/2022 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,2100,273748,2,0001258288,Common Stock
+D,03/14/2022 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,17787,275848,1,0001258288,Common Stock
+D,03/01/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,12329,2343,5,0001756438,Stock Options (Right to buy)
+D,03/01/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,10564,20654,4,0001756438,Common Stock
+D,03/01/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,7846,31218,3,0001756438,Common Stock
+D,03/01/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,1500,39064,2,0001756438,Common Stock
+A,03/01/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,12329,40564,1,0001756438,Common Stock
+D,02/25/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,3579,6666,5,0001756438,Stock Options (Right to buy)
+D,02/25/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,6421,14672,4,0001756438,Stock Options (Right to buy)
+D,02/25/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,10000,28235,3,0001756438,Common Stock
+A,02/25/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,3579,38235,2,0001756438,Common Stock
+A,02/25/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,6421,34656,1,0001756438,Common Stock
+D,02/03/2022 00:00:00,Noblett Karen,4,M-Exempt,--D,14130,0,8,0001756240,Performance-Based Restricted Stock Units
+D,02/03/2022 00:00:00,Noblett Karen,4,M-Exempt,--D,5333,0,7,0001756240,Performance-Based Restricted Stock Units
+D,02/03/2022 00:00:00,Noblett Karen,4,S-Sale,--D,339,55584,4,0001756240,Common Stock
+D,02/03/2022 00:00:00,Noblett Karen,4,S-Sale,--D,6343,55923,3,0001756240,Common Stock
+A,02/03/2022 00:00:00,Noblett Karen,4,M-Exempt,--D,19463,62266,2,0001756240,Common Stock
+D,02/03/2022 00:00:00,Sama Rinda,4,M-Exempt,--D,18478,0,9,0001756399,Performance-Based Restricted Stock Units
+D,02/03/2022 00:00:00,Sama Rinda,4,M-Exempt,--D,10833,0,8,0001756399,Performance-Based Restricted Stock Units
+D,02/03/2022 00:00:00,Sama Rinda,4,S-Sale,--D,602,67752,4,0001756399,Common Stock
+D,02/03/2022 00:00:00,Sama Rinda,4,S-Sale,--D,11280,68354,3,0001756399,Common Stock
+A,02/03/2022 00:00:00,Sama Rinda,4,M-Exempt,--D,29311,79634,2,0001756399,Common Stock
+D,02/03/2022 00:00:00,Woock John,4,M-Exempt,--D,10870,0,8,0001756437,Performance-Based Restricted Stock Units
+D,02/03/2022 00:00:00,Woock John,4,M-Exempt,--D,10000,0,7,0001756437,Performance-Based Restricted Stock Units
+D,02/03/2022 00:00:00,Woock John,4,S-Sale,--D,317,60976,4,0001756437,Common Stock
+D,02/03/2022 00:00:00,Woock John,4,S-Sale,--D,5934,61293,3,0001756437,Common Stock
+A,02/03/2022 00:00:00,Woock John,4,M-Exempt,--D,20870,67227,2,0001756437,Common Stock
+D,02/03/2022 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,14130,0,8,0001359446,Performance-Based Restricted Stock Units
+D,02/03/2022 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,10000,0,7,0001359446,Performance-Based Restricted Stock Units
+D,02/03/2022 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,470,36773,4,0001359446,Common Stock
+D,02/03/2022 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,8797,37243,3,0001359446,Common Stock
+A,02/03/2022 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,24130,46040,2,0001359446,Common Stock
+D,02/03/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,26086,0,14,0001756438,Performance-Based Restricted Stock Units
+D,02/03/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,10833,0,13,0001756438,Performance-Based Restricted Stock Units
+D,02/03/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,947,28235,9,0001756438,Common Stock
+D,02/03/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,17737,29182,8,0001756438,Common Stock
+A,02/03/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,36919,46919,7,0001756438,Common Stock
+D,02/03/2022 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,54346,0,8,0001258288,Performance-Based Restricted Stock Units
+D,02/03/2022 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,42500,0,7,0001258288,Performance-Based Restricted Stock Units
+D,02/03/2022 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,1779,339635,4,0001258288,Common Stock
+D,02/03/2022 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,33336,341414,3,0001258288,Common Stock
+A,02/03/2022 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,96846,374750,2,0001258288,Common Stock
+D,02/01/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,20000,32468,10,0001756438,Stock Option (Right to Buy)
+D,02/01/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,400,10000,5,0001756438,Common Stock
+D,02/01/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,13853,10400,4,0001756438,Common Stock
+D,02/01/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,3730,24253,3,0001756438,Common Stock
+D,02/01/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,2017,27983,2,0001756438,Common Stock
+A,02/01/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,20000,30000,1,0001756438,Common Stock
+A,01/31/2022 00:00:00,Noblett Karen,4,A-Award,--D,3250,3250,6,0001756240,Performance-Based Restricted Stock Units
+A,01/31/2022 00:00:00,Noblett Karen,4,A-Award,--D,4250,4250,5,0001756240,Performance-Based Restricted Stock Units
+A,01/31/2022 00:00:00,Noblett Karen,4,A-Award,--D,5350,42803,1,0001756240,Common Stock
+A,01/31/2022 00:00:00,Sama Rinda,4,A-Award,--D,5250,5250,7,0001756399,Performance-Based Restricted Stock Units
+A,01/31/2022 00:00:00,Sama Rinda,4,A-Award,--D,10875,10875,6,0001756399,Performance-Based Restricted Stock Units
+A,01/31/2022 00:00:00,Sama Rinda,4,A-Award,--D,21425,50323,1,0001756399,Common Stock
+A,01/31/2022 00:00:00,Woock John,4,A-Award,--D,5250,5250,6,0001756437,Performance-Based Restricted Stock Units
+A,01/31/2022 00:00:00,Woock John,4,A-Award,--D,10875,10875,5,0001756437,Performance-Based Restricted Stock Units
+A,01/31/2022 00:00:00,Woock John,4,A-Award,--D,21425,46357,1,0001756437,Common Stock
+A,01/31/2022 00:00:00,Ford Alfred J Jr,4,A-Award,--D,5250,5250,6,0001359446,Performance-Based Restricted Stock Units
+A,01/31/2022 00:00:00,Ford Alfred J Jr,4,A-Award,--D,5250,5250,5,0001359446,Performance-Based Restricted Stock Units
+A,01/31/2022 00:00:00,Ford Alfred J Jr,4,A-Award,--D,16285,21910,1,0001359446,Common Stock
+A,01/31/2022 00:00:00,Dearen Danny L.,4,A-Award,--D,5250,5250,12,0001756438,Performance-Based Restricted Stock Units
+A,01/31/2022 00:00:00,Dearen Danny L.,4,A-Award,--D,5250,5250,11,0001756438,Performance-Based Restricted Stock Units
+A,01/31/2022 00:00:00,Dearen Danny L.,4,A-Award,--D,11000,21000,6,0001756438,Common Stock
+A,01/31/2022 00:00:00,COHEN RAYMOND W,4,A-Award,--D,10950,10950,6,0001258288,Performance-Based Restricted Stock Units
+A,01/31/2022 00:00:00,COHEN RAYMOND W,4,A-Award,--D,21968,21968,5,0001258288,Performance-Based Restricted Stock Units
+A,01/31/2022 00:00:00,COHEN RAYMOND W,4,A-Award,--D,43297,277904,1,0001258288,Common Stock
+D,01/18/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,3718,0,10,0001756438,Stock Option (Right to Buy)
+D,01/18/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,5477,23444,9,0001756438,Stock Option (Right to Buy)
+D,01/18/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,10805,52468,8,0001756438,Stock Option (Right to Buy)
+D,01/18/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,2046,10000,7,0001756438,Common Stock
+D,01/18/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,3886,12046,6,0001756438,Common Stock
+D,01/18/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,9756,15932,5,0001756438,Common Stock
+D,01/18/2022 00:00:00,Dearen Danny L.,4,S-Sale,--D,4312,25688,4,0001756438,Common Stock
+A,01/18/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,3718,30000,3,0001756438,Common Stock
+A,01/18/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,5477,26282,2,0001756438,Common Stock
+A,01/18/2022 00:00:00,Dearen Danny L.,4,M-Exempt,--D,10805,20805,1,0001756438,Common Stock
+D,11/15/2021 00:00:00,Woock John,4,M-Exempt,--D,5000,30555,4,0001756437,Stock Option (Right to Buy)
+D,11/15/2021 00:00:00,Woock John,4,S-Sale,--D,2984,24932,3,0001756437,Common Stock
+D,11/15/2021 00:00:00,Woock John,4,S-Sale,--D,2016,27916,2,0001756437,Common Stock
+A,11/15/2021 00:00:00,Woock John,4,M-Exempt,--D,5000,29932,1,0001756437,Common Stock
+A,10/22/2021 00:00:00,McNamara Robert,4,A-Award,--D,2261,9761,1,0001387652,Common Stock
+A,10/22/2021 00:00:00,snyderman nancy lynn MD,4,A-Award,--D,2261,14844,1,0001675198,Common Stock
+A,10/22/2021 00:00:00,Demski David M,4,A-Award,--D,942,4442,1,0001555392,Common Stock
+A,10/22/2021 00:00:00,Kiernan Jane E,4,A-Award,--D,2261,12844,1,0001379171,Common Stock
+A,10/22/2021 00:00:00,CARREL MICHAEL H,4,A-Award,--D,2261,13261,1,0001230584,Common Stock
+D,09/30/2021 00:00:00,COHEN RAYMOND W,5,G-Gift,--D,28000,293635,5,0001258288,Common Stock
+D,09/09/2021 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,50000,234607,1,0001258288,Common Stock
+D,09/02/2021 00:00:00,Woock John,4,M-Exempt,--D,1557,11200,5,0001756437,Stock Option (Right to Buy)
+D,09/02/2021 00:00:00,Woock John,4,S-Sale,--D,1557,24932,3,0001756437,Common Stock
+D,09/01/2021 00:00:00,Woock John,4,M-Exempt,--D,3443,12757,4,0001756437,Stock Option (Right to Buy)
+D,09/01/2021 00:00:00,Woock John,4,S-Sale,--D,8443,26489,2,0001756437,Common Stock
+A,09/01/2021 00:00:00,Woock John,4,M-Exempt,--D,5000,34932,1,0001756437,Common Stock
+D,08/17/2021 00:00:00,Woock John,4,S-Sale,--D,200,29932,4,0001756437,Common Stock
+D,08/17/2021 00:00:00,Woock John,4,S-Sale,--D,5901,30132,3,0001756437,Common Stock
+D,08/17/2021 00:00:00,Woock John,4,S-Sale,--D,13501,36033,2,0001756437,Common Stock
+D,08/17/2021 00:00:00,Woock John,4,S-Sale,--D,5398,49534,1,0001756437,Common Stock
+D,08/05/2021 00:00:00,Kiernan Jane E,4,M-Exempt,--D,10000,0,6,0001379171,Stock Options (Right to buy)
+D,08/05/2021 00:00:00,Kiernan Jane E,4,M-Exempt,--D,4167,0,5,0001379171,Stock Options (Right to buy)
+A,08/05/2021 00:00:00,Kiernan Jane E,4,M-Exempt,--D,4167,21761,2,0001379171,Common Stock
+A,08/05/2021 00:00:00,Kiernan Jane E,4,M-Exempt,--D,10000,17594,1,0001379171,Common Stock
+A,07/15/2021 00:00:00,Lopez Esteban,4,A-Award,--D,10000,10000,2,0001839999,Stock Options (Right to buy)
+A,07/15/2021 00:00:00,Lopez Esteban,4,A-Award,--D,3500,3500,1,0001839999,Common Stock
+D,07/02/2021 00:00:00,COHEN RAYMOND W,5,G-Gift,--D,5000,321635,4,0001258288,Common Stock
+D,06/11/2021 00:00:00,Sama Rinda,4,M-Exempt,--D,2638,36568,4,0001756399,Stock Option (Right to Buy)
+D,06/11/2021 00:00:00,Sama Rinda,4,S-Sale,--D,2638,28898,2,0001756399,Common Stock
+A,06/11/2021 00:00:00,Sama Rinda,4,M-Exempt,--D,2638,31536,1,0001756399,Common Stock
+D,06/10/2021 00:00:00,Sama Rinda,4,M-Exempt,--D,1362,39206,7,0001756399,Stock Option (Right to Buy)
+D,06/10/2021 00:00:00,Sama Rinda,4,S-Sale,--D,1362,28898,4,0001756399,Common Stock
+A,06/10/2021 00:00:00,Sama Rinda,4,M-Exempt,--D,1362,30260,3,0001756399,Common Stock
+D,06/08/2021 00:00:00,Sama Rinda,4,M-Exempt,--D,1000,40568,6,0001756399,Stock Option (Right to Buy)
+D,06/08/2021 00:00:00,Sama Rinda,4,S-Sale,--D,1000,28898,2,0001756399,Common Stock
+A,06/08/2021 00:00:00,Sama Rinda,4,M-Exempt,--D,1000,29898,1,0001756399,Common Stock
+D,06/08/2021 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,33333,284607,1,0001258288,Common Stock
+D,05/21/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,5875,28921,13,0001756438,Stock Option (Right to Buy)
+D,05/21/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,991,10934,12,0001756438,Stock Option (Right to Buy)
+D,05/21/2021 00:00:00,Dearen Danny L.,4,S-Sale,--D,6866,10000,8,0001756438,Common Stock
+A,05/21/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,5875,16866,7,0001756438,Common Stock
+A,05/21/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,991,10991,6,0001756438,Common Stock
+D,05/20/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,5142,11925,11,0001756438,Stock Option (Right to Buy)
+D,05/20/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,9701,1616,10,0001756438,Stock Option (Right to Buy)
+D,05/20/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,28291,63273,9,0001756438,Stock Option (Right to Buy)
+D,05/20/2021 00:00:00,Dearen Danny L.,4,S-Sale,--D,24618,10000,5,0001756438,Common Stock
+D,05/20/2021 00:00:00,Dearen Danny L.,4,S-Sale,--D,18516,34618,4,0001756438,Common Stock
+A,05/20/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,5142,53134,3,0001756438,Common Stock
+A,05/20/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,9701,47992,2,0001756438,Common Stock
+A,05/20/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,28291,38291,1,0001756438,Common Stock
+D,05/18/2021 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,32833,317940,1,0001258288,Common Stock
+D,05/11/2021 00:00:00,Sama Rinda,4,M-Exempt,--D,8300,18263,9,0001756399,Stock Option (Right to Buy)
+D,05/11/2021 00:00:00,Sama Rinda,4,M-Exempt,--D,3681,41568,8,0001756399,Stock Option (Right to Buy)
+D,05/11/2021 00:00:00,Sama Rinda,4,M-Exempt,--D,2622,6294,7,0001756399,Stock Option (Right to Buy)
+D,05/11/2021 00:00:00,Sama Rinda,4,S-Sale,--D,4838,28898,5,0001756399,Common Stock
+D,05/11/2021 00:00:00,Sama Rinda,4,S-Sale,--D,20162,33736,4,0001756399,Common Stock
+A,05/11/2021 00:00:00,Sama Rinda,4,M-Exempt,--D,8300,53898,3,0001756399,Common Stock
+A,05/11/2021 00:00:00,Sama Rinda,4,M-Exempt,--D,3681,45598,2,0001756399,Common Stock
+A,05/11/2021 00:00:00,Sama Rinda,4,M-Exempt,--D,2622,41917,1,0001756399,Common Stock
+D,05/10/2021 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,2770,350773,3,0001258288,Common Stock
+D,05/10/2021 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,17954,353543,2,0001258288,Common Stock
+D,05/10/2021 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,13109,371497,1,0001258288,Common Stock
+D,05/05/2021 00:00:00,COHEN RAYMOND W,5,G-Gift,--D,3000,326635,3,0001258288,Common Stock
+D,04/21/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,15103,91564,11,0001756438,Stock Option (Right to Buy)
+D,04/21/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,9897,3718,10,0001756438,Stock Option (Right to Buy)
+D,04/21/2021 00:00:00,Dearen Danny L.,4,S-Sale,--D,8046,10000,8,0001756438,Common Stock
+D,04/21/2021 00:00:00,Dearen Danny L.,4,S-Sale,--D,14382,18046,7,0001756438,Common Stock
+D,04/21/2021 00:00:00,Dearen Danny L.,4,S-Sale,--D,2572,32428,6,0001756438,Common Stock
+A,04/21/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,15103,35000,5,0001756438,Common Stock
+A,04/21/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,9897,19897,4,0001756438,Common Stock
+D,04/20/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,1265,13615,9,0001756438,Stock Option (Right to Buy)
+D,04/20/2021 00:00:00,Dearen Danny L.,4,S-Sale,--D,1769,10000,3,0001756438,Common Stock
+D,04/20/2021 00:00:00,Dearen Danny L.,4,S-Sale,--D,73231,11769,2,0001756438,Common Stock
+A,04/20/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,1265,85000,1,0001756438,Common Stock
+D,04/19/2021 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,14871,8509,10,0001359446,Stock Option (Right to Buy)
+D,04/19/2021 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,5721,1899,9,0001359446,Stock Option (Right to Buy)
+D,04/19/2021 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,19258,16297,8,0001359446,Stock Option (Right to Buy)
+D,04/19/2021 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,6347,13965,7,0001359446,Stock Option (Right to Buy)
+D,04/19/2021 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,12502,5625,6,0001359446,Common Stock
+D,04/19/2021 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,41794,18127,5,0001359446,Common Stock
+A,04/19/2021 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,6347,59921,4,0001359446,Common Stock
+A,04/19/2021 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,19258,53574,3,0001359446,Common Stock
+A,04/19/2021 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,5721,34316,2,0001359446,Common Stock
+A,04/19/2021 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,14871,28595,1,0001359446,Common Stock
+D,04/16/2021 00:00:00,Sama Rinda,4,S-Sale,--D,1152,39295,4,0001756399,Common Stock
+D,04/15/2021 00:00:00,Sama Rinda,4,S-Sale,--D,23848,40447,3,0001756399,Common Stock
+D,04/15/2021 00:00:00,Sama Rinda,4,S-Sale,--D,14873,64295,2,0001756399,Common Stock
+D,04/15/2021 00:00:00,Sama Rinda,4,S-Sale,--D,35127,79168,1,0001756399,Common Stock
+D,02/25/2021 00:00:00,Woock John,4,S-Sale,--D,5229,54932,2,0001756437,Common Stock
+D,02/25/2021 00:00:00,Woock John,4,S-Sale,--D,4771,60161,1,0001756437,Common Stock
+D,02/05/2021 00:00:00,COHEN RAYMOND W,5,G-Gift,--D,5000,329635,2,0001258288,Common Stock
+D,02/01/2021 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,2667,0,7,0001359446,Performance-Based Restricted Stock Units
+D,02/01/2021 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,132,13724,4,0001359446,Common Stock
+D,02/01/2021 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,1751,13856,3,0001359446,Common Stock
+A,02/01/2021 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,5334,15607,2,0001359446,Common Stock
+D,02/01/2021 00:00:00,Sama Rinda,4,M-Exempt,--D,5667,0,8,0001756399,Performance-Based Restricted Stock Units
+D,02/01/2021 00:00:00,Sama Rinda,4,S-Sale,--D,298,114295,4,0001756399,Common Stock
+D,02/01/2021 00:00:00,Sama Rinda,4,S-Sale,--D,3964,114593,3,0001756399,Common Stock
+A,02/01/2021 00:00:00,Sama Rinda,4,M-Exempt,--D,11334,118557,2,0001756399,Common Stock
+D,02/01/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,8000,0,7,0001756438,Performance-Based Restricted Stock Units
+D,02/01/2021 00:00:00,Dearen Danny L.,4,S-Sale,--D,507,83735,4,0001756438,Common Stock
+D,02/01/2021 00:00:00,Dearen Danny L.,4,S-Sale,--D,6751,84242,3,0001756438,Common Stock
+A,02/01/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,16000,90993,2,0001756438,Common Stock
+D,02/01/2021 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,16667,0,7,0001258288,Performance-Based Restricted Stock Units
+D,02/01/2021 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,952,456096,4,0001258288,Common Stock
+D,02/01/2021 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,12675,457048,3,0001258288,Common Stock
+A,02/01/2021 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,33334,469723,2,0001258288,Common Stock
+D,02/01/2021 00:00:00,Woock John,4,M-Exempt,--D,2667,0,9,0001756437,Performance-Based Restricted Stock Units
+D,02/01/2021 00:00:00,Woock John,4,S-Sale,--D,1917,64932,6,0001756437,Common Stock
+A,02/01/2021 00:00:00,Woock John,4,M-Exempt,--D,5334,66849,5,0001756437,Common Stock
+A,01/31/2021 00:00:00,Demski David M,4,A-Award,--D,10000,10000,2,0001555392,Stock Options (Right to buy)
+A,01/31/2021 00:00:00,Demski David M,4,A-Award,--D,3500,3500,1,0001555392,Common Stock
+A,01/31/2021 00:00:00,Ford Alfred J Jr,4,A-Award,--D,5625,5625,6,0001359446,Performance-Based Restricted Stock Units
+A,01/31/2021 00:00:00,Ford Alfred J Jr,4,A-Award,--D,10000,10000,5,0001359446,Performance-Based Restricted Stock Units
+A,01/31/2021 00:00:00,Ford Alfred J Jr,4,A-Award,--D,5625,10273,1,0001359446,Common Stock
+A,01/31/2021 00:00:00,Sama Rinda,4,A-Award,--D,10000,10000,7,0001756399,Performance-Based Restricted Stock Units
+A,01/31/2021 00:00:00,Sama Rinda,4,A-Award,--D,10833,10833,6,0001756399,Performance-Based Restricted Stock Units
+A,01/31/2021 00:00:00,Sama Rinda,4,A-Award,--D,10000,107223,1,0001756399,Common Stock
+A,01/31/2021 00:00:00,Dearen Danny L.,4,A-Award,--D,10000,10000,6,0001756438,Performance-Based Restricted Stock Units
+A,01/31/2021 00:00:00,Dearen Danny L.,4,A-Award,--D,10833,10833,5,0001756438,Performance-Based Restricted Stock Units
+A,01/31/2021 00:00:00,Dearen Danny L.,4,A-Award,--D,10000,74993,1,0001756438,Common Stock
+A,01/31/2021 00:00:00,COHEN RAYMOND W,4,A-Award,--D,42500,42500,6,0001258288,Performance-Based Restricted Stock Units
+A,01/31/2021 00:00:00,COHEN RAYMOND W,4,A-Award,--D,20000,20000,5,0001258288,Performance-Based Restricted Stock Units
+A,01/31/2021 00:00:00,COHEN RAYMOND W,4,A-Award,--D,20000,436389,1,0001258288,Common Stock
+A,01/31/2021 00:00:00,Woock John,4,A-Award,--D,5625,5625,8,0001756437,Performance-Based Restricted Stock Units
+A,01/31/2021 00:00:00,Woock John,4,A-Award,--D,10000,10000,7,0001756437,Performance-Based Restricted Stock Units
+A,01/31/2021 00:00:00,Woock John,4,A-Award,--D,5625,61515,4,0001756437,Common Stock
+D,01/28/2021 00:00:00,Woock John,4,S-Sale,--D,300,55890,3,0001756437,Common Stock
+D,01/28/2021 00:00:00,Woock John,4,S-Sale,--D,7129,56190,2,0001756437,Common Stock
+D,01/28/2021 00:00:00,Woock John,4,S-Sale,--D,7571,63319,1,0001756437,Common Stock
+D,01/26/2021 00:00:00,Sama Rinda,4,M-Exempt,--D,9239,0,4,0001756399,Performance-Based Restricted Stock Units
+D,01/26/2021 00:00:00,Sama Rinda,4,S-Sale,--D,3217,97223,2,0001756399,Common Stock
+A,01/26/2021 00:00:00,Sama Rinda,4,M-Exempt,--D,9239,100440,1,0001756399,Common Stock
+D,01/26/2021 00:00:00,Woock John,4,M-Exempt,--D,5435,0,3,0001756437,Performance-Based Restricted Stock Units
+D,01/26/2021 00:00:00,Woock John,4,S-Sale,--D,1893,70890,2,0001756437,Common Stock
+A,01/26/2021 00:00:00,Woock John,4,M-Exempt,--D,5435,72783,1,0001756437,Common Stock
+D,01/26/2021 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,7065,0,3,0001359446,Performance-Based Restricted Stock Units
+D,01/26/2021 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,2417,4648,2,0001359446,Common Stock
+A,01/26/2021 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,7065,7065,1,0001359446,Common Stock
+D,01/26/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,13043,0,3,0001756438,Performance-Based Restricted Stock Units
+D,01/26/2021 00:00:00,Dearen Danny L.,4,S-Sale,--D,4541,64993,2,0001756438,Common Stock
+A,01/26/2021 00:00:00,Dearen Danny L.,4,M-Exempt,--D,13043,69534,1,0001756438,Common Stock
+D,01/26/2021 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,27173,0,3,0001258288,Performance-Based Restricted Stock Units
+D,01/26/2021 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,7842,416389,2,0001258288,Common Stock
+A,01/26/2021 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,27173,424231,1,0001258288,Common Stock
+D,01/13/2021 00:00:00,MCNAMARA ROBERT E,4,S-Sale,--D,9167,7500,1,0001361535,Common Stock
+D,01/08/2021 00:00:00,COHEN RAYMOND W,5,G-Gift,--D,5000,334635,1,0001258288,Common Stock
+D,12/08/2020 00:00:00,Sama Rinda,4,S-Sale,--D,8763,91201,1,0001756399,Common Stock
+D,11/27/2020 00:00:00,Woock John,4,M-Exempt,--D,10000,4178,5,0001756437,Stock Option (Right to Buy)
+D,11/27/2020 00:00:00,Woock John,4,S-Sale,--D,7500,67348,4,0001756437,Common Stock
+D,11/27/2020 00:00:00,Woock John,4,S-Sale,--D,100,74848,3,0001756437,Common Stock
+D,11/27/2020 00:00:00,Woock John,4,S-Sale,--D,2400,74948,2,0001756437,Common Stock
+A,11/27/2020 00:00:00,Woock John,4,M-Exempt,--D,10000,77348,1,0001756437,Common Stock
+D,11/25/2020 00:00:00,Sama Rinda,4,S-Sale,--D,10000,99964,1,0001756399,Common Stock
+D,11/04/2020 00:00:00,Sama Rinda,4,S-Sale,--D,2600,109964,1,0001756399,Common Stock
+D,11/03/2020 00:00:00,Sama Rinda,4,S-Sale,--D,300,112564,9,0001756399,Common Stock
+D,10/30/2020 00:00:00,Sama Rinda,4,S-Sale,--D,1100,112864,8,0001756399,Common Stock
+D,10/30/2020 00:00:00,Sama Rinda,4,S-Sale,--D,6037,113964,7,0001756399,Common Stock
+D,10/29/2020 00:00:00,Sama Rinda,4,M-Exempt,--D,2627,8916,13,0001756399,Stock Option (Right to Buy)
+D,10/29/2020 00:00:00,Sama Rinda,4,M-Exempt,--D,2863,45249,12,0001756399,Stock Option (Right to Buy)
+D,10/29/2020 00:00:00,Sama Rinda,4,M-Exempt,--D,7373,48112,11,0001756399,Stock Option (Right to Buy)
+D,10/29/2020 00:00:00,Sama Rinda,4,S-Sale,--D,2863,120001,6,0001756399,Common Stock
+D,10/29/2020 00:00:00,Sama Rinda,4,S-Sale,--D,3800,122864,5,0001756399,Common Stock
+D,10/29/2020 00:00:00,Sama Rinda,4,S-Sale,--D,6200,126664,4,0001756399,Common Stock
+A,10/29/2020 00:00:00,Sama Rinda,4,M-Exempt,--D,2863,132864,3,0001756399,Common Stock
+A,10/29/2020 00:00:00,Sama Rinda,4,M-Exempt,--D,2627,130001,2,0001756399,Common Stock
+A,10/29/2020 00:00:00,Sama Rinda,4,M-Exempt,--D,7373,127374,1,0001756399,Common Stock
+D,09/18/2020 00:00:00,Tammenoms Bakker Juliet,4,S-Sale,--D,9167,3500,1,0001431159,Common Stock
+D,09/15/2020 00:00:00,COHEN RAYMOND W,5,G-Gift,--D,25000,384606,3,0001258288,Common Stock
+D,09/02/2020 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,35000,23380,6,0001359446,Stock Option (Right to Buy)
+D,09/02/2020 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,226,0,5,0001359446,Common Stock
+D,09/02/2020 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,23743,226,4,0001359446,Common Stock
+D,09/02/2020 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,11031,23969,3,0001359446,Common Stock
+A,09/02/2020 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,35000,35000,2,0001359446,Common Stock
+D,08/31/2020 00:00:00,Ford Alfred J Jr,4,S-Sale,--D,2667,0,1,0001359446,Common Stock
+D,08/28/2020 00:00:00,Woock John,4,M-Exempt,--D,5000,2793,6,0001756437,Stock Option (Right to Buy)
+D,08/28/2020 00:00:00,Woock John,4,M-Exempt,--D,5000,16200,5,0001756437,Stock Option (Right to Buy)
+D,08/28/2020 00:00:00,Woock John,4,S-Sale,--D,5000,67348,4,0001756437,Common Stock
+D,08/28/2020 00:00:00,Woock John,4,S-Sale,--D,5000,72348,3,0001756437,Common Stock
+A,08/28/2020 00:00:00,Woock John,4,M-Exempt,--D,5000,77348,2,0001756437,Common Stock
+A,08/28/2020 00:00:00,Woock John,4,M-Exempt,--D,5000,72348,1,0001756437,Common Stock
+A,08/24/2020 00:00:00,snyderman nancy lynn MD,4,A-Award,--D,3500,12583,1,0001675198,Common Stock
+A,08/24/2020 00:00:00,Kiernan Jane E,4,A-Award,--D,3500,10583,1,0001379171,Common Stock
+A,08/24/2020 00:00:00,CARREL MICHAEL H,4,A-Award,--D,3500,11000,1,0001230584,Common Stock
+A,08/24/2020 00:00:00,MCNAMARA ROBERT E,4,A-Award,--D,3500,16667,1,0001361535,Common Stock
+A,08/24/2020 00:00:00,Tammenoms Bakker Juliet,4,A-Award,--D,3500,12667,1,0001431159,Common Stock
+A,08/24/2020 00:00:00,Amble Erik,4,A-Award,--D,3500,12667,1,0001756337,Common Stock
+D,08/18/2020 00:00:00,COHEN RAYMOND W,5,G-Gift,--D,45490,409606,2,0001258288,Common Stock
+D,08/14/2020 00:00:00,Tammenoms Bakker Juliet,4,S-Sale,--D,2393,9167,1,0001431159,Common Stock
+D,08/11/2020 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,11033,397058,5,0001258288,Common Stock
+D,08/11/2020 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,8808,408091,4,0001258288,Common Stock
+D,08/11/2020 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,5159,416899,3,0001258288,Common Stock
+A,08/10/2020 00:00:00,Tammenoms Bakker Juliet,4,J-Other,--D,2393,11560,3,0001431159,Common Stock
+A,08/10/2020 00:00:00,Tammenoms Bakker Juliet,4,J-Other,--I,1026,1026,2,0001431159,Common Stock
+D,08/10/2020 00:00:00,Tammenoms Bakker Juliet,4,J-Other,--I,978000,1955333,1,0001431159,Common Stock
+D,08/07/2020 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,3367,422058,2,0001258288,Common Stock
+D,08/07/2020 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,16633,425425,1,0001258288,Common Stock
+D,08/07/2020 00:00:00,Sama Rinda,4,S-Sale,--D,4300,120001,7,0001756399,Common Stock
+D,08/07/2020 00:00:00,Sama Rinda,4,S-Sale,--D,10260,124301,6,0001756399,Common Stock
+D,08/07/2020 00:00:00,Sama Rinda,4,S-Sale,--D,6073,134561,5,0001756399,Common Stock
+D,08/07/2020 00:00:00,Sama Rinda,4,S-Sale,--D,9367,140634,4,0001756399,Common Stock
+D,08/06/2020 00:00:00,Sama Rinda,4,S-Sale,--D,300,150001,3,0001756399,Common Stock
+D,08/06/2020 00:00:00,Sama Rinda,4,S-Sale,--D,3527,150301,2,0001756399,Common Stock
+D,08/06/2020 00:00:00,Sama Rinda,4,S-Sale,--D,16173,153828,1,0001756399,Common Stock
+D,07/29/2020 00:00:00,Sama Rinda,4,S-Sale,--D,1292,170001,2,0001756399,Common Stock
+D,07/28/2020 00:00:00,Sama Rinda,4,S-Sale,--D,13708,171293,1,0001756399,Common Stock
+D,07/21/2020 00:00:00,Sama Rinda,4,M-Exempt,--D,13127,55485,11,0001756399,Stock Option (Right to Buy)
+D,07/21/2020 00:00:00,Sama Rinda,4,S-Sale,--D,4000,185001,7,0001756399,Common Stock
+D,07/21/2020 00:00:00,Sama Rinda,4,S-Sale,--D,10400,189001,6,0001756399,Common Stock
+A,07/21/2020 00:00:00,Sama Rinda,4,M-Exempt,--D,13127,199401,5,0001756399,Common Stock
+D,07/20/2020 00:00:00,Sama Rinda,4,M-Exempt,--D,13657,11543,10,0001756399,Stock Option (Right to Buy)
+D,07/20/2020 00:00:00,Sama Rinda,4,M-Exempt,--D,6943,68612,9,0001756399,Stock Option (Right to Buy)
+D,07/20/2020 00:00:00,Sama Rinda,4,S-Sale,--D,900,186274,4,0001756399,Common Stock
+D,07/20/2020 00:00:00,Sama Rinda,4,S-Sale,--D,19700,187174,3,0001756399,Common Stock
+A,07/20/2020 00:00:00,Sama Rinda,4,M-Exempt,--D,6943,206874,2,0001756399,Common Stock
+A,07/20/2020 00:00:00,Sama Rinda,4,M-Exempt,--D,13657,199931,1,0001756399,Common Stock
+D,07/16/2020 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,25000,442058,4,0001258288,Common Stock
+D,07/15/2020 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,900,467058,3,0001258288,Common Stock
+D,07/15/2020 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,15472,467958,2,0001258288,Common Stock
+D,07/15/2020 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,8628,483430,1,0001258288,Common Stock
+D,07/14/2020 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,25000,492058,3,0001258288,Common Stock
+D,07/13/2020 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,200,517058,2,0001258288,Common Stock
+D,07/13/2020 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,24800,517258,1,0001258288,Common Stock
+D,07/07/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,709,34796,3,0001756438,Stock Option (Right to Buy)
+D,07/07/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,709,56491,2,0001756438,Common Stock
+A,07/07/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,709,57200,1,0001756438,Common Stock
+D,06/22/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,8890,8177,12,0001756438,Stock Option (Right to Buy)
+D,06/22/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,2015,14880,11,0001756438,Stock Option (Right to Buy)
+D,06/22/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,34095,35505,10,0001756438,Stock Option (Right to Buy)
+D,06/22/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,45000,56491,7,0001756438,Common Stock
+A,06/22/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,34095,101491,6,0001756438,Common Stock
+A,06/22/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,8890,67396,5,0001756438,Common Stock
+A,06/22/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,2015,58506,4,0001756438,Common Stock
+D,06/18/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,2251,17067,9,0001756438,Stock Option (Right to Buy)
+D,06/18/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,27749,16895,8,0001756438,Stock Option (Right to Buy)
+D,06/18/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,30000,56491,3,0001756438,Common Stock
+A,06/18/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,2251,86491,2,0001756438,Common Stock
+A,06/18/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,27749,84240,1,0001756438,Common Stock
+D,05/19/2020 00:00:00,Sama Rinda,4,S-Sale,--D,20,186274,1,0001756399,Common Stock
+D,05/19/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,5222,19318,13,0001756438,Stock Option (Right to Buy)
+D,05/19/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,9778,11317,12,0001756438,Stock Option (Right to Buy)
+D,05/19/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,15000,56491,8,0001756438,Common Stock
+A,05/19/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,15000,71491,7,0001756438,Common Stock
+D,05/18/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,15000,21095,11,0001756438,Stock Option (Right to Buy)
+D,05/18/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,15000,56491,6,0001756438,Common Stock
+A,05/18/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,15000,71491,5,0001756438,Common Stock
+D,05/15/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,2722,36095,10,0001756438,Stock Option (Right to Buy)
+D,05/15/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,27278,0,9,0001756438,Stock Option (Right to Buy)
+D,05/15/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,15000,56491,4,0001756438,Common Stock
+D,05/15/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,15000,71491,3,0001756438,Common Stock
+A,05/15/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,27278,86491,2,0001756438,Common Stock
+A,05/15/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,2722,59213,1,0001756438,Common Stock
+D,05/14/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,20000,27278,11,0001756438,Stock Option (Right to Buy)
+D,05/14/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,129,56491,8,0001756438,Common Stock
+D,05/14/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,19871,56620,7,0001756438,Common Stock
+A,05/14/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,20000,76491,6,0001756438,Common Stock
+D,05/11/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,15000,47278,10,0001756438,Stock Option (Right to Buy)
+D,05/11/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,15000,62278,9,0001756438,Stock Option (Right to Buy)
+D,05/11/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,15000,56491,5,0001756438,Common Stock
+D,05/11/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,1900,71491,4,0001756438,Common Stock
+D,05/11/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,13100,73391,3,0001756438,Common Stock
+A,05/11/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,15000,86491,2,0001756438,Common Stock
+A,05/11/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,15000,71491,1,0001756438,Common Stock
+D,04/30/2020 00:00:00,Sama Rinda,4,S-Sale,--D,5000,186294,1,0001756399,common stock
+D,04/28/2020 00:00:00,COHEN RAYMOND W,5,G-Gift,--D,1000,455096,1,0001258288,Common Stock
+D,04/02/2020 00:00:00,Sama Rinda,4,S-Sale,--D,5000,191294,1,0001756399,Common Stock
+D,03/16/2020 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,41224,106776,4,0001258288,Stock Option (Right to Buy)
+D,03/16/2020 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,6955,542058,3,0001258288,Common Stock
+D,03/16/2020 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,34269,549013,2,0001258288,Common Stock
+A,03/16/2020 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,41224,583282,1,0001258288,Common Stock
+D,03/05/2020 00:00:00,Sama Rinda,4,S-Sale,--D,5000,196294,1,0001756399,Common Stock
+D,03/02/2020 00:00:00,Dearen Danny L.,4/A,M-Exempt,--D,4147,77278,3,0001756438,Stock Option (Right to Buy)
+D,03/02/2020 00:00:00,Dearen Danny L.,4/A,S-Sale,--D,4147,56491,2,0001756438,Common Stock
+A,03/02/2020 00:00:00,Dearen Danny L.,4/A,M-Exempt,--D,4147,60638,1,0001756438,Common Stock
+D,03/02/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,4147,125234,3,0001756438,Stock Option (Right to Buy)
+D,03/02/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,4147,8535,2,0001756438,Common Stock
+A,03/02/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,4147,12682,1,0001756438,Common Stock
+D,02/26/2020 00:00:00,Dearen Danny L.,4/A,M-Exempt,--D,15853,81425,4,0001756438,Stock Option (Right to Buy)
+D,02/26/2020 00:00:00,Dearen Danny L.,4/A,S-Sale,--D,7853,56491,3,0001756438,Common Stock
+D,02/26/2020 00:00:00,Dearen Danny L.,4/A,S-Sale,--D,8000,64344,2,0001756438,Common Stock
+A,02/26/2020 00:00:00,Dearen Danny L.,4/A,M-Exempt,--D,15853,72344,1,0001756438,Common Stock
+D,02/26/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,8000,129381,4,0001756438,Stock Option (Right to Buy)
+D,02/26/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,7853,8535,3,0001756438,Common Stock
+D,02/26/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,8000,16388,2,0001756438,Common Stock
+A,02/26/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,8000,24388,1,0001756438,Common Stock
+D,02/25/2020 00:00:00,Woock John,4,M-Exempt,--D,10000,21200,3,0001756437,Stock Option (Right to Buy)
+D,02/25/2020 00:00:00,Woock John,4,S-Sale,--D,10000,67348,2,0001756437,Common Stock
+A,02/25/2020 00:00:00,Woock John,4,M-Exempt,--D,10000,77348,1,0001756437,Common Stock
+D,02/18/2020 00:00:00,Dearen Danny L.,4/A,S-Sale,--D,20000,56491,3,0001756438,Common Stock
+D,02/18/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,20000,16388,2,0001756438,Common Stock
+D,02/13/2020 00:00:00,Dearen Danny L.,4/A,M-Exempt,--D,20103,97278,4,0001756438,Stock Option (Right to Buy)
+D,02/13/2020 00:00:00,Dearen Danny L.,4/A,S-Sale,--D,103,76491,2,0001756438,Common Stock
+A,02/13/2020 00:00:00,Dearen Danny L.,4/A,M-Exempt,--D,20103,76594,1,0001756438,Common Stock
+D,02/13/2020 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,10000,148000,3,0001258288,Stock Option (Right to Buy)
+D,02/13/2020 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,10000,542058,2,0001258288,Common Stock
+A,02/13/2020 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,10000,552058,1,0001258288,Common Stock
+D,02/13/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,103,36388,1,0001756438,Common Stock
+D,02/06/2020 00:00:00,Sama Rinda,4,S-Sale,--D,5000,201294,1,0001756399,Common Stock
+D,01/30/2020 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,16667,0,2,0001258288,Performance-Based Restricted Stock Units
+A,01/30/2020 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,16667,625058,1,0001258288,Common Stock
+D,01/30/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,8000,0,2,0001756438,Performance-Based Restricted Stock Units
+A,01/30/2020 00:00:00,Dearen Danny L.,4,M-Exempt,--D,8000,36491,1,0001756438,Common Stock
+D,01/30/2020 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,2667,0,2,0001359446,Performance-Based Restricted Stock Units
+A,01/30/2020 00:00:00,Ford Alfred J Jr,4,M-Exempt,--D,2667,2667,1,0001359446,Common Stock
+D,01/30/2020 00:00:00,Sama Rinda,4,M-Exempt,--D,5667,0,3,0001756399,Performance-Based Restricted Stock Units
+A,01/30/2020 00:00:00,Sama Rinda,4,M-Exempt,--D,5667,206294,1,0001756399,Common Stock
+D,01/30/2020 00:00:00,Woock John,4,M-Exempt,--D,2667,0,2,0001756437,Performance-Based Restricted Stock Units
+A,01/30/2020 00:00:00,Woock John,4,M-Exempt,--D,2667,67348,1,0001756437,Common Stock
+D,01/28/2020 00:00:00,Woock John,4,S-Sale,--D,15000,64681,1,0001756437,Common Stock
+D,01/23/2020 00:00:00,Dearen Danny L.,4/A,M-Exempt,--D,20000,117381,3,0001756438,Stock Option (Right to Buy)
+D,01/23/2020 00:00:00,Dearen Danny L.,4/A,S-Sale,--D,20000,48491,2,0001756438,Common Stock
+A,01/23/2020 00:00:00,Dearen Danny L.,4/A,M-Exempt,--D,20000,68491,1,0001756438,Common Stock
+D,01/23/2020 00:00:00,Dearen Danny L.,4,S-Sale,--D,20000,28491,1,0001756438,Common Stock
+D,01/22/2020 00:00:00,Andera Partners,4,S-Sale,--I,135261,2957461,2,0001757283,Common Stock
+D,01/22/2020 00:00:00,Wisniewski Raphael,4,S-Sale,--I,135261,2957461,2,0001578307,Common Stock
+D,01/17/2020 00:00:00,Andera Partners,4,S-Sale,--I,164739,3092722,1,0001757283,Common Stock
+D,01/17/2020 00:00:00,Wisniewski Raphael,4,S-Sale,--I,164739,3092722,1,0001578307,Common Stock
+D,01/13/2020 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,10000,158000,3,0001258288,Stock Option (Right to Buy)
+D,01/13/2020 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,10000,608391,2,0001258288,Common Stock
+A,01/13/2020 00:00:00,COHEN RAYMOND W,4,M-Exempt,--D,10000,618391,1,0001258288,Common Stock
+D,01/02/2020 00:00:00,Sama Rinda,4,S-Sale,--D,5000,200627,1,0001756399,Common Stock
+D,12/19/2019 00:00:00,Dearen Danny L.,4,S-Sale,--D,30000,48491,1,0001756438,Common Stock
+A,12/12/2019 00:00:00,Woock John,4,A-Award,--D,15625,15625,3,0001756437,Stock Option (Right to Buy)
+A,12/12/2019 00:00:00,Woock John,4,A-Award,--D,5435,5435,2,0001756437,Performance-Based Restricted Stock Units
+A,12/12/2019 00:00:00,Woock John,4,A-Award,--D,5435,5435,1,0001756437,Performance-Based Restricted Stock Units
+A,12/12/2019 00:00:00,Ford Alfred J Jr,4,A-Award,--D,20312,20312,3,0001359446,Stock Option (Right to Buy)
+A,12/12/2019 00:00:00,Ford Alfred J Jr,4,A-Award,--D,7065,7065,2,0001359446,Performance-Based Restricted Stock Units
+A,12/12/2019 00:00:00,Ford Alfred J Jr,4,A-Award,--D,7065,7065,1,0001359446,Performance-Based Restricted Stock Units
+A,12/12/2019 00:00:00,Sama Rinda,4,A-Award,--D,26563,26563,3,0001756399,Stock Option (Right to Buy)
+A,12/12/2019 00:00:00,Sama Rinda,4,A-Award,--D,9239,9239,2,0001756399,Performance-Based Restricted Stock Units
+A,12/12/2019 00:00:00,Sama Rinda,4,A-Award,--D,9239,9239,1,0001756399,Performance-Based Restricted Stock Units
+A,12/12/2019 00:00:00,Dearen Danny L.,4,A-Award,--D,37500,37500,3,0001756438,Stock Option (Right to Buy)
+A,12/12/2019 00:00:00,Dearen Danny L.,4,A-Award,--D,13043,13043,2,0001756438,Performance-Based Restricted Stock Units
+A,12/12/2019 00:00:00,Dearen Danny L.,4,A-Award,--D,13043,13043,1,0001756438,Performance-Based Restricted Stock Units
+A,12/12/2019 00:00:00,COHEN RAYMOND W,4,A-Award,--D,78125,78125,3,0001258288,Stock Option (Right to Buy)
+A,12/12/2019 00:00:00,COHEN RAYMOND W,4,A-Award,--D,27173,27173,2,0001258288,Performance-Based Restricted Stock Units
+A,12/12/2019 00:00:00,COHEN RAYMOND W,4,A-Award,--D,27173,27173,1,0001258288,Performance-Based Restricted Stock Units
+D,12/05/2019 00:00:00,Sama Rinda,4,S-Sale,--D,5000,205627,1,0001756399,Common Stock
+D,12/02/2019 00:00:00,Woock John,4,S-Sale,--D,500,79681,2,0001756437,Common Stock
+D,12/02/2019 00:00:00,Woock John,4,S-Sale,--D,14500,80181,1,0001756437,Common Stock
+D,11/22/2019 00:00:00,Andera Partners,4,S-Sale,--I,300000,3257461,1,0001757283,Common Stock
+D,11/21/2019 00:00:00,Dearen Danny L.,4,S-Sale,--D,30000,78491,1,0001756438,Common Stock
+D,11/19/2019 00:00:00,Wisniewski Raphael,4,S-Sale,--I,300000,3257461,1,0001578307,Common Stock
+D,11/19/2019 00:00:00,Dearen Danny L.,4,S-Sale,--D,30000,108491,1,0001756438,Common Stock
+D,11/19/2019 00:00:00,COHEN RAYMOND W,4,S-Sale,--D,75000,608391,1,0001258288,Common Stock
+D,10/30/2019 00:00:00,Sama Rinda,4,S-Sale,--D,5000,210627,1,0001756399,Common Stock
+D,10/01/2019 00:00:00,Sama Rinda,4,S-Sale,--D,5000,215627,1,0001756399,Common Stock
+A,08/22/2019 00:00:00,CARREL MICHAEL H,4,A-Award,--D,5000,5000,2,0001230584,Stock Option (Right to Buy)
+A,08/22/2019 00:00:00,CARREL MICHAEL H,4,A-Award,--D,2500,7500,1,0001230584,Common Stock
+A,08/22/2019 00:00:00,snyderman nancy lynn MD,4,A-Award,--D,4167,4167,2,0001675198,Stock Option (Right to Buy)
+A,08/22/2019 00:00:00,snyderman nancy lynn MD,4,A-Award,--D,2083,9083,1,0001675198,Common Stock
+A,08/22/2019 00:00:00,Kiernan Jane E,4,A-Award,--D,4167,4167,2,0001379171,Stock Option (Right to Buy)
+A,08/22/2019 00:00:00,Kiernan Jane E,4,A-Award,--D,2083,7083,1,0001379171,Common Stock
+A,08/22/2019 00:00:00,MCNAMARA ROBERT E,4,A-Award,--D,10000,10000,2,0001361535,Stock Option (Right to Buy)
+A,08/22/2019 00:00:00,MCNAMARA ROBERT E,4,A-Award,--D,5000,13167,1,0001361535,Common Stock
+A,08/22/2019 00:00:00,Tammenoms Bakker Juliet,4,A-Award,--D,10000,10000,3,0001431159,Stock Option (Right to Buy)
+A,08/22/2019 00:00:00,Tammenoms Bakker Juliet,4,A-Award,--D,5000,9167,1,0001431159,Common Stock
+A,08/22/2019 00:00:00,Amble Erik,4,A-Award,--D,10000,10000,3,0001756337,Stock Option (Right to Buy)
+A,08/22/2019 00:00:00,Amble Erik,4,A-Award,--D,5000,9167,1,0001756337,Common Stock
+A,08/06/2019 00:00:00,COHEN RAYMOND W,4,P-Purchase,--D,3500,683391,1,0001258288,Common Stock
+D,07/23/2019 00:00:00,Noblett Karen,4,M-Exempt,--D,8402,1198,4,0001756240,Stock Option (Right to Buy)
+D,07/23/2019 00:00:00,Noblett Karen,4,M-Exempt,--D,6002,11998,3,0001756240,Stock Option (Right to Buy)
+A,07/23/2019 00:00:00,Noblett Karen,4,M-Exempt,--D,6002,54124,2,0001756240,Common Stock
+A,07/23/2019 00:00:00,Noblett Karen,4,M-Exempt,--D,8402,48122,1,0001756240,Common Stock
+D,07/02/2019 00:00:00,Williamson Michael V.,4,S-Sale,--D,2944,152318,2,0001756441,Common Stock
+D,07/01/2019 00:00:00,Williamson Michael V.,4,S-Sale,--D,2056,155262,1,0001756441,Common Stock
+D,06/28/2019 00:00:00,Pardo Geoff,4,M-Exempt,--D,4167,0,5,0001756338,Stock Option (Right to Buy)
+D,06/28/2019 00:00:00,Pardo Geoff,4,S-Sale,--D,1695,4555,3,0001756338,Common Stock
+A,06/28/2019 00:00:00,Pardo Geoff,4,M-Exempt,--D,4167,6250,2,0001756338,Common Stock
+A,06/27/2019 00:00:00,Tammenoms Bakker Juliet,4/A,A-Award,--D,3333,3333,1,0001431159,Stock Option (Right to Buy)
+A,06/27/2019 00:00:00,MCNAMARA ROBERT E,4/A,A-Award,--D,3333,3333,1,0001361535,Stock Option (Right to Buy)
+A,06/27/2019 00:00:00,Amble Erik,4/A,A-Award,--D,3333,3333,1,0001756337,Stock Option (Right to Buy)
+A,06/27/2019 00:00:00,Tammenoms Bakker Juliet,4,A-Award,--D,5000,5000,3,0001431159,Stock Option (Right to Buy)
+A,06/27/2019 00:00:00,Tammenoms Bakker Juliet,4,A-Award,--D,1667,4167,1,0001431159,Common Stock
+A,06/27/2019 00:00:00,MCNAMARA ROBERT E,4,A-Award,--D,5000,5000,2,0001361535,Stock Option (Right to Buy)
+A,06/27/2019 00:00:00,MCNAMARA ROBERT E,4,A-Award,--D,1667,8167,1,0001361535,Common Stock
+A,06/27/2019 00:00:00,Amble Erik,4,A-Award,--D,5000,5000,3,0001756337,Stock Option (Right to Buy)
+A,06/27/2019 00:00:00,Amble Erik,4,A-Award,--D,1667,4167,1,0001756337,Common Stock
+A,06/27/2019 00:00:00,snyderman nancy lynn MD,4,P-Purchase,--D,2000,7000,1,0001675198,Common Stock
+D,06/19/2019 00:00:00,COHEN RAYMOND W,5,G-Gift,--D,15000,542058,4,0001258288,Common Stock
+D,06/18/2019 00:00:00,COHEN RAYMOND W,5,G-Gift,--D,15000,557058,3,0001258288,Common Stock
+D,06/17/2019 00:00:00,Williamson Michael V.,4,S-Sale,--D,5000,157318,1,0001756441,Common Stock
+D,06/04/2019 00:00:00,COHEN RAYMOND W,5,G-Gift,--D,50000,572058,2,0001258288,Common Stock
+D,05/09/2019 00:00:00,Sama Rinda,4,M-Exempt,--I,1800,0,16,0001756399,Stock Options (Right to buy)
+D,05/09/2019 00:00:00,Sama Rinda,4,M-Exempt,--I,1800,0,15,0001756399,Stock Options (Right to buy)
+D,05/09/2019 00:00:00,Sama Rinda,4,M-Exempt,--I,6228,1244,14,0001756399,Stock Options (Right to buy)
+D,05/09/2019 00:00:00,Sama Rinda,4,M-Exempt,--I,480,560,13,0001756399,Stock Options (Right to buy)
+D,05/09/2019 00:00:00,Sama Rinda,4,M-Exempt,--I,941,929,12,0001756399,Stock Options (Right to buy)
+D,05/09/2019 00:00:00,Sama Rinda,4,M-Exempt,--I,1225,2975,11,0001756399,Stock Options (Right to buy)
+D,05/09/2019 00:00:00,Sama Rinda,4,M-Exempt,--I,871,1021,10,0001756399,Stock Options (Right to buy)
+D,05/09/2019 00:00:00,Sama Rinda,4,S-Sale,--I,13345,4000,8,0001756399,Common Stock
+A,05/09/2019 00:00:00,Sama Rinda,4,M-Exempt,--I,1800,17345,7,0001756399,Common Stock
+A,05/09/2019 00:00:00,Sama Rinda,4,M-Exempt,--I,1800,15545,6,0001756399,Common Stock
+A,05/09/2019 00:00:00,Sama Rinda,4,M-Exempt,--I,6228,13745,5,0001756399,Common Stock
+A,05/09/2019 00:00:00,Sama Rinda,4,M-Exempt,--I,480,7517,4,0001756399,Common Stock
+A,05/09/2019 00:00:00,Sama Rinda,4,M-Exempt,--I,941,7037,3,0001756399,Common Stock
+A,05/09/2019 00:00:00,Sama Rinda,4,M-Exempt,--I,1225,6096,2,0001756399,Common Stock
+A,05/09/2019 00:00:00,Sama Rinda,4,M-Exempt,--I,871,4871,1,0001756399,Common Stock
+D,04/12/2019 00:00:00,Pardo Geoff,4,D-Return,--D,417,2083,1,0001756338,Common Stock
+A,04/08/2019 00:00:00,snyderman nancy lynn MD,4,A-Award,--D,10000,10000,2,0001675198,Stock Option (Right to Buy)
+A,04/08/2019 00:00:00,snyderman nancy lynn MD,4,A-Award,--D,5000,5000,1,0001675198,Common Stock
+A,04/08/2019 00:00:00,Kiernan Jane E,4,A-Award,--D,10000,10000,2,0001379171,Stock Option (Right to Buy)
+A,04/08/2019 00:00:00,Kiernan Jane E,4,A-Award,--D,5000,5000,1,0001379171,Common Stock
+A,03/06/2019 00:00:00,Sama Rinda,4,A-Award,--I,6500,6500,3,0001756399,Stock Option (Right to Buy)
+A,03/06/2019 00:00:00,Sama Rinda,4,A-Award,--I,4000,4000,1,0001756399,Common Stock
+A,02/27/2019 00:00:00,CARREL MICHAEL H,4,A-Award,--D,10000,10000,2,0001230584,Stock Option (Right to Buy)
+A,02/27/2019 00:00:00,CARREL MICHAEL H,4,A-Award,--D,5000,5000,1,0001230584,Common Stock
+A,01/30/2019 00:00:00,COHEN RAYMOND W,4,A-Award,--D,16667,16667,3,0001258288,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,COHEN RAYMOND W,4,A-Award,--D,16667,16667,2,0001258288,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,COHEN RAYMOND W,4,A-Award,--D,222222,222222,1,0001258288,Stock Option (Right to Buy)
+A,01/30/2019 00:00:00,Williamson Michael V.,4,A-Award,--D,2667,2667,3,0001756441,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,Williamson Michael V.,4,A-Award,--D,2667,2667,2,0001756441,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,Williamson Michael V.,4,A-Award,--D,35555,35555,1,0001756441,Stock Option (Right to Buy)
+A,01/30/2019 00:00:00,Jiang Guangqiang,4,A-Award,--D,2667,2667,3,0001756216,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,Jiang Guangqiang,4,A-Award,--D,2667,2667,2,0001756216,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,Jiang Guangqiang,4,A-Award,--D,35555,35555,1,0001756216,Stock Option (Right to Buy)
+A,01/30/2019 00:00:00,Woock John,4,A-Award,--D,2667,2667,3,0001756437,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,Woock John,4,A-Award,--D,2667,2667,2,0001756437,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,Woock John,4,A-Award,--D,35555,35555,1,0001756437,Stock Option (Right to Buy)
+A,01/30/2019 00:00:00,Noblett Karen,4,A-Award,--D,2667,2667,3,0001756240,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,Noblett Karen,4,A-Award,--D,2667,2667,2,0001756240,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,Noblett Karen,4,A-Award,--D,35555,35555,1,0001756240,Stock Option (Right to Buy)
+A,01/30/2019 00:00:00,Sama Rinda,4,A-Award,--D,5667,5667,3,0001756399,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,Sama Rinda,4,A-Award,--D,5667,5667,2,0001756399,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,Sama Rinda,4,A-Award,--D,75555,75555,1,0001756399,Stock Option (Right to Buy)
+A,01/30/2019 00:00:00,Dearen Danny L.,4,A-Award,--D,8000,8000,3,0001756438,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,Dearen Danny L.,4,A-Award,--D,8000,8000,2,0001756438,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,Dearen Danny L.,4,A-Award,--D,106667,106667,1,0001756438,Stock Option (Right to Buy)
+A,01/30/2019 00:00:00,MATHUR PRABODH,4,A-Award,--D,2667,2667,3,0000904634,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,MATHUR PRABODH,4,A-Award,--D,2667,2667,2,0000904634,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,MATHUR PRABODH,4,A-Award,--D,35555,35555,1,0000904634,Stock Option (Right to Buy)
+A,01/30/2019 00:00:00,Ford Alfred J Jr,4,A-Award,--D,2667,2667,3,0001359446,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,Ford Alfred J Jr,4,A-Award,--D,2667,2667,2,0001359446,Performance-Based Restricted Stock Units
+A,01/30/2019 00:00:00,Ford Alfred J Jr,4,A-Award,--D,35555,35555,1,0001359446,Stock Option (Right to Buy)
+D,01/06/2019 00:00:00,COHEN RAYMOND W,5,G-Gift,--D,3000,622058,1,0001258288,Common Stock
+A,12/06/2018 00:00:00,Pardo Geoff,4,A-Award,--D,5000,5000,3,0001756338,Stock Option (Right to Buy)
+A,12/06/2018 00:00:00,Pardo Geoff,4,A-Award,--D,2500,2500,1,0001756338,Common Stock
+A,12/06/2018 00:00:00,Amble Erik,4,A-Award,--D,5000,5000,3,0001756337,Stock Option (Right to Buy)
+A,12/06/2018 00:00:00,Amble Erik,4,A-Award,--D,2500,2500,1,0001756337,Common Stock
+A,12/06/2018 00:00:00,Tammenoms Bakker Juliet,4,A-Award,--D,5000,5000,3,0001431159,Stock Option (Right to Buy)
+A,12/06/2018 00:00:00,Tammenoms Bakker Juliet,4,A-Award,--D,2500,2500,1,0001431159,Common Stock
+A,12/06/2018 00:00:00,MCNAMARA ROBERT E,4,A-Award,--D,5000,5000,2,0001361535,Stock Option (Right to Buy)
+A,12/06/2018 00:00:00,MCNAMARA ROBERT E,4,A-Award,--D,2500,6500,1,0001361535,Common Stock
+A,12/06/2018 00:00:00,Petrovich John George,4,A-Award,--D,5000,5000,3,0001387382,Stock Option (Right to Buy)
+A,12/06/2018 00:00:00,Petrovich John George,4,A-Award,--D,2500,2500,1,0001387382,Common Stock
+A,12/06/2018 00:00:00,Malik Shahzad,4,A-Award,--D,5000,5000,4,0001380178,Stock Option (Right to Buy)
+A,12/06/2018 00:00:00,Malik Shahzad,4,A-Award,--D,2500,2500,1,0001380178,Common Stock
+D,11/02/2018 00:00:00,Pardo Geoff,4,C-Conversion,--I,1888888,0,3,0001756338,Series C Preferred Stock
+A,11/02/2018 00:00:00,Pardo Geoff,4,P-Purchase,--I,866666,3133332,2,0001756338,Common Stock
+A,11/02/2018 00:00:00,Pardo Geoff,4,C-Conversion,--I,2266666,2266666,1,0001756338,Common Stock
+D,11/02/2018 00:00:00,NeoMed Innovation V Ltd,4,C-Conversion,--I,308155,0,8,0001722666,Series C Preferred Stock
+D,11/02/2018 00:00:00,NeoMed Innovation V Ltd,4,C-Conversion,--I,203125,0,7,0001722666,Series B-2 Preferred Stock
+D,11/02/2018 00:00:00,NeoMed Innovation V Ltd,4,C-Conversion,--I,379675,0,6,0001722666,Series B-1 Preferred Stock
+D,11/02/2018 00:00:00,NeoMed Innovation V Ltd,4,C-Conversion,--I,195000,0,5,0001722666,Series A Preferred Stock
+A,11/02/2018 00:00:00,NeoMed Innovation V Ltd,4,C-Conversion,--I,369786,1520884,4,0001722666,Common Stock
+A,11/02/2018 00:00:00,NeoMed Innovation V Ltd,4,C-Conversion,--I,243750,1151098,3,0001722666,Common Stock
+A,11/02/2018 00:00:00,NeoMed Innovation V Ltd,4,C-Conversion,--I,455610,907348,2,0001722666,Common Stock
+A,11/02/2018 00:00:00,NeoMed Innovation V Ltd,4,C-Conversion,--I,451738,451738,1,0001722666,Common Stock
+D,11/02/2018 00:00:00,Malik Shahzad,4,C-Conversion,--I,337447,0,8,0001380178,Series C Preferred Stock
+D,11/02/2018 00:00:00,Malik Shahzad,4,C-Conversion,--I,12010,0,7,0001380178,Series C Preferred Stock
+D,11/02/2018 00:00:00,Malik Shahzad,4,C-Conversion,--I,1025981,0,6,0001380178,Series B-2 Preferred Stock
+D,11/02/2018 00:00:00,Malik Shahzad,4,C-Conversion,--I,36518,0,5,0001380178,Series B-2 Preferred Stock
+A,11/02/2018 00:00:00,Malik Shahzad,4,C-Conversion,--I,404937,1694349,4,0001380178,Common Stock
+A,11/02/2018 00:00:00,Malik Shahzad,4,C-Conversion,--I,14412,1289412,3,0001380178,Common Stock
+A,11/02/2018 00:00:00,Malik Shahzad,4,C-Conversion,--I,1231178,1275000,2,0001380178,Common Stock
+A,11/02/2018 00:00:00,Malik Shahzad,4,C-Conversion,--I,43822,43822,1,0001380178,Common Stock
+D,11/02/2018 00:00:00,Advent Life Sciences LLP,4,C-Conversion,--I,337447,0,8,0001601364,Series C Preferred Stock
+D,11/02/2018 00:00:00,Advent Life Sciences LLP,4,C-Conversion,--I,12010,0,7,0001601364,Series C Preferred Stock
+D,11/02/2018 00:00:00,Advent Life Sciences LLP,4,C-Conversion,--I,1025981,0,6,0001601364,Series B-2 Preferred Stock
+D,11/02/2018 00:00:00,Advent Life Sciences LLP,4,C-Conversion,--I,36518,0,5,0001601364,Series B-2 Preferred Stock
+A,11/02/2018 00:00:00,Advent Life Sciences LLP,4,C-Conversion,--I,404937,1694349,4,0001601364,Common Stock
+A,11/02/2018 00:00:00,Advent Life Sciences LLP,4,C-Conversion,--I,14412,1289412,3,0001601364,Common Stock
+A,11/02/2018 00:00:00,Advent Life Sciences LLP,4,C-Conversion,--I,1231178,1275000,2,0001601364,Common Stock
+A,11/02/2018 00:00:00,Advent Life Sciences LLP,4,C-Conversion,--I,43822,43822,1,0001601364,Common Stock
+D,11/02/2018 00:00:00,COHEN RAYMOND W,4,C-Conversion,--I,7300,0,2,0001258288,Series B-1 Preferred Stock
+A,11/02/2018 00:00:00,COHEN RAYMOND W,4,C-Conversion,--I,8760,688651,1,0001258288,Common Stock
+D,11/02/2018 00:00:00,Jiang Guangqiang,4,C-Conversion,--D,2188,0,2,0001756216,Series B-1 Preferred Stock
+A,11/02/2018 00:00:00,Jiang Guangqiang,4,C-Conversion,--D,2626,201896,1,0001756216,Common Stock
+D,11/02/2018 00:00:00,Amble Erik,4,C-Conversion,--I,308155,0,8,0001756337,Series C Preferred Stock
+D,11/02/2018 00:00:00,Amble Erik,4,C-Conversion,--I,203125,0,7,0001756337,Series B-2 Preferred Stock
+D,11/02/2018 00:00:00,Amble Erik,4,C-Conversion,--I,379675,0,6,0001756337,Series B-1 Preferred Stock
+D,11/02/2018 00:00:00,Amble Erik,4,C-Conversion,--I,195000,0,5,0001756337,Series A Preferred Stock
+A,11/02/2018 00:00:00,Amble Erik,4,C-Conversion,--I,369786,1520884,4,0001756337,Common Stock
+A,11/02/2018 00:00:00,Amble Erik,4,C-Conversion,--I,243750,1151098,3,0001756337,Common Stock
+A,11/02/2018 00:00:00,Amble Erik,4,C-Conversion,--I,455610,907348,2,0001756337,Common Stock
+A,11/02/2018 00:00:00,Amble Erik,4,C-Conversion,--I,451738,451738,1,0001756337,Common Stock
+D,11/02/2018 00:00:00,Andera Partners,4,C-Conversion,--I,545197,0,9,0001757283,Series C Preferred Stock
+D,11/02/2018 00:00:00,Andera Partners,4,C-Conversion,--I,359375,0,8,0001757283,Series B-2 Preferred Stock
+D,11/02/2018 00:00:00,Andera Partners,4,C-Conversion,--I,671733,0,7,0001757283,Series B-1 Preferred Stock
+D,11/02/2018 00:00:00,Andera Partners,4,C-Conversion,--I,345000,0,6,0001757283,Series A Preferred Stock
+A,11/02/2018 00:00:00,Andera Partners,4,P-Purchase,--I,866666,3557461,5,0001757283,Common Stock
+A,11/02/2018 00:00:00,Andera Partners,4,C-Conversion,--I,654237,2690795,4,0001757283,Common Stock
+A,11/02/2018 00:00:00,Andera Partners,4,C-Conversion,--I,431250,2036558,3,0001757283,Common Stock
+A,11/02/2018 00:00:00,Andera Partners,4,C-Conversion,--I,806080,1605308,2,0001757283,Common Stock
+A,11/02/2018 00:00:00,Andera Partners,4,C-Conversion,--I,799228,799228,1,0001757283,Common Stock
+D,11/02/2018 00:00:00,Wisniewski Raphael,4,C-Conversion,--I,545197,0,9,0001578307,Series C Preferred Stock
+D,11/02/2018 00:00:00,Wisniewski Raphael,4,C-Conversion,--I,359375,0,8,0001578307,Series B-2 Preferred Stock
+D,11/02/2018 00:00:00,Wisniewski Raphael,4,C-Conversion,--I,671733,0,7,0001578307,Series B-1 Preferred Stock
+D,11/02/2018 00:00:00,Wisniewski Raphael,4,C-Conversion,--I,345000,0,6,0001578307,Series A Preferred Stock
+A,11/02/2018 00:00:00,Wisniewski Raphael,4,P-Purchase,--I,866666,3557461,5,0001578307,Common Stock
+A,11/02/2018 00:00:00,Wisniewski Raphael,4,C-Conversion,--I,654237,2690795,4,0001578307,Common Stock
+A,11/02/2018 00:00:00,Wisniewski Raphael,4,C-Conversion,--I,431250,2036558,3,0001578307,Common Stock
+A,11/02/2018 00:00:00,Wisniewski Raphael,4,C-Conversion,--I,806080,1605308,2,0001578307,Common Stock
+A,11/02/2018 00:00:00,Wisniewski Raphael,4,C-Conversion,--I,799228,799228,1,0001578307,Common Stock
+D,11/02/2018 00:00:00,Gilde Healthcare Holding B.V.,4,C-Conversion,--I,1888888,0,3,0001420106,Series C Preferred Stock
+A,11/02/2018 00:00:00,Gilde Healthcare Holding B.V.,4,P-Purchase,--I,866666,3133332,2,0001420106,Common Stock
+A,11/02/2018 00:00:00,Gilde Healthcare Holding B.V.,4,C-Conversion,--I,2266666,2266666,1,0001420106,Common Stock
+D,11/02/2018 00:00:00,Alfred E. Mann Foundation for Scientific Research,4,C-Conversion,--D,771161,0,4,0001756303,Series B-1 Preferred Stock
+D,11/02/2018 00:00:00,Alfred E. Mann Foundation for Scientific Research,4,C-Conversion,--D,125000,0,3,0001756303,Series A Preferred Stock
+A,11/02/2018 00:00:00,Alfred E. Mann Foundation for Scientific Research,4,C-Conversion,--D,925394,2102970,2,0001756303,Common Stock
+A,11/02/2018 00:00:00,Alfred E. Mann Foundation for Scientific Research,4,C-Conversion,--D,289576,1177576,1,0001756303,Common Stock
+D,11/02/2018 00:00:00,Petrovich John George,4,C-Conversion,--I,771161,0,4,0001387382,Series B-1 Preferred Stock
+D,11/02/2018 00:00:00,Petrovich John George,4,C-Conversion,--I,125000,0,3,0001387382,Series A Preferred Stock
+A,11/02/2018 00:00:00,Petrovich John George,4,C-Conversion,--I,925394,2102970,2,0001387382,Common Stock
+A,11/02/2018 00:00:00,Petrovich John George,4,C-Conversion,--I,289576,1177576,1,0001387382,Common Stock
+D,11/02/2018 00:00:00,Tammenoms Bakker Juliet,4,C-Conversion,--I,2000000,0,3,0001431159,Series C Preferred Stock
+A,11/02/2018 00:00:00,Tammenoms Bakker Juliet,4,P-Purchase,--I,533333,2933333,2,0001431159,Common Stock
+A,11/02/2018 00:00:00,Tammenoms Bakker Juliet,4,C-Conversion,--I,2400000,2400000,1,0001431159,Common Stock
+D,11/02/2018 00:00:00,"Longitude Capital Partners III, LLC",4,C-Conversion,--I,2000000,0,3,0001713663,Series C Preferred Stock
+A,11/02/2018 00:00:00,"Longitude Capital Partners III, LLC",4,P-Purchase,--I,533333,2933333,2,0001713663,Common Stock
+A,11/02/2018 00:00:00,"Longitude Capital Partners III, LLC",4,C-Conversion,--I,2400000,2400000,1,0001713663,Common Stock
+D,11/02/2018 00:00:00,Kuang Zhong,4,C-Conversion,--I,156250,0,6,0001757506,Series B-2 Preferred Stock
+D,11/02/2018 00:00:00,Kuang Zhong,4,C-Conversion,--I,291551,0,5,0001757506,Series B-1 Preferred Stock
+D,11/02/2018 00:00:00,Kuang Zhong,4,C-Conversion,--I,150000,0,4,0001757506,Series A Preferred Stock
+A,11/02/2018 00:00:00,Kuang Zhong,4,C-Conversion,--I,187500,884853,3,0001757506,Common Stock
+A,11/02/2018 00:00:00,Kuang Zhong,4,C-Conversion,--I,349862,697353,2,0001757506,Common Stock
+A,11/02/2018 00:00:00,Kuang Zhong,4,C-Conversion,--I,347491,347491,1,0001757506,Common Stock
+D,10/31/2018 00:00:00,"Cormorant Asset Management, LP",4,C-Conversion,--D,552495,0,5,0001583977,Series C Convertible Preferred Stock
+D,10/31/2018 00:00:00,"Cormorant Asset Management, LP",4,C-Conversion,--D,599999,0,4,0001583977,Series B-2 Convertible Preferred Stock
+A,10/31/2018 00:00:00,"Cormorant Asset Management, LP",4,P-Purchase,--I,133333,1285827,3,0001583977,Common Stock
+A,10/31/2018 00:00:00,"Cormorant Asset Management, LP",4,C-Conversion,--I,552495,1152494,2,0001583977,Common Stock
+A,10/31/2018 00:00:00,"Cormorant Asset Management, LP",4,C-Conversion,--I,599999,599999,1,0001583977,Common Stock

@@ -1,0 +1,801 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/08/2023 00:00:00,Mulligan Seamus,4,M-Exempt,--D,4500,0,2,0001536639,Non-Qualified Stock Option (right to buy)
+A,06/08/2023 00:00:00,Mulligan Seamus,4,M-Exempt,--D,4500,1169300,1,0001536639,Ordinary Shares
+D,06/07/2023 00:00:00,Carr Patricia,4,S-Sale,--D,126,6286,1,0001784606,Ordinary Shares
+D,06/05/2023 00:00:00,Iannone Robert,4,D-Return,--D,1311,45315,1,0001737329,Ordinary Shares
+D,06/05/2023 00:00:00,Sablich Kim,4,D-Return,--D,2082,28478,1,0001758790,Ordinary Shares
+D,06/01/2023 00:00:00,Patil Neena M,4,S-Sale,--D,74,32826,2,0001783908,Ordinary Shares
+D,06/01/2023 00:00:00,Patil Neena M,4,S-Sale,--D,1526,32900,1,0001783908,Ordinary Shares
+D,05/18/2023 00:00:00,GALA RENEE D,4,S-Sale,--D,6000,35978,1,0001607737,Ordinary Shares
+D,04/05/2023 00:00:00,GALA RENEE D,4,F-InKind,--D,1807,41978,1,0001607737,Ordinary Shares
+D,03/15/2023 00:00:00,Carr Patricia,4,S-Sale,--D,1023,6286,1,0001784606,Ordinary Shares
+D,03/08/2023 00:00:00,Sablich Kim,4,S-Sale,--D,1261,30560,2,0001758790,Ordinary Shares
+D,03/08/2023 00:00:00,Sablich Kim,4,S-Sale,--D,1752,31821,1,0001758790,Ordinary Shares
+D,03/07/2023 00:00:00,O'Keefe Kenneth W,4,M-Exempt,--D,4500,0,4,0001397661,Non-Qualified Stock Option (right to buy)
+D,03/07/2023 00:00:00,O'Keefe Kenneth W,4,S-Sale,--D,2690,22889,2,0001397661,Ordinary Shares
+A,03/07/2023 00:00:00,O'Keefe Kenneth W,4,M-Exempt,--D,4500,25579,1,0001397661,Ordinary Shares
+D,03/07/2023 00:00:00,Larkin Finbar,4,S-Sale,--D,2075,21779,4,0001793243,Ordinary Shares
+D,03/06/2023 00:00:00,Larkin Finbar,4,M-Exempt,--D,1706,0,5,0001793243,Non-Qualified Stock Option (right to buy)
+D,03/06/2023 00:00:00,Larkin Finbar,4,S-Sale,--D,1706,23854,3,0001793243,Ordinary Shares
+A,03/06/2023 00:00:00,Larkin Finbar,4,M-Exempt,--D,1706,25560,2,0001793243,Ordinary Shares
+D,03/05/2023 00:00:00,Swisher Daniel N JR,4,F-InKind,--D,5426,55014,2,0001323113,Ordinary Shares
+D,03/05/2023 00:00:00,Iannone Robert,4,F-InKind,--D,2274,46489,2,0001737329,Ordinary Shares
+D,03/05/2023 00:00:00,Carr Patricia,4,S-Sale,--D,1148,7309,2,0001784606,Ordinary Shares
+D,03/05/2023 00:00:00,GALA RENEE D,4,F-InKind,--D,1557,43785,2,0001607737,Ordinary Shares
+D,03/05/2023 00:00:00,Patil Neena M,4,F-InKind,--D,1923,34339,2,0001783908,Ordinary Shares
+D,03/05/2023 00:00:00,Pearce Samantha,4,F-InKind,--D,2020,13159,2,0001805688,Ordinary Shares
+D,03/05/2023 00:00:00,Sablich Kim,4,F-InKind,--D,1610,33573,2,0001758790,Ordinary Shares
+D,03/05/2023 00:00:00,COZADD BRUCE C,4,F-InKind,--D,21882,387584,2,0001193210,Ordinary Shares
+D,03/04/2023 00:00:00,Mulligan Seamus,4,M-Exempt,--D,4500,0,2,0001536639,Non-Qualified Stock Option (right to buy)
+A,03/04/2023 00:00:00,Mulligan Seamus,4,M-Exempt,--D,4500,1164800,1,0001536639,Ordinary Shares
+A,03/03/2023 00:00:00,Larkin Finbar,4,A-Award,--D,4373,23854,1,0001793243,Ordinary Shares
+A,03/03/2023 00:00:00,Swisher Daniel N JR,4,A-Award,--D,13456,60440,1,0001323113,Ordinary Shares
+A,03/03/2023 00:00:00,Iannone Robert,4,A-Award,--D,12447,48763,1,0001737329,Ordinary Shares
+A,03/03/2023 00:00:00,Carr Patricia,4,A-Award,--D,2523,8457,1,0001784606,Ordinary Shares
+A,03/03/2023 00:00:00,GALA RENEE D,4,A-Award,--D,12784,45342,1,0001607737,Ordinary Shares
+A,03/03/2023 00:00:00,Patil Neena M,4,A-Award,--D,9419,36262,1,0001783908,Ordinary Shares
+A,03/03/2023 00:00:00,Pearce Samantha,4,A-Award,--D,3870,15179,1,0001805688,Ordinary Shares
+A,03/03/2023 00:00:00,Sablich Kim,4,A-Award,--D,10429,35183,1,0001758790,Ordinary Shares
+A,03/03/2023 00:00:00,COZADD BRUCE C,4,A-Award,--D,42388,409466,1,0001193210,Ordinary Shares
+D,02/02/2023 00:00:00,Pearce Samantha,4,M-Exempt,--D,531,6907,3,0001805688,Non-Qualified Stock Option (right to buy)
+D,02/02/2023 00:00:00,Pearce Samantha,4,S-Sale,--D,531,11309,2,0001805688,Ordinary Shares
+A,02/02/2023 00:00:00,Pearce Samantha,4,M-Exempt,--D,531,11840,1,0001805688,Ordinary Shares
+D,02/01/2023 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,367078,1,0001193210,Ordinary Shares
+D,01/03/2023 00:00:00,Pearce Samantha,4,M-Exempt,--D,531,7438,3,0001805688,Non-Qualified Stock Option (right to buy)
+D,01/03/2023 00:00:00,Pearce Samantha,4,S-Sale,--D,531,11309,2,0001805688,Ordinary Shares
+A,01/03/2023 00:00:00,Pearce Samantha,4,M-Exempt,--D,531,11840,1,0001805688,Ordinary Shares
+D,01/03/2023 00:00:00,COZADD BRUCE C,4,S-Sale,--D,2000,368078,2,0001193210,Ordinary Shares
+D,01/03/2023 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,370078,1,0001193210,Ordinary Shares
+D,12/21/2022 00:00:00,GALA RENEE D,4,S-Sale,--D,2635,32558,1,0001607737,Ordinary Shares
+D,12/13/2022 00:00:00,Pearce Samantha,4,M-Exempt,--D,531,7969,3,0001805688,Non-Qualified Stock Option (right to buy)
+D,12/13/2022 00:00:00,Pearce Samantha,4,S-Sale,--D,531,11309,2,0001805688,Ordinary Shares
+A,12/13/2022 00:00:00,Pearce Samantha,4,M-Exempt,--D,531,11840,1,0001805688,Ordinary Shares
+D,12/09/2022 00:00:00,Iannone Robert,4,S-Sale,--D,1844,36316,1,0001737329,Ordinary Shares
+D,12/05/2022 00:00:00,Swisher Daniel N JR,4,J-Other,--D,10465,46984,1,0001323113,Ordinary Shares
+D,12/05/2022 00:00:00,Carr Patricia,4,S-Sale,--D,63,5934,1,0001784606,Ordinary Shares
+D,12/02/2022 00:00:00,Cook Jennifer E.,4,S-Sale,--D,420,5471,1,0001754371,Ordinary Shares
+D,12/02/2022 00:00:00,Smith Mark Douglas,4,S-Sale,--D,420,5471,1,0001756253,Ordinary Shares
+D,12/01/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,371078,1,0001193210,Ordinary Shares
+D,11/22/2022 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--I,2000,0,3,0001253886,Ordinary Shares
+D,11/22/2022 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,2069,19112,2,0001253886,Ordinary Shares
+D,11/22/2022 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,2905,21181,1,0001253886,Ordinary Shares
+D,11/16/2022 00:00:00,Patil Neena M,4,S-Sale,--D,3510,26769,1,0001783908,Ordinary Shares
+D,11/14/2022 00:00:00,Larkin Finbar,4,S-Sale,--D,197,19409,1,0001793243,Ordinary Shares
+D,11/10/2022 00:00:00,Pearce Samantha,4,M-Exempt,--D,531,8500,6,0001805688,Non-Qualified Stock Option (right to buy)
+D,11/10/2022 00:00:00,Pearce Samantha,4,M-Exempt,--D,532,9031,5,0001805688,Non-Qualified Stock Option (right to buy)
+D,11/10/2022 00:00:00,Pearce Samantha,4,S-Sale,--D,531,11309,4,0001805688,Ordinary Shares
+A,11/10/2022 00:00:00,Pearce Samantha,4,M-Exempt,--D,531,11840,3,0001805688,Ordinary Shares
+D,11/10/2022 00:00:00,Pearce Samantha,4,S-Sale,--D,532,11309,2,0001805688,Ordinary Shares
+A,11/10/2022 00:00:00,Pearce Samantha,4,M-Exempt,--D,532,11841,1,0001805688,Ordinary Shares
+D,11/10/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,2000,372028,1,0001193210,Ordinary Shares
+D,10/03/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,62905,0,5,0001193210,Non-Qualified Stock Option (right to buy)
+D,10/03/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,7748,374028,4,0001193210,Ordinary Shares
+D,10/03/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,23646,381776,3,0001193210,Ordinary Shares
+D,10/03/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,13791,405422,2,0001193210,Ordinary Shares
+A,10/03/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,62905,419213,1,0001193210,Ordinary Shares
+D,09/07/2022 00:00:00,Larkin Finbar,4,S-Sale,--D,63,19606,1,0001793243,Ordinary Shares
+D,09/06/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,62905,7,0001193210,Non-Qualified Stock Option (right to buy)
+D,09/06/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,542,356308,6,0001193210,Ordinary Shares
+D,09/06/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,474,356850,5,0001193210,Ordinary Shares
+D,09/06/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1170,357324,4,0001193210,Ordinary Shares
+D,09/06/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,4517,358494,3,0001193210,Ordinary Shares
+A,09/06/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,363011,2,0001193210,Ordinary Shares
+D,09/06/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,353311,1,0001193210,Ordinary Shares
+D,09/02/2022 00:00:00,Pearce Samantha,4,M-Exempt,--D,531,9563,3,0001805688,Non-Qualified Stock Option (right to buy)
+D,09/02/2022 00:00:00,Pearce Samantha,4,S-Sale,--D,531,11309,2,0001805688,Ordinary Shares
+A,09/02/2022 00:00:00,Pearce Samantha,4,M-Exempt,--D,531,11840,1,0001805688,Ordinary Shares
+D,08/18/2022 00:00:00,Gray Peter,4,M-Exempt,--D,8000,0,3,0001576096,Non-Qualified Stock Option (right to buy)
+D,08/18/2022 00:00:00,Gray Peter,4,S-Sale,--D,8000,14234,2,0001576096,Ordinary Shares
+A,08/18/2022 00:00:00,Gray Peter,4,M-Exempt,--D,8000,22234,1,0001576096,Ordinary Shares
+D,08/15/2022 00:00:00,Carr Patricia,4,M-Exempt,--D,2000,4500,4,0001784606,Non-Qualified Stock Option (right to buy)
+D,08/15/2022 00:00:00,Carr Patricia,4,S-Sale,--D,2000,5934,3,0001784606,Ordinary Shares
+A,08/15/2022 00:00:00,Carr Patricia,4,M-Exempt,--D,2000,7934,2,0001784606,Ordinary Shares
+D,08/15/2022 00:00:00,Carr Patricia,4,S-Sale,--D,142,5934,1,0001784606,Ordinary Shares
+D,08/08/2022 00:00:00,Winningham Rick E,4,S-Sale,--D,1089,8610,2,0001302443,Ordinary Shares
+D,08/08/2022 00:00:00,Sohn Catherine A.,4,S-Sale,--D,1089,13034,2,0001555132,Ordinary Shares
+D,08/08/2022 00:00:00,Smith Mark Douglas,4,S-Sale,--D,1089,5891,2,0001756253,Ordinary Shares
+D,08/08/2022 00:00:00,RIEDEL NORBERT G,4,S-Sale,--D,1089,11871,4,0001161662,Ordinary Shares
+D,08/08/2022 00:00:00,ORiordan Anne,4,S-Sale,--D,1089,10717,2,0001767870,Ordinary Shares
+D,08/08/2022 00:00:00,O'Keefe Kenneth W,4,S-Sale,--D,1089,21079,2,0001397661,Ordinary Shares
+D,08/08/2022 00:00:00,McSharry Heather Ann,4,M-Exempt,--D,8000,0,5,0001576068,Non-Qualified Stock Option (right to buy)
+D,08/08/2022 00:00:00,McSharry Heather Ann,4,S-Sale,--D,5500,15047,4,0001576068,Ordinary Shares
+A,08/08/2022 00:00:00,McSharry Heather Ann,4,M-Exempt,--D,8000,20547,3,0001576068,Ordinary Shares
+D,08/08/2022 00:00:00,McSharry Heather Ann,4,S-Sale,--D,1179,12547,2,0001576068,Ordinary Shares
+D,08/08/2022 00:00:00,Gray Peter,4,S-Sale,--D,1179,14234,2,0001576096,Ordinary Shares
+D,08/08/2022 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,1089,24086,2,0001253886,Ordinary Shares
+D,08/08/2022 00:00:00,Cook Jennifer E.,4,S-Sale,--D,1089,5891,2,0001754371,Ordinary Shares
+D,08/08/2022 00:00:00,Carr Patricia,4,S-Sale,--D,158,6076,1,0001784606,Ordinary Shares
+A,08/05/2022 00:00:00,Winningham Rick E,4,A-Award,--D,2561,9699,1,0001302443,Ordinary Shares
+A,08/05/2022 00:00:00,Sohn Catherine A.,4,A-Award,--D,2561,14123,1,0001555132,Ordinary Shares
+A,08/05/2022 00:00:00,Smith Mark Douglas,4,A-Award,--D,2561,6980,1,0001756253,Ordinary Shares
+D,08/05/2022 00:00:00,RIEDEL NORBERT G,4,M-Exempt,--D,8000,0,5,0001161662,Non-Qualified Stock Option (right to buy)
+A,08/05/2022 00:00:00,RIEDEL NORBERT G,4,A-Award,--D,2561,12960,3,0001161662,Ordinary Shares
+D,08/05/2022 00:00:00,RIEDEL NORBERT G,4,S-Sale,--D,8000,10399,2,0001161662,Ordinary Shares
+A,08/05/2022 00:00:00,RIEDEL NORBERT G,4,M-Exempt,--D,8000,18399,1,0001161662,Ordinary Shares
+A,08/05/2022 00:00:00,ORiordan Anne,4,A-Award,--D,2561,11806,1,0001767870,Ordinary Shares
+A,08/05/2022 00:00:00,O'Keefe Kenneth W,4,A-Award,--D,2561,22168,1,0001397661,Ordinary Shares
+A,08/05/2022 00:00:00,Mulligan Seamus,4,A-Award,--D,2561,1160300,1,0001536639,Ordinary Shares
+A,08/05/2022 00:00:00,McSharry Heather Ann,4,A-Award,--D,2561,13726,1,0001576068,Ordinary Shares
+A,08/05/2022 00:00:00,Gray Peter,4,A-Award,--D,2561,15413,1,0001576096,Ordinary Shares
+A,08/05/2022 00:00:00,ENRIGHT PATRICK G,4,A-Award,--D,2561,25175,1,0001253886,Ordinary Shares
+A,08/05/2022 00:00:00,Cook Jennifer E.,4,A-Award,--D,2561,6980,1,0001754371,Ordinary Shares
+D,08/05/2022 00:00:00,Patil Neena M,4,F-InKind,--D,1321,30279,1,0001783908,Ordinary Shares
+D,08/04/2022 00:00:00,Pearce Samantha,4,M-Exempt,--D,531,10094,3,0001805688,Non-Qualified Stock Option (right to buy)
+D,08/04/2022 00:00:00,Pearce Samantha,4,S-Sale,--D,531,11309,2,0001805688,Ordinary Shares
+A,08/04/2022 00:00:00,Pearce Samantha,4,M-Exempt,--D,531,11840,1,0001805688,Ordinary Shares
+D,08/01/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,68,72605,8,0001193210,Non-Qualified Stock Option (right to buy)
+D,08/01/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9632,0,7,0001193210,Non-Qualified Stock Option (right to buy)
+D,08/01/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,354311,6,0001193210,Ordinary Shares
+D,08/01/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1100,355311,5,0001193210,Ordinary Shares
+D,08/01/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,2601,356411,4,0001193210,Ordinary Shares
+D,08/01/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,2600,359012,3,0001193210,Ordinary Shares
+A,08/01/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,68,361612,2,0001193210,Ordinary Shares
+A,08/01/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9632,361544,1,0001193210,Ordinary Shares
+D,07/12/2022 00:00:00,Pearce Samantha,4,M-Exempt,--D,532,10625,3,0001805688,Non-Qualified Stock Option (right to buy)
+D,07/12/2022 00:00:00,Pearce Samantha,4,S-Sale,--D,532,11309,2,0001805688,Ordinary Shares
+A,07/12/2022 00:00:00,Pearce Samantha,4,M-Exempt,--D,532,11841,1,0001805688,Ordinary Shares
+D,07/05/2022 00:00:00,Tovey Christopher J.,4,M-Exempt,--D,4032,4031,4,0001754163,Non-Qualified Stock Option (right to buy)
+D,07/05/2022 00:00:00,Tovey Christopher J.,4,S-Sale,--D,1177,14663,3,0001754163,Ordinary Shares
+D,07/05/2022 00:00:00,Tovey Christopher J.,4,S-Sale,--D,4032,15840,2,0001754163,Ordinary Shares
+A,07/05/2022 00:00:00,Tovey Christopher J.,4,M-Exempt,--D,4032,19872,1,0001754163,Ordinary Shares
+D,07/05/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,9632,6,0001193210,Non-Qualified Stock Option (right to buy)
+D,07/05/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1500,351912,5,0001193210,Ordinary Shares
+D,07/05/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,353412,4,0001193210,Ordinary Shares
+D,07/05/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,436,354412,3,0001193210,Ordinary Shares
+D,07/05/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,5839,354848,2,0001193210,Ordinary Shares
+A,07/05/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,360687,1,0001193210,Ordinary Shares
+D,06/27/2022 00:00:00,Pearce Samantha,4,M-Exempt,--D,8508,11157,3,0001805688,Non-Qualified Stock Option (right to buy)
+D,06/27/2022 00:00:00,Pearce Samantha,4,S-Sale,--D,8508,11309,2,0001805688,Ordinary Shares
+A,06/27/2022 00:00:00,Pearce Samantha,4,M-Exempt,--D,8508,19817,1,0001805688,Ordinary Shares
+D,06/08/2022 00:00:00,Pearce Samantha,4,M-Exempt,--D,5835,19665,4,0001805688,Non-Qualified Stock Option (right to buy)
+D,06/08/2022 00:00:00,Pearce Samantha,4,S-Sale,--D,2652,11309,3,0001805688,Ordinary Shares
+D,06/08/2022 00:00:00,Pearce Samantha,4,S-Sale,--D,5835,13961,2,0001805688,Ordinary Shares
+A,06/08/2022 00:00:00,Pearce Samantha,4,M-Exempt,--D,5835,19796,1,0001805688,Ordinary Shares
+D,06/07/2022 00:00:00,Sablich Kim,4,S-Sale,--D,101,24754,7,0001758790,Ordinary Shares
+D,06/07/2022 00:00:00,Sablich Kim,4,S-Sale,--D,1317,24855,6,0001758790,Ordinary Shares
+D,06/07/2022 00:00:00,Sablich Kim,4,S-Sale,--D,573,26172,5,0001758790,Ordinary Shares
+D,06/07/2022 00:00:00,Sablich Kim,4,S-Sale,--D,250,26745,4,0001758790,Ordinary Shares
+D,06/07/2022 00:00:00,Sablich Kim,4,S-Sale,--D,200,26995,3,0001758790,Ordinary Shares
+D,06/06/2022 00:00:00,Iannone Robert,4,F-InKind,--D,1295,38109,1,0001737329,Ordinary Shares
+D,06/06/2022 00:00:00,Patil Neena M,4,S-Sale,--D,1000,31600,2,0001783908,Ordinary Shares
+D,06/06/2022 00:00:00,Sablich Kim,4,S-Sale,--D,1388,27195,2,0001758790,Ordinary Shares
+D,06/06/2022 00:00:00,Sablich Kim,4,F-InKind,--D,1759,28583,1,0001758790,Ordinary Shares
+D,06/02/2022 00:00:00,Carr Patricia,4,S-Sale,--D,131,6234,1,0001784606,Ordinary Shares
+D,06/02/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,350987,7,0001193210,Ordinary Shares
+D,06/01/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,19332,8,0001193210,Non-Qualified Stock Option (right to buy)
+D,06/01/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,489,351987,6,0001193210,Ordinary Shares
+D,06/01/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,831,352476,5,0001193210,Ordinary Shares
+D,06/01/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1270,353307,4,0001193210,Ordinary Shares
+D,06/01/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1360,354577,3,0001193210,Ordinary Shares
+D,06/01/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,2412,355937,2,0001193210,Ordinary Shares
+A,06/01/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,358349,1,0001193210,Ordinary Shares
+D,05/11/2022 00:00:00,Carr Patricia,4,S-Sale,--D,722,6234,4,0001784606,Ordinary Shares
+D,05/10/2022 00:00:00,Patil Neena M,4,G-Gift,--D,161,32516,1,0001783908,Ordinary Shares
+D,05/10/2022 00:00:00,Carr Patricia,4,S-Sale,--D,273,6956,3,0001784606,Ordinary Shares
+D,05/09/2022 00:00:00,ORiordan Anne,4,S-Sale,--D,9,9245,2,0001767870,Ordinary Shares
+D,05/09/2022 00:00:00,ORiordan Anne,4,S-Sale,--D,457,9254,1,0001767870,Ordinary Shares
+D,05/09/2022 00:00:00,Larkin Finbar,4,S-Sale,--D,1747,19462,1,0001793243,Ordinary Shares
+D,05/09/2022 00:00:00,Carr Patricia,4,S-Sale,--D,11,7229,2,0001784606,Ordinary Shares
+D,05/09/2022 00:00:00,Carr Patricia,4,S-Sale,--D,1056,7240,1,0001784606,Ordinary Shares
+D,05/06/2022 00:00:00,Patil Neena M,4,S-Sale,--D,296,32677,1,0001783908,Ordinary Shares
+D,05/05/2022 00:00:00,Tovey Christopher J.,4,F-InKind,--D,1096,15840,1,0001754163,Ordinary Shares
+D,05/02/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,29032,7,0001193210,Non-Qualified Stock Option (right to buy)
+D,05/02/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,348502,6,0001193210,Ordinary Shares
+D,05/02/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,716,349502,5,0001193210,Ordinary Shares
+D,05/02/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,767,350218,4,0001193210,Ordinary Shares
+D,05/02/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,3177,350985,3,0001193210,Ordinary Shares
+D,05/02/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1600,354162,2,0001193210,Ordinary Shares
+A,05/02/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,355762,1,0001193210,Ordinary Shares
+D,04/05/2022 00:00:00,GALA RENEE D,4,F-InKind,--D,1633,34995,1,0001607737,Ordinary Shares
+D,04/04/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,38732,7,0001193210,Non-Qualified Stock Option (right to buy)
+D,04/04/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,3500,346062,6,0001193210,Ordinary Shares
+D,04/04/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,349562,5,0001193210,Ordinary Shares
+D,04/04/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1294,350562,4,0001193210,Ordinary Shares
+D,04/04/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,3228,351856,3,0001193210,Ordinary Shares
+D,04/04/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1750,355084,2,0001193210,Ordinary Shares
+A,04/04/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,356834,1,0001193210,Ordinary Shares
+D,03/17/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,1288,0,2,0001193210,Incentive Stock Option (right to buy)
+A,03/17/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,1288,347134,1,0001193210,Ordinary Shares
+D,03/05/2022 00:00:00,Swisher Daniel N JR,4,F-InKind,--D,4802,57251,2,0001323113,Ordinary Shares
+D,03/05/2022 00:00:00,Sablich Kim,4,F-InKind,--D,746,30342,2,0001758790,Ordinary Shares
+D,03/05/2022 00:00:00,Pearce Samantha,4,F-InKind,--D,1836,13961,2,0001805688,Ordinary Shares
+D,03/05/2022 00:00:00,Patil Neena M,4,F-InKind,--D,1228,32973,2,0001783908,Ordinary Shares
+D,03/05/2022 00:00:00,Iannone Robert,4,F-InKind,--D,1327,39257,2,0001737329,Ordinary Shares
+D,03/05/2022 00:00:00,GALA RENEE D,4,D-Return,--D,720,36628,2,0001607737,Ordinary Shares
+D,03/05/2022 00:00:00,COZADD BRUCE C,4,F-InKind,--D,21929,345846,2,0001193210,Ordinary Shares
+A,03/03/2022 00:00:00,Tovey Christopher J.,4,A-Award,--D,7820,16936,1,0001754163,Ordinary Shares
+A,03/03/2022 00:00:00,Swisher Daniel N JR,4,A-Award,--D,13507,62053,1,0001323113,Ordinary Shares
+A,03/03/2022 00:00:00,Sablich Kim,4,A-Award,--D,9953,31088,1,0001758790,Ordinary Shares
+A,03/03/2022 00:00:00,Pearce Samantha,4,A-Award,--D,3839,15797,1,0001805688,Ordinary Shares
+A,03/03/2022 00:00:00,Patil Neena M,4,A-Award,--D,8886,34201,1,0001783908,Ordinary Shares
+A,03/03/2022 00:00:00,Larkin Finbar,4,A-Award,--D,4621,21209,1,0001793243,Ordinary Shares
+A,03/03/2022 00:00:00,Iannone Robert,4,A-Award,--D,11374,40584,1,0001737329,Ordinary Shares
+A,03/03/2022 00:00:00,GALA RENEE D,4,A-Award,--D,11730,37348,1,0001607737,Ordinary Shares
+A,03/03/2022 00:00:00,COZADD BRUCE C,4,A-Award,--D,44788,367775,1,0001193210,Ordinary Shares
+A,03/03/2022 00:00:00,Carr Patricia,4,A-Award,--D,2488,8296,1,0001784606,Ordinary Shares
+D,03/02/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,6000,322987,5,0001193210,Ordinary Shares
+D,03/01/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,48432,6,0001193210,Non-Qualified Stock Option (right to buy)
+D,03/01/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,200,328987,4,0001193210,Ordinary Shares
+D,03/01/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,3041,329187,3,0001193210,Ordinary Shares
+D,03/01/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,3260,332228,2,0001193210,Ordinary Shares
+A,03/01/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,335488,1,0001193210,Ordinary Shares
+D,02/01/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,58132,5,0001193210,Non-Qualified Stock Option (right to buy)
+D,02/01/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,2186,325788,4,0001193210,Ordinary Shares
+D,02/01/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,2136,327974,3,0001193210,Ordinary Shares
+D,02/01/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,2050,330110,2,0001193210,Ordinary Shares
+A,02/01/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,332160,1,0001193210,Ordinary Shares
+D,01/03/2022 00:00:00,Swisher Daniel N JR,4,F-InKind,--D,1624,48546,1,0001323113,Ordinary Shares
+D,01/03/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,67832,6,0001193210,Non-Qualified Stock Option (right to buy)
+D,01/03/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,140,322460,5,0001193210,Ordinary Shares
+D,01/03/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,2651,322600,4,0001193210,Ordinary Shares
+D,01/03/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1181,325251,3,0001193210,Ordinary Shares
+D,01/03/2022 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1819,326432,2,0001193210,Ordinary Shares
+A,01/03/2022 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,328251,1,0001193210,Ordinary Shares
+D,12/02/2021 00:00:00,Smith Mark Douglas,4,S-Sale,--D,417,4419,1,0001756253,Ordinary Shares
+D,12/02/2021 00:00:00,Cook Jennifer E.,4,S-Sale,--D,417,4419,1,0001754371,Ordinary Shares
+D,12/01/2021 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,77532,4,0001193210,Non-Qualified Stock Option (right to buy)
+D,12/01/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,2758,318551,3,0001193210,Ordinary Shares
+D,12/01/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,3990,321309,2,0001193210,Ordinary Shares
+A,12/01/2021 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,325299,1,0001193210,Ordinary Shares
+A,11/30/2021 00:00:00,Carr Patricia,5,J-Other,--D,63,5808,3,0001784606,Ordinary Shares
+D,11/12/2021 00:00:00,Larkin Finbar,4,S-Sale,--D,197,16468,1,0001793243,Ordinary Shares
+D,11/11/2021 00:00:00,Sablich Kim,4,S-Sale,--D,2748,21135,1,0001758790,Ordinary Shares
+D,11/01/2021 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,87232,5,0001193210,Non-Qualified Stock Option (right to buy)
+D,11/01/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,2729,315536,4,0001193210,Ordinary Shares
+D,11/01/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1934,318265,3,0001193210,Ordinary Shares
+D,11/01/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1893,320199,2,0001193210,Ordinary Shares
+A,11/01/2021 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,322092,1,0001193210,Ordinary Shares
+D,10/04/2021 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,96932,3,0001193210,Non-Qualified Stock Option (right to buy)
+D,10/04/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,6598,312392,2,0001193210,Ordinary Shares
+A,10/04/2021 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,9700,318990,1,0001193210,Ordinary Shares
+D,09/08/2021 00:00:00,Larkin Finbar,4,S-Sale,--D,63,16579,1,0001793243,Ordinary Shares
+D,09/03/2021 00:00:00,Carr Patricia,5,S-Sale,--D,143,5745,2,0001784606,Ordinary Shares
+D,09/03/2021 00:00:00,Carr Patricia,5,S-Sale,--D,147,5888,1,0001784606,Ordinary Shares
+D,09/01/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,500,309290,1,0001193210,Ordinary Shares
+A,08/18/2021 00:00:00,ENRIGHT PATRICK G,4,A-Award,--I,2000,2000,1,0001253886,Ordinary Shares
+D,08/06/2021 00:00:00,Winningham Rick E,4,S-Sale,--D,1306,7138,1,0001302443,Ordinary Shares
+D,08/06/2021 00:00:00,Sohn Catherine A.,4,S-Sale,--D,1306,11562,1,0001555132,Ordinary Shares
+D,08/06/2021 00:00:00,RIEDEL NORBERT G,4,S-Sale,--D,1306,10399,1,0001161662,Ordinary Shares
+D,08/06/2021 00:00:00,O'Keefe Kenneth W,4,S-Sale,--D,1306,19607,1,0001397661,Ordinary Shares
+D,08/06/2021 00:00:00,McSharry Heather Ann,4,S-Sale,--D,1414,11165,1,0001576068,Ordinary Shares
+D,08/06/2021 00:00:00,Gray Peter,4,S-Sale,--D,1414,12852,1,0001576096,Ordinary Shares
+D,08/06/2021 00:00:00,Carr Patricia,4,S-Sale,--D,157,6035,1,0001784606,Ordinary Shares
+D,08/05/2021 00:00:00,Schnee Elmar,4,S-Sale,--D,1632,8270,1,0001615762,Ordinary Shares
+D,08/05/2021 00:00:00,BERNS PAUL L,4,S-Sale,--D,1450,8290,1,0001202769,Ordinary Shares
+D,08/05/2021 00:00:00,Patil Neena M,4,F-InKind,--D,993,25233,1,0001783908,Ordinary Shares
+D,08/05/2021 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,2652,0,2,0001193210,Incentive Stock Option (right to buy)
+A,08/05/2021 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,2652,309790,1,0001193210,Ordinary Shares
+D,08/02/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,250,307138,2,0001193210,Ordinary Shares
+D,08/02/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1500,307388,1,0001193210,Ordinary Shares
+A,07/29/2021 00:00:00,Winningham Rick E,4,A-Award,--D,2246,8444,1,0001302443,Ordinary Shares
+A,07/29/2021 00:00:00,Sohn Catherine A.,4,A-Award,--D,2246,12868,1,0001555132,Ordinary Shares
+A,07/29/2021 00:00:00,Smith Mark Douglas,4,A-Award,--D,2246,4836,1,0001756253,Ordinary Shares
+A,07/29/2021 00:00:00,RIEDEL NORBERT G,4,A-Award,--D,2246,11705,1,0001161662,Ordinary Shares
+A,07/29/2021 00:00:00,ORiordan Anne,4,A-Award,--D,2246,9711,1,0001767870,Ordinary Shares
+A,07/29/2021 00:00:00,O'Keefe Kenneth W,4,A-Award,--D,2246,20913,1,0001397661,Ordinary Shares
+A,07/29/2021 00:00:00,Mulligan Seamus,4,A-Award,--D,2246,1157739,1,0001536639,Ordinary Shares
+A,07/29/2021 00:00:00,McSharry Heather Ann,4,A-Award,--D,2246,12579,1,0001576068,Ordinary Shares
+A,07/29/2021 00:00:00,Gray Peter,4,A-Award,--D,2246,14266,1,0001576096,Ordinary Shares
+A,07/29/2021 00:00:00,ENRIGHT PATRICK G,4,A-Award,--D,2246,22614,1,0001253886,Ordinary Shares
+A,07/29/2021 00:00:00,Cook Jennifer E.,4,A-Award,--D,2246,4836,1,0001754371,Ordinary Shares
+D,07/01/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,10850,308888,1,0001193210,Ordinary Shares
+D,06/05/2021 00:00:00,Iannone Robert,4,F-InKind,--D,1206,29086,1,0001737329,Ordinary Shares
+D,06/05/2021 00:00:00,Sablich Kim,4,F-InKind,--D,1452,23883,1,0001758790,Ordinary Shares
+D,06/01/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1750,319738,1,0001193210,Ordinary Shares
+A,05/05/2021 00:00:00,Tovey Christopher J.,4,A-Award,--D,9091,9116,1,0001754163,Ordinary Shares
+D,05/05/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,500,321341,2,0001193210,Ordinary Shares
+D,05/03/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1500,321841,1,0001193210,Ordinary Shares
+D,04/05/2021 00:00:00,GALA RENEE D,4,F-InKind,--D,1515,25347,1,0001607737,Ordinary Shares
+D,04/01/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1500,323341,1,0001193210,Ordinary Shares
+D,03/09/2021 00:00:00,Carr Patricia,4,S-Sale,--D,961,6045,2,0001784606,Ordinary Shares
+D,03/08/2021 00:00:00,Larkin Finbar,4,S-Sale,--D,1509,16519,1,0001793243,Ordinary Shares
+D,03/08/2021 00:00:00,Carr Patricia,4,S-Sale,--D,1089,7006,1,0001784606,Ordinary Shares
+D,03/05/2021 00:00:00,Swisher Daniel N JR,4,F-InKind,--D,3718,49961,1,0001323113,Ordinary Shares
+D,03/05/2021 00:00:00,Pearce Samantha,4,F-InKind,--D,1402,11958,1,0001805688,Ordinary Shares
+D,03/05/2021 00:00:00,Patil Neena M,4,F-InKind,--D,691,26147,1,0001783908,Ordinary Shares
+D,03/05/2021 00:00:00,Iannone Robert,4,F-InKind,--D,741,30145,1,0001737329,Ordinary Shares
+D,03/05/2021 00:00:00,COZADD BRUCE C,4,F-InKind,--D,21516,324841,1,0001193210,Ordinary Shares
+D,03/01/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,9600,346357,1,0001193210,Ordinary Shares
+A,02/25/2021 00:00:00,Swisher Daniel N JR,4,A-Award,--D,11695,53679,1,0001323113,Ordinary Shares
+A,02/25/2021 00:00:00,Sablich Kim,4,A-Award,--D,8535,25335,1,0001758790,Ordinary Shares
+A,02/25/2021 00:00:00,Pearce Samantha,4,A-Award,--D,3160,13360,1,0001805688,Ordinary Shares
+A,02/25/2021 00:00:00,Patil Neena M,4,A-Award,--D,7270,26838,1,0001783908,Ordinary Shares
+A,02/25/2021 00:00:00,Larkin Finbar,4,A-Award,--D,3950,18028,1,0001793243,Ordinary Shares
+A,02/25/2021 00:00:00,Iannone Robert,4,A-Award,--D,8535,30886,1,0001737329,Ordinary Shares
+A,02/25/2021 00:00:00,GALA RENEE D,4,A-Award,--D,10115,26862,1,0001607737,Ordinary Shares
+A,02/25/2021 00:00:00,COZADD BRUCE C,4,A-Award,--D,37925,355957,1,0001193210,Ordinary Shares
+A,02/25/2021 00:00:00,Carr Patricia,4,A-Award,--D,1895,8095,1,0001784606,Ordinary Shares
+A,02/25/2021 00:00:00,Smith Mark Douglas,4,A-Award,--D,6475,6475,2,0001756253,Non-Qualified Stock Option (right to buy)
+A,02/25/2021 00:00:00,Smith Mark Douglas,4,A-Award,--D,2590,2590,1,0001756253,Ordinary Shares
+A,02/25/2021 00:00:00,Cook Jennifer E.,4,A-Award,--D,6475,6475,2,0001754371,Non-Qualified Stock Option (right to buy)
+A,02/25/2021 00:00:00,Cook Jennifer E.,4,A-Award,--D,2590,2590,1,0001754371,Ordinary Shares
+D,02/03/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,250,318032,2,0001193210,Ordinary Shares
+D,02/01/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1250,318282,1,0001193210,Ordinary Shares
+D,01/04/2021 00:00:00,COZADD BRUCE C,4,S-Sale,--D,7950,319532,1,0001193210,Ordinary Shares
+D,01/04/2021 00:00:00,Swisher Daniel N JR,4,F-InKind,--D,1607,41984,1,0001323113,Ordinary Shares
+D,12/04/2020 00:00:00,Carr Patricia,4,S-Sale,--D,62,6200,1,0001784606,Ordinary Shares
+D,12/03/2020 00:00:00,COZADD BRUCE C,4,S-Sale,--D,250,327482,2,0001193210,Ordinary Shares
+D,12/01/2020 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,327732,1,0001193210,Ordinary Shares
+D,11/12/2020 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,1623,20368,3,0001253886,Ordinary Shares
+D,11/12/2020 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,5083,21991,2,0001253886,Ordinary Shares
+D,11/12/2020 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,3223,27074,1,0001253886,Ordinary Shares
+D,11/06/2020 00:00:00,Larkin Finbar,4,S-Sale,--D,197,13964,1,0001793243,Ordinary Shares
+D,11/05/2020 00:00:00,O'Keefe Kenneth W,4,S-Sale,--D,4513,18667,4,0001397661,Ordinary Shares
+D,11/05/2020 00:00:00,O'Keefe Kenneth W,4,S-Sale,--D,1746,23180,3,0001397661,Ordinary Shares
+D,11/05/2020 00:00:00,O'Keefe Kenneth W,4,S-Sale,--D,2740,24926,2,0001397661,Ordinary Shares
+D,11/05/2020 00:00:00,O'Keefe Kenneth W,4,S-Sale,--D,2001,27666,1,0001397661,Ordinary Shares
+D,11/04/2020 00:00:00,Sohn Catherine A.,4,M-Exempt,--D,4500,0,6,0001555132,Non-Qualified Stock Option (right to buy)
+D,11/04/2020 00:00:00,Sohn Catherine A.,4,M-Exempt,--D,8000,0,5,0001555132,Non-Qualified Stock Option (right to buy)
+D,11/04/2020 00:00:00,Sohn Catherine A.,4,S-Sale,--D,8000,10622,4,0001555132,Ordinary Shares
+A,11/04/2020 00:00:00,Sohn Catherine A.,4,M-Exempt,--D,8000,18622,3,0001555132,Ordinary Shares
+D,11/04/2020 00:00:00,Sohn Catherine A.,4,S-Sale,--D,4500,10622,2,0001555132,Ordinary Shares
+A,11/04/2020 00:00:00,Sohn Catherine A.,4,M-Exempt,--D,4500,15122,1,0001555132,Ordinary Shares
+D,11/04/2020 00:00:00,BERNS PAUL L,4,S-Sale,--D,3825,9740,4,0001202769,Ordinary Shares
+D,11/04/2020 00:00:00,BERNS PAUL L,4,S-Sale,--D,400,13565,3,0001202769,Ordinary Shares
+D,11/04/2020 00:00:00,BERNS PAUL L,4,S-Sale,--D,466,13965,2,0001202769,Ordinary Shares
+D,11/03/2020 00:00:00,COZADD BRUCE C,4,S-Sale,--D,2500,328680,2,0001193210,Ordinary Shares
+D,11/02/2020 00:00:00,BERNS PAUL L,4,M-Exempt,--D,4691,0,5,0001202769,Phantom Stock
+A,11/02/2020 00:00:00,BERNS PAUL L,4,M-Exempt,--D,4691,14431,1,0001202769,Ordinary Shares
+D,11/02/2020 00:00:00,O'Keefe Kenneth W,4,M-Exempt,--D,22249,0,3,0001397661,Phantom Stock
+A,11/02/2020 00:00:00,O'Keefe Kenneth W,4,M-Exempt,--D,22249,29667,1,0001397661,Ordinary Shares
+D,11/02/2020 00:00:00,ENRIGHT PATRICK G,4,M-Exempt,--D,9929,0,2,0001253886,Phantom Stock
+A,11/02/2020 00:00:00,ENRIGHT PATRICK G,4,M-Exempt,--D,9929,30297,1,0001253886,Ordinary Shares
+D,11/02/2020 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,331180,1,0001193210,Ordinary Shares
+D,10/01/2020 00:00:00,COZADD BRUCE C,4,S-Sale,--D,4500,332180,1,0001193210,Ordinary Shares
+D,09/09/2020 00:00:00,Larkin Finbar,4,S-Sale,--D,63,14161,1,0001793243,Ordinary Shares
+D,09/01/2020 00:00:00,COZADD BRUCE C,4,S-Sale,--D,500,336680,1,0001193210,Ordinary Shares
+D,08/27/2020 00:00:00,COZADD BRUCE C,4,S-Sale,--D,3000,337180,1,0001193210,Ordinary Shares
+D,08/12/2020 00:00:00,Carr Patricia,4,S-Sale,--D,142,6200,1,0001784606,Ordinary Shares
+D,08/07/2020 00:00:00,Carr Patricia,4,S-Sale,--D,158,6342,1,0001784606,Ordinary Shares
+D,08/07/2020 00:00:00,Winningham Rick E,4,S-Sale,--D,931,6198,2,0001302443,Ordinary Shares
+D,08/07/2020 00:00:00,Sohn Catherine A.,4,S-Sale,--D,931,10622,2,0001555132,Ordinary Shares
+D,08/07/2020 00:00:00,RIEDEL NORBERT G,4,S-Sale,--D,931,9459,2,0001161662,Ordinary Shares
+D,08/07/2020 00:00:00,O'Keefe Kenneth W,4,S-Sale,--D,931,7418,2,0001397661,Ordinary Shares
+D,08/07/2020 00:00:00,McSharry Heather Ann,4,S-Sale,--D,1009,10333,2,0001576068,Ordinary Shares
+D,08/07/2020 00:00:00,BERNS PAUL L,4,S-Sale,--D,931,9740,2,0001202769,Ordinary Shares
+A,08/06/2020 00:00:00,ORiordan Anne,4,A-Award,--D,6765,6765,2,0001767870,Non-Qualified Stock Option (right to buy)
+A,08/06/2020 00:00:00,ORiordan Anne,4,A-Award,--D,2705,7465,1,0001767870,Ordinary Shares
+A,08/06/2020 00:00:00,Winningham Rick E,4,A-Award,--D,6765,6765,3,0001302443,Non-Qualified Stock Option (right to buy)
+A,08/06/2020 00:00:00,Winningham Rick E,4,A-Award,--D,2705,7129,1,0001302443,Ordinary Shares
+A,08/06/2020 00:00:00,Sohn Catherine A.,4,A-Award,--D,6765,6765,3,0001555132,Non-Qualified Stock Option (right to buy)
+A,08/06/2020 00:00:00,Sohn Catherine A.,4,A-Award,--D,2705,11553,1,0001555132,Ordinary Shares
+A,08/06/2020 00:00:00,Schnee Elmar,4,A-Award,--D,6765,6765,2,0001615762,Non-Qualified Stock Option (right to buy)
+A,08/06/2020 00:00:00,Schnee Elmar,4,A-Award,--D,2705,9902,1,0001615762,Ordinary Shares
+A,08/06/2020 00:00:00,RIEDEL NORBERT G,4,A-Award,--D,6765,6765,3,0001161662,Non-Qualified Stock Option (right to buy)
+A,08/06/2020 00:00:00,RIEDEL NORBERT G,4,A-Award,--D,2705,10390,1,0001161662,Ordinary Shares
+A,08/06/2020 00:00:00,O'Keefe Kenneth W,4,A-Award,--D,6765,6765,4,0001397661,Non-Qualified Stock Option (right to buy)
+A,08/06/2020 00:00:00,O'Keefe Kenneth W,4,A-Award,--D,2705,8349,1,0001397661,Ordinary Shares
+A,08/06/2020 00:00:00,Mulligan Seamus,4,A-Award,--D,6765,6765,2,0001536639,Non-Qualified Stock Option (right to buy)
+A,08/06/2020 00:00:00,Mulligan Seamus,4,A-Award,--D,2705,1155493,1,0001536639,Ordinary Shares
+A,08/06/2020 00:00:00,McSharry Heather Ann,4,A-Award,--D,6765,6765,3,0001576068,Non-Qualified Stock Option (right to buy)
+A,08/06/2020 00:00:00,McSharry Heather Ann,4,A-Award,--D,2705,11342,1,0001576068,Ordinary Shares
+A,08/06/2020 00:00:00,Gray Peter,4,A-Award,--D,6765,6765,2,0001576096,Non-Qualified Stock Option (right to buy)
+A,08/06/2020 00:00:00,Gray Peter,4,A-Award,--D,2705,12020,1,0001576096,Ordinary Shares
+A,08/06/2020 00:00:00,ENRIGHT PATRICK G,4,A-Award,--D,6765,6765,2,0001253886,Non-Qualified Stock Option (right to buy)
+A,08/06/2020 00:00:00,ENRIGHT PATRICK G,4,A-Award,--D,2705,20368,1,0001253886,Ordinary Shares
+A,08/06/2020 00:00:00,BERNS PAUL L,4,A-Award,--D,6765,6765,3,0001202769,Non-Qualified Stock Option (right to buy)
+A,08/06/2020 00:00:00,BERNS PAUL L,4,A-Award,--D,2705,10671,1,0001202769,Ordinary Shares
+A,08/06/2020 00:00:00,Sablich Kim,4,A-Award,--D,38856,38856,3,0001758790,Non-Qualified Stock Option (right to buy)
+A,08/06/2020 00:00:00,Sablich Kim,4,A-Award,--D,3144,3144,2,0001758790,Incentive Stock Option (right to buy)
+A,08/06/2020 00:00:00,Sablich Kim,4,A-Award,--D,16800,16800,1,0001758790,Ordinary Shares
+D,08/05/2020 00:00:00,Patil Neena M,4,F-InKind,--D,987,19489,1,0001783908,Ordinary Shares
+D,06/05/2020 00:00:00,Iannone Robert,4,F-InKind,--D,943,22204,1,0001737329,Ordinary Shares
+D,06/05/2020 00:00:00,Carr Patricia,4,S-Sale,--D,138,6500,1,0001784606,Ordinary Shares
+A,05/27/2020 00:00:00,Mulligan Seamus,4,P-Purchase,--D,11482,1152788,5,0001536639,Ordinary Shares
+A,05/27/2020 00:00:00,Mulligan Seamus,4,P-Purchase,--D,9884,1141306,4,0001536639,Ordinary Shares
+A,05/27/2020 00:00:00,Mulligan Seamus,4,P-Purchase,--D,8391,1131422,3,0001536639,Ordinary Shares
+A,05/27/2020 00:00:00,Mulligan Seamus,4,P-Purchase,--D,5243,1123031,2,0001536639,Ordinary Shares
+A,05/26/2020 00:00:00,Mulligan Seamus,4,P-Purchase,--D,15000,1117788,1,0001536639,Ordinary Shares
+A,05/07/2020 00:00:00,GALA RENEE D,4,A-Award,--D,37848,37848,3,0001607737,Non-Qualified Stock Option (right to buy)
+A,05/07/2020 00:00:00,GALA RENEE D,4,A-Award,--D,3652,3652,2,0001607737,Incentive Stock Option (right to buy)
+A,05/07/2020 00:00:00,GALA RENEE D,4,A-Award,--D,16600,16600,1,0001607737,Ordinary Shares
+A,05/07/2020 00:00:00,Pearce Samantha,4,A-Award,--D,25500,25500,2,0001805688,Non-Qualified Stock Option (right to buy)
+A,05/07/2020 00:00:00,Pearce Samantha,4,A-Award,--D,10200,10200,1,0001805688,Ordinary Shares
+D,03/12/2020 00:00:00,Carr Patricia,4,S-Sale,--D,600,6500,1,0001784606,Ordinary Shares
+D,03/12/2020 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,1500,22118,1,0001236514,Ordinary Shares
+D,03/09/2020 00:00:00,Larkin Finbar,4,S-Sale,--D,615,13883,2,0001793243,Ordinary Shares
+D,03/09/2020 00:00:00,Carr Patricia,4,S-Sale,--D,568,7100,2,0001784606,Ordinary Shares
+D,03/06/2020 00:00:00,Larkin Finbar,4,S-Sale,--D,292,14498,1,0001793243,Ordinary Shares
+D,03/06/2020 00:00:00,Carr Patricia,4,S-Sale,--D,232,7668,1,0001784606,Ordinary Shares
+D,03/05/2020 00:00:00,Swisher Daniel N JR,4,F-InKind,--D,1735,43391,1,0001323113,Ordinary Shares
+D,03/05/2020 00:00:00,MILLER MICHAEL PATRICK,4,F-InKind,--D,2423,23618,1,0001236514,Ordinary Shares
+D,03/05/2020 00:00:00,COZADD BRUCE C,4,F-InKind,--D,15071,340033,1,0001193210,Ordinary Shares
+D,03/04/2020 00:00:00,Carr Patricia,4,S-Sale,--D,253,7900,2,0001784606,Ordinary Shares
+D,03/03/2020 00:00:00,Larkin Finbar,4,S-Sale,--D,279,14790,1,0001793243,Ordinary Shares
+D,03/03/2020 00:00:00,Carr Patricia,4,S-Sale,--D,247,8153,1,0001784606,Ordinary Shares
+A,02/27/2020 00:00:00,Swisher Daniel N JR,4,A-Award,--D,39114,39114,3,0001323113,Non-Qualified Stock Option (right to buy)
+A,02/27/2020 00:00:00,Swisher Daniel N JR,4,A-Award,--D,886,886,2,0001323113,Incentive Stock Option (right to buy)
+A,02/27/2020 00:00:00,Swisher Daniel N JR,4,A-Award,--D,16000,45126,1,0001323113,Ordinary Shares
+A,02/27/2020 00:00:00,Patil Neena M,4,A-Award,--D,20125,20125,3,0001783908,Non-Qualified Stock Option (right to buy)
+A,02/27/2020 00:00:00,Patil Neena M,4,A-Award,--D,875,875,2,0001783908,Incentive Stock Option (right to buy)
+A,02/27/2020 00:00:00,Patil Neena M,4,A-Award,--D,8400,20400,1,0001783908,Ordinary Shares
+A,02/27/2020 00:00:00,Larkin Finbar,4,A-Award,--D,12500,12500,2,0001793243,Non-Qualified Stock Option (right to buy)
+A,02/27/2020 00:00:00,Larkin Finbar,4,A-Award,--D,5000,15069,1,0001793243,Ordinary Shares
+A,02/27/2020 00:00:00,Iannone Robert,4,A-Award,--D,26116,26116,3,0001737329,Non-Qualified Stock Option (right to buy)
+A,02/27/2020 00:00:00,Iannone Robert,4,A-Award,--D,884,884,2,0001737329,Incentive Stock Option (right to buy)
+A,02/27/2020 00:00:00,Iannone Robert,4,A-Award,--D,10800,23000,1,0001737329,Ordinary Shares
+A,02/27/2020 00:00:00,COZADD BRUCE C,4,A-Award,--D,129115,129115,3,0001193210,Non-Qualified Stock Option (right to buy)
+A,02/27/2020 00:00:00,COZADD BRUCE C,4,A-Award,--D,885,885,2,0001193210,Incentive Stock Option (right to buy)
+A,02/27/2020 00:00:00,COZADD BRUCE C,4,A-Award,--D,52000,355104,1,0001193210,Ordinary Shares
+A,02/27/2020 00:00:00,Carr Patricia,4,A-Award,--D,6500,6500,2,0001784606,Non-Qualified Stock Option (right to buy)
+A,02/27/2020 00:00:00,Carr Patricia,4,A-Award,--D,2600,8400,1,0001784606,Ordinary Shares
+D,02/25/2020 00:00:00,COZADD BRUCE C,4,F-InKind,--D,2679,303104,2,0001193210,Ordinary Shares
+D,02/25/2020 00:00:00,MILLER MICHAEL PATRICK,4,F-InKind,--D,530,26041,1,0001236514,Ordinary Shares
+D,02/24/2020 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,6895,0,3,0001193210,Incentive Stock Option (right to buy)
+A,02/24/2020 00:00:00,COZADD BRUCE C,4,M-Exempt,--D,6895,305783,1,0001193210,Ordinary Shares
+D,02/13/2020 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,1500,26571,1,0001236514,Ordinary Shares
+D,02/03/2020 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,298888,1,0001193210,Ordinary Shares
+D,01/13/2020 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,1500,28071,1,0001236514,Ordinary Shares
+D,01/03/2020 00:00:00,Swisher Daniel N JR,4,D-Return,--D,1599,29126,1,0001323113,Ordinary Shares
+D,01/02/2020 00:00:00,COZADD BRUCE C,4,S-Sale,--D,250,299888,2,0001193210,Ordinary Shares
+D,01/02/2020 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,300138,1,0001193210,Ordinary Shares
+D,12/09/2019 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,1500,29571,1,0001236514,Ordinary Shares
+D,12/05/2019 00:00:00,Carr Patricia,4,M-Exempt,--D,1667,313,4,0001784606,Non-Qualified Stock Option (right to buy)
+D,12/05/2019 00:00:00,Carr Patricia,4,S-Sale,--D,82,5800,3,0001784606,Ordinary Shares
+D,12/05/2019 00:00:00,Carr Patricia,4,S-Sale,--D,1667,5882,2,0001784606,Ordinary Shares
+A,12/05/2019 00:00:00,Carr Patricia,4,M-Exempt,--D,1667,7549,1,0001784606,Ordinary Shares
+D,12/04/2019 00:00:00,O'Keefe Kenneth W,4,S-Sale,--I,6750,4445,1,0001397661,Ordinary Shares
+D,12/02/2019 00:00:00,COZADD BRUCE C,4,S-Sale,--D,10750,301138,1,0001193210,Ordinary Shares
+A,11/07/2019 00:00:00,Larkin Finbar,4,A-Award,--D,1500,9988,1,0001793243,Ordinary Shares
+D,11/05/2019 00:00:00,COZADD BRUCE C,4,S-Sale,--D,500,311855,1,0001193210,Ordinary Shares
+D,10/01/2019 00:00:00,COZADD BRUCE C,4,S-Sale,--D,500,312355,1,0001193210,Ordinary Shares
+D,08/12/2019 00:00:00,Treacy Paul,4,S-Sale,--D,4371,16418,1,0001615763,Ordinary Shares
+D,08/09/2019 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,726,17663,2,0001253886,Ordinary Shares
+D,08/09/2019 00:00:00,Winningham Rick E,4,S-Sale,--D,726,4424,2,0001302443,Ordinary Shares
+D,08/09/2019 00:00:00,Sohn Catherine A.,4,S-Sale,--D,726,8848,2,0001555132,Ordinary Shares
+D,08/09/2019 00:00:00,Schnee Elmar,4,S-Sale,--D,817,7197,2,0001615762,Ordinary Shares
+D,08/09/2019 00:00:00,RIEDEL NORBERT G,4,S-Sale,--D,726,7685,2,0001161662,Ordinary Shares
+D,08/09/2019 00:00:00,O'Keefe Kenneth W,4,S-Sale,--D,726,5644,2,0001397661,Ordinary Shares
+D,08/09/2019 00:00:00,McSharry Heather Ann,4,S-Sale,--D,787,8637,2,0001576068,Ordinary Shares
+D,08/09/2019 00:00:00,Gray Peter,4,S-Sale,--D,787,9315,2,0001576096,Ordinary Shares
+D,08/09/2019 00:00:00,BERNS PAUL L,4,S-Sale,--D,726,7966,2,0001202769,Ordinary Shares
+A,08/08/2019 00:00:00,Carr Patricia,4,A-Award,--D,1200,5800,1,0001784606,Ordinary Shares
+A,08/08/2019 00:00:00,ENRIGHT PATRICK G,4,A-Award,--D,4805,4805,3,0001253886,Non-Qualified Stock Option (right to buy)
+A,08/08/2019 00:00:00,ENRIGHT PATRICK G,4,A-Award,--D,1920,18389,1,0001253886,Ordinary Shares
+A,08/08/2019 00:00:00,Winningham Rick E,4,A-Award,--D,4805,4805,3,0001302443,Non-Qualified Stock Option (right to buy)
+A,08/08/2019 00:00:00,Winningham Rick E,4,A-Award,--D,1920,5150,1,0001302443,Ordinary Shares
+A,08/08/2019 00:00:00,Sohn Catherine A.,4,A-Award,--D,4805,4805,3,0001555132,Non-Qualified Stock Option (right to buy)
+A,08/08/2019 00:00:00,Sohn Catherine A.,4,A-Award,--D,1920,9574,1,0001555132,Ordinary Shares
+A,08/08/2019 00:00:00,Schnee Elmar,4,A-Award,--D,4805,4805,3,0001615762,Non-Qualified Stock Option (right to buy)
+A,08/08/2019 00:00:00,Schnee Elmar,4,A-Award,--D,1920,8014,1,0001615762,Ordinary Shares
+A,08/08/2019 00:00:00,RIEDEL NORBERT G,4,A-Award,--D,4805,4805,3,0001161662,Non-Qualified Stock Option (right to buy)
+A,08/08/2019 00:00:00,RIEDEL NORBERT G,4,A-Award,--D,1920,8411,1,0001161662,Ordinary Shares
+A,08/08/2019 00:00:00,ORiordan Anne,4,A-Award,--D,4805,4805,2,0001767870,Non-Qualified Stock Option (right to buy)
+A,08/08/2019 00:00:00,ORiordan Anne,4,A-Award,--D,1920,4760,1,0001767870,Ordinary Shares
+A,08/08/2019 00:00:00,O'Keefe Kenneth W,4,A-Award,--D,4805,4805,4,0001397661,Non-Qualified Stock Option (right to buy)
+A,08/08/2019 00:00:00,O'Keefe Kenneth W,4,A-Award,--D,1920,6370,1,0001397661,Ordinary Shares
+A,08/08/2019 00:00:00,Mulligan Seamus,4,A-Award,--D,4805,4805,2,0001536639,Non-Qualified Stock Option (right to buy)
+A,08/08/2019 00:00:00,Mulligan Seamus,4,A-Award,--D,1920,1102788,1,0001536639,Ordinary Shares
+A,08/08/2019 00:00:00,McSharry Heather Ann,4,A-Award,--D,4805,4805,3,0001576068,Non-Qualified Stock Option (right to buy)
+A,08/08/2019 00:00:00,McSharry Heather Ann,4,A-Award,--D,1920,9424,1,0001576068,Ordinary Shares
+A,08/08/2019 00:00:00,Gray Peter,4,A-Award,--D,4805,4805,3,0001576096,Non-Qualified Stock Option (right to buy)
+A,08/08/2019 00:00:00,Gray Peter,4,A-Award,--D,1920,10102,1,0001576096,Ordinary Shares
+A,08/08/2019 00:00:00,BERNS PAUL L,4,A-Award,--D,4805,4805,3,0001202769,Non-Qualified Stock Option (right to buy)
+A,08/08/2019 00:00:00,BERNS PAUL L,4,A-Award,--D,1920,8692,1,0001202769,Ordinary Shares
+A,08/08/2019 00:00:00,Patil Neena M,4,A-Award,--D,27084,27084,3,0001783908,Non-Qualified Stock Option (right to buy)
+A,08/08/2019 00:00:00,Patil Neena M,4,A-Award,--D,2916,2916,2,0001783908,Incentive Stock Option (right to buy)
+A,08/08/2019 00:00:00,Patil Neena M,4,A-Award,--D,12000,12000,1,0001783908,Ordinary Shares
+A,08/08/2019 00:00:00,Iannone Robert,4,A-Award,--D,27584,27584,3,0001737329,Non-Qualified Stock Option (right to buy)
+A,08/08/2019 00:00:00,Iannone Robert,4,A-Award,--D,2916,2916,2,0001737329,Incentive Stock Option (right to buy)
+A,08/08/2019 00:00:00,Iannone Robert,4,A-Award,--D,12200,12200,1,0001737329,Ordinary Shares
+D,06/05/2019 00:00:00,MILLER MICHAEL PATRICK,4,F-InKind,--D,123,31039,1,0001236514,Ordinary Shares
+D,03/06/2019 00:00:00,Treacy Paul,4,S-Sale,--D,589,20649,2,0001615763,Ordinary Shares
+D,03/06/2019 00:00:00,Treacy Paul,4,S-Sale,--D,471,21238,1,0001615763,Ordinary Shares
+D,03/06/2019 00:00:00,Young Matthew P.,4,S-Sale,--D,1152,36200,3,0001601583,Ordinary Shares
+D,03/05/2019 00:00:00,Young Matthew P.,4,F-InKind,--D,1348,37352,2,0001601583,Ordinary Shares
+D,03/05/2019 00:00:00,Young Matthew P.,4,F-InKind,--D,1267,38700,1,0001601583,Ordinary Shares
+D,03/05/2019 00:00:00,WILSON KAREN J,4,F-InKind,--D,302,18385,2,0001267490,Ordinary Shares
+D,03/05/2019 00:00:00,WILSON KAREN J,4,F-InKind,--D,276,18687,1,0001267490,Ordinary Shares
+D,03/05/2019 00:00:00,MILLER MICHAEL PATRICK,4,F-InKind,--D,648,31022,2,0001236514,Ordinary Shares
+D,03/05/2019 00:00:00,MILLER MICHAEL PATRICK,4,F-InKind,--D,833,31670,1,0001236514,Ordinary Shares
+D,03/05/2019 00:00:00,McGill Iain,4,F-InKind,--D,618,24938,2,0001615764,Ordinary Shares
+D,03/05/2019 00:00:00,McGill Iain,4,F-InKind,--D,549,25556,1,0001615764,Ordinary Shares
+D,03/05/2019 00:00:00,COZADD BRUCE C,4,F-InKind,--D,4288,312715,2,0001193210,Ordinary Shares
+D,03/05/2019 00:00:00,COZADD BRUCE C,4,F-InKind,--D,4586,317003,1,0001193210,Ordinary Shares
+D,03/01/2019 00:00:00,Treacy Paul,4,S-Sale,--D,351,21709,3,0001615763,Ordinary Shares
+D,03/01/2019 00:00:00,Treacy Paul,4,S-Sale,--D,523,22060,2,0001615763,Ordinary Shares
+A,02/28/2019 00:00:00,ORiordan Anne,4,A-Award,--D,7100,7100,2,0001767870,Non-Qualified Stock Option (right to buy)
+A,02/28/2019 00:00:00,ORiordan Anne,4,A-Award,--D,2840,2840,1,0001767870,Ordinary Shares
+A,02/28/2019 00:00:00,Young Matthew P.,4,A-Award,--D,29286,29286,3,0001601583,Non-Qualified Stock Option (right to buy)
+A,02/28/2019 00:00:00,Young Matthew P.,4,A-Award,--D,714,714,2,0001601583,Incentive Stock Option (right to buy)
+A,02/28/2019 00:00:00,Young Matthew P.,4,A-Award,--D,12000,39967,1,0001601583,Ordinary Shares
+A,02/28/2019 00:00:00,WILSON KAREN J,4,A-Award,--D,8174,8174,3,0001267490,Non-Qualified Stock Option (right to buy)
+A,02/28/2019 00:00:00,WILSON KAREN J,4,A-Award,--D,576,576,2,0001267490,Incentive Stock Option (right to buy)
+A,02/28/2019 00:00:00,WILSON KAREN J,4,A-Award,--D,3500,18963,1,0001267490,Ordinary Shares
+A,02/28/2019 00:00:00,Treacy Paul,4,A-Award,--D,12500,12500,4,0001615763,Non-Qualified Stock Option (right to buy)
+A,02/28/2019 00:00:00,Treacy Paul,4,A-Award,--D,5000,22583,1,0001615763,Ordinary Shares
+A,02/28/2019 00:00:00,Swisher Daniel N JR,4,A-Award,--D,34286,34286,3,0001323113,Non-Qualified Stock Option (right to buy)
+A,02/28/2019 00:00:00,Swisher Daniel N JR,4,A-Award,--D,714,714,2,0001323113,Incentive Stock Option (right to buy)
+A,02/28/2019 00:00:00,Swisher Daniel N JR,4,A-Award,--D,14000,30512,1,0001323113,Ordinary Shares
+A,02/28/2019 00:00:00,MILLER MICHAEL PATRICK,4,A-Award,--D,20286,20286,3,0001236514,Non-Qualified Stock Option (right to buy)
+A,02/28/2019 00:00:00,MILLER MICHAEL PATRICK,4,A-Award,--D,714,714,2,0001236514,Incentive Stock Option (right to buy)
+A,02/28/2019 00:00:00,MILLER MICHAEL PATRICK,4,A-Award,--D,8400,32503,1,0001236514,Ordinary Shares
+A,02/28/2019 00:00:00,McGill Iain,4,A-Award,--D,12500,12500,2,0001615764,Non-Qualified Stock Option (right to buy)
+A,02/28/2019 00:00:00,McGill Iain,4,A-Award,--D,5000,26105,1,0001615764,Ordinary Shares
+A,02/28/2019 00:00:00,COZADD BRUCE C,4,A-Award,--D,124286,124286,3,0001193210,Non-Qualified Stock Option (right to buy)
+A,02/28/2019 00:00:00,COZADD BRUCE C,4,A-Award,--D,714,714,2,0001193210,Incentive Stock Option (right to buy)
+A,02/28/2019 00:00:00,COZADD BRUCE C,4,A-Award,--D,50000,321589,1,0001193210,Ordinary Shares
+D,02/27/2019 00:00:00,Hooper Suzanne Sawochka,4,M-Exempt,--D,6666,28671,5,0001544589,Non-Qualified Stock Option (right to buy)
+D,02/27/2019 00:00:00,Hooper Suzanne Sawochka,4,S-Sale,--D,6666,39738,4,0001544589,Ordinary Shares
+A,02/27/2019 00:00:00,Hooper Suzanne Sawochka,4,M-Exempt,--D,6666,46404,3,0001544589,Ordinary Shares
+D,02/27/2019 00:00:00,Young Matthew P.,4,S-Sale,--D,884,27967,4,0001601583,Ordinary Shares
+D,02/26/2019 00:00:00,Hooper Suzanne Sawochka,4,F-InKind,--D,663,39738,2,0001544589,Ordinary Shares
+D,02/26/2019 00:00:00,Young Matthew P.,4,F-InKind,--D,1034,28851,3,0001601583,Ordinary Shares
+D,02/26/2019 00:00:00,Young Matthew P.,4,S-Sale,--D,1032,29885,2,0001601583,Ordinary Shares
+D,02/26/2019 00:00:00,WILSON KAREN J,4,F-InKind,--D,230,15463,2,0001267490,Ordinary Shares
+D,02/26/2019 00:00:00,MILLER MICHAEL PATRICK,4,F-InKind,--D,414,24103,2,0001236514,Ordinary Shares
+D,02/26/2019 00:00:00,McGill Iain,4,F-InKind,--D,394,21105,2,0001615764,Ordinary Shares
+D,02/26/2019 00:00:00,COZADD BRUCE C,4,F-InKind,--D,3420,271589,2,0001193210,Ordinary Shares
+D,02/25/2019 00:00:00,Hooper Suzanne Sawochka,4,F-InKind,--D,783,40401,1,0001544589,Ordinary Shares
+D,02/25/2019 00:00:00,Young Matthew P.,4,F-InKind,--D,1218,30917,1,0001601583,Ordinary Shares
+D,02/25/2019 00:00:00,WILSON KAREN J,4,F-InKind,--D,310,15693,1,0001267490,Ordinary Shares
+D,02/25/2019 00:00:00,MILLER MICHAEL PATRICK,4,F-InKind,--D,528,24517,1,0001236514,Ordinary Shares
+D,02/25/2019 00:00:00,McGill Iain,4,F-InKind,--D,549,21499,1,0001615764,Ordinary Shares
+D,02/25/2019 00:00:00,COZADD BRUCE C,4,F-InKind,--D,2679,275009,1,0001193210,Ordinary Shares
+D,01/03/2019 00:00:00,Swisher Daniel N JR,4,F-InKind,--D,1604,16512,1,0001323113,Ordinary Shares
+D,12/14/2018 00:00:00,Hooper Suzanne Sawochka,4,M-Exempt,--D,3295,35337,4,0001544589,Non-Qualified Stock Option (right to buy)
+D,12/14/2018 00:00:00,Hooper Suzanne Sawochka,4,S-Sale,--D,39,41184,3,0001544589,Ordinary Shares
+D,12/14/2018 00:00:00,Hooper Suzanne Sawochka,4,S-Sale,--D,3295,41223,2,0001544589,Ordinary Shares
+A,12/14/2018 00:00:00,Hooper Suzanne Sawochka,4,M-Exempt,--D,3295,44518,1,0001544589,Ordinary Shares
+D,12/03/2018 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,277688,1,0001193210,Ordinary Shares
+D,11/23/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,700,32068,1,0001601583,Ordinary Shares
+A,11/15/2018 00:00:00,Mulligan Seamus,4,P-Purchase,--D,22137,1100868,4,0001536639,Ordinary Shares
+A,11/15/2018 00:00:00,Mulligan Seamus,4,P-Purchase,--D,26363,1078731,3,0001536639,Ordinary Shares
+A,11/15/2018 00:00:00,Mulligan Seamus,4,P-Purchase,--D,1200,1052368,2,0001536639,Ordinary Shares
+A,11/15/2018 00:00:00,Mulligan Seamus,4,P-Purchase,--D,300,1051168,1,0001536639,Ordinary Shares
+D,11/13/2018 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,24972,1,0001236514,Ordinary Shares
+D,11/01/2018 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1300,278615,1,0001193210,Ordinary Shares
+D,10/15/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,700,32768,1,0001601583,Ordinary Shares
+D,10/12/2018 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,25172,1,0001236514,Ordinary Shares
+D,10/01/2018 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1300,279915,1,0001193210,Ordinary Shares
+D,09/21/2018 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1300,281215,1,0001193210,Ordinary Shares
+D,09/17/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,700,33468,1,0001601583,Ordinary Shares
+D,09/14/2018 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,25372,1,0001236514,Ordinary Shares
+D,09/06/2018 00:00:00,ENRIGHT PATRICK G,4,M-Exempt,--D,3415,0,9,0001253886,Non-Qualified Stock Option (right to buy)
+D,09/06/2018 00:00:00,ENRIGHT PATRICK G,4,M-Exempt,--D,3415,0,8,0001253886,Non-Qualified Stock Option (right to buy)
+D,09/06/2018 00:00:00,ENRIGHT PATRICK G,4,M-Exempt,--D,3300,0,7,0001253886,Non-Qualified Stock Option (right to buy)
+D,09/06/2018 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,1000,16469,6,0001253886,Ordinary Shares
+D,09/06/2018 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,7086,17469,5,0001253886,Ordinary Shares
+D,09/06/2018 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,2044,24555,4,0001253886,Ordinary Shares
+A,09/06/2018 00:00:00,ENRIGHT PATRICK G,4,M-Exempt,--D,3300,26599,3,0001253886,Ordinary Shares
+A,09/06/2018 00:00:00,ENRIGHT PATRICK G,4,M-Exempt,--D,3415,23299,2,0001253886,Ordinary Shares
+A,09/06/2018 00:00:00,ENRIGHT PATRICK G,4,M-Exempt,--D,3415,19884,1,0001253886,Ordinary Shares
+D,08/24/2018 00:00:00,Winningham Rick E,5,G-Gift,--D,1720,3230,1,0001302443,Ordinary Shares
+D,08/15/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,700,34168,1,0001601583,Ordinary Shares
+D,08/14/2018 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,25572,1,0001236514,Ordinary Shares
+D,08/10/2018 00:00:00,RIEDEL NORBERT G,4,S-Sale,--D,660,6491,2,0001161662,Ordinary Shares
+D,08/10/2018 00:00:00,Treacy Paul,4,S-Sale,--D,1309,17458,1,0001615763,Ordinary Shares
+D,08/10/2018 00:00:00,BERNS PAUL L,4,S-Sale,--D,660,6772,2,0001202769,Ordinary Shares
+D,08/10/2018 00:00:00,Gray Peter,4,S-Sale,--D,715,8182,2,0001576096,Ordinary Shares
+D,08/10/2018 00:00:00,O'Keefe Kenneth W,4,S-Sale,--D,660,4450,2,0001397661,Ordinary Shares
+D,08/10/2018 00:00:00,McSharry Heather Ann,4,S-Sale,--D,715,7504,2,0001576068,Ordinary Shares
+D,08/10/2018 00:00:00,Schnee Elmar,4,S-Sale,--D,742,6094,2,0001615762,Ordinary Shares
+D,08/10/2018 00:00:00,Sohn Catherine A.,4,S-Sale,--D,660,7654,2,0001555132,Ordinary Shares
+D,08/10/2018 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,1365,16469,2,0001253886,Ordinary Shares
+D,08/10/2018 00:00:00,Winningham Rick E,4,S-Sale,--D,660,4950,7,0001302443,Ordinary Shares
+A,08/09/2018 00:00:00,RIEDEL NORBERT G,4,A-Award,--D,3735,3735,3,0001161662,Non-Qualified Stock Option (right to buy)
+A,08/09/2018 00:00:00,RIEDEL NORBERT G,4,A-Award,--D,1495,7151,1,0001161662,Ordinary Shares
+A,08/09/2018 00:00:00,Mulligan Seamus,4,A-Award,--D,3735,3735,2,0001536639,Non-Qualified Stock Option (right to buy)
+A,08/09/2018 00:00:00,Mulligan Seamus,4,A-Award,--D,1495,1050868,1,0001536639,Ordinary Shares
+A,08/09/2018 00:00:00,BERNS PAUL L,4,A-Award,--D,3735,3735,3,0001202769,Non-Qualified Stock Option (right to buy)
+A,08/09/2018 00:00:00,BERNS PAUL L,4,A-Award,--D,1495,7432,1,0001202769,Ordinary Shares
+A,08/09/2018 00:00:00,Gray Peter,4,A-Award,--D,3735,3735,3,0001576096,Non-Qualified Stock Option (right to buy)
+A,08/09/2018 00:00:00,Gray Peter,4,A-Award,--D,1495,8897,1,0001576096,Ordinary Shares
+A,08/09/2018 00:00:00,O'Keefe Kenneth W,4,A-Award,--D,3735,3735,4,0001397661,Non-Qualified Stock Option (right to buy)
+A,08/09/2018 00:00:00,O'Keefe Kenneth W,4,A-Award,--D,1495,5110,1,0001397661,Ordinary Shares
+A,08/09/2018 00:00:00,McSharry Heather Ann,4,A-Award,--D,3735,3735,3,0001576068,Non-Qualified Stock Option (right to buy)
+A,08/09/2018 00:00:00,McSharry Heather Ann,4,A-Award,--D,1495,8219,1,0001576068,Ordinary Shares
+A,08/09/2018 00:00:00,Schnee Elmar,4,A-Award,--D,3735,3735,3,0001615762,Non-Qualified Stock Option (right to buy)
+A,08/09/2018 00:00:00,Schnee Elmar,4,A-Award,--D,1495,6836,1,0001615762,Ordinary Shares
+A,08/09/2018 00:00:00,Sohn Catherine A.,4,A-Award,--D,3735,3735,3,0001555132,Non-Qualified Stock Option (right to buy)
+A,08/09/2018 00:00:00,Sohn Catherine A.,4,A-Award,--D,1495,8314,1,0001555132,Ordinary Shares
+A,08/09/2018 00:00:00,ENRIGHT PATRICK G,4,A-Award,--D,3735,3735,3,0001253886,Non-Qualified Stock Option (right to buy)
+A,08/09/2018 00:00:00,ENRIGHT PATRICK G,4,A-Award,--D,1495,17834,1,0001253886,Ordinary Shares
+A,08/09/2018 00:00:00,Winningham Rick E,4,A-Award,--D,3735,3735,10,0001302443,Non-Qualified Stock Option (right to buy)
+D,08/09/2018 00:00:00,Winningham Rick E,4,M-Exempt,--D,4500,0,9,0001302443,Non-Qualified Stock Option (right to buy)
+D,08/09/2018 00:00:00,Winningham Rick E,4,M-Exempt,--D,4500,0,8,0001302443,Non-Qualified Stock Option (right to buy)
+D,08/09/2018 00:00:00,Winningham Rick E,4,S-Sale,--D,3437,5610,6,0001302443,Ordinary Shares
+D,08/09/2018 00:00:00,Winningham Rick E,4,S-Sale,--D,3542,9047,5,0001302443,Ordinary Shares
+A,08/09/2018 00:00:00,Winningham Rick E,4,A-Award,--D,1495,12589,4,0001302443,Ordinary Shares
+D,08/09/2018 00:00:00,Winningham Rick E,4,S-Sale,--D,9000,11094,3,0001302443,Ordinary Shares
+A,08/09/2018 00:00:00,Winningham Rick E,4,M-Exempt,--D,4500,20094,2,0001302443,Ordinary Shares
+A,08/09/2018 00:00:00,Winningham Rick E,4,M-Exempt,--D,4500,15594,1,0001302443,Ordinary Shares
+D,08/01/2018 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1600,282515,1,0001193210,Ordinary Shares
+D,07/16/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,700,34868,1,0001601583,Ordinary Shares
+D,07/13/2018 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,25772,1,0001236514,Ordinary Shares
+D,07/02/2018 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1600,284115,1,0001193210,Ordinary Shares
+D,06/15/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,700,35568,1,0001601583,Ordinary Shares
+D,06/14/2018 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,25972,1,0001236514,Ordinary Shares
+D,06/05/2018 00:00:00,MILLER MICHAEL PATRICK,4,F-InKind,--D,123,26172,1,0001236514,Ordinary Shares
+D,06/01/2018 00:00:00,Young Matthew P.,4,M-Exempt,--D,5000,12192,3,0001601583,Non-Qualified Stock Option (right to buy)
+D,06/01/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,5000,36268,2,0001601583,Ordinary Shares
+A,06/01/2018 00:00:00,Young Matthew P.,4,M-Exempt,--D,5000,41268,1,0001601583,Ordinary Shares
+D,06/01/2018 00:00:00,COZADD BRUCE C,4,S-Sale,--D,4000,285715,2,0001193210,Ordinary Shares
+D,06/01/2018 00:00:00,COZADD BRUCE C,4,S-Sale,--D,3000,289715,1,0001193210,Ordinary Shares
+D,05/15/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,1420,36203,2,0001601583,Ordinary Shares
+D,05/14/2018 00:00:00,Young Matthew P.,4,F-InKind,--D,842,37623,1,0001601583,Ordinary Shares
+D,05/14/2018 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,26122,1,0001236514,Ordinary Shares
+D,05/14/2018 00:00:00,Hooper Suzanne Sawochka,4,M-Exempt,--D,1691,0,5,0001544589,Incentive Stock Option (right to buy)
+D,05/14/2018 00:00:00,Hooper Suzanne Sawochka,4,M-Exempt,--D,8540,0,4,0001544589,Incentive Stock Option (right to buy)
+A,05/14/2018 00:00:00,Hooper Suzanne Sawochka,4,M-Exempt,--D,1691,40978,3,0001544589,Ordinary Shares
+A,05/14/2018 00:00:00,Hooper Suzanne Sawochka,4,M-Exempt,--D,8540,39287,2,0001544589,Ordinary Shares
+D,05/11/2018 00:00:00,WILSON KAREN J,4,S-Sale,--D,54,15757,2,0001267490,Ordinary Shares
+D,05/11/2018 00:00:00,WILSON KAREN J,4,S-Sale,--D,3706,15811,1,0001267490,Ordinary Shares
+D,05/11/2018 00:00:00,Hooper Suzanne Sawochka,4,S-Sale,--D,7500,30747,1,0001544589,Ordinary Shares
+D,05/07/2018 00:00:00,MILLER MICHAEL PATRICK,4,F-InKind,--D,1159,26322,1,0001236514,Ordinary Shares
+D,05/01/2018 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,292542,1,0001193210,Ordinary Shares
+D,04/16/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,700,38465,1,0001601583,Ordinary Shares
+D,04/13/2018 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,27481,1,0001236514,Ordinary Shares
+D,04/10/2018 00:00:00,WILSON KAREN J,4,S-Sale,--D,3899,19517,1,0001267490,Ordinary Shares
+D,04/02/2018 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,293542,1,0001193210,Ordinary Shares
+D,03/15/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,700,39165,1,0001601583,Ordinary Shares
+D,03/14/2018 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,27681,1,0001236514,Ordinary Shares
+D,03/09/2018 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,294542,1,0001193210,Ordinary Shares
+D,03/06/2018 00:00:00,Treacy Paul,4,S-Sale,--D,594,18641,1,0001615763,Ordinary Shares
+D,03/06/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,352,39865,3,0001601583,Ordinary Shares
+D,03/06/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,800,40217,2,0001601583,Ordinary Shares
+D,03/05/2018 00:00:00,COZADD BRUCE C,4,F-InKind,--D,4288,295542,1,0001193210,Ordinary Shares
+D,03/05/2018 00:00:00,Hooper Suzanne Sawochka,4,F-InKind,--D,1239,38247,1,0001544589,Ordinary Shares
+D,03/05/2018 00:00:00,McGill Iain,4,F-InKind,--D,614,22048,1,0001615764,Ordinary Shares
+D,03/05/2018 00:00:00,MILLER MICHAEL PATRICK,4,F-InKind,--D,648,27881,1,0001236514,Ordinary Shares
+D,03/05/2018 00:00:00,Smith Karen L.,4,F-InKind,--D,648,28474,1,0001639637,Ordinary Shares
+D,03/05/2018 00:00:00,WILSON KAREN J,4,F-InKind,--D,302,23416,1,0001267490,Ordinary Shares
+D,03/05/2018 00:00:00,Young Matthew P.,4,F-InKind,--D,1348,41017,1,0001601583,Ordinary Shares
+D,03/02/2018 00:00:00,Treacy Paul,4,S-Sale,--D,352,19235,3,0001615763,Ordinary Shares
+D,03/02/2018 00:00:00,Treacy Paul,4,S-Sale,--D,525,19587,2,0001615763,Ordinary Shares
+A,03/01/2018 00:00:00,Young Matthew P.,4,A-Award,--D,22790,22790,3,0001601583,Non-Qualified Stock Option (right to buy)
+A,03/01/2018 00:00:00,Young Matthew P.,4,A-Award,--D,710,710,2,0001601583,Incentive Stock Option (right to buy)
+A,03/01/2018 00:00:00,Young Matthew P.,4,A-Award,--D,9400,42365,1,0001601583,Ordinary Shares
+A,03/01/2018 00:00:00,WILSON KAREN J,4,A-Award,--D,7319,7319,3,0001267490,Non-Qualified Stock Option (right to buy)
+A,03/01/2018 00:00:00,WILSON KAREN J,4,A-Award,--D,681,681,2,0001267490,Incentive Stock Option (right to buy)
+A,03/01/2018 00:00:00,WILSON KAREN J,4,A-Award,--D,3200,23718,1,0001267490,Ordinary Shares
+A,03/01/2018 00:00:00,Treacy Paul,4,A-Award,--D,9000,9000,4,0001615763,Non-Qualified Stock Option (right to buy)
+A,03/01/2018 00:00:00,Treacy Paul,4,A-Award,--D,3600,20112,1,0001615763,Ordinary Shares
+A,03/01/2018 00:00:00,Swisher Daniel N JR,4,A-Award,--D,42160,42160,3,0001323113,Non-Qualified Stock Option (right to buy)
+A,03/01/2018 00:00:00,Swisher Daniel N JR,4,A-Award,--D,2840,2840,2,0001323113,Incentive Stock Option (right to buy)
+A,03/01/2018 00:00:00,Swisher Daniel N JR,4,A-Award,--D,18000,18000,1,0001323113,Ordinary Shares
+A,03/01/2018 00:00:00,Smith Karen L.,4,A-Award,--D,19290,19290,3,0001639637,Non-Qualified Stock Option (right to buy)
+A,03/01/2018 00:00:00,Smith Karen L.,4,A-Award,--D,710,710,2,0001639637,Incentive Stock Option (right to buy)
+A,03/01/2018 00:00:00,Smith Karen L.,4,A-Award,--D,8000,29122,1,0001639637,Ordinary Shares
+A,03/01/2018 00:00:00,MILLER MICHAEL PATRICK,4,A-Award,--D,19290,19290,3,0001236514,Non-Qualified Stock Option (right to buy)
+A,03/01/2018 00:00:00,MILLER MICHAEL PATRICK,4,A-Award,--D,710,710,2,0001236514,Incentive Stock Option (right to buy)
+A,03/01/2018 00:00:00,MILLER MICHAEL PATRICK,4,A-Award,--D,8000,28529,1,0001236514,Ordinary Shares
+A,03/01/2018 00:00:00,McGill Iain,4,A-Award,--D,10000,10000,2,0001615764,Non-Qualified Stock Option (right to buy)
+A,03/01/2018 00:00:00,McGill Iain,4,A-Award,--D,4000,22662,1,0001615764,Ordinary Shares
+A,03/01/2018 00:00:00,Hooper Suzanne Sawochka,4,A-Award,--D,22790,22790,3,0001544589,Non-Qualified Stock Option (right to buy)
+A,03/01/2018 00:00:00,Hooper Suzanne Sawochka,4,A-Award,--D,710,710,2,0001544589,Incentive Stock Option (right to buy)
+A,03/01/2018 00:00:00,Hooper Suzanne Sawochka,4,A-Award,--D,9400,39486,1,0001544589,Ordinary Shares
+A,03/01/2018 00:00:00,COZADD BRUCE C,4,A-Award,--D,91790,91790,3,0001193210,Non-Qualified Stock Option (right to buy)
+A,03/01/2018 00:00:00,COZADD BRUCE C,4,A-Award,--D,710,710,2,0001193210,Incentive Stock Option (right to buy)
+A,03/01/2018 00:00:00,COZADD BRUCE C,4,A-Award,--D,37000,299830,1,0001193210,Ordinary Shares
+D,02/28/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,700,32965,9,0001601583,Ordinary Shares
+D,02/28/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,200,33665,8,0001601583,Ordinary Shares
+D,02/28/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,119,33865,7,0001601583,Ordinary Shares
+D,02/28/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,200,33984,6,0001601583,Ordinary Shares
+D,02/28/2018 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,262830,3,0001193210,Ordinary Shares
+D,02/27/2018 00:00:00,Young Matthew P.,4,F-InKind,--D,606,34184,5,0001601583,Ordinary Shares
+D,02/27/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,300,34790,4,0001601583,Ordinary Shares
+D,02/27/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,600,35090,3,0001601583,Ordinary Shares
+D,02/27/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,1016,35690,2,0001601583,Ordinary Shares
+D,02/27/2018 00:00:00,WILSON KAREN J,4,F-InKind,--D,324,20518,2,0001267490,Ordinary Shares
+D,02/27/2018 00:00:00,McGill Iain,4,F-InKind,--D,784,18662,2,0001615764,Ordinary Shares
+D,02/27/2018 00:00:00,Hooper Suzanne Sawochka,4,F-InKind,--D,864,30086,2,0001544589,Ordinary Shares
+D,02/27/2018 00:00:00,COZADD BRUCE C,4,F-InKind,--D,3638,263830,2,0001193210,Ordinary Shares
+D,02/26/2018 00:00:00,Young Matthew P.,4,F-InKind,--D,2253,36706,1,0001601583,Ordinary Shares
+D,02/26/2018 00:00:00,WILSON KAREN J,4,F-InKind,--D,537,20842,1,0001267490,Ordinary Shares
+D,02/26/2018 00:00:00,Smith Karen L.,4,F-InKind,--D,525,21122,1,0001639637,Ordinary Shares
+D,02/26/2018 00:00:00,MILLER MICHAEL PATRICK,4,F-InKind,--D,940,20529,1,0001236514,Ordinary Shares
+D,02/26/2018 00:00:00,McGill Iain,4,F-InKind,--D,937,19446,1,0001615764,Ordinary Shares
+D,02/26/2018 00:00:00,Hooper Suzanne Sawochka,4,F-InKind,--D,1445,30950,1,0001544589,Ordinary Shares
+D,02/26/2018 00:00:00,COZADD BRUCE C,4,F-InKind,--D,6269,267468,1,0001193210,Ordinary Shares
+D,02/14/2018 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,21469,1,0001236514,Ordinary Shares
+D,01/16/2018 00:00:00,Young Matthew P.,4,S-Sale,--D,700,38959,1,0001601583,Ordinary Shares
+D,01/12/2018 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,21669,1,0001236514,Ordinary Shares
+D,01/12/2018 00:00:00,COZADD BRUCE C,4,S-Sale,--D,3000,273737,1,0001193210,Ordinary Shares
+D,12/11/2017 00:00:00,Cox Russell J.,4,M-Exempt,--D,1691,0,6,0001512984,Incentive Stock Option (right to buy)
+D,12/11/2017 00:00:00,Cox Russell J.,4,M-Exempt,--D,4867,0,5,0001512984,Incentive Stock Option (right to buy)
+D,12/11/2017 00:00:00,Cox Russell J.,4,M-Exempt,--D,44200,0,4,0001512984,Incentive Stock Option (right to buy)
+A,12/11/2017 00:00:00,Cox Russell J.,4,M-Exempt,--D,1691,102821,3,0001512984,Ordinary Shares
+A,12/11/2017 00:00:00,Cox Russell J.,4,M-Exempt,--D,4867,101130,2,0001512984,Ordinary Shares
+A,12/11/2017 00:00:00,Cox Russell J.,4,M-Exempt,--D,44200,96263,1,0001512984,Ordinary Shares
+D,12/11/2017 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,21869,1,0001236514,Ordinary Shares
+D,12/11/2017 00:00:00,ENRIGHT PATRICK G,4,M-Exempt,--D,4500,0,7,0001253886,Non-employee director stock option
+D,12/11/2017 00:00:00,ENRIGHT PATRICK G,4,M-Exempt,--D,4500,0,6,0001253886,Non-Qualified Stock Option (right to buy)
+D,12/11/2017 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,2842,16339,5,0001253886,Ordinary Shares
+D,12/11/2017 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,5358,19181,4,0001253886,Ordinary Shares
+D,12/11/2017 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,800,24539,3,0001253886,Ordinary Shares
+A,12/11/2017 00:00:00,ENRIGHT PATRICK G,4,M-Exempt,--D,4500,25339,2,0001253886,Ordinary Shares
+A,12/11/2017 00:00:00,ENRIGHT PATRICK G,4,M-Exempt,--D,4500,20839,1,0001253886,Ordinary Shares
+D,11/17/2017 00:00:00,McGill Iain,4,M-Exempt,--D,8000,4500,3,0001615764,Non-Qualified Stock Option (right to buy)
+D,11/17/2017 00:00:00,McGill Iain,4,S-Sale,--D,8000,20383,2,0001615764,Ordinary Shares
+A,11/17/2017 00:00:00,McGill Iain,4,M-Exempt,--D,8000,28383,1,0001615764,Ordinary Shares
+D,11/17/2017 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,352,1365,1,0001253886,Ordinary Shares
+D,10/02/2017 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,276664,1,0001193210,Ordinary Shares
+D,09/12/2017 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,277664,1,0001193210,Ordinary Shares
+D,08/25/2017 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,351,1717,1,0001253886,Ordinary Shares
+D,08/15/2017 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,21996,1,0001236514,Ordinary Shares
+D,08/14/2017 00:00:00,Treacy Paul,4,S-Sale,--D,1104,16385,2,0001615763,Ordinary Shares
+D,08/14/2017 00:00:00,Treacy Paul,4,S-Sale,--D,200,17489,1,0001615763,Ordinary Shares
+D,08/11/2017 00:00:00,Winningham Rick E,4,S-Sale,--D,3,11094,3,0001302443,Ordinary Shares
+D,08/11/2017 00:00:00,Winningham Rick E,4,S-Sale,--D,659,11097,2,0001302443,Ordinary Shares
+D,08/11/2017 00:00:00,Sohn Catherine A.,4,S-Sale,--D,3,6819,3,0001555132,Ordinary Shares
+D,08/11/2017 00:00:00,Sohn Catherine A.,4,S-Sale,--D,659,6822,2,0001555132,Ordinary Shares
+D,08/11/2017 00:00:00,Schnee Elmar,4,S-Sale,--D,2,5341,4,0001615762,Ordinary Shares
+D,08/11/2017 00:00:00,Schnee Elmar,4,S-Sale,--D,3,5343,3,0001615762,Ordinary Shares
+D,08/11/2017 00:00:00,Schnee Elmar,4,S-Sale,--D,1194,5346,2,0001615762,Ordinary Shares
+D,08/11/2017 00:00:00,RIEDEL NORBERT G,4,S-Sale,--D,3,5656,3,0001161662,Ordinary Shares
+D,08/11/2017 00:00:00,RIEDEL NORBERT G,4,S-Sale,--D,659,5659,2,0001161662,Ordinary Shares
+D,08/11/2017 00:00:00,O'Keefe Kenneth W,4,S-Sale,--D,3,12810,3,0001397661,Ordinary Shares
+D,08/11/2017 00:00:00,O'Keefe Kenneth W,4,S-Sale,--D,659,12813,2,0001397661,Ordinary Shares
+D,08/11/2017 00:00:00,McSharry Heather Ann,4,S-Sale,--D,3,6724,3,0001576068,Ordinary Shares
+D,08/11/2017 00:00:00,McSharry Heather Ann,4,S-Sale,--D,714,6727,2,0001576068,Ordinary Shares
+D,08/11/2017 00:00:00,Gray Peter,4,S-Sale,--D,3,7402,3,0001576096,Ordinary Shares
+D,08/11/2017 00:00:00,Gray Peter,4,S-Sale,--D,714,7405,2,0001576096,Ordinary Shares
+D,08/11/2017 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,3,2068,3,0001253886,Ordinary Shares
+D,08/11/2017 00:00:00,ENRIGHT PATRICK G,4,S-Sale,--D,659,2071,2,0001253886,Ordinary Shares
+D,08/11/2017 00:00:00,BERNS PAUL L,4,S-Sale,--D,3,5937,3,0001202769,Ordinary Shares
+D,08/11/2017 00:00:00,BERNS PAUL L,4,S-Sale,--D,659,5940,2,0001202769,Ordinary Shares
+A,08/10/2017 00:00:00,Winningham Rick E,4,A-Award,--D,3415,3415,4,0001302443,Non-Qualified Stock Option (right to buy)
+A,08/10/2017 00:00:00,Winningham Rick E,4,A-Award,--D,1365,11756,1,0001302443,Ordinary Shares
+A,08/10/2017 00:00:00,Sohn Catherine A.,4,A-Award,--D,3415,3415,4,0001555132,Non-Qualified Stock Option (right to buy)
+A,08/10/2017 00:00:00,Sohn Catherine A.,4,A-Award,--D,1365,7481,1,0001555132,Ordinary Shares
+A,08/10/2017 00:00:00,Schnee Elmar,4,A-Award,--D,3415,3415,5,0001615762,Non-Qualified Stock Option (right to buy)
+A,08/10/2017 00:00:00,Schnee Elmar,4,A-Award,--D,1365,6540,1,0001615762,Ordinary Shares
+A,08/10/2017 00:00:00,RIEDEL NORBERT G,4,A-Award,--D,3415,3415,4,0001161662,Non-Qualified Stock Option (right to buy)
+A,08/10/2017 00:00:00,RIEDEL NORBERT G,4,A-Award,--D,1365,6318,1,0001161662,Ordinary Shares
+A,08/10/2017 00:00:00,O'Keefe Kenneth W,4,A-Award,--D,3415,3415,5,0001397661,Non-Qualified Stock Option (right to buy)
+A,08/10/2017 00:00:00,O'Keefe Kenneth W,4,A-Award,--D,1365,13472,1,0001397661,Ordinary Shares
+A,08/10/2017 00:00:00,Mulligan Seamus,4,A-Award,--D,3415,3415,2,0001536639,Non-Qualified Stock Option (right to buy)
+A,08/10/2017 00:00:00,Mulligan Seamus,4,A-Award,--D,1365,1049373,1,0001536639,Ordinary Shares
+A,08/10/2017 00:00:00,McSharry Heather Ann,4,A-Award,--D,3415,3415,4,0001576068,Non-Qualified Stock Option (right to buy)
+A,08/10/2017 00:00:00,McSharry Heather Ann,4,A-Award,--D,1365,7441,1,0001576068,Ordinary Shares
+A,08/10/2017 00:00:00,Gray Peter,4,A-Award,--D,3415,3415,4,0001576096,Non-Qualified Stock Option (right to buy)
+A,08/10/2017 00:00:00,Gray Peter,4,A-Award,--D,1365,8119,1,0001576096,Ordinary Shares
+A,08/10/2017 00:00:00,ENRIGHT PATRICK G,4,A-Award,--D,3415,3415,6,0001253886,Non-Qualified Stock Option (right to buy)
+A,08/10/2017 00:00:00,ENRIGHT PATRICK G,4,A-Award,--D,1365,2730,1,0001253886,Ordinary Shares
+A,08/10/2017 00:00:00,BERNS PAUL L,4,A-Award,--D,3415,3415,4,0001202769,Non-Qualified Stock Option (right to buy)
+A,08/10/2017 00:00:00,BERNS PAUL L,4,A-Award,--D,1365,6599,1,0001202769,Ordinary Shares
+D,08/07/2017 00:00:00,Cox Russell J.,4,F-InKind,--D,978,51985,1,0001512984,Ordinary Shares
+D,07/20/2017 00:00:00,Hooper Suzanne Sawochka,4,S-Sale,--D,4580,32322,1,0001544589,Ordinary Shares
+D,07/17/2017 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,22196,1,0001236514,Ordinary Shares
+D,06/23/2017 00:00:00,Hooper Suzanne Sawochka,4,S-Sale,--D,420,36902,1,0001544589,Ordinary Shares
+D,06/15/2017 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,22223,1,0001236514,Ordinary Shares
+D,06/01/2017 00:00:00,Winningham Rick E,4,S-Sale,--D,5000,10391,1,0001302443,Ordinary Shares
+D,05/15/2017 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,22423,2,0001236514,Ordinary Shares
+D,05/12/2017 00:00:00,Young Matthew P.,4,F-InKind,--D,815,39533,1,0001601583,Ordinary Shares
+A,05/11/2017 00:00:00,Smith Karen L.,4,A-Award,--D,2500,2500,3,0001639637,Non-Qualified Stock Option (right to buy)
+A,05/11/2017 00:00:00,Smith Karen L.,4,A-Award,--D,1000,21527,2,0001639637,Ordinary Shares
+D,05/11/2017 00:00:00,Smith Karen L.,4,F-InKind,--D,641,20527,1,0001639637,Ordinary Shares
+A,05/11/2017 00:00:00,MILLER MICHAEL PATRICK,4,A-Award,--D,2500,2500,3,0001236514,Non-Qualified Stock Option (right to buy)
+A,05/11/2017 00:00:00,MILLER MICHAEL PATRICK,4,A-Award,--D,1000,22623,1,0001236514,Ordinary Shares
+D,05/11/2017 00:00:00,COZADD BRUCE C,4,S-Sale,--D,17927,278491,2,0001193210,Ordinary Shares
+D,05/11/2017 00:00:00,COZADD BRUCE C,4,S-Sale,--D,12073,296418,1,0001193210,Ordinary Shares
+D,05/09/2017 00:00:00,Hooper Suzanne Sawochka,4,S-Sale,--D,2500,37149,1,0001544589,Ordinary Shares
+D,05/05/2017 00:00:00,MILLER MICHAEL PATRICK,4,F-InKind,--D,939,21623,1,0001236514,Ordinary Shares
+D,05/03/2017 00:00:00,Young Matthew P.,4,F-InKind,--D,1565,40348,1,0001601583,Ordinary Shares
+D,04/27/2017 00:00:00,Hooper Suzanne Sawochka,4,S-Sale,--D,2500,39649,1,0001544589,Ordinary Shares
+D,04/27/2017 00:00:00,WILSON KAREN J,4,S-Sale,--D,1275,21133,1,0001267490,Ordinary Shares
+D,04/17/2017 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,22562,1,0001236514,Ordinary Shares
+D,04/11/2017 00:00:00,COZADD BRUCE C,4,S-Sale,--D,1000,308491,1,0001193210,Ordinary Shares
+D,04/10/2017 00:00:00,WILSON KAREN J,4,M-Exempt,--D,4750,0,6,0001267490,Non-Qualified Stock Option (right to buy)
+D,04/10/2017 00:00:00,WILSON KAREN J,4,M-Exempt,--D,6708,0,5,0001267490,Non-Qualified Stock Option (right to buy)
+D,04/10/2017 00:00:00,WILSON KAREN J,4,S-Sale,--D,6708,22408,4,0001267490,Ordinary Shares
+A,04/10/2017 00:00:00,WILSON KAREN J,4,M-Exempt,--D,6708,29116,3,0001267490,Ordinary Shares
+D,04/10/2017 00:00:00,WILSON KAREN J,4,S-Sale,--D,4750,22408,2,0001267490,Ordinary Shares
+A,04/10/2017 00:00:00,WILSON KAREN J,4,M-Exempt,--D,4750,27158,1,0001267490,Ordinary Shares
+D,03/15/2017 00:00:00,MILLER MICHAEL PATRICK,4,S-Sale,--D,200,22762,1,0001236514,Ordinary Shares
+D,03/08/2017 00:00:00,WILSON KAREN J,4,M-Exempt,--D,750,0,5,0001267490,Incentive Stock Option (right to buy)
+D,03/08/2017 00:00:00,WILSON KAREN J,4,M-Exempt,--D,2896,0,4,0001267490,Incentive Stock Option (right to buy)
+A,03/08/2017 00:00:00,WILSON KAREN J,4,M-Exempt,--D,750,22408,3,0001267490,Ordinary Shares
+A,03/08/2017 00:00:00,WILSON KAREN J,4,M-Exempt,--D,2896,21658,2,0001267490,Ordinary Shares
+D,03/06/2017 00:00:00,Hooper Suzanne Sawochka,4,F-InKind,--D,2087,42149,1,0001544589,Ordinary Shares
+D,03/06/2017 00:00:00,WILSON KAREN J,4,F-InKind,--D,563,18762,1,0001267490,Ordinary Shares
+D,03/06/2017 00:00:00,Treacy Paul,4,S-Sale,--D,529,17579,2,0001615763,Ordinary Shares
+D,03/06/2017 00:00:00,Treacy Paul,4,S-Sale,--D,355,18108,1,0001615763,Ordinary Shares
+D,03/06/2017 00:00:00,McGill Iain,4,F-InKind,--D,818,20383,1,0001615764,Ordinary Shares
+D,03/06/2017 00:00:00,COZADD BRUCE C,4,F-InKind,--D,5000,309491,1,0001193210,Ordinary Shares
+D,03/06/2017 00:00:00,Cox Russell J.,4,F-InKind,--D,1793,52795,1,0001512984,Ordinary Shares
+A,03/02/2017 00:00:00,Hooper Suzanne Sawochka,4,A-Award,--D,24266,24266,3,0001544589,Non-Qualified Stock Option (right to buy)
+A,03/02/2017 00:00:00,Hooper Suzanne Sawochka,4,A-Award,--D,734,734,2,0001544589,Incentive Stock Option (right to buy)
+A,03/02/2017 00:00:00,Hooper Suzanne Sawochka,4,A-Award,--D,10000,44236,1,0001544589,Ordinary Shares
+A,03/02/2017 00:00:00,Young Matthew P.,4,A-Award,--D,24266,24266,3,0001601583,Non-Qualified Stock Option (right to buy)

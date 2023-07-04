@@ -1,0 +1,561 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,05/24/2023 00:00:00,Perreault Roger,4,P-Purchase,--D,3565,41125,1,0001660266,UGI Common Stock
+A,04/11/2023 00:00:00,O'Brien Sean,4,A-Award,--D,5660,5660,4,0001599304,Stock Units
+A,04/11/2023 00:00:00,O'Brien Sean,4,A-Award,--D,7580,7580,3,0001599304,Performance Units
+A,04/11/2023 00:00:00,O'Brien Sean,4,A-Award,--D,8490,8490,2,0001599304,Performance Units
+A,04/11/2023 00:00:00,O'Brien Sean,4,A-Award,--D,26950,26950,1,0001599304,Options (Right to Buy)
+D,03/07/2023 00:00:00,Koerwer John,4,I-Discretionary,--I,431,2118,1,0001886789,UGI Common Stock
+A,01/27/2023 00:00:00,HERMANCE FRANK S,4,A-Award,--D,10120,10120,3,0001190203,Options (Right to Buy)
+A,01/27/2023 00:00:00,HERMANCE FRANK S,4,A-Award,--I,4640,56011,1,0001190203,UGI Common Stock
+A,01/27/2023 00:00:00,Stallings James B JR,4,A-Award,--D,5670,5670,3,0001573715,Options (Right to Buy)
+A,01/27/2023 00:00:00,Stallings James B JR,4,A-Award,--I,2600,24580,1,0001573715,UGI Common Stock
+A,01/27/2023 00:00:00,Romano Kelly A,4,A-Award,--D,5670,5670,2,0001722055,Options (Right to Buy)
+A,01/27/2023 00:00:00,Romano Kelly A,4,A-Award,--I,2600,12761,1,0001722055,UGI Common Stock
+A,01/27/2023 00:00:00,Miller Cindy J,4,A-Award,--D,5670,5670,2,0001754743,Options (Right to Buy)
+A,01/27/2023 00:00:00,Miller Cindy J,4,A-Award,--I,2600,9083,1,0001754743,UGI Common Stock
+A,01/27/2023 00:00:00,MARRAZZO WILLIAM J,4,A-Award,--D,5670,5670,3,0001234185,Options (Right to Buy)
+A,01/27/2023 00:00:00,MARRAZZO WILLIAM J,4,A-Award,--I,2600,11541,1,0001234185,UGI Common Stock
+A,01/27/2023 00:00:00,Longhi Mario,4,A-Award,--D,5670,5670,2,0001308357,Options (Right to Buy)
+A,01/27/2023 00:00:00,Longhi Mario,4,A-Award,--I,2600,9871,1,0001308357,UGI Common Stock
+A,01/27/2023 00:00:00,Harris Alan N,4,A-Award,--D,5670,5670,2,0001382625,Options (Right to Buy)
+A,01/27/2023 00:00:00,Harris Alan N,4,A-Award,--I,2600,15664,1,0001382625,UGI Common Stock
+A,01/27/2023 00:00:00,Dosch Ted A,4,A-Award,--D,5670,5670,3,0001301572,Options (Right to Buy)
+A,01/27/2023 00:00:00,Dosch Ted A,4,A-Award,--I,2600,18005,1,0001301572,UGI Common Stock
+A,01/27/2023 00:00:00,Bort M Shawn,4,A-Award,--D,5670,5670,3,0001453089,Options (Right to Buy)
+A,01/27/2023 00:00:00,Bort M Shawn,4,A-Award,--I,2600,60522,1,0001453089,UGI Common Stock
+A,01/12/2023 00:00:00,Perreault Roger,4,A-Award,--D,35830,35830,4,0001660266,Stock Units
+A,01/12/2023 00:00:00,Perreault Roger,4,A-Award,--D,38660,38660,3,0001660266,Performance Units
+A,01/12/2023 00:00:00,Perreault Roger,4,A-Award,--D,53740,53740,2,0001660266,Performance Units
+A,01/12/2023 00:00:00,Perreault Roger,4,A-Award,--D,157130,157130,1,0001660266,Options (Right to Buy)
+A,01/12/2023 00:00:00,Zagorski Judy A.,4,A-Award,--D,4830,4830,4,0001695144,Stock Units
+A,01/12/2023 00:00:00,Zagorski Judy A.,4,A-Award,--D,5210,5210,3,0001695144,Performance Units
+A,01/12/2023 00:00:00,Zagorski Judy A.,4,A-Award,--D,7240,7240,2,0001695144,Performance Units
+A,01/12/2023 00:00:00,Zagorski Judy A.,4,A-Award,--D,21160,21160,1,0001695144,Options (Right to Buy)
+A,01/12/2023 00:00:00,Tematio Jean Felix,4,A-Award,--D,2930,2930,4,0001873794,Stock Units
+A,01/12/2023 00:00:00,Tematio Jean Felix,4,A-Award,--D,1410,1410,3,0001873794,Performance Units
+A,01/12/2023 00:00:00,Tematio Jean Felix,4,A-Award,--D,1950,1950,2,0001873794,Performance Units
+A,01/12/2023 00:00:00,Tematio Jean Felix,4,A-Award,--D,12860,12860,1,0001873794,Options (Right to Buy)
+A,01/12/2023 00:00:00,Koerwer John,4,A-Award,--D,3080,3080,4,0001886789,Stock Units
+A,01/12/2023 00:00:00,Koerwer John,4,A-Award,--D,3320,3320,3,0001886789,Performance Units
+A,01/12/2023 00:00:00,Koerwer John,4,A-Award,--D,4610,4610,2,0001886789,Performance Units
+A,01/12/2023 00:00:00,Koerwer John,4,A-Award,--D,13490,13490,1,0001886789,Options (Right to Buy)
+A,01/12/2023 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,6760,6760,5,0001421305,Stock Units
+A,01/12/2023 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,7290,7290,4,0001421305,Performance Units
+A,01/12/2023 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,10130,10130,3,0001421305,Performance Units
+A,01/12/2023 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,29630,29630,2,0001421305,Options (Right to Buy)
+A,01/12/2023 00:00:00,Gaudiosi Monica M,4,A-Award,--D,4680,4680,4,0001385858,Stock Units
+A,01/12/2023 00:00:00,Gaudiosi Monica M,4,A-Award,--D,5050,5050,3,0001385858,Performance Units
+A,01/12/2023 00:00:00,Gaudiosi Monica M,4,A-Award,--D,7020,7020,2,0001385858,Performance Units
+A,01/12/2023 00:00:00,Gaudiosi Monica M,4,A-Award,--D,20530,20530,1,0001385858,Options (Right to Buy)
+A,01/12/2023 00:00:00,Beard Robert F.,4,A-Award,--D,9770,9770,4,0001529123,Stock Units
+A,01/12/2023 00:00:00,Beard Robert F.,4,A-Award,--D,10540,10540,3,0001529123,Performance Units
+A,01/12/2023 00:00:00,Beard Robert F.,4,A-Award,--D,14660,14660,2,0001529123,Performance Units
+A,01/12/2023 00:00:00,Beard Robert F.,4,A-Award,--D,42850,42850,1,0001529123,Options (Right to Buy)
+D,12/01/2022 00:00:00,HERMANCE FRANK S,4,M-Exempt,--D,12750,0,4,0001190203,Option (Right to Buy)
+D,12/01/2022 00:00:00,HERMANCE FRANK S,4,S-Sale,--D,12750,465000,2,0001190203,UGI Common Stock
+A,12/01/2022 00:00:00,HERMANCE FRANK S,4,M-Exempt,--D,12750,477750,1,0001190203,UGI Common Stock
+D,11/01/2022 00:00:00,Gaudiosi Monica M,4,M-Exempt,--D,75000,0,3,0001385858,Option (Right to Buy)
+D,11/01/2022 00:00:00,Gaudiosi Monica M,4,S-Sale,--D,75000,61109,2,0001385858,UGI Common Stock
+A,11/01/2022 00:00:00,Gaudiosi Monica M,4,M-Exempt,--D,75000,136109,1,0001385858,UGI Common Stock
+D,10/28/2022 00:00:00,Perreault Roger,4,M-Exempt,--D,16666,33334,3,0001660266,Option (Right to Buy)
+D,10/28/2022 00:00:00,Perreault Roger,4,S-Sale,--D,16341,37560,2,0001660266,UGI Common Stock
+A,10/28/2022 00:00:00,Perreault Roger,4,M-Exempt,--D,16666,53901,1,0001660266,UGI Common Stock
+D,09/01/2022 00:00:00,Walsh John L,4,M-Exempt,--D,75000,150000,7,0001321522,Option (Right to Buy)
+D,09/01/2022 00:00:00,Walsh John L,4,S-Sale,--D,75000,429734,4,0001321522,UGI Common Stock
+A,09/01/2022 00:00:00,Walsh John L,4,M-Exempt,--D,75000,504734,3,0001321522,UGI Common Stock
+D,08/30/2022 00:00:00,Walsh John L,4,M-Exempt,--D,75000,225000,6,0001321522,Option (Right to Buy)
+D,08/30/2022 00:00:00,Walsh John L,4,S-Sale,--D,75000,429734,2,0001321522,UGI Common Stock
+A,08/30/2022 00:00:00,Walsh John L,4,M-Exempt,--D,75000,504734,1,0001321522,UGI Common Stock
+D,05/27/2022 00:00:00,Walsh John L,4,M-Exempt,--D,105000,300000,4,0001321522,Option (Right to Buy)
+D,05/27/2022 00:00:00,Walsh John L,4,S-Sale,--D,105000,429734,2,0001321522,UGI Common Stock
+A,05/27/2022 00:00:00,Walsh John L,4,M-Exempt,--D,105000,534734,1,0001321522,UGI Common Stock
+D,05/19/2022 00:00:00,Walsh John L,4,G-Gift,-ED,10000,429734,1,0001321522,UGI Common Stock
+D,02/18/2022 00:00:00,Walsh John L,4,S-Sale,--D,0.4983,439734,1,0001321522,UGI Common Stock
+A,02/17/2022 00:00:00,Perreault Roger,4,P-Purchase,--D,3900,37235,1,0001660266,UGI Common Stock
+A,02/16/2022 00:00:00,HERMANCE FRANK S,4,P-Purchase,--D,65000,465000,1,0001190203,UGI Common Stock
+A,01/28/2022 00:00:00,Bort M Shawn,4/A,A-Award,--D,6050,6050,3,0001453089,Options (Right to Buy)
+A,01/28/2022 00:00:00,Bort M Shawn,4/A,A-Award,--I,2300,55778,1,0001453089,UGI Common Stock
+A,01/28/2022 00:00:00,Dosch Ted A,4/A,A-Award,--D,6050,6050,3,0001301572,Options (Right to Buy)
+A,01/28/2022 00:00:00,Dosch Ted A,4/A,A-Award,--I,2300,14834,1,0001301572,UGI Common Stock
+A,01/28/2022 00:00:00,Harris Alan N,4/A,A-Award,--D,6050,6050,2,0001382625,Options (Right to Buy)
+A,01/28/2022 00:00:00,Harris Alan N,4/A,A-Award,--I,2300,12580,1,0001382625,UGI Common Stock
+A,01/28/2022 00:00:00,HERMANCE FRANK S,4/A,A-Award,--D,10810,10810,3,0001190203,Options (Right to Buy)
+A,01/28/2022 00:00:00,HERMANCE FRANK S,4/A,A-Award,--I,4110,49469,1,0001190203,UGI Common Stock
+A,01/28/2022 00:00:00,Longhi Mario,4/A,A-Award,--D,6050,6050,2,0001308357,Options (Right to Buy)
+A,01/28/2022 00:00:00,Longhi Mario,4/A,A-Award,--I,2300,7002,1,0001308357,UGI Common Stock
+A,01/28/2022 00:00:00,MARRAZZO WILLIAM J,4/A,A-Award,--D,6050,6050,3,0001234185,Options (Right to Buy)
+A,01/28/2022 00:00:00,MARRAZZO WILLIAM J,4/A,A-Award,--I,2300,8610,1,0001234185,UGI Common Stock
+A,01/28/2022 00:00:00,Miller Cindy J,4/A,A-Award,--D,6050,6050,2,0001754743,Options (Right to Buy)
+A,01/28/2022 00:00:00,Miller Cindy J,4/A,A-Award,--I,2300,6243,1,0001754743,UGI Common Stock
+A,01/28/2022 00:00:00,Romano Kelly A,4/A,A-Award,--D,6050,6050,2,0001722055,Options (Right to Buy)
+A,01/28/2022 00:00:00,Romano Kelly A,4/A,A-Award,--I,2300,9784,1,0001722055,UGI Common Stock
+A,01/28/2022 00:00:00,Stallings James B JR,4/A,A-Award,--D,6050,6050,3,0001573715,Options (Right to Buy)
+A,01/28/2022 00:00:00,Stallings James B JR,4/A,A-Award,--I,2300,21167,1,0001573715,UGI Common Stock
+A,01/28/2022 00:00:00,Walsh John L,4/A,A-Award,--D,6050,6050,3,0001321522,Options (Right to Buy)
+A,01/28/2022 00:00:00,Walsh John L,4/A,A-Award,--I,2300,2300,1,0001321522,UGI Common Stock
+A,01/28/2022 00:00:00,Bort M Shawn,4,A-Award,--D,2300,2300,3,0001453089,Option (Right to Buy)
+A,01/28/2022 00:00:00,Bort M Shawn,4,A-Award,--I,6050,59528,1,0001453089,UGI Common Stock
+A,01/28/2022 00:00:00,Dosch Ted A,4,A-Award,--D,2300,2300,3,0001301572,Option (Right to Buy)
+A,01/28/2022 00:00:00,Dosch Ted A,4,A-Award,--I,6050,18584,1,0001301572,UGI Common Stock
+A,01/28/2022 00:00:00,Harris Alan N,4,A-Award,--D,2300,2300,2,0001382625,Option (Right to Buy)
+A,01/28/2022 00:00:00,Harris Alan N,4,A-Award,--I,6050,16330,1,0001382625,UGI Common Stock
+A,01/28/2022 00:00:00,HERMANCE FRANK S,4,A-Award,--D,4110,4110,3,0001190203,Option (Right to Buy)
+A,01/28/2022 00:00:00,HERMANCE FRANK S,4,A-Award,--I,10810,56169,1,0001190203,UGI Common Stock
+A,01/28/2022 00:00:00,Longhi Mario,4,A-Award,--D,2300,2300,2,0001308357,Option (Right to Buy)
+A,01/28/2022 00:00:00,Longhi Mario,4,A-Award,--I,6050,10752,1,0001308357,UGI Common Stock
+A,01/28/2022 00:00:00,MARRAZZO WILLIAM J,4,A-Award,--D,2300,2300,3,0001234185,Option (Right to Buy)
+A,01/28/2022 00:00:00,MARRAZZO WILLIAM J,4,A-Award,--I,6050,12360,1,0001234185,UGI Common Stock
+A,01/28/2022 00:00:00,Miller Cindy J,4,A-Award,--D,2300,2300,2,0001754743,Option (Right to Buy)
+A,01/28/2022 00:00:00,Miller Cindy J,4,A-Award,--I,6050,9993,1,0001754743,UGI Common Stock
+A,01/28/2022 00:00:00,Romano Kelly A,4,A-Award,--D,2300,2300,2,0001722055,Option (Right to Buy)
+A,01/28/2022 00:00:00,Romano Kelly A,4,A-Award,--I,6050,13534,1,0001722055,UGI Common Stock
+A,01/28/2022 00:00:00,Stallings James B JR,4,A-Award,--D,2300,2300,3,0001573715,Option (Right to Buy)
+A,01/28/2022 00:00:00,Stallings James B JR,4,A-Award,--I,6050,24917,1,0001573715,UGI Common Stock
+A,01/28/2022 00:00:00,Walsh John L,4,A-Award,--D,2300,2300,3,0001321522,Option (Right to Buy)
+A,01/28/2022 00:00:00,Walsh John L,4,A-Award,--I,6050,6050,1,0001321522,UGI Common Stock
+D,01/11/2022 00:00:00,Walsh John L,4,M-Exempt,--D,78500,0,3,0001321522,Option (Right to Buy)
+D,01/11/2022 00:00:00,Walsh John L,4,S-Sale,--D,78500,439734,2,0001321522,UGI Common Stock
+A,01/11/2022 00:00:00,Walsh John L,4,M-Exempt,--D,78500,518234,1,0001321522,UGI Common Stock
+D,01/04/2022 00:00:00,Walsh John L,4,M-Exempt,--D,100000,78500,3,0001321522,Option (Right to Buy)
+D,01/04/2022 00:00:00,Walsh John L,4,S-Sale,--D,100000,439734,2,0001321522,UGI Common Stock
+A,01/04/2022 00:00:00,Walsh John L,4,M-Exempt,--D,100000,539734,1,0001321522,UGI Common Stock
+A,01/01/2022 00:00:00,Perreault Roger,4/A,A-Award,--D,22900,22900,3,0001660266,Stock Units
+A,01/01/2022 00:00:00,Perreault Roger,4/A,A-Award,--D,35230,35230,2,0001660266,Performance Units
+A,01/01/2022 00:00:00,Perreault Roger,4/A,A-Award,--D,119260,119260,1,0001660266,Option (Right to Buy)
+A,01/01/2022 00:00:00,Perreault Roger,4,A-Award,--D,18380,18380,3,0001660266,Stock Units
+A,01/01/2022 00:00:00,Perreault Roger,4,A-Award,--D,28270,28270,2,0001660266,Performance Units
+A,01/01/2022 00:00:00,Perreault Roger,4,A-Award,--D,95720,95720,1,0001660266,Option (Right to Buy)
+A,01/01/2022 00:00:00,Beard Robert F.,4,A-Award,--D,5720,5720,3,0001529123,Stock Units
+A,01/01/2022 00:00:00,Beard Robert F.,4,A-Award,--D,8800,8800,2,0001529123,Performance Units
+A,01/01/2022 00:00:00,Beard Robert F.,4,A-Award,--D,29780,29780,1,0001529123,Option (Right to Buy)
+A,01/01/2022 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,6970,6970,3,0001421305,Stock Units
+A,01/01/2022 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,10720,10720,2,0001421305,Performance Units
+A,01/01/2022 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,36300,36300,1,0001421305,Option (Right to Buy)
+A,01/01/2022 00:00:00,Tematio Jean Felix,4,A-Award,--D,1360,1360,3,0001873794,Stock Units
+A,01/01/2022 00:00:00,Tematio Jean Felix,4,A-Award,--D,2090,2090,2,0001873794,Performance Units
+A,01/01/2022 00:00:00,Tematio Jean Felix,4,A-Award,--D,7090,7090,1,0001873794,Option (Right to Buy)
+A,01/01/2022 00:00:00,Koerwer John,4,A-Award,--D,2160,2160,3,0001886789,Stock Units
+A,01/01/2022 00:00:00,Koerwer John,4,A-Award,--D,3330,3330,2,0001886789,Performance Units
+A,01/01/2022 00:00:00,Koerwer John,4,A-Award,--D,11260,11260,1,0001886789,Option (Right to Buy)
+A,01/01/2022 00:00:00,Zagorski Judy A.,4,A-Award,--D,4360,4360,3,0001695144,Stock Units
+A,01/01/2022 00:00:00,Zagorski Judy A.,4,A-Award,--D,6700,6700,2,0001695144,Performance Units
+A,01/01/2022 00:00:00,Zagorski Judy A.,4,A-Award,--D,22690,22690,1,0001695144,Option (Right to Buy)
+A,01/01/2022 00:00:00,Gaudiosi Monica M,4,A-Award,--D,4900,4900,3,0001385858,Stock Units
+A,01/01/2022 00:00:00,Gaudiosi Monica M,4,A-Award,--D,7530,7530,2,0001385858,Performance Units
+A,01/01/2022 00:00:00,Gaudiosi Monica M,4,A-Award,--D,25500,25500,1,0001385858,Option (Right to Buy)
+D,12/14/2021 00:00:00,Gaudiosi Monica M,4,M-Exempt,--D,53663,0,3,0001385858,Option (Right to Buy)
+D,12/14/2021 00:00:00,Gaudiosi Monica M,4,S-Sale,--D,53663,61109,2,0001385858,UGI Common Stock
+A,12/14/2021 00:00:00,Gaudiosi Monica M,4,M-Exempt,--D,53663,114772,1,0001385858,UGI Common Stock
+D,11/24/2021 00:00:00,Gaudiosi Monica M,4,M-Exempt,--D,19437,53663,6,0001385858,Option (Right to Buy)
+D,11/24/2021 00:00:00,Gaudiosi Monica M,4,S-Sale,--D,19437,61109,4,0001385858,UGI Common Stock
+A,11/24/2021 00:00:00,Gaudiosi Monica M,4,M-Exempt,--D,19437,80546,3,0001385858,UGI Common Stock
+D,11/23/2021 00:00:00,Walsh John L,4,M-Exempt,--D,129000,0,3,0001321522,Option (Right to Buy)
+D,11/23/2021 00:00:00,Walsh John L,4,S-Sale,--D,129000,439734,2,0001321522,UGI Common Stock
+A,11/23/2021 00:00:00,Walsh John L,4,M-Exempt,--D,129000,568734,1,0001321522,UGI Common Stock
+D,11/23/2021 00:00:00,HERMANCE FRANK S,4,M-Exempt,--D,12750,0,4,0001190203,Option (Right to Buy)
+D,11/23/2021 00:00:00,HERMANCE FRANK S,4,S-Sale,--D,12750,400000,2,0001190203,UGI Common Stock
+A,11/23/2021 00:00:00,HERMANCE FRANK S,4,M-Exempt,--D,12750,412750,1,0001190203,UGI Common Stock
+D,11/23/2021 00:00:00,Gaudiosi Monica M,4,M-Exempt,--D,1500,73100,5,0001385858,Option (Right to Buy)
+D,11/23/2021 00:00:00,Gaudiosi Monica M,4,S-Sale,--D,1500,61109,2,0001385858,UGI Common Stock
+A,11/23/2021 00:00:00,Gaudiosi Monica M,4,M-Exempt,--D,1500,62609,1,0001385858,UGI Common Stock
+D,11/04/2021 00:00:00,Gaudiosi Monica M,4,M-Exempt,--D,400,74600,3,0001385858,Option (Right to Buy)
+D,11/04/2021 00:00:00,Gaudiosi Monica M,4,S-Sale,--D,400,61109,2,0001385858,UGI Common Stock
+A,11/04/2021 00:00:00,Gaudiosi Monica M,4,M-Exempt,--D,400,61509,1,0001385858,UGI Common Stock
+D,08/18/2021 00:00:00,Walsh John L,4,G-Gift,--D,11000,439736,1,0001321522,UGI Common Stock
+D,08/11/2021 00:00:00,HERMANCE FRANK S,4,M-Exempt,--D,6375,0,4,0001190203,Option (Right to Buy)
+D,08/11/2021 00:00:00,HERMANCE FRANK S,4,S-Sale,--D,6375,400000,2,0001190203,UGI Common Stock
+A,08/11/2021 00:00:00,HERMANCE FRANK S,4,M-Exempt,--D,6375,406375,1,0001190203,UGI Common Stock
+D,08/11/2021 00:00:00,Bort M Shawn,4,M-Exempt,--D,9000,0,4,0001453089,Option (Right to Buy)
+D,08/11/2021 00:00:00,Bort M Shawn,4,S-Sale,--D,9000,14345,2,0001453089,UGI Common Stock
+A,08/11/2021 00:00:00,Bort M Shawn,4,M-Exempt,--D,9000,23345,1,0001453089,UGI Common Stock
+A,07/19/2021 00:00:00,Tematio Jean Felix,4,A-Award,--D,4020,4020,3,0001873794,Stock Units
+A,07/19/2021 00:00:00,Tematio Jean Felix,4,A-Award,--D,990,990,2,0001873794,Performance Units
+A,07/19/2021 00:00:00,Tematio Jean Felix,4,A-Award,--D,3780,3780,1,0001873794,Option (Right to Buy)
+D,06/29/2021 00:00:00,Walsh John L,4,M-Exempt,--D,87500,0,3,0001321522,Option (Right to Buy)
+D,06/29/2021 00:00:00,Walsh John L,4,S-Sale,--D,87500,450736,2,0001321522,UGI Common Stock
+A,06/29/2021 00:00:00,Walsh John L,4,M-Exempt,--D,87500,538236,1,0001321522,UGI Common Stock
+A,06/28/2021 00:00:00,Perreault Roger,4,A-Award,--D,6540,6540,3,0001660266,Stock Units
+A,06/28/2021 00:00:00,Perreault Roger,4,A-Award,--D,9550,9550,2,0001660266,Performance Units
+A,06/28/2021 00:00:00,Perreault Roger,4,A-Award,--D,34210,34210,1,0001660266,Option (Right to Buy)
+D,06/23/2021 00:00:00,Walsh John L,4,M-Exempt,--D,14949,87500,6,0001321522,Option (Right to Buy)
+D,06/23/2021 00:00:00,Walsh John L,4,S-Sale,--D,14949,450736,4,0001321522,UGI Common Stock
+A,06/23/2021 00:00:00,Walsh John L,4,M-Exempt,--D,14949,465685,3,0001321522,UGI Common Stock
+D,06/22/2021 00:00:00,Walsh John L,4,M-Exempt,--D,85051,102449,5,0001321522,Option (Right to Buy)
+D,06/22/2021 00:00:00,Walsh John L,4,S-Sale,--D,85051,450736,2,0001321522,UGI Common Stock
+A,06/22/2021 00:00:00,Walsh John L,4,M-Exempt,--D,85051,535787,1,0001321522,UGI Common Stock
+D,06/16/2021 00:00:00,Bort M Shawn,4,M-Exempt,--D,12750,0,4,0001453089,Option (Right to Buy)
+D,06/16/2021 00:00:00,Bort M Shawn,4,S-Sale,--D,12750,14345,2,0001453089,UGI Common Stock
+A,06/16/2021 00:00:00,Bort M Shawn,4,M-Exempt,--D,12750,27095,1,0001453089,UGI Common Stock
+D,05/28/2021 00:00:00,Bergman Laurie,4,M-Exempt,--D,7096,14194,8,0001672722,Options (Right to Buy)
+D,05/28/2021 00:00:00,Bergman Laurie,4,M-Exempt,--D,900,0,7,0001672722,Options (Right to Buy)
+D,05/28/2021 00:00:00,Bergman Laurie,4,M-Exempt,--D,834,0,6,0001672722,Options (Right to Buy)
+D,05/28/2021 00:00:00,Bergman Laurie,4,S-Sale,--D,8830,3682,4,0001672722,UGI Common Stock
+A,05/28/2021 00:00:00,Bergman Laurie,4,M-Exempt,--D,7096,12512,3,0001672722,UGI Common Stock
+A,05/28/2021 00:00:00,Bergman Laurie,4,M-Exempt,--D,900,5416,2,0001672722,UGI Common Stock
+A,05/28/2021 00:00:00,Bergman Laurie,4,M-Exempt,--D,834,4516,1,0001672722,UGI Common Stock
+A,02/09/2021 00:00:00,Dosch Ted A,4,P-Purchase,--D,10000,22000,1,0001301572,UGI Common Stock
+A,01/29/2021 00:00:00,Stallings James B JR,4,A-Award,--D,8860,8860,3,0001573715,Option (Right to Buy)
+A,01/29/2021 00:00:00,Stallings James B JR,4,A-Award,--I,2870,18322,1,0001573715,UGI Common Stock
+A,01/29/2021 00:00:00,Romano Kelly A,4,A-Award,--D,8860,8860,2,0001722055,Option (Right to Buy)
+A,01/29/2021 00:00:00,Romano Kelly A,4,A-Award,--I,2870,7268,1,0001722055,UGI Common Stock
+A,01/29/2021 00:00:00,Miller Cindy J,4,A-Award,--D,11820,11820,2,0001754743,Option (Right to Buy)
+A,01/29/2021 00:00:00,Miller Cindy J,4,A-Award,--I,3830,3830,1,0001754743,UGI Common Stock
+A,01/29/2021 00:00:00,MARRAZZO WILLIAM J,4,A-Award,--D,8860,8860,3,0001234185,Option (Right to Buy)
+A,01/29/2021 00:00:00,MARRAZZO WILLIAM J,4,A-Award,--I,2870,6128,1,0001234185,UGI Common Stock
+A,01/29/2021 00:00:00,Longhi Mario,4,A-Award,--D,8860,8860,2,0001308357,Option (Right to Buy)
+A,01/29/2021 00:00:00,Longhi Mario,4,A-Award,--I,2870,4566,1,0001308357,UGI Common Stock
+A,01/29/2021 00:00:00,HERMANCE FRANK S,4,A-Award,--D,15840,15840,3,0001190203,Option (Right to Buy)
+A,01/29/2021 00:00:00,HERMANCE FRANK S,4,A-Award,--I,5130,44050,1,0001190203,UGI Common Stock
+A,01/29/2021 00:00:00,Harris Alan N,4,A-Award,--D,8860,8860,2,0001382625,Option (Right to Buy)
+A,01/29/2021 00:00:00,Harris Alan N,4,A-Award,--I,2870,9983,1,0001382625,UGI Common Stock
+A,01/29/2021 00:00:00,Dosch Ted A,4,A-Award,--D,8860,8860,3,0001301572,Option (Right to Buy)
+A,01/29/2021 00:00:00,Dosch Ted A,4,A-Award,--I,2870,12173,1,0001301572,UGI Common Stock
+A,01/29/2021 00:00:00,Bort M Shawn,4,A-Award,--D,8860,8860,3,0001453089,Option (Right to Buy)
+A,01/29/2021 00:00:00,Bort M Shawn,4,A-Award,--I,2870,51934,1,0001453089,UGI Common Stock
+A,01/01/2021 00:00:00,Zagorski Judy A.,4,A-Award,--D,5720,5720,3,0001695144,Stock Units
+A,01/01/2021 00:00:00,Zagorski Judy A.,4,A-Award,--D,9380,9380,2,0001695144,Performance Units
+A,01/01/2021 00:00:00,Zagorski Judy A.,4,A-Award,--D,35310,35310,1,0001695144,Option (Right to Buy)
+A,01/01/2021 00:00:00,Walsh John L,4,A-Award,--D,28600,28600,3,0001321522,Stock Units
+A,01/01/2021 00:00:00,Walsh John L,4,A-Award,--D,46890,46890,2,0001321522,Performance Units
+A,01/01/2021 00:00:00,Walsh John L,4,A-Award,--D,176570,176570,1,0001321522,Option (Right to Buy)
+A,01/01/2021 00:00:00,Perreault Roger,4,A-Award,--D,9150,9150,3,0001660266,Stock Units
+A,01/01/2021 00:00:00,Perreault Roger,4,A-Award,--D,15010,15010,2,0001660266,Performance Units
+A,01/01/2021 00:00:00,Perreault Roger,4,A-Award,--D,56500,56500,1,0001660266,Option (Right to Buy)
+A,01/01/2021 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,9150,9150,3,0001421305,Stock Units
+A,01/01/2021 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,15010,15010,2,0001421305,Performance Units
+A,01/01/2021 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,56500,56500,1,0001421305,Option (Right to Buy)
+A,01/01/2021 00:00:00,Hartz Joseph L.,4,A-Award,--D,3580,3580,3,0001698762,Stock Units
+A,01/01/2021 00:00:00,Hartz Joseph L.,4,A-Award,--D,5860,5860,2,0001698762,Performance Units
+A,01/01/2021 00:00:00,Hartz Joseph L.,4,A-Award,--D,22070,22070,1,0001698762,Option (Right to Buy)
+A,01/01/2021 00:00:00,Gaudiosi Monica M,4,A-Award,--D,6260,6260,3,0001385858,Stock Units
+A,01/01/2021 00:00:00,Gaudiosi Monica M,4,A-Award,--D,10260,10260,2,0001385858,Performance Units
+A,01/01/2021 00:00:00,Gaudiosi Monica M,4,A-Award,--D,38620,38620,1,0001385858,Option (Right to Buy)
+A,01/01/2021 00:00:00,Gallagher Hugh J.,4,A-Award,--D,6080,6080,3,0001576690,Stock Units
+A,01/01/2021 00:00:00,Gallagher Hugh J.,4,A-Award,--D,9960,9960,2,0001576690,Performance Units
+A,01/01/2021 00:00:00,Gallagher Hugh J.,4,A-Award,--D,37520,37520,1,0001576690,Option (Right to Buy)
+A,01/01/2021 00:00:00,Bergman Laurie,4,A-Award,--D,1790,1790,3,0001672722,Stock Units
+A,01/01/2021 00:00:00,Bergman Laurie,4,A-Award,--D,2930,2930,2,0001672722,Performance Units
+A,01/01/2021 00:00:00,Bergman Laurie,4,A-Award,--D,11040,11040,1,0001672722,Option (Right to Buy)
+A,01/01/2021 00:00:00,Bell Hans G.,4,A-Award,--D,2520,2520,3,0001823532,Stock Units
+A,01/01/2021 00:00:00,Bell Hans G.,4,A-Award,--D,4130,4130,2,0001823532,Performance Units
+A,01/01/2021 00:00:00,Bell Hans G.,4,A-Award,--D,15540,15540,1,0001823532,Option (Right to Buy)
+A,01/01/2021 00:00:00,Beard Robert F.,4,A-Award,--D,6610,6610,3,0001529123,Stock Units
+A,01/01/2021 00:00:00,Beard Robert F.,4,A-Award,--D,10840,10840,2,0001529123,Performance Units
+A,01/01/2021 00:00:00,Beard Robert F.,4,A-Award,--D,40830,40830,1,0001529123,Option (Right to Buy)
+D,12/16/2020 00:00:00,SCHLANGER MARVIN O,4,M-Exempt,--D,12750,0,5,0001201756,Option (Right to Buy)
+D,12/16/2020 00:00:00,SCHLANGER MARVIN O,4,S-Sale,--D,12750,100836,2,0001201756,UGI Common Stock
+A,12/16/2020 00:00:00,SCHLANGER MARVIN O,4,M-Exempt,--D,12750,113586,1,0001201756,UGI Common Stock
+D,12/08/2020 00:00:00,Walsh John L,4,G-Gift,--D,10000,450736,1,0001321522,UGI Common Stock
+D,11/25/2020 00:00:00,Bort M Shawn,4,M-Exempt,--D,12750,0,4,0001453089,Option (Right to Buy)
+D,11/25/2020 00:00:00,Bort M Shawn,4,S-Sale,--D,12750,14345,2,0001453089,UGI Common Stock
+A,11/25/2020 00:00:00,Bort M Shawn,4,M-Exempt,--D,12750,27095,1,0001453089,UGI Common Stock
+D,11/24/2020 00:00:00,Hartz Joseph L.,4,M-Exempt,--D,18000,0,3,0001698762,Option (Right to Buy)
+D,11/24/2020 00:00:00,Hartz Joseph L.,4,S-Sale,--D,18000,29308,2,0001698762,UGI Common Stock
+A,11/24/2020 00:00:00,Hartz Joseph L.,4,M-Exempt,--D,18000,47308,1,0001698762,UGI Common Stock
+A,11/20/2020 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,1066,22987,1,0001421305,UGI Common Stock
+A,11/20/2020 00:00:00,Gallagher Hugh J.,4,A-Award,--D,644,11510,1,0001576690,UGI Common Stock
+A,11/20/2020 00:00:00,Bergman Laurie,4,A-Award,--D,281,3682,1,0001672722,UGI Common Stock
+A,11/20/2020 00:00:00,Bell Hans G.,4,A-Award,--D,271,13996,1,0001823532,UGI Common Stock
+A,11/20/2020 00:00:00,Perreault Roger,4,A-Award,--D,999,33335,1,0001660266,UGI Common Stock
+D,09/14/2020 00:00:00,Walsh John L,4,M-Exempt,--D,50000,0,3,0001321522,Options (Right to Buy)
+D,09/14/2020 00:00:00,Walsh John L,4,F-InKind,--D,37143,460736,2,0001321522,UGI Common Stock
+A,09/14/2020 00:00:00,Walsh John L,4,M-Exempt,--D,50000,497879,1,0001321522,UGI Common Stock
+A,09/08/2020 00:00:00,Zagorski Judy A.,4,A-Award,--D,4990,4990,3,0001695144,Performance Units
+A,09/08/2020 00:00:00,Zagorski Judy A.,4,A-Award,--D,26590,26590,2,0001695144,Options (Right to Buy)
+A,09/08/2020 00:00:00,Zagorski Judy A.,4,A-Award,--D,3000,3000,1,0001695144,UGI Common Stock
+A,08/21/2020 00:00:00,Bergman Laurie,4,P-Purchase,--D,598,3401,1,0001672722,UGI Common Stock
+A,08/07/2020 00:00:00,Stallings James B JR,4,P-Purchase,--D,4400,4400,1,0001573715,UGI Common Stock
+A,08/07/2020 00:00:00,MARRAZZO WILLIAM J,4,P-Purchase,--D,295,932,1,0001234185,UGI Common Stock
+A,08/06/2020 00:00:00,Dosch Ted A,4,P-Purchase,--D,10000,12000,1,0001301572,UGI Common Stock
+D,06/18/2020 00:00:00,Walsh John L,4,G-Gift,--D,10000,447879,1,0001321522,UGI Common Stock
+A,06/12/2020 00:00:00,Jastrzebski Thaddeus J,4,P-Purchase,--D,7650,21921,1,0001421305,UGI Common Stock
+A,05/14/2020 00:00:00,Perreault Roger,4,P-Purchase,--D,918,32336,1,0001660266,UGI Common Stock
+A,05/11/2020 00:00:00,Gallagher Hugh J.,4,I-Discretionary,--I,7000,7000,1,0001576690,UGI Common Stock
+A,05/11/2020 00:00:00,Walsh John L,4,P-Purchase,--D,8000,457879,1,0001321522,UGI Common Stock
+A,04/20/2020 00:00:00,Longhi Mario,4,A-Award,--D,6330,6330,2,0001308357,Option (Right to Buy)
+A,04/20/2020 00:00:00,Longhi Mario,4,A-Award,--I,1650,1650,1,0001308357,UGI Common Stock
+A,03/11/2020 00:00:00,Perreault Roger,4,A-Award,--D,1543,31418,1,0001660266,UGI Common Stock
+A,02/27/2020 00:00:00,Perreault Roger,4,A-Award,--D,1126,29875,2,0001660266,UGI Common Stock
+A,02/26/2020 00:00:00,Perreault Roger,4,A-Award,--D,2503,28749,1,0001660266,UGI Common Stock
+D,02/13/2020 00:00:00,Walsh John L,4,G-Gift,--D,10000,449879,1,0001321522,UGI Common Stock
+D,02/11/2020 00:00:00,SCHLANGER MARVIN O,4,M-Exempt,--D,12750,0,5,0001201756,Option (Right to Buy)
+D,02/11/2020 00:00:00,SCHLANGER MARVIN O,4,S-Sale,--D,12750,100836,2,0001201756,UGI Common Stock
+A,02/11/2020 00:00:00,SCHLANGER MARVIN O,4,M-Exempt,--D,12750,113586,1,0001201756,UGI Common Stock
+A,01/29/2020 00:00:00,Dosch Ted A,4,P-Purchase,--D,2000,2000,1,0001301572,UGI Common Stock
+A,01/22/2020 00:00:00,TURNER K RICK,4,A-Award,--D,12070,12070,4,0001281087,Option (Right to Buy)
+A,01/22/2020 00:00:00,TURNER K RICK,4,A-Award,--I,3140,3140,1,0001281087,UGI Common Stock
+D,01/22/2020 00:00:00,Stallings James B JR,4,A-Award,--D,9060,9060,2,0001573715,Option (Right to Buy)
+A,01/22/2020 00:00:00,Stallings James B JR,4,A-Award,--I,2350,14891,1,0001573715,UGI Common Stock
+A,01/22/2020 00:00:00,SCHLANGER MARVIN O,4,A-Award,--D,9060,9060,4,0001201756,Option (Right to Buy)
+A,01/22/2020 00:00:00,SCHLANGER MARVIN O,4,A-Award,--I,2350,139330,1,0001201756,UGI Common Stock
+A,01/22/2020 00:00:00,Romano Kelly A,4,A-Award,--D,9060,9060,2,0001722055,Option (Right to Buy)
+A,01/22/2020 00:00:00,Romano Kelly A,4,A-Award,--I,2350,4239,1,0001722055,UGI Common Stock
+A,01/22/2020 00:00:00,MARRAZZO WILLIAM J,4,A-Award,--D,12070,12070,3,0001234185,Option (Right to Buy)
+A,01/22/2020 00:00:00,MARRAZZO WILLIAM J,4,A-Award,--I,3140,3140,1,0001234185,UGI Common Stock
+A,01/22/2020 00:00:00,HERMANCE FRANK S,4,A-Award,--D,19570,19570,3,0001190203,Option (Right to Buy)
+A,01/22/2020 00:00:00,HERMANCE FRANK S,4,A-Award,--I,5090,37509,1,0001190203,UGI Common Stock
+A,01/22/2020 00:00:00,Harris Alan N,4,A-Award,--D,9060,9060,2,0001382625,Option (Right to Buy)
+A,01/22/2020 00:00:00,Harris Alan N,4,A-Award,--I,2350,6855,1,0001382625,UGI Common Stock
+A,01/22/2020 00:00:00,Dosch Ted A,4,A-Award,--D,9060,9060,2,0001301572,Option (Right to Buy)
+A,01/22/2020 00:00:00,Dosch Ted A,4,A-Award,--I,2350,8965,1,0001301572,UGI Common Stock
+A,01/22/2020 00:00:00,Bort M Shawn,4,A-Award,--D,9060,9060,3,0001453089,Option (Right to Buy)
+A,01/22/2020 00:00:00,Bort M Shawn,4,A-Award,--I,2350,47284,1,0001453089,UGI Common Stock
+A,01/01/2020 00:00:00,Walsh John L,4,A-Award,--D,42180,42180,2,0001321522,Performance Units
+A,01/01/2020 00:00:00,Walsh John L,4,A-Award,--D,340670,340670,1,0001321522,Option (right to buy)
+A,01/01/2020 00:00:00,Perreault Roger,4,A-Award,--D,13500,13500,2,0001660266,Performance Units
+A,01/01/2020 00:00:00,Perreault Roger,4,A-Award,--D,109010,109010,1,0001660266,Option (right to buy)
+A,01/01/2020 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,13500,13500,2,0001421305,Performance Units
+A,01/01/2020 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,109010,109010,1,0001421305,Option (right to buy)
+A,01/01/2020 00:00:00,Hartz Joseph L.,4,A-Award,--D,5270,5270,2,0001698762,Performance Units
+A,01/01/2020 00:00:00,Hartz Joseph L.,4,A-Award,--D,42580,42580,1,0001698762,Option (right to buy)
+A,01/01/2020 00:00:00,Gaudiosi Monica M,4,A-Award,--D,9170,9170,2,0001385858,Performance Units
+A,01/01/2020 00:00:00,Gaudiosi Monica M,4,A-Award,--D,74100,74100,1,0001385858,Option (right to buy)
+A,01/01/2020 00:00:00,Gallagher Hugh J.,4,A-Award,--D,8960,8960,2,0001576690,Performance Units
+A,01/01/2020 00:00:00,Gallagher Hugh J.,4,A-Award,--D,72390,72390,1,0001576690,Option (right to buy)
+A,01/01/2020 00:00:00,Bergman Laurie,4,A-Award,--D,2640,2640,2,0001672722,Performance Units
+A,01/01/2020 00:00:00,Bergman Laurie,4,A-Award,--D,21290,21290,1,0001672722,Option (right to buy)
+A,01/01/2020 00:00:00,Beard Robert F.,4,A-Award,--D,9070,9070,2,0001529123,Performance Units
+A,01/01/2020 00:00:00,Beard Robert F.,4,A-Award,--D,73240,73240,1,0001529123,Option (right to buy)
+A,11/21/2019 00:00:00,Bergman Laurie,4,A-Award,--D,240,2803,1,0001672722,UGI Common Stock
+A,11/21/2019 00:00:00,Gallagher Hugh J.,4,A-Award,--D,615,10866,1,0001576690,UGI Common Stock
+A,11/21/2019 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,716,15979,1,0001421305,UGI Common Stock
+A,11/21/2019 00:00:00,Perreault Roger,4,A-Award,--D,765,26246,1,0001660266,UGI Common Stock
+A,11/15/2019 00:00:00,HERMANCE FRANK S,4,P-Purchase,--D,56269,400000,2,0001190203,UGI Common Stock
+A,11/14/2019 00:00:00,HERMANCE FRANK S,4,P-Purchase,--D,93731,343731,1,0001190203,UGI Common Stock
+A,11/14/2019 00:00:00,Perreault Roger,4,P-Purchase,--D,2357,25481,1,0001660266,UGI Common Stock
+A,08/21/2019 00:00:00,Gallagher Hugh J.,4/A,A-Award,--D,24147,24147,1,0001576690,Restricted Stock Unit
+A,08/21/2019 00:00:00,Gallagher Hugh J.,4/A,A-Award,--D,7956,10251,1,0001576690,UGI Common Stock
+A,08/21/2019 00:00:00,Bergman Laurie,4/A,A-Award,--D,932,2563,1,0001672722,UGI Common Stock
+A,08/21/2019 00:00:00,Walsh John L,4,A-Award,--D,7653,459879,1,0001321522,UGI Common Stock
+A,08/21/2019 00:00:00,Bergman Laurie,4,A-Award,--D,2806,2806,2,0001672722,Restricted Stock Unit
+A,08/21/2019 00:00:00,Bergman Laurie,4,A-Award,--D,1178,2553,1,0001672722,UGI Common Stock
+A,08/21/2019 00:00:00,Gallagher Hugh J.,4,A-Award,--D,38644,38644,2,0001576690,Restricted Stock Unit
+A,08/21/2019 00:00:00,Gallagher Hugh J.,4,A-Award,--D,10149,12444,1,0001576690,UGI Common Stock
+A,08/21/2019 00:00:00,Perreault Roger,4,A-Award,--D,14771,14771,2,0001660266,Restricted Stock Unit
+A,08/21/2019 00:00:00,Perreault Roger,4,A-Award,--D,140,23124,1,0001660266,UGI Common Stock
+A,08/21/2019 00:00:00,HERMANCE FRANK S,4,A-Award,--I,2803,34376,1,0001190203,UGI Common Stock
+A,08/21/2019 00:00:00,POL ANNE,4,A-Award,--I,9597,157842,1,0001234188,UGI Common Stock
+A,08/21/2019 00:00:00,SCHLANGER MARVIN O,4,A-Award,--I,637,3637,2,0001201756,UGI Common Stock
+A,08/21/2019 00:00:00,SCHLANGER MARVIN O,4,A-Award,--I,11626,145032,1,0001201756,UGI Common Stock
+D,06/14/2019 00:00:00,Bort M Shawn,4,M-Exempt,--D,12750,0,6,0001453089,Option (Right to Buy)
+D,06/14/2019 00:00:00,Bort M Shawn,4,M-Exempt,--D,12750,0,5,0001453089,Option (Right to Buy)
+D,06/14/2019 00:00:00,Bort M Shawn,4,S-Sale,--D,25500,14345,3,0001453089,UGI Common Stock
+A,06/14/2019 00:00:00,Bort M Shawn,4,M-Exempt,--D,12750,39845,2,0001453089,UGI Common Stock
+A,06/14/2019 00:00:00,Bort M Shawn,4,M-Exempt,--D,12750,27095,1,0001453089,UGI Common Stock
+D,06/12/2019 00:00:00,POL ANNE,4,M-Exempt,--D,4329,0,7,0001234188,Option (Right to Buy)
+D,06/12/2019 00:00:00,POL ANNE,4,S-Sale,--D,4329,5531,4,0001234188,UGI Common Stock
+A,06/12/2019 00:00:00,POL ANNE,4,M-Exempt,--D,4329,9860,3,0001234188,UGI Common Stock
+D,06/10/2019 00:00:00,POL ANNE,4,M-Exempt,--D,2421,4329,6,0001234188,Option (Right to Buy)
+D,06/10/2019 00:00:00,POL ANNE,4,S-Sale,--D,2421,5531,2,0001234188,UGI Common Stock
+A,06/10/2019 00:00:00,POL ANNE,4,M-Exempt,--D,2421,7952,1,0001234188,UGI Common Stock
+D,05/10/2019 00:00:00,Walsh John L,4,M-Exempt,--D,50000,50000,3,0001321522,Options (Right to Buy)
+D,05/10/2019 00:00:00,Walsh John L,4,S-Sale,--D,50000,452226,2,0001321522,UGI Common Stock
+A,05/10/2019 00:00:00,Walsh John L,4,M-Exempt,--D,50000,502226,1,0001321522,UGI Common Stock
+A,05/10/2019 00:00:00,HERMANCE FRANK S,4,P-Purchase,--D,100000,250000,1,0001190203,UGI Common Stock
+D,02/11/2019 00:00:00,SCHLANGER MARVIN O,4,M-Exempt,--D,12750,0,4,0001201756,Option (Right to Buy)
+A,02/11/2019 00:00:00,SCHLANGER MARVIN O,4,M-Exempt,--D,12750,100836,1,0001201756,UGI Common Stock
+A,02/11/2019 00:00:00,Bergman Laurie,4,A-Award,--D,2110,2110,2,0001672722,Performance Units
+A,02/11/2019 00:00:00,Bergman Laurie,4,A-Award,--D,13380,13380,1,0001672722,Options (Right to Buy)
+A,01/30/2019 00:00:00,Dosch Ted A,4,A-Award,--D,5400,5400,2,0001301572,Option (Right to Buy)
+A,01/30/2019 00:00:00,Dosch Ted A,4,A-Award,--I,1840,6443,1,0001301572,UGI Common Stock
+A,01/30/2019 00:00:00,GOCHNAUER RICHARD W,4,A-Award,--D,5400,5400,2,0001214315,Option (Right to Buy)
+A,01/30/2019 00:00:00,GOCHNAUER RICHARD W,4,A-Award,--I,1840,33970,1,0001214315,UGI Common Stock
+A,01/30/2019 00:00:00,Harris Alan N,4,A-Award,--D,5400,5400,2,0001382625,Option (Right to Buy)
+A,01/30/2019 00:00:00,Harris Alan N,4,A-Award,--I,1840,4388,1,0001382625,UGI Common Stock
+A,01/30/2019 00:00:00,HERMANCE FRANK S,4,A-Award,--D,5400,5400,3,0001190203,Option (Right to Buy)
+A,01/30/2019 00:00:00,HERMANCE FRANK S,4,A-Award,--I,1840,31573,1,0001190203,UGI Common Stock
+A,01/30/2019 00:00:00,POL ANNE,4,A-Award,--D,5400,5400,3,0001234188,Option (Right to Buy)
+A,01/30/2019 00:00:00,POL ANNE,4,A-Award,--I,1840,148245,1,0001234188,UGI Common Stock
+A,01/30/2019 00:00:00,Bort M Shawn,4,A-Award,--D,5400,5400,3,0001453089,Option (Right to Buy)
+A,01/30/2019 00:00:00,Bort M Shawn,4,A-Award,--I,1840,43762,1,0001453089,UGI Common Stock
+A,01/30/2019 00:00:00,SCHLANGER MARVIN O,4,A-Award,--D,11680,11680,4,0001201756,Option (Right to Buy)
+A,01/30/2019 00:00:00,SCHLANGER MARVIN O,4,A-Award,--I,3970,133406,1,0001201756,UGI Common Stock
+A,01/30/2019 00:00:00,Romano Kelly A,4,A-Award,--D,5400,5400,2,0001722055,Option (Right to Buy)
+A,01/30/2019 00:00:00,Romano Kelly A,4,A-Award,--I,1840,1840,1,0001722055,UGI Common Stock
+A,01/30/2019 00:00:00,Gallagher Hugh J.,4,A-Award,--D,25880,25880,1,0001576690,Option (Right to Buy)
+A,01/30/2019 00:00:00,Perreault Roger,4,A-Award,--D,7060,7060,2,0001660266,Performance Units
+A,01/30/2019 00:00:00,Perreault Roger,4,A-Award,--D,44860,44860,1,0001660266,Option (Right to Buy)
+A,01/30/2019 00:00:00,Stallings James B JR,4,A-Award,--D,5400,5400,2,0001573715,Option (Right to Buy)
+A,01/30/2019 00:00:00,Stallings James B JR,4,A-Award,--I,1840,12214,1,0001573715,UGI Common Stock
+D,01/16/2019 00:00:00,Hartz Joseph L.,4,M-Exempt,--D,3000,0,3,0001698762,Performance Units
+D,01/16/2019 00:00:00,Hartz Joseph L.,4,F-InKind,--D,905,29308,2,0001698762,UGI Common Stock
+A,01/16/2019 00:00:00,Hartz Joseph L.,4,M-Exempt,--D,3000,30213,1,0001698762,UGI Common Stock
+D,01/16/2019 00:00:00,Beard Robert F.,4,M-Exempt,--D,5000,0,4,0001529123,Performance Units
+D,01/16/2019 00:00:00,Beard Robert F.,4,F-InKind,--D,1506,42413,2,0001529123,UGI Common Stock
+A,01/16/2019 00:00:00,Beard Robert F.,4,M-Exempt,--D,5000,43919,1,0001529123,UGI Common Stock
+D,01/16/2019 00:00:00,Kelly Ann P,4,M-Exempt,--D,110,0,7,0001735307,Performance Units
+D,01/16/2019 00:00:00,Kelly Ann P,4,M-Exempt,--D,1050,0,6,0001735307,Performance Units
+D,01/16/2019 00:00:00,Kelly Ann P,4,F-InKind,--D,36,3910,4,0001735307,UGI Common Stock
+A,01/16/2019 00:00:00,Kelly Ann P,4,M-Exempt,--D,110,3946,3,0001735307,UGI Common Stock
+D,01/16/2019 00:00:00,Kelly Ann P,4,F-InKind,--D,340,3836,2,0001735307,UGI Common Stock
+A,01/16/2019 00:00:00,Kelly Ann P,4,M-Exempt,--D,1050,4176,1,0001735307,UGI Common Stock
+D,01/16/2019 00:00:00,Gaudiosi Monica M,4,M-Exempt,--D,11000,0,3,0001385858,Performance Units
+D,01/16/2019 00:00:00,Gaudiosi Monica M,4,F-InKind,--D,3383,61109,2,0001385858,UGI Common Stock
+A,01/16/2019 00:00:00,Gaudiosi Monica M,4,M-Exempt,--D,11000,64492,1,0001385858,UGI Common Stock
+D,01/16/2019 00:00:00,Jastrzebski Thaddeus J,4,M-Exempt,--D,4000,0,3,0001421305,Performance Units
+D,01/16/2019 00:00:00,Jastrzebski Thaddeus J,4,F-InKind,--D,1186,15263,2,0001421305,UGI Common Stock
+A,01/16/2019 00:00:00,Jastrzebski Thaddeus J,4,M-Exempt,--D,4000,16449,1,0001421305,UGI Common Stock
+D,01/16/2019 00:00:00,Perreault Roger,4,M-Exempt,--D,7500,0,3,0001660266,Performance Units
+D,01/16/2019 00:00:00,Perreault Roger,4,F-InKind,--D,2106,22984,2,0001660266,UGI Common Stock
+A,01/16/2019 00:00:00,Perreault Roger,4,M-Exempt,--D,7500,25090,1,0001660266,UGI Common Stock
+D,01/16/2019 00:00:00,Walsh John L,4,M-Exempt,--D,50000,0,3,0001321522,Performance Units
+D,01/16/2019 00:00:00,Walsh John L,4,F-InKind,--D,19940,452226,2,0001321522,UGI Common Stock
+A,01/16/2019 00:00:00,Walsh John L,4,M-Exempt,--D,50000,472166,1,0001321522,UGI Common Stock
+A,01/01/2019 00:00:00,Walsh John L,4,A-Award,--D,36450,36450,2,0001321522,Performance Units
+A,01/01/2019 00:00:00,Walsh John L,4,A-Award,--D,228850,228850,1,0001321522,Option (right to buy)
+A,01/01/2019 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,11720,11720,2,0001421305,Performance Units
+A,01/01/2019 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,73560,73560,1,0001421305,Option (right to buy)
+A,01/01/2019 00:00:00,Hartz Joseph L.,4,A-Award,--D,4120,4120,2,0001698762,Performance Units
+A,01/01/2019 00:00:00,Hartz Joseph L.,4,A-Award,--D,25880,25880,1,0001698762,Option (right to buy)
+A,01/01/2019 00:00:00,Gaudiosi Monica M,4,A-Award,--D,7590,7590,2,0001385858,Performance Units
+A,01/01/2019 00:00:00,Gaudiosi Monica M,4,A-Award,--D,47680,47680,1,0001385858,Option (right to buy)
+A,01/01/2019 00:00:00,Beard Robert F.,4,A-Award,--D,6600,6600,2,0001529123,Performance Units
+A,01/01/2019 00:00:00,Beard Robert F.,4,A-Award,--D,41410,41410,1,0001529123,Option (right to buy)
+D,12/07/2018 00:00:00,Perreault Roger,4,F-InKind,--D,4161,17590,1,0001660266,UGI Common Stock
+D,11/28/2018 00:00:00,Walsh John L,4,G-Gift,--D,8000,422166,1,0001321522,UGI Common Stock
+D,11/28/2018 00:00:00,Bort M Shawn,4,S-Sale,--D,9184,14345,1,0001453089,UGI Common Stock
+D,11/19/2018 00:00:00,Bort M Shawn,4,M-Exempt,--D,12750,0,4,0001453089,Options (Right to Buy)
+D,11/19/2018 00:00:00,Bort M Shawn,4,F-InKind,--D,3566,23529,2,0001453089,UGI Common Stock
+A,11/19/2018 00:00:00,Bort M Shawn,4,M-Exempt,--D,12750,27095,1,0001453089,UGI Common Stock
+D,11/19/2018 00:00:00,POL ANNE,4,M-Exempt,--D,3000,6750,4,0001234188,Option (Right to Buy)
+D,11/19/2018 00:00:00,POL ANNE,4,S-Sale,--D,3000,5478,2,0001234188,UGI Common Stock
+A,11/19/2018 00:00:00,POL ANNE,4,M-Exempt,--D,3000,8478,1,0001234188,UGI Common Stock
+A,11/16/2018 00:00:00,Perreault Roger,4,A-Award,--D,702,21751,1,0001660266,UGI Common Stock
+A,11/16/2018 00:00:00,Kelly Ann P,4,A-Award,--D,187,3126,1,0001735307,UGI Common Stock
+A,11/16/2018 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,449,12449,1,0001421305,UGI Common Stock
+D,11/16/2018 00:00:00,Walsh John L,4,M-Exempt,--D,87500,100000,3,0001321522,Options (Right to Buy)
+D,11/16/2018 00:00:00,Walsh John L,4,S-Sale,--D,87500,430166,2,0001321522,UGI Common Stock
+A,11/16/2018 00:00:00,Walsh John L,4,M-Exempt,--D,87500,517666,1,0001321522,UGI Common Stock
+D,11/15/2018 00:00:00,Kelly Ann P,4,M-Exempt,--D,2333,4667,8,0001735307,Options (Right to Buy)
+D,11/15/2018 00:00:00,Kelly Ann P,4,M-Exempt,--D,2500,2500,7,0001735307,Options (Right to Buy)
+D,11/15/2018 00:00:00,Kelly Ann P,4,M-Exempt,--D,6000,0,6,0001735307,Options (Right to Buy)
+D,11/15/2018 00:00:00,Kelly Ann P,4,S-Sale,--D,9595,2939,4,0001735307,UGI Common Stock
+A,11/15/2018 00:00:00,Kelly Ann P,4,M-Exempt,--D,2333,12534,3,0001735307,UGI Common Stock
+A,11/15/2018 00:00:00,Kelly Ann P,4,M-Exempt,--D,2500,10201,2,0001735307,UGI Common Stock
+A,11/15/2018 00:00:00,Kelly Ann P,4,M-Exempt,--D,6000,7701,1,0001735307,UGI Common Stock
+D,08/20/2018 00:00:00,Hartz Joseph L.,4,M-Exempt,--D,18000,0,3,0001698762,Option (Right to Buy)
+D,08/20/2018 00:00:00,Hartz Joseph L.,4,S-Sale,--D,18000,27213,2,0001698762,UGI Common Stock
+A,08/20/2018 00:00:00,Hartz Joseph L.,4,M-Exempt,--D,18000,45213,1,0001698762,UGI Common Stock
+D,08/07/2018 00:00:00,Walsh John L,4,G-Gift,--D,7000,430166,1,0001321522,UGI Common Stock
+D,06/11/2018 00:00:00,Walsh John L,4,M-Exempt,--D,25000,0,3,0001321522,Option (Right to Buy)
+D,06/11/2018 00:00:00,Walsh John L,4,S-Sale,--D,25000,437166,2,0001321522,UGI Common Stock
+A,06/11/2018 00:00:00,Walsh John L,4,M-Exempt,--D,25000,462166,1,0001321522,UGI Common Stock
+D,05/31/2018 00:00:00,POL ANNE,4,M-Exempt,--D,3000,9750,4,0001234188,Option (Right to Buy)
+D,05/31/2018 00:00:00,POL ANNE,4,S-Sale,--D,3000,5426,2,0001234188,UGI Common Stock
+A,05/31/2018 00:00:00,POL ANNE,4,M-Exempt,--D,3000,8426,1,0001234188,UGI Common Stock
+D,05/30/2018 00:00:00,Beard Robert F.,4,M-Exempt,--D,45000,0,4,0001529123,Option (Right to Buy)
+D,05/30/2018 00:00:00,Beard Robert F.,4,S-Sale,--D,45000,38919,2,0001529123,UGI Common Stock
+A,05/30/2018 00:00:00,Beard Robert F.,4,M-Exempt,--D,45000,83919,1,0001529123,UGI Common Stock
+A,05/22/2018 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,10000,10000,5,0001421305,Performance Units
+A,05/22/2018 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,7000,7000,4,0001421305,Performance Units
+A,05/22/2018 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,4000,4000,3,0001421305,Performance Units
+A,05/22/2018 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,155000,155000,2,0001421305,Option (Right to Buy)
+A,05/22/2018 00:00:00,Jastrzebski Thaddeus J,4,A-Award,--D,12000,12000,1,0001421305,UGI Common Stock
+D,05/10/2018 00:00:00,Sheridan Jerry E,4,M-Exempt,--D,43332,21668,4,0001334982,Option (Right to Buy)
+D,05/10/2018 00:00:00,Sheridan Jerry E,4,S-Sale,--D,43332,0,2,0001334982,UGI Common Stock
+A,05/10/2018 00:00:00,Sheridan Jerry E,4,M-Exempt,--D,43332,43332,1,0001334982,UGI Common Stock
+D,05/08/2018 00:00:00,Sheridan Jerry E,4,M-Exempt,--D,10556,0,7,0001334982,Option (Right to Buy)
+D,05/08/2018 00:00:00,Sheridan Jerry E,4,S-Sale,--D,10556,0,4,0001334982,UGI Common Stock
+A,05/08/2018 00:00:00,Sheridan Jerry E,4,M-Exempt,--D,10556,10556,3,0001334982,UGI Common Stock
+D,05/07/2018 00:00:00,Sheridan Jerry E,4,M-Exempt,--D,49444,10556,6,0001334982,Option (Right to Buy)
+D,05/07/2018 00:00:00,Sheridan Jerry E,4,S-Sale,--D,49444,0,2,0001334982,UGI Common Stock
+A,05/07/2018 00:00:00,Sheridan Jerry E,4,M-Exempt,--D,49444,49444,1,0001334982,UGI Common Stock
+A,05/02/2018 00:00:00,Kelly Ann P,4,P-Purchase,--D,2,1701,1,0001735307,UGI Common Stock
+A,04/02/2018 00:00:00,Kelly Ann P,4,P-Purchase,--D,2,1699,1,0001735307,UGI Common Stock
+A,03/22/2018 00:00:00,Kelly Ann P,4,A-Award,--D,1100,1100,2,0001735307,Performance Units
+A,03/22/2018 00:00:00,Kelly Ann P,4,A-Award,--D,7500,7500,1,0001735307,Options (Right to Buy)
+D,03/16/2018 00:00:00,Walsh John L,4,M-Exempt,--D,25000,25000,4,0001321522,Option (Right to Buy)
+D,03/16/2018 00:00:00,Walsh John L,4,G-Gift,--D,6000,437166,3,0001321522,UGI Common Stock
+D,03/16/2018 00:00:00,Walsh John L,4,S-Sale,--D,25000,443166,2,0001321522,UGI Common Stock
+A,03/16/2018 00:00:00,Walsh John L,4,M-Exempt,--D,25000,468166,1,0001321522,UGI Common Stock
+A,03/05/2018 00:00:00,Harris Alan N,4,A-Award,--D,7500,7500,2,0001382625,Option (Right to Buy)
+A,03/05/2018 00:00:00,Harris Alan N,4,A-Award,--I,2500,2500,1,0001382625,UGI Common Stock
+A,02/07/2018 00:00:00,Perreault Roger,4,P-Purchase,--D,2270,21049,1,0001660266,UGI Common Stock
+D,02/05/2018 00:00:00,Bort M Shawn,4,M-Exempt,--D,12750,0,4,0001453089,Option (Right to Buy)
+D,02/05/2018 00:00:00,Bort M Shawn,4,F-InKind,--D,4930,14345,2,0001453089,UGI Common Stock
+A,02/05/2018 00:00:00,Bort M Shawn,4,M-Exempt,--D,12750,19275,1,0001453089,UGI Common Stock
+A,01/25/2018 00:00:00,Dosch Ted A,4/A,A-Award,--I,3000,4515,1,0001301572,UGI Common Stock
+A,01/25/2018 00:00:00,Stallings James B JR,4,A-Award,--D,9000,9000,2,0001573715,Option (Right to Buy)
+A,01/25/2018 00:00:00,Stallings James B JR,4,A-Award,--I,3000,10177,1,0001573715,UGI Common Stock
+A,01/25/2018 00:00:00,POL ANNE,4,A-Award,--D,9000,9000,3,0001234188,Option (Right to Buy)
+A,01/25/2018 00:00:00,POL ANNE,4,A-Award,--I,3000,143631,1,0001234188,UGI Common Stock
+A,01/25/2018 00:00:00,HERMANCE FRANK S,4,A-Award,--D,9000,9000,3,0001190203,Option (Right to Buy)
+A,01/25/2018 00:00:00,HERMANCE FRANK S,4,A-Award,--I,3000,29169,1,0001190203,UGI Common Stock
+A,01/25/2018 00:00:00,GOCHNAUER RICHARD W,4,A-Award,--D,9000,9000,2,0001214315,Option (Right to Buy)
+A,01/25/2018 00:00:00,GOCHNAUER RICHARD W,4,A-Award,--I,3000,31521,1,0001214315,UGI Common Stock
+A,01/25/2018 00:00:00,Dosch Ted A,4,A-Award,--D,9000,9000,2,0001301572,Option (Right to Buy)
+A,01/25/2018 00:00:00,Dosch Ted A,4,A-Award,--I,3000,4531,1,0001301572,UGI Common Stock
+A,01/25/2018 00:00:00,Bort M Shawn,4,A-Award,--D,9000,9000,3,0001453089,Option (Right to Buy)
+A,01/25/2018 00:00:00,Bort M Shawn,4,A-Award,--I,3000,41128,1,0001453089,UGI Common Stock
+A,01/25/2018 00:00:00,SCHLANGER MARVIN O,4,A-Award,--D,15400,15400,5,0001201756,Option (Right to Buy)
+A,01/25/2018 00:00:00,SCHLANGER MARVIN O,4,A-Award,--I,5100,126982,2,0001201756,UGI Common Stock
+D,01/24/2018 00:00:00,SCHLANGER MARVIN O,4,M-Exempt,--D,12750,0,4,0001201756,Option (Right to Buy)
+A,01/24/2018 00:00:00,SCHLANGER MARVIN O,4,M-Exempt,--D,12750,88086,1,0001201756,UGI Common Stock
+D,01/17/2018 00:00:00,Gaudiosi Monica M,4,M-Exempt,--D,9450,0,3,0001385858,Performance Units
+D,01/17/2018 00:00:00,Gaudiosi Monica M,4,F-InKind,--D,1971,53492,2,0001385858,UGI Common Stock
+A,01/17/2018 00:00:00,Gaudiosi Monica M,4,M-Exempt,--D,6794,55463,1,0001385858,UGI Common Stock
+D,01/17/2018 00:00:00,Oliver Kirk R,4,M-Exempt,--D,13950,0,4,0001292207,Performance Units
+D,01/17/2018 00:00:00,Oliver Kirk R,4,F-InKind,--D,2857,66669,2,0001292207,UGI Common Stock
+A,01/17/2018 00:00:00,Oliver Kirk R,4,M-Exempt,--D,10030,69526,1,0001292207,UGI Common Stock
+D,01/17/2018 00:00:00,Beard Robert F.,4,M-Exempt,--D,4325,0,4,0001529123,Performance Units
+D,01/17/2018 00:00:00,Beard Robert F.,4,F-InKind,--D,1017,38919,2,0001529123,UGI Common Stock
+A,01/17/2018 00:00:00,Beard Robert F.,4,M-Exempt,--D,3109,39936,1,0001529123,UGI Common Stock
+D,01/17/2018 00:00:00,Ortiz-Landazabal Marie-Dominique,4,M-Exempt,--D,1625,0,4,0001660238,Performance Units
+D,01/17/2018 00:00:00,Ortiz-Landazabal Marie-Dominique,4,F-InKind,--D,382,8260,2,0001660238,UGI Common Stock
+A,01/17/2018 00:00:00,Ortiz-Landazabal Marie-Dominique,4,M-Exempt,--D,1168,8642,1,0001660238,UGI Common Stock
+D,01/17/2018 00:00:00,Walsh John L,4,M-Exempt,--D,45000,0,3,0001321522,Performance Units
+D,01/17/2018 00:00:00,Walsh John L,4,F-InKind,--D,10806,443166,2,0001321522,UGI Common Stock
+A,01/17/2018 00:00:00,Walsh John L,4,M-Exempt,--D,32355,453972,1,0001321522,UGI Common Stock
+D,01/17/2018 00:00:00,Perreault Roger,4,M-Exempt,--D,6000,0,3,0001660266,Performance Units
+D,01/17/2018 00:00:00,Perreault Roger,4,F-InKind,--D,1287,18779,2,0001660266,UGI Common Stock
+A,01/17/2018 00:00:00,Perreault Roger,4,M-Exempt,--D,4314,20066,1,0001660266,UGI Common Stock
+D,01/17/2018 00:00:00,Hartz Joseph L.,4,M-Exempt,--D,2250,0,3,0001698762,Performance Units
+D,01/17/2018 00:00:00,Hartz Joseph L.,4,F-InKind,--D,546,27213,2,0001698762,UGI Common Stock
+A,01/17/2018 00:00:00,Hartz Joseph L.,4,M-Exempt,--D,1617,27759,1,0001698762,UGI Common Stock
+A,01/01/2018 00:00:00,Walsh John L,4,A-Award,--D,37000,37000,2,0001321522,Performance Units
+A,01/01/2018 00:00:00,Walsh John L,4,A-Award,--D,260000,260000,1,0001321522,Option (right to buy)
+A,01/01/2018 00:00:00,Sheridan Jerry E,4,A-Award,--D,50000,50000,1,0001334982,Option (right to buy)
+A,01/01/2018 00:00:00,Perreault Roger,4,A-Award,--D,8500,8500,2,0001660266,Performance Units
+A,01/01/2018 00:00:00,Perreault Roger,4,A-Award,--D,50000,50000,1,0001660266,Option (right to buy)
+A,01/01/2018 00:00:00,Ortiz-Landazabal Marie-Dominique,4,A-Award,--D,2400,2400,2,0001660238,Performance Units
+A,01/01/2018 00:00:00,Ortiz-Landazabal Marie-Dominique,4,A-Award,--D,17000,17000,1,0001660238,Option (right to buy)
+A,01/01/2018 00:00:00,Hartz Joseph L.,4,A-Award,--D,4100,4100,2,0001698762,Performance Units
+A,01/01/2018 00:00:00,Hartz Joseph L.,4,A-Award,--D,33000,33000,1,0001698762,Option (right to buy)
+A,01/01/2018 00:00:00,Gaudiosi Monica M,4,A-Award,--D,8500,8500,2,0001385858,Performance Units
+A,01/01/2018 00:00:00,Gaudiosi Monica M,4,A-Award,--D,60000,60000,1,0001385858,Option (right to buy)
+A,01/01/2018 00:00:00,Beard Robert F.,4,A-Award,--D,3900,3900,2,0001529123,Performance Units
+A,01/01/2018 00:00:00,Beard Robert F.,4,A-Award,--D,33000,33000,1,0001529123,Option (right to buy)
+D,12/22/2017 00:00:00,Oliver Kirk R,4,G-Gift,--D,107,59496,1,0001292207,UGI Common Stock
+D,12/15/2017 00:00:00,Oliver Kirk R,4,G-Gift,--D,500,59603,1,0001292207,UGI Common Stock
+A,11/17/2017 00:00:00,Perreault Roger,4,A-Award,--D,846,15752,1,0001660266,UGI Common Stock
+D,09/05/2017 00:00:00,Walsh John L,4,G-Gift,--D,6000,421617,1,0001321522,UGI Common Stock
+A,07/25/2017 00:00:00,Dosch Ted A,4,A-Award,--D,4500,4500,2,0001301572,Option (Right to Buy)
+A,07/25/2017 00:00:00,Dosch Ted A,4,A-Award,--I,1500,1500,1,0001301572,UGI Common Stock
+D,06/15/2017 00:00:00,POL ANNE,4,M-Exempt,--D,6750,0,4,0001234188,Option (Right to Buy)
+D,06/15/2017 00:00:00,POL ANNE,4,S-Sale,--D,6750,5312,2,0001234188,UGI Common Stock
+A,06/15/2017 00:00:00,POL ANNE,4,M-Exempt,--D,6750,12062,1,0001234188,UGI Common Stock
+D,06/02/2017 00:00:00,Hartz Joseph L.,4,M-Exempt,--D,15000,0,3,0001698762,Option (Right to Buy)
+D,06/02/2017 00:00:00,Hartz Joseph L.,4,S-Sale,--D,15000,26130,2,0001698762,UGI Common Stock
+A,06/02/2017 00:00:00,Hartz Joseph L.,4,M-Exempt,--D,15000,41130,1,0001698762,UGI Common Stock
+D,05/25/2017 00:00:00,Beard Robert F.,4,M-Exempt,--D,30000,0,4,0001529123,Option (Right to Buy)
+D,05/25/2017 00:00:00,Beard Robert F.,4,S-Sale,--D,30000,36827,2,0001529123,UGI Common Stock
+A,05/25/2017 00:00:00,Beard Robert F.,4,M-Exempt,--D,30000,66827,1,0001529123,UGI Common Stock
+D,05/25/2017 00:00:00,Walsh John L,4,M-Exempt,--D,50000,50000,3,0001321522,Option (Right to Buy)
+D,05/25/2017 00:00:00,Walsh John L,4,S-Sale,--D,50000,427617,2,0001321522,UGI Common Stock
+A,05/25/2017 00:00:00,Walsh John L,4,M-Exempt,--D,50000,477617,1,0001321522,UGI Common Stock
+D,05/25/2017 00:00:00,VINCENT ROGER B,4,M-Exempt,--D,12750,0,7,0001007201,Option (Right to Buy)
+D,05/25/2017 00:00:00,VINCENT ROGER B,4,M-Exempt,--D,12750,0,6,0001007201,Option (Right to Buy)
+D,05/25/2017 00:00:00,VINCENT ROGER B,4,S-Sale,--D,25500,7516,3,0001007201,UGI Common Stock
+A,05/25/2017 00:00:00,VINCENT ROGER B,4,M-Exempt,--D,12750,33016,2,0001007201,UGI Common Stock
+A,05/25/2017 00:00:00,VINCENT ROGER B,4,M-Exempt,--D,12750,20266,1,0001007201,UGI Common Stock
+D,03/15/2017 00:00:00,Beard Robert F.,4,M-Exempt,--D,19500,30000,4,0001529123,Option (Right to Buy)
+D,03/15/2017 00:00:00,Beard Robert F.,4,S-Sale,--D,19500,36827,2,0001529123,UGI Common Stock
+A,03/15/2017 00:00:00,Beard Robert F.,4,M-Exempt,--D,19500,56327,1,0001529123,UGI Common Stock
+A,03/06/2017 00:00:00,Hartz Joseph L.,4/A,A-Award,--D,12500,12500,1,0001698762,Option (Right to Buy)
+A,03/06/2017 00:00:00,Hartz Joseph L.,4,A-Award,--D,1400,1400,2,0001698762,Performance Units
+A,03/06/2017 00:00:00,Hartz Joseph L.,4,A-Award,--D,12500,12500,1,0001698762,Option (Right to Buy)
+D,03/02/2017 00:00:00,POL ANNE,4,M-Exempt,--D,6000,6750,4,0001234188,Option (Right to Buy)
+D,03/02/2017 00:00:00,POL ANNE,4,S-Sale,--D,6000,5286,2,0001234188,UGI Common Stock
+A,03/02/2017 00:00:00,POL ANNE,4,M-Exempt,--D,6000,11286,1,0001234188,UGI Common Stock
+D,02/21/2017 00:00:00,Oliver Kirk R,4,M-Exempt,--D,19500,93000,4,0001292207,Options (Right to Buy)
+D,02/21/2017 00:00:00,Oliver Kirk R,4,S-Sale,--D,19500,60103,2,0001292207,UGI Common Stock

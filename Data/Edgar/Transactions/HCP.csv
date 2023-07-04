@@ -1,0 +1,934 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,06/30/2023 00:00:00,Zarmi Sigal,4,A-Award,--D,6434,6434,3,0001854208,Restricted Stock Units
+A,06/30/2023 00:00:00,St. Ledger Susan,4,A-Award,--D,6434,6434,4,0001673606,Restricted Stock Units (right to buy)
+D,06/30/2023 00:00:00,St. Ledger Susan,4,S-Sale,--D,5694,40694,2,0001673606,Class A Common Stock
+A,06/30/2023 00:00:00,Solomon Glenn,4,A-Award,--D,6434,6434,8,0001479296,Restricted Stock Units
+A,06/30/2023 00:00:00,HENSHALL DAVID J,4,A-Award,--D,6434,6434,1,0001176008,Restricted Stock Units
+A,06/30/2023 00:00:00,Ford Todd R,4,A-Award,--D,6434,6434,3,0001324478,Restricted Stock Units
+D,06/29/2023 00:00:00,Zarmi Sigal,4,M-Exempt,--D,5995,0,2,0001854208,Restricted Stock Units
+A,06/29/2023 00:00:00,Zarmi Sigal,4,M-Exempt,--D,5995,35626,1,0001854208,Class A Common Stock
+D,06/29/2023 00:00:00,St. Ledger Susan,4,M-Exempt,--D,5995,0,3,0001673606,Restricted Stock Units (right to buy)
+A,06/29/2023 00:00:00,St. Ledger Susan,4,M-Exempt,--D,5995,46388,1,0001673606,Class A Common Stock
+D,06/29/2023 00:00:00,Solomon Glenn,4,M-Exempt,--D,5995,0,7,0001479296,Restricted Stock Units
+A,06/29/2023 00:00:00,Solomon Glenn,4,M-Exempt,--D,5995,7325,1,0001479296,Class A Common Stock
+D,06/29/2023 00:00:00,Ford Todd R,4,M-Exempt,--D,5995,0,2,0001324478,Restricted Stock Units
+A,06/29/2023 00:00:00,Ford Todd R,4,M-Exempt,--D,5995,39503,1,0001324478,Class A Common Stock
+D,06/22/2023 00:00:00,Welihinda Navam,4,S-Sale,--D,3275,62458,5,0001894706,Class A Common Stock
+D,06/22/2023 00:00:00,Welihinda Navam,4,S-Sale,--D,2000,65733,4,0001894706,Class A Common Stock
+D,06/22/2023 00:00:00,Dadgar Armon,4,S-Sale,--D,8353,27097,5,0001894717,Class A Common Stock
+D,06/22/2023 00:00:00,Dadgar Armon,4,S-Sale,--D,4023,35450,4,0001894717,Class A Common Stock
+D,06/21/2023 00:00:00,Zarmi Sigal,4,C-Conversion,--D,3125,0,6,0001854208,Class B Common Stock
+A,06/21/2023 00:00:00,Zarmi Sigal,4,C-Conversion,--D,3125,29631,2,0001854208,Class A Common Stock
+D,06/21/2023 00:00:00,St. Ledger Susan,4,C-Conversion,--D,11250,106800,6,0001673606,Class B Common Stock
+A,06/21/2023 00:00:00,St. Ledger Susan,4,C-Conversion,--D,11250,40393,2,0001673606,Class A Common Stock
+D,06/21/2023 00:00:00,Ford Todd R,4,C-Conversion,--D,6250,50000,6,0001324478,Class B Common Stock
+A,06/21/2023 00:00:00,Ford Todd R,4,C-Conversion,--D,6250,33508,2,0001324478,Class A Common Stock
+D,06/21/2023 00:00:00,Sweeney Brandon,4,C-Conversion,--D,54325,241900,9,0001894766,Class B Common Stock
+D,06/21/2023 00:00:00,Sweeney Brandon,4,S-Sale,--D,33887,156335,3,0001894766,Class A Common Stock
+A,06/21/2023 00:00:00,Sweeney Brandon,4,C-Conversion,--D,54325,190222,2,0001894766,Class A Common Stock
+D,06/21/2023 00:00:00,Holmes Marc,4,C-Conversion,--D,8650,28487,8,0001894601,Class B Common Stock
+D,06/21/2023 00:00:00,Holmes Marc,4,S-Sale,--D,4280,38999,3,0001894601,Class A Common Stock
+A,06/21/2023 00:00:00,Holmes Marc,4,C-Conversion,--D,8650,43279,2,0001894601,Class A Common Stock
+D,06/21/2023 00:00:00,Welihinda Navam,4,C-Conversion,--D,7569,95028,10,0001894706,Class B Common Stock
+D,06/21/2023 00:00:00,Welihinda Navam,4,S-Sale,--D,10056,67733,3,0001894706,Class A Common Stock
+A,06/21/2023 00:00:00,Welihinda Navam,4,C-Conversion,--D,7569,77789,2,0001894706,Class A Common Stock
+D,06/21/2023 00:00:00,Dadgar Armon,4,C-Conversion,--D,14614,480916,14,0001894717,Class B Common Stock
+D,06/21/2023 00:00:00,Dadgar Armon,4,S-Sale,--D,8856,39473,3,0001894717,Class A Common Stock
+A,06/21/2023 00:00:00,Dadgar Armon,4,C-Conversion,--D,14614,48329,2,0001894717,Class A Common Stock
+D,06/21/2023 00:00:00,McJannet David,4,C-Conversion,--D,39332,143409,9,0001894737,Class B Common Stock
+D,06/21/2023 00:00:00,McJannet David,4,S-Sale,--D,38964,139523,3,0001894737,Class A Common Stock
+A,06/21/2023 00:00:00,McJannet David,4,C-Conversion,--D,39332,178487,2,0001894737,Class A Common Stock
+A,06/20/2023 00:00:00,Zarmi Sigal,4,M-Exempt,--D,3125,3125,5,0001854208,Class B Common Stock
+D,06/20/2023 00:00:00,Zarmi Sigal,4,M-Exempt,--D,3125,21875,4,0001854208,Restricted Stock Units
+D,06/20/2023 00:00:00,Zarmi Sigal,4,M-Exempt,--D,430,860,3,0001854208,Restricted Stock Units
+A,06/20/2023 00:00:00,Zarmi Sigal,4,M-Exempt,--D,430,26506,1,0001854208,Class A Common Stock
+D,06/20/2023 00:00:00,Solomon Glenn,4,M-Exempt,--D,484,968,7,0001479296,Restricted Stock Units
+A,06/20/2023 00:00:00,Solomon Glenn,4,M-Exempt,--D,484,1330,1,0001479296,Class A Common Stock
+A,06/20/2023 00:00:00,St. Ledger Susan,4,M-Exempt,--D,11250,118050,5,0001673606,Class B Common Stock
+D,06/20/2023 00:00:00,St. Ledger Susan,4,M-Exempt,--D,11250,11250,4,0001673606,Restricted Stock Units
+D,06/20/2023 00:00:00,St. Ledger Susan,4,M-Exempt,--D,368,735,3,0001673606,Restricted Stock Units
+A,06/20/2023 00:00:00,St. Ledger Susan,4,M-Exempt,--D,368,29143,1,0001673606,Class A Common Stock
+D,06/20/2023 00:00:00,HENSHALL DAVID J,4,M-Exempt,--D,394,789,2,0001176008,Restricted Stock Units
+A,06/20/2023 00:00:00,HENSHALL DAVID J,4,M-Exempt,--D,394,10788,1,0001176008,Class A Common Stock
+A,06/20/2023 00:00:00,Ford Todd R,4,M-Exempt,--D,6250,56250,5,0001324478,Class B Common Stock
+D,06/20/2023 00:00:00,Ford Todd R,4,M-Exempt,--D,6250,18750,4,0001324478,Restricted Stock Units
+D,06/20/2023 00:00:00,Ford Todd R,4,M-Exempt,--D,645,1290,3,0001324478,Restricted Stock Units
+A,06/20/2023 00:00:00,Ford Todd R,4,M-Exempt,--D,645,27258,1,0001324478,Class A Common Stock
+A,06/20/2023 00:00:00,Sweeney Brandon,4,M-Exempt,--D,54325,296225,8,0001894766,Class B Common Stock
+D,06/20/2023 00:00:00,Sweeney Brandon,4,M-Exempt,--D,50000,100000,7,0001894766,Restricted Stock Units
+D,06/20/2023 00:00:00,Sweeney Brandon,4,M-Exempt,--D,4325,25950,6,0001894766,Restricted Stock Units
+D,06/20/2023 00:00:00,Sweeney Brandon,4,M-Exempt,--D,7837,117567,5,0001894766,Restricted Stock Units
+D,06/20/2023 00:00:00,Sweeney Brandon,4,M-Exempt,--D,3360,36963,4,0001894766,Restricted Stock Units
+A,06/20/2023 00:00:00,Sweeney Brandon,4,M-Exempt,--D,11197,135897,1,0001894766,Class A Common Stock
+A,06/20/2023 00:00:00,Holmes Marc,4,M-Exempt,--D,8650,37137,7,0001894601,Class B Common Stock
+D,06/20/2023 00:00:00,Holmes Marc,4,M-Exempt,--D,8650,51900,6,0001894601,Restricted Stock Units
+D,06/20/2023 00:00:00,Holmes Marc,4,M-Exempt,--D,6718,100771,5,0001894601,Restricted Stock Units
+D,06/20/2023 00:00:00,Holmes Marc,4,M-Exempt,--D,1470,16172,4,0001894601,Restricted Stock Units
+A,06/20/2023 00:00:00,Holmes Marc,4,M-Exempt,--D,8188,34629,1,0001894601,Class A Common Stock
+A,06/20/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,7569,102597,9,0001894706,Class B Common Stock
+D,06/20/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,7569,45413,8,0001894706,Restricted Stock Units
+D,06/20/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,8509,127643,7,0001894706,Restricted Stock Units
+D,06/20/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,3360,36963,6,0001894706,Restricted Stock Units
+A,06/20/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,11869,70220,1,0001894706,Class A Common Stock
+A,06/20/2023 00:00:00,Dadgar Armon,4,M-Exempt,--D,14614,495530,13,0001894717,Class B Common Stock
+D,06/20/2023 00:00:00,Dadgar Armon,4,M-Exempt,--D,8126,16250,12,0001894717,Restricted Stock Units
+D,06/20/2023 00:00:00,Dadgar Armon,4,M-Exempt,--D,6488,38925,11,0001894717,Restricted Stock Units
+D,06/20/2023 00:00:00,Dadgar Armon,4,M-Exempt,--D,8957,134361,10,0001894717,Restricted Stock Units
+D,06/20/2023 00:00:00,Dadgar Armon,4,M-Exempt,--D,2940,32343,9,0001894717,Restricted Stock Units
+A,06/20/2023 00:00:00,Dadgar Armon,4,M-Exempt,--D,11897,33715,1,0001894717,Class A Common Stock
+A,06/20/2023 00:00:00,McJannet David,4,M-Exempt,--D,39332,182741,8,0001894737,Class B Common Stock
+D,06/20/2023 00:00:00,McJannet David,4,M-Exempt,--D,19876,39750,7,0001894737,Restricted Stock Units
+D,06/20/2023 00:00:00,McJannet David,4,M-Exempt,--D,19456,116738,6,0001894737,Restricted Stock Units
+D,06/20/2023 00:00:00,McJannet David,4,M-Exempt,--D,28439,426596,5,0001894737,Restricted Stock Units
+D,06/20/2023 00:00:00,McJannet David,4,M-Exempt,--D,7560,83166,4,0001894737,Restricted Stock Units
+A,06/20/2023 00:00:00,McJannet David,4,M-Exempt,--D,35999,139155,1,0001894737,Class A Common Stock
+D,06/13/2023 00:00:00,Solomon Glenn,4,C-Conversion,--I,77022,423621,13,0001479296,Class B Common Stock
+D,06/13/2023 00:00:00,Solomon Glenn,4,C-Conversion,--I,2098692,11542808,12,0001479296,Class B Common Stock
+A,06/13/2023 00:00:00,Solomon Glenn,4,J-Other,--I,5475,23543,8,0001479296,Class A Common Stock
+A,06/13/2023 00:00:00,Solomon Glenn,4,J-Other,--I,62977,270765,7,0001479296,Class A Common Stock
+D,06/13/2023 00:00:00,Solomon Glenn,4,J-Other,--I,426145,256701,6,0001479296,Class A Common Stock
+A,06/13/2023 00:00:00,Solomon Glenn,4,J-Other,--I,485230,682846,5,0001479296,Class A Common Stock
+D,06/13/2023 00:00:00,Solomon Glenn,4,J-Other,--I,77022,0,4,0001479296,Class A Common Stock
+D,06/13/2023 00:00:00,Solomon Glenn,4,J-Other,--I,2098692,0,3,0001479296,Class A Common Stock
+A,06/13/2023 00:00:00,Solomon Glenn,4,C-Conversion,--I,77022,77022,2,0001479296,Class A Common Stock
+A,06/13/2023 00:00:00,Solomon Glenn,4,C-Conversion,--I,2098692,2098692,1,0001479296,Class A Common Stock
+D,06/13/2023 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,77022,423621,8,0001766305,Class B Common Stock
+D,06/13/2023 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,2098692,11542808,7,0001766305,Class B Common Stock
+D,06/13/2023 00:00:00,GGV Capital V L.L.C.,4,J-Other,--D,426145,256701,6,0001766305,Class A Common Stock
+A,06/13/2023 00:00:00,GGV Capital V L.L.C.,4,J-Other,--D,485230,682846,5,0001766305,Class A Common Stock
+D,06/13/2023 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,77022,0,4,0001766305,Class A Common Stock
+D,06/13/2023 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,2098692,0,3,0001766305,Class A Common Stock
+A,06/13/2023 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,77022,77022,2,0001766305,Class A Common Stock
+A,06/13/2023 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,2098692,2098692,1,0001766305,Class A Common Stock
+D,06/09/2023 00:00:00,Welihinda Navam,4,C-Conversion,--D,50000,95028,4,0001894706,Class B Common Stock
+A,06/09/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,50000,145028,3,0001894706,Class B Common Stock
+D,06/09/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,50000,113222,2,0001894706,Employee Stock Option (right to buy)
+A,06/09/2023 00:00:00,Welihinda Navam,4,C-Conversion,--D,50000,57851,1,0001894706,Class A Common Stock
+A,06/09/2023 00:00:00,HENSHALL DAVID J,4,P-Purchase,--D,10000,10394,1,0001176008,Class A Common Stock
+D,06/02/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,11446,70000,5,0001894717,Class A Common Stock
+D,06/02/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,J-Other,--I,312102,1248406,2,0001551568,Class B Common Stock
+D,06/02/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,J-Other,--I,2873395,11493581,1,0001551568,Class B Common Stock
+D,06/01/2023 00:00:00,Dadgar Armon,4,C-Conversion,--I,11680,621768,8,0001894717,Class B Common Stock
+D,06/01/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,234,81446,4,0001894717,Class A Common Stock
+D,06/01/2023 00:00:00,Dadgar Armon,4,C-Conversion,--I,11680,81680,3,0001894717,Class A Common Stock
+D,06/01/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,30700,1520000,2,0001894717,Class A Common Stock
+D,06/01/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,7300,1550700,1,0001894717,Class A Common Stock
+D,05/30/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,98432,1560508,8,0001551568,Class B Common Stock
+D,05/30/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,98432,14366976,7,0001551568,Class B Common Stock
+D,05/30/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,S-Sale,--I,201,0,6,0001551568,Class A Common Stock
+D,05/30/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,S-Sale,--I,98231,201,5,0001551568,Class A Common Stock
+D,05/30/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,S-Sale,--I,200,0,4,0001551568,Class A Common Stock
+D,05/30/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,S-Sale,--I,98232,200,3,0001551568,Class A Common Stock
+A,05/30/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,98432,98432,2,0001551568,Class A Common Stock
+A,05/30/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,98432,98432,1,0001551568,Class A Common Stock
+D,05/26/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,51568,1658940,6,0001551568,Class B Common Stock
+D,05/26/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,51568,14465408,5,0001551568,Class B Common Stock
+D,05/26/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,S-Sale,--I,51568,0,4,0001551568,Class A Common Stock
+D,05/26/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,S-Sale,--I,51568,0,3,0001551568,Class A Common Stock
+A,05/26/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,51568,51568,2,0001551568,Class A Common Stock
+A,05/26/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,51568,51568,1,0001551568,Class A Common Stock
+D,05/25/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,136474,1710508,8,0001551568,Class B Common Stock
+D,05/25/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,136475,14516976,7,0001551568,Class B Common Stock
+D,05/25/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,S-Sale,--I,61538,0,6,0001551568,Class A Common Stock
+D,05/25/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,S-Sale,--I,74936,61538,5,0001551568,Class A Common Stock
+D,05/25/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,S-Sale,--I,61538,0,4,0001551568,Class A Common Stock
+D,05/25/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,S-Sale,--I,74937,61538,3,0001551568,Class A Common Stock
+A,05/25/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,136474,136474,2,0001551568,Class A Common Stock
+A,05/25/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,136475,136475,1,0001551568,Class A Common Stock
+D,05/23/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,13526,1846982,6,0001551568,Class B Common Stock
+D,05/23/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,13525,14653451,5,0001551568,Class B Common Stock
+D,05/23/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,S-Sale,--I,13526,0,4,0001551568,Class A Common Stock
+D,05/23/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,S-Sale,--I,13525,0,3,0001551568,Class A Common Stock
+A,05/23/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,13526,13526,2,0001551568,Class A Common Stock
+A,05/23/2023 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,13525,13525,1,0001551568,Class A Common Stock
+D,05/22/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,15233,1558000,2,0001894717,Class A Common Stock
+D,05/22/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,22767,1573233,1,0001894717,Class A Common Stock
+D,05/01/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,400,1596000,2,0001894717,Class A Common Stock
+D,05/01/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,37600,1596400,1,0001894717,Class A Common Stock
+D,04/24/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,3137,1634000,2,0001894717,Class A Common Stock
+D,04/24/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,34863,1637137,1,0001894717,Class A Common Stock
+D,04/03/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,38000,1672000,1,0001894717,Class A Common Stock
+D,03/31/2023 00:00:00,Welihinda Navam,4,C-Conversion,--D,96771,95028,6,0001894706,Class B Common Stock
+A,03/31/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,11771,191799,5,0001894706,Class B Common Stock
+D,03/31/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,11771,50398,4,0001894706,Employee Stock Option (right to buy)
+D,03/31/2023 00:00:00,Welihinda Navam,4,S-Sale,--D,80342,7851,3,0001894706,Class A Common Stock
+D,03/31/2023 00:00:00,Welihinda Navam,4,S-Sale,--D,16429,88193,2,0001894706,Class A Common Stock
+A,03/31/2023 00:00:00,Welihinda Navam,4,C-Conversion,--D,96771,104622,1,0001894706,Class A Common Stock
+A,03/27/2023 00:00:00,St. Ledger Susan,4,S-Sale,--D,5694,28775,1,0001673606,Class A Common Stock
+D,03/22/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,20427,1710000,7,0001894717,Class A Common Stock
+D,03/22/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,17573,1730427,6,0001894717,Class A Common Stock
+D,03/22/2023 00:00:00,Dadgar Armon,4,S-Sale,--D,6971,22669,5,0001894717,Class A Common Stock
+D,03/22/2023 00:00:00,Dadgar Armon,4,S-Sale,--D,6375,29640,4,0001894717,Class A Common Stock
+D,03/22/2023 00:00:00,Welihinda Navam,4,S-Sale,--D,2800,7851,5,0001894706,Class A Common Stock
+D,03/22/2023 00:00:00,Welihinda Navam,4,S-Sale,--D,2797,10651,4,0001894706,Class A Common Stock
+D,03/21/2023 00:00:00,Sweeney Brandon,4/A,S-Sale,--D,23948,124200,1,0001894766,Class A Common Stock
+D,03/21/2023 00:00:00,McJannet David,4/A,S-Sale,--D,18003,102656,1,0001894737,Class A Common Stock
+D,03/21/2023 00:00:00,Zarmi Sigal,4,C-Conversion,--D,3125,0,6,0001854208,Class B Common Stock
+A,03/21/2023 00:00:00,Zarmi Sigal,4,C-Conversion,--D,3125,26076,2,0001854208,Class A Common Stock
+D,03/21/2023 00:00:00,St. Ledger Susan,4,C-Conversion,--D,11250,106800,6,0001673606,Class B Common Stock
+A,03/21/2023 00:00:00,St. Ledger Susan,4,C-Conversion,--D,11250,34469,2,0001673606,Class A Common Stock
+D,03/21/2023 00:00:00,Ford Todd R,4,C-Conversion,--D,6250,50000,6,0001324478,Class B Common Stock
+A,03/21/2023 00:00:00,Ford Todd R,4,C-Conversion,--D,6250,26613,2,0001324478,Class A Common Stock
+D,03/21/2023 00:00:00,Dadgar Armon,4,S-Sale,--D,4206,36015,3,0001894717,Class A Common Stock
+A,03/21/2023 00:00:00,Dadgar Armon,4,C-Conversion,--D,14611,40221,2,0001894717,Class A Common Stock
+D,03/21/2023 00:00:00,Welihinda Navam,4,C-Conversion,--D,7568,180028,9,0001894706,Class B Common Stock
+D,03/21/2023 00:00:00,Welihinda Navam,4,S-Sale,--D,5332,13448,3,0001894706,Class A Common Stock
+A,03/21/2023 00:00:00,Welihinda Navam,4,C-Conversion,--D,7568,18780,2,0001894706,Class A Common Stock
+D,03/21/2023 00:00:00,Holmes Marc,4,C-Conversion,--D,8650,28487,7,0001894601,Class B Common Stock
+D,03/21/2023 00:00:00,Holmes Marc,4,S-Sale,--D,2416,26441,3,0001894601,Class A Common Stock
+A,03/21/2023 00:00:00,Holmes Marc,4,C-Conversion,--D,8650,28857,2,0001894601,Class A Common Stock
+D,03/21/2023 00:00:00,Sweeney Brandon,4,S-Sale,--D,23113,125035,3,0001894766,Class A Common Stock
+A,03/21/2023 00:00:00,Sweeney Brandon,4,C-Conversion,--D,54325,148148,2,0001894766,Class A Common Stock
+D,03/21/2023 00:00:00,McJannet David,4,C-Conversion,--D,39330,143409,8,0001894737,Class B Common Stock
+D,03/21/2023 00:00:00,McJannet David,4,S-Sale,--D,17848,102811,3,0001894737,Class A Common Stock
+A,03/21/2023 00:00:00,McJannet David,4,C-Conversion,--D,39330,120659,2,0001894737,Class A Common Stock
+A,03/20/2023 00:00:00,Zarmi Sigal,4,M-Exempt,--D,3125,3125,5,0001854208,Class B Common Stock
+D,03/20/2023 00:00:00,Zarmi Sigal,4,M-Exempt,--D,3125,25000,4,0001854208,Restricted Stock Units
+D,03/20/2023 00:00:00,Zarmi Sigal,4,M-Exempt,--D,430,1290,3,0001854208,Restricted Stock Units
+A,03/20/2023 00:00:00,Zarmi Sigal,4,M-Exempt,--D,430,22951,1,0001854208,Class A Common Stock
+D,03/20/2023 00:00:00,Solomon Glenn,4,M-Exempt,--D,483,1452,7,0001479296,Restricted Stock Units
+A,03/20/2023 00:00:00,Solomon Glenn,4,M-Exempt,--D,483,846,1,0001479296,Class A Common Stock
+A,03/20/2023 00:00:00,St. Ledger Susan,4,M-Exempt,--D,11250,118050,5,0001673606,Class B Common Stock
+D,03/20/2023 00:00:00,St. Ledger Susan,4,M-Exempt,--D,11250,22500,4,0001673606,Restricted Stock Units
+D,03/20/2023 00:00:00,St. Ledger Susan,4,M-Exempt,--D,367,1103,3,0001673606,Restricted Stock Units
+A,03/20/2023 00:00:00,St. Ledger Susan,4,M-Exempt,--D,367,23219,1,0001673606,Class A Common Stock
+D,03/20/2023 00:00:00,HENSHALL DAVID J,4,M-Exempt,--D,394,1183,2,0001176008,Restricted Stock Units
+A,03/20/2023 00:00:00,HENSHALL DAVID J,4,M-Exempt,--D,394,394,1,0001176008,Class A Common Stock
+A,03/20/2023 00:00:00,Ford Todd R,4,M-Exempt,--D,6250,56250,5,0001324478,Class B Common Stock
+D,03/20/2023 00:00:00,Ford Todd R,4,M-Exempt,--D,6250,25000,4,0001324478,Restricted Stock Units
+D,03/20/2023 00:00:00,Ford Todd R,4,M-Exempt,--D,645,1935,3,0001324478,Restricted Stock Units
+A,03/20/2023 00:00:00,Ford Todd R,4,M-Exempt,--D,645,20363,1,0001324478,Class A Common Stock
+D,03/20/2023 00:00:00,Dadgar Armon,4,C-Conversion,--D,14611,480916,14,0001894717,Class B Common Stock
+A,03/20/2023 00:00:00,Dadgar Armon,4,M-Exempt,--D,14611,495527,13,0001894717,Class B Common Stock
+D,03/20/2023 00:00:00,Dadgar Armon,4,M-Exempt,--D,8124,24376,12,0001894717,Restricted Stock Units
+D,03/20/2023 00:00:00,Dadgar Armon,4,M-Exempt,--D,6487,45413,11,0001894717,Restricted Stock Units
+D,03/20/2023 00:00:00,Dadgar Armon,4,M-Exempt,--D,2941,35283,10,0001894717,Restricted Stock Units
+A,03/20/2023 00:00:00,Dadgar Armon,4,M-Exempt,--D,2941,25610,1,0001894717,Class A Common Stock
+A,03/20/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,7568,187596,8,0001894706,Class B Common Stock
+D,03/20/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,7568,52982,7,0001894706,Restricted Stock Units
+D,03/20/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,3361,40323,6,0001894706,Restricted Stock Units
+A,03/20/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,3361,11212,1,0001894706,Class A Common Stock
+A,03/20/2023 00:00:00,Holmes Marc,4,M-Exempt,--D,8650,37137,6,0001894601,Class B Common Stock
+D,03/20/2023 00:00:00,Holmes Marc,4,M-Exempt,--D,8650,60550,5,0001894601,Restricted Stock Units
+D,03/20/2023 00:00:00,Holmes Marc,4,M-Exempt,--D,1470,17642,4,0001894601,Restricted Stock Units
+A,03/20/2023 00:00:00,Holmes Marc,4,M-Exempt,--D,1470,20207,1,0001894601,Class A Common Stock
+D,03/20/2023 00:00:00,Sweeney Brandon,4,C-Conversion,--D,54325,241900,8,0001894766,Class B Common Stock
+A,03/20/2023 00:00:00,Sweeney Brandon,4,M-Exempt,--D,54325,296225,7,0001894766,Class B Common Stock
+D,03/20/2023 00:00:00,Sweeney Brandon,4,M-Exempt,--D,50000,150000,6,0001894766,Restricted Stock Units
+D,03/20/2023 00:00:00,Sweeney Brandon,4,M-Exempt,--D,4325,30275,5,0001894766,Restricted Stock Units
+D,03/20/2023 00:00:00,Sweeney Brandon,4,M-Exempt,--D,3361,40323,4,0001894766,Restricted Stock Units
+A,03/20/2023 00:00:00,Sweeney Brandon,4,M-Exempt,--D,3361,93823,1,0001894766,Class A Common Stock
+A,03/20/2023 00:00:00,McJannet David,4,M-Exempt,--D,39330,182739,7,0001894737,Class B Common Stock
+D,03/20/2023 00:00:00,McJannet David,4,M-Exempt,--D,19874,59626,6,0001894737,Restricted Stock Units
+D,03/20/2023 00:00:00,McJannet David,4,M-Exempt,--D,19456,136194,5,0001894737,Restricted Stock Units
+D,03/20/2023 00:00:00,McJannet David,4,M-Exempt,--D,7561,90726,4,0001894737,Restricted Stock Units
+A,03/20/2023 00:00:00,McJannet David,4,M-Exempt,--D,7561,81329,1,0001894737,Class A Common Stock
+D,03/13/2023 00:00:00,Solomon Glenn,4,C-Conversion,--I,77022,500643,13,0001479296,Class B Common Stock
+D,03/13/2023 00:00:00,Solomon Glenn,4,C-Conversion,--I,2098692,13641500,12,0001479296,Class B Common Stock
+D,03/13/2023 00:00:00,Solomon Glenn,4,J-Other,--I,401513,197616,6,0001479296,Class A Common Stock
+A,03/13/2023 00:00:00,Solomon Glenn,4,J-Other,--I,457974,599129,5,0001479296,Class A Common Stock
+D,03/13/2023 00:00:00,Solomon Glenn,4,J-Other,--I,77022,0,4,0001479296,Class A Common Stock
+D,03/13/2023 00:00:00,Solomon Glenn,4,J-Other,--I,2098692,0,3,0001479296,Class A Common Stock
+A,03/13/2023 00:00:00,Solomon Glenn,4,C-Conversion,--I,77022,77022,2,0001479296,Class A Common Stock
+A,03/13/2023 00:00:00,Solomon Glenn,4,C-Conversion,--I,2098692,2098692,1,0001479296,Class A Common Stock
+D,03/13/2023 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,77022,500643,8,0001766305,Class B Common Stock
+D,03/13/2023 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,2098692,13641500,7,0001766305,Class B Common Stock
+D,03/13/2023 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,77022,0,4,0001766305,Class A Common Stock
+D,03/13/2023 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,2098692,0,3,0001766305,Class A Common Stock
+A,03/13/2023 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,77022,77022,2,0001766305,Class A Common Stock
+A,03/13/2023 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,2098692,2098692,1,0001766305,Class A Common Stock
+D,03/01/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,38000,1748000,1,0001894717,Class A Common Stock
+D,02/22/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,7557,1786000,2,0001894717,Class A Common Stock
+D,02/22/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,30443,1793557,1,0001894717,Class A Common Stock
+D,02/02/2023 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,128532,257062,8,0001532951,Class B Common Stock
+D,02/02/2023 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,4155918,8311834,7,0001532951,Class B Common Stock
+D,02/02/2023 00:00:00,"Redpoint Omega II, LLC",4,J-Other,--I,1070149,0,6,0001532951,Class A Common Stock
+A,02/02/2023 00:00:00,"Redpoint Omega II, LLC",4,J-Other,--I,1070149,1070149,5,0001532951,Class A Common Stock
+D,02/02/2023 00:00:00,"Redpoint Omega II, LLC",4,J-Other,--I,128532,0,4,0001532951,Class A Common Stock
+D,02/02/2023 00:00:00,"Redpoint Omega II, LLC",4,J-Other,--I,4155918,0,3,0001532951,Class A Common Stock
+A,02/02/2023 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,128532,128532,2,0001532951,Class A Common Stock
+A,02/02/2023 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,4155918,4155918,1,0001532951,Class A Common Stock
+D,02/02/2023 00:00:00,Welihinda Navam,4,C-Conversion,--D,50000,180028,6,0001894706,Class B Common Stock
+A,02/02/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,50000,230028,5,0001894706,Class B Common Stock
+D,02/02/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,50000,62169,4,0001894706,Employee Stock Option (right to buy)
+D,02/02/2023 00:00:00,Welihinda Navam,4,S-Sale,--D,50000,7851,2,0001894706,Class A Common Stock
+A,02/02/2023 00:00:00,Welihinda Navam,4,C-Conversion,--D,50000,57851,1,0001894706,Class A Common Stock
+D,02/02/2023 00:00:00,Dadgar Armon,4,D-Return,--I,5840,633448,9,0001894717,Class B Common Stock
+D,02/02/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,5840,70000,5,0001894717,Class A Common Stock
+A,02/02/2023 00:00:00,Dadgar Armon,4,C-Conversion,--I,5840,75840,4,0001894717,Class A Common Stock
+A,02/01/2023 00:00:00,Zarmi Sigal,4,A-Award,--D,1720,1720,1,0001854208,Restricted Stock Units
+A,02/01/2023 00:00:00,Solomon Glenn,4,A-Award,--D,1935,1935,1,0001479296,Restricted Stock Units
+A,02/01/2023 00:00:00,St. Ledger Susan,4,A-Award,--D,1470,1470,1,0001673606,Restricted Stock Units
+A,02/01/2023 00:00:00,HENSHALL DAVID J,4,A-Award,--D,1577,1577,1,0001176008,Restricted Stock Units
+A,02/01/2023 00:00:00,Ford Todd R,4,A-Award,--D,2580,2580,1,0001324478,Restricted Stock Units
+A,02/01/2023 00:00:00,Sweeney Brandon,4,A-Award,--D,125404,125404,1,0001894766,Restricted Stock Units
+A,02/01/2023 00:00:00,Holmes Marc,4,A-Award,--D,107489,107489,1,0001894601,Restricted Stock Units
+A,02/01/2023 00:00:00,Welihinda Navam,4,A-Award,--D,136152,136152,3,0001894706,Restricted Stock Units
+A,02/01/2023 00:00:00,Dadgar Armon,4,A-Award,--D,143318,143318,8,0001894717,Restricted Stock Units
+D,02/01/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,2089,1824000,3,0001894717,Class A Common Stock
+D,02/01/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,12091,1826089,2,0001894717,Class A Common Stock
+D,02/01/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,23820,1838180,1,0001894717,Class A Common Stock
+A,02/01/2023 00:00:00,McJannet David,4,A-Award,--D,455035,455035,1,0001894737,Restricted Stock Units
+D,01/23/2023 00:00:00,Dadgar Armon,4,C-Conversion,--I,380000,13262000,7,0001894717,Class B Common Stock
+D,01/23/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,30686,1862000,3,0001894717,Class A Common Stock
+D,01/23/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,7314,1892686,2,0001894717,Class A Common Stock
+A,01/23/2023 00:00:00,Dadgar Armon,4,C-Conversion,--I,380000,1900000,1,0001894717,Class A Common Stock
+D,01/17/2023 00:00:00,Welihinda Navam,4,C-Conversion,--D,12500,180028,5,0001894706,Class B Common Stock
+A,01/17/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,12500,192528,4,0001894706,Class B Common Stock
+D,01/17/2023 00:00:00,Welihinda Navam,4,M-Exempt,--D,12500,112169,3,0001894706,Employee Stock Option (right to buy)
+D,01/17/2023 00:00:00,Welihinda Navam,4,S-Sale,--D,12500,7851,2,0001894706,Class A Common Stock
+A,01/17/2023 00:00:00,Welihinda Navam,4,C-Conversion,--D,12500,20351,1,0001894706,Class A Common Stock
+D,01/03/2023 00:00:00,Dadgar Armon,4,C-Conversion,--I,38000,13642000,9,0001894717,Class B Common Stock
+D,01/03/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,200,1520000,5,0001894717,Class A Common Stock
+D,01/03/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,2800,1520200,4,0001894717,Class A Common Stock
+D,01/03/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,7750,1523000,3,0001894717,Class A Common Stock
+D,01/03/2023 00:00:00,Dadgar Armon,4,S-Sale,--I,27250,1530750,2,0001894717,Class A Common Stock
+A,01/03/2023 00:00:00,Dadgar Armon,4,C-Conversion,--I,38000,1558000,1,0001894717,Class A Common Stock
+D,12/29/2022 00:00:00,St. Ledger Susan,4,S-Sale,--D,5694,22852,1,0001673606,Class A Common Stock
+D,12/22/2022 00:00:00,Welihinda Navam,4,S-Sale,--D,5540,7851,5,0001894706,Class A Common Stock
+D,12/22/2022 00:00:00,Dadgar Armon,4,S-Sale,--D,10681,22669,8,0001894717,Class A Common Stock
+D,12/21/2022 00:00:00,Sweeney Brandon,4,C-Conversion,--D,54325,28116,9,0001894766,Class B Common Stock
+D,12/21/2022 00:00:00,Sweeney Brandon,4,S-Sale,--D,5486,90462,4,0001894766,Class A Common Stock
+D,12/21/2022 00:00:00,Sweeney Brandon,4,S-Sale,--D,22953,95948,3,0001894766,Class A Common Stock
+A,12/21/2022 00:00:00,Sweeney Brandon,4,C-Conversion,--D,54325,118901,2,0001894766,Class A Common Stock
+D,12/21/2022 00:00:00,Holmes Marc,4,S-Sale,--D,750,18737,4,0001894601,Class A Common Stock
+D,12/21/2022 00:00:00,Holmes Marc,4,S-Sale,--D,3212,19487,3,0001894601,Class A Common Stock
+A,12/21/2022 00:00:00,Holmes Marc,4,C-Conversion,--D,8650,22699,2,0001894601,Class A Common Stock
+D,12/21/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,7569,180028,9,0001894706,Class B Common Stock
+D,12/21/2022 00:00:00,Welihinda Navam,4,S-Sale,--D,800,13391,4,0001894706,Class A Common Stock
+D,12/21/2022 00:00:00,Welihinda Navam,4,S-Sale,--D,4589,14191,3,0001894706,Class A Common Stock
+A,12/21/2022 00:00:00,Welihinda Navam,4,C-Conversion,--D,7569,18780,2,0001894706,Class A Common Stock
+D,12/21/2022 00:00:00,Dadgar Armon,4,C-Conversion,--D,14614,480916,16,0001894717,Class B Common Stock
+D,12/21/2022 00:00:00,Dadgar Armon,4,S-Sale,--D,1300,33350,7,0001894717,Class A Common Stock
+D,12/21/2022 00:00:00,Dadgar Armon,4,S-Sale,--D,5573,34650,6,0001894717,Class A Common Stock
+A,12/21/2022 00:00:00,Dadgar Armon,4,C-Conversion,--D,14614,40223,5,0001894717,Class A Common Stock
+D,12/21/2022 00:00:00,McJannet David,4,S-Sale,--D,4200,73768,4,0001894737,Class A Common Stock
+D,12/21/2022 00:00:00,McJannet David,4,S-Sale,--D,18924,77968,3,0001894737,Class A Common Stock
+A,12/21/2022 00:00:00,McJannet David,4,C-Conversion,--D,39333,96892,2,0001894737,Class A Common Stock
+D,12/20/2022 00:00:00,Zarmi Sigal,4,C-Conversion,--D,3125,0,8,0001854208,Class B Common Stock
+A,12/20/2022 00:00:00,Zarmi Sigal,4,M-Exempt,--D,3125,3125,7,0001854208,Class B Common Stock
+D,12/20/2022 00:00:00,Zarmi Sigal,4,M-Exempt,--D,3125,28125,6,0001854208,Restricted Stock Units
+D,12/20/2022 00:00:00,Zarmi Sigal,4,M-Exempt,--D,162,0,5,0001854208,Restricted Stock Units
+A,12/20/2022 00:00:00,Zarmi Sigal,4,C-Conversion,--D,3125,22521,3,0001854208,Class A Common Stock
+A,12/20/2022 00:00:00,Zarmi Sigal,4,M-Exempt,--D,162,19396,2,0001854208,Class A Common Stock
+D,12/20/2022 00:00:00,Solomon Glenn,4,M-Exempt,--D,182,0,6,0001479296,Restricted Stock Units
+A,12/20/2022 00:00:00,Solomon Glenn,4,M-Exempt,--D,182,726,1,0001479296,Class A Common Stock
+D,12/20/2022 00:00:00,St. Ledger Susan,4,C-Conversion,--D,11250,106800,6,0001673606,Class B Common Stock
+A,12/20/2022 00:00:00,St. Ledger Susan,4,M-Exempt,--D,11250,118050,5,0001673606,Class B Common Stock
+D,12/20/2022 00:00:00,St. Ledger Susan,4,M-Exempt,--D,11250,33750,4,0001673606,Restricted Stock Units
+D,12/20/2022 00:00:00,St. Ledger Susan,4,M-Exempt,--D,138,0,3,0001673606,Restricted Stock Units
+A,12/20/2022 00:00:00,St. Ledger Susan,4,C-Conversion,--D,11250,28546,2,0001673606,Class A Common Stock
+A,12/20/2022 00:00:00,St. Ledger Susan,4,M-Exempt,--D,138,17296,1,0001673606,Class A Common Stock
+D,12/20/2022 00:00:00,Ford Todd R,4,C-Conversion,--D,6250,50000,6,0001324478,Class B Common Stock
+A,12/20/2022 00:00:00,Ford Todd R,4,M-Exempt,--D,6250,56250,5,0001324478,Class B Common Stock
+D,12/20/2022 00:00:00,Ford Todd R,4,M-Exempt,--D,6250,31250,4,0001324478,Restricted Stock Units
+D,12/20/2022 00:00:00,Ford Todd R,4,M-Exempt,--D,242,0,3,0001324478,Restricted Stock Units
+A,12/20/2022 00:00:00,Ford Todd R,4,C-Conversion,--D,6250,19718,2,0001324478,Class A Common Stock
+A,12/20/2022 00:00:00,Ford Todd R,4,M-Exempt,--D,242,13468,1,0001324478,Class A Common Stock
+A,12/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,54325,82441,8,0001894766,Class B Common Stock
+D,12/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,50000,200000,7,0001894766,Restricted Stock Units
+D,12/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,4325,34600,6,0001894766,Restricted Stock Units
+D,12/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,3360,43684,5,0001894766,Restricted Stock Units
+A,12/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,3360,64576,1,0001894766,Class A Common Stock
+D,12/20/2022 00:00:00,Holmes Marc,4,C-Conversion,--D,8650,28487,8,0001894601,Class B Common Stock
+A,12/20/2022 00:00:00,Holmes Marc,4,M-Exempt,--D,8650,37137,7,0001894601,Class B Common Stock
+D,12/20/2022 00:00:00,Holmes Marc,4,M-Exempt,--D,8650,69200,6,0001894601,Restricted Stock Units
+D,12/20/2022 00:00:00,Holmes Marc,4,M-Exempt,--D,1470,19112,5,0001894601,Restricted Stock Units
+A,12/20/2022 00:00:00,Holmes Marc,4,M-Exempt,--D,1470,14049,1,0001894601,Class A Common Stock
+A,12/20/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,7569,187597,8,0001894706,Class B Common Stock
+D,12/20/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,7569,60450,7,0001894706,Restricted Stock Units
+D,12/20/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,3360,43684,6,0001894706,Restricted Stock Units
+A,12/20/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,3360,11211,1,0001894706,Class A Common Stock
+A,12/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,14614,495530,15,0001894717,Class B Common Stock
+D,12/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,8126,32500,14,0001894717,Restricted Stock Units
+D,12/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,6488,51900,13,0001894717,Restricted Stock Units
+D,12/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,2940,38224,12,0001894717,Restricted Stock Units
+A,12/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,2940,25609,4,0001894717,Class A Common Stock
+D,12/20/2022 00:00:00,McJannet David,4,C-Conversion,--D,39333,143409,12,0001894737,Class B Common Stock
+A,12/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,39333,182742,11,0001894737,Class B Common Stock
+D,12/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,19876,79500,10,0001894737,Restricted Stock Units
+D,12/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,19457,155650,9,0001894737,Restricted Stock Units
+D,12/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,7560,98287,8,0001894737,Restricted Stock Units
+A,12/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,7560,57559,1,0001894737,Class A Common Stock
+A,12/19/2022 00:00:00,Solomon Glenn,4,J-Other,--I,5162,18068,8,0001479296,Class A Common Stock
+A,12/19/2022 00:00:00,Solomon Glenn,4,J-Other,--I,59368,207788,7,0001479296,Class A Common Stock
+D,12/19/2022 00:00:00,GGV Capital V L.L.C.,4,J-Other,--D,401513,197616,6,0001766305,Class A Common Stock
+A,12/19/2022 00:00:00,GGV Capital V L.L.C.,4,J-Other,--D,457974,599129,5,0001766305,Class A Common Stock
+D,12/19/2022 00:00:00,Solomon Glenn,4,C-Conversion,--I,57766,577665,12,0001479296,Class B Common Stock
+D,12/19/2022 00:00:00,Solomon Glenn,4,C-Conversion,--I,1574019,15740192,11,0001479296,Class B Common Stock
+A,12/19/2022 00:00:00,Solomon Glenn,4,J-Other,--I,3872,12906,8,0001479296,Class A Common Stock
+A,12/19/2022 00:00:00,Solomon Glenn,4,J-Other,--I,44526,148420,7,0001479296,Class A Common Stock
+D,12/19/2022 00:00:00,Solomon Glenn,4,J-Other,--I,301133,141155,6,0001479296,Class A Common Stock
+A,12/19/2022 00:00:00,Solomon Glenn,4,J-Other,--I,343480,442288,5,0001479296,Class A Common Stock
+D,12/19/2022 00:00:00,Solomon Glenn,4,J-Other,--I,57766,0,4,0001479296,Class A Common Stock
+D,12/19/2022 00:00:00,Solomon Glenn,4,J-Other,--I,1574019,0,3,0001479296,Class A Common Stock
+A,12/19/2022 00:00:00,Solomon Glenn,4,C-Conversion,--I,57766,57766,2,0001479296,Class A Common Stock
+A,12/19/2022 00:00:00,Solomon Glenn,4,C-Conversion,--I,1574019,1574019,1,0001479296,Class A Common Stock
+D,12/19/2022 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,57766,577665,8,0001766305,Class B Common Stock
+D,12/19/2022 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,1574019,15740192,7,0001766305,Class B Common Stock
+D,12/19/2022 00:00:00,GGV Capital V L.L.C.,4,J-Other,--D,301133,141155,6,0001766305,Class A Common Stock
+A,12/19/2022 00:00:00,GGV Capital V L.L.C.,4,J-Other,--D,343480,442288,5,0001766305,Class A Common Stock
+D,12/19/2022 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,57766,0,4,0001766305,Class A Common Stock
+D,12/19/2022 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,1574019,0,3,0001766305,Class A Common Stock
+A,12/19/2022 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,57766,57766,2,0001766305,Class A Common Stock
+A,12/19/2022 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,1574019,1574019,1,0001766305,Class A Common Stock
+D,12/08/2022 00:00:00,Solomon Glenn,4,C-Conversion,--I,57767,635431,12,0001479296,Class B Common Stock
+D,12/08/2022 00:00:00,Solomon Glenn,4,C-Conversion,--I,1574019,17314211,11,0001479296,Class B Common Stock
+A,12/08/2022 00:00:00,Solomon Glenn,4,J-Other,--I,3872,9034,8,0001479296,Class A Common Stock
+A,12/08/2022 00:00:00,Solomon Glenn,4,J-Other,--I,44526,103894,7,0001479296,Class A Common Stock
+D,12/08/2022 00:00:00,Solomon Glenn,4,J-Other,--I,301133,98808,6,0001479296,Class A Common Stock
+A,12/08/2022 00:00:00,Solomon Glenn,4,J-Other,--I,343480,399941,5,0001479296,Class A Common Stock
+D,12/08/2022 00:00:00,Solomon Glenn,4,J-Other,--I,57767,0,4,0001479296,Class A Common Stock
+D,12/08/2022 00:00:00,Solomon Glenn,4,J-Other,--I,1574019,0,3,0001479296,Class A Common Stock
+A,12/08/2022 00:00:00,Solomon Glenn,4,C-Conversion,--I,57767,57767,2,0001479296,Class A Common Stock
+A,12/08/2022 00:00:00,Solomon Glenn,4,C-Conversion,--I,1574019,1574019,1,0001479296,Class A Common Stock
+D,12/08/2022 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,57767,635431,8,0001766305,Class B Common Stock
+D,12/08/2022 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,1574019,17314211,7,0001766305,Class B Common Stock
+D,12/08/2022 00:00:00,GGV Capital V L.L.C.,4,J-Other,--D,301133,98808,6,0001766305,Class A Common Stock
+A,12/08/2022 00:00:00,GGV Capital V L.L.C.,4,J-Other,--D,343480,399941,5,0001766305,Class A Common Stock
+D,12/08/2022 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,57767,0,4,0001766305,Class A Common Stock
+D,12/08/2022 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,1574019,0,3,0001766305,Class A Common Stock
+A,12/08/2022 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,57767,57767,2,0001766305,Class A Common Stock
+A,12/08/2022 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,1574019,1574019,1,0001766305,Class A Common Stock
+A,11/18/2022 00:00:00,Zarmi Sigal,4,C-Conversion,--D,12500,0,4,0001854208,Class B Common Stock
+A,11/18/2022 00:00:00,Zarmi Sigal,4,C-Conversion,--D,12500,19234,1,0001854208,Class A Common Stock
+D,11/04/2022 00:00:00,Dadgar Armon,4,C-Conversion,--I,70000,639288,11,0001894717,Class B Common Stock
+D,11/04/2022 00:00:00,Dadgar Armon,4,C-Conversion,--I,281994,2057036,10,0001894717,Class B Common Stock
+D,11/04/2022 00:00:00,Dadgar Armon,4,C-Conversion,--I,1520000,13680000,9,0001894717,Class B Common Stock
+A,11/04/2022 00:00:00,Dadgar Armon,4,C-Conversion,--I,70000,70000,3,0001894717,Class A Common Stock
+A,11/04/2022 00:00:00,Dadgar Armon,4,C-Conversion,--I,281994,281994,2,0001894717,Class A Common Stock
+A,11/04/2022 00:00:00,Dadgar Armon,4,C-Conversion,--I,1520000,1520000,1,0001894717,Class A Common Stock
+D,11/01/2022 00:00:00,Welihinda Navam,4,C-Conversion,--D,12500,177870,5,0001894706,Class B Common Stock
+A,11/01/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,10342,190370,4,0001894706,Class B Common Stock
+D,11/01/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,10342,124669,3,0001894706,Employee Stock Option (right to buy)
+D,11/01/2022 00:00:00,Welihinda Navam,4,S-Sale,--D,12500,1332,2,0001894706,Class A Common Stock
+A,11/01/2022 00:00:00,Welihinda Navam,4,C-Conversion,--D,12500,13832,1,0001894706,Class A Common Stock
+A,10/03/2022 00:00:00,Welihinda Navam,4,C-Conversion,--D,8829,180028,4,0001894706,Class B Common Stock
+D,10/03/2022 00:00:00,Welihinda Navam,4,S-Sale,--D,6809,1332,3,0001894706,Class A Common Stock
+D,10/03/2022 00:00:00,Welihinda Navam,4,S-Sale,--D,5691,8141,2,0001894706,Class A Common Stock
+A,10/03/2022 00:00:00,Welihinda Navam,4,C-Conversion,--D,8829,13832,1,0001894706,Class A Common Stock
+A,09/26/2022 00:00:00,HENSHALL DAVID J,4,A-Award,--D,11423,11423,1,0001176008,Restricted Stock  Units
+D,09/23/2022 00:00:00,St. Ledger Susan,4,S-Sale,--D,5728,17158,1,0001673606,Class A Common Stock
+D,09/22/2022 00:00:00,Welihinda Navam,4/A,S-Sale,--D,200,13329,3,0001894706,Class A Common Stock
+D,09/22/2022 00:00:00,Welihinda Navam,4/A,S-Sale,--D,700,13529,2,0001894706,Class A Common Stock
+D,09/22/2022 00:00:00,Welihinda Navam,4/A,S-Sale,--D,4708,14229,1,0001894706,Class A Common Stock
+D,09/22/2022 00:00:00,Dadgar Armon,4,C-Conversion,--D,13934,66746,2,0001894717,Class B Common Stock
+A,09/22/2022 00:00:00,Dadgar Armon,4,C-Conversion,--D,13934,22318,1,0001894717,Class A Common Stock
+D,09/22/2022 00:00:00,Welihinda Navam,4,S-Sale,--D,500,5003,7,0001894706,Class A Common Stock
+D,09/22/2022 00:00:00,Welihinda Navam,4,S-Sale,--D,1400,5503,6,0001894706,Class A Common Stock
+D,09/22/2022 00:00:00,Welihinda Navam,4,S-Sale,--D,12034,6903,5,0001894706,Class A Common Stock
+D,09/22/2022 00:00:00,Dadgar Armon,4,S-Sale,--D,500,8384,7,0001894717,Class A Common Stock
+D,09/22/2022 00:00:00,Dadgar Armon,4,S-Sale,--D,1400,8884,6,0001894717,Class A Common Stock
+D,09/22/2022 00:00:00,Dadgar Armon,4,S-Sale,--D,12034,10284,5,0001894717,Class A Common Stock
+D,09/21/2022 00:00:00,Sweeney Brandon,4,C-Conversion,--D,54325,28116,9,0001894766,Class B Common Stock
+D,09/21/2022 00:00:00,Sweeney Brandon,4,S-Sale,--D,10248,60865,4,0001894766,Class A Common Stock
+D,09/21/2022 00:00:00,Sweeney Brandon,4,S-Sale,--D,17840,71113,3,0001894766,Class A Common Stock
+A,09/21/2022 00:00:00,Sweeney Brandon,4,C-Conversion,--D,54325,88953,2,0001894766,Class A Common Stock
+D,09/21/2022 00:00:00,Holmes Marc,4,C-Conversion,--D,8650,0,8,0001894601,Class B Common Stock
+D,09/21/2022 00:00:00,Holmes Marc,4,S-Sale,--D,850,12579,4,0001894601,Class A Common Stock
+D,09/21/2022 00:00:00,Holmes Marc,4,S-Sale,--D,3063,13429,3,0001894601,Class A Common Stock
+A,09/21/2022 00:00:00,Holmes Marc,4,C-Conversion,--D,8650,16492,2,0001894601,Class A Common Stock
+D,09/21/2022 00:00:00,Welihinda Navam,4,C-Conversion,--D,7569,188857,11,0001894706,Class B Common Stock
+D,09/21/2022 00:00:00,Welihinda Navam,4,S-Sale,--D,2036,18937,4,0001894706,Class A Common Stock
+D,09/21/2022 00:00:00,Welihinda Navam,4,S-Sale,--D,3285,20973,3,0001894706,Class A Common Stock
+A,09/21/2022 00:00:00,Welihinda Navam,4,C-Conversion,--D,7569,24258,2,0001894706,Class A Common Stock
+D,09/21/2022 00:00:00,Dadgar Armon,4,C-Conversion,--D,14611,80680,12,0001894717,Class B Common Stock
+D,09/21/2022 00:00:00,Dadgar Armon,4,S-Sale,--D,2000,22318,4,0001894717,Class A Common Stock
+D,09/21/2022 00:00:00,Dadgar Armon,4,S-Sale,--D,4783,24318,3,0001894717,Class A Common Stock
+A,09/21/2022 00:00:00,Dadgar Armon,4,C-Conversion,--D,14611,29101,2,0001894717,Class A Common Stock
+D,09/21/2022 00:00:00,McJannet David,4,C-Conversion,--D,39330,133407,9,0001894737,Class B Common Stock
+D,09/21/2022 00:00:00,McJannet David,4,S-Sale,--D,5900,49503,4,0001894737,Class A Common Stock
+D,09/21/2022 00:00:00,McJannet David,4,S-Sale,--D,16932,55403,3,0001894737,Class A Common Stock
+A,09/21/2022 00:00:00,McJannet David,4,C-Conversion,--D,39330,72335,2,0001894737,Class A Common Stock
+A,09/20/2022 00:00:00,Zarmi Sigal,4,M-Exempt,--D,3125,18750,4,0001854208,Class B Common Stock
+D,09/20/2022 00:00:00,Zarmi Sigal,4,M-Exempt,--D,3125,31250,3,0001854208,Restricted Stock Units
+D,09/20/2022 00:00:00,Zarmi Sigal,4,M-Exempt,--D,161,162,2,0001854208,Restricted Stock Units
+A,09/20/2022 00:00:00,Zarmi Sigal,4,M-Exempt,--D,161,483,1,0001854208,Class A Common Stock
+D,09/20/2022 00:00:00,Solomon Glenn,4,M-Exempt,--D,182,182,5,0001479296,Restricted Stock Units
+A,09/20/2022 00:00:00,Solomon Glenn,4,M-Exempt,--D,182,545,1,0001479296,Class A Common Stock
+D,09/20/2022 00:00:00,St. Ledger Susan,4,C-Conversion,--D,11250,106800,6,0001673606,Class B Common Stock
+A,09/20/2022 00:00:00,St. Ledger Susan,4,M-Exempt,--D,11250,118050,5,0001673606,Class B Common Stock
+D,09/20/2022 00:00:00,St. Ledger Susan,4,M-Exempt,--D,11250,45000,4,0001673606,Restricted Stock Units
+D,09/20/2022 00:00:00,St. Ledger Susan,4,M-Exempt,--D,138,138,3,0001673606,Restricted Stock Units
+A,09/20/2022 00:00:00,St. Ledger Susan,4,C-Conversion,--D,11250,22886,2,0001673606,Class A Common Stock
+A,09/20/2022 00:00:00,St. Ledger Susan,4,M-Exempt,--D,138,11636,1,0001673606,Class A Common Stock
+D,09/20/2022 00:00:00,Ford Todd R,4,C-Conversion,--D,6250,50000,6,0001324478,Class B Common Stock
+A,09/20/2022 00:00:00,Ford Todd R,4,M-Exempt,--D,6250,56250,5,0001324478,Class B Common Stock
+D,09/20/2022 00:00:00,Ford Todd R,4,M-Exempt,--D,6250,37500,4,0001324478,Restricted Stock Units
+D,09/20/2022 00:00:00,Ford Todd R,4,M-Exempt,--D,242,242,3,0001324478,Restricted Stock Units
+A,09/20/2022 00:00:00,Ford Todd R,4,C-Conversion,--D,6250,13468,2,0001324478,Class A Common Stock
+A,09/20/2022 00:00:00,Ford Todd R,4,M-Exempt,--D,242,7218,1,0001324478,Class A Common Stock
+A,09/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,54325,82441,8,0001894766,Class B Common Stock
+D,09/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,50000,250000,7,0001894766,Restricted Stock Units
+D,09/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,4325,38925,6,0001894766,Restricted Stock Units
+D,09/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,3360,47044,5,0001894766,Restricted Stock Units
+A,09/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,3360,34628,1,0001894766,Class A Common Stock
+A,09/20/2022 00:00:00,Holmes Marc,4,M-Exempt,--D,8650,8650,7,0001894601,Class B Common Stock
+D,09/20/2022 00:00:00,Holmes Marc,4,M-Exempt,--D,8650,77850,6,0001894601,Restricted Stock Units
+D,09/20/2022 00:00:00,Holmes Marc,4,M-Exempt,--D,1470,20582,5,0001894601,Restricted Stock Units
+A,09/20/2022 00:00:00,Holmes Marc,4,M-Exempt,--D,1470,7842,1,0001894601,Class A Common Stock
+A,09/20/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,7569,196426,10,0001894706,Class B Common Stock
+D,09/20/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,7569,68119,9,0001894706,Restricted Stock Units
+D,09/20/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,3360,47044,8,0001894706,Restricted Stock Units
+A,09/20/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,3360,16689,1,0001894706,Class A Common Stock
+A,09/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,14611,95291,11,0001894717,Class B Common Stock
+D,09/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,8124,40626,10,0001894717,Restricted Stock Units
+D,09/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,6487,58388,9,0001894717,Restricted Stock Units
+D,09/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,2940,41164,8,0001894717,Restricted Stock Units
+A,09/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,2940,14490,1,0001894717,Class A Common Stock
+A,09/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,39330,172737,8,0001894737,Class B Common Stock
+D,09/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,19874,99376,7,0001894737,Restricted Stock Units
+D,09/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,19456,175107,6,0001894737,Restricted Stock Units
+D,09/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,7561,105847,5,0001894737,Restricted Stock Units
+A,09/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,7561,33005,1,0001894737,Class A Common Stock
+A,09/12/2022 00:00:00,Welihinda Navam,4,C-Conversion,--D,12500,188857,3,0001894706,Class B Common Stock
+D,09/12/2022 00:00:00,Welihinda Navam,4,S-Sale,--D,12500,13329,2,0001894706,Class A Common Stock
+A,09/12/2022 00:00:00,Welihinda Navam,4,C-Conversion,--D,12500,25829,1,0001894706,Class A Common Stock
+D,09/07/2022 00:00:00,Solomon Glenn,4,C-Conversion,--I,77022,693198,12,0001479296,Class B Common Stock
+D,09/07/2022 00:00:00,Solomon Glenn,4,C-Conversion,--I,2098692,18888230,11,0001479296,Class B Common Stock
+A,09/07/2022 00:00:00,Solomon Glenn,4,J-Other,--I,5162,5162,8,0001479296,Class A Common Stock
+A,09/07/2022 00:00:00,Solomon Glenn,4,J-Other,--I,59368,59368,7,0001479296,Class A Common Stock
+D,09/07/2022 00:00:00,Solomon Glenn,4,J-Other,--I,401513,56461,6,0001479296,Class A Common Stock
+A,09/07/2022 00:00:00,Solomon Glenn,4,J-Other,--I,457974,457974,5,0001479296,Class A Common Stock
+D,09/07/2022 00:00:00,Solomon Glenn,4,J-Other,--I,77022,0,4,0001479296,Class A Common Stock
+D,09/07/2022 00:00:00,Solomon Glenn,4,J-Other,--I,2098692,0,3,0001479296,Class A Common Stock
+A,09/07/2022 00:00:00,Solomon Glenn,4,C-Conversion,--I,77022,77022,2,0001479296,Class A Common Stock
+A,09/07/2022 00:00:00,Solomon Glenn,4,C-Conversion,--I,2098692,2098692,1,0001479296,Class A Common Stock
+D,09/07/2022 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,77022,693198,8,0001766305,Class B Common Stock
+D,09/07/2022 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,2098692,18888230,7,0001766305,Class B Common Stock
+D,09/07/2022 00:00:00,GGV Capital V L.L.C.,4,J-Other,--D,401513,56461,6,0001766305,Class A Common Stock
+A,09/07/2022 00:00:00,GGV Capital V L.L.C.,4,J-Other,--D,457974,457974,5,0001766305,Class A Common Stock
+D,09/07/2022 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,77022,0,4,0001766305,Class A Common Stock
+D,09/07/2022 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,2098692,0,3,0001766305,Class A Common Stock
+A,09/07/2022 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,77022,77022,2,0001766305,Class A Common Stock
+A,09/07/2022 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,2098692,2098692,1,0001766305,Class A Common Stock
+D,09/06/2022 00:00:00,Dadgar Armon,4,C-Conversion,--D,17909,62771,5,0001894717,Class B Common Stock
+D,09/06/2022 00:00:00,Dadgar Armon,4,S-Sale,--D,100,11550,4,0001894717,Class A Common Stock
+D,09/06/2022 00:00:00,Dadgar Armon,4,S-Sale,--D,7263,11650,3,0001894717,Class A Common Stock
+D,09/06/2022 00:00:00,Dadgar Armon,4,S-Sale,--D,10546,18913,2,0001894717,Class A Common Stock
+A,09/06/2022 00:00:00,Dadgar Armon,4,C-Conversion,--D,17909,29459,1,0001894717,Class A Common Stock
+D,08/12/2022 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,J-Other,--I,458185,1860508,2,0001551568,Class B Common Stock
+D,08/12/2022 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,J-Other,--I,3612016,14666976,1,0001551568,Class B Common Stock
+D,08/03/2022 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,J-Other,--I,458185,2318693,2,0001551568,Class B Common Stock
+D,08/03/2022 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,J-Other,--I,3612016,18278992,1,0001551568,Class B Common Stock
+A,06/29/2022 00:00:00,Zarmi Sigal,4,A-Award,--D,5995,5995,1,0001854208,Restricted Stock Units
+A,06/29/2022 00:00:00,St. Ledger Susan,4,A-Award,--D,5995,5995,1,0001673606,Restricted Stock Units (right to buy)
+A,06/29/2022 00:00:00,Solomon Glenn,4,A-Award,--D,5995,5995,1,0001479296,Restricted Stock Units
+A,06/29/2022 00:00:00,Ford Todd R,4,A-Award,--D,5995,5995,1,0001324478,Restricted Stock Units
+D,06/23/2022 00:00:00,St. Ledger Susan,4,S-Sale,--D,5728,11498,1,0001673606,Class A Common Stock
+D,06/21/2022 00:00:00,Sweeney Brandon,4,S-Sale,--D,26917,31268,3,0001894766,Class A Common Stock
+A,06/21/2022 00:00:00,Sweeney Brandon,4,C-Conversion,--D,54325,58185,2,0001894766,Class A Common Stock
+D,06/21/2022 00:00:00,Holmes Marc,4,C-Conversion,--D,8650,0,7,0001894601,Class B Common Stock
+D,06/21/2022 00:00:00,Holmes Marc,4,S-Sale,--D,3748,6372,3,0001894601,Class A Common Stock
+A,06/21/2022 00:00:00,Holmes Marc,4,C-Conversion,--D,8650,10120,2,0001894601,Class A Common Stock
+D,06/21/2022 00:00:00,Welihinda Navam,4,C-Conversion,--D,7569,201357,7,0001894706,Class B Common Stock
+D,06/21/2022 00:00:00,Welihinda Navam,4,S-Sale,--D,5100,13329,3,0001894706,Class A Common Stock
+A,06/21/2022 00:00:00,Welihinda Navam,4,C-Conversion,--D,7569,18429,2,0001894706,Class A Common Stock
+D,06/21/2022 00:00:00,Dadgar Armon,4,C-Conversion,--D,14614,80680,8,0001894717,Class B Common Stock
+D,06/21/2022 00:00:00,Dadgar Armon,4,S-Sale,--D,6504,11550,3,0001894717,Class A Common Stock
+A,06/21/2022 00:00:00,Dadgar Armon,4,C-Conversion,--D,14614,18054,2,0001894717,Class A Common Stock
+D,06/21/2022 00:00:00,McJannet David,4,C-Conversion,--D,39332,133407,8,0001894737,Class B Common Stock
+D,06/21/2022 00:00:00,McJannet David,4,S-Sale,--D,21871,25444,3,0001894737,Class A Common Stock
+A,06/21/2022 00:00:00,McJannet David,4,C-Conversion,--D,39332,47315,2,0001894737,Class A Common Stock
+D,06/20/2022 00:00:00,Zarmi Sigal,4/A,C-Conversion,--D,3125,12500,4,0001854208,Class B Common Stock
+A,06/20/2022 00:00:00,Zarmi Sigal,4/A,C-Conversion,--D,3125,15625,3,0001854208,Class B Common Stock
+A,06/20/2022 00:00:00,Zarmi Sigal,4/A,C-Conversion,--D,3125,3448,2,0001854208,Class A Common Stock
+A,06/20/2022 00:00:00,Zarmi Sigal,4/A,M-Exempt,--D,162,323,1,0001854208,Class A Common Stock
+D,06/20/2022 00:00:00,Zarmi Sigal,4,M-Exempt,--D,3125,34375,3,0001854208,Restricted Stock Units
+D,06/20/2022 00:00:00,Zarmi Sigal,4,M-Exempt,--D,162,323,2,0001854208,Restricted Stock Units
+A,06/20/2022 00:00:00,Zarmi Sigal,4,M-Exempt,--D,161,322,1,0001854208,Class A Common Stock
+D,06/20/2022 00:00:00,Solomon Glenn,4,M-Exempt,--D,182,363,3,0001479296,Restricted Stock Units
+A,06/20/2022 00:00:00,Solomon Glenn,4,M-Exempt,--D,182,363,1,0001479296,Class A Common Stock
+D,06/20/2022 00:00:00,St. Ledger Susan,4,C-Conversion,--D,16950,106800,6,0001673606,Class B Common Stock
+A,06/20/2022 00:00:00,St. Ledger Susan,4,M-Exempt,--D,11250,123750,5,0001673606,Class B Common Stock
+D,06/20/2022 00:00:00,St. Ledger Susan,4,M-Exempt,--D,11250,56250,4,0001673606,Restricted Stock Units
+D,06/20/2022 00:00:00,St. Ledger Susan,4,M-Exempt,--D,138,276,3,0001673606,Restricted Stock Units
+A,06/20/2022 00:00:00,St. Ledger Susan,4,C-Conversion,--D,16950,17226,2,0001673606,Class A Common Stock
+A,06/20/2022 00:00:00,St. Ledger Susan,4,M-Exempt,--D,138,276,1,0001673606,Class A Common Stock
+D,06/20/2022 00:00:00,Ford Todd R,4,C-Conversion,--D,6250,50000,6,0001324478,Class B Common Stock
+A,06/20/2022 00:00:00,Ford Todd R,4,M-Exempt,--D,6250,56250,5,0001324478,Class B Common Stock
+D,06/20/2022 00:00:00,Ford Todd R,4,M-Exempt,--D,6250,43750,4,0001324478,Restricted Stock Units
+D,06/20/2022 00:00:00,Ford Todd R,4,M-Exempt,--D,242,484,3,0001324478,Restricted Stock Units
+A,06/20/2022 00:00:00,Ford Todd R,4,C-Conversion,--D,6250,6976,2,0001324478,Class A Common Stock
+A,06/20/2022 00:00:00,Ford Todd R,4,M-Exempt,--D,242,484,1,0001324478,Class A Common Stock
+D,06/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,50000,300000,6,0001894766,Restricted Stock Units
+D,06/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,4325,43250,5,0001894766,Restricted Stock Units
+D,06/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,3360,50404,4,0001894766,Restricted Stock Units
+A,06/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,3360,3860,1,0001894766,Class A Common Stock
+A,06/20/2022 00:00:00,Holmes Marc,4,M-Exempt,--D,8650,8650,6,0001894601,Class B Common Stock
+D,06/20/2022 00:00:00,Holmes Marc,4,M-Exempt,--D,8650,86500,5,0001894601,Restricted Stock Units
+D,06/20/2022 00:00:00,Holmes Marc,4,M-Exempt,--D,1470,22052,4,0001894601,Restricted Stock Units
+A,06/20/2022 00:00:00,Holmes Marc,4,M-Exempt,--D,1470,1470,1,0001894601,Class A Common Stock
+A,06/20/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,7569,208925,6,0001894706,Class B Common Stock
+D,06/20/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,7569,83257,5,0001894706,Restricted Stock Units
+D,06/20/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,3360,50404,4,0001894706,Restricted Stock Units
+A,06/20/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,3360,10860,1,0001894706,Class A Common Stock
+A,06/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,14614,95294,7,0001894717,Class B Common Stock
+D,06/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,8126,48750,6,0001894717,Restricted Stock Units
+D,06/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,6488,64875,5,0001894717,Restricted Stock Units
+D,06/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,2940,44104,4,0001894717,Restricted Stock Units
+A,06/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,2940,3440,1,0001894717,Class A Common Stock
+A,06/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,39332,172730,7,0001894737,Class B Common Stock
+D,06/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,19876,119250,6,0001894737,Restricted Stock Units
+D,06/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,19456,194563,5,0001894737,Restricted Stock Units
+D,06/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,7560,113408,4,0001894737,Restricted Stock Units
+A,06/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,7560,7983,1,0001894737,Class A Common Stock
+D,06/07/2022 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,128532,385594,8,0001532951,Class B Common Stock
+D,06/07/2022 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,4155918,12467752,7,0001532951,Class B Common Stock
+D,06/07/2022 00:00:00,"Redpoint Omega II, LLC",4,J-Other,--I,1070149,0,6,0001532951,Class A Common Stock
+A,06/07/2022 00:00:00,"Redpoint Omega II, LLC",4,J-Other,--I,1070149,1070149,5,0001532951,Class A Common Stock
+D,06/07/2022 00:00:00,"Redpoint Omega II, LLC",4,J-Other,--I,128532,0,4,0001532951,Class A Common Stock
+D,06/07/2022 00:00:00,"Redpoint Omega II, LLC",4,J-Other,--I,4155918,0,3,0001532951,Class A Common Stock
+A,06/07/2022 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,128532,128532,2,0001532951,Class A Common Stock
+A,06/07/2022 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,4155918,4155918,1,0001532951,Class A Common Stock
+D,06/07/2022 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,J-Other,--I,548724,2776878,2,0001551568,Class B Common Stock
+D,06/07/2022 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,J-Other,--I,4325768,21891008,1,0001551568,Class B Common Stock
+A,05/09/2022 00:00:00,Solomon Glenn,4,P-Purchase,--I,4246,476666,11,0001479296,Class A Common Stock
+A,05/09/2022 00:00:00,Solomon Glenn,4,P-Purchase,--I,21391,472420,10,0001479296,Class A Common Stock
+A,05/09/2022 00:00:00,Solomon Glenn,4,P-Purchase,--I,31438,451029,9,0001479296,Class A Common Stock
+A,05/09/2022 00:00:00,Solomon Glenn,4,P-Purchase,--I,73155,419591,8,0001479296,Class A Common Stock
+A,05/09/2022 00:00:00,Solomon Glenn,4,P-Purchase,--I,113210,346436,7,0001479296,Class A Common Stock
+A,05/09/2022 00:00:00,GGV Capital Select L.L.C.,4,P-Purchase,--I,4246,476666,11,0001766307,Class A Common Stock
+A,05/09/2022 00:00:00,GGV Capital Select L.L.C.,4,P-Purchase,--I,21391,472420,10,0001766307,Class A Common Stock
+A,05/09/2022 00:00:00,GGV Capital Select L.L.C.,4,P-Purchase,--I,31438,451029,9,0001766307,Class A Common Stock
+A,05/09/2022 00:00:00,GGV Capital Select L.L.C.,4,P-Purchase,--I,73155,419591,8,0001766307,Class A Common Stock
+A,05/09/2022 00:00:00,GGV Capital Select L.L.C.,4,P-Purchase,--I,113210,346436,7,0001766307,Class A Common Stock
+A,05/06/2022 00:00:00,Solomon Glenn,4,P-Purchase,--I,67,233226,6,0001479296,Class A Common Stock
+A,05/06/2022 00:00:00,Solomon Glenn,4,P-Purchase,--I,21263,233159,5,0001479296,Class A Common Stock
+A,05/06/2022 00:00:00,Solomon Glenn,4,P-Purchase,--I,2486,211896,4,0001479296,Class A Common Stock
+A,05/06/2022 00:00:00,Solomon Glenn,4,P-Purchase,--I,11910,209410,3,0001479296,Class A Common Stock
+A,05/06/2022 00:00:00,Solomon Glenn,4,P-Purchase,--I,26348,197500,2,0001479296,Class A Common Stock
+A,05/06/2022 00:00:00,Solomon Glenn,4,P-Purchase,--I,106760,171152,1,0001479296,Class A Common Stock
+A,05/06/2022 00:00:00,GGV Capital Select L.L.C.,4,P-Purchase,--I,67,233226,6,0001766307,Class A Common Stock
+A,05/06/2022 00:00:00,GGV Capital Select L.L.C.,4,P-Purchase,--I,21263,233159,5,0001766307,Class A Common Stock
+A,05/06/2022 00:00:00,GGV Capital Select L.L.C.,4,P-Purchase,--I,2486,211896,4,0001766307,Class A Common Stock
+A,05/06/2022 00:00:00,GGV Capital Select L.L.C.,4,P-Purchase,--I,11910,209410,3,0001766307,Class A Common Stock
+A,05/06/2022 00:00:00,GGV Capital Select L.L.C.,4,P-Purchase,--I,26348,197500,2,0001766307,Class A Common Stock
+A,05/06/2022 00:00:00,GGV Capital Select L.L.C.,4,P-Purchase,--I,106760,171152,1,0001766307,Class A Common Stock
+A,04/22/2022 00:00:00,Solomon Glenn,4,P-Purchase,--I,2175,64392,4,0001479296,Class A Common Stock
+A,04/22/2022 00:00:00,Solomon Glenn,4,P-Purchase,--I,19092,62217,3,0001479296,Class A Common Stockvv
+A,04/22/2022 00:00:00,Solomon Glenn,4,P-Purchase,--I,36908,43125,2,0001479296,Class A Common Stock
+A,04/22/2022 00:00:00,Solomon Glenn,4,P-Purchase,--I,4392,6217,1,0001479296,Class A Common Stock
+A,04/22/2022 00:00:00,GGV Capital Select L.L.C.,4,P-Purchase,--I,2175,64392,4,0001766307,Class A Common Stock
+A,04/22/2022 00:00:00,GGV Capital Select L.L.C.,4,P-Purchase,--I,19092,62217,3,0001766307,Class A Common Stock
+A,04/22/2022 00:00:00,GGV Capital Select L.L.C.,4,P-Purchase,--I,36908,43125,2,0001766307,Class A Common Stock
+A,04/22/2022 00:00:00,GGV Capital Select L.L.C.,4,P-Purchase,--I,4392,6217,1,0001766307,Class A Common Stock
+A,04/11/2022 00:00:00,GGV Capital Select L.L.C.,4,P-Purchase,--I,1825,1825,1,0001766307,Class A Common Stock
+A,04/11/2022 00:00:00,Solomon Glenn,4,P-Purchase,--I,1825,1825,1,0001479296,Class A Common Stock
+D,03/21/2022 00:00:00,Sweeney Brandon,4,C-Conversion,--D,54325,28116,8,0001894766,Class B Common Stock
+D,03/21/2022 00:00:00,Sweeney Brandon,4,C-Conversion,--D,26209,28116,6,0001894766,Class B Common Stock
+D,03/21/2022 00:00:00,Sweeney Brandon,4,S-Sale,--D,26209,0,2,0001894766,Class A Common Stock
+A,03/21/2022 00:00:00,Sweeney Brandon,4,C-Conversion,--D,26209,26209,1,0001894766,Class A Common Stock
+D,03/21/2022 00:00:00,Welihinda Navam,4,C-Conversion,--D,3657,0,5,0001894706,Class B Common Stock
+D,03/21/2022 00:00:00,Welihinda Navam,4,S-Sale,--D,3657,0,2,0001894706,Class A Common Stock
+A,03/21/2022 00:00:00,Welihinda Navam,4,C-Conversion,--D,3657,3657,1,0001894706,Class A Common Stock
+D,03/21/2022 00:00:00,McJannet David,4,C-Conversion,--D,18992,133407,10,0001894737,Class B Common Stock
+D,03/21/2022 00:00:00,McJannet David,4,S-Sale,--D,18992,0,2,0001894737,Class A Common Stock
+A,03/21/2022 00:00:00,McJannet David,4,C-Conversion,--D,18992,18992,1,0001894737,Class A Common Stock
+D,03/21/2022 00:00:00,Holmes Marc,4,C-Conversion,--D,8650,0,5,0001894601,Class B Common Stock
+D,03/21/2022 00:00:00,Holmes Marc,4,S-Sale,--D,3317,0,2,0001894601,Class A Common Stock
+A,03/21/2022 00:00:00,Holmes Marc,4,C-Conversion,--D,3317,3317,1,0001894601,Class A Common Stock
+D,03/21/2022 00:00:00,Dadgar Armon,4,C-Conversion,--D,5605,80680,7,0001894717,Class B Common Stock
+D,03/21/2022 00:00:00,Dadgar Armon,4,S-Sale,--D,5605,0,2,0001894717,Class A Common Stock
+A,03/21/2022 00:00:00,Dadgar Armon,4,C-Conversion,--D,5605,5605,1,0001894717,Class A Common Stock
+A,03/20/2022 00:00:00,Zarmi Sigal,4,M-Exempt,--D,3125,15625,4,0001854208,Class B Common Stock
+A,03/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,54325,82441,7,0001894766,Class B Common Stock
+A,03/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,54325,54325,5,0001894766,Class B Common Stock
+D,03/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,50000,350000,4,0001894766,Restricted Stock Units
+D,03/20/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,4325,47575,3,0001894766,Restricted Stock Units
+A,03/20/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,7568,7568,4,0001894706,Class B Common Stock
+D,03/20/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,7568,83257,3,0001894706,Restricted Stock Units
+A,03/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,39330,152399,9,0001894737,Class B Common Stock
+D,03/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,19874,139126,6,0001894737,Restricted Stock Units
+D,03/20/2022 00:00:00,McJannet David,4,M-Exempt,--D,19456,214019,5,0001894737,Restricted Stock Units
+A,03/20/2022 00:00:00,Holmes Marc,4,M-Exempt,--D,8650,8650,4,0001894601,Class B Common Stock
+D,03/20/2022 00:00:00,Holmes Marc,4,M-Exempt,--D,8650,8650,3,0001894601,Restricted Stock Units
+A,03/20/2022 00:00:00,St. Ledger Susan,4,M-Exempt,--D,11250,112500,5,0001673606,Class B Common Stock
+D,03/20/2022 00:00:00,St. Ledger Susan,4,M-Exempt,--D,11250,67500,4,0001673606,Restricted Stock Units
+D,03/20/2022 00:00:00,St. Ledger Susan,4,M-Exempt,--D,138,414,3,0001673606,Restricted Stock Units
+A,03/20/2022 00:00:00,St. Ledger Susan,4,M-Exempt,--D,138,138,1,0001673606,Class A Common Stock
+A,03/20/2022 00:00:00,Ford Todd R,4,M-Exempt,--D,6250,50000,5,0001324478,Class B Common Stock
+D,03/20/2022 00:00:00,Ford Todd R,4,M-Exempt,--D,6250,50000,4,0001324478,Restricted Stock Units
+D,03/20/2022 00:00:00,Ford Todd R,4,M-Exempt,--D,242,726,3,0001324478,Restricted Stock Units
+A,03/20/2022 00:00:00,Ford Todd R,4,M-Exempt,--D,242,242,1,0001324478,Class A Common Stock
+D,03/20/2022 00:00:00,Solomon Glenn,4,M-Exempt,--D,181,545,3,0001479296,Restricted Stock Units
+A,03/20/2022 00:00:00,Solomon Glenn,4,M-Exempt,--D,181,181,1,0001479296,Class A Common Stock
+A,03/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,14611,86285,6,0001894717,Class B Common Stock
+D,03/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,8124,56876,5,0001894717,Restricted Stock Units
+D,03/20/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,6487,71363,4,0001894717,Restricted Stock Units
+A,03/20/2022 00:00:00,Zarmi Sigal,4,M-Exempt,--D,3125,12500,5,0001854208,Class B Common Stock
+D,03/20/2022 00:00:00,Zarmi Sigal,4,M-Exempt,--D,3125,37500,4,0001854208,Restricted Stock Units
+D,03/20/2022 00:00:00,Zarmi Sigal,4,M-Exempt,--D,161,485,3,0001854208,Restricted Stock Units
+A,03/20/2022 00:00:00,Zarmi Sigal,4,M-Exempt,--D,161,161,1,0001854208,Class A Common Stock
+A,02/01/2022 00:00:00,Sweeney Brandon,4,A-Award,--D,53764,53764,7,0001894766,Restricted Stock Units
+A,02/01/2022 00:00:00,Holmes Marc,4,A-Award,--D,23522,23522,4,0001894601,Resticted Stock Units
+A,02/01/2022 00:00:00,Welihinda Navam,4,A-Award,--D,53764,53764,12,0001894706,Restricted Stock Units
+A,02/01/2022 00:00:00,McJannet David,4,A-Award,--D,120968,120968,4,0001894737,Restricted Stock Units
+A,02/01/2022 00:00:00,St. Ledger Susan,4,A-Award,--D,552,552,2,0001673606,Restricted Stock Units
+A,02/01/2022 00:00:00,Ford Todd R,4,A-Award,--D,968,968,2,0001324478,Restricted Stock Units
+A,02/01/2022 00:00:00,Solomon Glenn,4,A-Award,--D,726,726,2,0001479296,Restricted Stock Units
+A,02/01/2022 00:00:00,Zarmi Sigal,4,A-Award,--D,646,646,2,0001854208,Restricted Stock Units
+D,01/31/2022 00:00:00,Sweeney Brandon,4,F-InKind,--D,6426,213784,6,0001894766,Class B Common Stock
+A,01/31/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,17300,220210,5,0001894766,Class B Common Stock
+D,01/31/2022 00:00:00,Sweeney Brandon,4,M-Exempt,--D,17300,51900,4,0001894766,Restricted Stock Units
+D,01/31/2022 00:00:00,Holmes Marc,4,F-InKind,--D,11446,23134,3,0001894601,Class B Common Stock
+A,01/31/2022 00:00:00,Holmes Marc,4,M-Exempt,--D,34600,34600,2,0001894601,Class B Common Stock
+D,01/31/2022 00:00:00,Holmes Marc,4,M-Exempt,--D,34600,103800,1,0001894601,Restricted Stock Units
+D,01/31/2022 00:00:00,Welihinda Navam,4,F-InKind,--D,12857,197446,11,0001894706,Class B Common Stock
+A,01/31/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,30275,210303,10,0001894706,Class B Common Stock
+D,01/31/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,30275,90725,9,0001894706,Restricted Stock Units
+D,01/31/2022 00:00:00,Dadgar Armon,4,F-InKind,--D,8041,503753,6,0001894717,Class B Common Stock
+A,01/31/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,25950,511794,5,0001894717,Class B Common Stock
+D,01/31/2022 00:00:00,Dadgar Armon,4,F-InKind,--D,3198,485844,4,0001894717,Class B Common Stock
+D,01/31/2022 00:00:00,Dadgar Armon,4,M-Exempt,--D,25950,77850,2,0001894717,Restricted Stock Units
+D,01/31/2022 00:00:00,McJannet David,4,F-InKind,--D,36430,113069,8,0001894737,Class B Common Stock
+A,01/31/2022 00:00:00,McJannet David,4,M-Exempt,--D,77825,149499,7,0001894737,Class B Common Stock
+D,01/31/2022 00:00:00,McJannet David,4,M-Exempt,--D,77825,233475,3,0001894737,Restricted Stock Units
+D,01/24/2022 00:00:00,Welihinda Navam,4,C-Conversion,--D,3500,180028,8,0001894706,Class B Common Stock
+A,01/24/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,3500,183528,7,0001894706,Class B Common Stock
+D,01/24/2022 00:00:00,Welihinda Navam,4,M-Exempt,--D,3500,163227,6,0001894706,Employee Stock Option (right to buy)
+A,01/24/2022 00:00:00,Welihinda Navam,4,C-Conversion,--D,3500,7000,2,0001894706,Class A Common Stock
+D,12/27/2021 00:00:00,Welihinda Navam,4,C-Conversion,--D,3500,180028,5,0001894706,Class B Common Stock
+A,12/27/2021 00:00:00,Welihinda Navam,4,M-Exempt,--D,3500,183528,4,0001894706,Class B Common Stock
+D,12/27/2021 00:00:00,Welihinda Navam,4,M-Exempt,--D,3500,166727,3,0001894706,Employee Stock Option (right to buy)
+A,12/27/2021 00:00:00,Welihinda Navam,4,C-Conversion,--D,3500,3500,1,0001894706,Class A Common Stock
+D,12/23/2021 00:00:00,Welihinda Navam,4,C-Conversion,--D,12493,180028,17,0001894706,Class B Common Stock
+A,12/23/2021 00:00:00,Welihinda Navam,4,M-Exempt,--D,12493,192521,16,0001894706,Class B Common Stock
+D,12/23/2021 00:00:00,Welihinda Navam,4,M-Exempt,--D,12493,135011,15,0001894706,Employee Stock Option (right to buy)
+D,12/23/2021 00:00:00,Welihinda Navam,4,S-Sale,--D,6246,0,8,0001894706,Common Stock
+D,12/23/2021 00:00:00,Welihinda Navam,4,S-Sale,--D,6247,6246,7,0001894706,Common Stock
+A,12/23/2021 00:00:00,Welihinda Navam,4,C-Conversion,--D,12493,12493,6,0001894706,Common Stock
+D,12/22/2021 00:00:00,Welihinda Navam,4,C-Conversion,--D,2228,180028,14,0001894706,Class B Common Stock
+A,12/22/2021 00:00:00,Welihinda Navam,4,M-Exempt,--D,2228,182256,13,0001894706,Class B Common Stock
+D,12/22/2021 00:00:00,Welihinda Navam,4,M-Exempt,--D,2228,147504,12,0001894706,Employee Stock Option (right to buy)
+D,12/22/2021 00:00:00,Welihinda Navam,4,S-Sale,--D,428,0,5,0001894706,Common Stock
+D,12/22/2021 00:00:00,Welihinda Navam,4,S-Sale,--D,1800,428,4,0001894706,Common Stock
+A,12/22/2021 00:00:00,Welihinda Navam,4,C-Conversion,--D,2228,2228,3,0001894706,Common Stock
+D,12/22/2021 00:00:00,McJannet David,4,C-Conversion,--I,9940,1408061,4,0001894737,Class B Common Stock
+D,12/22/2021 00:00:00,McJannet David,4,S-Sale,--I,6840,0,3,0001894737,Class A Common Stock
+D,12/22/2021 00:00:00,McJannet David,4,S-Sale,--I,3100,6840,2,0001894737,Class A Common Stock
+A,12/22/2021 00:00:00,McJannet David,4,C-Conversion,--I,9940,9940,1,0001894737,Class A Common Stock
+D,12/21/2021 00:00:00,McJannet David,4,C-Conversion,--I,52636,1365365,5,0001894737,Class B Common Stock
+D,12/21/2021 00:00:00,McJannet David,4,S-Sale,--I,21348,0,4,0001894737,Class A Common Stock
+D,12/21/2021 00:00:00,McJannet David,4,S-Sale,--I,4632,21348,3,0001894737,Class A Common Stock
+D,12/21/2021 00:00:00,McJannet David,4,S-Sale,--I,26656,25980,2,0001894737,Class A Common Stock
+A,12/21/2021 00:00:00,McJannet David,4,C-Conversion,--I,52636,52636,1,0001894737,Class A Common Stock
+D,12/21/2021 00:00:00,Welihinda Navam,4,C-Conversion,--D,4020,180028,11,0001894706,Class B Common Stock
+A,12/21/2021 00:00:00,Welihinda Navam,4,M-Exempt,--D,4020,184048,10,0001894706,Class B Common Stock
+D,12/21/2021 00:00:00,Welihinda Navam,4,M-Exempt,--D,4020,149732,9,0001894706,Employee Stock Option (right to buy)
+D,12/21/2021 00:00:00,Welihinda Navam,4,S-Sale,--D,4020,0,2,0001894706,Common Stock
+A,12/21/2021 00:00:00,Welihinda Navam,4,C-Conversion,--D,4020,4020,1,0001894706,Common Stock
+D,12/20/2021 00:00:00,McJannet David,4,F-InKind,--D,9874,81676,7,0001894737,Class B Common Stock
+A,12/20/2021 00:00:00,McJannet David,4,M-Exempt,--D,19876,91550,6,0001894737,Class B Common Stock
+D,12/20/2021 00:00:00,McJannet David,4,M-Exempt,--D,19876,81676,5,0001894737,Restricted Stock Units
+A,12/20/2021 00:00:00,Ford Todd R,4,M-Exempt,--D,6250,43750,2,0001324478,Class B Common Stock
+D,12/20/2021 00:00:00,Ford Todd R,4,M-Exempt,--D,6250,56250,1,0001324478,Restricted Stock Units
+D,12/20/2021 00:00:00,Sweeney Brandon,4,F-InKind,--D,24810,202910,3,0001894766,Class B Common Stock
+A,12/20/2021 00:00:00,Sweeney Brandon,4,M-Exempt,--D,50000,227720,2,0001894766,Class B Common Stock
+D,12/20/2021 00:00:00,Sweeney Brandon,4,M-Exempt,--D,50000,577720,1,0001894766,Restricted Stock Units
+A,12/20/2021 00:00:00,Dadgar Armon,4,M-Exempt,--D,8126,489042,3,0001894717,Class B Common Stock
+D,12/20/2021 00:00:00,Dadgar Armon,4,M-Exempt,--D,8126,65090,1,0001894717,Restricted Stock Units
+A,12/20/2021 00:00:00,Zarmi Sigal,4,M-Exempt,--D,3125,9375,2,0001854208,Class B Common Stock
+D,12/20/2021 00:00:00,Zarmi Sigal,4,M-Exempt,--D,3125,40625,1,0001854208,Restricted Stock Units
+A,12/20/2021 00:00:00,St. Ledger Susan,4,M-Exempt,--D,11250,101250,2,0001673606,Class B Common Stock
+D,12/20/2021 00:00:00,St. Ledger Susan,4,M-Exempt,--D,11250,78750,1,0001673606,Restricted Stock Units
+A,12/20/2021 00:00:00,Ford Todd R,4,M-Exempt,--D,6250,43750,2,0001324478,Class B Common Stock
+D,12/20/2021 00:00:00,Ford Todd R,4,M-Exempt,--D,6250,56250,1,0001324478,Restricted Stock Units
+D,12/16/2021 00:00:00,McJannet David,4,C-Conversion,--I,930,1418001,6,0001894737,Class B Common Stock
+D,12/16/2021 00:00:00,McJannet David,4,S-Sale,--I,930,0,4,0001894737,Class A Common Stock
+A,12/16/2021 00:00:00,McJannet David,4,C-Conversion,--I,930,930,3,0001894737,Class A Common Stock
+D,12/15/2021 00:00:00,McJannet David,4,C-Conversion,--I,305,1418931,5,0001894737,Class B Common Stock
+D,12/15/2021 00:00:00,McJannet David,4,S-Sale,--I,305,0,2,0001894737,Class A Common Stock
+A,12/15/2021 00:00:00,McJannet David,4,C-Conversion,--I,305,305,1,0001894737,Class A Common Stock
+A,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,J-Other,--I,31120,31120,20,0001532951,Class B Common Stock
+A,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,J-Other,--I,660438,660438,19,0001532951,Class B Common Stock
+A,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,J-Other,--I,514126,514126,18,0001532951,Class B Common Stock
+A,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,J-Other,--I,16623670,16623670,17,0001532951,Class B Common Stock
+D,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,31120,0,16,0001532951,Series E Convertible Stock Preferred
+D,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,660438,0,15,0001532951,Series E Convertible Stock Preferred
+D,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,21654,0,14,0001532951,Series D Convertible Stock Preferred
+D,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,134936,0,13,0001532951,Series C Convertible Stock Preferred
+D,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,258260,0,12,0001532951,Series B Convertible Stock Preferred
+D,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,700150,0,11,0001532951,Series D Convertible Stock Preferred
+D,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,4363022,0,10,0001532951,Series C Convertible Stock Preferred
+D,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,8350470,0,9,0001532951,Series B Convertible Stock Preferred
+D,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,J-Other,--I,31120,0,8,0001532951,Common Stock
+D,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,J-Other,--I,660438,0,7,0001532951,Common Stock
+D,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,J-Other,--I,514126,0,6,0001532951,Common Stock
+D,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,J-Other,--I,16623670,0,5,0001532951,Common Stock
+A,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,31120,31120,4,0001532951,Common Stock
+A,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,660438,660438,3,0001532951,Common Stock
+A,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,414850,514126,2,0001532951,Common Stock
+A,12/13/2021 00:00:00,"Redpoint Omega II, LLC",4,C-Conversion,--I,13413642,16623670,1,0001532951,Common Stock
+A,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,835632,835632,25,0001766305,Class B Common Stock
+A,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,864448,864448,24,0001766305,Class B Common Stock
+A,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,770220,770220,23,0001766305,Class B Common Stock
+A,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,6277066,6277066,22,0001766305,Class B Common Stock
+A,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,20986922,20986922,21,0001766305,Class B Common Stock
+D,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,259334,0,20,0001766305,Series E Convertible Stock Preferred
+D,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,864448,0,19,0001766305,Series E Convertible Stock Preferred
+D,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,86040,0,18,0001766305,Series C Convertible Stock Preferred
+D,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,558720,0,17,0001766305,Series B Convertible Stock Preferred
+D,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,83870,0,16,0001766305,Series A Convertible Stock Preferred
+D,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,2075184,0,15,0001766305,Series D Convertible Stock Preferred
+D,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,2067482,0,14,0001766305,Series C Convertible Stock Preferred
+D,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,2344436,0,13,0001766305,Series C Convertible Stock Preferred
+D,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,15223956,0,12,0001766305,Series B Convertible Stock Preferred
+D,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,2285216,0,11,0001766305,Series A Convertible Stock Preferred
+D,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,835632,0,10,0001766305,Common Stock
+D,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,864448,0,9,0001766305,Common Stock
+D,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,770220,0,8,0001766305,Common Stock
+D,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,6277066,0,7,0001766305,Common Stock
+D,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,J-Other,--I,20986922,0,6,0001766305,Common Stock
+A,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,259334,835632,5,0001766305,Common Stock
+A,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,864448,864448,4,0001766305,Common Stock
+A,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,728630,770220,3,0001766305,Common Stock
+A,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,4142666,6277066,2,0001766305,Common Stock
+A,12/13/2021 00:00:00,GGV Capital V L.L.C.,4,C-Conversion,--I,19853608,20986922,1,0001766305,Common Stock
+A,12/13/2021 00:00:00,Zarmi Sigal,4,J-Other,--D,43750,43750,3,0001854208,Restricted Stock Units
+A,12/13/2021 00:00:00,Zarmi Sigal,4,J-Other,--D,6250,6250,2,0001854208,Class B Common Stock
+D,12/13/2021 00:00:00,Zarmi Sigal,4,J-Other,--D,50000,0,1,0001854208,Common Stock
+A,12/13/2021 00:00:00,Solomon Glenn,4,J-Other,--I,835632,835632,25,0001479296,Class B Common Stock
+A,12/13/2021 00:00:00,Solomon Glenn,4,J-Other,--I,864448,864448,24,0001479296,Class B Common Stock
+A,12/13/2021 00:00:00,Solomon Glenn,4,J-Other,--I,770220,770220,23,0001479296,Class B Common Stock
+A,12/13/2021 00:00:00,Solomon Glenn,4,J-Other,--I,6277066,6277066,22,0001479296,Class B Common Stock
+A,12/13/2021 00:00:00,Solomon Glenn,4,J-Other,--I,20986922,20986922,21,0001479296,Class B Common Stock
+D,12/13/2021 00:00:00,Solomon Glenn,4,C-Conversion,--I,259334,0,20,0001479296,Series E Convertible Stock Preferred
+D,12/13/2021 00:00:00,Solomon Glenn,4,C-Conversion,--I,864448,0,19,0001479296,Series E Convertible Stock Preferred
+D,12/13/2021 00:00:00,Solomon Glenn,4,C-Conversion,--I,86040,0,18,0001479296,Series C Convertible Stock Preferred
+D,12/13/2021 00:00:00,Solomon Glenn,4,C-Conversion,--I,558720,0,17,0001479296,Series B Convertible Stock Preferred
+D,12/13/2021 00:00:00,Solomon Glenn,4,C-Conversion,--I,83870,0,16,0001479296,Series A Convertible Stock Preferred
+D,12/13/2021 00:00:00,Solomon Glenn,4,C-Conversion,--I,2075184,0,15,0001479296,Series D Convertible Stock Preferred
+D,12/13/2021 00:00:00,Solomon Glenn,4,C-Conversion,--I,2067482,0,14,0001479296,Series C Convertible Stock Preferred
+D,12/13/2021 00:00:00,Solomon Glenn,4,C-Conversion,--I,2344436,0,13,0001479296,Series C Convertible Stock Preferred
+D,12/13/2021 00:00:00,Solomon Glenn,4,C-Conversion,--I,15223956,0,12,0001479296,Series B Convertible Stock Preferred
+D,12/13/2021 00:00:00,Solomon Glenn,4,C-Conversion,--I,2285216,0,11,0001479296,Series A Convertible Stock Preferred
+D,12/13/2021 00:00:00,Solomon Glenn,4,J-Other,--I,835632,0,10,0001479296,Common Stock
+D,12/13/2021 00:00:00,Solomon Glenn,4,J-Other,--I,864448,0,9,0001479296,Common Stock
+D,12/13/2021 00:00:00,Solomon Glenn,4,J-Other,--I,770220,0,8,0001479296,Common Stock
+D,12/13/2021 00:00:00,Solomon Glenn,4,J-Other,--I,6277066,0,7,0001479296,Common Stock
+D,12/13/2021 00:00:00,Solomon Glenn,4,J-Other,--I,20986922,0,6,0001479296,Common Stock
+A,12/13/2021 00:00:00,Solomon Glenn,4,C-Conversion,--I,259334,835632,5,0001479296,Common Stock
+A,12/13/2021 00:00:00,Solomon Glenn,4,C-Conversion,--I,864448,864448,4,0001479296,Common Stock
+A,12/13/2021 00:00:00,Solomon Glenn,4,C-Conversion,--I,728630,770220,3,0001479296,Common Stock
+A,12/13/2021 00:00:00,Solomon Glenn,4,C-Conversion,--I,4142666,6277066,2,0001479296,Common Stock
+A,12/13/2021 00:00:00,Solomon Glenn,4,C-Conversion,--I,19853608,20986922,1,0001479296,Common Stock
+A,12/13/2021 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,J-Other,--I,345778,345778,15,0001551568,Class B Common Stock
+A,12/13/2021 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,J-Other,--I,3325602,3325602,14,0001551568,Class B Common Stock
+A,12/13/2021 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,J-Other,--I,26216776,26216776,13,0001551568,Class B Common Stock
+D,12/13/2021 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,345778,0,12,0001551568,Series E Convertible Preferred Stock
+D,12/13/2021 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,90226,0,11,0001551568,Series D Convertible Preferred Stock
+D,12/13/2021 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,3235376,0,10,0001551568,Series C Convertible Preferred Stock
+D,12/13/2021 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,78908,0,9,0001551568,Series C Convertible Preferred Stock
+D,12/13/2021 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,7173942,0,8,0001551568,Series B Convertible Preferred Stock
+D,12/13/2021 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,18490454,0,7,0001551568,Series A Convertible Preferred Stock
+D,12/13/2021 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,J-Other,--I,345778,0,6,0001551568,Common Stock
+D,12/13/2021 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,J-Other,--I,3325602,0,5,0001551568,Common Stock
+D,12/13/2021 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,J-Other,--I,26216776,0,4,0001551568,Common Stock
+A,12/13/2021 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,345778,345778,3,0001551568,Common Stock
+A,12/13/2021 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,3325602,3325602,2,0001551568,Common Stock
+A,12/13/2021 00:00:00,"MAYFIELD XIV, A CAYMAN ISLANDS EXEMPTED LIMITED PARTNERSHIP",4,C-Conversion,--I,25743304,26216776,1,0001551568,Common Stock
+A,12/13/2021 00:00:00,St. Ledger Susan,4,J-Other,--D,90000,90000,3,0001673606,Restricted Stock Units
+A,12/13/2021 00:00:00,St. Ledger Susan,4,J-Other,--D,90000,90000,2,0001673606,Class B Common Stock
+D,12/13/2021 00:00:00,St. Ledger Susan,4,J-Other,--D,180000,0,1,0001673606,Common Stock
+A,12/13/2021 00:00:00,Ford Todd R,4,J-Other,--D,62500,62500,3,0001324478,Restricted Stock Units
+A,12/13/2021 00:00:00,Ford Todd R,4,J-Other,--D,37500,37500,2,0001324478,Class B Common Stock
+D,12/13/2021 00:00:00,Ford Todd R,4,J-Other,--D,100000,0,1,0001324478,Common Stock
+A,12/13/2021 00:00:00,Sweeney Brandon,4,J-Other,--D,69200,69200,5,0001894766,Restricted Stock Units
+A,12/13/2021 00:00:00,Sweeney Brandon,4,J-Other,--D,450000,450000,4,0001894766,Restricted Stock Units
+A,12/13/2021 00:00:00,Sweeney Brandon,4,J-Other,--D,177720,177720,3,0001894766,Class B Common Stock
+D,12/13/2021 00:00:00,Sweeney Brandon,4,J-Other,--D,69200,0,2,0001894766,Common Stock
+D,12/13/2021 00:00:00,Sweeney Brandon,4,J-Other,--D,627720,69200,1,0001894766,Common Stock
+A,12/13/2021 00:00:00,Holmes Marc,4,J-Other,--D,100000,100000,8,0001894601,Employee Stock Option (right to buy)
+D,12/13/2021 00:00:00,Holmes Marc,4,J-Other,--D,100000,0,7,0001894601,Employee Stock Option (right to buy)
+A,12/13/2021 00:00:00,Holmes Marc,4,J-Other,--D,314000,314000,6,0001894601,Employee Stock Option (right to buy)
+D,12/13/2021 00:00:00,Holmes Marc,4,J-Other,--D,314000,0,5,0001894601,Employee Stock Option (right to buy)
+A,12/13/2021 00:00:00,Holmes Marc,4,J-Other,--D,95000,95000,4,0001894601,Restricted Stock Units
+A,12/13/2021 00:00:00,Holmes Marc,4,J-Other,--D,138400,138400,3,0001894601,Restricted Stock Units
+D,12/13/2021 00:00:00,Holmes Marc,4,J-Other,--D,95000,0,2,0001894601,Common Stock
+D,12/13/2021 00:00:00,Holmes Marc,4,J-Other,--D,138400,95000,1,0001894601,Common Stock
+D,12/13/2021 00:00:00,Welihinda Navam,4,M-Exempt,--D,6248,153752,16,0001894706,Employee Stock Option (right to buy)
+A,12/13/2021 00:00:00,Welihinda Navam,4,J-Other,--D,160000,160000,15,0001894706,Employee Stock Option (right to buy)
+D,12/13/2021 00:00:00,Welihinda Navam,4,J-Other,--D,160000,0,14,0001894706,Employee Stock Option (right to buy)
+A,12/13/2021 00:00:00,Welihinda Navam,4,J-Other,--D,50000,50000,13,0001894706,Employee Stock Option (right to buy)
+D,12/13/2021 00:00:00,Welihinda Navam,4,J-Other,--D,50000,0,12,0001894706,Employee Stock Option (right to buy)
+A,12/13/2021 00:00:00,Welihinda Navam,4,J-Other,--D,170222,170222,11,0001894706,Employee Stock Option (right to buy)
+A,12/13/2021 00:00:00,Welihinda Navam,4,J-Other,--D,95000,95000,9,0001894706,Restricted Stock Units
+A,12/13/2021 00:00:00,Welihinda Navam,4,J-Other,--D,121000,121000,8,0001894706,Restricted Stock Units
+D,12/13/2021 00:00:00,Welihinda Navam,4,C-Conversion,--D,6248,180028,7,0001894706,Class B Common Stock
+A,12/13/2021 00:00:00,Welihinda Navam,4,M-Exempt,--D,6248,186276,6,0001894706,Class B Common Stock
+A,12/13/2021 00:00:00,Welihinda Navam,4,J-Other,--D,180028,180028,5,0001894706,Class B Common Stock
+D,12/13/2021 00:00:00,Welihinda Navam,4,S-Sale,--D,6248,0,4,0001894706,Class A Common Stock
+A,12/13/2021 00:00:00,Welihinda Navam,4,C-Conversion,--D,6248,6248,3,0001894706,Class A Common Stock
+D,12/13/2021 00:00:00,Welihinda Navam,4,J-Other,--D,95000,0,2,0001894706,Common Stock
+D,12/13/2021 00:00:00,Welihinda Navam,4,J-Other,--D,301028,95000,1,0001894706,Common Stock
+A,12/13/2021 00:00:00,Dadgar Armon,4,J-Other,--D,105292,105292,16,0001894717,Employee Stock Option (right to buy)
+D,12/13/2021 00:00:00,Dadgar Armon,4,J-Other,--D,105292,0,15,0001894717,Employee Stock Option (right to buy)
+A,12/13/2021 00:00:00,Dadgar Armon,4,J-Other,--D,209792,209792,14,0001894717,Employee Stock Option (right to buy)
+D,12/13/2021 00:00:00,Dadgar Armon,4,J-Other,--D,209792,0,13,0001894717,Employee Stock Option (right to buy)
+A,12/13/2021 00:00:00,Dadgar Armon,4,J-Other,--D,285000,285000,12,0001894717,Restricted Stock Units
+A,12/13/2021 00:00:00,Dadgar Armon,4,J-Other,--D,103800,103800,11,0001894717,Restricted Stock Units
+A,12/13/2021 00:00:00,Dadgar Armon,4,J-Other,--D,73126,73126,10,0001894717,Restricted Stock Units
+A,12/13/2021 00:00:00,Dadgar Armon,4,J-Other,--I,700000,700000,9,0001894717,Class B Common Stock
+A,12/13/2021 00:00:00,Dadgar Armon,4,J-Other,--I,2339030,2339030,8,0001894717,Class B Common Stock
+A,12/13/2021 00:00:00,Dadgar Armon,4,J-Other,--I,15209288,15209288,7,0001894717,Class B Common Stock
+A,12/13/2021 00:00:00,Dadgar Armon,4,J-Other,--D,480916,480916,6,0001894717,Class B Common Stock
+D,12/13/2021 00:00:00,Dadgar Armon,4,J-Other,--I,700000,0,5,0001894717,Common Stock
+D,12/13/2021 00:00:00,Dadgar Armon,4,J-Other,--I,2339030,0,4,0001894717,Common Stock
+D,12/13/2021 00:00:00,Dadgar Armon,4,J-Other,--I,15209288,0,3,0001894717,Common Stock
+D,12/13/2021 00:00:00,Dadgar Armon,4,J-Other,--D,285000,0,2,0001894717,Common Stock
+D,12/13/2021 00:00:00,Dadgar Armon,4,J-Other,--D,657842,285000,1,0001894717,Common Stock
+A,12/13/2021 00:00:00,McJannet David,4,J-Other,--D,266000,266000,20,0001894737,Employee Stock Option (right to buy)
+D,12/13/2021 00:00:00,McJannet David,4,J-Other,--D,266000,0,19,0001894737,Employee Stock Option (right to buy)
+A,12/13/2021 00:00:00,McJannet David,4,J-Other,--D,530000,530000,18,0001894737,Employee Stock Option (right to buy)
+D,12/13/2021 00:00:00,McJannet David,4,J-Other,--D,530000,0,17,0001894737,Employee Stock Option (right to buy)
+A,12/13/2021 00:00:00,McJannet David,4,J-Other,--D,2837638,2837638,16,0001894737,Employee Stock Option (right to buy)
+D,12/13/2021 00:00:00,McJannet David,4,J-Other,--D,2837638,0,15,0001894737,Employee Stock Option (right to buy)
+A,12/13/2021 00:00:00,McJannet David,4,J-Other,--D,285000,285000,14,0001894737,Restricted Stock Units
+A,12/13/2021 00:00:00,McJannet David,4,J-Other,--D,311300,311300,13,0001894737,Restricted Stock Units
+A,12/13/2021 00:00:00,McJannet David,4,J-Other,--D,178876,178876,12,0001894737,Restricted Stock Units
+A,12/13/2021 00:00:00,McJannet David,4,J-Other,--I,60000,60000,11,0001894737,Class B Common Stock
+A,12/13/2021 00:00:00,McJannet David,4,J-Other,--I,681050,681050,10,0001894737,Class B Common Stock
+A,12/13/2021 00:00:00,McJannet David,4,J-Other,--I,681050,681050,9,0001894737,Class B Common Stock
+A,12/13/2021 00:00:00,McJannet David,4,J-Other,--I,1419236,1419236,8,0001894737,Class B Common Stock
+A,12/13/2021 00:00:00,McJannet David,4,J-Other,--D,71674,71674,7,0001894737,Class B Common Stock
+D,12/13/2021 00:00:00,McJannet David,4,J-Other,--I,60000,0,6,0001894737,Common Stock
+D,12/13/2021 00:00:00,McJannet David,4,J-Other,--I,681050,0,5,0001894737,Common Stock
+D,12/13/2021 00:00:00,McJannet David,4,J-Other,--I,681050,0,4,0001894737,Common Stock
+D,12/13/2021 00:00:00,McJannet David,4,J-Other,--I,1419236,0,3,0001894737,Common Stock
+D,12/13/2021 00:00:00,McJannet David,4,J-Other,--D,285000,0,2,0001894737,Common Stock
+D,12/13/2021 00:00:00,McJannet David,4,J-Other,--D,561850,285000,1,0001894737,Common Stock
+D,12/09/2021 00:00:00,Dadgar Armon,4,S-Sale,--D,862,942842,6,0001894717,Common Stock
+D,12/09/2021 00:00:00,Dadgar Armon,4,S-Sale,--D,172,943704,5,0001894717,Common Stock
+D,12/09/2021 00:00:00,Dadgar Armon,4,S-Sale,--D,689,943876,4,0001894717,Common Stock
+D,12/09/2021 00:00:00,Dadgar Armon,4,S-Sale,--D,6075,944565,3,0001894717,Common Stock
+D,12/09/2021 00:00:00,Dadgar Armon,4,S-Sale,--D,12248,950640,2,0001894717,Common Stock
+D,12/09/2021 00:00:00,Dadgar Armon,4,S-Sale,--D,14448,962888,1,0001894717,Common Stock
+D,12/09/2021 00:00:00,Holmes Marc,4,M-Exempt,--D,12990,301010,10,0001894601,Employee Stock Option (right to buy)
+D,12/09/2021 00:00:00,Holmes Marc,4,S-Sale,--D,200,233400,9,0001894601,Common Stock
+D,12/09/2021 00:00:00,Holmes Marc,4,S-Sale,--D,100,233600,8,0001894601,Common Stock
+D,12/09/2021 00:00:00,Holmes Marc,4,S-Sale,--D,300,233700,7,0001894601,Common Stock
+D,12/09/2021 00:00:00,Holmes Marc,4,S-Sale,--D,1559,234000,6,0001894601,Common Stock
+D,12/09/2021 00:00:00,Holmes Marc,4,S-Sale,--D,5200,235559,5,0001894601,Common Stock
+D,12/09/2021 00:00:00,Holmes Marc,4,S-Sale,--D,5631,240759,4,0001894601,Common Stock
+A,12/09/2021 00:00:00,Holmes Marc,4,M-Exempt,--D,12990,246390,3,0001894601,Common Stock
+A,12/08/2021 00:00:00,St. Ledger Susan,4,A-Award,--D,180000,180000,1,0001673606,Common Stock
+A,12/08/2021 00:00:00,Ford Todd R,4,A-Award,--D,100000,100000,1,0001324478,Common Stock
+A,12/08/2021 00:00:00,Holmes Marc,4,A-Award,--D,95000,233400,2,0001894601,Common Stock
+A,12/08/2021 00:00:00,Holmes Marc,4,A-Award,--D,138400,138400,1,0001894601,Common Stock
+A,12/08/2021 00:00:00,Zarmi Sigal,4,A-Award,--D,50000,50000,1,0001854208,Common Stock
+A,12/08/2021 00:00:00,Sweeney Brandon,4,A-Award,--D,69200,696920,3,0001894766,Common Stock
+D,12/08/2021 00:00:00,Sweeney Brandon,4,F-InKind,--D,172280,627720,2,0001894766,Common Stock
+A,12/08/2021 00:00:00,Sweeney Brandon,4,A-Award,--D,800000,800000,1,0001894766,Common Stock
+A,12/08/2021 00:00:00,Welihinda Navam,4,A-Award,--D,95000,396028,2,0001894706,Common Stock
+A,12/08/2021 00:00:00,Welihinda Navam,4,A-Award,--D,121000,301028,1,0001894706,Common Stock
+A,12/08/2021 00:00:00,Dadgar Armon,4,A-Award,--D,285000,977336,4,0001894717,Common Stock
+A,12/08/2021 00:00:00,Dadgar Armon,4,A-Award,--D,103800,692336,3,0001894717,Common Stock
+D,12/08/2021 00:00:00,Dadgar Armon,4,F-InKind,--D,22380,588536,2,0001894717,Common Stock
+A,12/08/2021 00:00:00,Dadgar Armon,4,A-Award,--D,130000,610916,1,0001894717,Common Stock
+A,12/08/2021 00:00:00,McJannet David,4,A-Award,--D,285000,846850,4,0001894737,Common Stock
+A,12/08/2021 00:00:00,McJannet David,4,A-Award,--D,311300,561850,3,0001894737,Common Stock
+D,12/08/2021 00:00:00,McJannet David,4,F-InKind,--D,67450,250550,2,0001894737,Common Stock
+A,12/08/2021 00:00:00,McJannet David,4,A-Award,--D,318000,318000,1,0001894737,Common Stock
+D,02/13/2021 00:00:00,Welihinda Navam,4,J-Other,--D,170222,0,10,0001894706,Employee Stock Option (right to buy)
+A,02/01/2021 00:00:00,Dadgar Armon,4,A-Award,--D,47044,47044,3,0001894717,Restricted Stock Units

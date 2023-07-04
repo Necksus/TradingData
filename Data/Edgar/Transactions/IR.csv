@@ -1,0 +1,888 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/16/2023 00:00:00,Reynal Vicente,4,S-Sale,--D,27169,73877,1,0001705738,Common Stock
+D,06/08/2023 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,2665,0,5,0001869916,Stock Options (Right to Buy)
+D,06/08/2023 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,726,2599,4,0001869916,Stock Options (Right to Buy)
+D,06/08/2023 00:00:00,Keene Kathleen M.,4,S-Sale,--D,4003,1879,3,0001869916,Common Stock
+A,06/08/2023 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,2665,5882,2,0001869916,Common Stock
+A,06/08/2023 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,726,3217,1,0001869916,Common Stock
+D,06/06/2023 00:00:00,Gillespie Gary E,4,M-Exempt,--D,27488,0,6,0001805045,Stock Options (Right to Buy)
+D,06/06/2023 00:00:00,Gillespie Gary E,4,S-Sale,--D,27488,42234.129,4,0001805045,Common Stock
+A,06/06/2023 00:00:00,Gillespie Gary E,4,M-Exempt,--D,27488,69722.129,3,0001805045,Common Stock
+D,06/05/2023 00:00:00,Gillespie Gary E,4,M-Exempt,--D,27487,27488,5,0001805045,Stock Options (Right to Buy)
+D,06/05/2023 00:00:00,Gillespie Gary E,4,S-Sale,--D,27487,42234.129,2,0001805045,Common Stock
+A,06/05/2023 00:00:00,Gillespie Gary E,4,M-Exempt,--D,27487,69721.129,1,0001805045,Common Stock
+D,03/25/2023 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,322,322,3,0001869916,Restricted Stock Units
+D,03/25/2023 00:00:00,Keene Kathleen M.,4,F-InKind,--D,111,2491,2,0001869916,Common Stock
+A,03/25/2023 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,322,2602,1,0001869916,Common Stock
+D,03/06/2023 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2249,2249,3,0001705737,Restricted Stock Units
+D,03/06/2023 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,1058,31771,2,0001705737,Common Stock
+A,03/06/2023 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2249,32829,1,0001705737,Common Stock
+D,03/06/2023 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1574,1575,3,0001767790,Restricted Stock Units
+D,03/06/2023 00:00:00,Weatherred Michael A,4,F-InKind,--D,698,32820.852,2,0001767790,Common Stock
+A,03/06/2023 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1574,33518.852,1,0001767790,Common Stock
+D,03/06/2023 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,2136,2137,3,0001495366,Restricted Stock Units
+D,03/06/2023 00:00:00,Schiesl Andrew R,4,F-InKind,--D,942,67795,2,0001495366,Common Stock
+A,03/06/2023 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,2136,68737,1,0001495366,Common Stock
+D,03/06/2023 00:00:00,Gillespie Gary E,4,M-Exempt,--D,1124,1125,3,0001805045,Restricted Stock Units
+D,03/06/2023 00:00:00,Gillespie Gary E,4,F-InKind,--D,498,42234.129,2,0001805045,Common Stock
+A,03/06/2023 00:00:00,Gillespie Gary E,4,M-Exempt,--D,1124,42732.129,1,0001805045,Common Stock
+D,03/06/2023 00:00:00,Scheske Michael J,4,M-Exempt,--D,1012,1012,3,0001757427,Restricted Stock Units
+D,03/06/2023 00:00:00,Scheske Michael J,4,F-InKind,--D,296,9715.179,2,0001757427,Common Stock
+A,03/06/2023 00:00:00,Scheske Michael J,4,M-Exempt,--D,1012,10011.179,1,0001757427,Common Stock
+D,03/06/2023 00:00:00,Kini Vikram,4,M-Exempt,--D,899,900,3,0001815604,Restricted Stock Units
+D,03/06/2023 00:00:00,Kini Vikram,4,F-InKind,--D,406,47182,2,0001815604,Common Stock
+A,03/06/2023 00:00:00,Kini Vikram,4,M-Exempt,--D,899,47588,1,0001815604,Common Stock
+D,03/06/2023 00:00:00,Reynal Vicente,4,M-Exempt,--D,15068,15069,7,0001705738,Restricted Stock Units
+D,03/06/2023 00:00:00,Reynal Vicente,4,S-Sale,--D,25000,102856,3,0001705738,Common Stock
+D,03/06/2023 00:00:00,Reynal Vicente,4,F-InKind,--D,6692,127856,2,0001705738,Common Stock
+A,03/06/2023 00:00:00,Reynal Vicente,4,M-Exempt,--D,15068,134548,1,0001705738,Common Stock
+A,02/23/2023 00:00:00,Weatherred Michael A,4,A-Award,--D,10048,10048,5,0001767790,Stock Options (Right to Buy)
+A,02/23/2023 00:00:00,Weatherred Michael A,4,A-Award,--D,4318,4318,4,0001767790,Restricted Stock Units
+D,02/23/2023 00:00:00,Weatherred Michael A,4,M-Exempt,--D,960,1920,3,0001767790,Restricted Stock Units
+D,02/23/2023 00:00:00,Weatherred Michael A,4,F-InKind,--D,426,31944.852,2,0001767790,Common Stock
+A,02/23/2023 00:00:00,Weatherred Michael A,4,M-Exempt,--D,960,32370.852,1,0001767790,Common Stock
+A,02/23/2023 00:00:00,Keene Kathleen M.,4,A-Award,--D,6028,6028,5,0001869916,Stock Options (Right to Buy)
+A,02/23/2023 00:00:00,Keene Kathleen M.,4,A-Award,--D,2591,2591,4,0001869916,Restricted Stock Units
+D,02/23/2023 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,192,384,3,0001869916,Restricted Stock Units
+D,02/23/2023 00:00:00,Keene Kathleen M.,4,F-InKind,--D,67,2280,2,0001869916,Common Stock
+A,02/23/2023 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,192,2347,1,0001869916,Common Stock
+A,02/23/2023 00:00:00,Reynal Vicente,4,A-Award,--D,100000,100000,11,0001705738,Stock Options (Right to Buy)
+A,02/23/2023 00:00:00,Reynal Vicente,4,A-Award,--D,70337,70337,10,0001705738,Stock Options (Right to Buy)
+A,02/23/2023 00:00:00,Reynal Vicente,4,A-Award,--D,30229,30229,9,0001705738,Restricted Stock Units
+D,02/23/2023 00:00:00,Reynal Vicente,4,M-Exempt,--D,9187,18374,8,0001705738,Restricted Stock Units
+D,02/23/2023 00:00:00,Reynal Vicente,4,S-Sale,--D,25000,119480,4,0001705738,Common Stock
+D,02/23/2023 00:00:00,Reynal Vicente,4,S-Sale,--D,50000,144480,3,0001705738,Common Stock
+D,02/23/2023 00:00:00,Reynal Vicente,4,F-InKind,--D,4052,194480,2,0001705738,Common Stock
+A,02/23/2023 00:00:00,Reynal Vicente,4,M-Exempt,--D,9187,198532,1,0001705738,Common Stock
+A,02/23/2023 00:00:00,Scheske Michael J,4,A-Award,--D,6330,6330,5,0001757427,Stock Options (Right to Buy)
+A,02/23/2023 00:00:00,Scheske Michael J,4,A-Award,--D,2720,2720,4,0001757427,Restricted Stock Units
+D,02/23/2023 00:00:00,Scheske Michael J,4,M-Exempt,--D,754,1508,3,0001757427,Restricted Stock Units
+D,02/23/2023 00:00:00,Scheske Michael J,4,F-InKind,--D,220,8999.179,2,0001757427,Common Stock
+A,02/23/2023 00:00:00,Scheske Michael J,4,M-Exempt,--D,754,9219.179,1,0001757427,Common Stock
+A,02/23/2023 00:00:00,Schiesl Andrew R,4,A-Award,--D,11555,11555,6,0001495366,Stock Options (Right to Buy)
+A,02/23/2023 00:00:00,Schiesl Andrew R,4,A-Award,--D,4966,4966,5,0001495366,Restricted Stock Units
+D,02/23/2023 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,1303,2605,4,0001495366,Restricted Stock Units
+D,02/23/2023 00:00:00,Schiesl Andrew R,4,S-Sale,--D,18000,66601,3,0001495366,Common Stock
+D,02/23/2023 00:00:00,Schiesl Andrew R,4,F-InKind,--D,575,84601,2,0001495366,Common Stock
+A,02/23/2023 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,1303,85176,1,0001495366,Common Stock
+A,02/23/2023 00:00:00,Gillespie Gary E,4,A-Award,--D,9043,9043,5,0001805045,Stock Options (Right to Buy)
+A,02/23/2023 00:00:00,Gillespie Gary E,4,A-Award,--D,3886,3886,4,0001805045,Restricted Stock Units
+D,02/23/2023 00:00:00,Gillespie Gary E,4,M-Exempt,--D,960,1920,3,0001805045,Restricted Stock Units
+D,02/23/2023 00:00:00,Gillespie Gary E,4,F-InKind,--D,426,41608.129,2,0001805045,Common Stock
+A,02/23/2023 00:00:00,Gillespie Gary E,4,M-Exempt,--D,960,42034.129,1,0001805045,Common Stock
+A,02/23/2023 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,23110,23110,5,0001705737,Stock Options (Right to Buy)
+A,02/23/2023 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,9932,9932,4,0001705737,Restricted Stock Units
+D,02/23/2023 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,1508,3017,3,0001705737,Restricted Stock Units
+D,02/23/2023 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,709,30580,2,0001705737,Common Stock
+A,02/23/2023 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,1508,31289,1,0001705737,Common Stock
+A,02/23/2023 00:00:00,Kini Vikram,4,A-Award,--D,18086,18086,5,0001815604,Stock Options (Right to Buy)
+A,02/23/2023 00:00:00,Kini Vikram,4,A-Award,--D,7773,7773,4,0001815604,Restricted Stock Units
+D,02/23/2023 00:00:00,Kini Vikram,4,M-Exempt,--D,1508,3017,3,0001815604,Restricted Stock Units
+D,02/23/2023 00:00:00,Kini Vikram,4,F-InKind,--D,668,46689,2,0001815604,Common Stock
+A,02/23/2023 00:00:00,Kini Vikram,4,M-Exempt,--D,1508,47357,1,0001815604,Common Stock
+A,02/23/2023 00:00:00,Hepding Elizabeth Meloy,4,A-Award,--D,5526,5526,2,0001682777,Stock Options (Right to Buy)
+A,02/23/2023 00:00:00,Hepding Elizabeth Meloy,4,A-Award,--D,2375,2375,1,0001682777,Restricted Stock Units
+A,02/23/2023 00:00:00,Hartsock Jennifer,4,A-Award,--D,3195,3195,1,0001957849,Restricted Stock Units
+A,02/23/2023 00:00:00,Jones Marc Ellis,4,A-Award,--D,3282,3282,1,0001762291,Restricted Stock Units
+A,02/23/2023 00:00:00,Stevenson Mark P,4,A-Award,--D,3022,3022,1,0001387890,Restricted Stock Units
+A,02/23/2023 00:00:00,Arnold Kirk E,4,A-Award,--D,3282,3282,1,0001387796,Restricted Stock Units
+A,02/23/2023 00:00:00,Humphrey John,4,A-Award,--D,3454,3454,1,0001360547,Restricted Stock Units
+A,02/23/2023 00:00:00,Forsee Gary D,4,A-Award,--D,3195,3195,1,0001189566,Restricted Stock Units
+A,02/23/2023 00:00:00,WHITE TONY L,4,A-Award,--D,3022,3022,1,0001171315,Restricted Stock Units
+A,02/23/2023 00:00:00,Stubblefield Michael,4,A-Award,--D,3195,3195,1,0001776153,Restricted Stock Units
+A,02/23/2023 00:00:00,DONNELLY WILLIAM P,4,A-Award,--D,4059,4059,1,0001207928,Restricted Stock Units
+D,02/23/2023 00:00:00,Reynal Vicente,4,G-Gift,--I,2000,171802,4,0001705738,Common Stock
+D,02/22/2023 00:00:00,Reynal Vicente,4/A,M-Exempt,--D,8240,24722,3,0001705738,Restricted Stock Units
+D,02/22/2023 00:00:00,Reynal Vicente,4/A,F-InKind,--D,10726,212535,2,0001705738,Common Stock
+A,02/22/2023 00:00:00,Reynal Vicente,4/A,M-Exempt,--D,8240,223261,1,0001705738,Common Stock
+D,02/22/2023 00:00:00,Reynal Vicente,4,M-Exempt,--D,11478,34434,7,0001705738,Restricted Stock Units
+D,02/22/2023 00:00:00,Reynal Vicente,4,S-Sale,--D,25000,189345,3,0001705738,Common Stock
+D,02/22/2023 00:00:00,Reynal Vicente,4,F-InKind,--D,12154,214345,2,0001705738,Common Stock
+A,02/22/2023 00:00:00,Reynal Vicente,4,M-Exempt,--D,11478,226499,1,0001705738,Common Stock
+D,02/22/2023 00:00:00,WHITE TONY L,4,M-Exempt,--D,3296,0,2,0001171315,Restricted Stock Units
+A,02/22/2023 00:00:00,WHITE TONY L,4,M-Exempt,--D,3296,37234,1,0001171315,Common Stock
+D,02/22/2023 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1000,3002,3,0001767790,Restricted Stock Units
+D,02/22/2023 00:00:00,Weatherred Michael A,4,F-InKind,--D,443,31410.852,2,0001767790,Common Stock
+A,02/22/2023 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1000,31853.852,1,0001767790,Common Stock
+D,02/22/2023 00:00:00,DONNELLY WILLIAM P,4,M-Exempt,--D,4426,0,2,0001207928,Restricted Stock Units
+A,02/22/2023 00:00:00,DONNELLY WILLIAM P,4,M-Exempt,--D,4426,61825,1,0001207928,Common Stock
+D,02/22/2023 00:00:00,Arnold Kirk E,4,M-Exempt,--D,3578,0,2,0001387796,Restricted Stock Units
+A,02/22/2023 00:00:00,Arnold Kirk E,4,M-Exempt,--D,3578,14541,1,0001387796,Common Stock
+D,02/22/2023 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,1294,3885,3,0001495366,Restricted Stock Units
+D,02/22/2023 00:00:00,Schiesl Andrew R,4,F-InKind,--D,1763,83873,2,0001495366,Common Stock
+A,02/22/2023 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,1294,85636,1,0001495366,Common Stock
+D,02/22/2023 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,529,1590,3,0001869916,Restricted Stock Units
+D,02/22/2023 00:00:00,Keene Kathleen M.,4,F-InKind,--D,182,2155,2,0001869916,Common Stock
+A,02/22/2023 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,529,2337,1,0001869916,Common Stock
+D,02/22/2023 00:00:00,Kini Vikram,4,M-Exempt,--D,1648,4944,5,0001815604,Restricted Stock Units
+D,02/22/2023 00:00:00,Kini Vikram,4,M-Exempt,--D,1560,0,4,0001815604,Restricted Stock Units
+D,02/22/2023 00:00:00,Kini Vikram,4,F-InKind,--D,1444,45849,3,0001815604,Common Stock
+A,02/22/2023 00:00:00,Kini Vikram,4,M-Exempt,--D,1648,47293,2,0001815604,Common Stock
+A,02/22/2023 00:00:00,Kini Vikram,4,M-Exempt,--D,1560,45645,1,0001815604,Common Stock
+D,02/22/2023 00:00:00,Jones Marc Ellis,4,M-Exempt,--D,3578,0,2,0001762291,Restricted Stock Units
+A,02/22/2023 00:00:00,Jones Marc Ellis,4,M-Exempt,--D,3578,18335,1,0001762291,Common Stock
+D,02/22/2023 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,1383,4150,3,0001705737,Restricted Stock Units
+D,02/22/2023 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,1568,29781,2,0001705737,Common Stock
+A,02/22/2023 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,1383,31349,1,0001705737,Common Stock
+D,02/22/2023 00:00:00,Humphrey John,4,M-Exempt,--D,3767,0,2,0001360547,Restricted Stock Units
+A,02/22/2023 00:00:00,Humphrey John,4,M-Exempt,--D,3767,22423,1,0001360547,Common Stock
+D,02/22/2023 00:00:00,Gillespie Gary E,4,M-Exempt,--D,1000,3002,5,0001805045,Restricted Stock Units
+D,02/22/2023 00:00:00,Gillespie Gary E,4,M-Exempt,--D,1755,0,4,0001805045,Restricted Stock Units
+D,02/22/2023 00:00:00,Gillespie Gary E,4,F-InKind,--D,1221,41074.129,3,0001805045,Common Stock
+A,02/22/2023 00:00:00,Gillespie Gary E,4,M-Exempt,--D,1000,42295.129,2,0001805045,Common Stock
+A,02/22/2023 00:00:00,Gillespie Gary E,4,M-Exempt,--D,1755,41295.129,1,0001805045,Common Stock
+D,02/22/2023 00:00:00,Hepding Elizabeth Meloy,4,M-Exempt,--D,618,1854,3,0001682777,Restricted Stock Units
+D,02/22/2023 00:00:00,Hepding Elizabeth Meloy,4,F-InKind,--D,213,2185,2,0001682777,Common Stock
+A,02/22/2023 00:00:00,Hepding Elizabeth Meloy,4,M-Exempt,--D,618,2398,1,0001682777,Common Stock
+D,02/22/2023 00:00:00,Scheske Michael J,4,M-Exempt,--D,647,1942,5,0001757427,Restricted Stock Units
+D,02/22/2023 00:00:00,Scheske Michael J,4,M-Exempt,--D,418,0,4,0001757427,Restricted Stock Units
+D,02/22/2023 00:00:00,Scheske Michael J,4,F-InKind,--D,311,8465.179,3,0001757427,Common Stock
+A,02/22/2023 00:00:00,Scheske Michael J,4,M-Exempt,--D,647,8776.179,2,0001757427,Common Stock
+A,02/22/2023 00:00:00,Scheske Michael J,4,M-Exempt,--D,418,8129.179,1,0001757427,Common Stock
+D,02/22/2023 00:00:00,Forsee Gary D,4,M-Exempt,--D,3484,0,2,0001189566,Restricted Stock Units
+A,02/22/2023 00:00:00,Forsee Gary D,4,M-Exempt,--D,3484,37901,1,0001189566,Common Stock
+D,02/21/2023 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1618,0,3,0001767790,Restricted Stock Units
+D,02/21/2023 00:00:00,Weatherred Michael A,4,F-InKind,--D,717,30853.852,2,0001767790,Common Stock
+A,02/21/2023 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1618,31570.852,1,0001767790,Common Stock
+D,02/21/2023 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2311,0,3,0001705737,Restricted Stock Units
+D,02/21/2023 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,1087,29966,2,0001705737,Common Stock
+A,02/21/2023 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2311,31053,1,0001705737,Common Stock
+D,02/21/2023 00:00:00,Scheske Michael J,4,M-Exempt,--D,925,0,3,0001757427,Restricted Stock Units
+D,02/21/2023 00:00:00,Scheske Michael J,4,F-InKind,--D,326,7711.179,2,0001757427,Common Stock
+A,02/21/2023 00:00:00,Scheske Michael J,4,M-Exempt,--D,925,8037.179,1,0001757427,Common Stock
+D,02/21/2023 00:00:00,Kini Vikram,4,M-Exempt,--D,1849,0,3,0001815604,Restricted Stock Units
+D,02/21/2023 00:00:00,Kini Vikram,4,F-InKind,--D,844,44085,2,0001815604,Common Stock
+A,02/21/2023 00:00:00,Kini Vikram,4,M-Exempt,--D,1849,44929,1,0001815604,Common Stock
+D,02/21/2023 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,3351,0,3,0001495366,Restricted Stock Units
+D,02/21/2023 00:00:00,Schiesl Andrew R,4,F-InKind,--D,1503,84342,2,0001495366,Common Stock
+A,02/21/2023 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,3351,85845,1,0001495366,Common Stock
+D,02/21/2023 00:00:00,Reynal Vicente,4,M-Exempt,--D,20102,0,6,0001705738,Restricted Stock Units
+D,02/21/2023 00:00:00,Reynal Vicente,4,F-InKind,--D,9062,215021,2,0001705738,Common Stock
+A,02/21/2023 00:00:00,Reynal Vicente,4,M-Exempt,--D,20102,224083,1,0001705738,Common Stock
+D,02/21/2023 00:00:00,Gillespie Gary E,4,M-Exempt,--D,2195,0,3,0001805045,Restricted Stock Units
+D,02/21/2023 00:00:00,Gillespie Gary E,4,F-InKind,--D,973,39540.129,2,0001805045,Common Stock
+A,02/21/2023 00:00:00,Gillespie Gary E,4,M-Exempt,--D,2195,40513.129,1,0001805045,Common Stock
+D,02/13/2023 00:00:00,Gillespie Gary E,4,F-InKind,--D,5470,38318.129,2,0001805045,Common Stock
+A,02/13/2023 00:00:00,Gillespie Gary E,4,A-Award,--D,17992,43788.129,1,0001805045,Common Stock
+D,02/13/2023 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,16193,28742,2,0001705737,Common Stock
+A,02/13/2023 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,35984,44935,1,0001705737,Common Stock
+D,02/13/2023 00:00:00,Kini Vikram,4,F-InKind,--D,13661,43080,3,0001815604,Common Stock
+A,02/13/2023 00:00:00,Kini Vikram,4,A-Award,--D,21336,56741,2,0001815604,Common Stock
+A,02/13/2023 00:00:00,Kini Vikram,4,A-Award,--D,14392,35405,1,0001815604,Common Stock
+D,02/13/2023 00:00:00,Weatherred Michael A,4,F-InKind,--D,8655,29952.852,2,0001767790,Common Stock
+A,02/13/2023 00:00:00,Weatherred Michael A,4,A-Award,--D,25188,38607.852,1,0001767790,Common Stock
+D,02/13/2023 00:00:00,Schiesl Andrew R,4,F-InKind,--D,12618,82494,2,0001495366,Common Stock
+A,02/13/2023 00:00:00,Schiesl Andrew R,4,A-Award,--D,34184,95112,1,0001495366,Common Stock
+D,02/13/2023 00:00:00,Reynal Vicente,4,F-InKind,--D,104876,203981,2,0001705738,Common Stock
+A,02/13/2023 00:00:00,Reynal Vicente,4,A-Award,--D,241092,308857,1,0001705738,Common Stock
+D,01/11/2023 00:00:00,Scheske Michael J,4,M-Exempt,--D,1742,0,4,0001757427,Stock Options (Right to Buy)
+D,01/11/2023 00:00:00,Scheske Michael J,4,S-Sale,--D,1742,7112.179,3,0001757427,Common Stock
+A,01/11/2023 00:00:00,Scheske Michael J,4,M-Exempt,--D,1742,8854.179,2,0001757427,Common Stock
+A,12/16/2022 00:00:00,Weatherred Michael A,5,L-Small,--D,4.843,13419.852,3,0001767790,Common Stock
+A,12/16/2022 00:00:00,Scheske Michael J,4,L-Small,--D,2.567,7112.179,1,0001757427,Common Stock
+D,11/07/2022 00:00:00,Scheske Michael J,4,M-Exempt,--D,1743,1742,7,0001757427,Stock Options (Right to Buy)
+D,11/07/2022 00:00:00,Scheske Michael J,4,S-Sale,--D,1743,7109.612,6,0001757427,Common Stock
+A,11/07/2022 00:00:00,Scheske Michael J,4,M-Exempt,--D,1743,8852.612,5,0001757427,Common Stock
+D,11/07/2022 00:00:00,Reynal Vicente,4,S-Sale,--I,10893,128567,2,0001705738,Common Stock
+D,11/04/2022 00:00:00,Reynal Vicente,5,G-Gift,--I,2000,173802,3,0001705738,Common Stock
+D,11/04/2022 00:00:00,Reynal Vicente,4,S-Sale,--I,13770,139460,1,0001705738,Common Stock
+D,11/04/2022 00:00:00,Schiesl Andrew R,4,S-Sale,--D,10000,60928,2,0001495366,Common Stock
+D,11/03/2022 00:00:00,Schiesl Andrew R,4,S-Sale,--D,10000,70928,1,0001495366,Common Stock
+A,09/19/2022 00:00:00,Weatherred Michael A,5,L-Small,--D,5.588,13415.009,2,0001767790,Common Stock
+A,09/19/2022 00:00:00,Gillespie Gary E,5,L-Small,--D,5.644,25796.129,2,0001805045,Common Stock
+A,09/19/2022 00:00:00,Scheske Michael J,4,L-Small,--D,2.962,7109.612,4,0001757427,Common Stock
+D,09/11/2022 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2388,0,3,0001705737,Restricted Stock Units
+D,09/11/2022 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,1087,8951,2,0001705737,Common Stock
+A,09/11/2022 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2388,10038,1,0001705737,Common Stock
+D,08/16/2022 00:00:00,Minarro Viseras Enrique,4,S-Sale,--D,19000,7650,1,0001705737,Common Stock
+D,08/12/2022 00:00:00,Kendall-Jones Nicholas J,4,S-Sale,--D,3650,2118,1,0001805042,Common Stock
+D,08/09/2022 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,580,1742,3,0001869916,Restricted Stock Units
+D,08/09/2022 00:00:00,Keene Kathleen M.,4,F-InKind,--D,171,1808,2,0001869916,Common Stock
+A,08/09/2022 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,580,1979,1,0001869916,Common Stock
+D,08/09/2022 00:00:00,Hepding Elizabeth Meloy,4,M-Exempt,--D,2524,7572,3,0001682777,Restricted Stock Units
+D,08/09/2022 00:00:00,Hepding Elizabeth Meloy,4,F-InKind,--D,744,1780,2,0001682777,Common Stock
+A,08/09/2022 00:00:00,Hepding Elizabeth Meloy,4,M-Exempt,--D,2524,2524,1,0001682777,Common Stock
+A,08/05/2022 00:00:00,Stubblefield Michael,4,A-Award,--D,1857,1857,1,0001776153,Restricted Stock Units
+A,08/05/2022 00:00:00,Stevenson Mark P,4,A-Award,--D,1757,1757,1,0001387890,Restricted Stock Units
+D,06/30/2022 00:00:00,Kini Vikram,4,M-Exempt,--D,1334,2667,3,0001815604,Restricted Stock Units
+D,06/30/2022 00:00:00,Kini Vikram,4,F-InKind,--D,444,21013,2,0001815604,Common Stock
+A,06/30/2022 00:00:00,Kini Vikram,4,M-Exempt,--D,1334,21457,1,0001815604,Common Stock
+A,06/17/2022 00:00:00,Weatherred Michael A,5,L-Small,--D,6.421,13409.421,1,0001767790,Common Stock
+A,06/17/2022 00:00:00,Gillespie Gary E,5,L-Small,--D,6.485,25790.485,1,0001805045,Common Stock
+A,06/17/2022 00:00:00,Scheske Michael J,4,L-Small,--D,3.403,7106.65,3,0001757427,Common Stock
+D,06/06/2022 00:00:00,Kendall-Jones Nicholas J,4,F-InKind,--D,2045,5768,1,0001805042,Common Stock
+D,05/14/2022 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1028,0,3,0001767790,Restricted Stock Units
+D,05/14/2022 00:00:00,Weatherred Michael A,4,F-InKind,--D,302,13403,2,0001767790,Common Stock
+A,05/14/2022 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1028,13705,1,0001767790,Common Stock
+D,03/25/2022 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,322,644,3,0001869916,Restricted Stock Units
+D,03/25/2022 00:00:00,Keene Kathleen M.,4,F-InKind,--D,112,1399,2,0001869916,Common Stock
+A,03/25/2022 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,322,1511,1,0001869916,Common Stock
+A,03/22/2022 00:00:00,Scheske Michael J,4,L-Small,--D,2.514,7103.247,2,0001757427,Common Stock
+D,03/07/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,9342,3114,9,0001804965,Stock Options (Right to Buy)
+D,03/07/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,13809,8964,8,0001804965,Stock Options (Right to Buy)
+D,03/07/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,3354,1118,7,0001804965,Stock Options (Right to Buy)
+D,03/07/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,23495,0,6,0001804965,Stock Options (Right to Buy)
+D,03/07/2022 00:00:00,Abbaszadeh Sia,4,S-Sale,--D,50000,24183,5,0001804965,Common Stock
+A,03/07/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,9342,74183,4,0001804965,Common Stock
+A,03/07/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,13809,64841,3,0001804965,Common Stock
+A,03/07/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,3354,51032,2,0001804965,Common Stock
+A,03/07/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,23495,47678,1,0001804965,Common Stock
+D,03/06/2022 00:00:00,Gillespie Gary E,4,M-Exempt,--D,2249,0,6,0001805045,Restricted Stock Units
+D,03/06/2022 00:00:00,Gillespie Gary E,4,M-Exempt,--D,1125,2249,5,0001805045,Restricted Stock Units
+D,03/06/2022 00:00:00,Gillespie Gary E,4,F-InKind,--D,659,25784,4,0001805045,Common Stock
+A,03/06/2022 00:00:00,Gillespie Gary E,4,M-Exempt,--D,2249,26443,3,0001805045,Common Stock
+D,03/06/2022 00:00:00,Gillespie Gary E,4,F-InKind,--D,330,24194,2,0001805045,Common Stock
+A,03/06/2022 00:00:00,Gillespie Gary E,4,M-Exempt,--D,1125,24524,1,0001805045,Common Stock
+D,03/06/2022 00:00:00,Kini Vikram,4,M-Exempt,--D,1799,0,6,0001815604,Restricted Stock Units
+D,03/06/2022 00:00:00,Kini Vikram,4,M-Exempt,--D,900,1799,5,0001815604,Restricted Stock Units
+D,03/06/2022 00:00:00,Kini Vikram,4,F-InKind,--D,555,17457,4,0001815604,Common Stock
+A,03/06/2022 00:00:00,Kini Vikram,4,M-Exempt,--D,1799,18012,3,0001815604,Common Stock
+D,03/06/2022 00:00:00,Kini Vikram,4,F-InKind,--D,278,16213,2,0001815604,Common Stock
+A,03/06/2022 00:00:00,Kini Vikram,4,M-Exempt,--D,900,16491,1,0001815604,Common Stock
+D,03/06/2022 00:00:00,Reynal Vicente,4,M-Exempt,--D,30137,0,9,0001705738,Restricted Stock Units
+D,03/06/2022 00:00:00,Reynal Vicente,4,M-Exempt,--D,15068,30137,8,0001705738,Restricted Stock Units
+D,03/06/2022 00:00:00,Reynal Vicente,4,F-InKind,--D,13517,115000,4,0001705738,Common Stock
+A,03/06/2022 00:00:00,Reynal Vicente,4,M-Exempt,--D,30137,128517,3,0001705738,Common Stock
+D,03/06/2022 00:00:00,Reynal Vicente,4,F-InKind,--D,6758,98380,2,0001705738,Common Stock
+A,03/06/2022 00:00:00,Reynal Vicente,4,M-Exempt,--D,15068,105138,1,0001705738,Common Stock
+D,03/06/2022 00:00:00,Kendall-Jones Nicholas J,4,M-Exempt,--D,1687,3374,3,0001805042,Restricted Stock Units
+D,03/06/2022 00:00:00,Kendall-Jones Nicholas J,4,F-InKind,--D,603,7813,2,0001805042,Common Stock
+A,03/06/2022 00:00:00,Kendall-Jones Nicholas J,4,M-Exempt,--D,1687,8416,1,0001805042,Common Stock
+D,03/06/2022 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,4273,0,6,0001495366,Restricted Stock Units
+D,03/06/2022 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,2137,4273,5,0001495366,Restricted Stock Units
+D,03/06/2022 00:00:00,Schiesl Andrew R,4,F-InKind,--D,1899,80928,4,0001495366,Common Stock
+A,03/06/2022 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,4273,82827,3,0001495366,Common Stock
+D,03/06/2022 00:00:00,Schiesl Andrew R,4,F-InKind,--D,950,78554,2,0001495366,Common Stock
+A,03/06/2022 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,2137,79504,1,0001495366,Common Stock
+D,03/06/2022 00:00:00,Scheske Michael J,4,M-Exempt,--D,1012,2024,3,0001757427,Restricted Stock Units
+D,03/06/2022 00:00:00,Scheske Michael J,4,F-InKind,--D,298,7099,2,0001757427,Common Stock
+A,03/06/2022 00:00:00,Scheske Michael J,4,M-Exempt,--D,1012,7397,1,0001757427,Common Stock
+D,03/06/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,2249,0,6,0001804965,Restricted Stock Units
+D,03/06/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,1125,2249,5,0001804965,Restricted Stock Units
+D,03/06/2022 00:00:00,Abbaszadeh Sia,4,F-InKind,--D,1058,24183,4,0001804965,Common Stock
+A,03/06/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,2249,25241,3,0001804965,Common Stock
+D,03/06/2022 00:00:00,Abbaszadeh Sia,4,F-InKind,--D,529,22992,2,0001804965,Common Stock
+A,03/06/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,1125,23521,1,0001804965,Common Stock
+D,03/06/2022 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,4498,0,6,0001705737,Restricted Stock Units
+D,03/06/2022 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2249,4498,5,0001705737,Restricted Stock Units
+D,03/06/2022 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,2025,26650,4,0001705737,Common Stock
+A,03/06/2022 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,4498,28675,3,0001705737,Common Stock
+D,03/06/2022 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,1013,24177,2,0001705737,Common Stock
+A,03/06/2022 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2249,25190,1,0001705737,Common Stock
+D,03/06/2022 00:00:00,Weatherred Michael A,4,M-Exempt,--D,3149,0,6,0001767790,Restricted Stock Units
+D,03/06/2022 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1574,3149,5,0001767790,Restricted Stock Units
+D,03/06/2022 00:00:00,Weatherred Michael A,4,F-InKind,--D,923,12677,4,0001767790,Common Stock
+A,03/06/2022 00:00:00,Weatherred Michael A,4,M-Exempt,--D,3149,13600,3,0001767790,Common Stock
+D,03/06/2022 00:00:00,Weatherred Michael A,4,F-InKind,--D,462,10451,2,0001767790,Common Stock
+A,03/06/2022 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1574,10913,1,0001767790,Common Stock
+D,03/02/2022 00:00:00,Kendall-Jones Nicholas J,4,S-Sale,--D,6000,6729,1,0001805042,Common Stock
+D,02/25/2022 00:00:00,Schiesl Andrew R,4,S-Sale,--D,33105,77367,1,0001495366,Common Stock
+D,02/23/2022 00:00:00,Scheske Michael J,4/A,F-InKind,--D,262,6385,2,0001757427,Common Stock
+A,02/23/2022 00:00:00,Scheske Michael J,4/A,M-Exempt,--D,754,6647,1,0001757427,Common Stock
+A,02/23/2022 00:00:00,Minarro Viseras Enrique,4/A,M-Exempt,--D,1508,23620,1,0001705737,Common Stock
+D,02/23/2022 00:00:00,Centoni Elizabeth,4,M-Exempt,--D,3839,0,3,0001762289,Restricted Stock Units
+A,02/23/2022 00:00:00,Centoni Elizabeth,4,M-Exempt,--D,3839,14757,1,0001762289,Common Stock
+D,02/23/2022 00:00:00,Humphrey John,4,M-Exempt,--D,3839,0,3,0001360547,Restricted Stock Units
+A,02/23/2022 00:00:00,Humphrey John,4,M-Exempt,--D,3839,18656,1,0001360547,Common Stock
+D,02/23/2022 00:00:00,DONNELLY WILLIAM P,4,M-Exempt,--D,3839,0,3,0001207928,Restricted Stock Units
+A,02/23/2022 00:00:00,DONNELLY WILLIAM P,4,M-Exempt,--D,3839,57399,1,0001207928,Common Stock
+D,02/23/2022 00:00:00,Kendall-Jones Nicholas J,4,M-Exempt,--D,1028,3085,5,0001805042,Restricted Stock Units
+D,02/23/2022 00:00:00,Kendall-Jones Nicholas J,4,F-InKind,--D,423,12729,2,0001805042,Common Stock
+A,02/23/2022 00:00:00,Kendall-Jones Nicholas J,4,M-Exempt,--D,1028,13152,1,0001805042,Common Stock
+D,02/23/2022 00:00:00,WHITE TONY L,4,M-Exempt,--D,3839,0,3,0001171315,Restricted Stock Units
+A,02/23/2022 00:00:00,WHITE TONY L,4,M-Exempt,--D,3839,33938,1,0001171315,Common Stock
+D,02/23/2022 00:00:00,Scheske Michael J,4,M-Exempt,--D,754,2262,5,0001757427,Restricted Stock Units
+D,02/23/2022 00:00:00,Scheske Michael J,4,F-InKind,--D,262,6248,2,0001757427,Common Stock
+A,02/23/2022 00:00:00,Scheske Michael J,4,M-Exempt,--D,754,6690,1,0001757427,Common Stock
+D,02/23/2022 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,191,4525,5,0001869916,Restricted Stock Units
+D,02/23/2022 00:00:00,Keene Kathleen M.,4,F-InKind,--D,67,1189,2,0001869916,Common Stock
+A,02/23/2022 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,191,1256,1,0001869916,Common Stock
+D,02/23/2022 00:00:00,Gillespie Gary E,4,M-Exempt,--D,959,2880,5,0001805045,Restricted Stock Units
+D,02/23/2022 00:00:00,Gillespie Gary E,4,F-InKind,--D,281,23399,2,0001805045,Common Stock
+A,02/23/2022 00:00:00,Gillespie Gary E,4,M-Exempt,--D,959,23680,1,0001805045,Common Stock
+D,02/23/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,685,2058,3,0001804965,Restricted Stock Units
+D,02/23/2022 00:00:00,Abbaszadeh Sia,4,F-InKind,--D,322,22396,2,0001804965,Common Stock
+A,02/23/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,685,22718,1,0001804965,Common Stock
+D,02/23/2022 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,1302,3908,5,0001495366,Restricted Stock Units
+D,02/23/2022 00:00:00,Schiesl Andrew R,4,F-InKind,--D,384,110488,2,0001495366,Common Stock
+A,02/23/2022 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,1302,110872,1,0001495366,Common Stock
+D,02/23/2022 00:00:00,Arnold Kirk E,4,M-Exempt,--D,3839,0,3,0001387796,Restricted Stock Units
+A,02/23/2022 00:00:00,Arnold Kirk E,4,M-Exempt,--D,3839,10963,1,0001387796,Common Stock
+D,02/23/2022 00:00:00,Weatherred Michael A,4,M-Exempt,--D,959,2880,5,0001767790,Restricted Stock Units
+D,02/23/2022 00:00:00,Weatherred Michael A,4,F-InKind,--D,305,9339,2,0001767790,Common Stock
+A,02/23/2022 00:00:00,Weatherred Michael A,4,M-Exempt,--D,959,9644,1,0001767790,Common Stock
+D,02/23/2022 00:00:00,Forsee Gary D,4,M-Exempt,--D,3839,0,3,0001189566,Restricted Stock Units
+A,02/23/2022 00:00:00,Forsee Gary D,4,M-Exempt,--D,3839,34417,1,0001189566,Common Stock
+D,02/23/2022 00:00:00,Reynal Vicente,4,F-InKind,--D,4083,90070,2,0001705738,Common Stock
+A,02/23/2022 00:00:00,Reynal Vicente,4,M-Exempt,--D,9187,94153,1,0001705738,Common Stock
+D,02/23/2022 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,1508,4525,5,0001705737,Restricted Stock Units
+D,02/23/2022 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,679,22941,2,0001705737,Common Stock
+A,02/23/2022 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,1508,26620,1,0001705737,Common Stock
+D,02/23/2022 00:00:00,Kini Vikram,4,M-Exempt,--D,1508,4525,5,0001815604,Restricted Stock Units
+D,02/23/2022 00:00:00,Kini Vikram,4,F-InKind,--D,448,15591,2,0001815604,Common Stock
+A,02/23/2022 00:00:00,Kini Vikram,4,M-Exempt,--D,1508,16039,1,0001815604,Common Stock
+D,02/23/2022 00:00:00,Jones Marc Ellis,4,M-Exempt,--D,3839,0,3,0001762291,Restricted Stock Units
+A,02/23/2022 00:00:00,Jones Marc Ellis,4,M-Exempt,--D,3839,14757,1,0001762291,Common Stock
+A,02/22/2022 00:00:00,Reynal Vicente,4/A,A-Award,--D,82547,82547,2,0001705738,Stock Options (Right to Buy)
+A,02/22/2022 00:00:00,Reynal Vicente,4/A,A-Award,--D,32962,32962,1,0001705738,Restricted Stock Units
+A,02/22/2022 00:00:00,Scheske Michael J,4/A,A-Award,--D,6485,6485,4,0001757427,Stock Options (Right to Buy)
+A,02/22/2022 00:00:00,Scheske Michael J,4/A,A-Award,--D,2589,2589,3,0001757427,Restricted Stock Units
+D,02/22/2022 00:00:00,Scheske Michael J,4/A,F-InKind,--D,151,5893,4,0001757427,Common Stock
+A,02/22/2022 00:00:00,Scheske Michael J,4/A,M-Exempt,--D,417,6044,3,0001757427,Common Stock
+D,02/22/2022 00:00:00,Schiesl Andrew R,4/A,F-InKind,--D,809,109554,2,0001495366,Common Stock
+A,02/22/2022 00:00:00,Centoni Elizabeth,4,A-Award,--D,3296,3296,2,0001762289,Restricted Stock Units
+A,02/22/2022 00:00:00,Humphrey John,4,A-Award,--D,3767,3767,2,0001360547,Restricted Stock Units
+A,02/22/2022 00:00:00,DONNELLY WILLIAM P,4,A-Award,--D,4426,4426,2,0001207928,Restricted Stock Units
+A,02/22/2022 00:00:00,Kendall-Jones Nicholas J,4,A-Award,--D,10613,10613,4,0001805042,Stock Options (Right to Buy)
+A,02/22/2022 00:00:00,Kendall-Jones Nicholas J,4,A-Award,--D,4238,4238,3,0001805042,Restricted Stock Units
+A,02/22/2022 00:00:00,Hepding Elizabeth Meloy,4,A-Award,--D,6191,6191,2,0001682777,Stock Options (Right to Buy)
+A,02/22/2022 00:00:00,Hepding Elizabeth Meloy,4,A-Award,--D,2472,2472,1,0001682777,Restricted Stock Units
+D,02/22/2022 00:00:00,WHITE TONY L,4,A-Award,--D,3296,3296,2,0001171315,Restricted Stock Units
+A,02/22/2022 00:00:00,Scheske Michael J,4,A-Award,--D,5306,5306,4,0001757427,Stock Options (Right to Buy)
+A,02/22/2022 00:00:00,Scheske Michael J,4,A-Award,--D,2119,2119,3,0001757427,Restricted Stock Units
+A,02/22/2022 00:00:00,Keene Kathleen M.,4,A-Award,--D,5306,5306,4,0001869916,Stock Options (Right to Buy)
+A,02/22/2022 00:00:00,Keene Kathleen M.,4,A-Award,--D,2119,2119,3,0001869916,Restricted Stock Units
+A,02/22/2022 00:00:00,Gillespie Gary E,4,A-Award,--D,10023,10023,4,0001805045,Stock Options (Right to Buy)
+A,02/22/2022 00:00:00,Gillespie Gary E,4,A-Award,--D,4002,4002,3,0001805045,Restricted Stock Units
+A,02/22/2022 00:00:00,Schiesl Andrew R,4,A-Award,--D,12971,12971,4,0001495366,Stock Options (Right to Buy)
+A,02/22/2022 00:00:00,Schiesl Andrew R,4,A-Award,--D,5179,5179,3,0001495366,Restricted Stock Units
+A,02/22/2022 00:00:00,Arnold Kirk E,4,A-Award,--D,3578,3578,2,0001387796,Restricted Stock Units
+A,02/22/2022 00:00:00,Weatherred Michael A,4,A-Award,--D,10023,10023,4,0001767790,Stock Options (Right to Buy)
+A,02/22/2022 00:00:00,Weatherred Michael A,4,A-Award,--D,4002,4002,3,0001767790,Restricted Stock Units
+A,02/22/2022 00:00:00,Forsee Gary D,4,A-Award,--D,3484,3484,2,0001189566,Restricted Stock Units
+A,02/22/2022 00:00:00,Reynal Vicente,4,A-Award,--D,114976,114976,7,0001705738,Stock Options (Right to Buy)
+A,02/22/2022 00:00:00,Reynal Vicente,4,A-Award,--D,45912,45912,6,0001705738,Restricted Stock Units
+A,02/22/2022 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,13856,13856,4,0001705737,Stock Options (Right to Buy)
+A,02/22/2022 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,5533,5533,3,0001705737,Restricted Stock Units
+A,02/22/2022 00:00:00,Kini Vikram,4,A-Award,--D,16509,16509,4,0001815604,Stock Options (Right to Buy)
+A,02/22/2022 00:00:00,Kini Vikram,4,A-Award,--D,6592,6592,3,0001815604,Restricted Stock Units
+A,02/22/2022 00:00:00,Jones Marc Ellis,4,A-Award,--D,3578,3578,2,0001762291,Restricted Stock Units
+D,02/22/2022 00:00:00,Schiesl Andrew R,4,F-InKind,--D,809,109570,3,0001495366,Common Stock
+D,02/22/2022 00:00:00,Scheske Michael J,4,M-Exempt,--D,417,418,6,0001757427,Restricted Stock Units
+D,02/22/2022 00:00:00,Scheske Michael J,4,F-InKind,--D,151,5936,4,0001757427,Common Stock
+A,02/22/2022 00:00:00,Scheske Michael J,4,M-Exempt,--D,417,6087,3,0001757427,Common Stock
+D,02/22/2022 00:00:00,Reynal Vicente,4,F-InKind,--D,7167,84966,3,0001705738,Common Stock
+D,02/22/2022 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,923,22112,3,0001705737,Common Stock
+D,02/22/2022 00:00:00,Kini Vikram,4,M-Exempt,--D,1559,1558,6,0001815604,Restricted Stock Units
+D,02/22/2022 00:00:00,Kini Vikram,4,F-InKind,--D,489,14531,4,0001815604,Common Stock
+A,02/22/2022 00:00:00,Kini Vikram,4,M-Exempt,--D,1559,15020,3,0001815604,Common Stock
+D,02/22/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,1365,1365,6,0001804965,Restricted Stock Units
+D,02/22/2022 00:00:00,Abbaszadeh Sia,4,F-InKind,--D,642,22033,4,0001804965,Common Stock
+A,02/22/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,1365,22675,3,0001804965,Common Stock
+D,02/22/2022 00:00:00,Gillespie Gary E,4,M-Exempt,--D,1754,1755,6,0001805045,Restricted Stock Units
+D,02/22/2022 00:00:00,Gillespie Gary E,4,F-InKind,--D,507,22721,4,0001805045,Common Stock
+A,02/22/2022 00:00:00,Gillespie Gary E,4,M-Exempt,--D,1754,23228,3,0001805045,Common Stock
+D,02/21/2022 00:00:00,Scheske Michael J,4/A,F-InKind,--D,330,5627,2,0001757427,Common Stock
+A,02/21/2022 00:00:00,Scheske Michael J,4/A,M-Exempt,--D,924,5957,1,0001757427,Common Stock
+D,02/21/2022 00:00:00,Schiesl Andrew R,4/A,F-InKind,--D,1112,110363,1,0001495366,Common Stock
+D,02/21/2022 00:00:00,Reynal Vicente,4,M-Exempt,--D,20102,20102,8,0001705738,Restricted Stock Units
+D,02/21/2022 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1617,1618,3,0001767790,Restricted Stock Units
+D,02/21/2022 00:00:00,Weatherred Michael A,4,F-InKind,--D,560,8685,2,0001767790,Common Stock
+A,02/21/2022 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1617,9245,1,0001767790,Common Stock
+D,02/21/2022 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,3350,3350,4,0001495366,Restricted Stock Units
+D,02/21/2022 00:00:00,Schiesl Andrew R,4,F-InKind,--D,1096,110379,2,0001495366,Common Stock
+A,02/21/2022 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,3350,111475,1,0001495366,Common Stock
+D,02/21/2022 00:00:00,Scheske Michael J,4,M-Exempt,--D,924,924,5,0001757427,Restricted Stock Units
+D,02/21/2022 00:00:00,Scheske Michael J,4,F-InKind,--D,287,5670,2,0001757427,Common Stock
+A,02/21/2022 00:00:00,Scheske Michael J,4,M-Exempt,--D,924,5597,1,0001757427,Common Stock
+D,02/21/2022 00:00:00,Reynal Vicente,4,M-Exempt,--D,20102,20102,7,0001705738,Restricted Stock Units
+D,02/21/2022 00:00:00,Reynal Vicente,4,F-InKind,--D,6396,92133,2,0001705738,Common Stock
+A,02/21/2022 00:00:00,Reynal Vicente,4,M-Exempt,--D,20102,98529,1,0001705738,Common Stock
+D,02/21/2022 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2310,2311,4,0001705737,Restricted Stock Units
+D,02/21/2022 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,1073,23035,2,0001705737,Common Stock
+A,02/21/2022 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2310,24108,1,0001705737,Common Stock
+D,02/21/2022 00:00:00,Kini Vikram,4,M-Exempt,--D,1848,1848,5,0001815604,Restricted Stock Units
+D,02/21/2022 00:00:00,Kini Vikram,4,F-InKind,--D,676,13461,2,0001815604,Common Stock
+A,02/21/2022 00:00:00,Kini Vikram,4,M-Exempt,--D,1848,14137,1,0001815604,Common Stock
+D,02/21/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,2079,2079,5,0001804965,Restricted Stock Units
+D,02/21/2022 00:00:00,Abbaszadeh Sia,4,F-InKind,--D,978,21310,2,0001804965,Common Stock
+A,02/21/2022 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,2079,22288,1,0001804965,Common Stock
+D,02/21/2022 00:00:00,Gillespie Gary E,4,M-Exempt,--D,2195,2195,5,0001805045,Restricted Stock Units
+D,02/21/2022 00:00:00,Gillespie Gary E,4,F-InKind,--D,760,21474,2,0001805045,Common Stock
+A,02/21/2022 00:00:00,Gillespie Gary E,4,M-Exempt,--D,2195,22234,1,0001805045,Common Stock
+D,02/05/2022 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,387,0,3,0001869916,Restricted Stock Units
+D,02/05/2022 00:00:00,Keene Kathleen M.,4,F-InKind,--D,135,1065,2,0001869916,Common Stock
+A,02/05/2022 00:00:00,Keene Kathleen M.,4,M-Exempt,--D,387,1200,1,0001869916,Common Stock
+D,12/31/2021 00:00:00,Kendall-Jones Nicholas J,4,F-InKind,--D,2560,12124,1,0001805042,Common Stock
+D,12/31/2021 00:00:00,WYMAN TODD D,4,M-Exempt,--D,1799,0,4,0001476241,Restricted Stock Units
+A,12/15/2021 00:00:00,Scheske Michael J,4,L-Small,--D,1.733,7100.733,1,0001757427,Common Stock
+D,12/09/2021 00:00:00,Scheske Michael J,4,M-Exempt,--D,6972,3485,3,0001757427,Stock Options (Right to Buy)
+D,12/09/2021 00:00:00,Scheske Michael J,4,S-Sale,--D,6972,5033,2,0001757427,Common Stock
+A,12/09/2021 00:00:00,Scheske Michael J,4,M-Exempt,--D,6972,12005,1,0001757427,Common Stock
+D,11/15/2021 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,5000,23495,3,0001804965,Stock Options (Right to Buy)
+D,11/15/2021 00:00:00,Abbaszadeh Sia,4,S-Sale,--D,5000,20209,2,0001804965,Common Stock
+A,11/15/2021 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,5000,25209,1,0001804965,Common Stock
+D,09/11/2021 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2387,2388,3,0001705737,Restricted Stock Units
+D,09/11/2021 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,1075,21798,2,0001705737,Common Stock
+A,09/11/2021 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2387,22873,1,0001705737,Common Stock
+D,09/11/2021 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,477,478,3,0001804965,Restricted Stock Units
+D,09/11/2021 00:00:00,Abbaszadeh Sia,4,F-InKind,--D,225,20209,2,0001804965,Common Stock
+A,09/11/2021 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,477,20434,1,0001804965,Common Stock
+D,09/10/2021 00:00:00,Reynal Vicente,4,M-Exempt,--D,30000,696974,6,0001705738,Stock Options (Right to Buy)
+D,09/10/2021 00:00:00,Reynal Vicente,4,S-Sale,--D,30000,78427,2,0001705738,Common Stock
+A,09/10/2021 00:00:00,Reynal Vicente,4,M-Exempt,--D,30000,108427,1,0001705738,Common Stock
+D,08/27/2021 00:00:00,Gillespie Gary E,4,M-Exempt,--D,54975,54975,3,0001805045,Stock Options (Right to Buy)
+D,08/27/2021 00:00:00,Gillespie Gary E,4,S-Sale,--D,54975,20039,2,0001805045,Common Stock
+A,08/27/2021 00:00:00,Gillespie Gary E,4,M-Exempt,--D,54975,75014,1,0001805045,Common Stock
+A,08/09/2021 00:00:00,Keene Kathleen M.,4,A-Award,--D,5921,5921,2,0001869916,Stock Options (Right to Buy)
+A,08/09/2021 00:00:00,Keene Kathleen M.,4,A-Award,--D,2322,2322,1,0001869916,Restricted Stock Units
+A,08/09/2021 00:00:00,Hepding Elizabeth Meloy,4,A-Award,--D,25746,25746,2,0001682777,Stock Options (Right to Buy)
+A,08/09/2021 00:00:00,Hepding Elizabeth Meloy,4,A-Award,--D,10096,10096,1,0001682777,Restricted Stock Units
+D,08/05/2021 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,45000,28495,3,0001804965,Stock Options (Right to Buy)
+D,08/05/2021 00:00:00,Abbaszadeh Sia,4,S-Sale,--D,45000,19957,2,0001804965,Common Stock
+A,08/05/2021 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,45000,64957,1,0001804965,Common Stock
+D,06/30/2021 00:00:00,Kini Vikram,4/A,F-InKind,--D,396,14955,2,0001815604,Common Stock
+A,06/30/2021 00:00:00,Kini Vikram,4/A,M-Exempt,--D,1333,15351,1,0001815604,Common Stock
+D,06/30/2021 00:00:00,Kini Vikram,4,M-Exempt,--D,1333,4001,3,0001815604,Restricted Stock Units
+D,06/30/2021 00:00:00,Kini Vikram,4,F-InKind,--D,396,12289,2,0001815604,Common Stock
+A,06/30/2021 00:00:00,Kini Vikram,4,M-Exempt,--D,1333,12685,1,0001815604,Common Stock
+D,06/16/2021 00:00:00,STAVROS PETER,5,G-Gift,--D,39978,0,1,0001262899,Common Stock
+D,06/15/2021 00:00:00,ROBERTS GEORGE R,5,G-Gift,--D,7100,0,1,0001081715,Common Stock
+D,06/15/2021 00:00:00,KRAVIS HENRY R,5,G-Gift,--D,17449,0,1,0001081714,Common Stock
+D,06/15/2021 00:00:00,Weisenbeck Joshua T.,5,G-Gift,--D,1051,0,1,0001705742,Common Stock
+D,06/06/2021 00:00:00,Kendall-Jones Nicholas J,4,F-InKind,--D,406,14684,1,0001805042,Common Stock
+D,05/14/2021 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1027,1028,3,0001767790,Restricted Stock Units
+D,05/14/2021 00:00:00,Weatherred Michael A,4,F-InKind,--D,301,7628,2,0001767790,Common Stock
+A,05/14/2021 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1027,7929,1,0001767790,Common Stock
+A,05/13/2021 00:00:00,Weisenbeck Joshua T.,4,J-Other,--D,1051,1051,1,0001705742,Common Stock
+A,05/13/2021 00:00:00,STAVROS PETER,4,J-Other,--D,39965,39965,1,0001262899,Common Stock
+D,05/13/2021 00:00:00,KKR Renaissance Aggregator L.P.,4,J-Other,--I,75919,29788635,2,0001705425,Common Stock
+D,05/13/2021 00:00:00,KKR Renaissance Aggregator L.P.,4,S-Sale,--I,14924081,29864554,1,0001705425,Common Stock
+D,05/13/2021 00:00:00,KKR Group Partnership L.P.,4,J-Other,--I,75919,29788635,2,0001472698,Common Stock
+D,05/13/2021 00:00:00,KKR Group Partnership L.P.,4,S-Sale,--I,14924081,29864554,1,0001472698,Common Stock
+A,05/06/2021 00:00:00,Reynal Vicente,5,G-Gift,-LI,47235,175802,2,0001705738,Common Stock
+D,05/06/2021 00:00:00,Reynal Vicente,5,G-Gift,-LD,47235,67765,1,0001705738,Common Stock
+D,03/08/2021 00:00:00,Reynal Vicente,4,M-Exempt,--D,30000,726974,12,0001705738,Stock Options (Right to Buy)
+D,03/08/2021 00:00:00,Reynal Vicente,4,S-Sale,--D,30000,78427,6,0001705738,Common Stock
+A,03/08/2021 00:00:00,Reynal Vicente,4,M-Exempt,--D,30000,108427,5,0001705738,Common Stock
+D,03/06/2021 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,2249,2249,6,0001804965,Restricted Stock Units
+D,03/06/2021 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,1124,3374,5,0001804965,Restricted Stock Units
+D,03/06/2021 00:00:00,Abbaszadeh Sia,4,F-InKind,--D,1058,19957,4,0001804965,Common Stock
+A,03/06/2021 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,2249,21015,3,0001804965,Common Stock
+D,03/06/2021 00:00:00,Abbaszadeh Sia,4,F-InKind,--D,529,18766,2,0001804965,Common Stock
+A,03/06/2021 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,1124,19295,1,0001804965,Common Stock
+D,03/06/2021 00:00:00,Wagner Mark Christopher,4,M-Exempt,--D,449,1350,4,0001805044,Restricted Stock Units
+D,03/06/2021 00:00:00,Wagner Mark Christopher,4,F-InKind,--D,134,5498,2,0001805044,Common Stock
+A,03/06/2021 00:00:00,Wagner Mark Christopher,4,M-Exempt,--D,449,5632,1,0001805044,Common Stock
+D,03/06/2021 00:00:00,Humphrey John,4,M-Exempt,--D,6297,0,2,0001360547,Restricted Stock Units
+A,03/06/2021 00:00:00,Humphrey John,4,M-Exempt,--D,6297,14817,1,0001360547,Common Stock
+D,03/06/2021 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,4273,4273,6,0001495366,Restricted Stock Units
+D,03/06/2021 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,2136,6410,5,0001495366,Restricted Stock Units
+D,03/06/2021 00:00:00,Schiesl Andrew R,4,F-InKind,--D,1270,108125,4,0001495366,Common Stock
+A,03/06/2021 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,4273,109395,3,0001495366,Common Stock
+D,03/06/2021 00:00:00,Schiesl Andrew R,4,F-InKind,--D,635,105122,2,0001495366,Common Stock
+A,03/06/2021 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,2136,105757,1,0001495366,Common Stock
+D,03/06/2021 00:00:00,WHITE TONY L,4,M-Exempt,--D,6297,0,2,0001171315,Restricted Stock Units
+A,03/06/2021 00:00:00,WHITE TONY L,4,M-Exempt,--D,6297,30099,1,0001171315,Common Stock
+D,03/06/2021 00:00:00,DONNELLY WILLIAM P,4,M-Exempt,--D,6297,0,2,0001207928,Restricted Stock Units
+A,03/06/2021 00:00:00,DONNELLY WILLIAM P,4,M-Exempt,--D,6297,53560,1,0001207928,Common Stock
+D,03/06/2021 00:00:00,Weatherred Michael A,4,M-Exempt,--D,3148,3149,6,0001767790,Restricted Stock Units
+D,03/06/2021 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1574,4723,5,0001767790,Restricted Stock Units
+D,03/06/2021 00:00:00,Weatherred Michael A,4,F-InKind,--D,923,6902,4,0001767790,Common Stock
+A,03/06/2021 00:00:00,Weatherred Michael A,4,M-Exempt,--D,3148,7825,3,0001767790,Common Stock
+D,03/06/2021 00:00:00,Weatherred Michael A,4,F-InKind,--D,462,4677,2,0001767790,Common Stock
+A,03/06/2021 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1574,5139,1,0001767790,Common Stock
+D,03/06/2021 00:00:00,Gillespie Gary E,4,M-Exempt,--D,2249,2249,6,0001805045,Restricted Stock Units
+D,03/06/2021 00:00:00,Gillespie Gary E,4,M-Exempt,--D,1124,3374,5,0001805045,Restricted Stock Units
+D,03/06/2021 00:00:00,Gillespie Gary E,4,F-InKind,--D,659,20039,4,0001805045,Common Stock
+A,03/06/2021 00:00:00,Gillespie Gary E,4,M-Exempt,--D,2249,20698,3,0001805045,Common Stock
+D,03/06/2021 00:00:00,Gillespie Gary E,4,F-InKind,--D,330,18449,2,0001805045,Common Stock
+A,03/06/2021 00:00:00,Gillespie Gary E,4,M-Exempt,--D,1124,18779,1,0001805045,Common Stock
+D,03/06/2021 00:00:00,Mundy James Craig,4,M-Exempt,--D,1124,3374,4,0001805047,Restricted Stock Units
+D,03/06/2021 00:00:00,Mundy James Craig,4,F-InKind,--D,334,15750,2,0001805047,Common Stock
+A,03/06/2021 00:00:00,Mundy James Craig,4,M-Exempt,--D,1124,16084,1,0001805047,Common Stock
+D,03/06/2021 00:00:00,Kini Vikram,4,M-Exempt,--D,1799,1799,6,0001815604,Restricted Stock Units
+D,03/06/2021 00:00:00,Kini Vikram,4,M-Exempt,--D,899,2699,5,0001815604,Restricted Stock Units
+D,03/06/2021 00:00:00,Kini Vikram,4,F-InKind,--D,576,14018,4,0001815604,Common Stock
+A,03/06/2021 00:00:00,Kini Vikram,4,M-Exempt,--D,1799,14594,3,0001815604,Common Stock
+D,03/06/2021 00:00:00,Kini Vikram,4,F-InKind,--D,288,12795,2,0001815604,Common Stock
+A,03/06/2021 00:00:00,Kini Vikram,4,M-Exempt,--D,899,13083,1,0001815604,Common Stock
+D,03/06/2021 00:00:00,Centoni Elizabeth,4,M-Exempt,--D,6297,0,2,0001762289,Restricted Stock Units
+A,03/06/2021 00:00:00,Centoni Elizabeth,4,M-Exempt,--D,6297,10918,1,0001762289,Common Stock
+D,03/06/2021 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,4498,4498,6,0001705737,Restricted Stock Units
+D,03/06/2021 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2249,6747,5,0001705737,Restricted Stock Units
+D,03/06/2021 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,2025,20486,4,0001705737,Common Stock
+A,03/06/2021 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,4498,22511,3,0001705737,Common Stock
+D,03/06/2021 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,1013,18013,2,0001705737,Common Stock
+A,03/06/2021 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2249,19026,1,0001705737,Common Stock
+D,03/06/2021 00:00:00,Scheske Michael J,4,M-Exempt,--D,1012,3036,3,0001757427,Restricted Stock Units
+D,03/06/2021 00:00:00,Scheske Michael J,4,F-InKind,--D,301,5033,2,0001757427,Common Stock
+A,03/06/2021 00:00:00,Scheske Michael J,4,M-Exempt,--D,1012,5334,1,0001757427,Common Stock
+D,03/06/2021 00:00:00,Reynal Vicente,4,M-Exempt,--D,30136,30137,11,0001705738,Restricted Stock Units
+D,03/06/2021 00:00:00,Reynal Vicente,4,M-Exempt,--D,15068,45205,10,0001705738,Restricted Stock Units
+D,03/06/2021 00:00:00,Reynal Vicente,4,F-InKind,--D,13694,78427,4,0001705738,Common Stock
+A,03/06/2021 00:00:00,Reynal Vicente,4,M-Exempt,--D,30136,92121,3,0001705738,Common Stock
+D,03/06/2021 00:00:00,Reynal Vicente,4,F-InKind,--D,6847,61985,2,0001705738,Common Stock
+A,03/06/2021 00:00:00,Reynal Vicente,4,M-Exempt,--D,15068,68832,1,0001705738,Common Stock
+D,03/06/2021 00:00:00,Arnold Kirk E,4,M-Exempt,--D,6297,0,2,0001387796,Restricted Stock Units
+A,03/06/2021 00:00:00,Arnold Kirk E,4,M-Exempt,--D,6297,7124,1,0001387796,Common Stock
+D,03/06/2021 00:00:00,Forsee Gary D,4,M-Exempt,--D,6297,0,2,0001189566,Restricted Stock Units
+A,03/06/2021 00:00:00,Forsee Gary D,4,M-Exempt,--D,6297,30578,1,0001189566,Common Stock
+D,03/06/2021 00:00:00,Jones Marc Ellis,4,M-Exempt,--D,6297,0,2,0001762291,Restricted Stock Units
+A,03/06/2021 00:00:00,Jones Marc Ellis,4,M-Exempt,--D,6297,10918,1,0001762291,Common Stock
+D,03/06/2021 00:00:00,Kendall-Jones Nicholas J,4,M-Exempt,--D,1686,5061,3,0001805042,Restricted Stock Units
+D,03/06/2021 00:00:00,Kendall-Jones Nicholas J,4,F-InKind,--D,584,15090,2,0001805042,Common Stock
+A,03/06/2021 00:00:00,Kendall-Jones Nicholas J,4,M-Exempt,--D,1686,15674,1,0001805042,Common Stock
+A,02/23/2021 00:00:00,Arnold Kirk E,4,A-Award,--D,3839,3839,1,0001387796,Restricted Stock Units
+A,02/23/2021 00:00:00,Scheske Michael J,4,A-Award,--D,7643,7643,2,0001757427,Stock Options (Right to Buy)
+A,02/23/2021 00:00:00,Scheske Michael J,4,A-Award,--D,3016,3016,1,0001757427,Restricted Stock Units
+A,02/23/2021 00:00:00,WHITE TONY L,4,A-Award,--D,3839,3839,1,0001171315,Restricted Stock Units
+A,02/23/2021 00:00:00,Kini Vikram,4,A-Award,--D,15286,15286,2,0001815604,Stock Options (Right to Buy)
+A,02/23/2021 00:00:00,Kini Vikram,4,A-Award,--D,6033,6033,1,0001815604,Restricted Stock Units
+A,02/23/2021 00:00:00,Forsee Gary D,4,A-Award,--D,3839,3839,1,0001189566,Restricted Stock Units
+A,02/23/2021 00:00:00,Weatherred Michael A,4,A-Award,--D,9727,9727,2,0001767790,Stock Options (Right to Buy)
+A,02/23/2021 00:00:00,Weatherred Michael A,4,A-Award,--D,3839,3839,1,0001767790,Restricted Stock Units
+A,02/23/2021 00:00:00,Reynal Vicente,4,A-Award,--D,93107,93107,2,0001705738,Stock Options (Right to Buy)
+A,02/23/2021 00:00:00,Reynal Vicente,4,A-Award,--D,36748,36748,1,0001705738,Restricted Stock Units
+A,02/23/2021 00:00:00,Humphrey John,4,A-Award,--D,3839,3839,1,0001360547,Restricted Stock Units
+A,02/23/2021 00:00:00,DONNELLY WILLIAM P,4,A-Award,--D,3839,3839,1,0001207928,Restricted Stock Units
+A,02/23/2021 00:00:00,Jones Marc Ellis,4,A-Award,--D,3839,3839,1,0001762291,Restricted Stock Units
+A,02/23/2021 00:00:00,Schiesl Andrew R,4,A-Award,--D,13201,13201,2,0001495366,Stock Options (Right to Buy)
+A,02/23/2021 00:00:00,Schiesl Andrew R,4,A-Award,--D,5210,5210,1,0001495366,Restricted Stock Units
+A,02/23/2021 00:00:00,Abbaszadeh Sia,4,A-Award,--D,6948,6948,2,0001804965,Stock Options (Right to Buy)
+A,02/23/2021 00:00:00,Abbaszadeh Sia,4,A-Award,--D,2742,2742,1,0001804965,Restricted Stock Units
+A,02/23/2021 00:00:00,Mundy James Craig,4,A-Award,--D,6948,6948,2,0001805047,Stock Options (Right to Buy)
+A,02/23/2021 00:00:00,Mundy James Craig,4,A-Award,--D,2742,2742,1,0001805047,Restricted Stock Units
+A,02/23/2021 00:00:00,Wagner Mark Christopher,4,A-Award,--D,2779,2779,2,0001805044,Stock Options (Right to Buy)
+A,02/23/2021 00:00:00,Wagner Mark Christopher,4,A-Award,--D,1096,1096,1,0001805044,Restricted Stock Units
+A,02/23/2021 00:00:00,Gillespie Gary E,4,A-Award,--D,9727,9727,2,0001805045,Stock Options (Right to Buy)
+A,02/23/2021 00:00:00,Gillespie Gary E,4,A-Award,--D,3839,3839,1,0001805045,Restricted Stock Units
+A,02/23/2021 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,15286,15286,2,0001705737,Stock Options (Right to Buy)
+A,02/23/2021 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,6033,6033,1,0001705737,Restricted Stock Units
+A,02/23/2021 00:00:00,Kendall-Jones Nicholas J,4,A-Award,--D,10422,10422,2,0001805042,Stock Options (Right to Buy)
+A,02/23/2021 00:00:00,Kendall-Jones Nicholas J,4,A-Award,--D,4113,4113,1,0001805042,Restricted Stock Units
+A,02/23/2021 00:00:00,Centoni Elizabeth,4,A-Award,--D,3839,3839,1,0001762289,Restricted Stock Units
+D,02/22/2021 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,1365,2730,6,0001804965,Restricted Stock Units
+D,02/22/2021 00:00:00,Abbaszadeh Sia,4,F-InKind,--D,642,18171,4,0001804965,Common Stock
+A,02/22/2021 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,1365,18813,3,0001804965,Common Stock
+D,02/22/2021 00:00:00,Kini Vikram,4,M-Exempt,--D,1560,3119,7,0001815604,Restricted Stock Units
+D,02/22/2021 00:00:00,Kini Vikram,4,F-InKind,--D,582,12184,4,0001815604,Common Stock
+A,02/22/2021 00:00:00,Kini Vikram,4,M-Exempt,--D,1560,12766,3,0001815604,Common Stock
+D,02/22/2021 00:00:00,Reynal Vicente,4,F-InKind,--D,6849,53764,3,0001705738,Common Stock
+D,02/22/2021 00:00:00,Scheske Michael J,4,M-Exempt,--D,418,1671,7,0001757427,Restricted Stock Units
+D,02/22/2021 00:00:00,Scheske Michael J,4,F-InKind,--D,131,4322,4,0001757427,Common Stock
+A,02/22/2021 00:00:00,Scheske Michael J,4,M-Exempt,--D,418,4453,3,0001757427,Common Stock
+D,02/22/2021 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,782,16777,3,0001705737,Common Stock
+D,02/22/2021 00:00:00,Gillespie Gary E,4,M-Exempt,--D,1755,3509,6,0001805045,Restricted Stock Units
+D,02/22/2021 00:00:00,Gillespie Gary E,4,F-InKind,--D,608,17655,4,0001805045,Common Stock
+A,02/22/2021 00:00:00,Gillespie Gary E,4,M-Exempt,--D,1755,18263,3,0001805045,Common Stock
+D,02/22/2021 00:00:00,Schiesl Andrew R,4,F-InKind,--D,823,103621,3,0001495366,Common Stock
+D,02/21/2021 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,2080,4159,5,0001804965,Restricted Stock Units
+D,02/21/2021 00:00:00,Abbaszadeh Sia,4,F-InKind,--D,978,17448,2,0001804965,Common Stock
+A,02/21/2021 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,2080,18426,1,0001804965,Common Stock
+D,02/21/2021 00:00:00,Kini Vikram,4,M-Exempt,--D,1849,3697,6,0001815604,Restricted Stock Units
+D,02/21/2021 00:00:00,Kini Vikram,4,F-InKind,--D,580,11206,2,0001815604,Common Stock
+A,02/21/2021 00:00:00,Kini Vikram,4,M-Exempt,--D,1849,11786,1,0001815604,Common Stock
+D,02/21/2021 00:00:00,Reynal Vicente,4,M-Exempt,--D,20102,40204,7,0001705738,Restricted Stock Units
+D,02/21/2021 00:00:00,Reynal Vicente,4,F-InKind,--D,6277,60613,2,0001705738,Common Stock
+A,02/21/2021 00:00:00,Reynal Vicente,4,M-Exempt,--D,20102,66890,1,0001705738,Common Stock
+D,02/21/2021 00:00:00,Scheske Michael J,4,M-Exempt,--D,924,3657,6,0001757427,Restricted Stock Units
+D,02/21/2021 00:00:00,Scheske Michael J,4,F-InKind,--D,287,4035,2,0001757427,Common Stock
+A,02/21/2021 00:00:00,Scheske Michael J,4,M-Exempt,--D,924,4322,1,0001757427,Common Stock
+D,02/21/2021 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2311,4621,5,0001705737,Restricted Stock Units
+D,02/21/2021 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,813,17559,2,0001705737,Common Stock
+A,02/21/2021 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2311,18372,1,0001705737,Common Stock
+D,02/21/2021 00:00:00,Gillespie Gary E,4,M-Exempt,--D,2195,4390,5,0001805045,Restricted Stock Units
+D,02/21/2021 00:00:00,Gillespie Gary E,4,F-InKind,--D,642,16508,2,0001805045,Common Stock
+A,02/21/2021 00:00:00,Gillespie Gary E,4,M-Exempt,--D,2195,17150,1,0001805045,Common Stock
+D,02/21/2021 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1618,3235,3,0001767790,Restricted Stock Units
+D,02/21/2021 00:00:00,Weatherred Michael A,4,F-InKind,--D,560,3565,2,0001767790,Common Stock
+A,02/21/2021 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1618,4125,1,0001767790,Common Stock
+D,02/21/2021 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,3350,6701,4,0001495366,Restricted Stock Units
+D,02/21/2021 00:00:00,Schiesl Andrew R,4,F-InKind,--D,1096,104444,2,0001495366,Common Stock
+A,02/21/2021 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,3350,105540,1,0001495366,Common Stock
+A,02/18/2021 00:00:00,Kini Vikram,4,A-Award,--D,1414,14132,5,0001815604,Stock Options (Right to Buy)
+A,02/18/2021 00:00:00,Scheske Michael J,4,A-Award,--D,1743,10457,5,0001757427,Stock Options (Right to Buy)
+A,02/18/2021 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,13608,136072,4,0001705737,Stock Options (Right to Buy)
+D,02/06/2021 00:00:00,Wagner Mark Christopher,4,F-InKind,--D,871,5183,2,0001805044,Common Stock
+D,02/06/2021 00:00:00,Mundy James Craig,4,F-InKind,--D,327,14960,2,0001805047,Common Stock
+D,02/05/2021 00:00:00,Wagner Mark Christopher,4,F-InKind,--D,773,6054,1,0001805044,Common Stock
+D,02/05/2021 00:00:00,Mundy James Craig,4,F-InKind,--D,305,15287,1,0001805047,Common Stock
+D,01/07/2021 00:00:00,Scheske Michael J,4,M-Exempt,--D,1205,8714,2,0001757427,Stock Options (Right to Buy)
+A,01/07/2021 00:00:00,Scheske Michael J,4,M-Exempt,--D,1205,3398,1,0001757427,Common Stock
+D,01/06/2021 00:00:00,Scheske Michael J,4,M-Exempt,--D,2281,9919,8,0001757427,Stock Options (Right to Buy)
+D,01/06/2021 00:00:00,Scheske Michael J,4,S-Sale,--D,2281,2193,5,0001757427,Common Stock
+A,01/06/2021 00:00:00,Scheske Michael J,4,M-Exempt,--D,2281,4474,4,0001757427,Common Stock
+D,01/05/2021 00:00:00,Scheske Michael J,4,M-Exempt,--D,1193,12200,7,0001757427,Stock Options (Right to Buy)
+A,01/05/2021 00:00:00,Scheske Michael J,4,M-Exempt,--D,1193,2193,3,0001757427,Common Stock
+D,01/04/2021 00:00:00,Scheske Michael J,4,M-Exempt,--D,2293,13393,6,0001757427,Stock Options (Right to Buy)
+D,01/04/2021 00:00:00,Scheske Michael J,4,S-Sale,--D,2293,1000,2,0001757427,Common Stock
+A,01/04/2021 00:00:00,Scheske Michael J,4,M-Exempt,--D,2293,3293,1,0001757427,Common Stock
+D,12/31/2020 00:00:00,Mundy James Craig,4,F-InKind,--D,1071,15592,1,0001805047,Common Stock
+D,12/31/2020 00:00:00,Wagner Mark Christopher,4,F-InKind,--D,728,6827,1,0001805044,Common Stock
+D,12/31/2020 00:00:00,Kendall-Jones Nicholas J,4,F-InKind,--D,543,13988,1,0001805042,Common Stock
+D,12/31/2020 00:00:00,WYMAN TODD D,4,F-InKind,--D,11909,257542,2,0001476241,Common Stock
+A,12/31/2020 00:00:00,WYMAN TODD D,4,M-Exempt,--D,1799,275109,1,0001476241,Common Stock
+D,12/09/2020 00:00:00,Reynal Vicente,4,M-Exempt,--D,28680,756974,5,0001705738,Stock Options (Right to Buy)
+D,12/09/2020 00:00:00,Reynal Vicente,4,S-Sale,--D,28680,200018,2,0001705738,Common Stock
+A,12/09/2020 00:00:00,Reynal Vicente,4,M-Exempt,--D,28680,228698,1,0001705738,Common Stock
+D,12/07/2020 00:00:00,Reynal Vicente,4,M-Exempt,--D,1320,785654,5,0001705738,Stock Options (Right to Buy)
+D,12/07/2020 00:00:00,Reynal Vicente,4,S-Sale,--D,1320,200018,2,0001705738,Common Stock
+A,12/07/2020 00:00:00,Reynal Vicente,4,M-Exempt,--D,1320,201338,1,0001705738,Common Stock
+D,11/10/2020 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,54429,68035,3,0001705737,Stock Options (Right to Buy)
+D,11/10/2020 00:00:00,Minarro Viseras Enrique,4,S-Sale,--D,54429,16061,2,0001705737,Common Stock
+A,11/10/2020 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,54429,70490,1,0001705737,Common Stock
+D,11/09/2020 00:00:00,Scheske Michael J,4,M-Exempt,--D,7683,0,3,0001757427,Stock Options (Right to Buy)
+D,11/09/2020 00:00:00,Scheske Michael J,4,S-Sale,--D,7683,1000,2,0001757427,Common Stock
+A,11/09/2020 00:00:00,Scheske Michael J,4,M-Exempt,--D,7683,8683,1,0001757427,Common Stock
+D,11/06/2020 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,215289,0,3,0001495366,Stock Options (Right to Buy)
+D,11/06/2020 00:00:00,Schiesl Andrew R,4,S-Sale,--D,125065,102190,2,0001495366,Common Stock
+A,11/06/2020 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,215289,227255,1,0001495366,Common Stock
+D,11/05/2020 00:00:00,Reynal Vicente,4,M-Exempt,--D,30000,786974,5,0001705738,Stock Options (Right to Buy)
+D,11/05/2020 00:00:00,Reynal Vicente,4,S-Sale,--D,30000,200018,2,0001705738,Common Stock
+A,11/05/2020 00:00:00,Reynal Vicente,4,M-Exempt,--D,30000,230018,1,0001705738,Common Stock
+D,10/14/2020 00:00:00,Reynal Vicente,4,M-Exempt,--D,30000,816974,5,0001705738,Stock Options (Right to Buy)
+D,10/14/2020 00:00:00,Reynal Vicente,4,S-Sale,--D,30000,200018,2,0001705738,Common Stock
+A,10/14/2020 00:00:00,Reynal Vicente,4,M-Exempt,--D,30000,230018,1,0001705738,Common Stock
+D,09/11/2020 00:00:00,Reynal Vicente,4,M-Exempt,--D,30000,846974,5,0001705738,Stock Options (Right to Buy)
+D,09/11/2020 00:00:00,Reynal Vicente,4,S-Sale,--D,30000,200018,2,0001705738,Common Stock
+A,09/11/2020 00:00:00,Reynal Vicente,4,M-Exempt,--D,30000,230018,1,0001705738,Common Stock
+D,09/11/2020 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2387,4775,3,0001705737,Restricted Stock Units
+D,09/11/2020 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,1075,16061,2,0001705737,Common Stock
+A,09/11/2020 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2387,17136,1,0001705737,Common Stock
+D,09/11/2020 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,478,955,3,0001804965,Restricted Stock Units
+D,09/11/2020 00:00:00,Abbaszadeh Sia,4,F-InKind,--D,225,16346,2,0001804965,Common Stock
+A,09/11/2020 00:00:00,Abbaszadeh Sia,4,M-Exempt,--D,478,16571,1,0001804965,Common Stock
+D,08/20/2020 00:00:00,Scheske Michael J,4,M-Exempt,--D,12805,7683,3,0001757427,Stock Options (Right to Buy)
+D,08/20/2020 00:00:00,Scheske Michael J,4,S-Sale,--D,12805,1000,2,0001757427,Common Stock
+A,08/20/2020 00:00:00,Scheske Michael J,4,M-Exempt,--D,12805,13805,1,0001757427,Common Stock
+D,08/12/2020 00:00:00,Scheske Michael J,4,S-Sale,--D,911,1000,1,0001757427,Common Stock
+D,08/11/2020 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,64682,215289,7,0001495366,Stock Options (Right to Buy)
+D,08/11/2020 00:00:00,Schiesl Andrew R,4,S-Sale,--D,64682,11966,5,0001495366,Common Stock
+A,08/11/2020 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,64682,76648,4,0001495366,Common Stock
+D,08/10/2020 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,43121,279971,6,0001495366,Stock Options (Right to Buy)
+D,08/10/2020 00:00:00,Schiesl Andrew R,4,S-Sale,--D,981,11966,3,0001495366,Common Stock
+D,08/10/2020 00:00:00,Schiesl Andrew R,4,S-Sale,--D,42140,12947,2,0001495366,Common Stock
+A,08/10/2020 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,43121,55087,1,0001495366,Common Stock
+D,08/06/2020 00:00:00,Reynal Vicente,4,S-Sale,--I,2500,22500,1,0001705738,Common Stock
+D,07/15/2020 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,43121,323092,3,0001495366,Stock Options (Right to Buy)
+D,07/15/2020 00:00:00,Schiesl Andrew R,4,S-Sale,--D,43121,11966,2,0001495366,Common Stock
+A,07/15/2020 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,43121,55087,1,0001495366,Common Stock
+A,06/30/2020 00:00:00,Kini Vikram,4,A-Award,--D,13321,13321,2,0001815604,Stock Options (Right to Buy)
+A,06/30/2020 00:00:00,Kini Vikram,4,A-Award,--D,5334,5334,1,0001815604,Restricted Stock Units
+D,06/19/2020 00:00:00,KKR Group Partnership L.P.,4,S-Sale,--I,12100000,44788635,1,0001472698,Common Stock
+D,06/19/2020 00:00:00,KKR Renaissance Aggregator L.P.,4,S-Sale,--I,12100000,44788635,1,0001705425,Common Stock
+A,06/09/2020 00:00:00,Reynal Vicente,5,G-Gift,--I,66013,153230,8,0001705738,Common Stock
+D,06/09/2020 00:00:00,Reynal Vicente,5,G-Gift,--D,66013,46788,7,0001705738,Common Stock
+A,06/08/2020 00:00:00,Reynal Vicente,5,G-Gift,--I,75000,75000,6,0001705738,Common Stock
+D,06/08/2020 00:00:00,Reynal Vicente,5,G-Gift,--I,75000,0,5,0001705738,Common Stock
+A,06/08/2020 00:00:00,Reynal Vicente,5,G-Gift,--I,66013,87217,4,0001705738,Common Stock
+D,06/08/2020 00:00:00,Reynal Vicente,5,G-Gift,--D,66013,112801,3,0001705738,Common Stock
+D,06/06/2020 00:00:00,Kendall-Jones Nicholas J,4,F-InKind,--D,406,14531,1,0001805042,Common Stock
+D,06/05/2020 00:00:00,WYMAN TODD D,4,S-Sale,--D,9821,105936,1,0001476241,Common Stock
+D,05/27/2020 00:00:00,KKR Group Partnership L.P.,4,S-Sale,--I,13782500,56888635,1,0001472698,Common Stock
+D,05/27/2020 00:00:00,KKR Renaissance Aggregator L.P.,4,S-Sale,--I,13782500,56888635,1,0001705425,Common Stock
+D,05/14/2020 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,65000,366213,3,0001495366,Stock Options (Right to Buy)
+D,05/14/2020 00:00:00,Schiesl Andrew R,4,S-Sale,--D,65000,11966,2,0001495366,Common Stock
+A,05/14/2020 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,65000,76966,1,0001495366,Common Stock
+D,05/14/2020 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1027,2055,3,0001767790,Restricted Stock Units
+D,05/14/2020 00:00:00,Weatherred Michael A,4,F-InKind,--D,328,2507,2,0001767790,Common Stock
+A,05/14/2020 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1027,2835,1,0001767790,Common Stock
+A,03/24/2020 00:00:00,Reynal Vicente,5,G-Gift,--I,21204,21204,2,0001705738,Common Stock
+D,03/24/2020 00:00:00,Reynal Vicente,5,G-Gift,--D,21204,178814,1,0001705738,Common Stock
+A,03/06/2020 00:00:00,Schiesl Andrew R,4,A-Award,--D,24234,24234,3,0001495366,Stock Options (Right to Buy)
+A,03/06/2020 00:00:00,Schiesl Andrew R,4,A-Award,--D,8546,8546,2,0001495366,Restricted Stock Units (2-year vesting RSUs)
+A,03/06/2020 00:00:00,Schiesl Andrew R,4,A-Award,--D,8546,8546,1,0001495366,Restricted Stock Units (4-year vesting RSUs)
+A,03/06/2020 00:00:00,Wagner Mark Christopher,4,A-Award,--D,5102,5102,2,0001805044,Stock Options (Right to Buy)
+A,03/06/2020 00:00:00,Wagner Mark Christopher,4,A-Award,--D,1799,1799,1,0001805044,Restricted Stock Units
+A,03/06/2020 00:00:00,Weatherred Michael A,4,A-Award,--D,17857,17857,3,0001767790,Stock Options (Right to Buy)
+A,03/06/2020 00:00:00,Weatherred Michael A,4,A-Award,--D,6297,6297,2,0001767790,Restricted Stock Units (2-year vesting RSUs)
+A,03/06/2020 00:00:00,Weatherred Michael A,4,A-Award,--D,6297,6297,1,0001767790,Restricted Stock Units (4-year vesting RSUs)
+A,03/06/2020 00:00:00,Weaver Emily A.,4,A-Award,--D,42091,42091,3,0001670835,Stock Options (Right to Buy)
+A,03/06/2020 00:00:00,Weaver Emily A.,4,A-Award,--D,14843,14843,2,0001670835,Restricted Stock Units (2-year vesting RSUs)
+A,03/06/2020 00:00:00,Weaver Emily A.,4,A-Award,--D,14843,14843,1,0001670835,Restricted Stock Units (4-year vesting RSUs)
+A,03/06/2020 00:00:00,WHITE TONY L,4,A-Award,--D,6297,6297,1,0001171315,Restricted Stock Units
+A,03/06/2020 00:00:00,WYMAN TODD D,4,A-Award,--D,20408,20408,2,0001476241,Stock Options (Right to Buy)
+A,03/06/2020 00:00:00,WYMAN TODD D,4,A-Award,--D,7196,7196,1,0001476241,Restricted Stock Units
+A,03/06/2020 00:00:00,Reynal Vicente,4,A-Award,--D,170918,170918,3,0001705738,Stock Options (Right to Buy)
+A,03/06/2020 00:00:00,Reynal Vicente,4,A-Award,--D,60273,60273,2,0001705738,Restricted Stock Units (2-year vesting RSUs)
+A,03/06/2020 00:00:00,Reynal Vicente,4,A-Award,--D,60273,60273,1,0001705738,Restricted Stock Units (4-year vesting RSUs)
+A,03/06/2020 00:00:00,Abbaszadeh Sia,4,A-Award,--D,12755,12755,3,0001804965,Stock Options (Right to Buy)
+A,03/06/2020 00:00:00,Abbaszadeh Sia,4,A-Award,--D,4498,4498,2,0001804965,Restricted Stock Units (2-year vesting RSUs)
+A,03/06/2020 00:00:00,Abbaszadeh Sia,4,A-Award,--D,4498,4498,1,0001804965,Restricted Stock Units (4-year vesting RSUs)
+A,03/06/2020 00:00:00,Jones Marc Ellis,4,A-Award,--D,6297,6297,1,0001762291,Restricted Stock Units
+A,03/06/2020 00:00:00,Arnold Kirk E,4,A-Award,--D,6297,6297,1,0001387796,Restricted Stock Units
+A,03/06/2020 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,25510,25510,3,0001705737,Stock Options (Right to Buy)
+A,03/06/2020 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,8996,8996,2,0001705737,Restricted Stock Units (2-year vesting RSUs)
+A,03/06/2020 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,8996,8996,1,0001705737,Restricted Stock Units (4-year vesting RSUs)
+A,03/06/2020 00:00:00,Humphrey John,4,A-Award,--D,6297,6297,1,0001360547,Restricted Stock Units
+A,03/06/2020 00:00:00,Centoni Elizabeth,4,A-Award,--D,6297,6297,1,0001762289,Restricted Stock Units
+A,03/06/2020 00:00:00,Kendall-Jones Nicholas J,4,A-Award,--D,19132,19132,2,0001805042,Stock Options (Right to Buy)
+A,03/06/2020 00:00:00,Kendall-Jones Nicholas J,4,A-Award,--D,6747,6747,1,0001805042,Restricted Stock Units
+A,03/06/2020 00:00:00,DONNELLY WILLIAM P,4,A-Award,--D,6297,6297,1,0001207928,Restricted Stock Units
+A,03/06/2020 00:00:00,Gillespie Gary E,4,A-Award,--D,12755,12755,3,0001805045,Stock Options (Right to Buy)
+A,03/06/2020 00:00:00,Gillespie Gary E,4,A-Award,--D,4498,4498,2,0001805045,Restricted Stock Units (2-year vesting RSUs)
+A,03/06/2020 00:00:00,Gillespie Gary E,4,A-Award,--D,4498,4498,1,0001805045,Restricted Stock Units (4-year vesting RSUs)
+A,03/06/2020 00:00:00,Forsee Gary D,4,A-Award,--D,6297,6297,1,0001189566,Restricted Stock Units
+A,03/06/2020 00:00:00,Scheske Michael J,4,A-Award,--D,11479,11479,2,0001757427,Stock Options (Right to Buy)
+A,03/06/2020 00:00:00,Scheske Michael J,4,A-Award,--D,4048,4048,1,0001757427,Restricted Stock Units
+A,03/06/2020 00:00:00,Mundy James Craig,4,A-Award,--D,12755,12755,2,0001805047,Stock Options (Right to Buy)
+A,03/06/2020 00:00:00,Mundy James Craig,4,A-Award,--D,4498,4498,1,0001805047,Restricted Stock Units
+A,03/02/2020 00:00:00,Mundy James Craig,4/A,A-Award,--I,3152,3152,2,0001805047,Phantom Stock Units
+A,03/02/2020 00:00:00,Wagner Mark Christopher,4/A,A-Award,--I,2114,2114,2,0001805044,Phantom Stock Units
+A,03/02/2020 00:00:00,WYMAN TODD D,4/A,A-Award,--D,16975,283131,6,0001476241,Common Stock
+A,03/02/2020 00:00:00,WYMAN TODD D,4/A,A-Award,--D,8704,266156,5,0001476241,Common Stock
+A,03/02/2020 00:00:00,WYMAN TODD D,4/A,A-Award,--D,5399,257452,4,0001476241,Common Stock
+A,03/02/2020 00:00:00,WYMAN TODD D,4/A,A-Award,--D,3037,252053,3,0001476241,Common Stock
+A,03/02/2020 00:00:00,Kendall-Jones Nicholas J,4,A-Award,--D,28122,28122,6,0001805042,Stock Options (Right to Buy)
+A,03/02/2020 00:00:00,Kendall-Jones Nicholas J,4,A-Award,--D,21092,21092,5,0001805042,Stock Options (Right to Buy)
+A,03/02/2020 00:00:00,Kendall-Jones Nicholas J,4,A-Award,--D,5162,14937,4,0001805042,Common Stock
+A,03/02/2020 00:00:00,Kendall-Jones Nicholas J,4,A-Award,--D,1570,9775,3,0001805042,Common Stock
+A,03/02/2020 00:00:00,Kendall-Jones Nicholas J,4,A-Award,--D,3517,8205,2,0001805042,Common Stock
+A,03/02/2020 00:00:00,Kendall-Jones Nicholas J,4,A-Award,--D,4688,4688,1,0001805042,Common Stock
+A,03/02/2020 00:00:00,Mundy James Craig,4,A-Award,--I,572,572,8,0001805047,Phantom Stock Units
+A,03/02/2020 00:00:00,Mundy James Craig,4,A-Award,--D,13364,13364,7,0001805047,Stock Options (Right to Buy)
+A,03/02/2020 00:00:00,Mundy James Craig,4,A-Award,--D,7330,7330,6,0001805047,Stock Options (Right to Buy)
+A,03/02/2020 00:00:00,Mundy James Craig,4,A-Award,--D,4667,16663,5,0001805047,Common Stock
+A,03/02/2020 00:00:00,Mundy James Craig,4,A-Award,--D,2395,11996,4,0001805047,Common Stock
+A,03/02/2020 00:00:00,Mundy James Craig,4,A-Award,--D,2229,9601,3,0001805047,Common Stock
+A,03/02/2020 00:00:00,Mundy James Craig,4,A-Award,--D,1195,7372,2,0001805047,Common Stock
+A,03/02/2020 00:00:00,Wagner Mark Christopher,4,A-Award,--I,5511,5511,8,0001805044,Phantom Stock Units
+A,03/02/2020 00:00:00,Wagner Mark Christopher,4,A-Award,--D,9258,9258,7,0001805044,Stock Options (Right to Buy)
+A,03/02/2020 00:00:00,Wagner Mark Christopher,4,A-Award,--D,5331,5331,6,0001805044,Stock Options (Right to Buy)
+A,03/02/2020 00:00:00,Wagner Mark Christopher,4,A-Award,--D,3395,7555,5,0001805044,Common Stock
+A,03/02/2020 00:00:00,Wagner Mark Christopher,4,A-Award,--D,1743,4160,4,0001805044,Common Stock
+A,03/02/2020 00:00:00,Wagner Mark Christopher,4,A-Award,--D,1546,2417,3,0001805044,Common Stock
+A,03/02/2020 00:00:00,Wagner Mark Christopher,4,A-Award,--D,871,871,2,0001805044,Common Stock
+A,03/02/2020 00:00:00,WYMAN TODD D,4,A-Award,--I,7701,7701,9,0001476241,Phantom Stock Units
+A,03/02/2020 00:00:00,WYMAN TODD D,4,A-Award,--D,32396,32396,8,0001476241,Stock Options (Right to Buy)
+A,03/02/2020 00:00:00,WYMAN TODD D,4,A-Award,--D,18653,18653,7,0001476241,Stock Options (Right to Buy)
+A,03/02/2020 00:00:00,WYMAN TODD D,4,A-Award,--D,16975,115757,6,0001476241,Common Stock
+A,03/02/2020 00:00:00,WYMAN TODD D,4,A-Award,--D,8704,98782,5,0001476241,Common Stock
+A,03/02/2020 00:00:00,WYMAN TODD D,4,A-Award,--D,5399,90078,4,0001476241,Common Stock
+A,03/02/2020 00:00:00,WYMAN TODD D,4,A-Award,--D,3037,84679,3,0001476241,Common Stock
+A,02/29/2020 00:00:00,Mundy James Craig,4/A,A-Award,--I,761.2,761.2,1,0001805047,Common Stock
+A,02/29/2020 00:00:00,Wagner Mark Christopher,4/A,A-Award,--I,8311.23,8311.23,1,0001805044,Common Stock
+A,02/29/2020 00:00:00,WYMAN TODD D,4/A,A-Award,--I,4669.48,4669.48,2,0001476241,Common Stock
+A,02/29/2020 00:00:00,WYMAN TODD D,4/A,A-Award,--D,249016,249016,1,0001476241,Common Stock
+A,02/29/2020 00:00:00,Mundy James Craig,4,A-Award,--I,978,978,1,0001805047,Common Stock
+A,02/29/2020 00:00:00,Wagner Mark Christopher,4,A-Award,--I,21674,21674,1,0001805044,Common Stock
+A,02/29/2020 00:00:00,WYMAN TODD D,4,A-Award,--I,5767,5767,2,0001476241,Common Stock
+A,02/29/2020 00:00:00,WYMAN TODD D,4,A-Award,--D,81642,81642,1,0001476241,Common Stock
+A,02/29/2020 00:00:00,WHITE TONY L,4,A-Award,--D,23802,23802,1,0001171315,Common Stock
+A,02/29/2020 00:00:00,Mundy James Craig,4,A-Award,--D,6177,6177,1,0001805047,Common Stock
+A,02/29/2020 00:00:00,Forsee Gary D,4,A-Award,--D,24281,24281,1,0001189566,Common Stock
+A,02/29/2020 00:00:00,Arnold Kirk E,4,A-Award,--D,827,827,1,0001387796,Common Stock
+D,02/22/2020 00:00:00,Scheske Michael J,4,M-Exempt,--D,417,1253,6,0001757427,Restricted Stock Units
+D,02/22/2020 00:00:00,Scheske Michael J,4,F-InKind,--D,134,1911,4,0001757427,Common Stock
+A,02/22/2020 00:00:00,Scheske Michael J,4,M-Exempt,--D,417,2045,3,0001757427,Common Stock
+D,02/22/2020 00:00:00,Schiesl Andrew R,4,F-InKind,--D,839,11966,3,0001495366,Common Stock
+D,02/22/2020 00:00:00,Reynal Vicente,4,F-InKind,--D,5044,200018,3,0001705738,Common Stock
+D,02/22/2020 00:00:00,Rubottom Kimberly J.,4,F-InKind,--D,336,13425,3,0001705739,Common Stock
+D,02/22/2020 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,995,14749,3,0001705737,Common Stock
+D,02/21/2020 00:00:00,Centoni Elizabeth,4,M-Exempt,--D,4621,0,2,0001762289,Restricted Stock Units
+A,02/21/2020 00:00:00,Centoni Elizabeth,4,M-Exempt,--D,4621,4621,1,0001762289,Common Stock
+D,02/21/2020 00:00:00,Humphrey John,4,M-Exempt,--D,4621,0,2,0001360547,Restricted Stock Units
+A,02/21/2020 00:00:00,Humphrey John,4,M-Exempt,--D,4621,8520,1,0001360547,Common Stock
+D,02/21/2020 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1617,4853,6,0001767790,Restricted Stock Units
+D,02/21/2020 00:00:00,Weatherred Michael A,4,F-InKind,--D,515,1808,4,0001767790,Common Stock
+A,02/21/2020 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1617,2323,3,0001767790,Common Stock
+D,02/21/2020 00:00:00,Jones Marc Ellis,4,M-Exempt,--D,4621,0,2,0001762291,Restricted Stock Units
+A,02/21/2020 00:00:00,Jones Marc Ellis,4,M-Exempt,--D,4621,4621,1,0001762291,Common Stock
+D,02/21/2020 00:00:00,Scheske Michael J,4,M-Exempt,--D,924,2773,5,0001757427,Restricted Stock Units
+D,02/21/2020 00:00:00,Scheske Michael J,4,F-InKind,--D,296,1628,2,0001757427,Common Stock
+A,02/21/2020 00:00:00,Scheske Michael J,4,M-Exempt,--D,924,1924,1,0001757427,Common Stock
+D,02/21/2020 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,3350,10051,4,0001495366,Restricted Stock Units
+D,02/21/2020 00:00:00,Schiesl Andrew R,4,F-InKind,--D,1072,12805,2,0001495366,Common Stock
+A,02/21/2020 00:00:00,Schiesl Andrew R,4,M-Exempt,--D,3350,13877,1,0001495366,Common Stock
+D,02/21/2020 00:00:00,KASSLING WILLIAM E,4,M-Exempt,--D,4621,0,3,0001016648,Restricted Stock Units
+A,02/21/2020 00:00:00,KASSLING WILLIAM E,4,M-Exempt,--D,4621,4621,1,0001016648,Common Stock
+D,02/21/2020 00:00:00,Reynal Vicente,4,M-Exempt,--D,20101,60306,6,0001705738,Restricted Stock Units
+D,02/21/2020 00:00:00,Reynal Vicente,4,F-InKind,--D,9448,205062,2,0001705738,Common Stock
+A,02/21/2020 00:00:00,Reynal Vicente,4,M-Exempt,--D,20101,214510,1,0001705738,Common Stock
+D,02/21/2020 00:00:00,DONNELLY WILLIAM P,4,M-Exempt,--D,4621,0,2,0001207928,Restricted Stock Units
+A,02/21/2020 00:00:00,DONNELLY WILLIAM P,4,M-Exempt,--D,4621,47263,1,0001207928,Common Stock
+D,02/21/2020 00:00:00,Marn Michael V.,4,M-Exempt,--D,4621,0,2,0001705736,Restricted Stock Units
+A,02/21/2020 00:00:00,Marn Michael V.,4,M-Exempt,--D,4621,4621,1,0001705736,Common Stock
+D,02/21/2020 00:00:00,Rubottom Kimberly J.,4,M-Exempt,--D,1317,3951,4,0001705739,Restricted Stock Units
+D,02/21/2020 00:00:00,Rubottom Kimberly J.,4,F-InKind,--D,417,13761,2,0001705739,Common Stock
+A,02/21/2020 00:00:00,Rubottom Kimberly J.,4,M-Exempt,--D,1317,14178,1,0001705739,Common Stock
+D,02/21/2020 00:00:00,VANDE STEEG NICKOLAS,4,M-Exempt,--D,4621,0,2,0001021765,Restricted Stock Units
+A,02/21/2020 00:00:00,VANDE STEEG NICKOLAS,4,M-Exempt,--D,4621,181515,1,0001021765,Common Stock
+D,02/21/2020 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2310,6932,4,0001705737,Restricted Stock Units
+D,02/21/2020 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,1169,15744,2,0001705737,Common Stock
+A,02/21/2020 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2310,16913,1,0001705737,Common Stock
+A,02/12/2020 00:00:00,Scheske Michael J,4,A-Award,--D,1743,15686,1,0001757427,Stock Options (Right to Buy)
+A,02/12/2020 00:00:00,Rubottom Kimberly J.,4,A-Award,--D,2355,23552,1,0001705739,Stock Options (Right to Buy)
+A,02/12/2020 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,13607,122464,1,0001705737,Stock Options (Right to Buy)
+A,12/04/2019 00:00:00,Weaver Emily A.,4,A-Award,--D,65789,65789,2,0001670835,Stock Options (Right to Buy)
+A,12/04/2019 00:00:00,Weaver Emily A.,4,A-Award,--D,56171,56171,1,0001670835,Restricted Stock Units
+D,09/11/2019 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2387,7162,3,0001705737,Restricted Stock Units
+D,09/11/2019 00:00:00,Minarro Viseras Enrique,4,F-InKind,--D,1230,14603,2,0001705737,Common Stock
+A,09/11/2019 00:00:00,Minarro Viseras Enrique,4,M-Exempt,--D,2387,15833,1,0001705737,Common Stock
+D,05/14/2019 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1027,3082,5,0001767790,Restricted Stock Units
+D,05/14/2019 00:00:00,Weatherred Michael A,4,S-Sale,--D,321,706,2,0001767790,Common Stock
+A,05/14/2019 00:00:00,Weatherred Michael A,4,M-Exempt,--D,1027,1027,1,0001767790,Common Stock
+A,02/21/2019 00:00:00,DONNELLY WILLIAM P,4,A-Award,--D,4621,4621,1,0001207928,Restricted Stock Units
+A,02/21/2019 00:00:00,Weatherred Michael A,4,A-Award,--D,17713,17713,2,0001767790,Stock Options (Right to Buy)
+A,02/21/2019 00:00:00,Weatherred Michael A,4,A-Award,--D,6470,6470,1,0001767790,Restricted Stock Units
+A,02/21/2019 00:00:00,Scheske Michael J,4,A-Award,--D,10121,10121,2,0001757427,Stock Options (Right to Buy)
+A,02/21/2019 00:00:00,Scheske Michael J,4,A-Award,--D,3697,3697,1,0001757427,Restricted Stock Units
+A,02/21/2019 00:00:00,VANDE STEEG NICKOLAS,4,A-Award,--D,4621,4621,1,0001021765,Restricted Stock Units
+A,02/21/2019 00:00:00,Snyder Neil,4,A-Award,--D,36690,36690,2,0001705740,Stock Options (Right to Buy)
+A,02/21/2019 00:00:00,Snyder Neil,4,A-Award,--D,13401,13401,1,0001705740,Restricted Stock Units
+A,02/21/2019 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,25304,25304,2,0001705737,Stock Options (Right to Buy)
+A,02/21/2019 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,9242,9242,1,0001705737,Restricted Stock Units
+A,02/21/2019 00:00:00,Rubottom Kimberly J.,4,A-Award,--D,14423,14423,2,0001705739,Stock Options (Right to Buy)
+A,02/21/2019 00:00:00,Rubottom Kimberly J.,4,A-Award,--D,5268,5268,1,0001705739,Restricted Stock Units
+A,02/21/2019 00:00:00,Jones Marc Ellis,4,A-Award,--D,4621,4621,1,0001762291,Restricted Stock Units
+A,02/21/2019 00:00:00,Marn Michael V.,4,A-Award,--D,4621,4621,1,0001705736,Restricted Stock Units
+A,02/21/2019 00:00:00,Humphrey John,4,A-Award,--D,4621,4621,1,0001360547,Restricted Stock Units
+A,02/21/2019 00:00:00,Centoni Elizabeth,4,A-Award,--D,4621,4621,1,0001762289,Restricted Stock Units
+A,02/21/2019 00:00:00,Reynal Vicente,4,A-Award,--D,220142,220142,2,0001705738,Stock Options (Right to Buy)
+A,02/21/2019 00:00:00,Reynal Vicente,4,A-Award,--D,80407,80407,1,0001705738,Restricted Stock Units
+A,02/21/2019 00:00:00,Schiesl Andrew R,4,A-Award,--D,36690,36690,2,0001495366,Stock Options (Right to Buy)
+A,02/21/2019 00:00:00,Schiesl Andrew R,4,A-Award,--D,13401,13401,1,0001495366,Restricted Stock Units
+A,02/21/2019 00:00:00,KASSLING WILLIAM E,4,A-Award,--D,4621,4621,1,0001016648,Restricted Stock Units
+A,02/13/2019 00:00:00,Sweeney Mark R,4,A-Award,--D,16157,161564,1,0001557972,Stock Options (Right to Buy)
+A,02/13/2019 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,13607,108857,1,0001705737,Stock Options (Right to Buy)
+A,02/13/2019 00:00:00,Rubottom Kimberly J.,4,A-Award,--D,2355,21197,2,0001705739,Stock Options (Right to Buy)
+A,02/13/2019 00:00:00,Rubottom Kimberly J.,4,A-Award,--D,8458,84576,1,0001705739,Stock Options (Right to Buy)
+A,02/13/2019 00:00:00,Schiesl Andrew R,4,A-Award,--D,39448,431213,1,0001495366,Stock Options (Right to Buy)
+A,02/13/2019 00:00:00,Snyder Neil,4,A-Award,--D,4710,37682,2,0001705740,Stock Options (Right to Buy)
+A,02/13/2019 00:00:00,Snyder Neil,4,A-Award,--D,43905,263431,1,0001705740,Stock Options (Right to Buy)
+A,02/13/2019 00:00:00,Scheske Michael J,4,A-Award,--D,1743,13943,2,0001757427,Stock Options (Right to Buy)
+A,02/13/2019 00:00:00,Scheske Michael J,4,A-Award,--D,2561,20488,1,0001757427,Stock Options (Right to Buy)
+A,02/13/2019 00:00:00,Reynal Vicente,4,A-Award,--D,97567,585403,2,0001705738,Stock Options (Right to Buy)
+A,02/13/2019 00:00:00,Reynal Vicente,4,A-Award,--D,109622,876974,1,0001705738,Stock Options (Right to Buy)
+D,11/02/2018 00:00:00,KKR Fund Holdings L.P.,4,J-Other,--I,50274,70671135,2,0001472698,Common Stock
+D,11/02/2018 00:00:00,KKR Fund Holdings L.P.,4,S-Sale,--I,20000000,70721409,1,0001472698,Common Stock
+D,11/02/2018 00:00:00,STAVROS PETER,4,G-Gift,--D,50274,0,2,0001262899,Common Stock
+A,11/02/2018 00:00:00,STAVROS PETER,4,J-Other,--D,50274,50274,1,0001262899,Common Stock
+D,11/02/2018 00:00:00,KKR Renaissance Aggregator L.P.,4,J-Other,--I,50274,70671135,2,0001705425,Common Stock
+D,11/02/2018 00:00:00,KKR Renaissance Aggregator L.P.,4,S-Sale,--I,20000000,70721409,1,0001705425,Common Stock
+A,09/11/2018 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,22361,22361,2,0001705737,Stock Options (Right to Buy)
+A,09/11/2018 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,9549,9549,1,0001705737,Restricted Stock Units
+D,07/01/2018 00:00:00,KKR Group Ltd,4,J-Other,--I,90721409,0,1,0001472695,Common Stock
+D,05/07/2018 00:00:00,KKR Fund Holdings L.P.,4,S-Sale,--I,30436064,90721409,1,0001472698,Common Stock
+D,05/07/2018 00:00:00,KKR Renaissance Aggregator L.P.,4,S-Sale,--I,30436064,90721409,1,0001705425,Common Stock
+A,02/22/2018 00:00:00,Snyder Neil,4,A-Award,--D,14235,14235,2,0001705740,Stock Options (Right to Buy)
+A,02/22/2018 00:00:00,Snyder Neil,4,A-Award,--D,6238,34499,1,0001705740,Common Stock
+A,02/22/2018 00:00:00,Sweeney Mark R,4,A-Award,--D,9786,9786,2,0001557972,Stock Options (Right to Buy)
+A,02/22/2018 00:00:00,Sweeney Mark R,4,A-Award,--D,4289,28782,1,0001557972,Common Stock
+A,02/22/2018 00:00:00,Reynal Vicente,4,A-Award,--D,142349,142349,4,0001705738,Stock Options (Right to Buy)
+A,02/22/2018 00:00:00,Reynal Vicente,4,A-Award,--D,62383,194409,1,0001705738,Common Stock
+A,02/22/2018 00:00:00,Rubottom Kimberly J.,4,A-Award,--D,9786,9786,2,0001705739,Stock Options (Right to Buy)
+A,02/22/2018 00:00:00,Rubottom Kimberly J.,4,A-Award,--D,4289,12861,1,0001705739,Common Stock
+A,02/22/2018 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,17794,17794,2,0001705737,Stock Options (Right to Buy)
+A,02/22/2018 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,7798,13446,1,0001705737,Common Stock
+A,02/22/2018 00:00:00,Humphrey John,4,A-Award,--D,3899,3899,1,0001360547,Common Stock
+A,02/22/2018 00:00:00,Herndon Philip T.,4,A-Award,--D,35587,35587,2,0001705735,Stock Options (Right to Buy)
+A,02/22/2018 00:00:00,Herndon Philip T.,4,A-Award,--D,15596,185164,1,0001705735,Common Stock
+A,02/22/2018 00:00:00,Schiesl Andrew R,4,A-Award,--D,24021,24021,2,0001495366,Stock Options (Right to Buy)
+A,02/22/2018 00:00:00,Schiesl Andrew R,4,A-Award,--D,10527,10527,1,0001495366,Common Stock
+A,02/07/2018 00:00:00,Sweeney Mark R,4,A-Award,--D,16156,145407,1,0001557972,Stock Options (Right to Buy)
+A,02/07/2018 00:00:00,Minarro Viseras Enrique,4,A-Award,--D,13607,95250,1,0001705737,Stock Options (Right to Buy)
+A,02/07/2018 00:00:00,Schiesl Andrew R,4,A-Award,--D,39447,391765,1,0001495366,Stock Options (Right to Buy)
+A,02/07/2018 00:00:00,Reynal Vicente,4,A-Award,--D,97567,487836,2,0001705738,Stock Options (Right to Buy)
+A,02/07/2018 00:00:00,Reynal Vicente,4,A-Award,--D,109621,767352,1,0001705738,Stock Options (Right to Buy)
+A,02/07/2018 00:00:00,Snyder Neil,4,A-Award,--D,4710,32972,2,0001705740,Stock Options (Right to Buy)
+A,02/07/2018 00:00:00,Snyder Neil,4,A-Award,--D,43905,219526,1,0001705740,Stock Options (Right to Buy)
+A,02/07/2018 00:00:00,Rubottom Kimberly J.,4,A-Award,--D,4710,18842,2,0001705739,Stock Options (Right to Buy)
+A,02/07/2018 00:00:00,Rubottom Kimberly J.,4,A-Award,--D,8457,76118,1,0001705739,Stock Options (Right to Buy)
+A,02/07/2018 00:00:00,Herndon Philip T.,4,A-Award,--D,14130,98914,2,0001705735,Stock Options (Right to Buy)
+A,02/07/2018 00:00:00,Herndon Philip T.,4,A-Award,--D,78054,390269,1,0001705735,Stock Options (Right to Buy)
+D,11/20/2017 00:00:00,KKR Fund Holdings L.P.,4,S-Sale,--I,25250880,121157473,1,0001472698,Common Stock
+D,11/20/2017 00:00:00,KKR Renaissance Aggregator L.P.,4,S-Sale,--I,25250880,121157473,1,0001705425,Common Stock
+A,05/24/2017 00:00:00,DONNELLY WILLIAM P,4,P-Purchase,--D,42642,42642,1,0001207928,Common Stock
+A,05/11/2017 00:00:00,DONNELLY WILLIAM P,4,A-Award,--D,44799,44799,1,0001207928,Stock Options (right to buy)

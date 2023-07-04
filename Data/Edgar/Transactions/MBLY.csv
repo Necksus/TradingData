@@ -1,0 +1,16 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/12/2023 00:00:00,INTEL CORP,4,C-Conversion,--I,38500000,711500000,3,0000050863,Class B Common Stock
+D,06/12/2023 00:00:00,INTEL CORP,4,S-Sale,--I,38500000,0,2,0000050863,Class A Common Stock
+A,06/12/2023 00:00:00,INTEL CORP,4,C-Conversion,--I,38500000,38500000,1,0000050863,Class A Common Stock
+A,10/28/2022 00:00:00,Desheh Eyal,4,P-Purchase,--D,10000,10000,1,0001927506,Class A Common Stock
+A,10/28/2022 00:00:00,McCaskill Claire C.,4,P-Purchase,--D,41000,41000,1,0001927557,Class A Common Stock
+A,10/28/2022 00:00:00,Yeary Frank D,4,P-Purchase,--D,27500,27500,1,0001458902,Class A Common Stock
+A,10/28/2022 00:00:00,GELSINGER PATRICK P,4,P-Purchase,--D,120000,120000,1,0001316331,Class A Common Stock
+A,10/28/2022 00:00:00,Yeboah-Amankwah Safroadu,4,P-Purchase,--D,47519,47519,1,0001928582,Class A Common Stock
+A,10/28/2022 00:00:00,Pambianchi Christine M,4,P-Purchase,--D,70000,70000,1,0001606707,Class A Common Stock
+A,10/28/2022 00:00:00,Shashua Amnon,4,P-Purchase,--D,476191,476191,1,0001629689,Class A Common Stock
+A,10/26/2022 00:00:00,Desheh Eyal,4,A-Award,--D,9523,9523,2,0001927506,Restricted Stock Units
+A,10/26/2022 00:00:00,McCaskill Claire C.,4,A-Award,--D,9523,9523,2,0001927557,Restricted Stock Units
+A,10/26/2022 00:00:00,Yeary Frank D,4,A-Award,--D,9523,9523,2,0001458902,Restricted Stock Units
+A,10/26/2022 00:00:00,Shashua Amnon,4,A-Award,--D,1428571,1428571,3,0001629689,Restricted Stock Units
+A,10/26/2022 00:00:00,Shashua Amnon,4,A-Award,--D,676190,676190,2,0001629689,Restricted Stock Units

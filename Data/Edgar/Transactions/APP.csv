@@ -1,0 +1,292 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/13/2023 00:00:00,Shikin Vasily,4,S-Sale,--D,30000,8672832,1,0001847757,Class A Common Stock
+D,06/13/2023 00:00:00,Harvey Dawson Alyssa,4,S-Sale,--D,5188,13789,1,0001891831,Class A Common Stock
+A,06/07/2023 00:00:00,Georgiadis Mary Margaret Hastings,4,A-Award,--D,10448,40190,1,0001401333,Class A Common Stock
+A,06/07/2023 00:00:00,Sharma Asha,4,A-Award,--D,10448,21491,1,0001837479,Class A Common Stock
+A,06/07/2023 00:00:00,Harvey Dawson Alyssa,4,A-Award,--D,10448,18977,1,0001891831,Class A Common Stock
+A,06/05/2023 00:00:00,Vivas Eduardo,4,G-Gift,--I,44554,126836,2,0001848493,Class A Common Stock
+D,06/05/2023 00:00:00,Vivas Eduardo,4,G-Gift,--D,44554,9561903.249,1,0001848493,Class A Common Stock
+D,06/01/2023 00:00:00,KKR Denali Holdings L.P.,4,J-Other,--I,137723,29644896,2,0001849449,Class A Common Stock
+D,06/01/2023 00:00:00,KKR Denali Holdings L.P.,4,S-Sale,--I,15000000,29782619,1,0001849449,Class A Common Stock
+D,06/01/2023 00:00:00,KKR Group Partnership L.P.,4,G-Gift,--I,6079,0,3,0001472698,Class A Common Stock
+D,06/01/2023 00:00:00,KKR Group Partnership L.P.,4,J-Other,--I,137723,29644896,2,0001472698,Class A Common Stock
+D,06/01/2023 00:00:00,KKR Group Partnership L.P.,4,S-Sale,--I,15000000,29782619,1,0001472698,Class A Common Stock
+D,05/24/2023 00:00:00,Valenzuela Victoria,4,S-Sale,--D,52193,684533,1,0001846998,Class A Common Stock
+D,05/23/2023 00:00:00,Jansen Katie Kihorany,4,S-Sale,--D,52193,1449373,2,0001849844,Class A Common Stock
+D,05/20/2023 00:00:00,Valenzuela Victoria,4,F-InKind,--D,61328,736726,1,0001846998,Class A Common Stock
+D,05/20/2023 00:00:00,Shikin Vasily,4,F-InKind,--D,103508,8702832,1,0001847757,Class A Common Stock
+D,05/20/2023 00:00:00,Jansen Katie Kihorany,4,F-InKind,--D,62973,1501566,1,0001849844,Class A Common Stock
+D,05/20/2023 00:00:00,Foroughi Arash Adam,4,F-InKind,--D,87054,7924394,1,0001848395,Class A Common Stock
+D,05/17/2023 00:00:00,KKR Denali Holdings L.P.,4,S-Sale,--I,15952381,44782619,1,0001849449,Class A Common Stock
+D,05/17/2023 00:00:00,KKR Group Partnership L.P.,4,S-Sale,--I,15952381,44782619,1,0001472698,Class A Common Stock
+D,05/11/2023 00:00:00,Valenzuela Victoria,4,S-Sale,--D,24314,798054,2,0001846998,Class A Common Stock
+D,05/11/2023 00:00:00,Valenzuela Victoria,4,S-Sale,--D,25686,822368,1,0001846998,Class A Common Stock
+D,03/14/2023 00:00:00,Vivas Eduardo,4,G-Gift,--D,324939,9606457.249,1,0001848493,Class A Common Stock
+A,03/13/2023 00:00:00,Shikin Vasily,4,A-Award,--D,6902000,8806340,2,0001847757,Class A Common Stock
+A,03/13/2023 00:00:00,Shikin Vasily,4,A-Award,--D,520472,1904340,1,0001847757,Class A Common Stock
+A,03/13/2023 00:00:00,Foroughi Arash Adam,4,A-Award,--D,6902000,8011448,2,0001848395,Class A Common Stock
+A,03/13/2023 00:00:00,Foroughi Arash Adam,4,A-Award,--D,520472,1109448,1,0001848395,Class A Common Stock
+D,03/07/2023 00:00:00,Valenzuela Victoria,4,S-Sale,--D,65167,848054,1,0001846998,Class A Common Stock
+D,03/06/2023 00:00:00,Jansen Katie Kihorany,4,S-Sale,--D,65155,1564539,1,0001849844,Class A Common Stock
+D,02/20/2023 00:00:00,Shikin Vasily,4,F-InKind,--D,87892,1383868,1,0001847757,Class A Common Stock
+D,02/20/2023 00:00:00,Foroughi Arash Adam,4,F-InKind,--D,72399,588976,1,0001848395,Class A Common Stock
+D,02/20/2023 00:00:00,Jansen Katie Kihorany,4,F-InKind,--D,49723,1629694,1,0001849844,Class A Common Stock
+D,02/20/2023 00:00:00,Valenzuela Victoria,4,F-InKind,--D,48161,913221,1,0001846998,Class A Common Stock
+D,02/13/2023 00:00:00,Valenzuela Victoria,4,S-Sale,--D,25000,961382,1,0001846998,Class A Common Stock
+A,02/03/2023 00:00:00,Jansen Katie Kihorany,4,A-Award,--D,440917,1679417,1,0001849844,Class A Common Stock
+A,02/03/2023 00:00:00,Valenzuela Victoria,4,A-Award,--D,440917,986382,1,0001846998,Class A Common Stock
+A,02/03/2023 00:00:00,Shikin Vasily,4,A-Award,--D,661375,1471760,1,0001847757,Class A Common Stock
+A,02/03/2023 00:00:00,Foroughi Arash Adam,4,A-Award,--D,661375,661375,1,0001848395,Class A Common Stock
+D,12/15/2022 00:00:00,Chen Herald Y,4,M-Exempt,--D,19800,2280201,3,0001348636,Stock Option (Right to Buy)
+A,12/15/2022 00:00:00,Chen Herald Y,4,M-Exempt,--D,19800,80199,1,0001348636,Class A Common Stock
+D,12/12/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,100000,0,10,0001848395,Class A Common Stock
+D,12/12/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,91223,786000,9,0001848395,Class A Common Stock
+D,12/12/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,91223,1536000,8,0001848395,Class A Common Stock
+D,12/12/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,91222,3036000,7,0001848395,Class A Common Stock
+D,12/09/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,124555,877223,6,0001848395,Class A Common Stock
+D,12/09/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,124556,1627223,5,0001848395,Class A Common Stock
+D,12/09/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,124556,3127222,4,0001848395,Class A Common Stock
+D,12/08/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,124556,1001778,3,0001848395,Class A Common Stock
+D,12/08/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,124555,1751779,2,0001848395,Class A Common Stock
+D,12/08/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,124555,3251778,1,0001848395,Class A Common Stock
+D,12/07/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,124555,1126334,18,0001848395,Class A Common Stock
+D,12/07/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,124555,1876334,17,0001848395,Class A Common Stock
+D,12/07/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,124556,3376333,16,0001848395,Class A Common Stock
+D,12/06/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,1117,1250889,15,0001848395,Class A Common Stock
+D,12/06/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,18751,1252006,14,0001848395,Class A Common Stock
+D,12/06/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,104687,1270757,13,0001848395,Class A Common Stock
+D,12/06/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,1118,2000889,12,0001848395,Class A Common Stock
+D,12/06/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,18751,2002007,11,0001848395,Class A Common Stock
+D,12/06/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,104687,2020758,10,0001848395,Class A Common Stock
+D,12/06/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,1118,3500889,9,0001848395,Class A Common Stock
+D,12/06/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,18751,3502007,8,0001848395,Class A Common Stock
+D,12/06/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,104686,3520758,7,0001848395,Class A Common Stock
+D,12/05/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,16710,1375444,6,0001848395,Class A Common Stock
+D,12/05/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,107846,1392154,5,0001848395,Class A Common Stock
+D,12/05/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,16710,2125445,4,0001848395,Class A Common Stock
+D,12/05/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,107845,2142155,3,0001848395,Class A Common Stock
+D,12/05/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,16710,3625444,2,0001848395,Class A Common Stock
+D,12/05/2022 00:00:00,Foroughi Arash Adam,4,S-Sale,--I,107846,3642154,1,0001848395,Class A Common Stock
+D,12/01/2022 00:00:00,Shikin Vasily,4,S-Sale,--D,412858,810385,1,0001847757,Class A Common Stock
+D,11/30/2022 00:00:00,Shikin Vasily,4,S-Sale,--D,111649,1223243,4,0001847757,Class A Common Stock
+D,11/30/2022 00:00:00,Shikin Vasily,4,S-Sale,--D,445558,1334892,3,0001847757,Class A Common Stock
+D,11/29/2022 00:00:00,Shikin Vasily,4,S-Sale,--D,349295,1780450,2,0001847757,Class A Common Stock
+D,11/28/2022 00:00:00,Vivas Eduardo,4,S-Sale,--I,341577,141673,3,0001848493,Class A Common Stock
+D,11/28/2022 00:00:00,Shikin Vasily,4,S-Sale,--D,379088,2129745,1,0001847757,Class A Common Stock
+D,11/25/2022 00:00:00,Jansen Katie Kihorany,4,S-Sale,--D,48562,1238500,1,0001849844,Class A Common Stock
+D,11/23/2022 00:00:00,Vivas Eduardo,4,S-Sale,--D,358423,9931396.249,1,0001848493,Class A Common Stock
+D,11/20/2022 00:00:00,Valenzuela Victoria,4,F-InKind,--D,17290,545465,1,0001846998,Class A Common Stock
+D,11/20/2022 00:00:00,Shikin Vasily,4,F-InKind,--D,113202,2508833,1,0001847757,Class A Common Stock
+D,11/20/2022 00:00:00,Jansen Katie Kihorany,4,F-InKind,--D,26438,1287062,1,0001849844,Class A Common Stock
+D,11/16/2022 00:00:00,Shikin Vasily,4,S-Sale,--D,22500,2622035,1,0001847757,Class A Common Stock
+A,11/11/2022 00:00:00,Vivas Eduardo,4,G-Gift,-EI,402440,483250,2,0001848493,Class A Common Stock
+D,11/11/2022 00:00:00,Vivas Eduardo,4,G-Gift,-ED,402440,10289819.249,1,0001848493,Class A Common Stock
+D,11/01/2022 00:00:00,Foroughi Arash Adam,4,C-Conversion,--I,7500000,847752,7,0001848395,Class B Common Stock
+A,11/01/2022 00:00:00,Foroughi Arash Adam,4,G-Gift,-EI,1500000,1500000,5,0001848395,Class A Common Stock
+A,11/01/2022 00:00:00,Foroughi Arash Adam,4,G-Gift,-EI,2250000,2250000,4,0001848395,Class A Common Stock
+A,11/01/2022 00:00:00,Foroughi Arash Adam,4,G-Gift,-EI,3750000,3750000,3,0001848395,Class A Common Stock
+D,11/01/2022 00:00:00,Foroughi Arash Adam,4,G-Gift,-EI,7500000,0,2,0001848395,Class A Common Stock
+A,11/01/2022 00:00:00,Foroughi Arash Adam,4,C-Conversion,--I,7500000,7500000,1,0001848395,Class A Common Stock
+D,08/24/2022 00:00:00,Shikin Vasily,4,S-Sale,--D,22500,2644535,1,0001847757,Class A Common Stock
+D,08/16/2022 00:00:00,Vivas Eduardo,4,S-Sale,--D,251,10692259.249,8,0001848493,Class A Common Stock
+D,08/16/2022 00:00:00,Vivas Eduardo,4,S-Sale,--D,34757,10692510.249,7,0001848493,Class A Common Stock
+D,08/16/2022 00:00:00,Vivas Eduardo,4,S-Sale,--D,53814,10727267.249,6,0001848493,Class A Common Stock
+D,08/15/2022 00:00:00,Vivas Eduardo,4,S-Sale,--I,1679,82282,5,0001848493,Class A Common Stock
+D,08/15/2022 00:00:00,Vivas Eduardo,4,S-Sale,--I,1649,80810,4,0001848493,Class A Common Stock
+D,08/15/2022 00:00:00,Vivas Eduardo,4,S-Sale,--D,3129,10781081.249,3,0001848493,Class A Common Stock
+D,08/15/2022 00:00:00,Vivas Eduardo,4,S-Sale,--D,12529,10784210.249,2,0001848493,Class A Common Stock
+D,08/15/2022 00:00:00,Vivas Eduardo,4,S-Sale,--D,91104,10796739.249,1,0001848493,Class A Common Stock
+A,06/08/2022 00:00:00,Vivas Eduardo,4,A-Award,--D,5142,10887843.249,1,0001848493,Class A Common Stock
+A,06/08/2022 00:00:00,Harvey Dawson Alyssa,4,A-Award,--D,5142,8529,1,0001891831,Class A Common Stock
+A,06/08/2022 00:00:00,Georgiadis Mary Margaret Hastings,4,A-Award,--D,5142,29742,1,0001401333,Class A Common Stock
+A,06/08/2022 00:00:00,Billings Craig Scott,4,A-Award,--D,5142,5142,1,0001699174,Class A Common Stock
+A,06/08/2022 00:00:00,Sharma Asha,4,A-Award,--D,5142,11043,1,0001837479,Class A Common Stock
+D,05/25/2022 00:00:00,Shikin Vasily,4,S-Sale,--D,800,2667035,4,0001847757,Class A Common Stock
+D,05/25/2022 00:00:00,Shikin Vasily,4,S-Sale,--D,7518,2667835,3,0001847757,Class A Common Stock
+D,05/25/2022 00:00:00,Shikin Vasily,4,S-Sale,--D,12782,2675353,2,0001847757,Class A Common Stock
+D,05/25/2022 00:00:00,Shikin Vasily,4,S-Sale,--D,1400,2688135,1,0001847757,Class A Common Stock
+D,05/20/2022 00:00:00,Jansen Katie Kihorany,4,S-Sale,--D,14991,1313500,2,0001849844,Class A Common Stock
+D,05/19/2022 00:00:00,Jansen Katie Kihorany,4,S-Sale,--D,2009,1328491,1,0001849844,Class A Common Stock
+D,05/16/2022 00:00:00,Valenzuela Victoria,4,S-Sale,--D,22478,562755,2,0001846998,Class A Common Stock
+D,05/16/2022 00:00:00,Valenzuela Victoria,4,S-Sale,--D,67522,585233,1,0001846998,Class A Common Stock
+D,03/02/2022 00:00:00,Shikin Vasily,4,S-Sale,--D,1000,2689535,3,0001847757,Class A Common Stock
+D,03/02/2022 00:00:00,Shikin Vasily,4,S-Sale,--D,4028,2690535,2,0001847757,Class A Common Stock
+D,03/02/2022 00:00:00,Shikin Vasily,4,S-Sale,--D,17472,2694563,1,0001847757,Class A Common Stock
+D,02/22/2022 00:00:00,Jansen Katie Kihorany,4,S-Sale,--D,300,1330500,6,0001849844,Class A Common Stock
+D,02/22/2022 00:00:00,Jansen Katie Kihorany,4,S-Sale,--D,1200,1330800,5,0001849844,Class A Common Stock
+D,02/22/2022 00:00:00,Jansen Katie Kihorany,4,S-Sale,--D,2400,1332000,4,0001849844,Class A Common Stock
+D,02/22/2022 00:00:00,Jansen Katie Kihorany,4,S-Sale,--D,2551,1334400,3,0001849844,Class A Common Stock
+D,02/22/2022 00:00:00,Jansen Katie Kihorany,4,S-Sale,--D,5410,1336951,2,0001849844,Class A Common Stock
+D,02/22/2022 00:00:00,Jansen Katie Kihorany,4,S-Sale,--D,5139,1342361,1,0001849844,Class A Common Stock
+A,12/21/2021 00:00:00,Chen Herald Y,5,G-Gift,--I,30000,330000,2,0001348636,Class B Common Stock
+D,12/21/2021 00:00:00,Chen Herald Y,5,G-Gift,--D,30000,1956059,1,0001348636,Class B Common Stock
+D,12/10/2021 00:00:00,Chen Herald Y,4,M-Exempt,--D,60399,2300001,3,0001348636,Stock Option (right to buy)
+A,12/10/2021 00:00:00,Chen Herald Y,4,M-Exempt,--D,60399,60399,1,0001348636,Class A Common Stock
+D,12/08/2021 00:00:00,Valenzuela Victoria,5,G-Gift,--D,14000,652755,1,0001846998,Class A Common Stock
+D,12/07/2021 00:00:00,Valenzuela Victoria,4,S-Sale,--D,50000,680532,1,0001846998,Class A Common Stock
+D,12/07/2021 00:00:00,Vivas Eduardo,4,S-Sale,--I,20000,82459,2,0001848493,Class A Common Stock
+D,12/07/2021 00:00:00,Vivas Eduardo,4,S-Sale,--I,20000,83961,1,0001848493,Class A Common Stock
+D,12/07/2021 00:00:00,Jansen Katie Kihorany,4,S-Sale,--D,20000,1347500,1,0001849844,Class A Common Stock
+D,12/07/2021 00:00:00,Arutunian Elena,4,S-Sale,--D,100000,462500,1,0001848900,Class A Common Stock
+D,12/07/2021 00:00:00,KKR Denali Holdings L.P.,4,C-Conversion,--I,69145000,38905489,3,0001849449,Class B Common Stock
+D,12/07/2021 00:00:00,KKR Denali Holdings L.P.,4,S-Sale,--I,8410000,60735000,2,0001849449,Class A Common Stock
+A,12/07/2021 00:00:00,KKR Denali Holdings L.P.,4,C-Conversion,--I,69145000,69145000,1,0001849449,Class A Common Stock
+D,12/07/2021 00:00:00,KKR Group Partnership L.P.,4,C-Conversion,--I,69145000,38905489,3,0001472698,Class B Common Stock
+D,12/07/2021 00:00:00,KKR Group Partnership L.P.,4,S-Sale,--I,8410000,60735000,2,0001472698,Class A Common Stock
+A,12/07/2021 00:00:00,KKR Group Partnership L.P.,4,C-Conversion,--I,69145000,69145000,1,0001472698,Class A Common Stock
+D,11/22/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,662,25362775,2,0001853423,Class A Common Stock
+D,11/19/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,88250,25363437,1,0001853423,Class A Common Stock
+D,11/18/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,15286,25451687,5,0001853423,Class A Common Stock
+D,11/18/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,27029,25466973,4,0001853423,Class A Common Stock
+D,11/18/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,95200,25494002,3,0001853423,Class A Common Stock
+D,11/17/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,3900,25589202,2,0001853423,Class A Common Stock
+D,11/17/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,27481,25593102,1,0001853423,Class A Common Stock
+D,11/16/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,15474,25620583,10,0001853423,Class A Common Stock
+D,11/16/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,20351,25636057,9,0001853423,Class A Common Stock
+D,11/16/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,6487,25656408,8,0001853423,Class A Common Stock
+D,11/16/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,18163,25662895,7,0001853423,Class A Common Stock
+D,11/16/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,108499,25681058,6,0001853423,Class A Common Stock
+D,11/16/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,116933,25789557,5,0001853423,Class A Common Stock
+D,11/16/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,45859,25906490,4,0001853423,Class A Common Stock
+D,11/16/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,53274,25952349,3,0001853423,Class A Common Stock
+D,11/16/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,14960,26005623,2,0001853423,Class A Common Stock
+D,11/15/2021 00:00:00,Angel Pride Holdings Ltd,4,S-Sale,--D,1000,26020583,1,0001853423,Class A Common Stock
+D,11/11/2021 00:00:00,Krystynak John,4,S-Sale,--D,29606,23269526,11,0001851189,Class A Common Stock
+D,11/11/2021 00:00:00,Krystynak John,4,S-Sale,--D,22205,23299132,10,0001851189,Class A Common Stock
+D,11/11/2021 00:00:00,Krystynak John,4,S-Sale,--D,22680,23321337,9,0001851189,Class A Common Stock
+D,11/11/2021 00:00:00,Krystynak John,4,S-Sale,--D,71812,23344017,8,0001851189,Class A Common Stock
+D,11/11/2021 00:00:00,Krystynak John,4,S-Sale,--D,83697,23415829,7,0001851189,Class A Common Stock
+D,11/11/2021 00:00:00,Karam Andrew,4,S-Sale,--I,25000,2208985,10,0001851190,Class A Common Stock
+D,11/11/2021 00:00:00,Karam Andrew,4,S-Sale,--D,74537,21269345,9,0001851190,Class A Common Stock
+D,11/11/2021 00:00:00,Karam Andrew,4,S-Sale,--D,50235,21343882,8,0001851190,Class A Common Stock
+D,11/11/2021 00:00:00,Karam Andrew,4,S-Sale,--D,125228,21394117,7,0001851190,Class A Common Stock
+D,11/11/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,65000,2712035,9,0001847757,Class A Common Stock
+D,11/11/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,4888,2777035,8,0001847757,Class A Common Stock
+D,11/11/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,31912,2781923,7,0001847757,Class A Common Stock
+D,11/10/2021 00:00:00,Krystynak John,4,S-Sale,--D,800,23499526,6,0001851189,Class A Common Stock
+D,11/10/2021 00:00:00,Krystynak John,4,S-Sale,--D,2800,23500326,5,0001851189,Class A Common Stock
+D,11/10/2021 00:00:00,Krystynak John,4,S-Sale,--D,7879,23503126,4,0001851189,Class A Common Stock
+D,11/10/2021 00:00:00,Krystynak John,4,S-Sale,--D,5300,23511005,3,0001851189,Class A Common Stock
+D,11/10/2021 00:00:00,Krystynak John,4,S-Sale,--D,7317,23516305,2,0001851189,Class A Common Stock
+D,11/10/2021 00:00:00,Krystynak John,4,S-Sale,--D,9237,23523622,1,0001851189,Class A Common Stock
+D,11/10/2021 00:00:00,Karam Andrew,4,S-Sale,--D,1400,21519345,6,0001851190,Class A Common Stock
+D,11/10/2021 00:00:00,Karam Andrew,4,S-Sale,--D,4523,21520745,5,0001851190,Class A Common Stock
+D,11/10/2021 00:00:00,Karam Andrew,4,S-Sale,--D,12630,21525268,4,0001851190,Class A Common Stock
+D,11/10/2021 00:00:00,Karam Andrew,4,S-Sale,--D,2727,21537898,3,0001851190,Class A Common Stock
+D,11/10/2021 00:00:00,Karam Andrew,4,S-Sale,--D,12571,21540625,2,0001851190,Class A Common Stock
+D,11/10/2021 00:00:00,Karam Andrew,4,S-Sale,--D,7815,21553196,1,0001851190,Class A Common Stock
+D,11/09/2021 00:00:00,Karam Andrew,4,S-Sale,--D,800,21216235,3,0001851190,Class A Common Stock
+D,11/09/2021 00:00:00,Karam Andrew,4,S-Sale,--D,3400,21217035,2,0001851190,Class A Common Stock
+D,11/09/2021 00:00:00,Karam Andrew,4,S-Sale,--D,48910,21220435,1,0001851190,Class A Common Stock
+D,11/09/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,900,2813835,6,0001847757,Class A Common Stock
+D,11/09/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,11057,2814735,5,0001847757,Class A Common Stock
+D,11/09/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,11353,2825792,4,0001847757,Class A Common Stock
+D,11/09/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,4090,2837145,3,0001847757,Class A Common Stock
+D,11/09/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,700,2841235,2,0001847757,Class A Common Stock
+D,11/09/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,2600,2841935,1,0001847757,Class A Common Stock
+A,11/08/2021 00:00:00,Harvey Dawson Alyssa,4,A-Award,--D,3387,3387,1,0001891831,Class A Common Stock
+D,11/08/2021 00:00:00,Karam Andrew,4,S-Sale,--D,29267,21561011,3,0001851190,Class A Common Stock
+D,11/05/2021 00:00:00,Karam Andrew,4,S-Sale,--D,2766,21590278,2,0001851190,Class A Common Stock
+D,11/04/2021 00:00:00,Karam Andrew,4,S-Sale,--D,2800,21593044,1,0001851190,Class A Common Stock
+D,11/03/2021 00:00:00,Karam Andrew,4,S-Sale,--D,37462,21595844,4,0001851190,Class A Common Stock
+D,11/02/2021 00:00:00,Karam Andrew,4,S-Sale,--D,5450,21633306,3,0001851190,Class A Common Stock
+D,11/01/2021 00:00:00,Karam Andrew,4,S-Sale,--D,5540,21638756,2,0001851190,Class A Common Stock
+D,11/01/2021 00:00:00,Karam Andrew,4,S-Sale,--D,38629,21644296,1,0001851190,Class A Common Stock
+D,10/28/2021 00:00:00,Karam Andrew,4,S-Sale,--I,20000,2233985,6,0001851190,Class A Common Stock
+D,10/28/2021 00:00:00,Karam Andrew,4,S-Sale,--D,24976,21682925,5,0001851190,Class A Common Stock
+D,10/27/2021 00:00:00,Krystynak John,4,S-Sale,--D,2061,23532859,4,0001851189,Class A Common Stock
+D,10/27/2021 00:00:00,Krystynak John,4,S-Sale,--D,2705,23534920,3,0001851189,Class A Common Stock
+D,10/27/2021 00:00:00,Krystynak John,4,S-Sale,--D,11188,23537625,2,0001851189,Class A Common Stock
+D,10/27/2021 00:00:00,Krystynak John,4,S-Sale,--D,17379,23548813,1,0001851189,Class A Common Stock
+D,10/27/2021 00:00:00,Karam Andrew,4,S-Sale,--D,2668,21707901,4,0001851190,Class A Common Stock
+D,10/27/2021 00:00:00,Karam Andrew,4,S-Sale,--D,4086,21710569,3,0001851190,Class A Common Stock
+D,10/27/2021 00:00:00,Karam Andrew,4,S-Sale,--D,15403,21714655,2,0001851190,Class A Common Stock
+D,10/27/2021 00:00:00,Karam Andrew,4,S-Sale,--D,19509,21730058,1,0001851190,Class A Common Stock
+D,10/26/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,1550,2844535,3,0001847757,Class A Common Stock
+D,10/26/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,6168,2846085,2,0001847757,Class A Common Stock
+D,10/26/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,14782,2852253,1,0001847757,Class A Common Stock
+D,10/19/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,11140,2867035,2,0001847757,Class A Common Stock
+D,10/19/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,18860,2878175,1,0001847757,Class A Common Stock
+D,10/19/2021 00:00:00,Krystynak John,4,S-Sale,--D,52700,23566192,2,0001851189,Class A Common Stock
+D,10/19/2021 00:00:00,Krystynak John,4,S-Sale,--D,127300,23618892,1,0001851189,Class A Common Stock
+D,10/14/2021 00:00:00,Krystynak John,4,S-Sale,--D,104166,23746192,3,0001851189,Class A Common Stock
+D,10/14/2021 00:00:00,Karam Andrew,4,S-Sale,--D,114200,21749567,1,0001851190,Class A Common Stock
+D,10/13/2021 00:00:00,Krystynak John,4,S-Sale,--D,800,23850358,2,0001851189,Class A Common Stock
+D,10/13/2021 00:00:00,Krystynak John,4,S-Sale,--D,11700,23851158,1,0001851189,Class A Common Stock
+D,10/13/2021 00:00:00,Karam Andrew,4,S-Sale,--D,16666,21863767,4,0001851190,Class A Common Stock
+D,10/12/2021 00:00:00,Karam Andrew,4,S-Sale,--D,10800,21880433,3,0001851190,Class A Common Stock
+D,10/12/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,800,2897035,5,0001847757,Class A Common Stock
+D,10/12/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,8627,2897835,4,0001847757,Class A Common Stock
+D,10/12/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,13073,2906462,3,0001847757,Class A Common Stock
+D,10/08/2021 00:00:00,Karam Andrew,4,S-Sale,--I,1203,2253985,6,0001851190,Class A Common Stock
+D,10/08/2021 00:00:00,Karam Andrew,4,S-Sale,--I,18797,2255188,5,0001851190,Class A Common Stock
+D,10/08/2021 00:00:00,Karam Andrew,4,S-Sale,--D,700,21891233,2,0001851190,Class A Common Stock
+D,10/08/2021 00:00:00,Karam Andrew,4,S-Sale,--D,65964,21891933,1,0001851190,Class A Common Stock
+D,10/07/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,20000,2919535,2,0001847757,Class A Common Stock
+D,10/07/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,6000,2939535,1,0001847757,Class A Common Stock
+D,10/07/2021 00:00:00,Krystynak John,4,S-Sale,--D,700,23862858,3,0001851189,Class A Common Stock
+D,10/07/2021 00:00:00,Krystynak John,4,S-Sale,--D,3000,23863558,2,0001851189,Class A Common Stock
+D,10/07/2021 00:00:00,Krystynak John,4,S-Sale,--D,16798,23866558,1,0001851189,Class A Common Stock
+D,09/28/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,400,2945535,4,0001847757,Class A Common Stock
+D,09/28/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,2856,2945935,3,0001847757,Class A Common Stock
+D,09/28/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,13244,2948791,2,0001847757,Class A Common Stock
+D,09/24/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,10700,2962035,1,0001847757,Class A Common Stock
+D,09/24/2021 00:00:00,Krystynak John,4,S-Sale,--D,16702,23883356,1,0001851189,Class A Common Stock
+D,09/14/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,2933,2980035,3,0001847757,Class A Common Stock
+D,09/14/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,11267,2982968,2,0001847757,Class A Common Stock
+D,09/14/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,2300,2994235,1,0001847757,Class A Common Stock
+D,09/10/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,7300,2972735,1,0001847757,Class A Common Stock
+D,09/10/2021 00:00:00,Krystynak John,4,S-Sale,--D,12800,23900058,1,0001851189,Class A Common Stock
+D,09/02/2021 00:00:00,Jansen Katie Kihorany,4,S-Sale,--I,68527,6086,3,0001849844,Class A Common Stock
+D,09/01/2021 00:00:00,Jansen Katie Kihorany,4,S-Sale,--I,2595,74613,2,0001849844,Class A Common Stock
+D,09/01/2021 00:00:00,Jansen Katie Kihorany,4,S-Sale,--I,32405,77208,1,0001849844,Class A Common Stock
+D,08/31/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,955,2996535,4,0001847757,Class A Common Stock
+D,08/31/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,4902,2997490,3,0001847757,Class A Common Stock
+D,08/31/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,3676,3002392,2,0001847757,Class A Common Stock
+D,08/31/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,6967,3006068,1,0001847757,Class A Common Stock
+D,08/24/2021 00:00:00,Jansen Katie Kihorany,4,S-Sale,--I,25473,109613,1,0001849844,Class A Common Stock
+D,08/23/2021 00:00:00,Jansen Katie Kihorany,4,S-Sale,--I,1930,135086,4,0001849844,Class A Common Stock
+D,08/20/2021 00:00:00,Jansen Katie Kihorany,4,S-Sale,--D,5000,1367500,3,0001849844,Class A Common Stock
+D,08/20/2021 00:00:00,Jansen Katie Kihorany,4,S-Sale,--D,35764,1372500,2,0001849844,Class A Common Stock
+D,08/20/2021 00:00:00,Jansen Katie Kihorany,4,S-Sale,--D,9236,1408264,1,0001849844,Class A Common Stock
+D,08/19/2021 00:00:00,Krystynak John,4,S-Sale,--D,11957,23912858,3,0001851189,Class A Common Stock
+D,08/19/2021 00:00:00,Krystynak John,4,S-Sale,--D,124904,23924815,2,0001851189,Class A Common Stock
+D,08/18/2021 00:00:00,Krystynak John,4,S-Sale,--D,13139,24049719,1,0001851189,Class A Common Stock
+A,08/17/2021 00:00:00,Chen Herald Y,4,P-Purchase,--I,25000,50000,1,0001348636,Class A Common Stock
+D,08/16/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,6621,3013035,2,0001847757,Class A Common Stock
+D,08/16/2021 00:00:00,Shikin Vasily,4,S-Sale,--D,9879,3019656,1,0001847757,Class A Common Stock
+A,08/10/2021 00:00:00,Sun Cathy,4,A-Award,--D,375000,375000,1,0001847805,Class A Common Stock
+A,08/10/2021 00:00:00,Sharma Asha,4,A-Award,--D,5901,5901,1,0001837479,Class A Common Stock
+A,05/18/2021 00:00:00,Chen Herald Y,4,P-Purchase,--I,10000,25000,2,0001348636,Class A Common Stock
+A,05/18/2021 00:00:00,Foroughi Arash Adam,4,P-Purchase,--I,40000,100000,2,0001848395,Class A Common Stock
+A,05/17/2021 00:00:00,Chen Herald Y,4,P-Purchase,--I,15000,15000,1,0001348636,Class A Common Stock
+A,05/17/2021 00:00:00,Foroughi Arash Adam,4,P-Purchase,--I,60000,60000,1,0001848395,Class A Common Stock
+A,05/17/2021 00:00:00,Vivas Eduardo,4,P-Purchase,--D,16883.249,10882701.249,1,0001848493,Class A Common Stock
+A,05/04/2021 00:00:00,Shikin Vasily,4,A-Award,--D,625000,3029535,1,0001847757,Class A Common Stock
+A,05/04/2021 00:00:00,Jansen Katie Kihorany,4,A-Award,--D,187500,1417500,1,0001849844,Class A Common Stock
+A,05/04/2021 00:00:00,Valenzuela Victoria,4,A-Award,--D,125000,716532,1,0001846998,Class A Common Stock
+A,05/04/2021 00:00:00,Arutunian Elena,4,A-Award,--D,187500,562500,1,0001848900,Class A Common Stock
+D,04/19/2021 00:00:00,KKR Group Partnership L.P.,4,C-Conversion,--I,2500000,108050489,5,0001472698,Class B Common Stock
+A,04/19/2021 00:00:00,KKR Group Partnership L.P.,4,C-Conversion,--I,109090908,110550489,4,0001472698,Class B Common Stock
+D,04/19/2021 00:00:00,KKR Group Partnership L.P.,4,C-Conversion,--I,109090908,0,3,0001472698,Series A Preferred Stock
+D,04/19/2021 00:00:00,KKR Group Partnership L.P.,4,S-Sale,--I,2500000,0,2,0001472698,Class A Common Stock
+A,04/19/2021 00:00:00,KKR Group Partnership L.P.,4,C-Conversion,--I,2500000,2500000,1,0001472698,Class A Common Stock
+D,04/19/2021 00:00:00,KKR Denali Holdings L.P.,4,C-Conversion,--I,2500000,108050489,5,0001849449,Class B Common Stock
+A,04/19/2021 00:00:00,KKR Denali Holdings L.P.,4,C-Conversion,--I,109090908,110550489,4,0001849449,Class B Common Stock
+D,04/19/2021 00:00:00,KKR Denali Holdings L.P.,4,C-Conversion,--I,109090908,0,3,0001849449,Series A Preferred Stock
+D,04/19/2021 00:00:00,KKR Denali Holdings L.P.,4,S-Sale,--I,2500000,0,2,0001849449,Class A Common Stock
+A,04/19/2021 00:00:00,KKR Denali Holdings L.P.,4,C-Conversion,--I,2500000,2500000,1,0001849449,Class A Common Stock
+A,04/19/2021 00:00:00,Billings Craig Scott,4,P-Purchase,--I,202,202,1,0001699174,Class A Common Stock
+D,04/19/2021 00:00:00,Karam Andrew,4,C-Conversion,--D,8100000,0,6,0001851190,Class F Common Stock
+A,04/19/2021 00:00:00,Karam Andrew,4,C-Conversion,--D,8100000,21957897,1,0001851190,Class A Common Stock
+D,04/19/2021 00:00:00,Vivas Eduardo,4,C-Conversion,--I,102459,0,6,0001848493,Class F Common Stock
+D,04/19/2021 00:00:00,Vivas Eduardo,4,C-Conversion,--I,103961,0,5,0001848493,Class F Common Stock
+D,04/19/2021 00:00:00,Vivas Eduardo,4,C-Conversion,--D,10857730,0,4,0001848493,Class F Common Stock
+A,04/19/2021 00:00:00,Vivas Eduardo,4,C-Conversion,--I,102459,102459,3,0001848493,Class A Common Stock
+A,04/19/2021 00:00:00,Vivas Eduardo,4,C-Conversion,--I,103961,103961,2,0001848493,Class A Common Stock
+A,04/19/2021 00:00:00,Vivas Eduardo,4,C-Conversion,--D,10857730,10865818,1,0001848493,Class A Common Stock
+A,04/19/2021 00:00:00,Foroughi Arash Adam,4,C-Conversion,--D,12900000,27936907,2,0001848395,Class B Common Stock
+D,04/19/2021 00:00:00,Foroughi Arash Adam,4,C-Conversion,--D,12900000,0,1,0001848395,Class F Common Stock
+A,04/19/2021 00:00:00,Georgiadis Mary Margaret Hastings,4,P-Purchase,--D,3600,24600,1,0001401333,Class A Common Stock
+D,04/19/2021 00:00:00,Krystynak John,4,C-Conversion,--D,8100000,0,3,0001851189,Class F Common Stock
+A,04/19/2021 00:00:00,Krystynak John,4,C-Conversion,--D,8100000,24062858,1,0001851189,Class A Common Stock

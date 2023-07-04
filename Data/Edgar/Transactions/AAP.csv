@@ -1,0 +1,721 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,06/12/2023 00:00:00,Hilson Joan M,4,A-Award,--D,2466.736,3495.473,1,0001360124,Common Stock
+A,06/12/2023 00:00:00,Torres Sherice,4,A-Award,--D,2466.736,3825.402,1,0001882738,Common Stock
+A,06/12/2023 00:00:00,Pertz Douglas A,4,A-Award,--D,1756.616,17054.633,2,0001065425,Common Stock
+A,06/12/2023 00:00:00,Pertz Douglas A,4,A-Award,--D,2466.736,15298.017,1,0001065425,Common Stock
+A,06/12/2023 00:00:00,Jones Jeffrey J II,4,A-Award,--D,2466.736,9115.403,1,0001546303,Common Stock
+A,06/12/2023 00:00:00,Valdez Arthur L Jr,4,A-Award,--D,2466.736,5015.537,1,0001821687,Common Stock
+A,06/12/2023 00:00:00,Bailo Carla Jean,4,A-Award,--D,2466.736,5417.948,1,0001756088,Common Stock
+A,06/12/2023 00:00:00,Ferraro John Francis,4,A-Award,--D,1868.74,16887.363,2,0001633214,Common Stock
+A,06/12/2023 00:00:00,Ferraro John Francis,4,A-Award,--D,2466.736,15018.623,1,0001633214,Common Stock
+A,06/12/2023 00:00:00,LEE EUGENE I JR,4,A-Award,--D,36104.05,51530.565,1,0001242843,Common Stock
+A,06/12/2023 00:00:00,Pellicciotti William J Jr,4,A-Award,--D,4485,5512,1,0001907915,Common Stock
+A,06/12/2023 00:00:00,Soler Kristen L,4,A-Award,--D,5233,11262,1,0001978823,Common Stock
+A,06/12/2023 00:00:00,Pertz Douglas A,4,P-Purchase,--D,4575,12831.281,2,0001065425,Common Stock
+A,06/09/2023 00:00:00,Hilson Joan M,4,P-Purchase,--I,388,388,1,0001360124,Common Stock
+A,06/09/2023 00:00:00,Pertz Douglas A,4,P-Purchase,--D,1570,8256.281,1,0001065425,Common Stock
+D,06/07/2023 00:00:00,McDonell Jason,4,F-InKind,--D,77,11706,1,0001853335,Common Stock
+A,06/07/2023 00:00:00,Bailo Carla Jean,4,P-Purchase,--I,500,500,1,0001756088,Common Stock
+A,06/07/2023 00:00:00,Ferraro John Francis,4,P-Purchase,--I,1525,1525,1,0001633214,Common Stock
+A,06/07/2023 00:00:00,LEE EUGENE I JR,4,P-Purchase,--I,7635,10760,1,0001242843,Common Stock
+A,06/07/2023 00:00:00,Jones Jeffrey J II,4,P-Purchase,--D,1525,6648.667,1,0001546303,Common Stock
+A,04/28/2023 00:00:00,LEE EUGENE I JR,4,A-Award,--D,145.239,15426.515,1,0001242843,Common Stock
+A,04/28/2023 00:00:00,Ferraro John Francis,4,A-Award,--D,140.978,12551.887,1,0001633214,Common Stock
+A,04/28/2023 00:00:00,Hilson Joan M,4,A-Award,--D,12.147,1028.737,1,0001360124,Common Stock
+A,04/28/2023 00:00:00,Torres Sherice,4,A-Award,--D,16.043,1358.666,1,0001882738,Common Stock
+A,04/28/2023 00:00:00,Valdez Arthur L Jr,4,A-Award,--D,30.187,2548.801,1,0001821687,Common Stock
+A,04/28/2023 00:00:00,TRAVIS NIGEL,4,A-Award,--D,57.11,6082.558,1,0001187789,Common Stock
+A,04/28/2023 00:00:00,Bailo Carla Jean,4,A-Award,--D,30.188,2951.212,1,0001756088,Common Stock
+A,04/28/2023 00:00:00,Jones Jeffrey J II,4,A-Award,--D,59.337,5123.667,1,0001546303,Common Stock
+A,04/28/2023 00:00:00,Pertz Douglas A,4,A-Award,--D,64.834,6686.281,1,0001065425,Common Stock
+D,03/08/2023 00:00:00,Schechtman Natalie,4,F-InKind,--D,147,13812,1,0001675001,Common Stock
+D,03/08/2023 00:00:00,Finley Tammy M,4,F-InKind,--D,100,23334,1,0001595975,Common Stock
+D,03/08/2023 00:00:00,Word Herman L Jr,4,F-InKind,--D,42,9372,1,0001949645,Common Stock
+D,03/08/2023 00:00:00,Shepherd Jeffrey W,4,F-InKind,--D,211,23595,1,0001700153,Common Stock
+D,03/08/2023 00:00:00,Cushing Robert B,4,F-InKind,--D,192,25693,1,0001682727,Common Stock
+D,03/08/2023 00:00:00,McDonell Jason,4,F-InKind,--D,178,11783,1,0001853335,Common Stock
+D,03/08/2023 00:00:00,Greco Thomas,4,F-InKind,--D,1267,189924,1,0001530813,Common Stock
+A,03/06/2023 00:00:00,Cushing Robert B,4,A-Award,--D,7067,11698,2,0001682727,Stock Option (right to buy)
+A,03/06/2023 00:00:00,Cushing Robert B,4,A-Award,--D,1850,25885,1,0001682727,Common Stock
+A,03/06/2023 00:00:00,McDonell Jason,4,A-Award,--D,8832,13001,2,0001853335,Stock Option (right to buy)
+A,03/06/2023 00:00:00,McDonell Jason,4,A-Award,--D,2313,11961,1,0001853335,Common Stock
+A,03/06/2023 00:00:00,Pellicciotti William J Jr,4,A-Award,--D,2472,4093,2,0001907915,Stock Option (right to buy)
+A,03/06/2023 00:00:00,Pellicciotti William J Jr,4,A-Award,--D,648,1027,1,0001907915,Common Stock
+A,03/06/2023 00:00:00,Word Herman L Jr,4,A-Award,--D,8126,9980,2,0001949645,Stock Option (right to buy)
+A,03/06/2023 00:00:00,Word Herman L Jr,4,A-Award,--D,2128,9414,1,0001949645,Common Stock
+A,03/06/2023 00:00:00,Finley Tammy M,4,A-Award,--D,7774,11248,2,0001595975,Stock Option (right to buy)
+A,03/06/2023 00:00:00,Finley Tammy M,4,A-Award,--D,2035,23434,1,0001595975,Common Stock
+A,03/06/2023 00:00:00,Schechtman Natalie,4,A-Award,--D,7774,11248,2,0001675001,Stock Option (right to buy)
+A,03/06/2023 00:00:00,Schechtman Natalie,4,A-Award,--D,2035,13959,1,0001675001,Common Stock
+A,03/06/2023 00:00:00,Shepherd Jeffrey W,4,A-Award,--D,13428,20841,2,0001700153,Stock Option (right to buy)
+A,03/06/2023 00:00:00,Shepherd Jeffrey W,4,A-Award,--D,3515,23806,1,0001700153,Common Stock
+A,03/06/2023 00:00:00,Stephen Szilagyi J,4,A-Award,--D,5654,5654,2,0001349990,Stock Option (right to buy)
+A,03/06/2023 00:00:00,Stephen Szilagyi J,4,A-Award,--D,1480,1480,1,0001349990,Common Stock
+D,03/02/2023 00:00:00,Word Herman L Jr,4,F-InKind,--D,66,7286,3,0001949645,Common Stock
+D,03/02/2023 00:00:00,Word Herman L Jr,4,F-InKind,--D,570,7352,2,0001949645,Common Stock
+A,03/02/2023 00:00:00,Word Herman L Jr,4,M-Exempt,--D,1949,7922,1,0001949645,Common Stock
+D,03/02/2023 00:00:00,Shepherd Jeffrey W,4,F-InKind,--D,222,20291,3,0001700153,Common Stock
+D,03/02/2023 00:00:00,Shepherd Jeffrey W,4,F-InKind,--D,2147,20513,2,0001700153,Common Stock
+A,03/02/2023 00:00:00,Shepherd Jeffrey W,4,M-Exempt,--D,5843,22660,1,0001700153,Common Stock
+D,03/02/2023 00:00:00,Schechtman Natalie,4,F-InKind,--D,154,11924,3,0001675001,Common Stock
+D,03/02/2023 00:00:00,Schechtman Natalie,4,F-InKind,--D,1327,12078,2,0001675001,Common Stock
+A,03/02/2023 00:00:00,Schechtman Natalie,4,M-Exempt,--D,4544,13405,1,0001675001,Common Stock
+D,03/02/2023 00:00:00,McDonell Jason,4,F-InKind,--D,187,9648,3,0001853335,Common Stock
+D,03/02/2023 00:00:00,McDonell Jason,4,F-InKind,--D,1759,9835,2,0001853335,Common Stock
+A,03/02/2023 00:00:00,McDonell Jason,4,M-Exempt,--D,5519,11594,1,0001853335,Common Stock
+D,03/02/2023 00:00:00,Cushing Robert B,4,F-InKind,--D,227,24035,3,0001682727,Common Stock
+D,03/02/2023 00:00:00,Cushing Robert B,4,F-InKind,--D,2340,24262,2,0001682727,Common Stock
+A,03/02/2023 00:00:00,Cushing Robert B,4,M-Exempt,--D,6494,26602,1,0001682727,Common Stock
+D,03/02/2023 00:00:00,Finley Tammy M,4,F-InKind,--D,137,21399,3,0001595975,Common Stock
+D,03/02/2023 00:00:00,Finley Tammy M,4,F-InKind,--D,1173,21536,2,0001595975,Common Stock
+A,03/02/2023 00:00:00,Finley Tammy M,4,M-Exempt,--D,3897,22709,1,0001595975,Common Stock
+D,03/02/2023 00:00:00,Greco Thomas,4,F-InKind,--D,1849,191191,3,0001530813,Common Stock
+D,03/02/2023 00:00:00,Greco Thomas,4,F-InKind,--D,15961,193040,2,0001530813,Common Stock
+A,03/02/2023 00:00:00,Greco Thomas,4,M-Exempt,--D,35705,209001,1,0001530813,Common Stock
+D,02/28/2023 00:00:00,Word Herman L Jr,4,F-InKind,--D,57,5973,1,0001949645,Common Stock
+D,02/28/2023 00:00:00,Pellicciotti William J Jr,4,F-InKind,--D,49,379,1,0001907915,Common Stock
+D,02/28/2023 00:00:00,Finley Tammy M,4,F-InKind,--D,108,18812,1,0001595975,Common Stock
+D,02/28/2023 00:00:00,Greco Thomas,4,F-InKind,--D,1193,173296,1,0001530813,Common Stock
+D,02/28/2023 00:00:00,Cushing Robert B,4,F-InKind,--D,145,20108,1,0001682727,Common Stock
+D,02/28/2023 00:00:00,Shepherd Jeffrey W,4,F-InKind,--D,240,16817,1,0001700153,Common Stock
+D,02/28/2023 00:00:00,Schechtman Natalie,4,F-InKind,--D,106,8861,1,0001675001,Common Stock
+D,02/28/2023 00:00:00,McDonell Jason,4,F-InKind,--D,127,6075,1,0001853335,Common Stock
+D,02/22/2023 00:00:00,Word Herman L Jr,4,F-InKind,--D,172,6041.79,1,0001949645,Common Stock
+A,01/03/2023 00:00:00,Valdez Arthur L Jr,4,A-Award,--D,24.761,2518.614,1,0001821687,Common Stock
+A,01/03/2023 00:00:00,TRAVIS NIGEL,4,A-Award,--D,46.844,6025.448,1,0001187789,Common Stock
+A,01/03/2023 00:00:00,Torres Sherice,4,A-Award,--D,13.159,1342.623,1,0001882738,Common Stock
+A,01/03/2023 00:00:00,Slone Reuben E,4,A-Award,--D,43.442,15584.385,1,0001518692,Common Stock
+A,01/03/2023 00:00:00,Pertz Douglas A,4,A-Award,--D,53.18,6621.447,1,0001065425,Common Stock
+A,01/03/2023 00:00:00,LEE EUGENE I JR,4,A-Award,--D,119.131,15281.276,1,0001242843,Common Stock
+A,01/03/2023 00:00:00,Jones Jeffrey J II,4,A-Award,--D,48.671,5064.33,1,0001546303,Common Stock
+A,01/03/2023 00:00:00,Hilson Joan M,4,A-Award,--D,9.964,1016.59,1,0001360124,Common Stock
+A,01/03/2023 00:00:00,Ferraro John Francis,4,A-Award,--D,115.637,12410.909,1,0001633214,Common Stock
+A,01/03/2023 00:00:00,Bailo Carla Jean,4,A-Award,--D,24.761,2921.024,1,0001756088,Common Stock
+A,11/21/2022 00:00:00,Word Herman L Jr,4,A-Award,--D,3373,6202,1,0001949645,Common Stock
+A,09/30/2022 00:00:00,Valdez Arthur L Jr,4,A-Award,--D,23.773,2493.853,1,0001821687,Common Stock
+A,09/30/2022 00:00:00,TRAVIS NIGEL,4,A-Award,--D,44.974,5978.604,1,0001187789,Common Stock
+A,09/30/2022 00:00:00,Torres Sherice,4,A-Award,--D,12.634,1329.464,1,0001882738,Common Stock
+A,09/30/2022 00:00:00,Slone Reuben E,4,A-Award,--D,41.708,15614.859,2,0001518692,Common Stock
+A,09/30/2022 00:00:00,Pertz Douglas A,4,A-Award,--D,51.057,6568.267,1,0001065425,Common Stock
+A,09/30/2022 00:00:00,LEE EUGENE I JR,4,A-Award,--D,114.375,15162.145,1,0001242843,Common Stock
+A,09/30/2022 00:00:00,Jones Jeffrey J II,4,A-Award,--D,46.729,5015.659,1,0001546303,Common Stock
+A,09/30/2022 00:00:00,Hilson Joan M,4,A-Award,--D,9.566,1006.626,1,0001360124,Common Stock
+A,09/30/2022 00:00:00,Ferraro John Francis,4,A-Award,--D,111.022,12295.272,1,0001633214,Common Stock
+A,09/30/2022 00:00:00,Bailo Carla Jean,4,A-Award,--D,23.773,2896.263,1,0001756088,Common Stock
+D,08/24/2022 00:00:00,Creedon Michael C Jr,4,F-InKind,--D,472,8090,1,0001853258,Common Stock
+D,08/19/2022 00:00:00,McDonell Jason,4,F-InKind,--D,435,6202,1,0001853335,Common Stock
+A,07/01/2022 00:00:00,Slone Reuben E,4,A-Award,--D,37.231,15573.151,1,0001518692,Common Stock
+A,07/01/2022 00:00:00,Bailo Carla Jean,4,A-Award,--D,21.22,2872.49,1,0001756088,Common Stock
+A,07/01/2022 00:00:00,Torres Sherice,4,A-Award,--D,11.28,1316.83,1,0001882738,Common Stock
+A,07/01/2022 00:00:00,LEE EUGENE I JR,4,A-Award,--D,102.1,15047.77,1,0001242843,Common Stock
+A,07/01/2022 00:00:00,TRAVIS NIGEL,4,A-Award,--D,40.15,5933.63,1,0001187789,Common Stock
+A,07/01/2022 00:00:00,Pertz Douglas A,4,A-Award,--D,45.58,6517.21,1,0001065425,Common Stock
+A,07/01/2022 00:00:00,Ferraro John Francis,4,A-Award,--D,99.1,12184.25,1,0001633214,Common Stock
+A,07/01/2022 00:00:00,Valdez Arthur L Jr,4,A-Award,--D,21.22,2470.08,1,0001821687,Common Stock
+A,07/01/2022 00:00:00,Jones Jeffrey J II,4,A-Award,--D,41.71,4968.93,1,0001546303,Common Stock
+A,07/01/2022 00:00:00,Hilson Joan M,4,A-Award,--D,8.54,997.06,1,0001360124,Common Stock
+D,06/07/2022 00:00:00,McDonell Jason,4,F-InKind,--D,77,6637,1,0001853335,Common Stock
+D,06/07/2022 00:00:00,Creedon Michael C Jr,4,F-InKind,--D,231,8562,1,0001853258,Common Stock
+D,06/07/2022 00:00:00,Cushing Robert B,4,F-InKind,--D,293,20253,1,0001682727,Common Stock
+A,05/30/2022 00:00:00,Valdez Arthur L Jr,4,A-Award,--D,854.7,2448.86,1,0001821687,Common Stock
+A,05/30/2022 00:00:00,Hilson Joan M,4,A-Award,--D,988.52,988.52,1,0001360124,Common Stock
+A,05/30/2022 00:00:00,Ferraro John Francis,4,A-Award,--D,854.7,12085.15,1,0001633214,Common Stock
+A,05/30/2022 00:00:00,Jones Jeffrey J II,4,A-Award,--D,854.7,4927.22,1,0001546303,Common Stock
+A,05/30/2022 00:00:00,TRAVIS NIGEL,4,A-Award,--D,854.7,5893.48,1,0001187789,Common Stock
+A,05/30/2022 00:00:00,Bailo Carla Jean,4,A-Award,--D,854.7,2851.27,1,0001756088,Common Stock
+A,05/30/2022 00:00:00,LEE EUGENE I JR,4,A-Award,--D,777,14945.67,2,0001242843,Common Stock
+A,05/30/2022 00:00:00,LEE EUGENE I JR,4,A-Award,--D,854.7,14168.67,1,0001242843,Common Stock
+A,05/30/2022 00:00:00,Pertz Douglas A,4,A-Award,--D,854.7,6471.63,1,0001065425,Common Stock
+A,05/30/2022 00:00:00,Torres Sherice,4,A-Award,--D,854.7,1305.55,1,0001882738,Common Stock
+A,04/01/2022 00:00:00,Bailo Carla Jean,4,A-Award,--D,11.498,1996.569,2,0001756088,Common Stock
+A,04/01/2022 00:00:00,LEE EUGENE I JR,4,A-Award,--D,73.121,13313.971,2,0001242843,Common Stock
+A,04/01/2022 00:00:00,Pertz Douglas A,4,A-Award,--D,31.735,5616.93,2,0001065425,Common Stock
+A,04/01/2022 00:00:00,Valdez Arthur L Jr,4,A-Award,--D,11.497,1594.163,2,0001821687,Common Stock
+A,04/01/2022 00:00:00,Ferraro John Francis,4,A-Award,--D,76.21,11230.452,2,0001633214,Common Stock
+A,04/01/2022 00:00:00,Jones Jeffrey J II,4,A-Award,--D,28.524,4072.52,2,0001546303,Common Stock
+A,04/01/2022 00:00:00,TRAVIS NIGEL,4,A-Award,--D,27.222,5038.783,2,0001187789,Common Stock
+A,04/01/2022 00:00:00,Torres Sherice,4,A-Award,--D,3.237,450.848,1,0001882738,Common Stock
+D,03/08/2022 00:00:00,Finley Tammy M,4,F-InKind,--D,149,17812,1,0001595975,Common Stock
+D,03/08/2022 00:00:00,Schechtman Natalie,4,F-InKind,--D,147,7693,1,0001675001,Common Stock
+D,03/08/2022 00:00:00,Shepherd Jeffrey W,4,F-InKind,--D,211,15260,1,0001700153,Common Stock
+D,03/08/2022 00:00:00,Creedon Michael C Jr,4,F-InKind,--D,105,8019,1,0001853258,Common Stock
+D,03/08/2022 00:00:00,Cushing Robert B,4,F-InKind,--D,192,18630,1,0001682727,Common Stock
+D,03/08/2022 00:00:00,Slone Reuben E,4,F-InKind,--D,179,13912,1,0001518692,Common Stock
+D,03/08/2022 00:00:00,McDonell Jason,4,F-InKind,--D,179,6714,1,0001853335,Common Stock
+D,03/08/2022 00:00:00,Greco Thomas,4,F-InKind,--D,1267,164696,1,0001530813,Common Stock
+D,03/02/2022 00:00:00,Shepherd Jeffrey W,4,F-InKind,--D,303,15471,1,0001700153,Common Stock
+D,03/02/2022 00:00:00,Creedon Michael C Jr,4,F-InKind,--D,117,8124,1,0001853258,Common Stock
+D,03/02/2022 00:00:00,Finley Tammy M,4,F-InKind,--D,136,17961,1,0001595975,Common Stock
+D,03/02/2022 00:00:00,McDonell Jason,4,F-InKind,--D,277,6893,1,0001853335,Common Stock
+D,03/02/2022 00:00:00,Schechtman Natalie,4,F-InKind,--D,162,7840,1,0001675001,Common Stock
+D,03/02/2022 00:00:00,Greco Thomas,4,F-InKind,--D,1849,165963,1,0001530813,Common Stock
+D,03/02/2022 00:00:00,Cushing Robert B,4,F-InKind,--D,340,18822,1,0001682727,Common Stock
+D,03/02/2022 00:00:00,Slone Reuben E,4,F-InKind,--D,200,14091,1,0001518692,Common Stock
+D,03/01/2022 00:00:00,Greco Thomas,4/A,F-InKind,--D,12555,174489,2,0001530813,Common Stock
+A,03/01/2022 00:00:00,Greco Thomas,4/A,M-Exempt,--D,28086,187044,1,0001530813,Common Stock
+D,03/01/2022 00:00:00,Creedon Michael C Jr,4/A,F-InKind,--D,616,8793,2,0001853258,Common Stock
+A,03/01/2022 00:00:00,Creedon Michael C Jr,4/A,M-Exempt,--D,2043,9409,1,0001853258,Common Stock
+D,03/01/2022 00:00:00,Cushing Robert B,4/A,F-InKind,--D,1536,20546,2,0001682727,Common Stock
+A,03/01/2022 00:00:00,Cushing Robert B,4/A,M-Exempt,--D,5107,22082,1,0001682727,Common Stock
+D,03/01/2022 00:00:00,Finley Tammy M,4/A,F-InKind,--D,941,18920,2,0001595975,Common Stock
+A,03/01/2022 00:00:00,Finley Tammy M,4/A,M-Exempt,--D,3065,19861,1,0001595975,Common Stock
+D,03/01/2022 00:00:00,Shepherd Jeffrey W,4/A,F-InKind,--D,1286,17057,2,0001700153,Common Stock
+A,03/01/2022 00:00:00,Shepherd Jeffrey W,4/A,M-Exempt,--D,4340,18343,1,0001700153,Common Stock
+D,03/01/2022 00:00:00,Slone Reuben E,4/A,F-InKind,--D,1289,15462,2,0001518692,Common Stock
+A,03/01/2022 00:00:00,Slone Reuben E,4/A,M-Exempt,--D,4340,16751,1,0001518692,Common Stock
+D,03/01/2022 00:00:00,Schechtman Natalie,4/A,F-InKind,--D,1071,8967,2,0001675001,Common Stock
+A,03/01/2022 00:00:00,Schechtman Natalie,4/A,M-Exempt,--D,3576,10038,1,0001675001,Common Stock
+D,03/01/2022 00:00:00,Schechtman Natalie,4,F-InKind,--D,129,8002,3,0001675001,Common Stock
+D,03/01/2022 00:00:00,Schechtman Natalie,4,F-InKind,--D,722,8131,2,0001675001,Common Stock
+A,03/01/2022 00:00:00,Schechtman Natalie,4,M-Exempt,--D,2391,8853,1,0001675001,Common Stock
+D,03/01/2022 00:00:00,Cushing Robert B,4,F-InKind,--D,188,19162,3,0001682727,Common Stock
+D,03/01/2022 00:00:00,Cushing Robert B,4,F-InKind,--D,1040,19350,2,0001682727,Common Stock
+A,03/01/2022 00:00:00,Cushing Robert B,4,M-Exempt,--D,3415,20390,1,0001682727,Common Stock
+D,03/01/2022 00:00:00,Greco Thomas,4,F-InKind,--D,1531,167812,3,0001530813,Common Stock
+D,03/01/2022 00:00:00,Greco Thomas,4,F-InKind,--D,8393,169343,2,0001530813,Common Stock
+A,03/01/2022 00:00:00,Greco Thomas,4,M-Exempt,--D,18778,177736,1,0001530813,Common Stock
+D,03/01/2022 00:00:00,Slone Reuben E,4,F-InKind,--D,157,14291,3,0001518692,Common Stock
+D,03/01/2022 00:00:00,Slone Reuben E,4,F-InKind,--D,865,14448,2,0001518692,Common Stock
+A,03/01/2022 00:00:00,Slone Reuben E,4,M-Exempt,--D,2902,15313,1,0001518692,Common Stock
+D,03/01/2022 00:00:00,Creedon Michael C Jr,4,F-InKind,--D,74,8241,3,0001853258,Common Stock
+D,03/01/2022 00:00:00,Creedon Michael C Jr,4,F-InKind,--D,417,8315,2,0001853258,Common Stock
+A,03/01/2022 00:00:00,Creedon Michael C Jr,4,M-Exempt,--D,1366,8732,1,0001853258,Common Stock
+D,03/01/2022 00:00:00,Finley Tammy M,4,F-InKind,--D,113,18097,3,0001595975,Common Stock
+D,03/01/2022 00:00:00,Finley Tammy M,4,F-InKind,--D,635,18210,2,0001595975,Common Stock
+A,03/01/2022 00:00:00,Finley Tammy M,4,M-Exempt,--D,2049,18845,1,0001595975,Common Stock
+D,03/01/2022 00:00:00,Shepherd Jeffrey W,4,F-InKind,--D,174,15774,3,0001700153,Common Stock
+D,03/01/2022 00:00:00,Shepherd Jeffrey W,4,F-InKind,--D,957,15948,2,0001700153,Common Stock
+A,03/01/2022 00:00:00,Shepherd Jeffrey W,4,M-Exempt,--D,2902,16905,1,0001700153,Common Stock
+A,02/28/2022 00:00:00,Pellicciotti William J Jr,4,A-Award,--D,1621,1621,2,0001907915,Stock Option (right to buy)
+A,02/28/2022 00:00:00,Pellicciotti William J Jr,4,A-Award,--D,428,428,1,0001907915,Common Stock
+A,02/28/2022 00:00:00,Schechtman Natalie,4,A-Award,--D,3474,3474,2,0001675001,Stock Option (right to buy)
+A,02/28/2022 00:00:00,Schechtman Natalie,4,A-Award,--D,917,6462,1,0001675001,Common Stock
+A,02/28/2022 00:00:00,McDonell Jason,4,A-Award,--D,4169,4169,2,0001853335,Stock Option (right to buy)
+A,02/28/2022 00:00:00,McDonell Jason,4,A-Award,--D,1100,7170,1,0001853335,Common Stock
+A,02/28/2022 00:00:00,Shepherd Jeffrey W,4,A-Award,--D,7413,7413,2,0001700153,Stock Option (right to buy)
+A,02/28/2022 00:00:00,Shepherd Jeffrey W,4,A-Award,--D,1956,14003,1,0001700153,Common Stock
+A,02/28/2022 00:00:00,Cushing Robert B,4,A-Award,--D,4631,4631,2,0001682727,Stock Option (right to buy)
+A,02/28/2022 00:00:00,Cushing Robert B,4,A-Award,--D,1223,16975,1,0001682727,Common Stock
+A,02/28/2022 00:00:00,Slone Reuben E,4,A-Award,--D,3940,3940,2,0001518692,Stock Option (right to buy)
+A,02/28/2022 00:00:00,Slone Reuben E,4,A-Award,--D,1039,12411,1,0001518692,Common Stock
+A,02/28/2022 00:00:00,Greco Thomas,4,A-Award,--D,30104,30104,2,0001530813,Stock Option (right to buy)
+A,02/28/2022 00:00:00,Greco Thomas,4,A-Award,--D,7947,158958,1,0001530813,Common Stock
+A,02/28/2022 00:00:00,Creedon Michael C Jr,4,A-Award,--D,4169,4169,2,0001853258,Stock Option (right to buy)
+A,02/28/2022 00:00:00,Creedon Michael C Jr,4,A-Award,--D,1100,7366,1,0001853258,Common Stock
+A,02/28/2022 00:00:00,Finley Tammy M,4,A-Award,--D,3474,3474,2,0001595975,Stock Option (right to buy)
+A,02/28/2022 00:00:00,Finley Tammy M,4,A-Award,--D,917,16796,1,0001595975,Common Stock
+A,01/03/2022 00:00:00,TRAVIS NIGEL,4,A-Award,--D,15.836,5007.62,1,0001187789,Common Stock
+A,01/03/2022 00:00:00,Torres Sherice,4,A-Award,--D,1.882,447.611,1,0001882738,Common Stock
+A,01/03/2022 00:00:00,Slone Reuben E,4,A-Award,--D,17.996,11371.996,1,0001518692,Common Stock
+A,01/03/2022 00:00:00,Jones Jeffrey J II,4,A-Award,--D,16.592,4040.608,1,0001546303,Common Stock
+A,01/03/2022 00:00:00,Valdez Arthur L Jr,4,A-Award,--D,6.688,1581.648,1,0001821687,Common Stock
+A,01/03/2022 00:00:00,Ferraro John Francis,4,A-Award,--D,44.332,11142.026,1,0001633214,Common Stock
+A,01/03/2022 00:00:00,LEE EUGENE I JR,4,A-Award,--D,42.536,13230.542,1,0001242843,Common Stock
+A,01/03/2022 00:00:00,Pertz Douglas A,4,A-Award,--D,18.46,5580.416,1,0001065425,Common Stock
+A,01/03/2022 00:00:00,Bailo Carla Jean,4,A-Award,--D,6.688,1984.054,1,0001756088,Common Stock
+A,11/22/2021 00:00:00,Torres Sherice,4,A-Award,--D,445.729,445.729,1,0001882738,Common Stock
+D,11/19/2021 00:00:00,Slone Reuben E,4,F-InKind,--D,420,11354,1,0001518692,Common Stock
+A,10/01/2021 00:00:00,Valdez Arthur L Jr,4,A-Award,--D,7.577,1574.96,1,0001821687,Common Stock
+A,10/01/2021 00:00:00,TRAVIS NIGEL,4,A-Award,--D,17.941,4991.784,1,0001187789,Common Stock
+A,10/01/2021 00:00:00,Slone Reuben E,4,A-Award,--D,20.388,11774.386,1,0001518692,Common Stock
+A,10/01/2021 00:00:00,Pertz Douglas A,4,A-Award,--D,20.914,5561.956,1,0001065425,Common Stock
+A,10/01/2021 00:00:00,LEE EUGENE I JR,4,A-Award,--D,48.189,13188.006,1,0001242843,Common Stock
+A,10/01/2021 00:00:00,Jones Jeffrey J II,4,A-Award,--D,18.798,4024.016,1,0001546303,Common Stock
+A,10/01/2021 00:00:00,Ferraro John Francis,4,A-Award,--D,50.225,11097.694,1,0001633214,Common Stock
+A,10/01/2021 00:00:00,Bailo Carla Jean,4,A-Award,--D,7.577,1977.366,1,0001756088,Common Stock
+D,09/10/2021 00:00:00,Cushing Robert B,4,S-Sale,--D,3500,15752,1,0001682727,Common Stock
+A,07/02/2021 00:00:00,Valdez Arthur L Jr,4,A-Award,--D,3.539,1567.383,1,0001821687,Common Stock
+A,07/02/2021 00:00:00,TRAVIS NIGEL,4,A-Award,--D,13.705,4973.843,1,0001187789,Common Stock
+A,07/02/2021 00:00:00,Slone Reuben E,4,A-Award,--D,19.998,11753.998,1,0001518692,Common Stock
+A,07/02/2021 00:00:00,Pertz Douglas A,4,A-Award,--D,16.621,5541.042,1,0001065425,Common Stock
+A,07/02/2021 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,11.783,3316.827,1,0001225930,Common Stock
+A,07/02/2021 00:00:00,LEE EUGENE I JR,4,A-Award,--D,47.269,13139.817,1,0001242843,Common Stock
+A,07/02/2021 00:00:00,Jones Jeffrey J II,4,A-Award,--D,11.783,4005.218,1,0001546303,Common Stock
+A,07/02/2021 00:00:00,Ferraro John Francis,4,A-Award,--D,42.484,11047.469,1,0001633214,Common Stock
+A,07/02/2021 00:00:00,Bailo Carla Jean,4,A-Award,--D,5.945,1969.789,1,0001756088,Common Stock
+A,06/16/2021 00:00:00,Bailo Carla Jean,4,P-Purchase,--D,400,1963.844,1,0001756088,Common Stock
+D,06/08/2021 00:00:00,Schechtman Natalie,4,S-Sale,--D,3200,5545,1,0001675001,Common Stock
+A,06/07/2021 00:00:00,McDonell Jason,4,A-Award,--D,519,6070,1,0001853335,Common Stock
+A,06/07/2021 00:00:00,Cushing Robert B,4,A-Award,--D,1296,19252,1,0001682727,Common Stock
+A,06/07/2021 00:00:00,Creedon Michael C Jr,4,A-Award,--D,1555,6265.758,1,0001853258,Common Stock
+D,06/01/2021 00:00:00,Shepherd Jeffrey W,4,F-InKind,--D,301,12047,1,0001700153,Common Stock
+A,05/27/2021 00:00:00,Valdez Arthur L Jr,4,A-Award,--D,821.671,1563.844,1,0001821687,Common Stock
+A,05/27/2021 00:00:00,TRAVIS NIGEL,4,A-Award,--D,821.671,4960.138,1,0001187789,Common Stock
+A,05/27/2021 00:00:00,Pertz Douglas A,4,A-Award,--D,821.671,5524.421,1,0001065425,Common Stock
+A,05/27/2021 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,821.671,3305.044,1,0001225930,Common Stock
+A,05/27/2021 00:00:00,LEE EUGENE I JR,4,A-Award,--D,1298.77,13092.548,2,0001242843,Common Stock
+A,05/27/2021 00:00:00,LEE EUGENE I JR,4,A-Award,--D,821.671,11502.735,1,0001242843,Common Stock
+A,05/27/2021 00:00:00,Jones Jeffrey J II,4,A-Award,--D,583.121,3993.435,2,0001546303,Common Stock
+A,05/27/2021 00:00:00,Jones Jeffrey J II,4,A-Award,--D,821.671,3305.043,1,0001546303,Common Stock
+A,05/27/2021 00:00:00,Ferraro John Francis,4,A-Award,--D,609.627,11004.985,2,0001633214,Common Stock
+A,05/27/2021 00:00:00,Ferraro John Francis,4,A-Award,--D,821.671,10277.702,1,0001633214,Common Stock
+A,05/27/2021 00:00:00,Bailo Carla Jean,4,A-Award,--D,821.671,1563.844,1,0001756088,Common Stock
+A,05/03/2021 00:00:00,Jones Jeffrey J II,4,A-Award,--D,105.271,2593.643,1,0001546303,Common Stock
+A,05/03/2021 00:00:00,LEE EUGENE I JR,4,A-Award,--D,291.043,10977.107,1,0001242843,Common Stock
+A,05/03/2021 00:00:00,Ferraro John Francis,4,A-Award,--D,117.656,9578.687,1,0001633214,Common Stock
+A,04/05/2021 00:00:00,Bailo Carla Jean,4,A-Award,--D,1.017,1985.071,1,0001756088,Common Stock
+A,04/05/2021 00:00:00,LEE EUGENE I JR,4,A-Award,--D,10.308,13240.85,1,0001242843,Common Stock
+A,04/05/2021 00:00:00,Pertz Douglas A,4,A-Award,--D,4.779,5585.195,1,0001065425,Common Stock
+A,04/05/2021 00:00:00,Valdez Arthur L Jr,4,A-Award,--D,1.018,1582.666,1,0001821687,Common Stock
+A,04/05/2021 00:00:00,Ferraro John Francis,4,A-Award,--D,12.216,11154.242,1,0001633214,Common Stock
+A,04/05/2021 00:00:00,Jones Jeffrey J II,4,A-Award,--D,3.388,4043.996,1,0001546303,Common Stock
+A,04/05/2021 00:00:00,TRAVIS NIGEL,4,A-Award,--D,3.941,5011.561,1,0001187789,Common Stock
+A,03/08/2021 00:00:00,Shepherd Jeffrey W,4,A-Award,--D,5299,5299,2,0001700153,Stock Option (right to buy)
+A,03/08/2021 00:00:00,Shepherd Jeffrey W,4,A-Award,--D,1416,12348,1,0001700153,Common Stock
+A,03/08/2021 00:00:00,Broderick Michael T,4,A-Award,--D,4503,4503,2,0001552071,Stock Option (right to buy)
+A,03/08/2021 00:00:00,Broderick Michael T,4,A-Award,--D,1204,8982,1,0001552071,Common Stock
+A,03/08/2021 00:00:00,Slone Reuben E,4,A-Award,--D,4503,4503,2,0001518692,Stock Option (right to buy)
+A,03/08/2021 00:00:00,Slone Reuben E,4,A-Award,--D,1204,11734,1,0001518692,Common Stock
+A,03/08/2021 00:00:00,Schechtman Natalie,4,A-Award,--D,3707,3707,2,0001675001,Stock Option (right to buy)
+A,03/08/2021 00:00:00,Schechtman Natalie,4,A-Award,--D,992,8745,1,0001675001,Common Stock
+A,03/08/2021 00:00:00,Finley Tammy M,4,A-Award,--D,3707,3707,2,0001595975,Stock Option (right to buy)
+A,03/08/2021 00:00:00,Finley Tammy M,4,A-Award,--D,992,15879,1,0001595975,Common Stock
+A,03/08/2021 00:00:00,Greco Thomas,4,A-Award,--D,31786,31786,2,0001530813,Stock Option (right to buy)
+A,03/08/2021 00:00:00,Greco Thomas,4,A-Award,--D,8499,151011,1,0001530813,Common Stock
+A,03/08/2021 00:00:00,Page Andrew E,4,A-Award,--D,2119,2119,2,0001769347,Stock Option (right to buy)
+A,03/08/2021 00:00:00,Page Andrew E,4,A-Award,--D,567,7469,1,0001769347,Common Stock
+A,03/08/2021 00:00:00,Cushing Robert B,4,A-Award,--D,4766,4766,2,0001682727,Stock Option (right to buy)
+A,03/08/2021 00:00:00,Cushing Robert B,4,A-Award,--D,1275,17956,1,0001682727,Common Stock
+D,03/03/2021 00:00:00,Schechtman Natalie,4,F-InKind,--D,157,7753,3,0001675001,Common Stock
+D,03/03/2021 00:00:00,Schechtman Natalie,4,F-InKind,--D,1198,7910,2,0001675001,Common Stock
+A,03/03/2021 00:00:00,Schechtman Natalie,4,M-Exempt,--D,3081,9108,1,0001675001,Common Stock
+D,03/03/2021 00:00:00,Broderick Michael T,4,F-InKind,--D,190,7588,3,0001552071,Common Stock
+D,03/03/2021 00:00:00,Broderick Michael T,4,F-InKind,--D,1226,7778,2,0001552071,Common Stock
+A,03/03/2021 00:00:00,Broderick Michael T,4,M-Exempt,--D,3081,9004,1,0001552071,Common Stock
+D,03/03/2021 00:00:00,Greco Thomas,4,F-InKind,--D,1849,142512,3,0001530813,Common Stock
+D,03/03/2021 00:00:00,Greco Thomas,4,F-InKind,--D,14907,144361,2,0001530813,Common Stock
+A,03/03/2021 00:00:00,Greco Thomas,4,M-Exempt,--D,25667,159268,1,0001530813,Common Stock
+D,03/03/2021 00:00:00,Finley Tammy M,4,F-InKind,--D,136,14887,3,0001595975,Common Stock
+D,03/03/2021 00:00:00,Finley Tammy M,4,F-InKind,--D,1195,15023,2,0001595975,Common Stock
+A,03/03/2021 00:00:00,Finley Tammy M,4,M-Exempt,--D,3081,16218,1,0001595975,Common Stock
+D,03/03/2021 00:00:00,Cushing Robert B,4,F-InKind,--D,227,16681,3,0001682727,Common Stock
+D,03/03/2021 00:00:00,Cushing Robert B,4,F-InKind,--D,1385,16908,2,0001682727,Common Stock
+A,03/03/2021 00:00:00,Cushing Robert B,4,M-Exempt,--D,3081,18293,1,0001682727,Common Stock
+D,03/03/2021 00:00:00,Slone Reuben E,4,F-InKind,--D,201,10529.989,2,0001518692,Common Stock
+D,03/03/2021 00:00:00,Slone Reuben E,4,F-InKind,--D,171,10730.989,1,0001518692,Common Stock
+D,03/03/2021 00:00:00,Shepherd Jeffrey W,4,F-InKind,--D,222,10932,3,0001700153,Common Stock
+D,03/03/2021 00:00:00,Shepherd Jeffrey W,4,F-InKind,--D,996,11154,2,0001700153,Common Stock
+A,03/03/2021 00:00:00,Shepherd Jeffrey W,4,M-Exempt,--D,1787,12150,1,0001700153,Common Stock
+D,03/03/2021 00:00:00,Page Andrew E,4,F-InKind,--D,106,6902,1,0001769347,Common Stock
+D,01/14/2021 00:00:00,Cushing Robert B,4,M-Exempt,--D,711,0,3,0001682727,Stock Appreciation Rights
+D,01/14/2021 00:00:00,Cushing Robert B,4,F-InKind,--D,588,15212,2,0001682727,Common Stock
+A,01/14/2021 00:00:00,Cushing Robert B,4,M-Exempt,--D,711,15800,1,0001682727,Common Stock
+A,01/04/2021 00:00:00,TRAVIS NIGEL,4,A-Award,--D,4.583,4138.467,1,0001187789,Common Stock
+A,01/04/2021 00:00:00,Pertz Douglas A,4,A-Award,--D,5.557,4702.75,1,0001065425,Common Stock
+A,01/04/2021 00:00:00,Buss Brad W,4,A-Award,--D,8.656,6656.377,1,0001336664,Common Stock
+A,01/04/2021 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,3.94,2483.373,1,0001225930,Common Stock
+A,01/04/2021 00:00:00,Slone Reuben E,4,A-Award,--D,6.687,10901.989,1,0001518692,Common Stock
+A,01/04/2021 00:00:00,Ferraro John Francis,4,A-Award,--D,14.205,9456.031,1,0001633214,Common Stock
+A,01/04/2021 00:00:00,Bailo Carla Jean,4,A-Award,--D,1.183,742.173,1,0001756088,Common Stock
+A,01/04/2021 00:00:00,Jones Jeffrey J II,4,A-Award,--D,3.939,2483.372,1,0001546303,Common Stock
+A,01/04/2021 00:00:00,TRAVIS NIGEL,4,A-Award,--D,4.583,4138.467,1,0001187789,Common Stock
+A,01/04/2021 00:00:00,Valdez Arthur L Jr,4,A-Award,--D,1.183,742.173,1,0001821687,Common Stock
+A,01/04/2021 00:00:00,LEE EUGENE I JR,4,A-Award,--D,11.984,10681.064,1,0001242843,Common Stock
+A,01/04/2021 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,24.754,20768.942,1,0001196937,Common Stock
+D,11/20/2020 00:00:00,Broderick Michael T,4,F-InKind,--D,109,5923,1,0001552071,Common Stock
+D,11/19/2020 00:00:00,Slone Reuben E,4,F-InKind,--D,414,10895.302,1,0001518692,Common Stock
+A,10/02/2020 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,25.01,20744.188,1,0001196937,Common Stock
+A,10/02/2020 00:00:00,Valdez Arthur L Jr,4,A-Award,--D,1.2,740.99,1,0001821687,Common Stock
+A,10/02/2020 00:00:00,Pertz Douglas A,4,A-Award,--D,5.61,4697.193,1,0001065425,Common Stock
+A,10/02/2020 00:00:00,TRAVIS NIGEL,4,A-Award,--D,4.63,4133.884,1,0001187789,Common Stock
+A,10/02/2020 00:00:00,LEE EUGENE I JR,4,A-Award,--D,12.11,10669.08,1,0001242843,Common Stock
+A,10/02/2020 00:00:00,Slone Reuben E,4,A-Award,--D,6.76,11309.302,1,0001518692,Common Stock
+A,10/02/2020 00:00:00,Buss Brad W,4,A-Award,--D,8.74,6647.721,1,0001336664,Common Stock
+A,10/02/2020 00:00:00,Ferraro John Francis,4,A-Award,--D,14.35,9441.826,1,0001633214,Common Stock
+A,10/02/2020 00:00:00,Bailo Carla Jean,4,A-Award,--D,1.2,740.99,1,0001756088,Common Stock
+A,10/02/2020 00:00:00,Jones Jeffrey J II,4,A-Award,--D,4.37,2479.433,8,0001546303,Common Stock
+A,10/02/2020 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,4.37,2479.433,8,0001225930,Common Stock
+D,08/24/2020 00:00:00,Cushing Robert B,4,F-InKind,--D,734,15089,1,0001682727,Common Stock
+A,08/24/2020 00:00:00,Bailo Carla Jean,4,A-Award,--D,739.79,739.79,1,0001756088,Common Stock
+A,08/24/2020 00:00:00,Valdez Arthur L Jr,4,A-Award,--D,739.79,739.79,1,0001821687,Common Stock
+D,07/21/2020 00:00:00,LEE EUGENE I JR,4,J-Other,--D,182.263,10656.97,1,0001242843,Common Stock
+D,07/21/2020 00:00:00,Ferraro John Francis,4,J-Other,--D,203.705,9427.476,1,0001633214,Common Stock
+A,07/06/2020 00:00:00,Jones Jeffrey J II,4,A-Award,--D,0.44,2475.063,7,0001546303,Common Stock
+A,07/06/2020 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,0.44,2475.063,7,0001225930,Common Stock
+A,07/06/2020 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,4.009,2232.313,1,0001225930,Common Stock
+A,07/06/2020 00:00:00,LEE EUGENE I JR,4,A-Award,--D,13.851,10839.233,1,0001242843,Common Stock
+A,07/06/2020 00:00:00,Jones Jeffrey J II,4,A-Award,--D,4.009,2232.313,1,0001546303,Common Stock
+A,07/06/2020 00:00:00,Pertz Douglas A,4,A-Award,--D,6.271,4691.583,1,0001065425,Common Stock
+A,07/06/2020 00:00:00,Ferraro John Francis,4,A-Award,--D,16.395,9631.181,1,0001633214,Common Stock
+A,07/06/2020 00:00:00,Slone Reuben E,4,A-Award,--D,7.545,11302.542,1,0001518692,Common Stock
+A,07/06/2020 00:00:00,Buss Brad W,4,A-Award,--D,9.767,6638.981,1,0001336664,Common Stock
+A,07/06/2020 00:00:00,TRAVIS NIGEL,4,A-Award,--D,5.171,4129.254,1,0001187789,Common Stock
+A,07/06/2020 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,27.933,20719.178,1,0001196937,Common Stock
+A,06/15/2020 00:00:00,Greco Thomas,4,P-Purchase,--D,7285,132473,1,0001530813,Common Stock
+A,06/05/2020 00:00:00,Finley Tammy M,4,M-Exempt,--D,479,0,4,0001595975,Stock Appreciation Rights
+D,06/05/2020 00:00:00,Finley Tammy M,4,S-Sale,--D,88,13137,3,0001595975,Common Stock
+D,06/05/2020 00:00:00,Finley Tammy M,4,F-InKind,--D,391,13225,2,0001595975,Common Stock
+A,06/05/2020 00:00:00,Finley Tammy M,4,M-Exempt,--D,479,13616,1,0001595975,Common Stock
+D,06/04/2020 00:00:00,Page Andrew E,4,S-Sale,--D,720,7008,1,0001769347,Common Stock
+D,05/29/2020 00:00:00,Shepherd Jeffrey W,4,F-InKind,--D,301,10363,1,0001700153,Common Stock
+D,05/28/2020 00:00:00,Page Andrew E,4,F-InKind,--D,77,7728,2,0001769347,Common Stock
+D,05/28/2020 00:00:00,Page Andrew E,4,F-InKind,--D,481,7805,1,0001769347,Common Stock
+A,05/26/2020 00:00:00,Page Andrew E,4,A-Award,--D,1107,8286,1,0001769347,Common Stock
+A,05/19/2020 00:00:00,Ferraro John Francis,4,A-Award,--D,1229.573,9614.786,1,0001633214,Common Stock
+A,05/15/2020 00:00:00,TRAVIS NIGEL,4,A-Award,--D,1229.573,4124.083,1,0001187789,Common Stock
+A,05/15/2020 00:00:00,Pertz Douglas A,4,A-Award,--D,1229.573,4685.312,1,0001065425,Common Stock
+A,05/15/2020 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,1229.573,2228.304,1,0001225930,Common Stock
+A,05/15/2020 00:00:00,LEE EUGENE I JR,4,A-Award,--D,1229.573,10825.382,1,0001242843,Common Stock
+A,05/15/2020 00:00:00,Jones Jeffrey J II,4,A-Award,--D,1229.573,2228.304,1,0001546303,Common Stock
+A,05/15/2020 00:00:00,Buss Brad W,4,A-Award,--D,1229.573,6629.214,1,0001336664,Common Stock
+A,05/15/2020 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,1229.573,20691.245,1,0001196937,Common Stock
+A,05/01/2020 00:00:00,LEE EUGENE I JR,4,A-Award,--D,182.263,9595.809,1,0001242843,Common Stock
+A,05/01/2020 00:00:00,Ferraro John Francis,4,A-Award,--D,203.705,8385.213,1,0001633214,Common Stock
+A,05/01/2020 00:00:00,Smith Jeffrey C,4,A-Award,--D,396.689,8805.079,1,0001362697,"Common Stock, $0.0001 Par Value"
+D,04/14/2020 00:00:00,Greco Thomas,4,F-InKind,--D,2037,125188,1,0001530813,Common Stock
+A,04/03/2020 00:00:00,Jones Jeffrey J II,4,A-Award,--D,0.71,2474.623,6,0001546303,Common Stock
+A,04/03/2020 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,0.71,2474.623,6,0001225930,Common Stock
+A,04/03/2020 00:00:00,Slone Reuben E,4,A-Award,--D,12.349,11294.997,1,0001518692,Common Stock
+A,04/03/2020 00:00:00,Pertz Douglas A,4,A-Award,--D,6.644,3455.739,1,0001065425,Common Stock
+A,04/03/2020 00:00:00,TRAVIS NIGEL,4,A-Award,--D,4.842,2894.51,1,0001187789,Common Stock
+A,04/03/2020 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,2.941,998.731,1,0001225930,Common Stock
+A,04/03/2020 00:00:00,LEE EUGENE I JR,4,A-Award,--D,19.942,9413.546,1,0001242843,Common Stock
+A,04/03/2020 00:00:00,Karaboutis Adriana,4,A-Award,--D,14.955,5445.476,1,0001619963,Common Stock
+A,04/03/2020 00:00:00,Jones Jeffrey J II,4,A-Award,--D,2.941,998.731,1,0001546303,Common Stock
+A,04/03/2020 00:00:00,Ferraro John Francis,4,A-Award,--D,24.212,8181.508,1,0001633214,Common Stock
+A,04/03/2020 00:00:00,Buss Brad W,4,A-Award,--D,12.367,5399.641,1,0001336664,Common Stock
+A,04/03/2020 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,42.098,19461.672,1,0001196937,Common Stock
+A,04/03/2020 00:00:00,Smith Jeffrey C,4,A-Award,--D,27.863,8408.39,1,0001362697,"Common Stock, $0.0001 Par Value"
+D,03/16/2020 00:00:00,Finley Tammy M,4,M-Exempt,--D,1467,0,6,0001595975,Stock Appreciation Rights
+D,03/16/2020 00:00:00,Finley Tammy M,4,M-Exempt,--D,659,0,5,0001595975,Stock Appreciation Rights
+D,03/16/2020 00:00:00,Finley Tammy M,4,F-InKind,--D,1252,13137,4,0001595975,Common Stock
+A,03/16/2020 00:00:00,Finley Tammy M,4,M-Exempt,--D,1467,14389,3,0001595975,Common Stock
+D,03/16/2020 00:00:00,Finley Tammy M,4,F-InKind,--D,563,12922,2,0001595975,Common Stock
+A,03/16/2020 00:00:00,Finley Tammy M,4,M-Exempt,--D,659,13485,1,0001595975,Common Stock
+A,03/02/2020 00:00:00,Greco Thomas,4/A,A-Award,--D,12408,128353,1,0001530813,Common Stock
+A,03/02/2020 00:00:00,Shepherd Jeffrey W,4,A-Award,--D,2031,10664,1,0001700153,Common Stock
+A,03/02/2020 00:00:00,Cushing Robert B,4,A-Award,--D,2256,15823,1,0001682727,Common Stock
+A,03/02/2020 00:00:00,Slone Reuben E,4,A-Award,--D,2031,11282.648,1,0001518692,Common Stock
+A,03/02/2020 00:00:00,Broderick Michael T,4,A-Award,--D,1918,6032,1,0001552071,Common Stock
+A,03/02/2020 00:00:00,Schechtman Natalie,4,A-Award,--D,1580,6027,1,0001675001,Common Stock
+A,03/02/2020 00:00:00,Finley Tammy M,4,A-Award,--D,1354,12826,1,0001595975,Common Stock
+A,03/02/2020 00:00:00,Greco Thomas,4,A-Award,--D,11280,127225,1,0001530813,Common Stock
+A,03/02/2020 00:00:00,Page Andrew E,4,A-Award,--D,903,7179,1,0001769347,Common Stock
+A,02/28/2020 00:00:00,Greco Thomas,4,M-Exempt,--D,2681,115945,2,0001530813,Common Stock
+D,02/28/2020 00:00:00,Greco Thomas,4,F-InKind,--D,6059,113264,1,0001530813,Common Stock
+A,02/28/2020 00:00:00,Cushing Robert B,4,M-Exempt,--D,322,13567,2,0001682727,Common Stock
+D,02/28/2020 00:00:00,Cushing Robert B,4,F-InKind,--D,538,13245,1,0001682727,Common Stock
+D,02/28/2020 00:00:00,Slone Reuben E,4,F-InKind,--D,172,9251.648,1,0001518692,Common Stock
+A,02/28/2020 00:00:00,Shepherd Jeffrey W,4,M-Exempt,--D,188,8633,2,0001700153,Common Stock
+D,02/28/2020 00:00:00,Shepherd Jeffrey W,4,F-InKind,--D,1069,8445,1,0001700153,Common Stock
+A,02/28/2020 00:00:00,Broderick Michael T,4,M-Exempt,--D,135,4114,2,0001552071,Common Stock
+D,02/28/2020 00:00:00,Broderick Michael T,4,F-InKind,--D,394,3979,1,0001552071,Common Stock
+A,02/28/2020 00:00:00,Finley Tammy M,4,M-Exempt,--D,322,11472,2,0001595975,Common Stock
+D,02/28/2020 00:00:00,Finley Tammy M,4,F-InKind,--D,480,11150,1,0001595975,Common Stock
+A,02/28/2020 00:00:00,Schechtman Natalie,4,M-Exempt,--D,188,4447,2,0001675001,Common Stock
+D,02/28/2020 00:00:00,Schechtman Natalie,4,F-InKind,--D,532,4259,1,0001675001,Common Stock
+A,02/01/2020 00:00:00,LEE EUGENE I JR,4,A-Award,--D,161.29,9393.604,1,0001242843,Common Stock
+A,02/01/2020 00:00:00,Ferraro John Francis,4,A-Award,--D,180.266,8157.296,1,0001633214,Common Stock
+A,02/01/2020 00:00:00,Smith Jeffrey C,4,A-Award,--D,351.044,8380.527,1,0001362697,"Common Stock, $0.0001 Par Value"
+A,01/03/2020 00:00:00,Jones Jeffrey J II,4,A-Award,--D,0.09,2473.913,5,0001546303,Common Stock
+A,01/03/2020 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,0.09,2473.913,5,0001225930,Common Stock
+A,01/03/2020 00:00:00,TRAVIS NIGEL,4,A-Award,--D,0.617,2889.668,1,0001187789,Common Stock
+A,01/03/2020 00:00:00,Slone Reuben E,4,A-Award,--D,1.573,9423.648,1,0001518692,Common Stock
+A,01/03/2020 00:00:00,Pertz Douglas A,4,A-Award,--D,0.846,3449.095,1,0001065425,Common Stock
+A,01/03/2020 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,0.375,995.79,1,0001225930,Common Stock
+A,01/03/2020 00:00:00,Karaboutis Adriana,4,A-Award,--D,1.905,5430.521,1,0001619963,Common Stock
+A,01/03/2020 00:00:00,Ferraro John Francis,4,A-Award,--D,2.813,7977.03,1,0001633214,Common Stock
+A,01/03/2020 00:00:00,Buss Brad W,4,A-Award,--D,1.575,5387.274,1,0001336664,Common Stock
+A,01/03/2020 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,5.363,19419.574,1,0001196937,Common Stock
+A,01/03/2020 00:00:00,LEE EUGENE I JR,4,A-Award,--D,2.298,9232.314,1,0001242843,Common Stock
+A,01/03/2020 00:00:00,Jones Jeffrey J II,4,A-Award,--D,0.375,995.79,1,0001546303,Common Stock
+A,01/03/2020 00:00:00,Smith Jeffrey C,4,A-Award,--D,3.021,8029.483,1,0001362697,"Common Stock, $0.0001 Par Value"
+D,11/27/2019 00:00:00,Finley Tammy M,4,M-Exempt,--D,1407,0,6,0001595975,Stock Appreciation Rights
+D,11/27/2019 00:00:00,Finley Tammy M,4,M-Exempt,--D,634,0,5,0001595975,Stock Appreciation Rights
+D,11/27/2019 00:00:00,Finley Tammy M,4,F-InKind,--D,990,11630,4,0001595975,Common Stock
+D,11/27/2019 00:00:00,Finley Tammy M,4,F-InKind,--D,446,12620,3,0001595975,Common Stock
+A,11/27/2019 00:00:00,Finley Tammy M,4,M-Exempt,--D,1407,13066,2,0001595975,Common Stock
+A,11/27/2019 00:00:00,Finley Tammy M,4,M-Exempt,--D,634,11659,1,0001595975,Common Stock
+D,11/20/2019 00:00:00,Broderick Michael T,4,F-InKind,--D,164,4373,1,0001552071,Common Stock
+D,11/19/2019 00:00:00,Slone Reuben E,4,F-InKind,--D,290,9422.075,1,0001518692,Common Stock
+A,11/01/2019 00:00:00,LEE EUGENE I JR,4,A-Award,--D,128.929,9230.016,1,0001242843,Common Stock
+A,11/01/2019 00:00:00,Ferraro John Francis,4,A-Award,--D,144.097,7974.217,1,0001633214,Common Stock
+A,11/01/2019 00:00:00,Smith Jeffrey C,4,A-Award,--D,280.609,8026.462,1,0001362697,"Common Stock, $0.0001 Par Value"
+A,10/04/2019 00:00:00,Jones Jeffrey J II,4,A-Award,--D,0.09,2473.823,4,0001546303,Common Stock
+A,10/04/2019 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,0.09,2473.823,4,0001225930,Common Stock
+A,10/04/2019 00:00:00,Karaboutis Adriana,4,A-Award,--D,1.898,5428.616,1,0001619963,Common Stock
+A,10/04/2019 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,0.373,995.415,1,0001225930,Common Stock
+A,10/04/2019 00:00:00,Buss Brad W,4,A-Award,--D,1.57,5385.699,1,0001336664,Common Stock
+A,10/04/2019 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,5.344,19414.211,1,0001196937,Common Stock
+A,10/04/2019 00:00:00,Slone Reuben E,4,A-Award,--D,1.568,9712.075,1,0001518692,Common Stock
+A,10/04/2019 00:00:00,Ferraro John Francis,4,A-Award,--D,2.749,7830.12,1,0001633214,Common Stock
+A,10/04/2019 00:00:00,Pertz Douglas A,4,A-Award,--D,0.843,3448.249,1,0001065425,Common Stock
+A,10/04/2019 00:00:00,LEE EUGENE I JR,4,A-Award,--D,2.241,9101.087,1,0001242843,Common Stock
+A,10/04/2019 00:00:00,TRAVIS NIGEL,4,A-Award,--D,0.615,2889.051,1,0001187789,Common Stock
+A,10/04/2019 00:00:00,Jones Jeffrey J II,4,A-Award,--D,0.373,995.415,1,0001546303,Common Stock
+A,10/04/2019 00:00:00,Smith Jeffrey C,4,A-Award,--D,2.905,7745.853,1,0001362697,"Common Stock, $0.0001 Par Value"
+D,08/27/2019 00:00:00,Smith Jeffrey C,4,J-Other,--I,601603,508476,2,0001362697,"Common Stock, $0.0001 Par Value"
+D,08/22/2019 00:00:00,Cushing Robert B,4,F-InKind,--D,26,13783,2,0001682727,Common Stock
+D,08/21/2019 00:00:00,Cushing Robert B,4,F-InKind,--D,742,13809,1,0001682727,Common Stock
+A,08/01/2019 00:00:00,LEE EUGENE I JR,4,A-Award,--D,141.714,9098.846,1,0001242843,Common Stock
+A,08/01/2019 00:00:00,Ferraro John Francis,4,A-Award,--D,158.386,7827.371,1,0001633214,Common Stock
+A,08/01/2019 00:00:00,Smith Jeffrey C,4,A-Award,--D,308.436,7742.948,1,0001362697,"Common Stock, $0.0001 Par Value"
+A,07/05/2019 00:00:00,Jones Jeffrey J II,4,A-Award,--D,0.09,2473.733,3,0001546303,Common Stock
+A,07/05/2019 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,0.09,2473.733,3,0001225930,Common Stock
+A,07/05/2019 00:00:00,Karaboutis Adriana,4,A-Award,--D,1.889,5426.718,1,0001619963,Common Stock
+A,07/05/2019 00:00:00,Pertz Douglas A,4,A-Award,--D,0.839,3447.406,1,0001065425,Common Stock
+A,07/05/2019 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,0.372,995.042,1,0001225930,Common Stock
+A,07/05/2019 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,5.319,19408.867,1,0001196937,Common Stock
+A,07/05/2019 00:00:00,TRAVIS NIGEL,4,A-Award,--D,0.612,2888.436,1,0001187789,Common Stock
+A,07/05/2019 00:00:00,Jones Jeffrey J II,4,A-Award,--D,0.372,995.042,1,0001546303,Common Stock
+A,07/05/2019 00:00:00,LEE EUGENE I JR,4,A-Award,--D,2.178,8957.132,1,0001242843,Common Stock
+A,07/05/2019 00:00:00,Slone Reuben E,4,A-Award,--D,1.56,9710.507,1,0001518692,Common Stock
+A,07/05/2019 00:00:00,Ferraro John Francis,4,A-Award,--D,2.677,7668.985,1,0001633214,Common Stock
+A,07/05/2019 00:00:00,Buss Brad W,4,A-Award,--D,1.562,5384.129,1,0001336664,Common Stock
+A,07/05/2019 00:00:00,Smith Jeffrey C,4,A-Award,--D,2.776,7434.512,1,0001362697,"Common Stock, $0.0001 Par Value"
+D,05/29/2019 00:00:00,Shepherd Jeffrey W,4,F-InKind,--D,301,9514,1,0001700153,Common Stock
+A,05/28/2019 00:00:00,Page Andrew E,4/A,A-Award,--D,6276,6276,1,0001769347,Common Stock
+A,05/28/2019 00:00:00,Page Andrew E,4,A-Award,--D,5500,5500,1,0001769347,Common Stock
+D,05/23/2019 00:00:00,Schechtman Natalie,4,F-InKind,--D,86,4791,1,0001675001,Common Stock
+A,05/15/2019 00:00:00,Ferraro John Francis,4,A-Award,--D,994.67,7666.308,1,0001633214,Common Stock
+A,05/15/2019 00:00:00,Karaboutis Adriana,4,A-Award,--D,994.67,5424.829,1,0001619963,Common Stock
+A,05/15/2019 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,994.67,19403.548,1,0001196937,Common Stock
+A,05/15/2019 00:00:00,LEE EUGENE I JR,4,A-Award,--D,994.67,8954.954,1,0001242843,Common Stock
+A,05/15/2019 00:00:00,TRAVIS NIGEL,4,A-Award,--D,994.67,2887.824,1,0001187789,Common Stock
+A,05/15/2019 00:00:00,Buss Brad W,4,A-Award,--D,994.67,5382.567,1,0001336664,Common Stock
+A,05/15/2019 00:00:00,Jones Jeffrey J II,4,A-Award,--D,994.67,994.67,1,0001546303,Common Stock
+A,05/15/2019 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,994.67,994.67,1,0001225930,Common Stock
+A,05/15/2019 00:00:00,Pertz Douglas A,4,A-Award,--D,994.67,3446.567,1,0001065425,Common Stock
+A,05/15/2019 00:00:00,Smith Jeffrey C,4,A-Award,--D,994.67,7431.736,1,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/01/2019 00:00:00,Ferraro John Francis,4,A-Award,--D,144.97,6671.638,1,0001633214,Common Stock
+A,05/01/2019 00:00:00,LEE EUGENE I JR,4,A-Award,--D,129.71,7960.284,1,0001242843,Common Stock
+A,05/01/2019 00:00:00,Smith Jeffrey C,4,A-Award,--D,282.31,6437.066,1,0001362697,"Common Stock, $0.0001 Par Value"
+D,04/12/2019 00:00:00,Greco Thomas,4,F-InKind,--D,11759,119323,1,0001530813,Common Stock
+A,04/05/2019 00:00:00,Jones Jeffrey J II,4,A-Award,--D,0.08,2473.643,2,0001546303,Common Stock
+A,04/05/2019 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,0.08,2473.643,2,0001225930,Common Stock
+A,04/05/2019 00:00:00,Buss Brad W,4,A-Award,--D,1.082,4387.897,1,0001336664,Common Stock
+A,04/05/2019 00:00:00,Karaboutis Adriana,4,A-Award,--D,1.379,4430.159,1,0001619963,Common Stock
+A,04/05/2019 00:00:00,LEE EUGENE I JR,4,A-Award,--D,1.596,7830.574,1,0001242843,Common Stock
+A,04/05/2019 00:00:00,TRAVIS NIGEL,4,A-Award,--D,0.218,1893.154,1,0001187789,Common Stock
+A,04/05/2019 00:00:00,Ferraro John Francis,4,A-Award,--D,2.045,6526.668,1,0001633214,Common Stock
+A,04/05/2019 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,4.493,18408.878,1,0001196937,Common Stock
+A,04/05/2019 00:00:00,Pertz Douglas A,4,A-Award,--D,0.425,2451.897,1,0001065425,Common Stock
+A,04/05/2019 00:00:00,DIAS FIONA P,4,A-Award,--D,3.55,11700.016,1,0001209881,Common Stock
+A,04/05/2019 00:00:00,Slone Reuben E,4,A-Award,--D,1.417,9708.947,1,0001518692,Common Stock
+A,04/05/2019 00:00:00,Smith Jeffrey C,4,A-Award,--D,2.089,6154.756,1,0001362697,"Common Stock, $0.0001 Par Value"
+D,03/04/2019 00:00:00,Schechtman Natalie,4,F-InKind,--D,367,3570,1,0001675001,Common Stock
+D,03/04/2019 00:00:00,Greco Thomas,4,F-InKind,--D,3327,120809,1,0001530813,Common Stock
+D,03/04/2019 00:00:00,Broderick Michael T,4,F-InKind,--D,219,2949,1,0001552071,Common Stock
+D,03/04/2019 00:00:00,Finley Tammy M,4,F-InKind,--D,288,9904,1,0001595975,Common Stock
+D,03/04/2019 00:00:00,Cushing Robert B,4,F-InKind,--D,254,12683,1,0001682727,Common Stock
+A,03/04/2019 00:00:00,Shepherd Jeffrey W,4,A-Award,--D,1588,9815,2,0001700153,Common Stock
+D,03/04/2019 00:00:00,Shepherd Jeffrey W,4,F-InKind,--D,848,8227,1,0001700153,Common Stock
+A,03/01/2019 00:00:00,Jones Jeffrey J II,4,A-Award,--D,241.25,2473.563,1,0001546303,Common Stock
+A,03/01/2019 00:00:00,MCCOLLAM SHARON,4,A-Award,--D,241.25,2473.563,1,0001225930,Common Stock
+A,03/01/2019 00:00:00,Slone Reuben E,4,A-Award,--D,1588,9707.53,1,0001518692,Common Stock
+A,03/01/2019 00:00:00,Schechtman Natalie,4,A-Award,--D,1307,4877,2,0001675001,Common Stock
+A,03/01/2019 00:00:00,Greco Thomas,4,A-Award,--D,10273,131082,2,0001530813,Common Stock
+A,03/01/2019 00:00:00,Broderick Michael T,4,A-Award,--D,1588,4537,2,0001552071,Common Stock
+A,03/01/2019 00:00:00,Finley Tammy M,4,A-Award,--D,1121,11025,2,0001595975,Common Stock
+A,03/01/2019 00:00:00,Cushing Robert B,4,A-Award,--D,1868,14551,2,0001682727,Common Stock
+A,02/01/2019 00:00:00,LEE EUGENE I JR,4,A-Award,--D,133.614,7828.978,1,0001242843,Common Stock
+A,02/01/2019 00:00:00,Ferraro John Francis,4,A-Award,--D,149.334,6524.623,1,0001633214,Common Stock
+A,02/01/2019 00:00:00,Smith Jeffrey C,4,A-Award,--D,290.807,6152.667,1,0001362697,"Common Stock, $0.0001 Par Value"
+A,01/04/2019 00:00:00,Slone Reuben E,4,A-Award,--D,1.577,8119.53,1,0001518692,Common Stock
+A,01/04/2019 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,5,18404.385,1,0001196937,Common Stock
+A,01/04/2019 00:00:00,Ferraro John Francis,4,A-Award,--D,2.219,6375.289,1,0001633214,Common Stock
+A,01/04/2019 00:00:00,Karaboutis Adriana,4,A-Award,--D,1.534,4428.78,1,0001619963,Common Stock
+A,01/04/2019 00:00:00,Pertz Douglas A,4,A-Award,--D,0.473,2451.472,1,0001065425,Common Stock
+A,01/04/2019 00:00:00,LEE EUGENE I JR,4,A-Award,--D,1.726,7695.364,1,0001242843,Common Stock
+A,01/04/2019 00:00:00,TRAVIS NIGEL,4,A-Award,--D,0.243,1892.936,1,0001187789,Common Stock
+A,01/04/2019 00:00:00,Buss Brad W,4,A-Award,--D,1.203,4386.815,1,0001336664,Common Stock
+A,01/04/2019 00:00:00,DIAS FIONA P,4,A-Award,--D,3.95,11696.466,1,0001209881,Common Stock
+A,01/04/2019 00:00:00,Smith Jeffrey C,4,A-Award,--D,2.214,5861.86,1,0001362697,"Common Stock, $0.0001 Par Value"
+D,12/10/2018 00:00:00,Cushing Robert B,4,F-InKind,--D,143,12937,1,0001682727,Common Stock
+D,12/10/2018 00:00:00,Finley Tammy M,4,F-InKind,--D,199,10192,1,0001595975,Common Stock
+D,11/20/2018 00:00:00,Broderick Michael T,4,F-InKind,--D,110,3168,1,0001552071,Common Stock
+A,11/19/2018 00:00:00,Slone Reuben E,4,A-Award,--D,2813,8117.953,1,0001518692,Common Stock
+D,11/16/2018 00:00:00,DIAS FIONA P,4,S-Sale,--D,1048,11692.516,1,0001209881,Common Stock
+A,11/01/2018 00:00:00,LEE EUGENE I JR,4,A-Award,--D,129.961,7693.638,1,0001242843,Common Stock
+A,11/01/2018 00:00:00,Ferraro John Francis,4,A-Award,--D,145.251,6373.07,1,0001633214,Common Stock
+A,11/01/2018 00:00:00,Slone Reuben E,4,A-Award,--D,116.965,5304.953,1,0001518692,Common Stock
+A,11/01/2018 00:00:00,Smith Jeffrey C,4,A-Award,--D,282.857,5859.646,1,0001362697,"Common Stock, $0.0001 Par Value"
+A,10/05/2018 00:00:00,Buss Brad W,4,A-Award,--D,1.152,4385.612,1,0001336664,Common Stock
+A,10/05/2018 00:00:00,Pertz Douglas A,4,A-Award,--D,0.452,2450.999,1,0001065425,Common Stock
+A,10/05/2018 00:00:00,Karaboutis Adriana,4,A-Award,--D,1.468,4427.246,1,0001619963,Common Stock
+A,10/05/2018 00:00:00,Ferraro John Francis,4,A-Award,--D,2.072,6227.819,1,0001633214,Common Stock
+A,10/05/2018 00:00:00,Slone Reuben E,4,A-Award,--D,1.467,5187.988,1,0001518692,Common Stock
+A,10/05/2018 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,4.787,18399.385,1,0001196937,Common Stock
+A,10/05/2018 00:00:00,LEE EUGENE I JR,4,A-Award,--D,1.605,7563.677,1,0001242843,Common Stock
+A,10/05/2018 00:00:00,TRAVIS NIGEL,4,A-Award,--D,0.233,1892.693,1,0001187789,Common Stock
+A,10/05/2018 00:00:00,DIAS FIONA P,4,A-Award,--D,3.782,12740.516,1,0001209881,Common Stock
+A,10/05/2018 00:00:00,Smith Jeffrey C,4,A-Award,--D,2.017,5576.789,1,0001362697,"Common Stock, $0.0001 Par Value"
+D,08/22/2018 00:00:00,Cushing Robert B,4,F-InKind,--D,17,13080,1,0001682727,Common Stock
+D,08/21/2018 00:00:00,Cushing Robert B,4,F-InKind,--D,484,13097,1,0001682727,Common Stock
+A,08/20/2018 00:00:00,TRAVIS NIGEL,4,A-Award,--D,642.46,1892.46,1,0001187789,Common Stock
+A,08/17/2018 00:00:00,TRAVIS NIGEL,4,P-Purchase,--D,1250,1250,1,0001187789,Common Stock
+A,08/01/2018 00:00:00,LEE EUGENE I JR,4,A-Award,--D,152.057,7562.072,1,0001242843,Common Stock
+A,08/01/2018 00:00:00,Ferraro John Francis,4,A-Award,--D,169.946,6225.747,1,0001633214,Common Stock
+A,08/01/2018 00:00:00,Slone Reuben E,4,A-Award,--D,136.852,5186.521,1,0001518692,Common Stock
+A,08/01/2018 00:00:00,Smith Jeffrey C,4,A-Award,--D,330.948,5574.772,1,0001362697,"Common Stock, $0.0001 Par Value"
+A,07/06/2018 00:00:00,DIAS FIONA P,4,A-Award,--D,4.57,12736.734,1,0001209881,Common Stock
+A,07/06/2018 00:00:00,Slone Reuben E,4,A-Award,--D,1.713,5049.669,1,0001518692,Common Stock
+A,07/06/2018 00:00:00,Karaboutis Adriana,4,A-Award,--D,1.775,4425.778,1,0001619963,Common Stock
+A,07/06/2018 00:00:00,Pertz Douglas A,4,A-Award,--D,0.547,2450.547,1,0001065425,Common Stock
+A,07/06/2018 00:00:00,Buss Brad W,4,A-Award,--D,1.392,4384.46,1,0001336664,Common Stock
+A,07/06/2018 00:00:00,LEE EUGENE I JR,4,A-Award,--D,1.873,7410.015,1,0001242843,Common Stock
+A,07/06/2018 00:00:00,Ferraro John Francis,4,A-Award,--D,2.429,6055.801,1,0001633214,Common Stock
+A,07/06/2018 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,5.784,18394.598,1,0001196937,Common Stock
+A,07/06/2018 00:00:00,Smith Jeffrey C,4,A-Award,--D,2.293,5243.824,1,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/29/2018 00:00:00,Shepherd Jeffrey W,4,A-Award,--D,2017,9342,1,0001700153,Common Stock
+A,05/29/2018 00:00:00,Slone Reuben E,4,A-Award,--D,1250,5047.956,1,0001518692,Common Stock
+A,05/29/2018 00:00:00,Buss Brad W,4,A-Award,--D,1250,4383.068,1,0001336664,Common Stock
+A,05/29/2018 00:00:00,Karaboutis Adriana,4,A-Award,--D,1250,4424.003,1,0001619963,Common Stock
+A,05/29/2018 00:00:00,Pertz Douglas A,4,A-Award,--D,1250,2450,1,0001065425,Common Stock
+A,05/29/2018 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,1250,18388.814,1,0001196937,Common Stock
+A,05/29/2018 00:00:00,DIAS FIONA P,4,A-Award,--D,1250,12732.164,1,0001209881,Common Stock
+A,05/29/2018 00:00:00,LEE EUGENE I JR,4,A-Award,--D,1250,7408.142,1,0001242843,Common Stock
+A,05/29/2018 00:00:00,Ferraro John Francis,4,A-Award,--D,1250,6053.372,1,0001633214,Common Stock
+A,05/29/2018 00:00:00,Smith Jeffrey C,4,A-Award,--D,1250,5241.531,1,0001362697,"Common Stock, $0.0001 Par Value"
+D,05/23/2018 00:00:00,Schechtman Natalie,4,F-InKind,--D,87,3937,1,0001675001,Common Stock
+A,05/01/2018 00:00:00,Ferraro John Francis,4,A-Award,--D,205.485,4803.372,1,0001633214,Common Stock
+A,05/01/2018 00:00:00,Slone Reuben E,4,A-Award,--D,165.47,3797.956,1,0001518692,Common Stock
+A,05/01/2018 00:00:00,LEE EUGENE I JR,4,A-Award,--D,183.855,6158.142,1,0001242843,Common Stock
+A,05/01/2018 00:00:00,Smith Jeffrey C,4,A-Award,--D,400.156,3991.531,1,0001362697,"Common Stock, $0.0001 Par Value"
+D,04/13/2018 00:00:00,Greco Thomas,4,F-InKind,--D,10945,124136,1,0001530813,Common Stock
+A,04/06/2018 00:00:00,Smith Jeffrey C,4,A-Award,--D,1.925,3591.375,1,0001362697,"Common Stock, $0.0001 Par Value"
+A,04/06/2018 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,6.416,17138.814,1,0001196937,Common Stock
+A,04/06/2018 00:00:00,LEE EUGENE I JR,4,A-Award,--D,1.527,5974.287,1,0001242843,Common Stock
+A,04/06/2018 00:00:00,DIAS FIONA P,4,A-Award,--D,5.59,11482.164,1,0001209881,Common Stock
+A,04/06/2018 00:00:00,Karaboutis Adriana,4,A-Award,--D,1.504,3174.003,1,0001619963,Common Stock
+A,04/06/2018 00:00:00,Slone Reuben E,4,A-Award,--D,1.34,3632.486,1,0001518692,Common Stock
+A,04/06/2018 00:00:00,Brouillard John C.,4,A-Award,--D,8.955,25335.884,1,0001291909,Common Stock
+A,04/06/2018 00:00:00,Buss Brad W,4,A-Award,--D,1.036,3133.068,1,0001336664,Common Stock
+A,04/06/2018 00:00:00,Oglesby William S,4,A-Award,--D,8.585,20726.144,1,0001310808,Common Stock
+A,04/06/2018 00:00:00,Ferraro John Francis,4,A-Award,--D,2.196,4597.887,1,0001633214,Common Stock
+A,03/21/2018 00:00:00,Greco Thomas,4,P-Purchase,--D,8640,135081,1,0001530813,Common Stock
+D,03/02/2018 00:00:00,Finley Tammy M,4,M-Exempt,--D,1296,0,4,0001595975,Stock Appreciation Rights
+D,03/02/2018 00:00:00,Finley Tammy M,4,S-Sale,--D,342,10391,3,0001595975,Common Stock
+D,03/02/2018 00:00:00,Finley Tammy M,4,F-InKind,--D,954,10733,2,0001595975,Common Stock
+A,03/02/2018 00:00:00,Finley Tammy M,4,M-Exempt,--D,1296,11687,1,0001595975,Common Stock
+A,03/01/2018 00:00:00,Shepherd Jeffrey W,4/A,A-Award,--D,2171,7058,2,0001700153,Common Stock
+D,03/01/2018 00:00:00,Shepherd Jeffrey W,4/A,F-InKind,--D,571,4887,1,0001700153,Common Stock
+A,03/01/2018 00:00:00,Cushing Robert B,4/A,A-Award,--D,1532,13581,2,0001682727,Common Stock
+D,03/01/2018 00:00:00,Cushing Robert B,4/A,F-InKind,--D,106,12049,1,0001682727,Common Stock
+A,03/01/2018 00:00:00,Shepherd Jeffrey W,4,A-Award,--D,2438,7325,2,0001700153,Common Stock
+D,03/01/2018 00:00:00,Shepherd Jeffrey W,4,F-InKind,--D,571,4887,1,0001700153,Common Stock
+A,03/01/2018 00:00:00,Finley Tammy M,4,A-Award,--D,1532,10391,2,0001595975,Common Stock
+D,03/01/2018 00:00:00,Finley Tammy M,4,F-InKind,--D,136,8859,1,0001595975,Common Stock
+A,03/01/2018 00:00:00,Schechtman Natalie,4,A-Award,--D,1532,4024,2,0001675001,Common Stock
+D,03/01/2018 00:00:00,Schechtman Natalie,4,F-InKind,--D,227,2492,1,0001675001,Common Stock
+A,03/01/2018 00:00:00,Cushing Robert B,4,A-Award,--D,1532,13739,2,0001682727,Common Stock
+D,03/01/2018 00:00:00,Cushing Robert B,4,F-InKind,--D,106,12207,1,0001682727,Common Stock
+A,03/01/2018 00:00:00,Greco Thomas,4,A-Award,--D,12765,126441,2,0001530813,Common Stock
+D,03/01/2018 00:00:00,Greco Thomas,4,F-InKind,--D,954,113676,1,0001530813,Common Stock
+A,03/01/2018 00:00:00,Okray Thomas B,4,A-Award,--D,3829,24557,2,0001689107,Common Stock
+D,03/01/2018 00:00:00,Okray Thomas B,4,F-InKind,--D,215,20728,1,0001689107,Common Stock
+A,03/01/2018 00:00:00,Broderick Michael T,4,A-Award,--D,1532,3278,1,0001552071,Common Stock
+D,02/23/2018 00:00:00,Brouillard John C.,4,S-Sale,--D,1745,25326.929,1,0001291909,Common Stock
+D,02/16/2018 00:00:00,Finley Tammy M,4,F-InKind,--D,134,8995,1,0001595975,Common Stock
+A,02/01/2018 00:00:00,LEE EUGENE I JR,4,A-Award,--D,181.175,5972.76,1,0001242843,Common Stock
+A,02/01/2018 00:00:00,Slone Reuben E,4,A-Award,--D,163.057,3631.146,1,0001518692,Common Stock
+A,02/01/2018 00:00:00,Ferraro John Francis,4,A-Award,--D,202.49,4595.691,1,0001633214,Common Stock
+A,02/01/2018 00:00:00,Smith Jeffrey C,4,A-Award,--D,394.322,3589.45,1,0001362697,"Common Stock, $0.0001 Par Value"
+A,01/05/2018 00:00:00,Brouillard John C.,4,A-Award,--D,8.929,27071.929,1,0001291909,Common Stock
+A,01/05/2018 00:00:00,Oglesby William S,4,A-Award,--D,8.559,20717.559,1,0001310808,Common Stock
+A,01/05/2018 00:00:00,Karaboutis Adriana,4,A-Award,--D,1.499,3172.499,1,0001619963,Common Stock
+A,01/05/2018 00:00:00,LEE EUGENE I JR,4,A-Award,--D,1.425,5791.585,1,0001242843,Common Stock
+A,01/05/2018 00:00:00,Buss Brad W,4,A-Award,--D,1.032,3132.032,1,0001336664,Common Stock
+A,01/05/2018 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,6.398,17132.398,1,0001196937,Common Stock
+A,01/05/2018 00:00:00,Slone Reuben E,4,A-Award,--D,1.249,3468.089,1,0001518692,Common Stock
+A,01/05/2018 00:00:00,DIAS FIONA P,4,A-Award,--D,5.574,11476.574,1,0001209881,Common Stock
+A,01/05/2018 00:00:00,Ferraro John Francis,4,A-Award,--D,2.081,4393.201,1,0001633214,Common Stock
+A,01/05/2018 00:00:00,Smith Jeffrey C,4,A-Award,--D,1.709,3195.13,1,0001362697,"Common Stock, $0.0001 Par Value"
+D,12/08/2017 00:00:00,Finley Tammy M,4,F-InKind,--D,219,9129,1,0001595975,Common Stock
+D,12/08/2017 00:00:00,Cushing Robert B,4,F-InKind,--D,158,12155,1,0001682727,Common Stock
+D,12/04/2017 00:00:00,Carter William Harrison,4,F-InKind,--D,8,9818,1,0001518981,Common Stock
+D,12/04/2017 00:00:00,Cushing Robert B,4,F-InKind,--D,163,12313,1,0001682727,Common Stock
+D,12/01/2017 00:00:00,Finley Tammy M,4,F-InKind,--D,101,9348,1,0001595975,Common Stock
+D,11/21/2017 00:00:00,Okray Thomas B,4,F-InKind,--D,3989,20943,1,0001689107,Common Stock
+A,11/20/2017 00:00:00,Okray Thomas B,4,A-Award,--D,10937,24932,1,0001689107,Common Stock
+A,11/01/2017 00:00:00,Slone Reuben E,4,A-Award,--D,236.84,3465.84,1,0001518692,Common Stock
+A,11/01/2017 00:00:00,LEE EUGENE I JR,4,A-Award,--D,263.16,5788.16,1,0001242843,Common Stock
+A,11/01/2017 00:00:00,Ferraro John Francis,4,A-Award,--D,294.12,4388.12,1,0001633214,Common Stock
+A,11/01/2017 00:00:00,Smith Jeffrey C,4,A-Award,--D,572.755,3191.755,1,0001362697,"Common Stock, $0.0001 Par Value"
+A,10/06/2017 00:00:00,Brouillard John C.,4,A-Award,--D,10,27063,1,0001291909,Common Stock
+A,10/06/2017 00:00:00,LEE EUGENE I JR,4,A-Award,--D,2,5790.16,1,0001242843,Common Stock
+A,10/06/2017 00:00:00,Slone Reuben E,4,A-Award,--D,1,3466.84,1,0001518692,Common Stock
+A,10/06/2017 00:00:00,DIAS FIONA P,4,A-Award,--D,8,11471,1,0001209881,Common Stock
+A,10/06/2017 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,8,17126,1,0001196937,Common Stock
+A,10/06/2017 00:00:00,Karaboutis Adriana,4,A-Award,--D,2,3171,1,0001619963,Common Stock
+A,10/06/2017 00:00:00,Oglesby William S,4,A-Award,--D,10,20709,1,0001310808,Common Stock
+A,10/06/2017 00:00:00,Ferraro John Francis,4,A-Award,--D,3,4391.12,1,0001633214,Common Stock
+A,10/06/2017 00:00:00,Buss Brad W,4,A-Award,--D,2,3131,1,0001336664,Common Stock
+A,10/06/2017 00:00:00,Smith Jeffrey C,4,A-Award,--D,1.666,3193.421,1,0001362697,"Common Stock, $0.0001 Par Value"
+D,08/22/2017 00:00:00,Cushing Robert B,4,F-InKind,--D,19,12476,1,0001682727,Common Stock
+A,08/21/2017 00:00:00,Cushing Robert B,4,A-Award,--D,5253,12495,1,0001682727,Common Stock
+A,08/01/2017 00:00:00,LEE EUGENE I JR,4,A-Award,--D,186,5525,1,0001242843,Common Stock
+A,08/01/2017 00:00:00,Ferraro John Francis,4,A-Award,--D,208,4094,1,0001633214,Common Stock
+A,08/01/2017 00:00:00,Slone Reuben E,4,A-Award,--D,168,3229,1,0001518692,Common Stock
+A,08/01/2017 00:00:00,Smith Jeffrey C,4,A-Award,--D,405,2619,1,0001362697,"Common Stock, $0.0001 Par Value"
+A,07/07/2017 00:00:00,Ferraro John Francis,4,A-Award,--D,2,3886,1,0001633214,Common Stock
+A,07/07/2017 00:00:00,Buss Brad W,4,A-Award,--D,1,3129,1,0001336664,Common Stock
+A,07/07/2017 00:00:00,Brouillard John C.,4,A-Award,--D,10,27053,1,0001291909,Common Stock
+A,07/07/2017 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,7,17118,1,0001196937,Common Stock
+A,07/07/2017 00:00:00,Slone Reuben E,4,A-Award,--D,1,3061,1,0001518692,Common Stock
+A,07/07/2017 00:00:00,DIAS FIONA P,4,A-Award,--D,6,11463,1,0001209881,Common Stock
+A,07/07/2017 00:00:00,LEE EUGENE I JR,4,A-Award,--D,1,5339,1,0001242843,Common Stock
+A,07/07/2017 00:00:00,Karaboutis Adriana,4,A-Award,--D,1,3169,1,0001619963,Common Stock
+A,07/07/2017 00:00:00,Oglesby William S,4,A-Award,--D,10,20699,1,0001310808,Common Stock
+A,07/07/2017 00:00:00,Smith Jeffrey C,4,A-Award,--D,1,2214,1,0001362697,"Common Stock, $0.0001 Par Value"
+A,06/02/2017 00:00:00,Karaboutis Adriana,4,P-Purchase,--D,125,3168,2,0001619963,Common Stock
+A,06/01/2017 00:00:00,Karaboutis Adriana,4,P-Purchase,--D,242,3043,1,0001619963,Common Stock
+A,05/31/2017 00:00:00,Slone Reuben E,4,P-Purchase,--D,500,3060,2,0001518692,Common Stock
+A,05/31/2017 00:00:00,Buss Brad W,4,P-Purchase,--D,1200,3128,2,0001336664,Common Stock
+A,05/30/2017 00:00:00,Oglesby William S,4,A-Award,--D,940,20689,1,0001310808,Common Stock
+A,05/30/2017 00:00:00,Brouillard John C.,4,A-Award,--D,940,27043,1,0001291909,Common Stock
+A,05/30/2017 00:00:00,DIAS FIONA P,4,A-Award,--D,940,11457,1,0001209881,Common Stock
+A,05/30/2017 00:00:00,Slone Reuben E,4,A-Award,--D,940,2560,1,0001518692,Common Stock
+A,05/30/2017 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,940,17111,1,0001196937,Common Stock
+A,05/30/2017 00:00:00,Buss Brad W,4,A-Award,--D,940,1928,1,0001336664,Common Stock
+A,05/30/2017 00:00:00,Karaboutis Adriana,4,A-Award,--D,940,2801,1,0001619963,Common Stock
+A,05/30/2017 00:00:00,Ferraro John Francis,4,A-Award,--D,940,3884,1,0001633214,Common Stock
+A,05/30/2017 00:00:00,LEE EUGENE I JR,4,A-Award,--D,940,5338,1,0001242843,Common Stock
+A,05/30/2017 00:00:00,Smith Jeffrey C,4,A-Award,--D,940,2213,1,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/30/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,5776,1110079,24,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/30/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,1112,81778,23,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/30/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,217,141771,22,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/30/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,17895,1221425,21,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/30/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,5776,1104303,20,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/30/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,1113,80666,19,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/30/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,216,141554,18,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/30/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,17895,1203530,17,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/26/2017 00:00:00,Greco Thomas,4,P-Purchase,--D,3600,114630,2,0001530813,Common Stock
+A,05/26/2017 00:00:00,Greco Thomas,4,P-Purchase,--D,12400,111030,1,0001530813,Common Stock
+A,05/26/2017 00:00:00,LEE EUGENE I JR,4,P-Purchase,--D,1895,4398,1,0001242843,Common Stock
+A,05/26/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,33302,1098527,16,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/26/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,5756,79553,15,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/26/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,8829,141338,14,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/26/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,92574,1185635,13,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/26/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,948,1065225,12,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/26/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,164,73797,11,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/26/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,252,132509,10,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/26/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,2636,1093061,9,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/26/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,21312,1064277,8,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/26/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,3684,73633,7,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/26/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,5651,132257,6,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/26/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,59246,1090425,5,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/26/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,15564,1042965,4,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/26/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,2690,69949,3,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/26/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,4126,126606,2,0001362697,"Common Stock, $0.0001 Par Value"
+A,05/26/2017 00:00:00,Smith Jeffrey C,4,P-Purchase,--I,43266,1031179,1,0001362697,"Common Stock, $0.0001 Par Value"
+D,05/23/2017 00:00:00,Schechtman Natalie,4,F-InKind,--D,95,2719,1,0001675001,Common Stock
+D,04/13/2017 00:00:00,Greco Thomas,4,F-InKind,--D,9306,98630,1,0001530813,Common Stock
+A,04/07/2017 00:00:00,BERGSTROM JOHN F,4,A-Award,--D,5,16171,1,0001196937,Common Stock
+A,04/07/2017 00:00:00,Karaboutis Adriana,4,A-Award,--D,1,1861,1,0001619963,Common Stock
+A,04/07/2017 00:00:00,Ferraro John Francis,4,A-Award,--D,1,2944,1,0001633214,Common Stock
+A,04/07/2017 00:00:00,LEE EUGENE I JR,4,A-Award,--D,1,2503,1,0001242843,Common Stock
+A,04/07/2017 00:00:00,DIAS FIONA P,4,A-Award,--D,5,10517,1,0001209881,Common Stock
+A,04/07/2017 00:00:00,Brouillard John C.,4,A-Award,--D,7,26103,1,0001291909,Common Stock
+A,04/07/2017 00:00:00,Oglesby William S,4,A-Award,--D,6,19749,1,0001310808,Common Stock
+A,04/07/2017 00:00:00,Smith Jeffrey C,4,A-Award,--D,1,1273,1,0001362697,"Common Stock, $0.0001 Par Value"
+D,03/20/2017 00:00:00,Carter William Harrison,4,M-Exempt,--D,204,0,8,0001518981,Stock Appreciation Rights
+D,03/20/2017 00:00:00,Carter William Harrison,4,M-Exempt,--D,598,0,7,0001518981,Stock Appreciation Rights
+D,03/20/2017 00:00:00,Carter William Harrison,4,M-Exempt,--D,7329,0,6,0001518981,Stock Appreciation Right
+D,03/20/2017 00:00:00,Carter William Harrison,4,S-Sale,--D,2690,9826,5,0001518981,Common Stock
+D,03/20/2017 00:00:00,Carter William Harrison,4,F-InKind,--D,5441,12516,4,0001518981,Common Stock
+A,03/20/2017 00:00:00,Carter William Harrison,4,M-Exempt,--D,204,17957,3,0001518981,Common Stock
+A,03/20/2017 00:00:00,Carter William Harrison,4,M-Exempt,--D,598,17753,2,0001518981,Common Stock
+A,03/20/2017 00:00:00,Carter William Harrison,4,M-Exempt,--D,7329,17155,1,0001518981,Common Stock
+D,03/13/2017 00:00:00,Tyson Charles E,4,S-Sale,--D,3733,5021,10,0001456483,Common Stock
+D,03/13/2017 00:00:00,Tyson Charles E,4,S-Sale,--D,12811,8754,9,0001456483,Common Stock

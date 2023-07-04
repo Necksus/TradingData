@@ -1,0 +1,481 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,05/04/2023 00:00:00,Berger Larry L,4,A-Award,--D,950,950,1,0001433832,Capital (Common) Stock
+A,05/04/2023 00:00:00,Roby Anne K,4,A-Award,--D,950,1150,1,0001595290,Capital (Common) Stock
+A,05/04/2023 00:00:00,OWENS JEFFREY J,4,A-Award,--D,950,7800,1,0001193575,Capital (Common) Stock
+A,05/04/2023 00:00:00,MOORTHY GANESH,4,A-Award,--D,950,12250,1,0001218184,Capital (Common) Stock
+A,05/04/2023 00:00:00,Lauzon Armand F Jr,4,A-Award,--D,950,2150,1,0001753173,Capital (Common) Stock
+A,05/04/2023 00:00:00,Faust Megan,4,A-Award,--D,950,2850,1,0001684564,Capital (Common) Stock
+A,05/04/2023 00:00:00,BARNES KEITH,4,A-Award,--D,950,2770,1,0001268517,Capital (Common) Stock
+A,05/04/2023 00:00:00,Wallace Peter C,4,A-Award,--D,1050,14097,1,0001295366,Capital (Common) Stock
+D,05/03/2023 00:00:00,Mayampurath Ramakumar,4,S-Sale,--D,1200,17152,1,0001859332,Capital (Common) Stock
+A,05/01/2023 00:00:00,Roby Anne K,4,P-Purchase,--I,300,300,1,0001595290,Capital (Common) Stock
+D,05/01/2023 00:00:00,Mayampurath Ramakumar,4,F-InKind,--D,83,18352,1,0001859332,Capital (Common) Stock
+A,04/11/2023 00:00:00,Webb Michael Reed,4,A-Award,--D,2190,2190,1,0001970916,Common (Capital) Stock
+A,03/11/2023 00:00:00,Morton Jessica Ann,4,A-Award,--D,2305,2305,1,0001968573,Capital (Common) Stock
+A,03/09/2023 00:00:00,Roby Anne K,4,A-Award,--D,200,200,1,0001595290,Capital (Common) Stock
+A,03/09/2023 00:00:00,Lauzon Armand F Jr,4,A-Award,--D,200,1200,1,0001753173,Capital (Common) Stock
+D,03/03/2023 00:00:00,Jensen Carol R,4,S-Sale,--D,1000,12538,1,0001353726,Capital (Common) Stock
+D,02/14/2023 00:00:00,Mayampurath Ramakumar,4,F-InKind,--D,316,18435,1,0001859332,Capital (Common) Stock
+D,02/14/2023 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,208,11341.115,1,0001267540,Capital (Common) Stock
+D,02/14/2023 00:00:00,Gouveia Randall Colin,4,F-InKind,--D,309,19504,1,0001572272,Capital (Common) Stock
+D,02/14/2023 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,1727,113271.953,1,0001531814,Capital (Common) Stock
+D,02/12/2023 00:00:00,Weaver Mark,4,F-InKind,--D,38,2799.54,1,0001420485,Capital (Common) Stock
+D,02/12/2023 00:00:00,Mayampurath Ramakumar,4,F-InKind,--D,47,18751,1,0001859332,Capital (Common) Stock
+D,02/12/2023 00:00:00,Larabee Brian Keith,4,F-InKind,--D,40,3188,1,0001963524,Capital (Common) Stock
+D,02/12/2023 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,226,11549.115,1,0001267540,Capital (Common) Stock
+D,02/12/2023 00:00:00,Gouveia Randall Colin,4,F-InKind,--D,224,19813,1,0001572272,Capital (Common) Stock
+D,02/12/2023 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,974,114998.953,1,0001531814,Capital (Common) Stock
+D,02/10/2023 00:00:00,Weaver Mark,4,F-InKind,--D,33,2837.54,2,0001420485,Capital (Common) Stock
+D,02/10/2023 00:00:00,Mayampurath Ramakumar,4,F-InKind,--D,51,18798,2,0001859332,Capital (Common) Stock
+D,02/10/2023 00:00:00,Larabee Brian Keith,4,F-InKind,--D,34,3228,2,0001963524,Capital (Common) Stock
+D,02/10/2023 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,165,11775.115,2,0001267540,Capital (Common) Stock
+D,02/10/2023 00:00:00,Gouveia Randall Colin,4,F-InKind,--D,238,20037,2,0001572272,Capital (Common) Stock
+D,02/10/2023 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,1019,115972.953,2,0001531814,Capital (Common) Stock
+A,02/09/2023 00:00:00,Weaver Mark,4,A-Award,--D,400,2870.54,4,0001420485,Capital (Common) Stock
+D,02/09/2023 00:00:00,Weaver Mark,4,F-InKind,--D,42,2470.54,3,0001420485,Capital (Common) Stock
+D,02/09/2023 00:00:00,Weaver Mark,4,F-InKind,--D,33,2512.54,2,0001420485,Capital (Common) Stock
+A,02/09/2023 00:00:00,Weaver Mark,4,A-Award,--D,96,2545.54,1,0001420485,Capital (Common) Stock
+A,02/09/2023 00:00:00,Larabee Brian Keith,4,A-Award,--D,2265,3262,4,0001963524,Capital (Common) Stock
+D,02/09/2023 00:00:00,Larabee Brian Keith,4,F-InKind,--D,45,997,3,0001963524,Capital (Common) Stock
+D,02/09/2023 00:00:00,Larabee Brian Keith,4,F-InKind,--D,31,1042,2,0001963524,Capital (Common) Stock
+A,02/09/2023 00:00:00,Larabee Brian Keith,4,A-Award,--D,83,1073,1,0001963524,Capital (Common) Stock
+A,02/09/2023 00:00:00,Mayampurath Ramakumar,4,A-Award,--D,3724,18849,3,0001859332,Capital (Common) Stock
+D,02/09/2023 00:00:00,Mayampurath Ramakumar,4,F-InKind,--D,37,15125,2,0001859332,Capital (Common) Stock
+A,02/09/2023 00:00:00,Mayampurath Ramakumar,4,A-Award,--D,109,15162,1,0001859332,Capital (Common) Stock
+A,02/09/2023 00:00:00,DAIGLE ROBERT C,4,A-Award,--D,616,12145.115,2,0001267540,Capital (Common) Stock
+D,02/09/2023 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,205,11940.115,1,0001267540,Capital (Common) Stock
+A,02/09/2023 00:00:00,Gouveia Randall Colin,4,A-Award,--D,11640,20275,3,0001572272,Capital (Common) Stock
+D,02/09/2023 00:00:00,Gouveia Randall Colin,4,F-InKind,--D,198,8635,2,0001572272,Capital (Common) Stock
+A,02/09/2023 00:00:00,Gouveia Randall Colin,4,A-Award,--D,603,8833,1,0001572272,Capital (Common) Stock
+D,02/09/2023 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,1076,116991.953,2,0001531814,Capital (Common) Stock
+A,02/09/2023 00:00:00,Hoechner Bruce D.,4,A-Award,--D,3832,118067.953,1,0001531814,Capital (Common) Stock
+A,01/30/2023 00:00:00,Schmid Lawrence Erwin,4,A-Award,--D,3000,3000,1,0001962545,Capital (Common) Stock
+A,12/08/2022 00:00:00,Mayampurath Ramakumar,4,A-Award,--D,9530,15053,1,0001859332,Capital (Common) Stock
+A,11/22/2022 00:00:00,Wallace Peter C,4,P-Purchase,--D,1000,13047,1,0001295366,Capital (Common) Stock
+A,11/22/2022 00:00:00,OWENS JEFFREY J,4,P-Purchase,--D,1000,6850,1,0001193575,Capital (Common) Stock
+A,11/21/2022 00:00:00,Wallace Peter C,4,P-Purchase,--D,2000,12047,2,0001295366,Capital (Common) Stock
+D,08/19/2022 00:00:00,Gouveia Randall Colin,4,S-Sale,--D,1502,8230,1,0001572272,Capital (Common) Stock
+D,07/22/2022 00:00:00,Williams Peter Bennett,4,F-InKind,--D,119,8217,1,0001781553,Capital (Common) Stock
+D,06/09/2022 00:00:00,BARNES KEITH,4,S-Sale,--D,400,1820,1,0001268517,Capital (Common) Stock
+D,06/03/2022 00:00:00,Rowntree Jonathan James,4,F-InKind,--D,30,7252,1,0001778738,Capital (Common) Stock
+D,06/03/2022 00:00:00,Gouveia Randall Colin,4,F-InKind,--D,210,9732,1,0001572272,Capital (Common) Stock
+D,05/20/2022 00:00:00,Hoechner Bruce D.,5,G-Gift,--D,14591,102341.953,1,0001531814,Capital (Common) Stock
+A,05/05/2022 00:00:00,LARSON KEITH R,4,A-Award,--D,600,1900,1,0001401658,Capital (Common) Stock
+A,05/05/2022 00:00:00,Faust Megan,4,A-Award,--D,600,1900,1,0001684564,Capital (Common) Stock
+A,05/05/2022 00:00:00,SIMONET HELENE,4,A-Award,--D,600,10500,1,0001234297,Capital (Common) Stock
+A,05/05/2022 00:00:00,OWENS JEFFREY J,4,A-Award,--D,600,5850,1,0001193575,Capital (Common) Stock
+A,05/05/2022 00:00:00,MOORTHY GANESH,4,A-Award,--D,600,11300,1,0001218184,Capital (Common) Stock
+A,05/05/2022 00:00:00,Jensen Carol R,4,A-Award,--D,600,13538,1,0001353726,Capital (Common) Stock
+A,05/05/2022 00:00:00,BARNES KEITH,4,A-Award,--D,600,2220,1,0001268517,Capital (Common) Stock
+A,05/05/2022 00:00:00,Wallace Peter C,4,A-Award,--D,600,10047,1,0001295366,Capital (Common) Stock
+D,05/01/2022 00:00:00,Mayampurath Ramakumar,4,F-InKind,--D,88,5523,1,0001859332,Capital (Common) Stock
+A,02/16/2022 00:00:00,Williams Peter Bennett,4,A-Award,--D,2670,8336,1,0001781553,Capital (Common) Stock
+A,02/14/2022 00:00:00,Rowntree Jonathan James,4,A-Award,--D,2910,7282,1,0001778738,Capital (Common) Stock
+A,02/14/2022 00:00:00,Mayampurath Ramakumar,4,A-Award,--D,3250,5611,1,0001859332,Capital (Common) Stock
+A,02/14/2022 00:00:00,Knoll Jay B,4,A-Award,--D,2570,13247,1,0001365208,Capital (Common) Stock
+A,02/14/2022 00:00:00,Gouveia Randall Colin,4,A-Award,--D,3210,9942,1,0001572272,Capital (Common) Stock
+A,02/14/2022 00:00:00,DAIGLE ROBERT C,4,A-Award,--D,2230,11529.115,1,0001267540,Capital (Common) Stock
+A,02/14/2022 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,A-Award,--D,2090,6313.474,1,0001765529,Capital (Common) Stock
+A,02/14/2022 00:00:00,Hoechner Bruce D.,4,A-Award,--D,12190,116932.953,1,0001531814,Capital (Common) Stock
+D,02/12/2022 00:00:00,Williams Peter Bennett,4,F-InKind,--D,222,5666,1,0001781553,Capital (Common) Stock
+D,02/12/2022 00:00:00,Weaver Mark,4,F-InKind,--D,36,2449.54,1,0001420485,Capital (Common) Stock
+D,02/12/2022 00:00:00,Rowntree Jonathan James,4,F-InKind,--D,218,4372,1,0001778738,Capital (Common) Stock
+D,02/12/2022 00:00:00,Mayampurath Ramakumar,4,F-InKind,--D,42,2361,1,0001859332,Capital (Common) Stock
+D,02/12/2022 00:00:00,Knoll Jay B,4,F-InKind,--D,349,10677,1,0001365208,Capital (Common) Stock
+D,02/12/2022 00:00:00,Gouveia Randall Colin,4,F-InKind,--D,265,6732,1,0001572272,Capital (Common) Stock
+D,02/12/2022 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,352,9299.115,1,0001267540,Capital (Common) Stock
+D,02/12/2022 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,97,4223.474,1,0001765529,Capital (Common) Stock
+D,02/12/2022 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,1457,104742.953,1,0001531814,Capital (Common) Stock
+D,02/10/2022 00:00:00,Williams Peter Bennett,4,F-InKind,--D,239,5888,1,0001781553,Capital (Common) Stock
+D,02/10/2022 00:00:00,Weaver Mark,4,F-InKind,--D,29,2485.54,1,0001420485,Capital (Common) Stock
+D,02/10/2022 00:00:00,Rowntree Jonathan James,4,F-InKind,--D,240,4590,1,0001778738,Capital (Common) Stock
+D,02/10/2022 00:00:00,Mayampurath Ramakumar,4,F-InKind,--D,46,2403,1,0001859332,Capital (Common) Stock
+D,02/10/2022 00:00:00,Knoll Jay B,4,F-InKind,--D,276,11026,1,0001365208,Capital (Common) Stock
+D,02/10/2022 00:00:00,Gouveia Randall Colin,4,F-InKind,--D,236,6997,1,0001572272,Capital (Common) Stock
+D,02/10/2022 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,263,9651.115,1,0001267540,Capital (Common) Stock
+D,02/10/2022 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,131,4320.474,1,0001765529,Capital (Common) Stock
+D,02/10/2022 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,1066,106199.953,1,0001531814,Capital (Common) Stock
+D,02/09/2022 00:00:00,Williams Peter Bennett,4,F-InKind,--D,658,6127,2,0001781553,Capital (Common) Stock
+A,02/09/2022 00:00:00,Williams Peter Bennett,4,A-Award,--D,1662,6785,1,0001781553,Capital (Common) Stock
+A,02/09/2022 00:00:00,Weaver Mark,4,A-Award,--D,360,2514.54,3,0001420485,Capital (Common) Stock
+D,02/09/2022 00:00:00,Weaver Mark,4,F-InKind,--D,220,2154.54,2,0001420485,Capital (Common) Stock
+A,02/09/2022 00:00:00,Weaver Mark,4,A-Award,--D,708,2374.54,1,0001420485,Capital (Common) Stock
+D,02/09/2022 00:00:00,Rowntree Jonathan James,4,F-InKind,--D,180,4830,2,0001778738,Capital (Common) Stock
+A,02/09/2022 00:00:00,Rowntree Jonathan James,4,A-Award,--D,416,5010,1,0001778738,Capital (Common) Stock
+D,02/09/2022 00:00:00,Mayampurath Ramakumar,4,F-InKind,--D,306,2449,2,0001859332,Capital (Common) Stock
+A,02/09/2022 00:00:00,Mayampurath Ramakumar,4,A-Award,--D,1005,2755,1,0001859332,Capital (Common) Stock
+D,02/09/2022 00:00:00,Knoll Jay B,4,F-InKind,--D,1715,11302,2,0001365208,Capital (Common) Stock
+A,02/09/2022 00:00:00,Knoll Jay B,4,A-Award,--D,3856,13017,1,0001365208,Capital (Common) Stock
+D,02/09/2022 00:00:00,Gouveia Randall Colin,4,F-InKind,--D,691,7233,2,0001572272,Capital (Common) Stock
+A,02/09/2022 00:00:00,Gouveia Randall Colin,4,A-Award,--D,2367,7924,1,0001572272,Capital (Common) Stock
+D,02/09/2022 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,1876,9914.115,2,0001267540,Capital (Common) Stock
+A,02/09/2022 00:00:00,DAIGLE ROBERT C,4,A-Award,--D,4218,11790.115,1,0001267540,Capital (Common) Stock
+D,02/09/2022 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,440,4451.474,2,0001765529,Capital (Common) Stock
+A,02/09/2022 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,A-Award,--D,965,4891.474,1,0001765529,Capital (Common) Stock
+D,02/09/2022 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,10711,107265.953,2,0001531814,Capital (Common) Stock
+A,02/09/2022 00:00:00,Hoechner Bruce D.,4,A-Award,--D,24095,117976.953,1,0001531814,Capital (Common) Stock
+D,02/07/2022 00:00:00,Weaver Mark,4,F-InKind,--D,45,1666.54,1,0001420485,Capital (Common) Stock
+D,02/07/2022 00:00:00,Mayampurath Ramakumar,4,F-InKind,--D,65,1750,1,0001859332,Capital (Common) Stock
+D,02/07/2022 00:00:00,Knoll Jay B,4,F-InKind,--D,337,9161,1,0001365208,Capital (Common) Stock
+D,02/07/2022 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,367,7572.115,1,0001267540,Capital (Common) Stock
+D,02/07/2022 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,89,3926.474,1,0001765529,Capital (Common) Stock
+D,02/07/2022 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,1333,93881.953,1,0001531814,Capital (Common) Stock
+D,11/02/2021 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,3083,7891.115,1,0001267540,Capital (Common) Stock
+D,08/19/2021 00:00:00,BARNES KEITH,4,S-Sale,--D,3130,1620,1,0001268517,Capital (Common) Stock
+D,07/22/2021 00:00:00,Williams Peter Bennett,4,F-InKind,--D,118,5123,1,0001781553,Capital (Common) Stock
+D,06/10/2021 00:00:00,BARNES KEITH,4,S-Sale,--D,775,4750,1,0001268517,Capital (Common) Stock
+D,06/03/2021 00:00:00,Rowntree Jonathan James,4,F-InKind,--D,30,4594,1,0001778738,Capital (Common) Stock
+D,06/03/2021 00:00:00,Gouveia Randall Colin,4,F-InKind,--D,142,5557,1,0001572272,Capital (Common) Stock
+D,05/07/2021 00:00:00,Knoll Jay B,4,S-Sale,--D,1184,9765,1,0001365208,Capital (Common) Stock
+D,05/06/2021 00:00:00,Knoll Jay B,4,G-Gift,--D,267,9498,1,0001365208,Capital (Common) Stock
+A,05/05/2021 00:00:00,SIMONET HELENE,4,A-Award,--D,800,9900,1,0001234297,Capital (Common) Stock
+A,05/05/2021 00:00:00,OWENS JEFFREY J,4,A-Award,--D,800,5250,1,0001193575,Capital (Common) Stock
+A,05/05/2021 00:00:00,LARSON KEITH R,4,A-Award,--D,800,1300,1,0001401658,Capital (Common) Stock
+A,05/05/2021 00:00:00,MOORTHY GANESH,4,A-Award,--D,800,10700,1,0001218184,Capital (Common) Stock
+A,05/05/2021 00:00:00,Jensen Carol R,4,A-Award,--D,800,12938,1,0001353726,Capital (Common) Stock
+A,05/05/2021 00:00:00,Faust Megan,4,A-Award,--D,800,1300,1,0001684564,Capital (Common) Stock
+A,05/05/2021 00:00:00,BARNES KEITH,4,A-Award,--D,800,5525,1,0001268517,Capital (Common) Stock
+A,05/05/2021 00:00:00,Wallace Peter C,4,A-Award,--D,850,9447,1,0001295366,Capital (Common) Stock
+A,05/01/2021 00:00:00,Mayampurath Ramakumar,4,A-Award,--D,890,1815,1,0001859332,Capital (Common) Stock
+D,04/16/2021 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,1799,89565.953,2,0001531814,Capital (Common) Stock
+D,04/16/2021 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,4901,91364.953,1,0001531814,Capital (Common) Stock
+D,03/02/2021 00:00:00,Jensen Carol R,4,S-Sale,--D,200,12138,2,0001353726,Capital (Common) Stock
+D,03/02/2021 00:00:00,Jensen Carol R,4,S-Sale,--D,1200,12338,1,0001353726,Capital (Common) Stock
+D,02/24/2021 00:00:00,Knoll Jay B,4,S-Sale,--D,813,10949,4,0001365208,Capital (Common) Stock
+D,02/24/2021 00:00:00,Knoll Jay B,4,S-Sale,--D,107,11762,3,0001365208,Capital (Common) Stock
+D,02/24/2021 00:00:00,Knoll Jay B,4,S-Sale,--D,40,11869,2,0001365208,Capital (Common) Stock
+D,02/24/2021 00:00:00,Knoll Jay B,4,S-Sale,--D,40,11909,1,0001365208,Capital (Common) Stock
+D,02/22/2021 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,S-Sale,--D,155,3949.474,1,0001765529,Capital (Common) Stock
+D,02/22/2021 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,1900,10874.115,1,0001267540,Capital (Common) Stock
+D,02/22/2021 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,1900,10874.115,1,0001267540,Capital (Common) Stock
+D,02/19/2021 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,2931,100034.953,4,0001531814,Capital (Common) Stock
+D,02/19/2021 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,2629,97405.953,3,0001531814,Capital (Common) Stock
+D,02/19/2021 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,440,96965.953,2,0001531814,Capital (Common) Stock
+D,02/19/2021 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,700,96265.953,1,0001531814,Capital (Common) Stock
+D,02/12/2021 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,1360,102965.953,1,0001531814,Capital (Common) Stock
+D,02/12/2021 00:00:00,Knoll Jay B,4,F-InKind,--D,231,11949,1,0001365208,Capital (Common) Stock
+D,02/12/2021 00:00:00,Rowntree Jonathan James,4,F-InKind,--D,246,4624,1,0001778738,Capital (Common) Stock
+D,02/12/2021 00:00:00,LUDWIG MICHAEL M,4,F-InKind,--D,327,7123,1,0001256949,Capital (Common) Stock
+D,02/12/2021 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,233,12774.115,1,0001267540,Capital (Common) Stock
+D,02/12/2021 00:00:00,Williams Peter Bennett,4,F-InKind,--D,250,5241,1,0001781553,Capital (Common) Stock
+D,02/12/2021 00:00:00,Weaver Mark,4,F-InKind,--D,44,1711.54,1,0001420485,Capital (Common) Stock
+D,02/12/2021 00:00:00,Gouveia Randall Colin,4,F-InKind,--D,274,5699,1,0001572272,Capital (Common) Stock
+D,02/12/2021 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,114,4104.474,1,0001765529,Capital (Common) Stock
+A,02/10/2021 00:00:00,Weaver Mark,4,A-Award,--D,290,1755.54,1,0001420485,Capital (Common) Stock
+A,02/10/2021 00:00:00,Rowntree Jonathan James,4,A-Award,--D,2450,4870,1,0001778738,Capital (Common) Stock
+A,02/10/2021 00:00:00,Gouveia Randall Colin,4,A-Award,--D,2480,5973,1,0001572272,Capital (Common) Stock
+A,02/10/2021 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,A-Award,--D,1330,4218.474,1,0001765529,Capital (Common) Stock
+A,02/10/2021 00:00:00,Hoechner Bruce D.,4,A-Award,--D,7190,104325.953,1,0001531814,Capital (Common) Stock
+A,02/10/2021 00:00:00,Williams Peter Bennett,4,A-Award,--D,2430,5491,1,0001781553,Capital (Common) Stock
+A,02/10/2021 00:00:00,DAIGLE ROBERT C,4,A-Award,--D,1770,13007.115,1,0001267540,Capital (Common) Stock
+A,02/10/2021 00:00:00,Knoll Jay B,4,A-Award,--D,1860,12180,1,0001365208,Capital (Common) Stock
+D,02/08/2021 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,39,2888.474,1,0001765529,Capital (Common) Stock
+D,02/08/2021 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,934,97135.953,1,0001531814,Capital (Common) Stock
+D,02/08/2021 00:00:00,Weaver Mark,4,F-InKind,--D,32,1465.54,1,0001420485,Capital (Common) Stock
+D,02/08/2021 00:00:00,Knoll Jay B,4,F-InKind,--D,212,10320,1,0001365208,Capital (Common) Stock
+D,02/08/2021 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,224,11237.115,1,0001267540,Capital (Common) Stock
+D,02/07/2021 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,380,11461.115,1,0001267540,Capital (Common) Stock
+D,02/07/2021 00:00:00,LUDWIG MICHAEL M,4,F-InKind,--D,416,7450,1,0001256949,Capital (Common) Stock
+D,02/07/2021 00:00:00,Weaver Mark,4,F-InKind,--D,46,1497.54,1,0001420485,Capital (Common) Stock
+D,02/07/2021 00:00:00,Knoll Jay B,4,F-InKind,--D,351,10532,1,0001365208,Capital (Common) Stock
+D,02/07/2021 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,89,2927.474,1,0001765529,Capital (Common) Stock
+D,02/07/2021 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,1341,98069.953,1,0001531814,Capital (Common) Stock
+D,01/22/2021 00:00:00,Wallace Peter C,4,M-Exempt,--D,265,0,2,0001295366,Phantom Stock Units
+A,01/22/2021 00:00:00,Wallace Peter C,4,M-Exempt,--D,265,8597,1,0001295366,Capital (Common) Stock
+D,01/07/2021 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,500,102969.953,1,0001531814,Capital (Common) Stock
+D,01/06/2021 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,6100,103469.953,2,0001531814,Capital (Common) Stock
+D,12/22/2020 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,15,2975.474,1,0001765529,Capital (Common) Stock
+D,12/18/2020 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,3315,11902.115,1,0001267540,Capital (Common) Stock
+D,12/14/2020 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,1105,16212.115,3,0001267540,Capital (Common) Stock
+D,12/14/2020 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,663,15549.115,2,0001267540,Capital (Common) Stock
+D,12/14/2020 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,332,15217.115,1,0001267540,Capital (Common) Stock
+D,12/11/2020 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,2216.266,18391.849,2,0001267540,Capital (Common) Stock
+D,12/11/2020 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,1074.734,17317.115,1,0001267540,Capital (Common) Stock
+D,12/02/2020 00:00:00,Jensen Carol R,5,G-Gift,--D,150,13538,1,0001353726,Capital (Common) Stock
+D,12/02/2020 00:00:00,Jensen Carol R,5,G-Gift,--D,150,13538,1,0001353726,Capital (Common) Stock
+A,12/02/2020 00:00:00,Faust Megan,4,A-Award,--D,500,500,1,0001684564,Capital (Common) Stock
+A,12/02/2020 00:00:00,LARSON KEITH R,4,A-Award,--D,500,500,1,0001401658,Capital (Common) Stock
+D,11/25/2020 00:00:00,Wallace Peter C,4,S-Sale,--D,4600,8332,1,0001295366,Capital (Common) Stock
+D,11/13/2020 00:00:00,Weaver Mark,4,F-InKind,--D,63,1334,1,0001420485,Capital (Common) Stock
+D,11/09/2020 00:00:00,Wallace Peter C,4,S-Sale,--D,4600,12932,1,0001295366,Capital (Common) Stock
+D,11/05/2020 00:00:00,Knoll Jay B,4,S-Sale,--D,1500,10883,1,0001365208,Capital (Common) Stock
+D,11/02/2020 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,S-Sale,--D,275,2990.474,1,0001765529,Capital (Common) Stock
+D,09/17/2020 00:00:00,LUDWIG MICHAEL M,4,F-InKind,--D,308,7866,1,0001256949,Capital (Common) Stock
+D,07/22/2020 00:00:00,Williams Peter Bennett,4,F-InKind,--D,119,3061,1,0001781553,Capital (Common) Stock
+D,06/11/2020 00:00:00,BARNES KEITH,4,S-Sale,--D,425,4725,1,0001268517,Capital (Common) Stock
+D,06/03/2020 00:00:00,Rowntree Jonathan James,4,F-InKind,--D,30,2420,1,0001778738,Capital (Common) Stock
+D,06/03/2020 00:00:00,Gouveia Randall Colin,4,F-InKind,--D,137,3493,1,0001572272,Capital (Common) Stock
+D,05/21/2020 00:00:00,Tsao Jeff,4,S-Sale,--D,305.361,2565.864,1,0001788005,Capital (Common) Stock
+A,05/07/2020 00:00:00,Wallace Peter C,4,A-Award,--D,1650,17532,1,0001295366,Capital (Common) Stock
+A,05/07/2020 00:00:00,SIMONET HELENE,4,A-Award,--D,1550,9100,1,0001234297,Capital (Common) Stock
+A,05/07/2020 00:00:00,OWENS JEFFREY J,4,A-Award,--D,1550,4450,1,0001193575,Capital (Common) Stock
+A,05/07/2020 00:00:00,MOORTHY GANESH,4,A-Award,--D,1550,9900,1,0001218184,Capital (Common) Stock
+A,05/07/2020 00:00:00,Jensen Carol R,4,A-Award,--D,1550,13688,1,0001353726,Capital (Common) Stock
+A,05/07/2020 00:00:00,BARNES KEITH,4,A-Award,--D,1550,5150,1,0001268517,Capital (Common) Stock
+D,02/24/2020 00:00:00,Knoll Jay B,4,S-Sale,--D,3500,12383,1,0001365208,Capital (Common) Stock
+A,02/12/2020 00:00:00,Williams Peter Bennett,4,A-Award,--D,2260,3180,1,0001781553,Capital (Common) Stock
+A,02/12/2020 00:00:00,Weaver Mark,4,A-Award,--D,360,1397,1,0001420485,Capital (Common) Stock
+A,02/12/2020 00:00:00,Tsao Jeff,4,A-Award,--D,1050,2871.225,1,0001788005,Capital (Common) Stock
+A,02/12/2020 00:00:00,Rowntree Jonathan James,4,A-Award,--D,2220,2450,1,0001778738,Capital (Common) Stock
+A,02/12/2020 00:00:00,LUDWIG MICHAEL M,4,A-Award,--D,3330,8174,1,0001256949,Capital (Common) Stock
+A,02/12/2020 00:00:00,Gouveia Randall Colin,4,A-Award,--D,2320,3630,1,0001572272,Capital (Common) Stock
+A,02/12/2020 00:00:00,Knoll Jay B,4,A-Award,--D,5200,15845,3,0001365208,Capital (Common) Stock
+D,02/12/2020 00:00:00,Knoll Jay B,4,F-InKind,--D,2312,13533,2,0001365208,Capital (Common) Stock
+A,02/12/2020 00:00:00,Knoll Jay B,4,A-Award,--D,2350,15883,1,0001365208,Capital (Common) Stock
+A,02/12/2020 00:00:00,Hoechner Bruce D.,4,A-Award,--D,30350,101083.413,3,0001531814,Capital (Common) Stock
+D,02/12/2020 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,13492,87591.413,2,0001531814,Capital (Common) Stock
+A,02/12/2020 00:00:00,Hoechner Bruce D.,4,A-Award,--D,9830,97421.413,1,0001531814,Capital (Common) Stock
+A,02/12/2020 00:00:00,DAIGLE ROBERT C,4,A-Award,--D,5700,20511.575,3,0001267540,Capital (Common) Stock
+D,02/12/2020 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,2534,17977.575,2,0001267540,Capital (Common) Stock
+A,02/12/2020 00:00:00,DAIGLE ROBERT C,4,A-Award,--D,2370,20347.575,1,0001267540,Capital (Common) Stock
+A,02/12/2020 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,A-Award,--D,960,2692.65,3,0001765529,Capital (Common) Stock
+D,02/12/2020 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,444,2248.65,2,0001765529,Capital (Common) Stock
+A,02/12/2020 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,A-Award,--D,980,3228.65,1,0001765529,Capital (Common) Stock
+D,02/11/2020 00:00:00,Wallace Peter C,4,M-Exempt,--D,266,265,3,0001295366,Phantom Stock Units
+A,02/11/2020 00:00:00,Wallace Peter C,4,M-Exempt,--D,266,15882,1,0001295366,Capital (Common) Stock
+D,02/09/2020 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,1501,70733.413,1,0001531814,Capital (Common) Stock
+D,02/09/2020 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,422,14811.575,1,0001267540,Capital (Common) Stock
+D,02/09/2020 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,80,1732.65,1,0001765529,Capital (Common) Stock
+D,02/09/2020 00:00:00,Knoll Jay B,4,F-InKind,--D,385,10645,1,0001365208,Capital (Common) Stock
+D,02/08/2020 00:00:00,Weaver Mark,4,F-InKind,--D,32,1037,1,0001420485,Capital (Common) Stock
+D,02/08/2020 00:00:00,Tsao Jeff,4,F-InKind,--D,13,1821.225,1,0001788005,Capital (Common) Stock
+D,02/08/2020 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,934,72234.413,2,0001531814,Capital (Common) Stock
+D,02/08/2020 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,224,15233.575,2,0001267540,Capital (Common) Stock
+D,02/08/2020 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,38,1812.65,2,0001765529,Capital (Common) Stock
+D,02/08/2020 00:00:00,Knoll Jay B,4,F-InKind,--D,216,11030,2,0001365208,Capital (Common) Stock
+D,02/07/2020 00:00:00,Weaver Mark,4,F-InKind,--D,46,1069,2,0001420485,Capital (Common) Stock
+D,02/07/2020 00:00:00,Tsao Jeff,4,F-InKind,--D,44,1834.225,2,0001788005,Capital (Common) Stock
+D,02/07/2020 00:00:00,LUDWIG MICHAEL M,4,F-InKind,--D,425,4844,1,0001256949,Capital (Common) Stock
+D,02/07/2020 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,1339,73168.413,3,0001531814,Capital (Common) Stock
+D,02/07/2020 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,388,15457.575,3,0001267540,Capital (Common) Stock
+D,02/07/2020 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,89,1850.65,3,0001765529,Capital (Common) Stock
+D,02/07/2020 00:00:00,Knoll Jay B,4,F-InKind,--D,355,11246,3,0001365208,Capital (Common) Stock
+D,12/22/2019 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,11,1878.414,1,0001765529,Capital (Common) Stock
+D,11/13/2019 00:00:00,Weaver Mark,4,F-InKind,--D,60,1115,1,0001420485,Capital (Common) Stock
+D,09/17/2019 00:00:00,LUDWIG MICHAEL M,4,F-InKind,--D,236,5269,1,0001256949,Capital (Common) Stock
+A,07/22/2019 00:00:00,Williams Peter Bennett,4,A-Award,--D,920,920,1,0001781553,Capital (Common) Stock
+D,07/16/2019 00:00:00,Hoechner Bruce D.,4,J-Other,--I,485,0,1,0001531814,Capital (Common) Stock
+D,06/05/2019 00:00:00,BARNES KEITH,4,D-Return,--D,600,3600,1,0001268517,Capital (Common) Stock
+A,06/03/2019 00:00:00,Gouveia Randall Colin,4,A-Award,--D,1310,1310,1,0001572272,Capital (Common) Stock
+A,06/03/2019 00:00:00,Rowntree Jonathan James,4,A-Award,--D,230,230,1,0001778738,Capital (Common) Stock
+A,05/09/2019 00:00:00,BARNES KEITH,4,A-Award,--D,850,4200,1,0001268517,Capital (Common) Stock
+A,05/09/2019 00:00:00,BARRY MICHAEL F,4,A-Award,--D,850,17350,1,0001238141,Capital (Common) Stock
+A,05/09/2019 00:00:00,Jensen Carol R,4,A-Award,--D,850,12138,1,0001353726,Capital (Common) Stock
+A,05/09/2019 00:00:00,MOORTHY GANESH,4,A-Award,--D,850,8350,1,0001218184,Capital (Common) Stock
+A,05/09/2019 00:00:00,OWENS JEFFREY J,4,A-Award,--D,850,2900,1,0001193575,Capital (Common) Stock
+A,05/09/2019 00:00:00,SIMONET HELENE,4,A-Award,--D,850,7550,1,0001234297,Capital (Common) Stock
+A,05/09/2019 00:00:00,Wallace Peter C,4,A-Award,--D,850,15350,1,0001295366,Capital (Common) Stock
+D,05/08/2019 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,D-Return,--D,117,1889.414,1,0001765529,Capital (Common) Stock
+D,05/02/2019 00:00:00,Beulque Marc J,4,S-Sale,--D,209,2225,1,0001730139,Capital (Common) Stock
+D,05/01/2019 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,3066,15652.022,6,0001267540,Capital (Common) Stock
+D,05/01/2019 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,2335,18718.022,5,0001267540,Capital (Common) Stock
+D,05/01/2019 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,2299,21053.022,4,0001267540,Capital (Common) Stock
+D,05/01/2019 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,2000,23352.022,3,0001267540,Capital (Common) Stock
+D,05/01/2019 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,1877,25352.022,2,0001267540,Capital (Common) Stock
+D,05/01/2019 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,1717,27229.022,1,0001267540,Capital (Common) Stock
+D,04/16/2019 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,1200,66772.33,1,0001531814,Capital (Common) Stock
+D,04/10/2019 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,3300,67972.33,1,0001531814,Capital (Common) Stock
+D,03/08/2019 00:00:00,Beulque Marc J,4,F-InKind,--D,314,2434,1,0001730139,Capital (Common) Stock
+D,03/08/2019 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,78,2006.414,1,0001765529,Capital (Common) Stock
+D,03/04/2019 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,600,69791.33,3,0001531814,Capital (Common) Stock
+D,03/04/2019 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,78,70391.33,2,0001531814,Capital (Common) Stock
+D,03/01/2019 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,1822,70469.33,1,0001531814,Capital (Common) Stock
+D,02/26/2019 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,2000,72291.33,1,0001531814,Capital (Common) Stock
+D,02/25/2019 00:00:00,BARNES KEITH,4,S-Sale,--D,700,3350,1,0001268517,Capital (Common) Stock
+D,02/22/2019 00:00:00,MOORTHY GANESH,4,S-Sale,--D,1500,7500,1,0001218184,Capital (Common) Stock
+D,02/22/2019 00:00:00,Beulque Marc J,4,S-Sale,--D,3890,2748,1,0001730139,Capital (Common) Stock
+D,02/22/2019 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,S-Sale,--D,1310,2084.414,1,0001765529,Capital (Common) Stock
+D,02/22/2019 00:00:00,Grudzien Jeffrey M,4,S-Sale,--D,5470,22557.284,1,0001416439,Capital (Common) Stock
+D,02/22/2019 00:00:00,Knoll Jay B,4,S-Sale,--D,2000,11601,1,0001365208,Capital (Common) Stock
+D,02/22/2019 00:00:00,Zhang Helen,4,S-Sale,--D,10000,4000,3,0001576279,Capital (Common) Stock
+D,02/22/2019 00:00:00,Zhang Helen,4,S-Sale,--D,1942,14000,2,0001576279,Capital (Common) Stock
+D,02/22/2019 00:00:00,Zhang Helen,4,S-Sale,--D,200,15942,1,0001576279,Capital (Common) Stock
+D,02/11/2019 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,2138,74291.33,1,0001531814,Capital (Common) Stock
+D,02/11/2019 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,462,28946.022,1,0001267540,Capital (Common) Stock
+D,02/11/2019 00:00:00,Grudzien Jeffrey M,4,F-InKind,--D,462,28027.284,1,0001416439,Capital (Common) Stock
+D,02/11/2019 00:00:00,Knoll Jay B,4,F-InKind,--D,398,13601,1,0001365208,Capital (Common) Stock
+D,02/09/2019 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,994,76429.33,2,0001531814,Capital (Common) Stock
+D,02/09/2019 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,59,3434.414,2,0001765529,Capital (Common) Stock
+D,02/09/2019 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,287,29408.022,2,0001267540,Capital (Common) Stock
+D,02/09/2019 00:00:00,Grudzien Jeffrey M,4,F-InKind,--D,287,28489.284,2,0001416439,Capital (Common) Stock
+D,02/09/2019 00:00:00,Knoll Jay B,4,F-InKind,--D,262,13999,2,0001365208,Capital (Common) Stock
+D,02/08/2019 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,635,77423.33,1,0001531814,Capital (Common) Stock
+D,02/08/2019 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,29,3493.414,1,0001765529,Capital (Common) Stock
+D,02/08/2019 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,177,29695.022,1,0001267540,Capital (Common) Stock
+D,02/08/2019 00:00:00,Grudzien Jeffrey M,4,F-InKind,--D,177,28776.284,1,0001416439,Capital (Common) Stock
+D,02/08/2019 00:00:00,Knoll Jay B,4,F-InKind,--D,169,14261,1,0001365208,Capital (Common) Stock
+D,02/08/2019 00:00:00,Weaver Mark,4,F-InKind,--D,32,1175,1,0001420485,Capital (Common) Stock
+A,02/07/2019 00:00:00,LUDWIG MICHAEL M,4/A,A-Award,--D,3005,5505,1,0001256949,Capital (Common) Stock
+A,02/07/2019 00:00:00,Hoechner Bruce D.,4/A,A-Award,--D,8889,94587.33,1,0001531814,Capital (Common) Stock
+D,02/07/2019 00:00:00,BUCKLEY BENJAMIN MCNEIL,4/A,F-InKind,--D,492,3482.414,1,0001765529,Capital (Common) Stock
+D,02/07/2019 00:00:00,BUCKLEY BENJAMIN MCNEIL,4,F-InKind,--D,452,3522.414,1,0001765529,Capital (Common) Stock
+D,02/07/2019 00:00:00,Knoll Jay B,4,F-InKind,--D,2811,14430,3,0001365208,Capital (Common) Stock
+A,02/07/2019 00:00:00,Knoll Jay B,4,A-Award,--D,2134,17241,2,0001365208,Capital (Common) Stock
+A,02/07/2019 00:00:00,Knoll Jay B,4,A-Award,--D,8100,15107,1,0001365208,Capital (Common) Stock
+D,02/07/2019 00:00:00,Grudzien Jeffrey M,4,F-InKind,--D,3439,28953.284,2,0001416439,Capital (Common) Stock
+A,02/07/2019 00:00:00,Grudzien Jeffrey M,4,A-Award,--D,9400,32392.284,1,0001416439,Capital (Common) Stock
+D,02/07/2019 00:00:00,GLANDON GARY M,4,F-InKind,--D,2580,14790.543,2,0001320099,Capital (Common) Stock
+A,02/07/2019 00:00:00,GLANDON GARY M,4,A-Award,--D,7650,17370.543,1,0001320099,Capital (Common) Stock
+D,02/07/2019 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,15048,78058.33,3,0001531814,Capital (Common) Stock
+A,02/07/2019 00:00:00,Hoechner Bruce D.,4,A-Award,--D,7408,93106.33,2,0001531814,Capital (Common) Stock
+A,02/07/2019 00:00:00,Hoechner Bruce D.,4,A-Award,--D,33850,85698.33,1,0001531814,Capital (Common) Stock
+D,02/07/2019 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,3439,29872.022,3,0001267540,Capital (Common) Stock
+A,02/07/2019 00:00:00,DAIGLE ROBERT C,4,A-Award,--D,2334,33311.022,2,0001267540,Capital (Common) Stock
+A,02/07/2019 00:00:00,DAIGLE ROBERT C,4,A-Award,--D,9400,30977.022,1,0001267540,Capital (Common) Stock
+A,02/07/2019 00:00:00,Beulque Marc J,4,A-Award,--D,1200,6638,2,0001730139,Capital (Common) Stock
+A,02/07/2019 00:00:00,Beulque Marc J,4,A-Award,--D,3140,5438,1,0001730139,Capital (Common) Stock
+A,02/07/2019 00:00:00,Zhang Helen,4,A-Award,--D,2134,16142,2,0001576279,Capital (Common) Stock
+A,02/07/2019 00:00:00,Zhang Helen,4,A-Award,--D,9200,14008,1,0001576279,Capital (Common) Stock
+A,02/07/2019 00:00:00,LUDWIG MICHAEL M,4,A-Award,--D,3756,6256,1,0001256949,Capital (Common) Stock
+A,02/07/2019 00:00:00,Weaver Mark,4,A-Award,--D,392,1207,1,0001420485,Capital (Common) Stock
+D,01/17/2019 00:00:00,Wallace Peter C,4,M-Exempt,--D,266,531,4,0001295366,Phantom Stock Units
+A,01/17/2019 00:00:00,Wallace Peter C,4,M-Exempt,--D,266,15616,2,0001295366,Capital (Common) Stock
+A,11/21/2018 00:00:00,Hoechner Bruce D.,4,W-Will,--D,400,51738.052,1,0001531814,Capital (Common) Stock
+D,11/13/2018 00:00:00,Weaver Mark,4/A,F-InKind,--D,60,815,1,0001420485,Capital (Common) Stock
+D,11/13/2018 00:00:00,Weaver Mark,4,F-InKind,--D,71,804,1,0001420485,Capital (Common) Stock
+D,09/28/2018 00:00:00,GLANDON GARY M,4,S-Sale,--D,589,9705.104,1,0001320099,Capital (Common) Stock
+D,09/28/2018 00:00:00,Knoll Jay B,4,S-Sale,--D,1250,7007,1,0001365208,Capital (Common) Stock
+D,09/24/2018 00:00:00,GLANDON GARY M,4,S-Sale,--D,840,10294.104,2,0001320099,Capital (Common) Stock
+D,09/24/2018 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,4200,93838.052,2,0001531814,Capital (Common) Stock
+D,09/21/2018 00:00:00,GLANDON GARY M,4,S-Sale,--D,2160,11134.104,1,0001320099,Capital (Common) Stock
+D,09/21/2018 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,300,98038.052,1,0001531814,Capital (Common) Stock
+D,09/21/2018 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,2346,21466.744,1,0001267540,Capital (Common) Stock
+A,09/17/2018 00:00:00,LUDWIG MICHAEL M,4,A-Award,--D,2400,2500,1,0001256949,Capital (Common) Stock
+D,08/30/2018 00:00:00,SHADDAY CHRISTOPHER,4,S-Sale,--D,1500,4188.337,1,0001674967,Capital (Common) Stock
+D,08/27/2018 00:00:00,Beulque Marc J,4,S-Sale,--D,2865,2298,1,0001730139,Capital (Common) Stock
+D,08/20/2018 00:00:00,Grudzien Jeffrey M,4,S-Sale,--D,1751,22992.284,1,0001416439,Capital (Common) Stock
+D,05/21/2018 00:00:00,Grudzien Jeffrey M,4,S-Sale,--D,1379,24743.284,1,0001416439,Capital (Common) Stock
+D,05/04/2018 00:00:00,Stipp Janice E,4,S-Sale,--D,181.298,8183,1,0001532388,Capital (Common) Stock
+A,05/03/2018 00:00:00,BARNES KEITH,4,A-Award,--D,1200,4050,1,0001268517,Capital (Common) Stock
+A,05/03/2018 00:00:00,BARRY MICHAEL F,4,A-Award,--D,1200,16500,1,0001238141,Capital (Common) Stock
+A,05/03/2018 00:00:00,Jensen Carol R,4,A-Award,--D,1200,11288,1,0001353726,Capital (Common) Stock
+A,05/03/2018 00:00:00,MOORTHY GANESH,4,A-Award,--D,1200,9000,1,0001218184,Capital (Common) Stock
+A,05/03/2018 00:00:00,SIMONET HELENE,4,A-Award,--D,1200,6700,1,0001234297,Capital (Common) Stock
+A,05/03/2018 00:00:00,Wallace Peter C,4,A-Award,--D,1200,14500,1,0001295366,Capital (Common) Stock
+A,05/03/2018 00:00:00,OWENS JEFFREY J,4,A-Award,--D,1200,2050,1,0001193575,Capital (Common) Stock
+D,05/01/2018 00:00:00,Stipp Janice E,4,S-Sale,--D,5000,8364.298,6,0001532388,Capital (Common) Stock
+D,05/01/2018 00:00:00,Stipp Janice E,4,S-Sale,--D,1392,13364.298,5,0001532388,Capital (Common) Stock
+D,04/30/2018 00:00:00,Zhang Helen,4,S-Sale,--D,3525,4808,7,0001576279,Capital (Common) Stock
+D,04/30/2018 00:00:00,Zhang Helen,4,S-Sale,--D,1500,8333,6,0001576279,Capital (Common) Stock
+D,04/30/2018 00:00:00,Zhang Helen,4,S-Sale,--D,1215,9833,5,0001576279,Capital (Common) Stock
+D,04/30/2018 00:00:00,Zhang Helen,4,S-Sale,--D,1000,11048,4,0001576279,Capital (Common) Stock
+D,04/30/2018 00:00:00,Zhang Helen,4,S-Sale,--D,928,12048,3,0001576279,Capital (Common) Stock
+D,04/30/2018 00:00:00,Zhang Helen,4,S-Sale,--D,700,12976,2,0001576279,Capital (Common) Stock
+D,04/30/2018 00:00:00,Zhang Helen,4,S-Sale,--D,457,13676,1,0001576279,Capital (Common) Stock
+D,04/30/2018 00:00:00,Stipp Janice E,4,S-Sale,--D,1670,14756.298,4,0001532388,Capital (Common) Stock
+D,04/30/2018 00:00:00,Stipp Janice E,4,S-Sale,--D,901,16426.298,3,0001532388,Capital (Common) Stock
+D,04/30/2018 00:00:00,Stipp Janice E,4,S-Sale,--D,339,17327.298,2,0001532388,Capital (Common) Stock
+D,04/30/2018 00:00:00,Stipp Janice E,4,S-Sale,--D,90,17666.298,1,0001532388,Capital (Common) Stock
+D,03/09/2018 00:00:00,Stipp Janice E,4/A,F-InKind,--D,3253,17756.298,1,0001532388,Capital (Common) Stock
+D,03/09/2018 00:00:00,Hoechner Bruce D.,4/A,F-InKind,--D,8135,98265.331,1,0001531814,Capital (Common) Stock
+D,03/09/2018 00:00:00,DAIGLE ROBERT C,4/A,F-InKind,--D,2034,23740.023,1,0001267540,Capital (Common) Stock
+D,03/09/2018 00:00:00,Grudzien Jeffrey M,4/A,F-InKind,--D,1721,26122.284,1,0001416439,Capital (Common) Stock
+D,03/09/2018 00:00:00,GLANDON GARY M,4/A,F-InKind,--D,1402,13819.382,1,0001320099,Capital (Common) Stock
+D,03/09/2018 00:00:00,Knoll Jay B,4/A,F-InKind,--D,1302,8257,1,0001365208,Capital (Common) Stock
+D,03/09/2018 00:00:00,SHADDAY CHRISTOPHER,4/A,F-InKind,--D,295,5633.451,1,0001674967,Capital (Common) Stock
+D,03/09/2018 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,6463,99937.331,2,0001531814,Capital (Common) Stock
+A,03/09/2018 00:00:00,Hoechner Bruce D.,4,A-Award,--D,18300,106400.331,1,0001531814,Capital (Common) Stock
+D,03/09/2018 00:00:00,Stipp Janice E,4,F-InKind,--D,2232,18777.298,2,0001532388,Capital (Common) Stock
+A,03/09/2018 00:00:00,Stipp Janice E,4,A-Award,--D,7800,21009.298,1,0001532388,Capital (Common) Stock
+D,03/09/2018 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,1499,24275.023,2,0001267540,Capital (Common) Stock
+A,03/09/2018 00:00:00,DAIGLE ROBERT C,4,A-Award,--D,5100,25774.023,1,0001267540,Capital (Common) Stock
+D,03/09/2018 00:00:00,Grudzien Jeffrey M,4,F-InKind,--D,1337,26506.284,2,0001416439,Capital (Common) Stock
+A,03/09/2018 00:00:00,Grudzien Jeffrey M,4,A-Award,--D,4550,27843.284,1,0001416439,Capital (Common) Stock
+A,03/09/2018 00:00:00,Zhang Helen,4,A-Award,--D,4450,14133,1,0001576279,Capital (Common) Stock
+D,03/09/2018 00:00:00,GLANDON GARY M,4,F-InKind,--D,1171,14050.382,2,0001320099,Capital (Common) Stock
+A,03/09/2018 00:00:00,GLANDON GARY M,4,A-Award,--D,4000,15221.382,1,0001320099,Capital (Common) Stock
+D,03/09/2018 00:00:00,Knoll Jay B,4,F-InKind,--D,1071,8488,2,0001365208,Capital (Common) Stock
+A,03/09/2018 00:00:00,Knoll Jay B,4,A-Award,--D,3650,9559,1,0001365208,Capital (Common) Stock
+A,03/09/2018 00:00:00,Beulque Marc J,4,A-Award,--D,1600,5163,1,0001730139,Capital (Common) Stock
+D,03/09/2018 00:00:00,SHADDAY CHRISTOPHER,4,F-InKind,--D,290,5638.451,2,0001674967,Capital (Common) Stock
+A,03/09/2018 00:00:00,SHADDAY CHRISTOPHER,4,A-Award,--D,940,5928.451,1,0001674967,Capital (Common) Stock
+D,03/01/2018 00:00:00,GLANDON GARY M,4,S-Sale,--D,1000,11221.382,1,0001320099,Capital (Common) Stock
+D,03/01/2018 00:00:00,Knoll Jay B,4,S-Sale,--D,1250,5909,1,0001365208,Capital (Common) Stock
+D,02/20/2018 00:00:00,Grudzien Jeffrey M,4,S-Sale,--D,1430,23293.284,1,0001416439,Capital (Common) Stock
+D,02/18/2018 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,251,20674.023,1,0001267540,Capital (Common) Stock
+D,02/18/2018 00:00:00,GLANDON GARY M,4,F-InKind,--D,197,12221.382,1,0001320099,Capital (Common) Stock
+D,02/18/2018 00:00:00,Grudzien Jeffrey M,4,F-InKind,--D,224,24723.284,1,0001416439,Capital (Common) Stock
+D,02/18/2018 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,1356,88100.331,1,0001531814,Capital (Common) Stock
+D,02/18/2018 00:00:00,Knoll Jay B,4,F-InKind,--D,180,7159,1,0001365208,Capital (Common) Stock
+D,02/18/2018 00:00:00,SHADDAY CHRISTOPHER,4,F-InKind,--D,50,4988.451,1,0001674967,Capital (Common) Stock
+D,02/11/2018 00:00:00,Stipp Janice E,4,F-InKind,--D,448,13209.298,3,0001532388,Capital (Common) Stock
+D,02/11/2018 00:00:00,Knoll Jay B,4,F-InKind,--D,396,7339,3,0001365208,Capital (Common) Stock
+D,02/11/2018 00:00:00,GLANDON GARY M,4,F-InKind,--D,373,12418.382,3,0001320099,Capital (Common) Stock
+D,02/11/2018 00:00:00,Grudzien Jeffrey M,4,F-InKind,--D,460,24947.284,3,0001416439,Capital (Common) Stock
+D,02/11/2018 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,460,20925.023,3,0001267540,Capital (Common) Stock
+D,02/11/2018 00:00:00,SHADDAY CHRISTOPHER,4,F-InKind,--D,226,5038.451,3,0001674967,Capital (Common) Stock
+D,02/11/2018 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,1992,89456.331,3,0001531814,Capital (Common) Stock
+D,02/09/2018 00:00:00,Stipp Janice E,4,F-InKind,--D,447,13657.298,2,0001532388,Capital (Common) Stock
+D,02/09/2018 00:00:00,Knoll Jay B,4,F-InKind,--D,285,7735,2,0001365208,Capital (Common) Stock
+D,02/09/2018 00:00:00,GLANDON GARY M,4,F-InKind,--D,263,12791.382,2,0001320099,Capital (Common) Stock
+D,02/09/2018 00:00:00,Grudzien Jeffrey M,4,F-InKind,--D,310,25407.284,2,0001416439,Capital (Common) Stock
+D,02/09/2018 00:00:00,DAIGLE ROBERT C,4,F-InKind,--D,309,21385.023,2,0001267540,Capital (Common) Stock
+D,02/09/2018 00:00:00,SHADDAY CHRISTOPHER,4,F-InKind,--D,251,5264.451,2,0001674967,Capital (Common) Stock
+D,02/09/2018 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,1008,91448.331,2,0001531814,Capital (Common) Stock
+A,02/08/2018 00:00:00,Stipp Janice E,4,A-Award,--D,2300,14104.298,1,0001532388,Capital (Common) Stock
+A,02/08/2018 00:00:00,Knoll Jay B,4,A-Award,--D,1450,8020,1,0001365208,Capital (Common) Stock
+A,02/08/2018 00:00:00,GLANDON GARY M,4,A-Award,--D,1300,13054.382,1,0001320099,Capital (Common) Stock
+A,02/08/2018 00:00:00,Grudzien Jeffrey M,4,A-Award,--D,1525,25717.284,1,0001416439,Capital (Common) Stock
+A,02/08/2018 00:00:00,DAIGLE ROBERT C,4,A-Award,--D,1525,21694.023,1,0001267540,Capital (Common) Stock
+A,02/08/2018 00:00:00,SHADDAY CHRISTOPHER,4,A-Award,--D,1300,5515.451,1,0001674967,Capital (Common) Stock
+A,02/08/2018 00:00:00,Zhang Helen,4,A-Award,--D,1375,9683,1,0001576279,Capital (Common) Stock
+A,02/08/2018 00:00:00,Hoechner Bruce D.,4,A-Award,--D,6300,92456.331,1,0001531814,Capital (Common) Stock
+D,11/20/2017 00:00:00,Grudzien Jeffrey M,4,S-Sale,--D,1888,24192.284,1,0001416439,Capital (Common) Stock
+D,11/12/2017 00:00:00,SHADDAY CHRISTOPHER,4,F-InKind,--D,115,4159.145,1,0001674967,Capital (Common) Stock
+D,11/10/2017 00:00:00,Knoll Jay B,4,F-InKind,--D,233,6570,1,0001365208,Capital (Common) Stock
+D,11/09/2017 00:00:00,Stipp Janice E,4,F-InKind,--D,411,11776.145,1,0001532388,Capital (Common) Stock
+D,10/03/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,178,20056.411,2,0001267540,Capital (Common) Stock
+D,10/03/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,30,20234.411,1,0001267540,Capital (Common) Stock
+D,10/02/2017 00:00:00,Hoechner Bruce D.,4,M-Exempt,--D,23200,0,7,0001531814,Employee Stock Option (Right to Buy)
+D,10/02/2017 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,12607,86042.311,5,0001531814,Capital (Common) Stock
+D,10/02/2017 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,5554,98649.311,4,0001531814,Capital (Common) Stock
+D,10/02/2017 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,2772,104203.311,3,0001531814,Capital (Common) Stock
+D,10/02/2017 00:00:00,Hoechner Bruce D.,4,S-Sale,--D,2267,106975.311,2,0001531814,Capital (Common) Stock
+A,10/02/2017 00:00:00,Hoechner Bruce D.,4,M-Exempt,--D,23200,109242.311,1,0001531814,Capital (Common) Stock
+D,10/02/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,66,20264.411,2,0001267540,Capital (Common) Stock
+D,09/29/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,1700,20330.411,1,0001267540,Capital (Common) Stock
+D,09/27/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,300,22030.411,3,0001267540,Capital (Common) Stock
+D,09/27/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,122,22330.411,2,0001267540,Capital (Common) Stock
+D,09/27/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,32,22452.411,1,0001267540,Capital (Common) Stock
+D,09/20/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,431,22484.411,2,0001267540,Capital (Common) Stock
+D,09/20/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,78,22915.411,1,0001267540,Capital (Common) Stock
+D,09/19/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,369,22993.411,2,0001267540,Capital (Common) Stock
+D,09/18/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,176,23362.411,1,0001267540,Capital (Common) Stock
+D,09/15/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,2027,23538.411,2,0001267540,Capital (Common) Stock
+D,09/15/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,47,25565.411,1,0001267540,Capital (Common) Stock
+D,09/12/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,683,25612.411,1,0001267540,Capital (Common) Stock
+D,08/22/2017 00:00:00,Jensen Carol R,4,S-Sale,--D,3500,10088,1,0001353726,Capital (Common) Stock
+D,08/21/2017 00:00:00,Grudzien Jeffrey M,4,S-Sale,--D,1942,26080.284,2,0001416439,Capital (Common) Stock
+D,08/21/2017 00:00:00,Grudzien Jeffrey M,4,S-Sale,--D,1100,28022.284,1,0001416439,Capital (Common) Stock
+A,08/02/2017 00:00:00,OWENS JEFFREY J,4,A-Award,--D,850,850,1,0001193575,Capital (Common) Stock
+D,08/01/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,3038,26295.411,3,0001267540,Capital (Common) Stock
+D,08/01/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,873,29333.411,2,0001267540,Capital (Common) Stock
+D,08/01/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,574,30206.411,1,0001267540,Capital (Common) Stock
+D,06/09/2017 00:00:00,BARNES KEITH,4,S-Sale,--D,850,2850,1,0001268517,Capital (Common) Stock
+D,06/01/2017 00:00:00,Wallace Peter C,4,S-Sale,--D,1000,13300,2,0001295366,Capital (Common) Stock
+D,05/30/2017 00:00:00,Wallace Peter C,4,S-Sale,--D,1000,14300,1,0001295366,Capital (Common) Stock
+D,05/16/2017 00:00:00,GLANDON GARY M,4,S-Sale,--D,800,11720.44,2,0001320099,Capital (Common) Stock
+D,05/16/2017 00:00:00,GLANDON GARY M,4,S-Sale,--D,200,12520.44,1,0001320099,Capital (Common) Stock
+A,05/04/2017 00:00:00,Wallace Peter C,4,A-Award,--D,1400,15300,1,0001295366,Capital (Common) Stock
+A,05/04/2017 00:00:00,SIMONET HELENE,4,A-Award,--D,1400,5500,1,0001234297,Capital (Common) Stock
+A,05/04/2017 00:00:00,MOORTHY GANESH,4,A-Award,--D,1400,7800,1,0001218184,Capital (Common) Stock
+A,05/04/2017 00:00:00,Jensen Carol R,4,A-Award,--D,1400,13588,1,0001353726,Capital (Common) Stock
+A,05/04/2017 00:00:00,BARRY MICHAEL F,4,A-Award,--D,1400,15300,1,0001238141,Capital (Common) Stock
+A,05/04/2017 00:00:00,BARNES KEITH,4,A-Award,--D,1400,3700,1,0001268517,Capital (Common) Stock
+D,05/03/2017 00:00:00,SHADDAY CHRISTOPHER,4,S-Sale,--D,1000,4234.415,1,0001674967,Capital (Common) Stock
+D,05/03/2017 00:00:00,Zhang Helen,4,S-Sale,--D,741,8308,1,0001576279,Capital (Common) Stock
+D,05/01/2017 00:00:00,Grudzien Jeffrey M,4,S-Sale,--D,1685,29122.284,1,0001416439,Capital (Common) Stock
+D,04/27/2017 00:00:00,DAIGLE ROBERT C,4,M-Exempt,--D,5800,0,9,0001267540,Employee Stock Option (Right to Buy)
+D,04/27/2017 00:00:00,DAIGLE ROBERT C,4,M-Exempt,--D,8000,0,8,0001267540,Employee Stock Option (Right to Buy)
+D,04/27/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,8000,30621.49,7,0001267540,Capital (Common) Stock
+D,04/27/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,5800,38621.49,6,0001267540,Capital (Common) Stock
+D,04/27/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,1351,44421.49,5,0001267540,Capital (Common) Stock
+A,04/27/2017 00:00:00,DAIGLE ROBERT C,4,M-Exempt,--D,5800,45772.49,4,0001267540,Capital (Common) Stock
+A,04/27/2017 00:00:00,DAIGLE ROBERT C,4,M-Exempt,--D,8000,39972.49,3,0001267540,Capital (Common) Stock
+D,04/26/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,3607,31972.49,2,0001267540,Capital (Common) Stock
+D,04/26/2017 00:00:00,DAIGLE ROBERT C,4,S-Sale,--D,114,35579.49,1,0001267540,Capital (Common) Stock
+D,03/22/2017 00:00:00,Knoll Jay B,4,S-Sale,--D,2000,6803,1,0001365208,Capital (Common) Stock
+D,03/06/2017 00:00:00,Knoll Jay B,4,F-InKind,--D,757,8803,1,0001365208,Capital (Common) Stock
+D,03/06/2017 00:00:00,Hoechner Bruce D.,4,F-InKind,--D,5801,85881.404,1,0001531814,Capital (Common) Stock
+D,03/06/2017 00:00:00,Grudzien Jeffrey M,4,F-InKind,--D,942,30807.284,1,0001416439,Capital (Common) Stock
+D,03/06/2017 00:00:00,GLANDON GARY M,4,F-InKind,--D,848,16983.44,1,0001320099,Capital (Common) Stock

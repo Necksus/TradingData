@@ -1,0 +1,101 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,06/06/2023 00:00:00,Whiteley Sivan,4,A-Award,--D,20010,52469,1,0001735067,Common Stock
+A,06/06/2023 00:00:00,Murphy John Francis,4,A-Award,--D,20010,50507,1,0001417762,Common Stock
+A,06/06/2023 00:00:00,Hamren Elizabeth,4,A-Award,--D,20010,46169,1,0001879287,Common Stock
+D,05/15/2023 00:00:00,Radhakrishna Shrisha,4,F-InKind,--D,18825,788749,1,0001867488,Common Stock
+D,05/15/2023 00:00:00,Wernikoff Daniel A,4,F-InKind,--D,13222,904196,1,0001583139,Common Stock
+D,05/15/2023 00:00:00,Miller Nicole,4,F-InKind,--D,9402,319340,1,0001867504,Common Stock
+D,05/15/2023 00:00:00,Preece Richard,4,F-InKind,--D,12516,603323,1,0001867835,Common Stock
+D,05/15/2023 00:00:00,Watson Noel Bertram,4,F-InKind,--D,21968,741803,1,0001669081,Common Stock
+A,03/18/2023 00:00:00,Watson Noel Bertram,4,A-Award,--D,611995,611995,2,0001669081,Employee Stock Option (Right to Buy)
+A,03/18/2023 00:00:00,Watson Noel Bertram,4,A-Award,--D,244798,761771,1,0001669081,Common Stock
+A,03/18/2023 00:00:00,Radhakrishna Shrisha,4,A-Award,--D,688492,688492,2,0001867488,Employee Stock Option (Right to Buy)
+A,03/18/2023 00:00:00,Radhakrishna Shrisha,4,A-Award,--D,275397,805574,1,0001867488,Common Stock
+A,03/18/2023 00:00:00,Wernikoff Daniel A,4,A-Award,--D,1376987,1376987,2,0001583139,Employee Stock Option (Right to Buy)
+A,03/18/2023 00:00:00,Wernikoff Daniel A,4,A-Award,--D,550795,915418,1,0001583139,Common Stock
+A,03/18/2023 00:00:00,Miller Nicole,4,A-Award,--D,305997,305997,2,0001867504,Employee Stock Option (Right to Buy)
+A,03/18/2023 00:00:00,Miller Nicole,4,A-Award,--D,122399,328742,1,0001867504,Common Stock
+A,03/18/2023 00:00:00,Preece Richard,4,A-Award,--D,573745,573745,2,0001867835,Employee Stock Option (Right to Buy)
+A,03/18/2023 00:00:00,Preece Richard,4,A-Award,--D,229498,613839,1,0001867835,Common Stock
+D,03/06/2023 00:00:00,Wernikoff Daniel A,4,S-Sale,--D,39558,364623,2,0001583139,Common Stock
+D,03/03/2023 00:00:00,Wernikoff Daniel A,4,S-Sale,--D,4243,404181,1,0001583139,Common Stock
+D,03/03/2023 00:00:00,Watson Noel Bertram,4,S-Sale,--D,38893,516973,1,0001669081,Common Stock
+D,03/02/2023 00:00:00,Radhakrishna Shrisha,4,S-Sale,--D,13636,530177,2,0001867488,Common Stock
+D,03/01/2023 00:00:00,Radhakrishna Shrisha,4,S-Sale,--D,23329,543813,1,0001867488,Common Stock
+D,03/01/2023 00:00:00,Preece Richard,4,S-Sale,--D,30201,384341,1,0001867835,Common Stock
+D,02/28/2023 00:00:00,Miller Nicole,4,S-Sale,--D,20621,206343,1,0001867504,Common Stock
+D,11/17/2022 00:00:00,Preece Richard,4,S-Sale,--D,8477,414542,1,0001867835,Common Stock
+D,11/17/2022 00:00:00,Miller Nicole,4,S-Sale,--D,7037,226964,1,0001867504,Common Stock
+D,11/17/2022 00:00:00,Wernikoff Daniel A,4,S-Sale,--D,3959,408424,1,0001583139,Common Stock
+D,11/17/2022 00:00:00,Watson Noel Bertram,4,S-Sale,--D,18876,555866,1,0001669081,Common Stock
+D,11/17/2022 00:00:00,Radhakrishna Shrisha,4,S-Sale,--D,15416,567142,1,0001867488,Common Stock
+A,08/18/2022 00:00:00,Miller Nicole,4,A-Award,--D,19638,234001,2,0001867504,Common Stock
+A,08/18/2022 00:00:00,Watson Noel Bertram,4,A-Award,--D,78554,574742,2,0001669081,Common Stock
+A,08/18/2022 00:00:00,Preece Richard,4,A-Award,--D,78554,423019,2,0001867835,Common Stock
+A,08/18/2022 00:00:00,Radhakrishna Shrisha,4,A-Award,--D,78554,582558,2,0001867488,Common Stock
+D,08/17/2022 00:00:00,Miller Nicole,4,S-Sale,--D,12632,214363,1,0001867504,Common Stock
+D,08/17/2022 00:00:00,Watson Noel Bertram,4,S-Sale,--D,23643,496188,1,0001669081,Common Stock
+D,08/17/2022 00:00:00,Preece Richard,4,S-Sale,--D,15930,344465,1,0001867835,Common Stock
+D,08/17/2022 00:00:00,Radhakrishna Shrisha,4,S-Sale,--D,20188,504004,1,0001867488,Common Stock
+D,08/17/2022 00:00:00,Wernikoff Daniel A,4,S-Sale,--D,15977,441159,1,0001583139,Common Stock
+A,06/08/2022 00:00:00,Whiteley Sivan,4,A-Award,--D,16213,32459,1,0001735067,Common Stock (RSUs)
+A,06/08/2022 00:00:00,Hamren Elizabeth,4,A-Award,--D,16213,26159,1,0001879287,Common Stock (RSUs)
+A,06/08/2022 00:00:00,Murphy John Francis,4,A-Award,--D,16213,30497,1,0001417762,Common Stock (RSUs)
+A,06/07/2022 00:00:00,Stibel Jeffrey M,4,J-Other,--I,2807719,2807719,6,0001334852,Common Stock
+A,06/07/2022 00:00:00,Stibel Jeffrey M,4,J-Other,--I,2807719,2807719,5,0001334852,Common Stock
+A,06/07/2022 00:00:00,Stibel Jeffrey M,4,J-Other,--I,537779,537779,4,0001334852,Common Stock
+A,06/07/2022 00:00:00,Stibel Jeffrey M,4,J-Other,--I,294326,294326,3,0001334852,Common Stock
+A,06/07/2022 00:00:00,Stibel Jeffrey M,4,J-Other,--D,45997,102445,2,0001334852,Common Stock
+D,06/07/2022 00:00:00,Stibel Jeffrey M,4,J-Other,--I,10839532,0,1,0001334852,Common Stock
+D,05/19/2022 00:00:00,Miller Nicole,4,S-Sale,--D,6073,226995,2,0001867504,Common Stock
+D,05/19/2022 00:00:00,Watson Noel Bertram,4,S-Sale,--D,17623,519831,2,0001669081,Common Stock
+D,05/18/2022 00:00:00,Radhakrishna Shrisha,4,S-Sale,--D,13280,524192,1,0001867488,Common Stock
+D,05/18/2022 00:00:00,Preece Richard,4,S-Sale,--D,1470,360395,1,0001867835,Common Stock
+D,05/18/2022 00:00:00,Miller Nicole,4,S-Sale,--D,3474,233068,1,0001867504,Common Stock
+D,05/18/2022 00:00:00,Watson Noel Bertram,4,S-Sale,--D,14199,537454,1,0001669081,Common Stock
+A,03/26/2022 00:00:00,Radhakrishna Shrisha,4,A-Award,--D,388197,388197,2,0001867488,Employee Stock Option (Right to Buy)
+A,03/26/2022 00:00:00,Radhakrishna Shrisha,4,A-Award,--D,155279,454683,1,0001867488,Common Stock (RSUs)
+A,03/26/2022 00:00:00,Watson Noel Bertram,4,A-Award,--D,388197,388197,2,0001669081,Employee Stock Option (Right to Buy)
+A,03/26/2022 00:00:00,Watson Noel Bertram,4,A-Award,--D,155279,549794,1,0001669081,Common Stock (RSUs)
+A,03/26/2022 00:00:00,Wernikoff Daniel A,4,A-Award,--D,776397,776397,2,0001583139,Employee Stock Option (Right to Buy)
+A,03/26/2022 00:00:00,Wernikoff Daniel A,4,A-Award,--D,310559,426630,1,0001583139,Common Stock (RSUs)
+A,03/26/2022 00:00:00,Miller Nicole,4,A-Award,--D,242622,242622,2,0001867504,Employee Stock Option (Right to Buy)
+A,03/26/2022 00:00:00,Miller Nicole,4,A-Award,--D,97049,236542,1,0001867504,Common Stock (RSUs)
+A,03/26/2022 00:00:00,Preece Richard,4,A-Award,--D,388197,388197,2,0001867835,Employee Stock Option (Right to Buy)
+A,03/26/2022 00:00:00,Preece Richard,4,A-Award,--D,155279,304209,1,0001867835,Common Stock (RSUs)
+A,03/18/2022 00:00:00,Whiteley Sivan,4,A-Award,--D,2769,16246,2,0001735067,Common Stock (RSUs)
+A,03/18/2022 00:00:00,Whiteley Sivan,4,A-Award,--D,13477,13477,1,0001735067,Common Stock (RSUs)
+D,02/22/2022 00:00:00,Watson Noel Bertram,4,S-Sale,--D,19800,395182,1,0001669081,Common Stock
+D,02/22/2022 00:00:00,Miller Nicole,4,S-Sale,--D,5712,139493,1,0001867504,Common Stock
+D,02/18/2022 00:00:00,Radhakrishna Shrisha,4,S-Sale,--D,13842,381001,1,0001867488,Common Stock
+D,02/18/2022 00:00:00,Preece Richard,4,S-Sale,--D,4461,205394,1,0001867835,Common Stock
+D,02/18/2022 00:00:00,Watson Noel Bertram,4,S-Sale,--D,12023,414982,1,0001669081,Common Stock
+D,02/18/2022 00:00:00,Miller Nicole,4,S-Sale,--D,3835,145205,1,0001867504,Common Stock
+D,12/16/2021 00:00:00,Miller Nicole,4,S-Sale,--D,34678,149040,1,0001867504,Common Stock
+D,12/15/2021 00:00:00,Watson Noel Bertram,4,S-Sale,--D,69466,427005,1,0001669081,Common Stock
+D,12/06/2021 00:00:00,Radhakrishna Shrisha,4,S-Sale,--D,57977,394843,1,0001867488,Common Stock
+D,12/06/2021 00:00:00,Preece Richard,4,S-Sale,--D,11459,209855,1,0001867835,Common Stock
+D,12/06/2021 00:00:00,Miller Nicole,4,S-Sale,--D,8751,183718,1,0001867504,Common Stock
+D,12/02/2021 00:00:00,Watson Noel Bertram,4,S-Sale,--D,57825,495804,1,0001669081,Common Stock
+D,12/02/2021 00:00:00,Preece Richard,4,S-Sale,--D,27928,220647,1,0001867835,Common Stock
+D,12/02/2021 00:00:00,Miller Nicole,4,S-Sale,--D,13851,192469,1,0001867504,Common Stock
+A,08/02/2021 00:00:00,Hamren Elizabeth,4,A-Award,--D,4545,9946,2,0001879287,Common Stock (RSUs)
+A,08/02/2021 00:00:00,Hamren Elizabeth,4,A-Award,--D,5401,5401,1,0001879287,Common Stock (RSUs)
+D,07/02/2021 00:00:00,Ruder Brian,4,C-Conversion,--I,18268844,0,2,0001869887,Series A Redeemable Convertible Preferred Stock
+A,07/02/2021 00:00:00,Ruder Brian,4,C-Conversion,--I,36537688,38012988,1,0001869887,Common Stock
+D,07/02/2021 00:00:00,Patel Dipan,4,C-Conversion,--I,18268844,0,2,0001870156,Series A Redeemable Convertible Preferred Stock
+A,07/02/2021 00:00:00,Patel Dipan,4,C-Conversion,--I,36537688,38012988,1,0001870156,Common Stock
+D,07/02/2021 00:00:00,LucasZoom LLC,4,C-Conversion,--D,18268844,0,2,0001869984,Series A Redeemable Convertible Preferred Stock
+A,07/02/2021 00:00:00,LucasZoom LLC,4,C-Conversion,--D,36537688,38012988,1,0001869984,Common Stock
+A,06/29/2021 00:00:00,Murphy John Francis,4,A-Award,--D,7142,14284,2,0001417762,Common Stock (RSUs)
+A,06/29/2021 00:00:00,Murphy John Francis,4,A-Award,--D,7142,7142,1,0001417762,Common Stock (RSUs)
+A,06/29/2021 00:00:00,Radhakrishna Shrisha,4,A-Award,--D,112052,112052,2,0001867488,Employee Stock Option (Right to Buy)
+A,06/29/2021 00:00:00,Radhakrishna Shrisha,4,A-Award,--D,44821,452153,1,0001867488,Common Stock (RSUs)
+A,06/29/2021 00:00:00,Miller Nicole,4,A-Award,--D,133927,133927,2,0001867504,Employee Stock Option (Right to Buy)
+A,06/29/2021 00:00:00,Miller Nicole,4,A-Award,--D,53571,206320,1,0001867504,Common Stock (RSUs)
+A,06/29/2021 00:00:00,Preece Richard,4,A-Award,--D,178570,178570,2,0001867835,Employee Stock Option (Right to Buy)
+A,06/29/2021 00:00:00,Preece Richard,4,A-Award,--D,71428,248575,1,0001867835,Common Stock (RSUs)
+A,06/29/2021 00:00:00,Watson Noel Bertram,4,A-Award,--D,111160,111160,2,0001669081,Employee Stock Option (Right to Buy)
+A,06/29/2021 00:00:00,Watson Noel Bertram,4,A-Award,--D,44464,553629,1,0001669081,Common Stock (RSUs)
+A,06/29/2021 00:00:00,Wernikoff Daniel A,4,A-Award,--D,290177,290177,2,0001583139,Employee Stock Option (Right to Buy)
+A,06/29/2021 00:00:00,Wernikoff Daniel A,4,A-Award,--D,116071,116071,1,0001583139,Common Stock (RSUs)

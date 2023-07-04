@@ -1,0 +1,121 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,05/23/2023 00:00:00,Tumminello Peter I,4,P-Purchase,--D,5000,9888,1,0001491158,Common Stock
+A,05/11/2023 00:00:00,SKAGGS ROBERT C JR,4,P-Purchase,--D,2000,19539,1,0001059354,Common Stock
+A,05/09/2023 00:00:00,Pickle Elaine M,4,P-Purchase,--D,1500,1500,1,0001869022,Common Stock
+A,05/08/2023 00:00:00,Slater David,4,P-Purchase,--D,1500,33273,1,0001724472,Common Stock
+A,05/05/2023 00:00:00,Archon Angela N,4,A-Award,--D,2451,2451,1,0001669602,Restricted Stock Units
+A,05/05/2023 00:00:00,Pickle Elaine M,4,A-Award,--D,2451,2451,1,0001869022,Restricted Stock Units
+A,05/05/2023 00:00:00,Wilson Dwayne Andree,4,A-Award,--D,2451,2451,1,0001391996,Restricted Stock Units
+A,05/05/2023 00:00:00,Baker Stephen W,4,A-Award,--D,2451,2451,1,0001488318,Restricted Stock Units
+A,05/05/2023 00:00:00,Tumminello Peter I,4,A-Award,--D,2451,2451,3,0001491158,Restricted Stock Units
+D,05/05/2023 00:00:00,Tumminello Peter I,4,M-Exempt,--D,1795,0,2,0001491158,Restricted Stock Units
+A,05/05/2023 00:00:00,Tumminello Peter I,4,M-Exempt,--D,1888,4888,1,0001491158,Common Stock
+D,05/04/2023 00:00:00,Jewell Jeffrey A,4,M-Exempt,--D,16511.5,13209.2,3,0001722782,Restricted Stock Units
+D,05/04/2023 00:00:00,Jewell Jeffrey A,4,F-InKind,--D,8192,26013,2,0001722782,Common Stock
+A,05/04/2023 00:00:00,Jewell Jeffrey A,4,M-Exempt,--D,17984,34205,1,0001722782,Common Stock
+D,02/03/2023 00:00:00,Slater David,4,F-InKind,--D,7286,31773,2,0001724472,Common Stock
+D,02/03/2023 00:00:00,Zona Christopher,4,F-InKind,--D,2309,17541,2,0001869034,Common Stock
+D,02/03/2023 00:00:00,Jewell Jeffrey A,4,F-InKind,--D,3427,16221,2,0001722782,Common Stock
+D,02/03/2023 00:00:00,Cox Melissa,4,F-InKind,--D,718,2063,2,0001928974,Common Stock
+D,02/03/2023 00:00:00,Ellis Wendy,4,F-InKind,--D,2088,5335,2,0001864357,Common Stock
+A,02/01/2023 00:00:00,Slater David,4,A-Award,--D,25680,25680,3,0001724472,Restricted Stock Units
+A,02/01/2023 00:00:00,Slater David,4,A-Award,--D,15994,39059,1,0001724472,Common Stock
+A,02/01/2023 00:00:00,Zona Christopher,4,A-Award,--D,6979,6979,3,0001869034,Restricted Stock Units
+A,02/01/2023 00:00:00,Zona Christopher,4,A-Award,--D,6585,19850,1,0001869034,Common Stock
+A,02/01/2023 00:00:00,Jewell Jeffrey A,4,A-Award,--D,6769,6769,3,0001722782,Restricted Stock Units
+A,02/01/2023 00:00:00,Jewell Jeffrey A,4,A-Award,--D,7526,19648,1,0001722782,Common Stock
+A,02/01/2023 00:00:00,Cox Melissa,4,A-Award,--D,2094,2094,3,0001928974,Restricted Stock Units
+A,02/01/2023 00:00:00,Cox Melissa,4,A-Award,--D,1411,2781,1,0001928974,Common Stock
+A,02/01/2023 00:00:00,Ellis Wendy,4,A-Award,--D,4104,4104,3,0001864357,Restricted Stock Units
+A,02/01/2023 00:00:00,Ellis Wendy,4,A-Award,--D,4233,7423,1,0001864357,Common Stock
+D,01/29/2023 00:00:00,Ellis Wendy,4,M-Exempt,--D,1320.92,0,3,0001864357,Restricted Stock Units
+D,01/29/2023 00:00:00,Ellis Wendy,4,F-InKind,--D,764,3190,2,0001864357,Common Stock
+A,01/29/2023 00:00:00,Ellis Wendy,4,M-Exempt,--D,1418,3954,1,0001864357,Common Stock
+D,01/29/2023 00:00:00,Jewell Jeffrey A,4,M-Exempt,--D,2311.61,0,3,0001722782,Restricted Stock Units
+D,01/29/2023 00:00:00,Jewell Jeffrey A,4,F-InKind,--D,1184,12122,2,0001722782,Common Stock
+A,01/29/2023 00:00:00,Jewell Jeffrey A,4,M-Exempt,--D,2482,13306,1,0001722782,Common Stock
+D,01/29/2023 00:00:00,Cox Melissa,4,M-Exempt,--D,512.86,0,3,0001928974,Restricted Stock Units
+D,01/29/2023 00:00:00,Cox Melissa,4,F-InKind,--D,187,1370,2,0001928974,Common Stock
+A,01/29/2023 00:00:00,Cox Melissa,4,M-Exempt,--D,532,1557,1,0001928974,Common Stock
+D,01/29/2023 00:00:00,Zona Christopher,4,M-Exempt,--D,1981.38,0,3,0001869034,Restricted Stock Units
+D,01/29/2023 00:00:00,Zona Christopher,4,F-InKind,--D,736,13265,2,0001869034,Common Stock
+A,01/29/2023 00:00:00,Zona Christopher,4,M-Exempt,--D,2128,14001,1,0001869034,Common Stock
+D,01/29/2023 00:00:00,Slater David,4,M-Exempt,--D,4953.45,0,3,0001724472,Restricted Stock Units
+D,01/29/2023 00:00:00,Slater David,4,F-InKind,--D,2482,23065,2,0001724472,Common Stock
+A,01/29/2023 00:00:00,Slater David,4,M-Exempt,--D,5320,25547,1,0001724472,Common Stock
+D,12/31/2022 00:00:00,Zona Christopher,4,M-Exempt,--D,6900.892,0,3,0001869034,Restricted Stock Units
+D,12/31/2022 00:00:00,Zona Christopher,4,F-InKind,--D,2679,11873,2,0001869034,Common Stock
+A,12/31/2022 00:00:00,Zona Christopher,4,M-Exempt,--D,7326,14552,1,0001869034,Common Stock
+D,08/08/2022 00:00:00,Cox Melissa,4,J-Other,--I,362.7694,0,1,0001928974,Common Stock
+D,08/08/2022 00:00:00,Ellis Wendy,4,J-Other,--I,580.4861,0,1,0001864357,Common Stock
+D,08/08/2022 00:00:00,Zona Christopher,4,J-Other,--I,1723.1419,0,1,0001869034,Common Stock
+D,08/08/2022 00:00:00,Slater David,4,J-Other,--I,1407.9888,0,1,0001724472,Common Stock
+A,08/08/2022 00:00:00,Tumminello Peter I,4,P-Purchase,--D,3000,3000,1,0001491158,Common Stock
+D,08/02/2022 00:00:00,SKAGGS ROBERT C JR,4,M-Exempt,--D,24167,24166,3,0001059354,Restricted Stock Units
+D,08/02/2022 00:00:00,SKAGGS ROBERT C JR,4,F-InKind,--D,8724,17539,2,0001059354,Common Stock
+A,08/02/2022 00:00:00,SKAGGS ROBERT C JR,4,M-Exempt,--D,25351,26263,1,0001059354,Common Stock
+A,05/06/2022 00:00:00,Cox Melissa,4,A-Award,--D,861,861,1,0001928974,Restricted Stock Units
+A,05/06/2022 00:00:00,Pickle Elaine M,4,A-Award,--D,1795,1795,1,0001869022,Restricted Stock Units
+A,05/06/2022 00:00:00,Wilson Dwayne Andree,4,A-Award,--D,1795,1795,1,0001391996,Restricted Stock Units
+A,05/06/2022 00:00:00,Tumminello Peter I,4,A-Award,--D,1795,1795,1,0001491158,Restricted Stock Units
+A,05/06/2022 00:00:00,Lassiter Wright III,4,A-Award,--D,1795,1795,1,0001805909,Restricted Stock Units
+A,05/06/2022 00:00:00,Baker Stephen W,4,A-Award,--D,1795,1795,1,0001488318,Restricted Stock Units
+D,03/08/2022 00:00:00,Jewell Jeffrey A,4,S-Sale,--I,699.9862,0,1,0001722782,Common Stock
+D,02/24/2022 00:00:00,Jewell Jeffrey A,4,F-InKind,--D,1883,10824,1,0001722782,Common Stock
+D,02/24/2022 00:00:00,Redmond Richard L Jr,4,F-InKind,--D,1074,5480,1,0001864076,Common Stock
+D,02/24/2022 00:00:00,Ellis Wendy,4,F-InKind,--D,1346,2536,1,0001864357,Common Stock
+D,02/24/2022 00:00:00,Slater David,4,F-InKind,--D,3185,20227,1,0001724472,Common Stock
+D,02/24/2022 00:00:00,Zona Christopher,4,F-InKind,--D,951,7226,1,0001869034,Common Stock
+A,02/04/2022 00:00:00,Jewell Jeffrey A,4,A-Award,--D,4372,4372,6,0001722782,Restricted Stock Units
+A,02/04/2022 00:00:00,Jewell Jeffrey A,4,A-Award,--D,4088,12707,3,0001722782,Common Stock
+A,02/04/2022 00:00:00,Redmond Richard L Jr,4,A-Award,--D,2329,2329,6,0001864076,Restricted Stock Units
+A,02/04/2022 00:00:00,Redmond Richard L Jr,4,A-Award,--D,3860,6554,3,0001864076,Common Stock
+A,02/04/2022 00:00:00,Ellis Wendy,4,A-Award,--D,2948,2948,6,0001864357,Restricted Stock Units
+A,02/04/2022 00:00:00,Ellis Wendy,4,A-Award,--D,2498,3882,3,0001864357,Common Stock
+A,02/04/2022 00:00:00,Slater David,4,A-Award,--D,19328,19328,6,0001724472,Restricted Stock Units
+A,02/04/2022 00:00:00,Slater David,4,A-Award,--D,6813,23412,3,0001724472,Common Stock
+A,02/04/2022 00:00:00,Zona Christopher,4,A-Award,--D,4099,4099,3,0001869034,Restricted Stock Units
+A,02/04/2022 00:00:00,Zona Christopher,4,A-Award,--D,2384,8177,1,0001869034,Common Stock
+A,01/30/2022 00:00:00,Jewell Jeffrey A,4,M-Exempt,--D,2641.84,0,5,0001722782,Restricted Stock Units
+D,01/30/2022 00:00:00,Jewell Jeffrey A,4,F-InKind,--D,950,8619,2,0001722782,Common Stock
+A,01/30/2022 00:00:00,Jewell Jeffrey A,4,M-Exempt,--D,2641,9569,1,0001722782,Common Stock
+A,01/30/2022 00:00:00,Redmond Richard L Jr,4,M-Exempt,--D,2311.61,0,5,0001864076,Restricted Stock Units
+D,01/30/2022 00:00:00,Redmond Richard L Jr,4,F-InKind,--D,702,2694,2,0001864076,Common Stock
+A,01/30/2022 00:00:00,Redmond Richard L Jr,4,M-Exempt,--D,2311,3396,1,0001864076,Common Stock
+A,01/30/2022 00:00:00,Ellis Wendy,4,M-Exempt,--D,1651.15,0,5,0001864357,Restricted Stock Units
+D,01/30/2022 00:00:00,Ellis Wendy,4,F-InKind,--D,911,1384,2,0001864357,Common Stock
+A,01/30/2022 00:00:00,Ellis Wendy,4,M-Exempt,--D,1651,2295,1,0001864357,Common Stock
+A,01/30/2022 00:00:00,Slater David,4,M-Exempt,--D,4292.99,0,5,0001724472,Restricted Stock Units
+D,01/30/2022 00:00:00,Slater David,4,F-InKind,--D,2165,16599,2,0001724472,Common Stock
+A,01/30/2022 00:00:00,Slater David,4,M-Exempt,--D,4292,18764,1,0001724472,Common Stock
+A,11/08/2021 00:00:00,SKAGGS ROBERT C JR,4/A,P-Purchase,--D,400,912,1,0001059354,Common Stock
+A,11/08/2021 00:00:00,SKAGGS ROBERT C JR,4,P-Purchase,--D,400,400,1,0001059354,Common Stock
+A,08/02/2021 00:00:00,Zona Christopher,4,A-Award,--D,36250,36250,4,0001869034,Restricted Stock Units
+A,08/02/2021 00:00:00,Wilson Dwayne Andree,4,A-Award,--D,2417,2417,1,0001391996,Restricted Stock Units
+A,08/02/2021 00:00:00,Tumminello Peter I,4,A-Award,--D,2417,2417,1,0001491158,Restricted Stock Units
+A,08/02/2021 00:00:00,Slater David,4,A-Award,--D,86999,86999,4,0001724472,Restricted Stock Units
+A,08/02/2021 00:00:00,SKAGGS ROBERT C JR,4,A-Award,--D,48333,48333,1,0001059354,Restricted Stock Units
+A,08/02/2021 00:00:00,Pickle Elaine M,4,A-Award,--D,2417,2417,1,0001869022,Restricted Stock Units
+A,08/02/2021 00:00:00,Lassiter Wright III,4,A-Award,--D,2417,2417,1,0001805909,Restricted Stock Units
+A,08/02/2021 00:00:00,Jewell Jeffrey A,4,A-Award,--D,48333,48333,5,0001722782,Restricted Stock Units
+A,08/02/2021 00:00:00,Ellis Wendy,4,A-Award,--D,24167,24167,4,0001864357,Restricted Stock Units
+A,08/02/2021 00:00:00,Baker Stephen W,4,A-Award,--D,2417,2417,1,0001488318,Restricted Stock Units
+D,07/01/2021 00:00:00,DTE ENERGY CO,4,J-Other,--D,96732466,0,2,0000936340,Common Stock
+A,07/01/2021 00:00:00,Zona Christopher,4,A-Award,--D,2311.61,2311.61,3,0001869034,Restricted Stock Units
+A,07/01/2021 00:00:00,Zona Christopher,4,A-Award,--D,1981.38,1981.38,2,0001869034,Restricted Stock Units
+A,07/01/2021 00:00:00,Zona Christopher,4,A-Award,--D,6900.892,6900.892,1,0001869034,Restricted Stock Units
+A,07/01/2021 00:00:00,Slater David,4,A-Award,--D,5283.68,5283.68,3,0001724472,Restricted Stock Units
+A,07/01/2021 00:00:00,Slater David,4,A-Award,--D,4953.45,4953.45,2,0001724472,Restricted Stock Units
+A,07/01/2021 00:00:00,Slater David,4,A-Award,--D,4292.99,4292.99,1,0001724472,Restricted Stock Units
+A,07/01/2021 00:00:00,Redmond Richard L Jr,4,A-Award,--D,2311.61,2311.61,4,0001864076,Restricted Stock Units
+A,07/01/2021 00:00:00,Redmond Richard L Jr,4,A-Award,--D,2311.61,2311.61,3,0001864076,Restricted Stock Units
+A,07/01/2021 00:00:00,Redmond Richard L Jr,4,A-Award,--D,6210.8028,6210.8028,2,0001864076,Restricted Stock Units
+A,07/01/2021 00:00:00,Redmond Richard L Jr,4,A-Award,--D,2311.61,2311.61,1,0001864076,Restricted Stock Units
+A,07/01/2021 00:00:00,Jewell Jeffrey A,4,A-Award,--D,2641.84,2641.84,4,0001722782,Restricted Stock Units
+A,07/01/2021 00:00:00,Jewell Jeffrey A,4,A-Award,--D,29720.7,29720.7,3,0001722782,Restricted Stock Units
+A,07/01/2021 00:00:00,Jewell Jeffrey A,4,A-Award,--D,2311.61,2311.61,2,0001722782,Restricted Stock Units
+A,07/01/2021 00:00:00,Jewell Jeffrey A,4,A-Award,--D,2641.84,2641.84,1,0001722782,Restricted Stock Units
+A,07/01/2021 00:00:00,Ellis Wendy,4,A-Award,--D,1651.15,1651.15,3,0001864357,Restricted Stock Units
+A,07/01/2021 00:00:00,Ellis Wendy,4,A-Award,--D,1320.92,1320.92,2,0001864357,Restricted Stock Units
+A,07/01/2021 00:00:00,Ellis Wendy,4,A-Award,--D,1651.15,1651.15,1,0001864357,Restricted Stock Units
+A,06/30/2021 00:00:00,DTE ENERGY CO,4,J-Other,--D,96731466,96732466,1,0000936340,Common Stock

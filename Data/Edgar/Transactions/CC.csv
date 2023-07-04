@@ -1,0 +1,561 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/09/2023 00:00:00,Scarborough Alvenia,4,M-Exempt,--D,5125,0,3,0001826993,Stock Option (Right to Buy)
+D,06/09/2023 00:00:00,Scarborough Alvenia,4,S-Sale,--D,5125,13889.6287,2,0001826993,Common Stock
+A,06/09/2023 00:00:00,Scarborough Alvenia,4,M-Exempt,--D,5125,19014.6287,1,0001826993,Common Stock
+A,06/09/2023 00:00:00,Newman Mark,4/A,P-Purchase,--D,7661,266954.5706,1,0001524597,Common Stock
+A,06/09/2023 00:00:00,Newman Mark,4,P-Purchase,--D,7661,266954.5706,1,0001524597,Common Stock
+D,06/08/2023 00:00:00,Abbott Matthew S,4,M-Exempt,--D,8912,0,3,0001786056,Stock Option (Right to Buy)
+D,06/08/2023 00:00:00,Abbott Matthew S,4,S-Sale,--D,8912,29869.1243,2,0001786056,Common Stock
+A,06/08/2023 00:00:00,Abbott Matthew S,4,M-Exempt,--D,8912,38781.1243,1,0001786056,Common Stock
+A,04/26/2023 00:00:00,Rogers Sandra Phillips,4,A-Award,--D,5858,15695.1281,1,0001721471,Common Stock
+A,04/26/2023 00:00:00,Keohane Sean D,4,A-Award,--D,5858,37929.8097,1,0001435737,Common Stock
+A,04/26/2023 00:00:00,CRANSTON MARY B,4,A-Award,--D,5858,71648.0632,1,0001104268,Common Stock
+A,04/26/2023 00:00:00,Pepy Guillaume,4,A-Award,--D,5858,11880.574,1,0001911075,Common Stock
+A,04/26/2023 00:00:00,Farrell Dawn L,4,A-Award,--D,5858,68773.84,1,0001645639,Common Stock
+A,04/26/2023 00:00:00,Kane Erin N,4,A-Award,--D,5858,38654.0549,1,0001684077,Common Stock
+A,04/26/2023 00:00:00,CRAWFORD CURTIS J,4,A-Award,--D,5858,107148.3173,1,0001014318,Common STock
+A,04/26/2023 00:00:00,ANASTASIO CURT,4,A-Award,--D,5858,68228.3585,1,0001032097,Common Stock
+A,03/31/2023 00:00:00,Rogers Sandra Phillips,4,A-Award,--D,835.0033,3347.8162,3,0001721471,Stock Units
+A,03/31/2023 00:00:00,Kane Erin N,4,A-Award,--D,835.0033,7700.8272,2,0001684077,Stock Units
+D,03/06/2023 00:00:00,Bellezza Alisha,4,M-Exempt,--D,5936,0,12,0001848483,Stock Option (Right to Buy)
+D,03/06/2023 00:00:00,Bellezza Alisha,4,M-Exempt,--D,7415,14829,11,0001848483,Stock Option (Right to Buy)
+D,03/06/2023 00:00:00,Bellezza Alisha,4,M-Exempt,--D,5453,5453,10,0001848483,Stock Option (Right to Buy)
+D,03/06/2023 00:00:00,Bellezza Alisha,4,M-Exempt,--D,8912,0,9,0001848483,Stock Option (Right to Buy)
+D,03/06/2023 00:00:00,Bellezza Alisha,4,S-Sale,--D,5936,43930.857,8,0001848483,Common Stock
+A,03/06/2023 00:00:00,Bellezza Alisha,4,M-Exempt,--D,5936,49866.857,7,0001848483,Common Stock
+D,03/06/2023 00:00:00,Bellezza Alisha,4,S-Sale,--D,7415,43930.857,6,0001848483,Common Stock
+A,03/06/2023 00:00:00,Bellezza Alisha,4,M-Exempt,--D,7415,51345.857,5,0001848483,Common Stock
+D,03/06/2023 00:00:00,Bellezza Alisha,4,S-Sale,--D,5453,43930.857,4,0001848483,Common Stock
+A,03/06/2023 00:00:00,Bellezza Alisha,4,M-Exempt,--D,5453,49383.857,3,0001848483,Common Stock
+D,03/06/2023 00:00:00,Bellezza Alisha,4,S-Sale,--D,8912,43930.857,2,0001848483,Common Stock
+A,03/06/2023 00:00:00,Bellezza Alisha,4,M-Exempt,--D,8912,52842.857,1,0001848483,Common Stock
+D,03/02/2023 00:00:00,Wellman Kristine M,4,F-InKind,--D,517,26618.817,3,0001948665,Common Stock
+D,03/02/2023 00:00:00,Dignam Denise,4,F-InKind,--D,569,32216.4596,4,0001848475,Common Stock
+D,03/02/2023 00:00:00,Bellezza Alisha,4,F-InKind,--D,943,43930.857,3,0001848483,Common Stock
+D,03/02/2023 00:00:00,Scarborough Alvenia,4,F-InKind,--D,560,13872.673,3,0001826993,Common Stock
+D,03/02/2023 00:00:00,Sparks Edwin C,4,F-InKind,--D,18079,137243.7361,3,0001735771,Common Stock
+D,03/02/2023 00:00:00,Wisel Camela,4,F-InKind,--D,487,11660.8853,3,0001886003,Common Stock
+A,03/01/2023 00:00:00,Newman Mark,4/A,A-Award,--D,100200,100200,1,0001524597,Performance Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Wisel Camela,4/A,A-Award,--D,5010,5010,1,0001886003,Performance Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Wellman Kristine M,4/A,A-Award,--D,10855,10855,1,0001948665,Performance Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Ralhan Sameer,4/A,A-Award,--D,28807,28807,1,0001778813,Performance Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Scarborough Alvenia,4/A,A-Award,1-D,5427,5427,1,0001826993,Performance Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Sparks Edwin C,4/A,A-Award,--D,18370,18370,1,0001735771,Performance Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Lock Jonathan,4/A,A-Award,--D,7097,7097,1,0001891480,Performance Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Kelliher Susan M.,4/A,A-Award,--D,11690,11690,1,0001568507,Performance Option (Right to Buy)
+A,03/01/2023 00:00:00,Dignam Denise,4/A,A-Award,--D,13777,13777,1,0001848475,Performance Stock Option (Right to Buy
+A,03/01/2023 00:00:00,Bellezza Alisha,4/A,A-Award,--D,13777,13777,1,0001848483,Performance Stock Option (Right to Buy
+A,03/01/2023 00:00:00,Kelliher Susan M.,4,A-Award,--D,11232,11232,4,0001568507,Performance Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Kelliher Susan M.,4,A-Award,--D,11393,11393,3,0001568507,Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Kelliher Susan M.,4,A-Award,--D,5022,89275.8412,2,0001568507,Common Stock
+D,03/01/2023 00:00:00,Kelliher Susan M.,4,F-InKind,--D,921,84253.8412,1,0001568507,Common Stock
+A,03/01/2023 00:00:00,Lock Jonathan,4,A-Award,--D,6819,6819,4,0001891480,Performance Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Lock Jonathan,4,A-Award,--D,6917,6917,3,0001891480,Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Lock Jonathan,4,A-Award,--D,3049,29659.4423,2,0001891480,Common Stock
+D,03/01/2023 00:00:00,Lock Jonathan,4,F-InKind,--D,418,26610.4423,1,0001891480,Common Stock
+A,03/01/2023 00:00:00,Newman Mark,4,A-Award,--D,96277,96277,6,0001524597,Performance Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Newman Mark,4,A-Award,--D,97656,97656,5,0001524597,Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Newman Mark,4,A-Award,--D,43053,259171.8979,2,0001524597,Common Stock
+D,03/01/2023 00:00:00,Newman Mark,4,F-InKind,--D,5248,216118.8979,1,0001524597,Common Stock
+A,03/01/2023 00:00:00,Wellman Kristine M,4,A-Award,--D,10430,10430,5,0001948665,Performance Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Wellman Kristine M,4,A-Award,--D,10579,10579,4,0001948665,Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Wellman Kristine M,4,A-Award,--D,4664,27135.817,2,0001948665,Common Stock
+D,03/01/2023 00:00:00,Wellman Kristine M,4,F-InKind,--D,1088,22471.817,1,0001948665,Common Stock
+A,03/01/2023 00:00:00,Ralhan Sameer,4,A-Award,--D,27679,27679,4,0001778813,Performance Stock Options (Right to Buy)
+A,03/01/2023 00:00:00,Ralhan Sameer,4,A-Award,--D,28076,28076,3,0001778813,Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Ralhan Sameer,4,A-Award,--D,12378,381345.8611,2,0001778813,Common Stock
+D,03/01/2023 00:00:00,Ralhan Sameer,4,F-InKind,--D,1842,368967.8611,1,0001778813,Common Stock
+A,03/01/2023 00:00:00,Dignam Denise,4,A-Award,--D,13238,13238,6,0001848475,Performance Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Dignam Denise,4,A-Award,--D,13427,13427,5,0001848475,Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Dignam Denise,4,A-Award,--D,14351,32785.4596,3,0001848475,Common Stock
+A,03/01/2023 00:00:00,Dignam Denise,4,A-Award,--D,5919,18434.4596,2,0001848475,Common Stock
+D,03/01/2023 00:00:00,Dignam Denise,4,F-InKind,--D,522,12515.4596,1,0001848475,Common Stock
+A,03/01/2023 00:00:00,Bellezza Alisha,4,A-Award,--D,13238,13238,5,0001848483,Performance Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Bellezza Alisha,4,A-Award,--D,13427,13427,4,0001848483,Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Bellezza Alisha,4,A-Award,--D,5919,44873.857,2,0001848483,Common Stock
+D,03/01/2023 00:00:00,Bellezza Alisha,4,F-InKind,--D,525,38954.857,1,0001848483,Common Stock
+A,03/01/2023 00:00:00,Scarborough Alvenia,4,A-Award,--D,5215,5215,5,0001826993,Performance Stock Options (Right to Buy)
+A,03/01/2023 00:00:00,Scarborough Alvenia,4,A-Award,--D,5289,5289,4,0001826993,Stock Options (Right to Buy)
+A,03/01/2023 00:00:00,Scarborough Alvenia,4,A-Award,--D,2332,14432.673,2,0001826993,Common Stock
+D,03/01/2023 00:00:00,Scarborough Alvenia,4,F-InKind,--D,300,12100.673,1,0001826993,Common Stock
+A,03/01/2023 00:00:00,Sparks Edwin C,4,A-Award,--D,17650,17650,5,0001735771,Performance Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Sparks Edwin C,4,A-Award,--D,17903,17903,4,0001735771,Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Sparks Edwin C,4,A-Award,--D,7893,155322.7361,2,0001735771,Common Stock
+D,03/01/2023 00:00:00,Sparks Edwin C,4,F-InKind,--D,1309,147429.7361,1,0001735771,Common Stock
+A,03/01/2023 00:00:00,Wisel Camela,4,A-Award,--D,4813,4813,5,0001886003,Performance Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Wisel Camela,4,A-Award,--D,4882,4882,4,0001886003,Stock Option (Right to Buy)
+A,03/01/2023 00:00:00,Wisel Camela,4,A-Award,--D,2152,12147.8853,2,0001886003,Common Stock
+D,03/01/2023 00:00:00,Wisel Camela,4,F-InKind,--D,564,9995.8853,1,0001886003,Common Stock
+D,02/10/2023 00:00:00,Newman Mark,4,F-InKind,--D,70974,221250.8407,2,0001524597,Common Stock
+A,02/10/2023 00:00:00,Newman Mark,4,A-Award,--D,147540,292224.8407,1,0001524597,Common Stock
+D,02/10/2023 00:00:00,Lock Jonathan,4,F-InKind,--D,6835,27028.4423,2,0001891480,Common Stock
+A,02/10/2023 00:00:00,Lock Jonathan,4,A-Award,--D,20654,33863.4423,1,0001891480,Common Stock
+D,02/10/2023 00:00:00,Ralhan Sameer,4,F-InKind,--D,42218,370710.0122,2,0001778813,Common Stock
+A,02/10/2023 00:00:00,Ralhan Sameer,4,A-Award,--D,98360,412928.0122,1,0001778813,Common Stock
+D,02/10/2023 00:00:00,Kelliher Susan M.,4,F-InKind,--D,28315,85174.8412,2,0001568507,Common Stock
+A,02/10/2023 00:00:00,Kelliher Susan M.,4,A-Award,--D,68852,113489.8412,1,0001568507,Common Stock
+D,02/10/2023 00:00:00,Sparks Edwin C,4,F-InKind,--D,32938,148736.7361,2,0001735771,Common Stock
+A,02/10/2023 00:00:00,Sparks Edwin C,4,A-Award,--D,78688,181676.7361,1,0001735771,Common Stock
+A,12/30/2022 00:00:00,Rogers Sandra Phillips,4,A-Award,--D,408.2292,2491.0155,3,0001721471,Stock Units
+A,12/30/2022 00:00:00,Kane Erin N,4,A-Award,--D,816.4598,6806.266,2,0001684077,Stock Units
+D,11/07/2022 00:00:00,Dignam Denise,4,F-InKind,--D,2248,12995.6363,1,0001848475,Common Stock
+A,09/30/2022 00:00:00,Rogers Sandra Phillips,4,A-Award,--D,507.0994,2071.3974,3,0001721471,Stock Units
+A,09/30/2022 00:00:00,Kane Erin N,4,A-Award,--D,1014.1988,5940.7576,2,0001684077,Stock Units
+A,06/30/2022 00:00:00,Kane Erin N,4,A-Award,--D,780.762,4890.3979,2,0001684077,Stock Units
+A,06/30/2022 00:00:00,Rogers Sandra Phillips,4,A-Award,--D,390.381,1547.1906,3,0001721471,Stock Units
+D,06/07/2022 00:00:00,Sparks Edwin C,4,M-Exempt,--D,17830,0,6,0001735771,Stock Option (Right to Buy)
+D,06/07/2022 00:00:00,Sparks Edwin C,4,M-Exempt,--D,4312,0,5,0001735771,Stock Option (Right to Buy)
+D,06/07/2022 00:00:00,Sparks Edwin C,4,S-Sale,--D,17830,101037.5941,4,0001735771,Common Stock
+A,06/07/2022 00:00:00,Sparks Edwin C,4,M-Exempt,--D,17830,118867.5941,3,0001735771,Common Stock
+D,06/07/2022 00:00:00,Sparks Edwin C,4,S-Sale,--D,4312,101037.5941,2,0001735771,Common Stock
+A,06/07/2022 00:00:00,Sparks Edwin C,4,M-Exempt,--D,4312,105349.5941,1,0001735771,Common Stock
+D,05/09/2022 00:00:00,Ralhan Sameer,4,M-Exempt,--D,20175,0,6,0001778813,Stock Option (Right to Buy)
+D,05/09/2022 00:00:00,Ralhan Sameer,4,S-Sale,--D,20175,313506.2256,4,0001778813,Common Stock
+A,05/09/2022 00:00:00,Ralhan Sameer,4,M-Exempt,--D,20175,333681.2256,3,0001778813,Common Stock
+D,05/06/2022 00:00:00,Ralhan Sameer,4,M-Exempt,--D,35188,20175,5,0001778813,Stock Option (Right to Buy)
+D,05/06/2022 00:00:00,Ralhan Sameer,4,S-Sale,--D,35188,313506.2256,2,0001778813,Common Stock
+A,05/06/2022 00:00:00,Ralhan Sameer,4,M-Exempt,--D,35188,348694.2256,1,0001778813,Common Stock
+D,05/06/2022 00:00:00,Sparks Edwin C,4,M-Exempt,--D,12270,24539,9,0001735771,Stock Option (Right to Buy)
+D,05/06/2022 00:00:00,Sparks Edwin C,4,M-Exempt,--D,27997,28520,8,0001735771,Stock Option (Right to Buy)
+D,05/06/2022 00:00:00,Sparks Edwin C,4,S-Sale,--D,12270,100514.5941,6,0001735771,Common Stock
+A,05/06/2022 00:00:00,Sparks Edwin C,4,M-Exempt,--D,12270,112784.5941,5,0001735771,Common Stock
+D,05/06/2022 00:00:00,Sparks Edwin C,4,S-Sale,--D,27997,100514.5941,4,0001735771,Common Stock
+A,05/06/2022 00:00:00,Sparks Edwin C,4,M-Exempt,--D,27997,128511.5941,3,0001735771,Common Stock
+D,05/05/2022 00:00:00,Shelton David C,4,M-Exempt,--D,67736,33868,7,0001645179,Stock Option (Right to Buy)
+D,05/05/2022 00:00:00,Shelton David C,4,M-Exempt,--D,83044,0,6,0001645179,Stock Option (Right to Buy)
+D,05/05/2022 00:00:00,Shelton David C,4,S-Sale,--D,67736,51125.1164,4,0001645179,Common Stock
+A,05/05/2022 00:00:00,Shelton David C,4,M-Exempt,--D,67736,118861.1164,3,0001645179,Common Stock
+D,05/05/2022 00:00:00,Shelton David C,4,S-Sale,--D,83044,51125.1164,2,0001645179,Common Stock
+A,05/05/2022 00:00:00,Shelton David C,4,M-Exempt,--D,83044,134169.1164,1,0001645179,Common Stock
+D,05/05/2022 00:00:00,Sparks Edwin C,4,M-Exempt,--D,523,56517,7,0001735771,Stock Option (Right to Buy)
+D,05/05/2022 00:00:00,Sparks Edwin C,4,S-Sale,--D,523,100514.5941,2,0001735771,Common Stock
+A,05/05/2022 00:00:00,Sparks Edwin C,4,M-Exempt,--D,523,101037.5941,1,0001735771,Common Stock
+D,05/05/2022 00:00:00,Newman Mark,4,M-Exempt,--D,197161,0,4,0001524597,Stock Option (Right to Buy)
+D,05/05/2022 00:00:00,Newman Mark,4,S-Sale,--D,197161,176347.0346,2,0001524597,Common Stock
+A,05/05/2022 00:00:00,Newman Mark,4,M-Exempt,--D,197161,373508.0346,1,0001524597,Common Stock
+D,05/05/2022 00:00:00,Bellezza Alisha,4,M-Exempt,--D,5453,10906,6,0001848483,Stock Option (Right to Buy)
+D,05/05/2022 00:00:00,Bellezza Alisha,4,M-Exempt,--D,8912,8912,5,0001848483,Stock Option (Right to Buy)
+D,05/05/2022 00:00:00,Bellezza Alisha,4,S-Sale,--D,5453,38797.3416,4,0001848483,Common Stock
+A,05/05/2022 00:00:00,Bellezza Alisha,4,M-Exempt,--D,5453,44250.3416,3,0001848483,Common Stock
+D,05/05/2022 00:00:00,Bellezza Alisha,4,S-Sale,--D,8912,38797.3416,2,0001848483,Common Stock
+A,05/05/2022 00:00:00,Bellezza Alisha,4,M-Exempt,--D,8912,47709.3416,1,0001848483,Common Stock
+D,05/05/2022 00:00:00,Scarborough Alvenia,4,M-Exempt,--D,7249,5125,3,0001826993,Stock Option (Right to Buy)
+D,05/05/2022 00:00:00,Scarborough Alvenia,4,S-Sale,--D,7249,12322.4506,2,0001826993,Common Stock
+A,05/05/2022 00:00:00,Scarborough Alvenia,4,M-Exempt,--D,7249,19571.4506,1,0001826993,Common Stock
+A,04/27/2022 00:00:00,Rogers Sandra Phillips,4,A-Award,--D,4442,9534.0159,1,0001721471,Common Stock
+A,04/27/2022 00:00:00,Kane Erin N,4,A-Award,--D,4442,31785.5076,1,0001684077,Common Stock
+A,04/27/2022 00:00:00,Farrell Dawn L,4,A-Award,--D,4442,61016.1931,1,0001645639,Common Stock
+A,04/27/2022 00:00:00,BELL BRADLEY J,4,A-Award,--D,4442,60604.835,1,0001190859,Common Stock
+A,04/27/2022 00:00:00,ANASTASIO CURT,4,A-Award,--D,4442,60531.4846,1,0001032097,Common Stock
+A,04/27/2022 00:00:00,CRANSTON MARY B,4,A-Award,--D,4442,63850.1931,1,0001104268,Common Stock
+A,04/27/2022 00:00:00,CRAWFORD CURTIS J,4,A-Award,--D,4442,99022.8654,1,0001014318,Common Stock
+A,04/27/2022 00:00:00,Pepy Guillaume,4,A-Award,--D,4442,5837,1,0001911075,Common Stock
+A,04/27/2022 00:00:00,Keohane Sean D,4,A-Award,--D,4442,31083.5786,1,0001435737,Common Stock
+A,03/31/2022 00:00:00,Rogers Sandra Phillips,4,A-Award,--D,397.0775,1142.0119,3,0001721471,Stock Units
+A,03/31/2022 00:00:00,Kane Erin N,4,A-Award,--D,794.155,4080.9852,2,0001684077,Stock Units
+D,03/02/2022 00:00:00,Bellezza Alisha,4,F-InKind,--D,795,38693.7057,4,0001848483,Common Stock
+D,03/02/2022 00:00:00,Wisel Camela,4,F-InKind,--D,467,10404,3,0001886003,Common Stock
+D,03/02/2022 00:00:00,Scarborough Alvenia,4,F-InKind,--D,536,12287,3,0001826993,Common Stock
+D,03/02/2022 00:00:00,Dignam Denise,4,F-InKind,--D,584,14964.9776,3,0001848475,Common Stock
+A,03/01/2022 00:00:00,Bellezza Alisha,4,A-Award,--D,22244,22244,5,0001848483,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Bellezza Alisha,4,A-Award,--D,19245,39488.7336,3,0001848483,Common Stock
+A,03/01/2022 00:00:00,Bellezza Alisha,4,A-Award,--D,2117,20243.7336,2,0001848483,Common Stock
+D,03/01/2022 00:00:00,Bellezza Alisha,4,F-InKind,--D,984,18126.7336,1,0001848483,Common Stock
+A,03/01/2022 00:00:00,Wisel Camela,4,A-Award,--D,12133,12133,4,0001886003,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Wisel Camela,4,A-Award,--D,1154,10871.514,2,0001886003,Common Stock
+D,03/01/2022 00:00:00,Wisel Camela,4,F-InKind,--D,526,9717.514,1,0001886003,Common Stock
+A,03/01/2022 00:00:00,Scarborough Alvenia,4,A-Award,--D,13144,13144,4,0001826993,Common Stock
+A,03/01/2022 00:00:00,Scarborough Alvenia,4,A-Award,--D,1250,12823.7711,2,0001826993,Common Stock
+D,03/01/2022 00:00:00,Scarborough Alvenia,4,F-InKind,--D,308,11573.7711,1,0001826993,Common Stock
+A,03/01/2022 00:00:00,Dignam Denise,4,A-Award,--D,22244,22244,4,0001848475,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Dignam Denise,4,A-Award,--D,2117,15549.612,2,0001848475,Common Stock
+D,03/01/2022 00:00:00,Dignam Denise,4,F-InKind,--D,453,13432.612,1,0001848475,Common Stock
+D,03/01/2022 00:00:00,VERGNANO MARK P,4,F-InKind,--D,9397,130019.1214,1,0001474107,Common Stock
+A,03/01/2022 00:00:00,Shelton David C,4,A-Award,--D,38422,38422,4,0001645179,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Shelton David C,4,A-Award,--D,3656,50896.0965,2,0001645179,Common Stock
+D,03/01/2022 00:00:00,Shelton David C,4,F-InKind,--D,2722,47240.0965,1,0001645179,Common Stock
+A,03/01/2022 00:00:00,Newman Mark,4,A-Award,--D,206268,206268,4,0001524597,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Newman Mark,4,A-Award,--D,19630,176253.057,2,0001524597,Common Stock
+D,03/01/2022 00:00:00,Newman Mark,4,F-InKind,--D,1253,156623.0572,1,0001524597,Common Stock
+A,03/01/2022 00:00:00,Ralhan Sameer,4,A-Award,--D,65722,65722,3,0001778813,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Ralhan Sameer,4,A-Award,--D,6254,313091.4634,2,0001778813,Common Stock
+D,03/01/2022 00:00:00,Ralhan Sameer,4,F-InKind,--D,550,306837.4634,1,0001778813,Common Stock
+A,03/01/2022 00:00:00,Lock Jonathan,4,A-Award,--D,17189,17189,3,0001891480,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Lock Jonathan,4,A-Award,--D,1635,13120,2,0001891480,Common Stock
+D,03/01/2022 00:00:00,Lock Jonathan,4,F-InKind,--D,230,11485,1,0001891480,Common Stock
+A,03/01/2022 00:00:00,Sparks Edwin C,4,A-Award,--D,44489,44489,3,0001735771,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Sparks Edwin C,4,A-Award,--D,4234,100298.9511,2,0001735771,Common Stock
+D,03/01/2022 00:00:00,Sparks Edwin C,4,F-InKind,--D,413,96064.9511,1,0001735771,Common Stock
+A,03/01/2022 00:00:00,Kelliher Susan M.,4,A-Award,--D,28311,28311,3,0001568507,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Kelliher Susan M.,4,A-Award,--D,2694,43849.1085,2,0001568507,Common Stock
+D,03/01/2022 00:00:00,Kelliher Susan M.,4,F-InKind,--D,320,41155.1085,1,0001568507,Common Stock
+A,03/01/2022 00:00:00,Pepy Guillaume,4,A-Award,--D,1395,1395,1,0001911075,Common Stock
+D,02/11/2022 00:00:00,VERGNANO MARK P,4,F-InKind,--D,16694,173287.1623,2,0001474107,Common Stock
+A,02/11/2022 00:00:00,VERGNANO MARK P,4,A-Award,--D,50564,189981.1623,1,0001474107,Common Stock
+D,02/11/2022 00:00:00,Lock Jonathan,4,F-InKind,--D,2016,11715.9466,2,0001891480,Common Stock
+A,02/11/2022 00:00:00,Lock Jonathan,4,A-Award,--D,5673,13731.9466,1,0001891480,Common Stock
+D,02/11/2022 00:00:00,Ralhan Sameer,4,F-InKind,--D,3975,307388.1398,2,0001778813,Common Stock
+A,02/11/2022 00:00:00,Ralhan Sameer,4,A-Award,--D,11864,311363.1398,1,0001778813,Common Stock
+D,02/11/2022 00:00:00,Sparks Edwin C,4,F-InKind,--D,3112,96478.464,2,0001735771,Common Stock
+A,02/11/2022 00:00:00,Sparks Edwin C,4,A-Award,--D,9155,99590.464,1,0001735771,Common Stock
+D,02/11/2022 00:00:00,Shelton David C,4,F-InKind,--D,2933,66797.856,2,0001645179,Common Stock
+A,02/11/2022 00:00:00,Shelton David C,4,A-Award,--D,8578,69730.856,1,0001645179,Common Stock
+D,02/11/2022 00:00:00,Kelliher Susan M.,4,F-InKind,--D,1928,41475.8383,2,0001568507,Common Stock
+A,02/11/2022 00:00:00,Kelliher Susan M.,4,A-Award,--D,5417,43403.8383,1,0001568507,Common Stock
+D,02/11/2022 00:00:00,Newman Mark,4,F-InKind,--D,7133,157877.7093,2,0001524597,Common Stock
+A,02/11/2022 00:00:00,Newman Mark,4,A-Award,--D,19473,165010.7093,1,0001524597,Common Stock
+A,12/31/2021 00:00:00,Rogers Sandra Phillips,4,A-Award,--D,744.9344,744.9344,3,0001721471,Stock Units
+A,12/31/2021 00:00:00,Kane Erin N,4,A-Award,--D,744.9344,3257.3888,2,0001684077,Stock Units
+D,12/02/2021 00:00:00,VERGNANO MARK P,4,M-Exempt,--D,99968,0,5,0001474107,Stock Option (Right to Buy)
+D,12/02/2021 00:00:00,VERGNANO MARK P,4,S-Sale,--D,99968,138911.5532,2,0001474107,Common Stock
+A,12/02/2021 00:00:00,VERGNANO MARK P,4,M-Exempt,--D,99968,238879.5532,1,0001474107,Common Stock
+D,12/02/2021 00:00:00,Shelton David C,4,M-Exempt,--D,9886,0,4,0001645179,Stock Option (Right to Buy)
+D,12/02/2021 00:00:00,Shelton David C,4,S-Sale,--D,9886,80960.0192,2,0001645179,Common Stock
+A,12/02/2021 00:00:00,Shelton David C,4,M-Exempt,--D,9886,90846.0192,1,0001645179,Common Stock
+D,12/02/2021 00:00:00,Ralhan Sameer,4,M-Exempt,--D,17482,0,3,0001778813,Stock Option (Right to Buy)
+D,12/02/2021 00:00:00,Ralhan Sameer,4,S-Sale,--D,17482,299149.9063,2,0001778813,Common Stock
+A,12/02/2021 00:00:00,Ralhan Sameer,4,M-Exempt,--D,17482,316631.9063,1,0001778813,Common Stock
+D,12/02/2021 00:00:00,Newman Mark,4,M-Exempt,--D,34252,0,4,0001524597,Stock Option (Right to Buy)
+D,12/02/2021 00:00:00,Newman Mark,4,S-Sale,--D,34252,145458.5795,2,0001524597,Common Stock
+A,12/02/2021 00:00:00,Newman Mark,4,M-Exempt,--D,34252,179710.5795,1,0001524597,Common Stock
+A,10/26/2021 00:00:00,Rogers Sandra Phillips,4,A-Award,--D,5008,5008,1,0001721471,Common Stock
+A,09/30/2021 00:00:00,Kane Erin N,4,A-Award,--D,860.2891,2493.3338,2,0001684077,Stock Units
+D,08/30/2021 00:00:00,Ralhan Sameer,4,M-Exempt,--D,1890,17482,3,0001778813,Stock Option (Right to Buy)
+D,08/30/2021 00:00:00,Ralhan Sameer,4,S-Sale,--D,1890,298792,2,0001778813,Common Stock
+A,08/30/2021 00:00:00,Ralhan Sameer,4,M-Exempt,--D,1890,300682,1,0001778813,Common Stock
+D,08/30/2021 00:00:00,Newman Mark,4,M-Exempt,--D,3691,34252,4,0001524597,Stock Option (Right to Buy)
+D,08/30/2021 00:00:00,Newman Mark,4,S-Sale,--D,3691,145377.4845,2,0001524597,Common Stock
+A,08/30/2021 00:00:00,Newman Mark,4,M-Exempt,--D,3691,149068.4845,1,0001524597,Common Stock
+D,08/30/2021 00:00:00,VERGNANO MARK P,4,M-Exempt,--D,10793,99968,7,0001474107,Stock Option (Right to Buy)
+D,08/30/2021 00:00:00,VERGNANO MARK P,4,S-Sale,--D,10793,325482.3873,4,0001474107,Common Stock
+A,08/30/2021 00:00:00,VERGNANO MARK P,4,M-Exempt,--D,10793,336275.3873,3,0001474107,Common Stock
+D,08/30/2021 00:00:00,Shelton David C,4,M-Exempt,--D,1065,9886,8,0001645179,Stock Option (Right to Buy)
+D,08/30/2021 00:00:00,Shelton David C,4,S-Sale,--D,1065,63927.3979,4,0001645179,Common Stock
+A,08/30/2021 00:00:00,Shelton David C,4,M-Exempt,--D,1065,64992.3979,3,0001645179,Common Stock
+D,08/27/2021 00:00:00,VERGNANO MARK P,4,M-Exempt,--D,87360,110761,6,0001474107,Stock Option (Right to Buy)
+D,08/27/2021 00:00:00,VERGNANO MARK P,4,S-Sale,--D,87360,325482.3873,2,0001474107,Common Stock
+A,08/27/2021 00:00:00,VERGNANO MARK P,4,M-Exempt,--D,87360,412842.3873,1,0001474107,Common Stock
+D,08/27/2021 00:00:00,Shelton David C,4,M-Exempt,--D,8689,10951,7,0001645179,Stock Option (Right to Buy)
+D,08/27/2021 00:00:00,Shelton David C,4,S-Sale,--D,8689,63927.3979,2,0001645179,Common Stock
+A,08/27/2021 00:00:00,Shelton David C,4,M-Exempt,--D,8689,72616.3979,1,0001645179,Common Stock
+D,08/27/2021 00:00:00,Newman Mark,4,M-Exempt,--D,29732,37943,4,0001524597,Stock Option (Right to Buy)
+D,08/27/2021 00:00:00,Newman Mark,4,S-Sale,--D,29732,145377.4845,2,0001524597,Common Stock
+A,08/27/2021 00:00:00,Newman Mark,4,M-Exempt,--D,29732,175109.4845,1,0001524597,Common Stock
+D,08/27/2021 00:00:00,Ralhan Sameer,4,M-Exempt,--D,15085,19372,3,0001778813,Stock Option (Right to Buy)
+D,08/27/2021 00:00:00,Ralhan Sameer,4,S-Sale,--D,15085,298792,2,0001778813,Common Stock
+A,08/27/2021 00:00:00,Ralhan Sameer,4,M-Exempt,--D,15085,313877,1,0001778813,Common Stock
+D,08/03/2021 00:00:00,Scarborough Alvenia,4,M-Exempt,--D,3000,12374,3,0001826993,Stock Option (Right to Buy)
+D,08/03/2021 00:00:00,Scarborough Alvenia,4,S-Sale,--D,3000,11815.1725,2,0001826993,Common Stock
+A,08/03/2021 00:00:00,Scarborough Alvenia,4,M-Exempt,--D,3000,14815.1725,1,0001826993,Common Stock
+D,08/03/2021 00:00:00,Dignam Denise,4,M-Exempt,--D,5571,11140,3,0001848475,Stock Option (Right to Buy)
+D,08/03/2021 00:00:00,Dignam Denise,4,S-Sale,--D,5571,13695.3403,2,0001848475,Common Stock
+A,08/03/2021 00:00:00,Dignam Denise,4,M-Exempt,--D,5571,19266.3403,1,0001848475,Common Stock
+A,07/12/2021 00:00:00,VERGNANO MARK P,4,A-Award,--D,4157,321120.3873,1,0001474107,Common Stock
+A,07/01/2021 00:00:00,Newman Mark,4,A-Award,--D,34696,34696,3,0001524597,Stock Option (Right to Buy)
+A,07/01/2021 00:00:00,Newman Mark,4,A-Award,--D,3948,145377.484,1,0001524597,Common Stock
+A,06/30/2021 00:00:00,Kane Erin N,4,A-Award,--D,718.3908,1620.2105,2,0001684077,Stock Units
+D,06/07/2021 00:00:00,Sparks Edwin C,4,M-Exempt,--D,28521,57040,3,0001735771,Stock Option (Right to Buy)
+D,06/07/2021 00:00:00,Sparks Edwin C,4,S-Sale,--D,28521,88633.3334,2,0001735771,Common Stock
+A,06/07/2021 00:00:00,Sparks Edwin C,4,M-Exempt,--D,28521,117154.3334,1,0001735771,Common Stock
+D,06/07/2021 00:00:00,Bellezza Alisha,4,M-Exempt,--D,8913,17824,3,0001848483,Stock Option (Right to Buy)
+D,06/07/2021 00:00:00,Bellezza Alisha,4,S-Sale,--D,8913,18813.3484,2,0001848483,Common Stock
+A,06/07/2021 00:00:00,Bellezza Alisha,4,M-Exempt,--D,8913,27726.3484,1,0001848483,Common Stock
+D,05/27/2021 00:00:00,Abbott Matthew S,4,M-Exempt,--D,8913,17824,3,0001786056,Stock Option (Right to Buy)
+D,05/27/2021 00:00:00,Abbott Matthew S,4,S-Sale,--D,8913,33961.6481,2,0001786056,Common Stock
+A,05/27/2021 00:00:00,Abbott Matthew S,4,M-Exempt,--D,8913,42874.6481,1,0001786056,Common Stock
+A,04/29/2021 00:00:00,Kane Erin N,4,A-Award,--D,4653,26501.0156,1,0001684077,Common Stock
+A,04/29/2021 00:00:00,CRAWFORD CURTIS J,4,A-Award,--D,4653,91913.8798,1,0001014318,Common Stock
+A,04/29/2021 00:00:00,BELL BRADLEY J,4,A-Award,--D,4653,54527.124,1,0001190859,Common Stock
+A,04/29/2021 00:00:00,BROWN RICHARD H,4,A-Award,--D,4653,111883.88,1,0001120652,Common Stock
+A,04/29/2021 00:00:00,Keohane Sean D,4,A-Award,--D,4653,25820.714,1,0001435737,Common Stock
+A,04/29/2021 00:00:00,Farrell Dawn L,4,A-Award,--D,4653,54831.0623,1,0001645639,Common Stock
+A,04/29/2021 00:00:00,ANASTASIO CURT,4,A-Award,--D,4653,54444.2326,1,0001032097,Common Stock
+A,04/29/2021 00:00:00,CRANSTON MARY B,4,A-Award,--D,4653,57665.0623,1,0001104268,Common Stock
+A,03/31/2021 00:00:00,Kane Erin N,4,A-Award,--D,895.7362,895.7362,2,0001684077,Stock Units
+D,03/02/2021 00:00:00,Scarborough Alvenia,4,F-InKind,--D,517,11739.7153,3,0001826993,Common Stock
+D,03/02/2021 00:00:00,Dignam Denise,4,F-InKind,--D,563,13498.9784,3,0001848475,Common Stock
+D,03/02/2021 00:00:00,Bellezza Alisha,4,F-InKind,--D,832,18662.7924,3,0001848483,Common Stock
+A,03/01/2021 00:00:00,Scarborough Alvenia,4,A-Award,--D,10224,10224,4,0001826993,Stock Option (Right to Buy)
+A,03/01/2021 00:00:00,Scarborough Alvenia,4,A-Award,--D,1041,12256.7153,2,0001826993,Common Stock
+D,03/01/2021 00:00:00,Scarborough Alvenia,4,F-InKind,--D,319,11215.7153,1,0001826993,Common Stock
+A,03/01/2021 00:00:00,Dignam Denise,4,A-Award,--D,18404,18404,4,0001848475,Common Stock
+A,03/01/2021 00:00:00,Dignam Denise,4,A-Award,--D,1874,14061.9784,2,0001848475,Common Stock
+D,03/01/2021 00:00:00,Dignam Denise,4,F-InKind,--D,333,12187.9784,1,0001848475,Common Stock
+A,03/01/2021 00:00:00,Bellezza Alisha,4,A-Award,--D,16359,16359,4,0001848483,Stock Option (Right to Buy)
+A,03/01/2021 00:00:00,Bellezza Alisha,4,A-Award,--D,1665,19494.7924,2,0001848483,Common Stock
+D,03/01/2021 00:00:00,Bellezza Alisha,4,F-InKind,--D,1130,17829.7924,1,0001848483,Common Stock
+A,03/01/2021 00:00:00,Abbott Matthew S,4,A-Award,--D,12269,12269,4,0001786056,Stock Option (Right to Buy)
+A,03/01/2021 00:00:00,Abbott Matthew S,4,A-Award,--D,10412,33778.0672,3,0001786056,Common Stock
+A,03/01/2021 00:00:00,Abbott Matthew S,4,A-Award,--D,1249,23366.0672,2,0001786056,Common Stock
+D,03/01/2021 00:00:00,Abbott Matthew S,4,F-InKind,--D,581,22117.0672,1,0001786056,Common Stock
+A,03/01/2021 00:00:00,Sparks Edwin C,4,A-Award,--D,36809,36809,2,0001735771,Stock Option (Right to Buy)
+A,03/01/2021 00:00:00,Sparks Edwin C,4,A-Award,--D,3748,87925.9287,1,0001735771,Common Stock
+A,03/01/2021 00:00:00,Kelliher Susan M.,4,A-Award,--D,28629,28629,2,0001568507,Stock Option (Right to Buy)
+A,03/01/2021 00:00:00,Kelliher Susan M.,4,A-Award,--D,2915,37586.3012,1,0001568507,Common Stock
+A,03/01/2021 00:00:00,Ralhan Sameer,4,A-Award,--D,49079,49079,2,0001778813,Stock Option (Right to Buy)
+A,03/01/2021 00:00:00,Ralhan Sameer,4,A-Award,--D,4997,298116.8489,1,0001778813,Common Stock
+A,03/01/2021 00:00:00,Snell E Bryan,4,A-Award,--D,66461,66461,2,0001645180,Stock Option (Right to Buy)
+A,03/01/2021 00:00:00,Snell E Bryan,4,A-Award,--D,3748,146983,1,0001645180,Common Stock
+A,03/01/2021 00:00:00,Shelton David C,4,A-Award,--D,38854,38854,4,0001645179,Stock Option (Right to Buy)
+A,03/01/2021 00:00:00,Shelton David C,4,A-Award,--D,24780,63701.0679,1,0001645179,Common Stock
+A,03/01/2021 00:00:00,Newman Mark,4,A-Award,--D,61349,61349,3,0001524597,Stock Option (Right to Buy)
+A,03/01/2021 00:00:00,Newman Mark,4,A-Award,--D,6247,141271,1,0001524597,Common Stock
+A,03/01/2021 00:00:00,VERGNANO MARK P,4,A-Award,--D,229038,229038,3,0001474107,Stock Option (Right to Buy)
+A,03/01/2021 00:00:00,VERGNANO MARK P,4,A-Award,--D,64972,316142,1,0001474107,Common Stock
+D,02/12/2021 00:00:00,Shelton David C,4,F-InKind,--D,762,38921.0679,2,0001645179,Common Stock
+A,02/12/2021 00:00:00,Shelton David C,4,A-Award,--D,2031,39683.0679,1,0001645179,Common Stock
+D,02/12/2021 00:00:00,Newman Mark,4,F-InKind,--D,1188,135024,2,0001524597,Common Stock
+A,02/12/2021 00:00:00,Newman Mark,4,A-Award,--D,2868,136212,1,0001524597,Common Stock
+D,02/12/2021 00:00:00,VERGNANO MARK P,4,F-InKind,--D,4325,251170,2,0001474107,Common Stock
+A,02/12/2021 00:00:00,VERGNANO MARK P,4,A-Award,--D,13142,255495,1,0001474107,Common Stock
+D,02/12/2021 00:00:00,Snell E Bryan,4,F-InKind,--D,807,143235,2,0001645180,Common Stock
+A,02/12/2021 00:00:00,Snell E Bryan,4,A-Award,--D,2151,144042,1,0001645180,Common Stock
+D,02/12/2021 00:00:00,Ralhan Sameer,4,F-InKind,--D,224,293119.8489,2,0001778813,Common Stock
+A,02/12/2021 00:00:00,Ralhan Sameer,4,A-Award,--D,597,293343.8489,1,0001778813,Common Stock
+D,02/12/2021 00:00:00,Kelliher Susan M.,4,F-InKind,--D,449,34371.301,2,0001568507,Common Stock
+A,02/12/2021 00:00:00,Kelliher Susan M.,4,A-Award,--D,1195,34820.301,1,0001568507,Common Stock
+A,02/12/2021 00:00:00,Sparks Edwin C,4,F-InKind,--D,247,84177.9287,2,0001735771,Common Stock
+A,02/12/2021 00:00:00,Sparks Edwin C,4,A-Award,--D,657,84424.9287,1,0001735771,Common Stock
+A,12/31/2020 00:00:00,BELL BRADLEY J,4,A-Award,--D,605.0827,9046.4332,3,0001190859,Stock Units
+A,12/31/2020 00:00:00,BROWN RICHARD H,4,A-Award,--D,1101.2505,40023.9156,2,0001120652,Stock Units
+D,12/18/2020 00:00:00,VERGNANO MARK P,4,M-Exempt,--D,153392,0,4,0001474107,Stock Option (Right to Buy)
+D,12/18/2020 00:00:00,VERGNANO MARK P,4,S-Sale,--D,153392,242353,2,0001474107,Common Stock
+A,12/18/2020 00:00:00,VERGNANO MARK P,4,M-Exempt,--D,153392,395745,1,0001474107,Common Stock
+A,12/01/2020 00:00:00,Sparks Edwin C,4,A-Award,--D,39510,83438.903,1,0001735771,Common Stock
+A,12/01/2020 00:00:00,Ralhan Sameer,4,A-Award,--D,39510,292647,1,0001778813,Common Stock
+A,12/01/2020 00:00:00,Kelliher Susan M.,4,A-Award,--D,19755,33625.301,1,0001568507,Common Stock
+D,11/10/2020 00:00:00,Snell E Bryan,4,M-Exempt,--D,28341,0,3,0001645180,Stock Option (Right to Buy)
+D,11/10/2020 00:00:00,Snell E Bryan,4,S-Sale,--D,28341,141891,2,0001645180,Common Stock
+A,11/10/2020 00:00:00,Snell E Bryan,4,M-Exempt,--D,28341,170232,1,0001645180,Common Stock
+A,09/30/2020 00:00:00,BELL BRADLEY J,4,A-Award,--D,717.3601,9306.5555,3,0001190859,Stock Units
+A,09/30/2020 00:00:00,BROWN RICHARD H,4,A-Award,--D,1305.5954,38566.4915,2,0001120652,Stock Units
+D,08/10/2020 00:00:00,Sparks Edwin C,4,M-Exempt,--D,2728,0,3,0001735771,Stock Option (Right to Buy)
+D,08/10/2020 00:00:00,Sparks Edwin C,4,S-Sale,--D,2728,42940,2,0001735771,Common Stock
+A,08/10/2020 00:00:00,Sparks Edwin C,4,M-Exempt,--D,2728,45668,1,0001735771,Common Stock
+A,06/30/2020 00:00:00,BELL BRADLEY J,4,A-Award,--D,977.1987,8589.1954,3,0001190859,Stock Units
+A,06/30/2020 00:00:00,BROWN RICHARD H,4,A-Award,--D,1778.5016,34991.2329,2,0001120652,Stock Units
+D,06/01/2020 00:00:00,Kelliher Susan M.,4,F-InKind,--D,289,12872,1,0001568507,Common Stock
+A,05/07/2020 00:00:00,Newman Mark,4,P-Purchase,--D,1000,133344,2,0001524597,Common Stock
+A,05/07/2020 00:00:00,Newman Mark,4,P-Purchase,--D,1500,132344,1,0001524597,Common Stock
+A,04/28/2020 00:00:00,Keohane Sean D,4,A-Award,--D,12820,20209,1,0001435737,Common Stock
+A,04/28/2020 00:00:00,Kane Erin N,4,A-Award,--D,12820,20859,1,0001684077,Common Stock
+A,04/28/2020 00:00:00,Farrell Dawn L,4,A-Award,--D,12820,47906,1,0001645639,Common Stock
+A,04/28/2020 00:00:00,CRAWFORD CURTIS J,4,A-Award,--D,12820,83312,1,0001014318,Common Stock
+A,04/28/2020 00:00:00,CRANSTON MARY B,4,A-Award,--D,12820,50740,1,0001104268,Common Stock
+A,04/28/2020 00:00:00,BELL BRADLEY J,4,A-Award,--D,12820,47906,1,0001190859,Common Stock
+A,04/28/2020 00:00:00,ANASTASIO CURT,4,A-Award,--D,12820,47659,1,0001032097,Common Stock
+A,04/28/2020 00:00:00,BROWN RICHARD H,4,A-Award,--D,12820,103282,1,0001120652,Common Stock
+A,03/31/2020 00:00:00,BELL BRADLEY J,4,A-Award,--D,1691,6348,1,0001190859,Stock Units
+A,03/31/2020 00:00:00,BROWN RICHARD H,4,A-Award,--D,3078,34889,1,0001120652,Stock Units
+A,03/13/2020 00:00:00,Snell E Bryan,4,P-Purchase,--D,11000,141891,1,0001645180,Common Stock
+A,03/02/2020 00:00:00,VERGNANO MARK P,4,A-Award,--D,598930,598930,1,0001474107,Stock Option (Right to Buy)
+A,03/02/2020 00:00:00,Newman Mark,4,A-Award,--D,160427,160427,1,0001524597,Stock Option (Right to Buy)
+A,03/02/2020 00:00:00,Shelton David C,4,A-Award,--D,101604,101604,1,0001645179,Stock Option (Right to Buy)
+A,03/02/2020 00:00:00,Kelliher Susan M.,4,A-Award,--D,74866,74866,1,0001568507,Stock Option (Right to Buy)
+A,03/02/2020 00:00:00,Snell E Bryan,4,A-Award,--D,96256,96256,1,0001645180,Stock Option (Right to Buy)
+A,03/02/2020 00:00:00,Ralhan Sameer,4,A-Award,--D,106951,106951,1,0001778813,Stock Option (Right to Buy)
+A,03/02/2020 00:00:00,Parker Erich,4,A-Award,--D,37433,37433,1,0001645203,Stock Option (Right to Buy)
+A,03/02/2020 00:00:00,Sparks Edwin C,4,A-Award,--D,85561,85561,2,0001735771,Stock Option (Right to Buy)
+A,03/02/2020 00:00:00,Sparks Edwin C,4,A-Award,--D,34650,42940,1,0001735771,Common Stock
+A,03/02/2020 00:00:00,Abbott Matthew S,4,A-Award,--D,26737,26737,2,0001786056,Stock Option (Right to Buy)
+A,03/02/2020 00:00:00,Abbott Matthew S,4,A-Award,--D,17325,21843,1,0001786056,Common Stock
+A,03/02/2020 00:00:00,BROWN RICHARD H,4,P-Purchase,--D,7500,88586,1,0001120652,Common Stock
+D,03/01/2020 00:00:00,Sparks Edwin C,4,F-InKind,--D,255,8290,1,0001735771,Common Stock
+D,03/01/2020 00:00:00,Abbott Matthew S,4,F-InKind,--D,857,4518,1,0001786056,Common Stock
+D,02/14/2020 00:00:00,Ralhan Sameer,4,F-InKind,--D,2002,253137,2,0001778813,Common Stock
+A,02/14/2020 00:00:00,Ralhan Sameer,4,A-Award,--D,5467,255139,1,0001778813,Common Stock
+D,02/14/2020 00:00:00,Kelliher Susan M.,4,F-InKind,--D,2626,13182,2,0001568507,Common Stock
+A,02/14/2020 00:00:00,Kelliher Susan M.,4,A-Award,--D,7310,15808,1,0001568507,Common Stock
+D,02/14/2020 00:00:00,Parker Erich,4,F-InKind,--D,2111,44890,2,0001645203,Common Stock
+A,02/14/2020 00:00:00,Parker Erich,4,A-Award,--D,5467,47001,1,0001645203,Common Stock
+D,02/14/2020 00:00:00,Snell E Bryan,4,F-InKind,--D,6562,130891,2,0001645180,Common Stock
+A,02/14/2020 00:00:00,Snell E Bryan,4,A-Award,--D,19679,137453,1,0001645180,Common Stock
+D,02/14/2020 00:00:00,Shelton David C,4,F-InKind,--D,5516,109152,2,0001645179,Common Stock
+A,02/14/2020 00:00:00,Shelton David C,4,A-Award,--D,16399,114668,1,0001645179,Common Stock
+D,02/14/2020 00:00:00,Newman Mark,4,F-InKind,--D,9656,130844,2,0001524597,Common Stock
+A,02/14/2020 00:00:00,Newman Mark,4,A-Award,--D,26239,140500,1,0001524597,Common Stock
+D,02/14/2020 00:00:00,VERGNANO MARK P,4,F-InKind,--D,56086,242353,2,0001474107,Common Stock
+A,02/14/2020 00:00:00,VERGNANO MARK P,4,A-Award,--D,120261,298439,1,0001474107,Common Stock
+D,01/23/2020 00:00:00,VERGNANO MARK P,4,M-Exempt,--D,220759,0,4,0001474107,Stock Option (Right to Buy)
+D,01/23/2020 00:00:00,VERGNANO MARK P,4,S-Sale,--D,220759,178178,2,0001474107,Common Stock
+A,01/23/2020 00:00:00,VERGNANO MARK P,4,M-Exempt,--D,220759,398937,1,0001474107,Common Stock
+A,12/31/2019 00:00:00,BELL BRADLEY J,4,A-Award,--D,1326,4657,3,0001190859,Stock Units
+A,12/31/2019 00:00:00,BROWN RICHARD H,4,A-Award,--D,1509,31811,2,0001120652,Stock Units
+A,09/30/2019 00:00:00,BROWN RICHARD H,4,A-Award,--D,1827.3092,29873.4534,2,0001120652,Stock Units
+A,09/30/2019 00:00:00,BELL BRADLEY J,4,A-Award,--D,1606.4257,3283.2438,3,0001190859,Stock Units
+A,09/11/2019 00:00:00,Newman Mark,4,P-Purchase,--D,20000,114261,1,0001524597,Common Stock
+A,08/07/2019 00:00:00,CRANSTON MARY B,4,P-Purchase,--D,1790,36018,1,0001104268,Common Stock
+A,08/06/2019 00:00:00,Snell E Bryan,4,P-Purchase,--D,12000,117774,1,0001645180,Common Stock
+A,08/05/2019 00:00:00,Shelton David C,4,P-Purchase,--D,15000,98269,1,0001645179,Common Stock
+A,08/05/2019 00:00:00,BELL BRADLEY J,4,P-Purchase,--I,5000,20400,1,0001190859,Common Stock
+A,08/05/2019 00:00:00,ANASTASIO CURT,4,P-Purchase,--I,3500,3500,1,0001032097,Common Stock
+A,07/31/2019 00:00:00,Kane Erin N,4,A-Award,--D,7603,7603,1,0001684077,Common Stock
+A,06/28/2019 00:00:00,BELL BRADLEY J,4,A-Award,--D,1000,1652,1,0001190859,Stock Units
+A,06/28/2019 00:00:00,BROWN RICHARD H,4,A-Award,--D,1137.5,27366.5,1,0001120652,Stock Units
+A,06/10/2019 00:00:00,VERGNANO MARK P,4/A,P-Purchase,--D,44000,116600,1,0001474107,Common Stock
+A,06/10/2019 00:00:00,VERGNANO MARK P,4,P-Purchase,--D,44000,116600,1,0001474107,Common Stock
+A,06/03/2019 00:00:00,Ralhan Sameer,4,A-Award,--D,17830,17830,1,0001778813,Stock Option (Right to Buy)
+A,06/03/2019 00:00:00,Sparks Edwin C,4,A-Award,--D,17830,17830,1,0001735771,Stock Option (Right to Buy)
+A,06/03/2019 00:00:00,Newman Mark,4,A-Award,--D,29717,29717,1,0001524597,Stock Option (Right to Buy)
+A,05/17/2019 00:00:00,Kelliher Susan M.,4,P-Purchase,--D,6500,8693,1,0001568507,Common Stock
+A,05/16/2019 00:00:00,CRANSTON MARY B,4,P-Purchase,--D,1044,33883,1,0001104268,Common Stock
+A,05/16/2019 00:00:00,BELL BRADLEY J,4,P-Purchase,--I,5000,15400,1,0001190859,Common Stock
+A,05/01/2019 00:00:00,Keohane Sean D,4,A-Award,--D,4165,6916,1,0001435737,Common Stock
+A,05/01/2019 00:00:00,Farrell Dawn L,4,A-Award,--D,4165,32839,1,0001645639,Common Stock
+A,05/01/2019 00:00:00,CRAWFORD CURTIS J,4,A-Award,--D,4165,65979,1,0001014318,Common Stock
+A,05/01/2019 00:00:00,CRANSTON MARY B,4,A-Award,--D,4165,32839,1,0001104268,Common Stock
+A,05/01/2019 00:00:00,BROWN RICHARD H,4,A-Award,--D,4165,78449,1,0001120652,Common Stock
+A,05/01/2019 00:00:00,BELL BRADLEY J,4,A-Award,--D,4165,32839,1,0001190859,Common Stock
+A,05/01/2019 00:00:00,ANASTASIO CURT,4,A-Award,--D,4165,32780,1,0001032097,Common Stock
+A,03/29/2019 00:00:00,BELL BRADLEY J,4,A-Award,--D,645.8557,645.8557,2,0001190859,Stock Units
+A,03/29/2019 00:00:00,BROWN RICHARD H,4,A-Award,--D,734.66,26229,2,0001120652,Stock Units
+D,03/15/2019 00:00:00,Trojanowski Amy,4,S-Sale,--D,9049,45746,2,0001645181,Common Stock
+D,03/13/2019 00:00:00,Trojanowski Amy,4,M-Exempt,--D,9049,0,4,0001645181,Stock Option (Right to Buy)
+D,03/13/2019 00:00:00,Trojanowski Amy,4,S-Sale,--D,1080,44666,3,0001645181,Common Stock
+A,03/13/2019 00:00:00,Trojanowski Amy,4,M-Exempt,--D,9049,54795,1,0001645181,Common Stock
+D,03/11/2019 00:00:00,Newman Mark,4,S-Sale,--D,59210,94261,1,0001524597,Common Stock
+A,03/05/2019 00:00:00,Newman Mark,4,A-Award,--D,36236,36236,1,0001524597,Stock Option (Right to Buy)
+A,03/05/2019 00:00:00,VERGNANO MARK P,4,A-Award,--D,156097,156097,1,0001474107,Stock Option (Right to Buy)
+A,03/05/2019 00:00:00,Snell E Bryan,4,A-Award,--D,25087,25087,1,0001645180,Stock Option (Right to Buy)
+A,03/05/2019 00:00:00,Kirsch Paul,4,A-Award,--D,27874,27874,1,0001676307,Stock Option (Right to Buy)
+A,03/05/2019 00:00:00,Shelton David C,4,A-Award,--D,26480,26480,1,0001645179,Stock Option (Right to Buy)
+A,03/05/2019 00:00:00,Kelliher Susan M.,4,A-Award,--D,16724,16724,1,0001568507,Stock Option (Right to Buy)
+A,03/05/2019 00:00:00,Parker Erich,4,A-Award,--D,9756,9756,1,0001645203,Stock Option (Right to Buy)
+A,03/05/2019 00:00:00,Sparks Edwin C,4,A-Award,--D,13937,13937,2,0001735771,Stock Option (Right to Buy)
+A,03/05/2019 00:00:00,Trojanowski Amy,4,A-Award,--D,9756,9756,7,0001645181,Stock Option (Right to Buy)
+D,03/01/2019 00:00:00,Sparks Edwin C,4,F-InKind,--D,1123,8500,1,0001735771,Common Stock
+D,03/01/2019 00:00:00,Trojanowski Amy,4,M-Exempt,--D,4100,9049,6,0001645181,Stock Option (Right to Buy)
+D,03/01/2019 00:00:00,Trojanowski Amy,4,M-Exempt,--D,9436,0,5,0001645181,Stock Option (Right to Buy)
+D,03/01/2019 00:00:00,Trojanowski Amy,4,S-Sale,--D,4100,44940,4,0001645181,Common Stock
+A,03/01/2019 00:00:00,Trojanowski Amy,4,M-Exempt,--D,4100,49040,3,0001645181,Common Stock
+D,03/01/2019 00:00:00,Trojanowski Amy,4,S-Sale,--D,9436,44940,2,0001645181,Common Stock
+A,03/01/2019 00:00:00,Trojanowski Amy,4,M-Exempt,--D,9436,54367,1,0001645181,Common Stock
+D,02/25/2019 00:00:00,Kirsch Paul,4,S-Sale,--D,10000,73562,1,0001676307,Common Stock
+D,02/15/2019 00:00:00,Parker Erich,4,F-InKind,--D,15877,40866,2,0001645203,Common Stock
+A,02/15/2019 00:00:00,Parker Erich,4,A-Award,--D,40819,56743,1,0001645203,Common Stock
+D,02/15/2019 00:00:00,Trojanowski Amy,4,F-InKind,--D,15428,44940,2,0001645181,Common Stock
+A,02/15/2019 00:00:00,Trojanowski Amy,4,A-Award,--D,40819,60368,1,0001645181,Common Stock
+D,02/15/2019 00:00:00,Shelton David C,4,F-InKind,--D,42384,81631,2,0001645179,Common Stock
+A,02/15/2019 00:00:00,Shelton David C,4,A-Award,--D,97966,124015,1,0001645179,Common Stock
+D,02/15/2019 00:00:00,Kirsch Paul,4,F-InKind,--D,36017,83562,2,0001676307,Common Stock
+A,02/15/2019 00:00:00,Kirsch Paul,4,A-Award,--D,84497,119579,1,0001676307,Common Stock
+D,02/15/2019 00:00:00,Snell E Bryan,4,F-InKind,--D,57789,103589,2,0001645180,Common Stock
+A,02/15/2019 00:00:00,Snell E Bryan,4,A-Award,--D,130623,161378,1,0001645180,Common Stock
+A,02/15/2019 00:00:00,Newman Mark,4,F-InKind,--D,93802,150358,2,0001524597,Common Stock
+A,02/15/2019 00:00:00,Newman Mark,4,A-Award,--D,195932,244160,1,0001524597,Common Stock
+D,02/15/2019 00:00:00,VERGNANO MARK P,4,F-InKind,--D,298948,573941,2,0001474107,Common Stock
+A,02/15/2019 00:00:00,VERGNANO MARK P,4,A-Award,--D,641677,872889,1,0001474107,Common Stock
+A,12/31/2018 00:00:00,BROWN RICHARD H,4,A-Award,--D,967,25327,2,0001120652,Stock Units
+A,12/03/2018 00:00:00,BROWN RICHARD H,4/A,P-Purchase,--D,10000,73334,1,0001120652,Common Stock
+A,12/03/2018 00:00:00,BROWN RICHARD H,4,P-Purchase,--D,10000,73334,1,0001120652,Common Stock
+A,09/28/2018 00:00:00,BROWN RICHARD H,4,A-Award,--D,692,24143,2,0001120652,Stock Units
+D,08/05/2018 00:00:00,VERGNANO MARK P,4,F-InKind,--D,51179,199425,1,0001474107,Common Stock
+D,08/04/2018 00:00:00,Trojanowski Amy,4,F-InKind,--D,7597,20231,1,0001645181,Common Stock
+D,08/04/2018 00:00:00,Snell E Bryan,4,F-InKind,--D,17890,32940,1,0001645180,Common Stock
+D,08/04/2018 00:00:00,Shelton David C,4,F-InKind,--D,13566,27687,1,0001645179,Common Stock
+D,08/04/2018 00:00:00,Parker Erich,4,F-InKind,--D,8544,16592,1,0001645203,Common Stock
+D,08/04/2018 00:00:00,Newman Mark,4,F-InKind,--D,30806,51341,1,0001524597,Common Stock
+A,06/29/2018 00:00:00,BROWN RICHARD H,4,A-Award,--D,615,23307,2,0001120652,Stock Units
+D,06/01/2018 00:00:00,Kelliher Susan M.,4,F-InKind,--D,271,2150,1,0001568507,Common Stock
+D,06/01/2018 00:00:00,Kirsch Paul,4,F-InKind,--D,13550,36070,1,0001676307,Common Stock
+D,05/09/2018 00:00:00,VERGNANO MARK P,4,M-Exempt,--D,55713,0,7,0001474107,Stock Option (Right to Buy)
+D,05/09/2018 00:00:00,VERGNANO MARK P,4,S-Sale,--D,55713,249861,4,0001474107,Common Stock
+A,05/09/2018 00:00:00,VERGNANO MARK P,4,M-Exempt,--D,55713,305574,3,0001474107,Common Stock
+D,05/08/2018 00:00:00,VERGNANO MARK P,4,M-Exempt,--D,144438,55713,6,0001474107,Stock Option (Right to Buy)
+D,05/08/2018 00:00:00,VERGNANO MARK P,4,S-Sale,--D,144438,249861,2,0001474107,Common Stock
+A,05/08/2018 00:00:00,VERGNANO MARK P,4,M-Exempt,--D,144438,394299,1,0001474107,Common Stock
+D,05/08/2018 00:00:00,Newman Mark,4,M-Exempt,--D,40000,67675,5,0001524597,Stock Option (Right to Buy)
+D,05/08/2018 00:00:00,Newman Mark,4,S-Sale,--D,3675,81724,3,0001524597,Common Stock
+D,05/08/2018 00:00:00,Newman Mark,4,S-Sale,--D,40000,85399,2,0001524597,Common Stock
+A,05/08/2018 00:00:00,Newman Mark,4,M-Exempt,--D,40000,125399,1,0001524597,Common Stock
+A,05/02/2018 00:00:00,Farrell Dawn L,4,A-Award,--D,2683,27963,1,0001645639,Common Stock
+A,05/02/2018 00:00:00,CRAWFORD CURTIS J,4,A-Award,--D,2683,60282,1,0001014318,Common Stock
+A,05/02/2018 00:00:00,CRANSTON MARY B,4,A-Award,--D,2683,27963,1,0001104268,Common Stock
+A,05/02/2018 00:00:00,BROWN RICHARD H,4,A-Award,--D,2683,62752,1,0001120652,Common Stock
+A,05/02/2018 00:00:00,BELL BRADLEY J,4,A-Award,--D,2683,27963,1,0001190859,Common Stock
+A,05/02/2018 00:00:00,ANASTASIO CURT,4,A-Award,--D,2683,27963,1,0001032097,Common Stock
+A,05/02/2018 00:00:00,Keohane Sean D,4,A-Award,--D,2683,2683,1,0001435737,Common Stock
+D,04/17/2018 00:00:00,Parker Erich,4,M-Exempt,--D,5000,29602,3,0001645203,Stock Option (Right to Buy)
+D,04/17/2018 00:00:00,Parker Erich,4,S-Sale,--D,5000,24493,2,0001645203,Common Stock
+A,04/17/2018 00:00:00,Parker Erich,4,M-Exempt,--D,5000,29493,1,0001645203,Common Stock
+A,03/30/2018 00:00:00,BROWN RICHARD H,4,A-Award,--D,560,22613,1,0001120652,Stock Units
+D,03/09/2018 00:00:00,Newman Mark,4/A,S-Sale,--I,700,2480,7,0001524597,Common Stock
+D,03/09/2018 00:00:00,Newman Mark,4/A,S-Sale,--I,800,3180,6,0001524597,Common Stock
+D,03/09/2018 00:00:00,Newman Mark,4/A,S-Sale,--D,10600,85399,5,0001524597,Common Stock
+D,03/09/2018 00:00:00,Newman Mark,4/A,S-Sale,--D,17281,95999,4,0001524597,Common Stock
+D,03/09/2018 00:00:00,Newman Mark,4,S-Sale,--I,700,2480,7,0001524597,Common Stock
+D,03/09/2018 00:00:00,Newman Mark,4,S-Sale,--I,800,3180,6,0001524597,Common Stock
+D,03/09/2018 00:00:00,Newman Mark,4,S-Sale,--D,10600,85399,5,0001524597,Common Stock
+D,03/09/2018 00:00:00,Newman Mark,4,S-Sale,--D,17281,95999,4,0001524597,Common Stock
+D,03/07/2018 00:00:00,Newman Mark,4/A,G-Gift,-ED,2000,113280,3,0001524597,Common Stock
+A,03/07/2018 00:00:00,Newman Mark,4/A,G-Gift,-EI,1180,3980,2,0001524597,Common Stock
+D,03/07/2018 00:00:00,Newman Mark,4/A,G-Gift,-ED,1180,115280,1,0001524597,Common Stock
+D,03/07/2018 00:00:00,Newman Mark,4,G-Gift,-ED,2000,97999,3,0001524597,Common Stock
+A,03/07/2018 00:00:00,Newman Mark,4,G-Gift,-EI,1180,3980,2,0001524597,Common Stock
+D,03/07/2018 00:00:00,Newman Mark,4,G-Gift,-ED,1180,99179,1,0001524597,Common Stock
+A,03/01/2018 00:00:00,Trojanowski Amy,4,A-Award,--D,4866,4866,1,0001645181,Stock Option (Right to Buy)
+A,03/01/2018 00:00:00,Parker Erich,4,A-Award,--D,4866,4866,1,0001645203,Stock Option (Right to Buy)
+A,03/01/2018 00:00:00,Snell E Bryan,4,A-Award,--D,17518,17518,1,0001645180,Stock Option (Right to Buy)
+A,03/01/2018 00:00:00,Kirsch Paul,4,A-Award,--D,17518,17518,1,0001676307,Stock Option (Right to Buy)
+A,03/01/2018 00:00:00,Shelton David C,4,A-Award,--D,16545,16545,1,0001645179,Stock Option (Right to Buy)
+A,03/01/2018 00:00:00,Kelliher Susan M.,4,A-Award,--D,9732,9732,1,0001568507,Stock Option (Right to Buy)
+A,03/01/2018 00:00:00,Newman Mark,4,A-Award,--D,23357,23357,1,0001524597,Stock Option (Right to Buy)
+A,03/01/2018 00:00:00,VERGNANO MARK P,4,A-Award,--D,107055,107055,1,0001474107,Stock Option (Right to Buy)
+D,02/20/2018 00:00:00,Kirsch Paul,4,M-Exempt,--D,13770,27538,3,0001676307,Common Stock
+D,02/20/2018 00:00:00,Kirsch Paul,4,S-Sale,--D,13770,49323,2,0001676307,Common Stock
+A,02/20/2018 00:00:00,Kirsch Paul,4,M-Exempt,--D,13770,63093,1,0001676307,Common Stock
+D,02/04/2018 00:00:00,VERGNANO MARK P,4,F-InKind,--D,3467,249861,1,0001474107,Common Stock
+D,02/04/2018 00:00:00,Trojanowski Amy,4,F-InKind,--D,391,27687,1,0001645181,Common Stock
+D,02/04/2018 00:00:00,Snell E Bryan,4,F-InKind,--D,664,50548,1,0001645180,Common Stock
+D,02/04/2018 00:00:00,Siemer Christian W,4,F-InKind,--D,615,84901,1,0001645201,Common Stock
+D,02/04/2018 00:00:00,Shelton David C,4,F-InKind,--D,426,41042,1,0001645179,Common Stock
+D,02/04/2018 00:00:00,Parker Erich,4,F-InKind,--D,309,24493,1,0001645203,Common Stock
+D,02/04/2018 00:00:00,Newman Mark,4,F-InKind,--D,2231,117460,1,0001524597,Common Stock
+A,12/29/2017 00:00:00,BROWN RICHARD H,4,A-Award,--D,1048,21977,2,0001120652,Stock Units
+D,12/13/2017 00:00:00,Siemer Christian W,4,M-Exempt,--D,15088,0,3,0001645201,Stock Option (Right to Buy)
+D,12/13/2017 00:00:00,Siemer Christian W,4,S-Sale,--D,15088,85502,2,0001645201,Common Stock
+A,12/13/2017 00:00:00,Siemer Christian W,4,M-Exempt,--D,15088,100590,1,0001645201,Common Stock
+D,11/10/2017 00:00:00,Newman Mark,4,F-InKind,--D,14716,118650,1,0001524597,Common Stock
+D,11/06/2017 00:00:00,Snell E Bryan,4,M-Exempt,--D,11878,0,3,0001645180,Stock Option (Right to Buy)
+D,11/06/2017 00:00:00,Snell E Bryan,4,S-Sale,--D,11878,51185,2,0001645180,Common Stock
+A,11/06/2017 00:00:00,Snell E Bryan,4,M-Exempt,--D,11878,63063,1,0001645180,Common Stock
+D,11/06/2017 00:00:00,Siemer Christian W,4,F-InKind,--D,12205,85502,2,0001645201,Common Stock
+A,11/06/2017 00:00:00,Siemer Christian W,4,A-Award,--D,28442,97707,1,0001645201,Common Stock
+D,10/13/2017 00:00:00,Shelton David C,4,M-Exempt,--D,5908,0,4,0001645179,Stock Option (Right to Buy)
+D,10/13/2017 00:00:00,Shelton David C,4,S-Sale,--D,5908,41448,2,0001645179,Common Stock
+A,10/13/2017 00:00:00,Shelton David C,4,M-Exempt,--D,5908,47356,1,0001645179,Common Stock
+D,10/10/2017 00:00:00,Shelton David C,4,M-Exempt,--D,6397,0,7,0001645179,Stock Option (Right to Buy)
+D,10/10/2017 00:00:00,Shelton David C,4,M-Exempt,--D,7000,5908,6,0001645179,Stock Option (Right to Buy)
+D,10/10/2017 00:00:00,Shelton David C,4,S-Sale,--D,6397,41448,4,0001645179,Common Stock
+A,10/10/2017 00:00:00,Shelton David C,4,M-Exempt,--D,6397,47845,3,0001645179,Common Stock
+D,10/10/2017 00:00:00,Shelton David C,4,S-Sale,--D,7000,41448,2,0001645179,Common Stock
+A,10/10/2017 00:00:00,Shelton David C,4,M-Exempt,--D,7000,48448,1,0001645179,Common Stock
+D,10/05/2017 00:00:00,Shelton David C,4,M-Exempt,--D,7000,12908,10,0001645179,Stock Option (Right to Buy)
+D,10/05/2017 00:00:00,Shelton David C,4,M-Exempt,--D,6000,6397,9,0001645179,Stock Option (Right to Buy)
+D,10/05/2017 00:00:00,Shelton David C,4,S-Sale,--D,7000,41448,6,0001645179,Common Stock
+A,10/05/2017 00:00:00,Shelton David C,4,M-Exempt,--D,7000,48448,5,0001645179,Common Stock
+D,10/05/2017 00:00:00,Shelton David C,4,S-Sale,--D,6000,41448,4,0001645179,Common Stock
+A,10/05/2017 00:00:00,Shelton David C,4,M-Exempt,--D,6000,47448,3,0001645179,Common Stock
+D,10/03/2017 00:00:00,Shelton David C,4,M-Exempt,--D,6000,12397,8,0001645179,Stock Option (Right to Buy)
+D,10/03/2017 00:00:00,Shelton David C,4,S-Sale,--D,6000,41448,2,0001645179,Common Stock
+A,10/03/2017 00:00:00,Shelton David C,4,M-Exempt,--D,6000,47448,1,0001645179,Common Stock
+A,09/29/2017 00:00:00,BROWN RICHARD H,4,A-Award,--D,1037,20916,2,0001120652,Stock Units
+D,09/05/2017 00:00:00,Snell E Bryan,4,S-Sale,--D,13000,51160,1,0001645180,Common Stock
+D,08/31/2017 00:00:00,Shelton David C,4/A,M-Exempt,--D,13337,0,4,0001645179,Stock Option (Right to Buy)
+D,08/31/2017 00:00:00,Shelton David C,4/A,S-Sale,--D,13337,41429,2,0001645179,Common Stock
+A,08/31/2017 00:00:00,Shelton David C,4/A,M-Exempt,--D,13337,54766,1,0001645179,Common Stock
+D,08/31/2017 00:00:00,Shelton David C,4/A,M-Exempt,--D,13337,0,4,0001645179,Stock Option (Right to Buy)
+D,08/31/2017 00:00:00,Shelton David C,4/A,S-Sale,--D,13337,41429,2,0001645179,Common Stock
+A,08/31/2017 00:00:00,Shelton David C,4/A,M-Exempt,--D,13337,54766,1,0001645179,Common Stock
+A,08/31/2017 00:00:00,Shelton David C,4,M-Exempt,--D,13337,0,4,0001645179,Stock Option (Right to Buy)
+D,08/31/2017 00:00:00,Shelton David C,4,S-Sale,--D,13337,41429,2,0001645179,Common Stock
+A,08/31/2017 00:00:00,Shelton David C,4,M-Exempt,--D,13337,54766,1,0001645179,Common Stock
+D,08/11/2017 00:00:00,Snell E Bryan,4,S-Sale,--D,10000,64160,1,0001645180,Common Stock
+D,08/11/2017 00:00:00,Trojanowski Amy,4,S-Sale,--D,2313,28037,2,0001645181,Common Stock
+D,08/10/2017 00:00:00,Trojanowski Amy,4,S-Sale,--D,187,30350,1,0001645181,Common Stock
+D,08/01/2017 00:00:00,Siemer Christian W,4,F-InKind,--D,5404,69252,2,0001645201,Common Stock
+A,08/01/2017 00:00:00,Siemer Christian W,4,A-Award,--D,14212,74656,1,0001645201,Common Stock
+A,06/30/2017 00:00:00,BROWN RICHARD H,4,A-Award,--D,1384,19866,2,0001120652,Stock Units
+D,06/05/2017 00:00:00,Kirsch Paul,4,S-Sale,--D,19036,49323,2,0001676307,Common Stock
+D,06/01/2017 00:00:00,Kirsch Paul,4,F-InKind,--D,13806,68359,1,0001676307,Common Stock
+A,06/01/2017 00:00:00,Kelliher Susan M.,4,A-Award,--D,8864,8864,2,0001568507,Stock Option (Right to Buy)

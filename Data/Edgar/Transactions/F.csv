@@ -1,0 +1,1441 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,06/15/2023 00:00:00,English Alexandra Ford,4,G-Gift,--I,2374,57902,2,0001863399,"Class B Stock, $0.01 par value"
+A,06/15/2023 00:00:00,English Alexandra Ford,4,G-Gift,--I,1187,1215351,1,0001863399,"Class B Stock, $0.01 par value"
+A,06/15/2023 00:00:00,FORD WILLIAM CLAY JR,4,G-Gift,--I,1187,3758629,2,0001230846,"Class B Stock, $0.01 par value"
+A,06/15/2023 00:00:00,FORD WILLIAM CLAY JR,4,G-Gift,--I,1187,13687848,1,0001230846,"Class B Stock, $0.01 par value"
+A,06/01/2023 00:00:00,WEINBERG JOHN S,4,A-Award,--D,2242,176127,1,0001029647,Ford Stock Units
+A,06/01/2023 00:00:00,Veihmeyer John B,4,A-Award,--D,2199,186081,1,0001723533,Ford Stock Units
+A,06/01/2023 00:00:00,THORNTON JOHN L,4,A-Award,--D,4566,370213,1,0001090353,Ford Stock Units
+A,06/01/2023 00:00:00,MOONEY BETH E,4,A-Award,--D,1154,112817,1,0001217178,Ford Stock Units
+A,06/01/2023 00:00:00,Kennard William E,4,A-Award,--D,2278,204661,1,0001198236,Ford Stock Units
+A,06/01/2023 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,193,34272,1,0001541785,Ford Stock Units
+A,06/01/2023 00:00:00,Helman William W,4,A-Award,--D,589,47780,1,0001339232,Ford Stock Units
+A,06/01/2023 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,52,4256,1,0001230846,Ford Stock Units
+A,06/01/2023 00:00:00,Vojvodich Radakovich Lynn,4,A-Award,--D,1818,167069,1,0001662205,Ford Stock Units
+A,06/01/2023 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,2460,219575,2,0001273561,Ford Stock Units
+A,06/01/2023 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,2208,179003,1,0001273561,Ford Stock Units
+A,05/18/2023 00:00:00,Ford III Henry,4,A-Award,--D,18470,46848,1,0001863430,"Common Stock, $0.01 par value"
+A,05/18/2023 00:00:00,English Alexandra Ford,4,A-Award,--D,27061,38209,1,0001863399,"Common Stock, $0.01 par value"
+A,05/18/2023 00:00:00,WEINBERG JOHN S,4,A-Award,--D,27061,173885,3,0001029647,Ford Stock Units
+A,05/18/2023 00:00:00,Vojvodich Radakovich Lynn,4,A-Award,--D,18470,165250,1,0001662205,Ford Stock Units
+A,05/18/2023 00:00:00,Veihmeyer John B,4,A-Award,--D,29639,183882,3,0001723533,Ford Stock Units
+A,05/18/2023 00:00:00,THORNTON JOHN L,4,A-Award,--D,18470,330075,1,0001090353,"Common Stock, $0.01 par value"
+A,05/18/2023 00:00:00,MOONEY BETH E,4,A-Award,--D,18470,111663,1,0001217178,Ford Stock Units
+A,05/18/2023 00:00:00,May John C II,4,A-Award,--D,27061,55076,1,0001556144,"Common Stock, $0.01 par value"
+A,05/18/2023 00:00:00,Kennard William E,4,A-Award,--D,18470,202383,1,0001198236,Ford Stock Units
+A,05/18/2023 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,18470,34079,1,0001541785,Ford Stock Units
+A,05/18/2023 00:00:00,Helman William W,4,A-Award,--D,18470,231728,1,0001339232,"Common Stock, $0.01 par value"
+A,05/18/2023 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,18470,217115,1,0001273561,Ford Stock Units
+D,05/17/2023 00:00:00,WEINBERG JOHN S,4,M-Exempt,--D,34209,146824,2,0001029647,Ford Stock Units
+A,05/17/2023 00:00:00,WEINBERG JOHN S,4,M-Exempt,--D,34209,78828,1,0001029647,"Common Stock, $0.01 par value"
+D,05/17/2023 00:00:00,Veihmeyer John B,4,M-Exempt,--D,23349,154243,2,0001723533,Ford Stock Units
+A,05/17/2023 00:00:00,Veihmeyer John B,4,M-Exempt,--D,23349,25202,1,0001723533,"Common Stock, $0.01 par value"
+A,05/15/2023 00:00:00,Waldo Jennifer,4,A-Award,--D,185185,185185,4,0001926518,Ford Stock Units
+D,05/15/2023 00:00:00,Waldo Jennifer,4,M-Exempt,--D,97777,198519,3,0001926518,Ford Stock Units
+D,05/15/2023 00:00:00,Waldo Jennifer,4,F-InKind,--D,34270,63507,2,0001926518,"Common Stock, $0.01 par value"
+A,05/15/2023 00:00:00,Waldo Jennifer,4,M-Exempt,--D,97777,97777,1,0001926518,"Common Stock, $0.01 par value"
+D,05/15/2023 00:00:00,Huntsman Jon M Jr,4,M-Exempt,--D,53135,107888,5,0001541785,Ford Stock Units
+D,05/15/2023 00:00:00,Huntsman Jon M Jr,4,M-Exempt,--D,92571,95378,4,0001541785,Ford Stock Units
+D,05/15/2023 00:00:00,Huntsman Jon M Jr,4,F-InKind,--D,57709,146165,3,0001541785,"Common Stock, $0.01 par value"
+A,05/15/2023 00:00:00,Huntsman Jon M Jr,4,M-Exempt,--D,92571,203874,2,0001541785,"Common Stock, $0.01 par value"
+A,05/15/2023 00:00:00,Huntsman Jon M Jr,4,M-Exempt,--D,53135,111303,1,0001541785,"Common Stock, $0.01 par value"
+D,05/15/2023 00:00:00,Cannis Theodore J.,4,M-Exempt,--D,19207,0,3,0001929228,Ford Stock Units
+D,05/15/2023 00:00:00,Cannis Theodore J.,4,F-InKind,--D,5494,80534,2,0001929228,"Common Stock, $0.01 par value"
+A,05/15/2023 00:00:00,Cannis Theodore J.,4,M-Exempt,--D,19207,86028,1,0001929228,"Common Stock, $0.01 par value"
+D,05/08/2023 00:00:00,FORD WILLIAM CLAY JR,4,J-Other,--I,468346,3757442,1,0001230846,"Class B Stock, $0.01 par value"
+A,05/08/2023 00:00:00,English Alexandra Ford,4,J-Other,--I,1194531,1214164,3,0001863399,"Class B Stock, $0.01 par value"
+A,05/08/2023 00:00:00,English Alexandra Ford,4,G-Gift,--I,5688,55528,2,0001863399,"Class B Stock, $0.01 par value"
+D,05/08/2023 00:00:00,English Alexandra Ford,4,G-Gift,--I,5688,46214,1,0001863399,"Class B Stock, $0.01 par value"
+D,03/19/2023 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,72307,0,4,0001720106,Ford Stock Units
+D,03/19/2023 00:00:00,Galhotra Ashwani Kumar,4,F-InKind,--D,108021,707559,3,0001720106,"Common Stock, $0.01 par value"
+A,03/19/2023 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,175447,815580,2,0001720106,"Common Stock, $0.01 par value"
+A,03/19/2023 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,72307,640133,1,0001720106,"Common Stock, $0.01 par value"
+D,03/19/2023 00:00:00,FORD WILLIAM CLAY JR,4,F-InKind,--D,209317,414147,2,0001230846,"Common Stock, $0.01 par value"
+A,03/19/2023 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,480084,623464,1,0001230846,"Common Stock, $0.01 par value"
+D,03/04/2023 00:00:00,Lawler John T.,4,M-Exempt,--D,41519,84297,8,0001676526,Ford Stock Units
+D,03/04/2023 00:00:00,Lawler John T.,4,M-Exempt,--D,49901,51414,7,0001676526,Ford Stock Units
+D,03/04/2023 00:00:00,Lawler John T.,4,M-Exempt,--D,41471,0,6,0001676526,Ford Stock Units
+D,03/04/2023 00:00:00,Lawler John T.,4,F-InKind,--D,90455,586743,5,0001676526,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,Lawler John T.,4,M-Exempt,--D,41519,677198,4,0001676526,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,Lawler John T.,4,M-Exempt,--D,100624,635679,3,0001676526,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,Lawler John T.,4,M-Exempt,--D,49901,535055,2,0001676526,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,Lawler John T.,4,M-Exempt,--D,41471,485154,1,0001676526,"Common Stock, $0.01 par value"
+D,03/04/2023 00:00:00,Cannis Theodore J.,4,M-Exempt,--D,5405,10974,8,0001929228,Ford Stock Units
+D,03/04/2023 00:00:00,Cannis Theodore J.,4,M-Exempt,--D,4595,4741,7,0001929228,Ford Stock Units
+D,03/04/2023 00:00:00,Cannis Theodore J.,4,M-Exempt,--D,7571,0,6,0001929228,Ford Stock Units
+D,03/04/2023 00:00:00,Cannis Theodore J.,4,F-InKind,--D,8765,64781,5,0001929228,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,Cannis Theodore J.,4,M-Exempt,--D,12241,73546,4,0001929228,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,Cannis Theodore J.,4,M-Exempt,--D,5405,61305,3,0001929228,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,Cannis Theodore J.,4,M-Exempt,--D,4595,55900,2,0001929228,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,Cannis Theodore J.,4,M-Exempt,--D,7571,51305,1,0001929228,"Common Stock, $0.01 par value"
+D,03/04/2023 00:00:00,Gjaja Marin,4,M-Exempt,--D,14100,28629,3,0001929227,Ford Stock Units
+D,03/04/2023 00:00:00,Gjaja Marin,4,F-InKind,--D,4132,36189,2,0001929227,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,Gjaja Marin,4,M-Exempt,--D,14100,40321,1,0001929227,"Common Stock, $0.01 par value"
+D,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,528,1079,17,0001741624,Ford Stock Units
+D,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,748,776,16,0001741624,Ford Stock Units
+D,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,1437,0,15,0001741624,Ford Stock Units
+D,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,5483,11134,14,0001741624,Ford Stock Units
+D,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,8520,8778,13,0001741624,Ford Stock Units
+D,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,14407,0,12,0001741624,Ford Stock Units
+D,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,29338,0,11,0001741624,Ford Stock Units
+D,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--I,441,44030,10,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,528,44471,9,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,748,43943,8,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,1437,43195,7,0001741624,"Common Stock, $0.01 par value"
+D,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--D,42738,131975,6,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,34956,174713,5,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,5483,139757,4,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,29338,134274,3,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,8520,104936,2,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,14407,96416,1,0001741624,"Common Stock, $0.01 par value"
+D,03/04/2023 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,33841,68710,5,0001720106,Ford Stock Units
+D,03/04/2023 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,45641,47025,4,0001720106,Ford Stock Units
+D,03/04/2023 00:00:00,Galhotra Ashwani Kumar,4,F-InKind,--D,23261,567826,3,0001720106,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,33841,591087,2,0001720106,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,45641,557246,1,0001720106,"Common Stock, $0.01 par value"
+D,03/04/2023 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,96356,195632,6,0001230846,Ford Stock Units
+D,03/04/2023 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,137532,141700,5,0001230846,Ford Stock Units
+D,03/04/2023 00:00:00,FORD WILLIAM CLAY JR,4,F-InKind,--D,90509,143380,3,0001230846,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,96356,233889,2,0001230846,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,137532,137533,1,0001230846,"Common Stock, $0.01 par value"
+D,03/04/2023 00:00:00,FIELD JOHN DOUGLAS,4,M-Exempt,--D,62670,127240,3,0001650649,Ford Stock Units
+D,03/04/2023 00:00:00,FIELD JOHN DOUGLAS,4,F-InKind,--D,21722,304573,2,0001650649,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,FIELD JOHN DOUGLAS,4,M-Exempt,--D,62670,326295,1,0001650649,"Common Stock, $0.01 par value"
+D,03/04/2023 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,113590,230623,8,0001415834,Ford Stock Units
+D,03/04/2023 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,158223,163018,7,0001415834,Ford Stock Units
+D,03/04/2023 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,96045,0,6,0001415834,Ford Stock Units
+D,03/04/2023 00:00:00,FARLEY JR JAMES D,4,F-InKind,--D,250632,1988943,5,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,233050,2239575,4,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,158223,2006525,3,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,113590,1848302,2,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,96045,1734712,1,0001415834,"Common Stock, $0.01 par value"
+D,03/04/2023 00:00:00,Croley Steven P.,4,M-Exempt,--D,25068,50896,3,0001872591,Ford Stock Units
+D,03/04/2023 00:00:00,Croley Steven P.,4,F-InKind,--D,7149,35441,2,0001872591,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,Croley Steven P.,4,M-Exempt,--D,25068,42590,1,0001872591,"Common Stock, $0.01 par value"
+D,03/04/2023 00:00:00,Amend Michael,4,M-Exempt,--D,17234,34991,3,0001675567,Ford Stock Units
+D,03/04/2023 00:00:00,Amend Michael,4,F-InKind,--D,5099,239930,2,0001675567,"Common Stock, $0.01 par value"
+A,03/04/2023 00:00:00,Amend Michael,4,M-Exempt,--D,17234,245029,1,0001675567,"Common Stock, $0.01 par value"
+A,03/03/2023 00:00:00,Lawler John T.,4,A-Award,--D,132110,132110,9,0001676526,Ford Stock Units
+A,03/03/2023 00:00:00,Cannis Theodore J.,4,A-Award,--D,18348,18348,9,0001929228,Ford Stock Units
+A,03/03/2023 00:00:00,Gjaja Marin,4,A-Award,--D,60550,60550,4,0001929227,Ford Stock Units
+A,03/03/2023 00:00:00,Wu Shengpo,4,A-Award,--D,18348,18348,1,0001763850,Ford Stock Units
+A,03/03/2023 00:00:00,Waldo Jennifer,4,A-Award,--D,67278,67278,1,0001926518,Ford Stock Units
+A,03/03/2023 00:00:00,O'Callaghan Catherine A.,4,A-Award,--I,1806,1806,19,0001741624,Ford Stock Units
+A,03/03/2023 00:00:00,O'Callaghan Catherine A.,4,A-Award,--D,19266,19266,18,0001741624,Ford Stock Units
+A,03/03/2023 00:00:00,Galhotra Ashwani Kumar,4,A-Award,--D,121100,121100,6,0001720106,Ford Stock Units
+A,03/03/2023 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,387155,387155,7,0001230846,Ford Stock Units
+A,03/03/2023 00:00:00,FIELD JOHN DOUGLAS,4,A-Award,--D,269113,269113,4,0001650649,Ford Stock Units
+A,03/03/2023 00:00:00,FARLEY JR JAMES D,4,A-Award,--D,496636,496636,9,0001415834,Ford Stock Units
+A,03/03/2023 00:00:00,Croley Steven P.,4,A-Award,--D,86697,86697,4,0001872591,Ford Stock Units
+A,03/03/2023 00:00:00,Amend Michael,4,A-Award,--D,60550,60550,4,0001675567,Ford Stock Units
+D,03/03/2023 00:00:00,Lawler John T.,4,M-Exempt,--D,29821,0,3,0001676526,Employee Stock Option (Right to Buy)
+D,03/03/2023 00:00:00,Lawler John T.,4,S-Sale,--D,29821,443683,2,0001676526,"Common Stock, $0.01 par value"
+A,03/03/2023 00:00:00,Lawler John T.,4,M-Exempt,--D,29821,473504,1,0001676526,"Common Stock, $0.01 par value"
+D,03/03/2023 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,24850,0,3,0001720106,Employee Stock Option (Right to Buy)
+D,03/03/2023 00:00:00,Galhotra Ashwani Kumar,4,S-Sale,--D,24850,511605,2,0001720106,"Common Stock, $0.01 par value"
+A,03/03/2023 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,24850,536455,1,0001720106,"Common Stock, $0.01 par value"
+D,03/03/2023 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,79921,0,3,0001415834,Employee Stock Option (Right to Buy)
+D,03/03/2023 00:00:00,FARLEY JR JAMES D,4,S-Sale,--D,79921,1638667,2,0001415834,"Common Stock, $0.01 par value"
+A,03/03/2023 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,79921,1718588,1,0001415834,"Common Stock, $0.01 par value"
+D,03/03/2023 00:00:00,Cannis Theodore J.,4,M-Exempt,--D,18518,0,3,0001929228,Employee Stock Option (Right to Buy)
+D,03/03/2023 00:00:00,Cannis Theodore J.,4,S-Sale,--D,18518,43734,2,0001929228,"Common Stock, $0.01 par value"
+A,03/03/2023 00:00:00,Cannis Theodore J.,4,M-Exempt,--D,18518,62252,1,0001929228,"Common Stock, $0.01 par value"
+A,03/01/2023 00:00:00,WEINBERG JOHN S,4,A-Award,--D,11038,181033,1,0001029647,Ford Stock Units
+A,03/01/2023 00:00:00,Vojvodich Radakovich Lynn,4,A-Award,--D,8950,146780,1,0001662205,Ford Stock Units
+A,03/01/2023 00:00:00,Veihmeyer John B,4,A-Award,--D,10828,177592,1,0001723533,Ford Stock Units
+A,03/01/2023 00:00:00,THORNTON JOHN L,4,A-Award,--D,22236,365646,1,0001090353,Ford Stock Units
+A,03/01/2023 00:00:00,MOONEY BETH E,4,A-Award,--D,5682,93193,1,0001217178,Ford Stock Units
+A,03/01/2023 00:00:00,Kennard William E,4,A-Award,--D,11214,183913,1,0001198236,Ford Stock Units
+A,03/01/2023 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,951,15609,1,0001541785,Ford Stock Units
+A,03/01/2023 00:00:00,Helman William W,4,A-Award,--D,2869,47191,1,0001339232,Ford Stock Units
+A,03/01/2023 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,255,4204,1,0001230846,Ford Stock Units
+A,03/01/2023 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,12112,198645,2,0001273561,Ford Stock Units
+A,03/01/2023 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,10751,176795,1,0001273561,Ford Stock Units
+D,02/15/2023 00:00:00,Gjaja Marin,4,M-Exempt,--D,37531,74115,3,0001929227,Ford Stock Units
+D,02/15/2023 00:00:00,Gjaja Marin,4,F-InKind,--D,11310,26221,2,0001929227,"Common Stock, $0.01 par value"
+A,02/15/2023 00:00:00,Gjaja Marin,4,M-Exempt,--D,37531,37531,1,0001929227,"Common Stock, $0.01 par value"
+D,12/31/2022 00:00:00,Veihmeyer John B,4,M-Exempt,--D,1743,166764,2,0001723533,Ford Stock Units
+A,12/31/2022 00:00:00,Veihmeyer John B,4,M-Exempt,--D,1743,1743,1,0001723533,"Common Stock, $0.01 par value"
+A,12/15/2022 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,1220,4225788,8,0001230846,"Class B Stock, $0.01 par value"
+A,12/15/2022 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,3660,188320,6,0001230846,"Class B Stock, $0.01 par value"
+A,12/15/2022 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,1220,13686661,2,0001230846,"Class B Stock, $0.01 par value"
+A,12/15/2022 00:00:00,English Alexandra Ford,5,G-Gift,--I,2440,49840,4,0001863399,"Class B Stock, $0.01 par value"
+A,12/15/2022 00:00:00,English Alexandra Ford,5,G-Gift,--I,1220,51902,2,0001863399,"Class B Stock, $0.01 par value"
+A,12/01/2022 00:00:00,WEINBERG JOHN S,4,A-Award,--D,1791,169995,1,0001029647,Ford Stock Units
+A,12/01/2022 00:00:00,Vojvodich Radakovich Lynn,4,A-Award,--D,1452,137830,1,0001662205,Ford Stock Units
+A,12/01/2022 00:00:00,Veihmeyer John B,4,A-Award,--D,1776,168507,1,0001723533,Ford Stock Units
+A,12/01/2022 00:00:00,THORNTON JOHN L,4,A-Award,--D,3594,343410,1,0001090353,Ford Stock Units
+A,12/01/2022 00:00:00,MOONEY BETH E,4,A-Award,--D,922,87510,1,0001217178,Ford Stock Units
+A,12/01/2022 00:00:00,Kennard William E,4,A-Award,--D,1820,172699,1,0001198236,Ford Stock Units
+A,12/01/2022 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,154,14657,1,0001541785,Ford Stock Units
+A,12/01/2022 00:00:00,Helman William W,4,A-Award,--D,463,44321,1,0001339232,Ford Stock Units
+A,12/01/2022 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,41,3948,1,0001230846,Ford Stock Units
+A,12/01/2022 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1966,186532,2,0001273561,Ford Stock Units
+A,12/01/2022 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1738,166043,1,0001273561,Ford Stock Units
+A,11/16/2022 00:00:00,Ford III Henry,5,G-Gift,--I,6855,70246,2,0001863430,"Class B Stock, $0.01 par value"
+A,11/16/2022 00:00:00,Ford III Henry,5,G-Gift,--I,2285,495620,1,0001863430,"Class B Stock, $0.01 par value"
+D,11/16/2022 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,29821,0,3,0001545023,Employee Stock Option (Right to Buy)
+D,11/16/2022 00:00:00,Rowley Stuart J.,4,S-Sale,--D,29821,224978,2,0001545023,"Common Stock, $0.01 par value"
+A,11/16/2022 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,29821,254799,1,0001545023,"Common Stock, $0.01 par value"
+A,11/15/2022 00:00:00,Lawler John T.,4,A-Award,--D,69930,69930,1,0001676526,Ford Stock Units
+A,11/15/2022 00:00:00,Gjaja Marin,4,A-Award,--D,139860,139860,1,0001929227,Ford Stock Units
+A,11/15/2022 00:00:00,Galhotra Ashwani Kumar,4,A-Award,--D,104895,104895,1,0001720106,Ford Stock Units
+A,11/15/2022 00:00:00,FIELD JOHN DOUGLAS,4,A-Award,--D,269889,269889,6,0001650649,Ford Stock Units
+D,11/15/2022 00:00:00,FIELD JOHN DOUGLAS,4,M-Exempt,--D,166163,171199,5,0001650649,Ford Stock Units
+D,11/15/2022 00:00:00,FIELD JOHN DOUGLAS,4,F-InKind,--D,56699,262620,4,0001650649,"Common Stock, $0.01 par value"
+A,11/15/2022 00:00:00,FIELD JOHN DOUGLAS,4,A-Award,--D,132930,319319,3,0001650649,"Common Stock, $0.01 par value"
+D,11/15/2022 00:00:00,FIELD JOHN DOUGLAS,4,F-InKind,--D,73176,186389,2,0001650649,"Common Stock, $0.01 par value"
+A,11/15/2022 00:00:00,FIELD JOHN DOUGLAS,4,M-Exempt,--D,166163,259565,1,0001650649,"Common Stock, $0.01 par value"
+D,11/15/2022 00:00:00,Amend Michael,4,M-Exempt,--D,191087,196879,3,0001675567,Ford Stock Units
+D,11/15/2022 00:00:00,Amend Michael,4,F-InKind,--D,76726,227795,2,0001675567,"Common Stock, $0.01 par value"
+A,11/15/2022 00:00:00,Amend Michael,4,M-Exempt,--D,191087,304521,1,0001675567,"Common Stock, $0.01 par value"
+A,09/26/2022 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,2632,4224568,7,0001230846,"Class B Stock, $0.01 par value"
+A,09/26/2022 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,7896,184660,5,0001230846,"Class B Stock, $0.01 par value"
+A,09/26/2022 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,1316,99228,3,0001230846,"Class B Stock, $0.01 par value"
+D,09/26/2022 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,19740,13599732,1,0001230846,"Class B Stock, $0.01 par value"
+A,09/26/2022 00:00:00,English Alexandra Ford,5,G-Gift,--I,5264,47400,3,0001863399,"Class B Stock, $0.01 par value"
+A,09/26/2022 00:00:00,English Alexandra Ford,5,G-Gift,--I,2632,50682,1,0001863399,"Class B Stock, $0.01 par value"
+A,09/26/2022 00:00:00,FORD WILLIAM CLAY JR,4,J-Other,--I,7302,178739,3,0001230846,"Class B Stock, $0.01 par value"
+A,09/26/2022 00:00:00,FORD WILLIAM CLAY JR,4,C-Conversion,--I,2611600,13619472,2,0001230846,"Class B Stock, $0.01 par value"
+D,09/26/2022 00:00:00,FORD WILLIAM CLAY JR,4,C-Conversion,--D,2611600,1,1,0001230846,"Common Stock, $0.01 par value"
+A,09/26/2022 00:00:00,English Alexandra Ford,4,C-Conversion,--I,7302,48050,2,0001863399,"Class B Stock, $0.01 par value"
+D,09/26/2022 00:00:00,English Alexandra Ford,4,C-Conversion,--D,7302,10267,1,0001863399,"Common Stock, $0.01 par value"
+A,09/01/2022 00:00:00,WEINBERG JOHN S,4,A-Award,--D,1644,168203,1,0001029647,Ford Stock Units
+A,09/01/2022 00:00:00,Vojvodich Lynn M,4,A-Award,--D,1333,136377,1,0001662205,Ford Stock Units
+A,09/01/2022 00:00:00,Veihmeyer John B,4,A-Award,--D,1630,166731,1,0001723533,Ford Stock Units
+A,09/01/2022 00:00:00,THORNTON JOHN L,4,A-Award,--D,3364,339816,1,0001090353,Ford Stock Units
+A,09/01/2022 00:00:00,MOONEY BETH E,4,A-Award,--D,846,86588,1,0001217178,Ford Stock Units
+A,09/01/2022 00:00:00,Kennard William E,4,A-Award,--D,1670,170878,1,0001198236,Ford Stock Units
+A,09/01/2022 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,141,14502,1,0001541785,Ford Stock Units
+A,09/01/2022 00:00:00,Helman William W,4,A-Award,--D,434,43857,1,0001339232,Ford Stock Units
+A,09/01/2022 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,38,3907,1,0001230846,Ford Stock Units
+A,09/01/2022 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1804,184566,2,0001273561,Ford Stock Units
+A,09/01/2022 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1626,164305,1,0001273561,Ford Stock Units
+D,08/15/2022 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,1975,176764,4,0001230846,"Class B Stock, $0.01 par value"
+D,08/15/2022 00:00:00,Croley Steven P.,4,M-Exempt,--D,24282,49301,3,0001872591,Ford Stock Units
+D,08/15/2022 00:00:00,Croley Steven P.,4,F-InKind,--D,6945,17337,2,0001872591,"Common Stock, $0.01 par value"
+A,08/15/2022 00:00:00,Croley Steven P.,4,M-Exempt,--D,24282,24282,1,0001872591,"Common Stock, $0.01 par value"
+A,08/01/2022 00:00:00,English Alexandra Ford,4,A-Award,--D,10267,17569,1,0001863399,"Common Stock, $0.01 par value"
+A,06/01/2022 00:00:00,WEINBERG JOHN S,4,A-Award,--D,1299,166558,1,0001029647,Ford Stock Units
+A,06/01/2022 00:00:00,Vojvodich Lynn M,4,A-Award,--D,866,135044,1,0001662205,Ford Stock Units
+A,06/01/2022 00:00:00,Veihmeyer John B,4,A-Award,--D,1012,165100,1,0001723533,Ford Stock Units
+A,06/01/2022 00:00:00,THORNTON JOHN L,4,A-Award,--D,2440,336451,1,0001090353,Ford Stock Units
+A,06/01/2022 00:00:00,MOONEY BETH E,4,A-Award,--D,505,85740,1,0001217178,Ford Stock Units
+A,06/01/2022 00:00:00,Kennard William E,4,A-Award,--D,1117,169208,1,0001198236,Ford Stock Units
+A,06/01/2022 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,105,14361,1,0001541785,Ford Stock Units
+A,06/01/2022 00:00:00,Helman William W,4,A-Award,--D,315,43423,1,0001339232,Ford Stock Units
+A,06/01/2022 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,28,3868,1,0001230846,Ford Stock Units
+A,06/01/2022 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1216,182761,2,0001273561,Ford Stock Units
+A,06/01/2022 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1180,162678,1,0001273561,Ford Stock Units
+D,05/24/2022 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,25892,0,3,0001720106,Employee Stock Option (Right to Buy)
+D,05/24/2022 00:00:00,Galhotra Ashwani Kumar,4,S-Sale,--D,25892,511605,2,0001720106,"Common Stock, $0.01 par value"
+A,05/24/2022 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,25892,537497,1,0001720106,"Common Stock, $0.01 par value"
+A,05/19/2022 00:00:00,Vojvodich Lynn M,4,A-Award,--D,16731,134177,1,0001662205,Ford Stock Units
+A,05/19/2022 00:00:00,Veihmeyer John B,4,A-Award,--D,26848,164087,1,0001723533,Ford Stock Units
+A,05/19/2022 00:00:00,THORNTON JOHN L,4,A-Award,--D,16731,290218,1,0001090353,"Common Stock, $0.01 par value"
+A,05/19/2022 00:00:00,MOONEY BETH E,4,A-Award,--D,16731,85235,1,0001217178,Ford Stock Units
+A,05/19/2022 00:00:00,May John C II,4,A-Award,--D,24513,25783,1,0001556144,"Common Stock, $0.01 par value"
+A,05/19/2022 00:00:00,Kennard William E,4,A-Award,--D,16731,168091,1,0001198236,Ford Stock Units
+A,05/19/2022 00:00:00,Helman William W,4,A-Award,--D,16731,197582,1,0001339232,"Common Stock, $0.01 par value"
+A,05/19/2022 00:00:00,WEINBERG JOHN S,4,A-Award,--D,24513,165258,3,0001029647,Ford Stock Units
+A,05/19/2022 00:00:00,Ford III Henry,4,A-Award,--D,16731,26188,1,0001863430,"Common Stock, $0.01 par value"
+A,05/19/2022 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,16731,181545,1,0001273561,Ford Stock Units
+D,05/18/2022 00:00:00,WEINBERG JOHN S,4,M-Exempt,--D,35397,140745,2,0001029647,Ford Stock Units
+A,05/18/2022 00:00:00,WEINBERG JOHN S,4,M-Exempt,--D,35397,41854,1,0001029647,"Common Stock, $0.01 par value"
+A,05/15/2022 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,148148,148148,4,0001541785,Ford Stock Units
+D,05/15/2022 00:00:00,Huntsman Jon M Jr,4,M-Exempt,--D,84544,171653,3,0001541785,Ford Stock Units
+D,05/15/2022 00:00:00,Huntsman Jon M Jr,4,F-InKind,--D,29936,54608,2,0001541785,"Common Stock, $0.01 par value"
+A,05/15/2022 00:00:00,Huntsman Jon M Jr,4,M-Exempt,--D,84544,84544,1,0001541785,"Common Stock, $0.01 par value"
+D,05/15/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,22393,0,5,0001415834,Ford Stock Units
+D,05/15/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,8927,0,4,0001415834,Ford Stock Units
+D,05/15/2022 00:00:00,FARLEY JR JAMES D,4,F-InKind,--D,52214,1638667,3,0001415834,"Common Stock, $0.01 par value"
+A,05/15/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,88431,1690881,2,0001415834,"Common Stock, $0.01 par value"
+A,05/15/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,31320,1602450,1,0001415834,"Common Stock, $0.01 par value"
+D,05/15/2022 00:00:00,Cannis Theodore J.,4,M-Exempt,--D,17023,17541,3,0001929228,Ford Stock Units
+D,05/15/2022 00:00:00,Cannis Theodore J.,4,F-InKind,--D,4869,42963,2,0001929228,"Common Stock, $0.01 par value"
+A,05/15/2022 00:00:00,Cannis Theodore J.,4,M-Exempt,--D,17023,47832,1,0001929228,"Common Stock, $0.01 par value"
+A,05/15/2022 00:00:00,Waldo Jennifer,4,A-Award,--D,296296,296296,1,0001926518,Ford Stock Units
+A,03/24/2022 00:00:00,FORD WILLIAM CLAY JR,4,P-Purchase,--I,267697,4221936,1,0001230846,"Class B Stock, $0.01 par value"
+D,03/19/2022 00:00:00,Lawler John T.,4,M-Exempt,--D,127012,0,3,0001676526,Ford Stock Units
+D,03/19/2022 00:00:00,Lawler John T.,4,F-InKind,--D,55378,442464,2,0001676526,"Common Stock, $0.01 par value"
+A,03/19/2022 00:00:00,Lawler John T.,4,M-Exempt,--D,127012,497842,1,0001676526,"Common Stock, $0.01 par value"
+D,03/19/2022 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,64094,66038,3,0001720106,Ford Stock Units
+D,03/19/2022 00:00:00,Galhotra Ashwani Kumar,4,F-InKind,--D,27945,511605,2,0001720106,"Common Stock, $0.01 par value"
+A,03/19/2022 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,64094,539550,1,0001720106,"Common Stock, $0.01 par value"
+D,03/19/2022 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,161012,0,5,0001230846,Ford Stock Units
+D,03/19/2022 00:00:00,FORD WILLIAM CLAY JR,4,F-InKind,--D,268417,2609102,3,0001230846,"Common Stock, $0.01 par value"
+A,03/19/2022 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,454620,2877519,2,0001230846,"Common Stock, $0.01 par value"
+A,03/19/2022 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,161012,2422899,1,0001230846,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Thai-Tang Hau N,4,A-Award,--D,85459,85459,13,0001582109,Ford Stock Units
+D,03/04/2022 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,36663,0,12,0001582109,Ford Stock Units
+D,03/04/2022 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,51726,105021,11,0001582109,Ford Stock Units
+D,03/04/2022 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,79237,81639,10,0001582109,Ford Stock Units
+D,03/04/2022 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,58970,0,9,0001582109,Ford Stock Units
+D,03/04/2022 00:00:00,Thai-Tang Hau N,4,F-InKind,--D,163633,915624,6,0001582109,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,58970,1079257,5,0001582109,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,79237,1020287,4,0001582109,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,51726,941050,3,0001582109,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,166502,889324,2,0001582109,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,36663,722822,1,0001582109,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Rowley Stuart J.,4,A-Award,--D,51275,51275,11,0001545023,Ford Stock Units
+D,03/04/2022 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,15181,0,10,0001545023,Ford Stock Units
+D,03/04/2022 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,25558,51893,9,0001545023,Ford Stock Units
+D,03/04/2022 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,33447,0,8,0001545023,Ford Stock Units
+D,03/04/2022 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,37702,38846,7,0001545023,Ford Stock Units
+D,03/04/2022 00:00:00,Rowley Stuart J.,4,F-InKind,--D,89959,224978,6,0001545023,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,94435,314937,5,0001545023,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,33447,220502,4,0001545023,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,25558,187055,3,0001545023,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,15181,161497,2,0001545023,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,37702,146316,1,0001545023,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Robinson Kiersten,4,A-Award,--D,51275,51275,11,0001735222,Ford Stock Units
+D,03/04/2022 00:00:00,Robinson Kiersten,4,M-Exempt,--D,21387,0,10,0001735222,Ford Stock Units
+D,03/04/2022 00:00:00,Robinson Kiersten,4,M-Exempt,--D,24341,49422,9,0001735222,Ford Stock Units
+D,03/04/2022 00:00:00,Robinson Kiersten,4,M-Exempt,--D,37288,38418,8,0001735222,Ford Stock Units
+D,03/04/2022 00:00:00,Robinson Kiersten,4,M-Exempt,--D,30874,0,7,0001735222,Ford Stock Units
+D,03/04/2022 00:00:00,Robinson Kiersten,4,F-InKind,--D,87693,223061,6,0001735222,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Robinson Kiersten,4,M-Exempt,--D,30874,310754,5,0001735222,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Robinson Kiersten,4,M-Exempt,--D,37288,279880,4,0001735222,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Robinson Kiersten,4,M-Exempt,--D,24341,242592,3,0001735222,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Robinson Kiersten,4,M-Exempt,--D,21387,218251,2,0001735222,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Robinson Kiersten,4,M-Exempt,--D,87173,196864,1,0001735222,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,A-Award,--I,1468,1468,22,0001741624,Ford Stock Units
+D,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,685,1392,21,0001741624,Ford Stock Units
+D,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,1271,1312,20,0001741624,Ford Stock Units
+D,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,943,0,19,0001741624,Ford Stock Units
+D,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,29337,29338,18,0001741624,Ford Stock Units
+A,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,A-Award,--D,16617,16617,16,0001741624,Ford Stock Units
+D,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,7465,0,15,0001741624,Ford Stock Units
+D,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,8519,17298,14,0001741624,Ford Stock Units
+D,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,13983,14407,13,0001741624,Ford Stock Units
+D,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,10498,0,12,0001741624,Ford Stock Units
+D,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--I,483,41758,11,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,685,42241,10,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,943,41556,9,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,1271,40613,8,0001741624,"Common Stock, $0.01 par value"
+D,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--D,46741,82009,7,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,29639,128750,6,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,10498,99111,5,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,7465,88613,4,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,8519,81148,3,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,29337,72629,2,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,13983,43292,1,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Lawler John T.,4,A-Award,--D,125816,125816,11,0001676526,Ford Stock Units
+D,03/04/2022 00:00:00,Lawler John T.,4,M-Exempt,--D,15191,0,10,0001676526,Ford Stock Units
+D,03/04/2022 00:00:00,Lawler John T.,4,M-Exempt,--D,49900,101315,9,0001676526,Ford Stock Units
+D,03/04/2022 00:00:00,Lawler John T.,4,M-Exempt,--D,12712,0,8,0001676526,Ford Stock Units
+D,03/04/2022 00:00:00,Lawler John T.,4,M-Exempt,--D,36759,37876,7,0001676526,Ford Stock Units
+D,03/04/2022 00:00:00,Lawler John T.,4,F-InKind,--D,57382,370830,6,0001676526,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Lawler John T.,4,M-Exempt,--D,12712,428212,5,0001676526,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Lawler John T.,4,M-Exempt,--D,36759,415500,4,0001676526,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Lawler John T.,4,M-Exempt,--D,49900,378741,3,0001676526,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Lawler John T.,4,M-Exempt,--D,15191,328841,2,0001676526,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Lawler John T.,4,M-Exempt,--D,35885,313650,1,0001676526,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Galhotra Ashwani Kumar,4,A-Award,--D,102551,102551,9,0001720106,Ford Stock Units
+D,03/04/2022 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,30553,0,8,0001720106,Ford Stock Units
+D,03/04/2022 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,45640,92666,7,0001720106,Ford Stock Units
+D,03/04/2022 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,37462,0,6,0001720106,Ford Stock Units
+D,03/04/2022 00:00:00,Galhotra Ashwani Kumar,4,F-InKind,--D,87715,475456,5,0001720106,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,45640,563171,4,0001720106,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,30553,517531,3,0001720106,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,37462,486978,2,0001720106,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,105766,449516,1,0001720106,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,291988,291988,7,0001230846,Ford Stock Units
+D,03/04/2022 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,33948,0,6,0001230846,Ford Stock Units
+D,03/04/2022 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,137532,279232,5,0001230846,Ford Stock Units
+D,03/04/2022 00:00:00,FORD WILLIAM CLAY JR,4,F-InKind,--D,65864,2261887,3,0001230846,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,33948,2327751,2,0001230846,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,137532,2293803,1,0001230846,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,FIELD JOHN DOUGLAS,4,A-Award,--D,189910,189910,1,0001650649,Ford Stock Units
+A,03/04/2022 00:00:00,FARLEY JR JAMES D,4,A-Award,--D,344213,344213,11,0001415834,Ford Stock Units
+D,03/04/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,57445,0,10,0001415834,Ford Stock Units
+D,03/04/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,158222,321241,9,0001415834,Ford Stock Units
+D,03/04/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,93220,96045,8,0001415834,Ford Stock Units
+D,03/04/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,58970,0,7,0001415834,Ford Stock Units
+D,03/04/2022 00:00:00,FARLEY JR JAMES D,4,F-InKind,--D,232982,1571130,6,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,57445,1804112,5,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,158222,1746667,4,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,93220,1588445,3,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,58970,1495225,2,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,166502,1436255,1,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,English Alexandra Ford,4,A-Award,--D,4613,4613,8,0001863399,Ford Stock Units
+D,03/04/2022 00:00:00,English Alexandra Ford,4,M-Exempt,--D,716,0,7,0001863399,Ford Stock Units
+D,03/04/2022 00:00:00,English Alexandra Ford,4,M-Exempt,--D,3039,3132,6,0001863399,Ford Stock Units
+D,03/04/2022 00:00:00,English Alexandra Ford,4,M-Exempt,--D,2871,5832,5,0001863399,Ford Stock Units
+D,03/04/2022 00:00:00,English Alexandra Ford,4,F-InKind,--D,2234,7271,4,0001863399,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,English Alexandra Ford,4,M-Exempt,--D,2871,9505,3,0001863399,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,English Alexandra Ford,4,M-Exempt,--D,716,6634,2,0001863399,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,English Alexandra Ford,4,M-Exempt,--D,3039,5918,1,0001863399,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Croley Steven P.,4,A-Award,--D,75964,75964,1,0001872591,Ford Stock Units
+A,03/04/2022 00:00:00,Chen Anning,4,A-Award,--D,42729,42729,11,0001756633,Ford Stock Units
+D,03/04/2022 00:00:00,Chen Anning,4,M-Exempt,--D,16358,0,10,0001756633,Ford Stock Units
+D,03/04/2022 00:00:00,Chen Anning,4,M-Exempt,--D,24098,48927,9,0001756633,Ford Stock Units
+D,03/04/2022 00:00:00,Chen Anning,4,M-Exempt,--D,29435,0,8,0001756633,Ford Stock Units
+D,03/04/2022 00:00:00,Chen Anning,4,M-Exempt,--D,33931,34962,7,0001756633,Ford Stock Units
+D,03/04/2022 00:00:00,Chen Anning,4,F-InKind,--D,81501,234075,6,0001756633,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Chen Anning,4,M-Exempt,--D,83102,315576,5,0001756633,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Chen Anning,4,M-Exempt,--D,16358,232474,4,0001756633,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Chen Anning,4,M-Exempt,--D,33931,216116,3,0001756633,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Chen Anning,4,M-Exempt,--D,29435,182185,2,0001756633,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Chen Anning,4,M-Exempt,--D,24098,152750,1,0001756633,"Common Stock, $0.01 par value"
+A,03/04/2022 00:00:00,Amend Michael,4,A-Award,--D,52225,52225,1,0001675567,Ford Stock Units
+D,03/03/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,150000,1659954,5,0001415834,Employee Stock Option (Right to Buy)
+D,03/03/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,35343,0,4,0001415834,Employee Stock Option (Right to Buy)
+D,03/03/2022 00:00:00,FARLEY JR JAMES D,4,S-Sale,--D,185343,1269656,3,0001415834,"Common Stock, $0.01 par value"
+A,03/03/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,35343,1454999,2,0001415834,"Common Stock, $0.01 par value"
+A,03/03/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,150000,1419656,1,0001415834,"Common Stock, $0.01 par value"
+A,03/01/2022 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,22,3840,1,0001230846,Ford Stock Units
+A,03/01/2022 00:00:00,WEINBERG JOHN S,4,A-Award,--D,1048,176143,1,0001029647,Ford Stock Units
+A,03/01/2022 00:00:00,Vojvodich Lynn M,4,A-Award,--D,699,117446,1,0001662205,Ford Stock Units
+A,03/01/2022 00:00:00,Veihmeyer John B,4,A-Award,--D,816,137239,1,0001723533,Ford Stock Units
+A,03/01/2022 00:00:00,THORNTON JOHN L,4,A-Award,--D,1961,334010,1,0001090353,Ford Stock Units
+A,03/01/2022 00:00:00,MOONEY BETH E,4,A-Award,--D,407,68504,1,0001217178,Ford Stock Units
+A,03/01/2022 00:00:00,Kennard William E,4,A-Award,--D,900,151360,1,0001198236,Ford Stock Units
+A,03/01/2022 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,84,14255,1,0001541785,Ford Stock Units
+A,03/01/2022 00:00:00,Helman William W,4,A-Award,--D,253,43108,1,0001339232,Ford Stock Units
+A,03/01/2022 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,749,125871,2,0001167316,Ford Stock Units
+A,03/01/2022 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,426,72671,1,0001167316,Ford Stock Units
+A,03/01/2022 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,981,164814,2,0001273561,Ford Stock Units
+A,03/01/2022 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,948,161498,1,0001273561,Ford Stock Units
+D,02/18/2022 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,3778,25892,5,0001720106,Employee Stock Option (Right to Buy)
+D,02/18/2022 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,14579,0,4,0001720106,Employee Stock Option (Right to Buy)
+D,02/18/2022 00:00:00,Galhotra Ashwani Kumar,4,F-InKind,--D,12941,343750,3,0001720106,"Common Stock, $0.01 par value"
+A,02/18/2022 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,14579,356691,2,0001720106,"Common Stock, $0.01 par value"
+A,02/18/2022 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,3778,342112,1,0001720106,"Common Stock, $0.01 par value"
+D,02/18/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,8025,35343,3,0001415834,Employee Stock Option (Right to Buy)
+D,02/18/2022 00:00:00,FARLEY JR JAMES D,4,F-InKind,--D,5542,1269656,2,0001415834,"Common Stock, $0.01 par value"
+A,02/18/2022 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,8025,1275198,1,0001415834,"Common Stock, $0.01 par value"
+D,02/17/2022 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,37414,0,5,0001582109,Employee Stock Option (Right to Buy)
+D,02/17/2022 00:00:00,Thai-Tang Hau N,4,F-InKind,--D,20179,686152,2,0001582109,"Common Stock, $0.01 par value"
+A,02/17/2022 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,37414,706331,1,0001582109,"Common Stock, $0.01 par value"
+D,02/15/2022 00:00:00,Lawler John T.,4,M-Exempt,--D,14579,0,3,0001676526,Employee Stock Option (Right to Buy)
+D,02/15/2022 00:00:00,Lawler John T.,4,F-InKind,--D,10775,277765,2,0001676526,"Common Stock, $0.01 par value"
+A,02/15/2022 00:00:00,Lawler John T.,4,M-Exempt,--D,14579,288540,1,0001676526,"Common Stock, $0.01 par value"
+D,02/15/2022 00:00:00,Chen Anning,4,M-Exempt,--D,42875,0,3,0001756633,Ford Stock Units
+D,02/15/2022 00:00:00,Chen Anning,4,F-InKind,--D,17647,128066,2,0001756633,"Common Stock, $0.01 par value"
+A,02/15/2022 00:00:00,Chen Anning,4,M-Exempt,--D,42875,145713,1,0001756633,"Common Stock, $0.01 par value"
+A,12/31/2021 00:00:00,May John C II,4,A-Award,--D,1263,1263,2,0001556144,"Common Stock, $0.01 par value"
+A,12/22/2021 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,750,3954239,7,0001230846,"Class B Stock, $0.01 par value"
+D,12/22/2021 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,1500,171437,6,0001230846,"Class B Stock, $0.01 par value"
+A,12/22/2021 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,2250,172937,5,0001230846,"Class B Stock, $0.01 par value"
+A,12/22/2021 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,750,11007872,1,0001230846,"Class B Stock, $0.01 par value"
+A,12/22/2021 00:00:00,English Alexandra Ford,5,G-Gift,--I,1500,42136,2,0001863399,"Class B Stock, $0.01 par value"
+A,12/22/2021 00:00:00,English Alexandra Ford,5,G-Gift,--I,750,40748,1,0001863399,"Class B Stock, $0.01 par value"
+A,12/21/2021 00:00:00,Ford III Henry,4,G-Gift,-EI,1533,5785,6,0001863430,"Class B Stock, $0.01 par value"
+A,12/21/2021 00:00:00,Ford III Henry,4,G-Gift,-EI,4599,63391,3,0001863430,"Class B Stock, $0.01 par value"
+D,12/20/2021 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,7757,170687,4,0001230846,"Class B Stock, $0.01 par value"
+A,12/20/2021 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,4653,178444,3,0001230846,"Class B Stock, $0.01 par value"
+A,12/20/2021 00:00:00,FORD WILLIAM CLAY JR,4,G-Gift,-EI,1551,3953489,3,0001230846,"Class B Stock, $0.01 par value"
+A,12/20/2021 00:00:00,FORD WILLIAM CLAY JR,4,G-Gift,-EI,775,97912,2,0001230846,"Class B Stock, $0.01 par value"
+D,12/20/2021 00:00:00,FORD WILLIAM CLAY JR,4,G-Gift,-EI,11632,11007122,1,0001230846,"Class B Stock, $0.01 par value"
+A,12/20/2021 00:00:00,Ford III Henry,4,C-Conversion,--I,422730,1586331,5,0001863430,"Class B Stock, $0.01 par value"
+D,12/20/2021 00:00:00,Ford III Henry,4,C-Conversion,--I,422730,0,4,0001863430,"Common Stock, $0.01 par value"
+A,12/20/2021 00:00:00,Ford III Henry,4,C-Conversion,--I,7100,58792,2,0001863430,"Class B Stock, $0.01 par value"
+D,12/20/2021 00:00:00,Ford III Henry,4,C-Conversion,--I,7100,0,1,0001863430,"Common Stock, $0.01 par value"
+A,12/20/2021 00:00:00,English Alexandra Ford,4,G-Gift,-EI,3102,40636,5,0001863399,"Class B Stock, $0.01 par value"
+A,12/20/2021 00:00:00,English Alexandra Ford,4,G-Gift,-EI,7757,37534,4,0001863399,"Class B Stock, $0.01 par value"
+D,12/20/2021 00:00:00,English Alexandra Ford,4,G-Gift,-EI,7757,39998,3,0001863399,"Class B Stock, $0.01 par value"
+A,12/20/2021 00:00:00,English Alexandra Ford,4,G-Gift,-EI,1551,47755,2,0001863399,"Class B Stock, $0.01 par value"
+A,12/20/2021 00:00:00,English Alexandra Ford,4,P-Purchase,--I,38789,65368,1,0001863399,"Class B Stock, $0.01 par value"
+D,12/15/2021 00:00:00,May John C II,4,G-Gift,-EI,171,0,1,0001556144,"Common Stock, $0.01 par value"
+A,12/10/2021 00:00:00,FORD WILLIAM CLAY JR,4,P-Purchase,--I,412500,3951938,1,0001230846,"Class B Stock, $0.01 par value"
+D,12/06/2021 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,693673,1408367,9,0001230846,Employee Stock Option (Right to Buy)
+D,12/06/2021 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,286415,0,8,0001230846,Employee Stock Option (Right to Buy)
+D,12/06/2021 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,347912,0,7,0001230846,Employee Stock Option (Right to Buy)
+D,12/06/2021 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,595238,0,6,0001230846,Employee Stock Option (Right to Buy)
+A,12/06/2021 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,693673,2156271,4,0001230846,"Common Stock, $0.01 par value"
+A,12/06/2021 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,286415,1462598,3,0001230846,"Common Stock, $0.01 par value"
+A,12/06/2021 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,347912,1176183,2,0001230846,"Common Stock, $0.01 par value"
+A,12/06/2021 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,595238,828271,1,0001230846,"Common Stock, $0.01 par value"
+D,12/03/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,11432,0,6,0001741624,Employee Stock Option (Right to Buy)
+D,12/03/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,4722,0,5,0001741624,Employee Stock Option (Right to Buy)
+D,12/03/2021 00:00:00,O'Callaghan Catherine A.,4,S-Sale,--D,72956,29309,3,0001741624,"Common Stock, $0.01 par value"
+A,12/03/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,11432,102265,2,0001741624,"Common Stock, $0.01 par value"
+A,12/03/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,4722,90833,1,0001741624,"Common Stock, $0.01 par value"
+A,12/01/2021 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,18,3817,1,0001230846,Ford Stock Units
+A,12/01/2021 00:00:00,WEINBERG JOHN S,4,A-Award,--D,889,175095,1,0001029647,Ford Stock Units
+A,12/01/2021 00:00:00,Vojvodich Lynn M,4,A-Award,--D,593,116747,1,0001662205,Ford Stock Units
+A,12/01/2021 00:00:00,Veihmeyer John B,4,A-Award,--D,693,136423,1,0001723533,Ford Stock Units
+A,12/01/2021 00:00:00,THORNTON JOHN L,4,A-Award,--D,1651,332049,1,0001090353,Ford Stock Units
+A,12/01/2021 00:00:00,MOONEY BETH E,4,A-Award,--D,346,68097,1,0001217178,Ford Stock Units
+A,12/01/2021 00:00:00,Kennard William E,4,A-Award,--D,764,150459,1,0001198236,Ford Stock Units
+A,12/01/2021 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,72,14171,1,0001541785,Ford Stock Units
+A,12/01/2021 00:00:00,Helman William W,4,A-Award,--D,213,42855,1,0001339232,Ford Stock Units
+A,12/01/2021 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,635,125122,2,0001167316,Ford Stock Units
+A,12/01/2021 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,359,72245,1,0001167316,Ford Stock Units
+A,12/01/2021 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,832,163833,2,0001273561,Ford Stock Units
+A,12/01/2021 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,798,160550,1,0001273561,Ford Stock Units
+D,11/22/2021 00:00:00,Robinson Kiersten,4,M-Exempt,--D,17713,0,3,0001735222,Employee Stock Option (Right to Buy)
+D,11/22/2021 00:00:00,Robinson Kiersten,4,S-Sale,--D,17713,109691,2,0001735222,"Common Stock, $0.01 par value"
+A,11/22/2021 00:00:00,Robinson Kiersten,4,M-Exempt,--D,17713,127404,1,0001735222,"Common Stock, $0.01 par value"
+D,11/15/2021 00:00:00,WEINBERG JOHN S,4,M-Exempt,--D,6406,174205,2,0001029647,Ford Stock Units
+A,11/15/2021 00:00:00,WEINBERG JOHN S,4,M-Exempt,--D,6406,6406,1,0001029647,"Common Stock, $0.01 par value"
+A,11/15/2021 00:00:00,FIELD JOHN DOUGLAS,4,A-Award,--D,337362,337362,3,0001650649,Ford Stock Units
+D,11/15/2021 00:00:00,FIELD JOHN DOUGLAS,4,F-InKind,--D,75186,90976,2,0001650649,"Common Stock, $0.01 par value"
+A,11/15/2021 00:00:00,FIELD JOHN DOUGLAS,4,A-Award,--D,166162,166162,1,0001650649,"Common Stock, $0.01 par value"
+A,11/15/2021 00:00:00,Amend Michael,4,A-Award,--D,387966,387966,3,0001675567,Ford Stock Units
+D,11/15/2021 00:00:00,Amend Michael,4,F-InKind,--D,78219,112868,2,0001675567,"Common Stock, $0.01 par value"
+A,11/15/2021 00:00:00,Amend Michael,4,A-Award,--D,191087,191087,1,0001675567,"Common Stock, $0.01 par value"
+D,11/08/2021 00:00:00,Robinson Kiersten,4,M-Exempt,--D,12419,0,3,0001735222,Employee Stock Option (Right to Buy)
+D,11/08/2021 00:00:00,Robinson Kiersten,4,S-Sale,--D,12419,109691,2,0001735222,"Common Stock, $0.01 par value"
+A,11/08/2021 00:00:00,Robinson Kiersten,4,M-Exempt,--D,12419,122110,1,0001735222,"Common Stock, $0.01 par value"
+D,10/28/2021 00:00:00,Rowley Stuart J.,4,S-Sale,--D,15000,108614,1,0001545023,"Common Stock, $0.01 par value"
+D,10/15/2021 00:00:00,Rowley Stuart J.,4,S-Sale,--D,11006,123614,2,0001545023,"Common Stock, $0.01 par value"
+D,10/15/2021 00:00:00,Rowley Stuart J.,4,S-Sale,--D,3994,134620,1,0001545023,"Common Stock, $0.01 par value"
+A,08/15/2021 00:00:00,Ford III Henry,4,A-Award,--D,7910,9374,1,0001863430,"Common Stock, $0.01 par value"
+A,08/15/2021 00:00:00,Croley Steven P.,4,A-Award,--D,73583,73583,1,0001872591,Ford Stock Units
+D,06/23/2021 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,3250,173791,2,0001230846,"Class B Stock, $0.01 par value"
+D,06/23/2021 00:00:00,FORD WILLIAM CLAY JR,4,J-Other,--I,16383,3539438,1,0001230846,"Class B Stock, $0.01 par value"
+A,06/23/2021 00:00:00,English Alexandra Ford,4,G-Gift,-EI,19633,19633,3,0001863399,"Class B Stock, $0.01 par value"
+D,06/23/2021 00:00:00,English Alexandra Ford,4,G-Gift,-EI,19633,46204,2,0001863399,"Class B Stock, $0.01 par value"
+A,06/23/2021 00:00:00,English Alexandra Ford,4,J-Other,--I,16383,65837,1,0001863399,"Class B Stock, $0.01 par value"
+D,06/22/2021 00:00:00,Rowley Stuart J.,4,S-Sale,--D,15000,138614,1,0001545023,"Common Stock, $0.01 par value"
+D,06/21/2021 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,37414,0,4,0001545023,Employee Stock Option (Right to Buy)
+D,06/21/2021 00:00:00,Rowley Stuart J.,4,S-Sale,--D,37414,153614,3,0001545023,"Common Stock, $0.01 par value"
+A,06/21/2021 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,37414,191028,2,0001545023,"Common Stock, $0.01 par value"
+D,06/18/2021 00:00:00,Rowley Stuart J.,4,S-Sale,--D,15000,153614,1,0001545023,"Common Stock, $0.01 par value"
+D,06/04/2021 00:00:00,Robinson Kiersten,4,S-Sale,--D,60000,109691,1,0001735222,"Common Stock, $0.01 par value"
+D,06/01/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,5082,0,5,0001741624,Ford Stock Units
+D,06/01/2021 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--D,4100,86111,3,0001741624,"Common Stock, $0.01 par value"
+A,06/01/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,5082,90211,2,0001741624,"Common Stock, $0.01 par value"
+A,06/01/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,3811,85129,1,0001741624,"Common Stock, $0.01 par value"
+A,05/20/2021 00:00:00,WEINBERG JOHN S,4,A-Award,--D,25220,180611,1,0001029647,Ford Stock Units
+A,05/20/2021 00:00:00,Vojvodich Lynn M,4,A-Award,--D,17213,116154,1,0001662205,Ford Stock Units
+A,05/20/2021 00:00:00,Veihmeyer John B,4,A-Award,--D,27622,135729,1,0001723533,Ford Stock Units
+A,05/20/2021 00:00:00,THORNTON JOHN L,4,A-Award,--D,17213,271231,1,0001090353,"Common Stock, $0.01 par value"
+A,05/20/2021 00:00:00,MOONEY BETH E,4,A-Award,--D,17213,67751,1,0001217178,Ford Stock Units
+A,05/20/2021 00:00:00,Kennard William E,4,A-Award,--D,17213,149694,1,0001198236,Ford Stock Units
+A,05/20/2021 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,7172,14099,1,0001541785,Ford Stock Units
+A,05/20/2021 00:00:00,Helman William W,4,A-Award,--D,17213,179242,1,0001339232,"Common Stock, $0.01 par value"
+A,05/20/2021 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,24219,108277,1,0001167316,"Common Stock, $0.01 par value"
+A,05/20/2021 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,17213,163000,1,0001273561,Ford Stock Units
+D,05/19/2021 00:00:00,EARLEY ANTHONY F JR,4,M-Exempt,--D,17502,124486,2,0001167316,Ford Stock Units
+A,05/19/2021 00:00:00,EARLEY ANTHONY F JR,4,M-Exempt,--D,17502,84058,1,0001167316,"Common Stock, $0.01 par value"
+D,05/17/2021 00:00:00,FARLEY JR JAMES D,4,F-InKind,--D,13255,1267088,3,0001415834,"Common Stock, $0.01 par value"
+A,05/15/2021 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,253378,253378,1,0001541785,Ford Stock Units
+D,05/15/2021 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,21734,22393,5,0001415834,Ford Stock Units
+D,05/15/2021 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,8664,8927,4,0001415834,Ford Stock Units
+A,05/15/2021 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,21734,1280343,2,0001415834,"Common Stock, $0.01 par value"
+A,05/15/2021 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,8664,1258609,1,0001415834,"Common Stock, $0.01 par value"
+D,03/19/2021 00:00:00,Lawler John T.,4,M-Exempt,--D,121918,125615,3,0001676526,Ford Stock Units
+D,03/19/2021 00:00:00,Lawler John T.,4,F-InKind,--D,53021,273961,2,0001676526,"Common Stock, $0.01 par value"
+A,03/19/2021 00:00:00,Lawler John T.,4,M-Exempt,--D,121918,326982,1,0001676526,"Common Stock, $0.01 par value"
+D,03/19/2021 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,63389,128701,3,0001720106,Ford Stock Units
+D,03/19/2021 00:00:00,Galhotra Ashwani Kumar,4,F-InKind,--D,27638,337565,2,0001720106,"Common Stock, $0.01 par value"
+A,03/19/2021 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,63389,365203,1,0001720106,"Common Stock, $0.01 par value"
+D,03/19/2021 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,156276,161012,4,0001230846,Ford Stock Units
+D,03/19/2021 00:00:00,FORD WILLIAM CLAY JR,4,F-InKind,--D,68137,233033,2,0001230846,"Common Stock, $0.01 par value"
+A,03/19/2021 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,156276,301170,1,0001230846,"Common Stock, $0.01 par value"
+D,03/10/2021 00:00:00,Thai-Tang Hau N,4,S-Sale,--D,30000,667651,3,0001582109,"Common Stock, $0.01 par value"
+D,03/10/2021 00:00:00,Thai-Tang Hau N,4,S-Sale,--D,30000,697651,2,0001582109,"Common Stock, $0.01 par value"
+D,03/10/2021 00:00:00,Thai-Tang Hau N,4,S-Sale,--D,30000,727651,1,0001582109,"Common Stock, $0.01 par value"
+D,03/08/2021 00:00:00,Robinson Kiersten,4,M-Exempt,--D,17792,0,4,0001735222,Ford Stock Units
+D,03/08/2021 00:00:00,Robinson Kiersten,4,F-InKind,--D,13576,169691,3,0001735222,"Common Stock, $0.01 par value"
+A,03/08/2021 00:00:00,Robinson Kiersten,4,M-Exempt,--D,13343,183267,2,0001735222,"Common Stock, $0.01 par value"
+A,03/08/2021 00:00:00,Robinson Kiersten,4,M-Exempt,--D,17792,169924,1,0001735222,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,O'Callaghan Catherine A.,4,A-Award,--D,58675,58675,17,0001741624,Ford Stock Units
+A,03/04/2021 00:00:00,Thai-Tang Hau N,4/A,A-Award,--D,36663,36663,1,0001582109,Ford Stock Units
+A,03/04/2021 00:00:00,Rowley Stuart J.,4/A,A-Award,--D,15181,15181,1,0001545023,Ford Stock Units
+A,03/04/2021 00:00:00,Robinson Kiersten,4/A,A-Award,--D,21387,21387,1,0001735222,Ford Stock Units
+A,03/04/2021 00:00:00,O'Callaghan Catherine A.,4/A,A-Award,--D,7465,7465,1,0001741624,Ford Stock Units
+A,03/04/2021 00:00:00,Lawler John T.,4/A,A-Award,--D,15191,15191,1,0001676526,Ford Stock Units
+A,03/04/2021 00:00:00,Galhotra Ashwani Kumar,4/A,A-Award,--D,30553,30553,1,0001720106,Ford Stock Units
+A,03/04/2021 00:00:00,FORD WILLIAM CLAY JR,4/A,A-Award,--D,33948,33948,1,0001230846,Ford Stock Units
+A,03/04/2021 00:00:00,FARLEY JR JAMES D,4/A,A-Award,--D,57445,57445,1,0001415834,Ford Stock Units
+A,03/04/2021 00:00:00,Chen Anning,4/A,A-Award,--D,16358,16358,1,0001756633,Ford Stock Units
+A,03/04/2021 00:00:00,Thai-Tang Hau N,4,A-Award,--D,156747,156747,10,0001582109,Ford Stock Units
+D,03/04/2021 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,211864,0,9,0001582109,Ford Stock Units
+D,03/04/2021 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,79236,160876,8,0001582109,Ford Stock Units
+D,03/04/2021 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,57235,58970,7,0001582109,Ford Stock Units
+D,03/04/2021 00:00:00,Thai-Tang Hau N,4,F-InKind,--D,151875,757651,4,0001582109,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,79236,909526,3,0001582109,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,57235,830290,2,0001582109,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,211864,773055,1,0001582109,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Rowley Stuart J.,4,A-Award,--D,77451,77451,6,0001545023,Ford Stock Units
+D,03/04/2021 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,32106,33079,5,0001545023,Ford Stock Units
+D,03/04/2021 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,37288,75706,4,0001545023,Ford Stock Units
+D,03/04/2021 00:00:00,Rowley Stuart J.,4,F-InKind,--D,28562,168614,3,0001545023,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,37288,197176,2,0001545023,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,32106,159888,1,0001545023,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Robinson Kiersten,4,A-Award,--D,73763,73763,6,0001735222,Ford Stock Units
+D,03/04/2021 00:00:00,Robinson Kiersten,4,M-Exempt,--D,37288,75706,5,0001735222,Ford Stock Units
+D,03/04/2021 00:00:00,Robinson Kiersten,4,M-Exempt,--D,29966,30874,4,0001735222,Ford Stock Units
+D,03/04/2021 00:00:00,Robinson Kiersten,4,F-InKind,--D,29406,152132,3,0001735222,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Robinson Kiersten,4,M-Exempt,--D,37288,181538,2,0001735222,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Robinson Kiersten,4,M-Exempt,--D,29966,144250,1,0001735222,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,O'Callaghan Catherine A.,4,A-Award,--I,2055,2055,12,0001741624,Ford Stock Units
+A,03/04/2021 00:00:00,O'Callaghan Catherine A.,4,A-Award,--D,25817,25817,11,0001741624,Ford Stock Units
+D,03/04/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,1258,2555,10,0001741624,Ford Stock Units
+D,03/04/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,901,933,9,0001741624,Ford Stock Units
+D,03/04/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,13982,28390,8,0001741624,Ford Stock Units
+D,03/04/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,10188,10498,7,0001741624,Ford Stock Units
+D,03/04/2021 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--I,360,39342,6,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,1258,39702,5,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,901,38444,4,0001741624,"Common Stock, $0.01 par value"
+D,03/04/2021 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--D,11143,81318,3,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,13982,92461,2,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,10188,78479,1,0001741624,"Common Stock, $0.01 par value"
+D,03/04/2021 00:00:00,Mellen John F,4,M-Exempt,--D,5217,5377,4,0001819225,Ford Stock Units
+D,03/04/2021 00:00:00,Mellen John F,4,F-InKind,--D,1529,26825,2,0001819225,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Mellen John F,4,M-Exempt,--D,5217,28354,1,0001819225,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Galhotra Ashwani Kumar,4,A-Award,--D,138306,138306,4,0001720106,Ford Stock Units
+D,03/04/2021 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,35959,37050,3,0001720106,Ford Stock Units
+D,03/04/2021 00:00:00,Galhotra Ashwani Kumar,4,F-InKind,--D,11422,301814,2,0001720106,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,35959,313236,1,0001720106,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Lawler John T.,4,A-Award,--D,151215,151215,6,0001676526,Ford Stock Units
+D,03/04/2021 00:00:00,Lawler John T.,4,M-Exempt,--D,12201,12572,5,0001676526,Ford Stock Units
+D,03/04/2021 00:00:00,Lawler John T.,4,M-Exempt,--D,36355,73814,4,0001676526,Ford Stock Units
+D,03/04/2021 00:00:00,Lawler John T.,4,F-InKind,--D,13888,205064,3,0001676526,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Lawler John T.,4,M-Exempt,--D,36355,218952,2,0001676526,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Lawler John T.,4,M-Exempt,--D,12201,182597,1,0001676526,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,416764,416764,1,0001230846,Ford Stock Units
+A,03/04/2021 00:00:00,FARLEY JR JAMES D,4,A-Award,--D,479463,479463,6,0001415834,Ford Stock Units
+D,03/04/2021 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,93220,189265,5,0001415834,Ford Stock Units
+D,03/04/2021 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,57235,58970,4,0001415834,Ford Stock Units
+D,03/04/2021 00:00:00,FARLEY JR JAMES D,4,F-InKind,--D,65599,1249945,3,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,93220,1315544,2,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,57235,1222324,1,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Chen Anning,4,A-Award,--D,73025,73025,6,0001756633,Ford Stock Units
+D,03/04/2021 00:00:00,Chen Anning,4,M-Exempt,--D,28253,29111,5,0001756633,Ford Stock Units
+D,03/04/2021 00:00:00,Chen Anning,4,M-Exempt,--D,33559,68135,4,0001756633,Ford Stock Units
+D,03/04/2021 00:00:00,Chen Anning,4,F-InKind,--D,25442,102325,3,0001756633,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Chen Anning,4,M-Exempt,--D,33559,127767,2,0001756633,"Common Stock, $0.01 par value"
+A,03/04/2021 00:00:00,Chen Anning,4,M-Exempt,--D,28253,94208,1,0001756633,"Common Stock, $0.01 par value"
+D,03/02/2021 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,44593,0,6,0001582109,Ford Stock Units
+D,03/02/2021 00:00:00,Thai-Tang Hau N,4,F-InKind,--D,22319,561191,3,0001582109,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,33444,583510,2,0001582109,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,44593,550066,1,0001582109,"Common Stock, $0.01 par value"
+D,03/02/2021 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,10873,0,4,0001545023,Ford Stock Units
+D,03/02/2021 00:00:00,Rowley Stuart J.,4,F-InKind,--D,8035,127782,3,0001545023,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,8151,135817,2,0001545023,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,Rowley Stuart J.,4,M-Exempt,--D,10873,127666,1,0001545023,"Common Stock, $0.01 par value"
+D,03/02/2021 00:00:00,Robinson Kiersten,4,M-Exempt,--D,5100,0,4,0001735222,Ford Stock Units
+D,03/02/2021 00:00:00,Robinson Kiersten,4,F-InKind,--D,3367,114284,3,0001735222,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,Robinson Kiersten,4,M-Exempt,--D,2550,117651,2,0001735222,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,Robinson Kiersten,4,M-Exempt,--D,5100,115101,1,0001735222,"Common Stock, $0.01 par value"
+D,03/02/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,842,0,7,0001741624,Ford Stock Units
+D,03/02/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,2839,0,6,0001741624,Ford Stock Units
+D,03/02/2021 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--I,135,37543,5,0001741624,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,842,37678,4,0001741624,"Common Stock, $0.01 par value"
+D,03/02/2021 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--D,1963,68291,3,0001741624,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,1417,70254,2,0001741624,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,2839,68837,1,0001741624,"Common Stock, $0.01 par value"
+D,03/02/2021 00:00:00,Mellen John F,4,M-Exempt,--D,4843,0,5,0001819225,Ford Stock Units
+D,03/02/2021 00:00:00,Mellen John F,4,F-InKind,--D,2144,23137,3,0001819225,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,Mellen John F,4,M-Exempt,--D,2419,25281,2,0001819225,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,Mellen John F,4,M-Exempt,--D,4843,22862,1,0001819225,"Common Stock, $0.01 par value"
+D,03/02/2021 00:00:00,Lawler John T.,4,M-Exempt,--D,10070,0,4,0001676526,Ford Stock Units
+D,03/02/2021 00:00:00,Lawler John T.,4,F-InKind,--D,5026,170396,3,0001676526,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,Lawler John T.,4,M-Exempt,--D,7552,175422,2,0001676526,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,Lawler John T.,4,M-Exempt,--D,10070,167870,1,0001676526,"Common Stock, $0.01 par value"
+D,03/02/2021 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,26154,0,4,0001720106,Ford Stock Units
+D,03/02/2021 00:00:00,Galhotra Ashwani Kumar,4,F-InKind,--D,13077,277277,3,0001720106,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,19615,290354,2,0001720106,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,26154,270739,1,0001720106,"Common Stock, $0.01 par value"
+D,03/02/2021 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,134693,0,5,0001230846,Ford Stock Units
+D,03/02/2021 00:00:00,FORD WILLIAM CLAY JR,4,F-InKind,--D,90819,144894,3,0001230846,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,101019,235713,2,0001230846,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,134693,134694,1,0001230846,"Common Stock, $0.01 par value"
+D,03/02/2021 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,49954,0,4,0001415834,Ford Stock Units
+D,03/02/2021 00:00:00,FARLEY JR JAMES D,4,F-InKind,--D,26163,1165089,3,0001415834,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,37465,1191252,2,0001415834,"Common Stock, $0.01 par value"
+A,03/02/2021 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,49954,1153787,1,0001415834,"Common Stock, $0.01 par value"
+D,02/23/2021 00:00:00,FORD EDSEL B II,4,G-Gift,-EI,5782,710885,2,0001230844,"Common Stock, $0.01 par value"
+A,02/23/2021 00:00:00,THORNTON JOHN L,4,P-Purchase,--D,8620,254018,1,0001090353,"Common Stock, $0.01 par value"
+D,02/16/2021 00:00:00,FORD EDSEL B II,4,G-Gift,-EI,39506,716667,1,0001230844,"Common Stock, $0.01 par value"
+D,02/15/2021 00:00:00,Chen Anning,4,M-Exempt,--D,42245,42657,3,0001756633,Ford Stock Units
+D,02/15/2021 00:00:00,Chen Anning,4,F-InKind,--D,17794,65955,2,0001756633,"Common Stock, $0.01 par value"
+A,02/15/2021 00:00:00,Chen Anning,4,M-Exempt,--D,42245,83749,1,0001756633,"Common Stock, $0.01 par value"
+A,02/03/2021 00:00:00,FORD EDSEL B II,5,G-Gift,--I,423511,2788911,2,0001230844,"Class B Stock, $0.01 par value"
+D,02/03/2021 00:00:00,FORD EDSEL B II,5,G-Gift,--I,423511,513298,1,0001230844,"Class B Stock, $0.01 par value"
+A,12/31/2020 00:00:00,FORD EDSEL B II,5,G-Gift,--I,423224,2788624,5,0001230844,"Class B Stock, $0.01 par value"
+D,12/31/2020 00:00:00,FORD EDSEL B II,5,G-Gift,--I,893435,2365400,4,0001230844,"Class B Stock, $0.01 par value"
+D,12/21/2020 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,3370,177041,6,0001230846,"Class B Stock, $0.01 par value"
+A,12/18/2020 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,1666,3555821,8,0001230846,"Class B Stock, $0.01 par value"
+A,12/18/2020 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,4998,180411,5,0001230846,"Class B Stock, $0.01 par value"
+A,12/18/2020 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,1666,11018754,3,0001230846,"Class B Stock, $0.01 par value"
+A,12/04/2020 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,3211,3554155,7,0001230846,"Class B Stock, $0.01 par value"
+A,12/04/2020 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,9633,175413,4,0001230846,"Class B Stock, $0.01 par value"
+D,12/04/2020 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,20871,11017088,2,0001230846,"Class B Stock, $0.01 par value"
+A,12/04/2020 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,1605,97137,1,0001230846,"Class B Stock, $0.01 par value"
+D,12/04/2020 00:00:00,FORD EDSEL B II,5,G-Gift,--I,9633,936809,3,0001230844,"Class B Stock, $0.01 par value"
+A,11/20/2020 00:00:00,FORD WILLIAM CLAY JR,4,C-Conversion,--I,376572,11037959,2,0001230846,"Class B Stock, $0.01 par value"
+D,11/20/2020 00:00:00,FORD WILLIAM CLAY JR,4,C-Conversion,--D,376572,1,1,0001230846,"Common Stock, $0.01 par value"
+A,10/30/2020 00:00:00,WEINBERG JOHN S,4,A-Award,--D,12936,155391,1,0001029647,Ford Stock Units
+A,10/30/2020 00:00:00,Veihmeyer John B,4,A-Award,--D,15200,108107,1,0001723533,Ford Stock Units
+A,10/30/2020 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,12936,216994,1,0001209281,Ford Stock Units
+A,10/30/2020 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,9055,141988,1,0001167316,Ford Stock Units
+A,10/30/2020 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,6927,6927,1,0001541785,Ford Stock Units
+A,09/16/2020 00:00:00,FORD EDSEL B II,5,G-Gift,--I,12756,946442,2,0001230844,"Class B Stock, $0.01 par value"
+D,09/16/2020 00:00:00,FORD EDSEL B II,5,G-Gift,--I,42520,984980,1,0001230844,"Class B Stock, $0.01 par value"
+A,08/20/2020 00:00:00,HACKETT JAMES P,4,G-Gift,-EI,300000,300000,4,0001024509,"Common Stock, $0.01 par value"
+D,08/20/2020 00:00:00,HACKETT JAMES P,4,G-Gift,-ED,300000,313977,2,0001024509,"Common Stock, $0.01 par value"
+A,08/15/2020 00:00:00,Mellen John F,4,A-Award,--D,36931,36931,5,0001819225,Ford Stock Units
+D,08/15/2020 00:00:00,Mellen John F,4,M-Exempt,--D,7842,0,4,0001819225,Ford Stock Units
+D,08/15/2020 00:00:00,Mellen John F,4,F-InKind,--D,2298,18019,2,0001819225,"Common Stock, $0.01 par value"
+A,08/15/2020 00:00:00,Mellen John F,4,M-Exempt,--D,7842,20317,1,0001819225,"Common Stock, $0.01 par value"
+A,08/05/2020 00:00:00,FARLEY JR JAMES D,4,A-Award,--D,1809954,1809954,1,0001415834,Employee Stock Option (Right to Buy)
+D,07/27/2020 00:00:00,HACKETT JAMES P,4,G-Gift,-EI,49391,0,3,0001024509,"Common Stock, $0.01 par value"
+A,07/27/2020 00:00:00,HACKETT JAMES P,4,G-Gift,-ED,49391,613977,1,0001024509,"Common Stock, $0.01 par value"
+A,07/06/2020 00:00:00,HACKETT JAMES P,4,A-Award,--D,2653061,2653061,1,0001024509,Employee Stock Option (Right to Buy)
+A,07/06/2020 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,2102040,2102040,1,0001230846,Employee Stock Option (Right to Buy)
+D,06/01/2020 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,4933,5082,4,0001741624,Ford Stock Units
+D,06/01/2020 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--D,2275,65998,2,0001741624,"Common Stock, $0.01 par value"
+A,06/01/2020 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,4933,68273,1,0001741624,"Common Stock, $0.01 par value"
+D,05/22/2020 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,53604,0,5,0001024509,Ford Stock Units
+D,05/22/2020 00:00:00,HACKETT JAMES P,4,F-InKind,--D,116169,564586,3,0001024509,"Common Stock, $0.01 par value"
+A,05/22/2020 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,212837,680755,2,0001024509,"Common Stock, $0.01 par value"
+A,05/22/2020 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,53604,467918,1,0001024509,"Common Stock, $0.01 par value"
+A,05/21/2020 00:00:00,WEINBERG JOHN S,4,A-Award,--D,38188,142455,1,0001029647,Ford Stock Units
+A,05/21/2020 00:00:00,Vojvodich Lynn M,4,A-Award,--D,38188,98941,1,0001662205,Ford Stock Units
+A,05/21/2020 00:00:00,Veihmeyer John B,4,A-Award,--D,38188,92907,1,0001723533,Ford Stock Units
+A,05/21/2020 00:00:00,THORNTON JOHN L,4,A-Award,--D,38188,245398,1,0001090353,"Common Stock, $0.01 par value"
+A,05/21/2020 00:00:00,MOONEY BETH E,4,A-Award,--D,38188,50538,1,0001217178,Ford Stock Units
+A,05/21/2020 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,38188,204058,1,0001209281,Ford Stock Units
+A,05/21/2020 00:00:00,Kennard William E,4,A-Award,--D,38188,132481,1,0001198236,Ford Stock Units
+A,05/21/2020 00:00:00,Helman William W,4,A-Award,--D,38188,162029,1,0001339232,"Common Stock, $0.01 par value"
+A,05/21/2020 00:00:00,FORD EDSEL B II,4,A-Award,--D,38188,198448,1,0001230844,"Common Stock, $0.01 par value"
+A,05/21/2020 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,38188,132933,3,0001167316,Ford Stock Units
+D,05/21/2020 00:00:00,EARLEY ANTHONY F JR,4,M-Exempt,--D,15184,94745,2,0001167316,Ford Stock Units
+A,05/21/2020 00:00:00,EARLEY ANTHONY F JR,4,M-Exempt,--D,15184,66556,1,0001167316,"Common Stock, $0.01 par value"
+A,05/21/2020 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,38188,145787,1,0001273561,Ford Stock Units
+D,05/15/2020 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,365630,0,5,0001582109,Ford Stock Units
+D,05/15/2020 00:00:00,Thai-Tang Hau N,4,F-InKind,--D,159415,505473,2,0001582109,"Common Stock, $0.01 par value"
+A,05/15/2020 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,365630,664888,1,0001582109,"Common Stock, $0.01 par value"
+D,05/15/2020 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,21734,44127,7,0001415834,Ford Stock Units
+D,05/15/2020 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,8663,17591,6,0001415834,Ford Stock Units
+D,05/15/2020 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,457038,0,5,0001415834,Ford Stock Units
+D,05/15/2020 00:00:00,FARLEY JR JAMES D,4,F-InKind,--D,212524,1103833,4,0001415834,"Common Stock, $0.01 par value"
+A,05/15/2020 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,8663,1316357,3,0001415834,"Common Stock, $0.01 par value"
+A,05/15/2020 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,21734,1307694,2,0001415834,"Common Stock, $0.01 par value"
+A,05/15/2020 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,457038,1285960,1,0001415834,"Common Stock, $0.01 par value"
+A,04/30/2020 00:00:00,FARLEY JR JAMES D,4,P-Purchase,--D,194950,828922,1,0001415834,"Common Stock, $0.01 par value"
+D,04/15/2020 00:00:00,Stone Timothy R,4,M-Exempt,--D,152089,308789,3,0001739511,Ford Stock Units
+D,04/15/2020 00:00:00,Stone Timothy R,4,F-InKind,--D,69961,219093,2,0001739511,"Common Stock, $0.01 par value"
+A,04/15/2020 00:00:00,Stone Timothy R,4,M-Exempt,--D,152089,289054,1,0001739511,"Common Stock, $0.01 par value"
+D,03/19/2020 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,156275,317288,4,0001230846,Ford Stock Units
+D,03/19/2020 00:00:00,FORD WILLIAM CLAY JR,4,F-InKind,--D,68136,376573,2,0001230846,"Common Stock, $0.01 par value"
+A,03/19/2020 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,156275,444709,1,0001230846,"Common Stock, $0.01 par value"
+D,03/19/2020 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,197241,400460,4,0001024509,Ford Stock Units
+D,03/19/2020 00:00:00,HACKETT JAMES P,4,F-InKind,--D,85998,414314,2,0001024509,"Common Stock, $0.01 par value"
+A,03/19/2020 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,197241,500312,1,0001024509,"Common Stock, $0.01 par value"
+A,03/16/2020 00:00:00,LECHLEITER JOHN C,4,P-Purchase,--D,10000,120000,2,0001209281,"Common Stock, $0.01 par value"
+A,03/12/2020 00:00:00,LECHLEITER JOHN C,4,P-Purchase,--D,10000,110000,1,0001209281,"Common Stock, $0.01 par value"
+D,03/08/2020 00:00:00,Robinson Kiersten,4,M-Exempt,--D,17268,17792,3,0001735222,Ford Stock Units
+D,03/08/2020 00:00:00,Robinson Kiersten,4,F-InKind,--D,4939,110001,2,0001735222,"Common Stock, $0.01 par value"
+A,03/08/2020 00:00:00,Robinson Kiersten,4,M-Exempt,--D,17268,114940,1,0001735222,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,Thai-Tang Hau N,4,A-Award,--D,211864,211864,7,0001582109,Ford Stock Units
+A,03/04/2020 00:00:00,Thai-Tang Hau N,4,A-Award,--D,240112,240112,6,0001582109,Ford Stock Units
+D,03/04/2020 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,57234,116205,5,0001582109,Ford Stock Units
+D,03/04/2020 00:00:00,Thai-Tang Hau N,4,F-InKind,--D,21773,299230,2,0001582109,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,57234,321003,1,0001582109,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,Stone Timothy R,4,A-Award,--D,174125,174125,3,0001739511,Ford Stock Units
+D,03/04/2020 00:00:00,Stone Timothy R,4,F-InKind,--D,77441,136965,2,0001739511,No securities owned.
+A,03/04/2020 00:00:00,Stone Timothy R,4,A-Award,--D,214406,214406,1,0001739511,No securities owned.
+A,03/04/2020 00:00:00,Robinson Kiersten,4,A-Award,--D,112994,112994,4,0001735222,Ford Stock Units
+D,03/04/2020 00:00:00,Robinson Kiersten,4,M-Exempt,--D,29965,60840,3,0001735222,Ford Stock Units
+D,03/04/2020 00:00:00,Robinson Kiersten,4,F-InKind,--D,8570,97672,2,0001735222,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,Robinson Kiersten,4,M-Exempt,--D,29965,106242,1,0001735222,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,O'Callaghan Catherine A.,4,A-Award,--I,3813,3813,8,0001741624,Ford Stock Units
+D,03/04/2020 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,901,1834,7,0001741624,Ford Stock Units
+A,03/04/2020 00:00:00,O'Callaghan Catherine A.,4,A-Award,--D,42372,42372,6,0001741624,Ford Stock Units
+D,03/04/2020 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,10188,20686,5,0001741624,Ford Stock Units
+D,03/04/2020 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--I,150,36127,4,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,901,36277,3,0001741624,"Common Stock, $0.01 par value"
+D,03/04/2020 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--D,4697,62242,2,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,10188,66939,1,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,Gayton Bradley M,4,A-Award,--D,146892,146892,5,0001660138,Ford Stock Units
+D,03/04/2020 00:00:00,Gayton Bradley M,4,M-Exempt,--D,35959,73008,4,0001660138,Ford Stock Units
+D,03/04/2020 00:00:00,Gayton Bradley M,4,F-InKind,--D,10288,176383,2,0001660138,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,Gayton Bradley M,4,M-Exempt,--D,35959,186671,1,0001660138,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,FARLEY JR JAMES D,4,A-Award,--D,282485,282485,4,0001415834,Ford Stock Units
+D,03/04/2020 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,57234,116205,3,0001415834,Ford Stock Units
+D,03/04/2020 00:00:00,FARLEY JR JAMES D,4,F-InKind,--D,23557,633972,2,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2020 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,57234,657529,1,0001415834,"Common Stock, $0.01 par value"
+A,03/03/2020 00:00:00,FORD WILLIAM CLAY JR,4,C-Conversion,--I,1100616,10661387,6,0001230846,"Class B Stock, $0.01 par value"
+D,03/03/2020 00:00:00,FORD WILLIAM CLAY JR,4,C-Conversion,--D,1100616,288434,5,0001230846,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,WEINBERG JOHN S,4,A-Award,--D,2127,104267,1,0001029647,Ford Stock Units
+A,03/02/2020 00:00:00,Vojvodich Lynn M,4,A-Award,--D,1239,60753,1,0001662205,Ford Stock Units
+A,03/02/2020 00:00:00,Veihmeyer John B,4,A-Award,--D,1116,54719,1,0001723533,Ford Stock Units
+A,03/02/2020 00:00:00,THORNTON JOHN L,4,A-Award,--D,6878,330397,1,0001090353,Ford Stock Units
+D,03/02/2020 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,43280,44593,8,0001582109,Ford Stock Units
+D,03/02/2020 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,15040,0,7,0001582109,Ford Stock Units
+D,03/02/2020 00:00:00,Thai-Tang Hau N,4,F-InKind,--D,33723,263769,4,0001582109,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,59715,297492,3,0001582109,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,15040,237777,2,0001582109,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,43280,222737,1,0001582109,"Common Stock, $0.01 par value"
+D,03/02/2020 00:00:00,Robinson Kiersten,4,M-Exempt,--D,4950,5100,6,0001735222,Ford Stock Units
+D,03/02/2020 00:00:00,Robinson Kiersten,4,M-Exempt,--D,4190,0,5,0001735222,Ford Stock Units
+D,03/02/2020 00:00:00,Robinson Kiersten,4,F-InKind,--D,4308,76277,4,0001735222,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,Robinson Kiersten,4,M-Exempt,--D,5544,80585,3,0001735222,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,Robinson Kiersten,4,M-Exempt,--D,4190,75041,2,0001735222,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,Robinson Kiersten,4,M-Exempt,--D,4950,70851,1,0001735222,"Common Stock, $0.01 par value"
+D,03/02/2020 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,605,0,11,0001741624,Ford Stock Units
+D,03/02/2020 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,810,842,10,0001741624,Ford Stock Units
+D,03/02/2020 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,2753,2839,9,0001741624,Ford Stock Units
+D,03/02/2020 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,2047,0,8,0001741624,Ford Stock Units
+D,03/02/2020 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--I,212,35376,7,0001741624,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,605,35588,6,0001741624,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,810,34983,5,0001741624,"Common Stock, $0.01 par value"
+D,03/02/2020 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--D,3463,56751,4,0001741624,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,2708,60214,3,0001741624,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,2047,57506,2,0001741624,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,2753,55459,1,0001741624,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,MOONEY BETH E,4,A-Award,--D,252,12350,1,0001217178,Ford Stock Units
+A,03/02/2020 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,3385,165870,2,0001209281,Ford Stock Units
+A,03/02/2020 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,119,5760,1,0001209281,Ford Stock Units
+A,03/02/2020 00:00:00,Kennard William E,4,A-Award,--D,1924,94293,1,0001198236,Ford Stock Units
+A,03/02/2020 00:00:00,Helman William W,4,A-Award,--D,887,42641,1,0001339232,Ford Stock Units
+D,03/02/2020 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,165000,170000,7,0001024509,Ford Stock Units
+D,03/02/2020 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,22828,0,6,0001024509,Ford Stock Units
+D,03/02/2020 00:00:00,HACKETT JAMES P,4,F-InKind,--D,100580,303071,4,0001024509,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,90639,403651,3,0001024509,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,22828,313012,2,0001024509,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,165000,290184,1,0001024509,"Common Stock, $0.01 par value"
+D,03/02/2020 00:00:00,Gayton Bradley M,4,M-Exempt,--D,36808,37923,7,0001660138,Ford Stock Units
+D,03/02/2020 00:00:00,Gayton Bradley M,4,M-Exempt,--D,13428,0,6,0001660138,Ford Stock Units
+D,03/02/2020 00:00:00,Gayton Bradley M,4,F-InKind,--D,29559,150712,4,0001660138,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,Gayton Bradley M,4,M-Exempt,--D,53317,180271,3,0001660138,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,Gayton Bradley M,4,M-Exempt,--D,13428,126954,2,0001660138,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,Gayton Bradley M,4,M-Exempt,--D,36808,113526,1,0001660138,"Common Stock, $0.01 par value"
+D,03/02/2020 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,130730,134693,14,0001230846,Ford Stock Units
+D,03/02/2020 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,69155,0,13,0001230846,Ford Stock Units
+A,03/02/2020 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,79,3798,12,0001230846,Ford Stock Units
+D,03/02/2020 00:00:00,FORD WILLIAM CLAY JR,4,F-InKind,--D,186037,1389050,4,0001230846,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,274585,1575087,3,0001230846,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,69155,1300502,2,0001230846,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,130730,1231347,1,0001230846,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,FORD EDSEL B II,4,A-Award,--D,3637,174720,1,0001230844,Ford Stock Units
+D,03/02/2020 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,48485,49954,6,0001415834,Ford Stock Units
+D,03/02/2020 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,25648,0,5,0001415834,Ford Stock Units
+D,03/02/2020 00:00:00,FARLEY JR JAMES D,4,F-InKind,--D,72427,600295,4,0001415834,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,101836,672722,3,0001415834,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,25648,570886,2,0001415834,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,48485,545238,1,0001415834,"Common Stock, $0.01 par value"
+A,03/02/2020 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,2243,109929,2,0001167316,Ford Stock Units
+A,03/02/2020 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,1496,71885,1,0001167316,Ford Stock Units
+A,03/02/2020 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,2195,107599,2,0001273561,Ford Stock Units
+A,03/02/2020 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,3325,159751,1,0001273561,Ford Stock Units
+A,03/02/2020 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,3184,156054,2,0001206253,Ford Stock Units
+A,03/02/2020 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,3551,170567,1,0001206253,Ford Stock Units
+A,02/12/2020 00:00:00,LECHLEITER JOHN C,4,P-Purchase,--D,10000,100000,1,0001209281,"Common Stock, $0.01 par value"
+D,02/03/2020 00:00:00,HACKETT JAMES P,4,S-Sale,--D,20000,125184,1,0001024509,"Common Stock, $0.01 par value"
+D,01/03/2020 00:00:00,HACKETT JAMES P,4,S-Sale,--D,20000,145184,1,0001024509,"Common Stock, $0.01 par value"
+A,12/18/2019 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,1584,3550944,12,0001230846,"Class B Stock, $0.01 par value"
+A,12/18/2019 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,4752,165780,8,0001230846,"Class B Stock, $0.01 par value"
+A,12/18/2019 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,1584,9560771,5,0001230846,"Class B Stock, $0.01 par value"
+A,12/18/2019 00:00:00,FORD EDSEL B II,5,G-Gift,--I,9504,933686,4,0001230844,"Class B Stock, $0.01 par value"
+D,12/18/2019 00:00:00,FORD EDSEL B II,5,G-Gift,--I,31680,1027500,2,0001230844,"Class B Stock, $0.01 par value"
+D,12/17/2019 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,16025,161028,7,0001230846,"Class B Stock, $0.01 par value"
+D,12/17/2019 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,3205,9559187,4,0001230846,"Class B Stock, $0.01 par value"
+D,12/17/2019 00:00:00,FORD EDSEL B II,5,G-Gift,--I,3205,924182,3,0001230844,"Class B Stock, $0.01 par value"
+A,12/11/2019 00:00:00,FARLEY JR JAMES D,4,A-Award,--D,65861,65861,1,0001415834,Ford Stock Units
+D,12/03/2019 00:00:00,HACKETT JAMES P,4,S-Sale,--D,20000,165184,1,0001024509,"Common Stock, $0.01 par value"
+A,12/02/2019 00:00:00,WEINBERG JOHN S,4,A-Award,--D,1672,102139,1,0001029647,Ford Stock Units
+A,12/02/2019 00:00:00,Vojvodich Lynn M,4,A-Award,--D,974,59513,1,0001662205,Ford Stock Units
+A,12/02/2019 00:00:00,Veihmeyer John B,4,A-Award,--D,877,53603,1,0001723533,Ford Stock Units
+A,12/02/2019 00:00:00,THORNTON JOHN L,4,A-Award,--D,5263,323519,1,0001090353,Ford Stock Units
+A,12/02/2019 00:00:00,MOONEY BETH E,4,A-Award,--D,198,12098,1,0001217178,Ford Stock Units
+A,12/02/2019 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,2660,162485,2,0001209281,Ford Stock Units
+A,12/02/2019 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,91,5640,1,0001209281,Ford Stock Units
+A,12/02/2019 00:00:00,Kennard William E,4,A-Award,--D,1512,92369,1,0001198236,Ford Stock Units
+A,12/02/2019 00:00:00,Helman William W,4,A-Award,--D,679,41754,1,0001339232,Ford Stock Units
+A,12/02/2019 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,60,3719,1,0001230846,Ford Stock Units
+A,12/02/2019 00:00:00,FORD EDSEL B II,4,A-Award,--D,2783,171082,1,0001230844,Ford Stock Units
+A,12/02/2019 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,1763,107686,2,0001167316,Ford Stock Units
+A,12/02/2019 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,1145,70389,1,0001167316,Ford Stock Units
+A,12/02/2019 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1726,105403,2,0001273561,Ford Stock Units
+A,12/02/2019 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,2544,156425,1,0001273561,Ford Stock Units
+A,12/02/2019 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,2503,152869,2,0001206253,Ford Stock Units
+A,12/02/2019 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,2717,167016,1,0001206253,Ford Stock Units
+D,11/15/2019 00:00:00,Robinson Kiersten,4,M-Exempt,--D,20833,0,3,0001735222,Ford Stock Units
+D,11/15/2019 00:00:00,Robinson Kiersten,4,F-InKind,--D,5959,65901,2,0001735222,"Common Stock, $0.01 par value"
+A,11/15/2019 00:00:00,Robinson Kiersten,4,M-Exempt,--D,20833,71860,1,0001735222,"Common Stock, $0.01 par value"
+D,11/04/2019 00:00:00,HACKETT JAMES P,4,S-Sale,--D,20000,185184,1,0001024509,"Common Stock, $0.01 par value"
+A,10/25/2019 00:00:00,LECHLEITER JOHN C,4,P-Purchase,--D,300,90000,2,0001209281,"Common Stock, $0.01 par value"
+A,10/25/2019 00:00:00,LECHLEITER JOHN C,4,P-Purchase,--D,24700,89700,1,0001209281,"Common Stock, $0.01 par value"
+A,10/24/2019 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,3440,3549360,11,0001230846,"Class B Stock, $0.01 par value"
+A,10/24/2019 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,10320,177053,6,0001230846,"Class B Stock, $0.01 par value"
+D,10/24/2019 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,18920,9562392,3,0001230846,"Class B Stock, $0.01 par value"
+A,10/24/2019 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,1720,95532,1,0001230846,"Class B Stock, $0.01 par value"
+D,10/03/2019 00:00:00,HACKETT JAMES P,4,S-Sale,--D,20000,205184,1,0001024509,"Common Stock, $0.01 par value"
+D,10/01/2019 00:00:00,FARLEY JR JAMES D,4,S-Sale,--D,45000,496753,1,0001415834,"Common Stock, $0.01 par value"
+A,09/03/2019 00:00:00,WEINBERG JOHN S,4,A-Award,--D,1629,100467,1,0001029647,Ford Stock Units
+A,09/03/2019 00:00:00,Vojvodich Lynn M,4,A-Award,--D,949,58538,1,0001662205,Ford Stock Units
+A,09/03/2019 00:00:00,Veihmeyer John B,4,A-Award,--D,855,52725,1,0001723533,Ford Stock Units
+A,09/03/2019 00:00:00,THORNTON JOHN L,4,A-Award,--D,5149,318255,1,0001090353,Ford Stock Units
+A,09/03/2019 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,2591,159824,2,0001209281,Ford Stock Units
+A,09/03/2019 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,89,5548,1,0001209281,Ford Stock Units
+A,09/03/2019 00:00:00,Kennard William E,4,A-Award,--D,1473,90856,1,0001198236,Ford Stock Units
+A,09/03/2019 00:00:00,Helman William W,4,A-Award,--D,664,41074,1,0001339232,Ford Stock Units
+D,09/03/2019 00:00:00,HACKETT JAMES P,4,S-Sale,--D,20000,174575,1,0001024509,"Common Stock, $0.01 par value"
+A,09/03/2019 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,59,3659,1,0001230846,Ford Stock Units
+A,09/03/2019 00:00:00,FORD EDSEL B II,4,A-Award,--D,2723,168299,1,0001230844,Ford Stock Units
+A,09/03/2019 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,1717,105922,2,0001167316,Ford Stock Units
+A,09/03/2019 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,1120,69243,1,0001167316,Ford Stock Units
+A,09/03/2019 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1681,103677,2,0001273561,Ford Stock Units
+A,09/03/2019 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,2489,153880,1,0001273561,Ford Stock Units
+A,09/03/2019 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,2438,150366,2,0001206253,Ford Stock Units
+A,09/03/2019 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,2658,164299,1,0001206253,Ford Stock Units
+A,08/14/2019 00:00:00,MOONEY BETH E,4,A-Award,--D,11900,11900,1,0001217178,Ford Stock Units
+A,08/01/2019 00:00:00,FORD WILLIAM CLAY JR,4,P-Purchase,--D,840962,1100617,1,0001230846,"Common Stock, $0.01 par value"
+A,07/29/2019 00:00:00,LECHLEITER JOHN C,4,P-Purchase,--D,300,65000,2,0001209281,"Common Stock, $0.01 par value"
+A,07/29/2019 00:00:00,LECHLEITER JOHN C,4,P-Purchase,--D,9700,64700,1,0001209281,"Common Stock, $0.01 par value"
+D,07/26/2019 00:00:00,FARLEY JR JAMES D,4,S-Sale,--D,45000,541753,1,0001415834,"Common Stock, $0.01 par value"
+A,07/16/2019 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,64346,3545920,10,0001230846,"Class B Stock, $0.01 par value"
+D,07/15/2019 00:00:00,Robinson Kiersten,4,S-Sale,--D,15000,51027,1,0001735222,"Common Stock, $0.01 par value"
+D,07/03/2019 00:00:00,HACKETT JAMES P,4,S-Sale,--D,20000,194575,1,0001024509,"Common Stock, $0.01 par value"
+A,07/02/2019 00:00:00,FORD EDSEL B II,5,G-Gift,--I,176962,756173,1,0001230844,"Common Stock, $0.01 par value"
+D,06/28/2019 00:00:00,Robinson Kiersten,4,S-Sale,--D,15000,66027,1,0001735222,"Common Stock, $0.01 par value"
+A,06/03/2019 00:00:00,WEINBERG JOHN S,4,A-Award,--D,1053,98838,1,0001029647,Ford Stock Units
+A,06/03/2019 00:00:00,Vojvodich Lynn M,4,A-Award,--D,567,57589,1,0001662205,Ford Stock Units
+A,06/03/2019 00:00:00,Veihmeyer John B,4,A-Award,--D,331,51870,1,0001723533,Ford Stock Units
+A,06/03/2019 00:00:00,THORNTON JOHN L,4,A-Award,--D,4839,313105,1,0001090353,Ford Stock Units
+A,06/03/2019 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,1950,157232,2,0001209281,Ford Stock Units
+A,06/03/2019 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,84,5458,1,0001209281,Ford Stock Units
+A,06/03/2019 00:00:00,Kennard William E,4,A-Award,--D,1055,89383,1,0001198236,Ford Stock Units
+A,06/03/2019 00:00:00,Helman William W,4,A-Award,--D,624,40410,1,0001339232,Ford Stock Units
+D,06/03/2019 00:00:00,HACKETT JAMES P,4,S-Sale,--D,20000,214575,1,0001024509,"Common Stock, $0.01 par value"
+A,06/03/2019 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,55,3599,1,0001230846,Ford Stock Units
+A,06/03/2019 00:00:00,FORD EDSEL B II,4,A-Award,--D,2559,165576,1,0001230844,Ford Stock Units
+A,06/03/2019 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,1226,104205,2,0001167316,Ford Stock Units
+A,06/03/2019 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,1052,68123,1,0001167316,Ford Stock Units
+A,06/03/2019 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1249,101996,2,0001273561,Ford Stock Units
+A,06/03/2019 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,2339,151390,1,0001273561,Ford Stock Units
+A,06/03/2019 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,1955,147927,2,0001206253,Ford Stock Units
+A,06/03/2019 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,2498,161640,1,0001206253,Ford Stock Units
+D,06/01/2019 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,4932,10015,4,0001741624,Ford Stock Units
+D,06/01/2019 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--D,2274,50933,2,0001741624,"Common Stock, $0.01 par value"
+A,06/01/2019 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,4932,53207,1,0001741624,"Common Stock, $0.01 par value"
+A,05/23/2019 00:00:00,THORNTON JOHN L,4,P-Purchase,--D,10200,197290,1,0001090353,"Common Stock, $0.01 par value"
+D,05/22/2019 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,52027,53604,4,0001024509,Ford Stock Units
+D,05/22/2019 00:00:00,HACKETT JAMES P,4,F-InKind,--D,22684,234575,2,0001024509,"Common Stock, $0.01 par value"
+A,05/22/2019 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,52027,257259,1,0001024509,"Common Stock, $0.01 par value"
+A,05/16/2019 00:00:00,WEINBERG JOHN S,4,A-Award,--D,30288,97784,1,0001029647,Ford Stock Units
+A,05/16/2019 00:00:00,Vojvodich Lynn M,4,A-Award,--D,20673,57022,1,0001662205,Ford Stock Units
+A,05/16/2019 00:00:00,Veihmeyer John B,4,A-Award,--D,30288,51538,1,0001723533,Ford Stock Units
+A,05/16/2019 00:00:00,THORNTON JOHN L,4,A-Award,--D,20673,187090,1,0001090353,"Common Stock, $0.01 par value"
+A,05/16/2019 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,30288,155281,1,0001209281,Ford Stock Units
+A,05/16/2019 00:00:00,Kennard William E,4,A-Award,--D,20673,88327,1,0001198236,Ford Stock Units
+A,05/16/2019 00:00:00,Helman William W,4,A-Award,--D,20673,117904,1,0001339232,"Common Stock, $0.01 par value"
+A,05/16/2019 00:00:00,FORD EDSEL B II,4,A-Award,--D,20673,128846,1,0001230844,"Common Stock, $0.01 par value"
+A,05/16/2019 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,24379,102978,1,0001167316,Ford Stock Units
+A,05/16/2019 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,20673,100746,1,0001273561,Ford Stock Units
+A,05/16/2019 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,20673,145971,1,0001206253,Ford Stock Units
+A,05/15/2019 00:00:00,Hinrichs Joseph R,4,A-Award,--D,84169,84169,1,0001422651,Ford Stock Units
+A,05/15/2019 00:00:00,FARLEY JR JAMES D,4,A-Award,--D,26254,26254,1,0001415834,Ford Stock Units
+D,05/15/2019 00:00:00,EARLEY ANTHONY F JR,4,M-Exempt,--D,14351,78599,2,0001167316,Ford Stock Units
+A,05/15/2019 00:00:00,EARLEY ANTHONY F JR,4,M-Exempt,--D,14351,50351,1,0001167316,"Common Stock, $0.01 par value"
+D,05/15/2019 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,87444,0,4,0001024509,Ford Stock Units
+D,05/15/2019 00:00:00,HACKETT JAMES P,4,F-InKind,--D,38126,205232,2,0001024509,"Common Stock, $0.01 par value"
+A,05/15/2019 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,87444,243358,1,0001024509,"Common Stock, $0.01 par value"
+A,05/10/2019 00:00:00,LECHLEITER JOHN C,4,P-Purchase,--D,10000,55000,1,0001209281,"Common Stock, $0.01 par value"
+D,04/29/2019 00:00:00,O'Callaghan Catherine A.,4,S-Sale,--D,53000,48275,1,0001741624,"Common Stock, $0.01 par value"
+A,03/19/2019 00:00:00,HACKETT JAMES P,4,A-Award,--D,597701,597701,1,0001024509,Ford Stock Units
+A,03/19/2019 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,473563,473563,1,0001230846,Ford Stock Units
+D,03/08/2019 00:00:00,Robinson Kiersten,4,M-Exempt,--D,17267,35060,3,0001735222,Ford Stock Units
+D,03/08/2019 00:00:00,Robinson Kiersten,4,F-InKind,--D,4939,81027,2,0001735222,"Common Stock, $0.01 par value"
+A,03/08/2019 00:00:00,Robinson Kiersten,4,M-Exempt,--D,17267,85966,1,0001735222,"Common Stock, $0.01 par value"
+D,03/04/2019 00:00:00,FARLEY JR JAMES D,4/A,F-InKind,--D,69566,586753,1,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2019 00:00:00,Thai-Tang Hau N,4,A-Award,--D,173439,173439,10,0001582109,Ford Stock Units
+D,03/04/2019 00:00:00,Thai-Tang Hau N,4,F-InKind,--D,34339,177262,4,0001582109,"Common Stock, $0.01 par value"
+A,03/04/2019 00:00:00,Shanks Robert L,4,M-Exempt,--D,136208,136208,8,0001470999,Ford Stock Units
+D,03/04/2019 00:00:00,Shanks Robert L,4,F-InKind,--D,57782,742701,4,0001470999,"Common Stock, $0.01 par value"
+A,03/04/2019 00:00:00,Robinson Kiersten,4,A-Award,--D,90805,90805,8,0001735222,Ford Stock Units
+D,03/04/2019 00:00:00,Robinson Kiersten,4,F-InKind,--D,4906,68699,4,0001735222,"Common Stock, $0.01 par value"
+A,03/04/2019 00:00:00,O'Callaghan Catherine A.,4,A-Award,--I,2553,2553,15,0001741624,Ford Stock Units
+A,03/04/2019 00:00:00,O'Callaghan Catherine A.,4,A-Award,--D,30874,30874,11,0001741624,Ford Stock Units
+D,03/04/2019 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--I,256,32576,7,0001741624,"Common Stock, $0.01 par value"
+D,03/04/2019 00:00:00,O'Callaghan Catherine A.,4,F-InKind,--D,3812,99656,4,0001741624,"Common Stock, $0.01 par value"
+A,03/04/2019 00:00:00,Klevorn Marcy S,4,A-Award,--D,154824,154824,8,0001692367,Ford Stock Units
+D,03/04/2019 00:00:00,Klevorn Marcy S,4,F-InKind,--D,23627,121907,4,0001692367,"Common Stock, $0.01 par value"
+A,03/04/2019 00:00:00,Hinrichs Joseph R,4,A-Award,--D,173439,173439,9,0001422651,Ford Stock Units
+D,03/04/2019 00:00:00,Hinrichs Joseph R,4,F-InKind,--D,59346,761076,4,0001422651,"Common Stock, $0.01 par value"
+D,03/04/2019 00:00:00,HACKETT JAMES P,4,F-InKind,--D,64536,155635,2,0001024509,"Common Stock, $0.01 par value"
+A,03/04/2019 00:00:00,Gayton Bradley M,4,A-Award,--D,108967,108967,9,0001660138,Ford Stock Units
+D,03/04/2019 00:00:00,Gayton Bradley M,4,F-InKind,--D,19536,76718,4,0001660138,"Common Stock, $0.01 par value"
+D,03/04/2019 00:00:00,FORD WILLIAM CLAY JR,4,F-InKind,--D,170472,259655,4,0001230846,"Common Stock, $0.01 par value"
+A,03/04/2019 00:00:00,FARLEY JR JAMES D,4,A-Award,--D,173439,173439,8,0001415834,Ford Stock Units
+D,03/04/2019 00:00:00,FARLEY JR JAMES D,4,F-InKind,--D,99453,556866,4,0001415834,"Common Stock, $0.01 par value"
+D,03/03/2019 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,13811,0,7,0001582109,Ford Stock Units
+A,03/03/2019 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,46307,211601,3,0001582109,"Common Stock, $0.01 par value"
+A,03/03/2019 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,13811,165294,2,0001582109,"Common Stock, $0.01 par value"
+D,03/03/2019 00:00:00,Shanks Robert L,4,M-Exempt,--D,23165,0,5,0001470999,Ford Stock Units
+A,03/03/2019 00:00:00,Shanks Robert L,4,M-Exempt,--D,77669,800483,3,0001470999,"Common Stock, $0.01 par value"
+A,03/03/2019 00:00:00,Shanks Robert L,4,M-Exempt,--D,23165,722814,2,0001470999,"Common Stock, $0.01 par value"
+D,03/03/2019 00:00:00,Robinson Kiersten,4,M-Exempt,--D,3466,0,5,0001735222,Ford Stock Units
+A,03/03/2019 00:00:00,Robinson Kiersten,4,M-Exempt,--D,3872,73605,3,0001735222,"Common Stock, $0.01 par value"
+A,03/03/2019 00:00:00,Robinson Kiersten,4,M-Exempt,--D,3466,69733,2,0001735222,"Common Stock, $0.01 par value"
+D,03/03/2019 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,565,0,14,0001741624,Ford Stock Units
+D,03/03/2019 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,1754,0,8,0001741624,Ford Stock Units
+A,03/03/2019 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,565,32832,6,0001741624,"Common Stock, $0.01 par value"
+A,03/03/2019 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,1960,103468,3,0001741624,"Common Stock, $0.01 par value"
+A,03/03/2019 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,1754,101508,2,0001741624,"Common Stock, $0.01 par value"
+D,03/03/2019 00:00:00,Klevorn Marcy S,4,M-Exempt,--D,4834,0,5,0001692367,Ford Stock Units
+A,03/03/2019 00:00:00,Klevorn Marcy S,4,M-Exempt,--D,16207,145534,3,0001692367,"Common Stock, $0.01 par value"
+A,03/03/2019 00:00:00,Klevorn Marcy S,4,M-Exempt,--D,4834,129327,2,0001692367,"Common Stock, $0.01 par value"
+D,03/03/2019 00:00:00,Hinrichs Joseph R,4,M-Exempt,--D,23981,0,6,0001422651,Ford Stock Units
+A,03/03/2019 00:00:00,Hinrichs Joseph R,4,M-Exempt,--D,80406,820422,3,0001422651,"Common Stock, $0.01 par value"
+A,03/03/2019 00:00:00,Hinrichs Joseph R,4,M-Exempt,--D,23981,740016,2,0001422651,"Common Stock, $0.01 par value"
+D,03/03/2019 00:00:00,Gayton Bradley M,4,M-Exempt,--D,4269,0,6,0001660138,Ford Stock Units
+A,03/03/2019 00:00:00,Gayton Bradley M,4,M-Exempt,--D,14313,96254,3,0001660138,"Common Stock, $0.01 par value"
+A,03/03/2019 00:00:00,Gayton Bradley M,4,M-Exempt,--D,4269,81941,2,0001660138,"Common Stock, $0.01 par value"
+D,03/03/2019 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,53361,0,6,0001230846,Ford Stock Units
+A,03/03/2019 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,178914,430127,3,0001230846,"Common Stock, $0.01 par value"
+A,03/03/2019 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,53361,251213,2,0001230846,"Common Stock, $0.01 par value"
+D,03/03/2019 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,21972,0,5,0001415834,Ford Stock Units
+A,03/03/2019 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,73670,656319,3,0001415834,"Common Stock, $0.01 par value"
+A,03/03/2019 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,21972,582649,2,0001415834,"Common Stock, $0.01 par value"
+D,03/02/2019 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,43280,87873,9,0001582109,Ford Stock Units
+D,03/02/2019 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,14597,15040,8,0001582109,Ford Stock Units
+A,03/02/2019 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,57877,151483,1,0001582109,"Common Stock, $0.01 par value"
+D,03/02/2019 00:00:00,Shanks Robert L,4,M-Exempt,--D,46834,95089,7,0001470999,Ford Stock Units
+D,03/02/2019 00:00:00,Shanks Robert L,4,M-Exempt,--D,24046,24775,6,0001470999,Ford Stock Units
+A,03/02/2019 00:00:00,Shanks Robert L,4,M-Exempt,--D,70880,699649,1,0001470999,"Common Stock, $0.01 par value"
+D,03/02/2019 00:00:00,Robinson Kiersten,4,M-Exempt,--D,4950,10050,7,0001735222,Ford Stock Units
+D,03/02/2019 00:00:00,Robinson Kiersten,4,M-Exempt,--D,4066,4190,6,0001735222,Ford Stock Units
+A,03/02/2019 00:00:00,Robinson Kiersten,4,M-Exempt,--D,9016,66267,1,0001735222,"Common Stock, $0.01 par value"
+D,03/02/2019 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,586,605,13,0001741624,Ford Stock Units
+D,03/02/2019 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,756,1542,12,0001741624,Ford Stock Units
+D,03/02/2019 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,2566,5219,10,0001741624,Ford Stock Units
+D,03/02/2019 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,1986,2047,9,0001741624,Ford Stock Units
+A,03/02/2019 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--I,1342,32267,5,0001741624,"Common Stock, $0.01 par value"
+A,03/02/2019 00:00:00,O'Callaghan Catherine A.,4,M-Exempt,--D,4552,99754,1,0001741624,"Common Stock, $0.01 par value"
+D,03/02/2019 00:00:00,Klevorn Marcy S,4,M-Exempt,--D,47088,95604,7,0001692367,Ford Stock Units
+D,03/02/2019 00:00:00,Klevorn Marcy S,4,M-Exempt,--D,14597,15040,6,0001692367,Ford Stock Units
+A,03/02/2019 00:00:00,Klevorn Marcy S,4,M-Exempt,--D,61685,124493,1,0001692367,"Common Stock, $0.01 par value"
+D,03/02/2019 00:00:00,Hinrichs Joseph R,4,M-Exempt,--D,46834,95089,8,0001422651,Ford Stock Units
+D,03/02/2019 00:00:00,Hinrichs Joseph R,4,M-Exempt,--D,24046,24775,7,0001422651,Ford Stock Units
+A,03/02/2019 00:00:00,Hinrichs Joseph R,4,M-Exempt,--D,70880,716035,1,0001422651,"Common Stock, $0.01 par value"
+D,03/02/2019 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,165000,335000,5,0001024509,Ford Stock Units
+D,03/02/2019 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,22156,22828,4,0001024509,Ford Stock Units
+A,03/02/2019 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,187156,220171,1,0001024509,"Common Stock, $0.01 par value"
+D,03/02/2019 00:00:00,Gayton Bradley M,4,M-Exempt,--D,36807,74731,8,0001660138,Ford Stock Units
+D,03/02/2019 00:00:00,Gayton Bradley M,4,M-Exempt,--D,13033,13428,7,0001660138,Ford Stock Units
+A,03/02/2019 00:00:00,Gayton Bradley M,4,M-Exempt,--D,49840,77672,1,0001660138,"Common Stock, $0.01 par value"
+D,03/02/2019 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,130730,265423,8,0001230846,Ford Stock Units
+D,03/02/2019 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,67121,69155,7,0001230846,Ford Stock Units
+A,03/02/2019 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,197851,197852,1,0001230846,"Common Stock, $0.01 par value"
+D,03/02/2019 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,48484,98439,7,0001415834,Ford Stock Units
+D,03/02/2019 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,24893,25648,6,0001415834,Ford Stock Units
+A,03/02/2019 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,73377,560677,1,0001415834,"Common Stock, $0.01 par value"
+A,03/01/2019 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,59,3544,1,0001230846,Ford Stock Units
+A,03/01/2019 00:00:00,FORD EDSEL B II,4,A-Award,--D,2732,163016,1,0001230844,Ford Stock Units
+A,03/01/2019 00:00:00,WEINBERG JOHN S,4,A-Award,--D,1132,67496,1,0001029647,Ford Stock Units
+A,03/01/2019 00:00:00,Vojvodich Lynn M,4,A-Award,--D,609,36349,1,0001662205,Ford Stock Units
+A,03/01/2019 00:00:00,Veihmeyer John B,4,A-Award,--D,356,21250,1,0001723533,Ford Stock Units
+A,03/01/2019 00:00:00,THORNTON JOHN L,4,A-Award,--D,5166,308266,1,0001090353,Ford Stock Units
+A,03/01/2019 00:00:00,MARRAM ELLEN R,4,A-Award,--D,1343,80073,2,0001234124,Ford Stock Units
+A,03/01/2019 00:00:00,MARRAM ELLEN R,4,A-Award,--D,4327,258193,1,0001234124,Ford Stock Units
+A,03/01/2019 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,2097,124993,2,0001209281,Ford Stock Units
+A,03/01/2019 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,90,5374,1,0001209281,Ford Stock Units
+A,03/01/2019 00:00:00,Kennard William E,4,A-Award,--D,1135,67654,1,0001198236,Ford Stock Units
+A,03/01/2019 00:00:00,Helman William W,4,A-Award,--D,666,39785,1,0001339232,Ford Stock Units
+A,03/01/2019 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,1559,92950,2,0001167316,Ford Stock Units
+A,03/01/2019 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,1124,67070,1,0001167316,Ford Stock Units
+A,03/01/2019 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1343,80073,2,0001273561,Ford Stock Units
+A,03/01/2019 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,2498,149050,1,0001273561,Ford Stock Units
+A,03/01/2019 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,2102,125298,2,0001206253,Ford Stock Units
+A,03/01/2019 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,2667,159142,1,0001206253,Ford Stock Units
+A,02/25/2019 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,1261363,3481574,9,0001230846,"Class B Stock, $0.01 par value"
+D,02/25/2019 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,1261363,9581312,2,0001230846,"Class B Stock, $0.01 par value"
+D,01/10/2019 00:00:00,HACKETT JAMES P,4,D-Return,--D,1140,0,1,0001024509,Ford Stock Units
+D,12/30/2018 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,3851,10842675,5,0001230846,"Class B Stock, $0.01 par value"
+A,12/20/2018 00:00:00,FORD EDSEL B II,5,G-Gift,--I,7100,331884,4,0001230844,"Common Stock, $0.01 par value"
+D,12/20/2018 00:00:00,FORD EDSEL B II,5,G-Gift,--D,28400,106835,3,0001230844,"Common Stock, $0.01 par value"
+A,12/20/2018 00:00:00,FORD EDSEL B II,5,G-Gift,--I,3550,579211,2,0001230844,"Common Stock, $0.01 par value"
+D,12/14/2018 00:00:00,HACKETT JAMES P,5,G-Gift,--D,34964,33015,2,0001024509,"Common Stock, $0.01 par value"
+A,12/03/2018 00:00:00,FORD EDSEL B II,4,A-Award,--D,2434,160284,1,0001230844,Ford Stock Units
+A,12/03/2018 00:00:00,WEINBERG JOHN S,4,A-Award,--D,1020,66364,1,0001029647,Ford Stock Units
+A,12/03/2018 00:00:00,Vojvodich Lynn M,4,A-Award,--D,549,35739,1,0001662205,Ford Stock Units
+A,12/03/2018 00:00:00,Veihmeyer John B,4,A-Award,--D,321,20894,1,0001723533,Ford Stock Units
+A,12/03/2018 00:00:00,THORNTON JOHN L,4,A-Award,--D,4604,303100,1,0001090353,Ford Stock Units
+A,12/03/2018 00:00:00,MARRAM ELLEN R,4,A-Award,--D,1211,78730,2,0001234124,Ford Stock Units
+A,12/03/2018 00:00:00,MARRAM ELLEN R,4,A-Award,--D,3856,253865,1,0001234124,Ford Stock Units
+A,12/03/2018 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,1890,122896,2,0001209281,Ford Stock Units
+A,12/03/2018 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,80,5284,1,0001209281,Ford Stock Units
+A,12/03/2018 00:00:00,Kennard William E,4,A-Award,--D,1023,66519,1,0001198236,Ford Stock Units
+A,12/03/2018 00:00:00,Helman William W,4,A-Award,--D,594,39118,1,0001339232,Ford Stock Units
+A,12/03/2018 00:00:00,HACKETT JAMES P,4,A-Award,--D,17,1140,1,0001024509,Ford Stock Units
+A,12/03/2018 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,52,3484,1,0001230846,Ford Stock Units
+A,12/03/2018 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,1001,65946,2,0001167316,Ford Stock Units
+A,12/03/2018 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,1406,91391,1,0001167316,Ford Stock Units
+A,12/03/2018 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1211,78730,2,0001273561,Ford Stock Units
+A,12/03/2018 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,2226,146552,1,0001273561,Ford Stock Units
+A,12/03/2018 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,1895,123196,2,0001206253,Ford Stock Units
+A,12/03/2018 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,2376,156474,1,0001206253,Ford Stock Units
+A,11/16/2018 00:00:00,FORD WILLIAM CLAY JR,4,C-Conversion,--I,1406744,10719374,2,0001230846,"Class B Stock, $0.01 par value"
+D,11/16/2018 00:00:00,FORD WILLIAM CLAY JR,4,C-Conversion,--D,1406744,1,1,0001230846,"Common Stock, $0.01 par value"
+D,09/24/2018 00:00:00,Armstrong Steven R.,4,S-Sale,--D,13000,94527,1,0001708323,"Common Stock, $0.01 par value"
+A,09/04/2018 00:00:00,WEINBERG JOHN S,4,A-Award,--D,1018,65343,1,0001029647,Ford Stock Units
+A,09/04/2018 00:00:00,Vojvodich Lynn M,4,A-Award,--D,548,35189,1,0001662205,Ford Stock Units
+A,09/04/2018 00:00:00,Veihmeyer John B,4,A-Award,--D,320,20572,1,0001723533,Ford Stock Units
+A,09/04/2018 00:00:00,THORNTON JOHN L,4,A-Award,--D,4649,298496,1,0001090353,Ford Stock Units
+A,09/04/2018 00:00:00,MARRAM ELLEN R,4,A-Award,--D,1208,77518,2,0001234124,Ford Stock Units
+A,09/04/2018 00:00:00,MARRAM ELLEN R,4,A-Award,--D,3894,250009,1,0001234124,Ford Stock Units
+A,09/04/2018 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,1886,121005,2,0001209281,Ford Stock Units
+A,09/04/2018 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,81,5204,1,0001209281,Ford Stock Units
+A,09/04/2018 00:00:00,Kennard William E,4,A-Award,--D,1021,65495,1,0001198236,Ford Stock Units
+A,09/04/2018 00:00:00,Helman William W,4,A-Award,--D,600,38524,1,0001339232,Ford Stock Units
+A,09/04/2018 00:00:00,HACKETT JAMES P,4,A-Award,--D,17,1123,1,0001024509,Ford Stock Units
+A,09/04/2018 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,53,3431,1,0001230846,Ford Stock Units
+A,09/04/2018 00:00:00,FORD EDSEL B II,4,A-Award,--D,2458,157850,1,0001230844,Ford Stock Units
+A,09/04/2018 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,1403,89985,2,0001167316,Ford Stock Units
+A,09/04/2018 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,1011,64944,1,0001167316,Ford Stock Units
+A,09/04/2018 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1208,77518,2,0001273561,Ford Stock Units
+A,09/04/2018 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,2248,144326,1,0001273561,Ford Stock Units
+A,09/04/2018 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,1891,121301,2,0001206253,Ford Stock Units
+A,09/04/2018 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,2400,154098,1,0001206253,Ford Stock Units
+A,08/02/2018 00:00:00,LECHLEITER JOHN C,4,P-Purchase,--D,10000,45000,1,0001209281,"Common Stock, $0.01 par value"
+D,06/25/2018 00:00:00,FORD EDSEL B II,5,G-Gift,--I,5206,927387,1,0001230844,"Class B Stock, $0.01 par value"
+A,06/25/2018 00:00:00,HACKETT JAMES P,5,G-Gift,--I,100000,100000,3,0001024509,"Common Stock, $0.01 par value"
+D,06/25/2018 00:00:00,HACKETT JAMES P,5,G-Gift,--D,100000,67979,1,0001024509,"Common Stock, $0.01 par value"
+A,06/06/2018 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,5036,166733,7,0001230846,"Class B Stock, $0.01 par value"
+A,06/06/2018 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,1259,10846526,4,0001230846,"Class B Stock, $0.01 par value"
+A,06/01/2018 00:00:00,O'Callaghan Catherine A.,4,A-Award,--D,14947,14947,1,0001741624,Ford Stock Units
+A,06/01/2018 00:00:00,WEINBERG JOHN S,4,A-Award,--D,465,64324,1,0001029647,Ford Stock Units
+A,06/01/2018 00:00:00,Vojvodich Lynn M,4,A-Award,--D,200,34640,1,0001662205,Ford Stock Units
+A,06/01/2018 00:00:00,Veihmeyer John B,4,A-Award,--D,18,20251,1,0001723533,Ford Stock Units
+A,06/01/2018 00:00:00,THORNTON JOHN L,4,A-Award,--D,3722,293846,1,0001090353,Ford Stock Units
+A,06/01/2018 00:00:00,MARRAM ELLEN R,4,A-Award,--D,727,76310,2,0001234124,Ford Stock Units
+A,06/01/2018 00:00:00,MARRAM ELLEN R,4,A-Award,--D,3118,246115,1,0001234124,Ford Stock Units
+A,06/01/2018 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,1158,119118,2,0001209281,Ford Stock Units
+A,06/01/2018 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,64,5123,1,0001209281,Ford Stock Units
+A,06/01/2018 00:00:00,Kennard William E,4,A-Award,--D,578,64474,1,0001198236,Ford Stock Units
+A,06/01/2018 00:00:00,Helman William W,4,A-Award,--D,480,37924,1,0001339232,Ford Stock Units
+A,06/01/2018 00:00:00,HACKETT JAMES P,4,A-Award,--D,14,1105,1,0001024509,Ford Stock Units
+A,06/01/2018 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,42,3378,1,0001230846,Ford Stock Units
+A,06/01/2018 00:00:00,FORD EDSEL B II,4,A-Award,--D,1968,155391,1,0001230844,Ford Stock Units
+A,06/01/2018 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,848,88581,2,0001167316,Ford Stock Units
+A,06/01/2018 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,809,63933,1,0001167316,Ford Stock Units
+A,06/01/2018 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,727,76310,2,0001273561,Ford Stock Units
+A,06/01/2018 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1799,142078,1,0001273561,Ford Stock Units
+A,06/01/2018 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,1272,119409,2,0001206253,Ford Stock Units
+A,06/01/2018 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,1921,151697,1,0001206253,Ford Stock Units
+D,05/22/2018 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,52026,105631,3,0001024509,Ford Stock Units
+D,05/22/2018 00:00:00,HACKETT JAMES P,4,F-InKind,--D,22684,167269,2,0001024509,"Common Stock, $0.01 par value"
+A,05/22/2018 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,52026,189953,1,0001024509,"Common Stock, $0.01 par value"
+A,05/17/2018 00:00:00,WEINBERG JOHN S,4,A-Award,--D,27486,63858,1,0001029647,Ford Stock Units
+A,05/17/2018 00:00:00,Vojvodich Lynn M,4,A-Award,--D,18760,34439,1,0001662205,Ford Stock Units
+A,05/17/2018 00:00:00,Veihmeyer John B,4,A-Award,--D,18760,20233,1,0001723533,Ford Stock Units
+A,05/17/2018 00:00:00,THORNTON JOHN L,4,A-Award,--D,27486,159451,1,0001090353,"Common Stock, $0.01 par value"
+A,05/17/2018 00:00:00,MARRAM ELLEN R,4,A-Award,--D,18760,75582,1,0001234124,Ford Stock Units
+A,05/17/2018 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,27486,117959,1,0001209281,Ford Stock Units
+A,05/17/2018 00:00:00,Kennard William E,4,A-Award,--D,18760,63896,1,0001198236,Ford Stock Units
+A,05/17/2018 00:00:00,Helman William W,4,A-Award,--D,18760,92277,1,0001339232,"Common Stock, $0.01 par value"
+A,05/17/2018 00:00:00,FORD EDSEL B II,4,A-Award,--D,18760,132079,1,0001230844,"Common Stock, $0.01 par value"
+A,05/17/2018 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,21487,87733,1,0001167316,Ford Stock Units
+A,05/17/2018 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,18760,75582,1,0001273561,Ford Stock Units
+A,05/17/2018 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,18760,118136,1,0001206253,Ford Stock Units
+D,05/15/2018 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,84871,87444,3,0001024509,Ford Stock Units
+D,05/15/2018 00:00:00,HACKETT JAMES P,4,F-InKind,--D,37004,137927,2,0001024509,"Common Stock, $0.01 par value"
+A,05/15/2018 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,84871,174931,1,0001024509,"Common Stock, $0.01 par value"
+A,05/11/2018 00:00:00,LECHLEITER JOHN C,4,P-Purchase,--D,600,35000,2,0001209281,"Common Stock, $0.01 par value"
+A,05/11/2018 00:00:00,LECHLEITER JOHN C,4,P-Purchase,--D,4400,34400,1,0001209281,"Common Stock, $0.01 par value"
+A,05/02/2018 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,1340,93812,8,0001230846,"Class B Stock, $0.01 par value"
+A,05/02/2018 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,10720,161697,6,0001230846,"Class B Stock, $0.01 par value"
+D,05/02/2018 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,12060,10845267,3,0001230846,"Class B Stock, $0.01 par value"
+D,03/04/2018 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,11666,0,12,0001582109,Ford Stock Units
+A,03/04/2018 00:00:00,Thai-Tang Hau N,4,A-Award,--D,63817,93606,8,0001582109,"Common Stock, $0.01 par value"
+A,03/04/2018 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,11666,29789,7,0001582109,"Common Stock, $0.01 par value"
+D,03/04/2018 00:00:00,Shanks Robert L,4,M-Exempt,--D,18559,0,6,0001470999,Ford Stock Units
+A,03/04/2018 00:00:00,Shanks Robert L,4,A-Award,--D,101528,628769,5,0001470999,"Common Stock, $0.01 par value"
+A,03/04/2018 00:00:00,Shanks Robert L,4,M-Exempt,--D,18559,527241,4,0001470999,"Common Stock, $0.01 par value"
+D,03/04/2018 00:00:00,Pittel Kimberly L,4,M-Exempt,--D,2811,0,8,0001692571,Ford Stock Units
+A,03/04/2018 00:00:00,Pittel Kimberly L,4,A-Award,--D,15374,46847,5,0001692571,"Common Stock, $0.01 par value"
+A,03/04/2018 00:00:00,Pittel Kimberly L,4,M-Exempt,--D,2811,31473,4,0001692571,"Common Stock, $0.01 par value"
+D,03/04/2018 00:00:00,OJAKLI ZIAD S,4,M-Exempt,--D,9545,0,6,0001276307,Ford Stock Units
+A,03/04/2018 00:00:00,OJAKLI ZIAD S,4,A-Award,--D,52214,260396,5,0001276307,"Common Stock, $0.01 par value"
+A,03/04/2018 00:00:00,OJAKLI ZIAD S,4,M-Exempt,--D,9545,208182,4,0001276307,"Common Stock, $0.01 par value"
+D,03/04/2018 00:00:00,Lawler John T.,4,M-Exempt,--D,3712,0,6,0001676526,Ford Stock Units
+A,03/04/2018 00:00:00,Lawler John T.,4,A-Award,--D,20305,33726,4,0001676526,"Common Stock, $0.01 par value"
+A,03/04/2018 00:00:00,Lawler John T.,4,M-Exempt,--D,3712,13421,3,0001676526,"Common Stock, $0.01 par value"
+D,03/04/2018 00:00:00,Klevorn Marcy S,4,M-Exempt,--D,2811,0,6,0001692367,Ford Stock Units
+A,03/04/2018 00:00:00,Klevorn Marcy S,4,A-Award,--D,15374,62808,5,0001692367,"Common Stock, $0.01 par value"
+A,03/04/2018 00:00:00,Klevorn Marcy S,4,M-Exempt,--D,2811,47434,4,0001692367,"Common Stock, $0.01 par value"
+D,03/04/2018 00:00:00,Hinrichs Joseph R,4,M-Exempt,--D,19620,0,7,0001422651,Ford Stock Units
+A,03/04/2018 00:00:00,Hinrichs Joseph R,4,A-Award,--D,107329,645155,5,0001422651,"Common Stock, $0.01 par value"
+A,03/04/2018 00:00:00,Hinrichs Joseph R,4,M-Exempt,--D,19620,537826,4,0001422651,"Common Stock, $0.01 par value"
+D,03/04/2018 00:00:00,Hettle Bruce W.,4,M-Exempt,--D,2811,0,6,0001660820,Ford Stock Units
+A,03/04/2018 00:00:00,Hettle Bruce W.,4,A-Award,--D,15374,122098,5,0001660820,"Common Stock, $0.01 par value"
+A,03/04/2018 00:00:00,Hettle Bruce W.,4,M-Exempt,--D,2811,106724,4,0001660820,"Common Stock, $0.01 par value"
+D,03/04/2018 00:00:00,Gayton Bradley M,4,M-Exempt,--D,2927,0,7,0001660138,Ford Stock Units
+A,03/04/2018 00:00:00,Gayton Bradley M,4,A-Award,--D,6197,25485,5,0001660138,"Common Stock, $0.01 par value"
+A,03/04/2018 00:00:00,Gayton Bradley M,4,M-Exempt,--D,2927,19288,4,0001660138,"Common Stock, $0.01 par value"
+D,03/04/2018 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,3288,0,8,0001720106,Ford Stock Units
+A,03/04/2018 00:00:00,Galhotra Ashwani Kumar,4,A-Award,--D,17984,149260,7,0001720106,"Common Stock, $0.01 par value"
+A,03/04/2018 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,3288,131276,6,0001720106,"Common Stock, $0.01 par value"
+D,03/04/2018 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,37118,0,9,0001230846,Ford Stock Units
+A,03/04/2018 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,203056,1406745,7,0001230846,"Common Stock, $0.01 par value"
+A,03/04/2018 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,37118,1203689,6,0001230846,"Common Stock, $0.01 par value"
+D,03/04/2018 00:00:00,Fleet Peter D.,4,M-Exempt,--D,1617,0,6,0001709922,Ford Stock Units
+A,03/04/2018 00:00:00,Fleet Peter D.,4,A-Award,--D,3422,15218,5,0001709922,"Common Stock, $0.01 par value"
+A,03/04/2018 00:00:00,Fleet Peter D.,4,M-Exempt,--D,1617,11796,4,0001709922,"Common Stock, $0.01 par value"
+D,03/04/2018 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,17499,0,6,0001415834,Ford Stock Units
+A,03/04/2018 00:00:00,FARLEY JR JAMES D,4,A-Award,--D,95726,487300,5,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2018 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,17499,391574,4,0001415834,"Common Stock, $0.01 par value"
+D,03/04/2018 00:00:00,Falotico Nancy Joy,4,M-Exempt,--D,2927,0,7,0001684665,Ford Stock Units
+A,03/04/2018 00:00:00,Falotico Nancy Joy,4,A-Award,--D,6197,105179,5,0001684665,"Common Stock, $0.01 par value"
+A,03/04/2018 00:00:00,Falotico Nancy Joy,4,M-Exempt,--D,2927,98982,4,0001684665,"Common Stock, $0.01 par value"
+D,03/04/2018 00:00:00,Armstrong Steven R.,4,M-Exempt,--D,3288,0,6,0001708323,Ford Stock Units
+A,03/04/2018 00:00:00,Armstrong Steven R.,4,A-Award,--D,17984,106809,5,0001708323,"Common Stock, $0.01 par value"
+A,03/04/2018 00:00:00,Armstrong Steven R.,4,M-Exempt,--D,3288,88825,4,0001708323,"Common Stock, $0.01 par value"
+D,03/03/2018 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,13405,13811,13,0001582109,Ford Stock Units
+A,03/03/2018 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,13405,18123,6,0001582109,"Common Stock, $0.01 par value"
+D,03/03/2018 00:00:00,Shanks Robert L,4,M-Exempt,--D,22483,23165,7,0001470999,Ford Stock Units
+A,03/03/2018 00:00:00,Shanks Robert L,4,M-Exempt,--D,22483,508682,3,0001470999,"Common Stock, $0.01 par value"
+D,03/03/2018 00:00:00,Pittel Kimberly L,4,M-Exempt,--D,4143,4269,7,0001692571,Ford Stock Units
+A,03/03/2018 00:00:00,Pittel Kimberly L,4,M-Exempt,--D,4143,28662,3,0001692571,"Common Stock, $0.01 par value"
+D,03/03/2018 00:00:00,OJAKLI ZIAD S,4,M-Exempt,--D,11577,11928,7,0001276307,Ford Stock Units
+A,03/03/2018 00:00:00,OJAKLI ZIAD S,4,M-Exempt,--D,11577,198637,3,0001276307,"Common Stock, $0.01 par value"
+D,03/03/2018 00:00:00,Lawler John T.,4,M-Exempt,--D,4692,4834,7,0001676526,Ford Stock Units
+A,03/03/2018 00:00:00,Lawler John T.,4,M-Exempt,--D,4692,9709,2,0001676526,"Common Stock, $0.01 par value"
+D,03/03/2018 00:00:00,Klevorn Marcy S,4,M-Exempt,--D,4692,4834,7,0001692367,Ford Stock Units
+A,03/03/2018 00:00:00,Klevorn Marcy S,4,M-Exempt,--D,4692,44623,3,0001692367,"Common Stock, $0.01 par value"
+D,03/03/2018 00:00:00,Hinrichs Joseph R,4,M-Exempt,--D,23275,23981,8,0001422651,Ford Stock Units
+A,03/03/2018 00:00:00,Hinrichs Joseph R,4,M-Exempt,--D,23275,518206,3,0001422651,"Common Stock, $0.01 par value"
+D,03/03/2018 00:00:00,Hettle Bruce W.,4,M-Exempt,--D,11577,11928,7,0001660820,Ford Stock Units
+A,03/03/2018 00:00:00,Hettle Bruce W.,4,M-Exempt,--D,11577,103913,3,0001660820,"Common Stock, $0.01 par value"
+D,03/03/2018 00:00:00,Gayton Bradley M,4,M-Exempt,--D,4143,4269,8,0001660138,Ford Stock Units
+A,03/03/2018 00:00:00,Gayton Bradley M,4,M-Exempt,--D,4143,16361,3,0001660138,"Common Stock, $0.01 par value"
+D,03/03/2018 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,4143,4269,9,0001720106,Ford Stock Units
+A,03/03/2018 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,4143,127988,5,0001720106,"Common Stock, $0.01 par value"
+D,03/03/2018 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,51791,53361,10,0001230846,Ford Stock Units
+A,03/03/2018 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,51791,1166571,5,0001230846,"Common Stock, $0.01 par value"
+D,03/03/2018 00:00:00,Fleet Peter D.,4,M-Exempt,--D,4143,4269,7,0001709922,Ford Stock Units
+A,03/03/2018 00:00:00,Fleet Peter D.,4,M-Exempt,--D,4143,10179,3,0001709922,"Common Stock, $0.01 par value"
+D,03/03/2018 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,21326,21972,7,0001415834,Ford Stock Units
+A,03/03/2018 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,21326,374075,3,0001415834,"Common Stock, $0.01 par value"
+D,03/03/2018 00:00:00,Falotico Nancy Joy,4,M-Exempt,--D,3595,3704,6,0001684665,Ford Stock Units
+A,03/03/2018 00:00:00,Falotico Nancy Joy,4,M-Exempt,--D,3595,96055,3,0001684665,"Common Stock, $0.01 par value"
+D,03/03/2018 00:00:00,Armstrong Steven R.,4,M-Exempt,--D,4752,4897,7,0001708323,Ford Stock Units
+A,03/03/2018 00:00:00,Armstrong Steven R.,4,M-Exempt,--D,4752,85537,3,0001708323,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Thai-Tang Hau N,4,A-Award,--D,131153,131153,15,0001582109,Ford Stock Units
+D,03/02/2018 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,14596,29637,14,0001582109,Ford Stock Units
+D,03/02/2018 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,33547,0,11,0001582109,Employee Stock Option (Right to Buy)
+D,03/02/2018 00:00:00,Thai-Tang Hau N,4,F-InKind,--D,31641,4718,5,0001582109,"Common Stock, $0.01 par value"
+D,03/02/2018 00:00:00,Thai-Tang Hau N,4,F-InKind,--D,10625,36359,4,0001582109,"Common Stock, $0.01 par value"
+D,03/02/2018 00:00:00,Thai-Tang Hau N,4,S-Sale,--D,15517,46984,3,0001582109,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,33547,62501,2,0001582109,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Thai-Tang Hau N,4,M-Exempt,--D,14596,28954,1,0001582109,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Shanks Robert L,4,A-Award,--D,288461,288461,10,0001470999,Ford Stock Units
+A,03/02/2018 00:00:00,Shanks Robert L,4,A-Award,--D,141923,141923,9,0001470999,Ford Stock Units
+D,03/02/2018 00:00:00,Shanks Robert L,4,M-Exempt,--D,24046,48821,8,0001470999,Ford Stock Units
+D,03/02/2018 00:00:00,Shanks Robert L,4,F-InKind,--D,58186,486199,2,0001470999,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Shanks Robert L,4,M-Exempt,--D,24046,544385,1,0001470999,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Pittel Kimberly L,4,A-Award,--D,76923,76923,10,0001692571,Ford Stock Units
+D,03/02/2018 00:00:00,Pittel Kimberly L,4,M-Exempt,--D,9123,18523,9,0001692571,Ford Stock Units
+D,03/02/2018 00:00:00,Pittel Kimberly L,4,F-InKind,--D,9149,24519,2,0001692571,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Pittel Kimberly L,4,M-Exempt,--D,9123,33668,1,0001692571,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,OJAKLI ZIAD S,4,A-Award,--D,76923,76923,9,0001276307,Ford Stock Units
+D,03/02/2018 00:00:00,OJAKLI ZIAD S,4,M-Exempt,--D,13033,26461,8,0001276307,Ford Stock Units
+D,03/02/2018 00:00:00,OJAKLI ZIAD S,4,F-InKind,--D,25973,187060,2,0001276307,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,OJAKLI ZIAD S,4,M-Exempt,--D,13033,213033,1,0001276307,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Lawler John T.,4,A-Award,--D,29615,29615,9,0001676526,Ford Stock Units
+D,03/02/2018 00:00:00,Lawler John T.,4,M-Exempt,--D,5017,10188,8,0001676526,Ford Stock Units
+D,03/02/2018 00:00:00,Lawler John T.,4,F-InKind,--D,9882,23844,5,0001676526,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Lawler John T.,4,M-Exempt,--D,5017,5017,1,0001676526,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Klevorn Marcy S,4,A-Award,--D,142692,142692,9,0001692367,Ford Stock Units
+D,03/02/2018 00:00:00,Klevorn Marcy S,4,M-Exempt,--D,14596,29637,8,0001692367,Ford Stock Units
+D,03/02/2018 00:00:00,Klevorn Marcy S,4,F-InKind,--D,10672,39931,2,0001692367,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Klevorn Marcy S,4,M-Exempt,--D,14596,50603,1,0001692367,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Hinrichs Joseph R,4,A-Award,--D,141923,141923,10,0001422651,Ford Stock Units
+D,03/02/2018 00:00:00,Hinrichs Joseph R,4,M-Exempt,--D,24046,48821,9,0001422651,Ford Stock Units
+D,03/02/2018 00:00:00,Hinrichs Joseph R,4,F-InKind,--D,61550,494931,2,0001422651,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Hinrichs Joseph R,4,M-Exempt,--D,24046,556481,1,0001422651,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Hettle Bruce W.,4,A-Award,--D,76923,76923,9,0001660820,Ford Stock Units
+D,03/02/2018 00:00:00,Hettle Bruce W.,4,M-Exempt,--D,13033,26461,8,0001660820,Ford Stock Units
+D,03/02/2018 00:00:00,Hettle Bruce W.,4,F-InKind,--D,12386,92336,2,0001660820,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Hettle Bruce W.,4,M-Exempt,--D,13033,104722,1,0001660820,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,HACKETT JAMES P,4,A-Award,--D,500000,500000,4,0001024509,Ford Stock Units
+D,03/02/2018 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,22156,44984,3,0001024509,Ford Stock Units
+D,03/02/2018 00:00:00,HACKETT JAMES P,4,F-InKind,--D,6337,90059,2,0001024509,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,HACKETT JAMES P,4,M-Exempt,--D,22156,96396,1,0001024509,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Gayton Bradley M,4,A-Award,--D,111538,111538,10,0001660138,Ford Stock Units
+D,03/02/2018 00:00:00,Gayton Bradley M,4,M-Exempt,--D,13033,26461,9,0001660138,Ford Stock Units
+D,03/02/2018 00:00:00,Gayton Bradley M,4,F-InKind,--D,7462,12218,2,0001660138,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Gayton Bradley M,4,M-Exempt,--D,13033,19680,1,0001660138,"Common Stock, $0.01 par value"
+D,03/02/2018 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,31415,0,12,0001720106,Employee Stock Option (Right to Buy)
+A,03/02/2018 00:00:00,Galhotra Ashwani Kumar,4,A-Award,--D,76923,76923,11,0001720106,Ford Stock Units
+D,03/02/2018 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,4496,9129,10,0001720106,Ford Stock Units
+D,03/02/2018 00:00:00,Galhotra Ashwani Kumar,4,F-InKind,--D,8559,123845,4,0001720106,"Common Stock, $0.01 par value"
+D,03/02/2018 00:00:00,Galhotra Ashwani Kumar,4,S-Sale,--D,31415,132404,3,0001720106,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,31415,163819,2,0001720106,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Galhotra Ashwani Kumar,4,M-Exempt,--D,4496,132404,1,0001720106,"Common Stock, $0.01 par value"
+D,03/02/2018 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,1474367,0,13,0001230846,Employee Stock Option (Right to Buy)
+A,03/02/2018 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,396153,396153,12,0001230846,Ford Stock Units
+D,03/02/2018 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,67120,136276,11,0001230846,Ford Stock Units
+D,03/02/2018 00:00:00,FORD WILLIAM CLAY JR,4,S-Sale,--D,454260,1114780,4,0001230846,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,1474367,1569040,3,0001230846,"Common Stock, $0.01 par value"
+D,03/02/2018 00:00:00,FORD WILLIAM CLAY JR,4,F-InKind,--D,156563,94673,2,0001230846,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,FORD WILLIAM CLAY JR,4,M-Exempt,--D,67120,251236,1,0001230846,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Fleet Peter D.,4,A-Award,--D,86153,86153,9,0001709922,Ford Stock Units
+D,03/02/2018 00:00:00,Fleet Peter D.,4,M-Exempt,--D,5082,10320,8,0001709922,Ford Stock Units
+D,03/02/2018 00:00:00,Fleet Peter D.,4,F-InKind,--D,6604,6036,2,0001709922,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Fleet Peter D.,4,M-Exempt,--D,5082,12640,1,0001709922,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,FARLEY JR JAMES D,4,A-Award,--D,146923,146923,9,0001415834,Ford Stock Units
+D,03/02/2018 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,24893,50541,8,0001415834,Ford Stock Units
+D,03/02/2018 00:00:00,FARLEY JR JAMES D,4,F-InKind,--D,75555,352749,2,0001415834,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,24893,428304,1,0001415834,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Falotico Nancy Joy,4,A-Award,--D,86153,86153,9,0001684665,Ford Stock Units
+D,03/02/2018 00:00:00,Falotico Nancy Joy,4,M-Exempt,--D,13033,26461,8,0001684665,Ford Stock Units
+D,03/02/2018 00:00:00,Falotico Nancy Joy,4,F-InKind,--D,7519,92460,2,0001684665,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Falotico Nancy Joy,4,M-Exempt,--D,13033,99979,1,0001684665,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Armstrong Steven R.,4,A-Award,--D,76923,76923,9,0001708323,Ford Stock Units
+D,03/02/2018 00:00:00,Armstrong Steven R.,4,M-Exempt,--D,5082,10320,8,0001708323,Ford Stock Units
+D,03/02/2018 00:00:00,Armstrong Steven R.,4,F-InKind,--D,14769,80785,2,0001708323,"Common Stock, $0.01 par value"
+A,03/02/2018 00:00:00,Armstrong Steven R.,4,M-Exempt,--D,5082,95554,1,0001708323,"Common Stock, $0.01 par value"
+A,03/01/2018 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,87,3335,1,0001230846,Ford Stock Units
+A,03/01/2018 00:00:00,FORD EDSEL B II,4,A-Award,--D,4005,153422,1,0001230844,Ford Stock Units
+A,03/01/2018 00:00:00,WEINBERG JOHN S,4,A-Award,--D,963,36372,1,0001029647,Ford Stock Units
+A,03/01/2018 00:00:00,Vojvodich Lynn M,4,A-Award,--D,415,15679,1,0001662205,Ford Stock Units
+A,03/01/2018 00:00:00,Veihmeyer John B,4,A-Award,--D,39,1473,1,0001723533,Ford Stock Units
+A,03/01/2018 00:00:00,THORNTON JOHN L,4,A-Award,--D,7574,290123,1,0001090353,Ford Stock Units
+A,03/01/2018 00:00:00,MARRAM ELLEN R,4,A-Award,--D,1505,56822,2,0001234124,Ford Stock Units
+A,03/01/2018 00:00:00,MARRAM ELLEN R,4,A-Award,--D,6343,242997,1,0001234124,Ford Stock Units
+A,03/01/2018 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,2396,90473,2,0001209281,Ford Stock Units
+A,03/01/2018 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,132,5058,1,0001209281,Ford Stock Units
+A,03/01/2018 00:00:00,Kennard William E,4,A-Award,--D,1195,45136,1,0001198236,Ford Stock Units
+A,03/01/2018 00:00:00,Helman William W,4,A-Award,--D,977,37443,1,0001339232,Ford Stock Units
+A,03/01/2018 00:00:00,HACKETT JAMES P,4,A-Award,--D,28,1091,1,0001024509,Ford Stock Units
+A,03/01/2018 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,1754,66246,2,0001167316,Ford Stock Units
+A,03/01/2018 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,1647,63123,1,0001167316,Ford Stock Units
+A,03/01/2018 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1505,56822,2,0001273561,Ford Stock Units
+A,03/01/2018 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,3662,140278,1,0001273561,Ford Stock Units
+A,03/01/2018 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,2632,99376,2,0001206253,Ford Stock Units
+A,03/01/2018 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,3910,149775,1,0001206253,Ford Stock Units
+A,02/09/2018 00:00:00,Gayton Bradley M,4/A,I-Discretionary,--D,1857,11254,1,0001660138,BEP Ford Stock Fund Units
+A,02/09/2018 00:00:00,LECHLEITER JOHN C,4,P-Purchase,--D,5000,30000,1,0001209281,"Common Stock, $0.01 par value"
+D,02/09/2018 00:00:00,Gayton Bradley M,4,I-Discretionary,--D,1857,7539,3,0001660138,BEP Ford Stock Fund Units
+A,02/09/2018 00:00:00,Gayton Bradley M,4,I-Discretionary,--I,4271,55622,1,0001660138,"Common Stock, $0.01 par value"
+A,02/08/2018 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,137953,10857327,2,0001230846,"Class B Stock, $0.01 par value"
+D,02/08/2018 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,137953,230570,1,0001230846,"Class B Stock, $0.01 par value"
+D,01/10/2018 00:00:00,HACKETT JAMES P,4,D-Return,--D,1181,1063,1,0001024509,Ford Stock Units
+D,01/04/2018 00:00:00,Thai-Tang Hau N,4,S-Sale,--D,18000,14358,1,0001582109,"Common Stock, $0.01 par value"
+A,12/31/2017 00:00:00,Veihmeyer John B,4,A-Award,--D,1434,1434,1,0001723533,Ford Stock Units
+D,12/22/2017 00:00:00,FORD EDSEL B II,5,G-Gift,--I,4440,932593,2,0001230844,"Class B Stock, $0.01 par value"
+A,12/22/2017 00:00:00,FORD EDSEL B II,4,C-Conversion,--I,1059100,1059180,6,0001230844,"Class B Stock, $0.01 par value"
+D,12/22/2017 00:00:00,FORD EDSEL B II,4,C-Conversion,--D,1059100,111814,5,0001230844,"Common Stock, $0.01 par value"
+D,12/19/2017 00:00:00,Thai-Tang Hau N,4,G-Gift,-EI,1580,102905,2,0001582109,"Common Stock, $0.01 par value"
+D,12/06/2017 00:00:00,Armstrong Steven R.,4,M-Exempt,--D,10752,0,3,0001708323,Employee Stock Option (Right to Buy)
+D,12/06/2017 00:00:00,Armstrong Steven R.,4,S-Sale,--D,10752,90407,2,0001708323,"Common Stock, $0.01 par value"
+A,12/06/2017 00:00:00,Armstrong Steven R.,4,M-Exempt,--D,10752,101159,1,0001708323,"Common Stock, $0.01 par value"
+A,12/01/2017 00:00:00,WEINBERG JOHN S,4,A-Award,--D,417,35408,1,0001029647,Ford Stock Units
+A,12/01/2017 00:00:00,Vojvodich Lynn M,4,A-Award,--D,179,15264,1,0001662205,Ford Stock Units
+A,12/01/2017 00:00:00,THORNTON JOHN L,4,A-Award,--D,3343,282549,1,0001090353,Ford Stock Units
+A,12/01/2017 00:00:00,MARRAM ELLEN R,4,A-Award,--D,651,55317,2,0001234124,Ford Stock Units
+A,12/01/2017 00:00:00,MARRAM ELLEN R,4,A-Award,--D,2800,236653,1,0001234124,Ford Stock Units
+A,12/01/2017 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,1037,88077,2,0001209281,Ford Stock Units
+A,12/01/2017 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,58,4926,1,0001209281,Ford Stock Units
+A,12/01/2017 00:00:00,Kennard William E,4,A-Award,--D,517,43940,1,0001198236,Ford Stock Units
+A,12/01/2017 00:00:00,Helman William W,4,A-Award,--D,431,36466,1,0001339232,Ford Stock Units
+A,12/01/2017 00:00:00,HACKETT JAMES P,4,A-Award,--D,26,2244,1,0001024509,Ford Stock Units
+A,12/01/2017 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,38,3248,1,0001230846,Ford Stock Units
+A,12/01/2017 00:00:00,FORD EDSEL B II,4,A-Award,--D,1768,149417,1,0001230844,Ford Stock Units
+A,12/01/2017 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,759,64491,2,0001167316,Ford Stock Units
+A,12/01/2017 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,727,61475,1,0001167316,Ford Stock Units
+A,12/01/2017 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,651,55317,2,0001273561,Ford Stock Units
+A,12/01/2017 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1616,136616,1,0001273561,Ford Stock Units
+A,12/01/2017 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,1139,96744,2,0001206253,Ford Stock Units
+A,12/01/2017 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,1726,145865,1,0001206253,Ford Stock Units
+D,11/29/2017 00:00:00,Thai-Tang Hau N,4,S-Sale,--D,19000,32358,1,0001582109,"Common Stock, $0.01 par value"
+A,10/04/2017 00:00:00,Gayton Bradley M,4,I-Discretionary,--D,2004,9285,3,0001660138,BEP Ford Stock Fund Units
+A,10/04/2017 00:00:00,Gayton Bradley M,4,I-Discretionary,--I,7825,50643,1,0001660138,"Common Stock, $0.01 par value"
+A,10/04/2017 00:00:00,FORD WILLIAM CLAY JR,4,C-Conversion,--I,55798,2109949,4,0001230846,"Class B Stock, $0.01 par value"
+A,10/04/2017 00:00:00,FORD WILLIAM CLAY JR,4,C-Conversion,--I,44202,9002599,3,0001230846,"Class B Stock, $0.01 par value"
+D,10/04/2017 00:00:00,FORD WILLIAM CLAY JR,4,C-Conversion,--I,55798,0,2,0001230846,"Common Stock, $0.01 par value"
+D,10/04/2017 00:00:00,FORD WILLIAM CLAY JR,4,C-Conversion,--D,44202,184116,1,0001230846,"Common Stock, $0.01 par value"
+D,10/04/2017 00:00:00,Armstrong Steven R.,4,S-Sale,--D,22076,90407,1,0001708323,"Common Stock, $0.01 par value"
+D,09/28/2017 00:00:00,Hettle Bruce W.,4,M-Exempt,--D,30000,7251,2,0001660820,Employee Stock Option (Right to Buy)
+A,09/28/2017 00:00:00,Hettle Bruce W.,4,M-Exempt,--D,30000,91011,1,0001660820,"Common Stock, $0.01 par value"
+D,09/25/2017 00:00:00,Thai-Tang Hau N,4,S-Sale,--D,25000,51358,1,0001582109,"Common Stock, $0.01 par value"
+D,09/11/2017 00:00:00,OJAKLI ZIAD S,4,S-Sale,--D,92815,200000,1,0001276307,"Common Stock, $0.01 par value"
+D,09/11/2017 00:00:00,FARLEY JR JAMES D,4,S-Sale,--D,25000,403411,1,0001415834,"Common Stock, $0.01 par value"
+D,09/06/2017 00:00:00,Thai-Tang Hau N,4,S-Sale,--D,25000,76358,1,0001582109,"Common Stock, $0.01 par value"
+D,09/05/2017 00:00:00,Hinrichs Joseph R,4,S-Sale,--D,40000,532435,1,0001422651,"Common Stock, $0.01 par value"
+A,09/01/2017 00:00:00,WEINBERG JOHN S,4,A-Award,--D,456,34991,1,0001029647,Ford Stock Units
+A,09/01/2017 00:00:00,Vojvodich Lynn M,4,A-Award,--D,196,15084,1,0001662205,Ford Stock Units
+A,09/01/2017 00:00:00,THORNTON JOHN L,4,A-Award,--D,3660,279205,1,0001090353,Ford Stock Units
+A,09/01/2017 00:00:00,MARRAM ELLEN R,4,A-Award,--D,713,54665,2,0001234124,Ford Stock Units
+A,09/01/2017 00:00:00,MARRAM ELLEN R,4,A-Award,--D,3066,233852,1,0001234124,Ford Stock Units
+A,09/01/2017 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,1135,87039,2,0001209281,Ford Stock Units
+A,09/01/2017 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,63,4867,1,0001209281,Ford Stock Units
+A,09/01/2017 00:00:00,Kennard William E,4,A-Award,--D,566,43422,1,0001198236,Ford Stock Units
+A,09/01/2017 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,713,54665,2,0001541785,Ford Stock Units
+A,09/01/2017 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,376,28717,1,0001541785,Ford Stock Units
+A,09/01/2017 00:00:00,Helman William W,4,A-Award,--D,472,36034,1,0001339232,Ford Stock Units
+A,09/01/2017 00:00:00,HACKETT JAMES P,4,A-Award,--D,29,2217,1,0001024509,Ford Stock Units
+A,09/01/2017 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,42,3210,1,0001230846,Ford Stock Units
+A,09/01/2017 00:00:00,FORD EDSEL B II,4,A-Award,--D,1935,147648,1,0001230844,Ford Stock Units
+A,09/01/2017 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,831,63731,2,0001167316,Ford Stock Units
+A,09/01/2017 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,796,60747,1,0001167316,Ford Stock Units
+A,09/01/2017 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,713,54665,2,0001273561,Ford Stock Units
+A,09/01/2017 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1770,134999,1,0001273561,Ford Stock Units
+A,09/01/2017 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,1247,95604,2,0001206253,Ford Stock Units
+A,09/01/2017 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,1889,144139,1,0001206253,Ford Stock Units
+A,08/15/2017 00:00:00,Hinrichs Joseph R,4,A-Award,--D,461254,461254,1,0001422651,Ford Stock Units
+D,08/03/2017 00:00:00,Lawler John T.,4,S-Sale,--D,10,0,2,0001676526,"Common Stock, $0.01 par value"
+D,08/02/2017 00:00:00,Lawler John T.,4,S-Sale,--D,80614,10,1,0001676526,"Common Stock, $0.01 par value"
+D,06/12/2017 00:00:00,FARLEY JR JAMES D,4,S-Sale,--D,25000,428411,1,0001415834,"Common Stock, $0.01 par value"
+A,06/01/2017 00:00:00,WEINBERG JOHN S,4,A-Award,--D,69,34535,1,0001029647,Ford Stock Units
+A,06/01/2017 00:00:00,THORNTON JOHN L,4,A-Award,--D,3603,275544,1,0001090353,Ford Stock Units
+A,06/01/2017 00:00:00,MARRAM ELLEN R,4,A-Award,--D,441,53952,2,0001234124,Ford Stock Units
+A,06/01/2017 00:00:00,MARRAM ELLEN R,4,A-Award,--D,3018,230786,1,0001234124,Ford Stock Units
+A,06/01/2017 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,735,85904,2,0001209281,Ford Stock Units
+A,06/01/2017 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,62,4803,1,0001209281,Ford Stock Units
+A,06/01/2017 00:00:00,Kennard William E,4,A-Award,--D,297,42856,1,0001198236,Ford Stock Units
+A,06/01/2017 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,441,53952,2,0001541785,Ford Stock Units
+A,06/01/2017 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,370,28341,1,0001541785,Ford Stock Units
+A,06/01/2017 00:00:00,Helman William W,4,A-Award,--D,465,35562,1,0001339232,Ford Stock Units
+A,06/01/2017 00:00:00,HACKETT JAMES P,4,A-Award,--D,28,2188,1,0001024509,Ford Stock Units
+A,06/01/2017 00:00:00,FORD WILLIAM CLAY JR,4,A-Award,--D,41,3168,1,0001230846,Ford Stock Units
+A,06/01/2017 00:00:00,FORD EDSEL B II,4,A-Award,--D,1905,145712,1,0001230844,Ford Stock Units
+A,06/01/2017 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,520,62900,2,0001167316,Ford Stock Units
+A,06/01/2017 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,784,59951,1,0001167316,Ford Stock Units
+A,06/01/2017 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,441,53952,2,0001273561,Ford Stock Units
+A,06/01/2017 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,1742,133229,1,0001273561,Ford Stock Units
+A,06/01/2017 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,809,94357,2,0001206253,Ford Stock Units
+A,06/01/2017 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,1860,142249,1,0001206253,Ford Stock Units
+A,05/24/2017 00:00:00,Klevorn Marcy S,4,A-Award,--D,182481,182481,1,0001692367,Ford Stock Units
+A,05/23/2017 00:00:00,Gayton Bradley M,4,I-Discretionary,--D,7186,7186,3,0001660138,BEP Ford Stock Fund Units
+A,05/23/2017 00:00:00,Gayton Bradley M,4,I-Discretionary,--I,18099,41980,1,0001660138,"Common Stock, $0.01 par value"
+A,05/22/2017 00:00:00,HACKETT JAMES P,4,A-Award,--D,157657,157657,1,0001024509,Ford Stock Units
+A,05/18/2017 00:00:00,WEINBERG JOHN S,4,A-Award,--D,29193,34465,1,0001029647,Ford Stock Units
+A,05/18/2017 00:00:00,Vojvodich Lynn M,4,A-Award,--D,14888,14888,1,0001662205,Ford Stock Units
+A,05/18/2017 00:00:00,THORNTON JOHN L,4,A-Award,--D,29193,126250,1,0001090353,"Common Stock, $0.01 par value"
+A,05/18/2017 00:00:00,MARRAM ELLEN R,4,A-Award,--D,19925,53510,1,0001234124,Ford Stock Units
+A,05/18/2017 00:00:00,LECHLEITER JOHN C,4,A-Award,--D,29193,85168,1,0001209281,Ford Stock Units
+A,05/18/2017 00:00:00,Kennard William E,4,A-Award,--D,19925,42558,1,0001198236,Ford Stock Units
+A,05/18/2017 00:00:00,Huntsman Jon M Jr,4,A-Award,--D,19925,53510,1,0001541785,Ford Stock Units
+A,05/18/2017 00:00:00,Helman William W,4,A-Award,--D,19925,72147,1,0001339232,"Common Stock, $0.01 par value"
+A,05/18/2017 00:00:00,FORD EDSEL B II,4,A-Award,--D,19925,895225,1,0001230844,"Common Stock, $0.01 par value"
+A,05/18/2017 00:00:00,EARLEY ANTHONY F JR,4,A-Award,--D,22822,62380,1,0001167316,Ford Stock Units
+A,05/18/2017 00:00:00,CASIANO KIMBERLY A,4,A-Award,--D,19925,53510,1,0001273561,Ford Stock Units
+A,05/18/2017 00:00:00,BUTLER STEPHEN G,4,A-Award,--D,31974,93547,1,0001206253,Ford Stock Units
+A,05/15/2017 00:00:00,Thai-Tang Hau N,4,A-Award,--D,365630,365630,1,0001582109,Ford Stock Units
+A,05/15/2017 00:00:00,Nair Sankar S.,4,A-Award,--D,457038,457038,1,0001545028,Ford Stock Units
+A,05/15/2017 00:00:00,Klevorn Marcy S,4,A-Award,--D,182815,182815,1,0001692367,Ford Stock Units
+A,05/15/2017 00:00:00,FARLEY JR JAMES D,4,A-Award,--D,457038,457038,1,0001415834,Ford Stock Units
+A,05/10/2017 00:00:00,FORD EDSEL B II,4,G-Gift,-ED,289296,1170914,4,0001230844,"Common Stock, $0.01 par value"
+D,05/10/2017 00:00:00,FORD EDSEL B II,4,G-Gift,-EI,289296,0,3,0001230844,"Common Stock, $0.01 par value"
+D,05/05/2017 00:00:00,Hinrichs Joseph R,4,S-Sale,--D,50000,572435,1,0001422651,"Common Stock, $0.01 par value"
+A,03/24/2017 00:00:00,FORD WILLIAM CLAY JR,4,P-Purchase,--I,171379,8958397,1,0001230846,"Class B Stock, $0.01 par value"
+D,03/16/2017 00:00:00,OJAKLI ZIAD S,4,S-Sale,--D,50309,292815,1,0001276307,"Common Stock, $0.01 par value"
+D,03/16/2017 00:00:00,Fowler Bennie W.,4,M-Exempt,--D,45000,173156,3,0001431583,Employee Stock Option (Right to Buy)
+A,03/16/2017 00:00:00,Fowler Bennie W.,4,M-Exempt,--D,45000,552946,1,0001431583,"Common Stock, $0.01 par value"
+D,03/09/2017 00:00:00,Fowler Bennie W.,4,M-Exempt,--D,51022,218156,3,0001431583,Employee Stock Option (Right to Buy)
+A,03/09/2017 00:00:00,Fowler Bennie W.,4,M-Exempt,--D,51022,507946,1,0001431583,"Common Stock, $0.01 par value"
+A,03/06/2017 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,4460,2123333,6,0001230846,"Class B Stock, $0.01 par value"
+A,03/06/2017 00:00:00,FORD WILLIAM CLAY JR,5,G-Gift,--I,1115,9312630,4,0001230846,"Class B Stock, $0.01 par value"
+D,03/04/2017 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,128773,0,5,0001415834,Ford Stock Units
+D,03/04/2017 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,16984,17499,4,0001415834,Ford Stock Units
+D,03/04/2017 00:00:00,FARLEY JR JAMES D,4,F-InKind,--D,63536,453411,3,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2017 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,16984,516947,2,0001415834,"Common Stock, $0.01 par value"
+A,03/04/2017 00:00:00,FARLEY JR JAMES D,4,M-Exempt,--D,128773,499963,1,0001415834,"Common Stock, $0.01 par value"
+D,03/04/2017 00:00:00,Lawler John T.,4,M-Exempt,--D,3603,3712,5,0001676526,Ford Stock Units
+D,03/04/2017 00:00:00,Lawler John T.,4,M-Exempt,--D,30638,0,4,0001676526,Ford Stock Units
+D,03/04/2017 00:00:00,Lawler John T.,4,F-InKind,--D,15995,80614,3,0001676526,"Common Stock, $0.01 par value"
+A,03/04/2017 00:00:00,Lawler John T.,4,M-Exempt,--D,3603,96609,2,0001676526,"Common Stock, $0.01 par value"
+A,03/04/2017 00:00:00,Lawler John T.,4,M-Exempt,--D,30638,93006,1,0001676526,"Common Stock, $0.01 par value"
+D,03/04/2017 00:00:00,Odell Stephen T,4,M-Exempt,--D,128773,0,5,0001496766,Ford Stock Units
+D,03/04/2017 00:00:00,Odell Stephen T,4,M-Exempt,--D,15440,15908,4,0001496766,Ford Stock Units

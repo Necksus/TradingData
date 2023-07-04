@@ -1,0 +1,881 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,06/12/2023 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,258,368,1,0001193202,Dividend equivalent units
+A,06/12/2023 00:00:00,Curran Christopher G,4,A-Award,--D,599,3125,1,0001768476,Dividend equivalent units
+A,06/12/2023 00:00:00,CASALE MARK,4,A-Award,--D,3394,17609,1,0001188567,Dividend equivalent units
+A,06/12/2023 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,495,2711,1,0001590264,Dividend equivalent units
+A,06/12/2023 00:00:00,Bhasin Vijay,4,A-Award,--D,446,2443,1,0001590262,Dividend equivalent units
+A,06/12/2023 00:00:00,Dutt Aditya,4,A-Award,--D,16,16,1,0001492890,Dividend equivalent units
+A,06/12/2023 00:00:00,Levine Allan,4,A-Award,--D,16,16,1,0001590379,Dividend equivalent units
+A,06/12/2023 00:00:00,Heise Angela L,4,A-Award,--D,16,16,1,0001682427,Dividend equivalent units
+A,06/12/2023 00:00:00,Karna Anu,4,A-Award,--D,16,16,1,0001942191,Dividend equivalent units
+A,06/12/2023 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,16,16,1,0001221213,Dividend equivalent units
+A,06/12/2023 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,16,16,1,0001220633,Dividend equivalent units
+A,06/12/2023 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,16,16,1,0001188563,Dividend equivalent units
+A,06/12/2023 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,16,16,1,0001196466,Dividend equivalent units
+A,05/18/2023 00:00:00,PAULS DOUGLAS J,5,G-Gift,--I,2445,29075,2,0001221213,"Common shares, par value $0.015"
+D,05/18/2023 00:00:00,PAULS DOUGLAS J,5,G-Gift,--D,2445,6,1,0001221213,"Common shares, par value $0.015"
+D,05/03/2023 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,69,0,6,0001188563,Dividend equivalent units
+D,05/03/2023 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,2969,2993,5,0001188563,Restricted share units
+A,05/03/2023 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,2993,5962,4,0001188563,Restricted share units
+A,05/03/2023 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,69,3056,2,0001188563,"Common shares, par value $0.015"
+A,05/03/2023 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,2969,2987,1,0001188563,"Common shares, par value $0.015"
+D,05/03/2023 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,69,0,6,0001221213,Dividend equivalent units
+D,05/03/2023 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,2969,2993,5,0001221213,Restricted share units
+A,05/03/2023 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,2993,5962,4,0001221213,Restricted share units
+A,05/03/2023 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,69,3044,2,0001221213,"Common shares, par value $0.015"
+A,05/03/2023 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,2969,2975,1,0001221213,"Common shares, par value $0.015"
+D,05/03/2023 00:00:00,Karna Anu,4,M-Exempt,--D,40,0,5,0001942191,Dividend equivalent units
+D,05/03/2023 00:00:00,Karna Anu,4,M-Exempt,--D,2220,2993,4,0001942191,Restricted share units
+A,05/03/2023 00:00:00,Karna Anu,4,A-Award,--D,2993,5213,3,0001942191,Restricted share units
+A,05/03/2023 00:00:00,Karna Anu,4,M-Exempt,--D,40,2260,2,0001942191,"Common shares, par value $0.015"
+A,05/03/2023 00:00:00,Karna Anu,4,M-Exempt,--D,2220,2220,1,0001942191,"Common shares, par value $0.015"
+D,05/03/2023 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,69,0,5,0001220633,Dividend equivalent units
+D,05/03/2023 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,2969,2993,4,0001220633,Restricted share units
+A,05/03/2023 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,2993,5962,3,0001220633,Restricted share units
+A,05/03/2023 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,69,50961,2,0001220633,"Common shares, par value $0.015"
+A,05/03/2023 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,2969,50892,1,0001220633,"Common shares, par value $0.015"
+D,05/03/2023 00:00:00,Dutt Aditya,4,M-Exempt,--D,69,0,5,0001492890,Dividend equivalent units
+D,05/03/2023 00:00:00,Dutt Aditya,4,M-Exempt,--D,2969,2993,4,0001492890,Restricted share units
+A,05/03/2023 00:00:00,Dutt Aditya,4,A-Award,--D,2993,5962,3,0001492890,Restricted share units
+A,05/03/2023 00:00:00,Dutt Aditya,4,M-Exempt,--D,69,26061,2,0001492890,"Common shares, par value $0.015"
+A,05/03/2023 00:00:00,Dutt Aditya,4,M-Exempt,--D,2969,25992,1,0001492890,"Common shares, par value $0.015"
+D,05/03/2023 00:00:00,Levine Allan,4,M-Exempt,--D,69,0,5,0001590379,Dividend equivalent units
+D,05/03/2023 00:00:00,Levine Allan,4,M-Exempt,--D,2969,2993,4,0001590379,Restricted share units
+A,05/03/2023 00:00:00,Levine Allan,4,A-Award,--D,2993,5962,3,0001590379,Restricted share units
+A,05/03/2023 00:00:00,Levine Allan,4,M-Exempt,--D,69,35599,2,0001590379,"Common shares, par value $0.015"
+A,05/03/2023 00:00:00,Levine Allan,4,M-Exempt,--D,2969,35530,1,0001590379,"Common shares, par value $0.015"
+D,05/03/2023 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,69,0,5,0001196466,Dividend equivalent units
+D,05/03/2023 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,2969,2993,4,0001196466,Restricted share units
+A,05/03/2023 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,2993,5962,3,0001196466,Restricted share units
+A,05/03/2023 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,69,26792,2,0001196466,"Common shares, par value $0.015"
+A,05/03/2023 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,2969,26723,1,0001196466,"Common shares, par value $0.015"
+D,05/03/2023 00:00:00,Heise Angela L,4,M-Exempt,--D,69,0,5,0001682427,Dividend equivalent units
+D,05/03/2023 00:00:00,Heise Angela L,4,M-Exempt,--D,2969,2993,4,0001682427,Restricted share units
+A,05/03/2023 00:00:00,Heise Angela L,4,A-Award,--D,2993,5962,3,0001682427,Restricted share units
+A,05/03/2023 00:00:00,Heise Angela L,4,M-Exempt,--D,69,16002,2,0001682427,"Common shares, par value $0.015"
+A,05/03/2023 00:00:00,Heise Angela L,4,M-Exempt,--D,2969,15933,1,0001682427,"Common shares, par value $0.015"
+A,03/20/2023 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,20,69,1,0001196466,Dividend equivalent units
+A,03/20/2023 00:00:00,Karna Anu,4,A-Award,--D,15,40,1,0001942191,Dividend equivalent units
+A,03/20/2023 00:00:00,Bhasin Vijay,4,A-Award,--D,542,1997,1,0001590262,Dividend equivalent units
+A,03/20/2023 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,20,69,1,0001221213,Dividend equivalent units
+A,03/20/2023 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,20,69,1,0001220633,Dividend equivalent units
+A,03/20/2023 00:00:00,Curran Christopher G,4,A-Award,--D,728,2526,1,0001768476,Dividend equivalent units
+A,03/20/2023 00:00:00,CASALE MARK,4,A-Award,--D,4125,14215,1,0001188567,Dividend equivalent units
+A,03/20/2023 00:00:00,Dutt Aditya,4,A-Award,--D,20,69,1,0001492890,Dividend equivalent units
+A,03/20/2023 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,20,69,1,0001188563,Dividend equivalent units
+A,03/20/2023 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,54,110,1,0001193202,Dividend equivalent units
+A,03/20/2023 00:00:00,Heise Angela L,4,A-Award,--D,20,69,1,0001682427,Dividend equivalent units
+A,03/20/2023 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,602,2216,1,0001590264,Dividend equivalent units
+A,03/20/2023 00:00:00,Levine Allan,4,A-Award,--D,20,69,1,0001590379,Dividend equivalent units
+A,03/14/2023 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,9779,47728,3,0001193202,Restricted share units
+A,03/14/2023 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,4890,37949,2,0001193202,Restricted share units
+A,03/14/2023 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,25000,33059,1,0001193202,Restricted share units
+D,03/01/2023 00:00:00,Curran Christopher G,4,M-Exempt,--D,827,1798,3,0001768476,Dividend equivalent units
+D,03/01/2023 00:00:00,Curran Christopher G,4,F-InKind,--D,8532,257652,2,0001768476,"Common shares, par value $0.015"
+A,03/01/2023 00:00:00,Curran Christopher G,4,M-Exempt,--D,827,266184,1,0001768476,"Common shares, par value $0.015"
+D,03/01/2023 00:00:00,Bhasin Vijay,4,M-Exempt,--D,855,1455,3,0001590262,Dividend equivalent units
+D,03/01/2023 00:00:00,Bhasin Vijay,4,F-InKind,--D,7656,228551,2,0001590262,"Common shares, par value $0.015"
+A,03/01/2023 00:00:00,Bhasin Vijay,4,M-Exempt,--D,855,236207,1,0001590262,"Common shares, par value $0.015"
+D,03/01/2023 00:00:00,Gibbons Mary Lourdes,4,M-Exempt,--D,658,1614,3,0001590264,Dividend equivalent units
+D,03/01/2023 00:00:00,Gibbons Mary Lourdes,4,F-InKind,--D,6103,276324,2,0001590264,"Common shares, par value $0.015"
+A,03/01/2023 00:00:00,Gibbons Mary Lourdes,4,M-Exempt,--D,658,282427,1,0001590264,"Common shares, par value $0.015"
+D,03/01/2023 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,477,8059,9,0001193202,Restricted share units
+D,03/01/2023 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,973,8536,8,0001193202,Restricted share units
+D,03/01/2023 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1233,9509,7,0001193202,Restricted share units
+D,03/01/2023 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,116,56,6,0001193202,Dividend equivalent units
+D,03/01/2023 00:00:00,WEINSTOCK DAVID B,4,F-InKind,--D,771,29648,5,0001193202,"Common shares, par value $0.015"
+A,03/01/2023 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,477,30419,4,0001193202,"Common shares, par value $0.015"
+A,03/01/2023 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,973,29942,3,0001193202,"Common shares, par value $0.015"
+A,03/01/2023 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1233,28969,2,0001193202,"Common shares, par value $0.015"
+A,03/01/2023 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,116,27736,1,0001193202,"Common shares, par value $0.015"
+D,03/01/2023 00:00:00,CASALE MARK,4,M-Exempt,--D,4320,10090,4,0001188567,Dividend equivalent units
+D,03/01/2023 00:00:00,CASALE MARK,4,F-InKind,--D,38551,2034444,2,0001188567,"Common shares, par value $0.015"
+A,03/01/2023 00:00:00,CASALE MARK,4,M-Exempt,--D,4320,2072995,1,0001188567,"Common shares, par value $0.015"
+D,02/15/2023 00:00:00,PAULS DOUGLAS J,4,S-Sale,--I,2500,26575,1,0001221213,"Common shares, par value $0.015"
+A,02/07/2023 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,3118,10742,3,0001193202,Restricted share units
+A,02/07/2023 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,22984,281769,2,0001590264,"Common shares, par value $0.015"
+A,02/07/2023 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,11492,258785,1,0001590264,"Common shares, par value $0.015"
+A,02/07/2023 00:00:00,CASALE MARK,4,A-Award,--D,206850,2068675,2,0001188567,"Common shares, par value $0.015"
+A,02/07/2023 00:00:00,CASALE MARK,4,A-Award,--D,34475,1861825,1,0001188567,"Common shares, par value $0.015"
+A,02/07/2023 00:00:00,Bhasin Vijay,4,A-Award,--D,20686,235352,2,0001590262,"Common shares, par value $0.015"
+A,02/07/2023 00:00:00,Bhasin Vijay,4,A-Award,--D,10343,214666,1,0001590262,"Common shares, par value $0.015"
+A,02/07/2023 00:00:00,Curran Christopher G,4,A-Award,--D,29880,265357,2,0001768476,"Common shares, par value $0.015"
+A,02/07/2023 00:00:00,Curran Christopher G,4,A-Award,--D,14940,235477,1,0001768476,"Common shares, par value $0.015"
+D,02/02/2023 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,1072,247293,1,0001590264,"Common shares, par value $0.015"
+D,01/07/2023 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,40,172,5,0001193202,Dividend equivalent units
+D,01/07/2023 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,717,4614,4,0001193202,Restricted share units
+D,01/07/2023 00:00:00,WEINSTOCK DAVID B,4,F-InKind,--D,249,27620,3,0001193202,"Common shares, par value $0.015"
+A,01/07/2023 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,40,27869,2,0001193202,"Common shares, par value $0.015"
+A,01/07/2023 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,717,27829,1,0001193202,"Common shares, par value $0.015"
+A,01/06/2023 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,3010,7624,2,0001193202,Restricted share units
+D,12/12/2022 00:00:00,KASMAR ROY JAMES,5,G-Gift,--I,2446,26091,3,0001188563,"Common shares, par value $0.015"
+A,12/12/2022 00:00:00,Bhasin Vijay,4,A-Award,--D,420,2310,1,0001590262,Dividend equivalent units
+A,12/12/2022 00:00:00,Curran Christopher G,4,A-Award,--D,509,2625,1,0001768476,Dividend equivalent units
+A,12/12/2022 00:00:00,Heise Angela L,4,A-Award,--D,18,49,1,0001682427,Dividend equivalent units
+A,12/12/2022 00:00:00,CASALE MARK,4,A-Award,--D,2837,14410,1,0001188567,Dividend equivalent units
+A,12/12/2022 00:00:00,Levine Allan,4,A-Award,--D,18,49,1,0001590379,Dividend equivalent units
+A,12/12/2022 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,18,49,1,0001220633,Dividend equivalent units
+A,12/12/2022 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,18,49,1,0001188563,Dividend equivalent units
+A,12/12/2022 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,434,2272,1,0001590264,Dividend equivalent units
+A,12/12/2022 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,18,49,1,0001221213,Dividend equivalent units
+A,12/12/2022 00:00:00,Karna Anu,4,A-Award,--D,13,25,1,0001942191,Dividend equivalent units
+A,12/12/2022 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,33,212,1,0001193202,Dividend equivalent units
+A,12/12/2022 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,18,49,1,0001196466,Dividend equivalent units
+A,12/12/2022 00:00:00,Dutt Aditya,4,A-Award,--D,18,49,1,0001492890,Dividend equivalent units
+D,11/11/2022 00:00:00,Dutt Aditya,4,S-Sale,--D,6000,23023,1,0001492890,"Common shares, par value $0.015"
+A,09/12/2022 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,16,31,1,0001221213,Dividend equivalent units
+A,09/12/2022 00:00:00,Bhasin Vijay,4,A-Award,--D,373,1890,1,0001590262,Dividend equivalent units
+A,09/12/2022 00:00:00,Dutt Aditya,4,A-Award,--D,16,31,1,0001492890,Dividend equivalent units
+A,09/12/2022 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,16,31,1,0001196466,Dividend equivalent units
+A,09/12/2022 00:00:00,Levine Allan,4,A-Award,--D,16,31,1,0001590379,Dividend equivalent units
+A,09/12/2022 00:00:00,CASALE MARK,4,A-Award,--D,2518,11573,1,0001188567,Dividend equivalent units
+A,09/12/2022 00:00:00,Karna Anu,4,A-Award,--D,12,12,1,0001942191,Dividend equivalent units
+A,09/12/2022 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,16,31,1,0001188563,Dividend equivalent units
+A,09/12/2022 00:00:00,Heise Angela L,4,A-Award,--D,16,31,1,0001682427,Dividend equivalent units
+A,09/12/2022 00:00:00,Curran Christopher G,4,A-Award,--D,452,2116,1,0001768476,Dividend equivalent units
+A,09/12/2022 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,29,179,1,0001193202,Dividend equivalent units
+A,09/12/2022 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,385,1838,1,0001590264,Dividend equivalent units
+A,09/12/2022 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,16,31,1,0001220633,Dividend equivalent units
+D,08/09/2022 00:00:00,Dutt Aditya,4,S-Sale,--D,6000,29023,1,0001492890,"Common shares, par value $0.015"
+A,06/10/2022 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,28,150,6,0001193202,Dividend equivalent units
+A,06/10/2022 00:00:00,Curran Christopher G,4,A-Award,--D,430,1664,1,0001768476,Dividend equivalent units
+A,06/10/2022 00:00:00,Dutt Aditya,4,A-Award,--D,15,15,1,0001492890,Dividend equivalent units
+A,06/10/2022 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,15,15,1,0001220633,Dividend equivalent units
+A,06/10/2022 00:00:00,CASALE MARK,4,A-Award,--D,2398,9055,1,0001188567,Dividend equivalent units
+A,06/10/2022 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,15,15,1,0001196466,Dividend equivalent units
+A,06/10/2022 00:00:00,Bhasin Vijay,4,A-Award,--D,355,1517,1,0001590262,Dividend equivalent units
+A,06/10/2022 00:00:00,Levine Allan,4,A-Award,--D,15,15,1,0001590379,Dividend equivalent units
+A,06/10/2022 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,15,15,1,0001221213,Dividend equivalent units
+A,06/10/2022 00:00:00,Heise Angela L,4,A-Award,--D,15,15,1,0001682427,Dividend equivalent units
+A,06/10/2022 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,367,1453,1,0001223523,Dividend equivalent units
+A,06/10/2022 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,367,1453,1,0001590264,Dividend equivalent units
+A,06/10/2022 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,15,15,1,0001188563,Dividend equivalent units
+D,05/26/2022 00:00:00,PAULS DOUGLAS J,4,S-Sale,--I,2400,26630,1,0001221213,"Common shares, par value $0.015"
+A,05/23/2022 00:00:00,CASALE MARK,4,A-Award,--D,67244,1827350,2,0001188567,"Common shares, par value $0.015"
+A,05/23/2022 00:00:00,CASALE MARK,4,A-Award,--D,11208,1760106,1,0001188567,"Common shares, par value $0.015"
+A,05/18/2022 00:00:00,KASMAR ROY JAMES,5,G-Gift,--I,2446,28537,2,0001188563,"Common shares, par value $0.015"
+D,05/18/2022 00:00:00,KASMAR ROY JAMES,5,G-Gift,--D,2446,18,1,0001188563,"Common shares, par value $0.015"
+D,05/05/2022 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,42,0,5,0001220633,Dividend equivalent units
+D,05/05/2022 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,2404,2969,4,0001220633,Restricted share units
+A,05/05/2022 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,42,47923,2,0001220633,"Common shares, par value $0.015"
+A,05/05/2022 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,2404,47881,1,0001220633,"Common shares, par value $0.015"
+D,05/05/2022 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,42,0,6,0001221213,Dividend equivalent units
+D,05/05/2022 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,2404,2969,5,0001221213,Restricted share units
+A,05/05/2022 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,42,2451,2,0001221213,"Common shares, par value $0.015"
+A,05/05/2022 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,2404,2409,1,0001221213,"Common shares, par value $0.015"
+D,05/05/2022 00:00:00,Heise Angela L,4,M-Exempt,--D,42,0,5,0001682427,Dividend equivalent units
+D,05/05/2022 00:00:00,Heise Angela L,4,M-Exempt,--D,2404,2969,4,0001682427,Restricted share units
+A,05/05/2022 00:00:00,Heise Angela L,4,M-Exempt,--D,42,12964,2,0001682427,"Common shares, par value $0.015"
+A,05/05/2022 00:00:00,Heise Angela L,4,M-Exempt,--D,2404,12922,1,0001682427,"Common shares, par value $0.015"
+D,05/05/2022 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,42,0,6,0001188563,Dividend equivalent units
+D,05/05/2022 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,2404,2969,5,0001188563,Restricted share units
+A,05/05/2022 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,42,2464,2,0001188563,"Common shares, par value $0.015"
+A,05/05/2022 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,2404,2422,1,0001188563,"Common shares, par value $0.015"
+D,05/05/2022 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,42,0,5,0001196466,Dividend equivalent units
+D,05/05/2022 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,2404,2969,4,0001196466,Restricted share units
+A,05/05/2022 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,42,23754,2,0001196466,"Common shares, par value $0.015"
+A,05/05/2022 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,2404,23712,1,0001196466,"Common shares, par value $0.015"
+D,05/05/2022 00:00:00,Dutt Aditya,4,M-Exempt,--D,42,0,5,0001492890,Dividend equivalent units
+D,05/05/2022 00:00:00,Dutt Aditya,4,M-Exempt,--D,2404,2969,4,0001492890,Restricted share units
+A,05/05/2022 00:00:00,Dutt Aditya,4,M-Exempt,--D,42,35023,2,0001492890,"Common shares, par value $0.015"
+A,05/05/2022 00:00:00,Dutt Aditya,4,M-Exempt,--D,2404,34981,1,0001492890,"Common shares, par value $0.015"
+D,05/05/2022 00:00:00,Levine Allan,4,M-Exempt,--D,42,0,5,0001590379,Dividend equivalent units
+D,05/05/2022 00:00:00,Levine Allan,4,M-Exempt,--D,2404,2969,4,0001590379,Restricted share units
+A,05/05/2022 00:00:00,Levine Allan,4,M-Exempt,--D,42,32561,2,0001590379,"Common shares, par value $0.015"
+A,05/05/2022 00:00:00,Levine Allan,4,M-Exempt,--D,2404,32519,1,0001590379,"Common shares, par value $0.015"
+A,05/03/2022 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,2969,5373,3,0001220633,Restricted share units
+A,05/03/2022 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,2969,5373,4,0001221213,Restricted share units
+A,05/03/2022 00:00:00,Heise Angela L,4,A-Award,--D,2969,5373,3,0001682427,Restricted share units
+A,05/03/2022 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,2969,5373,4,0001188563,Restricted share units
+A,05/03/2022 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,2969,5373,3,0001196466,Restricted share units
+A,05/03/2022 00:00:00,Dutt Aditya,4,A-Award,--D,2969,5373,3,0001492890,Restricted share units
+A,05/03/2022 00:00:00,Levine Allan,4,A-Award,--D,2969,5373,3,0001590379,Restricted share units
+A,03/21/2022 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,12,42,1,0001220633,Dividend equivalent units
+A,03/21/2022 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,342,1086,1,0001590264,Dividend equivalent units
+A,03/21/2022 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,12,42,1,0001188563,Dividend equivalent units
+A,03/21/2022 00:00:00,Bhasin Vijay,4,A-Award,--D,331,1162,1,0001590262,Dividend equivalent units
+A,03/21/2022 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,12,42,1,0001221213,Dividend equivalent units
+A,03/21/2022 00:00:00,Curran Christopher G,4,A-Award,--D,401,1234,1,0001768476,Dividend equivalent units
+A,03/21/2022 00:00:00,Heise Angela L,4,A-Award,--D,12,42,1,0001682427,Dividend equivalent units
+A,03/21/2022 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,26,146,1,0001193202,Dividend equivalent units
+A,03/21/2022 00:00:00,CASALE MARK,4,A-Award,--D,1860,6657,1,0001188567,Dividend equivalent units
+A,03/21/2022 00:00:00,Levine Allan,4,A-Award,--D,12,42,1,0001590379,Dividend equivalent units
+A,03/21/2022 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,12,42,1,0001196466,Dividend equivalent units
+A,03/21/2022 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,342,1086,1,0001223523,Dividend equivalent units
+A,03/21/2022 00:00:00,Dutt Aditya,4,A-Award,--D,12,42,1,0001492890,Dividend equivalent units
+A,03/09/2022 00:00:00,GLANVILLE ROBERT,4,P-Purchase,--D,1000,45477,1,0001220633,"Common shares, par value $0.015"
+D,03/01/2022 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1557,6046,9,0001193202,Restricted share units
+D,03/01/2022 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1232,7603,8,0001193202,Restricted share units
+D,03/01/2022 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,973,8835,7,0001193202,Restricted share units
+D,03/01/2022 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,120,120,6,0001193202,Dividend equivalent units
+D,03/01/2022 00:00:00,WEINSTOCK DAVID B,4,F-InKind,--D,1069,26624,5,0001193202,"Common shares, par value $0.015"
+A,03/01/2022 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1557,27693,4,0001193202,"Common shares, par value $0.015"
+A,03/01/2022 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1232,26136,3,0001193202,"Common shares, par value $0.015"
+A,03/01/2022 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,973,24904,2,0001193202,"Common shares, par value $0.015"
+A,03/01/2022 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,120,23931,1,0001193202,"Common shares, par value $0.015"
+D,03/01/2022 00:00:00,MCALEE LAWRENCE E JR,4,M-Exempt,--D,520,744,3,0001223523,Dividend equivalent units
+D,03/01/2022 00:00:00,MCALEE LAWRENCE E JR,4,F-InKind,--D,5143,199331,2,0001223523,"Common shares, par value $0.015"
+A,03/01/2022 00:00:00,MCALEE LAWRENCE E JR,4,M-Exempt,--D,520,204474,1,0001223523,"Common shares, par value $0.015"
+D,03/01/2022 00:00:00,Gibbons Mary Lourdes,4,M-Exempt,--D,520,744,3,0001590264,Dividend equivalent units
+D,03/01/2022 00:00:00,Gibbons Mary Lourdes,4,F-InKind,--D,5935,248365,2,0001590264,"Common shares, par value $0.015"
+A,03/01/2022 00:00:00,Gibbons Mary Lourdes,4,M-Exempt,--D,520,254300,1,0001590264,"Common shares, par value $0.015"
+D,03/01/2022 00:00:00,Bhasin Vijay,4,M-Exempt,--D,743,831,3,0001590262,Dividend equivalent units
+D,03/01/2022 00:00:00,Bhasin Vijay,4,F-InKind,--D,8659,204323,2,0001590262,"Common shares, par value $0.015"
+A,03/01/2022 00:00:00,Bhasin Vijay,4,M-Exempt,--D,743,212982,1,0001590262,"Common shares, par value $0.015"
+D,03/01/2022 00:00:00,CASALE MARK,4,M-Exempt,--D,3765,4797,4,0001188567,Dividend equivalent units
+D,03/01/2022 00:00:00,CASALE MARK,4,F-InKind,--D,43794,1748898,2,0001188567,"Common shares, par value $0.015"
+A,03/01/2022 00:00:00,CASALE MARK,4,M-Exempt,--D,3765,1792692,1,0001188567,"Common shares, par value $0.015"
+D,03/01/2022 00:00:00,Curran Christopher G,4,M-Exempt,--D,673,833,3,0001768476,Dividend equivalent units
+D,03/01/2022 00:00:00,Curran Christopher G,4,F-InKind,--D,8299,220537,2,0001768476,"Common shares, par value $0.015"
+A,03/01/2022 00:00:00,Curran Christopher G,4,M-Exempt,--D,673,228836,1,0001768476,"Common shares, par value $0.015"
+A,02/08/2022 00:00:00,Bhasin Vijay,4,A-Award,--D,19186,212239,2,0001590262,"Common shares, par value $0.015"
+A,02/08/2022 00:00:00,Bhasin Vijay,4,A-Award,--D,9593,193053,1,0001590262,"Common shares, par value $0.015"
+A,02/08/2022 00:00:00,Curran Christopher G,4,A-Award,--D,27714,228163,2,0001768476,"Common shares, par value $0.015"
+A,02/08/2022 00:00:00,Curran Christopher G,4,A-Award,--D,13857,200449,1,0001768476,"Common shares, par value $0.015"
+A,02/08/2022 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,21318,253780,2,0001590264,"Common shares, par value $0.015"
+A,02/08/2022 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,10659,232462,1,0001590264,"Common shares, par value $0.015"
+A,02/08/2022 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,1433,9808,1,0001193202,Restricted share units
+A,02/08/2022 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,21318,212454,2,0001223523,"Common shares, par value $0.015"
+A,02/08/2022 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,10659,191136,1,0001223523,"Common shares, par value $0.015"
+A,02/08/2022 00:00:00,CASALE MARK,4,A-Award,--D,133102,1788927,2,0001188567,"Common shares, par value $0.015"
+A,02/08/2022 00:00:00,CASALE MARK,4,A-Award,--D,22184,1655825,1,0001188567,"Common shares, par value $0.015"
+D,01/13/2022 00:00:00,CASALE MARK,4,S-Sale,--D,6572,1633641,1,0001188567,"Common shares, par value $0.015"
+D,01/13/2022 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,9384,221803,2,0001590264,"Common shares, par value $0.015"
+D,01/13/2022 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,5400,180477,2,0001223523,"Common shares, par value $0.015"
+D,01/12/2022 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,616,231187,1,0001590264,"Common shares, par value $0.015"
+D,01/12/2022 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,100,185877,1,0001223523,"Common shares, par value $0.015"
+D,01/07/2022 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,24,122,5,0001193202,Dividend equivalent units
+D,01/07/2022 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,715,5331,4,0001193202,Restricted share units
+D,01/07/2022 00:00:00,WEINSTOCK DAVID B,4,F-InKind,--D,251,27112,3,0001193202,"Common shares, par value $0.015"
+A,01/07/2022 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,24,27363,2,0001193202,"Common shares, par value $0.015"
+A,01/07/2022 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,715,27339,1,0001193202,"Common shares, par value $0.015"
+D,12/21/2021 00:00:00,MCALEE LAWRENCE E JR,5,G-Gift,--D,3500,203954,2,0001223523,"Common shares, par value $0.015"
+A,12/10/2021 00:00:00,Dutt Aditya,4,A-Award,--D,11,30,1,0001492890,Dividend equivalent units
+A,12/10/2021 00:00:00,Levine Allan,4,A-Award,--D,11,30,1,0001590379,Dividend equivalent units
+A,12/10/2021 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,11,30,1,0001188563,Dividend equivalent units
+A,12/10/2021 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,239,1264,1,0001590264,Dividend equivalent units
+A,12/10/2021 00:00:00,Curran Christopher G,4,A-Award,--D,269,1506,1,0001768476,Dividend equivalent units
+A,12/10/2021 00:00:00,Chwick Jane,4,A-Award,--D,11,30,1,0001589706,Dividend equivalent units
+A,12/10/2021 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,11,30,1,0001196466,Dividend equivalent units
+A,12/10/2021 00:00:00,Heise Angela L,4,A-Award,--D,11,30,1,0001682427,Dividend equivalent units
+A,12/10/2021 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,239,1264,1,0001223523,Dividend equivalent units
+A,12/10/2021 00:00:00,Bhasin Vijay,4,A-Award,--D,268,1574,1,0001590262,Dividend equivalent units
+A,12/10/2021 00:00:00,CASALE MARK,4,A-Award,--D,1451,8562,1,0001188567,Dividend equivalent units
+A,12/10/2021 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,37,240,1,0001193202,Dividend equivalent units
+A,12/10/2021 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,11,30,1,0001220633,Dividend equivalent units
+A,12/10/2021 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,11,30,1,0001221213,Dividend equivalent units
+A,11/29/2021 00:00:00,GLANVILLE ROBERT,4,P-Purchase,--D,1000,44477,1,0001220633,"Common shares, par value $0.015"
+D,11/17/2021 00:00:00,SPIEGEL WILLIAM,4,S-Sale,--D,3214,21308,1,0001196466,"Common shares, par value $0.015"
+A,09/10/2021 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,10,19,1,0001188563,Dividend equivalent units
+A,09/10/2021 00:00:00,Dutt Aditya,4,A-Award,--D,10,19,1,0001492890,Dividend equivalent units
+A,09/10/2021 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,218,1025,1,0001223523,Dividend equivalent units
+A,09/10/2021 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,34,203,1,0001193202,Dividend equivalent units
+A,09/10/2021 00:00:00,CASALE MARK,4,A-Award,--D,1323,7111,1,0001188567,Dividend equivalent units
+A,09/10/2021 00:00:00,Levine Allan,4,A-Award,--D,10,19,1,0001590379,Dividend equivalent units
+A,09/10/2021 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,10,19,1,0001220633,Dividend equivalent units
+A,09/10/2021 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,10,19,1,0001196466,Dividend equivalent units
+A,09/10/2021 00:00:00,Cashmer Jeff,4,A-Award,--D,244,1306,1,0001669813,Dividend equivalent units
+A,09/10/2021 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,218,1025,1,0001590264,Dividend equivalent units
+A,09/10/2021 00:00:00,Heise Angela L,4,A-Award,--D,10,19,1,0001682427,Dividend equivalent units
+A,09/10/2021 00:00:00,Curran Christopher G,4,A-Award,--D,245,1237,1,0001768476,Dividend equivalent units
+A,09/10/2021 00:00:00,Chwick Jane,4,A-Award,--D,10,19,1,0001589706,Dividend equivalent units
+A,09/10/2021 00:00:00,Bhasin Vijay,4,A-Award,--D,244,1306,1,0001590262,Dividend equivalent units
+A,09/10/2021 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,10,19,1,0001221213,Dividend equivalent units
+D,08/13/2021 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,5595,185977,1,0001223523,"Common shares, par value $0.015"
+D,08/06/2021 00:00:00,WEINSTOCK DAVID B,4,S-Sale,--D,2000,23811,1,0001193202,"Common shares, par value $0.015"
+D,06/10/2021 00:00:00,MCALEE LAWRENCE E JR,5,G-Gift,--D,5000,207454,1,0001223523,"Common shares, par value $0.015"
+A,06/10/2021 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,30,169,1,0001193202,Dividend equivalent units
+A,06/10/2021 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,9,9,1,0001220633,Dividend equivalent units
+A,06/10/2021 00:00:00,Curran Christopher G,4,A-Award,--D,218,992,1,0001768476,Dividend equivalent units
+A,06/10/2021 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,195,807,1,0001223523,Dividend equivalent units
+A,06/10/2021 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,9,9,1,0001221213,Dividend equivalent units
+A,06/10/2021 00:00:00,Levine Allan,4,A-Award,--D,9,9,1,0001590379,Dividend equivalent units
+A,06/10/2021 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,195,807,1,0001590264,Dividend equivalent units
+A,06/10/2021 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,9,9,1,0001188563,Dividend equivalent units
+A,06/10/2021 00:00:00,Bhasin Vijay,4,A-Award,--D,218,1062,1,0001590262,Dividend equivalent units
+A,06/10/2021 00:00:00,Heise Angela L,4,A-Award,--D,9,9,1,0001682427,Dividend equivalent units
+A,06/10/2021 00:00:00,Cashmer Jeff,4,A-Award,--D,218,1062,1,0001669813,Dividend equivalent units
+A,06/10/2021 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,9,9,1,0001196466,Dividend equivalent units
+A,06/10/2021 00:00:00,CASALE MARK,4,A-Award,--D,1180,5788,1,0001188567,Dividend equivalent units
+A,06/10/2021 00:00:00,Dutt Aditya,4,A-Award,--D,9,9,1,0001492890,Dividend equivalent units
+A,06/10/2021 00:00:00,Chwick Jane,4,A-Award,--D,9,9,1,0001589706,Dividend equivalent units
+D,05/28/2021 00:00:00,SPIEGEL WILLIAM,4,S-Sale,--D,8055,24522,1,0001196466,"Common shares, par value $0.015"
+D,05/27/2021 00:00:00,KASMAR ROY JAMES,4,S-Sale,--I,3100,21265,2,0001188563,"Common shares, par value $0.015"
+D,05/26/2021 00:00:00,KASMAR ROY JAMES,4,S-Sale,--I,3214,24365,1,0001188563,"Common shares, par value $0.015"
+A,05/17/2021 00:00:00,KASMAR ROY JAMES,5,G-Gift,--I,4826,26091,2,0001188563,"Common shares, par value $0.015"
+D,05/17/2021 00:00:00,KASMAR ROY JAMES,5,G-Gift,--D,4826,18,1,0001188563,"Common shares, par value $0.015"
+A,05/11/2021 00:00:00,PAULS DOUGLAS J,5,G-Gift,--I,4840,29030,2,0001221213,"Common shares, par value $0.015"
+D,05/11/2021 00:00:00,PAULS DOUGLAS J,5,G-Gift,--D,4840,5,1,0001221213,"Common shares, par value $0.015"
+D,05/11/2021 00:00:00,PAULS DOUGLAS J,4,S-Sale,--I,3003,24190,1,0001221213,"Common shares, par value $0.015"
+D,05/06/2021 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,76,0,6,0001188563,Dividend equivalent units
+D,05/06/2021 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,4766,2404,5,0001188563,Restricted share units
+A,05/06/2021 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,76,4844,2,0001188563,"Common shares, par value $0.015"
+A,05/06/2021 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,4766,4768,1,0001188563,"Common shares, par value $0.015"
+D,05/06/2021 00:00:00,Chwick Jane,4,M-Exempt,--D,76,0,5,0001589706,Dividend equivalent units
+D,05/06/2021 00:00:00,Chwick Jane,4,M-Exempt,--D,4766,2404,4,0001589706,Restricted share units
+A,05/06/2021 00:00:00,Chwick Jane,4,M-Exempt,--D,76,10518,2,0001589706,"Common shares, par value $0.015"
+A,05/06/2021 00:00:00,Chwick Jane,4,M-Exempt,--D,4766,10442,1,0001589706,"Common shares, par value $0.015"
+D,05/06/2021 00:00:00,Dutt Aditya,4,M-Exempt,--D,76,0,5,0001492890,Dividend equivalent units
+D,05/06/2021 00:00:00,Dutt Aditya,4,M-Exempt,--D,4766,2404,4,0001492890,Restricted share units
+A,05/06/2021 00:00:00,Dutt Aditya,4,M-Exempt,--D,76,32577,2,0001492890,"Common shares, par value $0.015"
+A,05/06/2021 00:00:00,Dutt Aditya,4,M-Exempt,--D,4766,32501,1,0001492890,"Common shares, par value $0.015"
+D,05/06/2021 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,76,0,6,0001221213,Dividend equivalent units
+D,05/06/2021 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,4766,2404,5,0001221213,Restricted share units
+A,05/06/2021 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,76,4845,2,0001221213,"Common shares, par value $0.015"
+A,05/06/2021 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,4766,4769,1,0001221213,"Common shares, par value $0.015"
+D,05/06/2021 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,76,0,5,0001220633,Dividend equivalent units
+D,05/06/2021 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,4766,2404,4,0001220633,Restricted share units
+A,05/06/2021 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,76,43477,2,0001220633,"Common shares, par value $0.015"
+A,05/06/2021 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,4766,43401,1,0001220633,"Common shares, par value $0.015"
+D,05/06/2021 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,76,0,5,0001196466,Dividend equivalent units
+D,05/06/2021 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,4766,2404,4,0001196466,Restricted share units
+A,05/06/2021 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,76,32577,2,0001196466,"Common shares, par value $0.015"
+A,05/06/2021 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,4766,32501,1,0001196466,"Common shares, par value $0.015"
+D,05/06/2021 00:00:00,Heise Angela L,4,M-Exempt,--D,76,0,5,0001682427,Dividend equivalent units
+D,05/06/2021 00:00:00,Heise Angela L,4,M-Exempt,--D,4766,2404,4,0001682427,Restricted share units
+A,05/06/2021 00:00:00,Heise Angela L,4,M-Exempt,--D,76,10518,2,0001682427,"Common shares, par value $0.015"
+A,05/06/2021 00:00:00,Heise Angela L,4,M-Exempt,--D,4766,10442,1,0001682427,"Common shares, par value $0.015"
+D,05/06/2021 00:00:00,Levine Allan,4,M-Exempt,--D,76,0,5,0001590379,Dividend equivalent units
+D,05/06/2021 00:00:00,Levine Allan,4,M-Exempt,--D,4766,2404,4,0001590379,Restricted share units
+A,05/06/2021 00:00:00,Levine Allan,4,M-Exempt,--D,76,30115,2,0001590379,"Common shares, par value $0.015"
+A,05/06/2021 00:00:00,Levine Allan,4,M-Exempt,--D,4766,30039,1,0001590379,"Common shares, par value $0.015"
+A,05/05/2021 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,2404,7170,4,0001188563,Restricted share units
+A,05/05/2021 00:00:00,Chwick Jane,4,A-Award,--D,2404,7170,3,0001589706,Restricted share units
+A,05/05/2021 00:00:00,Dutt Aditya,4,A-Award,--D,2404,7170,3,0001492890,Restricted share units
+A,05/05/2021 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,2404,7170,4,0001221213,Restricted share units
+A,05/05/2021 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,2404,7170,3,0001220633,Restricted share units
+A,05/05/2021 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,2404,7170,3,0001196466,Restricted share units
+A,05/05/2021 00:00:00,Heise Angela L,4,A-Award,--D,2404,7170,3,0001682427,Restricted share units
+A,05/05/2021 00:00:00,Levine Allan,4,A-Award,--D,2404,7170,3,0001590379,Restricted share units
+D,04/26/2021 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,5079,231803,1,0001590264,"Common shares, par value $0.015"
+D,04/21/2021 00:00:00,Bhasin Vijay,4,S-Sale,--D,3772,183460,1,0001590262,"Common shares, par value $0.015"
+D,04/21/2021 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,2506,191572,2,0001223523,"Common shares, par value $0.015"
+D,04/20/2021 00:00:00,WEINSTOCK DAVID B,4,S-Sale,--D,2000,25811,1,0001193202,"Common shares, par value $0.015"
+D,04/19/2021 00:00:00,Bhasin Vijay,4,S-Sale,--D,9153,187232,1,0001590262,"Common shares, par value $0.015"
+D,04/19/2021 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,2494,194078,1,0001223523,"Common shares, par value $0.015"
+A,03/19/2021 00:00:00,Heise Angela L,4,A-Award,--D,18,76,1,0001682427,Dividend equivalent units
+A,03/19/2021 00:00:00,Bhasin Vijay,4,A-Award,--D,223,844,1,0001590262,Dividend equivalent units
+A,03/19/2021 00:00:00,Cashmer Jeff,4,A-Award,--D,223,844,1,0001669813,Dividend equivalent units
+A,03/19/2021 00:00:00,Curran Christopher G,4,A-Award,--D,224,774,1,0001768476,Dividend equivalent units
+A,03/19/2021 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,199,612,1,0001590264,Dividend equivalent units
+A,03/19/2021 00:00:00,Hissong Joseph,4,A-Award,--D,105,437,1,0001669814,Dividend equivalent units
+A,03/19/2021 00:00:00,Chwick Jane,4,A-Award,--D,18,76,1,0001589706,Dividend equivalent units
+A,03/19/2021 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,199,612,1,0001223523,Dividend equivalent units
+A,03/19/2021 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,18,76,1,0001220633,Dividend equivalent units
+A,03/19/2021 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,18,76,1,0001188563,Dividend equivalent units
+A,03/19/2021 00:00:00,CASALE MARK,4,A-Award,--D,1210,4608,1,0001188567,Dividend equivalent units
+A,03/19/2021 00:00:00,Dutt Aditya,4,A-Award,--D,18,76,1,0001492890,Dividend equivalent units
+A,03/19/2021 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,31,139,1,0001193202,Dividend equivalent units
+A,03/19/2021 00:00:00,Levine Allan,4,A-Award,--D,18,76,1,0001590379,Dividend equivalent units
+A,03/19/2021 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,18,76,1,0001221213,Dividend equivalent units
+A,03/19/2021 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,18,76,1,0001196466,Dividend equivalent units
+D,03/01/2021 00:00:00,Hissong Joseph,4,M-Exempt,--D,212,332,3,0001669814,Dividend equivalent units
+D,03/01/2021 00:00:00,Hissong Joseph,4,F-InKind,--D,3150,58736,2,0001669814,"Common shares, par value $0.015"
+A,03/01/2021 00:00:00,Hissong Joseph,4,M-Exempt,--D,212,61886,1,0001669814,"Common shares, par value $0.015"
+D,03/01/2021 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1232,8375,9,0001193202,Restricted share units
+D,03/01/2021 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1553,9607,8,0001193202,Restricted share units
+D,03/01/2021 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1660,11160,7,0001193202,Restricted share units
+D,03/01/2021 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,100,108,6,0001193202,Dividend equivalent units
+D,03/01/2021 00:00:00,WEINSTOCK DAVID B,4,F-InKind,--D,1428,27811,5,0001193202,"Common shares, par value $0.015"
+A,03/01/2021 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1232,29239,4,0001193202,"Common shares, par value $0.015"
+A,03/01/2021 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1553,28007,3,0001193202,"Common shares, par value $0.015"
+A,03/01/2021 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1660,26454,2,0001193202,"Common shares, par value $0.015"
+A,03/01/2021 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,100,24794,1,0001193202,"Common shares, par value $0.015"
+D,03/01/2021 00:00:00,Cashmer Jeff,4,M-Exempt,--D,464,621,3,0001669813,Dividend equivalent units
+D,03/01/2021 00:00:00,Cashmer Jeff,4,F-InKind,--D,6776,140716,2,0001669813,"Common shares, par value $0.015"
+A,03/01/2021 00:00:00,Cashmer Jeff,4,M-Exempt,--D,464,147492,1,0001669813,"Common shares, par value $0.015"
+D,03/01/2021 00:00:00,Gibbons Mary Lourdes,4,M-Exempt,--D,309,413,3,0001590264,Dividend equivalent units
+D,03/01/2021 00:00:00,Gibbons Mary Lourdes,4,F-InKind,--D,3939,236882,2,0001590264,"Common shares, par value $0.015"
+A,03/01/2021 00:00:00,Gibbons Mary Lourdes,4,M-Exempt,--D,309,240821,1,0001590264,"Common shares, par value $0.015"
+D,03/01/2021 00:00:00,MCALEE LAWRENCE E JR,4,M-Exempt,--D,309,413,3,0001223523,Dividend equivalent units
+D,03/01/2021 00:00:00,MCALEE LAWRENCE E JR,4,F-InKind,--D,3766,196572,2,0001223523,"Common shares, par value $0.015"
+A,03/01/2021 00:00:00,MCALEE LAWRENCE E JR,4,M-Exempt,--D,309,200338,1,0001223523,"Common shares, par value $0.015"
+D,03/01/2021 00:00:00,Curran Christopher G,4,M-Exempt,--D,341,550,3,0001768476,Dividend equivalent units
+D,03/01/2021 00:00:00,Curran Christopher G,4,F-InKind,--D,4534,186592,2,0001768476,"Common shares, par value $0.015"
+A,03/01/2021 00:00:00,Curran Christopher G,4,M-Exempt,--D,341,191126,1,0001768476,"Common shares, par value $0.015"
+D,03/01/2021 00:00:00,CASALE MARK,4,M-Exempt,--D,1940,3398,4,0001188567,Dividend equivalent units
+D,03/01/2021 00:00:00,CASALE MARK,4,F-InKind,--D,35590,1640213,2,0001188567,"Common shares, par value $0.015"
+A,03/01/2021 00:00:00,CASALE MARK,4,M-Exempt,--D,1940,1675803,1,0001188567,"Common shares, par value $0.015"
+D,03/01/2021 00:00:00,Bhasin Vijay,4,M-Exempt,--D,464,621,3,0001590262,Dividend equivalent units
+D,03/01/2021 00:00:00,Bhasin Vijay,4,F-InKind,--D,7440,196385,2,0001590262,"Common shares, par value $0.015"
+A,03/01/2021 00:00:00,Bhasin Vijay,4,M-Exempt,--D,464,203825,1,0001590262,"Common shares, par value $0.015"
+A,02/06/2021 00:00:00,Curran Christopher G,4,A-Award,--D,22900,190785,2,0001768476,"Common shares, par value $0.015"
+A,02/06/2021 00:00:00,Curran Christopher G,4,A-Award,--D,11450,167885,1,0001768476,"Common shares, par value $0.015"
+A,02/06/2021 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,22900,240512,2,0001590264,"Common shares, par value $0.015"
+A,02/06/2021 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,11450,217612,1,0001590264,"Common shares, par value $0.015"
+A,02/06/2021 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,2921,12820,1,0001193202,Restricted share units
+A,02/06/2021 00:00:00,Cashmer Jeff,4,A-Award,--D,20610,147028,2,0001669813,"Common shares, par value $0.015"
+A,02/06/2021 00:00:00,Cashmer Jeff,4,A-Award,--D,10305,126418,1,0001669813,"Common shares, par value $0.015"
+A,02/06/2021 00:00:00,Hissong Joseph,4,A-Award,--D,8588,61674,2,0001669814,"Common shares, par value $0.015"
+A,02/06/2021 00:00:00,Hissong Joseph,4,A-Award,--D,4294,53086,1,0001669814,"Common shares, par value $0.015"
+A,02/06/2021 00:00:00,Bhasin Vijay,4,A-Award,--D,20610,203361,2,0001590262,"Common shares, par value $0.015"
+A,02/06/2021 00:00:00,Bhasin Vijay,4,A-Award,--D,10305,182751,1,0001590262,"Common shares, par value $0.015"
+A,02/06/2021 00:00:00,CASALE MARK,4,A-Award,--D,142976,1673863,2,0001188567,"Common shares, par value $0.015"
+A,02/06/2021 00:00:00,CASALE MARK,4,A-Award,--D,23830,1530887,1,0001188567,"Common shares, par value $0.015"
+A,02/06/2021 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,22900,204029,2,0001223523,"Common shares, par value $0.015"
+A,02/06/2021 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,11450,181129,1,0001223523,"Common shares, par value $0.015"
+D,01/11/2021 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,3850,206162,3,0001590264,"Common shares, par value $0.015"
+D,01/08/2021 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,1400,210012,2,0001590264,"Common shares, par value $0.015"
+D,01/07/2021 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,5000,211412,1,0001590264,"Common shares, par value $0.015"
+D,01/07/2021 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,13,208,5,0001193202,Dividend equivalent units
+D,01/07/2021 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,715,9899,4,0001193202,Restricted share units
+D,01/07/2021 00:00:00,WEINSTOCK DAVID B,4,F-InKind,--D,267,24694,3,0001193202,"Common shares, par value $0.015"
+A,01/07/2021 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,13,24961,2,0001193202,"Common shares, par value $0.015"
+A,01/07/2021 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,715,24948,1,0001193202,"Common shares, par value $0.015"
+D,01/06/2021 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,14523,169679,1,0001223523,"Common shares, par value $0.015"
+D,12/24/2020 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,5447,184202,1,0001223523,"Common shares, par value $0.015"
+A,12/10/2020 00:00:00,Heise Angela L,4,A-Award,--D,17,58,1,0001682427,Dividend equivalent units
+A,12/10/2020 00:00:00,Levine Allan,4,A-Award,--D,17,58,1,0001590379,Dividend equivalent units
+A,12/10/2020 00:00:00,Hissong Joseph,4,A-Award,--D,89,544,1,0001669814,Dividend equivalent units
+A,12/10/2020 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,17,58,1,0001221213,Dividend equivalent units
+A,12/10/2020 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,17,58,1,0001188563,Dividend equivalent units
+A,12/10/2020 00:00:00,Bhasin Vijay,4,A-Award,--D,180,1085,1,0001590262,Dividend equivalent units
+A,12/10/2020 00:00:00,Cashmer Jeff,4,A-Award,--D,180,1085,1,0001669813,Dividend equivalent units
+A,12/10/2020 00:00:00,Curran Christopher G,4,A-Award,--D,149,891,1,0001768476,Dividend equivalent units
+A,12/10/2020 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,120,722,1,0001223523,Dividend equivalent units
+A,12/10/2020 00:00:00,Chwick Jane,4,A-Award,--D,17,58,1,0001589706,Dividend equivalent units
+A,12/10/2020 00:00:00,CASALE MARK,4,A-Award,--D,881,5338,1,0001188567,Dividend equivalent units
+A,12/10/2020 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,17,58,1,0001220633,Dividend equivalent units
+A,12/10/2020 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,120,722,1,0001590264,Dividend equivalent units
+A,12/10/2020 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,39,221,1,0001193202,Dividend equivalent units
+A,12/10/2020 00:00:00,Dutt Aditya,4,A-Award,--D,17,58,1,0001492890,Dividend equivalent units
+A,12/10/2020 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,17,58,1,0001196466,Dividend equivalent units
+D,11/13/2020 00:00:00,MCALEE LAWRENCE E JR,5,G-Gift,--D,4000,200029,1,0001223523,"Common shares, par value $0.015"
+A,09/10/2020 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,21,41,1,0001220633,Dividend equivalent units
+A,09/10/2020 00:00:00,Levine Allan,4,A-Award,--D,21,41,1,0001590379,Dividend equivalent units
+A,09/10/2020 00:00:00,Dutt Aditya,4,A-Award,--D,21,41,1,0001492890,Dividend equivalent units
+A,09/10/2020 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,21,41,1,0001196466,Dividend equivalent units
+A,09/10/2020 00:00:00,Cashmer Jeff,4,A-Award,--D,214,905,1,0001669813,Dividend equivalent units
+A,09/10/2020 00:00:00,CASALE MARK,4,A-Award,--D,1046,4457,1,0001188567,Dividend equivalent units
+A,09/10/2020 00:00:00,Heise Angela L,4,A-Award,--D,21,41,1,0001682427,Dividend equivalent units
+A,09/10/2020 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,142,602,1,0001590264,Dividend equivalent units
+A,09/10/2020 00:00:00,Curran Christopher G,4,A-Award,--D,177,742,1,0001768476,Dividend equivalent units
+A,09/10/2020 00:00:00,Hissong Joseph,4,A-Award,--D,106,455,1,0001669814,Dividend equivalent units
+A,09/10/2020 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,21,41,1,0001221213,Dividend equivalent units
+A,09/10/2020 00:00:00,Chwick Jane,4,A-Award,--D,21,41,1,0001589706,Dividend equivalent units
+A,09/10/2020 00:00:00,Bhasin Vijay,4,A-Award,--D,214,905,1,0001590262,Dividend equivalent units
+A,09/10/2020 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,21,41,1,0001188563,Dividend equivalent units
+A,09/10/2020 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,142,602,1,0001223523,Dividend equivalent units
+A,09/10/2020 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,46,182,1,0001193202,Dividend equivalent units
+A,06/12/2020 00:00:00,Dutt Aditya,4,A-Award,--D,20,20,1,0001492890,Dividend equivalent units
+A,06/12/2020 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,20,20,1,0001220633,Dividend equivalent units
+A,06/12/2020 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,140,460,1,0001590264,Dividend equivalent units
+A,06/12/2020 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,20,20,1,0001188563,Dividend equivalent units
+A,06/12/2020 00:00:00,Bhasin Vijay,4,A-Award,--D,211,691,1,0001590262,Dividend equivalent units
+A,06/12/2020 00:00:00,CASALE MARK,4,A-Award,--D,1032,3411,1,0001188567,Dividend equivalent units
+A,06/12/2020 00:00:00,Hissong Joseph,4,A-Award,--D,104,349,1,0001669814,Dividend equivalent units
+A,06/12/2020 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,20,20,1,0001221213,Dividend equivalent units
+A,06/12/2020 00:00:00,Heise Angela L,4,A-Award,--D,20,20,1,0001682427,Dividend equivalent units
+A,06/12/2020 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,45,136,1,0001193202,Dividend equivalent units
+A,06/12/2020 00:00:00,Chwick Jane,4,A-Award,--D,20,20,1,0001589706,Dividend equivalent units
+A,06/12/2020 00:00:00,Curran Christopher G,4,A-Award,--D,174,565,1,0001768476,Dividend equivalent units
+A,06/12/2020 00:00:00,Cashmer Jeff,4,A-Award,--D,211,691,1,0001669813,Dividend equivalent units
+A,06/12/2020 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,20,20,1,0001196466,Dividend equivalent units
+A,06/12/2020 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,140,460,1,0001223523,Dividend equivalent units
+A,05/28/2020 00:00:00,CASALE MARK,4,P-Purchase,--D,50000,1507057,1,0001188567,"Common shares, par value $0.015"
+A,05/26/2020 00:00:00,KASMAR ROY JAMES,5,G-Gift,--I,2460,27579,2,0001188563,"Common shares, par value $0.015"
+D,05/26/2020 00:00:00,KASMAR ROY JAMES,5,G-Gift,--D,2460,2,1,0001188563,"Common shares, par value $0.015"
+A,05/19/2020 00:00:00,PAULS DOUGLAS J,5,G-Gift,--I,2459,27193,2,0001221213,"Common shares, par value $0.015"
+D,05/19/2020 00:00:00,PAULS DOUGLAS J,5,G-Gift,--D,2459,3,1,0001221213,"Common shares, par value $0.015"
+A,05/06/2020 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,4766,4766,1,0001188563,Restricted share units
+A,05/06/2020 00:00:00,Heise Angela L,4,A-Award,--D,4766,4766,1,0001682427,Restricted share units
+A,05/06/2020 00:00:00,Chwick Jane,4,A-Award,--D,4766,4766,1,0001589706,Restricted share units
+A,05/06/2020 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,4766,4766,1,0001221213,Restricted share units
+A,05/06/2020 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,4766,4766,1,0001220633,Restricted share units
+A,05/06/2020 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,4766,4766,1,0001196466,Restricted share units
+A,05/06/2020 00:00:00,Dutt Aditya,4,A-Award,--D,4766,4766,1,0001492890,Restricted share units
+D,05/01/2020 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,30,0,4,0001196466,Dividend equivalent units
+D,05/01/2020 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,2432,0,3,0001196466,Restricted share units
+A,05/01/2020 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,30,27735,2,0001196466,"Common shares, par value $0.015"
+A,05/01/2020 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,2432,27705,1,0001196466,"Common shares, par value $0.015"
+D,05/01/2020 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,30,0,4,0001221213,Dividend equivalent units
+D,05/01/2020 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,2432,0,3,0001221213,Restricted share units
+A,05/01/2020 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,30,2462,2,0001221213,"Common shares, par value $0.015"
+A,05/01/2020 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,2432,2432,1,0001221213,"Common shares, par value $0.015"
+D,05/01/2020 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,30,0,4,0001220633,Dividend equivalent units
+D,05/01/2020 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,2432,0,3,0001220633,Restricted share units
+A,05/01/2020 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,30,38635,2,0001220633,"Common shares, par value $0.015"
+A,05/01/2020 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,2432,38605,1,0001220633,"Common shares, par value $0.015"
+D,05/01/2020 00:00:00,Dutt Aditya,4,M-Exempt,--D,30,0,4,0001492890,Dividend equivalent units
+D,05/01/2020 00:00:00,Dutt Aditya,4,M-Exempt,--D,2432,0,3,0001492890,Restricted share units
+A,05/01/2020 00:00:00,Dutt Aditya,4,M-Exempt,--D,30,27735,2,0001492890,"Common shares, par value $0.015"
+A,05/01/2020 00:00:00,Dutt Aditya,4,M-Exempt,--D,2432,27705,1,0001492890,"Common shares, par value $0.015"
+D,05/01/2020 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,30,0,4,0001188563,Dividend equivalent units
+D,05/01/2020 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,2432,0,3,0001188563,Restricted share units
+A,05/01/2020 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,30,2462,2,0001188563,"Common shares, par value $0.015"
+A,05/01/2020 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,2432,2432,1,0001188563,"Common shares, par value $0.015"
+D,05/01/2020 00:00:00,Chwick Jane,4,M-Exempt,--D,30,0,4,0001589706,Dividend equivalent units
+D,05/01/2020 00:00:00,Chwick Jane,4,M-Exempt,--D,2432,0,3,0001589706,Restricted share units
+A,05/01/2020 00:00:00,Chwick Jane,4,M-Exempt,--D,30,5676,2,0001589706,"Common shares, par value $0.015"
+A,05/01/2020 00:00:00,Chwick Jane,4,M-Exempt,--D,2432,5646,1,0001589706,"Common shares, par value $0.015"
+D,05/01/2020 00:00:00,Heise Angela L,4,M-Exempt,--D,30,0,4,0001682427,Dividend equivalent units
+D,05/01/2020 00:00:00,Heise Angela L,4,M-Exempt,--D,2432,0,3,0001682427,Restricted share units
+A,05/01/2020 00:00:00,Heise Angela L,4,M-Exempt,--D,30,5676,2,0001682427,"Common shares, par value $0.015"
+A,05/01/2020 00:00:00,Heise Angela L,4,M-Exempt,--D,2432,5646,1,0001682427,"Common shares, par value $0.015"
+A,03/20/2020 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,196,320,1,0001590264,Dividend equivalent units
+A,03/20/2020 00:00:00,Cashmer Jeff,4,A-Award,--D,294,480,1,0001669813,Dividend equivalent units
+A,03/20/2020 00:00:00,Bhasin Vijay,4,A-Award,--D,294,480,1,0001590262,Dividend equivalent units
+A,03/20/2020 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,15,30,1,0001220633,Dividend equivalent units
+A,03/20/2020 00:00:00,Heise Angela L,4,A-Award,--D,15,30,1,0001682427,Dividend equivalent units
+A,03/20/2020 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,196,320,1,0001223523,Dividend equivalent units
+A,03/20/2020 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,15,30,1,0001221213,Dividend equivalent units
+A,03/20/2020 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,15,30,1,0001196466,Dividend equivalent units
+A,03/20/2020 00:00:00,Dutt Aditya,4,A-Award,--D,15,30,1,0001492890,Dividend equivalent units
+A,03/20/2020 00:00:00,Hissong Joseph,4,A-Award,--D,145,245,1,0001669814,Dividend equivalent units
+A,03/20/2020 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,15,30,1,0001188563,Dividend equivalent units
+A,03/20/2020 00:00:00,CASALE MARK,4,A-Award,--D,1440,2379,1,0001188567,Dividend equivalent units
+A,03/20/2020 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,63,91,1,0001193202,Dividend equivalent units
+A,03/20/2020 00:00:00,Curran Christopher G,4,A-Award,--D,244,391,1,0001768476,Dividend equivalent units
+A,03/20/2020 00:00:00,Chwick Jane,4,A-Award,--D,15,30,1,0001589706,Dividend equivalent units
+A,03/11/2020 00:00:00,GLANVILLE ROBERT,4,P-Purchase,--D,1000,36173,1,0001220633,"Common shares, par value $0.015"
+D,03/01/2020 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1553,10614,9,0001193202,Restricted share units
+D,03/01/2020 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1656,12167,8,0001193202,Restricted share units
+D,03/01/2020 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,770,13823,7,0001193202,Restricted share units
+D,03/01/2020 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,23,28,6,0001193202,Dividend equivalent units
+D,03/01/2020 00:00:00,WEINSTOCK DAVID B,4,F-InKind,--D,1258,24233,5,0001193202,"Common shares, par value $0.015"
+A,03/01/2020 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1553,25491,4,0001193202,"Common shares, par value $0.015"
+A,03/01/2020 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1656,23938,3,0001193202,"Common shares, par value $0.015"
+A,03/01/2020 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,770,22282,2,0001193202,"Common shares, par value $0.015"
+A,03/01/2020 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,23,21512,1,0001193202,"Common shares, par value $0.015"
+D,03/01/2020 00:00:00,Gibbons Mary Lourdes,4,M-Exempt,--D,92,124,3,0001590264,Dividend equivalent units
+D,03/01/2020 00:00:00,Gibbons Mary Lourdes,4,F-InKind,--D,5330,216412,2,0001590264,"Common shares, par value $0.015"
+A,03/01/2020 00:00:00,Gibbons Mary Lourdes,4,M-Exempt,--D,92,221742,1,0001590264,"Common shares, par value $0.015"
+D,03/01/2020 00:00:00,Curran Christopher G,4,M-Exempt,--D,97,147,3,0001768476,Dividend equivalent units
+D,03/01/2020 00:00:00,Curran Christopher G,4,F-InKind,--D,5843,156435,2,0001768476,"Common shares, par value $0.015"
+A,03/01/2020 00:00:00,Curran Christopher G,4,M-Exempt,--D,97,162278,1,0001768476,"Common shares, par value $0.015"
+D,03/01/2020 00:00:00,Hissong Joseph,4,M-Exempt,--D,62,100,3,0001669814,Dividend equivalent units
+D,03/01/2020 00:00:00,Hissong Joseph,4,F-InKind,--D,3702,48792,2,0001669814,"Common shares, par value $0.015"
+A,03/01/2020 00:00:00,Hissong Joseph,4,M-Exempt,--D,62,52494,1,0001669814,"Common shares, par value $0.015"
+D,03/01/2020 00:00:00,MCALEE LAWRENCE E JR,4,M-Exempt,--D,92,124,3,0001223523,Dividend equivalent units
+D,03/01/2020 00:00:00,MCALEE LAWRENCE E JR,4,F-InKind,--D,5330,189649,2,0001223523,"Common shares, par value $0.015"
+A,03/01/2020 00:00:00,MCALEE LAWRENCE E JR,4,M-Exempt,--D,92,194979,1,0001223523,"Common shares, par value $0.015"
+D,03/01/2020 00:00:00,CASALE MARK,4,M-Exempt,--D,575,939,4,0001188567,Dividend equivalent units
+D,03/01/2020 00:00:00,CASALE MARK,4,F-InKind,--D,41791,1457057,2,0001188567,"Common shares, par value $0.015"
+A,03/01/2020 00:00:00,CASALE MARK,4,M-Exempt,--D,575,1498848,1,0001188567,"Common shares, par value $0.015"
+D,03/01/2020 00:00:00,Bhasin Vijay,4,M-Exempt,--D,138,186,3,0001590262,Dividend equivalent units
+D,03/01/2020 00:00:00,Bhasin Vijay,4,F-InKind,--D,9558,172446,2,0001590262,"Common shares, par value $0.015"
+A,03/01/2020 00:00:00,Bhasin Vijay,4,M-Exempt,--D,138,182004,1,0001590262,"Common shares, par value $0.015"
+D,03/01/2020 00:00:00,Cashmer Jeff,4,M-Exempt,--D,138,186,3,0001669813,Dividend equivalent units
+D,03/01/2020 00:00:00,Cashmer Jeff,4,F-InKind,--D,8551,116113,2,0001669813,"Common shares, par value $0.015"
+A,03/01/2020 00:00:00,Cashmer Jeff,4,M-Exempt,--D,138,124664,1,0001669813,"Common shares, par value $0.015"
+A,02/25/2020 00:00:00,GLANVILLE ROBERT,4,P-Purchase,--D,1000,35173,1,0001220633,"Common shares, par value $0.015"
+A,02/12/2020 00:00:00,Bhasin Vijay,4,A-Award,--D,8735,181866,2,0001590262,"Common shares, par value $0.015"
+A,02/12/2020 00:00:00,Bhasin Vijay,4,A-Award,--D,8735,173131,1,0001590262,"Common shares, par value $0.015"
+A,02/12/2020 00:00:00,Curran Christopher G,4,A-Award,--D,7764,162181,2,0001768476,"Common shares, par value $0.015"
+A,02/12/2020 00:00:00,Curran Christopher G,4,A-Award,--D,7764,154417,1,0001768476,"Common shares, par value $0.015"
+A,02/12/2020 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,3697,14593,1,0001193202,Restricted share units
+A,02/12/2020 00:00:00,Cashmer Jeff,4,A-Award,--D,8735,124526,2,0001669813,"Common shares, par value $0.015"
+A,02/12/2020 00:00:00,Cashmer Jeff,4,A-Award,--D,8735,115791,1,0001669813,"Common shares, par value $0.015"
+A,02/12/2020 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,5823,194887,2,0001223523,"Common shares, par value $0.015"
+A,02/12/2020 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,5823,189064,1,0001223523,"Common shares, par value $0.015"
+A,02/12/2020 00:00:00,CASALE MARK,4,A-Award,--D,60596,1498273,2,0001188567,"Common shares, par value $0.015"
+A,02/12/2020 00:00:00,CASALE MARK,4,A-Award,--D,20199,1437677,1,0001188567,"Common shares, par value $0.015"
+A,02/12/2020 00:00:00,Hissong Joseph,4,A-Award,--D,3640,52432,2,0001669814,"Common shares, par value $0.015"
+A,02/12/2020 00:00:00,Hissong Joseph,4,A-Award,--D,3640,48792,1,0001669814,"Common shares, par value $0.015"
+A,02/12/2020 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,5823,221650,2,0001590264,"Common shares, par value $0.015"
+A,02/12/2020 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,5823,215827,1,0001590264,"Common shares, par value $0.015"
+D,02/06/2020 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,6200,192241,1,0001223523,"Common shares, par value $0.015"
+D,01/24/2020 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,400,198441,1,0001223523,"Common shares, par value $0.015"
+D,01/22/2020 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,200,198841,2,0001223523,"Common shares, par value $0.015"
+D,01/17/2020 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,700,199041,1,0001223523,"Common shares, par value $0.015"
+D,01/10/2020 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,6,51,6,0001193202,Dividend equivalent units
+D,01/10/2020 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1081,14455,5,0001193202,Restricted share units
+D,01/10/2020 00:00:00,WEINSTOCK DAVID B,4,F-InKind,--D,399,20806,3,0001193202,"Common shares, par value $0.015"
+A,01/10/2020 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,6,21205,2,0001193202,"Common shares, par value $0.015"
+A,01/10/2020 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1081,21199,1,0001193202,"Common shares, par value $0.015"
+A,01/03/2020 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,2147,15536,4,0001193202,Restricted share units
+D,01/02/2020 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,7500,199741,1,0001223523,"Common shares, par value $0.015"
+D,12/27/2019 00:00:00,Gibbons Mary Lourdes,5,G-Gift,--D,400,210004,1,0001590264,"Common shares, par value $0.015"
+D,12/24/2019 00:00:00,MCALEE LAWRENCE E JR,5,G-Gift,--D,2000,183241,3,0001223523,"Common shares, par value $0.015"
+A,12/20/2019 00:00:00,CASALE MARK,5,G-Gift,--I,250000,250000,3,0001188567,"Common shares, par value $0.015"
+D,12/20/2019 00:00:00,CASALE MARK,5,G-Gift,--D,250000,1417478,2,0001188567,"Common shares, par value $0.015"
+D,12/20/2019 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,10000,207241,1,0001223523,"Common shares, par value $0.015"
+A,12/16/2019 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,7,15,2,0001188563,Dividend equivalent units
+A,12/16/2019 00:00:00,Heise Angela L,4,A-Award,--D,7,15,1,0001682427,Dividend equivalent units
+A,12/16/2019 00:00:00,CASALE MARK,4,A-Award,--D,720,1514,1,0001188567,Dividend equivalent units
+A,12/16/2019 00:00:00,Cashmer Jeff,4,A-Award,--D,154,324,1,0001669813,Dividend equivalent units
+A,12/16/2019 00:00:00,Hissong Joseph,4,A-Award,--D,77,162,1,0001669814,Dividend equivalent units
+A,12/16/2019 00:00:00,Curran Christopher G,4,A-Award,--D,116,244,1,0001768476,Dividend equivalent units
+A,12/16/2019 00:00:00,Chwick Jane,4,A-Award,--D,7,15,1,0001589706,Dividend equivalent units
+A,12/16/2019 00:00:00,Dutt Aditya,4,A-Award,--D,7,15,1,0001492890,Dividend equivalent units
+A,12/16/2019 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,7,15,1,0001220633,Dividend equivalent units
+A,12/16/2019 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,103,216,1,0001590264,Dividend equivalent units
+A,12/16/2019 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,103,216,1,0001223523,Dividend equivalent units
+A,12/16/2019 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,7,15,1,0001221213,Dividend equivalent units
+A,12/16/2019 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,7,15,1,0001196466,Dividend equivalent units
+A,12/16/2019 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,27,57,1,0001193202,Dividend equivalent units
+A,12/16/2019 00:00:00,Bhasin Vijay,4,A-Award,--D,154,324,1,0001590262,Dividend equivalent units
+D,12/13/2019 00:00:00,KASMAR ROY JAMES,4,S-Sale,--I,2000,21905,1,0001188563,"Common shares, par value $0.015"
+D,12/02/2019 00:00:00,CASALE MARK,5,G-Gift,--D,50000,1667478,1,0001188567,"Common shares, par value $0.015"
+D,11/27/2019 00:00:00,Bhasin Vijay,4,S-Sale,--D,40887,164396,1,0001590262,"Common shares, par value $0.015"
+D,11/13/2019 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,2381,210404,1,0001590264,"Common shares, par value $0.015"
+D,10/22/2019 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,2381,212785,1,0001590264,"Common shares, par value $0.015"
+D,10/15/2019 00:00:00,WEINSTOCK DAVID B,4,S-Sale,--D,2000,20118,1,0001193202,"Common shares, par value $0.015"
+D,09/26/2019 00:00:00,MCALEE LAWRENCE E JR,5,G-Gift,--D,2000,185241,2,0001223523,"Common shares, par value $0.015"
+D,09/17/2019 00:00:00,WEINSTOCK DAVID B,4,S-Sale,--D,2000,22118,1,0001193202,"Common shares, par value $0.015"
+A,09/16/2019 00:00:00,Cashmer Jeff,4,A-Award,--D,170,170,1,0001669813,Dividend equivalent units
+A,09/16/2019 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,8,8,1,0001188563,Dividend equivalent units
+A,09/16/2019 00:00:00,Hissong Joseph,4,A-Award,--D,85,85,1,0001669814,Dividend equivalent units
+A,09/16/2019 00:00:00,Curran Christopher G,4,A-Award,--D,128,128,1,0001768476,Dividend equivalent units
+A,09/16/2019 00:00:00,Chwick Jane,4,A-Award,--D,8,8,1,0001589706,Dividend equivalent units
+A,09/16/2019 00:00:00,Dutt Aditya,4,A-Award,--D,8,8,1,0001492890,Dividend equivalent units
+A,09/16/2019 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,30,30,2,0001193202,Dividend equivalent units
+A,09/16/2019 00:00:00,Bhasin Vijay,4,A-Award,--D,170,170,1,0001590262,Dividend equivalent units
+A,09/16/2019 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,113,113,1,0001223523,Dividend equivalent units
+A,09/16/2019 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,8,8,1,0001220633,Dividend equivalent units
+A,09/16/2019 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,113,113,1,0001590264,Dividend equivalent units
+A,09/16/2019 00:00:00,Heise Angela L,4,A-Award,--D,8,8,1,0001682427,Dividend equivalent units
+A,09/16/2019 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,8,8,1,0001196466,Dividend equivalent units
+A,09/16/2019 00:00:00,CASALE MARK,4,A-Award,--D,794,794,1,0001188567,Dividend equivalent units
+A,09/16/2019 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,8,8,1,0001221213,Dividend equivalent units
+D,08/16/2019 00:00:00,WEINSTOCK DAVID B,4,S-Sale,--D,2000,24118,1,0001193202,"Common shares, par value $0.015"
+D,07/16/2019 00:00:00,WEINSTOCK DAVID B,4,S-Sale,--D,2000,26118,1,0001193202,"Common shares, par value $0.015"
+D,07/10/2019 00:00:00,Hissong Joseph,4,S-Sale,--D,19886,57519,1,0001669814,"Common shares, par value $0.015"
+D,07/01/2019 00:00:00,Hissong Joseph,5,F-InKind,--D,12367,45152,1,0001669814,"Common shares, par value $0.015"
+A,06/11/2019 00:00:00,KASMAR ROY JAMES,5,G-Gift,--I,3214,25119,2,0001188563,"Common shares, par value $0.015"
+D,06/11/2019 00:00:00,KASMAR ROY JAMES,5,G-Gift,--D,3214,0,1,0001188563,"Common shares, par value $0.015"
+D,06/10/2019 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,9963,217241,1,0001223523,"Common shares, par value $0.015"
+D,05/30/2019 00:00:00,MCALEE LAWRENCE E JR,5,G-Gift,--D,5000,187241,1,0001223523,"Common shares, par value $0.015"
+A,05/10/2019 00:00:00,PAULS DOUGLAS J,5,G-Gift,--I,3214,24734,2,0001221213,"Common shares, par value $0.015"
+D,05/10/2019 00:00:00,PAULS DOUGLAS J,5,G-Gift,--D,3214,0,1,0001221213,"Common shares, par value $0.015"
+D,05/02/2019 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,3214,2432,4,0001221213,Restricted share units
+A,05/02/2019 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,3214,3214,1,0001221213,"Common shares, par value $0.015"
+D,05/02/2019 00:00:00,Heise Angela L,4,M-Exempt,--D,3214,2432,3,0001682427,Restricted share units
+A,05/02/2019 00:00:00,Heise Angela L,4,M-Exempt,--D,3214,3214,1,0001682427,"Common shares, par value $0.015"
+D,05/02/2019 00:00:00,Dutt Aditya,4,M-Exempt,--D,3214,2432,3,0001492890,Restricted share units
+A,05/02/2019 00:00:00,Dutt Aditya,4,M-Exempt,--D,3214,25273,1,0001492890,"Common shares, par value $0.015"
+D,05/02/2019 00:00:00,Chwick Jane,4,M-Exempt,--D,3214,2432,3,0001589706,Restricted share units
+A,05/02/2019 00:00:00,Chwick Jane,4,M-Exempt,--D,3214,3214,1,0001589706,"Common shares, par value $0.015"
+D,05/02/2019 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,3214,2432,3,0001196466,Restricted share units
+A,05/02/2019 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,3214,25273,1,0001196466,"Common shares, par value $0.015"
+D,05/02/2019 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,3214,2432,3,0001220633,Restricted share units
+A,05/02/2019 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,3214,34173,1,0001220633,"Common shares, par value $0.015"
+D,05/02/2019 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,3214,2432,4,0001188563,Restricted share units
+A,05/02/2019 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,3214,3214,1,0001188563,"Common shares, par value $0.015"
+A,05/01/2019 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,2432,5646,3,0001221213,Restricted share units
+A,05/01/2019 00:00:00,Heise Angela L,4,A-Award,--D,2432,5646,2,0001682427,Restricted share units
+A,05/01/2019 00:00:00,Dutt Aditya,4,A-Award,--D,2432,5646,2,0001492890,Restricted share units
+A,05/01/2019 00:00:00,Chwick Jane,4,A-Award,--D,2432,5646,2,0001589706,Restricted share units
+A,05/01/2019 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,2432,5646,2,0001196466,Restricted share units
+A,05/01/2019 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,2432,5646,2,0001220633,Restricted share units
+A,05/01/2019 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,2432,5646,3,0001188563,Restricted share units
+D,04/17/2019 00:00:00,Cashmer Jeff,4,S-Sale,--D,25000,107056,1,0001669813,"Common shares, par value $0.015"
+A,03/20/2019 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,7321,227204,2,0001223523,"Common shares, par value $0.015"
+A,03/20/2019 00:00:00,CASALE MARK,4,A-Award,--D,76181,1717478,1,0001188567,"Common shares, par value $0.015"
+A,03/20/2019 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,7321,215166,1,0001590264,"Common shares, par value $0.015"
+A,03/20/2019 00:00:00,Hissong Joseph,4,A-Award,--D,6864,77405,1,0001669814,"Common shares, par value $0.015"
+A,03/20/2019 00:00:00,Bhasin Vijay,4,A-Award,--D,10981,205283,1,0001590262,"Common shares, par value $0.015"
+A,03/20/2019 00:00:00,Cashmer Jeff,4,A-Award,--D,10981,132056,1,0001669813,"Common shares, par value $0.015"
+A,03/20/2019 00:00:00,Curran Christopher G,4,A-Award,--D,9761,146653,1,0001768476,"Common shares, par value $0.015"
+D,03/19/2019 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,10000,219883,1,0001223523,"Common shares, par value $0.015"
+D,03/18/2019 00:00:00,Bhasin Vijay,4,S-Sale,--D,45315,194302,1,0001590262,"Common shares, par value $0.015"
+D,03/12/2019 00:00:00,Bhasin Vijay,4,S-Sale,--D,41007,239617,1,0001590262,"Common shares, par value $0.015"
+D,03/01/2019 00:00:00,Gibbons Mary Lourdes,4,F-InKind,--D,4888,207845,1,0001590264,"Common shares, par value $0.015"
+D,03/01/2019 00:00:00,Curran Christopher G,4,F-InKind,--D,4864,136892,1,0001768476,"Common shares, par value $0.015"
+D,03/01/2019 00:00:00,CASALE MARK,4,F-InKind,--D,84181,1641297,1,0001188567,"Common shares, par value $0.015"
+D,03/01/2019 00:00:00,Cashmer Jeff,4,F-InKind,--D,8301,121075,1,0001669813,"Common shares, par value $0.015"
+D,03/01/2019 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1656,13389,7,0001193202,Restricted share units
+D,03/01/2019 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,768,15045,6,0001193202,Restricted share units
+D,03/01/2019 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1241,15813,5,0001193202,Restricted share units
+D,03/01/2019 00:00:00,WEINSTOCK DAVID B,4,F-InKind,--D,1152,28379,4,0001193202,"Common shares, par value $0.015"
+A,03/01/2019 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1656,29531,3,0001193202,"Common shares, par value $0.015"
+A,03/01/2019 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,768,27875,2,0001193202,"Common shares, par value $0.015"
+A,03/01/2019 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1241,27107,1,0001193202,"Common shares, par value $0.015"
+D,03/01/2019 00:00:00,Hissong Joseph,4,F-InKind,--D,4225,70541,1,0001669814,"Common shares, par value $0.015"
+D,03/01/2019 00:00:00,MCALEE LAWRENCE E JR,4,F-InKind,--D,4888,229883,1,0001223523,"Common shares, par value $0.015"
+D,03/01/2019 00:00:00,Bhasin Vijay,4,F-InKind,--D,8872,280624,1,0001590262,"Common shares, par value $0.015"
+D,02/13/2019 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,9000,212733,1,0001590264,"Common shares, par value $0.015"
+A,02/06/2019 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,7321,221733,1,0001590264,"Common shares, par value $0.015"
+A,02/06/2019 00:00:00,Hissong Joseph,4,A-Award,--D,6864,74766,1,0001669814,"Common shares, par value $0.015"
+A,02/06/2019 00:00:00,CASALE MARK,4,A-Award,--D,25394,1725478,1,0001188567,"Common shares, par value $0.015"
+A,02/06/2019 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,4663,17054,1,0001193202,Restricted share units
+A,02/06/2019 00:00:00,Cashmer Jeff,4,A-Award,--D,10981,129376,1,0001669813,"Common shares, par value $0.015"
+A,02/06/2019 00:00:00,Bhasin Vijay,4,A-Award,--D,10981,289496,1,0001590262,"Common shares, par value $0.015"
+A,02/06/2019 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,7321,240606,1,0001223523,"Common shares, par value $0.015"
+D,02/06/2019 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,3000,214412,2,0001590264,"Common shares, par value $0.015"
+D,02/05/2019 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,6000,217412,1,0001590264,"Common shares, par value $0.015"
+D,01/17/2019 00:00:00,Cashmer Jeff,4,S-Sale,--D,25000,118395,1,0001669813,"Common shares, par value $0.015"
+D,01/10/2019 00:00:00,WEINSTOCK DAVID B,5,M-Exempt,--D,1079,13376,3,0001193202,Restricted share units
+D,01/10/2019 00:00:00,WEINSTOCK DAVID B,5,F-InKind,--D,396,21489,2,0001193202,"Common shares, par value $0.015"
+A,01/10/2019 00:00:00,WEINSTOCK DAVID B,5,M-Exempt,--D,1079,21885,1,0001193202,"Common shares, par value $0.015"
+D,12/21/2018 00:00:00,MCALEE LAWRENCE E JR,5,G-Gift,--D,1500,234771,4,0001223523,"Common shares, par value $0.015"
+A,12/07/2018 00:00:00,GLANVILLE ROBERT,4,P-Purchase,--D,1000,30959,2,0001220633,"Common shares, par value $0.015"
+A,12/06/2018 00:00:00,GLANVILLE ROBERT,4,P-Purchase,--D,1000,29959,1,0001220633,"Common shares, par value $0.015"
+D,11/05/2018 00:00:00,MCALEE LAWRENCE E JR,5,G-Gift,--D,335,236271,3,0001223523,"Common shares, par value $0.015"
+D,10/29/2018 00:00:00,MCALEE LAWRENCE E JR,5,G-Gift,--D,2000,236606,2,0001223523,"Common shares, par value $0.015"
+D,10/17/2018 00:00:00,Cashmer Jeff,4,S-Sale,--D,25000,143395,1,0001669813,"Common shares, par value $0.015"
+D,09/14/2018 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,7445,233285,2,0001223523,"Common shares, par value $0.015"
+D,09/14/2018 00:00:00,WEINSTOCK DAVID B,4,S-Sale,--D,2000,25866,1,0001193202,"Common shares, par value $0.015"
+D,09/13/2018 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,9373,240730,1,0001223523,"Common shares, par value $0.015"
+D,09/12/2018 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,18781,223412,1,0001590264,"Common shares, par value $0.015"
+D,09/10/2018 00:00:00,Bhasin Vijay,4,S-Sale,--D,27869,278515,1,0001590262,"Common shares, par value $0.015"
+D,08/30/2018 00:00:00,MCALEE LAWRENCE E JR,5,G-Gift,--D,2000,238606,1,0001223523,"Common shares, par value $0.015"
+A,08/02/2018 00:00:00,KASMAR ROY JAMES,5,G-Gift,--I,3003,23905,2,0001188563,"Common shares, par value $0.015"
+D,08/02/2018 00:00:00,KASMAR ROY JAMES,5,G-Gift,--D,3003,0,1,0001188563,"Common shares, par value $0.015"
+D,07/01/2018 00:00:00,Hissong Joseph,4,F-InKind,--D,1716,67902,1,0001669814,"Common shares, par value $0.015"
+A,05/11/2018 00:00:00,PAULS DOUGLAS J,5,G-Gift,--I,3003,21520,2,0001221213,"Common shares, par value $0.015"
+D,05/11/2018 00:00:00,PAULS DOUGLAS J,5,G-Gift,--D,3003,0,1,0001221213,"Common shares, par value $0.015"
+D,05/03/2018 00:00:00,Dutt Aditya,4,M-Exempt,--D,3003,3214,3,0001492890,Restricted share units
+A,05/03/2018 00:00:00,Dutt Aditya,4,M-Exempt,--D,3003,22059,1,0001492890,"Common shares, par value $0.015"
+D,05/03/2018 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,3003,3214,3,0001196466,Restricted share units
+A,05/03/2018 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,3003,22059,1,0001196466,"Common shares, par value $0.015"
+D,05/03/2018 00:00:00,Levine Allan,4,M-Exempt,--D,3003,3214,3,0001590379,Restricted share units
+A,05/03/2018 00:00:00,Levine Allan,4,M-Exempt,--D,3003,22059,1,0001590379,"Common shares, par value $0.015"
+D,05/03/2018 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,3003,3214,3,0001220633,Restricted share units
+A,05/03/2018 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,3003,28959,1,0001220633,"Common shares, par value $0.015"
+D,05/03/2018 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,3003,3214,4,0001221213,Restricted share units
+A,05/03/2018 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,3003,3003,1,0001221213,"Common shares, par value $0.015"
+D,05/03/2018 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,3003,3214,4,0001188563,Restricted share units
+A,05/03/2018 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,3003,3003,1,0001188563,"Common shares, par value $0.015"
+D,05/03/2018 00:00:00,Turnbull Andrew,4,M-Exempt,--D,3003,0,2,0001590259,Restricted share units
+A,05/03/2018 00:00:00,Turnbull Andrew,4,M-Exempt,--D,3003,22599,1,0001590259,"Common shares, par value $0.015"
+A,05/02/2018 00:00:00,Chwick Jane,4,A-Award,--D,3214,3214,1,0001589706,Restricted share units
+A,05/02/2018 00:00:00,Heise Angela L,4,A-Award,--D,3214,3214,1,0001682427,Restricted share units
+A,05/02/2018 00:00:00,Dutt Aditya,4,A-Award,--D,3214,6217,2,0001492890,Restricted share units
+A,05/02/2018 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,3214,6217,2,0001196466,Restricted share units
+A,05/02/2018 00:00:00,Levine Allan,4,A-Award,--D,3214,6217,2,0001590379,Restricted share units
+A,05/02/2018 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,3214,6217,2,0001220633,Restricted share units
+A,05/02/2018 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,3214,6217,3,0001221213,Restricted share units
+A,05/02/2018 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,3214,6217,3,0001188563,Restricted share units
+D,03/01/2018 00:00:00,MCALEE LAWRENCE E JR,4,F-InKind,--D,5780,250103,1,0001223523,"Common shares, par value $0.015"
+D,03/01/2018 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,768,12391,7,0001193202,Restricted share units
+D,03/01/2018 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1240,13159,6,0001193202,Restricted share units
+D,03/01/2018 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,862,14399,5,0001193202,Restricted share units
+D,03/01/2018 00:00:00,WEINSTOCK DAVID B,4,F-InKind,--D,901,28404,4,0001193202,"Common shares, par value $0.015"
+A,03/01/2018 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,768,29305,3,0001193202,"Common shares, par value $0.015"
+A,03/01/2018 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1240,28537,2,0001193202,"Common shares, par value $0.015"
+A,03/01/2018 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,862,27297,1,0001193202,"Common shares, par value $0.015"
+D,03/01/2018 00:00:00,Hissong Joseph,4,F-InKind,--D,1751,69618,1,0001669814,"Common shares, par value $0.015"
+D,03/01/2018 00:00:00,Bhasin Vijay,4,F-InKind,--D,7309,306384,1,0001590262,"Common shares, par value $0.015"
+D,03/01/2018 00:00:00,CASALE MARK,4,F-InKind,--D,15945,1700084,1,0001188567,"Common shares, par value $0.015"
+D,03/01/2018 00:00:00,Cashmer Jeff,4,F-InKind,--D,7048,168395,1,0001669813,"Common shares, par value $0.015"
+D,03/01/2018 00:00:00,Gibbons Mary Lourdes,4,F-InKind,--D,5780,242193,1,0001590264,"Common shares, par value $0.015"
+D,02/13/2018 00:00:00,CASALE MARK,4,S-Sale,--D,129327,1716029,2,0001188567,"Common shares, par value $0.015"
+D,02/12/2018 00:00:00,CASALE MARK,4,S-Sale,--D,370673,1845356,1,0001188567,"Common shares, par value $0.015"
+A,02/07/2018 00:00:00,Hissong Joseph,4,A-Award,--D,4165,71369,2,0001669814,"Common shares, par value $0.015"
+A,02/07/2018 00:00:00,Hissong Joseph,4,A-Award,--D,4165,67204,1,0001669814,"Common shares, par value $0.015"
+A,02/07/2018 00:00:00,Bhasin Vijay,4,A-Award,--D,9996,313693,2,0001590262,"Common shares, par value $0.015"
+A,02/07/2018 00:00:00,Bhasin Vijay,4,A-Award,--D,9996,303697,1,0001590262,"Common shares, par value $0.015"
+A,02/07/2018 00:00:00,CASALE MARK,4,A-Award,--D,59974,2216029,2,0001188567,"Common shares, par value $0.015"
+A,02/07/2018 00:00:00,CASALE MARK,4,A-Award,--D,19992,2156055,1,0001188567,"Common shares, par value $0.015"
+A,02/07/2018 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,4972,15261,1,0001193202,Restricted share units
+A,02/07/2018 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,6664,260383,2,0001223523,"Common shares, par value $0.015"
+A,02/07/2018 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,6664,253719,1,0001223523,"Common shares, par value $0.015"
+A,02/07/2018 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,6664,248273,2,0001590264,"Common shares, par value $0.015"
+A,02/07/2018 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,6664,241609,1,0001590264,"Common shares, par value $0.015"
+A,02/07/2018 00:00:00,Cashmer Jeff,4,A-Award,--D,9996,175443,2,0001669813,"Common shares, par value $0.015"
+A,02/07/2018 00:00:00,Cashmer Jeff,4,A-Award,--D,9996,165447,1,0001669813,"Common shares, par value $0.015"
+D,01/24/2018 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,200,247055,1,0001223523,"Common shares, par value $0.015"
+D,01/10/2018 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1079,10289,3,0001193202,Restricted share units
+D,01/10/2018 00:00:00,WEINSTOCK DAVID B,4,F-InKind,--D,429,26435,2,0001193202,"Common shares, par value $0.015"
+A,01/10/2018 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,1079,26864,1,0001193202,"Common shares, par value $0.015"
+D,01/01/2018 00:00:00,Gibbons Mary Lourdes,4,F-InKind,--D,17912,234945,1,0001590264,"Common shares, par value $0.015"
+D,01/01/2018 00:00:00,Cashmer Jeff,4,F-InKind,--D,18380,155451,1,0001669813,"Common shares, par value $0.015"
+D,01/01/2018 00:00:00,CASALE MARK,4,F-InKind,--D,454624,2136063,1,0001188567,"Common shares, par value $0.015"
+D,01/01/2018 00:00:00,MCALEE LAWRENCE E JR,4,F-InKind,--D,17912,247255,1,0001223523,"Common shares, par value $0.015"
+D,01/01/2018 00:00:00,Bhasin Vijay,4,F-InKind,--D,19139,293701,1,0001590262,"Common shares, par value $0.015"
+D,12/11/2017 00:00:00,MCALEE LAWRENCE E JR,5,G-Gift,--D,345,255883,4,0001223523,"Common shares, par value $0.015"
+D,12/07/2017 00:00:00,Turnbull Andrew,4,S-Sale,--D,5000,19596,1,0001590259,"Common shares, par value $0.015"
+D,12/06/2017 00:00:00,Gibbons Mary Lourdes,5,G-Gift,--D,300,247973,1,0001590264,"Common shares, par value $0.015"
+D,12/06/2017 00:00:00,Turnbull Andrew,4,S-Sale,--D,5000,24596,1,0001590259,"Common shares, par value $0.015"
+D,12/04/2017 00:00:00,Turnbull Andrew,4,S-Sale,--D,15813,29596,2,0001590259,"Common shares, par value $0.015"
+D,12/01/2017 00:00:00,MCALEE LAWRENCE E JR,5,G-Gift,--D,1655,256228,3,0001223523,"Common shares, par value $0.015"
+D,12/01/2017 00:00:00,Turnbull Andrew,4,S-Sale,--D,10000,45409,1,0001590259,"Common shares, par value $0.015"
+D,11/16/2017 00:00:00,GLANVILLE ROBERT,4,S-Sale,--D,3000,25956,1,0001220633,"Common shares, par value $0.015"
+D,10/20/2017 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,7000,265167,1,0001223523,"Common shares, par value $0.015"
+D,10/20/2017 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,5209,252857,1,0001590264,"Common shares, par value $0.015"
+A,10/18/2017 00:00:00,KASMAR ROY JAMES,5,G-Gift,--I,5545,20902,2,0001188563,"Common shares, par value $0.015"
+D,10/18/2017 00:00:00,KASMAR ROY JAMES,5,G-Gift,--D,5545,0,1,0001188563,"Common shares, par value $0.015"
+D,10/16/2017 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,4836,258066,1,0001590264,"Common shares, par value $0.015"
+D,10/16/2017 00:00:00,WEINSTOCK DAVID B,4,S-Sale,--D,3000,25785,1,0001193202,"Common shares, par value $0.015"
+D,09/19/2017 00:00:00,MCALEE LAWRENCE E JR,5,G-Gift,--D,1500,257883,2,0001223523,"Common shares, par value $0.015"
+D,09/14/2017 00:00:00,WEINSTOCK DAVID B,4,S-Sale,--D,2000,28785,1,0001193202,"Common shares, par value $0.015"
+D,08/14/2017 00:00:00,WEINSTOCK DAVID B,4,S-Sale,--D,2000,30785,1,0001193202,"Common shares, par value $0.015"
+D,08/07/2017 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,4600,262902,1,0001590264,"Common shares, par value $0.015"
+D,08/04/2017 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,3118,272167,1,0001223523,"Common shares, par value $0.015"
+D,08/04/2017 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,4600,267502,1,0001590264,"Common shares, par value $0.015"
+D,07/18/2017 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,393,272102,1,0001590264,"Common shares, par value $0.015"
+D,07/17/2017 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,3000,272495,2,0001590264,"Common shares, par value $0.015"
+D,07/14/2017 00:00:00,WEINSTOCK DAVID B,4,S-Sale,--D,2000,32785,1,0001193202,"Common shares, par value $0.015"
+D,07/14/2017 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,1207,275495,1,0001590264,"Common shares, par value $0.015"
+D,07/07/2017 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,2000,275285,1,0001223523,"Common shares, par value $0.015"
+D,07/03/2017 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,2000,277285,2,0001223523,"Common shares, par value $0.015"
+D,06/30/2017 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,7000,279285,1,0001223523,"Common shares, par value $0.015"
+A,05/10/2017 00:00:00,PAULS DOUGLAS J,5,G-Gift,--I,5545,18517,2,0001221213,"Common shares, par value $0.015"
+D,05/10/2017 00:00:00,PAULS DOUGLAS J,5,G-Gift,--D,5545,0,1,0001221213,"Common shares, par value $0.015"
+A,05/03/2017 00:00:00,GLANVILLE ROBERT,4,A-Award,--D,3003,3003,3,0001220633,Restricted share units
+D,05/03/2017 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,5545,0,2,0001220633,Restricted share units
+A,05/03/2017 00:00:00,GLANVILLE ROBERT,4,M-Exempt,--D,5545,28956,1,0001220633,"Common shares, par value $0.015"
+A,05/03/2017 00:00:00,SPIEGEL WILLIAM,4,A-Award,--D,3003,3003,3,0001196466,Restricted share units
+D,05/03/2017 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,5545,0,2,0001196466,Restricted share units
+A,05/03/2017 00:00:00,SPIEGEL WILLIAM,4,M-Exempt,--D,5545,19056,1,0001196466,"Common shares, par value $0.015"
+A,05/03/2017 00:00:00,KASMAR ROY JAMES,4,A-Award,--D,3003,3003,4,0001188563,Restricted share units
+D,05/03/2017 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,5545,0,3,0001188563,Restricted share units
+A,05/03/2017 00:00:00,KASMAR ROY JAMES,4,M-Exempt,--D,5545,5545,1,0001188563,"Common shares, par value $0.015"
+A,05/03/2017 00:00:00,PAULS DOUGLAS J,4,A-Award,--D,3003,3003,4,0001221213,Restricted share units
+D,05/03/2017 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,5545,0,3,0001221213,Restricted share units
+A,05/03/2017 00:00:00,PAULS DOUGLAS J,4,M-Exempt,--D,5545,5545,1,0001221213,"Common shares, par value $0.015"
+A,05/03/2017 00:00:00,Dutt Aditya,4,A-Award,--D,3003,3003,3,0001492890,Restricted share units
+D,05/03/2017 00:00:00,Dutt Aditya,4,M-Exempt,--D,5545,0,2,0001492890,Restricted share units
+A,05/03/2017 00:00:00,Dutt Aditya,4,M-Exempt,--D,5545,19056,1,0001492890,"Common shares, par value $0.015"
+A,05/03/2017 00:00:00,Levine Allan,4,A-Award,--D,3003,3003,3,0001590379,Restricted share units
+D,05/03/2017 00:00:00,Levine Allan,4,M-Exempt,--D,5545,0,2,0001590379,Restricted share units
+A,05/03/2017 00:00:00,Levine Allan,4,M-Exempt,--D,5545,19056,1,0001590379,"Common shares, par value $0.015"
+A,05/03/2017 00:00:00,Turnbull Andrew,4,A-Award,--D,3003,3003,3,0001590259,Restricted share units
+D,05/03/2017 00:00:00,Turnbull Andrew,4,M-Exempt,--D,5545,0,2,0001590259,Restricted share units
+A,05/03/2017 00:00:00,Turnbull Andrew,4,M-Exempt,--D,5545,55409,1,0001590259,"Common shares, par value $0.015"
+D,05/03/2017 00:00:00,MARZOL ADOLFO,4,M-Exempt,--D,5545,3032,3,0001224101,Restricted share units
+D,05/03/2017 00:00:00,MARZOL ADOLFO,4,F-InKind,--D,1953,3592,2,0001224101,"Common shares, par value $0.015"
+A,05/03/2017 00:00:00,MARZOL ADOLFO,4,M-Exempt,--D,5545,5545,1,0001224101,"Common shares, par value $0.015"
+D,03/23/2017 00:00:00,MCALEE LAWRENCE E JR,5,G-Gift,--D,1000,259383,1,0001223523,"Common shares, par value $0.015"
+A,03/01/2017 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,1240,11368,4,0001193202,Restricted share units
+D,03/01/2017 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,863,10128,3,0001193202,Restricted share units
+D,03/01/2017 00:00:00,WEINSTOCK DAVID B,4,F-InKind,--D,663,73229,2,0001193202,"Common shares, par value $0.015"
+A,03/01/2017 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,2103,73892,1,0001193202,"Common shares, par value $0.015"
+D,03/01/2017 00:00:00,Bhasin Vijay,4,F-InKind,--D,6293,312840,1,0001590262,"Common shares, par value $0.015"
+D,03/01/2017 00:00:00,Hissong Joseph,4,F-InKind,--D,1268,63039,1,0001669814,"Common shares, par value $0.015"
+D,03/01/2017 00:00:00,Gibbons Mary Lourdes,4,F-InKind,--D,5280,276702,1,0001590264,"Common shares, par value $0.015"
+D,03/01/2017 00:00:00,MCALEE LAWRENCE E JR,4,F-InKind,--D,5280,286285,1,0001223523,"Common shares, par value $0.015"
+D,03/01/2017 00:00:00,CASALE MARK,4,F-InKind,--D,13197,2590687,1,0001188567,"Common shares, par value $0.015"
+D,03/01/2017 00:00:00,Cashmer Jeff,4,F-InKind,--D,6081,173831,1,0001669813,"Common shares, par value $0.015"
+D,03/01/2017 00:00:00,WEINSTOCK DAVID B,4/A,M-Exempt,--D,1240,10896,1,0001193202,Restricted share units
+A,02/08/2017 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,8267,292860,2,0001223523,"Common shares, par value $0.015"
+A,02/08/2017 00:00:00,MCALEE LAWRENCE E JR,4,A-Award,--D,8267,284593,1,0001223523,"Common shares, par value $0.015"
+A,02/08/2017 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,2306,10991,1,0001193202,Restricted share units
+A,02/08/2017 00:00:00,Cashmer Jeff,4,A-Award,--D,12401,179912,2,0001669813,"Common shares, par value $0.015"
+A,02/08/2017 00:00:00,Cashmer Jeff,4,A-Award,--D,12401,167511,1,0001669813,"Common shares, par value $0.015"
+A,02/08/2017 00:00:00,CASALE MARK,4,A-Award,--D,74701,2603884,2,0001188567,"Common shares, par value $0.015"
+A,02/08/2017 00:00:00,CASALE MARK,4,A-Award,--D,24801,2529183,1,0001188567,"Common shares, par value $0.015"
+A,02/08/2017 00:00:00,Hissong Joseph,4,A-Award,--D,5167,64307,2,0001669814,"Common shares, par value $0.015"
+A,02/08/2017 00:00:00,Hissong Joseph,4,A-Award,--D,5167,59140,1,0001669814,"Common shares, par value $0.015"
+A,02/08/2017 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,8267,281982,2,0001590264,"Common shares, par value $0.015"
+A,02/08/2017 00:00:00,Gibbons Mary Lourdes,4,A-Award,--D,8267,273715,1,0001590264,"Common shares, par value $0.015"
+A,02/08/2017 00:00:00,Bhasin Vijay,4,A-Award,--D,12401,319133,2,0001590262,"Common shares, par value $0.015"
+A,02/08/2017 00:00:00,Bhasin Vijay,4,A-Award,--D,12401,306732,1,0001590262,"Common shares, par value $0.015"
+A,02/08/2017 00:00:00,MARZOL ADOLFO,4,A-Award,--D,3032,8577,1,0001224101,Restricted share units
+D,01/25/2017 00:00:00,Bhasin Vijay,4,S-Sale,--D,13131,294331,1,0001590262,"Common shares, par value $0.015"
+D,01/20/2017 00:00:00,Bhasin Vijay,4,S-Sale,--D,10000,307462,1,0001590262,"Common shares, par value $0.015"
+D,01/18/2017 00:00:00,Bhasin Vijay,4,S-Sale,--D,7900,317462,2,0001590262,"Common shares, par value $0.015"
+D,01/17/2017 00:00:00,Bhasin Vijay,4,S-Sale,--D,2100,325362,1,0001590262,"Common shares, par value $0.015"
+A,01/10/2017 00:00:00,WEINSTOCK DAVID B,4,A-Award,--D,3239,8685,1,0001193202,Restricted share units
+D,01/04/2017 00:00:00,CASALE MARK,4,S-Sale,--D,167818,2504382,3,0001188567,"Common shares, par value $0.015"
+D,01/03/2017 00:00:00,CASALE MARK,4,S-Sale,--D,82182,2672200,2,0001188567,"Common shares, par value $0.015"
+D,01/01/2017 00:00:00,Gibbons Mary Lourdes,4,F-InKind,--D,3533,265448,1,0001590264,"Common shares, par value $0.015"
+D,01/01/2017 00:00:00,CASALE MARK,4,F-InKind,--D,30905,2754382,1,0001188567,"Common shares, par value $0.015"
+D,01/01/2017 00:00:00,Cashmer Jeff,4,F-InKind,--D,3643,155110,1,0001669813,"Common shares, par value $0.015"
+D,01/01/2017 00:00:00,MCALEE LAWRENCE E JR,4,F-InKind,--D,3533,276326,1,0001223523,"Common shares, par value $0.015"
+D,01/01/2017 00:00:00,Bhasin Vijay,4,F-InKind,--D,3818,327462,1,0001590262,"Common shares, par value $0.015"
+D,01/01/2017 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,558,5446,4,0001193202,Restricted share units
+D,01/01/2017 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,4000,6004,3,0001193202,Restricted share units
+D,01/01/2017 00:00:00,WEINSTOCK DAVID B,4,F-InKind,--D,1639,71789,2,0001193202,"Common shares, par value $0.015"
+A,01/01/2017 00:00:00,WEINSTOCK DAVID B,4,M-Exempt,--D,4558,73428,1,0001193202,"Common shares, par value $0.015"
+D,12/15/2016 00:00:00,PBRA (CAYMAN) Co,4,S-Sale,--I,15772,8322636,2,0001583068,"Common Shares, par value $0.015"
+D,12/14/2016 00:00:00,PBRA (CAYMAN) Co,4,S-Sale,--I,85778,8338408,1,0001583068,"Common Shares, par value $0.015"
+D,12/12/2016 00:00:00,GLANVILLE ROBERT,4,S-Sale,--D,3000,23411,1,0001220633,"Common shares, par value $0.015"
+D,12/01/2016 00:00:00,MCALEE LAWRENCE E JR,5,G-Gift,--D,695,291565,2,0001223523,"Common shares, par value $0.015"
+D,11/11/2016 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,860,279859,2,0001223523,"Common shares, par value $0.015"
+D,11/10/2016 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,6544,280719,1,0001223523,"Common shares, par value $0.015"
+D,11/10/2016 00:00:00,Gibbons Mary Lourdes,4,S-Sale,--D,2500,268981,1,0001590264,"Common shares, par value $0.015"
+D,11/10/2016 00:00:00,PBRA (CAYMAN) Co,4,S-Sale,--I,2300000,8424186,1,0001583068,"Common Shares, par value $0.015"
+D,10/19/2016 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,3000,287263,1,0001223523,"Common shares, par value $0.015"
+D,10/12/2016 00:00:00,MCALEE LAWRENCE E JR,4,S-Sale,--D,2000,290263,1,0001223523,"Common shares, par value $0.015"

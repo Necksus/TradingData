@@ -1,0 +1,881 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/09/2023 00:00:00,Lobo Kevin,4/A,G-Gift,--D,8904,80959,1,0001519419,Common Stock
+D,06/05/2023 00:00:00,Lobo Kevin,4,G-Gift,--D,8904,80959,1,0001519419,Common Stock
+D,06/01/2023 00:00:00,Datar Srikant M.,4,S-Sale,--D,500,5467,1,0001376436,Common Stock
+D,05/18/2023 00:00:00,Datar Srikant M.,4,S-Sale,--D,1000,5967,1,0001376436,Common Stock
+A,05/10/2023 00:00:00,Silvernail Andrew K,4,A-Award,--D,705,7117,1,0001485532,Common Stock
+A,05/10/2023 00:00:00,Suri Rajeev,4,A-Award,--D,705,5215,1,0001738349,Common Stock
+A,05/10/2023 00:00:00,STRYKER RONDA E,4,A-Award,--D,705,3287,1,0001242914,Common Stock
+A,05/10/2023 00:00:00,Skeete Tatum Lisa M,4,A-Award,--D,705,3230,1,0001811382,Common Stock
+A,05/10/2023 00:00:00,McCoy Sherilyn S,4,A-Award,--D,705,5215,1,0001422968,Common Stock
+A,05/10/2023 00:00:00,Golston Allan C.,4,A-Award,--D,705,14242,1,0001509370,Common Stock
+A,05/10/2023 00:00:00,Datar Srikant M.,4,A-Award,--D,705,6967,1,0001376436,Common Stock
+A,05/10/2023 00:00:00,Caforio Giovanni,4,A-Award,--D,705,2555,1,0001533201,Common Stock
+A,05/10/2023 00:00:00,BRAINERD MARY K,4,A-Award,--D,705,5815,1,0001195918,Common Stock
+D,05/08/2023 00:00:00,STRYKER RONDA E,4,G-Gift,--I,200000,3956274,1,0001242914,Common Stock
+D,05/04/2023 00:00:00,Suri Rajeev,4,M-Exempt,--D,841,0,2,0001738349,Restricted Stock Units granted 05/04/2022
+A,05/04/2023 00:00:00,Suri Rajeev,4,M-Exempt,--D,841,4510,1,0001738349,Common Stock
+D,05/04/2023 00:00:00,Skeete Tatum Lisa M,4,M-Exempt,--D,841,0,2,0001811382,Restricted Stock Units granted 05/04/2022
+A,05/04/2023 00:00:00,Skeete Tatum Lisa M,4,M-Exempt,--D,841,2525,1,0001811382,Common Stock
+D,05/04/2023 00:00:00,McCoy Sherilyn S,4,M-Exempt,--D,841,0,2,0001422968,Restricted Stock Units granted 05/04/2022
+A,05/04/2023 00:00:00,McCoy Sherilyn S,4,M-Exempt,--D,841,4510,1,0001422968,Common Stock
+D,05/04/2023 00:00:00,Caforio Giovanni,4,M-Exempt,--D,841,0,2,0001533201,Restricted Stock Units granted 05/04/2022
+A,05/04/2023 00:00:00,Caforio Giovanni,4,M-Exempt,--D,841,1850,1,0001533201,Common Stock
+D,05/04/2023 00:00:00,BRAINERD MARY K,4,M-Exempt,--D,841,0,2,0001195918,Restricted Stock Units granted 05/04/2022
+A,05/04/2023 00:00:00,BRAINERD MARY K,4,M-Exempt,--D,841,5110,1,0001195918,Common Stock
+D,05/01/2023 00:00:00,Menon Viju,4,F-InKind,--D,649,11994,1,0001738369,Common Stock
+D,05/01/2023 00:00:00,Fink M Kathryn,4,F-InKind,--D,140,10103,1,0001663095,Common Stock
+D,05/01/2023 00:00:00,Boehnlein Glenn S,4,F-InKind,--D,572,4615,1,0001670936,Common Stock
+D,05/01/2023 00:00:00,Becker Yin C,4,F-InKind,--D,148,21931,1,0001663135,Common Stock
+D,03/21/2023 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,1048,0,7,0001242914,Restricted Stock Units granted 05/02/2018
+A,03/21/2023 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,1048,2582,4,0001242914,Common Stock
+D,03/21/2023 00:00:00,Stiles Spencer S,4,M-Exempt,--D,107,0,4,0001886430,Dividend Equivalents
+D,03/21/2023 00:00:00,Stiles Spencer S,4,F-InKind,--D,1419,43994,2,0001886430,Common Stock
+A,03/21/2023 00:00:00,Stiles Spencer S,4,M-Exempt,--D,107,45413,1,0001886430,Common Stock
+D,03/21/2023 00:00:00,Pierce James Andrew,4,M-Exempt,--D,107,0,6,0001886518,Dividend Equivalents
+D,03/21/2023 00:00:00,Pierce James Andrew,4,F-InKind,--D,1952,48658,2,0001886518,Common Stock
+A,03/21/2023 00:00:00,Pierce James Andrew,4,M-Exempt,--D,107,50610,1,0001886518,Common Stock
+D,03/21/2023 00:00:00,Menon Viju,4,M-Exempt,--D,88,0,4,0001738369,Dividend Equivalents
+D,03/21/2023 00:00:00,Menon Viju,4,F-InKind,--D,1218,12643,2,0001738369,Common Stock
+A,03/21/2023 00:00:00,Menon Viju,4,M-Exempt,--D,88,13861,1,0001738369,Common Stock
+D,03/21/2023 00:00:00,Lobo Kevin,4,M-Exempt,--D,504,0,4,0001519419,Dividend Equivalents
+D,03/21/2023 00:00:00,Lobo Kevin,4,F-InKind,--D,9425,89828,2,0001519419,Common Stock
+A,03/21/2023 00:00:00,Lobo Kevin,4,M-Exempt,--D,504,99253,1,0001519419,Common Stock
+D,03/21/2023 00:00:00,Fletcher Robert S,4,M-Exempt,--D,65,0,4,0001775075,Dividend Equivalents
+D,03/21/2023 00:00:00,Fletcher Robert S,4,F-InKind,--D,704,8326,2,0001775075,Common Stock
+A,03/21/2023 00:00:00,Fletcher Robert S,4,M-Exempt,--D,65,9030,1,0001775075,Common Stock
+D,03/21/2023 00:00:00,Fink M Kathryn,4,M-Exempt,--D,46,0,4,0001663095,Dividend Equivalents
+D,03/21/2023 00:00:00,Fink M Kathryn,4,F-InKind,--D,752,10222,2,0001663095,Common Stock
+A,03/21/2023 00:00:00,Fink M Kathryn,4,M-Exempt,--D,46,10974,1,0001663095,Common Stock
+D,03/21/2023 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,149,0,4,0001670936,Dividend Equivalents
+D,03/21/2023 00:00:00,Boehnlein Glenn S,4,F-InKind,--D,2715,5187,2,0001670936,Common Stock
+A,03/21/2023 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,149,7902,1,0001670936,Common Stock
+D,03/21/2023 00:00:00,Berry William E Jr,4,F-InKind,--D,337,3482,1,0001600806,Common Stock
+D,03/21/2023 00:00:00,Becker Yin C,4,M-Exempt,--D,22,0,4,0001663135,Dividend Equivalents
+D,03/21/2023 00:00:00,Becker Yin C,4,F-InKind,--D,417,22079,2,0001663135,Common Stock
+A,03/21/2023 00:00:00,Becker Yin C,4,M-Exempt,--D,22,22496,1,0001663135,Common Stock
+A,03/07/2023 00:00:00,Stiles Spencer S,4,A-Award,--D,3827,45306,1,0001886430,Common Stock
+A,03/07/2023 00:00:00,Pierce James Andrew,4,A-Award,--D,3827,50503,1,0001886518,Common Stock
+A,03/07/2023 00:00:00,Menon Viju,4,A-Award,--D,3162,13773,1,0001738369,Common Stock
+A,03/07/2023 00:00:00,Lobo Kevin,4,A-Award,--D,17971,98749,1,0001519419,Common Stock
+A,03/07/2023 00:00:00,Fletcher Robert S,4,A-Award,--D,2329,8965,1,0001775075,Common Stock
+A,03/07/2023 00:00:00,Fink M Kathryn,4,A-Award,--D,1664,10928,1,0001663095,Common Stock
+A,03/07/2023 00:00:00,Boehnlein Glenn S,4,A-Award,--D,5325,7753,1,0001670936,Common Stock
+A,03/07/2023 00:00:00,Becker Yin C,4,A-Award,--D,790,22474,1,0001663135,Common Stock
+D,02/28/2023 00:00:00,Golston Allan C.,4,M-Exempt,--D,3795,0,6,0001509370,Stock Option granted 02/11/2015 (right to buy)
+D,02/28/2023 00:00:00,Golston Allan C.,4,M-Exempt,--D,4355,0,5,0001509370,Stock Option granted 2/12/2014 (right to buy)
+D,02/28/2023 00:00:00,Golston Allan C.,4,S-Sale,--D,5459,13537,4,0001509370,Common Stock
+D,02/28/2023 00:00:00,Golston Allan C.,4,F-InKind,--D,2691,18996,3,0001509370,Common Stock
+A,02/28/2023 00:00:00,Golston Allan C.,4,M-Exempt,--D,3795,21687,2,0001509370,Common Stock
+A,02/28/2023 00:00:00,Golston Allan C.,4,M-Exempt,--D,4355,17892,1,0001509370,Common Stock
+D,02/23/2023 00:00:00,STRYKER RONDA E,4,G-Gift,-EI,220000,4156274,3,0001242914,Common Stock
+D,02/14/2023 00:00:00,STRYKER RONDA E,4,G-Gift,-EI,160000,4376274,2,0001242914,Common Stock
+D,02/10/2023 00:00:00,STRYKER RONDA E,4,G-Gift,-EI,200000,4536274,1,0001242914,Common Stock
+A,02/09/2023 00:00:00,Menon Viju,4,A-Award,--D,18640,18640,3,0001738369,Employee Stock Option granted 02/09/2023 (right to buy)
+D,02/09/2023 00:00:00,Menon Viju,4,S-Sale,--D,2161,10611,1,0001738369,Common Stock
+A,02/09/2023 00:00:00,Stiles Spencer S,4,A-Award,--D,29825,29825,1,0001886430,Employee Stock Option granted 02/09/2023 (right to buy)
+A,02/09/2023 00:00:00,Pierce James Andrew,4,A-Award,--D,29825,29825,1,0001886518,Employee Stock Option granted 02/09/2023 (right to buy)
+A,02/09/2023 00:00:00,Lobo Kevin,4,A-Award,--D,100665,100665,1,0001519419,Employee Stock Option granted 02/09/2023 (right to buy)
+A,02/09/2023 00:00:00,Fletcher Robert S,4,A-Award,--D,15660,15660,1,0001775075,Employee Stock Option granted 02/09/2023 (right to buy)
+A,02/09/2023 00:00:00,Fink M Kathryn,4,A-Award,--D,10440,10440,1,0001663095,Employee Stock Option granted 02/09/2023 (right to buy)
+A,02/09/2023 00:00:00,Boehnlein Glenn S,4,A-Award,--D,30570,30570,1,0001670936,Employee Stock Option granted 02/09/2023 (right to buy)
+A,02/09/2023 00:00:00,Berry William E Jr,4,A-Award,--D,3730,3730,3,0001600806,Employee Stock Option granted 02/09/2023 (right to buy)
+A,02/09/2023 00:00:00,Berry William E Jr,4,A-Award,--D,933,3819,1,0001600806,Common Stock
+A,02/09/2023 00:00:00,Becker Yin C,4,A-Award,--D,4475,4475,1,0001663135,Employee Stock Option granted 02/09/2023 (right to buy)
+D,02/07/2023 00:00:00,STRYKER RONDA E,4,S-Sale,--I,20832,4730754,16,0001242914,Common Stock
+D,02/07/2023 00:00:00,STRYKER RONDA E,4,S-Sale,--I,70648,4751586,15,0001242914,Common Stock
+D,02/07/2023 00:00:00,STRYKER RONDA E,4,S-Sale,--I,23196,4822234,14,0001242914,Common Stock
+D,02/07/2023 00:00:00,STRYKER RONDA E,4,S-Sale,--I,57331,4845430,13,0001242914,Common Stock
+D,02/07/2023 00:00:00,STRYKER RONDA E,4,S-Sale,--I,17930,4902761,12,0001242914,Common Stock
+D,02/07/2023 00:00:00,STRYKER RONDA E,4,S-Sale,--I,22263,4920691,11,0001242914,Common Stock
+D,02/06/2023 00:00:00,STRYKER RONDA E,4,S-Sale,--I,8780,4942954,10,0001242914,Common Stock
+D,02/06/2023 00:00:00,STRYKER RONDA E,4,S-Sale,--I,3420,4951734,9,0001242914,Common Stock
+D,02/06/2023 00:00:00,STRYKER RONDA E,4,S-Sale,--I,8000,4955154,8,0001242914,Common Stock
+D,02/06/2023 00:00:00,STRYKER RONDA E,4,S-Sale,--I,21154,4963154,7,0001242914,Common Stock
+D,02/06/2023 00:00:00,STRYKER RONDA E,4,S-Sale,--I,29808,4984308,6,0001242914,Common Stock
+D,02/06/2023 00:00:00,STRYKER RONDA E,4,S-Sale,--I,37977,5014116,5,0001242914,Common Stock
+D,02/06/2023 00:00:00,STRYKER RONDA E,4,S-Sale,--I,23008,5052093,4,0001242914,Common Stock
+D,02/06/2023 00:00:00,STRYKER RONDA E,4,S-Sale,--I,64143,5075101,3,0001242914,Common Stock
+D,02/06/2023 00:00:00,STRYKER RONDA E,4,S-Sale,--I,34333,5139244,2,0001242914,Common Stock
+D,02/06/2023 00:00:00,STRYKER RONDA E,4,S-Sale,--I,77177,5173577,1,0001242914,Common Stock
+D,02/03/2023 00:00:00,Fletcher Robert S,4,S-Sale,--D,3000,6636,1,0001775075,Common Stock
+D,02/02/2023 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,5520,0,5,0001242914,Stock Option granted 02/13/2013 (right to buy)
+A,02/02/2023 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,5520,7054,2,0001242914,Common Stock
+D,02/02/2023 00:00:00,Pierce James Andrew,4,M-Exempt,--D,12500,0,8,0001886518,Employee Stock Option granted 02/13/2013 (right to buy)
+D,02/02/2023 00:00:00,Pierce James Andrew,4,S-Sale,--D,400,46676,6,0001886518,Common Stock
+D,02/02/2023 00:00:00,Pierce James Andrew,4,F-InKind,--D,7128,47076,5,0001886518,Common Stock
+A,02/02/2023 00:00:00,Pierce James Andrew,4,M-Exempt,--D,12500,54204,4,0001886518,Common Stock
+D,02/02/2023 00:00:00,Boehnlein Glenn S,4,S-Sale,--D,125,2428,4,0001670936,Common Stock
+D,02/02/2023 00:00:00,Boehnlein Glenn S,4,S-Sale,--D,8883,2553,3,0001670936,Common Stock
+D,02/02/2023 00:00:00,Boehnlein Glenn S,4,S-Sale,--D,7708,11436,2,0001670936,Common Stock
+D,02/02/2023 00:00:00,Boehnlein Glenn S,4,S-Sale,--D,7709,19144,1,0001670936,Common Stock
+D,02/02/2023 00:00:00,Berry William E Jr,4,M-Exempt,--D,7415,0,6,0001600806,Employee Stock Option granted 02/11/2015 (right to buy)
+D,02/02/2023 00:00:00,Berry William E Jr,4,S-Sale,--D,755,2886,4,0001600806,Common Stock
+D,02/02/2023 00:00:00,Berry William E Jr,4,S-Sale,--D,3303,3641,3,0001600806,Common Stock
+D,02/02/2023 00:00:00,Berry William E Jr,4,F-InKind,--D,4112,6944,2,0001600806,Common Stock
+A,02/02/2023 00:00:00,Berry William E Jr,4,M-Exempt,--D,7415,11056,1,0001600806,Common Stock
+D,02/02/2023 00:00:00,Becker Yin C,4,M-Exempt,--D,4885,0,4,0001663135,Employee Stock Option granted 02/13/2013 (right to buy)
+D,02/02/2023 00:00:00,Becker Yin C,4,F-InKind,--D,2412,21684,2,0001663135,Common Stock
+A,02/02/2023 00:00:00,Becker Yin C,4,M-Exempt,--D,4885,24096,1,0001663135,Common Stock
+D,01/11/2023 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,14515,0,4,0001670936,Employee Stock Option granted 02/13/2013 (right to buy)
+D,01/11/2023 00:00:00,Boehnlein Glenn S,4,F-InKind,--D,8433,26853,2,0001670936,Common Stock
+A,01/11/2023 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,14515,35286,1,0001670936,Common Stock
+D,01/11/2023 00:00:00,Fink M Kathryn,4,S-Sale,--D,131,9264,9,0001663095,Common Stock
+D,01/11/2023 00:00:00,Fink M Kathryn,4,S-Sale,--D,116,9395,8,0001663095,Common Stock
+D,01/11/2023 00:00:00,Fink M Kathryn,4,S-Sale,--D,346,9511,7,0001663095,Common Stock
+D,01/11/2023 00:00:00,Fink M Kathryn,4,S-Sale,--D,1403,9857,6,0001663095,Common Stock
+D,01/11/2023 00:00:00,Fink M Kathryn,4,S-Sale,--D,3417,11260,5,0001663095,Common Stock
+D,01/11/2023 00:00:00,Fink M Kathryn,4,S-Sale,--D,1158,14677,4,0001663095,Common Stock
+D,01/10/2023 00:00:00,Fink M Kathryn,4,M-Exempt,--D,5174,0,12,0001663095,Employee Stock Option granted 02/10/2016 (right to buy)
+D,01/10/2023 00:00:00,Fink M Kathryn,4,M-Exempt,--D,1397,0,11,0001663095,Employee Stock Option granted 02/11/2015 (right to buy)
+A,01/10/2023 00:00:00,Fink M Kathryn,4,M-Exempt,--D,5174,15835,3,0001663095,Common Stock
+A,01/10/2023 00:00:00,Fink M Kathryn,4,M-Exempt,--D,1397,10661,2,0001663095,Common Stock
+D,01/09/2023 00:00:00,Fink M Kathryn,4,S-Sale,--D,3536,9264,1,0001663095,Common Stock
+A,12/28/2022 00:00:00,Pierce James Andrew,4,G-Gift,-EI,131,377,3,0001886518,Common Stock
+A,12/28/2022 00:00:00,Pierce James Andrew,4,G-Gift,-EI,131,377,2,0001886518,Common Stock
+D,12/28/2022 00:00:00,Pierce James Andrew,4,G-Gift,-ED,262,41704,1,0001886518,Common Stock
+D,12/07/2022 00:00:00,Datar Srikant M.,4,S-Sale,--D,1000,6262,4,0001376436,Common Stock
+D,12/05/2022 00:00:00,Datar Srikant M.,4,M-Exempt,--D,4355,0,6,0001376436,Stock Option granted 2/12/2014 (right to buy)
+D,12/05/2022 00:00:00,Datar Srikant M.,4,S-Sale,--D,500,7262,3,0001376436,Common Stock
+D,12/05/2022 00:00:00,Datar Srikant M.,4,F-InKind,--D,1454,7762,2,0001376436,Common Stock
+A,12/05/2022 00:00:00,Datar Srikant M.,4,M-Exempt,--D,4355,9216,1,0001376436,Common Stock
+D,12/02/2022 00:00:00,Lobo Kevin,4,M-Exempt,--D,187470,0,6,0001519419,Employee Stock Option granted 02/13/2013 (right to buy)
+D,12/02/2022 00:00:00,Lobo Kevin,4,S-Sale,--D,23423,80770,4,0001519419,Common Stock
+D,12/02/2022 00:00:00,Lobo Kevin,4,S-Sale,--D,43809,104193,3,0001519419,Common Stock
+D,12/02/2022 00:00:00,Lobo Kevin,4,F-InKind,--D,120238,148002,2,0001519419,Common Stock
+A,12/02/2022 00:00:00,Lobo Kevin,4,M-Exempt,--D,187470,268240,1,0001519419,Common Stock
+D,11/16/2022 00:00:00,Becker Yin C,4,M-Exempt,--D,4885,4885,4,0001663135,Employee Stock Option granted 02/13/2013 (right to buy)
+D,11/16/2022 00:00:00,Becker Yin C,4,F-InKind,--D,2928,19211,2,0001663135,Common Stock
+A,11/16/2022 00:00:00,Becker Yin C,4,M-Exempt,--D,4885,22139,1,0001663135,Common Stock
+D,11/07/2022 00:00:00,Datar Srikant M.,4,S-Sale,--D,300,4861,1,0001376436,Common Stock
+D,11/02/2022 00:00:00,Datar Srikant M.,4,S-Sale,--D,600,5161,1,0001376436,Common Stock
+D,11/02/2022 00:00:00,Fink M Kathryn,4,S-Sale,--D,340,12774,1,0001663095,Common Stock
+D,11/01/2022 00:00:00,Stiles Spencer S,4,F-InKind,--D,717,41479,1,0001886430,Common Stock
+D,10/01/2022 00:00:00,Pierce James Andrew,4,M-Exempt,--D,1264,2528,6,0001886518,Restricted Stock Units granted 10/01/2021
+D,10/01/2022 00:00:00,Pierce James Andrew,4,F-InKind,--D,627,41966,2,0001886518,Common Stock
+A,10/01/2022 00:00:00,Pierce James Andrew,4,M-Exempt,--D,1264,42593,1,0001886518,Common Stock
+D,10/01/2022 00:00:00,Stiles Spencer S,4,M-Exempt,--D,1264,2528,4,0001886430,Restricted Stock Units granted 10/01/2021
+D,10/01/2022 00:00:00,Stiles Spencer S,4,F-InKind,--D,552,42196,2,0001886430,Common Stock
+A,10/01/2022 00:00:00,Stiles Spencer S,4,M-Exempt,--D,1264,42748,1,0001886430,Common Stock
+A,08/02/2022 00:00:00,Fletcher Robert S,4,A-Award,--D,2343,2343,1,0001775075,Restricted Stock Units granted 08/02/2022
+D,08/01/2022 00:00:00,Stiles Spencer S,4,M-Exempt,--D,765,0,4,0001886430,Restricted Stock Units granted 08/09/2019
+D,08/01/2022 00:00:00,Stiles Spencer S,4,F-InKind,--D,334,35668,2,0001886430,Common Stock
+A,08/01/2022 00:00:00,Stiles Spencer S,4,M-Exempt,--D,765,36002,1,0001886430,Common Stock
+D,08/01/2022 00:00:00,Pierce James Andrew,4,M-Exempt,--D,765,0,6,0001886518,Restricted Stock Units granted 08/09/2019
+D,08/01/2022 00:00:00,Pierce James Andrew,4,F-InKind,--D,380,38791,2,0001886518,Common Stock
+A,08/01/2022 00:00:00,Pierce James Andrew,4,M-Exempt,--D,765,39171,1,0001886518,Common Stock
+D,06/03/2022 00:00:00,Stiles Spencer S,4,M-Exempt,--D,12505,0,4,0001886430,Employee Stock Option granted 02/13/2013 (right to buy)
+D,06/03/2022 00:00:00,Stiles Spencer S,4,F-InKind,--D,7970,35237,2,0001886430,Common Stock
+A,06/03/2022 00:00:00,Stiles Spencer S,4,M-Exempt,--D,12505,43207,1,0001886430,Common Stock
+D,05/26/2022 00:00:00,STRYKER RONDA E,4,G-Gift,-EI,104000,5250754,1,0001242914,Common Stock
+A,05/04/2022 00:00:00,Golston Allan C.,4,A-Award,--D,841,841,3,0001509370,Restricted Stock Units granted 05/04/2022
+D,05/04/2022 00:00:00,Golston Allan C.,4,M-Exempt,--D,693,0,2,0001509370,Restricted Stock Units granted 05/05/2021
+A,05/04/2022 00:00:00,Golston Allan C.,4,M-Exempt,--D,693,10711,1,0001509370,Common Stock
+A,05/04/2022 00:00:00,Datar Srikant M.,4,A-Award,--D,841,841,4,0001376436,Restricted Stock Units granted 05/04/2022
+D,05/04/2022 00:00:00,Datar Srikant M.,4,M-Exempt,--D,693,0,3,0001376436,Restricted Stock Units granted 05/05/2021
+A,05/04/2022 00:00:00,Datar Srikant M.,4,M-Exempt,--D,693,4920,1,0001376436,Common Stock
+A,05/04/2022 00:00:00,Caforio Giovanni,4,A-Award,--D,841,841,3,0001533201,Restricted Stock Units granted 05/04/2022
+D,05/04/2022 00:00:00,Caforio Giovanni,4,M-Exempt,--D,693,0,2,0001533201,Restricted Stock Units granted 05/05/2021
+A,05/04/2022 00:00:00,Caforio Giovanni,4,M-Exempt,--D,693,693,1,0001533201,Common Stock
+A,05/04/2022 00:00:00,BRAINERD MARY K,4,A-Award,--D,841,841,3,0001195918,Restricted Stock Units granted 05/04/2022
+D,05/04/2022 00:00:00,BRAINERD MARY K,4,M-Exempt,--D,693,0,2,0001195918,Restricted Stock Units granted 05/05/2021
+A,05/04/2022 00:00:00,BRAINERD MARY K,4,M-Exempt,--D,693,4269,1,0001195918,Common Stock
+A,05/04/2022 00:00:00,Suri Rajeev,4,A-Award,--D,841,841,3,0001738349,Restricted Stock Units granted 05/04/2022
+D,05/04/2022 00:00:00,Suri Rajeev,4,M-Exempt,--D,693,0,2,0001738349,Restricted Stock Units granted 05/05/2021
+A,05/04/2022 00:00:00,Suri Rajeev,4,M-Exempt,--D,693,3669,1,0001738349,Common Stock
+A,05/04/2022 00:00:00,STRYKER RONDA E,4,A-Award,--D,841,841,6,0001242914,Restricted Stock Units granted 05/04/2022
+D,05/04/2022 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,693,0,5,0001242914,Restricted Stock Units granted 05/05/2021
+A,05/04/2022 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,693,693,2,0001242914,Common Stock
+A,05/04/2022 00:00:00,Skeete Tatum Lisa M,4,A-Award,--D,841,841,3,0001811382,Restricted Stock Units granted 05/04/2022
+D,05/04/2022 00:00:00,Skeete Tatum Lisa M,4,M-Exempt,--D,693,0,2,0001811382,Restricted Stock Units granted 05/05/2021
+A,05/04/2022 00:00:00,Skeete Tatum Lisa M,4,M-Exempt,--D,693,693,1,0001811382,Common Stock
+A,05/04/2022 00:00:00,Silvernail Andrew K,4,A-Award,--D,841,841,1,0001485532,Restricted Stock Units granted 05/04/2022
+A,05/04/2022 00:00:00,McCoy Sherilyn S,4,A-Award,--D,841,841,1,0001422968,Restricted Stock Units granted 05/04/2022
+D,05/01/2022 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,1210,2421,4,0001670936,Restricted Stock Units granted 05/04/2021
+D,05/01/2022 00:00:00,Boehnlein Glenn S,4,F-InKind,--D,572,18350,2,0001670936,Common Stock
+A,05/01/2022 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,1210,18922,1,0001670936,Common Stock
+D,05/01/2022 00:00:00,Becker Yin C,4,M-Exempt,--D,302,605,4,0001663135,Restricted Stock Units granted 05/04/2021
+D,05/01/2022 00:00:00,Becker Yin C,4,F-InKind,--D,97,16649,2,0001663135,Common Stock
+A,05/01/2022 00:00:00,Becker Yin C,4,M-Exempt,--D,302,16746,1,0001663135,Common Stock
+D,05/01/2022 00:00:00,Menon Viju,4,M-Exempt,--D,1267,2534,4,0001738369,Restricted Stock Units granted 05/04/2021
+D,05/01/2022 00:00:00,Menon Viju,4,F-InKind,--D,649,10238,2,0001738369,Common Stock
+A,05/01/2022 00:00:00,Menon Viju,4,M-Exempt,--D,1267,10887,1,0001738369,Common Stock
+D,05/01/2022 00:00:00,Fink M Kathryn,4,M-Exempt,--D,317,634,4,0001663095,Restricted Stock Units granted 05/04/2021
+D,05/01/2022 00:00:00,Fink M Kathryn,4,F-InKind,--D,141,12429,2,0001663095,Common Stock
+A,05/01/2022 00:00:00,Fink M Kathryn,4,M-Exempt,--D,317,12570,1,0001663095,Common Stock
+D,04/30/2022 00:00:00,Fletcher Robert S,4,M-Exempt,--D,4272,0,4,0001775075,Restricted Stock Units granted 04/30/2019
+D,04/30/2022 00:00:00,Fletcher Robert S,4,F-InKind,--D,1512,7293,2,0001775075,Common Stock
+A,04/30/2022 00:00:00,Fletcher Robert S,4,M-Exempt,--D,4272,8805,1,0001775075,Common Stock
+D,03/30/2022 00:00:00,Datar Srikant M.,4,M-Exempt,--D,3520,0,4,0001376436,Stock Option granted 02/13/2013 (right to buy)
+D,03/30/2022 00:00:00,Datar Srikant M.,4,F-InKind,--D,826,4227,2,0001376436,Common Stock
+A,03/30/2022 00:00:00,Datar Srikant M.,4,M-Exempt,--D,3520,5053,1,0001376436,Common Stock
+D,03/21/2022 00:00:00,Stiles Spencer S,4,M-Exempt,--D,5168,0,5,0001886430,2019 Performance Stock Units
+D,03/21/2022 00:00:00,Stiles Spencer S,4,F-InKind,--D,2000,30702,2,0001886430,Common Stock
+A,03/21/2022 00:00:00,Stiles Spencer S,4,M-Exempt,--D,5168,32702,1,0001886430,Common Stock
+D,03/21/2022 00:00:00,Pierce James Andrew,4,M-Exempt,--D,5168,0,7,0001886518,2019 Performance Stock Units
+D,03/21/2022 00:00:00,Pierce James Andrew,4,F-InKind,--D,2351,38406,2,0001886518,Common Stock
+A,03/21/2022 00:00:00,Pierce James Andrew,4,M-Exempt,--D,5168,40757,1,0001886518,Common Stock
+D,03/21/2022 00:00:00,Menon Viju,4,M-Exempt,--D,5652,0,5,0001738369,2019 Performance Stock Units
+D,03/21/2022 00:00:00,Menon Viju,4,F-InKind,--D,2471,9620,2,0001738369,Common Stock
+A,03/21/2022 00:00:00,Menon Viju,4,M-Exempt,--D,5652,12091,1,0001738369,Common Stock
+D,03/21/2022 00:00:00,Lobo Kevin,4,M-Exempt,--D,33925,0,5,0001519419,2019 Performance Stock Units
+D,03/21/2022 00:00:00,Lobo Kevin,4,F-InKind,--D,17329,80647,2,0001519419,Common Stock
+A,03/21/2022 00:00:00,Lobo Kevin,4,M-Exempt,--D,33925,97976,1,0001519419,Common Stock
+D,03/21/2022 00:00:00,Fink M Kathryn,4,M-Exempt,--D,2745,0,5,0001663095,2019 Performance Stock Units
+D,03/21/2022 00:00:00,Fink M Kathryn,4,F-InKind,--D,811,12232,2,0001663095,Common Stock
+A,03/21/2022 00:00:00,Fink M Kathryn,4,M-Exempt,--D,2745,13043,1,0001663095,Common Stock
+D,03/21/2022 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,8723,0,5,0001670936,2019 Performance Stock Units
+D,03/21/2022 00:00:00,Boehnlein Glenn S,4,F-InKind,--D,4116,17712,2,0001670936,Common Stock
+A,03/21/2022 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,8723,21828,1,0001670936,Common Stock
+D,03/21/2022 00:00:00,Berry William E Jr,4,M-Exempt,--D,307,615,8,0001600806,Restricted Stock Units granted 02/03/2021
+D,03/21/2022 00:00:00,Berry William E Jr,4,M-Exempt,--D,312,313,7,0001600806,Restricted Stock Units granted 02/05/2020
+D,03/21/2022 00:00:00,Berry William E Jr,4,M-Exempt,--D,367,0,6,0001600806,Restricted Stock Units granted 02/06/2019
+D,03/21/2022 00:00:00,Berry William E Jr,4,F-InKind,--D,231,755,4,0001600806,Common Stock
+A,03/21/2022 00:00:00,Berry William E Jr,4,M-Exempt,--D,307,986,3,0001600806,Common Stock
+A,03/21/2022 00:00:00,Berry William E Jr,4,M-Exempt,--D,312,679,2,0001600806,Common Stock
+A,03/21/2022 00:00:00,Berry William E Jr,4,M-Exempt,--D,367,367,1,0001600806,Common Stock
+D,03/21/2022 00:00:00,Becker Yin C,4,M-Exempt,--D,1452,0,5,0001663135,2019 Performance Stock Units
+D,03/21/2022 00:00:00,Becker Yin C,4,F-InKind,--D,472,16444,2,0001663135,Common Stock
+A,03/21/2022 00:00:00,Becker Yin C,4,M-Exempt,--D,1452,16916,1,0001663135,Common Stock
+A,03/04/2022 00:00:00,Stiles Spencer S,4,A-Award,--D,5034,5034,4,0001886430,2019 Performance Stock Units
+A,03/04/2022 00:00:00,Pierce James Andrew,4,A-Award,--D,5034,5034,6,0001886518,2019 Performance Stock Units
+A,03/04/2022 00:00:00,Menon Viju,4,A-Award,--D,5505,5505,4,0001738369,2019 Performance Stock Units
+A,03/04/2022 00:00:00,Lobo Kevin,4,A-Award,--D,33043,33043,4,0001519419,2019 Performance Stock Units
+A,03/04/2022 00:00:00,Fink M Kathryn,4,A-Award,--D,2674,2674,4,0001663095,2019 Performance Stock Units
+A,03/04/2022 00:00:00,Boehnlein Glenn S,4,A-Award,--D,8497,8497,4,0001670936,2019 Performance Stock Units
+A,03/04/2022 00:00:00,Becker Yin C,4,A-Award,--D,1415,1415,4,0001663135,2019 Performance Stock Units
+D,02/09/2022 00:00:00,STRYKER RONDA E,4,G-Gift,-EI,640000,5354754,1,0001242914,Common Stock
+D,02/09/2022 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,4945,0,5,0001242914,Stock Option granted 02/21/2012 (right to buy)
+A,02/09/2022 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,4945,4945,2,0001242914,Common Stock
+A,02/02/2022 00:00:00,Stiles Spencer S,4,A-Award,--D,37210,37210,1,0001886430,Employee Stock Option granted 02/02/2022 (right to buy)
+A,02/02/2022 00:00:00,Fink M Kathryn,4,A-Award,--D,12070,12070,1,0001663095,Employee Stock Option granted 02/02/2022 (right to buy)
+A,02/02/2022 00:00:00,Boehnlein Glenn S,4,A-Award,--D,37210,37210,1,0001670936,Employee Stock Option granted 02/02/2022 (right to buy)
+A,02/02/2022 00:00:00,Menon Viju,4,A-Award,--D,22125,22125,1,0001738369,Employee Stock Option granted 02/02/2022 (right to buy)
+A,02/02/2022 00:00:00,Lobo Kevin,4,A-Award,--D,128220,128220,1,0001519419,Employee Stock Option granted 02/02/2022 (right to buy)
+A,02/02/2022 00:00:00,Berry William E Jr,4,A-Award,--D,954,954,2,0001600806,Restricted Stock Units granted 02/02/2022
+A,02/02/2022 00:00:00,Berry William E Jr,4,A-Award,--D,4775,4775,1,0001600806,Employee Stock Option granted 02/02/2022 (right to buy)
+A,02/02/2022 00:00:00,Fletcher Robert S,4,A-Award,--D,17095,17095,1,0001775075,Employee Stock Option granted 02/02/2022 (right to buy)
+A,02/02/2022 00:00:00,Pierce James Andrew,4,A-Award,--D,37210,37210,1,0001886518,Employee Stock Option granted 02/02/2022 (right to buy)
+A,02/02/2022 00:00:00,Becker Yin C,4,A-Award,--D,5030,5030,1,0001663135,Employee Stock Option granted 02/02/2022 (right to buy)
+D,12/21/2021 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,170,3631,4,0001670936,Restricted Stock Units granted 05/04/2021
+D,12/21/2021 00:00:00,Boehnlein Glenn S,4,F-InKind,--D,170,13105,2,0001670936,Common Stock
+A,12/21/2021 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,170,13275,1,0001670936,Common Stock
+D,12/21/2021 00:00:00,Berry William E Jr,4,M-Exempt,--D,35,922,5,0001600806,Restricted Stock Units granted 02/03/2021
+D,12/21/2021 00:00:00,Berry William E Jr,4,M-Exempt,--D,25,625,4,0001600806,Restricted Stock Units granted 02/05/2020
+D,12/21/2021 00:00:00,Berry William E Jr,4,F-InKind,--D,60,0,3,0001600806,Common Stock
+A,12/21/2021 00:00:00,Berry William E Jr,4,M-Exempt,--D,35,60,2,0001600806,Common Stock
+A,12/21/2021 00:00:00,Berry William E Jr,4,M-Exempt,--D,25,25,1,0001600806,Common Stock
+D,12/21/2021 00:00:00,Becker Yin C,4,M-Exempt,--D,44,907,3,0001663135,Restricted Stock Units granted 05/04/2021
+D,12/21/2021 00:00:00,Becker Yin C,4,F-InKind,--D,44,15464,2,0001663135,Common Stock
+A,12/21/2021 00:00:00,Becker Yin C,4,M-Exempt,--D,44,15508,1,0001663135,Common Stock
+D,12/10/2021 00:00:00,Boehnlein Glenn S,4,S-Sale,--D,574,13105,3,0001670936,Common Stock
+D,12/10/2021 00:00:00,Boehnlein Glenn S,4,S-Sale,--D,1757,13679,2,0001670936,Common Stock
+D,12/10/2021 00:00:00,Boehnlein Glenn S,4,S-Sale,--D,447,15436,1,0001670936,Common Stock
+D,12/03/2021 00:00:00,Pierce James Andrew,4,M-Exempt,--D,1765,0,6,0001886518,Employee Stock Option granted 02/21/2012 (right to buy)
+D,12/03/2021 00:00:00,Pierce James Andrew,4,F-InKind,--D,1069,35589,2,0001886518,Common Stock
+A,12/03/2021 00:00:00,Pierce James Andrew,4,M-Exempt,--D,1765,36658,1,0001886518,Common Stock
+D,11/26/2021 00:00:00,Becker Yin C,4,M-Exempt,--D,8630,0,3,0001663135,Employee Stock Option granted 02/21/2012 (right to buy)
+D,11/26/2021 00:00:00,Becker Yin C,4,F-InKind,--D,4918,15464,2,0001663135,Common Stock
+A,11/26/2021 00:00:00,Becker Yin C,4,M-Exempt,--D,8630,20382,1,0001663135,Common Stock
+D,11/11/2021 00:00:00,Datar Srikant M.,4,S-Sale,--D,1000,1533,1,0001376436,Common Stock
+D,11/05/2021 00:00:00,STRYKER RONDA E,4,G-Gift,-EI,29500,5989809,1,0001242914,Common Stock
+D,11/01/2021 00:00:00,Stiles Spencer S,4,M-Exempt,--D,1644,3288,3,0001886430,Restricted Stock Units granted 11/03/2020
+D,11/01/2021 00:00:00,Stiles Spencer S,4,F-InKind,--D,717,27534,2,0001886430,Common Stock
+A,11/01/2021 00:00:00,Stiles Spencer S,4,M-Exempt,--D,1644,28251,1,0001886430,Common Stock
+A,10/01/2021 00:00:00,Stiles Spencer S,4,A-Award,--D,3792,3792,1,0001886430,Restricted Stock Units granted 10/01/2021
+A,10/01/2021 00:00:00,Pierce James Andrew,4,A-Award,--D,3792,3792,1,0001886518,Restricted Stock Units granted 10/01/2021
+D,09/09/2021 00:00:00,Datar Srikant M.,4,M-Exempt,--D,2000,3520,3,0001376436,Stock Option granted 02/13/2013 (right to buy)
+D,09/09/2021 00:00:00,Datar Srikant M.,4,F-InKind,--D,458,2533,2,0001376436,Common Stock
+A,09/09/2021 00:00:00,Datar Srikant M.,4,M-Exempt,--D,2000,2991,1,0001376436,Common Stock
+D,08/06/2021 00:00:00,STRYKER RONDA E,4,G-Gift,-EI,566417,6019309,2,0001242914,Common Stock
+D,08/06/2021 00:00:00,STRYKER RONDA E,4,S-Sale,--I,150000,6585726,1,0001242914,Common Stock
+D,08/05/2021 00:00:00,Fletcher Robert S,4,S-Sale,--D,1120,4533,1,0001775075,Common Stock
+D,08/01/2021 00:00:00,Scannell Timothy J,4,M-Exempt,--D,3659,0,4,0001451533,Restricted Stock Units granted 07/09/2018
+D,08/01/2021 00:00:00,Scannell Timothy J,4,F-InKind,--D,1872,219707,2,0001451533,Common Stock
+A,08/01/2021 00:00:00,Scannell Timothy J,4,M-Exempt,--D,3659,221579,1,0001451533,Common Stock
+A,05/05/2021 00:00:00,STRYKER RONDA E,4,A-Award,--D,693,693,1,0001242914,Restricted Stock Units granted 05/05/2021
+A,05/05/2021 00:00:00,Suri Rajeev,4,A-Award,--D,693,693,1,0001738349,Restricted Stock Units granted 05/05/2021
+A,05/05/2021 00:00:00,Silvernail Andrew K,4,A-Award,--D,693,693,1,0001485532,Restricted Stock Units granted 05/05/2021
+A,05/05/2021 00:00:00,McCoy Sherilyn S,4,A-Award,--D,693,693,1,0001422968,Restricted Stock Units granted 05/05/2021
+A,05/05/2021 00:00:00,Golston Allan C.,4,A-Award,--D,693,693,1,0001509370,Restricted Stock Units granted 05/05/2021
+A,05/05/2021 00:00:00,Datar Srikant M.,4,A-Award,--D,693,693,1,0001376436,Restricted Stock Units granted 05/05/2021
+A,05/05/2021 00:00:00,Caforio Giovanni,4,A-Award,--D,693,693,1,0001533201,Restricted Stock Units granted 05/05/2021
+A,05/05/2021 00:00:00,BRAINERD MARY K,4,A-Award,--D,693,693,1,0001195918,Restricted Stock Units granted 05/05/2021
+D,05/05/2021 00:00:00,Suri Rajeev,4,M-Exempt,--D,991,0,2,0001738349,Restricted Stock Units granted 05/05/2020
+A,05/05/2021 00:00:00,Suri Rajeev,4,M-Exempt,--D,991,2976,1,0001738349,Common Stock
+D,05/05/2021 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,991,0,3,0001242914,Restricted Stock Units granted 05/05/2020
+A,05/05/2021 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,991,6663,1,0001242914,Common Stock
+D,05/05/2021 00:00:00,Golston Allan C.,4,M-Exempt,--D,991,0,2,0001509370,Restricted Stock Units granted 05/05/2020
+A,05/05/2021 00:00:00,Golston Allan C.,4,M-Exempt,--D,991,10018,1,0001509370,Common Stock
+D,05/05/2021 00:00:00,Doliveux Roch,4,M-Exempt,--D,991,0,3,0001494947,Restricted Stock Units granted 05/05/2020
+D,05/05/2021 00:00:00,Doliveux Roch,4,F-InKind,--D,24,23037,2,0001494947,Common Stock
+A,05/05/2021 00:00:00,Doliveux Roch,4,M-Exempt,--D,991,23061,1,0001494947,Common Stock
+D,05/05/2021 00:00:00,Datar Srikant M.,4,M-Exempt,--D,991,0,2,0001376436,Restricted Stock Units granted 05/05/2020
+A,05/05/2021 00:00:00,Datar Srikant M.,4,M-Exempt,--D,991,991,1,0001376436,Common Stock
+D,05/05/2021 00:00:00,BRAINERD MARY K,4,M-Exempt,--D,991,0,2,0001195918,Restricted Stock Units granted 05/05/2020
+A,05/05/2021 00:00:00,BRAINERD MARY K,4,M-Exempt,--D,991,3576,1,0001195918,Common Stock
+A,05/04/2021 00:00:00,Fink M Kathryn,4,A-Award,--D,951,951,1,0001663095,Restricted Stock Units granted 05/04/2021
+A,05/04/2021 00:00:00,Menon Viju,4,A-Award,--D,3801,3801,1,0001738369,Restricted Stock Units granted 05/04/2021
+A,05/04/2021 00:00:00,Boehnlein Glenn S,4,A-Award,--D,3801,3801,1,0001670936,Restricted Stock Units granted 05/04/2021
+A,05/04/2021 00:00:00,Becker Yin C,4,A-Award,--D,951,951,1,0001663135,Restricted Stock Units granted 05/04/2021
+D,05/04/2021 00:00:00,Lobo Kevin,4,S-Sale,--D,107795,63978,2,0001519419,Common Stock
+D,05/03/2021 00:00:00,Lobo Kevin,4,M-Exempt,--D,107795,0,4,0001519419,Employee Stock Option granted 10/01/2012 (right to buy)
+A,05/03/2021 00:00:00,Lobo Kevin,4,M-Exempt,--D,107795,171773,1,0001519419,Common Stock
+D,05/01/2021 00:00:00,Menon Viju,4,M-Exempt,--D,3443,0,4,0001738369,Restricted Stock Units granted 05/01/2018
+D,05/01/2021 00:00:00,Menon Viju,4,F-InKind,--D,1282,6439,2,0001738369,Common Stock
+A,05/01/2021 00:00:00,Menon Viju,4,M-Exempt,--D,3443,7721,1,0001738369,Common Stock
+D,04/30/2021 00:00:00,Fletcher Robert S,4,M-Exempt,--D,4272,4272,4,0001775075,Restricted Stock Units granted 04/30/2019
+D,04/30/2021 00:00:00,Fletcher Robert S,4,F-InKind,--D,1497,5653,2,0001775075,Common Stock
+A,04/30/2021 00:00:00,Fletcher Robert S,4,M-Exempt,--D,4272,7150,1,0001775075,Common Stock
+D,04/30/2021 00:00:00,Berry William E Jr,4,S-Sale,--D,5011,0,1,0001600806,Common Stock
+D,04/12/2021 00:00:00,Berry William E Jr,4,M-Exempt,--D,7765,0,7,0001600806,Employee Stock Option granted 02/12/2014 (right to buy)
+D,04/12/2021 00:00:00,Berry William E Jr,4,M-Exempt,--D,1335,0,6,0001600806,Employee Stock Option granted 02/13/2013 (right to buy)
+D,04/12/2021 00:00:00,Berry William E Jr,4,F-InKind,--D,4590,5011,4,0001600806,Common Stock
+A,04/12/2021 00:00:00,Berry William E Jr,4,M-Exempt,--D,7765,9601,3,0001600806,Common Stock
+D,04/12/2021 00:00:00,Berry William E Jr,4,F-InKind,--D,624,1836,2,0001600806,Common Stock
+A,04/12/2021 00:00:00,Berry William E Jr,4,M-Exempt,--D,1335,2460,1,0001600806,Common Stock
+D,04/08/2021 00:00:00,Fink M Kathryn,4,S-Sale,--D,4000,10243,1,0001663095,Common Stock
+D,03/21/2021 00:00:00,Scannell Timothy J,4,F-InKind,--D,3946,217920,2,0001451533,Common Stock
+A,03/21/2021 00:00:00,Scannell Timothy J,4,A-Award,--D,8268,221866,1,0001451533,Common Stock
+D,03/21/2021 00:00:00,Lobo Kevin,4,F-InKind,--D,13646,63928,3,0001519419,Common Stock
+A,03/21/2021 00:00:00,Lobo Kevin,4,A-Award,--D,26674,77574,2,0001519419,Common Stock
+D,03/21/2021 00:00:00,Fink M Kathryn,4,F-InKind,--D,573,14214,2,0001663095,Common Stock
+A,03/21/2021 00:00:00,Fink M Kathryn,4,A-Award,--D,1999,14787,1,0001663095,Common Stock
+D,03/21/2021 00:00:00,Boehnlein Glenn S,4,F-InKind,--D,2839,15883,2,0001670936,Common Stock
+A,03/21/2021 00:00:00,Boehnlein Glenn S,4,A-Award,--D,6401,18722,1,0001670936,Common Stock
+D,03/21/2021 00:00:00,Berry William E Jr,4,M-Exempt,--D,325,650,10,0001600806,Restricted Stock Units granted 02/05/2020
+D,03/21/2021 00:00:00,Berry William E Jr,4,M-Exempt,--D,367,367,9,0001600806,Restricted Stock Units granted 02/06/2019
+D,03/21/2021 00:00:00,Berry William E Jr,4,A-Award,--D,427,0,8,0001600806,Restricted Stock Units granted 02/07/2018
+D,03/21/2021 00:00:00,Berry William E Jr,4,F-InKind,--D,80,1125,6,0001600806,Common Stock
+A,03/21/2021 00:00:00,Berry William E Jr,4,M-Exempt,--D,325,1205,5,0001600806,Common Stock
+D,03/21/2021 00:00:00,Berry William E Jr,4,F-InKind,--D,105,880,4,0001600806,Common Stock
+A,03/21/2021 00:00:00,Berry William E Jr,4,M-Exempt,--D,367,985,3,0001600806,Common Stock
+D,03/21/2021 00:00:00,Berry William E Jr,4,F-InKind,--D,123,618,2,0001600806,Common Stock
+A,03/21/2021 00:00:00,Berry William E Jr,4,M-Exempt,--D,427,741,1,0001600806,Common Stock
+D,03/21/2021 00:00:00,Becker Yin C,4,F-InKind,--D,335,11752,2,0001663135,Common Stock
+A,03/21/2021 00:00:00,Becker Yin C,4,A-Award,--D,1066,12087,1,0001663135,Common Stock
+D,03/05/2021 00:00:00,Lobo Kevin,4,G-Gift,-ED,19514,50900,1,0001519419,Common Stock
+D,03/01/2021 00:00:00,Boehnlein Glenn S,4,S-Sale,--D,2000,12321,1,0001670936,Common Stock
+D,02/23/2021 00:00:00,STRYKER RONDA E,4,G-Gift,-EI,90000,6729063,2,0001242914,Common Stock
+D,02/08/2021 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,4735,0,2,0001242914,Stock Option granted 02/09/2011 (right to buy)
+A,02/08/2021 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,4735,81672,1,0001242914,Common Stock
+A,02/03/2021 00:00:00,Scannell Timothy J,4,A-Award,--D,63795,63795,1,0001451533,Employee Stock Option granted 02/03/2021 (right to buy)
+A,02/03/2021 00:00:00,Menon Viju,4,A-Award,--D,22330,22330,1,0001738369,Employee Stock Option granted 02/03/2021 (right to buy)
+A,02/03/2021 00:00:00,Lobo Kevin,4,A-Award,--D,127590,127590,1,0001519419,Employee Stock Option granted 02/03/2021 (right to buy)
+A,02/03/2021 00:00:00,Fletcher Robert S,4,A-Award,--D,17010,17010,1,0001775075,Employee Stock Option granted 02/03/2021 (right to buy)
+A,02/03/2021 00:00:00,Fink M Kathryn,4,A-Award,--D,11695,11695,1,0001663095,Employee Stock Option granted 02/03/2021 (right to buy)
+A,02/03/2021 00:00:00,Boehnlein Glenn S,4,A-Award,--D,36150,36150,1,0001670936,Employee Stock Option granted 02/03/2021 (right to buy)
+A,02/03/2021 00:00:00,Berry William E Jr,4,A-Award,--D,957,957,2,0001600806,Restricted Stock Units granted 02/03/2021
+A,02/03/2021 00:00:00,Berry William E Jr,4,A-Award,--D,4785,4785,1,0001600806,Employee Stock Option granted 02/03/2021 (right to buy)
+A,02/03/2021 00:00:00,Becker Yin C,4,A-Award,--D,5105,5105,1,0001663135,Employee Stock Option granted 02/03/2021 (right to buy)
+D,12/28/2020 00:00:00,Boehnlein Glenn S,4,S-Sale,--D,2000,14321,1,0001670936,Common Stock
+D,12/14/2020 00:00:00,Datar Srikant M.,5,G-Gift,--I,19827,19827,3,0001376436,Common Stock
+D,12/07/2020 00:00:00,Lobo Kevin,4,M-Exempt,--D,27985,0,5,0001519419,Employee Stock Option granted 02/21/2012 (right to buy)
+D,12/07/2020 00:00:00,Lobo Kevin,4,S-Sale,--D,10697,70391,3,0001519419,Common Stock
+D,12/07/2020 00:00:00,Lobo Kevin,4,F-InKind,--D,17288,81088,2,0001519419,Common Stock
+A,12/07/2020 00:00:00,Lobo Kevin,4,M-Exempt,--D,27985,98376,1,0001519419,Common Stock
+D,11/23/2020 00:00:00,Scannell Timothy J,4,M-Exempt,--D,62490,0,8,0001451533,Employee Stock Option granted 02/13/2013 (right to buy)
+D,11/23/2020 00:00:00,Scannell Timothy J,4,M-Exempt,--D,36100,0,7,0001451533,Employee Stock Option granted 02/21/2012 (right to buy)
+D,11/23/2020 00:00:00,Scannell Timothy J,4,S-Sale,--D,5000,213598,5,0001451533,Common Stock
+D,11/23/2020 00:00:00,Scannell Timothy J,4,F-InKind,--D,40356,218598,4,0001451533,Common Stock
+A,11/23/2020 00:00:00,Scannell Timothy J,4,M-Exempt,--D,62490,258954,3,0001451533,Common Stock
+D,11/23/2020 00:00:00,Scannell Timothy J,4,F-InKind,--D,22525,196464,2,0001451533,Common Stock
+A,11/23/2020 00:00:00,Scannell Timothy J,4,M-Exempt,--D,36100,218989,1,0001451533,Common Stock
+D,11/13/2020 00:00:00,Berry William E Jr,4,S-Sale,--D,1275,314,1,0001600806,Common Stock
+A,10/30/2020 00:00:00,Datar Srikant M.,5,G-Gift,--I,19827,19827,2,0001376436,Common Stock
+D,10/30/2020 00:00:00,Datar Srikant M.,5,G-Gift,--D,19827,0,1,0001376436,Common Stock
+D,10/13/2020 00:00:00,Datar Srikant M.,4,M-Exempt,--D,1945,0,4,0001376436,Employee Stock Option granted 02/21/2012 (right to buy)
+D,10/13/2020 00:00:00,Datar Srikant M.,4,F-InKind,--D,463,19827,2,0001376436,Common Stock
+A,10/13/2020 00:00:00,Datar Srikant M.,4,M-Exempt,--D,1945,20290,1,0001376436,Common Stock
+D,09/17/2020 00:00:00,Datar Srikant M.,4,M-Exempt,--D,3000,1945,4,0001376436,Employee Stock Option granted 02/21/2012 (right to buy)
+D,09/17/2020 00:00:00,Datar Srikant M.,4,F-InKind,--D,746,18345,2,0001376436,Common Stock
+A,09/17/2020 00:00:00,Datar Srikant M.,4,M-Exempt,--D,3000,19091,1,0001376436,Common Stock
+D,08/06/2020 00:00:00,STRYKER RONDA E,4,S-Sale,--I,40000,0,2,0001242914,Common Stock
+D,08/06/2020 00:00:00,STRYKER RONDA E,4,S-Sale,--I,100000,6809068,1,0001242914,Common Stock
+D,08/01/2020 00:00:00,Scannell Timothy J,4,M-Exempt,--D,3659,3659,4,0001451533,Restricted Stock Units granted 07/09/2018
+D,08/01/2020 00:00:00,Scannell Timothy J,4,F-InKind,--D,1872,182887,2,0001451533,Common Stock
+A,08/01/2020 00:00:00,Scannell Timothy J,4,M-Exempt,--D,3659,184759,1,0001451533,Common Stock
+A,07/31/2020 00:00:00,Doliveux Roch,4,P-Purchase,--D,53,22070,1,0001494947,Common Stock
+D,07/31/2020 00:00:00,Lobo Kevin,4,S-Sale,--D,25855,70349,2,0001519419,Common Stock
+D,07/30/2020 00:00:00,Lobo Kevin,4,M-Exempt,--D,25855,0,4,0001519419,Employee Stock Option granted 04/26/2011 (right to buy)
+A,07/30/2020 00:00:00,Lobo Kevin,4,M-Exempt,--D,25855,96204,1,0001519419,Common Stock
+D,06/15/2020 00:00:00,Boehnlein Glenn S,4,S-Sale,--D,10351,16321,1,0001670936,Common Stock
+D,05/29/2020 00:00:00,Golston Allan C.,4,M-Exempt,--D,5520,0,7,0001509370,Stock Option granted 02/13/2013 (right to buy)
+D,05/29/2020 00:00:00,Golston Allan C.,4,M-Exempt,--D,4945,0,6,0001509370,Stock Option granted 02/21/2012 (right to buy)
+D,05/29/2020 00:00:00,Golston Allan C.,4,S-Sale,--D,7299,9027,5,0001509370,Common Stock
+D,05/29/2020 00:00:00,Golston Allan C.,4,F-InKind,--D,1809,16326,4,0001509370,Common Stock
+A,05/29/2020 00:00:00,Golston Allan C.,4,M-Exempt,--D,5520,18135,3,0001509370,Common Stock
+D,05/29/2020 00:00:00,Golston Allan C.,4,F-InKind,--D,1357,12615,2,0001509370,Common Stock
+A,05/29/2020 00:00:00,Golston Allan C.,4,M-Exempt,--D,4945,13972,1,0001509370,Common Stock
+D,05/20/2020 00:00:00,Datar Srikant M.,4,S-Sale,--D,400,16091,4,0001376436,Common Stock
+D,05/19/2020 00:00:00,Datar Srikant M.,4,M-Exempt,--D,1235,0,6,0001376436,Stock Option granted 02/09/2011 (right to buy)
+D,05/19/2020 00:00:00,Datar Srikant M.,4,S-Sale,--D,350,16491,3,0001376436,Common Stock
+D,05/19/2020 00:00:00,Datar Srikant M.,4,F-InKind,--D,385,16841,2,0001376436,Common Stock
+A,05/19/2020 00:00:00,Datar Srikant M.,4,M-Exempt,--D,1235,17226,1,0001376436,Common Stock
+D,05/08/2020 00:00:00,Datar Srikant M.,4,S-Sale,--D,200,15991,6,0001376436,Common Stock
+D,05/07/2020 00:00:00,Datar Srikant M.,4,S-Sale,--D,200,16191,5,0001376436,Common Stock
+D,05/07/2020 00:00:00,Datar Srikant M.,4,S-Sale,--D,300,16391,4,0001376436,Common Stock
+D,05/07/2020 00:00:00,Owen Katherine Ann,4,S-Sale,--D,3121,1085,7,0001485079,Common Stock
+D,05/06/2020 00:00:00,Datar Srikant M.,4,M-Exempt,--D,2500,1235,8,0001376436,Stock Option granted 02/09/2011 (right to buy)
+D,05/06/2020 00:00:00,Datar Srikant M.,4,S-Sale,--D,200,16691,3,0001376436,Common Stock
+D,05/06/2020 00:00:00,Datar Srikant M.,4,F-InKind,--D,795,16891,2,0001376436,Common Stock
+A,05/06/2020 00:00:00,Datar Srikant M.,4,M-Exempt,--D,2500,17686,1,0001376436,Common Stock
+D,05/06/2020 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,5500,12865,11,0001485079,Employee Stock Option granted 02/08/2017 (right to buy)
+D,05/06/2020 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,4087,4087,10,0001485079,Employee Stock Option granted 02/10/2016 (right to buy)
+D,05/06/2020 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,3396,0,9,0001485079,Employee Stock Option granted 02/11/2015 (right to buy)
+D,05/06/2020 00:00:00,Owen Katherine Ann,4,F-InKind,--D,4436,4206,6,0001485079,Common Stock
+A,05/06/2020 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,5500,8642,5,0001485079,Common Stock
+D,05/06/2020 00:00:00,Owen Katherine Ann,4,F-InKind,--D,2983,3142,4,0001485079,Common Stock
+A,05/06/2020 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,4087,6125,3,0001485079,Common Stock
+D,05/06/2020 00:00:00,Owen Katherine Ann,4,F-InKind,--D,2443,2038,2,0001485079,Common Stock
+A,05/06/2020 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,3396,4481,1,0001485079,Common Stock
+A,05/05/2020 00:00:00,Doliveux Roch,4,A-Award,--D,991,991,1,0001494947,Restricted Stock Units granted 05/05/2020
+D,05/05/2020 00:00:00,Owen Katherine Ann,4,S-Sale,--D,9149,1085,1,0001485079,Common Stock
+D,05/01/2020 00:00:00,Menon Viju,4,M-Exempt,--D,3443,3443,4,0001738369,Restricted Stock Units granted 05/01/2018
+D,05/01/2020 00:00:00,Menon Viju,4,F-InKind,--D,1344,4278,2,0001738369,Common Stock
+A,05/01/2020 00:00:00,Menon Viju,4,M-Exempt,--D,3443,5622,1,0001738369,Common Stock
+D,05/01/2020 00:00:00,Suri Rajeev,4,M-Exempt,--D,937,0,2,0001738349,Restricted Stock Units granted 05/01/2019
+A,05/01/2020 00:00:00,Suri Rajeev,4,M-Exempt,--D,937,1985,1,0001738349,Common Stock
+D,05/01/2020 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,937,0,6,0001242914,Restricted Stock Units granted 05/01/2019
+A,05/01/2020 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,937,86932,1,0001242914,Common Stock
+D,05/01/2020 00:00:00,FRANCESCONI LOUISE,4,M-Exempt,--D,937,0,2,0001194786,Restricted Stock Units granted 05/01/2019
+A,05/01/2020 00:00:00,FRANCESCONI LOUISE,4,M-Exempt,--D,937,17583,1,0001194786,Common Stock
+D,05/01/2020 00:00:00,Datar Srikant M.,4,M-Exempt,--D,937,0,3,0001376436,Restricted Stock Units granted 05/01/2019
+A,05/01/2020 00:00:00,Datar Srikant M.,4,M-Exempt,--D,937,15186,1,0001376436,Common Stock
+D,05/01/2020 00:00:00,BRAINERD MARY K,4,M-Exempt,--D,937,0,2,0001195918,Restricted Stock Units granted 05/01/2019
+A,05/01/2020 00:00:00,BRAINERD MARY K,4,M-Exempt,--D,937,2585,1,0001195918,Common Stock
+D,05/01/2020 00:00:00,Doliveux Roch,4,M-Exempt,--D,937,0,3,0001494947,Restricted Stock Units granted 05/01/2019
+A,05/01/2020 00:00:00,Doliveux Roch,4,M-Exempt,--D,937,22017,2,0001494947,Common Stock
+A,04/30/2020 00:00:00,Doliveux Roch,4,P-Purchase,--D,51,21080,1,0001494947,Common Stock
+D,04/30/2020 00:00:00,Fletcher Robert S,4,M-Exempt,--D,4272,8544,4,0001775075,Restricted Stock Units granted 04/30/2019
+D,04/30/2020 00:00:00,Fletcher Robert S,4,F-InKind,--D,1394,2878,2,0001775075,Common Stock
+A,04/30/2020 00:00:00,Fletcher Robert S,4,M-Exempt,--D,4272,4272,1,0001775075,Common Stock
+D,03/21/2020 00:00:00,Berry William E Jr,4,M-Exempt,--D,367,734,10,0001600806,Restricted Stock Units granted 02/06/2019
+D,03/21/2020 00:00:00,Berry William E Jr,4,M-Exempt,--D,427,427,9,0001600806,Restricted Stock Units granted 02/07/2018
+D,03/21/2020 00:00:00,Berry William E Jr,4,M-Exempt,--D,531,0,8,0001600806,Restricted Stock Units granted 2/8/2017
+D,03/21/2020 00:00:00,Berry William E Jr,4,F-InKind,--D,105,1589,6,0001600806,Common Stock
+A,03/21/2020 00:00:00,Berry William E Jr,4,M-Exempt,--D,367,1694,5,0001600806,Common Stock
+D,03/21/2020 00:00:00,Berry William E Jr,4,F-InKind,--D,123,1327,4,0001600806,Common Stock
+A,03/21/2020 00:00:00,Berry William E Jr,4,M-Exempt,--D,427,1450,3,0001600806,Common Stock
+D,03/21/2020 00:00:00,Berry William E Jr,4,F-InKind,--D,152,1023,2,0001600806,Common Stock
+A,03/21/2020 00:00:00,Berry William E Jr,4,M-Exempt,--D,531,1175,1,0001600806,Common Stock
+D,03/21/2020 00:00:00,Scannell Timothy J,4,F-InKind,--D,12617,181100,2,0001451533,Common Stock
+A,03/21/2020 00:00:00,Scannell Timothy J,4,A-Award,--D,24658,193717,1,0001451533,Common Stock
+D,03/21/2020 00:00:00,Owen Katherine Ann,4,F-InKind,--D,2769,10234,2,0001485079,Common Stock
+A,03/21/2020 00:00:00,Owen Katherine Ann,4,A-Award,--D,7654,13003,1,0001485079,Common Stock
+D,03/21/2020 00:00:00,Lobo Kevin,4,F-InKind,--D,41001,70258,2,0001519419,Common Stock
+A,03/21/2020 00:00:00,Lobo Kevin,4,A-Award,--D,80776,111259,1,0001519419,Common Stock
+D,03/21/2020 00:00:00,Fink M Kathryn,4,F-InKind,--D,1598,12693,2,0001663095,Common Stock
+A,03/21/2020 00:00:00,Fink M Kathryn,4,A-Award,--D,5100,14291,1,0001663095,Common Stock
+D,03/21/2020 00:00:00,Boehnlein Glenn S,4,F-InKind,--D,8265,26672,2,0001670936,Common Stock
+A,03/21/2020 00:00:00,Boehnlein Glenn S,4,A-Award,--D,17004,34937,1,0001670936,Common Stock
+D,03/21/2020 00:00:00,Becker Yin C,4,F-InKind,--D,1131,11021,2,0001663135,Common Stock
+A,03/21/2020 00:00:00,Becker Yin C,4,A-Award,--D,3400,12152,1,0001663135,Common Stock
+D,03/04/2020 00:00:00,Datar Srikant M.,4,M-Exempt,--D,1000,3735,3,0001376436,Stock Option granted 02/09/2011 (right to buy)
+A,03/04/2020 00:00:00,Datar Srikant M.,4,M-Exempt,--D,1000,14249,1,0001376436,Common Stock
+D,02/24/2020 00:00:00,Scannell Timothy J,4,M-Exempt,--D,34555,0,4,0001451533,Employee Stock Option granted 02/09/2011 (right to buy)
+D,02/24/2020 00:00:00,Scannell Timothy J,4,F-InKind,--D,21046,169059,2,0001451533,Common Stock
+A,02/24/2020 00:00:00,Scannell Timothy J,4,M-Exempt,--D,34555,190105,1,0001451533,Common Stock
+D,02/06/2020 00:00:00,Doliveux Roch,4,M-Exempt,--D,4735,0,7,0001494947,Stock Option granted 02/09/2011 (right to buy)
+D,02/06/2020 00:00:00,Doliveux Roch,4,M-Exempt,--D,2046,0,6,0001494947,Stock Option granted 06/21/2010 (right to buy)
+D,02/06/2020 00:00:00,Doliveux Roch,4,S-Sale,--D,3540,21029,5,0001494947,Common Stock
+D,02/06/2020 00:00:00,Doliveux Roch,4,F-InKind,--D,2227,24569,4,0001494947,Common Stock
+A,02/06/2020 00:00:00,Doliveux Roch,4,M-Exempt,--D,4735,26796,3,0001494947,Common Stock
+D,02/06/2020 00:00:00,Doliveux Roch,4,F-InKind,--D,897,22061,2,0001494947,Common Stock
+A,02/06/2020 00:00:00,Doliveux Roch,4,M-Exempt,--D,2046,22958,1,0001494947,Common Stock
+A,02/05/2020 00:00:00,Berry William E Jr,4,A-Award,--D,975,975,2,0001600806,Restricted Stock Units granted 02/05/2020
+A,02/05/2020 00:00:00,Berry William E Jr,4,A-Award,--D,4875,4875,1,0001600806,Employee Stock Option granted 02/05/2020 (right to buy)
+A,02/05/2020 00:00:00,Scannell Timothy J,4,A-Award,--D,60090,60090,1,0001451533,Employee Stock Option granted 02/05/2020 (right to buy)
+A,02/05/2020 00:00:00,Owen Katherine Ann,4,A-Award,--D,11555,11555,1,0001485079,Employee Stock Option granted 02/05/2020 (right to buy)
+A,02/05/2020 00:00:00,Menon Viju,4,A-Award,--D,21955,21955,1,0001738369,Employee Stock Option granted 02/05/2020 (right to buy)
+A,02/05/2020 00:00:00,Lobo Kevin,4,A-Award,--D,124800,124800,1,0001519419,Employee Stock Option granted 02/05/2020 (right to buy)
+A,02/05/2020 00:00:00,Fletcher Robert S,4,A-Award,--D,16175,16175,1,0001775075,Employee Stock Option granted 02/05/2020 (right to buy)
+A,02/05/2020 00:00:00,Fink M Kathryn,4,A-Award,--D,11555,11555,1,0001663095,Employee Stock Option granted 02/05/2020 (right to buy)
+A,02/05/2020 00:00:00,Becker Yin C,4,A-Award,--D,0,5490,1,0001663135,Employee Stock Option granted 02/05/2020 (right to buy)
+D,02/03/2020 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,9995,0,5,0001242914,Stock Option granted 02/23/2010 (right to buy)
+A,02/03/2020 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,9995,85995,1,0001242914,Common Stock
+D,01/31/2020 00:00:00,STRYKER RONDA E,4,G-Gift,-EI,465000,6909068,3,0001242914,Common Stock
+D,01/31/2020 00:00:00,STRYKER RONDA E,4,G-Gift,-EI,140000,7374068,2,0001242914,Common Stock
+D,01/31/2020 00:00:00,FRANCESCONI LOUISE,4,M-Exempt,--D,9995,0,4,0001194786,Stock Option granted 02/23/2010 (right to buy)
+D,01/31/2020 00:00:00,FRANCESCONI LOUISE,4,S-Sale,--D,7513,16646,3,0001194786,Common Stock
+D,01/31/2020 00:00:00,FRANCESCONI LOUISE,4,F-InKind,--D,2482,24159,2,0001194786,Common Stock
+A,01/31/2020 00:00:00,FRANCESCONI LOUISE,4,M-Exempt,--D,9995,26641,1,0001194786,Common Stock
+A,01/31/2020 00:00:00,Doliveux Roch,4,P-Purchase,--D,45,20912,1,0001494947,Common Stock
+D,01/29/2020 00:00:00,Datar Srikant M.,4,M-Exempt,--D,4395,0,4,0001376436,Stock Option granted 02/23/2010 (right to buy)
+D,01/29/2020 00:00:00,Datar Srikant M.,4,F-InKind,--D,1090,13249,2,0001376436,Common Stock
+A,01/29/2020 00:00:00,Datar Srikant M.,4,M-Exempt,--D,4395,14339,1,0001376436,Common Stock
+D,12/12/2019 00:00:00,Datar Srikant M.,4,M-Exempt,--D,1500,4395,3,0001376436,Stock Option granted 02/23/2010 (right to buy)
+A,12/12/2019 00:00:00,Datar Srikant M.,4,M-Exempt,--D,1500,9944,1,0001376436,Common Stock
+D,11/18/2019 00:00:00,Scannell Timothy J,4,S-Sale,--D,4666,155550,2,0001451533,Common Stock
+D,11/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5284,0,4,0001451533,Employee Stock Option granted 02/23/2010 (right to buy)
+A,11/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5284,160216,1,0001451533,Common Stock
+D,11/06/2019 00:00:00,Datar Srikant M.,4,M-Exempt,--D,1600,5895,3,0001376436,Stock Option granted 02/23/2010 (right to buy)
+A,11/06/2019 00:00:00,Datar Srikant M.,4,M-Exempt,--D,1600,8444,1,0001376436,Common Stock
+A,10/31/2019 00:00:00,Doliveux Roch,4,P-Purchase,--D,40,20867,1,0001494947,Common Stock
+D,10/31/2019 00:00:00,Lobo Kevin,4,S-Sale,--D,19286,30478,1,0001519419,Common Stock
+D,10/30/2019 00:00:00,Boehnlein Glenn S,4,S-Sale,--D,2700,17933,1,0001670936,Common Stock
+D,10/16/2019 00:00:00,Scannell Timothy J,4,S-Sale,--D,4666,154932,2,0001451533,Common Stock
+D,10/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,5284,4,0001451533,Employee Stock Option granted 02/23/2010 (right to buy)
+A,10/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,159598,1,0001451533,Common Stock
+D,09/26/2019 00:00:00,Owen Katherine Ann,4,S-Sale,--D,2500,5349,1,0001485079,Common Stock
+D,09/19/2019 00:00:00,Fink M Kathryn,4,M-Exempt,--D,2433,9732,12,0001663095,Employee Stock Option granted 02/07/2018 (right to buy)
+D,09/19/2019 00:00:00,Fink M Kathryn,4,M-Exempt,--D,4898,7347,11,0001663095,Employee Stock Option granted 02/08/2017 (right to buy)
+D,09/19/2019 00:00:00,Fink M Kathryn,4,M-Exempt,--D,7761,5174,10,0001663095,Employee Stock Option granted 02/10/2016 (right to buy)
+D,09/19/2019 00:00:00,Fink M Kathryn,4,M-Exempt,--D,5588,1397,9,0001663095,Employee Stock Option granted 02/11/2015 (right to buy)
+D,09/19/2019 00:00:00,Fink M Kathryn,4,M-Exempt,--D,8010,0,8,0001663095,Employee Stock Option granted 02/12/2014 (right to buy)
+D,09/19/2019 00:00:00,Fink M Kathryn,4,S-Sale,--D,28690,9147,6,0001663095,Common Stock
+A,09/19/2019 00:00:00,Fink M Kathryn,4,M-Exempt,--D,2433,37837,5,0001663095,Common Stock
+A,09/19/2019 00:00:00,Fink M Kathryn,4,M-Exempt,--D,4898,35404,4,0001663095,Common Stock
+A,09/19/2019 00:00:00,Fink M Kathryn,4,M-Exempt,--D,7761,30506,3,0001663095,Common Stock
+A,09/19/2019 00:00:00,Fink M Kathryn,4,M-Exempt,--D,5588,22745,2,0001663095,Common Stock
+A,09/19/2019 00:00:00,Fink M Kathryn,4,M-Exempt,--D,8010,17157,1,0001663095,Common Stock
+A,09/17/2019 00:00:00,STRYKER RONDA E,4,J-Other,--I,16000,7514068,6,0001242914,Common Stock
+D,09/17/2019 00:00:00,STRYKER RONDA E,4,J-Other,--D,16000,76000,5,0001242914,Common Stock
+D,09/17/2019 00:00:00,Scannell Timothy J,4,S-Sale,--D,4666,154316,2,0001451533,Common Stock
+D,09/16/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,10566,4,0001451533,Employee Stock Option granted 02/23/2010 (right to buy)
+A,09/16/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,158982,1,0001451533,Common Stock
+A,09/05/2019 00:00:00,STRYKER RONDA E,4,J-Other,--I,252,7498068,4,0001242914,Common Stock
+D,09/05/2019 00:00:00,STRYKER RONDA E,4,J-Other,--D,252,92000,3,0001242914,Common Stock
+D,08/30/2019 00:00:00,Berry William E Jr,4,S-Sale,--D,500,644,1,0001600806,Common Stock
+D,08/20/2019 00:00:00,STRYKER RONDA E,4,G-Gift,-EI,60000,7497816,2,0001242914,Common Stock
+D,08/16/2019 00:00:00,Scannell Timothy J,4,S-Sale,--D,4666,153700,2,0001451533,Common Stock
+D,08/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,15848,4,0001451533,Employee Stock Option granted 02/23/2010 (right to buy)
+A,08/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,158366,1,0001451533,Common Stock
+D,08/15/2019 00:00:00,Datar Srikant M.,4,S-Sale,--D,350,6844,1,0001376436,Common Stock
+D,08/14/2019 00:00:00,Datar Srikant M.,4,M-Exempt,--D,2500,7495,4,0001376436,Stock Option granted 02/23/2010 (right to buy)
+D,08/14/2019 00:00:00,Datar Srikant M.,4,F-InKind,--D,606,7194,2,0001376436,Common Stock
+A,08/14/2019 00:00:00,Datar Srikant M.,4,M-Exempt,--D,2500,7800,1,0001376436,Common Stock
+D,08/07/2019 00:00:00,Golston Allan C.,4,S-Sale,--D,3399,9027,3,0001509370,Common Stock
+D,08/05/2019 00:00:00,Golston Allan C.,4,M-Exempt,--D,4735,0,4,0001509370,Stock Option granted 02/09/2011 (right to buy)
+D,08/05/2019 00:00:00,Golston Allan C.,4,F-InKind,--D,1336,12426,2,0001509370,Common Stock
+A,08/05/2019 00:00:00,Golston Allan C.,4,M-Exempt,--D,4735,13762,1,0001509370,Common Stock
+D,08/01/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,3659,7318,4,0001451533,Restricted Stock Units granted 07/09/2018
+D,08/01/2019 00:00:00,Scannell Timothy J,4,F-InKind,--D,1872,153084,2,0001451533,Common Stock
+A,08/01/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,3659,154956,1,0001451533,Common Stock
+D,07/31/2019 00:00:00,STRYKER RONDA E,4,S-Sale,--D,39818,92252,1,0001242914,Common Stock
+A,07/31/2019 00:00:00,Doliveux Roch,4,P-Purchase,--D,41,20827,1,0001494947,Common Stock
+D,07/30/2019 00:00:00,STRYKER RONDA E,4,S-Sale,--D,90182,132070,1,0001242914,Common Stock
+D,07/30/2019 00:00:00,Boehnlein Glenn S,4,S-Sale,--D,2700,20633,1,0001670936,Common Stock
+D,07/16/2019 00:00:00,Scannell Timothy J,4,S-Sale,--D,4666,151297,2,0001451533,Common Stock
+D,07/15/2019 00:00:00,STRYKER RONDA E,4,G-Gift,-EI,31600,7557816,1,0001242914,Common Stock
+D,07/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,21130,4,0001451533,Employee Stock Option granted 02/23/2010 (right to buy)
+A,07/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,155963,1,0001451533,Common Stock
+D,06/18/2019 00:00:00,Scannell Timothy J,4,S-Sale,--D,4666,150681,2,0001451533,Common Stock
+D,06/17/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,26412,4,0001451533,Employee Stock Option granted 02/23/2010 (right to buy)
+A,06/17/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,155347,1,0001451533,Common Stock
+D,05/16/2019 00:00:00,Scannell Timothy J,4,S-Sale,--D,4666,150065,2,0001451533,Common Stock
+D,05/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,31694,4,0001451533,Employee Stock Option granted 02/23/2010 (right to buy)
+A,05/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,154731,1,0001451533,Common Stock
+D,05/08/2019 00:00:00,Boehnlein Glenn S,4,S-Sale,--D,2700,23333,1,0001670936,Common Stock
+D,05/06/2019 00:00:00,Sagar Bijoy,4,S-Sale,--D,2000,3350,1,0001614397,Common Stock
+A,05/01/2019 00:00:00,Doliveux Roch,4,M-Exempt,--D,1048,20786,2,0001494947,Common Stock
+A,05/01/2019 00:00:00,McCoy Sherilyn S,4,A-Award,--D,937,937,1,0001422968,Restricted Stock Units granted 05/01/2019
+A,05/01/2019 00:00:00,Suri Rajeev,4,A-Award,--D,937,937,3,0001738349,Restricted Stock Units granted 05/01/2019
+D,05/01/2019 00:00:00,Suri Rajeev,4,M-Exempt,--D,1048,0,2,0001738349,Restricted Stock Units granted 05/02/2018
+A,05/01/2019 00:00:00,Suri Rajeev,4,M-Exempt,--D,1048,1048,1,0001738349,Common Stock
+A,05/01/2019 00:00:00,Datar Srikant M.,4,A-Award,--D,937,937,4,0001376436,Restricted Stock Units granted 05/01/2019
+D,05/01/2019 00:00:00,Datar Srikant M.,4,M-Exempt,--D,1048,0,3,0001376436,Restricted Stock Units granted 05/02/2018
+A,05/01/2019 00:00:00,Datar Srikant M.,4,M-Exempt,--D,1048,5300,1,0001376436,Common Stock
+A,05/01/2019 00:00:00,BRAINERD MARY K,4,A-Award,--D,937,937,3,0001195918,Restricted Stock Units granted 05/01/2019
+D,05/01/2019 00:00:00,BRAINERD MARY K,4,M-Exempt,--D,1048,0,2,0001195918,Restricted Stock Units granted 05/02/2018
+A,05/01/2019 00:00:00,BRAINERD MARY K,4,M-Exempt,--D,1048,1648,1,0001195918,Common Stock
+A,05/01/2019 00:00:00,Golston Allan C.,4,A-Award,--D,937,937,1,0001509370,Restricted Stock Units granted 05/01/2019
+A,05/01/2019 00:00:00,Silvernail Andrew K,4,A-Award,--D,937,937,1,0001485532,Restricted Stock Units granted 05/01/2019
+A,05/01/2019 00:00:00,FRANCESCONI LOUISE,4,A-Award,--D,937,937,3,0001194786,Restricted Stock Units granted 05/01/2019
+D,05/01/2019 00:00:00,FRANCESCONI LOUISE,4,M-Exempt,--D,1048,0,2,0001194786,Restricted Stock Units granted 05/02/2018
+A,05/01/2019 00:00:00,FRANCESCONI LOUISE,4,M-Exempt,--D,1048,16646,1,0001194786,Common Stock
+A,05/01/2019 00:00:00,STRYKER RONDA E,4,A-Award,--D,937,937,1,0001242914,Restricted Stock Units granted 05/01/2019
+D,05/01/2019 00:00:00,Menon Viju,4,M-Exempt,--D,3443,6886,4,0001738369,Restricted Stock Units granted 05/01/2018
+D,05/01/2019 00:00:00,Menon Viju,4,F-InKind,--D,1264,2179,2,0001738369,Common Stock
+A,05/01/2019 00:00:00,Menon Viju,4,M-Exempt,--D,3443,3443,1,0001738369,Common Stock
+A,04/30/2019 00:00:00,Doliveux Roch,4,A-Award,--D,937,937,4,0001494947,Restricted Stock Units granted 05/01/2019
+D,04/30/2019 00:00:00,Doliveux Roch,4,M-Exempt,--D,1048,0,3,0001494947,Restricted Stock Units granted 05/02/2018
+A,04/30/2019 00:00:00,Doliveux Roch,4,P-Purchase,--D,43,19738,1,0001494947,Common Stock
+D,04/25/2019 00:00:00,FRANCESCONI LOUISE,4,S-Sale,--D,2679,15598,1,0001194786,Common Stock
+D,04/23/2019 00:00:00,Datar Srikant M.,4,M-Exempt,--D,3300,0,4,0001376436,Stock Option granted 07/29/2009 (right to buy)
+D,04/23/2019 00:00:00,Datar Srikant M.,4,F-InKind,--D,683,4252,2,0001376436,Common Stock
+A,04/23/2019 00:00:00,Datar Srikant M.,4,M-Exempt,--D,3300,4935,1,0001376436,Common Stock
+D,04/16/2019 00:00:00,Scannell Timothy J,4,S-Sale,--D,4666,149449,2,0001451533,Common Stock
+D,04/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,36976,4,0001451533,Employee Stock Option granted 02/23/2010 (right to buy)
+A,04/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,154115,1,0001451533,Common Stock
+D,03/25/2019 00:00:00,Owen Katherine Ann,4,S-Sale,--D,4544,7849,3,0001485079,Common Stock
+D,03/25/2019 00:00:00,Lobo Kevin,4,S-Sale,--D,41750,49616,3,0001519419,Common Stock
+D,03/25/2019 00:00:00,Hutchinson Michael Damon,4,S-Sale,--D,3936,6386,3,0001606626,Common Stock
+D,03/25/2019 00:00:00,Becker Yin C,4,S-Sale,--D,53,8752,5,0001663135,Common Stock
+D,03/22/2019 00:00:00,Becker Yin C,4,S-Sale,--D,2598,8805,3,0001663135,Common Stock
+D,03/21/2019 00:00:00,Scannell Timothy J,4,F-InKind,--D,15556,148833,2,0001451533,Common Stock
+A,03/21/2019 00:00:00,Scannell Timothy J,4,A-Award,--D,30805,164389,1,0001451533,Common Stock
+D,03/21/2019 00:00:00,Sagar Bijoy,4,M-Exempt,--D,612,1224,6,0001614397,Restricted Stock Units granted 2/8/2017
+D,03/21/2019 00:00:00,Sagar Bijoy,4,F-InKind,--D,302,5350,4,0001614397,Common Stock
+A,03/21/2019 00:00:00,Sagar Bijoy,4,M-Exempt,--D,612,5652,3,0001614397,Common Stock
+D,03/21/2019 00:00:00,Sagar Bijoy,4,F-InKind,--D,1731,5040,2,0001614397,Common Stock
+A,03/21/2019 00:00:00,Sagar Bijoy,4,A-Award,--D,4410,6771,1,0001614397,Common Stock
+D,03/21/2019 00:00:00,Owen Katherine Ann,4,F-InKind,--D,3729,12393,2,0001485079,Common Stock
+A,03/21/2019 00:00:00,Owen Katherine Ann,4,A-Award,--D,8393,16122,1,0001485079,Common Stock
+D,03/21/2019 00:00:00,Lobo Kevin,4,F-InKind,--D,43230,91366,2,0001519419,Common Stock
+A,03/21/2019 00:00:00,Lobo Kevin,4,A-Award,--D,84980,134596,1,0001519419,Common Stock
+D,03/21/2019 00:00:00,Hutchinson Michael Damon,4,F-InKind,--D,3926,10322,2,0001606626,Common Stock
+A,03/21/2019 00:00:00,Hutchinson Michael Damon,4,A-Award,--D,7966,14248,1,0001606626,Common Stock
+D,03/21/2019 00:00:00,Fink M Kathryn,4,F-InKind,--D,1854,9105,2,0001663095,Common Stock
+A,03/21/2019 00:00:00,Fink M Kathryn,4,A-Award,--D,5309,10959,1,0001663095,Common Stock
+D,03/21/2019 00:00:00,Boehnlein Glenn S,4,F-InKind,--D,9831,26033,2,0001670936,Common Stock
+A,03/21/2019 00:00:00,Boehnlein Glenn S,4,A-Award,--D,20182,35864,1,0001670936,Common Stock
+D,03/21/2019 00:00:00,Berry William E Jr,4,M-Exempt,--D,427,854,10,0001600806,Restricted Stock Units granted 02/07/2018
+D,03/21/2019 00:00:00,Berry William E Jr,4,M-Exempt,--D,531,531,9,0001600806,Restricted Stock Units granted 2/8/2017
+D,03/21/2019 00:00:00,Berry William E Jr,4,M-Exempt,--D,647,0,8,0001600806,Restricted Stock Units granted 2/10/2016
+D,03/21/2019 00:00:00,Berry William E Jr,4,F-InKind,--D,123,1144,6,0001600806,Common Stock
+A,03/21/2019 00:00:00,Berry William E Jr,4,M-Exempt,--D,427,1267,5,0001600806,Common Stock
+D,03/21/2019 00:00:00,Berry William E Jr,4,F-InKind,--D,152,840,4,0001600806,Common Stock
+A,03/21/2019 00:00:00,Berry William E Jr,4,M-Exempt,--D,531,992,3,0001600806,Common Stock
+D,03/21/2019 00:00:00,Berry William E Jr,4,F-InKind,--D,186,461,2,0001600806,Common Stock
+A,03/21/2019 00:00:00,Berry William E Jr,4,M-Exempt,--D,647,647,1,0001600806,Common Stock
+D,03/21/2019 00:00:00,Becker Yin C,4,F-InKind,--D,1438,11403,2,0001663135,Common Stock
+A,03/21/2019 00:00:00,Becker Yin C,4,A-Award,--D,4089,12841,1,0001663135,Common Stock
+D,03/21/2019 00:00:00,Becker Yin C,4,S-Sale,--D,15240,8752,3,0001663135,Common Stock
+D,03/20/2019 00:00:00,Becker Yin C,4,M-Exempt,--D,7415,0,6,0001663135,Employee Stock Option granted 02/09/2011 (right to buy)
+D,03/20/2019 00:00:00,Becker Yin C,4,M-Exempt,--D,7825,0,5,0001663135,Employee Stock Option granted 02/23/2010 (right to buy)
+A,03/20/2019 00:00:00,Becker Yin C,4,M-Exempt,--D,7415,23992,2,0001663135,Common Stock
+A,03/20/2019 00:00:00,Becker Yin C,4,M-Exempt,--D,7825,16577,1,0001663135,Common Stock
+D,03/18/2019 00:00:00,Scannell Timothy J,4,S-Sale,--D,4666,133584,2,0001451533,Common Stock
+D,03/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5280,42258,4,0001451533,Employee Stock Option granted 02/23/2010 (right to buy)
+A,03/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5280,138250,1,0001451533,Common Stock
+D,03/08/2019 00:00:00,Owen Katherine Ann,4,S-Sale,--D,29247,7729,4,0001485079,Common Stock
+D,03/07/2019 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,12261,8174,8,0001485079,Employee Stock Option granted 02/10/2016 (right to buy)
+D,03/07/2019 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,13584,3396,7,0001485079,Employee Stock Option granted 02/11/2015 (right to buy)
+D,03/07/2019 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,3402,0,6,0001485079,Employee Stock Option granted 02/12/2014 (right to buy)
+A,03/07/2019 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,12261,36976,3,0001485079,Common Stock
+A,03/07/2019 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,13584,24715,2,0001485079,Common Stock
+A,03/07/2019 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,3402,11131,1,0001485079,Common Stock
+D,02/19/2019 00:00:00,Scannell Timothy J,4,S-Sale,--D,4666,132970,2,0001451533,Common Stock
+D,02/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,47538,4,0001451533,Employee Stock Option granted 02/23/2010 (right to buy)
+A,02/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,137636,1,0001451533,Common Stock
+D,02/08/2019 00:00:00,Hutchinson Michael Damon,4,S-Sale,--D,5805,6282,3,0001606626,Common Stock
+D,02/07/2019 00:00:00,Hutchinson Michael Damon,4,S-Sale,--D,81,12087,2,0001606626,Common Stock
+D,02/06/2019 00:00:00,Hutchinson Michael Damon,4,S-Sale,--D,10109,12168,1,0001606626,Common Stock
+A,02/06/2019 00:00:00,Scannell Timothy J,4,A-Award,--D,69695,69695,1,0001451533,Employee Stock Option granted 02/06/2019 (right to buy)
+A,02/06/2019 00:00:00,Sagar Bijoy,4,A-Award,--D,7665,7665,1,0001614397,Employee Stock Option granted 02/06/2019 (right to buy)
+A,02/06/2019 00:00:00,Owen Katherine Ann,4,A-Award,--D,13590,13590,1,0001485079,Employee Stock Option granted 02/06/2019 (right to buy)
+A,02/06/2019 00:00:00,Menon Viju,4,A-Award,--D,24395,24395,1,0001738369,Employee Stock Option granted 02/06/2019 (right to buy)
+A,02/06/2019 00:00:00,Lobo Kevin,4,A-Award,--D,146360,146360,1,0001519419,Employee Stock Option granted 02/06/2019 (right to buy)
+A,02/06/2019 00:00:00,Berry William E Jr,4,A-Award,--D,1101,1101,2,0001600806,Restricted Stock Units granted 02/06/2019
+A,02/06/2019 00:00:00,Berry William E Jr,4,A-Award,--D,5505,5505,1,0001600806,Employee Stock Option granted 02/06/2019 (right to buy)
+A,02/06/2019 00:00:00,Hutchinson Michael David,4,A-Award,--D,19515,19515,1,0001606626,Employee Stock Option granted 02/06/2019 (right to buy)
+A,02/06/2019 00:00:00,Fink M Kathryn,4,A-Award,--D,11850,11850,1,0001663095,Employee Stock Option granted 02/06/2019 (right to buy)
+A,02/06/2019 00:00:00,Boehnlein Glenn S,4,A-Award,--D,37635,37635,1,0001670936,Employee Stock Option granted 02/06/2019 (right to buy)
+A,02/06/2019 00:00:00,Becker Yin C,4,A-Award,--D,6275,6275,1,0001663135,Employee Stock Option granted 02/06/2019 (right to buy)
+D,02/05/2019 00:00:00,Hutchinson Michael David,4,M-Exempt,--D,5190,0,5,0001606626,Employee Stock Option granted 02/23/2010 (right to buy)
+D,02/05/2019 00:00:00,Hutchinson Michael David,4,M-Exempt,--D,5000,0,4,0001606626,Employee Stock Option granted 02/10/2009 (right to buy)
+A,02/05/2019 00:00:00,Hutchinson Michael David,4,M-Exempt,--D,5190,22277,2,0001606626,Common Stock
+A,02/05/2019 00:00:00,Hutchinson Michael David,4,M-Exempt,--D,5000,17087,1,0001606626,Common Stock
+D,02/05/2019 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,12375,0,5,0001242914,Stock Option granted 02/10/2009 (right to buy)
+A,02/05/2019 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,12375,222252,1,0001242914,Common Stock
+D,02/04/2019 00:00:00,Fink M Kathryn,4,S-Sale,--D,180,5650,1,0001663095,Common Stock
+D,01/31/2019 00:00:00,FRANCESCONI LOUISE,4,M-Exempt,--D,12375,0,4,0001194786,Stock Option granted 02/10/2009 (right to buy)
+D,01/31/2019 00:00:00,FRANCESCONI LOUISE,4,S-Sale,--D,9477,18277,3,0001194786,Common Stock
+D,01/31/2019 00:00:00,FRANCESCONI LOUISE,4,F-InKind,--D,2898,27754,2,0001194786,Common Stock
+A,01/31/2019 00:00:00,FRANCESCONI LOUISE,4,M-Exempt,--D,12375,30652,1,0001194786,Common Stock
+A,01/31/2019 00:00:00,Doliveux Roch,4,P-Purchase,--D,46,19695,1,0001494947,Common Stock
+D,01/16/2019 00:00:00,Scannell Timothy J,4/A,S-Sale,--D,4666,132354,1,0001451533,Common Stock
+D,01/16/2019 00:00:00,Scannell Timothy J,4,S-Sale,--D,5282,131738,2,0001451533,Common Stock
+D,01/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,52820,4,0001451533,Employee Stock Option granted 02/23/2010 (right to buy)
+A,01/15/2019 00:00:00,Scannell Timothy J,4,M-Exempt,--D,5282,137020,1,0001451533,Common Stock
+D,12/18/2018 00:00:00,Scannell Timothy J,4,S-Sale,--D,9332,131738,2,0001451533,Common Stock
+D,12/17/2018 00:00:00,Scannell Timothy J,4,M-Exempt,--D,10568,58102,4,0001451533,Employee Stock Option granted 02/23/2010 (right to buy)
+A,12/17/2018 00:00:00,Scannell Timothy J,4,M-Exempt,--D,10568,141070,1,0001451533,Common Stock
+D,12/07/2018 00:00:00,Sagar Bijoy,4,S-Sale,--D,2361,2361,1,0001614397,Common Stock
+D,11/12/2018 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,12125,0,13,0001670936,Employee Stock Option granted 02/21/2012 (right to buy)
+D,11/12/2018 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,6750,0,12,0001670936,Employee Stock Option granted 02/09/2011 (right to buy)
+D,11/12/2018 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,4154,0,11,0001670936,Employee Stock Option granted 02/23/2010 (right to buy)
+D,11/12/2018 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,12500,0,10,0001670936,Employee Stock Option granted 02/10/2009 (right to buy)
+D,11/12/2018 00:00:00,Boehnlein Glenn S,4,F-InKind,--D,7926,15682,8,0001670936,Common Stock
+A,11/12/2018 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,12125,23608,7,0001670936,Common Stock
+D,11/12/2018 00:00:00,Boehnlein Glenn S,4,F-InKind,--D,4534,11483,6,0001670936,Common Stock
+A,11/12/2018 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,6750,16017,5,0001670936,Common Stock
+D,11/12/2018 00:00:00,Boehnlein Glenn S,4,F-InKind,--D,2710,9267,4,0001670936,Common Stock
+A,11/12/2018 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,4154,11977,3,0001670936,Common Stock
+D,11/12/2018 00:00:00,Boehnlein Glenn S,4,F-InKind,--D,7462,7823,2,0001670936,Common Stock
+A,11/12/2018 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,12500,15285,1,0001670936,Common Stock
+D,11/05/2018 00:00:00,Fink M Kathryn,4,S-Sale,--D,85,5803,1,0001663095,Common Stock
+D,11/05/2018 00:00:00,Berry William E Jr,4,M-Exempt,--D,900,1960,6,0001600806,Employee Stock Option granted 02/21/2012 (right to buy)
+D,11/05/2018 00:00:00,Berry William E Jr,4,S-Sale,--D,434,0,4,0001600806,Common Stock
+D,11/05/2018 00:00:00,Berry William E Jr,4,F-InKind,--D,466,434,3,0001600806,Common Stock
+A,11/05/2018 00:00:00,Berry William E Jr,4,M-Exempt,--D,900,900,2,0001600806,Common Stock
+D,11/05/2018 00:00:00,Berry William E Jr,4,S-Sale,--D,1281,0,1,0001600806,Common Stock
+D,11/05/2018 00:00:00,Fink M Kathryn,4,S-Sale,--D,415,5879,1,0001663095,Common Stock
+A,10/31/2018 00:00:00,Doliveux Roch,4,P-Purchase,--D,45,19649,1,0001494947,Common Stock
+D,10/30/2018 00:00:00,STRYKER RONDA E,5,G-Gift,--I,61500,7589416,2,0001242914,Common Stock
+D,10/01/2018 00:00:00,Boehnlein Glenn S,4,S-Sale,--D,750,2785,1,0001670936,Common Stock
+D,09/05/2018 00:00:00,Owen Katherine Ann,4,S-Sale,--D,37866,7729,4,0001485079,Common Stock
+D,09/04/2018 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,13608,3402,8,0001485079,Employee Stock Option granted 02/12/2014 (right to buy)
+D,09/04/2018 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,20620,0,7,0001485079,Employee Stock Option granted 02/13/2013 (right to buy)
+D,09/04/2018 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,3638,0,6,0001485079,Employee Stock Option granted 02/21/2012 (right to buy)
+A,09/04/2018 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,13608,45595,3,0001485079,Common Stock
+A,09/04/2018 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,20620,31987,2,0001485079,Common Stock
+A,09/04/2018 00:00:00,Owen Katherine Ann,4,M-Exempt,--D,3638,11367,1,0001485079,Common Stock
+D,08/01/2018 00:00:00,BRAINERD MARY K,4,M-Exempt,--D,600,0,2,0001195918,Restricted Stock Units granted 08/01/2017
+A,08/01/2018 00:00:00,BRAINERD MARY K,4,M-Exempt,--D,600,600,1,0001195918,Common Stock
+A,07/31/2018 00:00:00,Doliveux Roch,4,P-Purchase,--D,44,19604,1,0001494947,Common Stock
+D,07/27/2018 00:00:00,STRYKER RONDA E,5,G-Gift,--I,23000,7650916,1,0001242914,Common Stock
+A,07/09/2018 00:00:00,Scannell Timothy J,4,A-Award,--D,10977,10977,1,0001451533,Restricted Stock Units granted 07/09/2018
+D,05/04/2018 00:00:00,Carpenter Lonny J,4,S-Sale,--D,5000,101675,1,0001451534,Common Stock
+A,05/02/2018 00:00:00,Suri Rajeev,4,A-Award,--D,1048,1048,1,0001738349,Restricted Stock Units granted 05/02/2018
+A,05/02/2018 00:00:00,McCoy Sherilyn S,4,A-Award,--D,1048,1048,1,0001422968,Restricted Stock Units granted 05/02/2018
+A,05/02/2018 00:00:00,STRYKER RONDA E,4,A-Award,--D,1048,1048,1,0001242914,Restricted Stock Units granted 05/02/2018
+A,05/02/2018 00:00:00,Silvernail Andrew K,4,A-Award,--D,1048,1048,1,0001485532,Restricted Stock Units granted 05/02/2018
+A,05/02/2018 00:00:00,Golston Allan C.,4,A-Award,--D,1048,1048,1,0001509370,Restricted Stock Units granted 05/02/2018
+A,05/02/2018 00:00:00,FRANCESCONI LOUISE,4,A-Award,--D,1048,1048,1,0001194786,Restricted Stock Units granted 05/02/2018
+A,05/02/2018 00:00:00,Doliveux Roch,4,A-Award,--D,1048,1048,1,0001494947,Restricted Stock Units granted 05/02/2018
+A,05/02/2018 00:00:00,BRAINERD MARY K,4,A-Award,--D,1048,1048,1,0001195918,Restricted Stock Units granted 05/02/2018
+A,05/02/2018 00:00:00,Datar Srikant M.,4,A-Award,--D,1048,1048,1,0001376436,Restricted Stock Units granted 05/02/2018
+D,05/01/2018 00:00:00,Scannell Timothy J,4,M-Exempt,--D,1355,0,4,0001451533,Restricted Stock Units granted 5/1/2015
+D,05/01/2018 00:00:00,Scannell Timothy J,4,F-InKind,--D,668,130501,2,0001451533,Common Stock
+A,05/01/2018 00:00:00,Scannell Timothy J,4,M-Exempt,--D,1355,131169,1,0001451533,Common Stock
+D,05/01/2018 00:00:00,Floyd David,4,M-Exempt,--D,723,0,5,0001564203,Restricted Stock Units granted 5/1/2015
+D,05/01/2018 00:00:00,Floyd David,4,F-InKind,--D,352,20214,2,0001564203,Common Stock
+A,05/01/2018 00:00:00,Floyd David,4,M-Exempt,--D,723,20566,1,0001564203,Common Stock
+D,05/01/2018 00:00:00,Carpenter Lonny J,4,M-Exempt,--D,1355,0,4,0001451534,Restricted Stock Units granted 5/1/2015
+D,05/01/2018 00:00:00,Carpenter Lonny J,4,F-InKind,--D,591,106675,2,0001451534,Common Stock
+A,05/01/2018 00:00:00,Carpenter Lonny J,4,M-Exempt,--D,1355,107266,1,0001451534,Common Stock
+A,04/30/2018 00:00:00,Doliveux Roch,4,P-Purchase,--D,43,19560,1,0001494947,Common Stock
+D,04/18/2018 00:00:00,Owen Katherine Ann,4,S-Sale,--D,2651,7729,1,0001485079,Common Stock
+D,04/16/2018 00:00:00,Boehnlein Glenn S,4,S-Sale,--D,750,3535,1,0001670936,Common Stock
+D,03/26/2018 00:00:00,Owen Katherine Ann,4,S-Sale,--D,103,10380,1,0001485079,Common Stock
+D,03/23/2018 00:00:00,Owen Katherine Ann,4,S-Sale,--D,2572,10483,3,0001485079,Common Stock
+D,03/22/2018 00:00:00,Lobo Kevin,4,S-Sale,--D,39808,49443,3,0001519419,Common Stock
+D,03/22/2018 00:00:00,Becker Yin C,4,S-Sale,--D,1804,8752,4,0001663135,Common Stock
+D,03/22/2018 00:00:00,Becker Yin C,4,S-Sale,--D,2044,10556,3,0001663135,Common Stock
+D,03/21/2018 00:00:00,Scannell Timothy J,4,F-InKind,--D,14098,129814,2,0001451533,Common Stock
+A,03/21/2018 00:00:00,Scannell Timothy J,4,A-Award,--D,29284,143912,1,0001451533,Common Stock
+D,03/21/2018 00:00:00,Sagar Bijoy,4,M-Exempt,--D,612,1836,6,0001614397,Restricted Stock Units granted 2/8/2017
+D,03/21/2018 00:00:00,Sagar Bijoy,4,F-InKind,--D,1537,4722,4,0001614397,Common Stock
+A,03/21/2018 00:00:00,Sagar Bijoy,4,A-Award,--D,4422,6259,3,0001614397,Common Stock
+D,03/21/2018 00:00:00,Sagar Bijoy,4,F-InKind,--D,302,1837,2,0001614397,Common Stock
+A,03/21/2018 00:00:00,Sagar Bijoy,4,M-Exempt,--D,612,2139,1,0001614397,Common Stock
+D,03/21/2018 00:00:00,Owen Katherine Ann,4,F-InKind,--D,3269,13055,2,0001485079,Common Stock
+A,03/21/2018 00:00:00,Owen Katherine Ann,4,A-Award,--D,8728,16324,1,0001485079,Common Stock
+D,03/21/2018 00:00:00,McLean Graham A,4,M-Exempt,--D,621,621,4,0001693660,Restricted Stock Units granted 2/10/2016
+D,03/21/2018 00:00:00,McLean Graham A,4,M-Exempt,--D,609,0,3,0001693660,Restricted Stock Units granted 2/11/2015
+A,03/21/2018 00:00:00,McLean Graham A,4,M-Exempt,--D,621,5670,2,0001693660,Common Stock
+A,03/21/2018 00:00:00,McLean Graham A,4,M-Exempt,--D,609,5049,1,0001693660,Common Stock
+D,03/21/2018 00:00:00,Lobo Kevin,4,F-InKind,--D,39732,89251,2,0001519419,Common Stock
+A,03/21/2018 00:00:00,Lobo Kevin,4,A-Award,--D,80669,128983,1,0001519419,Common Stock
+D,03/21/2018 00:00:00,Hutchinson Michael David,4,F-InKind,--D,2991,12046,2,0001606626,Common Stock
+A,03/21/2018 00:00:00,Hutchinson Michael David,4,A-Award,--D,7182,15037,1,0001606626,Common Stock
+D,03/21/2018 00:00:00,Floyd David,4,F-InKind,--D,10502,19808,2,0001564203,Common Stock
+A,03/21/2018 00:00:00,Floyd David,4,A-Award,--D,21550,30310,1,0001564203,Common Stock
+D,03/21/2018 00:00:00,Fink M Kathryn,4,M-Exempt,--D,582,0,4,0001663095,Restricted Stock Units granted 2/11/2015
+D,03/21/2018 00:00:00,Fink M Kathryn,4,F-InKind,--D,167,6213,2,0001663095,Common Stock
+A,03/21/2018 00:00:00,Fink M Kathryn,4,M-Exempt,--D,582,6380,1,0001663095,Common Stock
+D,03/21/2018 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,904,0,4,0001670936,Restricted Stock Units granted 2/11/2015
+D,03/21/2018 00:00:00,Boehnlein Glenn S,4,F-InKind,--D,313,4285,2,0001670936,Common Stock
+A,03/21/2018 00:00:00,Boehnlein Glenn S,4,M-Exempt,--D,904,4598,1,0001670936,Common Stock
+D,03/21/2018 00:00:00,Berry William E Jr,4,M-Exempt,--D,531,1062,10,0001600806,Restricted Stock Units granted 2/8/2017
+D,03/21/2018 00:00:00,Berry William E Jr,4,M-Exempt,--D,647,647,9,0001600806,Restricted Stock Units granted 2/10/2016
+D,03/21/2018 00:00:00,Berry William E Jr,4,M-Exempt,--D,618,0,8,0001600806,Restricted Stock Units granted 2/11/2015
+D,03/21/2018 00:00:00,Berry William E Jr,4,F-InKind,--D,152,1281,6,0001600806,Common Stock
+A,03/21/2018 00:00:00,Berry William E Jr,4,M-Exempt,--D,531,1433,5,0001600806,Common Stock
+D,03/21/2018 00:00:00,Berry William E Jr,4,F-InKind,--D,186,902,4,0001600806,Common Stock
+A,03/21/2018 00:00:00,Berry William E Jr,4,M-Exempt,--D,647,1088,3,0001600806,Common Stock
+D,03/21/2018 00:00:00,Berry William E Jr,4,F-InKind,--D,177,441,2,0001600806,Common Stock
+A,03/21/2018 00:00:00,Berry William E Jr,4,M-Exempt,--D,618,618,1,0001600806,Common Stock
+D,03/21/2018 00:00:00,Becker Yin C,4,F-InKind,--D,2041,12600,2,0001663135,Common Stock
+A,03/21/2018 00:00:00,Becker Yin C,4,A-Award,--D,4142,14641,1,0001663135,Common Stock
+D,03/21/2018 00:00:00,Carpenter Lonny J,4,F-InKind,--D,8234,105911,2,0001451534,Common Stock
+A,03/21/2018 00:00:00,Carpenter Lonny J,4,A-Award,--D,19892,114145,1,0001451534,Common Stock
+D,03/21/2018 00:00:00,Golston Allan C.,4,M-Exempt,--D,720,0,2,0001509370,Restricted Stock Units granted 2/8/2017
+A,03/21/2018 00:00:00,Golston Allan C.,4,M-Exempt,--D,720,9027,1,0001509370,Common Stock
+D,03/21/2018 00:00:00,Datar Srikant M.,4,M-Exempt,--D,720,0,3,0001376436,Restricted Stock Units granted 2/8/2017
+A,03/21/2018 00:00:00,Datar Srikant M.,4,M-Exempt,--D,720,1635,1,0001376436,Common Stock
+D,03/21/2018 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,720,0,5,0001242914,Restricted Stock Units granted 2/8/2017
+A,03/21/2018 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,720,209877,1,0001242914,Common Stock
+D,03/21/2018 00:00:00,Silvernail Andrew K,4,M-Exempt,--D,720,0,3,0001485532,Restricted Stock Units granted 2/8/2017
+A,03/21/2018 00:00:00,Silvernail Andrew K,4,M-Exempt,--D,720,1902,2,0001485532,Common Stock
+D,03/21/2018 00:00:00,FRANCESCONI LOUISE,4,M-Exempt,--D,720,0,2,0001194786,Restricted Stock Units granted 2/8/2017
+A,03/21/2018 00:00:00,FRANCESCONI LOUISE,4,M-Exempt,--D,720,18277,1,0001194786,Common Stock
+D,03/21/2018 00:00:00,Doliveux Roch,4,M-Exempt,--D,720,0,2,0001494947,Restricted Stock Units granted 2/8/2017
+A,03/21/2018 00:00:00,Doliveux Roch,4,M-Exempt,--D,720,19517,1,0001494947,Common Stock
+D,03/21/2018 00:00:00,COX HOWARD E JR,4,M-Exempt,--D,720,0,2,0000949117,Restricted Stock Units granted 2/8/2017
+A,03/21/2018 00:00:00,COX HOWARD E JR,4,M-Exempt,--D,720,525452,1,0000949117,Common Stock
+D,03/15/2018 00:00:00,Floyd David,4,M-Exempt,--D,11020,44080,15,0001564203,Employee Stock Option granted 02/08/2017 (right to buy)
+D,03/15/2018 00:00:00,Floyd David,4,M-Exempt,--D,12935,38805,14,0001564203,Employee Stock Option granted 02/10/2016 (right to buy)
+D,03/15/2018 00:00:00,Floyd David,4,M-Exempt,--D,8382,16764,13,0001564203,Employee Stock Option granted 02/11/2015 (right to buy)
+D,03/15/2018 00:00:00,Floyd David,4,M-Exempt,--D,7888,7888,12,0001564203,Employee Stock Option granted 02/12/2014 (right to buy)
+D,03/15/2018 00:00:00,Floyd David,4,M-Exempt,--D,9374,0,11,0001564203,Employee Stock Option granted 02/13/2013 (right to buy)
+D,03/15/2018 00:00:00,Floyd David,4,M-Exempt,--D,5520,0,10,0001564203,Employee Stock Option granted 12/05/2012 (right to buy)
+D,03/15/2018 00:00:00,Floyd David,4,S-Sale,--D,55119,8760,7,0001564203,Common Stock
+A,03/15/2018 00:00:00,Floyd David,4,M-Exempt,--D,11020,63879,6,0001564203,Common Stock
+A,03/15/2018 00:00:00,Floyd David,4,M-Exempt,--D,12935,52859,5,0001564203,Common Stock
+A,03/15/2018 00:00:00,Floyd David,4,M-Exempt,--D,8382,39924,4,0001564203,Common Stock
+A,03/15/2018 00:00:00,Floyd David,4,M-Exempt,--D,7888,31542,3,0001564203,Common Stock
+A,03/15/2018 00:00:00,Floyd David,4,M-Exempt,--D,9374,23654,2,0001564203,Common Stock
+A,03/15/2018 00:00:00,Floyd David,4,M-Exempt,--D,5520,14280,1,0001564203,Common Stock
+D,03/09/2018 00:00:00,Becker Yin C,4,S-Sale,--D,19375,10499,3,0001663135,Common Stock
+D,03/08/2018 00:00:00,Becker Yin C,4,M-Exempt,--D,19375,0,5,0001663135,Employee Stock Option granted 2/10/2009 (right to buy)
+A,03/08/2018 00:00:00,Becker Yin C,4,M-Exempt,--D,19375,29874,2,0001663135,Common Stock
+D,03/08/2018 00:00:00,Becker Yin C,4,S-Sale,--D,3846,10499,1,0001663135,Common Stock
+D,03/05/2018 00:00:00,Owen Katherine Ann,4,S-Sale,--D,3700,7596,1,0001485079,Common Stock
+D,02/28/2018 00:00:00,Silvernail Andrew K,4,G-Gift,-ED,470,1182,1,0001485532,Common Stock
+A,02/07/2018 00:00:00,Berry William E Jr,4,A-Award,--D,1281,1281,2,0001600806,Restricted Stock Units granted 02/07/2018
+A,02/07/2018 00:00:00,Berry William E Jr,4,A-Award,--D,6405,6405,1,0001600806,Employee Stock Option granted 02/07/2018 (right to buy)
+A,02/07/2018 00:00:00,Scannell Timothy J,4,A-Award,--D,50280,50280,1,0001451533,Stock Option granted 02/07/2018 (right to buy)
+A,02/07/2018 00:00:00,Sagar Bijoy,4,A-Award,--D,8515,8515,1,0001614397,Employee Stock Option granted 02/07/2018 (right to buy)
+A,02/07/2018 00:00:00,Owen Katherine Ann,4,A-Award,--D,15410,15410,1,0001485079,Stock Option granted 02/07/2018 (right to buy)
+A,02/07/2018 00:00:00,McLean Graham A,4,A-Award,--D,8515,8515,1,0001693660,Employee Stock Option granted 02/07/2018 (right to buy)
+A,02/07/2018 00:00:00,Lobo Kevin,4,A-Award,--D,162190,162190,1,0001519419,Stock Option granted 02/07/2018 (right to buy)
+A,02/07/2018 00:00:00,Hutchinson Michael David,4,A-Award,--D,19465,19465,1,0001606626,Employee Stock Option granted 02/07/2018 (right to buy)
+A,02/07/2018 00:00:00,Floyd David,4,A-Award,--D,45415,45415,1,0001564203,Employee Stock Option granted 02/07/2018 (right to buy)
+A,02/07/2018 00:00:00,Fink M Kathryn,4,A-Award,--D,12165,12165,1,0001663095,Employee Stock Option granted 02/07/2018 (right to buy)
+A,02/07/2018 00:00:00,Carpenter Lonny J,4,A-Award,--D,38925,38925,1,0001451534,Employee Stock Option granted 02/07/2018 (right to buy)
+A,02/07/2018 00:00:00,Boehnlein Glenn S,4,A-Award,--D,38925,38925,1,0001670936,Employee Stock Option granted 2/7/2018 (right to buy)
+A,02/07/2018 00:00:00,Becker Yin C,4,A-Award,--D,6490,6490,1,0001663135,Employee Stock Option granted 02/07/2018 (right to buy)
+D,02/05/2018 00:00:00,McLean Graham A,4,M-Exempt,--D,2922,4383,5,0001693660,Employee Stock Option granted 2/11/2015 (right to buy)
+D,02/05/2018 00:00:00,McLean Graham A,4,S-Sale,--D,1738,4440,4,0001693660,Common Stock
+D,02/05/2018 00:00:00,McLean Graham A,4,S-Sale,--D,1246,6178,3,0001693660,Common Stock
+D,02/05/2018 00:00:00,McLean Graham A,4,F-InKind,--D,1676,7424,2,0001693660,Common Stock
+A,02/05/2018 00:00:00,McLean Graham A,4,M-Exempt,--D,2922,9100,1,0001693660,Common Stock
+D,02/02/2018 00:00:00,Carpenter Lonny J,4,S-Sale,--D,5000,94253,1,0001451534,Common Stock
+D,02/02/2018 00:00:00,COX HOWARD E JR,4,S-Sale,--D,7400,524732,1,0000949117,Common Stock
+D,02/01/2018 00:00:00,Berry William E Jr,4,S-Sale,--D,1306,0,1,0001600806,Common Stock
+D,02/01/2018 00:00:00,FRANCESCONI LOUISE,4,M-Exempt,--D,7400,0,4,0001194786,Stock Option granted 2/12/2008 (right to buy)
+D,02/01/2018 00:00:00,FRANCESCONI LOUISE,4,S-Sale,--D,4347,17557,3,0001194786,Common Stock
+D,02/01/2018 00:00:00,FRANCESCONI LOUISE,4,F-InKind,--D,3053,21904,2,0001194786,Common Stock
+A,02/01/2018 00:00:00,FRANCESCONI LOUISE,4,M-Exempt,--D,7400,24957,1,0001194786,Common Stock
+D,01/23/2018 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,7400,0,5,0001242914,Stock Option granted 2/12/2008 (right to buy)
+A,01/23/2018 00:00:00,STRYKER RONDA E,4,M-Exempt,--D,7400,209157,1,0001242914,Common Stock
+D,01/08/2018 00:00:00,COX HOWARD E JR,4,M-Exempt,--D,7400,0,2,0000949117,Stock Option granted 2/12/2008 (right to buy)
+A,01/08/2018 00:00:00,COX HOWARD E JR,4,M-Exempt,--D,7400,532132,1,0000949117,Common Stock
+D,12/06/2017 00:00:00,COX HOWARD E JR,4,G-Gift,-ED,30000,524732,1,0000949117,Common Stock
+D,12/02/2017 00:00:00,Carpenter Lonny J,4,M-Exempt,--D,1075,0,5,0001451534,Restricted Stock Units granted 12/02/2014
+D,12/02/2017 00:00:00,Carpenter Lonny J,4,F-InKind,--D,497,99253,3,0001451534,Common Stock
+A,12/02/2017 00:00:00,Carpenter Lonny J,4,M-Exempt,--D,1075,99750,2,0001451534,Common Stock
+D,11/30/2017 00:00:00,Fink M Kathryn,4,S-Sale,--D,150,5957,1,0001663095,Common Stock
+D,11/28/2017 00:00:00,Carpenter Lonny J,4,G-Gift,--D,680,98675,1,0001451534,Common Stock
+D,11/21/2017 00:00:00,STRYKER RONDA E,5,G-Gift,--I,116000,7673916,1,0001242914,Common Stock
+D,11/09/2017 00:00:00,Carpenter Lonny J,4,M-Exempt,--D,45435,0,4,0001451534,Employee Stock Option granted 2/23/2010 (right to buy)
+D,11/09/2017 00:00:00,Carpenter Lonny J,4,F-InKind,--D,29287,99355,2,0001451534,Common Stock
+A,11/09/2017 00:00:00,Carpenter Lonny J,4,M-Exempt,--D,45435,128642,1,0001451534,Common Stock
+D,11/03/2017 00:00:00,McLean Graham A,4,S-Sale,--D,715,6178,1,0001693660,Common Stock
+D,11/03/2017 00:00:00,Carpenter Lonny J,4,S-Sale,--D,5000,83207,1,0001451534,Common Stock
+D,11/01/2017 00:00:00,Silvernail Andrew K,4,G-Gift,-ED,1300,1652,1,0001485532,Common Stock
+A,10/31/2017 00:00:00,Doliveux Roch,4,P-Purchase,--D,41,18754,1,0001494947,Common Stock
+D,08/08/2017 00:00:00,McLean Graham A,4,M-Exempt,--D,2090,0,4,0001693660,Employee Stock Option granted 2/12/2008 (right to buy)
+D,08/08/2017 00:00:00,McLean Graham A,4,S-Sale,--D,1124,6893,3,0001693660,Common Stock
+D,08/08/2017 00:00:00,McLean Graham A,4,F-InKind,--D,966,8017,2,0001693660,Common Stock
+A,08/08/2017 00:00:00,McLean Graham A,4,M-Exempt,--D,2090,8983,1,0001693660,Common Stock
+D,08/04/2017 00:00:00,Carpenter Lonny J,4,S-Sale,--D,5000,88207,1,0001451534,Common Stock
+A,08/01/2017 00:00:00,Doliveux Roch,4,P-Purchase,--D,43,18713,1,0001494947,Common Stock
+A,08/01/2017 00:00:00,BRAINERD MARY K,4,A-Award,--D,600,600,2,0001195918,Restricted Stock Units granted 08/01/2017
+A,08/01/2017 00:00:00,BRAINERD MARY K,4,A-Award,--D,3005,3005,1,0001195918,Stock Option granted 08/01/2017 (right to buy)
+D,07/21/2017 00:00:00,Sagar Bijoy,4,M-Exempt,--D,2434,0,4,0001614397,Restricted Stock Units granted 7/21/2014
+D,07/21/2017 00:00:00,Sagar Bijoy,4,F-InKind,--D,907,1527,2,0001614397,Common Stock
+A,07/21/2017 00:00:00,Sagar Bijoy,4,M-Exempt,--D,2434,2434,1,0001614397,Common Stock
+D,07/12/2017 00:00:00,Floyd David,4,S-Sale,--D,19305,8568,1,0001564203,Common Stock
+D,06/05/2017 00:00:00,Floyd David,4,S-Sale,--D,7381,27873,11,0001564203,Common Stock
+D,06/05/2017 00:00:00,Floyd David,4,S-Sale,--D,7381,27873,11,0001564203,Common Stock
+D,06/02/2017 00:00:00,Floyd David,4,M-Exempt,--D,12935,51740,18,0001564203,Employee Stock Option granted 2/10/2016 (right to buy)
+D,06/02/2017 00:00:00,Floyd David,4,M-Exempt,--D,16764,25146,17,0001564203,Employee Stock Option granted 2/11/2015 (right to buy)
+D,06/02/2017 00:00:00,Floyd David,4,M-Exempt,--D,23664,15776,16,0001564203,Employee Stock Option granted 2/12/2014 (right to buy)
+D,06/02/2017 00:00:00,Floyd David,4,M-Exempt,--D,37496,9374,15,0001564203,Employee Stock Option granted 2/13/2013 (right to buy)
+D,06/02/2017 00:00:00,Floyd David,4,M-Exempt,--D,22080,5520,14,0001564203,Employee Stock Option granted 12/5/2012 (right to buy)
+D,06/02/2017 00:00:00,Floyd David,4,F-InKind,--D,10867,35254,10,0001564203,Common Stock
+A,06/02/2017 00:00:00,Floyd David,4,M-Exempt,--D,12935,46121,9,0001564203,Common Stock

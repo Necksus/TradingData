@@ -1,0 +1,696 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/27/2023 00:00:00,Comparato Christopher P,4,S-Sale,--D,49053,367816,1,0001868272,Class A Common Stock
+D,06/20/2023 00:00:00,Comparato Christopher P,4,C-Conversion,--D,375000,1991390,3,0001868272,Class B Common Stock
+D,06/20/2023 00:00:00,Comparato Christopher P,4,S-Sale,--D,8947,416869,2,0001868272,Class A Common Stock
+A,06/20/2023 00:00:00,Comparato Christopher P,4,C-Conversion,--D,375000,425816,1,0001868272,Class A Common Stock
+D,06/15/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,90950,2968655,2,0001869038,Class A Common Stock
+D,06/15/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,166783,3059605,1,0001869038,Class A Common Stock
+D,06/15/2023 00:00:00,Matlock James Michael,4,S-Sale,--D,4803,24241,2,0001887681,Class A Common Stock
+D,06/15/2023 00:00:00,Matlock James Michael,4,S-Sale,--D,10190,29044,1,0001887681,Class A Common Stock
+D,06/15/2023 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,4,0001860725,Class B Common Stock
+D,06/15/2023 00:00:00,Bennett Richard Kent,4,S-Sale,--I,0,0,2,0001860725,Class A Common Stock
+A,06/15/2023 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,1,0001860725,Class A Common Stock
+D,06/15/2023 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,2980233,25251522,3,0001655213,Class B Common Stock
+D,06/15/2023 00:00:00,Bessemer Venture Partners IX L.P.,4,S-Sale,--I,2980233,0,2,0001655213,Class A Common Stock
+A,06/15/2023 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,2980233,2980233,1,0001655213,Class A Common Stock
+A,06/08/2023 00:00:00,BELL PAUL D,4,A-Award,--D,11593,11593,2,0001077816,Restricted Stock Units
+A,06/08/2023 00:00:00,Chapman-Hughes Susan,4,A-Award,--D,11593,11593,2,0001608495,Restricted Stock Units
+A,06/08/2023 00:00:00,Hawkins Mark J,4,A-Award,--D,11593,11593,2,0001430437,Restricted Stock Units
+A,06/08/2023 00:00:00,PATRICK DEVAL L,4,A-Award,--D,11593,11593,2,0001053466,Restricted Stock Units
+A,06/08/2023 00:00:00,Koplow Hilarie A.,4,A-Award,--D,11593,11593,2,0001517131,Restricted Stock Units
+A,06/08/2023 00:00:00,Yuan David,4,A-Award,--D,11593,11593,5,0001406509,Restricted Stock Units
+A,06/08/2023 00:00:00,Bennett Richard Kent,4,A-Award,--I,11593,11593,2,0001860725,Restricted Stock Units
+D,06/06/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,57807,3226388,1,0001869038,Class A Common Stock
+D,06/05/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,5392,3284195,1,0001869038,Class A Common Stock
+D,06/02/2023 00:00:00,Yuan David,4,M-Exempt,--D,11292,0,5,0001406509,Restricted Stock Units
+A,06/02/2023 00:00:00,Yuan David,4,M-Exempt,--D,11292,11292,1,0001406509,Class A Common Stock
+D,06/02/2023 00:00:00,Chapman-Hughes Susan,4,M-Exempt,--D,11292,0,2,0001608495,Restricted Stock Units
+A,06/02/2023 00:00:00,Chapman-Hughes Susan,4,M-Exempt,--D,11292,26577,1,0001608495,Class A Common Stock
+D,06/02/2023 00:00:00,BELL PAUL D,4,M-Exempt,--D,11292,0,2,0001077816,Restricted Stock Units
+A,06/02/2023 00:00:00,BELL PAUL D,4,M-Exempt,--D,11292,229087,1,0001077816,Class A Common Stock
+D,06/02/2023 00:00:00,Hawkins Mark J,4,M-Exempt,--D,11292,0,2,0001430437,Restricted Stock Units
+A,06/02/2023 00:00:00,Hawkins Mark J,4,M-Exempt,--D,11292,75299,1,0001430437,Class A Common Stock
+D,06/02/2023 00:00:00,Koplow Hilarie A.,4,M-Exempt,--D,11292,0,2,0001517131,Restricted Stock Units
+A,06/02/2023 00:00:00,Koplow Hilarie A.,4,M-Exempt,--D,11292,14723,1,0001517131,Class A Common Stock
+D,06/02/2023 00:00:00,PATRICK DEVAL L,4,M-Exempt,--D,11292,0,2,0001053466,Restricted Stock Units
+A,06/02/2023 00:00:00,PATRICK DEVAL L,4,M-Exempt,--D,11292,28244,1,0001053466,Class A Common Stock
+D,06/02/2023 00:00:00,Bennett Richard Kent,4,M-Exempt,--D,11292,0,2,0001860725,Restricted Stock Units
+A,06/02/2023 00:00:00,Bennett Richard Kent,4,M-Exempt,--D,11292,12082,1,0001860725,Class A Common Stock
+D,05/30/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,4953,3289587,1,0001869038,Class A Common Stock
+D,05/26/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,22758,3294540,1,0001869038,Class A Common Stock
+D,05/24/2023 00:00:00,Bennett Richard Kent,4,S-Sale,--I,0,0,4,0001860725,Class A Common Stock
+A,05/24/2023 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,3,0001860725,Class A Common Stock
+D,05/24/2023 00:00:00,Bessemer Venture Partners IX L.P.,4,S-Sale,--I,510209,0,4,0001655213,Class A Common Stock
+A,05/24/2023 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,510209,510209,3,0001655213,Class A Common Stock
+D,05/23/2023 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,6,0001860725,Class B Common Stock
+D,05/23/2023 00:00:00,Bennett Richard Kent,4,S-Sale,--I,0,0,2,0001860725,Class A Common Stock
+A,05/23/2023 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,1,0001860725,Class A Common Stock
+D,05/23/2023 00:00:00,Bessemer Venture Partners IX L.P.,4,S-Sale,--I,1470024,0,2,0001655213,Class A Common Stock
+A,05/23/2023 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,1470024,1470024,1,0001655213,Class A Common Stock
+D,05/19/2023 00:00:00,Comparato Christopher P,4,S-Sale,--I,128947,0,2,0001868272,Class A Common Stock
+D,05/19/2023 00:00:00,Comparato Christopher P,4,S-Sale,--D,33333,50816,1,0001868272,Class A Common Stock
+D,05/19/2023 00:00:00,Bessemer Venture Partners IX L.P.,4,S-Sale,--I,500000,0,4,0001655213,Class A Common Stock
+A,05/19/2023 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,500000,500000,3,0001655213,Class A Common Stock
+D,05/19/2023 00:00:00,Bennett Richard Kent,4,S-Sale,--I,0,0,4,0001860725,Class A Common Stock
+A,05/19/2023 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,3,0001860725,Class A Common Stock
+D,05/18/2023 00:00:00,Bessemer Venture Partners IX L.P.,4,S-Sale,--I,500000,0,2,0001655213,Class A Common Stock
+A,05/18/2023 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,500000,500000,1,0001655213,Class A Common Stock
+D,05/18/2023 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,6,0001860725,Class B Common Stock
+D,05/18/2023 00:00:00,Bennett Richard Kent,4,S-Sale,--I,0,0,2,0001860725,Class A Common Stock
+A,05/18/2023 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,1,0001860725,Class A Common Stock
+D,05/15/2023 00:00:00,Matlock James Michael,4,S-Sale,--D,462,39234,1,0001887681,Class A Common Stock
+A,05/15/2023 00:00:00,Yuan David,4,P-Purchase,--I,4969,23373,6,0001406509,Class A common stock
+A,05/15/2023 00:00:00,Yuan David,4,P-Purchase,--I,47412,223013,5,0001406509,Class A common stock
+A,05/15/2023 00:00:00,Yuan David,4,P-Purchase,--I,82619,388614,4,0001406509,Class A common stock
+A,05/12/2023 00:00:00,Yuan David,4,P-Purchase,--I,18404,18404,3,0001406509,Class A common stock
+A,05/12/2023 00:00:00,Yuan David,4,P-Purchase,--I,175601,175601,2,0001406509,Class A common stock
+A,05/12/2023 00:00:00,Yuan David,4,P-Purchase,--I,305995,305995,1,0001406509,Class A common stock
+D,05/11/2023 00:00:00,Hawkins Mark J,4,S-Sale,--D,52790,64007,1,0001430437,Class A Common Stock
+D,05/10/2023 00:00:00,Narang Aman,4,S-Sale,--D,23201,1613635,2,0001869139,Class A Common Stock
+D,05/10/2023 00:00:00,Narang Aman,4,S-Sale,--D,96799,1636836,1,0001869139,Class A Common Stock
+D,05/03/2023 00:00:00,Matlock James Michael,4,S-Sale,--D,6310,39696,1,0001887681,Class A Common Stock
+D,05/02/2023 00:00:00,Matlock James Michael,4,S-Sale,--D,6091,46006,3,0001887681,Class A Common Stock
+D,05/02/2023 00:00:00,Elworthy Brian R,4,S-Sale,--D,670,370575,2,0001869299,Class A Common Stock
+D,05/02/2023 00:00:00,Narang Aman,4,S-Sale,--D,1108,1733635,3,0001869139,Class A Common Stock
+D,05/02/2023 00:00:00,Comparato Christopher P,4,S-Sale,--D,2436,84149,2,0001868272,Class A Common Stock
+D,05/02/2023 00:00:00,Gomez Elena,4,S-Sale,--D,2058,119509,2,0001674159,Class A Common Stock
+D,05/02/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,1111,3317298,2,0001869038,Class A Common Stock
+D,05/01/2023 00:00:00,Matlock James Michael,4,M-Exempt,--D,978,10759,5,0001887681,Restricted Stock Units
+D,05/01/2023 00:00:00,Matlock James Michael,4,M-Exempt,--D,15625,156250,4,0001887681,Restricted Stock Units
+A,05/01/2023 00:00:00,Matlock James Michael,4,M-Exempt,--D,978,52097,2,0001887681,Class A Common Stock
+A,05/01/2023 00:00:00,Matlock James Michael,4,M-Exempt,--D,15625,51119,1,0001887681,Class A Common Stock
+D,05/01/2023 00:00:00,Elworthy Brian R,4,M-Exempt,--D,2152,23669,4,0001869299,Restricted Stock Units
+A,05/01/2023 00:00:00,Elworthy Brian R,4,M-Exempt,--D,2152,371245,1,0001869299,Class A Common Stock
+D,05/01/2023 00:00:00,Narang Aman,4,M-Exempt,--D,3521,38731,5,0001869139,Restricted Stock Units
+D,05/01/2023 00:00:00,Narang Aman,4,S-Sale,--D,5495,1734743,2,0001869139,Class A Common Stock
+A,05/01/2023 00:00:00,Narang Aman,4,M-Exempt,--D,3521,1740238,1,0001869139,Class A Common Stock
+D,05/01/2023 00:00:00,Comparato Christopher P,4,M-Exempt,--D,7824,86070,4,0001868272,Restricted Stock Units
+A,05/01/2023 00:00:00,Comparato Christopher P,4,M-Exempt,--D,7824,86585,1,0001868272,Class A Common Stock
+D,05/01/2023 00:00:00,Gomez Elena,4,M-Exempt,--D,3912,43035,3,0001674159,Restricted Stock Units
+A,05/01/2023 00:00:00,Gomez Elena,4,M-Exempt,--D,3912,121567,1,0001674159,Class A Common Stock
+D,05/01/2023 00:00:00,Fredette Stephen,4,M-Exempt,--D,3521,38731,6,0001869038,Restricted Stock Units
+A,05/01/2023 00:00:00,Fredette Stephen,4,M-Exempt,--D,3521,3318409,1,0001869038,Class A Common Stock
+D,04/27/2023 00:00:00,Hawkins Mark J,4,M-Exempt,--D,52790,0,2,0001430437,Restricted Stock Units
+A,04/27/2023 00:00:00,Hawkins Mark J,4,M-Exempt,--D,52790,116797,1,0001430437,Class A Common Stock
+D,04/19/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,18263,3314888,2,0001869038,Class A Common Stock
+D,04/19/2023 00:00:00,Comparato Christopher P,4,S-Sale,--I,128947,128947,2,0001868272,Class A Common Stock
+D,04/19/2023 00:00:00,Comparato Christopher P,4,S-Sale,--D,33333,78761,1,0001868272,Class A Common Stock
+D,04/18/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,92,3333151,1,0001869038,Class A Common Stock
+D,04/17/2023 00:00:00,Matlock James Michael,4,S-Sale,--D,513,35494,1,0001887681,Class A Common Stock
+D,04/13/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,63467,3333243,2,0001869038,Class A Common Stock
+D,04/12/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,23001,3396710,1,0001869038,Class A Common Stock
+D,04/11/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,5352,3419711,1,0001869038,Class A Common Stock
+D,04/04/2023 00:00:00,Comparato Christopher P,4,S-Sale,--D,926,112094,1,0001868272,Class A Common Stock
+D,04/04/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,937,3425063,2,0001869038,Class A Common Stock
+D,04/04/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,548,3426000,1,0001869038,Class A Common Stock
+D,04/04/2023 00:00:00,Elworthy Brian R,4,S-Sale,--D,371,369093,1,0001869299,Class A Common Stock
+D,04/04/2023 00:00:00,Narang Aman,4,S-Sale,--D,548,1736717,1,0001869139,Class A Common Stock
+D,04/04/2023 00:00:00,Gomez Elena,4,S-Sale,--D,10293,117655,1,0001674159,Class A Common Stock
+D,04/01/2023 00:00:00,Gomez Elena,4,M-Exempt,--D,23440,187500,2,0001674159,Restricted Stock Units
+A,04/01/2023 00:00:00,Gomez Elena,4,M-Exempt,--D,23440,127948,1,0001674159,Class A Common Stock
+D,04/01/2023 00:00:00,Fredette Stephen,4,M-Exempt,--D,1565,12500,5,0001869038,Restricted Stock Units
+A,04/01/2023 00:00:00,Fredette Stephen,4,M-Exempt,--D,1565,3426548,1,0001869038,Class A Common Stock
+D,04/01/2023 00:00:00,Comparato Christopher P,4,M-Exempt,--D,3125,25000,3,0001868272,Restricted Stock Units
+A,04/01/2023 00:00:00,Comparato Christopher P,4,M-Exempt,--D,3125,113020,1,0001868272,Class A Common Stock
+D,04/01/2023 00:00:00,Elworthy Brian R,4,M-Exempt,--D,1250,11250,3,0001869299,Restricted Stock Units
+A,04/01/2023 00:00:00,Elworthy Brian R,4,M-Exempt,--D,1250,369464,1,0001869299,Class A Common Stock
+D,04/01/2023 00:00:00,Narang Aman,4,M-Exempt,--D,1565,12500,3,0001869139,Restricted Stock Units
+A,04/01/2023 00:00:00,Narang Aman,4,M-Exempt,--D,1565,1737265,1,0001869139,Class A Common Stock
+D,03/20/2023 00:00:00,Comparato Christopher P,4,S-Sale,--I,128947,257894,2,0001868272,Class A Common Stock
+D,03/20/2023 00:00:00,Comparato Christopher P,4,S-Sale,--D,33333,109895,1,0001868272,Class A Common Stock
+D,03/15/2023 00:00:00,Matlock James Michael,4,S-Sale,--D,508,36007,1,0001887681,Class A Common Stock
+D,03/15/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,112804,3424983,1,0001869038,Class A Common Stock
+A,03/10/2023 00:00:00,Comparato Christopher P,4,A-Award,--D,182319,182319,4,0001868272,Restricted Stock Units
+A,03/10/2023 00:00:00,Comparato Christopher P,4,A-Award,--D,547778,547778,3,0001868272,Stock Option (Right to Buy)
+A,03/10/2023 00:00:00,Narang Aman,4,A-Award,--D,101288,101288,4,0001869139,Restricted Stock Units
+A,03/10/2023 00:00:00,Narang Aman,4,A-Award,--D,304321,304321,3,0001869139,Stock Option (Right to Buy)
+A,03/10/2023 00:00:00,Elworthy Brian R,4,A-Award,--D,55708,55708,4,0001869299,Restricted Stock Units
+A,03/10/2023 00:00:00,Elworthy Brian R,4,A-Award,--D,167376,167376,3,0001869299,Stock Option (Right to Buy)
+A,03/10/2023 00:00:00,Matlock James Michael,4,A-Award,--D,50644,50644,2,0001887681,Restricted Stock Units
+A,03/10/2023 00:00:00,Fredette Stephen,4,A-Award,--D,91159,91159,6,0001869038,Restricted Stock Units
+A,03/10/2023 00:00:00,Fredette Stephen,4,A-Award,--D,273889,273889,5,0001869038,Stock Option (Right to Buy)
+A,03/10/2023 00:00:00,Gomez Elena,4,A-Award,--D,101288,101288,3,0001674159,Restricted Stock Units
+A,03/10/2023 00:00:00,Gomez Elena,4,A-Award,--D,304321,304321,2,0001674159,Stock Option (Right to Buy)
+D,02/24/2023 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,4,0001860725,Class B Common Stock
+D,02/24/2023 00:00:00,Bennett Richard Kent,4,S-Sale,--I,0,0,2,0001860725,Class A Common Stock
+A,02/24/2023 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,1,0001860725,Class A Common Stock
+D,02/24/2023 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,2980233,31211988,3,0001655213,Class B Common Stock
+D,02/24/2023 00:00:00,Bessemer Venture Partners IX L.P.,4,S-Sale,--I,2980233,0,2,0001655213,Class A Common Stock
+A,02/24/2023 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,2980233,2980233,1,0001655213,Class A Common Stock
+D,02/22/2023 00:00:00,PATRICK DEVAL L,4,M-Exempt,--D,7640,7645,2,0001053466,Restricted Stock Units
+A,02/22/2023 00:00:00,PATRICK DEVAL L,4,M-Exempt,--D,7640,16952,1,0001053466,Class A Common Stock
+D,02/21/2023 00:00:00,Comparato Christopher P,4,S-Sale,--I,128947,386841,2,0001868272,Class A Common Stock
+D,02/21/2023 00:00:00,Comparato Christopher P,4,S-Sale,--D,33333,143228,1,0001868272,Class A Common Stock
+D,02/15/2023 00:00:00,Matlock James Michael,4,S-Sale,--D,359,35569,1,0001887681,Class A Common Stock
+D,02/14/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,120000,3537787,1,0001869038,Class A Common Stock
+D,02/14/2023 00:00:00,Elworthy Brian R,4,S-Sale,--I,25000,78736,1,0001869299,Class A Common Stock
+D,02/14/2023 00:00:00,Narang Aman,4,S-Sale,--D,105000,1735700,1,0001869139,Class A Common Stock
+D,02/03/2023 00:00:00,Matlock James Michael,4,S-Sale,--D,6310,35928,1,0001887681,Class A Common Stock
+D,02/02/2023 00:00:00,Narang Aman,4,S-Sale,--D,1126,1840700,4,0001869139,Class A Common Stock
+D,02/02/2023 00:00:00,Matlock James Michael,4,S-Sale,--D,5584,42238,3,0001887681,Class A Common Stock
+D,02/02/2023 00:00:00,Comparato Christopher P,4,S-Sale,--D,2327,176561,2,0001868272,Class A Common Stock
+D,02/02/2023 00:00:00,Elworthy Brian R,4,S-Sale,--D,688,368214,2,0001869299,Class A Common Stock
+D,02/02/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,1125,3657787,2,0001869038,Class A Common Stock
+D,02/02/2023 00:00:00,Gomez Elena,4,S-Sale,--D,1248,104508,2,0001674159,Class A Common Stock
+D,02/01/2023 00:00:00,Narang Aman,4,M-Exempt,--D,3521,42252,6,0001869139,Restricted Stock Units
+D,02/01/2023 00:00:00,Narang Aman,4,S-Sale,--D,20014,1841826,3,0001869139,Class A Common Stock
+D,02/01/2023 00:00:00,Narang Aman,4,S-Sale,--D,104469,1861840,2,0001869139,Class A Common Stock
+A,02/01/2023 00:00:00,Narang Aman,4,M-Exempt,--D,3521,1966309,1,0001869139,Class A Common Stock
+D,02/01/2023 00:00:00,Matlock James Michael,4,M-Exempt,--D,978,11737,5,0001887681,Restricted Stock Units
+D,02/01/2023 00:00:00,Matlock James Michael,4,M-Exempt,--D,15625,171875,4,0001887681,Restricted Stock Units
+A,02/01/2023 00:00:00,Matlock James Michael,4,M-Exempt,--D,978,47822,2,0001887681,Class A Common Stock
+A,02/01/2023 00:00:00,Matlock James Michael,4,M-Exempt,--D,15625,46844,1,0001887681,Class A Common Stock
+D,02/01/2023 00:00:00,Comparato Christopher P,4,M-Exempt,--D,7825,93894,4,0001868272,Restricted Stock Units
+A,02/01/2023 00:00:00,Comparato Christopher P,4,M-Exempt,--D,7825,178888,1,0001868272,Class A Common Stock
+D,02/01/2023 00:00:00,Elworthy Brian R,4,M-Exempt,--D,2151,25821,4,0001869299,Restricted Stock Units
+A,02/01/2023 00:00:00,Elworthy Brian R,4,M-Exempt,--D,2151,368902,1,0001869299,Class A Common Stock
+D,02/01/2023 00:00:00,Fredette Stephen,4,M-Exempt,--D,3521,42252,6,0001869038,Restricted Stock Units
+A,02/01/2023 00:00:00,Fredette Stephen,4,M-Exempt,--D,3521,3658912,1,0001869038,Class A Common Stock
+D,02/01/2023 00:00:00,Gomez Elena,4,M-Exempt,--D,3913,46947,3,0001674159,Restricted Stock Units
+A,02/01/2023 00:00:00,Gomez Elena,4,M-Exempt,--D,3913,105756,1,0001674159,Class A Common Stock
+D,01/28/2023 00:00:00,Chapman-Hughes Susan,4,M-Exempt,--D,7640,7645,2,0001608495,Restricted Stock Units
+A,01/28/2023 00:00:00,Chapman-Hughes Susan,4,M-Exempt,--D,7640,15285,1,0001608495,Class A Common Stock
+D,01/23/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,136364,3655391,1,0001869038,Class A Common Stock
+D,01/19/2023 00:00:00,Comparato Christopher P,4,S-Sale,--I,1492,515788,3,0001868272,Class A Common Stock
+D,01/19/2023 00:00:00,Comparato Christopher P,4,S-Sale,--I,127455,517280,2,0001868272,Class A Common Stock
+D,01/19/2023 00:00:00,Comparato Christopher P,4,S-Sale,--D,33333,171063,1,0001868272,Class A Common Stock
+D,01/17/2023 00:00:00,Matlock James Michael,4,S-Sale,--D,453,31219,1,0001887681,Class A Common Stock
+D,01/04/2023 00:00:00,Narang Aman,4,S-Sale,--D,541,1962788,1,0001869139,Class A Common Stock
+D,01/04/2023 00:00:00,Fredette Stephen,4,S-Sale,--D,541,3791755,1,0001869038,Class A Common Stock
+D,01/04/2023 00:00:00,Gomez Elena,4,S-Sale,--D,8626,101843,1,0001674159,Class A Common Stock
+D,01/04/2023 00:00:00,Comparato Christopher P,4,S-Sale,--D,1082,204396,1,0001868272,Class A Common Stock
+D,01/04/2023 00:00:00,Elworthy Brian R,4,S-Sale,--D,433,366751,1,0001869299,Class A Common Stock
+D,01/01/2023 00:00:00,Narang Aman,4,M-Exempt,--D,1560,14065,3,0001869139,Restricted Stock Units
+A,01/01/2023 00:00:00,Narang Aman,4,M-Exempt,--D,1560,1963329,1,0001869139,Class A Common Stock
+D,01/01/2023 00:00:00,Fredette Stephen,4,M-Exempt,--D,1560,14065,5,0001869038,Restricted Stock Units
+A,01/01/2023 00:00:00,Fredette Stephen,4,M-Exempt,--D,1560,3792296,1,0001869038,Class A Common Stock
+D,01/01/2023 00:00:00,Elworthy Brian R,4,M-Exempt,--D,1250,12500,3,0001869299,Restricted Stock Units
+A,01/01/2023 00:00:00,Elworthy Brian R,4,M-Exempt,--D,1250,367184,1,0001869299,Class A Common Stock
+D,01/01/2023 00:00:00,Gomez Elena,4,M-Exempt,--D,23435,210940,2,0001674159,Restricted Stock Units
+A,01/01/2023 00:00:00,Gomez Elena,4,M-Exempt,--D,23435,110469,1,0001674159,Class A Common Stock
+D,01/01/2023 00:00:00,Comparato Christopher P,4,M-Exempt,--D,3125,28125,3,0001868272,Restricted Stock Units
+A,01/01/2023 00:00:00,Comparato Christopher P,4,M-Exempt,--D,3125,205478,1,0001868272,Class A Common Stock
+D,12/30/2022 00:00:00,Narang Aman,4,S-Sale,--I,42475,0,8,0001869139,Class A Common Stock
+D,12/30/2022 00:00:00,Narang Aman,4,S-Sale,--I,42367,0,7,0001869139,Class A Common Stock
+D,12/30/2022 00:00:00,Narang Aman,4,S-Sale,--I,7800,9109,6,0001869139,Class A Common Stock
+D,12/29/2022 00:00:00,Narang Aman,4,S-Sale,--I,13341,42475,5,0001869139,Class A Common Stock
+D,12/29/2022 00:00:00,Narang Aman,4,S-Sale,--I,13449,42367,4,0001869139,Class A Common Stock
+D,12/28/2022 00:00:00,Narang Aman,4,S-Sale,--I,583091,16909,3,0001869139,Class A Common Stock
+D,12/22/2022 00:00:00,Elworthy Brian R,4,M-Exempt,--D,22500,427500,3,0001869299,Stock Option (Right to Buy)
+A,12/22/2022 00:00:00,Elworthy Brian R,4,M-Exempt,--D,22500,365934,1,0001869299,Class A Common Stock
+D,12/20/2022 00:00:00,Comparato Christopher P,4,M-Exempt,--D,5753,675043,10,0001868272,Stock Option (Right to Buy)
+A,12/20/2022 00:00:00,Comparato Christopher P,4,M-Exempt,--D,6550,2366390,5,0001868272,Class B Common Stock
+D,12/20/2022 00:00:00,Comparato Christopher P,4,M-Exempt,--D,6550,143450,4,0001868272,Stock Option (Right to Buy)
+A,12/20/2022 00:00:00,Comparato Christopher P,4,M-Exempt,--D,5753,202353,3,0001868272,Class A Common Stock
+D,12/19/2022 00:00:00,Comparato Christopher P,4,S-Sale,--I,128947,644735,2,0001868272,Class A Common Stock
+D,12/19/2022 00:00:00,Comparato Christopher P,4,S-Sale,--D,33333,196600,1,0001868272,Class A Common Stock
+D,12/15/2022 00:00:00,Fredette Stephen,4,G-Gift,-ED,121396,3790736,2,0001869038,Class A Common Stock
+D,12/15/2022 00:00:00,Fredette Stephen,4,S-Sale,--D,404654,3912132,1,0001869038,Class A Common Stock
+D,12/15/2022 00:00:00,Matlock James Michael,4,S-Sale,--D,7032,31672,1,0001887681,Class A Common Stock
+D,12/15/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,7,0001860725,Class B Common Stock
+D,12/15/2022 00:00:00,Bennett Richard Kent,4,S-Sale,--I,0,0,4,0001860725,Class A Common Stock
+A,12/15/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,3,0001860725,Class A Common Stock
+D,12/15/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,135692,34192221,6,0001655213,Class B Common Stock
+D,12/15/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,S-Sale,--I,135692,0,4,0001655213,Class A Common Stock
+A,12/15/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,135692,135692,3,0001655213,Class A Common Stock
+A,12/14/2022 00:00:00,Narang Aman,4,G-Gift,-EI,600000,600000,2,0001869139,Class A Common Stock
+D,12/14/2022 00:00:00,Narang Aman,4,G-Gift,-ED,600000,1961769,1,0001869139,Class A Common Stock
+D,12/14/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,6,0001860725,Class B Common Stock
+A,12/14/2022 00:00:00,Bennett Richard Kent,4,S-Sale,--I,0,0,2,0001860725,Class A Common Stock
+A,12/14/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,1,0001860725,Class A Common Stock
+D,12/14/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,561518,34327913,5,0001655213,Class B Common Stock
+D,12/14/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,S-Sale,--I,561518,0,2,0001655213,Class A Common Stock
+A,12/14/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,561518,561518,1,0001655213,Class A Common Stock
+D,12/13/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,5,0001860725,Class B Common Stock
+D,12/13/2022 00:00:00,Bennett Richard Kent,4,S-Sale,--I,0,0,3,0001860725,Class A Common Stock
+D,12/13/2022 00:00:00,Bennett Richard Kent,4,S-Sale,--I,0,0,2,0001860725,Class A Common Stock
+A,12/13/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,1,0001860725,Class A Common Stock
+D,12/13/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,398944,34889431,4,0001655213,Class B Common Stock
+D,12/13/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,S-Sale,--I,3000,0,3,0001655213,Class A Common Stock
+D,12/13/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,S-Sale,--I,395944,3000,2,0001655213,Class A Common Stock
+A,12/13/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,398944,398944,1,0001655213,Class A Common Stock
+D,12/01/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,1925000,35288375,3,0001655213,Class B Common Stock
+D,12/01/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,S-Sale,--I,1925000,0,2,0001655213,Class A Common Stock
+A,12/01/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,1925000,1925000,1,0001655213,Class A Common Stock
+D,12/01/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,4,0001860725,Class B Common Stock
+D,12/01/2022 00:00:00,Bennett Richard Kent,4,S-Sale,--I,0,0,2,0001860725,Class A Common Stock
+A,12/01/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,1,0001860725,Class A Common Stock
+D,11/30/2022 00:00:00,Koplow Hilarie A.,4,M-Exempt,--D,3431,6863,2,0001517131,Restricted Stock Units
+A,11/30/2022 00:00:00,Koplow Hilarie A.,4,M-Exempt,--D,3431,3431,1,0001517131,Class A Common Stock
+D,11/23/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,4576879,37213375,6,0001655213,Class B Common Stock
+D,11/23/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,S-Sale,--I,4576879,0,4,0001655213,Class A Common Stock
+A,11/23/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,4576879,4576879,3,0001655213,Class A Common Stock
+D,11/23/2022 00:00:00,Bennett Richard Kent,4,S-Sale,--I,0,0,4,0001860725,Class A Common Stock
+A,11/23/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,3,0001860725,Class A Common Stock
+D,11/22/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,460000,41790254,5,0001655213,Class B Common Stock
+D,11/22/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,S-Sale,--I,460000,0,2,0001655213,Class A Common Stock
+A,11/22/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,460000,460000,1,0001655213,Class A Common Stock
+D,11/22/2022 00:00:00,Bennett Richard Kent,4,S-Sale,--I,0,0,2,0001860725,Class A Common Stock
+A,11/22/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,1,0001860725,Class A Common Stock
+D,11/21/2022 00:00:00,Comparato Christopher P,4,S-Sale,--I,128947,773682,2,0001868272,Class A Common Stock
+D,11/21/2022 00:00:00,Comparato Christopher P,4,S-Sale,--D,33333,229933,1,0001868272,Class A Common Stock
+D,11/21/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,7,0001860725,Class B Common Stock
+D,11/21/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,416931,42250254,6,0001655213,Class B Common Stock
+D,11/21/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,S-Sale,--I,416931,0,4,0001655213,Class A Common Stock
+A,11/21/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,416931,416931,3,0001655213,Class A Common Stock
+D,11/21/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,7,0001860725,Class B Common Stock
+D,11/21/2022 00:00:00,Bennett Richard Kent,4,S-Sale,--I,0,0,5,0001860725,Class A Common Stock
+A,11/21/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,4,0001860725,Class A Common Stock
+D,11/18/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,6,0001860725,Class B Common Stock
+D,11/18/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,546190,42667185,5,0001655213,Class B Common Stock
+D,11/18/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,S-Sale,--I,546190,0,2,0001655213,Class A Common Stock
+A,11/18/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,546190,546190,1,0001655213,Class A Common Stock
+D,11/18/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,6,0001860725,Class B Common Stock
+D,11/18/2022 00:00:00,Bennett Richard Kent,4,S-Sale,--D,132709,790,3,0001860725,Class A Common Stock
+D,11/18/2022 00:00:00,Bennett Richard Kent,4,S-Sale,--I,0,0,2,0001860725,Class A Common Stock
+A,11/18/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,1,0001860725,Class A Common Stock
+D,11/02/2022 00:00:00,Matlock James Michael,4,S-Sale,--D,25991,38704,3,0001887681,Class A Common Stock
+D,11/02/2022 00:00:00,Gomez Elena,4,S-Sale,--D,2024,87034,2,0001674159,Class A Common Stock
+D,11/02/2022 00:00:00,Narang Aman,4,S-Sale,--D,1079,2561769,2,0001869139,Class A Common Stock
+D,11/02/2022 00:00:00,Fredette Stephen,4,S-Sale,--D,1079,4316786,2,0001869038,Class A Common Stock
+D,11/02/2022 00:00:00,Elworthy Brian R,4,S-Sale,--D,659,343434,2,0001869299,Class A Common Stock
+D,11/02/2022 00:00:00,Comparato Christopher P,4,S-Sale,--D,2397,263266,2,0001868272,Class A Common Stock
+D,11/01/2022 00:00:00,Matlock James Michael,4,M-Exempt,--D,978,12715,5,0001887681,Restricted Stock Units
+D,11/01/2022 00:00:00,Matlock James Michael,4,M-Exempt,--D,62500,187500,4,0001887681,Restricted Stock Units
+A,11/01/2022 00:00:00,Matlock James Michael,4,M-Exempt,--D,978,64695,2,0001887681,Class A Common Stock
+A,11/01/2022 00:00:00,Matlock James Michael,4,M-Exempt,--D,62500,63717,1,0001887681,Class A Common Stock
+D,11/01/2022 00:00:00,Gomez Elena,4,M-Exempt,--D,3912,50860,3,0001674159,Restricted Stock Units
+A,11/01/2022 00:00:00,Gomez Elena,4,M-Exempt,--D,3912,89058,1,0001674159,Class A Common Stock
+D,11/01/2022 00:00:00,Narang Aman,4,M-Exempt,--D,3521,45773,8,0001869139,Restricted Stock Units
+A,11/01/2022 00:00:00,Narang Aman,4,M-Exempt,--D,3521,2562848,1,0001869139,Class A Common Stock
+D,11/01/2022 00:00:00,Fredette Stephen,4,M-Exempt,--D,3521,45773,6,0001869038,Restricted Stock Units
+A,11/01/2022 00:00:00,Fredette Stephen,4,M-Exempt,--D,3521,4317865,1,0001869038,Class A Common Stock
+D,11/01/2022 00:00:00,Elworthy Brian R,4,M-Exempt,--D,2152,27972,4,0001869299,Restricted Stock Units
+A,11/01/2022 00:00:00,Elworthy Brian R,4,M-Exempt,--D,2152,344093,1,0001869299,Class A Common Stock
+D,11/01/2022 00:00:00,Comparato Christopher P,4,M-Exempt,--D,7824,101719,4,0001868272,Restricted Stock Units
+A,11/01/2022 00:00:00,Comparato Christopher P,4,M-Exempt,--D,7824,265663,1,0001868272,Class A Common Stock
+D,10/19/2022 00:00:00,Comparato Christopher P,4,S-Sale,--I,128947,902629,2,0001868272,Class A Common Stock
+D,10/19/2022 00:00:00,Comparato Christopher P,4,S-Sale,--D,33333,257839,1,0001868272,Class A Common Stock
+D,10/18/2022 00:00:00,Elworthy Brian R,4,S-Sale,--D,100000,341941,1,0001869299,Class A Common Stock
+D,10/04/2022 00:00:00,Comparato Christopher P,4,S-Sale,--D,889,291172,1,0001868272,Class A Common Stock
+D,10/04/2022 00:00:00,Fredette Stephen,4,S-Sale,--D,445,4314344,1,0001869038,Class A Common Stock
+D,10/04/2022 00:00:00,Gomez Elena,4,S-Sale,--D,11253,85146,1,0001674159,Class A Common Stock
+D,10/04/2022 00:00:00,Narang Aman,4,S-Sale,--D,445,2559327,1,0001869139,Class A Common Stock
+D,10/04/2022 00:00:00,Elworthy Brian R,4,S-Sale,--D,356,441941,1,0001869299,Class A Common Stock
+D,10/01/2022 00:00:00,Comparato Christopher P,4,M-Exempt,--D,3125,31250,3,0001868272,Restricted Stock Units
+A,10/01/2022 00:00:00,Comparato Christopher P,4,M-Exempt,--D,3125,292061,1,0001868272,Class A Common Stock
+D,10/01/2022 00:00:00,Gomez Elena,4,M-Exempt,--D,23440,234375,2,0001674159,Restricted Stock Units
+A,10/01/2022 00:00:00,Gomez Elena,4,M-Exempt,--D,23440,96399,1,0001674159,Class A Common Stock
+D,10/01/2022 00:00:00,Narang Aman,4,M-Exempt,--D,1565,15625,7,0001869139,Restricted Stock Units
+A,10/01/2022 00:00:00,Narang Aman,4,M-Exempt,--D,1565,2559772,1,0001869139,Class A Common Stock
+D,10/01/2022 00:00:00,Elworthy Brian R,4,M-Exempt,--D,1250,13750,3,0001869299,Restricted Stock Units
+A,10/01/2022 00:00:00,Elworthy Brian R,4,M-Exempt,--D,1250,442297,1,0001869299,Class A Common Stock
+D,10/01/2022 00:00:00,Fredette Stephen,4,M-Exempt,--D,1565,15625,5,0001869038,Restricted Stock Units
+A,10/01/2022 00:00:00,Fredette Stephen,4,M-Exempt,--D,1565,4314789,1,0001869038,Class A Common Stock
+D,09/19/2022 00:00:00,Comparato Christopher P,4,S-Sale,--D,33336,288936,4,0001868272,Class A Common Stock
+D,09/19/2022 00:00:00,Comparato Christopher P,4,S-Sale,--I,128954,1031576,3,0001868272,Class A Common Stock
+D,09/15/2022 00:00:00,Comparato Christopher P,4,G-Gift,-EI,45000,1160530,2,0001868272,Class A Common Stock
+D,09/13/2022 00:00:00,Hawkins Mark J,4,S-Sale,--D,52790,64007,1,0001430437,Class A Common Stock
+D,08/31/2022 00:00:00,Comparato Christopher P,4,G-Gift,-EI,120000,1205530,1,0001868272,Class A Common Stock
+D,08/19/2022 00:00:00,Comparato Christopher P,4,C-Conversion,--I,165000,6416890,3,0001868272,Class B Common Stock
+A,08/19/2022 00:00:00,Comparato Christopher P,4,C-Conversion,--I,165000,1325530,1,0001868272,Class A Common Stock
+D,08/18/2022 00:00:00,Bennett Richard Kent,4,S-Sale,--D,150533,133499,4,0001860725,Class A Common Stock
+D,08/17/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,5,0001860725,Class B Common Stock
+D,08/17/2022 00:00:00,Bennett Richard Kent,4,S-Sale,--D,150532,276973,3,0001860725,Class A Common Stock
+D,08/17/2022 00:00:00,Bennett Richard Kent,4,J-Other,--I,0,0,2,0001860725,Class A Common Stock
+A,08/17/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,1,0001860725,Class A Common Stock
+D,08/17/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,4470349,43213375,3,0001655213,Class B Common Stock
+D,08/17/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,J-Other,--I,4470349,0,2,0001655213,Class A Common Stock
+A,08/17/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,4470349,4470349,1,0001655213,Class A Common Stock
+D,08/02/2022 00:00:00,Matlock James Michael,4,S-Sale,--D,351,1217,2,0001887681,Class A Common Stock
+D,08/02/2022 00:00:00,Narang Aman,4,S-Sale,--D,1070,2558207,2,0001869139,Class A Common Stock
+D,08/02/2022 00:00:00,Elworthy Brian R,4,S-Sale,--D,654,441047,2,0001869299,Class A Common Stock
+D,08/02/2022 00:00:00,Gomez Elena,4,S-Sale,--D,2009,72959,2,0001674159,Class A Common Stock
+D,08/02/2022 00:00:00,Fredette Stephen,4,S-Sale,--D,1070,4313224,2,0001869038,Class A Common Stock
+D,08/02/2022 00:00:00,Comparato Christopher P,4,S-Sale,--D,2377,322272,2,0001868272,Class A Common Stock
+D,08/01/2022 00:00:00,Matlock James Michael,4,M-Exempt,--D,978,13693,3,0001887681,Restricted Stock Units
+A,08/01/2022 00:00:00,Matlock James Michael,4,M-Exempt,--D,978,1568,1,0001887681,Class A Common Stock
+D,08/01/2022 00:00:00,Narang Aman,4,M-Exempt,--D,3521,49294,8,0001869139,Restricted Stock Units
+A,08/01/2022 00:00:00,Narang Aman,4,M-Exempt,--D,3521,2559277,1,0001869139,Class A Common Stock
+D,08/01/2022 00:00:00,Elworthy Brian R,4,M-Exempt,--D,2152,30124,4,0001869299,Restricted Stock Units
+A,08/01/2022 00:00:00,Elworthy Brian R,4,M-Exempt,--D,2152,441701,1,0001869299,Class A Common Stock
+D,08/01/2022 00:00:00,Gomez Elena,4,M-Exempt,--D,3912,54772,3,0001674159,Restricted Stock Units
+A,08/01/2022 00:00:00,Gomez Elena,4,M-Exempt,--D,3912,74968,1,0001674159,Class A Common Stock
+D,08/01/2022 00:00:00,Fredette Stephen,4,M-Exempt,--D,3521,49294,6,0001869038,Restricted Stock Units
+A,08/01/2022 00:00:00,Fredette Stephen,4,M-Exempt,--D,3521,4314294,1,0001869038,Class A Common Stock
+D,08/01/2022 00:00:00,Comparato Christopher P,4,M-Exempt,--D,7825,109543,4,0001868272,Restricted Stock Units
+A,08/01/2022 00:00:00,Comparato Christopher P,4,M-Exempt,--D,7825,324649,1,0001868272,Class A Common Stock
+D,07/28/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,2450000,6168317,1,0001884213,Class A Common Stock
+D,07/05/2022 00:00:00,Comparato Christopher P,4,S-Sale,--D,858,316824,2,0001868272,Class A Common Stock
+D,07/05/2022 00:00:00,Fredette Stephen,4,S-Sale,--D,429,4310773,2,0001869038,Class A Common Stock
+D,07/05/2022 00:00:00,Elworthy Brian R,4,S-Sale,--D,1372,439549,2,0001869299,Class A Common Stock
+D,07/05/2022 00:00:00,Narang Aman,4,S-Sale,--D,428,2555756,2,0001869139,Class A Common Stock
+D,07/05/2022 00:00:00,Gomez Elena,4,S-Sale,--D,10863,71056,2,0001674159,Class A Common Stock
+D,07/01/2022 00:00:00,Comparato Christopher P,4,M-Exempt,--D,3125,34375,4,0001868272,Restricted Stock Units
+A,07/01/2022 00:00:00,Comparato Christopher P,4,M-Exempt,--D,3125,317682,1,0001868272,Class A Common Stock
+D,07/01/2022 00:00:00,Fredette Stephen,4,M-Exempt,--D,1560,17190,6,0001869038,Restricted Stock Units
+A,07/01/2022 00:00:00,Fredette Stephen,4,M-Exempt,--D,1560,4311202,1,0001869038,Class A Common Stock
+D,07/01/2022 00:00:00,Elworthy Brian R,4,M-Exempt,--D,5000,15000,4,0001869299,Restricted Stock Units
+A,07/01/2022 00:00:00,Elworthy Brian R,4,M-Exempt,--D,5000,440921,1,0001869299,Class A Common Stock
+D,07/01/2022 00:00:00,Narang Aman,4,M-Exempt,--D,1560,17190,8,0001869139,Restricted Stock Units
+A,07/01/2022 00:00:00,Narang Aman,4,M-Exempt,--D,1560,2556184,1,0001869139,Class A Common Stock
+D,07/01/2022 00:00:00,Gomez Elena,4,M-Exempt,--D,23435,257815,3,0001674159,Restricted Stock Units
+A,07/01/2022 00:00:00,Gomez Elena,4,M-Exempt,--D,23435,81919,1,0001674159,Class A Common Stock
+D,06/27/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,341156,8618317,4,0001884213,Class A Common Stock
+D,06/24/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,1500000,8959473,3,0001884213,Class A Common Stock
+D,06/23/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,263314,10459473,2,0001884213,Class A Common Stock
+D,06/23/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,285038,10722787,1,0001884213,Class A Common Stock
+A,06/02/2022 00:00:00,Yuan David,4,A-Award,--D,11292,11292,1,0001406509,Restricted Stock Units
+A,06/02/2022 00:00:00,BELL PAUL D,4,A-Award,--D,11292,11292,2,0001077816,Restricted Stock Units
+A,06/02/2022 00:00:00,Hawkins Mark J,4,A-Award,--D,11292,11292,2,0001430437,Restricted Stock Units
+A,06/02/2022 00:00:00,Koplow Hilarie A.,4,A-Award,--D,11292,11292,1,0001517131,Restricted Stock Units
+A,06/02/2022 00:00:00,PATRICK DEVAL L,4,A-Award,--D,11292,11292,2,0001053466,Restricted Stock Units
+A,06/02/2022 00:00:00,Chapman-Hughes Susan,4,A-Award,--D,11292,11292,2,0001608495,Restricted Stock Units
+A,06/02/2022 00:00:00,Bennett Richard Kent,4,A-Award,--I,11292,11292,2,0001860725,Restricted Stock Units
+D,05/26/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,3600000,11007825,1,0001884213,Class A Common Stock
+D,05/24/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,510209,28231755,6,0001655213,Class B Common Stock
+D,05/23/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,1470024,28741964,5,0001655213,Class B Common Stock
+D,05/19/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,500000,30211988,6,0001655213,Class B Common Stock
+D,05/19/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,3600000,14607825,1,0001884213,Class A Common Stock
+D,05/18/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,500000,30711988,5,0001655213,Class B Common Stock
+D,05/17/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,4470349,47683724,3,0001655213,Class B Common Stock
+D,05/17/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,J-Other,--I,4470349,0,2,0001655213,Class A Common Stock
+A,05/17/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,4470349,4470349,1,0001655213,Class A Common Stock
+D,05/17/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,4,0001860725,Class B Common Stock
+D,05/17/2022 00:00:00,Bennett Richard Kent,4,J-Other,--I,0,0,2,0001860725,Class A Common Stock
+A,05/17/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,1,0001860725,Class A Common Stock
+D,05/16/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,27042,18207825,8,0001884213,Class A Common Stock
+D,05/16/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,472958,18234867,7,0001884213,Class A Common Stock
+D,05/16/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,445536,18707825,6,0001884213,Class A Common Stock
+D,05/13/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,379788,19153361,5,0001884213,Class A Common Stock
+D,05/13/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,120212,19533149,4,0001884213,Class A Common Stock
+D,05/13/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,145690,19653361,3,0001884213,Class A Common Stock
+D,05/13/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,354310,19799051,2,0001884213,Class A Common Stock
+D,05/13/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,371609,20153361,1,0001884213,Class A Common Stock
+D,05/12/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,250000,20524970,9,0001884213,Class A Common Stock
+D,05/12/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,250000,20774970,8,0001884213,Class A Common Stock
+D,05/12/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,500000,21024970,7,0001884213,Class A Common Stock
+D,05/12/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,500000,21524970,6,0001884213,Class A Common Stock
+D,05/12/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,500000,22024940,5,0001884213,Class A Common Stock
+D,05/12/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,250000,22524970,4,0001884213,Class A Common Stock
+D,05/12/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,500000,22774970,3,0001884213,Class A Common Stock
+D,05/12/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,250000,23274970,2,0001884213,Class A Common Stock
+D,05/12/2022 00:00:00,"Technology Investment Dining Group, LLC",4,S-Sale,--D,96741,23524970,1,0001884213,Class A Common Stock
+D,05/03/2022 00:00:00,Elworthy Brian R,4,S-Sale,--D,599,435921,1,0001869299,Class A Common Stock
+D,05/03/2022 00:00:00,Narang Aman,4,S-Sale,--D,989,2554624,1,0001869139,Class A Common Stock
+D,05/03/2022 00:00:00,Grimm Jonathan,4,S-Sale,--D,985,6868,1,0001907485,Class A Common Stock
+D,05/03/2022 00:00:00,Comparato Christopher P,4,S-Sale,--D,2214,314557,1,0001868272,Class A Common Stock
+D,05/03/2022 00:00:00,Fredette Stephen,4,S-Sale,--D,987,4309642,1,0001869038,Class A Common Stock
+D,05/03/2022 00:00:00,Matlock James Michael,4,S-Sale,--D,388,590,1,0001887681,Class A Common Stock
+D,05/03/2022 00:00:00,Gomez Elena,4,S-Sale,--D,1870,58484,1,0001674159,Class A Common Stock
+D,05/01/2022 00:00:00,Elworthy Brian R,4,M-Exempt,--D,2151,32276,3,0001869299,Restricted Stock Units
+A,05/01/2022 00:00:00,Elworthy Brian R,4,M-Exempt,--D,2151,436520,1,0001869299,Class A Common Stock
+D,05/01/2022 00:00:00,Gomez Elena,4,M-Exempt,--D,3912,58684,2,0001674159,Restricted Stock Units
+A,05/01/2022 00:00:00,Gomez Elena,4,M-Exempt,--D,3912,60354,1,0001674159,Class A Common Stock
+D,05/01/2022 00:00:00,Grimm Jonathan,4,M-Exempt,--D,3521,52815,3,0001907485,Restricted Stock Units
+A,05/01/2022 00:00:00,Grimm Jonathan,4,M-Exempt,--D,3521,7853,1,0001907485,Class A Common Stock
+D,05/01/2022 00:00:00,Comparato Christopher P,4,M-Exempt,--D,7824,117368,3,0001868272,Restricted Stock Units
+A,05/01/2022 00:00:00,Comparato Christopher P,4,M-Exempt,--D,7824,316771,1,0001868272,Class A Common Stock
+D,05/01/2022 00:00:00,Matlock James Michael,4,M-Exempt,--D,978,14671,2,0001887681,Restricted Stock Units
+A,05/01/2022 00:00:00,Matlock James Michael,4,M-Exempt,--D,978,978,1,0001887681,Class A Common Stock
+D,05/01/2022 00:00:00,Fredette Stephen,4,M-Exempt,--D,3521,52815,5,0001869038,Restricted Stock Units
+A,05/01/2022 00:00:00,Fredette Stephen,4,M-Exempt,--D,3521,4310629,1,0001869038,Class A Common Stock
+D,05/01/2022 00:00:00,Narang Aman,4,M-Exempt,--D,3521,52815,7,0001869139,Restricted Stock Units
+A,05/01/2022 00:00:00,Narang Aman,4,M-Exempt,--D,3521,2555613,1,0001869139,Class A Common Stock
+D,05/01/2022 00:00:00,Hawkins Mark J,4,M-Exempt,--D,9550,0,2,0001430437,Restricted Stock Units
+A,05/01/2022 00:00:00,Hawkins Mark J,4,M-Exempt,--D,9550,116797,1,0001430437,Class A Common Stock
+D,04/27/2022 00:00:00,Hawkins Mark J,4,M-Exempt,--D,52790,52790,2,0001430437,Restricted Stock Units
+A,04/27/2022 00:00:00,Hawkins Mark J,4,M-Exempt,--D,52790,107247,1,0001430437,Class A Common Stock
+D,04/13/2022 00:00:00,Grimm Jonathan,4,G-Gift,-EI,36452,1745215,4,0001907485,Class B Common Stock
+D,04/04/2022 00:00:00,Gomez Elena,4,S-Sale,--D,37308,56442,2,0001674159,Class A Common Stock
+D,04/04/2022 00:00:00,Narang Aman,4,S-Sale,--D,1896,2552092,2,0001869139,Class A Common Stock
+D,04/04/2022 00:00:00,Comparato Christopher P,4,S-Sale,--D,3553,308947,2,0001868272,Class A Common Stock
+D,04/04/2022 00:00:00,Fredette Stephen,4,S-Sale,--D,1914,4307108,2,0001869038,Class A Common Stock
+D,04/04/2022 00:00:00,Grimm Jonathan,4,S-Sale,--D,1918,4332,2,0001907485,Class A Common Stock
+D,04/01/2022 00:00:00,Gomez Elena,4,M-Exempt,--D,93750,281250,3,0001674159,Restricted Stock Units
+A,04/01/2022 00:00:00,Gomez Elena,4,M-Exempt,--D,93750,93750,1,0001674159,Class A Common Stock
+D,04/01/2022 00:00:00,Narang Aman,4,M-Exempt,--D,6250,18750,8,0001869139,Restricted Stock Units
+A,04/01/2022 00:00:00,Narang Aman,4,M-Exempt,--D,6250,2553988,1,0001869139,Class A Common Stock
+D,04/01/2022 00:00:00,Comparato Christopher P,4,M-Exempt,--D,12500,37500,4,0001868272,Restricted Stock Units
+A,04/01/2022 00:00:00,Comparato Christopher P,4,M-Exempt,--D,12500,312500,1,0001868272,Class A Common Stock
+D,04/01/2022 00:00:00,Fredette Stephen,4,M-Exempt,--D,6250,18750,6,0001869038,Restricted Stock Units
+A,04/01/2022 00:00:00,Fredette Stephen,4,M-Exempt,--D,6250,4309022,1,0001869038,Class A Common Stock
+D,04/01/2022 00:00:00,Grimm Jonathan,4,M-Exempt,--D,6250,18750,4,0001907485,Restricted Stock Units
+A,04/01/2022 00:00:00,Grimm Jonathan,4,M-Exempt,--D,6250,6250,1,0001907485,Class A Common Stock
+D,03/25/2022 00:00:00,Grimm Jonathan,4,G-Gift,-EI,258333,1781667,5,0001907485,Class B Common Stock
+D,03/16/2022 00:00:00,"Technology Investment Dining Group, LLC",4,C-Conversion,--D,6827155,31675329,2,0001884213,Class B Common Stock
+A,03/16/2022 00:00:00,"Technology Investment Dining Group, LLC",4,C-Conversion,--D,6827155,23621711,1,0001884213,Class A Common Stock
+A,03/15/2022 00:00:00,Gomez Elena,4,A-Award,--D,62596,62596,3,0001674159,Restricted Stock Units
+A,03/15/2022 00:00:00,Gomez Elena,4,A-Award,--D,340398,340398,2,0001674159,Stock Option (Right to Buy)
+A,03/15/2022 00:00:00,Elworthy Brian R,4,A-Award,--D,34427,34427,4,0001869299,Restricted Stock Units
+A,03/15/2022 00:00:00,Elworthy Brian R,4,A-Award,--D,187219,187219,3,0001869299,Stock Option (Right to Buy)
+A,03/15/2022 00:00:00,Grimm Jonathan,4,A-Award,--D,56336,56336,3,0001907485,Restricted Stock Units
+A,03/15/2022 00:00:00,Grimm Jonathan,4,A-Award,--D,306358,306358,2,0001907485,Stock Option (Right to Buy)
+A,03/15/2022 00:00:00,Narang Aman,4,A-Award,--D,56336,56336,8,0001869139,Restricted Stock Units
+A,03/15/2022 00:00:00,Narang Aman,4,A-Award,--D,306358,306358,7,0001869139,Stock Option (Right to Buy)
+A,03/15/2022 00:00:00,Fredette Stephen,4,A-Award,--D,56336,56336,6,0001869038,Restricted Stock Units
+A,03/15/2022 00:00:00,Fredette Stephen,4,A-Award,--D,306358,306358,5,0001869038,Stock Option (Right to Buy)
+A,03/15/2022 00:00:00,Matlock James Michael,4,A-Award,--D,15649,15649,3,0001887681,Restricted Stock Units
+A,03/15/2022 00:00:00,Matlock James Michael,4,A-Award,--D,85099,85099,2,0001887681,Stock Option (Right to Buy)
+A,03/15/2022 00:00:00,Comparato Christopher P,4,A-Award,--D,125192,125192,4,0001868272,Restricted Stock Units
+A,03/15/2022 00:00:00,Comparato Christopher P,4,A-Award,--D,680796,680796,3,0001868272,Stock Option (Right to Buy)
+A,03/11/2022 00:00:00,Fredette Stephen,4,G-Gift,-ED,23287,4302772,1,0001869038,Class A Common Stock
+A,03/03/2022 00:00:00,Fredette Stephen,4,J-Other,--D,25000,25000,10,0001869038,Restricted Stock Units
+D,03/03/2022 00:00:00,Fredette Stephen,4,J-Other,--D,25000,0,9,0001869038,Restricted Stock Units
+D,03/03/2022 00:00:00,Fredette Stephen,4,C-Conversion,--I,1314577,4506606,7,0001869038,Class B Common Stock
+D,03/03/2022 00:00:00,Fredette Stephen,4,C-Conversion,--I,227448,1580009,6,0001869038,Class B Common Stock
+D,03/03/2022 00:00:00,Fredette Stephen,4,C-Conversion,--D,1336616,19173555,5,0001869038,Class B Common Stock
+A,03/03/2022 00:00:00,Fredette Stephen,4,C-Conversion,--I,1314577,2326729,3,0001869038,Class A Common Stock
+A,03/03/2022 00:00:00,Fredette Stephen,4,C-Conversion,--I,227448,419991,2,0001869038,Class A Common Stock
+A,03/03/2022 00:00:00,Fredette Stephen,4,C-Conversion,--D,1336616,4279485,1,0001869038,Class A Common Stock
+A,03/03/2022 00:00:00,Comparato Christopher P,4,J-Other,--D,50000,50000,9,0001868272,Restricted Stock Units
+D,03/03/2022 00:00:00,Comparato Christopher P,4,J-Other,--D,50000,0,8,0001868272,Restricted Stock Units
+D,03/03/2022 00:00:00,Comparato Christopher P,4,C-Conversion,--I,254209,6581890,4,0001868272,Class B Common Stock
+D,03/03/2022 00:00:00,Comparato Christopher P,4,C-Conversion,--D,300000,2359840,3,0001868272,Class B Common Stock
+A,03/03/2022 00:00:00,Comparato Christopher P,4,C-Conversion,--I,254209,1160530,2,0001868272,Class A Common Stock
+A,03/03/2022 00:00:00,Comparato Christopher P,4,C-Conversion,--D,300000,300000,1,0001868272,Class A Common Stock
+A,03/03/2022 00:00:00,Grimm Jonathan,4,J-Other,--D,25000,25000,7,0001907485,Restricted Stock Units
+D,03/03/2022 00:00:00,Grimm Jonathan,4,J-Other,--D,25000,0,6,0001907485,Restricted Stock Units
+D,03/03/2022 00:00:00,Grimm Jonathan,4,C-Conversion,--I,1400000,20136615,2,0001907485,Class B Common Stock
+A,03/03/2022 00:00:00,Grimm Jonathan,4,C-Conversion,--I,1400000,3084674,1,0001907485,Class A Common Stock
+A,03/03/2022 00:00:00,Narang Aman,4,J-Other,--D,25000,25000,14,0001869139,Restricted Stock Units
+D,03/03/2022 00:00:00,Narang Aman,4,J-Other,--D,25000,0,13,0001869139,Restricted Stock Units
+D,03/03/2022 00:00:00,Narang Aman,4,C-Conversion,--I,55816,0,12,0001869139,Class B Common Stock
+D,03/03/2022 00:00:00,Narang Aman,4,C-Conversion,--I,55816,0,11,0001869139,Class B Common Stock
+D,03/03/2022 00:00:00,Narang Aman,4,C-Conversion,--I,79624,0,10,0001869139,Class B Common Stock
+D,03/03/2022 00:00:00,Narang Aman,4,C-Conversion,--I,170000,0,9,0001869139,Class B Common Stock
+D,03/03/2022 00:00:00,Narang Aman,4,C-Conversion,--I,15075,0,8,0001869139,Class B Common Stock
+D,03/03/2022 00:00:00,Narang Aman,4,C-Conversion,--D,1475000,18912840,7,0001869139,Class B Common Stock
+A,03/03/2022 00:00:00,Narang Aman,4,C-Conversion,--I,55816,55816,6,0001869139,Class A Common Stock
+A,03/03/2022 00:00:00,Narang Aman,4,C-Conversion,--I,55816,55816,5,0001869139,Class A Common Stock
+A,03/03/2022 00:00:00,Narang Aman,4,C-Conversion,--I,79624,79624,4,0001869139,Class A Common Stock
+A,03/03/2022 00:00:00,Narang Aman,4,C-Conversion,--I,170000,170000,3,0001869139,Class A Common Stock
+A,03/03/2022 00:00:00,Narang Aman,4,C-Conversion,--I,15075,15075,2,0001869139,Class A Common Stock
+A,03/03/2022 00:00:00,Narang Aman,4,C-Conversion,--D,1475000,2547738,1,0001869139,Class A Common Stock
+A,02/25/2022 00:00:00,BELL PAUL D,4,P-Purchase,--D,12500,45341,1,0001077816,Class A Common Stock
+D,02/22/2022 00:00:00,PATRICK DEVAL L,4,M-Exempt,--D,7645,15285,2,0001053466,Restricted Stock Units
+A,02/22/2022 00:00:00,PATRICK DEVAL L,4,M-Exempt,--D,7645,9312,1,0001053466,Class A Common Stock
+D,02/18/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,2980233,52154073,3,0001655213,Class B Common Stock
+D,02/18/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,J-Other,--I,2980233,0,2,0001655213,Class A Common Stock
+A,02/18/2022 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,2980233,2980233,1,0001655213,Class A Common Stock
+D,02/18/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,4,0001860725,Class B Common Stock
+D,02/18/2022 00:00:00,Bennett Richard Kent,4,J-Other,--I,0,0,2,0001860725,Class A Common Stock
+A,02/18/2022 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,1,0001860725,Class A Common Stock
+D,02/17/2022 00:00:00,"Technology Investment Dining Group, LLC",4,C-Conversion,--D,8500000,38502484,2,0001884213,Class B Common Stock
+A,02/17/2022 00:00:00,"Technology Investment Dining Group, LLC",4,C-Conversion,--D,8500000,16794556,1,0001884213,Class A Common Stock
+D,02/10/2022 00:00:00,Narang Aman,4,S-Sale,--D,182762,1072738,1,0001869139,Class A Common Stock
+A,01/28/2022 00:00:00,"HMI Capital Management, L.P.",4,P-Purchase,--I,24745,11047586,4,0001469026,Class A Common Stock
+A,01/28/2022 00:00:00,"HMI Capital Management, L.P.",4,P-Purchase,--I,364954,11022841,3,0001469026,Class A Common Stock
+D,01/28/2022 00:00:00,Chapman-Hughes Susan,4,M-Exempt,--D,7645,15285,2,0001608495,Restricted Stock Units
+A,01/28/2022 00:00:00,Chapman-Hughes Susan,4,M-Exempt,--D,7645,7645,1,0001608495,Class A Common Stock
+A,01/27/2022 00:00:00,"HMI Capital Management, L.P.",4,P-Purchase,--I,20847,10657887,2,0001469026,Class A Common Stock
+A,01/27/2022 00:00:00,"HMI Capital Management, L.P.",4,P-Purchase,--I,307465,10637040,1,0001469026,Class A Common Stock
+D,01/12/2022 00:00:00,Narang Aman,4,S-Sale,--D,100000,1255500,2,0001869139,Class A Common Stock
+D,01/11/2022 00:00:00,Narang Aman,4,S-Sale,--D,197400,1355500,1,0001869139,Class A Common Stock
+D,01/07/2022 00:00:00,Narang Aman,4,S-Sale,--D,1600,1552900,1,0001869139,Class A Common Stock
+D,01/05/2022 00:00:00,Narang Aman,4,S-Sale,--D,101000,1554500,1,0001869139,Class A Common Stock
+D,01/04/2022 00:00:00,Narang Aman,4,S-Sale,--D,3761,1655500,7,0001869139,Class A Common Stock
+D,01/04/2022 00:00:00,Narang Aman,4,S-Sale,--D,15318,1659261,6,0001869139,Class A Common Stock
+D,01/04/2022 00:00:00,Narang Aman,4,S-Sale,--D,178418,1674579,5,0001869139,Class A Common Stock
+D,01/04/2022 00:00:00,Narang Aman,4,S-Sale,--D,154865,1852997,4,0001869139,Class A Common Stock
+D,01/03/2022 00:00:00,Narang Aman,4,S-Sale,--D,9850,2007862,3,0001869139,Class A Common Stock
+D,01/03/2022 00:00:00,Narang Aman,4,S-Sale,--D,7071,2017712,2,0001869139,Class A Common Stock
+D,01/03/2022 00:00:00,Narang Aman,4,S-Sale,--D,656467,2024783,1,0001869139,Class A Common Stock
+D,12/31/2021 00:00:00,Narang Aman,4,S-Sale,--D,25930,2681250,5,0001869139,Class A Common Stock
+D,12/31/2021 00:00:00,Narang Aman,4,S-Sale,--D,38546,2707180,4,0001869139,Class A Common Stock
+D,12/31/2021 00:00:00,Narang Aman,4,S-Sale,--D,275524,2745726,3,0001869139,Class A Common Stock
+D,12/30/2021 00:00:00,Narang Aman,4,S-Sale,--D,206081,3021250,2,0001869139,Class A Common Stock
+D,12/30/2021 00:00:00,Narang Aman,4,S-Sale,--D,157669,3227331,1,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,610,0,20,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,100,610,19,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,1950,710,18,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,1300,0,17,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,1462,1300,16,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,4838,2762,15,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,2249,7600,14,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,1300,0,13,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,1462,1300,12,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,4838,2762,11,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,2249,7600,10,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,3101,0,9,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,2386,3101,8,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,6913,5487,7,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,1651,12400,6,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,5240,0,5,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,8531,5240,4,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,13319,13771,3,0001869139,Class A Common Stock
+D,12/21/2021 00:00:00,Narang Aman,4,S-Sale,--I,2910,27090,2,0001869139,Class A Common Stock
+D,12/20/2021 00:00:00,Elworthy Brian R,5,G-Gift,--I,109175,0,1,0001869299,Class A Common Stock
+D,12/15/2021 00:00:00,Bennett Richard Kent,5,G-Gift,--D,50000,82585,1,0001860725,Class A Common Stock
+A,12/14/2021 00:00:00,Koplow Hilarie A.,4,A-Award,--D,10294,10294,2,0001517131,Restricted Stock Units
+D,12/02/2021 00:00:00,Fredette Stephen,5,G-Gift,--D,200000,2942869,1,0001869038,Class A Common Stock
+D,11/24/2021 00:00:00,Fredette Stephen,4,C-Conversion,--I,1012152,5821183,8,0001869038,Class B Common Stock
+D,11/24/2021 00:00:00,Fredette Stephen,4,C-Conversion,--I,37500,712500,7,0001869038,Class B Common Stock
+D,11/24/2021 00:00:00,Fredette Stephen,4,C-Conversion,--I,192543,1807457,6,0001869038,Class B Common Stock
+D,11/24/2021 00:00:00,Fredette Stephen,4,C-Conversion,--D,2392869,20510171,5,0001869038,Class B Common Stock
+A,11/24/2021 00:00:00,Fredette Stephen,4,C-Conversion,--I,1012152,1012152,4,0001869038,Class A Common Stock
+A,11/24/2021 00:00:00,Fredette Stephen,4,C-Conversion,--I,37500,37500,3,0001869038,Class A Common Stock
+A,11/24/2021 00:00:00,Fredette Stephen,4,C-Conversion,--I,192543,192543,2,0001869038,Class A Common Stock
+A,11/24/2021 00:00:00,Fredette Stephen,4,C-Conversion,--D,3142869,3142869,1,0001869038,Class A Common Stock
+D,11/24/2021 00:00:00,Narang Aman,4,C-Conversion,--I,9849,55816,12,0001869139,Class B Common Stock
+D,11/24/2021 00:00:00,Narang Aman,4,C-Conversion,--I,9849,55816,11,0001869139,Class B Common Stock
+D,11/24/2021 00:00:00,Narang Aman,4,C-Conversion,--I,14051,79624,10,0001869139,Class B Common Stock
+D,11/24/2021 00:00:00,Narang Aman,4,C-Conversion,--I,30000,170000,9,0001869139,Class B Common Stock
+D,11/24/2021 00:00:00,Narang Aman,4,C-Conversion,--I,2660,15075,8,0001869139,Class B Common Stock
+D,11/24/2021 00:00:00,Narang Aman,4,C-Conversion,--D,3385000,20387840,7,0001869139,Class B Common Stock
+A,11/24/2021 00:00:00,Narang Aman,4,C-Conversion,--I,9849,9849,6,0001869139,Class A Common Stock
+A,11/24/2021 00:00:00,Narang Aman,4,C-Conversion,--I,9849,9849,5,0001869139,Class A Common Stock
+A,11/24/2021 00:00:00,Narang Aman,4,C-Conversion,--I,14051,14051,4,0001869139,Class A Common Stock
+A,11/24/2021 00:00:00,Narang Aman,4,C-Conversion,--I,30000,30000,3,0001869139,Class A Common Stock
+A,11/24/2021 00:00:00,Narang Aman,4,C-Conversion,--I,2660,2660,2,0001869139,Class A Common Stock
+A,11/24/2021 00:00:00,Narang Aman,4,C-Conversion,--D,3385000,3385000,1,0001869139,Class A Common Stock
+D,11/24/2021 00:00:00,Comparato Christopher P,4,C-Conversion,--I,906321,6836099,2,0001868272,Class B Common Stock
+A,11/24/2021 00:00:00,Comparato Christopher P,4,C-Conversion,--I,906321,906321,1,0001868272,Class A Common Stock
+D,11/15/2021 00:00:00,"Technology Investment Dining Group, LLC",4,C-Conversion,--D,8294556,47002484,2,0001884213,Class B Common Stock
+A,11/15/2021 00:00:00,"Technology Investment Dining Group, LLC",4,C-Conversion,--D,8294556,8294556,1,0001884213,Class A Common Stock
+D,11/12/2021 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,4470349,55134306,3,0001655213,Class B Common Stock
+D,11/12/2021 00:00:00,Bessemer Venture Partners IX L.P.,4,J-Other,--I,4470349,0,2,0001655213,Common Stock
+A,11/12/2021 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,4470349,4470349,1,0001655213,Common Stock
+A,10/27/2021 00:00:00,Matlock James Michael,4,A-Award,--D,250000,250000,2,0001887681,Restricted Stock Units
+A,10/27/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,20000,20000,12,0001869299,Restricted Stock Units
+D,10/27/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,20000,0,11,0001869299,Restricted Stock Units
+A,10/27/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,60000,60000,10,0001869299,Stock Option (Right to Buy)
+D,10/27/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,60000,0,9,0001869299,Stock Option (Right to Buy)
+A,10/27/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,450000,450000,8,0001869299,Stock Option (Right to Buy)
+D,10/27/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,450000,0,7,0001869299,Stock Option (Right to Buy)
+A,10/27/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,375000,375000,6,0001869299,Stock Option (Right to Buy)
+D,10/27/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,375000,0,5,0001869299,Stock Option (Right to Buy)
+D,10/27/2021 00:00:00,Elworthy Brian R,4,C-Conversion,--I,109175,0,4,0001869299,Class B Common Stock
+D,10/27/2021 00:00:00,Elworthy Brian R,4,C-Conversion,--D,428930,0,3,0001869299,Class B Common Stock
+A,10/27/2021 00:00:00,Elworthy Brian R,4,C-Conversion,--I,109175,109175,2,0001869299,Class A Common Stock
+A,10/27/2021 00:00:00,Elworthy Brian R,4,C-Conversion,--D,428930,428930,1,0001869299,Class A Common Stock
+A,10/27/2021 00:00:00,Hawkins Mark J,4,J-Other,--D,9550,9550,6,0001430437,Restricted Stock Units
+D,10/27/2021 00:00:00,Hawkins Mark J,4,J-Other,--D,9550,0,5,0001430437,Restricted Stock Units
+A,10/27/2021 00:00:00,Hawkins Mark J,4,J-Other,--D,105580,105580,4,0001430437,Restricted Stock Units
+D,10/27/2021 00:00:00,Hawkins Mark J,4,J-Other,--D,105580,0,3,0001430437,Restricted Stock Units
+D,10/27/2021 00:00:00,Hawkins Mark J,4,C-Conversion,--D,52790,0,2,0001430437,Class B Common Stock
+A,10/27/2021 00:00:00,Hawkins Mark J,4,C-Conversion,--D,52790,54457,1,0001430437,Class A Common Stock
+A,10/27/2021 00:00:00,Gomez Elena,4,J-Other,--D,375000,375000,5,0001674159,Restricted Stock Units
+D,10/27/2021 00:00:00,Gomez Elena,4,J-Other,--D,375000,0,4,0001674159,Restricted Stock Units
+A,10/27/2021 00:00:00,Gomez Elena,4,J-Other,--D,1875000,1875000,3,0001674159,Stock Option (Right to Buy)
+D,10/27/2021 00:00:00,Gomez Elena,4,J-Other,--D,1875000,0,2,0001674159,Stock Option (Right to Buy)
+A,10/27/2021 00:00:00,Chapman-Hughes Susan,4,J-Other,--D,22930,22930,3,0001608495,Restricted Stock Units
+D,10/27/2021 00:00:00,Chapman-Hughes Susan,4,J-Other,--D,22930,0,2,0001608495,Restricted Stock Units
+A,10/27/2021 00:00:00,PATRICK DEVAL L,4,J-Other,--D,22930,22930,3,0001053466,Restricted Stock Units
+D,10/27/2021 00:00:00,PATRICK DEVAL L,4,J-Other,--D,22930,0,2,0001053466,Restricted Stock Units
+A,09/24/2021 00:00:00,"Technology Crossover Management X, Ltd.",4,P-Purchase,--I,625000,625000,1,0001787727,Class A Common Stock
+A,09/24/2021 00:00:00,Gomez Elena,4,J-Other,--D,375000,375000,4,0001674159,Restricted Stock Units
+D,09/24/2021 00:00:00,Gomez Elena,4,J-Other,--D,375000,0,3,0001674159,Restricted Stock Units
+A,09/24/2021 00:00:00,Gomez Elena,4,J-Other,--D,1875000,1875000,2,0001674159,Stock Option (Right to Buy)
+D,09/24/2021 00:00:00,Gomez Elena,4,J-Other,--D,1875000,0,1,0001674159,Stock Option (Right to Buy)
+A,09/24/2021 00:00:00,Bessemer Venture Partners IX L.P.,4,J-Other,--I,59604655,59604655,8,0001655213,Class B Common Stock
+D,09/24/2021 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,7700835,0,7,0001655213,Series F Preferred Stock
+D,09/24/2021 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,293040,0,6,0001655213,Series E Preferred Stock
+D,09/24/2021 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,2551105,0,5,0001655213,Series D Preferred Stock
+D,09/24/2021 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,2904205,0,4,0001655213,Series C Preferred Stock
+D,09/24/2021 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,41283745,0,3,0001655213,Series B Preferred Stock
+D,09/24/2021 00:00:00,Bessemer Venture Partners IX L.P.,4,J-Other,--I,59604655,0,2,0001655213,Common Stock
+D,09/24/2021 00:00:00,Bessemer Venture Partners IX L.P.,4,C-Conversion,--I,54732930,59604655,1,0001655213,Common Stock
+A,09/24/2021 00:00:00,"Technology Investment Dining Group, LLC",4,J-Other,--D,55297040,55297040,5,0001884213,Class B Common Stock
+D,09/24/2021 00:00:00,"Technology Investment Dining Group, LLC",4,C-Conversion,--D,1279555,0,4,0001884213,Series B Preferred Stock
+D,09/24/2021 00:00:00,"Technology Investment Dining Group, LLC",4,C-Conversion,--D,18072290,0,3,0001884213,Series A Preferred Stock
+D,09/24/2021 00:00:00,"Technology Investment Dining Group, LLC",4,J-Other,--D,55297040,0,2,0001884213,Common Stock
+D,09/24/2021 00:00:00,"Technology Investment Dining Group, LLC",4,C-Conversion,--D,19351845,55297040,1,0001884213,Common Stock
+A,09/24/2021 00:00:00,Bennett Richard Kent,4,J-Other,--I,0,0,8,0001860725,Class B Common Stock
+D,09/24/2021 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,7,0001860725,Series F Preferred Stock
+D,09/24/2021 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,6,0001860725,Series E Preferred Stock
+D,09/24/2021 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,5,0001860725,Series D Preferred Stock
+D,09/24/2021 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,4,0001860725,Series C Preferred Stock
+D,09/24/2021 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,3,0001860725,Series B Preferred Stock
+D,09/24/2021 00:00:00,Bennett Richard Kent,4,J-Other,--I,0,0,2,0001860725,Common Stock
+D,09/24/2021 00:00:00,Bennett Richard Kent,4,C-Conversion,--I,0,0,1,0001860725,Common Stock
+A,09/24/2021 00:00:00,Fredette Stephen,4,J-Other,--D,25000,25000,12,0001869038,Restricted Stock Units
+D,09/24/2021 00:00:00,Fredette Stephen,4,J-Other,--D,25000,0,11,0001869038,Restricted Stock Units
+A,09/24/2021 00:00:00,Fredette Stephen,4,J-Other,--D,75000,75000,10,0001869038,Stock Option (Right to Buy)
+D,09/24/2021 00:00:00,Fredette Stephen,4,J-Other,--D,75000,0,9,0001869038,Stock Option (Right to Buy)
+A,09/24/2021 00:00:00,Fredette Stephen,4,J-Other,--I,750000,750000,8,0001869038,Class B Common Stock
+A,09/24/2021 00:00:00,Fredette Stephen,4,J-Other,--I,2000000,2000000,7,0001869038,Class B Common Stock
+A,09/24/2021 00:00:00,Fredette Stephen,4,J-Other,--I,6833335,6833335,6,0001869038,Class B Common Stock
+A,09/24/2021 00:00:00,Fredette Stephen,4,J-Other,--D,23653040,23653040,5,0001869038,Class B Common Stock
+D,09/24/2021 00:00:00,Fredette Stephen,4,J-Other,--I,750000,0,4,0001869038,Common Stock
+D,09/24/2021 00:00:00,Fredette Stephen,4,J-Other,--I,2000000,0,3,0001869038,Common Stock
+D,09/24/2021 00:00:00,Fredette Stephen,4,J-Other,--I,6833335,0,2,0001869038,Common Stock
+D,09/24/2021 00:00:00,Fredette Stephen,4,J-Other,--D,23653040,0,1,0001869038,Common Stock
+A,09/24/2021 00:00:00,Narang Aman,4,J-Other,--D,25000,25000,20,0001869139,Restricted Stock Units
+D,09/24/2021 00:00:00,Narang Aman,4,J-Other,--D,25000,0,19,0001869139,Restricted Stock Units
+A,09/24/2021 00:00:00,Narang Aman,4,J-Other,--D,75000,75000,18,0001869139,Stock Option (Right to Buy)
+D,09/24/2021 00:00:00,Narang Aman,4,J-Other,--D,75000,0,17,0001869139,Stock Option (Right to Buy)
+A,09/24/2021 00:00:00,Narang Aman,4,J-Other,--D,1425000,1425000,16,0001869139,Stock Option (Right to Buy)
+D,09/24/2021 00:00:00,Narang Aman,4,J-Other,--D,1425000,0,15,0001869139,Stock Option (Right to Buy)
+A,09/24/2021 00:00:00,Narang Aman,4,J-Other,--D,1662500,1662500,14,0001869139,Stock Option (Right to Buy)
+D,09/24/2021 00:00:00,Narang Aman,4,J-Other,--D,1662500,0,13,0001869139,Stock Option (Right to Buy)
+A,09/24/2021 00:00:00,Narang Aman,4,J-Other,--I,17735,17735,12,0001869139,Class B Common Stock
+A,09/24/2021 00:00:00,Narang Aman,4,J-Other,--I,65665,65665,11,0001869139,Class B Common Stock
+A,09/24/2021 00:00:00,Narang Aman,4,J-Other,--I,65665,65665,10,0001869139,Class B Common Stock
+A,09/24/2021 00:00:00,Narang Aman,4,J-Other,--I,93675,93675,9,0001869139,Class B Common Stock
+A,09/24/2021 00:00:00,Narang Aman,4,J-Other,--I,200000,200000,8,0001869139,Class B Common Stock
+A,09/24/2021 00:00:00,Narang Aman,4,J-Other,--D,23772840,23772840,7,0001869139,Class B Common Stock
+D,09/24/2021 00:00:00,Narang Aman,4,J-Other,--I,17735,0,6,0001869139,Common Stock
+D,09/24/2021 00:00:00,Narang Aman,4,J-Other,--I,65665,0,5,0001869139,Common Stock
+D,09/24/2021 00:00:00,Narang Aman,4,J-Other,--I,65665,0,4,0001869139,Common Stock
+D,09/24/2021 00:00:00,Narang Aman,4,J-Other,--I,93675,0,3,0001869139,Common Stock
+D,09/24/2021 00:00:00,Narang Aman,4,J-Other,--I,200000,0,2,0001869139,Common Stock
+D,09/24/2021 00:00:00,Narang Aman,4,J-Other,--D,23772840,0,1,0001869139,Common Stock
+A,09/24/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,20000,20000,12,0001869299,Restricted Stock Units
+D,09/24/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,20000,0,11,0001869299,Restricted Stock Units
+A,09/24/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,60000,60000,10,0001869299,Stock Option (Right to Buy)
+D,09/24/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,60000,0,9,0001869299,Stock Option (Right to Buy)
+A,09/24/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,450000,450000,8,0001869299,Stock Option (Right to Buy)
+D,09/24/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,450000,0,7,0001869299,Stock Option (Right to Buy)
+A,09/24/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,375000,375000,6,0001869299,Stock Option (Right to Buy)
+D,09/24/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,375000,0,5,0001869299,Stock Option (Right to Buy)
+A,09/24/2021 00:00:00,Elworthy Brian R,4,J-Other,--I,109175,109175,4,0001869299,Class B Common Stock
+A,09/24/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,428930,428930,3,0001869299,Class B Common Stock
+D,09/24/2021 00:00:00,Elworthy Brian R,4,J-Other,--I,109175,0,2,0001869299,Common Stock
+D,09/24/2021 00:00:00,Elworthy Brian R,4,J-Other,--D,428930,0,1,0001869299,Common Stock
+A,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--D,50000,50000,18,0001868272,Restricted Stock Units
+D,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--D,50000,0,17,0001868272,Restricted Stock Units
+A,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--D,150000,150000,16,0001868272,Stock Option (Right to Buy)
+D,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--D,150000,0,15,0001868272,Stock Option (Right to Buy)
+A,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--D,1425000,1425000,14,0001868272,Stock Option (Right to Buy)
+D,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--D,1425000,0,13,0001868272,Stock Option (Right to Buy)
+A,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--D,665160,665160,12,0001868272,Stock Option (Right to Buy)
+D,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--D,665160,0,11,0001868272,Stock Option (Right to Buy)
+A,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--I,200000,200000,10,0001868272,Class B Common Stock
+A,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--I,200000,200000,9,0001868272,Class B Common Stock
+A,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--I,200000,200000,8,0001868272,Class B Common Stock
+A,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--I,7742420,7742420,7,0001868272,Class B Common Stock
+A,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--D,2659840,2659840,6,0001868272,Class B Common Stock
+D,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--I,200000,0,5,0001868272,Common Stock
+D,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--I,200000,0,4,0001868272,Common Stock
+D,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--I,200000,0,3,0001868272,Common Stock
+D,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--I,7742420,0,2,0001868272,Common Stock
+D,09/24/2021 00:00:00,Comparato Christopher P,4,J-Other,--D,2659840,0,1,0001868272,Common Stock
+A,09/24/2021 00:00:00,PATRICK DEVAL L,4,J-Other,--D,22930,22930,3,0001053466,Restricted Stock Units
+D,09/24/2021 00:00:00,PATRICK DEVAL L,4,J-Other,--D,22930,0,2,0001053466,Restricted Stock Units
+A,09/24/2021 00:00:00,PATRICK DEVAL L,4,P-Purchase,--D,1667,1667,1,0001053466,Class A Common Stock
+A,09/24/2021 00:00:00,Hawkins Mark J,4,J-Other,--D,9550,9550,7,0001430437,Restricted Stock Units
+D,09/24/2021 00:00:00,Hawkins Mark J,4,J-Other,--D,9550,0,6,0001430437,Restricted Stock Units
+A,09/24/2021 00:00:00,Hawkins Mark J,4,J-Other,--D,105580,105580,5,0001430437,Restricted Stock Units
+D,09/24/2021 00:00:00,Hawkins Mark J,4,J-Other,--D,105580,0,4,0001430437,Restricted Stock Units
+A,09/24/2021 00:00:00,Hawkins Mark J,4,J-Other,--D,52790,52790,3,0001430437,Class B Common Stock
+A,09/24/2021 00:00:00,Hawkins Mark J,4,P-Purchase,--D,1667,1667,2,0001430437,Class A Common Stock
+D,09/24/2021 00:00:00,Hawkins Mark J,4,J-Other,--D,52790,0,1,0001430437,Common Stock
+A,09/24/2021 00:00:00,BELL PAUL D,4,P-Purchase,--D,1667,1667,1,0001077816,Class A Common Stock
+A,09/24/2021 00:00:00,Chapman-Hughes Susan,4,J-Other,--D,22930,22930,2,0001608495,Restricted Stock Units
+D,09/24/2021 00:00:00,Chapman-Hughes Susan,4,J-Other,--D,22930,0,1,0001608495,Restricted Stock Units

@@ -1,0 +1,641 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/29/2023 00:00:00,"Simon, Christopher",4,M-Exempt,--D,196746,0,3,0001674993,Non-qualified Stock Option (Right to Buy)
+D,06/29/2023 00:00:00,"Simon, Christopher",4,F-InKind,--D,117667,296446,2,0001674993,Common Stock
+A,06/29/2023 00:00:00,"Simon, Christopher",4,M-Exempt,--D,196746,414113,1,0001674993,Common Stock
+D,06/07/2023 00:00:00,Strong Stewart W,4,M-Exempt,--D,2410,7231,6,0001420910,Non-qualified Stock Option (Right to Buy)
+D,06/07/2023 00:00:00,Strong Stewart W,4,M-Exempt,--D,4483,4483,5,0001420910,Non-qualified Stock Option (Right to Buy)
+D,06/07/2023 00:00:00,Strong Stewart W,4,S-Sale,--D,2538,16449,4,0001420910,Common Stock
+D,06/07/2023 00:00:00,Strong Stewart W,4,F-InKind,--D,5053,18987,3,0001420910,Common Stock
+A,06/07/2023 00:00:00,Strong Stewart W,4,M-Exempt,--D,2410,24040,2,0001420910,Common Stock
+A,06/07/2023 00:00:00,Strong Stewart W,4,M-Exempt,--D,4483,21630,1,0001420910,Common Stock
+D,06/02/2023 00:00:00,Miller Laurie A.,4,F-InKind,--D,194,14572,1,0001881751,Common Stock
+D,05/30/2023 00:00:00,Lingamneni Anila,4,S-Sale,--D,2304,16800,1,0001808414,Common Stock
+D,05/18/2023 00:00:00,Basil Michelle L,4,F-InKind,--D,3541,32469,1,0001699629,Common Stock
+D,05/18/2023 00:00:00,Lingamneni Anila,4,F-InKind,--D,1385,19104,1,0001808414,Common Stock
+D,05/18/2023 00:00:00,Llorens Josep,4,F-InKind,--D,1423,18463,1,0001750812,Common Stock
+D,05/18/2023 00:00:00,Miller Laurie A.,4,F-InKind,--D,90,14766,1,0001881751,Common Stock
+D,05/18/2023 00:00:00,"Simon, Christopher",4,F-InKind,--D,3839,217367,1,0001674993,Common Stock
+D,05/18/2023 00:00:00,Strong Stewart W,4,F-InKind,--D,1087,17147,1,0001420910,Common Stock
+D,05/16/2023 00:00:00,Strong Stewart W,4,F-InKind,--D,250,18234,2,0001420910,Common Stock
+D,05/16/2023 00:00:00,Miller Laurie A.,4,F-InKind,--D,235,14856,2,0001881751,Common Stock
+D,05/16/2023 00:00:00,Lingamneni Anila,4,F-InKind,--D,318,20489,2,0001808414,Common Stock
+D,05/16/2023 00:00:00,Llorens Josep,4,F-InKind,--D,319,19886,2,0001750812,Common Stock
+D,05/16/2023 00:00:00,Basil Michelle L,4,F-InKind,--D,446,36010,2,0001699629,Common Stock
+D,05/16/2023 00:00:00,DArecca James,4,F-InKind,--D,349,14102,2,0001583903,Common Stock
+D,05/16/2023 00:00:00,"Simon, Christopher",4,F-InKind,--D,1586,221206,2,0001674993,Common Stock
+A,05/15/2023 00:00:00,Maunsell Farris Maryanne,4,A-Award,--D,1425,1425,2,0001950052,Non-qualified Stock Option (Right to Buy)
+A,05/15/2023 00:00:00,Maunsell Farris Maryanne,4,A-Award,--D,630,630,1,0001950052,Common Stock
+A,05/15/2023 00:00:00,Strong Stewart W,4,A-Award,--D,6335,6335,3,0001420910,Non-qualified Stock Option (Right to Buy)
+A,05/15/2023 00:00:00,Strong Stewart W,4,A-Award,--D,2803,18484,1,0001420910,Common Stock
+A,05/15/2023 00:00:00,Miller Laurie A.,4,A-Award,--D,4751,4751,3,0001881751,Non-qualified Stock Option (Right to Buy)
+A,05/15/2023 00:00:00,Miller Laurie A.,4,A-Award,--D,2102,15091,1,0001881751,Common Stock
+A,05/15/2023 00:00:00,Lingamneni Anila,4,A-Award,--D,7602,7602,3,0001808414,Non-qualified Stock Option (Right to Buy)
+A,05/15/2023 00:00:00,Lingamneni Anila,4,A-Award,--D,3364,20807,1,0001808414,Common Stock
+A,05/15/2023 00:00:00,Llorens Josep,4,A-Award,--D,6968,6968,3,0001750812,Non-qualified Stock Option (Right to Buy)
+A,05/15/2023 00:00:00,Llorens Josep,4,A-Award,--D,3084,20205,1,0001750812,Common Stock
+A,05/15/2023 00:00:00,Galvin Roy,4,A-Award,--D,5068,5068,2,0001950021,Non-qualified Stock Option (Right to Buy)
+A,05/15/2023 00:00:00,Galvin Roy,4,A-Award,--D,2243,4689,1,0001950021,Common Stock
+A,05/15/2023 00:00:00,Basil Michelle L,4,A-Award,--D,9502,9502,3,0001699629,Non-qualified Stock Option (Right to Buy)
+A,05/15/2023 00:00:00,Basil Michelle L,4,A-Award,--D,4205,36456,1,0001699629,Common Stock
+A,05/15/2023 00:00:00,DArecca James,4,A-Award,--D,9502,9502,3,0001583903,Non-qualified Stock Option (Right to Buy)
+A,05/15/2023 00:00:00,DArecca James,4,A-Award,--D,4205,14451,1,0001583903,Common Stock
+A,05/15/2023 00:00:00,"Simon, Christopher",4,A-Award,--D,41177,41177,3,0001674993,Non-qualified Stock Option (Right to Buy)
+A,05/15/2023 00:00:00,"Simon, Christopher",4,A-Award,--D,18225,222792,1,0001674993,Common Stock
+D,05/12/2023 00:00:00,Basil Michelle L,4,F-InKind,--D,204,32251,1,0001699629,Common Stock
+D,05/12/2023 00:00:00,Llorens Josep,4,F-InKind,--D,113,17121,1,0001750812,Common Stock
+D,05/12/2023 00:00:00,"Simon, Christopher",4,F-InKind,--D,854,204567,1,0001674993,Common Stock
+D,05/12/2023 00:00:00,Miller Laurie A.,4,F-InKind,--D,32,12989,1,0001881751,Common Stock
+D,05/02/2023 00:00:00,DArecca James,4,F-InKind,--D,430,10246,1,0001583903,Common Stock
+D,04/14/2023 00:00:00,Lingamneni Anila,4,F-InKind,--D,176,17146,1,0001808414,Common Stock
+D,01/23/2023 00:00:00,Llorens Josep,4,M-Exempt,--D,2391,7173,3,0001750812,Non-qualified Stock Option (Right to Buy)
+D,01/23/2023 00:00:00,Llorens Josep,4,S-Sale,--D,2391,17234,2,0001750812,Common Stock
+A,01/23/2023 00:00:00,Llorens Josep,4,M-Exempt,--D,2391,19625,1,0001750812,Common Stock
+D,11/11/2022 00:00:00,"Simon, Christopher",4,G-Gift,-ED,8600,205124,1,0001674993,Common Stock
+A,11/01/2022 00:00:00,Galvin Roy,4,A-Award,--D,5263,5263,2,0001950021,Non-qualified Stock Option (Right to Buy)
+A,11/01/2022 00:00:00,Galvin Roy,4,A-Award,--D,2382,2382,1,0001950021,Common Stock
+D,10/24/2022 00:00:00,Strong Stewart W,4,S-Sale,--D,75,15681,1,0001420910,Common Stock
+D,10/24/2022 00:00:00,Basil Michelle L,4,S-Sale,--D,180,32455,1,0001699629,Common Stock
+D,09/19/2022 00:00:00,Basil Michelle L,4,M-Exempt,--D,1011,12553,7,0001699629,Non-qualified Stock Option (Right to Buy)
+D,09/19/2022 00:00:00,Basil Michelle L,4,M-Exempt,--D,4213,0,6,0001699629,Non-qualified Stock Option (Right to Buy)
+D,09/19/2022 00:00:00,Basil Michelle L,4,M-Exempt,--D,3464,0,5,0001699629,Non-qualified Stock Option (Right to Buy)
+D,09/19/2022 00:00:00,Basil Michelle L,4,S-Sale,--D,11448,32635,4,0001699629,Common Stock
+A,09/19/2022 00:00:00,Basil Michelle L,4,M-Exempt,--D,1011,44083,3,0001699629,Common Stock
+A,09/19/2022 00:00:00,Basil Michelle L,4,M-Exempt,--D,4213,43072,2,0001699629,Common Stock
+A,09/19/2022 00:00:00,Basil Michelle L,4,M-Exempt,--D,3464,38859,1,0001699629,Common Stock
+D,09/19/2022 00:00:00,Miller Laurie A.,4,S-Sale,--D,212,12697,1,0001881751,Common Stock
+D,09/15/2022 00:00:00,Basil Michelle L,4,M-Exempt,--D,3173,13564,8,0001699629,Non-qualified Stock Option (Right to Buy)
+D,09/15/2022 00:00:00,Basil Michelle L,4,M-Exempt,--D,14231,4213,7,0001699629,Non-qualified Stock Option (Right to Buy)
+D,09/15/2022 00:00:00,Basil Michelle L,4,M-Exempt,--D,11154,3464,6,0001699629,Non-qualified Stock Option (Right to Buy)
+D,09/15/2022 00:00:00,Basil Michelle L,4,S-Sale,--D,6029,35395,5,0001699629,Common Stock
+D,09/15/2022 00:00:00,Basil Michelle L,4,S-Sale,--D,27769,41424,4,0001699629,Common Stock
+A,09/15/2022 00:00:00,Basil Michelle L,4,M-Exempt,--D,3173,69193,3,0001699629,Common Stock
+A,09/15/2022 00:00:00,Basil Michelle L,4,M-Exempt,--D,14231,66020,2,0001699629,Common Stock
+A,09/15/2022 00:00:00,Basil Michelle L,4,M-Exempt,--D,11154,51789,1,0001699629,Common Stock
+D,09/06/2022 00:00:00,Llorens Josep,4,S-Sale,--D,101,17234,1,0001750812,Common Stock
+D,08/15/2022 00:00:00,KROLL MARK W,4,S-Sale,--D,8016,16231,1,0001259254,Common Stock
+A,08/05/2022 00:00:00,Zane Ellen M,4,A-Award,--D,2730,12247,1,0001369850,Common Stock
+A,08/05/2022 00:00:00,Pomeroy Claire,4,A-Award,--D,2730,9746,1,0001603648,Common Stock
+A,08/05/2022 00:00:00,KROLL MARK W,4,A-Award,--D,2730,24247,1,0001259254,Common Stock
+A,08/05/2022 00:00:00,Johnson Lloyd Emerson,4,A-Award,--D,2730,5807,1,0001708823,Common Stock
+A,08/05/2022 00:00:00,Dockendorff Charles J,4,A-Award,--D,2730,28130,1,0001400563,Common Stock
+A,08/05/2022 00:00:00,COYLE MICHAEL J,4,A-Award,--D,2730,8268,1,0001233311,Common Stock
+A,08/05/2022 00:00:00,BURZIK CATHERINE M,4,A-Award,--D,2730,19545,1,0001261141,Common Stock
+A,08/05/2022 00:00:00,ABERNATHY ROBERT E,4,A-Award,--D,2730,17855,1,0001222888,Common Stock
+D,07/05/2022 00:00:00,Miller Laurie A.,4,S-Sale,--D,42,12909,1,0001881751,Common Stock
+D,06/13/2022 00:00:00,Miller Laurie A.,4,S-Sale,--D,30,12951,1,0001881751,Common Stock
+D,06/13/2022 00:00:00,Goldstein Dan,4,S-Sale,--D,42,4447,1,0001722327,Common Stock
+D,06/13/2022 00:00:00,Basil Michelle L,4,S-Sale,--D,277,40635,1,0001699629,Common Stock
+D,06/13/2022 00:00:00,"Simon, Christopher",4,S-Sale,--D,1148,213724,1,0001674993,Common Stock
+D,06/02/2022 00:00:00,Goldstein Dan,4,S-Sale,--D,249,4489,1,0001722327,Common Stock
+D,06/02/2022 00:00:00,Miller Laurie A.,4,S-Sale,--D,198,12981,1,0001881751,Common Stock
+D,05/19/2022 00:00:00,Strong Stewart W,4,S-Sale,--D,1084,15756,1,0001420910,Common Stock
+D,05/19/2022 00:00:00,"Simon, Christopher",4,S-Sale,--D,2496,214872,1,0001674993,Common Stock
+D,05/19/2022 00:00:00,Miller Laurie A.,4,S-Sale,--D,91,13179,1,0001881751,Common Stock
+D,05/19/2022 00:00:00,Llorens Josep,4,S-Sale,--D,1418,17335,1,0001750812,Common Stock
+D,05/19/2022 00:00:00,Lingamneni Anila,4,S-Sale,--D,1384,17322,1,0001808414,Common Stock
+D,05/19/2022 00:00:00,Goldstein Dan,4,S-Sale,--D,134,4738,1,0001722327,Common Stock
+D,05/19/2022 00:00:00,Basil Michelle L,4,S-Sale,--D,3258,40912,1,0001699629,Common Stock
+A,05/16/2022 00:00:00,Strong Stewart W,4,A-Award,--D,9641,9641,2,0001420910,Non-qualified Stock Option (Right to Buy)
+A,05/16/2022 00:00:00,Strong Stewart W,4,A-Award,--D,4123,16840,1,0001420910,Common Stock
+A,05/16/2022 00:00:00,Miller Laurie A.,4,A-Award,--D,7104,7104,3,0001881751,Non-qualified Stock Option (Right to Buy)
+A,05/16/2022 00:00:00,Miller Laurie A.,4,A-Award,--D,3038,13270,2,0001881751,Common Stock
+D,05/16/2022 00:00:00,Miller Laurie A.,4,S-Sale,--D,31,10232,1,0001881751,Common Stock
+A,05/16/2022 00:00:00,Llorens Josep,4,A-Award,--D,10148,10148,3,0001750812,Non-qualified Stock Option (Right to Buy)
+A,05/16/2022 00:00:00,Llorens Josep,4,A-Award,--D,4340,18753,2,0001750812,Common Stock
+D,05/16/2022 00:00:00,Llorens Josep,4,S-Sale,--D,107,14413,1,0001750812,Common Stock
+A,05/16/2022 00:00:00,Lingamneni Anila,4,A-Award,--D,10148,10148,2,0001808414,Non-qualified Stock Option (Right to Buy)
+A,05/16/2022 00:00:00,Lingamneni Anila,4,A-Award,--D,4340,18706,1,0001808414,Common Stock
+A,05/16/2022 00:00:00,Goldstein Dan,4,A-Award,--D,2029,2029,3,0001722327,Non-qualified Stock Option (Right to Buy)
+A,05/16/2022 00:00:00,Goldstein Dan,4,A-Award,--D,868,4872,2,0001722327,Common Stock
+D,05/16/2022 00:00:00,Goldstein Dan,4,S-Sale,--D,50,4004,1,0001722327,Common Stock
+A,05/16/2022 00:00:00,Basil Michelle L,4,A-Award,--D,14208,14208,3,0001699629,Non-qualified Stock Option (Right to Buy)
+A,05/16/2022 00:00:00,Basil Michelle L,4,A-Award,--D,6076,44170,2,0001699629,Common Stock
+D,05/16/2022 00:00:00,Basil Michelle L,4,S-Sale,--D,196,38094,1,0001699629,Common Stock
+A,05/16/2022 00:00:00,DArecca James,4,A-Award,--D,11163,11163,2,0001583903,Non-qualified Stock Option (Right to Buy)
+A,05/16/2022 00:00:00,DArecca James,4,A-Award,--D,4774,10676,1,0001583903,Common Stock
+A,05/16/2022 00:00:00,"Simon, Christopher",4,A-Award,--D,60891,60891,3,0001674993,Non-qualified Stock Option (Right to Buy)
+A,05/16/2022 00:00:00,"Simon, Christopher",4,A-Award,--D,26041,217368,2,0001674993,Common Stock
+D,05/16/2022 00:00:00,"Simon, Christopher",4,S-Sale,--D,832,191327,1,0001674993,Common Stock
+A,05/02/2022 00:00:00,DArecca James,4,A-Award,--D,13828,13828,2,0001583903,Non-qualified Stock Option (Right to Buy)
+A,05/02/2022 00:00:00,DArecca James,4,A-Award,--D,5902,5902,1,0001583903,Common Stock
+D,04/18/2022 00:00:00,Lingamneni Anila,4,S-Sale,--D,189,14013,1,0001808414,Common Stock
+D,10/25/2021 00:00:00,Strong Stewart W,4,S-Sale,--D,75,12717,1,0001420910,Common Stock
+D,10/25/2021 00:00:00,Basil Michelle L,4,S-Sale,--D,120,38290,1,0001699629,Common Stock
+A,09/17/2021 00:00:00,Miller Laurie A.,4,A-Award,--D,2848,10081,1,0001881751,Common Stock
+D,09/07/2021 00:00:00,Llorens Josep,4,S-Sale,--D,100,14520,1,0001750812,Common Stock
+D,08/23/2021 00:00:00,Burke William P. Mr.,4,M-Exempt,--D,11435,0,5,0001682069,Non-qualified Stock Option (Right to Buy)
+D,08/23/2021 00:00:00,Burke William P. Mr.,4,M-Exempt,--D,11232,0,4,0001682069,Non-qualified Stock Option (Right to Buy)
+D,08/23/2021 00:00:00,Burke William P. Mr.,4,S-Sale,--D,22667,30291,3,0001682069,Common Stock
+A,08/23/2021 00:00:00,Burke William P. Mr.,4,M-Exempt,--D,11435,52958,2,0001682069,Common Stock
+A,08/23/2021 00:00:00,Burke William P. Mr.,4,M-Exempt,--D,11232,41523,1,0001682069,Common Stock
+A,08/06/2021 00:00:00,Pomeroy Claire,4,A-Award,--D,3077,7016,1,0001603648,Common Stock
+A,08/06/2021 00:00:00,KROLL MARK W,4,A-Award,--D,3077,21517,1,0001259254,Common Stock
+A,08/06/2021 00:00:00,Dockendorff Charles J,4,A-Award,--D,3077,25400,1,0001400563,Common Stock
+A,08/06/2021 00:00:00,COYLE MICHAEL J,4,A-Award,--D,3077,5538,1,0001233311,Common Stock
+A,08/06/2021 00:00:00,BURZIK CATHERINE M,4,A-Award,--D,3077,16815,1,0001261141,Common Stock
+A,08/06/2021 00:00:00,ABERNATHY ROBERT E,4,A-Award,--D,3077,15125,1,0001222888,Common Stock
+A,08/06/2021 00:00:00,Zane Ellen M,4,A-Award,--D,3077,9517,1,0001369850,Common Stock
+A,08/06/2021 00:00:00,Johnson Lloyd Emerson,4,A-Award,--D,3077,3077,1,0001708823,Common Stock
+D,07/01/2021 00:00:00,Burke William P. Mr.,4,S-Sale,--D,4293,30291,1,0001682069,Common Stock
+D,06/14/2021 00:00:00,Goldstein Dan,4,S-Sale,--D,39,4054,1,0001722327,Common Stock
+D,06/14/2021 00:00:00,Basil Michelle L,4,S-Sale,--D,195,38410,1,0001699629,Common Stock
+D,06/14/2021 00:00:00,Burke William P. Mr.,4,S-Sale,--D,190,34584,1,0001682069,Common Stock
+D,06/14/2021 00:00:00,"Simon, Christopher",4,S-Sale,--D,1200,191806,1,0001674993,Common Stock
+D,06/07/2021 00:00:00,Goldstein Dan,4,S-Sale,--D,81,4093,1,0001722327,Common Stock
+D,06/07/2021 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,195,4216,1,0001713517,Common Stock
+D,06/07/2021 00:00:00,Basil Michelle L,4,S-Sale,--D,442,38605,1,0001699629,Common Stock
+D,06/07/2021 00:00:00,Burke William P. Mr.,4,S-Sale,--D,411,34774,1,0001682069,Common Stock
+D,06/07/2021 00:00:00,"Simon, Christopher",4,S-Sale,--D,2715,193006,1,0001674993,Common Stock
+A,06/01/2021 00:00:00,Goldstein Dan,4,A-Award,--D,1753,4174,1,0001722327,Common Stock
+D,05/26/2021 00:00:00,KROLL MARK W,4,M-Exempt,--D,10353,0,3,0001259254,Non-qualified Stock Option (Right to Buy)
+D,05/26/2021 00:00:00,KROLL MARK W,4,S-Sale,--D,11813,18440,2,0001259254,Common Stock
+A,05/26/2021 00:00:00,KROLL MARK W,4,M-Exempt,--D,10353,30253,1,0001259254,Common Stock
+D,05/19/2021 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,112,4411,1,0001713517,Common Stock
+D,05/19/2021 00:00:00,Goldstein Dan,4,S-Sale,--D,42,2421,2,0001722327,Common Stock
+D,05/19/2021 00:00:00,Lingamneni Anila,4,S-Sale,--D,92,14202,3,0001808414,Common Stock
+D,05/19/2021 00:00:00,Llorens Josep,4,S-Sale,--D,125,14620,3,0001750812,Common Stock
+D,05/19/2021 00:00:00,Basil Michelle L,4,S-Sale,--D,220,39047,3,0001699629,Common Stock
+D,05/19/2021 00:00:00,Burke William P. Mr.,4,S-Sale,--D,238,35185,3,0001682069,Common Stock
+D,05/19/2021 00:00:00,"Simon, Christopher",4,S-Sale,--D,1024,195721,2,0001674993,Common Stock
+A,05/18/2021 00:00:00,Goldstein Dan,4,A-Award,--D,2690,2690,3,0001722327,Non-qualified Stock Option (Right to Buy)
+A,05/18/2021 00:00:00,Goldstein Dan,4,A-Award,--D,994,2463,1,0001722327,Common Stock
+A,05/18/2021 00:00:00,Lingamneni Anila,4,A-Award,--D,9564,9564,4,0001808414,Non-qualified Stock Option (Right to Buy)
+A,05/18/2021 00:00:00,Lingamneni Anila,4,A-Award,--D,7070,14294,2,0001808414,Common Stock
+A,05/18/2021 00:00:00,Lingamneni Anila,4,A-Award,--D,3535,7224,1,0001808414,Common Stock
+A,05/18/2021 00:00:00,Llorens Josep,4,A-Award,--D,9564,9564,4,0001750812,Non-qualified Stock Option (Right to Buy)
+A,05/18/2021 00:00:00,Llorens Josep,4,A-Award,--D,7070,14745,2,0001750812,Common Stock
+A,05/18/2021 00:00:00,Llorens Josep,4,A-Award,--D,3535,7675,1,0001750812,Common Stock
+A,05/18/2021 00:00:00,Basil Michelle L,4,A-Award,--D,16737,16737,4,0001699629,Non-qualified Stock Option (Right to Buy)
+A,05/18/2021 00:00:00,Basil Michelle L,4,A-Award,--D,17677,39267,2,0001699629,Common Stock
+A,05/18/2021 00:00:00,Basil Michelle L,4,A-Award,--D,6187,21590,1,0001699629,Common Stock
+A,05/18/2021 00:00:00,Burke William P. Mr.,4,A-Award,--D,17933,17933,4,0001682069,Non-qualified Stock Option (Right to Buy)
+A,05/18/2021 00:00:00,Burke William P. Mr.,4,A-Award,--D,17677,35423,2,0001682069,Common Stock
+A,05/18/2021 00:00:00,Burke William P. Mr.,4,A-Award,--D,6628,17746,1,0001682069,Common Stock
+A,05/18/2021 00:00:00,"Simon, Christopher",4,A-Award,--D,71733,71733,3,0001674993,Non-qualified Stock Option (Right to Buy)
+A,05/18/2021 00:00:00,"Simon, Christopher",4,A-Award,--D,26515,196745,1,0001674993,Common Stock
+D,05/17/2021 00:00:00,Goldstein Dan,4,S-Sale,--D,42,1469,1,0001722327,Common Stock
+D,05/17/2021 00:00:00,Llorens Josep,4,S-Sale,--D,114,4140,1,0001750812,Common Stock
+D,05/17/2021 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,102,4523,1,0001713517,Common Stock
+D,05/17/2021 00:00:00,Basil Michelle L,4,S-Sale,--D,204,15403,1,0001699629,Common Stock
+D,05/17/2021 00:00:00,Burke William P. Mr.,4,S-Sale,--D,219,11118,1,0001682069,Common Stock
+D,05/17/2021 00:00:00,"Simon, Christopher",4,S-Sale,--D,956,170230,1,0001674993,Common Stock
+D,04/16/2021 00:00:00,Lingamneni Anila,4,S-Sale,--D,170,3444,1,0001808414,Common Stock
+D,03/08/2021 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,107,4380,1,0001713517,Common Stock
+D,03/08/2021 00:00:00,Basil Michelle L,4,S-Sale,--D,385,15607,1,0001699629,Common Stock
+D,02/04/2021 00:00:00,MEELIA RICHARD J,4,M-Exempt,--D,10353,0,3,0001223633,Non-qualified Stock Option (Right to Buy)
+D,02/04/2021 00:00:00,MEELIA RICHARD J,4,S-Sale,--D,10353,32050,2,0001223633,Common Stock
+A,02/04/2021 00:00:00,MEELIA RICHARD J,4,M-Exempt,--D,10353,42403,1,0001223633,Common Stock
+D,02/04/2021 00:00:00,Dockendorff Charles J,4,M-Exempt,--D,12180,0,4,0001400563,Non-qualified Stock Option (Right to Buy)
+D,02/04/2021 00:00:00,Dockendorff Charles J,4,S-Sale,--D,12180,13755,2,0001400563,Common Stock
+A,02/04/2021 00:00:00,Dockendorff Charles J,4,M-Exempt,--D,12180,25935,1,0001400563,Common Stock
+D,02/04/2021 00:00:00,Goldstein Dan,4,M-Exempt,--D,500,1503,10,0001722327,Non-qualified Stock Option (Right to Buy)
+D,02/04/2021 00:00:00,Goldstein Dan,4,M-Exempt,--D,476,952,9,0001722327,Non-qualified Stock Option (Right to Buy)
+D,02/04/2021 00:00:00,Goldstein Dan,4,M-Exempt,--D,1457,0,8,0001722327,Non-qualified Stock Option (Right to Buy)
+D,02/04/2021 00:00:00,Goldstein Dan,4,S-Sale,--D,238,1511,7,0001722327,Common Stock
+D,02/04/2021 00:00:00,Goldstein Dan,4,S-Sale,--D,500,1749,6,0001722327,Common Stock
+A,02/04/2021 00:00:00,Goldstein Dan,4,M-Exempt,--D,500,2249,5,0001722327,Common Stock
+D,02/04/2021 00:00:00,Goldstein Dan,4,S-Sale,--D,476,1749,4,0001722327,Common Stock
+A,02/04/2021 00:00:00,Goldstein Dan,4,M-Exempt,--D,476,2225,3,0001722327,Common Stock
+D,02/04/2021 00:00:00,Goldstein Dan,4,S-Sale,--D,1457,1749,2,0001722327,Common Stock
+A,02/04/2021 00:00:00,Goldstein Dan,4,M-Exempt,--D,1457,3206,1,0001722327,Common Stock
+D,12/10/2020 00:00:00,"Simon, Christopher",4,G-Gift,-ED,194369,170941,1,0001674993,Common Stock
+D,10/26/2020 00:00:00,Goldstein Dan,4,S-Sale,--D,100,1749,1,0001722327,Common Stock
+D,10/26/2020 00:00:00,Burke William P. Mr.,4,S-Sale,--D,1161,11337,1,0001682069,Common Stock
+D,10/23/2020 00:00:00,Basil Michelle L,4,S-Sale,--D,181,15992,1,0001699629,Common Stock
+D,09/14/2020 00:00:00,KROLL MARK W,5,G-Gift,--D,167,19900,2,0001259254,Common Stock
+D,09/11/2020 00:00:00,KROLL MARK W,5,G-Gift,--D,334,20067,1,0001259254,Common Stock
+D,09/08/2020 00:00:00,Llorens Josep,4,S-Sale,--D,101,4254,1,0001750812,Common Stock
+A,08/11/2020 00:00:00,ABERNATHY ROBERT E,4,P-Purchase,--D,4000,12048,1,0001222888,Common Stock
+A,07/21/2020 00:00:00,Zane Ellen M,4,A-Award,--D,1983,6440,1,0001369850,Common Stock
+A,07/21/2020 00:00:00,Pomeroy Claire,4,A-Award,--D,1983,3939,1,0001603648,Common Stock
+A,07/21/2020 00:00:00,MEELIA RICHARD J,4,A-Award,--D,1983,32050,1,0001223633,Common Stock
+A,07/21/2020 00:00:00,KROLL MARK W,4,A-Award,--D,1983,20401,1,0001259254,Common Stock
+A,07/21/2020 00:00:00,Dockendorff Charles J,4,A-Award,--D,1983,13755,1,0001400563,Common Stock
+A,07/21/2020 00:00:00,COYLE MICHAEL J,4,A-Award,--D,1983,2461,1,0001233311,Common Stock
+A,07/21/2020 00:00:00,BURZIK CATHERINE M,4,A-Award,--D,1983,13738,1,0001261141,Common Stock
+A,07/21/2020 00:00:00,ABERNATHY ROBERT E,4,A-Award,--D,1983,8048,1,0001222888,Common Stock
+D,06/30/2020 00:00:00,"Simon, Christopher",4,S-Sale,--D,5084,365310,1,0001674993,Common Stock
+D,06/16/2020 00:00:00,Basil Michelle L,4,S-Sale,--D,1300,16173,6,0001699629,Common Stock
+D,06/16/2020 00:00:00,Basil Michelle L,4,S-Sale,--D,6961,17473,5,0001699629,Common Stock
+D,06/16/2020 00:00:00,Basil Michelle L,4,S-Sale,--D,5175,24434,4,0001699629,Common Stock
+D,06/16/2020 00:00:00,Burke William P. Mr.,4,S-Sale,--D,1209,12498,6,0001682069,Common Stock
+D,06/16/2020 00:00:00,Burke William P. Mr.,4,S-Sale,--D,6146,13707,5,0001682069,Common Stock
+D,06/16/2020 00:00:00,Burke William P. Mr.,4,S-Sale,--D,5259,19853,4,0001682069,Common Stock
+D,06/16/2020 00:00:00,Goldstein Dan,4,S-Sale,--D,3040,1849,5,0001722327,Common Stock
+D,06/16/2020 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,6869,4487,6,0001713517,Common Stock
+D,06/15/2020 00:00:00,Basil Michelle L,4,S-Sale,--D,10578,29609,3,0001699629,Common Stock
+D,06/15/2020 00:00:00,Burke William P. Mr.,4,S-Sale,--D,9720,25112,3,0001682069,Common Stock
+D,06/15/2020 00:00:00,Goldstein Dan,4,S-Sale,--D,1282,4889,4,0001722327,Common Stock
+D,06/15/2020 00:00:00,Goldstein Dan,4,S-Sale,--D,92,6171,3,0001722327,Common Stock
+D,06/15/2020 00:00:00,Scanlan Jacqueline,4,M-Exempt,--D,2889,2890,7,0001713517,Non-qualified Stock Option (Right to Buy)
+D,06/15/2020 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,4005,11356,5,0001713517,Common Stock
+A,06/15/2020 00:00:00,Scanlan Jacqueline,4,M-Exempt,--D,2889,15361,4,0001713517,Common Stock
+D,06/15/2020 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,4417,12472,3,0001713517,Common Stock
+D,06/15/2020 00:00:00,"Simon, Christopher",4,S-Sale,--D,45723,370394,3,0001674993,Common Stock
+D,06/12/2020 00:00:00,Basil Michelle L,4,S-Sale,--D,203,40187,2,0001699629,Common Stock
+A,06/12/2020 00:00:00,Basil Michelle L,4,A-Award,--D,24014,40390,1,0001699629,Common Stock
+D,06/12/2020 00:00:00,Burke William P. Mr.,4,S-Sale,--D,197,34832,2,0001682069,Common Stock
+A,06/12/2020 00:00:00,Burke William P. Mr.,4,A-Award,--D,22334,35029,1,0001682069,Common Stock
+D,06/12/2020 00:00:00,Goldstein Dan,4,S-Sale,--D,42,6263,2,0001722327,Common Stock
+A,06/12/2020 00:00:00,Goldstein Dan,4,A-Award,--D,4322,6305,1,0001722327,Common Stock
+D,06/12/2020 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,111,16889,2,0001713517,Common Stock
+A,06/12/2020 00:00:00,Scanlan Jacqueline,4,A-Award,--D,11286,17000,1,0001713517,Common Stock
+D,06/12/2020 00:00:00,"Simon, Christopher",4,S-Sale,--D,1294,416117,2,0001674993,Common Stock
+A,06/12/2020 00:00:00,"Simon, Christopher",4,A-Award,--D,102064,417411,1,0001674993,Common Stock
+D,06/09/2020 00:00:00,Goldstein Dan,4,S-Sale,--D,187,1983,4,0001722327,Common Stock
+D,06/08/2020 00:00:00,Goldstein Dan,4,M-Exempt,--D,1106,1107,5,0001722327,Non-qualified Stock Option (Right to Buy)
+D,06/08/2020 00:00:00,Goldstein Dan,4,S-Sale,--D,1106,2170,3,0001722327,Common Stock
+A,06/08/2020 00:00:00,Goldstein Dan,4,M-Exempt,--D,1106,3276,2,0001722327,Common Stock
+D,06/08/2020 00:00:00,Goldstein Dan,4,S-Sale,--D,83,2170,1,0001722327,Common Stock
+D,06/08/2020 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,324,5714,1,0001713517,Common Stock
+D,06/08/2020 00:00:00,Basil Michelle L,4,S-Sale,--D,687,16376,1,0001699629,Common Stock
+D,06/08/2020 00:00:00,Burke William P. Mr.,4,S-Sale,--D,639,12695,1,0001682069,Common Stock
+D,06/08/2020 00:00:00,"Simon, Christopher",4,S-Sale,--D,2920,315347,1,0001674993,Common Stock
+A,05/18/2020 00:00:00,"Simon, Christopher",4,A-Award,--D,49105,49105,3,0001674993,Non-qualified Stock Option (Right to Buy)
+A,05/18/2020 00:00:00,"Simon, Christopher",4,A-Award,--D,14510,318267,2,0001674993,Common Stock
+A,05/18/2020 00:00:00,Goldstein Dan,4,A-Award,--D,1841,1841,4,0001722327,Non-qualified Stock Option (Right to Buy)
+A,05/18/2020 00:00:00,Goldstein Dan,4,A-Award,--D,544,2253,3,0001722327,Common Stock
+D,05/18/2020 00:00:00,Goldstein Dan,4,S-Sale,--D,101,1709,2,0001722327,Common Stock
+A,05/18/2020 00:00:00,Llorens Josep,4,A-Award,--D,5728,5728,3,0001750812,Non-qualified Stock Option (Right to Buy)
+A,05/18/2020 00:00:00,Llorens Josep,4,A-Award,--D,1692,4355,2,0001750812,Common Stock
+A,05/18/2020 00:00:00,Lingamneni Anila,4,A-Award,--D,4092,4092,2,0001808414,Non-qualified Stock Option (Right to Buy)
+A,05/18/2020 00:00:00,Lingamneni Anila,4,A-Award,--D,1209,3390,1,0001808414,Common Stock
+A,05/18/2020 00:00:00,Scanlan Jacqueline,4,A-Award,--D,5319,5319,3,0001713517,Non-qualified Stock Option (Right to Buy)
+A,05/18/2020 00:00:00,Scanlan Jacqueline,4,A-Award,--D,1572,6038,2,0001713517,Common Stock
+A,05/18/2020 00:00:00,Basil Michelle L,4,A-Award,--D,9821,9821,3,0001699629,Non-qualified Stock Option (Right to Buy)
+A,05/18/2020 00:00:00,Basil Michelle L,4,A-Award,--D,2902,17063,2,0001699629,Common Stock
+A,05/18/2020 00:00:00,Burke William P. Mr.,4,A-Award,--D,10639,10639,3,0001682069,Non-qualified Stock Option (Right to Buy)
+A,05/18/2020 00:00:00,Burke William P. Mr.,4,A-Award,--D,3144,13334,2,0001682069,Common Stock
+D,05/15/2020 00:00:00,"Simon, Christopher",4,S-Sale,--D,1008,303757,1,0001674993,Common Stock
+D,05/15/2020 00:00:00,Goldstein Dan,4,S-Sale,--D,42,1810,1,0001722327,Common Stock
+D,05/15/2020 00:00:00,Llorens Josep,4,S-Sale,--D,107,2663,1,0001750812,Common Stock
+D,05/15/2020 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,110,4466,1,0001713517,Common Stock
+D,05/15/2020 00:00:00,Basil Michelle L,4,S-Sale,--D,203,14161,1,0001699629,Common Stock
+D,05/15/2020 00:00:00,Burke William P. Mr.,4,S-Sale,--D,221,10190,1,0001682069,Common Stock
+A,04/16/2020 00:00:00,COYLE MICHAEL J,4,A-Award,--D,478,478,1,0001233311,Common Stock
+A,04/15/2020 00:00:00,Lingamneni Anila,4,A-Award,--D,7509,7509,2,0001808414,Non-qualified Stock Option (Right to Buy)
+A,04/15/2020 00:00:00,Lingamneni Anila,4,A-Award,--D,2181,2181,1,0001808414,Common Stock
+D,04/09/2020 00:00:00,KROLL MARK W,4,M-Exempt,--D,6573,0,5,0001259254,Non-qualified Stock Option (Right to Buy)
+D,04/09/2020 00:00:00,KROLL MARK W,4,S-Sale,--D,4329,18418,4,0001259254,Common Stock
+D,04/09/2020 00:00:00,KROLL MARK W,4,S-Sale,--D,6573,22747,3,0001259254,Common Stock
+A,04/09/2020 00:00:00,KROLL MARK W,4,M-Exempt,--D,6573,29320,2,0001259254,Common Stock
+D,04/08/2020 00:00:00,Goldstein Dan,4,S-Sale,--D,399,1852,4,0001722327,Common Stock
+D,04/07/2020 00:00:00,Goldstein Dan,4,S-Sale,--D,201,2251,3,0001722327,Common Stock
+D,04/06/2020 00:00:00,Goldstein Dan,4,M-Exempt,--D,2607,0,5,0001722327,Non-qualified Stock Option (Right to Buy)
+D,04/06/2020 00:00:00,Goldstein Dan,4,S-Sale,--D,2607,2452,2,0001722327,Common Stock
+A,04/06/2020 00:00:00,Goldstein Dan,4,M-Exempt,--D,2607,5059,1,0001722327,Common Stock
+D,03/10/2020 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,207,4383,4,0001713517,Common Stock
+D,03/09/2020 00:00:00,Basil Michelle L,4,S-Sale,--D,395,14364,1,0001699629,Common Stock
+D,03/09/2020 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,118,4590,3,0001713517,Common Stock
+D,03/06/2020 00:00:00,Scanlan Jacqueline,4,M-Exempt,--D,1299,1300,5,0001713517,Non-qualified Stock Option (Right to Buy)
+D,03/06/2020 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,1299,4708,2,0001713517,Common Stock
+A,03/06/2020 00:00:00,Scanlan Jacqueline,4,M-Exempt,--D,1299,6007,1,0001713517,Common Stock
+D,12/31/2019 00:00:00,KROLL MARK W,4,G-Gift,-ED,870,22747,1,0001259254,Common Stock
+D,11/11/2019 00:00:00,Bolorforosh Said,4,S-Sale,--D,339,1977,1,0001741776,Common Stock
+D,11/11/2019 00:00:00,GELBMAN RONALD G,4,M-Exempt,--D,10353,0,5,0001210616,Non-qualified Stock Option (Right to Buy)
+D,11/11/2019 00:00:00,GELBMAN RONALD G,4,M-Exempt,--D,6573,0,4,0001210616,Non-qualified Stock Option (Right to Buy)
+D,11/11/2019 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,16926,48384,3,0001210616,Common Stock
+A,11/11/2019 00:00:00,GELBMAN RONALD G,4,M-Exempt,--D,10353,65310,2,0001210616,Common Stock
+A,11/11/2019 00:00:00,GELBMAN RONALD G,4,M-Exempt,--D,6573,54957,1,0001210616,Common Stock
+D,11/11/2019 00:00:00,MEELIA RICHARD J,4,M-Exempt,--D,6573,0,3,0001223633,Non-qualified Stock Option (Right to Buy)
+D,11/11/2019 00:00:00,MEELIA RICHARD J,4,S-Sale,--D,6573,30067,2,0001223633,Common Stock
+A,11/11/2019 00:00:00,MEELIA RICHARD J,4,M-Exempt,--D,6573,36640,1,0001223633,Common Stock
+D,10/29/2019 00:00:00,Goldstein Dan,4,S-Sale,--D,237,2452,4,0001722327,Common Stock
+D,10/29/2019 00:00:00,Burke William P. Mr.,4,S-Sale,--D,1448,10411,5,0001682069,Common Stock
+D,10/28/2019 00:00:00,Goldstein Dan,4,S-Sale,--D,100,2689,3,0001722327,Common Stock
+D,10/28/2019 00:00:00,Burke William P. Mr.,4,S-Sale,--D,1155,11859,4,0001682069,Common Stock
+D,10/25/2019 00:00:00,Goldstein Dan,4,M-Exempt,--D,1456,1457,5,0001722327,Non-qualified Stock Option (Right to Buy)
+D,10/25/2019 00:00:00,Goldstein Dan,4,S-Sale,--D,1456,2789,2,0001722327,Common Stock
+A,10/25/2019 00:00:00,Goldstein Dan,4,M-Exempt,--D,1456,4245,1,0001722327,Common Stock
+D,10/25/2019 00:00:00,Burke William P. Mr.,4,M-Exempt,--D,11231,11232,6,0001682069,Non-qualified Stock Option (Right to Buy)
+D,10/25/2019 00:00:00,Burke William P. Mr.,4,S-Sale,--D,4326,13014,3,0001682069,Common Stock
+D,10/25/2019 00:00:00,Burke William P. Mr.,4,S-Sale,--D,6905,17340,2,0001682069,Common Stock
+A,10/25/2019 00:00:00,Burke William P. Mr.,4,M-Exempt,--D,11231,24245,1,0001682069,Common Stock
+A,10/22/2019 00:00:00,Basil Michelle L,4,A-Award,--D,1621,14759,1,0001699629,Common Stock
+D,10/09/2019 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,1379,4695,4,0001713517,Common Stock
+D,10/09/2019 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,1230,6074,3,0001713517,Common Stock
+D,10/09/2019 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,300,7304,2,0001713517,Common Stock
+D,10/09/2019 00:00:00,Basil Michelle L,4,S-Sale,--D,5809,13138,4,0001699629,Common Stock
+D,10/09/2019 00:00:00,Basil Michelle L,4,S-Sale,--D,3724,18947,3,0001699629,Common Stock
+D,10/09/2019 00:00:00,Basil Michelle L,4,S-Sale,--D,1100,22671,2,0001699629,Common Stock
+D,10/09/2019 00:00:00,Burke William P. Mr.,4,S-Sale,--D,11448,13014,4,0001682069,Common Stock
+D,10/09/2019 00:00:00,Burke William P. Mr.,4,S-Sale,--D,8356,24462,3,0001682069,Common Stock
+D,10/09/2019 00:00:00,Burke William P. Mr.,4,S-Sale,--D,2900,32818,2,0001682069,Common Stock
+D,10/08/2019 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,2295,7604,1,0001713517,Common Stock
+D,10/08/2019 00:00:00,Basil Michelle L,4,S-Sale,--D,8883,23771,1,0001699629,Common Stock
+D,10/08/2019 00:00:00,Burke William P. Mr.,4,S-Sale,--D,18950,35718,1,0001682069,Common Stock
+A,10/04/2019 00:00:00,Scanlan Jacqueline,4,A-Award,--D,5204,9899,1,0001713517,Common Stock
+A,10/04/2019 00:00:00,Basil Michelle L,4,A-Award,--D,19516,32654,1,0001699629,Common Stock
+A,10/04/2019 00:00:00,Burke William P. Mr.,4,A-Award,--D,41654,54668,1,0001682069,Common Stock
+D,10/01/2019 00:00:00,Burke William P. Mr.,4,M-Exempt,--D,5718,11435,7,0001682069,Non-qualified Stock Option (Right to Buy)
+D,10/01/2019 00:00:00,Burke William P. Mr.,4,S-Sale,--D,467,13014,6,0001682069,Common Stock
+D,10/01/2019 00:00:00,Burke William P. Mr.,4,S-Sale,--D,648,13481,5,0001682069,Common Stock
+D,10/01/2019 00:00:00,Burke William P. Mr.,4,S-Sale,--D,1670,14129,4,0001682069,Common Stock
+D,10/01/2019 00:00:00,Burke William P. Mr.,4,S-Sale,--D,1309,15799,3,0001682069,Common Stock
+D,10/01/2019 00:00:00,Burke William P. Mr.,4,S-Sale,--D,3070,17108,2,0001682069,Common Stock
+A,10/01/2019 00:00:00,Burke William P. Mr.,4,M-Exempt,--D,5718,20178,1,0001682069,Common Stock
+D,09/09/2019 00:00:00,Scanlan Jacqueline,4,M-Exempt,--D,1308,3925,3,0001713517,Non-qualified Stock Option (Right to Buy)
+D,09/09/2019 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,1531,4695,2,0001713517,Common Stock
+A,09/09/2019 00:00:00,Scanlan Jacqueline,4,M-Exempt,--D,1308,6226,1,0001713517,Common Stock
+D,09/05/2019 00:00:00,Llorens Josep,4,S-Sale,--D,101,2770,1,0001750812,Common Stock
+D,08/30/2019 00:00:00,Bolorforosh Said,4,M-Exempt,--D,832,2498,3,0001741776,Non-qualified Stock Option (Right to Buy)
+D,08/30/2019 00:00:00,Bolorforosh Said,4,S-Sale,--D,657,2316,2,0001741776,Common Stock
+A,08/30/2019 00:00:00,Bolorforosh Said,4,M-Exempt,--D,832,2973,1,0001741776,Common Stock
+D,08/19/2019 00:00:00,"Simon, Christopher",4,S-Sale,--D,50869,304572,1,0001674993,Common Stock
+A,08/14/2019 00:00:00,"Simon, Christopher",4,A-Award,--D,114298,355441,1,0001674993,Common Stock
+D,08/09/2019 00:00:00,Goldstein Dan,4,M-Exempt,--D,475,1428,3,0001722327,Non-qualified Stock Option (Right to Buy)
+D,08/09/2019 00:00:00,Goldstein Dan,4,S-Sale,--D,475,2789,2,0001722327,Common Stock
+A,08/09/2019 00:00:00,Goldstein Dan,4,M-Exempt,--D,475,3264,1,0001722327,Common Stock
+D,08/08/2019 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,1696,48384,1,0001210616,Common Stock
+A,07/24/2019 00:00:00,Zane Ellen M,4,A-Award,--D,1460,4457,1,0001369850,Common Stock
+A,07/24/2019 00:00:00,Pomeroy Claire,4,A-Award,--D,1460,1956,1,0001603648,Common Stock
+A,07/24/2019 00:00:00,MEELIA RICHARD J,4,A-Award,--D,1460,30067,1,0001223633,Common Stock
+A,07/24/2019 00:00:00,KROLL MARK W,4,A-Award,--D,1460,23617,1,0001259254,Common Stock
+A,07/24/2019 00:00:00,GELBMAN RONALD G,4,A-Award,--D,1460,50080,1,0001210616,Common Stock
+A,07/24/2019 00:00:00,Dockendorff Charles J,4,A-Award,--D,1460,20340,1,0001400563,Common Stock
+A,07/24/2019 00:00:00,BURZIK CATHERINE M,4,A-Award,--D,1460,11755,1,0001261141,Common Stock
+A,07/24/2019 00:00:00,ABERNATHY ROBERT E,4,A-Award,--D,1460,6065,1,0001222888,Common Stock
+D,07/01/2019 00:00:00,"Simon, Christopher",4,S-Sale,--D,5008,241143,1,0001674993,Common Stock
+D,06/17/2019 00:00:00,Scanlan Jacqueline,4,M-Exempt,--D,2890,5779,5,0001713517,Non-qualified Stock Option (Right to Buy)
+D,06/17/2019 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,259,4918,4,0001713517,Common Stock
+D,06/17/2019 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,497,5177,3,0001713517,Common Stock
+D,06/17/2019 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,2890,5674,2,0001713517,Common Stock
+A,06/17/2019 00:00:00,Scanlan Jacqueline,4,M-Exempt,--D,2890,8564,1,0001713517,Common Stock
+D,06/13/2019 00:00:00,Goldstein Dan,4,S-Sale,--D,94,2789,1,0001722327,Common Stock
+D,06/12/2019 00:00:00,Goldstein Dan,4,S-Sale,--D,39,2883,1,0001722327,Common Stock
+D,06/12/2019 00:00:00,Bolorforosh Said,4,S-Sale,--D,69,2141,1,0001741776,Common Stock
+D,06/12/2019 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,108,5674,1,0001713517,Common Stock
+D,06/12/2019 00:00:00,Basil Michelle L,4,S-Sale,--D,231,13138,1,0001699629,Common Stock
+D,06/12/2019 00:00:00,Burke William P. Mr.,4,S-Sale,--D,190,14460,1,0001682069,Common Stock
+D,06/12/2019 00:00:00,"Simon, Christopher",4,S-Sale,--D,1248,246151,1,0001674993,Common Stock
+D,06/10/2019 00:00:00,Goldstein Dan,4,S-Sale,--D,192,2922,1,0001722327,Common Stock
+D,06/07/2019 00:00:00,Goldstein Dan,4,S-Sale,--D,78,3114,3,0001722327,Common Stock
+D,06/07/2019 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,208,5782,1,0001713517,Common Stock
+D,06/07/2019 00:00:00,Basil Michelle L,4,M-Exempt,--D,4872,14618,7,0001699629,Non-qualified Stock Option (Right to Buy)
+D,06/07/2019 00:00:00,Basil Michelle L,4,S-Sale,--D,442,13369,5,0001699629,Common Stock
+D,06/07/2019 00:00:00,Basil Michelle L,4,S-Sale,--D,6745,13811,4,0001699629,Common Stock
+A,06/07/2019 00:00:00,Basil Michelle L,4,M-Exempt,--D,4872,20556,3,0001699629,Common Stock
+D,06/07/2019 00:00:00,Burke William P. Mr.,4,S-Sale,--D,411,14650,1,0001682069,Common Stock
+D,06/07/2019 00:00:00,"Simon, Christopher",4,S-Sale,--D,2834,247399,1,0001674993,Common Stock
+D,06/06/2019 00:00:00,Goldstein Dan,4,M-Exempt,--D,1107,2213,4,0001722327,Non-qualified Stock Option (Right to Buy)
+D,06/06/2019 00:00:00,Goldstein Dan,4,S-Sale,--D,1107,3192,2,0001722327,Common Stock
+A,06/06/2019 00:00:00,Goldstein Dan,4,M-Exempt,--D,1107,4299,1,0001722327,Common Stock
+D,06/06/2019 00:00:00,Basil Michelle L,4,M-Exempt,--D,6148,18444,6,0001699629,Non-qualified Stock Option (Right to Buy)
+D,06/06/2019 00:00:00,Basil Michelle L,4,S-Sale,--D,6148,15684,2,0001699629,Common Stock
+A,06/06/2019 00:00:00,Basil Michelle L,4,M-Exempt,--D,6148,21832,1,0001699629,Common Stock
+D,05/23/2019 00:00:00,"Simon, Christopher",4,S-Sale,--D,24412,250233,2,0001674993,Common Stock
+A,05/22/2019 00:00:00,"Simon, Christopher",4,A-Award,--D,53654,274645,1,0001674993,Common Stock
+D,05/21/2019 00:00:00,KROLL MARK W,4,G-Gift,-ED,1449,22157,1,0001259254,Common Stock
+A,05/14/2019 00:00:00,Goldstein Dan,4,A-Award,--D,2003,2003,2,0001722327,Non-qualified Stock Option (Right to Buy)
+A,05/14/2019 00:00:00,Goldstein Dan,4,A-Award,--D,573,3192,1,0001722327,Common Stock
+A,05/14/2019 00:00:00,Llorens Josep,4,A-Award,--D,5342,5342,2,0001750812,Non-qualified Stock Option (Right to Buy)
+A,05/14/2019 00:00:00,Llorens Josep,4,A-Award,--D,1530,2871,1,0001750812,Common Stock
+A,05/14/2019 00:00:00,Bolorforosh Said,4,A-Award,--D,4451,4451,2,0001741776,Non-qualified Stock Option (Right to Buy)
+A,05/14/2019 00:00:00,Bolorforosh Said,4,A-Award,--D,1275,2210,1,0001741776,Common Stock
+A,05/14/2019 00:00:00,Scanlan Jacqueline,4,A-Award,--D,5342,5342,5,0001713517,Non-qualified Stock Option (Right to Buy)
+D,05/14/2019 00:00:00,Scanlan Jacqueline,4,M-Exempt,--D,1299,2599,4,0001713517,Non-qualified Stock Option (Right to Buy)
+A,05/14/2019 00:00:00,Scanlan Jacqueline,4,A-Award,--D,1530,5990,3,0001713517,Common Stock
+D,05/14/2019 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,1508,4237,2,0001713517,Common Stock
+A,05/14/2019 00:00:00,Scanlan Jacqueline,4,M-Exempt,--D,1299,5745,1,0001713517,Common Stock
+A,05/14/2019 00:00:00,Basil Michelle L,4,A-Award,--D,9794,9794,2,0001699629,Non-qualified Stock Option (Right to Buy)
+A,05/14/2019 00:00:00,Basil Michelle L,4,A-Award,--D,2805,15684,1,0001699629,Common Stock
+A,05/14/2019 00:00:00,"Simon, Christopher",4,A-Award,--D,48971,48971,2,0001674993,Non-qualified Stock Option (Right to Buy)
+A,05/14/2019 00:00:00,"Simon, Christopher",4,A-Award,--D,14027,220991,1,0001674993,Common Stock
+A,05/14/2019 00:00:00,Burke William P. Mr.,4,A-Award,--D,10684,10684,2,0001682069,Non-qualified Stock Option (Right to Buy)
+A,05/14/2019 00:00:00,Burke William P. Mr.,4,A-Award,--D,3060,15061,1,0001682069,Common Stock
+D,05/13/2019 00:00:00,"Simon, Christopher",4,S-Sale,--D,57587,206964,1,0001674993,Common Stock
+A,04/29/2019 00:00:00,Pomeroy Claire,4,A-Award,--D,496,496,1,0001603648,Common Stock
+A,04/23/2019 00:00:00,"Simon, Christopher",4,A-Award,--D,131050,264317,1,0001674993,Common Stock
+D,04/09/2019 00:00:00,Goldstein Dan,4,S-Sale,--D,389,2619,4,0001722327,Common Stock
+D,04/08/2019 00:00:00,Goldstein Dan,4,M-Exempt,--D,2607,2607,5,0001722327,Non-qualified Stock Option (Right to Buy)
+D,04/08/2019 00:00:00,Goldstein Dan,4,S-Sale,--D,210,3008,3,0001722327,Common Stock
+D,04/08/2019 00:00:00,Goldstein Dan,4,S-Sale,--D,2607,3218,2,0001722327,Common Stock
+A,04/08/2019 00:00:00,Goldstein Dan,4,M-Exempt,--D,2607,5825,1,0001722327,Common Stock
+D,03/07/2019 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,116,4446,1,0001713517,Common Stock
+D,03/07/2019 00:00:00,Basil Michelle L,4,S-Sale,--D,391,12879,1,0001699629,Common Stock
+D,02/15/2019 00:00:00,GELBMAN RONALD G,4,M-Exempt,--D,8196,0,3,0001210616,Non-qualified Stock Option (Right to Buy)
+D,02/15/2019 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,8196,53062,2,0001210616,Common Stock
+A,02/15/2019 00:00:00,GELBMAN RONALD G,4,M-Exempt,--D,8196,61258,1,0001210616,Common Stock
+D,12/24/2018 00:00:00,KROLL MARK W,5,G-Gift,--D,1142,23606,1,0001259254,Common Stock
+D,12/14/2018 00:00:00,MEELIA RICHARD J,4,M-Exempt,--D,8196,0,3,0001223633,Non-qualified Stock Option (Right to Buy)
+D,12/14/2018 00:00:00,MEELIA RICHARD J,4,S-Sale,--D,8196,28607,2,0001223633,Common Stock
+A,12/14/2018 00:00:00,MEELIA RICHARD J,4,M-Exempt,--D,8196,36803,1,0001223633,Common Stock
+D,12/14/2018 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,4329,53062,1,0001210616,Common Stock
+D,12/12/2018 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,1027,4562,1,0001713517,Common Stock
+D,12/10/2018 00:00:00,Goldstein Dan,4,M-Exempt,--D,1457,2913,3,0001722327,Non-qualified Stock Option (Right to Buy)
+D,12/10/2018 00:00:00,Goldstein Dan,4,S-Sale,--D,1693,3218,2,0001722327,Common Stock
+A,12/10/2018 00:00:00,Goldstein Dan,4,M-Exempt,--D,1457,4911,1,0001722327,Common Stock
+D,11/08/2018 00:00:00,Burke William P. Mr.,4,M-Exempt,--D,11232,22463,3,0001682069,Non-qualified Stock Option (Right to Buy)
+D,11/08/2018 00:00:00,Burke William P. Mr.,4,S-Sale,--D,13056,12001,2,0001682069,Common Stock
+A,11/08/2018 00:00:00,Burke William P. Mr.,4,M-Exempt,--D,11232,25057,1,0001682069,Common Stock
+D,11/08/2018 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,12322,15335,1,0001217544,Common Stock
+D,11/07/2018 00:00:00,KROLL MARK W,4,M-Exempt,--D,8196,0,5,0001259254,Non-qualified Stock Option (Right to Buy)
+D,11/07/2018 00:00:00,KROLL MARK W,4,S-Sale,--D,10707,24748,4,0001259254,Common Stock
+A,11/07/2018 00:00:00,KROLL MARK W,4,M-Exempt,--D,8196,35455,3,0001259254,Common Stock
+D,10/26/2018 00:00:00,Burke William P. Mr.,4,S-Sale,--D,779,13825,1,0001682069,Common Stock
+D,10/26/2018 00:00:00,Goldstein Dan,4,S-Sale,--D,102,3454,1,0001722327,Common Stock
+D,09/17/2018 00:00:00,GRANADILLO PEDRO P,4,M-Exempt,--D,10353,0,11,0001217544,Non-qualified Stock Option (Right to Buy)
+D,09/17/2018 00:00:00,GRANADILLO PEDRO P,4,M-Exempt,--D,6573,0,10,0001217544,Non-qualified Stock Option (Right to Buy)
+D,09/17/2018 00:00:00,GRANADILLO PEDRO P,4,M-Exempt,--D,8196,0,9,0001217544,Non-qualified Stock Option (Right to Buy)
+D,09/17/2018 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,631,27657,8,0001217544,Common Stock
+D,09/17/2018 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,11812,28288,7,0001217544,Common Stock
+D,09/17/2018 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,13183,40100,6,0001217544,Common Stock
+D,09/17/2018 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,3696,53283,5,0001217544,Common Stock
+D,09/17/2018 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,1502,56979,4,0001217544,Common Stock
+A,09/17/2018 00:00:00,GRANADILLO PEDRO P,4,M-Exempt,--D,10353,58481,3,0001217544,Common Stock
+A,09/17/2018 00:00:00,GRANADILLO PEDRO P,4,M-Exempt,--D,6573,48128,2,0001217544,Common Stock
+A,09/17/2018 00:00:00,GRANADILLO PEDRO P,4,M-Exempt,--D,8196,41555,1,0001217544,Common Stock
+D,09/10/2018 00:00:00,Scanlan Jacqueline,4,M-Exempt,--D,2889,8669,7,0001713517,Non-qualified Stock Option (Right to Buy)
+D,09/10/2018 00:00:00,Scanlan Jacqueline,4,M-Exempt,--D,1299,3898,6,0001713517,Non-qualified Stock Option (Right to Buy)
+D,09/10/2018 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,702,5551,5,0001713517,Common Stock
+D,09/10/2018 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,2889,6253,4,0001713517,Common Stock
+A,09/10/2018 00:00:00,Scanlan Jacqueline,4,M-Exempt,--D,2889,9142,3,0001713517,Common Stock
+D,09/10/2018 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,1299,6253,2,0001713517,Common Stock
+A,09/10/2018 00:00:00,Scanlan Jacqueline,4,M-Exempt,--D,1299,7552,1,0001713517,Common Stock
+A,09/04/2018 00:00:00,Llorens Josep,4,A-Award,--D,4714,4714,2,0001750812,Non-qualified Stock Option (Right to Buy)
+A,09/04/2018 00:00:00,Llorens Josep,4,A-Award,--D,1341,1341,1,0001750812,Common Stock
+D,08/16/2018 00:00:00,KROLL MARK W,4,G-Gift,-ED,200,27259,2,0001259254,Common Stock
+D,08/14/2018 00:00:00,KROLL MARK W,4,G-Gift,-ED,1000,27459,1,0001259254,Common Stock
+A,07/26/2018 00:00:00,ABERNATHY ROBERT E,4,A-Award,--D,1696,4605,1,0001222888,Common Stock
+A,07/26/2018 00:00:00,Zane Ellen M,4,A-Award,--D,1696,2997,1,0001369850,Common Stock
+A,07/26/2018 00:00:00,KROLL MARK W,4,A-Award,--D,1696,28459,1,0001259254,Common Stock
+A,07/26/2018 00:00:00,GRANADILLO PEDRO P,4,A-Award,--D,1696,33359,1,0001217544,Common Stock
+A,07/26/2018 00:00:00,GELBMAN RONALD G,4,A-Award,--D,1696,57391,1,0001210616,Common Stock
+A,07/26/2018 00:00:00,BURZIK CATHERINE M,4,A-Award,--D,1696,10295,1,0001261141,Common Stock
+A,07/26/2018 00:00:00,Dockendorff Charles J,4,A-Award,--D,1696,18880,1,0001400563,Common Stock
+A,07/26/2018 00:00:00,MEELIA RICHARD J,4,A-Award,--D,1696,28607,1,0001223633,Common Stock
+D,07/02/2018 00:00:00,"Simon, Christopher",4,S-Sale,--D,5139,133126,1,0001674993,Common Stock
+D,06/25/2018 00:00:00,Burke William P. Mr.,4,M-Exempt,--D,5717,17153,4,0001682069,Non-qualified Stock Option (Right to Buy)
+D,06/25/2018 00:00:00,Burke William P. Mr.,4,S-Sale,--D,970,14604,3,0001682069,Common Stock
+D,06/25/2018 00:00:00,Burke William P. Mr.,4,S-Sale,--D,5717,15574,2,0001682069,Common Stock
+A,06/25/2018 00:00:00,Burke William P. Mr.,4,M-Exempt,--D,5717,21291,1,0001682069,Common Stock
+A,06/11/2018 00:00:00,Bolorforosh Said,4,A-Award,--D,3330,3330,2,0001741776,Non-qualified Stock Option (Right to Buy)
+A,06/11/2018 00:00:00,Bolorforosh Said,4,A-Award,--D,935,935,1,0001741776,Common Stock
+A,06/11/2018 00:00:00,Goldstein Dan,4,A-Award,--D,1903,1903,2,0001722327,Non-qualified Stock Option (Right to Buy)
+A,06/11/2018 00:00:00,Goldstein Dan,4,A-Award,--D,534,3556,1,0001722327,Common Stock
+A,06/11/2018 00:00:00,Scanlan Jacqueline,4,A-Award,--D,5233,5233,2,0001713517,Non-qualified Stock Option (Right to Buy)
+A,06/11/2018 00:00:00,Scanlan Jacqueline,4,A-Award,--D,1470,6253,1,0001713517,Common Stock
+A,06/11/2018 00:00:00,Basil Michelle L,4,A-Award,--D,9516,9516,2,0001699629,Non-qualified Stock Option (Right to Buy)
+A,06/11/2018 00:00:00,Basil Michelle L,4,A-Award,--D,2673,13270,1,0001699629,Common Stock
+A,06/11/2018 00:00:00,Burke William P. Mr.,4,A-Award,--D,9278,9278,2,0001682069,Non-qualified Stock Option (Right to Buy)
+A,06/11/2018 00:00:00,Burke William P. Mr.,4,A-Award,--D,2606,15574,1,0001682069,Common Stock
+A,06/11/2018 00:00:00,"Simon, Christopher",4,A-Award,--D,40443,40443,2,0001674993,Non-qualified Stock Option (Right to Buy)
+A,06/11/2018 00:00:00,"Simon, Christopher",4,A-Award,--D,11361,138265,1,0001674993,Common Stock
+D,06/08/2018 00:00:00,Goldstein Dan,4,S-Sale,--D,578,3022,1,0001722327,Common Stock
+D,06/07/2018 00:00:00,Ryding Neil Mr.,4,S-Sale,--D,183,15226,1,0001654614,Common Stock
+D,06/07/2018 00:00:00,Burke William P. Mr.,4,S-Sale,--D,425,12968,1,0001682069,Common Stock
+D,06/07/2018 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,214,4783,1,0001713517,Common Stock
+D,06/07/2018 00:00:00,Basil Michelle L,4,S-Sale,--D,457,10597,1,0001699629,Common Stock
+D,06/07/2018 00:00:00,"Simon, Christopher",4,S-Sale,--D,1941,126904,1,0001674993,Common Stock
+D,06/07/2018 00:00:00,Goldstein Dan,4,S-Sale,--D,81,3600,5,0001722327,Common Stock
+D,06/06/2018 00:00:00,Goldstein Dan,4,M-Exempt,--D,1106,3320,7,0001722327,Non-qualified Stock Option (Right to Buy)
+D,06/06/2018 00:00:00,Goldstein Dan,4,M-Exempt,--D,2607,5214,6,0001722327,Non-qualified Stock Option (Right to Buy)
+D,06/06/2018 00:00:00,Goldstein Dan,4,S-Sale,--D,1106,3681,4,0001722327,Common Stock
+D,06/06/2018 00:00:00,Goldstein Dan,4,S-Sale,--D,2607,4787,3,0001722327,Common Stock
+A,06/06/2018 00:00:00,Goldstein Dan,4,M-Exempt,--D,1106,7394,2,0001722327,Common Stock
+A,06/06/2018 00:00:00,Goldstein Dan,4,M-Exempt,--D,2607,6288,1,0001722327,Common Stock
+D,04/06/2018 00:00:00,Goldstein Dan,4,S-Sale,--D,210,3681,3,0001722327,Common Stock
+D,03/06/2018 00:00:00,Scanlan Jacqueline,4,S-Sale,--D,114,4524,1,0001713517,Common Stock
+D,03/06/2018 00:00:00,Basil Michelle L,4,S-Sale,--D,389,10786,1,0001699629,Common Stock
+A,01/24/2018 00:00:00,Zane Ellen M,4,A-Award,--D,1301,1301,1,0001369850,Common Stock
+D,01/02/2018 00:00:00,KROLL MARK W,4,M-Exempt,--D,7118,0,3,0001259254,Non-qualified Stock Option (Right to Buy)
+D,01/02/2018 00:00:00,KROLL MARK W,4,S-Sale,--D,7118,26763,2,0001259254,Common Stock
+A,01/02/2018 00:00:00,KROLL MARK W,4,M-Exempt,--D,7118,33881,1,0001259254,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,M-Exempt,--D,7118,0,23,0001217544,Non-qualified Stock Option (Right to Buy)
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,40,32381,22,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,200,32421,21,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,200,32621,20,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,100,32821,19,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,760,32921,18,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,200,33681,17,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,4100,33881,16,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,9,37981,15,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,100,37990,14,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,91,38090,13,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,100,38181,12,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,100,38281,11,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,100,38381,10,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,300,38481,9,0001217544,Common Stock
+A,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,M-Exempt,--D,7118,38781,8,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,100,32281,7,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,100,32181,6,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,100,32081,5,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,100,31981,4,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,200,31781,3,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,18,31763,2,0001217544,Common Stock
+D,12/01/2017 00:00:00,GRANADILLO PEDRO P,4,S-Sale,--D,100,31663,1,0001217544,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,M-Exempt,--D,1678,0,23,0001210616,Non-qualified Stock Option (Right to Buy)
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,M-Exempt,--D,5440,1678,22,0001210616,Non-qualified Stock Option (Right to Buy)
+A,11/16/2017 00:00:00,GELBMAN RONALD G,4,M-Exempt,--D,1678,55695,21,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,300,54017,20,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,200,54317,19,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,300,54517,18,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,300,54817,17,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,400,55117,16,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,100,55517,15,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,100,55617,14,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,1200,55717,13,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,400,56917,12,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,300,57317,11,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,300,57617,10,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,100,57917,9,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,100,58017,8,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,400,58117,7,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,200,58517,6,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,240,58717,5,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,200,58957,4,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,235,59157,3,0001210616,Common Stock
+D,11/16/2017 00:00:00,GELBMAN RONALD G,4,S-Sale,--D,65,59392,2,0001210616,Common Stock
+A,11/16/2017 00:00:00,GELBMAN RONALD G,4,M-Exempt,--D,5440,59457,1,0001210616,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,M-Exempt,--D,11231,33695,20,0001682069,Non-qualified Stock Option (Right to Buy)
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,162,14034,19,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,100,14196,18,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,200,14296,17,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,200,14496,16,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,100,14696,15,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,100,14796,14,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,161,14896,13,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,39,15057,12,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,100,15096,11,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,100,15196,10,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,100,15296,9,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,200,15396,8,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,200,15596,7,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,200,15796,6,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,100,15996,5,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,100,16096,4,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,1122,16196,3,0001682069,Common Stock
+D,11/14/2017 00:00:00,Burke Willaim P,4,S-Sale,--D,9909,17318,2,0001682069,Common Stock
+A,11/14/2017 00:00:00,Burke Willaim P,4,M-Exempt,--D,11231,27227,1,0001682069,Common Stock
+D,11/13/2017 00:00:00,Goldstein Dan,4,M-Exempt,--D,1456,4370,14,0001722327,Non-qualified Stock Option (Right to Buy)
+D,11/13/2017 00:00:00,Goldstein Dan,4,M-Exempt,--D,2607,7821,13,0001722327,Non-qualified Stock Option (Right to Buy)
+D,11/13/2017 00:00:00,Goldstein Dan,4,S-Sale,--D,68,4199,10,0001722327,Common Stock
+D,11/13/2017 00:00:00,Goldstein Dan,4,S-Sale,--D,560,4267,9,0001722327,Common Stock
+D,11/13/2017 00:00:00,Goldstein Dan,4,S-Sale,--D,956,4827,8,0001722327,Common Stock
+D,11/13/2017 00:00:00,Goldstein Dan,4,S-Sale,--D,200,5783,7,0001722327,Common Stock
+D,11/13/2017 00:00:00,Goldstein Dan,4,S-Sale,--D,300,5983,6,0001722327,Common Stock
+D,11/13/2017 00:00:00,Goldstein Dan,4,S-Sale,--D,2607,6283,5,0001722327,Common Stock
+A,11/13/2017 00:00:00,Goldstein Dan,4,M-Exempt,--D,1456,8890,4,0001722327,Common Stock
+A,11/13/2017 00:00:00,Goldstein Dan,4,M-Exempt,--D,2607,7434,3,0001722327,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,M-Exempt,--D,10353,0,32,0001244063,Non-qualified Stock Option (Right to Buy)
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,M-Exempt,--D,6573,0,31,0001244063,Non-qualified Stock Option (Right to Buy)
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,100,20740,30,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,200,20840,29,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,100,21040,28,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,100,21140,27,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,100,21240,26,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,200,21340,25,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,100,21540,24,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,2953,21640,23,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,400,24593,22,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,500,24993,21,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,2500,25493,20,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,200,27993,19,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,100,28193,18,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,600,28293,17,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,1061,28893,16,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,1039,29954,15,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,100,30993,14,0001244063,Common Stock
+A,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,M-Exempt,--D,10353,31093,13,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,1900,20740,12,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,100,22640,11,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,573,22740,10,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,200,23313,9,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,600,23513,8,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,600,24113,7,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,1200,24713,6,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,510,25913,5,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,400,26423,4,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,200,26823,3,0001244063,Common Stock
+D,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,S-Sale,--D,290,27023,2,0001244063,Common Stock
+A,11/10/2017 00:00:00,FOOTE SUSAN BARTLETT,4,M-Exempt,--D,6573,27313,1,0001244063,Common Stock
+D,10/25/2017 00:00:00,Ryding Neil Mr.,4,S-Sale,--D,267,15409,4,0001654614,Common Stock
+D,10/25/2017 00:00:00,Burke William P. Mr.,4,S-Sale,--D,841,13393,1,0001682069,Common Stock
+D,10/25/2017 00:00:00,Goldstein Dan,4,S-Sale,--D,111,3891,2,0001722327,Common Stock
+D,10/20/2017 00:00:00,Ryding Neil Mr.,4,S-Sale,--D,346,15676,3,0001654614,Common Stock
+A,10/17/2017 00:00:00,ABERNATHY ROBERT E,4,A-Award,--D,2909,2909,1,0001222888,Common Stock
+D,08/10/2017 00:00:00,MEELIA RICHARD J,4,M-Exempt,--D,7118,0,6,0001223633,Non-qualified Stock Option (Right to Buy)
+D,08/10/2017 00:00:00,MEELIA RICHARD J,4,M-Exempt,--D,16968,0,5,0001223633,Non-qualified Stock Option (Right to Buy)
+D,08/10/2017 00:00:00,MEELIA RICHARD J,4,S-Sale,--D,7118,26911,4,0001223633,Common Stock
+A,08/10/2017 00:00:00,MEELIA RICHARD J,4,M-Exempt,--D,7118,34029,3,0001223633,Common Stock
+D,08/10/2017 00:00:00,MEELIA RICHARD J,4,S-Sale,--D,16968,26911,2,0001223633,Common Stock
+A,08/10/2017 00:00:00,MEELIA RICHARD J,4,M-Exempt,--D,16968,43879,1,0001223633,Common Stock
+A,07/27/2017 00:00:00,BURZIK CATHERINE M,4,A-Award,--D,4329,8599,1,0001261141,Common Stock
+A,07/27/2017 00:00:00,Dockendorff Charles J,4,A-Award,--D,4329,17184,1,0001400563,Common Stock
+A,07/27/2017 00:00:00,FOOTE SUSAN BARTLETT,4,A-Award,--D,4329,20740,1,0001244063,Common Stock
+A,07/27/2017 00:00:00,GELBMAN RONALD G,4,A-Award,--D,4329,54017,1,0001210616,Common Stock
+A,07/27/2017 00:00:00,GRANADILLO PEDRO P,4,A-Award,--D,4329,31663,1,0001217544,Common Stock
+A,07/27/2017 00:00:00,KROLL MARK W,4,A-Award,--D,4329,26763,1,0001259254,Common Stock
+A,07/27/2017 00:00:00,MEELIA RICHARD J,4,A-Award,--D,4329,26911,1,0001223633,Common Stock
+D,07/19/2017 00:00:00,Goldstein Dan,4,S-Sale,--D,197,4002,1,0001722327,Common Stock
+D,06/29/2017 00:00:00,"Simon, Christopher",4,S-Sale,--D,3595,128845,1,0001674993,Common Stock
+A,06/06/2017 00:00:00,Goldstein Dan,4,A-Award,--D,4426,4426,12,0001722327,Non-qualified Stock Option (Right to Buy)
+A,06/06/2017 00:00:00,Goldstein Dan,4,A-Award,--D,1080,4827,2,0001722327,Common Stock
+A,06/06/2017 00:00:00,"Simon, Christopher",4,A-Award,--D,104516,104516,2,0001674993,Non-qualified Stock Option (Right to Buy)
+A,06/06/2017 00:00:00,"Simon, Christopher",4,A-Award,--D,25516,131383,1,0001674993,Common Stock
+A,06/06/2017 00:00:00,Burke Willaim P,4,A-Award,--D,22870,22870,2,0001682069,Non-qualified Stock Option (Right to Buy)
+A,06/06/2017 00:00:00,Burke Willaim P,4,A-Award,--D,5583,15996,1,0001682069,Common Stock
+A,06/06/2017 00:00:00,Basil Michelle L,4,A-Award,--D,24592,24592,2,0001699629,Non-qualified Stock Option (Right to Buy)
+A,06/06/2017 00:00:00,Basil Michelle L,4,A-Award,--D,6003,10882,1,0001699629,Common Stock
+A,06/06/2017 00:00:00,Ryding Neil 122-62-507,4,A-Award,--D,9836,9836,2,0001654614,Non-qualified Stock Option (Right to Buy)
+A,06/06/2017 00:00:00,Ryding Neil 122-62-507,4,A-Award,--D,2401,19676,1,0001654614,Common Stock

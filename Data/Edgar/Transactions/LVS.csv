@@ -1,0 +1,321 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,06/07/2023 00:00:00,Goldstein Robert G,4,G-Gift,--I,49500,236057,4,0001305337,Common Stock
+D,06/07/2023 00:00:00,Goldstein Robert G,4,G-Gift,--D,49500,0,3,0001305337,Common Stock
+A,05/11/2023 00:00:00,LEVI DAVID F,4,A-Award,--D,2861,22362,1,0001630660,Common Stock
+A,05/11/2023 00:00:00,Kramer Lewis,4,A-Award,--D,2861,18405,1,0001468110,Common Stock
+A,05/11/2023 00:00:00,Jordan Nora M.,4,A-Award,--D,2861,11805,1,0001835641,Common Stock
+A,05/11/2023 00:00:00,Forman Charles D,4,A-Award,--D,2861,208845,1,0001305349,Common Stock
+A,05/11/2023 00:00:00,Chau Micheline,4,A-Award,--D,2861,22362,1,0001448102,Common Stock
+A,05/11/2023 00:00:00,Chafetz Irwin,4,A-Award,--D,2861,91966,1,0001319523,Common Stock
+D,04/28/2023 00:00:00,Forman Charles D,4,S-Sale,--D,15000,205984,1,0001305349,Common Stock
+D,04/26/2023 00:00:00,Goldstein Robert G,4,M-Exempt,--D,49500,51000,3,0001305337,Restricted Stock Units
+A,04/26/2023 00:00:00,Goldstein Robert G,4,M-Exempt,--D,49500,99000,1,0001305337,Common Stock
+D,04/26/2023 00:00:00,Dumont Patrick,4,M-Exempt,--D,27610,28447,2,0001667998,Restricted Stock Units
+A,04/26/2023 00:00:00,Dumont Patrick,4,M-Exempt,--D,27610,323497,1,0001667998,Common Stock
+D,04/26/2023 00:00:00,Hudson D. Zachary,4,M-Exempt,--D,7593,7822,2,0001787180,Restricted Stock Units
+A,04/26/2023 00:00:00,Hudson D. Zachary,4,M-Exempt,--D,7593,15186,1,0001787180,Common Stock
+D,04/26/2023 00:00:00,Hyzak Randy,4,M-Exempt,--D,8283,8534,2,0001456136,Restricted Stock Units
+A,04/26/2023 00:00:00,Hyzak Randy,4,M-Exempt,--D,8283,16566,1,0001456136,Common Stock
+A,01/30/2023 00:00:00,Hyzak Randy,4,A-Award,--D,25915,25915,1,0001456136,Restricted Stock Units
+A,01/30/2023 00:00:00,Hudson D. Zachary,4,A-Award,--D,23756,23756,1,0001787180,Restricted Stock Units
+A,01/30/2023 00:00:00,Goldstein Robert G,4,A-Award,--D,168451,168451,1,0001305337,Restricted Stock Units
+A,01/30/2023 00:00:00,Dumont Patrick,4,A-Award,--D,86385,86385,1,0001667998,Restricted Stock Units
+A,12/21/2022 00:00:00,Hyzak Randy,4,A-Award,--D,500000,500000,1,0001456136,Option (Right to Buy)
+A,12/21/2022 00:00:00,Hudson D. Zachary,4,A-Award,--D,500000,500000,1,0001787180,Option (Right to Buy)
+A,12/21/2022 00:00:00,Goldstein Robert G,4,A-Award,--D,2000000,2000000,1,0001305337,Option (Right to Buy)
+A,12/21/2022 00:00:00,Dumont Patrick,4,A-Award,--D,1500000,1500000,1,0001667998,Option (Right to Buy)
+A,12/16/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,10000000,10000000,10,0001309416,Common Stock
+D,12/16/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,10000000,57217592,9,0001309416,Common Stock
+A,12/15/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,3461000,67217592,8,0001309416,Common Stock
+D,12/15/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,3461000,6539000,7,0001309416,Common Stock
+A,09/15/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,3941600,63756592,6,0001309416,Common Stock
+D,09/15/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,3941600,5058400,5,0001309416,Common Stock
+A,09/01/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,132625,132625,28,0001309416,Option (Right to Buy)
+A,09/01/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,129701,129701,27,0001309416,Option (Right to Buy)
+A,09/01/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,81234,81234,26,0001309416,Option (Right to Buy)
+A,09/01/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,115606,115606,25,0001309416,Option (Right to Buy)
+A,09/01/2022 00:00:00,Adelson Miriam,5,G-Gift,-LI,102412,102412,24,0001309416,Option (Right to Buy)
+A,09/01/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,77991,77991,23,0001309416,Option (Right to Buy)
+A,09/01/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,55169,55169,22,0001309416,Option (Right to Buy)
+D,09/01/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,132625,0,21,0001309416,Option (Right to Buy)
+D,09/01/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,129701,0,20,0001309416,Option (Right to Buy)
+D,09/01/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,81234,0,19,0001309416,Option (Right to Buy)
+D,09/01/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,115606,0,18,0001309416,Option (Right to Buy)
+D,09/01/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,102412,0,17,0001309416,Option (Right to Buy)
+D,09/01/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,77991,0,16,0001309416,Option (Right to Buy)
+D,09/01/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,55169,0,15,0001309416,Option (Right to Buy)
+A,08/31/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,15000000,15000000,4,0001309416,Common Stock
+D,08/31/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,15000000,59814992,3,0001309416,Common Stock
+A,08/30/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,15000000,74814992,2,0001309416,Common Stock
+D,08/30/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,15000000,34010540,1,0001309416,Common Stock
+A,08/29/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,132625,132625,14,0001309416,Option (Right to Buy)
+A,08/29/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,129701,129701,13,0001309416,Option (Right to Buy)
+A,08/29/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,81234,81234,12,0001309416,Option (Right to Buy)
+A,08/29/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,115606,115606,11,0001309416,Option (Right to Buy)
+A,08/29/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,102412,102412,10,0001309416,Option (Right to Buy)
+A,08/29/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,77991,77991,9,0001309416,Option (Right to Buy)
+A,08/29/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,55169,55169,8,0001309416,Option (Right to Buy)
+D,08/29/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,132625,0,7,0001309416,Option (Right to Buy)
+D,08/29/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,129701,0,6,0001309416,Option (Right to Buy)
+D,08/29/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,81234,0,5,0001309416,Option (Right to Buy)
+D,08/29/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,115606,0,4,0001309416,Option (Right to Buy)
+D,08/29/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,102412,0,3,0001309416,Option (Right to Buy)
+D,08/29/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,77991,0,2,0001309416,Option (Right to Buy)
+D,08/29/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,55169,0,1,0001309416,Option (Right to Buy)
+A,08/25/2022 00:00:00,Adelson Miriam,5,W-Will,--I,132625,132625,26,0001309416,Option (Right to Buy)
+A,08/25/2022 00:00:00,Adelson Miriam,5,W-Will,--I,129701,129701,25,0001309416,Option (Right to Buy)
+A,08/25/2022 00:00:00,Adelson Miriam,5,W-Will,--I,81234,81234,24,0001309416,Option (Right to Buy)
+A,08/25/2022 00:00:00,Adelson Miriam,5,W-Will,--I,115606,115606,23,0001309416,Option (Right to Buy)
+A,08/25/2022 00:00:00,Adelson Miriam,5,W-Will,--I,102412,102412,22,0001309416,Option (Right to Buy)
+A,08/25/2022 00:00:00,Adelson Miriam,5,W-Will,--I,77991,77991,21,0001309416,Option (Right to Buy)
+A,08/25/2022 00:00:00,Adelson Miriam,5,W-Will,--I,55169,55169,20,0001309416,Option (Right to Buy)
+D,08/25/2022 00:00:00,Adelson Miriam,5,W-Will,--I,132625,0,19,0001309416,Option (Right to Buy)
+D,08/25/2022 00:00:00,Adelson Miriam,5,W-Will,--I,129701,0,18,0001309416,Option (Right to Buy)
+D,08/25/2022 00:00:00,Adelson Miriam,5,W-Will,--I,81234,0,17,0001309416,Option (Right to Buy)
+D,08/25/2022 00:00:00,Adelson Miriam,5,W-Will,--I,115606,0,16,0001309416,Option (Right to Buy)
+D,08/25/2022 00:00:00,Adelson Miriam,5,W-Will,--I,102412,0,15,0001309416,Option (Right to Buy)
+D,08/25/2022 00:00:00,Adelson Miriam,5,W-Will,--I,77991,0,14,0001309416,Option (Right to Buy)
+D,08/25/2022 00:00:00,Adelson Miriam,5,W-Will,--I,55169,0,13,0001309416,Option (Right to Buy)
+A,06/15/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,2313900,59814992,27,0001309416,Common Stock
+D,06/15/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,2313900,686100,26,0001309416,Common Stock
+A,05/31/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,1400000,1400000,25,0001309416,Common Stock
+D,05/31/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,1400000,49010540,24,0001309416,Common Stock
+A,05/31/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,2800000,16492517,23,0001309416,Common Stock
+D,05/31/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,2800000,50410540,22,0001309416,Common Stock
+A,05/31/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,2800000,16492517,21,0001309416,Common Stock
+D,05/31/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,2800000,53210540,20,0001309416,Common Stock
+A,05/31/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,2800000,3892516,19,0001309416,Common Stock
+D,05/31/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,2800000,56010540,18,0001309416,Common Stock
+A,05/31/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,2800000,10142516,17,0001309416,Common Stock
+D,05/31/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,2800000,58810540,16,0001309416,Common Stock
+A,05/31/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,10000000,10000000,15,0001309416,Common Stock
+D,05/31/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,10000000,57501092,14,0001309416,Common Stock
+A,05/27/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,4941347,67501092,13,0001309416,Common Stock
+D,05/27/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,4941347,61610540,12,0001309416,Common Stock
+D,05/27/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,1500000,1092516,11,0001309416,Common Stock
+A,05/26/2022 00:00:00,Goldstein Robert G,4,G-Gift,--I,49500,186557,2,0001305337,Common Stock
+D,05/26/2022 00:00:00,Goldstein Robert G,4,G-Gift,--D,49500,0,1,0001305337,Common Stock
+A,05/12/2022 00:00:00,Mao Yibing,4,A-Award,--D,5806,5806,1,0001872368,Common Stock
+A,05/12/2022 00:00:00,LEVI DAVID F,4,A-Award,--D,5806,19501,1,0001630660,Common Stock
+A,05/12/2022 00:00:00,Kramer Lewis,4,A-Award,--D,5806,15544,1,0001468110,Common Stock
+A,05/12/2022 00:00:00,KOPPELMAN CHARLES,4,A-Award,--D,5806,26363,1,0001158938,Common Stock
+A,05/12/2022 00:00:00,Jordan Nora M.,4,A-Award,--D,5806,8944,1,0001835641,Common Stock
+A,05/12/2022 00:00:00,Forman Charles D,4,A-Award,--D,5806,220984,1,0001305349,Common Stock
+A,05/12/2022 00:00:00,Chau Micheline,4,A-Award,--D,5806,19501,1,0001448102,Common Stock
+A,05/12/2022 00:00:00,Chafetz Irwin,4,A-Award,--D,5806,89105,1,0001319523,Common Stock
+D,04/26/2022 00:00:00,Dumont Patrick,4,M-Exempt,--D,27611,56057,3,0001667998,Restricted Stock Units
+D,04/26/2022 00:00:00,Dumont Patrick,4,F-InKind,--D,6724,295887,2,0001667998,Common Stock
+A,04/26/2022 00:00:00,Dumont Patrick,4,M-Exempt,--D,27611,302611,1,0001667998,Common Stock
+D,04/26/2022 00:00:00,Hudson D. Zachary,4,M-Exempt,--D,7593,15415,2,0001787180,Restricted Stock Units
+A,04/26/2022 00:00:00,Hudson D. Zachary,4,M-Exempt,--D,7593,7593,1,0001787180,Common Stock
+D,04/26/2022 00:00:00,Hyzak Randy,4,M-Exempt,--D,8283,16817,2,0001456136,Restricted Stock Units
+A,04/26/2022 00:00:00,Hyzak Randy,4,M-Exempt,--D,8283,8283,1,0001456136,Common Stock
+D,04/26/2022 00:00:00,Goldstein Robert G,4,M-Exempt,--D,49500,100500,3,0001305337,Restricted Stock Units
+A,04/26/2022 00:00:00,Goldstein Robert G,4,M-Exempt,--D,49500,49500,1,0001305337,Common Stock
+A,03/15/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,2780600,62559745,10,0001309416,Common Stock
+D,03/15/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,2780600,219400,9,0001309416,Common Stock
+A,03/15/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,66551887,66551887,8,0001309416,Common Stock
+D,03/15/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,66551887,59779145,7,0001309416,Common Stock
+A,03/14/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,66551887,126331032,6,0001309416,Common Stock
+D,03/14/2022 00:00:00,Adelson Miriam,5,W-Will,--I,66551887,0,5,0001309416,Common Stock
+A,03/11/2022 00:00:00,Adelson Miriam,5,W-Will,--I,66551887,66551887,4,0001309416,Common Stock
+D,03/11/2022 00:00:00,Adelson Miriam,5,W-Will,--I,66551887,0,3,0001309416,Common Stock
+A,02/23/2022 00:00:00,Adelson Miriam,5,G-Gift,--I,9000000,9000000,2,0001309416,Common Stock
+D,02/23/2022 00:00:00,Adelson Miriam,5,G-Gift,--D,9000000,59779145,1,0001309416,Common Stock
+A,12/16/2021 00:00:00,Adelson Miriam,5,G-Gift,--I,10000000,10000000,18,0001309416,Common Stock
+D,12/16/2021 00:00:00,Adelson Miriam,5,G-Gift,--D,10000000,68779145,17,0001309416,Common Stock
+D,12/13/2021 00:00:00,Adelson Miriam,5,G-Gift,--I,137700,0,16,0001309416,Common Stock
+A,11/09/2021 00:00:00,Adelson Miriam,5,G-Gift,--I,137700,137700,15,0001309416,Common Stock
+A,09/16/2021 00:00:00,Adelson Miriam,5,G-Gift,--I,9000000,9000000,14,0001309416,Common Stock
+D,09/16/2021 00:00:00,Adelson Miriam,5,G-Gift,--D,9000000,78779145,13,0001309416,Common Stock
+D,09/15/2021 00:00:00,Adelson Miriam,5,G-Gift,--I,1765800,0,12,0001309416,Common Stock
+A,08/02/2021 00:00:00,Adelson Miriam,5,G-Gift,--I,433400,1765800,11,0001309416,Common Stock
+A,08/02/2021 00:00:00,Adelson Miriam,5,G-Gift,--I,241400,1332400,10,0001309416,Common Stock
+A,07/16/2021 00:00:00,Mao Yibing,4,A-Award,--D,7363,7363,1,0001872368,Option (Right to Buy)
+D,06/16/2021 00:00:00,Adelson Miriam,5,G-Gift,--I,1200000,1091000,9,0001309416,Common Stock
+A,06/16/2021 00:00:00,Adelson Miriam,5,G-Gift,--I,3000000,3000000,8,0001309416,Common Stock
+D,06/16/2021 00:00:00,Adelson Miriam,5,G-Gift,--D,3000000,87779145,7,0001309416,Common Stock
+A,06/16/2021 00:00:00,Adelson Miriam,5,G-Gift,--I,695900,2291000,6,0001309416,Common Stock
+A,05/13/2021 00:00:00,LEVI DAVID F,4,A-Award,--D,3138,13695,1,0001630660,Common Stock
+A,05/13/2021 00:00:00,Kramer Lewis,4,A-Award,--D,3138,9738,1,0001468110,Common Stock
+A,05/13/2021 00:00:00,KOPPELMAN CHARLES,4,A-Award,--D,3138,20557,1,0001158938,Common Stock
+A,05/13/2021 00:00:00,Jordan Nora M.,4,A-Award,--D,3138,3138,1,0001835641,Common Stock
+A,05/13/2021 00:00:00,Jamieson George,4,A-Award,--D,3138,14679,1,0001609403,Common Stock
+A,05/13/2021 00:00:00,Forman Charles D,4,A-Award,--D,3138,215178,1,0001305349,Common Stock
+A,05/13/2021 00:00:00,Chau Micheline,4,A-Award,--D,3138,13695,1,0001448102,Common Stock
+A,05/13/2021 00:00:00,Chafetz Irwin,4,A-Award,--D,3138,83299,1,0001319523,Common Stock
+A,05/10/2021 00:00:00,Adelson Miriam,5,G-Gift,--I,144900,1595100,5,0001309416,Common Stock
+A,05/10/2021 00:00:00,Adelson Miriam,5,G-Gift,--I,444800,1450200,4,0001309416,Common Stock
+A,04/26/2021 00:00:00,Hudson D. Zachary,4,A-Award,--D,23008,23008,1,0001787180,Restricted Stock Units
+A,04/26/2021 00:00:00,Hyzak Randy,4,A-Award,--D,25100,25100,1,0001456136,Restricted Stock Units
+A,04/26/2021 00:00:00,Dumont Patrick,4,A-Award,--D,83668,83668,1,0001667998,Restricted Stock Units
+A,04/26/2021 00:00:00,Goldstein Robert G,4,A-Award,--D,150000,150000,1,0001305337,Restricted Stock Units
+A,03/15/2021 00:00:00,Adelson Miriam,5,G-Gift,--I,3000000,3000000,3,0001309416,Common Stock
+D,03/15/2021 00:00:00,Adelson Miriam,5,G-Gift,--D,3000000,90779145,2,0001309416,Common Stock
+A,03/15/2021 00:00:00,Adelson Miriam,5,G-Gift,--I,996500,1005400,1,0001309416,Common Stock
+A,01/01/2021 00:00:00,Jordan Nora M.,4,A-Award,--D,6105,6105,1,0001835641,Option (Right to Buy)
+D,08/03/2020 00:00:00,Adelson Miriam,5,G-Gift,--I,920000,8900,8,0001309416,Common Stock
+A,08/03/2020 00:00:00,Adelson Miriam,5,G-Gift,--I,348600,928900,7,0001309416,Common Stock
+A,08/03/2020 00:00:00,Adelson Miriam,5,G-Gift,--I,486900,580300,6,0001309416,Common Stock
+A,05/14/2020 00:00:00,Forman Charles D,4,A-Award,--D,2189,212040,1,0001305349,Common Stock
+A,05/14/2020 00:00:00,Yan Xuan,4,A-Award,--D,2189,2189,1,0001788339,Common Stock
+A,05/14/2020 00:00:00,LEVI DAVID F,4,A-Award,--D,2189,10557,1,0001630660,Common Stock
+A,05/14/2020 00:00:00,Kramer Lewis,4,A-Award,--D,2189,6600,1,0001468110,Common Stock
+A,05/14/2020 00:00:00,KOPPELMAN CHARLES,4,A-Award,--D,2189,17419,1,0001158938,Common Stock
+A,05/14/2020 00:00:00,Jamieson George,4,A-Award,--D,2189,11541,1,0001609403,Common Stock
+A,05/14/2020 00:00:00,Chau Micheline,4,A-Award,--D,2189,10557,1,0001448102,Common Stock
+A,05/14/2020 00:00:00,Chafetz Irwin,4,A-Award,--D,2189,80161,1,0001319523,Common Stock
+D,05/01/2020 00:00:00,Adelson Miriam,5,G-Gift,--I,1800000,93400,5,0001309416,Common Stock
+A,05/01/2020 00:00:00,Adelson Miriam,5,G-Gift,--I,255100,1893400,4,0001309416,Common Stock
+A,05/01/2020 00:00:00,Adelson Miriam,5,G-Gift,--I,555200,1638300,3,0001309416,Common Stock
+A,05/01/2020 00:00:00,Adelson Miriam,5,G-Gift,--I,523600,1083100,2,0001309416,Common Stock
+A,02/11/2020 00:00:00,Adelson Miriam,5,G-Gift,--I,488000,559500,1,0001309416,Common Stock
+A,01/31/2020 00:00:00,Hyzak Randy,4,A-Award,--D,39920,39920,1,0001456136,Option (Right to Buy)
+A,01/31/2020 00:00:00,Adelson Sheldon G,4,A-Award,--D,132625,132625,1,0001305334,Option (Right to Buy)
+D,12/10/2019 00:00:00,Adelson Sheldon G,5,G-Gift,--I,1500000,71500,12,0001305334,Common Stock
+A,12/10/2019 00:00:00,Adelson Sheldon G,5,G-Gift,--I,863000,1571500,11,0001305334,Common Stock
+A,12/10/2019 00:00:00,Adelson Sheldon G,5,G-Gift,--I,708400,708500,10,0001305334,Common Stock
+D,12/10/2019 00:00:00,Adelson Miriam,5,G-Gift,--I,1500000,71500,12,0001309416,Common Stock
+A,12/10/2019 00:00:00,Adelson Miriam,5,G-Gift,--I,863000,1571500,11,0001309416,Common Stock
+A,12/10/2019 00:00:00,Adelson Miriam,5,G-Gift,--I,708400,708500,10,0001309416,Common Stock
+D,11/01/2019 00:00:00,Adelson Sheldon G,5,G-Gift,--I,280000,100,9,0001305334,Common Stock
+A,11/01/2019 00:00:00,Adelson Sheldon G,5,G-Gift,--I,276300,280100,8,0001305334,Common Stock
+D,11/01/2019 00:00:00,Adelson Miriam,5,G-Gift,--I,280000,100,9,0001309416,Common Stock
+A,11/01/2019 00:00:00,Adelson Miriam,5,G-Gift,--I,276300,280100,8,0001309416,Common Stock
+A,09/30/2019 00:00:00,Hudson D. Zachary,4,A-Award,--D,150000,150000,1,0001787180,Option (Right to Buy)
+A,09/17/2019 00:00:00,Yan Xuan,4,A-Award,--D,14204,14204,1,0001788339,Option (Right to Buy)
+D,09/13/2019 00:00:00,Jacobs Lawrence A,4,M-Exempt,--D,66667,66666,4,0001306647,Option (Right to Buy)
+D,09/13/2019 00:00:00,Jacobs Lawrence A,4,S-Sale,--D,2035,0,3,0001306647,Common Stock
+D,09/13/2019 00:00:00,Jacobs Lawrence A,4,S-Sale,--D,64632,2035,2,0001306647,Common Stock
+A,09/13/2019 00:00:00,Jacobs Lawrence A,4,M-Exempt,--D,66667,66667,1,0001306647,Common Stock
+D,08/01/2019 00:00:00,Adelson Sheldon G,5,G-Gift,--I,590000,3800,7,0001305334,Common Stock
+A,08/01/2019 00:00:00,Adelson Sheldon G,5,G-Gift,--I,513100,593800,6,0001305334,Common Stock
+D,08/01/2019 00:00:00,Adelson Miriam,5,G-Gift,--I,590000,3800,7,0001309416,Common Stock
+A,08/01/2019 00:00:00,Adelson Miriam,5,G-Gift,--I,513100,593800,6,0001309416,Common Stock
+D,05/17/2019 00:00:00,Dumont Patrick,4,M-Exempt,--D,75000,425000,2,0001667998,Option (Right to Buy)
+A,05/17/2019 00:00:00,Dumont Patrick,4,M-Exempt,--D,75000,275000,1,0001667998,Common Stock
+A,05/16/2019 00:00:00,Chafetz Irwin,4,A-Award,--D,1577,77972,1,0001319523,Common Stock
+A,05/16/2019 00:00:00,Chau Micheline,4,A-Award,--D,1577,8368,1,0001448102,Common Stock
+A,05/16/2019 00:00:00,Forman Charles D,4,A-Award,--D,1577,209851,1,0001305349,Common Stock
+A,05/16/2019 00:00:00,Jamieson George,4,A-Award,--D,1577,9352,1,0001609403,Common Stock
+A,05/16/2019 00:00:00,KOPPELMAN CHARLES,4,A-Award,--D,1577,15230,1,0001158938,Common Stock
+A,05/16/2019 00:00:00,Kramer Lewis,4,A-Award,--D,1577,4411,1,0001468110,Common Stock
+A,05/16/2019 00:00:00,LEVI DAVID F,4,A-Award,--D,1577,8368,1,0001630660,Common Stock
+D,05/01/2019 00:00:00,Adelson Sheldon G,5,G-Gift,--I,400000,80700,5,0001305334,Common Stock
+A,05/01/2019 00:00:00,Adelson Sheldon G,5,G-Gift,--I,476400,480700,4,0001305334,Common Stock
+D,05/01/2019 00:00:00,Adelson Miriam,5,G-Gift,--I,400000,80700,5,0001309416,Common Stock
+A,05/01/2019 00:00:00,Adelson Miriam,5,G-Gift,--I,476400,480700,4,0001309416,Common Stock
+D,03/28/2019 00:00:00,Adelson Sheldon G,5,G-Gift,--I,1000000,4300,3,0001305334,Common Stock
+A,03/28/2019 00:00:00,Adelson Sheldon G,5,G-Gift,--I,446600,1004300,2,0001305334,Common Stock
+A,03/28/2019 00:00:00,Adelson Sheldon G,5,G-Gift,--I,512000,557700,1,0001305334,Common Stock
+D,03/28/2019 00:00:00,Adelson Miriam,5,G-Gift,--I,1000000,4300,3,0001309416,Common Stock
+A,03/28/2019 00:00:00,Adelson Miriam,5,G-Gift,--I,446600,1004300,2,0001309416,Common Stock
+A,03/28/2019 00:00:00,Adelson Miriam,5,G-Gift,--I,512000,557700,1,0001309416,Common Stock
+D,02/26/2019 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,51207,102412,8,0001305334,Option (Right to Buy)
+D,02/26/2019 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,77991,77991,7,0001305334,Option (Right to Buy)
+D,02/26/2019 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,37428,0,6,0001305334,Option (Right to Buy)
+A,02/26/2019 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,51207,66551887,3,0001305334,Common Stock
+A,02/26/2019 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,77991,66500680,2,0001305334,Common Stock
+A,02/26/2019 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,37428,66422689,1,0001305334,Common Stock
+A,02/01/2019 00:00:00,Adelson Sheldon G,4,A-Award,--D,129701,129701,1,0001305334,Option (Right to Buy)
+A,02/01/2019 00:00:00,Hyzak Randy,4,A-Award,--D,35635,35635,1,0001456136,Option (Right to Buy)
+D,12/10/2018 00:00:00,Adelson Miriam,5,G-Gift,--I,2000000,45700,13,0001309416,Common Stock
+A,12/10/2018 00:00:00,Adelson Miriam,5,G-Gift,--I,1137000,2045700,12,0001309416,Common Stock
+D,12/10/2018 00:00:00,Adelson Sheldon G,5,G-Gift,--I,2000000,45700,13,0001305334,Common Stock
+A,12/10/2018 00:00:00,Adelson Sheldon G,5,G-Gift,--I,1137000,2045700,12,0001305334,Common Stock
+A,11/20/2018 00:00:00,Goldstein Robert G,4,A-Award,--D,2500000,2500000,1,0001305337,Option (Right to Buy)
+A,11/14/2018 00:00:00,Adelson Miriam,5,G-Gift,--I,893400,908700,11,0001309416,Common Stock
+A,11/14/2018 00:00:00,Adelson Sheldon G,5,G-Gift,--I,893400,908700,11,0001305334,Common Stock
+D,11/01/2018 00:00:00,Adelson Miriam,5,G-Gift,--I,750000,15300,10,0001309416,Common Stock
+D,11/01/2018 00:00:00,Adelson Sheldon G,5,G-Gift,--I,750000,15300,10,0001305334,Common Stock
+D,09/06/2018 00:00:00,Jacobs Lawrence A,4,M-Exempt,--D,66667,133333,3,0001306647,Option (Right to Buy)
+D,09/06/2018 00:00:00,Jacobs Lawrence A,4,S-Sale,--D,66667,0,2,0001306647,Common Stock
+A,09/06/2018 00:00:00,Jacobs Lawrence A,4,M-Exempt,--D,66667,66667,1,0001306647,Common Stock
+D,08/06/2018 00:00:00,Dumont Patrick,4,M-Exempt,--D,75000,500000,2,0001667998,Option (Right to Buy)
+A,08/06/2018 00:00:00,Dumont Patrick,4,M-Exempt,--D,75000,200000,1,0001667998,Common Stock
+D,08/01/2018 00:00:00,Adelson Miriam,5,G-Gift,--I,1000000,765300,9,0001309416,Common Stock
+A,08/01/2018 00:00:00,Adelson Miriam,5,G-Gift,--I,565800,1765300,8,0001309416,Common Stock
+D,08/01/2018 00:00:00,Adelson Sheldon G,5,G-Gift,--I,1000000,765300,9,0001305334,Common Stock
+A,08/01/2018 00:00:00,Adelson Sheldon G,5,G-Gift,--I,565800,1765300,8,0001305334,Common Stock
+A,07/31/2018 00:00:00,Goldstein Robert G,4,P-Purchase,--D,10000,10000,1,0001305337,Common Stock
+A,06/07/2018 00:00:00,Kramer Lewis,4,A-Award,--D,1287,2834,1,0001468110,Common Stock
+A,06/07/2018 00:00:00,LEVI DAVID F,4,A-Award,--D,1287,6791,1,0001630660,Common Stock
+A,06/07/2018 00:00:00,KOPPELMAN CHARLES,4,A-Award,--D,1287,13653,1,0001158938,Common Stock
+A,06/07/2018 00:00:00,Jamieson George,4,A-Award,--D,1287,7775,1,0001609403,Common Stock
+A,06/07/2018 00:00:00,GERARD STEVEN L,4,A-Award,--D,1287,7791,1,0001007190,Common Stock
+A,06/07/2018 00:00:00,Forman Charles D,4,A-Award,--D,1287,208274,1,0001305349,Common Stock
+A,06/07/2018 00:00:00,Chau Micheline,4,A-Award,--D,1287,6791,1,0001448102,Common Stock
+A,06/07/2018 00:00:00,Chafetz Irwin,4,A-Award,--D,1287,76395,1,0001319523,Common Stock
+A,05/11/2018 00:00:00,Adelson Miriam,5,G-Gift,--I,3658305,3658305,7,0001309416,Common Stock
+D,05/11/2018 00:00:00,Adelson Miriam,5,G-Gift,--I,3658305,0,6,0001309416,Common Stock
+A,05/11/2018 00:00:00,Adelson Sheldon G,5,G-Gift,--I,3658305,3658305,7,0001305334,Common Stock
+D,05/11/2018 00:00:00,Adelson Sheldon G,5,G-Gift,--I,3658305,0,6,0001305334,Common Stock
+D,05/01/2018 00:00:00,Adelson Miriam,5,G-Gift,--I,1000000,1199500,5,0001309416,Common Stock
+A,05/01/2018 00:00:00,Adelson Miriam,5,G-Gift,--I,488711,2199500,4,0001309416,Common Stock
+D,05/01/2018 00:00:00,Adelson Sheldon G,5,G-Gift,--I,1000000,1199500,5,0001305334,Common Stock
+A,05/01/2018 00:00:00,Adelson Sheldon G,5,G-Gift,--I,488711,2199500,4,0001305334,Common Stock
+D,03/15/2018 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,51207,153619,8,0001305334,Option (Right to Buy)
+D,03/15/2018 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,77991,155982,7,0001305334,Option (Right to Buy)
+D,03/15/2018 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,37428,37428,6,0001305334,Option (Right to Buy)
+A,03/15/2018 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,51207,66385261,3,0001305334,Common Stock
+A,03/15/2018 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,77991,66334054,2,0001305334,Common Stock
+A,03/15/2018 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,37428,66256063,1,0001305334,Common Stock
+D,03/13/2018 00:00:00,Goldstein Robert G,4,M-Exempt,--D,39155,0,4,0001305337,Option (Right to Buy)
+D,03/13/2018 00:00:00,Goldstein Robert G,4,S-Sale,--D,39155,0,2,0001305337,Common Stock
+A,03/13/2018 00:00:00,Goldstein Robert G,4,M-Exempt,--D,39155,39155,1,0001305337,Common Stock
+D,02/08/2018 00:00:00,Adelson Miriam,5,G-Gift,--I,1000000,1710789,3,0001309416,Common Stock
+D,02/08/2018 00:00:00,Adelson Sheldon G,5,G-Gift,--I,1000000,1710789,3,0001305334,Common Stock
+A,02/02/2018 00:00:00,Hyzak Randy,4,A-Award,--D,17424,17424,1,0001456136,Option (Right to Buy)
+A,02/02/2018 00:00:00,Adelson Sheldon G,4,A-Award,--D,81234,81234,1,0001305334,Option (Right to Buy)
+A,02/01/2018 00:00:00,Adelson Miriam,5,G-Gift,--I,276100,2710789,2,0001309416,Common Stock
+A,02/01/2018 00:00:00,Adelson Miriam,5,G-Gift,--I,439300,2434689,1,0001309416,Common Stock
+A,02/01/2018 00:00:00,Adelson Sheldon G,5,G-Gift,--I,276100,2710789,2,0001305334,Common Stock
+A,02/01/2018 00:00:00,Adelson Sheldon G,5,G-Gift,--I,439300,2434689,1,0001305334,Common Stock
+A,12/22/2017 00:00:00,Adelson Miriam,5,G-Gift,--I,1995389,1995389,15,0001309416,Common Stock
+D,12/22/2017 00:00:00,Adelson Miriam,5,G-Gift,--I,1995389,0,14,0001309416,Common Stock
+A,12/22/2017 00:00:00,Adelson Sheldon G,5,G-Gift,--I,1995389,1995389,15,0001305334,Common Stock
+D,12/22/2017 00:00:00,Adelson Sheldon G,5,G-Gift,--I,1995389,0,14,0001305334,Common Stock
+D,12/11/2017 00:00:00,Adelson Miriam,5,G-Gift,--I,2000000,1995389,13,0001309416,Common Stock
+D,12/11/2017 00:00:00,Adelson Sheldon G,5,G-Gift,--I,2000000,1995389,13,0001305334,Common Stock
+A,11/14/2017 00:00:00,Jamieson George,4,P-Purchase,--I,1000,1000,1,0001609403,Common Stock
+A,11/07/2017 00:00:00,Adelson Miriam,5,G-Gift,--I,546600,3995389,12,0001309416,Common Stock
+A,11/07/2017 00:00:00,Adelson Sheldon G,5,G-Gift,--I,546600,3995389,12,0001305334,Common Stock
+A,11/01/2017 00:00:00,Adelson Miriam,5,G-Gift,--I,459300,3448789,11,0001309416,Common Stock
+A,11/01/2017 00:00:00,Adelson Miriam,5,G-Gift,--I,584800,2989489,10,0001309416,Common Stock
+A,11/01/2017 00:00:00,Adelson Miriam,5,G-Gift,--I,452600,2404689,9,0001309416,Common Stock
+A,11/01/2017 00:00:00,Adelson Sheldon G,5,G-Gift,--I,459300,3448789,11,0001305334,Common Stock
+A,11/01/2017 00:00:00,Adelson Sheldon G,5,G-Gift,--I,584800,2989489,10,0001305334,Common Stock
+A,11/01/2017 00:00:00,Adelson Sheldon G,5,G-Gift,--I,452600,2404689,9,0001305334,Common Stock
+D,10/31/2017 00:00:00,Forman Charles D,5,G-Gift,--D,1500,206987,1,0001305349,Common Stock
+D,09/14/2017 00:00:00,Dumont Patrick,4,M-Exempt,--D,75000,575000,6,0001667998,Option (Right to Buy)
+D,09/14/2017 00:00:00,Dumont Patrick,4,M-Exempt,--D,30000,0,5,0001667998,Option (Right to Buy)
+D,09/14/2017 00:00:00,Dumont Patrick,4,M-Exempt,--D,10000,0,4,0001667998,Option (Right to Buy)
+A,09/14/2017 00:00:00,Dumont Patrick,4,M-Exempt,--D,75000,125000,3,0001667998,Common Stock
+A,09/14/2017 00:00:00,Dumont Patrick,4,M-Exempt,--D,30000,50000,2,0001667998,Common Stock
+A,09/14/2017 00:00:00,Dumont Patrick,4,M-Exempt,--D,10000,20000,1,0001667998,Common Stock
+D,09/08/2017 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,77992,233973,8,0001305334,Option (Right to Buy)
+D,09/08/2017 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,37428,74856,7,0001305334,Option (Right to Buy)
+D,09/08/2017 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,14389,0,6,0001305334,Option (Right to Buy)
+A,09/08/2017 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,77992,66218635,3,0001305334,Common Stock
+A,09/08/2017 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,37428,66140643,2,0001305334,Common Stock
+A,09/08/2017 00:00:00,Adelson Sheldon G,4,M-Exempt,--D,14389,66103215,1,0001305334,Common Stock
+A,09/06/2017 00:00:00,Adelson Sheldon G,4,A-Award,--D,115606,115606,1,0001305334,Option (Right to Buy)
+D,08/28/2017 00:00:00,Dumont Patrick,4,M-Exempt,--D,10000,0,2,0001667998,Restricted Stock Units
+A,08/28/2017 00:00:00,Dumont Patrick,4,M-Exempt,--D,10000,10000,1,0001667998,Common Stock
+A,08/01/2017 00:00:00,Adelson Miriam,5,G-Gift,--I,434300,1952089,8,0001309416,Common Stock
+A,08/01/2017 00:00:00,Adelson Miriam,5,G-Gift,--I,479600,1517789,7,0001309416,Common Stock
+A,08/01/2017 00:00:00,Adelson Miriam,5,G-Gift,--I,296033,866853,6,0001309416,Common Stock
+A,08/01/2017 00:00:00,Adelson Miriam,5,G-Gift,--I,113600,1038189,5,0001309416,Common Stock
+A,08/01/2017 00:00:00,Adelson Sheldon G,5,G-Gift,--I,434300,1952089,8,0001305334,Common Stock
+A,08/01/2017 00:00:00,Adelson Sheldon G,5,G-Gift,--I,479600,1517789,7,0001305334,Common Stock
+A,08/01/2017 00:00:00,Adelson Sheldon G,5,G-Gift,--I,296033,866853,6,0001305334,Common Stock
+A,08/01/2017 00:00:00,Adelson Sheldon G,5,G-Gift,--I,113600,1038189,5,0001305334,Common Stock
+A,06/30/2017 00:00:00,Hyzak Randy,4,A-Award,--D,21358,21358,1,0001456136,Option (Right to Buy)
+A,06/08/2017 00:00:00,LEVI DAVID F,4,A-Award,--D,1547,5504,1,0001630660,Common Stock
+A,06/08/2017 00:00:00,Kramer Lewis,4,A-Award,--D,1547,1547,1,0001468110,Common Stock
+A,06/08/2017 00:00:00,Jamieson George,4,A-Award,--D,1547,6488,1,0001609403,Common Stock
+A,06/08/2017 00:00:00,GERARD STEVEN L,4,A-Award,--D,1547,6504,1,0001007190,Common Stock
+A,06/08/2017 00:00:00,Chau Micheline,4,A-Award,--D,1547,5504,1,0001448102,Common Stock
+A,06/08/2017 00:00:00,Forman Charles D,4,A-Award,--D,1547,208487,1,0001305349,Common Stock
+A,06/08/2017 00:00:00,KOPPELMAN CHARLES,4,A-Award,--D,1547,12366,1,0001158938,Common Stock
+A,06/08/2017 00:00:00,Chafetz Irwin,4,A-Award,--D,1547,75108,1,0001319523,Common Stock

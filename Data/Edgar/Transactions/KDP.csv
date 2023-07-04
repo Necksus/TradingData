@@ -1,0 +1,1041 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,05/23/2023 00:00:00,Rotem-Wildeman Karin,4,A-Award,--D,93692,93692,1,0001959299,Restricted Stock Unit
+A,05/19/2023 00:00:00,Singer Robert S,4,P-Purchase,--D,1000,37001,3,0001291809,Common Stock
+A,05/18/2023 00:00:00,Singer Robert S,4,P-Purchase,--D,1500,36001,2,0001291809,Common Stock
+A,05/17/2023 00:00:00,Singer Robert S,4,P-Purchase,--D,6000,34501,1,0001291809,Common Stock
+A,05/11/2023 00:00:00,Shoemaker Anthony,4,P-Purchase,--D,5746,82000,1,0001885848,Common Stock
+D,05/11/2023 00:00:00,Archambault Matthew Andrew,4,S-Sale,--D,14000,40878,1,0001940063,Common Stock
+D,05/08/2023 00:00:00,Sceppaguercio-Gever Maria A.,4,S-Sale,--D,10000,141555,2,0001745830,Common Stock
+D,05/05/2023 00:00:00,Sceppaguercio-Gever Maria A.,4,S-Sale,--D,10000,151555,1,0001745830,Common Stock
+A,05/04/2023 00:00:00,Shoemaker Anthony,4,P-Purchase,--D,4087,76254,2,0001885848,Common Stock
+A,05/04/2023 00:00:00,Rotem-Wildeman Karin,4,P-Purchase,--D,8561,28732,1,0001959299,Common Stock
+A,05/04/2023 00:00:00,Sudhanshu Priyadarshi,4,P-Purchase,--D,4000,100074,2,0001808355,Common Stock
+A,05/04/2023 00:00:00,Johnson Roger Frederick,4,P-Purchase,--D,12000,96095,1,0001951569,Common Stock
+A,05/03/2023 00:00:00,Shoemaker Anthony,4,P-Purchase,--D,9870,72167,1,0001885848,Common Stock
+A,05/03/2023 00:00:00,Sudhanshu Priyadarshi,4,P-Purchase,--D,1074,96074,1,0001808355,Common Stock
+A,05/03/2023 00:00:00,HARF PETER,4,J-Other,--I,472892,3619600,1,0001223301,Common Stock
+A,05/03/2023 00:00:00,Goudet Olivier,4,J-Other,--I,472892,3522801,1,0001578897,Common Stock
+D,05/03/2023 00:00:00,JAB BevCo B.V.,4,J-Other,--D,57465170,383443879,1,0001746478,"Common Stock, par value $0.01 per share"
+D,03/24/2023 00:00:00,Sceppaguercio-Gever Maria A.,4,M-Exempt,--D,34203,0,3,0001745830,Restricted Stock Unit
+D,03/24/2023 00:00:00,Sceppaguercio-Gever Maria A.,4,F-InKind,--D,15493,161555,2,0001745830,Common Stock
+A,03/24/2023 00:00:00,Sceppaguercio-Gever Maria A.,4,M-Exempt,--D,34203,177048,1,0001745830,Common Stock
+D,03/24/2023 00:00:00,Johnson Roger Frederick,4,M-Exempt,--D,21377,0,3,0001951569,Restricted Stock Unit
+D,03/24/2023 00:00:00,Johnson Roger Frederick,4,F-InKind,--D,7948,84095,2,0001951569,Common Stock
+A,03/24/2023 00:00:00,Johnson Roger Frederick,4,M-Exempt,--D,21377,92043,1,0001951569,Common Stock
+D,03/24/2023 00:00:00,Archambault Matthew Andrew,4,M-Exempt,--D,21377,0,3,0001940063,Restricted Stock Unit
+D,03/24/2023 00:00:00,Archambault Matthew Andrew,4,F-InKind,--D,8979,54878,2,0001940063,Common Stock
+A,03/24/2023 00:00:00,Archambault Matthew Andrew,4,M-Exempt,--D,21377,67744,1,0001940063,Common Stock
+A,03/15/2023 00:00:00,Shoemaker Anthony,4,P-Purchase,--D,5297,62297,1,0001885848,Common Stock
+A,03/15/2023 00:00:00,Rotem-Wildeman Karin,4,P-Purchase,--D,2070,20171,2,0001959299,Common Stock
+A,03/14/2023 00:00:00,Rotem-Wildeman Karin,4,P-Purchase,--D,18101,18101,1,0001959299,Common Stock
+D,03/13/2023 00:00:00,Stephens Angela A.,4,M-Exempt,--D,11093,7394,3,0001457301,Restricted Stock Unit
+D,03/13/2023 00:00:00,Stephens Angela A.,4,F-InKind,--D,4163,50412,2,0001457301,Common Stock
+A,03/13/2023 00:00:00,Stephens Angela A.,4,M-Exempt,--D,11093,54575,1,0001457301,Common Stock
+D,03/13/2023 00:00:00,Sceppaguercio-Gever Maria A.,4,M-Exempt,--D,18269,12180,3,0001745830,Restricted Stock Unit
+D,03/13/2023 00:00:00,Sceppaguercio-Gever Maria A.,4,F-InKind,--D,5859,142845,2,0001745830,Common Stock
+A,03/13/2023 00:00:00,Sceppaguercio-Gever Maria A.,4,M-Exempt,--D,18269,148704,1,0001745830,Common Stock
+D,03/13/2023 00:00:00,Leyva Mauricio,4,M-Exempt,--D,57416,38278,3,0001806427,Restricted Stock Unit
+D,03/13/2023 00:00:00,Leyva Mauricio,4,F-InKind,--D,28751,320511,2,0001806427,Common Stock
+A,03/13/2023 00:00:00,Leyva Mauricio,4,M-Exempt,--D,57416,349262,1,0001806427,Common Stock
+D,03/13/2023 00:00:00,Johnson Roger Frederick,4,M-Exempt,--D,11092,7395,3,0001951569,Restricted Stock Unit
+D,03/13/2023 00:00:00,Johnson Roger Frederick,4,F-InKind,--D,3256,70666,2,0001951569,Common Stock
+A,03/13/2023 00:00:00,Johnson Roger Frederick,4,M-Exempt,--D,11092,73922,1,0001951569,Common Stock
+D,03/13/2023 00:00:00,Gamgort Robert James,4,M-Exempt,--D,122662,81775,3,0001570836,Restricted Stock Unit
+D,03/13/2023 00:00:00,Gamgort Robert James,4,F-InKind,--D,49283,3419856,2,0001570836,Common Stock
+A,03/13/2023 00:00:00,Gamgort Robert James,4,M-Exempt,--D,122662,3469139,1,0001570836,Common Stock
+D,03/13/2023 00:00:00,DeNooyer Mary Beth,4,M-Exempt,--D,18269,12180,3,0001587484,Restricted Stock Unit
+D,03/13/2023 00:00:00,DeNooyer Mary Beth,4,F-InKind,--D,8606,118663,2,0001587484,Common Stock
+A,03/13/2023 00:00:00,DeNooyer Mary Beth,4,M-Exempt,--D,18269,127269,1,0001587484,Common Stock
+D,03/13/2023 00:00:00,Archambault Matthew Andrew,4,M-Exempt,--D,11092,7395,3,0001940063,Restricted Stock Unit
+D,03/13/2023 00:00:00,Archambault Matthew Andrew,4,F-InKind,--D,3189,46367,2,0001940063,Common Stock
+A,03/13/2023 00:00:00,Archambault Matthew Andrew,4,M-Exempt,--D,11092,51099,1,0001940063,Common Stock
+A,03/13/2023 00:00:00,Priyadarshi Sudhanshu Shekhar,4,P-Purchase,--D,1475,95000,2,0001808355,Common Stock
+A,03/10/2023 00:00:00,Singer Robert S,4,P-Purchase,--D,500,28501,1,0001291809,Common Stock
+A,03/10/2023 00:00:00,Priyadarshi Sudhanshu Shekhar,4,P-Purchase,--D,13525,93525,1,0001808355,Common Stock
+A,03/07/2023 00:00:00,Singer Robert S,4,P-Purchase,--D,1000,28001,1,0001291809,Common Stock
+D,03/07/2023 00:00:00,Archambault Matthew Andrew,4,S-Sale,--D,2700,40007,1,0001940063,Common Stock
+A,03/07/2023 00:00:00,Goudet Olivier,4,J-Other,--I,60000,3049909,2,0001578897,Common Stock
+D,03/07/2023 00:00:00,Goudet Olivier,4,J-Other,--D,60000,0,1,0001578897,Common Stock
+A,03/03/2023 00:00:00,Whitmore Justin,4,M-Exempt,--D,20412,61234,3,0001721646,Restricted Stock Unit
+D,03/03/2023 00:00:00,Whitmore Justin,4,F-InKind,--D,8675,111388,2,0001721646,Common Stock
+A,03/03/2023 00:00:00,Whitmore Justin,4,M-Exempt,--D,20412,120063,1,0001721646,Common Stock
+A,03/03/2023 00:00:00,Johnson Roger Frederick,4,P-Purchase,--D,23000,62830,1,0001951569,Common Stock
+A,03/03/2023 00:00:00,Archambault Matthew Andrew,4,M-Exempt,--D,4083,12247,3,0001940063,Restricted Stock Unit
+D,03/03/2023 00:00:00,Archambault Matthew Andrew,4,F-InKind,--D,1092,42707,2,0001940063,Common Stock
+A,03/03/2023 00:00:00,Archambault Matthew Andrew,4,M-Exempt,--D,4083,44083,1,0001940063,Common Stock
+A,03/03/2023 00:00:00,Priyadarshi Sudhanshu Shekhar,4,P-Purchase,--D,12000,80000,2,0001808355,Common Stock
+A,03/02/2023 00:00:00,Priyadarshi Sudhanshu Shekhar,4,P-Purchase,--D,38000,68000,1,0001808355,Common Stock
+A,03/02/2023 00:00:00,Shoemaker Anthony,4,P-Purchase,--D,3500,57000,1,0001885848,Common Stock
+A,03/01/2023 00:00:00,Whitmore Justin,4,A-Award,--D,35098,35098,1,0001721646,Restricted Stock Unit
+A,03/01/2023 00:00:00,Stephens Angela A.,4,A-Award,--D,12431,12431,1,0001457301,Restricted Stock Unit
+A,03/01/2023 00:00:00,Shoemaker Anthony,4,A-Award,--D,20474,20474,2,0001885848,Restricted Stock Unit
+A,03/01/2023 00:00:00,Sceppaguercio-Gever Maria A.,4,A-Award,--D,20474,20474,1,0001745830,Restricted Stock Unit
+A,03/01/2023 00:00:00,Rotem-Wildeman Karin,4,A-Award,--D,20474,20474,1,0001959299,Restricted Stock Unit
+A,03/01/2023 00:00:00,Priyadarshi Sudhanshu Shekhar,4,A-Award,--D,64347,64347,1,0001808355,Restricted Stock Unit
+A,03/01/2023 00:00:00,Leyva Mauricio,4,A-Award,--D,64347,64347,1,0001806427,Restricted Stock Unit
+A,03/01/2023 00:00:00,Johnson Roger Frederick,4,A-Award,--D,35098,35098,1,0001951569,Restricted Stock Unit
+A,03/01/2023 00:00:00,Gamgort Robert James,4,A-Award,--D,137468,137468,1,0001570836,Restricted Stock Unit
+A,03/01/2023 00:00:00,DeNooyer Mary Beth,4,A-Award,--D,20474,20474,1,0001587484,Restricted Stock Unit
+A,03/01/2023 00:00:00,Archambault Matthew Andrew,4,A-Award,--D,35098,35098,1,0001940063,Restricted Stock Unit
+A,03/01/2023 00:00:00,YOUNG LARRY D,4,A-Award,--D,4826,4826,1,0001206946,Restricted Stock Unit
+A,03/01/2023 00:00:00,Singer Robert S,4,A-Award,--D,4826,4826,1,0001291809,Restricted Stock Unit
+A,03/01/2023 00:00:00,Sandler Debra A.,4,A-Award,--D,4826,4826,1,0001646564,Restricted Stock Unit
+A,03/01/2023 00:00:00,Lubomira Rochet,4,A-Award,--D,4826,4826,1,0001859541,Restricted Stock Unit
+A,03/01/2023 00:00:00,PATSLEY PAMELA H,4,A-Award,--D,4826,4826,1,0001182591,Restricted Stock Unit
+A,03/01/2023 00:00:00,Michaels Paul S.,4,A-Award,--D,4826,4826,1,0001646199,Restricted Stock Unit
+A,03/01/2023 00:00:00,"Mondelez International, Inc.",4,A-Award,--I,4826,7015,1,0001103982,Common Stock
+A,03/01/2023 00:00:00,Hickman Juliette,4,A-Award,--D,4826,4826,1,0001841123,Restricted Stock Unit
+A,03/01/2023 00:00:00,HARF PETER,4,A-Award,--D,4826,4826,1,0001223301,Restricted Stock Unit
+A,03/01/2023 00:00:00,Goudet Olivier,4,A-Award,--D,4826,4826,1,0001578897,Restricted Stock Unit
+A,03/01/2023 00:00:00,Boston Oray,4,A-Award,--D,4826,4826,1,0001954703,Restricted Stock Unit
+A,03/01/2023 00:00:00,Call Michael Andrew,4,A-Award,--D,4826,4826,1,0001880601,Restricted Stock Unit
+A,02/27/2023 00:00:00,Priyadarshi Sudhanshu Shekhar,4,P-Purchase,--D,20000,30000,1,0001808355,Common Stock
+D,02/27/2023 00:00:00,"Mondelez International, Inc.",4,S-Sale,--D,30000000,45543005,1,0001103982,Common Stock
+A,01/18/2023 00:00:00,Priyadarshi Sudhanshu Shekhar,4,P-Purchase,--D,10000,10000,1,0001808355,Common Stock
+D,01/17/2023 00:00:00,Gamgort Robert James,4,F-InKind,--D,28323,3346477,2,0001570836,Common Stock
+A,01/17/2023 00:00:00,Gamgort Robert James,4,A-Award,--D,71614,3374800,1,0001570836,Common Stock
+D,01/06/2023 00:00:00,Gamgort Robert James,4,S-Sale,--D,125000,3303186,1,0001570836,Common Stock
+D,12/01/2022 00:00:00,YOUNG LARRY D,4,S-Sale,--D,154734,612486,1,0001206946,Common Stock
+D,12/01/2022 00:00:00,Gamgort Robert James,4,S-Sale,--D,275000,3428186,1,0001570836,Common Stock
+A,11/22/2022 00:00:00,Archambault Matthew Andrew,4,A-Award,--D,54266,54266,1,0001940063,Restricted Stock Unit
+A,11/22/2022 00:00:00,Johnson Roger Frederick,4,A-Award,--D,71746,71746,1,0001951569,Restricted Stock Unit
+A,11/22/2022 00:00:00,Priyadarshi Sudhanshu Shekhar,4,A-Award,--D,130447,130447,1,0001808355,Restricted Stock Unit
+A,11/22/2022 00:00:00,Priyadarshi Sudhanshu Shekhar,4/A,A-Award,--D,78268,78268,1,0001808355,Restricted Stock Unit
+A,11/14/2022 00:00:00,Priyadarshi Sudhanshu Shekhar,4,A-Award,--D,54735,54735,1,0001808355,Restricted Stock Unit
+D,11/11/2022 00:00:00,JAB BevCo B.V.,4,J-Other,--D,30465170,440909049,1,0001746478,"Common Stock, par value $0.01 per share"
+D,11/01/2022 00:00:00,Gamgort Robert James,4,S-Sale,--D,7712,3703186,2,0001570836,Common Stock
+D,11/01/2022 00:00:00,Gamgort Robert James,4,S-Sale,--D,267288,3710898,1,0001570836,Common Stock
+D,10/13/2022 00:00:00,Gamgort Robert James,4,S-Sale,--D,92948,3978186,3,0001570836,Common Stock
+D,10/12/2022 00:00:00,Gamgort Robert James,4,S-Sale,--D,2700,4071134,2,0001570836,Common Stock
+D,10/11/2022 00:00:00,Gamgort Robert James,4,S-Sale,--D,54352,4073834,1,0001570836,Common Stock
+D,10/03/2022 00:00:00,Gamgort Robert James,4,S-Sale,--D,125000,4128186,1,0001570836,Common Stock
+D,09/15/2022 00:00:00,Hopkins Herbert Derek,4,M-Exempt,--D,43403,130209,3,0001745832,Restricted Stock Unit
+D,09/15/2022 00:00:00,Hopkins Herbert Derek,4,F-InKind,--D,15033,202980,2,0001745832,Common Stock
+A,09/15/2022 00:00:00,Hopkins Herbert Derek,4,M-Exempt,--D,43403,218013,1,0001745832,Common Stock
+D,09/15/2022 00:00:00,Dokmecioglu Ozan,4,M-Exempt,--D,95487,286458,3,0001745833,Restricted Stock Unit
+D,09/15/2022 00:00:00,Dokmecioglu Ozan,4,F-InKind,--D,40567,1985607,2,0001745833,Common Stock
+A,09/15/2022 00:00:00,Dokmecioglu Ozan,4,M-Exempt,--D,95487,2026174,1,0001745833,Common Stock
+A,09/13/2022 00:00:00,"Mondelez International, Inc.",4,A-Award,--I,2189,2189,1,0001103982,Common Stock
+A,09/13/2022 00:00:00,Call Michael Andrew,4,A-Award,--D,2189,2189,1,0001880601,Restricted Stock Unit
+A,09/13/2022 00:00:00,Archambault Matthew Andrew,4,A-Award,--D,10282,10282,1,0001940063,Restricted Stock Unit
+A,09/13/2022 00:00:00,Dokmecioglu Ozan,4,A-Award,--D,23880,23880,1,0001745833,Restricted Stock Unit
+A,09/12/2022 00:00:00,Milikin Maurice Anthony,4,P-Purchase,--D,12986,142776,1,0001882155,Common Stock
+A,09/06/2022 00:00:00,Milikin Maurice Anthony,4,P-Purchase,--D,12979,129790,1,0001882155,Common Stock
+A,08/29/2022 00:00:00,Milikin Maurice Anthony,4,P-Purchase,--D,12979,116811,1,0001882155,Common Stock
+D,08/29/2022 00:00:00,Gamgort Robert James,4,S-Sale,--D,275000,4253186,1,0001570836,Common Stock
+A,08/22/2022 00:00:00,Milikin Maurice Anthony,4,P-Purchase,--D,12979,103832,1,0001882155,Common Stock
+A,08/15/2022 00:00:00,Milikin Maurice Anthony,4,P-Purchase,--D,12979,90853,1,0001882155,Common Stock
+D,08/05/2022 00:00:00,Singer Robert S,4,S-Sale,--D,3500,27001,1,0001291809,Common Stock
+A,08/01/2022 00:00:00,Milikin Maurice Anthony,4,P-Purchase,--D,12979,77874,1,0001882155,Common Stock
+A,07/29/2022 00:00:00,Dokmecioglu Ozan,4,A-Award,--D,361384,361384,1,0001745833,Restricted Stock Unit
+A,07/29/2022 00:00:00,Gamgort Robert James,4,A-Award,--D,129066,129066,1,0001570836,Restricted Stock Unit
+A,07/25/2022 00:00:00,Milikin Maurice Anthony,4,P-Purchase,--D,12979,64895,1,0001882155,Common Stock
+A,07/18/2022 00:00:00,Milikin Maurice Anthony,4,P-Purchase,--D,12979,51916,1,0001882155,Common Stock
+A,07/11/2022 00:00:00,Milikin Maurice Anthony,4,P-Purchase,--D,12979,38937,1,0001882155,Common Stock
+A,07/05/2022 00:00:00,Milikin Maurice Anthony,4,P-Purchase,--D,12979,25958,1,0001882155,Common Stock
+D,07/01/2022 00:00:00,Hopkins Herbert Derek,4,S-Sale,--D,37500,174610,1,0001745832,Common Stock
+A,06/29/2022 00:00:00,Milikin Maurice Anthony,4,P-Purchase,--D,12979,12979,1,0001882155,Common Stock
+D,06/08/2022 00:00:00,Singer Robert S,4,S-Sale,--I,12500,12499,1,0001291809,Common Stock
+D,06/07/2022 00:00:00,Singer Robert S,4,S-Sale,--D,10000,30501,2,0001291809,Common Stock
+A,06/07/2022 00:00:00,HARF PETER,4,J-Other,-EI,277653,3146708,1,0001223301,Common Stock
+A,06/07/2022 00:00:00,Goudet Olivier,4,J-Other,-EI,277653,1901532,1,0001578897,Common Stock
+D,06/07/2022 00:00:00,JAB BevCo B.V.,4,J-Other,--D,1534830,471374219,1,0001746478,"Common Stock, par value $0.01 per share"
+A,05/17/2022 00:00:00,Shoemaker Anthony,4,P-Purchase,--D,5500,53500,1,0001885848,Common Stock
+A,05/03/2022 00:00:00,Whitmore Justin,4,P-Purchase,--D,1611,163587,2,0001721646,Common Stock
+A,05/02/2022 00:00:00,Whitmore Justin,4/A,P-Purchase,--D,64,98040,1,0001721646,Common Stock
+A,05/02/2022 00:00:00,Whitmore Justin,4,P-Purchase,--D,64000,161976,1,0001721646,Common Stock
+A,05/02/2022 00:00:00,Shoemaker Anthony,4,P-Purchase,--D,10000,48000,1,0001885848,Common Stock
+D,04/29/2022 00:00:00,Sceppaguercio-Gever Maria A.,4,S-Sale,--D,8275,130435,1,0001745830,Common Stock
+D,04/20/2022 00:00:00,Hopkins Herbert Derek,4,S-Sale,--D,37500,212110,1,0001745832,Common Stock
+D,04/19/2022 00:00:00,"Mondelez International, Inc.",4,D-Return,--D,4961,75543005,1,0001103982,Common Stock
+D,03/16/2022 00:00:00,Hopkins Herbert Derek,4,S-Sale,--D,92166,249610,1,0001745832,Common Stock
+D,03/12/2022 00:00:00,Leyva Mauricio,4,M-Exempt,--D,260983,391475,3,0001806427,Restricted Stock Unit
+D,03/12/2022 00:00:00,Leyva Mauricio,4,F-InKind,--D,110527,291846,2,0001806427,Common Stock
+A,03/12/2022 00:00:00,Leyva Mauricio,4,M-Exempt,--D,260983,402373,1,0001806427,Common Stock
+A,03/02/2022 00:00:00,"Mondelez International, Inc.",4,A-Award,--I,4274,6559,1,0001103982,Common Stock
+A,03/02/2022 00:00:00,Whitmore Justin,4,A-Award,--D,31081,31081,1,0001721646,Restricted Stock Unit
+A,03/02/2022 00:00:00,Stephens Angela A.,4,A-Award,--D,11008,11008,1,0001457301,Restricted Stock Unit
+A,03/02/2022 00:00:00,Shoemaker Anthony,4,A-Award,--D,18131,18131,1,0001885848,Restricted Stock Unit
+A,03/02/2022 00:00:00,Sceppaguercio-Gever Maria A.,4,A-Award,--D,18131,18131,1,0001745830,Restricted Stock Unit
+A,03/02/2022 00:00:00,Milikin Maurice Anthony,4,A-Award,--D,38851,38851,1,0001882155,Restricted Stock Unit
+A,03/02/2022 00:00:00,Leyva Mauricio,4,A-Award,--D,56981,56981,1,0001806427,Restricted Stock Unit
+A,03/02/2022 00:00:00,Hopkins Herbert Derek,4,A-Award,--D,56981,56981,1,0001745832,Restricted Stock Unit
+A,03/02/2022 00:00:00,Dokmecioglu Ozan,4,A-Award,--D,56981,56981,1,0001745833,Restricted Stock Unit
+A,03/02/2022 00:00:00,DeNooyer Mary Beth,4,A-Award,--D,18131,18131,1,0001587484,Restricted Stock Unit
+A,03/02/2022 00:00:00,Gamgort Robert James,4,A-Award,--D,121731,121731,1,0001570836,Restricted Stock Unit
+A,03/02/2022 00:00:00,YOUNG LARRY D,4,A-Award,--D,4274,4274,1,0001206946,Restricted Stock Unit
+A,03/02/2022 00:00:00,Urdaneta Nelson,4,A-Award,--D,4274,4274,1,0001679749,Restricted Stock Unit
+A,03/02/2022 00:00:00,Tan Justine,4,A-Award,--D,4274,4274,1,0001805946,Restricted Stock Unit
+A,03/02/2022 00:00:00,Singer Robert S,4,A-Award,--D,4274,4274,1,0001291809,Restricted Stock Unit
+A,03/02/2022 00:00:00,Sandler Debra A.,4,A-Award,--D,4274,4274,1,0001646564,Restricted Stock Unit
+A,03/02/2022 00:00:00,Lubomira Rochet,4,A-Award,--D,4274,4274,1,0001859541,Restricted Stock Unit
+A,03/02/2022 00:00:00,PATSLEY PAMELA H,4,A-Award,--D,4274,4274,1,0001182591,Restricted Stock Unit
+A,03/02/2022 00:00:00,Michaels Paul S.,4,A-Award,--D,4274,4274,1,0001646199,Restricted Stock Unit
+A,03/02/2022 00:00:00,Hickman Juliette,4,A-Award,--D,4274,4274,1,0001841123,Restricted Stock Unit
+A,03/02/2022 00:00:00,HARF PETER,4,A-Award,--D,4274,4274,1,0001223301,Restricted Stock Unit
+A,03/02/2022 00:00:00,Goudet Olivier,4,A-Award,--D,4274,4274,1,0001578897,Restricted Stock Unit
+A,02/25/2022 00:00:00,Whitmore Justin,4,P-Purchase,--D,6355,97976,1,0001721646,Common Stock
+D,01/25/2022 00:00:00,Hopkins Herbert Derek,4,S-Sale,--D,92166,341776,1,0001745832,Common Stock
+D,12/22/2021 00:00:00,Hopkins Herbert Derek,4,S-Sale,--D,68347,433942,3,0001745832,Common Stock
+D,12/21/2021 00:00:00,Hopkins Herbert Derek,4,S-Sale,--D,30909,502289,2,0001745832,Common Stock
+D,12/20/2021 00:00:00,Hopkins Herbert Derek,4,S-Sale,--D,5000,533198,1,0001745832,Common Stock
+D,11/08/2021 00:00:00,Singer Robert S,4,S-Sale,--D,5000,40501,5,0001291809,Common Stock
+D,11/05/2021 00:00:00,Singer Robert S,4,S-Sale,--D,5000,45501,4,0001291809,Common Stock
+D,11/05/2021 00:00:00,Singer Robert S,4,S-Sale,--I,9500,24999,3,0001291809,Common Stock
+A,09/28/2021 00:00:00,Singer Robert S,4,G-Gift,-EI,34499,34499,2,0001291809,Common Stock
+D,09/28/2021 00:00:00,Singer Robert S,4,G-Gift,-ED,34499,50501,1,0001291809,Common Stock
+A,09/14/2021 00:00:00,Milikin Maurice Anthony,4,A-Award,--D,21417,21417,3,0001882155,Restricted Stock Unit
+A,09/14/2021 00:00:00,Milikin Maurice Anthony,4,A-Award,--D,142776,142776,2,0001882155,Restricted Stock Unit
+A,09/14/2021 00:00:00,Milikin Maurice Anthony,4,A-Award,--D,142776,142776,1,0001882155,Restricted Stock Unit
+A,09/14/2021 00:00:00,"Mondelez International, Inc.",4,A-Award,--I,2285,2285,1,0001103982,Common Stock
+A,09/14/2021 00:00:00,Lubomira Rochet,4,A-Award,--D,2285,2285,1,0001859541,Restricted Stock Unit
+A,09/14/2021 00:00:00,Sandler Debra A.,4,A-Award,--D,2285,2285,1,0001646564,Restricted Stock Uni
+A,09/14/2021 00:00:00,Urdaneta Nelson,4,A-Award,--D,2285,2285,1,0001679749,Restricted Stock Unit
+D,09/10/2021 00:00:00,Hopkins Herbert Derek,4,S-Sale,--D,38513,538198,2,0001745832,Common Stock
+D,09/09/2021 00:00:00,Hopkins Herbert Derek,4,M-Exempt,--D,108257,0,3,0001745832,Restricted Stock Units
+A,09/09/2021 00:00:00,Hopkins Herbert Derek,4,M-Exempt,--D,108257,576711,1,0001745832,Common Stock
+A,08/20/2021 00:00:00,Whitmore Justin,4,P-Purchase,--D,11,91621,2,0001721646,Common Stock
+A,08/19/2021 00:00:00,Whitmore Justin,4,P-Purchase,--D,1025,91610,1,0001721646,Common Stock
+D,08/02/2021 00:00:00,"Mondelez International, Inc.",4,S-Sale,--D,14706000,75541407,1,0001103982,Common Stock
+D,07/06/2021 00:00:00,"Mondelez International, Inc.",4,D-Return,--D,20736,90247407,1,0001103982,Common Stock
+D,06/07/2021 00:00:00,"Mondelez International, Inc.",4,S-Sale,--D,28000000,90218223,1,0001103982,Common Stock
+A,05/26/2021 00:00:00,Cortes Fernando,4,A-Award,--D,54735,54735,1,0001741121,Restricted Stock Unit
+A,05/24/2021 00:00:00,Whitmore Justin,4,P-Purchase,--D,100,90585,4,0001721646,Common Stock
+A,05/24/2021 00:00:00,Whitmore Justin,4,P-Purchase,--D,100,90485,3,0001721646,Common Stock
+A,05/24/2021 00:00:00,Whitmore Justin,4,P-Purchase,--D,3855,90385,2,0001721646,Common Stock
+A,05/24/2021 00:00:00,Whitmore Justin,4,P-Purchase,--D,5330,86530,1,0001721646,Common Stock
+A,05/20/2021 00:00:00,Whitmore Justin,4,P-Purchase,--D,7623,81200,2,0001721646,Common Stock
+A,05/20/2021 00:00:00,Whitmore Justin,4,P-Purchase,--D,1293,73577,1,0001721646,Common Stock
+D,05/06/2021 00:00:00,Hopkins Herbert Derek,4,S-Sale,--D,222663,468454,2,0001745832,Common Stock
+D,05/05/2021 00:00:00,Hopkins Herbert Derek,4,S-Sale,--D,111537,691117,1,0001745832,Common Stock
+A,05/03/2021 00:00:00,Whitmore Justin,4,P-Purchase,--D,3289,72284,1,0001721646,Common Stock
+A,03/15/2021 00:00:00,Whitmore Justin,4,P-Purchase,--D,37275,68995,2,0001721646,Common Stock
+A,03/15/2021 00:00:00,Whitmore Justin,4,P-Purchase,--D,109,31720,1,0001721646,Common Stock
+D,03/15/2021 00:00:00,Hopkins Herbert Derek,4,M-Exempt,--D,144600,0,9,0001745832,Restricted Stock Units
+D,03/15/2021 00:00:00,Hopkins Herbert Derek,4,M-Exempt,--D,144600,0,8,0001745832,Restricted Stock Units
+D,03/15/2021 00:00:00,Hopkins Herbert Derek,4,M-Exempt,--D,289200,0,7,0001745832,Restricted Stock Units
+D,03/15/2021 00:00:00,Hopkins Herbert Derek,4,F-InKind,--D,52434,802654,6,0001745832,Common Stock
+A,03/15/2021 00:00:00,Hopkins Herbert Derek,4,M-Exempt,--D,144600,855088,5,0001745832,Common Stock
+D,03/15/2021 00:00:00,Hopkins Herbert Derek,4,F-InKind,--D,52434,710488,4,0001745832,Common Stock
+A,03/15/2021 00:00:00,Hopkins Herbert Derek,4,M-Exempt,--D,144600,762922,3,0001745832,Common Stock
+D,03/15/2021 00:00:00,Hopkins Herbert Derek,4,F-InKind,--D,109334,618322,2,0001745832,Common Stock
+A,03/15/2021 00:00:00,Hopkins Herbert Derek,4,M-Exempt,--D,289200,727656,1,0001745832,Common Stock
+D,03/15/2021 00:00:00,Gamgort Robert James,4,M-Exempt,--D,530199,0,9,0001570836,Restricted Stock Units
+D,03/15/2021 00:00:00,Gamgort Robert James,4,M-Exempt,--D,530199,0,8,0001570836,Restricted Stock Units
+D,03/15/2021 00:00:00,Gamgort Robert James,4,M-Exempt,--D,2409995,0,7,0001570836,Restricted Stock Units
+D,03/15/2021 00:00:00,Gamgort Robert James,4,F-InKind,--D,204167,4528186,6,0001570836,Common Stock
+A,03/15/2021 00:00:00,Gamgort Robert James,4,M-Exempt,--D,530199,4732353,5,0001570836,Common Stock
+D,03/15/2021 00:00:00,Gamgort Robert James,4,F-InKind,--D,204167,4202154,4,0001570836,Common Stock
+A,03/15/2021 00:00:00,Gamgort Robert James,4,M-Exempt,--D,530199,4406321,3,0001570836,Common Stock
+D,03/15/2021 00:00:00,Gamgort Robert James,4,F-InKind,--D,943867,3876122,2,0001570836,Common Stock
+A,03/15/2021 00:00:00,Gamgort Robert James,4,M-Exempt,--D,2409995,4819989,1,0001570836,Common Stock
+D,03/15/2021 00:00:00,Dokmecioglu Ozan,4,M-Exempt,--D,250640,0,9,0001745833,Restricted Stock Units
+D,03/15/2021 00:00:00,Dokmecioglu Ozan,4,M-Exempt,--D,250640,0,8,0001745833,Restricted Stock Units
+D,03/15/2021 00:00:00,Dokmecioglu Ozan,4,M-Exempt,--D,1060398,0,7,0001745833,Restricted Stock Units
+D,03/15/2021 00:00:00,Dokmecioglu Ozan,4,F-InKind,--D,111159,1930687,6,0001745833,Common Stock
+A,03/15/2021 00:00:00,Dokmecioglu Ozan,4,M-Exempt,--D,250640,2041846,5,0001745833,Common Stock
+D,03/15/2021 00:00:00,Dokmecioglu Ozan,4,F-InKind,--D,111159,1791206,4,0001745833,Common Stock
+A,03/15/2021 00:00:00,Dokmecioglu Ozan,4,M-Exempt,--D,250640,1902365,3,0001745833,Common Stock
+D,03/15/2021 00:00:00,Dokmecioglu Ozan,4,F-InKind,--D,469070,1651725,2,0001745833,Common Stock
+A,03/15/2021 00:00:00,Dokmecioglu Ozan,4,M-Exempt,--D,1060398,2120795,1,0001745833,Common Stock
+A,03/04/2021 00:00:00,JAB Beverage Platform B.V.,4,J-Other,--I,5424511,472909049,1,0001833608,"Common Stock, par value $0.01 per share"
+A,03/04/2021 00:00:00,JAB Holdings B.V.,4,J-Other,--I,5424511,472909049,2,0001579134,"Common Stock, par value $0.01 per share"
+D,03/04/2021 00:00:00,JAB Holdings B.V.,4,J-Other,--D,5424511,0,1,0001579134,"Common Stock, par value $0.01 per share"
+A,03/04/2021 00:00:00,Goudet Olivier,4,J-Other,--I,1088377,1088377,2,0001578897,Common Stock
+A,03/04/2021 00:00:00,Goudet Olivier,4,J-Other,--I,1623879,1623879,1,0001578897,Common Stock
+A,03/04/2021 00:00:00,HARF PETER,4,J-Other,--I,2712255,2869055,1,0001223301,Common Stock
+A,03/03/2021 00:00:00,Whitmore Justin,4,A-Award,--D,97976,97976,3,0001721646,Restricted Stock Unit
+A,03/03/2021 00:00:00,Whitmore Justin,4,A-Award,--D,81646,81646,2,0001721646,Restricted Stock Unit
+A,03/03/2021 00:00:00,Whitmore Justin,4,A-Award,--D,39191,39191,1,0001721646,Restricted Stock Unit
+A,03/03/2021 00:00:00,"Mondelez International, Inc.",4,A-Award,--I,10452,49920,1,0001103982,Common Stock
+A,03/03/2021 00:00:00,Stephens Angela A.,4,A-Award,--D,13880,13880,1,0001457301,Restricted Stock Unit
+A,03/03/2021 00:00:00,Sceppaguercio-Gever Maria A.,4,A-Award,--D,22861,22861,1,0001745830,Restricted Stock Unit
+A,03/03/2021 00:00:00,Hopkins Herbert Derek,4,A-Award,--D,48988,48988,1,0001745832,Restricted Stock Unit
+A,03/03/2021 00:00:00,Dokmecioglu Ozan,4,A-Award,--D,71849,71849,1,0001745833,Restricted Stock Unit
+A,03/03/2021 00:00:00,DeNooyer Mary Beth,4,A-Award,--D,22861,22861,1,0001587484,Restricted Stock Unit
+A,03/03/2021 00:00:00,Cortes Fernando,4,A-Award,--D,48988,48988,1,0001741121,Restricted Stock Unit
+A,03/03/2021 00:00:00,Baldwin James L. JR,4,A-Award,--D,29393,29393,1,0001432449,Restricted Stock Unit
+A,03/03/2021 00:00:00,Arboleda Mauricio Leyva,4,A-Award,--D,71849,71849,2,0001806427,Restricted Stock Unit
+A,03/03/2021 00:00:00,Arboleda Mauricio Leyva,4,P-Purchase,--D,16140,141390,1,0001806427,Common Stock
+A,03/03/2021 00:00:00,Gamgort Robert James,4,A-Award,--D,153495,153495,1,0001570836,Restricted Stock Unit
+A,03/03/2021 00:00:00,YOUNG LARRY D,4,A-Award,--D,5226,5226,1,0001206946,Restricted Stock Unit
+A,03/03/2021 00:00:00,Van de Put Dirk,4,A-Award,--D,5226,5226,1,0001536137,Restricted Stock Unit
+A,03/03/2021 00:00:00,Tan Justine,4,A-Award,--D,5226,5226,1,0001805946,Restricted Stock Unit
+A,03/03/2021 00:00:00,Pleuhs Gerhard W.,4,A-Award,--D,5226,5226,1,0001251844,Restricted Stock Units
+A,03/03/2021 00:00:00,PATSLEY PAMELA H,4,A-Award,--D,5226,5226,1,0001182591,Restricted Stock Unit
+A,03/03/2021 00:00:00,Michaels Paul S.,4,A-Award,--D,5226,5226,1,0001646199,Restricted Stock Unit
+A,03/03/2021 00:00:00,Hovde Genevieve,4,A-Award,--D,5226,5226,1,0001745834,Restricted Stock Units
+A,03/03/2021 00:00:00,Hickman Juliette,4,A-Award,--D,5226,5226,1,0001841123,Restricted Stock Unit
+A,03/03/2021 00:00:00,HARF PETER,4,A-Award,--D,5226,5226,1,0001223301,Restricted Stock Units
+A,03/03/2021 00:00:00,Goudet Olivier,4,A-Award,--D,5226,5226,1,0001578897,Restricted Stock Unit
+A,03/03/2021 00:00:00,Singer Robert S,4,A-Award,--D,5226,5226,5,0001291809,Restricted Stock Unit
+A,03/03/2021 00:00:00,Singer Robert S,4,P-Purchase,--D,1000,85000,4,0001291809,Common Stock
+A,03/03/2021 00:00:00,Singer Robert S,4,P-Purchase,--D,1000,84000,3,0001291809,Common Stock
+A,03/02/2021 00:00:00,Singer Robert S,4,P-Purchase,--D,2500,83000,2,0001291809,Common Stock
+A,03/02/2021 00:00:00,Singer Robert S,4,P-Purchase,--D,5000,80500,1,0001291809,Common Stock
+A,01/22/2021 00:00:00,Sceppaguercio-Gever Maria A.,4,P-Purchase,--D,384.2205,138710,4,0001745830,Common Stock
+A,01/22/2021 00:00:00,Arboleda Mauricio Leyva,4,P-Purchase,--D,596.513,125250,3,0001806427,Common Stock
+A,12/17/2020 00:00:00,Acorn Top Holding B.V.,4,J-Other,--I,2747640,472909049,2,0001833608,"Common Stock, par value $0.01 per share"
+A,12/17/2020 00:00:00,Acorn Top Holding B.V.,4,J-Other,--I,6607849,472909049,1,0001833608,"Common Stock, par value $0.01 per share"
+A,12/17/2020 00:00:00,JAB Holdings B.V.,4,J-Other,--I,35385,466301200,4,0001579134,"Common Stock, par value $0.01 per share"
+D,12/17/2020 00:00:00,JAB Holdings B.V.,4,J-Other,--D,35385,12032360,3,0001579134,"Common Stock, par value $0.01 per share"
+A,12/15/2020 00:00:00,JAB Holdings B.V.,4,J-Other,--I,2712255,466301200,2,0001579134,"Common Stock, par value $0.01 per share"
+D,12/15/2020 00:00:00,JAB Holdings B.V.,4,J-Other,--D,2712255,12067745,1,0001579134,"Common Stock, par value $0.01 per share"
+A,12/08/2020 00:00:00,Singer Robert S,4,P-Purchase,--D,1500,75500,2,0001291809,Common Stock
+A,12/08/2020 00:00:00,Singer Robert S,4,P-Purchase,--D,1000,74000,1,0001291809,Common Stock
+A,11/25/2020 00:00:00,Singer Robert S,4,P-Purchase,--D,3000,73000,3,0001291809,Common Stock
+A,11/25/2020 00:00:00,Singer Robert S,4,P-Purchase,--D,2000,70000,2,0001291809,Common Stock
+A,11/25/2020 00:00:00,Singer Robert S,4,P-Purchase,--D,2500,68000,1,0001291809,Common Stock
+A,11/17/2020 00:00:00,Hopkins Herbert Derek,4,A-Award,--D,171292,171292,1,0001745832,Restricted Stock Units
+D,11/17/2020 00:00:00,"Mondelez International, Inc.",4,S-Sale,--D,40000000,118218223,1,0001103982,Common Stock
+D,11/17/2020 00:00:00,JAB Holdings B.V.,4,S-Sale,--I,20000000,466301200,1,0001579134,"Common Stock, par value $0.01 per share"
+D,11/17/2020 00:00:00,Maple Holdings B.V.,4,J-Other,--D,119062598,466301200,2,0001746478,"Common Stock, par value $0.01 per share"
+D,11/17/2020 00:00:00,Maple Holdings B.V.,4,S-Sale,--D,20000000,585363798,1,0001746478,"Common Stock, par value $0.01 per share"
+A,10/16/2020 00:00:00,Sceppaguercio-Gever Maria A.,4,P-Purchase,--D,410.2516,138326,3,0001745830,Common Stock
+A,10/16/2020 00:00:00,Arboleda Mauricio Leyva,4,P-Purchase,--D,626.2038,124653,2,0001806427,Common Stock
+A,09/15/2020 00:00:00,Hopkins Herbert Derek,4,A-Award,--D,173612,173612,1,0001745832,Restricted Stock Unit
+A,09/15/2020 00:00:00,Dokmecioglu Ozan,4,A-Award,--D,381945,381945,1,0001745833,Restricted Stock Unit
+A,09/15/2020 00:00:00,Gamgort Robert James,4,A-Award,--D,868056,868056,1,0001570836,Restricted Stock Unit
+D,09/09/2020 00:00:00,"Mondelez International, Inc.",4,S-Sale,--D,12506825,158218223,1,0001103982,Common Stock
+A,09/08/2020 00:00:00,Goudet Olivier,4,P-Purchase,--D,20000,60000,1,0001578897,Common Stock
+D,09/08/2020 00:00:00,JAB Forest B.V.,4,J-Other,--I,0,605363798,1,0001576735,"Common Stock, par value $0.01 per share"
+D,09/08/2020 00:00:00,Maple Holdings B.V.,4,J-Other,--D,75720324,605363798,1,0001746478,"Common Stock, par value $0.01 per share"
+D,08/17/2020 00:00:00,JAB Holdings B.V.,4,S-Sale,--I,45000000,681084122,1,0001579134,"Common Stock, par value $0.01 per share"
+D,08/17/2020 00:00:00,Maple Holdings B.V.,4,S-Sale,--D,45000000,681084122,1,0001746478,"Common Stock, par value $0.01 per share"
+D,08/03/2020 00:00:00,"Mondelez International, Inc.",4,S-Sale,--D,14071962,170725048,1,0001103982,Common Stock
+A,07/17/2020 00:00:00,Sceppaguercio-Gever Maria A.,4,P-Purchase,--D,405.4204,137916,2,0001745830,Common Stock
+A,07/17/2020 00:00:00,Arboleda Mauricio Leyva,4,P-Purchase,--D,627.6815,124027,1,0001806427,Common Stock
+A,06/12/2020 00:00:00,Singer Robert S,4,P-Purchase,--D,1000,65500,1,0001291809,Common Stock
+A,06/11/2020 00:00:00,Singer Robert S,4,P-Purchase,--D,1249,64500,3,0001291809,Common Stock
+A,06/11/2020 00:00:00,Singer Robert S,4,P-Purchase,--D,500,63251,2,0001291809,Common Stock
+D,06/11/2020 00:00:00,JAB Holdings B.V.,4,J-Other,--I,24757964,458629049,3,0001579134,Ordinary Shares K
+D,06/11/2020 00:00:00,JAB Holdings B.V.,4,J-Other,--I,0,726084122,1,0001579134,"Common Stock, par value $0.01 per share"
+D,06/11/2020 00:00:00,Maple Holdings B.V.,4,J-Other,--D,142660973,726084122,1,0001746478,"Common Stock, par value $0.01 per share"
+A,06/10/2020 00:00:00,Singer Robert S,4,P-Purchase,--D,250,62751,1,0001291809,Common Stock
+A,06/09/2020 00:00:00,Singer Robert S,4,P-Purchase,--D,500,62501,4,0001291809,Common Stock
+A,06/09/2020 00:00:00,Singer Robert S,4,P-Purchase,--D,500,62001,3,0001291809,Common Stock
+A,06/08/2020 00:00:00,Singer Robert S,4,P-Purchase,--D,500,61501,2,0001291809,Common Stock
+A,06/08/2020 00:00:00,Singer Robert S,4,P-Purchase,--D,1000,61001,1,0001291809,Common Stock
+A,06/08/2020 00:00:00,Arboleda Mauricio Leyva,4,P-Purchase,--D,123400,123400,1,0001806427,Common Stock
+D,05/22/2020 00:00:00,JAB Holdings B.V.,4,J-Other,--D,10479705,483387013,3,0001579134,Ordinary Shares K
+A,05/22/2020 00:00:00,JAB Holdings B.V.,4,P-Purchase,--D,7380000,14780000,2,0001579134,"Common Stock, par value $0.01 per share"
+D,05/20/2020 00:00:00,Maple Holdings B.V.,4,S-Sale,--D,40000000,868745095,1,0001746478,"Common Stock, par value $0.01 per share"
+D,05/20/2020 00:00:00,JAB Holdings B.V.,4,S-Sale,--I,40000000,868745095,1,0001579134,"Common Stock, par value $0.01 per share"
+A,04/17/2020 00:00:00,Sceppaguercio-Gever Maria A.,4,P-Purchase,--D,439.1311,137510,1,0001745830,Common Stock
+A,03/12/2020 00:00:00,Trebilcock James R.,4,A-Award,--D,39148,39148,1,0001446902,Restricted Stock Units
+A,03/12/2020 00:00:00,Arboleda Mauricio Leyva,4,A-Award,--D,217486,217486,3,0001806427,Restricted Stock Unit
+A,03/12/2020 00:00:00,Arboleda Mauricio Leyva,4,A-Award,--D,652458,652458,2,0001806427,Restricted Stock Unit
+A,03/12/2020 00:00:00,Arboleda Mauricio Leyva,4,A-Award,--D,95694,95694,1,0001806427,Restricted Stock Unit
+A,03/12/2020 00:00:00,"Mondelez International, Inc.",4,A-Award,--I,13920,39468,1,0001103982,Common Stock
+A,03/12/2020 00:00:00,YOUNG LARRY D,4,A-Award,--D,6960,6960,1,0001206946,Restricted Stock Units
+A,03/12/2020 00:00:00,Van de Put Dirk,4,A-Award,--D,6960,6960,1,0001536137,Restricted Stock Units
+A,03/12/2020 00:00:00,Stephens Angela A.,4,A-Award,--D,18487,18487,1,0001457301,Restricted Stock Units
+A,03/12/2020 00:00:00,Singer Robert S,4,A-Award,--D,6960,6960,1,0001291809,Restricted Stock Units
+A,03/12/2020 00:00:00,Simon Fabien,4,A-Award,--D,6960,6960,1,0001765209,Restricted Stock Units
+A,03/12/2020 00:00:00,Sceppaguercio-Gever Maria A.,4,A-Award,--D,30449,30449,2,0001745830,Restricted Stock Units
+A,03/12/2020 00:00:00,Sceppaguercio-Gever Maria A.,4,J-Other,--D,859,137071,1,0001745830,Common Stock
+A,03/12/2020 00:00:00,Pleuhs Gerhard W.,4,A-Award,--D,6960,6960,1,0001251844,Restricted Stock Units
+A,03/12/2020 00:00:00,PATSLEY PAMELA H,4,A-Award,--D,6960,6960,1,0001182591,Restricted Stock Units
+A,03/12/2020 00:00:00,Michaels Paul S.,4,A-Award,--D,6960,6960,1,0001646199,Restricted Stock Units
+A,03/12/2020 00:00:00,Loucks Brian Andrew,4,A-Award,--D,30449,30449,1,0001745831,Restricted Stock Units
+A,03/12/2020 00:00:00,Kamenetzky Anna-Lena,4,A-Award,--D,6960,6960,1,0001745829,Restricted Stock Unit
+A,03/12/2020 00:00:00,Hovde Genevieve,4,A-Award,--D,6960,6960,1,0001745834,Restricted Stock Units
+A,03/12/2020 00:00:00,HARF PETER,4,A-Award,--D,6960,6960,3,0001223301,Restricted Stock Units
+A,03/12/2020 00:00:00,Hopkins Herbert Derek,4,A-Award,--D,52197,52197,1,0001745832,Restricted Stock Units
+A,03/12/2020 00:00:00,Gamgort Robert James,4,A-Award,--D,204437,204437,1,0001570836,Restricted Stock Units
+A,03/12/2020 00:00:00,Dokmecioglu Ozan,4,A-Award,--D,95694,95694,1,0001745833,Restricted Stock Units
+A,03/12/2020 00:00:00,DeNooyer Mary Beth,4,A-Award,--D,30449,30449,1,0001587484,Restricted Stock Uni
+A,03/12/2020 00:00:00,Cortes Fernando,4,A-Award,--D,52197,52197,1,0001741121,Restricted Stock Units
+A,03/12/2020 00:00:00,Baldwin James L. JR,4,A-Award,--D,39148,39148,1,0001432449,Restricted Stock Unit
+D,03/10/2020 00:00:00,Cortes Fernando,4,M-Exempt,--D,6452,0,2,0001741121,Employee Stock Option (Right to Buy)
+A,03/10/2020 00:00:00,Cortes Fernando,4,M-Exempt,--D,6452,130451,1,0001741121,Common Stock
+A,03/10/2020 00:00:00,Goudet Olivier,4,P-Purchase,--D,20000,40000,1,0001578897,Common Stock
+A,03/09/2020 00:00:00,JAB Holdings B.V.,4,P-Purchase,--D,7400000,7400000,1,0001579134,"Common Stock, par value $0.01 per share"
+D,03/09/2020 00:00:00,Maple Holdings B.V.,4,S-Sale,--D,33165829,908745095,1,0001746478,"Common Stock, par value $0.01 per share"
+A,03/06/2020 00:00:00,Goudet Olivier,4,A-Award,--D,6960,6960,1,0001578897,Restricted Stock Units
+A,03/06/2020 00:00:00,Hopkins Herbert Derek,4,P-Purchase,--D,19000,438456,1,0001745832,Common Stock
+D,03/06/2020 00:00:00,Cortes Fernando,4,M-Exempt,--D,31000,6542,2,0001741121,Employee Stock Option (Right to Buy)
+A,03/06/2020 00:00:00,Cortes Fernando,4,M-Exempt,--D,31000,123999,1,0001741121,Common Stock
+D,03/04/2020 00:00:00,"Mondelez International, Inc.",4,S-Sale,--D,6834171,184797010,1,0001103982,Common Stock
+A,12/23/2019 00:00:00,HARF PETER,4,J-Other,--I,156800,156800,1,0001223301,Common Stock
+A,12/10/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6500,109000,1,0001587484,Common Stock
+A,12/03/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,2500,102500,2,0001587484,Common Stock
+A,12/03/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,4000,100000,1,0001587484,Common Stock
+A,11/26/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6000,96000,1,0001587484,Common Stock
+A,11/19/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6000,90000,1,0001587484,Common Stock
+A,11/19/2019 00:00:00,Singer Robert S,4,P-Purchase,--D,2000,60001,4,0001291809,Common Stock
+A,11/18/2019 00:00:00,Singer Robert S,4,P-Purchase,--D,500,58001,3,0001291809,Common Stock
+A,11/18/2019 00:00:00,Singer Robert S,4,P-Purchase,--D,500,57501,2,0001291809,Common Stock
+A,11/15/2019 00:00:00,Singer Robert S,4,P-Purchase,--D,1500,57001,1,0001291809,Common Stock
+A,11/12/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6000,84000,1,0001587484,Common Stock
+A,11/11/2019 00:00:00,Singer Robert S,4,P-Purchase,--D,1500,55501,3,0001291809,Common Stock
+A,11/08/2019 00:00:00,Singer Robert S,4,P-Purchase,--D,1000,54001,2,0001291809,Common Stock
+A,11/08/2019 00:00:00,Singer Robert S,4,P-Purchase,--D,2500,53001,1,0001291809,Common Stock
+A,11/05/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6000,78000,1,0001587484,Common Stock
+A,10/29/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6000,72000,1,0001587484,Common Stock
+A,10/22/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6000,66000,1,0001587484,Common Stock
+A,10/15/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6000,60000,1,0001587484,Common Stock
+A,10/08/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6000,54000,1,0001587484,Common Stock
+A,10/01/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6000,48000,1,0001587484,Common Stock
+A,09/24/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6000,42000,1,0001587484,Common Stock
+A,09/17/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6000,36000,1,0001587484,Common Stock
+A,09/13/2019 00:00:00,DeNooyer Mary Beth,4,A-Award,--D,108893,108893,2,0001587484,Restricted Stock Unit
+A,09/13/2019 00:00:00,DeNooyer Mary Beth,4,A-Award,--D,14520,14520,1,0001587484,Restricted Stock Unit
+D,09/11/2019 00:00:00,Cortes Fernando,4,M-Exempt,--D,37538,0,2,0001741121,Employee Stock Option (Right to Buy)
+A,09/11/2019 00:00:00,Cortes Fernando,4,M-Exempt,--D,37538,92999,1,0001741121,Common Stock
+A,09/10/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6000,30000,1,0001587484,Common Stock
+A,09/04/2019 00:00:00,Sceppaguercio-Gever Maria A.,4,P-Purchase,--D,5000,136212,1,0001745830,Common Stock
+A,09/03/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6000,24000,1,0001587484,Common Stock
+A,08/27/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6000,18000,1,0001587484,Common Stock
+A,08/20/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6000,12000,1,0001587484,Common Stock
+A,08/14/2019 00:00:00,Loucks Brian Andrew,4,P-Purchase,--D,4554,136267,2,0001745831,Common Stock
+A,08/14/2019 00:00:00,Singer Robert S,4,P-Purchase,--D,2000,50501,2,0001291809,Common Stock
+A,08/14/2019 00:00:00,Singer Robert S,4,P-Purchase,--D,2000,48501,1,0001291809,Common Stock
+A,08/13/2019 00:00:00,DeNooyer Mary Beth,4,P-Purchase,--D,6000,6000,1,0001587484,Common Stock
+A,08/13/2019 00:00:00,Loucks Brian Andrew,4,P-Purchase,--D,14000,131713,1,0001745831,Common Stock
+A,08/13/2019 00:00:00,Singer Robert S,4,P-Purchase,--D,2000,46501,2,0001291809,Common Stock
+A,08/12/2019 00:00:00,Singer Robert S,4,P-Purchase,--D,1000,44501,1,0001291809,Common Stock
+D,05/27/2019 00:00:00,Maple Holdings B.V.,4,S-Sale,--D,10000000,941910924,2,0001746478,"Common Stock, par value $0.01 per share"
+A,05/24/2019 00:00:00,Singer Robert S,4,P-Purchase,--D,1000,43501,2,0001291809,Common Stock
+A,05/23/2019 00:00:00,Singer Robert S,4,P-Purchase,--D,1000,42501,1,0001291809,Common Stock
+D,05/23/2019 00:00:00,Maple Holdings B.V.,4,S-Sale,--D,1110216,951910924,1,0001746478,"Common Stock, par value $0.01 per share"
+D,05/17/2019 00:00:00,Maple Holdings B.V.,4,S-Sale,--D,5895597,953021140,6,0001746478,"Common Stock, par value $0.01 per share"
+A,05/16/2019 00:00:00,Singer Robert S,4,P-Purchase,--D,3000,41501,1,0001291809,Common Stock
+D,05/16/2019 00:00:00,Maple Holdings B.V.,4,S-Sale,--D,531000,958916737,5,0001746478,"Common Stock, par value $0.01 per share"
+D,05/16/2019 00:00:00,Maple Holdings B.V.,4,S-Sale,--D,5084300,959447737,4,0001746478,"Common Stock, par value $0.01 per share"
+D,05/16/2019 00:00:00,Maple Holdings B.V.,4,S-Sale,--D,3539824,964532037,3,0001746478,"Common Stock, par value $0.01 per share"
+D,05/15/2019 00:00:00,Maple Holdings B.V.,4,S-Sale,--D,30803579,968071861,2,0001746478,"Common Stock, par value $0.01 per share"
+D,05/15/2019 00:00:00,Maple Holdings B.V.,4,S-Sale,--D,7048000,998875440,1,0001746478,"Common Stock, par value $0.01 per share"
+A,03/14/2019 00:00:00,Loucks Brian Andrew,4,P-Purchase,--D,6250,117713,1,0001745831,Common Stock
+A,03/08/2019 00:00:00,Loucks Brian Andrew,4,P-Purchase,--D,8500,111463,1,0001745831,Common Stock
+A,03/05/2019 00:00:00,Stephens Angela A.,4,P-Purchase,--D,7035,43482,2,0001457301,Common Stock
+A,03/04/2019 00:00:00,Stephens Angela A.,4,A-Award,--D,19194,19194,3,0001457301,Restricted Stock Units
+A,03/04/2019 00:00:00,NEWMAN MARGARET,4,A-Award,--D,30711,30711,1,0001579754,Restricted Stock Units
+A,03/04/2019 00:00:00,Sceppaguercio-Gever Maria A.,4,A-Award,--D,30711,30711,1,0001745830,Restricted Stock Units
+A,03/04/2019 00:00:00,Loucks Brian Andrew,4,A-Award,--D,30711,30711,1,0001745831,Restricted Stock Units
+A,03/04/2019 00:00:00,Trebilcock James R.,4,A-Award,--D,41517,41517,1,0001446902,Restricted Stock Units
+A,03/04/2019 00:00:00,Baldwin James L. JR,4,A-Award,--D,41517,41517,1,0001432449,Restricted Stock Unit
+A,03/04/2019 00:00:00,Cortes Fernando,4,A-Award,--D,57582,57582,1,0001741121,Restricted Stock Units
+A,03/04/2019 00:00:00,Hopkins Herbert Derek,4,A-Award,--D,57582,57582,1,0001745832,Restricted Stock Units
+A,03/04/2019 00:00:00,Dokmecioglu Ozan,4,A-Award,--D,99809,99809,1,0001745833,Restricted Stock Units
+A,03/04/2019 00:00:00,Simon Fabien,4,A-Award,--D,6143,6143,1,0001765209,Restricted Stock Units
+A,03/04/2019 00:00:00,YOUNG LARRY D,4,A-Award,--D,6143,6143,1,0001206946,Restricted Stock Units
+A,03/04/2019 00:00:00,Van de Put Dirk,4,A-Award,--D,6143,6143,1,0001536137,Restricted Stock Units
+A,03/04/2019 00:00:00,Singer Robert S,4,A-Award,--D,6143,6143,1,0001291809,Restricted Stock Units
+A,03/04/2019 00:00:00,Pleuhs Gerhard W.,4,A-Award,--D,6143,6143,1,0001251844,Restricted Stock Units
+A,03/04/2019 00:00:00,PATSLEY PAMELA H,4,A-Award,--D,6143,6143,1,0001182591,Restricted Stock Units
+A,03/04/2019 00:00:00,Michaels Paul S.,4,A-Award,--D,6143,6143,1,0001646199,Restricted Stock Units
+A,03/04/2019 00:00:00,Kamenetzky Anna-Lena,4,A-Award,--D,6143,6143,1,0001745829,Restricted Stock Unit
+A,03/04/2019 00:00:00,Hovde Genevieve,4,A-Award,--D,6143,6143,1,0001745834,Restricted Stock Units
+A,03/04/2019 00:00:00,HARF PETER,4,A-Award,--D,6143,6143,3,0001223301,Restricted Stock Units
+A,03/04/2019 00:00:00,Goudet Olivier,4,A-Award,--D,6143,6143,2,0001578897,Restricted Stock Units
+A,03/04/2019 00:00:00,Gamgort Robert James,4,A-Award,--D,211133,211133,1,0001570836,Restricted Stock Units
+A,03/04/2019 00:00:00,"Mondelez International, Inc.",4,A-Award,--I,12286,25548,1,0001103982,Common Stock
+A,03/01/2019 00:00:00,Stephens Angela A.,4,P-Purchase,--D,4500,36447,1,0001457301,Common Stock
+A,03/01/2019 00:00:00,HARF PETER,4,P-Purchase,--I,156800,156800,1,0001223301,Common Stock
+A,03/01/2019 00:00:00,Goudet Olivier,4,P-Purchase,--D,20000,20000,1,0001578897,Common Stock
+D,01/12/2019 00:00:00,Becht Lambertus J.H.,4,M-Exempt,--D,4122,0,2,0001578896,Restricted Stock Unit
+A,01/12/2019 00:00:00,Becht Lambertus J.H.,4,M-Exempt,--D,4122,4122,1,0001578896,Common Stock
+A,12/10/2018 00:00:00,Loucks Brian Andrew,4,P-Purchase,--D,17500,102963,1,0001745831,Common Stock
+A,12/07/2018 00:00:00,Loucks Brian Andrew,4,P-Purchase,--D,400,85463,2,0001745831,Common Stock
+A,12/06/2018 00:00:00,Loucks Brian Andrew,4,P-Purchase,--D,1200,85063,1,0001745831,Common Stock
+A,12/06/2018 00:00:00,Singer Robert S,4,P-Purchase,--D,5000,38501,3,0001291809,Common Stock
+A,12/04/2018 00:00:00,Singer Robert S,4,P-Purchase,--D,2000,33501,2,0001291809,Common Stock
+A,12/04/2018 00:00:00,Singer Robert S,4,P-Purchase,--D,1500,31501,1,0001291809,Common Stock
+A,12/03/2018 00:00:00,Loucks Brian Andrew,4,P-Purchase,--D,6900,83863,1,0001745831,Common Stock
+A,11/28/2018 00:00:00,Singer Robert S,4,P-Purchase,--D,3000,30001,2,0001291809,Common Stock
+A,11/26/2018 00:00:00,Singer Robert S,4,P-Purchase,--D,2000,27001,1,0001291809,Common Stock
+A,11/21/2018 00:00:00,Loucks Brian Andrew,4,P-Purchase,--D,2500,76963,1,0001745831,Common Stock
+A,11/20/2018 00:00:00,Cortes Fernando,4,P-Purchase,--D,43000,67540,1,0001741121,Common Stock
+A,11/13/2018 00:00:00,Sceppaguercio-Gever Maria A.,4,P-Purchase,--D,7640,129691,3,0001745830,Common Stock
+A,11/13/2018 00:00:00,Sceppaguercio-Gever Maria A.,4,P-Purchase,--D,6540,122051,2,0001745830,Common Stock
+A,11/13/2018 00:00:00,Sceppaguercio-Gever Maria A.,4,P-Purchase,--D,1650,115511,1,0001745830,Common Stock
+A,11/09/2018 00:00:00,Singer Robert S,4,P-Purchase,--D,2500,25001,2,0001291809,Common Stock
+A,11/09/2018 00:00:00,Singer Robert S,4,P-Purchase,--D,2500,22501,1,0001291809,Common Stock
+A,09/13/2018 00:00:00,"Mondelez International, Inc.",4,A-Award,--I,13262,13262,1,0001103982,Common Stock
+A,09/13/2018 00:00:00,YOUNG LARRY D,4,A-Award,--D,6631,6631,1,0001206946,Restricted Stock Units
+A,09/13/2018 00:00:00,Van de Put Dirk,4,A-Award,--D,6631,6631,1,0001536137,Restricted Stock Units
+A,09/13/2018 00:00:00,Singer Robert S,4,A-Award,--D,6631,6631,1,0001291809,Restricted Stock Units
+A,09/13/2018 00:00:00,Pleuhs Gerhard W.,4,A-Award,--D,6631,6631,1,0001251844,Restricted Stock Units
+A,09/13/2018 00:00:00,PATSLEY PAMELA H,4,A-Award,--D,6631,6631,1,0001182591,Restricted Stock Units
+A,09/13/2018 00:00:00,Michaels Paul S.,4,A-Award,--D,6631,6631,1,0001646199,Restricted Stock Units
+A,09/13/2018 00:00:00,Kamenetzky Anna-Lena,4,A-Award,--D,6631,6631,1,0001745829,Restricted Stock Unit
+A,09/13/2018 00:00:00,Hovde Genevieve,4,A-Award,--D,6631,6631,1,0001745834,Restricted Stock Units
+A,09/13/2018 00:00:00,HARF PETER,4,A-Award,--D,6631,6631,1,0001223301,Restricted Stock Units
+A,09/13/2018 00:00:00,Goudet Olivier,4,A-Award,--D,6631,6631,1,0001578897,Restricted Stock Units
+A,09/13/2018 00:00:00,Becht Lambertus J.H.,4,A-Award,--D,12433,12433,1,0001578896,Restricted Stock Units
+A,09/13/2018 00:00:00,Trebilcock James R.,4,A-Award,--D,130435,130435,1,0001446902,Restricted Stock Unit
+A,09/13/2018 00:00:00,Stephens Angela A.,4,A-Award,--D,43479,43479,1,0001457301,Restricted Stock Unit
+A,09/13/2018 00:00:00,Sceppaguercio-Gever Maria A.,4,A-Award,--D,130435,130435,1,0001745830,Restricted Stock Unit
+A,09/13/2018 00:00:00,Loucks Brian Andrew,4,A-Award,--D,86957,86957,1,0001745831,Restricted Stock Unit
+A,09/13/2018 00:00:00,Cortes Fernando,4,A-Award,--D,130435,130435,1,0001741121,Restricted Stock Unit
+A,09/13/2018 00:00:00,Baldwin James L. JR,4,A-Award,--D,130435,130435,1,0001432449,Restricted Stock Unit
+A,09/13/2018 00:00:00,Sceppaguercio-Gever Maria A.,4,P-Purchase,--D,5500,113861,3,0001745830,Common Stock
+A,09/13/2018 00:00:00,Sceppaguercio-Gever Maria A.,4,P-Purchase,--D,18960,108361,2,0001745830,Common Stock
+A,09/12/2018 00:00:00,Sceppaguercio-Gever Maria A.,4,P-Purchase,--D,25178,89401,1,0001745830,Common Stock
+A,09/06/2018 00:00:00,Loucks Brian Andrew,4,P-Purchase,--D,13050,74463,1,0001745831,Common Stock
+A,09/04/2018 00:00:00,Loucks Brian Andrew,4,P-Purchase,--D,10900,61413,1,0001745831,Common Stock
+A,09/04/2018 00:00:00,Trebilcock James R.,4,P-Purchase,--D,29734,130435,1,0001446902,Common Stock
+A,08/30/2018 00:00:00,Singer Robert S,4,P-Purchase,--D,10000,20001,1,0001291809,Common Stock
+A,08/28/2018 00:00:00,Sceppaguercio-Gever Maria A.,4,P-Purchase,--D,2080,64223,3,0001745830,Common Stock
+A,08/28/2018 00:00:00,Sceppaguercio-Gever Maria A.,4,P-Purchase,--D,2300,62143,2,0001745830,Common Stock
+A,08/28/2018 00:00:00,Sceppaguercio-Gever Maria A.,4,P-Purchase,--D,17345,59843,1,0001745830,Common Stock
+A,08/28/2018 00:00:00,Hopkins Herbert Derek,4,P-Purchase,--D,22000,419456,1,0001745832,Common Stock
+A,08/24/2018 00:00:00,Sceppaguercio-Gever Maria A.,4,A-Award,--D,34203,34203,1,0001745830,Restricted Stock Unit
+A,08/24/2018 00:00:00,NEWMAN MARGARET,4,A-Award,--D,34203,34203,1,0001579754,Restricted Stock Unit
+A,08/24/2018 00:00:00,Loucks Brian Andrew,4,A-Award,--D,34203,34203,1,0001745831,Restricted Stock Unit
+A,08/24/2018 00:00:00,Hopkins Herbert Derek,4,A-Award,--D,64130,64130,1,0001745832,Restricted Stock Unit
+A,08/24/2018 00:00:00,Dokmecioglu Ozan,4,A-Award,--D,111159,111159,1,0001745833,Restricted Stock Unit
+A,08/21/2018 00:00:00,HARF PETER,4,P-Purchase,--I,21400,21400,1,0001223301,Common Stock
+A,08/15/2018 00:00:00,Sceppaguercio-Gever Maria A.,4,P-Purchase,--D,21276,42498,2,0001745830,Common Stock
+A,08/14/2018 00:00:00,Sceppaguercio-Gever Maria A.,4,P-Purchase,--D,21222,21222,1,0001745830,Common Stock
+A,08/10/2018 00:00:00,Singer Robert S,4,P-Purchase,--D,10000,10001,1,0001291809,Common Stock
+A,08/05/2018 00:00:00,Rogers Ronald G.,4,J-Other,--I,22974,22974,2,0001432525,Common Stock
+A,07/28/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,6743,7380,1,0001446902,Common Stock
+A,07/09/2018 00:00:00,Cortes Fernando,4/A,M-Exempt,--D,37452,37542,3,0001741121,Employee Stock Option (Right to Buy)
+A,07/09/2018 00:00:00,Cortes Fernando,4/A,M-Exempt,--D,37538,37538,2,0001741121,Employee Stock Option (Right to Buy)
+A,07/09/2018 00:00:00,Cortes Fernando,4/A,J-Other,--D,0,12461,1,0001741121,Common Stock
+A,07/09/2018 00:00:00,NEWMAN MARGARET,4,A-Award,--D,43284,43284,3,0001579754,Restricted Stock Unit
+A,07/09/2018 00:00:00,NEWMAN MARGARET,4,A-Award,--D,162338,162338,2,0001579754,Restricted Stock Unit
+A,07/09/2018 00:00:00,NEWMAN MARGARET,4,A-Award,--D,162337,162337,1,0001579754,Common Stock
+A,07/09/2018 00:00:00,Loucks Brian Andrew,4,A-Award,--D,12629,12629,3,0001745831,Restricted Stock Unit
+A,07/09/2018 00:00:00,Loucks Brian Andrew,4,A-Award,--D,50514,50514,2,0001745831,Restricted Stock Unit
+A,07/09/2018 00:00:00,Loucks Brian Andrew,4,A-Award,--D,50513,50513,1,0001745831,Common Stock
+A,07/09/2018 00:00:00,Hopkins Herbert Derek,4,A-Award,--D,108257,108257,5,0001745832,Restricted Stock Unit
+A,07/09/2018 00:00:00,Hopkins Herbert Derek,4,A-Award,--D,144600,144600,4,0001745832,Restricted Stock Unit
+A,07/09/2018 00:00:00,Hopkins Herbert Derek,4,A-Award,--D,144600,144600,3,0001745832,Restricted Stock Unit
+A,07/09/2018 00:00:00,Hopkins Herbert Derek,4,A-Award,--D,289200,289200,2,0001745832,Restricted Stock Unit
+A,07/09/2018 00:00:00,Hopkins Herbert Derek,4,A-Award,--D,397456,397456,1,0001745832,Common Stock
+A,07/09/2018 00:00:00,Gamgort Robert James,4,A-Award,--D,248808,248808,6,0001570836,Restricted Stock Unit
+A,07/09/2018 00:00:00,Gamgort Robert James,4,A-Award,--D,248808,248808,5,0001570836,Restricted Stock Unit
+A,07/09/2018 00:00:00,Gamgort Robert James,4,A-Award,--D,530199,530199,4,0001570836,Restricted Stock Unit
+A,07/09/2018 00:00:00,Gamgort Robert James,4,A-Award,--D,530199,530199,3,0001570836,Restricted Stock Unit
+A,07/09/2018 00:00:00,Gamgort Robert James,4,A-Award,--D,2409995,2409995,2,0001570836,Restricted Stock Units
+A,07/09/2018 00:00:00,Gamgort Robert James,4,A-Award,--D,2409994,2409994,1,0001570836,Common Stock
+A,07/09/2018 00:00:00,Dokmecioglu Ozan,4,A-Award,--D,250640,250640,4,0001745833,Restricted Stock Unit
+A,07/09/2018 00:00:00,Dokmecioglu Ozan,4,A-Award,--D,250640,250640,3,0001745833,Restricted Stock Unit
+A,07/09/2018 00:00:00,Dokmecioglu Ozan,4,A-Award,--D,1060398,1060398,2,0001745833,Restricted Stock Unit
+A,07/09/2018 00:00:00,Dokmecioglu Ozan,4,A-Award,--D,1060397,1060397,1,0001745833,Common Stock
+D,07/09/2018 00:00:00,PATSLEY PAMELA H,4,M-Exempt,--D,1247,0,9,0001182591,Restricted Stock Unit
+D,07/09/2018 00:00:00,PATSLEY PAMELA H,4,M-Exempt,--D,1533,0,8,0001182591,Restricted Stock Unit
+D,07/09/2018 00:00:00,PATSLEY PAMELA H,4,M-Exempt,--D,1413,0,7,0001182591,Restricted Stock Unit
+A,07/09/2018 00:00:00,PATSLEY PAMELA H,4,J-Other,--D,5,20032,6,0001182591,Common Stock
+A,07/09/2018 00:00:00,PATSLEY PAMELA H,4,M-Exempt,--D,1247,20027,5,0001182591,Common Stock
+A,07/09/2018 00:00:00,PATSLEY PAMELA H,4,J-Other,--D,46,18780,4,0001182591,Common Stock
+A,07/09/2018 00:00:00,PATSLEY PAMELA H,4,M-Exempt,--D,1532,18734,3,0001182591,Common Stock
+A,07/09/2018 00:00:00,PATSLEY PAMELA H,4,J-Other,--D,76,17202,2,0001182591,Common Stock
+A,07/09/2018 00:00:00,PATSLEY PAMELA H,4,M-Exempt,--D,1413,17126,1,0001182591,Common Stock
+D,07/09/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,21107,0,19,0001446902,Employee Stock Options (Right to Buy)
+D,07/09/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,18133,0,18,0001446902,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,16984,0,17,0001446902,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,8275,0,16,0001446902,Employee Stock Options (Right to Buy)
+D,07/09/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,9033,0,15,0001446902,Restricted Stock Unit
+D,07/09/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,3329,0,14,0001446902,Restricted Stock Unit
+D,07/09/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,2935,0,13,0001446902,Restricted Stock Unit
+A,07/09/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,5716,100701,12,0001446902,Common Stock
+A,07/09/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,5157,94985,11,0001446902,Common Stock
+A,07/09/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,21107,89828,10,0001446902,Common Stock
+A,07/09/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,18133,68721,9,0001446902,Common Stock
+A,07/09/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,16984,50588,8,0001446902,Common Stock
+A,07/09/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,8275,33604,7,0001446902,Common Stock
+A,07/09/2018 00:00:00,Trebilcock James R.,4,J-Other,--D,43,25329,6,0001446902,Common Stock
+A,07/09/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,9033,25286,5,0001446902,Common Stock
+A,07/09/2018 00:00:00,Trebilcock James R.,4,J-Other,--D,100,16253,4,0001446902,Common Stock
+A,07/09/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,3329,16153,3,0001446902,Common Stock
+A,07/09/2018 00:00:00,Trebilcock James R.,4,J-Other,--D,159,12824,2,0001446902,Common Stock
+A,07/09/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,2935,12666,1,0001446902,Common Stock
+D,07/09/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,5628,0,17,0001457301,Employee Stock Option ((Right to Buy)
+D,07/09/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,5540,0,16,0001457301,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,5965,0,15,0001457301,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,2408,0,14,0001457301,Restricted Stock Unit
+D,07/09/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,788,0,13,0001457301,Restricted Stock Unit
+D,07/09/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,398,0,12,0001457301,Restricted Stock Unit
+A,07/09/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,1218,31947,11,0001457301,Common Stock
+A,07/09/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,1259,30729,10,0001457301,Common Stock
+A,07/09/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,5628,29470,9,0001457301,Common Stock
+A,07/09/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,5540,23842,8,0001457301,Common Stock
+A,07/09/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,5965,18302,7,0001457301,Common Stock
+A,07/09/2018 00:00:00,Stephens Angela A.,4,J-Other,--D,11,12337,6,0001457301,Common Stock
+A,07/09/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,2408,12326,5,0001457301,Common Stock
+A,07/09/2018 00:00:00,Stephens Angela A.,4,J-Other,--D,23,9918,4,0001457301,Common Stock
+A,07/09/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,788,9895,3,0001457301,Common Stock
+A,07/09/2018 00:00:00,Stephens Angela A.,4,J-Other,--D,21,9107,2,0001457301,Common Stock
+A,07/09/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,398,9086,1,0001457301,Common Stock
+D,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,6030,0,24,0001741121,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,6044,0,23,0001741121,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,2408,0,22,0001741121,Restricted Stock Unit
+D,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,1049,0,21,0001741121,Restricted Stock Unit
+D,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,2215,0,20,0001741121,Restricted Stock Unit
+D,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,844,0,19,0001741121,Restricted Stock Unit
+D,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,434,0,18,0001741121,Restricted Stock Unit
+D,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,2547,0,17,0001741121,Restricted Stock Unit
+A,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,1306,24540,16,0001741121,Common Stock
+A,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,1374,23234,15,0001741121,Common Stock
+A,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,6030,21860,14,0001741121,Common Stock
+A,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,6044,15830,13,0001741121,Common Stock
+A,07/09/2018 00:00:00,Cortes Fernando,4,J-Other,--D,11,9786,12,0001741121,Common Stock
+A,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,2408,9775,11,0001741121,Common Stock
+A,07/09/2018 00:00:00,Cortes Fernando,4,J-Other,--D,5,7367,10,0001741121,Common Stock
+A,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,1049,7362,9,0001741121,Common Stock
+A,07/09/2018 00:00:00,Cortes Fernando,4,J-Other,--D,24,6313,8,0001741121,Common Stock
+A,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,2215,6289,7,0001741121,Common Stock
+A,07/09/2018 00:00:00,Cortes Fernando,4,J-Other,--D,25,4074,6,0001741121,Common Stock
+A,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,844,4049,5,0001741121,Common Stock
+A,07/09/2018 00:00:00,Cortes Fernando,4,J-Other,--D,23,3205,4,0001741121,Common Stock
+A,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,434,3182,3,0001741121,Common Stock
+A,07/09/2018 00:00:00,Cortes Fernando,4,J-Other,--D,201,2748,2,0001741121,Common Stock
+A,07/09/2018 00:00:00,Cortes Fernando,4,M-Exempt,--D,2547,2547,1,0001741121,Common Stock
+D,07/09/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,29148,0,19,0001432448,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,29215,0,18,0001432448,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,29284,0,17,0001432448,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,46551,0,16,0001432448,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,12474,0,15,0001432448,Restricted Stock Unit
+D,07/09/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,4597,0,14,0001432448,Restricted Stock Unit
+D,07/09/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,4729,0,13,0001432448,Restricted Stock Unit
+D,07/09/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,7894,282955,12,0001432448,Common Stock
+D,07/09/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,8310,275061,11,0001432448,Common Stock
+D,07/09/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,29148,266751,10,0001432448,Common Stock
+D,07/09/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,29215,237603,9,0001432448,Common Stock
+D,07/09/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,29284,208388,8,0001432448,Common Stock
+D,07/09/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,46551,179104,7,0001432448,Common Stock
+D,07/09/2018 00:00:00,Collins Rodger L.,4,J-Other,--D,59,132553,6,0001432448,Common Stock
+D,07/09/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,12474,1232494,5,0001432448,Common Stock
+D,07/09/2018 00:00:00,Collins Rodger L.,4,J-Other,--D,139,120020,4,0001432448,Common Stock
+D,07/09/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,4597,119881,3,0001432448,Common Stock
+D,07/09/2018 00:00:00,Collins Rodger L.,4,J-Other,--D,256,115284,2,0001432448,Common Stock
+D,07/09/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,4729,115028,1,0001432448,Common Stock
+D,07/09/2018 00:00:00,SHIVE DUNIA A,4,M-Exempt,--D,1247,0,9,0001182313,Restricted Stock Unit
+D,07/09/2018 00:00:00,SHIVE DUNIA A,4,M-Exempt,--D,1532,0,8,0001182313,Restricted Stock Unit
+D,07/09/2018 00:00:00,SHIVE DUNIA A,4,M-Exempt,--D,1413,0,7,0001182313,Restricted Stock Unit
+A,07/09/2018 00:00:00,SHIVE DUNIA A,4,J-Other,--D,5,7235,6,0001182313,Common Stock
+A,07/09/2018 00:00:00,SHIVE DUNIA A,4,M-Exempt,--D,1247,7230,5,0001182313,Common Stock
+A,07/09/2018 00:00:00,SHIVE DUNIA A,4,J-Other,--D,46,5983,4,0001182313,Common Stock
+A,07/09/2018 00:00:00,SHIVE DUNIA A,4,M-Exempt,--D,1532,5937,3,0001182313,Common Stock
+A,07/09/2018 00:00:00,SHIVE DUNIA A,4,J-Other,--D,76,4405,2,0001182313,Common Stock
+A,07/09/2018 00:00:00,SHIVE DUNIA A,4,M-Exempt,--D,1413,4329,1,0001182313,Common Stock
+D,07/09/2018 00:00:00,SZOSTAK M ANNE,4,M-Exempt,--D,1462,0,9,0001094176,Restricted Stock Unit
+D,07/09/2018 00:00:00,SZOSTAK M ANNE,4,M-Exempt,--D,1796,0,8,0001094176,Restricted Stock Unit
+D,07/09/2018 00:00:00,SZOSTAK M ANNE,4,M-Exempt,--D,1685,0,7,0001094176,Restricted Stock Unit
+A,07/09/2018 00:00:00,SZOSTAK M ANNE,4,J-Other,--D,7,5095,6,0001094176,Common Stock
+A,07/09/2018 00:00:00,SZOSTAK M ANNE,4,M-Exempt,--D,1462,5088,5,0001094176,Common Stock
+A,07/09/2018 00:00:00,SZOSTAK M ANNE,4,J-Other,--D,54,3626,4,0001094176,Common Stock
+A,07/09/2018 00:00:00,SZOSTAK M ANNE,4,M-Exempt,--D,1796,3572,3,0001094176,Common Stock
+A,07/09/2018 00:00:00,SZOSTAK M ANNE,4,J-Other,--D,91,1776,2,0001094176,Common Stock
+A,07/09/2018 00:00:00,SZOSTAK M ANNE,4,M-Exempt,--D,1685,1685,1,0001094176,Common Stock
+A,07/09/2018 00:00:00,SANDERS WAYNE R,4,M-Exempt,--D,2451,0,9,0001191315,Restricted Stock Unit
+A,07/09/2018 00:00:00,SANDERS WAYNE R,4,M-Exempt,--D,3012,0,8,0001191315,Restricted Stock Unit
+A,07/09/2018 00:00:00,SANDERS WAYNE R,4,M-Exempt,--D,2500,0,7,0001191315,Restricted Stock Unit
+A,07/09/2018 00:00:00,SANDERS WAYNE R,4,J-Other,--D,11,45411,6,0001191315,Common Stock
+A,07/09/2018 00:00:00,SANDERS WAYNE R,4,M-Exempt,--D,2451,45400,5,0001191315,Common Stock
+A,07/09/2018 00:00:00,SANDERS WAYNE R,4,J-Other,--D,91,42949,4,0001191315,Common Stock
+A,07/09/2018 00:00:00,SANDERS WAYNE R,4,M-Exempt,--D,3012,42858,3,0001191315,Common Stock
+A,07/09/2018 00:00:00,SANDERS WAYNE R,4,J-Other,--D,135,39846,2,0001191315,Common Stock
+A,07/09/2018 00:00:00,SANDERS WAYNE R,4,M-Exempt,--D,2500,39711,1,0001191315,Common Stock
+D,07/09/2018 00:00:00,Rogers Ronald G.,4,M-Exempt,--D,1247,0,9,0001432525,Restricted Stock Unit
+D,07/09/2018 00:00:00,Rogers Ronald G.,4,M-Exempt,--D,1532,0,8,0001432525,Restricted Stock Unit
+D,07/09/2018 00:00:00,Rogers Ronald G.,4,M-Exempt,--D,1413,0,7,0001432525,Restricted Stock Unit
+A,07/09/2018 00:00:00,Rogers Ronald G.,4,J-Other,--D,5,4319,6,0001432525,Common Stock
+A,07/09/2018 00:00:00,Rogers Ronald G.,4,M-Exempt,--D,1247,4314,5,0001432525,Common Stock
+A,07/09/2018 00:00:00,Rogers Ronald G.,4,J-Other,--D,46,3067,4,0001432525,Common Stock
+A,07/09/2018 00:00:00,Rogers Ronald G.,4,M-Exempt,--D,1532,3021,3,0001432525,Common Stock
+A,07/09/2018 00:00:00,Rogers Ronald G.,4,J-Other,--D,76,1489,2,0001432525,Common Stock
+A,07/09/2018 00:00:00,Rogers Ronald G.,4,M-Exempt,--D,1413,1413,1,0001432525,Common Stock
+D,07/09/2018 00:00:00,GUTIERREZ JOSE M,4,M-Exempt,--D,1247,0,9,0001257702,Restricted Stock Unit
+D,07/09/2018 00:00:00,GUTIERREZ JOSE M,4,M-Exempt,--D,1532,0,8,0001257702,Restricted Stock Unit
+D,07/09/2018 00:00:00,GUTIERREZ JOSE M,4,M-Exempt,--D,706,0,7,0001257702,Restricted Stock Unit
+A,07/09/2018 00:00:00,GUTIERREZ JOSE M,4,J-Other,--D,5,3561,6,0001257702,Common Stock
+A,07/09/2018 00:00:00,GUTIERREZ JOSE M,4,M-Exempt,--D,1247,3556,5,0001257702,Common Stock
+A,07/09/2018 00:00:00,GUTIERREZ JOSE M,4,J-Other,--D,46,2309,4,0001257702,Common Stock
+A,07/09/2018 00:00:00,GUTIERREZ JOSE M,4,M-Exempt,--D,1532,2263,3,0001257702,Common Stock
+A,07/09/2018 00:00:00,GUTIERREZ JOSE M,4,J-Other,--D,25,731,2,0001257702,Common Stock
+A,07/09/2018 00:00:00,GUTIERREZ JOSE M,4,M-Exempt,--D,706,706,1,0001257702,Common Stock
+D,07/09/2018 00:00:00,Carrillo Antonio,4,M-Exempt,--D,1247,0,9,0001486776,Restricted Stock Unit
+D,07/09/2018 00:00:00,Carrillo Antonio,4,M-Exempt,--D,1532,0,8,0001486776,Restricted Stock Unit
+D,07/09/2018 00:00:00,Carrillo Antonio,4,M-Exempt,--D,1413,0,7,0001486776,Restricted Stock Unit
+A,07/09/2018 00:00:00,Carrillo Antonio,4,J-Other,--D,5,5552,6,0001486776,Common Stock
+A,07/09/2018 00:00:00,Carrillo Antonio,4,M-Exempt,--D,1247,5547,5,0001486776,Common Stock
+A,07/09/2018 00:00:00,Carrillo Antonio,4,J-Other,--D,46,4300,4,0001486776,Common Stock
+A,07/09/2018 00:00:00,Carrillo Antonio,4,M-Exempt,--D,1532,4254,3,0001486776,Common Stock
+A,07/09/2018 00:00:00,Carrillo Antonio,4,J-Other,--D,76,2722,2,0001486776,Common Stock
+A,07/09/2018 00:00:00,Carrillo Antonio,4,M-Exempt,--D,1413,2646,1,0001486776,Common Stock
+D,07/09/2018 00:00:00,Alexander David E,4,M-Exempt,--D,1505,0,9,0001535218,Restricted Stock Unit
+D,07/09/2018 00:00:00,Alexander David E,4,M-Exempt,--D,1849,0,8,0001535218,Restricted Stock Unit
+D,07/09/2018 00:00:00,Alexander David E,4,M-Exempt,--D,1739,0,7,0001535218,Restricted Stock Unit
+A,07/09/2018 00:00:00,Alexander David E,4,J-Other,--D,7,5250,6,0001535218,Common Stock
+A,07/09/2018 00:00:00,Alexander David E,4,M-Exempt,--D,1505,5243,5,0001535218,Common Stock
+A,07/09/2018 00:00:00,Alexander David E,4,J-Other,--D,56,3738,4,0001535218,Common Stock
+A,07/09/2018 00:00:00,Alexander David E,4,M-Exempt,--D,1849,3682,3,0001535218,Common Stock
+A,07/09/2018 00:00:00,Alexander David E,4,J-Other,--D,94,1833,2,0001535218,Common Stock
+A,07/09/2018 00:00:00,Alexander David E,4,M-Exempt,--D,1739,1739,1,0001535218,Common Stock
+D,07/09/2018 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,120616,0,17,0001206946,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,120889,0,16,0001206946,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,130151,0,15,0001206946,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,51617,0,14,0001206946,Restricted Stock Unit
+D,07/09/2018 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,19023,0,13,0001206946,Restricted Stock Unit
+D,07/09/2018 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,19569,0,12,0001206946,Restricted Stock Unit
+A,07/09/2018 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,32666,767220,11,0001206946,Common Stock
+A,07/09/2018 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,34387,734554,10,0001206946,Common Stock
+A,07/09/2018 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,120616,700167,9,0001206946,Common Stock
+A,07/09/2018 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,120889,579551,8,0001206946,Common Stock
+A,07/09/2018 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,130151,458662,7,0001206946,Common Stock
+A,07/09/2018 00:00:00,YOUNG LARRY D,4,J-Other,--D,247,328511,6,0001206946,Common Stock
+A,07/09/2018 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,51617,328264,5,0001206946,Common Stock
+A,07/09/2018 00:00:00,YOUNG LARRY D,4,J-Other,--D,576,276647,4,0001206946,Common Stock
+A,07/09/2018 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,19023,276071,3,0001206946,Common Stock
+A,07/09/2018 00:00:00,YOUNG LARRY D,4,J-Other,--D,1063,257048,2,0001206946,Common Stock
+A,07/09/2018 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,19569,255985,1,0001206946,Common Stock
+D,07/09/2018 00:00:00,Thomas David,4,M-Exempt,--D,14071,0,17,0001446970,Employee Stock Options (Right to Buy)
+D,07/09/2018 00:00:00,Thomas David,4,M-Exempt,--D,13096,0,16,0001446970,Employee Stock Options (Right to Buy)
+D,07/09/2018 00:00:00,Thomas David,4,M-Exempt,--D,11713,0,15,0001446970,Employee Stock Options (Right to Buy)
+D,07/09/2018 00:00:00,Thomas David,4,M-Exempt,--D,6022,0,14,0001446970,Restricted Stock Unit
+D,07/09/2018 00:00:00,Thomas David,4,M-Exempt,--D,2219,0,13,0001446970,Restricted Stock Unit
+D,07/09/2018 00:00:00,Thomas David,4,M-Exempt,--D,2120,0,12,0001446970,Restricted Stock Unit
+A,07/09/2018 00:00:00,Thomas David,4,M-Exempt,--D,3811,96913,11,0001446970,Common Stock
+A,07/09/2018 00:00:00,Thomas David,4,M-Exempt,--D,3724,93102,10,0001446970,Common Stock
+A,07/09/2018 00:00:00,Thomas David,4,M-Exempt,--D,14071,89378,9,0001446970,Common Stock
+A,07/09/2018 00:00:00,Thomas David,4,M-Exempt,--D,13096,75307,8,0001446970,Common Stock
+A,07/09/2018 00:00:00,Thomas David,4,M-Exempt,--D,11713,62211,7,0001446970,Common Stock
+A,07/09/2018 00:00:00,Thomas David,4,J-Other,--D,28,50498,6,0001446970,Common Stock
+A,07/09/2018 00:00:00,Thomas David,4,M-Exempt,--D,6022,50470,5,0001446970,Common Stock
+A,07/09/2018 00:00:00,Thomas David,4,J-Other,--D,67,44448,4,0001446970,Common Stock
+A,07/09/2018 00:00:00,Thomas David,4,M-Exempt,--D,2219,44381,3,0001446970,Common Stock
+A,07/09/2018 00:00:00,Thomas David,4,J-Other,--D,115,42162,2,0001446970,Common Stock
+A,07/09/2018 00:00:00,Thomas David,4,M-Exempt,--D,2120,42047,1,0001446970,Common Stock
+D,07/09/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,29148,0,19,0001432612,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,29215,0,18,0001432612,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,29284,0,17,0001432612,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,46551,0,16,0001432612,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,12474,0,15,0001432612,Restricted Stock Unit
+D,07/09/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,4597,0,14,0001432612,Restricted Stock Unit
+D,07/09/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,4729,0,13,0001432612,Restricted Stock Unit
+A,07/09/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,7894,180518,12,0001432612,Common Stock
+A,07/09/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,8310,172624,11,0001432612,Common Stock
+A,07/09/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,29148,164314,10,0001432612,Common Stock
+A,07/09/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,29215,135166,9,0001432612,Common Stock
+A,07/09/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,29284,105951,8,0001432612,Common Stock
+A,07/09/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,46551,76667,7,0001432612,Common Stock
+A,07/09/2018 00:00:00,Johnston James J. JR,4,J-Other,--D,59,30116,6,0001432612,Common Stock
+A,07/09/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,12474,30057,5,0001432612,Common Stock
+A,07/09/2018 00:00:00,Johnston James J. JR,4,J-Other,--D,139,17583,4,0001432612,Common Stock
+A,07/09/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,4597,17444,3,0001432612,Common Stock
+A,07/09/2018 00:00:00,Johnston James J. JR,4,J-Other,--D,256,12847,2,0001432612,Common Stock
+A,07/09/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,4729,12591,1,0001432612,Common Stock
+D,07/09/2018 00:00:00,Hobson Derry L.,4,M-Exempt,--D,20102,0,17,0001432446,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Hobson Derry L.,4,M-Exempt,--D,12088,0,16,0001432446,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Hobson Derry L.,4,M-Exempt,--D,6507,0,15,0001432446,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Hobson Derry L.,4,M-Exempt,--D,8602,0,14,0001432446,Restricted Stock Unit
+D,07/09/2018 00:00:00,Hobson Derry L.,4,M-Exempt,--D,3170,0,13,0001432446,Restricted Stock Unit
+D,07/09/2018 00:00:00,Hobson Derry L.,4,M-Exempt,--D,2935,0,12,0001432446,Restricted Stock Unit
+A,07/09/2018 00:00:00,Hobson Derry L.,4,M-Exempt,--D,5444,71348,11,0001432446,Common Stock
+A,07/09/2018 00:00:00,Hobson Derry L.,4,M-Exempt,--D,5157,65904,10,0001432446,Common Stock
+A,07/09/2018 00:00:00,Hobson Derry L.,4,M-Exempt,--D,20102,60747,9,0001432446,Common Stock
+A,07/09/2018 00:00:00,Hobson Derry L.,4,M-Exempt,--D,12088,40645,8,0001432446,Common Stock
+A,07/09/2018 00:00:00,Hobson Derry L.,4,M-Exempt,--D,6507,28557,7,0001432446,Common Stock
+A,07/09/2018 00:00:00,Hobson Derry L.,4,J-Other,--D,41,22050,6,0001432446,Common Stock
+A,07/09/2018 00:00:00,Hobson Derry L.,4,M-Exempt,--D,8602,22009,5,0001432446,Common Stock
+A,07/09/2018 00:00:00,Hobson Derry L.,4,J-Other,--D,96,13407,4,0001432446,Common Stock
+A,07/09/2018 00:00:00,Hobson Derry L.,4,M-Exempt,--D,3170,13311,3,0001432446,Common Stock
+A,07/09/2018 00:00:00,Hobson Derry L.,4,J-Other,--D,159,10141,2,0001432446,Common Stock
+A,07/09/2018 00:00:00,Hobson Derry L.,4,M-Exempt,--D,2935,9982,1,0001432446,Common Stock
+D,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,17388,0,24,0001569254,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,17126,0,23,0001569254,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,17190,0,22,0001569254,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,22413,0,21,0001569254,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,16763,0,20,0001569254,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,9592,0,19,0001569254,Restricted Stock Unit
+D,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,2800,0,18,0001569254,Restricted Stock Unit
+D,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,2742,0,17,0001569254,Restricted Stock Unit
+D,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,2772,0,16,0001569254,Restricted Stock Unit
+A,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,4708,125899,15,0001569254,Common Stock
+A,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,4871,121191,14,0001569254,Common Stock
+A,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,17388,116320,13,0001569254,Common Stock
+A,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,17126,98932,12,0001569254,Common Stock
+A,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,17190,81806,11,0001569254,Common Stock
+A,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,22413,64616,10,0001569254,Common Stock
+A,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,16763,42203,9,0001569254,Common Stock
+A,07/09/2018 00:00:00,Hancock Philip L,4,J-Other,--D,46,25440,8,0001569254,Common Stock
+A,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,9592,25394,7,0001569254,Common Stock
+A,07/09/2018 00:00:00,Hancock Philip L,4,J-Other,--D,49,15802,6,0001569254,Common Stock
+A,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,2800,15753,5,0001569254,Common Stock
+A,07/09/2018 00:00:00,Hancock Philip L,4,J-Other,--D,83,12953,4,0001569254,Common Stock
+A,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,2742,12870,3,0001569254,Common Stock
+A,07/09/2018 00:00:00,Hancock Philip L,4,J-Other,--D,150,10128,2,0001569254,Common Stock
+A,07/09/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,2772,9978,1,0001569254,Common Stock
+D,07/09/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,31360,0,19,0001189832,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,30806,0,18,0001189832,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,31588,0,17,0001189832,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,29224,0,16,0001189832,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,13420,0,15,0001189832,Restricted Stock Unit
+D,07/09/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,4946,0,14,0001189832,Restricted Stock Unit
+D,07/09/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,4986,0,13,0001189832,Restricted Stock Unit
+A,07/09/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,8492,164067,12,0001189832,Common Stock
+A,07/09/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,8762,155575,11,0001189832,Common Stock
+A,07/09/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,31360,146813,10,0001189832,Common Stock
+A,07/09/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,30806,115453,9,0001189832,Common Stock
+A,07/09/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,31588,84647,8,0001189832,Common Stock
+A,07/09/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,29224,53059,7,0001189832,Common Stock
+A,07/09/2018 00:00:00,ELLEN MARTIN M,4,J-Other,--D,64,23835,6,0001189832,Common Stock
+A,07/09/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,13420,23771,5,0001189832,Common Stock
+A,07/09/2018 00:00:00,ELLEN MARTIN M,4,J-Other,--D,149,10351,4,0001189832,Common Stock
+A,07/09/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,4946,10202,3,0001189832,Common Stock
+A,07/09/2018 00:00:00,ELLEN MARTIN M,4,J-Other,--D,270,5256,2,0001189832,Common Stock
+A,07/09/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,4986,4986,1,0001189832,Common Stock
+D,07/09/2018 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,21107,0,17,0001432449,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,20148,0,16,0001432449,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,6876,0,15,0001432449,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,9033,0,14,0001432449,Restricted Stock Unit
+D,07/09/2018 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,3329,0,13,0001432449,Restricted Stock Unit
+D,07/09/2018 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,3261,0,12,0001432449,Restricted Stock Unit
+A,07/09/2018 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,5716,167097,11,0001432449,Common Stock
+A,07/09/2018 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,5730,161381,10,0001432449,Common Stock
+A,07/09/2018 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,21107,155651,9,0001432449,Common Stock
+A,07/09/2018 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,20148,134544,8,0001432449,Common Stock
+A,07/09/2018 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,6876,114396,7,0001432449,Common Stock
+A,07/09/2018 00:00:00,Baldwin James L. JR,4,J-Other,--D,43,107520,6,0001432449,Common Stock
+A,07/09/2018 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,9033,107477,5,0001432449,Common Stock
+A,07/09/2018 00:00:00,Baldwin James L. JR,4,J-Other,--D,100,98444,4,0001432449,Common Stock
+A,07/09/2018 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,3329,98344,3,0001432449,Common Stock
+A,07/09/2018 00:00:00,Baldwin James L. JR,4,J-Other,--D,177,95015,2,0001432449,Common Stock
+A,07/09/2018 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,3261,94838,1,0001432449,Common Stock
+D,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,4221,0,23,0001709955,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,3828,0,22,0001709955,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,2602,0,21,0001709955,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,1954,0,20,0001709955,Employee Stock Option (Right to Buy)
+D,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,6452,0,19,0001709955,Restricted Stock Unit
+D,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,4369,0,18,0001709955,Restricted Stock Unit
+D,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,590,0,17,0001709955,Restricted Stock Unit
+D,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,275,0,16,0001709955,Restricted Stock Unit
+A,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,913,31971,15,0001709955,Common Stock
+A,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,870,31058,14,0001709955,Common Stock
+A,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,723,30188,13,0001709955,Common Stock
+A,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,4221,29465,12,0001709955,Common Stock
+A,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,3828,25244,11,0001709955,Common Stock
+A,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,2602,21416,10,0001709955,Common Stock
+A,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,1954,18814,9,0001709955,Common Stock
+A,07/09/2018 00:00:00,Alt Jaxie S.,4,J-Other,--D,30,16860,8,0001709955,Common Stock
+A,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,6452,16830,7,0001709955,Common Stock
+A,07/09/2018 00:00:00,Alt Jaxie S.,4,J-Other,--D,76,10378,6,0001709955,Common Stock
+A,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,4369,10302,5,0001709955,Common Stock
+A,07/09/2018 00:00:00,Alt Jaxie S.,4,J-Other,--D,17,5933,4,0001709955,Common Stock
+A,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,590,5916,3,0001709955,Common Stock
+A,07/09/2018 00:00:00,Alt Jaxie S.,4,J-Other,--D,14,5326,2,0001709955,Common Stock
+A,07/09/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,275,5312,1,0001709955,Common Stock
+D,06/14/2018 00:00:00,Johnston James J. JR,4,S-Sale,--D,15927,7786,1,0001432612,Common Stock
+D,06/12/2018 00:00:00,ELLEN MARTIN M,4,S-Sale,--I,30000,48653,1,0001189832,Common Stock
+D,06/06/2018 00:00:00,Rogers Ronald G.,4,S-Sale,--I,16232,0,1,0001432525,Common Stock
+D,06/05/2018 00:00:00,Hobson Derry L.,4,S-Sale,--D,1824,7047,1,0001432446,Common Stock
+A,04/12/2018 00:00:00,Johnston James J. JR,4,J-Other,--D,76,7862,2,0001432612,Common Stock
+D,03/04/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,395,788,13,0001457301,Restricted Stock Units
+D,03/04/2018 00:00:00,Stephens Angela A.,4,F-InKind,--D,99,8688,9,0001457301,Common Stock
+A,03/04/2018 00:00:00,Stephens Angela A.,4,J-Other,--D,10,8787,8,0001457301,Common Stock
+A,03/04/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,395,8777,7,0001457301,Common Stock
+D,03/04/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,297,590,13,0001709955,Restricted Stock Units
+D,03/04/2018 00:00:00,Alt Jaxie S.,4,F-InKind,--D,75,5037,9,0001709955,Common Stock
+A,03/04/2018 00:00:00,Alt Jaxie S.,4,J-Other,--D,7,5112,8,0001709955,Common Stock
+A,03/04/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,297,5105,7,0001709955,Common Stock
+D,03/02/2018 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,22727,0,5,0001206946,Restricted Stock Units
+A,03/02/2018 00:00:00,YOUNG LARRY D,4,A-Award,--D,51617,51617,4,0001206946,Restricted Stock Unit
+D,03/02/2018 00:00:00,YOUNG LARRY D,4,F-InKind,--D,9334,236416,3,0001206946,Common Stock
+A,03/02/2018 00:00:00,YOUNG LARRY D,4,J-Other,--D,1682,245750,2,0001206946,Common Stock
+A,03/02/2018 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,22727,244068,1,0001206946,Common Stock
+D,03/02/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,2965,0,5,0001446902,Restricted Stock Units
+A,03/02/2018 00:00:00,Trebilcock James R.,4,A-Award,--D,9033,9033,4,0001446902,Restricted Stock Unit
+D,03/02/2018 00:00:00,Trebilcock James R.,4,F-InKind,--D,893,9730,3,0001446902,Common Stock
+A,03/02/2018 00:00:00,Trebilcock James R.,4,J-Other,--D,219,10623,2,0001446902,Common Stock
+A,03/02/2018 00:00:00,Trebilcock James R.,4,M-Exempt,--D,2965,10404,1,0001446902,Common Stock
+D,03/02/2018 00:00:00,Thomas David,4,M-Exempt,--D,2045,0,5,0001446970,Restricted Stock Units
+A,03/02/2018 00:00:00,Thomas David,4,A-Award,--D,6022,6022,4,0001446970,Restricted Stock Unit
+D,03/02/2018 00:00:00,Thomas David,4,F-InKind,--D,493,39927,3,0001446970,Common Stock
+A,03/02/2018 00:00:00,Thomas David,4,J-Other,--D,151,40420,2,0001446970,Common Stock
+A,03/02/2018 00:00:00,Thomas David,4,M-Exempt,--D,2045,40269,1,0001446970,Common Stock
+D,03/02/2018 00:00:00,SZOSTAK M ANNE,4,M-Exempt,--D,1957,0,6,0001094176,Restricted Stock Unit
+A,03/02/2018 00:00:00,SZOSTAK M ANNE,4,A-Award,--D,1462,1462,5,0001094176,Restricted Stock Unit
+A,03/02/2018 00:00:00,SZOSTAK M ANNE,4,J-Other,--I,2101,18240,4,0001094176,Common Stock
+D,03/02/2018 00:00:00,SZOSTAK M ANNE,4,J-Other,--D,2101,0,3,0001094176,Common Stock
+A,03/02/2018 00:00:00,SZOSTAK M ANNE,4,J-Other,--D,144,2101,2,0001094176,Common Stock
+A,03/02/2018 00:00:00,SZOSTAK M ANNE,4,M-Exempt,--D,1957,1957,1,0001094176,Common Stock
+D,03/02/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,1388,0,12,0001457301,Restricted Stock Units
+D,03/02/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,398,398,11,0001457301,Restricted Stock Units
+A,03/02/2018 00:00:00,Stephens Angela A.,4,A-Award,--D,2408,2408,10,0001457301,Restricted Stock Unit
+D,03/02/2018 00:00:00,Stephens Angela A.,4,F-InKind,--D,363,8382,6,0001457301,Common Stock
+A,03/02/2018 00:00:00,Stephens Angela A.,4,J-Other,--D,102,8745,5,0001457301,Common Stock
+A,03/02/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,1388,8643,4,0001457301,Common Stock
+D,03/02/2018 00:00:00,Stephens Angela A.,4,F-InKind,--D,102,7255,3,0001457301,Common Stock
+A,03/02/2018 00:00:00,Stephens Angela A.,4,J-Other,--D,19,7357,2,0001457301,Common Stock
+A,03/02/2018 00:00:00,Stephens Angela A.,4,M-Exempt,--D,398,7338,1,0001457301,Common Stock
+D,03/02/2018 00:00:00,SHIVE DUNIA A,4,M-Exempt,--D,1641,0,4,0001182313,Restricted Stock Units
+A,03/02/2018 00:00:00,SHIVE DUNIA A,4,A-Award,--D,1247,1247,3,0001182313,Restricted Stock Units
+A,03/02/2018 00:00:00,SHIVE DUNIA A,4,J-Other,--D,121,2916,2,0001182313,Common Stock
+A,03/02/2018 00:00:00,SHIVE DUNIA A,4,M-Exempt,--D,1641,2795,1,0001182313,Common Stock
+D,03/02/2018 00:00:00,SANDERS WAYNE R,4,M-Exempt,--D,2904,0,4,0001191315,Restricted Stock Unit
+A,03/02/2018 00:00:00,SANDERS WAYNE R,4,A-Award,--D,2451,2451,3,0001191315,Restricted Stock Unit
+A,03/02/2018 00:00:00,SANDERS WAYNE R,4,J-Other,--D,214,37211,2,0001191315,Common Stock
+A,03/02/2018 00:00:00,SANDERS WAYNE R,4,M-Exempt,--D,2904,36997,1,0001191315,Common Stock
+D,03/02/2018 00:00:00,Rogers Ronald G.,4,M-Exempt,--D,1641,0,6,0001432525,Restricted Stock Unit
+A,03/02/2018 00:00:00,Rogers Ronald G.,4,A-Award,--D,1247,1247,5,0001432525,Restricted Stock Unit
+A,03/02/2018 00:00:00,Rogers Ronald G.,4,J-Other,--I,1762,16232,4,0001432525,Common Stock
+D,03/02/2018 00:00:00,Rogers Ronald G.,4,J-Other,--D,1762,0,3,0001432525,Common Stock
+A,03/02/2018 00:00:00,Rogers Ronald G.,4,J-Other,--D,121,1762,2,0001432525,Common Stock
+A,03/02/2018 00:00:00,Rogers Ronald G.,4,M-Exempt,--D,1641,1641,1,0001432525,Common Stock
+D,03/02/2018 00:00:00,PATSLEY PAMELA H,4,M-Exempt,--D,1641,0,4,0001182591,Restricted Stock Unit
+A,03/02/2018 00:00:00,PATSLEY PAMELA H,4,A-Award,--D,1247,1247,3,0001182591,Restricted Stock Unit
+A,03/02/2018 00:00:00,PATSLEY PAMELA H,4,J-Other,--D,121,15713,2,0001182591,Common Stock
+A,03/02/2018 00:00:00,PATSLEY PAMELA H,4,M-Exempt,--D,1641,15592,1,0001182591,Common Stock
+D,03/02/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,5113,0,5,0001432612,Restricted Stock Units
+A,03/02/2018 00:00:00,Johnston James J. JR,4,A-Award,--D,12474,12474,4,0001432612,Restricted Stock Unit
+D,03/02/2018 00:00:00,Johnston James J. JR,4,F-InKind,--D,2096,23713,3,0001432612,Common Stock
+A,03/02/2018 00:00:00,Johnston James J. JR,4,J-Other,--D,378,25809,2,0001432612,Common Stock
+A,03/02/2018 00:00:00,Johnston James J. JR,4,M-Exempt,--D,5113,25431,1,0001432612,Common Stock
+D,03/02/2018 00:00:00,Hobson Derry L.,4,M-Exempt,--D,3409,0,5,0001432446,Restricted Stock Units
+A,03/02/2018 00:00:00,Hobson Derry L.,4,A-Award,--D,8602,8602,4,0001432446,Restricted Stock Unit
+D,03/02/2018 00:00:00,Hobson Derry L.,4,F-InKind,--D,1180,8871,3,0001432446,Common Stock
+A,03/02/2018 00:00:00,Hobson Derry L.,4,J-Other,--D,252,10051,2,0001432446,Common Stock
+A,03/02/2018 00:00:00,Hobson Derry L.,4,M-Exempt,--D,3409,9799,1,0001432446,Common Stock
+D,03/02/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,3001,0,5,0001569254,Restricted Stock Units
+A,03/02/2018 00:00:00,Hancock Philip L,4,A-Award,--D,9592,9592,4,0001569254,Restricted Stock Unit
+D,03/02/2018 00:00:00,Hancock Philip L,4,F-InKind,--D,1226,7206,3,0001569254,Common Stock
+A,03/02/2018 00:00:00,Hancock Philip L,4,J-Other,--D,222,8432,2,0001569254,Common Stock
+A,03/02/2018 00:00:00,Hancock Philip L,4,M-Exempt,--D,3001,8210,1,0001569254,Common Stock
+A,03/02/2018 00:00:00,GUTIERREZ JOSE M,4,A-Award,--D,1247,1247,1,0001257702,Restricted Stock Units
+D,03/02/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,5516,0,7,0001189832,Restricted Stock Unit
+A,03/02/2018 00:00:00,ELLEN MARTIN M,4,A-Award,--D,13420,13420,6,0001189832,Restricted Stock Unit
+A,03/02/2018 00:00:00,ELLEN MARTIN M,4,J-Other,--I,3592,78653,5,0001189832,Common Stock
+D,03/02/2018 00:00:00,ELLEN MARTIN M,4,J-Other,--D,3592,0,4,0001189832,Common Stock
+D,03/02/2018 00:00:00,ELLEN MARTIN M,4,F-InKind,--D,2332,3592,3,0001189832,Common Stock
+A,03/02/2018 00:00:00,ELLEN MARTIN M,4,J-Other,--D,408,5924,2,0001189832,Common Stock
+A,03/02/2018 00:00:00,ELLEN MARTIN M,4,M-Exempt,--D,5516,5516,1,0001189832,Common Stock
+D,03/02/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,5113,0,5,0001432448,Restricted Stock Unit
+A,03/02/2018 00:00:00,Collins Rodger L.,4,A-Award,--D,12474,12474,4,0001432448,Restricted Stock Unit
+D,03/02/2018 00:00:00,Collins Rodger L.,4,F-InKind,--D,1918,110299,3,0001432448,Common Stock
+A,03/02/2018 00:00:00,Collins Rodger L.,4,J-Other,--D,378,112217,2,0001432448,Common Stock
+A,03/02/2018 00:00:00,Collins Rodger L.,4,M-Exempt,--D,5113,111839,1,0001432448,Common Stock
+D,03/02/2018 00:00:00,Carrillo Antonio,4,M-Exempt,--D,1641,0,5,0001486776,Restricted Stock Unit
+A,03/02/2018 00:00:00,Carrillo Antonio,4,A-Award,--D,1247,1247,4,0001486776,Restricted Stock Unit
+D,03/02/2018 00:00:00,Carrillo Antonio,4,F-InKind,--D,529,1233,3,0001486776,Common Stock
+A,03/02/2018 00:00:00,Carrillo Antonio,4,J-Other,--D,121,1762,2,0001486776,Common Stock
+A,03/02/2018 00:00:00,Carrillo Antonio,4,M-Exempt,--D,1641,1641,1,0001486776,Common Stock
+D,03/02/2018 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,3602,0,5,0001432449,Restricted Stock Unit
+A,03/02/2018 00:00:00,Baldwin James L. JR,4,A-Award,--D,9033,9033,4,0001432449,Restricted Stock Unit
+D,03/02/2018 00:00:00,Baldwin James L. JR,4,F-InKind,--D,1263,91577,3,0001432449,Common Stock
+A,03/02/2018 00:00:00,Baldwin James L. JR,4,J-Other,--D,266,92840,2,0001432449,Common Stock
+A,03/02/2018 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,3602,92574,1,0001432449,Common Stock
+D,03/02/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,275,275,12,0001709955,Restricted Stock Unit
+D,03/02/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,909,0,11,0001709955,Restricted Stock Unit
+A,03/02/2018 00:00:00,Alt Jaxie S.,4,A-Award,--D,6452,6452,10,0001709955,Restricted Stock Unit
+D,03/02/2018 00:00:00,Alt Jaxie S.,4,F-InKind,--D,71,4808,6,0001709955,Common Stock
+A,03/02/2018 00:00:00,Alt Jaxie S.,4,J-Other,--D,13,4879,5,0001709955,Common Stock
+A,03/02/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,275,4866,4,0001709955,Common Stock
+D,03/02/2018 00:00:00,Alt Jaxie S.,4,F-InKind,--D,238,4591,3,0001709955,Common Stock
+A,03/02/2018 00:00:00,Alt Jaxie S.,4,J-Other,--D,67,4829,2,0001709955,Common Stock
+A,03/02/2018 00:00:00,Alt Jaxie S.,4,M-Exempt,--D,909,4762,1,0001709955,Common Stock
+D,03/02/2018 00:00:00,Alexander David E,4,M-Exempt,--D,2020,0,6,0001535218,Restricted Stock Unit
+A,03/02/2018 00:00:00,Alexander David E,4,A-Award,--D,1505,1505,5,0001535218,Restricted Stock Unit
+A,03/02/2018 00:00:00,Alexander David E,4,J-Other,--I,2169,15961,4,0001535218,Common Stock
+D,03/02/2018 00:00:00,Alexander David E,4,J-Other,--D,2169,0,3,0001535218,Common Stock
+A,03/02/2018 00:00:00,Alexander David E,4,J-Other,--D,149,2169,2,0001535218,Common Stock
+A,03/02/2018 00:00:00,Alexander David E,4,M-Exempt,--D,2020,2020,1,0001535218,Common Stock
+A,03/01/2018 00:00:00,ELLEN MARTIN M,4,J-Other,--I,6061,75061,2,0001189832,Common Stock
+D,03/01/2018 00:00:00,ELLEN MARTIN M,4,J-Other,--D,6061,0,1,0001189832,Common Stock
+D,02/26/2018 00:00:00,YOUNG LARRY D,4,F-InKind,--D,11713,221341,2,0001206946,Common Stock
+A,02/26/2018 00:00:00,YOUNG LARRY D,4,A-Award,--D,33054,233054,1,0001206946,Common Stock
+D,02/26/2018 00:00:00,Trebilcock James R.,4,F-InKind,--D,1066,7439,2,0001446902,Common Stock
+A,02/26/2018 00:00:00,Trebilcock James R.,4,A-Award,--D,4313,8505,1,0001446902,Common Stock
+D,02/26/2018 00:00:00,Thomas David,4,F-InKind,--D,750,38224,2,0001446970,Common Stock
+A,02/26/2018 00:00:00,Thomas David,4,A-Award,--D,2974,38974,1,0001446970,Common Stock
+D,02/26/2018 00:00:00,Stephens Angela A.,4,F-InKind,--D,324,6940,2,0001457301,Common Stock
+A,02/26/2018 00:00:00,Stephens Angela A.,4,A-Award,--D,1211,7264,1,0001457301,Common Stock
+D,02/26/2018 00:00:00,Johnston James J. JR,4,F-InKind,--D,1817,20318,2,0001432612,Common Stock
+A,02/26/2018 00:00:00,Johnston James J. JR,4,A-Award,--D,7436,22135,1,0001432612,Common Stock
+D,02/26/2018 00:00:00,Hobson Derry L.,4,F-InKind,--D,1222,6390,2,0001432446,Common Stock
+A,02/26/2018 00:00:00,Hobson Derry L.,4,A-Award,--D,4957,7612,1,0001432446,Common Stock
+D,02/26/2018 00:00:00,Hancock Philip L,4,F-InKind,--D,1507,5209,2,0001569254,Common Stock
+A,02/26/2018 00:00:00,Hancock Philip L,4,A-Award,--D,4365,6716,1,0001569254,Common Stock
+D,02/26/2018 00:00:00,ELLEN MARTIN M,4,F-InKind,--D,1961,6061,2,0001189832,Common Stock
+A,02/26/2018 00:00:00,ELLEN MARTIN M,4,A-Award,--D,8022,8022,1,0001189832,Common Stock
+D,02/26/2018 00:00:00,Collins Rodger L.,4,F-InKind,--D,1818,106726,2,0001432448,Common Stock
+A,02/26/2018 00:00:00,Collins Rodger L.,4,A-Award,--D,7436,108544,1,0001432448,Common Stock
+D,02/26/2018 00:00:00,Baldwin James L. JR,4,F-InKind,--D,1293,88972,2,0001432449,Common Stock
+A,02/26/2018 00:00:00,Baldwin James L. JR,4,A-Award,--D,5238,90265,1,0001432449,Common Stock
+D,02/26/2018 00:00:00,Alt Jaxie S.,4,F-InKind,--D,223,3853,2,0001709955,Common Stock
+A,02/26/2018 00:00:00,Alt Jaxie S.,4,A-Award,--D,793,4076,1,0001709955,Common Stock
+A,01/04/2018 00:00:00,Johnston James J. JR,5,J-Other,--D,42,14699,4,0001432612,Common Stock
+A,12/18/2017 00:00:00,Rogers Ronald G.,4,J-Other,--I,2496,14470,2,0001432525,Common Stock
+D,12/18/2017 00:00:00,Rogers Ronald G.,4,J-Other,--D,2496,0,1,0001432525,Common Stock
+D,11/18/2017 00:00:00,SHIVE DUNIA A,4,M-Exempt,--D,423,0,3,0001182313,Restricted Stock Unit
+A,11/18/2017 00:00:00,SHIVE DUNIA A,4,J-Other,--D,31,1154,2,0001182313,Common Stock
+A,11/18/2017 00:00:00,SHIVE DUNIA A,4,M-Exempt,--D,423,1123,1,0001182313,Common Stock
+A,10/06/2017 00:00:00,Johnston James J. JR,5,J-Other,--D,45,14657,3,0001432612,Common Stock
+D,09/01/2017 00:00:00,Stephens Angela A.,4,S-Sale,--D,7700,6053,1,0001457301,Common Stock
+D,08/16/2017 00:00:00,Stephens Angela A.,4,M-Exempt,--D,3160,0,3,0001457301,Employee Stock Option (Right to Buy)
+D,08/16/2017 00:00:00,Stephens Angela A.,4,S-Sale,--D,3160,13753,2,0001457301,Common Stock
+A,08/16/2017 00:00:00,Stephens Angela A.,4,M-Exempt,--D,3160,16913,1,0001457301,Common Stock
+D,08/09/2017 00:00:00,SZOSTAK M ANNE,4,G-Gift,--I,4000,16139,1,0001094176,Common Stock
+A,07/07/2017 00:00:00,Hancock Philip L,4,A-Award,--D,2800,2800,1,0001569254,Restricted Stock Units
+A,07/07/2017 00:00:00,Alt Jaxie S.,4,A-Award,--D,4369,4369,1,0001709955,Restricted Stock Units
+A,07/06/2017 00:00:00,Johnston James J. JR,5,J-Other,--D,43,14612,2,0001432612,Common Stock
+D,06/13/2017 00:00:00,SANDERS WAYNE R,4,G-Gift,-ED,4672,34093,1,0001191315,Common Stock
+D,05/18/2017 00:00:00,ROCHE JOYCE M,4,M-Exempt,--D,271,0,9,0001057777,Deferred Stock Units
+D,05/18/2017 00:00:00,ROCHE JOYCE M,4,M-Exempt,--D,349,0,8,0001057777,Deferred Stock Units
+D,05/18/2017 00:00:00,ROCHE JOYCE M,4,M-Exempt,--D,524,0,7,0001057777,Deferred Stock Units
+A,05/18/2017 00:00:00,ROCHE JOYCE M,4,J-Other,--D,7,13147,6,0001057777,Common Stock
+A,05/18/2017 00:00:00,ROCHE JOYCE M,4,M-Exempt,--D,271,13140,5,0001057777,Common Stock
+A,05/18/2017 00:00:00,ROCHE JOYCE M,4,J-Other,--D,18,12869,4,0001057777,Common Stock
+A,05/18/2017 00:00:00,ROCHE JOYCE M,4,M-Exempt,--D,349,12851,3,0001057777,Common Stock
+A,05/18/2017 00:00:00,ROCHE JOYCE M,4,J-Other,--D,42,12502,2,0001057777,Common Stock
+A,05/18/2017 00:00:00,ROCHE JOYCE M,4,M-Exempt,--D,524,12460,1,0001057777,Common Stock
+A,04/05/2017 00:00:00,Johnston James J. JR,5,J-Other,--D,40,14569,1,0001432612,Common Stock
+D,03/15/2017 00:00:00,ROCHE JOYCE M,4,G-Gift,-ED,325,11936,1,0001057777,Common Stock
+D,03/15/2017 00:00:00,YOUNG LARRY D,4,S-Sale,--D,28495,200000,2,0001206946,Common Stock
+D,03/15/2017 00:00:00,Thomas David,4,S-Sale,--D,5695,36000,1,0001446970,Common Stock
+D,03/14/2017 00:00:00,YOUNG LARRY D,4,S-Sale,--D,10676,228495,1,0001206946,Common Stock
+D,03/13/2017 00:00:00,Rogers Ronald G.,4,S-Sale,--I,11000,11974,1,0001432525,Common Stock
+D,03/10/2017 00:00:00,Thomas David,4,M-Exempt,--D,6206,0,3,0001446970,Employee Stock Option (Right to Buy)
+D,03/10/2017 00:00:00,Thomas David,4,S-Sale,--D,6206,41695,2,0001446970,Common Stock
+A,03/10/2017 00:00:00,Thomas David,4,M-Exempt,--D,6206,47901,1,0001446970,Common Stock
+D,03/10/2017 00:00:00,Hobson Derry L.,4,M-Exempt,--D,6045,12088,3,0001432446,Employee Stock Option (Right to Buy)
+D,03/10/2017 00:00:00,Hobson Derry L.,4,S-Sale,--D,6045,2655,2,0001432446,Common Stock
+A,03/10/2017 00:00:00,Hobson Derry L.,4,M-Exempt,--D,6045,8700,1,0001432446,Common Stock
+D,03/10/2017 00:00:00,Hancock Philip L,4,S-Sale,--D,10295,2351,1,0001569254,Common Stoock
+D,03/09/2017 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,6876,6876,6,0001432449,Employee Stock Option (right to buy)
+D,03/09/2017 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,9195,0,5,0001432449,Employee Stock Option (Right to Buy)
+D,03/09/2017 00:00:00,Baldwin James L. JR,4,S-Sale,--D,13116,85027,4,0001432449,Common Stock
+D,03/09/2017 00:00:00,Baldwin James L. JR,4,S-Sale,--D,16071,98143,3,0001432449,Common Stock
+A,03/09/2017 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,6876,114214,2,0001432449,Common Stock
+A,03/09/2017 00:00:00,Baldwin James L. JR,4,M-Exempt,--D,9195,107338,1,0001432449,Common Stock
+D,03/08/2017 00:00:00,Hobson Derry L.,4,M-Exempt,--D,4943,6507,8,0001432446,Employee Stock Option (Right to Buy)
+D,03/08/2017 00:00:00,Hobson Derry L.,4,S-Sale,--D,4943,2655,5,0001432446,Common Stock
+A,03/08/2017 00:00:00,Hobson Derry L.,4,M-Exempt,--D,4943,7598,4,0001432446,Common Stock
+D,03/08/2017 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,59709,0,9,0001206946,Employee Stock Option (Right to Buy)
+D,03/08/2017 00:00:00,YOUNG LARRY D,4,S-Sale,--D,59709,239171,6,0001206946,Common Stock
+A,03/08/2017 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,59709,298880,5,0001206946,Common Stock
+D,03/07/2017 00:00:00,Hobson Derry L.,4,M-Exempt,--D,1564,11450,7,0001432446,Employee Stock Option (Right to Buy)
+D,03/07/2017 00:00:00,Hobson Derry L.,4,M-Exempt,--D,7104,0,6,0001432446,Employee Stock Option (Right to Buy)
+D,03/07/2017 00:00:00,Hobson Derry L.,4,S-Sale,--D,8833,2655,3,0001432446,Common Stock
+A,03/07/2017 00:00:00,Hobson Derry L.,4,M-Exempt,--D,1564,11488,2,0001432446,Common Stock
+A,03/07/2017 00:00:00,Hobson Derry L.,4,M-Exempt,--D,7104,9924,1,0001432446,Common Stock
+D,03/07/2017 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,78221,59709,8,0001206946,Employee Stock Option (Right to Buy)
+D,03/07/2017 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,57803,0,7,0001206946,Employee Stock Option (Right to Buy)
+D,03/07/2017 00:00:00,YOUNG LARRY D,4,S-Sale,--D,78221,239171,4,0001206946,Common Stock
+D,03/07/2017 00:00:00,YOUNG LARRY D,4,S-Sale,--D,57803,317392,3,0001206946,Common Stock
+A,03/07/2017 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,78221,375195,2,0001206946,Common Stock
+A,03/07/2017 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,57803,296974,1,0001206946,Common Stock
+D,03/07/2017 00:00:00,Johnston James J. JR,4,S-Sale,--D,14580,14529,1,0001432612,Common Stock
+D,03/06/2017 00:00:00,Hobson Derry L.,4,M-Exempt,--D,3240,7104,10,0001432446,Employee Stock Option (Right to Buy)
+D,03/06/2017 00:00:00,Hobson Derry L.,4,S-Sale,--D,1625,2820,6,0001432446,Common Stock
+D,03/06/2017 00:00:00,Hobson Derry L.,4,S-Sale,--D,3240,4445,5,0001432446,Common Stock
+A,03/06/2017 00:00:00,Hobson Derry L.,4,M-Exempt,--D,3240,7685,4,0001432446,Common Stock
+D,03/06/2017 00:00:00,ELLEN MARTIN M,4,S-Sale,--D,6897,0,4,0001189832,Common Stock
+D,03/03/2017 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,46439,0,6,0001206946,Restricted Stock Units
+D,03/03/2017 00:00:00,YOUNG LARRY D,4,F-InKind,--D,20306,239171,3,0001206946,Common Stock
+A,03/03/2017 00:00:00,YOUNG LARRY D,4,J-Other,--D,3507,259477,2,0001206946,Common Stock
+A,03/03/2017 00:00:00,YOUNG LARRY D,4,M-Exempt,--D,46439,255970,1,0001206946,Common Stock
+D,03/03/2017 00:00:00,Trebilcock James R.,4,M-Exempt,--D,5572,0,7,0001446902,Restricted Stock Units
+D,03/03/2017 00:00:00,Trebilcock James R.,4,F-InKind,--D,2437,4192,4,0001446902,Common Stock
+A,03/03/2017 00:00:00,Trebilcock James R.,4,J-Other,--D,420,6629,3,0001446902,Common Stock
+A,03/03/2017 00:00:00,Trebilcock James R.,4,M-Exempt,--D,5572,6209,2,0001446902,Common Stock
+D,03/03/2017 00:00:00,Thomas David,4,M-Exempt,--D,4179,0,6,0001446970,Restricted Stock Units
+D,03/03/2017 00:00:00,Thomas David,4,F-InKind,--D,1886,41695,3,0001446970,Common Stock
+A,03/03/2017 00:00:00,Thomas David,4,J-Other,--D,315,43581,2,0001446970,Common Stock
+A,03/03/2017 00:00:00,Thomas David,4,M-Exempt,--D,4179,43266,1,0001446970,Common Stock
+D,03/03/2017 00:00:00,Stephens Angela A.,4,M-Exempt,--D,2128,0,10,0001457301,Restricted Stock Units
+D,03/03/2017 00:00:00,Stephens Angela A.,4,F-InKind,--D,626,13753,6,0001457301,Common Stock

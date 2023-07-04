@@ -1,0 +1,431 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/01/2023 00:00:00,Pearce Sheri,4,S-Sale,--D,19600,155267,1,0001808080,"Common stock, par value $0.01 per share"
+D,05/05/2023 00:00:00,Kennedy Michael N.,4,S-Sale,--D,300000,1060730,1,0001477679,"Common stock, par value $0.01 per share"
+D,04/15/2023 00:00:00,Pearce Sheri,4,F-InKind,--D,16399,174867,1,0001808080,"Common stock, par value $0.01 per share"
+D,04/15/2023 00:00:00,Krueger Brendan E.,4,F-InKind,--D,26838,409457,1,0001860656,"Common stock, par value $0.01 per share"
+D,04/15/2023 00:00:00,Kennedy Michael N.,4,F-InKind,--D,46827,1360730,1,0001477679,"Common stock, par value $0.01 per share"
+D,04/15/2023 00:00:00,Schultz Yvette K,4,F-InKind,--D,34348,382330,1,0001904142,"Common stock, par value $0.01 per share"
+D,04/15/2023 00:00:00,RADY PAUL M,4,F-InKind,--D,198629,2453918,1,0001234637,"Common stock, par value $0.01 per share"
+A,04/10/2023 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,3098,72952,1,0001235158,"Common stock, par value $0.01 per share"
+A,04/10/2023 00:00:00,KEYTE DAVID H,4,A-Award,--D,3098,82471,1,0001215004,"Common stock, par value $0.01 per share"
+A,04/10/2023 00:00:00,Keenan W Howard JR,4,A-Award,--D,3098,127439,1,0001370287,"Common stock, par value $0.01 per share"
+A,04/10/2023 00:00:00,DEA PETER A,4,A-Award,--D,3098,69322,1,0001132295,"Common stock, par value $0.01 per share"
+A,04/10/2023 00:00:00,Chisholm Nancy,4,A-Award,--D,3098,3956,1,0001957253,"Common stock, par value $0.01 per share"
+A,04/10/2023 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,3098,76314,1,0001235082,"Common stock, par value $0.01 per share"
+A,04/10/2023 00:00:00,MCARDLE JANINE J,4,A-Award,--D,3098,44987,1,0001250240,"Common stock, par value $0.01 per share"
+A,03/15/2023 00:00:00,KEYTE DAVID H,4,P-Purchase,--D,10000,79373,1,0001215004,"Common stock, par value $0.01 per share"
+A,03/07/2023 00:00:00,Schultz Yvette K,4,A-Award,--D,186082,416678,1,0001904142,"Common stock, par value $0.01 per share"
+A,03/07/2023 00:00:00,RADY PAUL M,4,A-Award,--D,708884,2652547,1,0001234637,"Common stock, par value $0.01 per share"
+A,03/07/2023 00:00:00,Pearce Sheri,4,A-Award,--D,70888,191266,1,0001808080,"Common stock, par value $0.01 per share"
+A,03/07/2023 00:00:00,Krueger Brendan E.,4,A-Award,--D,148865,436295,1,0001860656,"Common stock, par value $0.01 per share"
+A,03/07/2023 00:00:00,Kennedy Michael N.,4,A-Award,--D,304820,1407557,1,0001477679,"Common stock, par value $0.01 per share"
+D,01/20/2023 00:00:00,Kennedy Michael N.,4,F-InKind,--D,43801,1102737,1,0001477679,"Common stock, par value $0.01 per share"
+D,01/15/2023 00:00:00,Pearce Sheri,4,F-InKind,--D,995,120378,1,0001808080,"Common stock, par value $0.01 per share"
+A,01/10/2023 00:00:00,Chisholm Nancy,4,A-Award,--D,858,858,1,0001957253,"Common stock, par value $0.01 per share"
+A,01/10/2023 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,2925,73216,1,0001235082,"Common stock, par value $0.01 per share"
+A,01/10/2023 00:00:00,KEYTE DAVID H,4,A-Award,--D,2925,69373,1,0001215004,"Common stock, par value $0.01 per share"
+A,01/10/2023 00:00:00,MCARDLE JANINE J,4,A-Award,--D,2925,41889,1,0001250240,"Common stock, par value $0.01 per share"
+A,01/10/2023 00:00:00,Keenan W Howard JR,4,A-Award,--D,2925,124341,1,0001370287,"Common stock, par value $0.01 per share"
+A,01/10/2023 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,2925,69854,1,0001235158,"Common stock, par value $0.01 per share"
+A,01/10/2023 00:00:00,DEA PETER A,4,A-Award,--D,2925,66224,1,0001132295,"Common stock, par value $0.01 per share"
+A,10/10/2022 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,3371,70291,1,0001235082,"Common stock, par value $0.01 per share"
+A,10/10/2022 00:00:00,MCARDLE JANINE J,4,A-Award,--D,3371,38964,1,0001250240,"Common stock, par value $0.01 per share"
+A,10/10/2022 00:00:00,KEYTE DAVID H,4,A-Award,--D,3371,66448,1,0001215004,"Common stock, par value $0.01 per share"
+A,10/10/2022 00:00:00,Keenan W Howard JR,4,A-Award,--D,3371,121416,1,0001370287,"Common stock, par value $0.01 per share"
+A,10/10/2022 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,3371,66929,1,0001235158,"Common stock, par value $0.01 per share"
+A,10/10/2022 00:00:00,DEA PETER A,4,A-Award,--D,3371,63299,1,0001132295,"Common stock, par value $0.01 per share"
+D,07/15/2022 00:00:00,RADY PAUL M,5,G-Gift,--D,563994,1943663,2,0001234637,"Common stock, par value $0.01 per share"
+D,07/15/2022 00:00:00,RADY PAUL M,5,G-Gift,--I,1180821,0,1,0001234637,"Common stock, par value $0.01 per share"
+A,07/08/2022 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,3490,66920,1,0001235082,"Common stock, par value $0.01 per share"
+A,07/08/2022 00:00:00,MCARDLE JANINE J,4,A-Award,--D,3490,35593,1,0001250240,"Common stock, par value $0.01 per share"
+A,07/08/2022 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,3490,63558,1,0001235158,"Common stock, par value $0.01 per share"
+A,07/08/2022 00:00:00,KEYTE DAVID H,4,A-Award,--D,3490,63077,1,0001215004,"Common stock, par value $0.01 per share"
+A,07/08/2022 00:00:00,Keenan W Howard JR,4,A-Award,--D,3490,118045,1,0001370287,"Common stock, par value $0.01 per share"
+A,07/08/2022 00:00:00,DEA PETER A,4,A-Award,--D,3490,59928,1,0001132295,"Common stock, par value $0.01 per share"
+D,05/25/2022 00:00:00,Keenan W Howard JR,4,S-Sale,--I,147367,0,6,0001370287,"Common stock, par value $0.01 per share"
+D,05/25/2022 00:00:00,Keenan W Howard JR,4,S-Sale,--I,95501,0,5,0001370287,"Common stock, par value $0.01 per share"
+D,05/24/2022 00:00:00,Keenan W Howard JR,4,S-Sale,--I,181439,147367,4,0001370287,"Common stock, par value $0.01 per share"
+D,05/24/2022 00:00:00,Keenan W Howard JR,4,S-Sale,--I,117580,95501,3,0001370287,"Common stock, par value $0.01 per share"
+D,05/23/2022 00:00:00,Keenan W Howard JR,4,S-Sale,--I,152299,328806,2,0001370287,"Common stock, par value $0.01 per share"
+D,05/23/2022 00:00:00,Keenan W Howard JR,4,S-Sale,--I,98697,213081,1,0001370287,"Common stock, par value $0.01 per share"
+D,05/20/2022 00:00:00,Keenan W Howard JR,4,S-Sale,--I,41566,481105,6,0001370287,"Common stock, par value $0.01 per share"
+D,05/20/2022 00:00:00,Keenan W Howard JR,4,S-Sale,--I,26936,311778,5,0001370287,"Common stock, par value $0.01 per share"
+D,05/19/2022 00:00:00,Keenan W Howard JR,4,S-Sale,--I,275327,522671,4,0001370287,"Common stock, par value $0.01 per share"
+D,05/19/2022 00:00:00,Keenan W Howard JR,4,S-Sale,--I,178424,338714,3,0001370287,"Common stock, par value $0.01 per share"
+D,05/18/2022 00:00:00,Keenan W Howard JR,4,S-Sale,--I,184008,797998,2,0001370287,"Common stock, par value $0.01 per share"
+D,05/18/2022 00:00:00,Keenan W Howard JR,4,S-Sale,--I,119246,517138,1,0001370287,"Common stock, par value $0.01 per share"
+A,05/12/2022 00:00:00,KEYTE DAVID H,4,P-Purchase,--D,10000,59587,1,0001215004,"Common stock, par value $0.01 per share"
+A,05/05/2022 00:00:00,Krueger Brendan E.,4,P-Purchase,--D,7000,287430,2,0001860656,"Common stock, par value $0.01 per share"
+A,05/04/2022 00:00:00,Krueger Brendan E.,4,P-Purchase,--D,3000,280430,1,0001860656,"Common stock, par value $0.01 per share"
+D,04/18/2022 00:00:00,RADY PAUL M,4,M-Exempt,--D,155368,0,6,0001234637,Performance Share Units
+D,04/18/2022 00:00:00,RADY PAUL M,4,F-InKind,--D,68331,2507657,4,0001234637,"Common stock, par value $0.01 per share"
+A,04/18/2022 00:00:00,RADY PAUL M,4,M-Exempt,--D,155368,2575988,3,0001234637,"Common stock, par value $0.01 per share"
+D,04/18/2022 00:00:00,Kennedy Michael N.,4,M-Exempt,--D,45904,0,5,0001477679,Performance Share Units
+D,04/18/2022 00:00:00,Kennedy Michael N.,4,F-InKind,--D,20189,1146538,4,0001477679,"Common stock, par value $0.01 per share"
+A,04/18/2022 00:00:00,Kennedy Michael N.,4,M-Exempt,--D,45904,1166727,3,0001477679,"Common stock, par value $0.01 per share"
+A,04/15/2022 00:00:00,Schultz Yvette K,4,A-Award,--D,166223,230596,2,0001904142,"Common stock, par value $0.01 per share"
+D,04/15/2022 00:00:00,Schultz Yvette K,4,F-InKind,--D,12054,64373,1,0001904142,"Common stock, par value $0.01 per share"
+A,04/15/2022 00:00:00,RADY PAUL M,4,A-Award,--D,631648,2420620,2,0001234637,"Common stock, par value $0.01 per share"
+D,04/15/2022 00:00:00,RADY PAUL M,4,F-InKind,--D,106030,1788972,1,0001234637,"Common stock, par value $0.01 per share"
+A,04/15/2022 00:00:00,Pearce Sheri,4,A-Award,--D,62056,121373,2,0001808080,"Common stock, par value $0.01 per share"
+D,04/15/2022 00:00:00,Pearce Sheri,4,F-InKind,--D,7301,59317,1,0001808080,"Common stock, par value $0.01 per share"
+A,04/15/2022 00:00:00,Kennedy Michael N.,4,A-Award,--D,216090,1120823,2,0001477679,"Common stock, par value $0.01 per share"
+D,04/15/2022 00:00:00,Kennedy Michael N.,4,F-InKind,--D,15148,904733,1,0001477679,"Common stock, par value $0.01 per share"
+A,04/15/2022 00:00:00,Ash W Patrick,4,A-Award,--D,172872,453656,2,0001673454,"Common stock, par value $0.01 per share"
+D,04/15/2022 00:00:00,Ash W Patrick,4,F-InKind,--D,14178,280784,1,0001673454,"Common stock, par value $0.01 per share"
+A,04/15/2022 00:00:00,Krueger Brendan E.,4,A-Award,--D,132978,277430,2,0001860656,"Common stock, par value $0.01 per share"
+D,04/15/2022 00:00:00,Krueger Brendan E.,4,F-InKind,--D,9751,144452,1,0001860656,"Common stock, par value $0.01 per share"
+A,04/08/2022 00:00:00,ROBESON ROSE M,4,A-Award,--D,2981,61571,1,0001251678,"Common stock, par value $0.01 per share"
+A,04/08/2022 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,2981,63430,1,0001235082,"Common stock, par value $0.01 per share"
+A,04/08/2022 00:00:00,MCARDLE JANINE J,4,A-Award,--D,2981,32103,1,0001250240,"Common stock, par value $0.01 per share"
+A,04/08/2022 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,2981,60068,1,0001235158,"Common stock, par value $0.01 per share"
+A,04/08/2022 00:00:00,KEYTE DAVID H,4,A-Award,--D,2981,49587,1,0001215004,"Common stock, par value $0.01 per share"
+A,04/08/2022 00:00:00,Keenan W Howard JR,4,A-Award,--D,2981,114555,1,0001370287,"Common stock, par value $0.01 per share"
+A,04/08/2022 00:00:00,DEA PETER A,4,A-Award,--D,2981,56438,1,0001132295,"Common stock, par value $0.01 per share"
+D,03/16/2022 00:00:00,Keenan W Howard JR,4,J-Other,--I,982006,982006,4,0001370287,"Common stock, par value $0.01 per share"
+D,03/16/2022 00:00:00,Keenan W Howard JR,4,J-Other,--I,636384,636384,3,0001370287,"Common stock, par value $0.01 per share"
+A,03/16/2022 00:00:00,Keenan W Howard JR,4,J-Other,--D,6931,111574,2,0001370287,"Common stock, par value $0.01 per share"
+A,03/16/2022 00:00:00,Keenan W Howard JR,4,J-Other,--D,3979,104643,1,0001370287,"Common stock, par value $0.01 per share"
+D,01/20/2022 00:00:00,Kennedy Michael N.,4,F-InKind,--D,43820,919881,1,0001477679,"Common stock, par value $0.01 per share"
+D,01/20/2022 00:00:00,Ash W Patrick,4,F-InKind,--D,33702,294962,1,0001673454,"Common stock, par value $0.01 per share"
+D,01/15/2022 00:00:00,Ash W Patrick,4,F-InKind,--D,1470,328664,1,0001673454,"Common stock, par value $0.01 per share"
+D,01/15/2022 00:00:00,Pearce Sheri,4,F-InKind,--D,995,66618,1,0001808080,"Common stock, par value $0.01 per share"
+A,01/10/2022 00:00:00,ROBESON ROSE M,4,A-Award,--D,3205,58590,1,0001251678,"Common stock, par value $0.01 per share"
+A,01/10/2022 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,3205,60449,1,0001235082,"Common stock, par value $0.01 per share"
+A,01/10/2022 00:00:00,MCARDLE JANINE J,4,A-Award,--D,3205,29122,1,0001250240,"Common stock, par value $0.01 per share"
+A,01/10/2022 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,3205,57087,1,0001235158,"Common stock, par value $0.01 per share"
+A,01/10/2022 00:00:00,KEYTE DAVID H,4,A-Award,--D,3205,46606,1,0001215004,"Common stock, par value $0.01 per share"
+A,01/10/2022 00:00:00,Keenan W Howard JR,4,A-Award,--D,3205,100664,1,0001370287,"Common stock, par value $0.01 per share"
+A,01/10/2022 00:00:00,DEA PETER A,4,A-Award,--D,3205,53457,1,0001132295,"Common stock, par value $0.01 per share"
+D,12/02/2021 00:00:00,Keenan W Howard JR,4,J-Other,--I,1205973,1964012,4,0001370287,"Common stock, par value $0.01 per share"
+D,12/02/2021 00:00:00,Keenan W Howard JR,4,J-Other,--I,736866,1272768,3,0001370287,"Common stock, par value $0.01 per share"
+A,12/02/2021 00:00:00,Keenan W Howard JR,4,J-Other,--D,8510,97459,2,0001370287,"Common stock, par value $0.01 per share"
+A,12/02/2021 00:00:00,Keenan W Howard JR,4,J-Other,--D,4609,88949,1,0001370287,"Common stock, par value $0.01 per share"
+D,11/18/2021 00:00:00,KLIMLEY BROOKS J,4,S-Sale,--D,7500,53882,1,0001235158,"Common stock, par value $0.01 per share"
+A,10/10/2021 00:00:00,ROBESON ROSE M,4,A-Award,--D,2962,55385,1,0001251678,"Common stock, par value $0.01 per share"
+A,10/10/2021 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,2962,57244,1,0001235082,"Common stock, par value $0.01 per share"
+A,10/10/2021 00:00:00,MCARDLE JANINE J,4,A-Award,--D,2962,25917,1,0001250240,"Common stock, par value $0.01 per share"
+A,10/10/2021 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,2962,61382,1,0001235158,"Common stock, par value $0.01 per share"
+A,10/10/2021 00:00:00,KEYTE DAVID H,4,A-Award,--D,2962,43401,1,0001215004,"Common stock, par value $0.01 per share"
+A,10/10/2021 00:00:00,Keenan W Howard JR,4,A-Award,--D,2962,84340,1,0001370287,"Common stock, par value $0.01 per share"
+A,10/10/2021 00:00:00,DEA PETER A,4,A-Award,--D,2962,50252,1,0001132295,"Common stock, par value $0.01 per share"
+A,08/26/2021 00:00:00,Krueger Brendan E.,4,P-Purchase,--D,11000,154203,2,0001860656,"Common stock, par value $0.01 per share"
+A,08/25/2021 00:00:00,Krueger Brendan E.,4,P-Purchase,--D,4000,143203,1,0001860656,"Common stock, par value $0.01 per share"
+D,07/20/2021 00:00:00,Schopp Alvyn A.,4,F-InKind,--D,50622,1947052,1,0001586799,"Common stock, par value $0.01 per share"
+A,07/09/2021 00:00:00,ROBESON ROSE M,4,A-Award,--D,3074,52423,1,0001251678,"Common stock, par value $0.01 per share"
+A,07/09/2021 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,3074,54282,1,0001235082,"Common stock, par value $0.01 per share"
+A,07/09/2021 00:00:00,MCARDLE JANINE J,4,A-Award,--D,3074,22955,1,0001250240,"Common stock, par value $0.01 per share"
+A,07/09/2021 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,3074,58420,1,0001235158,"Common stock, par value $0.01 per share"
+A,07/09/2021 00:00:00,KEYTE DAVID H,4,A-Award,--D,3074,40439,1,0001215004,"Common stock, par value $0.01 per share"
+A,07/09/2021 00:00:00,Keenan W Howard JR,4,A-Award,--D,3074,81378,1,0001370287,"Common stock, par value $0.01 per share"
+A,07/09/2021 00:00:00,DEA PETER A,4,A-Award,--D,3074,47290,1,0001132295,"Common stock, par value $0.01 per share"
+A,04/15/2021 00:00:00,Schopp Alvyn A.,4,A-Award,--D,160734,1997674,2,0001586799,"Common stock, par value $0.01 per share"
+D,04/15/2021 00:00:00,Schopp Alvyn A.,4,F-InKind,--D,5310,1836940,1,0001586799,"Common stock, par value $0.01 per share"
+A,04/15/2021 00:00:00,RADY PAUL M,4,A-Award,--D,516647,1895002,2,0001234637,"Common stock, par value $0.01 per share"
+D,04/15/2021 00:00:00,RADY PAUL M,4,F-InKind,--D,63662,1378355,1,0001234637,"Common stock, par value $0.01 per share"
+D,04/15/2021 00:00:00,Warren Glen C Jr,4,F-InKind,--D,25907,6191816,1,0001375364,"Common stock, par value $0.01 per share"
+A,04/15/2021 00:00:00,Kennedy Michael N.,4,A-Award,--D,114810,963701,2,0001477679,"Common stock, par value $0.01 per share"
+D,04/15/2021 00:00:00,Kennedy Michael N.,4,F-InKind,--D,6086,848891,1,0001477679,"Common stock, par value $0.01 per share"
+A,04/15/2021 00:00:00,Ash W Patrick,4,A-Award,--D,114810,330134,2,0001673454,"Common stock, par value $0.01 per share"
+D,04/15/2021 00:00:00,Ash W Patrick,4,F-InKind,--D,1553,215324,1,0001673454,"Common stock, par value $0.01 per share"
+A,04/15/2021 00:00:00,Pearce Sheri,4,A-Award,--D,28702,67613,2,0001808080,"Common stock, par value $0.01 per share"
+D,04/15/2021 00:00:00,Pearce Sheri,4,F-InKind,--D,4145,38911,1,0001808080,"Common stock, par value $0.01 per share"
+A,04/12/2021 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,3911,51208,1,0001235082,"Common stock, par value $0.01 per share"
+A,04/12/2021 00:00:00,MCARDLE JANINE J,4,A-Award,--D,3911,19881,1,0001250240,"Common stock, par value $0.01 per share"
+A,04/12/2021 00:00:00,KEYTE DAVID H,4,A-Award,--D,3911,37365,1,0001215004,"Common stock, par value $0.01 per share"
+A,04/12/2021 00:00:00,Keenan W Howard JR,4,A-Award,--D,3911,78304,1,0001370287,"Common stock, par value $0.01 per share"
+A,04/12/2021 00:00:00,DEA PETER A,4,A-Award,--D,3911,44216,1,0001132295,"Common stock, par value $0.01 per share"
+A,04/12/2021 00:00:00,ROBESON ROSE M,4,A-Award,--D,3911,49349,1,0001251678,"Common stock, par value $0.01 per share"
+A,04/12/2021 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,3911,55346,1,0001235158,"Common stock, par value $0.01 per share"
+D,03/11/2021 00:00:00,Keenan W Howard JR,4,J-Other,--I,275651,3169985,4,0001370287,"Common stock, par value $0.01 per share"
+D,03/11/2021 00:00:00,Keenan W Howard JR,4,J-Other,--I,223293,2009634,3,0001370287,"Common stock, par value $0.01 per share"
+A,03/11/2021 00:00:00,Keenan W Howard JR,4,J-Other,--D,1946,74393,2,0001370287,"Common stock, par value $0.01 per share"
+A,03/11/2021 00:00:00,Keenan W Howard JR,4,J-Other,--D,1396,72447,1,0001370287,"Common stock, par value $0.01 per share"
+D,01/20/2021 00:00:00,Ash W Patrick,4,F-InKind,--D,34541,216877,2,0001673454,"Common stock, par value $0.01 per share"
+D,01/20/2021 00:00:00,Kennedy Michael N.,4,F-InKind,--D,44168,854977,1,0001477679,"Common stock, par value $0.01 per share"
+D,01/20/2021 00:00:00,Schopp Alvyn A.,4,F-InKind,--D,102197,1842250,1,0001586799,"Common stock, par value $0.01 per share"
+D,01/15/2021 00:00:00,Ash W Patrick,4,F-InKind,--D,1496,251418,1,0001673454,"Common stock, par value $0.01 per share"
+D,01/15/2021 00:00:00,Pearce Sheri,4,F-InKind,--D,693,43056,1,0001808080,"Common stock, par value $0.01 per share"
+A,01/10/2021 00:00:00,ROBESON ROSE M,4,A-Award,--D,4022,45438,2,0001251678,"Common stock, par value $0.01 per share"
+A,01/10/2021 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,4022,47297,2,0001235082,"Common stock, par value $0.01 per share"
+A,01/10/2021 00:00:00,MCARDLE JANINE J,4,A-Award,--D,4022,15970,2,0001250240,"Common stock, par value $0.01 per share"
+A,01/10/2021 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,4022,51435,2,0001235158,"Common stock, par value $0.01 per share"
+A,01/10/2021 00:00:00,KEYTE DAVID H,4,A-Award,--D,4022,33454,2,0001215004,"Common stock, par value $0.01 per share"
+A,01/10/2021 00:00:00,Keenan W Howard JR,4,A-Award,--D,4022,71051,2,0001370287,"Common stock, par value $0.01 per share"
+A,01/10/2021 00:00:00,DEA PETER A,4,A-Award,--D,4022,40305,2,0001132295,"Common stock, par value $0.01 per share"
+D,12/28/2020 00:00:00,Warren Glen C Jr,5,G-Gift,--D,817000,6217723,1,0001375364,"Common stock, par value $0.01 per share"
+D,11/24/2020 00:00:00,Pearce Sheri,4,S-Sale,--D,1326,43749,1,0001808080,"Common stock, par value $0.01 per share"
+D,11/12/2020 00:00:00,KLIMLEY BROOKS J,4,S-Sale,--D,9788,41932,1,0001235158,"Common stock, par value $0.01 per share"
+A,10/10/2020 00:00:00,ROBESON ROSE M,4,A-Award,--D,5481,41416,1,0001251678,"Common stock, par value $0.01 per share"
+A,10/10/2020 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,5481,43275,1,0001235082,"Common stock, par value $0.01 per share"
+A,10/10/2020 00:00:00,MCARDLE JANINE J,4,A-Award,--D,5481,11948,1,0001250240,"Common stock, par value $0.01 per share"
+A,10/10/2020 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,5481,47413,1,0001235158,"Common stock, par value $0.01 per share"
+A,10/10/2020 00:00:00,KEYTE DAVID H,4,A-Award,--D,5481,29432,1,0001215004,"Common stock, par value $0.01 per share"
+A,10/10/2020 00:00:00,Keenan W Howard JR,4,A-Award,--D,5481,67029,1,0001370287,"Common stock, par value $0.01 per share"
+A,10/10/2020 00:00:00,DEA PETER A,4,A-Award,--D,5481,36283,1,0001132295,"Common stock, par value $0.01 per share"
+D,09/14/2020 00:00:00,RADY PAUL M,4,S-Sale,--D,8600000,1442017,1,0001234637,"Common stock, par value $0.01 per share"
+A,07/15/2020 00:00:00,Warren Glen C Jr,4,A-Award,--D,148000,7034723,1,0001375364,"Common stock, par value $0.01 per share"
+A,07/15/2020 00:00:00,RADY PAUL M,4,A-Award,--D,370000,10042017,1,0001234637,"Common stock, par value $0.01 per share"
+A,07/15/2020 00:00:00,Pearce Sheri,4,A-Award,--D,37693,45075,1,0001808080,"Common stock, par value $0.01 per share"
+A,07/10/2020 00:00:00,ROBESON ROSE M,4,A-Award,--D,12126,35935,1,0001251678,"Common stock, par value $0.01 per share"
+A,07/10/2020 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,12126,37794,1,0001235082,"Common stock, par value $0.01 per share"
+A,07/10/2020 00:00:00,MCARDLE JANINE J,4,A-Award,--D,6467,6467,1,0001250240,"Common stock, par value $0.01 per share"
+A,07/10/2020 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,12126,51720,1,0001235158,"Common stock, par value $0.01 per share"
+A,07/10/2020 00:00:00,KEYTE DAVID H,4,A-Award,--D,12126,23951,1,0001215004,"Common stock, par value $0.01 per share"
+A,07/10/2020 00:00:00,Keenan W Howard JR,4,A-Award,--D,12126,61548,1,0001370287,"Common stock, par value $0.01 per share"
+A,07/10/2020 00:00:00,DEA PETER A,4,A-Award,--D,12126,30802,1,0001132295,"Common stock, par value $0.01 per share"
+D,05/05/2020 00:00:00,Warren Glen C Jr,4,S-Sale,--D,10000000,6886723,1,0001375364,"Common stock, par value $0.01 per share"
+D,05/05/2020 00:00:00,RADY PAUL M,4,S-Sale,--I,18000000,1180821,1,0001234637,"Common stock, par value $0.01 per share"
+D,04/15/2020 00:00:00,Yoo K. Phil,4,F-InKind,--D,4095,130465,1,0001587503,"Common stock, par value $0.01 per share"
+D,04/15/2020 00:00:00,Kennedy Michael N.,4,F-InKind,--D,6270,899145,1,0001477679,"Common stock, par value $0.01 per share"
+D,04/15/2020 00:00:00,Warren Glen C Jr,4,F-InKind,--D,15102,16886723,1,0001375364,"Common stock, par value $0.01 per share"
+D,04/15/2020 00:00:00,Schopp Alvyn A.,4,F-InKind,--D,5759,1944447,1,0001586799,"Common stock, par value $0.01 per share"
+D,04/15/2020 00:00:00,RADY PAUL M,4,F-InKind,--D,24827,9672017,1,0001234637,"Common stock, par value $0.01 per share"
+A,04/15/2020 00:00:00,Ash W Patrick,4,F-InKind,--D,1024,252914,1,0001673454,"Common stock, par value $0.01 per share"
+D,03/09/2020 00:00:00,Yoo K. Phil,4,S-Sale,--D,50000,134560,1,0001587503,"Common Stock, par value $0.01 per share"
+A,01/20/2020 00:00:00,Ash W Patrick,4,A-Award,--D,230203,253938,1,0001673454,"Common stock, par value $0.01 per share"
+A,01/20/2020 00:00:00,Schopp Alvyn A.,4,A-Award,--D,460406,1950206,1,0001586799,"Common stock, par value $0.01 per share"
+A,01/20/2020 00:00:00,Kennedy Michael N.,4,A-Award,--D,294660,905415,1,0001477679,"Common stock, par value $0.01 per share"
+D,01/15/2020 00:00:00,Ash W Patrick,4,F-InKind,--D,1022,23735,1,0001673454,"Common stock, par value $0.01 per share"
+A,01/10/2020 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,4623,39594,1,0001235158,"Common stock, par value $0.01 per share"
+A,01/10/2020 00:00:00,ROBESON ROSE M,4,A-Award,--D,4623,23809,1,0001251678,"Common stock, par value $0.01 per share"
+A,01/10/2020 00:00:00,Keenan W Howard JR,4,A-Award,--D,4623,49422,1,0001370287,Common Stock
+A,01/10/2020 00:00:00,KEYTE DAVID H,4,A-Award,--D,4623,11825,1,0001215004,"Common stock, par value $0.01 per share"
+A,01/10/2020 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,4623,25668,1,0001235082,"Common stock, par value $0.01 per share"
+A,01/10/2020 00:00:00,DEA PETER A,4,A-Award,--D,4623,18676,1,0001132295,"Common stock, par value $0.01 per share"
+D,12/16/2019 00:00:00,Yoo K. Phil,4,S-Sale,--D,97395,184560,1,0001587503,"Common stock, par value $0.01 per share"
+D,12/16/2019 00:00:00,ANTERO RESOURCES Corp,4,D-Return,--D,19377592,32042344,1,0001433270,"Common stock, par value $0.01 per share"
+D,12/03/2019 00:00:00,Yoo K. Phil,4,S-Sale,--D,20000,281955,1,0001587503,"Common stock, par value $0.01 per share"
+D,11/12/2019 00:00:00,"Yorktown Energy Partners VIII, L.P.",4,S-Sale,--D,1820463,3445636,1,0001473116,Common Stock
+D,11/12/2019 00:00:00,Keenan W Howard JR,4,S-Sale,--I,1820463,3445636,3,0001370287,Common Stock
+D,11/12/2019 00:00:00,Keenan W Howard JR,4,S-Sale,--I,1179537,2232927,2,0001370287,Common Stock
+D,11/12/2019 00:00:00,"Yorktown Energy Partners VII, L.P.",4,S-Sale,--D,1179537,2232927,1,0001423080,Common Stock
+D,11/12/2019 00:00:00,Yorktown VII Associates LLC,4,S-Sale,--I,1179537,2232927,1,0001423201,Common Stock
+D,11/12/2019 00:00:00,Yorktown VIII Associates LLC,4,S-Sale,--I,1820463,3445636,1,0001473117,Common Stock
+D,11/12/2019 00:00:00,KAGAN PETER,4,S-Sale,--I,22965437,0,2,0001239315,"Common stock, par value $0.01 per share"
+D,11/12/2019 00:00:00,"Warburg Pincus Private Equity X O&G, L.P.",4,S-Sale,--I,22965437,0,3,0001528258,"Common stock, par value $0.01 per share"
+D,11/12/2019 00:00:00,"Warburg Pincus Private Equity X O&G, L.P.",4,S-Sale,--I,711929,0,2,0001528258,"Common stock, par value $0.01 per share"
+D,11/12/2019 00:00:00,"Warburg Pincus Private Equity X O&G, L.P.",4,S-Sale,--D,22253508,0,1,0001528258,"Common stock, par value $0.01 per share"
+A,10/10/2019 00:00:00,Keenan W Howard JR,4,A-Award,--D,4514,44799,1,0001370287,Common Stock
+A,10/10/2019 00:00:00,ROBESON ROSE M,4,A-Award,--D,4514,19186,1,0001251678,"Common stock, par value $0.01 per share"
+A,10/10/2019 00:00:00,KAGAN PETER,4,A-Award,--D,7639,49722,1,0001239315,"Common stock, par value $0.01 per share"
+A,10/10/2019 00:00:00,DEA PETER A,4,A-Award,--D,4514,14053,1,0001132295,"Common stock, par value $0.01 per share"
+A,10/10/2019 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,4514,21045,1,0001235082,"Common stock, par value $0.01 per share"
+A,10/10/2019 00:00:00,KEYTE DAVID H,4,A-Award,--D,4514,7202,1,0001215004,"Common stock, par value $0.01 per share"
+A,10/10/2019 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,4514,34971,1,0001235158,"Common stock, par value $0.01 per share"
+D,09/05/2019 00:00:00,KAGAN PETER,4,S-Sale,--I,17144152,22965437,2,0001239315,"Common stock, par value $0.01 per share"
+D,09/05/2019 00:00:00,"Warburg Pincus Private Equity X O&G, L.P.",4,S-Sale,--I,17144152,22965437,3,0001528258,"Common stock, par value $0.01 per share"
+D,09/05/2019 00:00:00,"Warburg Pincus Private Equity X O&G, L.P.",4,S-Sale,--I,402481,711929,2,0001528258,"Common stock, par value $0.01 per share"
+D,09/05/2019 00:00:00,"Warburg Pincus Private Equity X O&G, L.P.",4,S-Sale,--D,12580788,22253508,1,0001528258,"Common stock, par value $0.01 per share"
+D,09/05/2019 00:00:00,Keenan W Howard JR,4,S-Sale,--I,1463246,0,3,0001370287,Common Stock
+D,09/05/2019 00:00:00,Keenan W Howard JR,4,S-Sale,--I,1392602,0,2,0001370287,Common Stock
+D,09/05/2019 00:00:00,Yorktown V CO LLC,4,S-Sale,--I,1392602,0,1,0001302152,Common Stock
+D,09/05/2019 00:00:00,YORKTOWN ENERGY PARTNERS V LP,4,S-Sale,--D,1392602,0,1,0001210407,Common Stock
+D,09/05/2019 00:00:00,Yorktown Energy Partners VI LP,4,S-Sale,--D,1463246,0,1,0001347504,Common Stock
+D,09/05/2019 00:00:00,Yorktown VI Associates LLC,4,S-Sale,--I,1463246,0,1,0001347608,Common Stock
+D,09/03/2019 00:00:00,Yoo K. Phil,4,S-Sale,--D,15000,301955,1,0001587503,"Common stock, par value $0.01 per share"
+A,07/10/2019 00:00:00,ROBESON ROSE M,4,A-Award,--D,2688,14672,1,0001251678,"Common stock, par value $0.01 per share"
+A,07/10/2019 00:00:00,Peters David A,4,A-Award,--D,2688,40476,1,0001327059,"Common stock, par value $0.01 per share"
+A,07/10/2019 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,2688,16531,1,0001235082,"Common stock, par value $0.01 per share"
+A,07/10/2019 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,2688,30457,1,0001235158,"Common stock, par value $0.01 per share"
+A,07/10/2019 00:00:00,KEYTE DAVID H,4,A-Award,--D,2688,2688,1,0001215004,"Common stock, par value $0.01 per share"
+A,07/10/2019 00:00:00,Keenan W Howard JR,4,A-Award,--D,2688,40285,1,0001370287,"Common stock, par value $0.01 per share"
+A,07/10/2019 00:00:00,KAGAN PETER,4,A-Award,--D,4963,42083,1,0001239315,"Common stock, par value $0.01 per share"
+A,07/10/2019 00:00:00,DEA PETER A,4,A-Award,--D,2688,9539,1,0001132295,"Common stock, par value $0.01 per share"
+D,05/23/2019 00:00:00,Yoo K. Phil,4,S-Sale,--D,20000,316955,1,0001587503,"Common stock, par value $0.01 per share"
+D,05/21/2019 00:00:00,"Warburg Pincus Private Equity X O&G, L.P.",4,S-Sale,--I,15000000,40109589,4,0001528258,Common Stock
+D,05/21/2019 00:00:00,"Warburg Pincus Private Equity X O&G, L.P.",4,S-Sale,--I,42135,35960394,3,0001528258,Common Stock
+D,05/21/2019 00:00:00,KAGAN PETER,4,S-Sale,--I,15000000,40109589,2,0001239315,"Common stock, par value $0.01 per share"
+D,05/21/2019 00:00:00,Keenan W Howard JR,4,S-Sale,--I,1825600,5266099,5,0001370287,Common Stock
+D,05/21/2019 00:00:00,Keenan W Howard JR,4,S-Sale,--I,1183600,3412464,4,0001370287,Common Stock
+D,05/21/2019 00:00:00,Keenan W Howard JR,4,S-Sale,--I,507600,1463246,3,0001370287,Common Stock
+D,05/21/2019 00:00:00,Keenan W Howard JR,4,S-Sale,--I,483200,1392602,2,0001370287,Common Stock
+D,05/21/2019 00:00:00,Yorktown V CO LLC,4,S-Sale,--I,483200,1392602,1,0001302152,Common Stock
+D,05/21/2019 00:00:00,"Yorktown Energy Partners VIII, L.P.",4,S-Sale,--D,1825600,5266099,1,0001473116,Common Stock
+D,05/21/2019 00:00:00,"Yorktown Energy Partners VII, L.P.",4,S-Sale,--D,1183600,3412464,1,0001423080,Common Stock
+D,05/21/2019 00:00:00,Yorktown Energy Partners VI LP,4,S-Sale,--D,507600,1463246,1,0001347504,Common Stock
+D,05/21/2019 00:00:00,Yorktown VI Associates LLC,4,S-Sale,--I,507600,1463246,1,0001347608,Common Stock
+D,05/21/2019 00:00:00,YORKTOWN ENERGY PARTNERS V LP,4,S-Sale,--D,483200,1392602,1,0001210407,Common Stock
+D,05/21/2019 00:00:00,Yorktown VIII Associates LLC,4,S-Sale,--I,1825600,5266099,1,0001473117,Common Stock
+D,05/21/2019 00:00:00,Yorktown VII Associates LLC,4,S-Sale,--I,1183600,3412464,1,0001423201,Common Stock
+A,04/15/2019 00:00:00,RADY PAUL M,4,A-Award,--D,77684,77684,4,0001234637,Performance Share Units
+A,04/15/2019 00:00:00,RADY PAUL M,4,A-Award,--D,77684,9696844,2,0001234637,"Common stock, par value $0.01 per share"
+D,04/15/2019 00:00:00,RADY PAUL M,4,F-InKind,--D,29134,9619160,1,0001234637,"Common stock, par value $0.01 per share"
+A,04/15/2019 00:00:00,Kilstrom Kevin J.,4,A-Award,--D,15890,15890,3,0001586805,Performance Share Units
+A,04/15/2019 00:00:00,Kilstrom Kevin J.,4,A-Award,--D,15890,1020052,2,0001586805,"Common stock, par value $0.01 per share"
+D,04/15/2019 00:00:00,Kilstrom Kevin J.,4,F-InKind,--D,6991,1004162,1,0001586805,"Common stock, par value $0.01 per share"
+A,04/15/2019 00:00:00,Kennedy Michael N.,4,A-Award,--D,22952,22952,3,0001477679,Performance Share Units
+A,04/15/2019 00:00:00,Kennedy Michael N.,4,A-Award,--D,22952,610755,2,0001477679,"Common stock, par value $0.01 per share"
+D,04/15/2019 00:00:00,Kennedy Michael N.,4,F-InKind,--D,6991,587803,1,0001477679,"Common stock, par value $0.01 per share"
+A,04/15/2019 00:00:00,Yoo K. Phil,4,A-Award,--D,14124,336955,2,0001587503,"Common stock, par value $0.01 per share"
+D,04/15/2019 00:00:00,Yoo K. Phil,4,F-InKind,--D,4659,322831,1,0001587503,"Common stock, par value $0.01 per share"
+A,04/15/2019 00:00:00,Warren Glen C Jr,4,A-Award,--D,31780,31780,4,0001375364,Performance Share Units
+A,04/15/2019 00:00:00,Warren Glen C Jr,4,A-Award,--D,31780,16901825,2,0001375364,"Common stock, par value $0.01 per share"
+D,04/15/2019 00:00:00,Warren Glen C Jr,4,F-InKind,--D,19423,16870045,1,0001375364,"Common stock, par value $0.01 per share"
+A,04/15/2019 00:00:00,Schopp Alvyn A.,4,A-Award,--D,15890,15890,3,0001586799,Performance Share Units
+A,04/15/2019 00:00:00,Schopp Alvyn A.,4,A-Award,--D,15890,1489800,2,0001586799,"Common stock, par value $0.01 per share"
+D,04/15/2019 00:00:00,Schopp Alvyn A.,4,F-InKind,--D,6991,1473910,1,0001586799,"Common stock, par value $0.01 per share"
+A,04/10/2019 00:00:00,KAGAN PETER,4,A-Award,--D,3639,19451,1,0001239315,"Common stock, par value $0.01 per share"
+A,04/10/2019 00:00:00,DEA PETER A,4,A-Award,--D,2365,6851,1,0001132295,"Common stock, par value $0.01 per share"
+A,04/10/2019 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,2365,27769,1,0001235158,"Common stock, par value $0.01 per share"
+A,04/10/2019 00:00:00,Keenan W Howard JR,4,A-Award,--D,2365,37597,1,0001370287,"Common stock, par value $0.01 per share"
+A,04/10/2019 00:00:00,ROBESON ROSE M,4,A-Award,--D,2365,11984,1,0001251678,"Common stock, par value $0.01 per share"
+A,04/10/2019 00:00:00,Peters David A,4,A-Award,--D,2365,37788,1,0001327059,"Common stock, par value $0.01 per share"
+A,04/10/2019 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,2365,13843,1,0001235082,"Common stock, par value $0.01 per share"
+D,03/14/2019 00:00:00,Kennedy Michael N.,4,S-Sale,--D,27479,584522,7,0001477679,Common Stock
+D,03/13/2019 00:00:00,Kennedy Michael N.,4,S-Sale,--D,182521,612001,6,0001477679,Common Stock
+A,03/12/2019 00:00:00,KAGAN PETER,4/A,A-Award,--D,17669,33481,1,0001239315,Common Stock
+A,03/12/2019 00:00:00,Schopp Alvyn A.,4/A,A-Award,--D,46869,1441015,1,0001586799,Common stock
+A,03/12/2019 00:00:00,Kennedy Michael N.,4/A,A-Award,--D,33118,60892,1,0001477679,Common stock
+A,03/12/2019 00:00:00,Yoo K. Phil,4,A-Award,--D,34263,327490,5,0001587503,Common Stock
+A,03/12/2019 00:00:00,Yoo K. Phil,4,A-Award,--D,176004,293227,4,0001587503,Common Stock
+A,03/12/2019 00:00:00,Yoo K. Phil,4,A-Award,--D,29645,117223,3,0001587503,Common Stock
+A,03/12/2019 00:00:00,Yoo K. Phil,4,A-Award,--D,87578,87578,2,0001587503,Common Stock
+D,03/12/2019 00:00:00,Yoo K. Phil,4,D-Return,--D,87578,0,1,0001587503,Common Shares representing limited partner interests
+A,03/12/2019 00:00:00,Warren Glen C Jr,4,A-Award,--D,110208,16889463,8,0001375364,Common Stock
+A,03/12/2019 00:00:00,Warren Glen C Jr,4,A-Award,--D,5632131,16779255,7,0001375364,Common Stock
+A,03/12/2019 00:00:00,Warren Glen C Jr,4,A-Award,--I,75704,3966804,6,0001375364,Common Stock
+A,03/12/2019 00:00:00,Warren Glen C Jr,4,A-Award,--D,107145,11147124,5,0001375364,Common Stock
+A,03/12/2019 00:00:00,Warren Glen C Jr,4,A-Award,--I,3891100,3891100,4,0001375364,Common Stock
+A,03/12/2019 00:00:00,Warren Glen C Jr,4,A-Award,--D,11039979,11039979,3,0001375364,Common Stock
+D,03/12/2019 00:00:00,Warren Glen C Jr,4,D-Return,--I,3891100,0,2,0001375364,Common Shares representing limited partner interests
+D,03/12/2019 00:00:00,Warren Glen C Jr,4,D-Return,--D,11039979,0,1,0001375364,Common Shares representing limited partner interests
+A,03/12/2019 00:00:00,Schopp Alvyn A.,4,A-Award,--D,39886,1477857,4,0001586799,Common Stock
+A,03/12/2019 00:00:00,Schopp Alvyn A.,4,A-Award,--D,43825,1437971,3,0001586799,Common Stock
+A,03/12/2019 00:00:00,Schopp Alvyn A.,4,A-Award,--D,1394146,1394146,2,0001586799,Common Stock
+D,03/12/2019 00:00:00,Schopp Alvyn A.,4,D-Return,--D,1394146,0,1,0001586799,Common Shares representing limited partner interests
+A,03/12/2019 00:00:00,ROBESON ROSE M,4,A-Award,--D,9619,9619,2,0001251678,Common Stock
+D,03/12/2019 00:00:00,ROBESON ROSE M,4,D-Return,--D,9619,0,1,0001251678,Common Shares representing limited partner interests
+A,03/12/2019 00:00:00,RADY PAUL M,4,A-Award,--D,165311,9648289,7,0001234637,Common Stock
+A,03/12/2019 00:00:00,RADY PAUL M,4,A-Award,--D,8448196,9482978,6,0001234637,Common Stock
+A,03/12/2019 00:00:00,RADY PAUL M,4,A-Award,--D,218984,1034782,5,0001234637,Common Stock
+A,03/12/2019 00:00:00,RADY PAUL M,4,A-Award,--I,19180821,19180821,4,0001234637,Common Stock
+A,03/12/2019 00:00:00,RADY PAUL M,4,A-Award,--D,815798,815798,3,0001234637,Common Stock
+D,03/12/2019 00:00:00,RADY PAUL M,4,D-Return,--I,19180821,0,2,0001234637,Common Shares representing limited partner interests
+D,03/12/2019 00:00:00,RADY PAUL M,4,D-Return,--D,815798,0,1,0001234637,Common Shares representing limited partner interests
+A,03/12/2019 00:00:00,Peters David A,4,A-Award,--D,35423,35423,1,0001327059,Common Stock
+A,03/12/2019 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,15785,25404,3,0001235158,Common Stock
+A,03/12/2019 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,9619,9619,2,0001235158,Common Stock
+D,03/12/2019 00:00:00,KLIMLEY BROOKS J,4,D-Return,--D,9619,0,1,0001235158,Common Shares representing limited partner interests
+A,03/12/2019 00:00:00,Kennedy Michael N.,4,A-Award,--D,39886,794522,5,0001477679,Common Stock
+A,03/12/2019 00:00:00,Kennedy Michael N.,4,A-Award,--D,704016,754636,4,0001477679,Common Stock
+A,03/12/2019 00:00:00,Kennedy Michael N.,4,A-Award,--D,22846,50620,3,0001477679,Common Stock
+A,03/12/2019 00:00:00,Kennedy Michael N.,4,A-Award,--D,27774,27774,2,0001477679,Common Stock
+D,03/12/2019 00:00:00,Kennedy Michael N.,4,D-Return,--D,27774,0,1,0001477679,Common Shares representing limited partner interests
+A,03/12/2019 00:00:00,MOLLENKOPF JOHN C,4,A-Award,--D,11478,11478,1,0001235082,Common Stock
+A,03/12/2019 00:00:00,Kilstrom Kevin J.,4,A-Award,--D,39886,1011153,4,0001586805,Common Stock
+A,03/12/2019 00:00:00,Kilstrom Kevin J.,4,A-Award,--D,53719,971267,3,0001586805,Common Stock
+A,03/12/2019 00:00:00,Kilstrom Kevin J.,4,A-Award,--D,917548,917548,2,0001586805,Common Stock
+D,03/12/2019 00:00:00,Kilstrom Kevin J.,4,D-Return,--D,917548,0,1,0001586805,Common Shares representing limited partner interests
+A,03/12/2019 00:00:00,DEA PETER A,4,A-Award,--D,4486,4486,2,0001132295,Common Stock
+D,03/12/2019 00:00:00,DEA PETER A,4,D-Return,--D,4486,0,1,0001132295,Common Shares representing limited partner interests
+A,03/12/2019 00:00:00,ANTERO RESOURCES Corp,4,A-Award,--I,107000001,107000001,2,0001433270,Common Stock
+A,03/12/2019 00:00:00,ANTERO RESOURCES Corp,4,A-Award,--D,51419936,51419936,1,0001433270,Common Stock
+A,03/12/2019 00:00:00,Yorktown VIII Associates LLC,4,D-Return,--I,7091699,7091699,2,0001473117,Common Stock
+D,03/12/2019 00:00:00,Yorktown VIII Associates LLC,4,D-Return,--I,7091699,0,1,0001473117,Common shares representing limited partner interests
+A,03/12/2019 00:00:00,"Yorktown Energy Partners VIII, L.P.",4,D-Return,--D,7091699,7091699,2,0001473116,Common Stock
+D,03/12/2019 00:00:00,"Yorktown Energy Partners VIII, L.P.",4,D-Return,--D,7091699,0,1,0001473116,Common shares representing limited partner interests
+A,03/12/2019 00:00:00,"Yorktown Energy Partners VII, L.P.",4,D-Return,--D,4596064,4596064,2,0001423080,Common Stock
+D,03/12/2019 00:00:00,"Yorktown Energy Partners VII, L.P.",4,D-Return,--D,4596064,0,1,0001423080,Common shares representing limited partner interests
+A,03/12/2019 00:00:00,Yorktown VII Associates LLC,4,D-Return,--I,4596064,4596064,2,0001423201,Common Stock
+D,03/12/2019 00:00:00,Yorktown VII Associates LLC,4,D-Return,--I,4596064,0,1,0001423201,Common shares representing limited partner interests
+A,03/12/2019 00:00:00,Yorktown VI Associates LLC,4,D-Return,--I,1970846,1970846,2,0001347608,Common Stock
+D,03/12/2019 00:00:00,Yorktown VI Associates LLC,4,D-Return,--I,1970846,0,1,0001347608,Common shares representing limited partner interests
+A,03/12/2019 00:00:00,Yorktown V CO LLC,4,D-Return,--I,1875502,1875502,2,0001302152,Common Stock
+D,03/12/2019 00:00:00,Yorktown V CO LLC,4,D-Return,--I,1875502,0,1,0001302152,Common shares representing limited partner interests
+A,03/12/2019 00:00:00,Yorktown Energy Partners VI LP,4,D-Return,--D,1970846,1970846,2,0001347504,Common Stock
+D,03/12/2019 00:00:00,Yorktown Energy Partners VI LP,4,D-Return,--D,1970846,0,1,0001347504,Common shares representing limited partner interests
+A,03/12/2019 00:00:00,YORKTOWN ENERGY PARTNERS V LP,4,D-Return,--D,1875502,1875502,2,0001210407,Common Stock
+D,03/12/2019 00:00:00,YORKTOWN ENERGY PARTNERS V LP,4,D-Return,--D,1875502,0,1,0001210407,Common shares representing limited partner interests
+A,03/12/2019 00:00:00,Keenan W Howard JR,4,A-Award,--I,7091699,7091699,11,0001370287,Common Stock
+A,03/12/2019 00:00:00,Keenan W Howard JR,4,A-Award,--I,4596064,4596064,10,0001370287,Common Stock
+A,03/12/2019 00:00:00,Keenan W Howard JR,4,A-Award,--I,1970846,1970846,9,0001370287,Common Stock
+A,03/12/2019 00:00:00,Keenan W Howard JR,4,A-Award,--I,1875802,1875802,8,0001370287,Common Stock
+A,03/12/2019 00:00:00,Keenan W Howard JR,4,A-Award,--D,25613,35232,7,0001370287,Common Stock
+A,03/12/2019 00:00:00,Keenan W Howard JR,4,A-Award,--D,9619,9619,6,0001370287,Common Stock
+D,03/12/2019 00:00:00,Keenan W Howard JR,4,D-Return,--I,7091699,0,5,0001370287,Common shares representing limited partner interests
+D,03/12/2019 00:00:00,Keenan W Howard JR,4,D-Return,--I,4596064,0,4,0001370287,Common shares representing limited partner interests
+D,03/12/2019 00:00:00,Keenan W Howard JR,4,D-Return,--I,1970846,0,3,0001370287,Common shares representing limited partner interests
+D,03/12/2019 00:00:00,Keenan W Howard JR,4,D-Return,--I,1875802,0,2,0001370287,Common shares representing limited partner interests
+D,03/12/2019 00:00:00,Keenan W Howard JR,4,D-Return,--D,9619,0,1,0001370287,Common shares representing limited partner interests
+A,03/12/2019 00:00:00,Levy James R.,4,A-Award,--I,55109589,55109589,4,0001535563,Common Stock
+A,03/12/2019 00:00:00,Levy James R.,4,A-Award,--D,16477,16477,3,0001535563,Common Stock
+D,03/12/2019 00:00:00,Levy James R.,4,D-Return,--I,55109589,0,2,0001535563,Common shares representing limited partner interests
+D,03/12/2019 00:00:00,Levy James R.,4,D-Return,--D,16477,0,1,0001535563,Common shares representing limited partner interests
+A,03/12/2019 00:00:00,"Warburg Pincus Private Equity X O&G, L.P.",4,A-Award,--I,19107060,55109589,8,0001528258,Common Stock
+A,03/12/2019 00:00:00,"Warburg Pincus Private Equity X O&G, L.P.",4,A-Award,--I,53823,36002529,7,0001528258,Common Stock
+A,03/12/2019 00:00:00,"Warburg Pincus Private Equity X O&G, L.P.",4,A-Award,--I,1114410,35948706,6,0001528258,Common Stock
+A,03/12/2019 00:00:00,"Warburg Pincus Private Equity X O&G, L.P.",4,A-Award,--D,34834296,34834296,5,0001528258,Common Stock
+D,03/12/2019 00:00:00,"Warburg Pincus Private Equity X O&G, L.P.",4,D-Return,--I,19107060,0,4,0001528258,Common Shares representing limited partner interests
+D,03/12/2019 00:00:00,"Warburg Pincus Private Equity X O&G, L.P.",4,D-Return,--I,53823,0,3,0001528258,Common Shares representing limited partner interests
+D,03/12/2019 00:00:00,"Warburg Pincus Private Equity X O&G, L.P.",4,D-Return,--I,1114410,0,2,0001528258,Common Shares representing limited partner interests
+D,03/12/2019 00:00:00,"Warburg Pincus Private Equity X O&G, L.P.",4,D-Return,--D,34834296,0,1,0001528258,Common Shares representing limited partner interests
+A,03/12/2019 00:00:00,KAGAN PETER,4,A-Award,--I,55109589,55109589,4,0001239315,Common Stock
+A,03/12/2019 00:00:00,KAGAN PETER,4,A-Award,--D,15812,15812,3,0001239315,Common Stock
+D,03/12/2019 00:00:00,KAGAN PETER,4,D-Return,--I,55109589,0,2,0001239315,Common shares representing limited partner interests
+D,03/12/2019 00:00:00,KAGAN PETER,4,D-Return,--D,15812,0,1,0001239315,Common shares representing limited partner interests
+A,01/02/2019 00:00:00,ROBESON ROSE M,4,A-Award,--D,2195,9619,1,0001251678,Common shares representing limited partner interests
+A,01/02/2019 00:00:00,Levy James R.,4,A-Award,--D,3896,16477,1,0001535563,Common shares representing limited partner interests
+A,01/02/2019 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,2195,9619,1,0001235158,Common shares representing limited partner interests
+A,01/02/2019 00:00:00,Keenan W Howard JR,4,A-Award,--D,2195,9619,1,0001370287,Common shares representing limited partner interests
+A,01/02/2019 00:00:00,KAGAN PETER,4,A-Award,--D,3731,15812,1,0001239315,Common shares representing limited partner interests
+A,01/02/2019 00:00:00,DEA PETER A,4,A-Award,--D,2195,4486,1,0001132295,Common shares representing limited partner interests
+A,10/10/2018 00:00:00,ROBESON ROSE M,4,A-Award,--D,1347,7424,1,0001251678,Common shares representing limited partner interests
+A,10/10/2018 00:00:00,Levy James R.,4,A-Award,--D,2391,12581,1,0001535563,Common shares representing limited partner interests
+A,10/10/2018 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,1347,7424,1,0001235158,Common shares representing limited partner interests
+A,10/10/2018 00:00:00,Keenan W Howard JR,4,A-Award,--D,1347,7424,1,0001370287,Common shares representing limited partner interests
+A,10/10/2018 00:00:00,KAGAN PETER,4,A-Award,--D,2290,12081,1,0001239315,Common shares representing limited partner interests
+A,10/10/2018 00:00:00,DEA PETER A,4,A-Award,--D,1347,2291,1,0001132295,Common shares representing limited partner interests
+D,09/04/2018 00:00:00,Yoo K. Phil,4,S-Sale,--D,5000,87578,1,0001587503,Common shares representing limited partner interests
+D,08/17/2018 00:00:00,Kilstrom Kevin J.,4,S-Sale,--D,50000,917548,1,0001586805,Common shares representing limited partner interests
+A,07/10/2018 00:00:00,ROBESON ROSE M,4,A-Award,--D,1302,6077,1,0001251678,Common shares representing limited partner interests
+A,07/10/2018 00:00:00,Levy James R.,4,A-Award,--D,2311,10190,1,0001535563,Common shares representing limited partner interests
+A,07/10/2018 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,1302,6077,1,0001235158,Common shares representing limited partner interests
+A,07/10/2018 00:00:00,Keenan W Howard JR,4,A-Award,--D,1302,6077,1,0001370287,Common shares representing limited partner interests
+A,07/10/2018 00:00:00,KAGAN PETER,4,A-Award,--D,2213,9791,1,0001239315,Common shares representing limited partner interests
+A,07/10/2018 00:00:00,DEA PETER A,4,A-Award,--D,944,944,1,0001132295,Common shares representing limited partner interests
+D,06/01/2018 00:00:00,Yoo K. Phil,4,S-Sale,--D,5000,92578,1,0001587503,Common shares representing limited partner interests
+D,05/18/2018 00:00:00,Kilstrom Kevin J.,4,S-Sale,--D,50000,967548,1,0001586805,Common shares representing limited partner interests
+A,04/10/2018 00:00:00,ROBESON ROSE M,4,A-Award,--D,1590,4775,1,0001251678,Common shares representing limited partner interests
+A,04/10/2018 00:00:00,Levy James R.,4,A-Award,--D,2823,7879,1,0001535563,Common shares representing limited partner interests
+A,04/10/2018 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,1590,4775,1,0001235158,Common shares representing limited partner interests
+A,04/10/2018 00:00:00,Keenan W Howard JR,4,A-Award,--D,1590,4775,1,0001370287,Common shares representing limited partner interests
+A,04/10/2018 00:00:00,KAGAN PETER,4,A-Award,--D,2703,7578,1,0001239315,Common shares representing limited partner interests
+D,02/16/2018 00:00:00,Kilstrom Kevin J.,4,S-Sale,--D,50000,1017548,1,0001586805,Common shares representing limited partner interests
+A,01/10/2018 00:00:00,ROBESON ROSE M,4,A-Award,--D,1193,3185,1,0001251678,Common shares representing limited partner interests
+A,01/10/2018 00:00:00,Levy James R.,4,A-Award,--D,2117,5056,1,0001535563,Common shares representing limited partner interests
+A,01/10/2018 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,1193,3185,1,0001235158,Common shares representing limited partner interests
+A,01/10/2018 00:00:00,Keenan W Howard JR,4,A-Award,--D,1193,3185,1,0001370287,Common shares representing limited partner interests
+A,01/10/2018 00:00:00,KAGAN PETER,4,A-Award,--D,2028,4875,1,0001239315,Common shares representing limited partner interests
+D,12/05/2017 00:00:00,Kilstrom Kevin J.,5,G-Gift,--D,60000,1067548,3,0001586805,Common shares representing limited partner interests
+D,11/03/2017 00:00:00,RADY PAUL M,5,G-Gift,--D,2400000,815798,5,0001234637,Common shares representing limited partner interests
+A,10/10/2017 00:00:00,ROBESON ROSE M,4,A-Award,--D,1222,1992,1,0001251678,Common shares representing limited partner interests
+A,10/10/2017 00:00:00,Levy James R.,4,A-Award,--D,2169,2939,1,0001535563,Common shares representing limited partner interests
+A,10/10/2017 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,1222,1992,1,0001235158,Common shares representing limited partner interests
+A,10/10/2017 00:00:00,Keenan W Howard JR,4,A-Award,--D,1222,1992,1,0001370287,Common shares representing limited partner interests
+A,10/10/2017 00:00:00,KAGAN PETER,4,A-Award,--D,2077,2847,1,0001239315,Common shares representing limited partner interests
+A,07/10/2017 00:00:00,ROBESON ROSE M,4,A-Award,--D,770,770,1,0001251678,Common shares representing limited partner interests
+A,07/10/2017 00:00:00,Levy James R.,4,A-Award,--D,770,770,1,0001535563,Common shares representing limited partner interests
+A,07/10/2017 00:00:00,KLIMLEY BROOKS J,4,A-Award,--D,770,770,1,0001235158,Common shares representing limited partner interests
+A,07/10/2017 00:00:00,Keenan W Howard JR,4,A-Award,--D,770,770,1,0001370287,Common shares representing limited partner interests
+A,07/10/2017 00:00:00,KAGAN PETER,4,A-Award,--D,770,770,1,0001239315,Common shares representing limited partner interests
+A,06/09/2017 00:00:00,Yoo K. Phil,5,J-Other,--D,3695,97578,2,0001587503,Common shares representing limited partner interests
+A,06/09/2017 00:00:00,Warren Glen C Jr,5,J-Other,--D,562029,14931079,2,0001375364,Common shares representing limited partner interests
+A,06/09/2017 00:00:00,Schopp Alvyn A.,5,J-Other,--D,52599,1394146,2,0001586799,Common shares representing limited partner interests
+A,06/09/2017 00:00:00,RADY PAUL M,5,J-Other,--I,721225,19180821,4,0001234637,Common shares representing limited partner interests
+A,06/09/2017 00:00:00,RADY PAUL M,5,J-Other,--D,121819,3215798,3,0001234637,Common shares representing limited partner interests
+A,06/09/2017 00:00:00,McNeilly Ward D.,5,J-Other,--D,16089,425270,2,0001586800,Common shares representing limited partner interests
+A,06/09/2017 00:00:00,Kilstrom Kevin J.,5,J-Other,--D,42539,1127548,2,0001586805,Common shares representing limited partner interests
+A,06/09/2017 00:00:00,Kennedy Michael N.,5,J-Other,--D,1057,27774,2,0001477679,Common shares representing limited partner interests
+A,05/12/2017 00:00:00,Yoo K. Phil,5,J-Other,--D,93883,93883,1,0001587503,Common shares representing limited partner interests
+A,05/12/2017 00:00:00,Warren Glen C Jr,5,J-Other,--D,14369050,14369050,1,0001375364,Common shares representing limited partner interests
+A,05/12/2017 00:00:00,Schopp Alvyn A.,5,J-Other,--D,1341547,1341547,1,0001586799,Common shares representing limited partner interests
+A,05/12/2017 00:00:00,RADY PAUL M,5,J-Other,--I,18459596,18459596,2,0001234637,Common shares representing limited partner interests
+A,05/12/2017 00:00:00,RADY PAUL M,5,J-Other,--D,3093979,3093979,1,0001234637,Common shares representing limited partner interests
+A,05/12/2017 00:00:00,McNeilly Ward D.,5,J-Other,--D,409181,409181,1,0001586800,Common shares representing limited partner interests
+A,05/12/2017 00:00:00,Kilstrom Kevin J.,5,J-Other,--D,1085009,1085009,1,0001586805,Common shares representing limited partner interests
+A,05/12/2017 00:00:00,Kennedy Michael N.,5,J-Other,--D,26717,26717,1,0001477679,Common shares representing limited partner interests
+D,05/12/2017 00:00:00,Antero Resources Investment LLC,4,J-Other,--D,143332713,5587500,1,0001586798,Common shares representing limited partner interests
+D,05/09/2017 00:00:00,Antero Resources Investment LLC,4,S-Sale,--D,37250000,148920213,3,0001586798,Common shares representing limited partnership interests
+A,05/09/2017 00:00:00,Antero Resources Investment LLC,4,J-Other,--D,186170213,186170213,2,0001586798,Common shares representing limited partnership interests
+D,05/09/2017 00:00:00,Antero Resources Investment LLC,4,J-Other,--D,1,0,1,0001586798,Membership Interest

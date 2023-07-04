@@ -1,0 +1,961 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/07/2023 00:00:00,SCHMERTZLER MICHAEL,4,S-Sale,--D,1000,116766,1,0001288952,Common Stock
+A,06/06/2023 00:00:00,Bell William F. Jr.,4,A-Award,--D,5834,5834,4,0001980122,Stock Option (Right to Buy)
+A,06/06/2023 00:00:00,Bell William F. Jr.,4,A-Award,--D,10000,10000,3,0001980122,Stock Option (Right to Buy)
+A,06/06/2023 00:00:00,Bell William F. Jr.,4,A-Award,--D,2333,6333,2,0001980122,Common Stock
+A,06/06/2023 00:00:00,Bell William F. Jr.,4,A-Award,--D,4000,4000,1,0001980122,Common Stock
+D,05/23/2023 00:00:00,Reeve Emma,4,M-Exempt,--D,1402,8650,18,0001680329,Stock Option (Right to Buy)
+D,05/23/2023 00:00:00,Reeve Emma,4,M-Exempt,--D,1093,6912,17,0001680329,Stock Option (Right to Buy)
+D,05/23/2023 00:00:00,Reeve Emma,4,M-Exempt,--D,157,837,16,0001680329,Stock Option (Right to Buy)
+D,05/23/2023 00:00:00,Reeve Emma,4,S-Sale,--D,1402,7200,12,0001680329,Common Stock
+A,05/23/2023 00:00:00,Reeve Emma,4,M-Exempt,--D,1402,8602,11,0001680329,Common Stock
+D,05/23/2023 00:00:00,Reeve Emma,4,S-Sale,--D,1093,7200,10,0001680329,Common Stock
+A,05/23/2023 00:00:00,Reeve Emma,4,M-Exempt,--D,1093,8293,9,0001680329,Common Stock
+D,05/23/2023 00:00:00,Reeve Emma,4,S-Sale,--D,157,7200,8,0001680329,Common Stock
+A,05/23/2023 00:00:00,Reeve Emma,4,M-Exempt,--D,157,7357,7,0001680329,Common Stock
+D,05/22/2023 00:00:00,Reeve Emma,4,M-Exempt,--D,3948,10052,15,0001680329,Stock Option (Right to Buy)
+D,05/22/2023 00:00:00,Reeve Emma,4,M-Exempt,--D,2995,8005,14,0001680329,Stock Option (Right to Buy)
+D,05/22/2023 00:00:00,Reeve Emma,4,M-Exempt,--D,173,994,13,0001680329,Stock Option (Right to Buy)
+D,05/22/2023 00:00:00,Reeve Emma,4,S-Sale,--D,3948,7200,6,0001680329,Common Stock
+A,05/22/2023 00:00:00,Reeve Emma,4,M-Exempt,--D,3948,11148,5,0001680329,Common Stock
+D,05/22/2023 00:00:00,Reeve Emma,4,S-Sale,--D,2995,7200,4,0001680329,Common Stock
+A,05/22/2023 00:00:00,Reeve Emma,4,M-Exempt,--D,2995,10195,3,0001680329,Common Stock
+D,05/22/2023 00:00:00,Reeve Emma,4,S-Sale,--D,173,7200,2,0001680329,Common Stock
+A,05/22/2023 00:00:00,Reeve Emma,4,M-Exempt,--D,173,7373,1,0001680329,Common Stock
+D,05/22/2023 00:00:00,Pauwels Eric,4,S-Sale,--D,100,47553,3,0001323212,Common Stock
+D,05/22/2023 00:00:00,Pauwels Eric,4,S-Sale,--D,1913,47653,2,0001323212,Common Stock
+D,05/19/2023 00:00:00,Pauwels Eric,4,S-Sale,--D,6403,49566,1,0001323212,Common Stock
+D,05/18/2023 00:00:00,Pauwels Eric,4,S-Sale,--D,788,55969,3,0001323212,Common Stock
+D,05/17/2023 00:00:00,Pauwels Eric,4,S-Sale,--D,7248,56757,2,0001323212,Common Stock
+D,05/17/2023 00:00:00,Pauwels Eric,4,S-Sale,--D,800,64005,1,0001323212,Common Stock
+D,05/11/2023 00:00:00,Jacobson Allan Steven,4,M-Exempt,--D,23000,0,5,0001579003,Stock Option (Right to Buy)
+D,05/11/2023 00:00:00,Jacobson Allan Steven,4,S-Sale,--D,1100,12348,4,0001579003,Common Stock
+D,05/11/2023 00:00:00,Jacobson Allan Steven,4,S-Sale,--D,2860,13448,3,0001579003,Common Stock
+D,05/11/2023 00:00:00,Jacobson Allan Steven,4,S-Sale,--D,19040,16308,2,0001579003,Common Stock
+A,05/11/2023 00:00:00,Jacobson Allan Steven,4,M-Exempt,--D,23000,35348,1,0001579003,Common Stock
+D,04/21/2023 00:00:00,Utter Christine Marie,4,M-Exempt,--D,371,0,7,0001707685,Stock Option (Right to Buy)
+D,04/21/2023 00:00:00,Utter Christine Marie,4,M-Exempt,--D,4321,0,6,0001707685,Stock Option (Right to Buy)
+D,04/21/2023 00:00:00,Utter Christine Marie,4,S-Sale,--D,20,38059,5,0001707685,Common Stock
+D,04/21/2023 00:00:00,Utter Christine Marie,4,S-Sale,--D,351,38079,4,0001707685,Common Stock
+A,04/21/2023 00:00:00,Utter Christine Marie,4,M-Exempt,--D,371,38430,3,0001707685,Common Stock
+D,04/21/2023 00:00:00,Utter Christine Marie,4,S-Sale,--D,4321,38059,2,0001707685,Common Stock
+A,04/21/2023 00:00:00,Utter Christine Marie,4,M-Exempt,--D,4321,42380,1,0001707685,Common Stock
+D,04/21/2023 00:00:00,Reeve Emma,4,S-Sale,--D,100,7200,2,0001680329,Common Stock
+D,04/21/2023 00:00:00,Reeve Emma,4,S-Sale,--D,4228,7300,1,0001680329,Common Stock
+D,04/18/2023 00:00:00,Pauwels Eric,4,S-Sale,--D,732,64805,1,0001323212,Common Stock
+A,04/18/2023 00:00:00,Klein Matthew B.,4,A-Award,--D,65000,65000,3,0001808968,Stock Option (Right to Buy)
+D,04/18/2023 00:00:00,Klein Matthew B.,4,S-Sale,--D,1211,102645,2,0001808968,Common Stock
+A,04/18/2023 00:00:00,Klein Matthew B.,4,A-Award,--D,26000,103856,1,0001808968,Common Stock
+D,04/17/2023 00:00:00,SOUTHWELL DAVID P,4,M-Exempt,--D,11429,0,4,0001251553,Stock Option (Right to Buy)
+D,04/17/2023 00:00:00,SOUTHWELL DAVID P,4,S-Sale,--D,5188,10500,3,0001251553,Common Stock
+D,04/17/2023 00:00:00,SOUTHWELL DAVID P,4,S-Sale,--D,6241,15688,2,0001251553,Common Stock
+A,04/17/2023 00:00:00,SOUTHWELL DAVID P,4,M-Exempt,--D,11429,21929,1,0001251553,Common Stock
+D,04/17/2023 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,58631,0,6,0001578852,Stock Option (Right to Buy)
+D,04/17/2023 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,3292,58631,5,0001578852,Stock Option (Right to Buy)
+D,04/17/2023 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,58631,75378,4,0001578852,Common Stock
+A,04/17/2023 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,58631,134009,3,0001578852,Common Stock
+D,04/17/2023 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,3292,75378,2,0001578852,Common Stock
+A,04/17/2023 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,3292,78670,1,0001578852,Common Stock
+D,03/31/2023 00:00:00,SOUTHWELL DAVID P,4,M-Exempt,--D,2571,11429,3,0001251553,Stock Option (Right to Buy)
+D,03/31/2023 00:00:00,SOUTHWELL DAVID P,4,S-Sale,--D,2571,10500,2,0001251553,Common Stock
+A,03/31/2023 00:00:00,SOUTHWELL DAVID P,4,M-Exempt,--D,2571,13071,1,0001251553,Common Stock
+D,03/29/2023 00:00:00,Utter Christine Marie,4,M-Exempt,--D,4688,0,4,0001707685,Stock Option (Right to Buy)
+D,03/29/2023 00:00:00,Utter Christine Marie,4,S-Sale,--D,1441,38059,3,0001707685,Common Stock
+D,03/29/2023 00:00:00,Utter Christine Marie,4,S-Sale,--D,3247,39500,2,0001707685,Common Stock
+A,03/29/2023 00:00:00,Utter Christine Marie,4,M-Exempt,--D,4688,42747,1,0001707685,Common Stock
+D,03/27/2023 00:00:00,Utter Christine Marie,4,M-Exempt,--D,9729,371,10,0001707685,Stock Option (Right to Buy)
+D,03/27/2023 00:00:00,Utter Christine Marie,4,M-Exempt,--D,16929,4321,9,0001707685,Stock Option (Right to Buy)
+D,03/27/2023 00:00:00,Utter Christine Marie,4,S-Sale,--D,300,38059,8,0001707685,Common Stock
+D,03/27/2023 00:00:00,Utter Christine Marie,4,S-Sale,--D,4954,38359,7,0001707685,Common Stock
+D,03/27/2023 00:00:00,Utter Christine Marie,4,S-Sale,--D,4475,43313,6,0001707685,Common Stock
+A,03/27/2023 00:00:00,Utter Christine Marie,4,M-Exempt,--D,9729,47788,5,0001707685,Common Stock
+D,03/27/2023 00:00:00,Utter Christine Marie,4,S-Sale,--D,200,38059,4,0001707685,Common Stock
+D,03/27/2023 00:00:00,Utter Christine Marie,4,S-Sale,--D,8780,38259,3,0001707685,Common Stock
+D,03/27/2023 00:00:00,Utter Christine Marie,4,S-Sale,--D,7949,47039,2,0001707685,Common Stock
+A,03/27/2023 00:00:00,Utter Christine Marie,4,M-Exempt,--D,16929,54988,1,0001707685,Common Stock
+D,03/27/2023 00:00:00,SOUTHWELL DAVID P,4,M-Exempt,--D,10000,0,5,0001251553,Stock Option (Right to Buy)
+D,03/27/2023 00:00:00,SOUTHWELL DAVID P,4,S-Sale,--D,100,10500,4,0001251553,Common Stock
+D,03/27/2023 00:00:00,SOUTHWELL DAVID P,4,S-Sale,--D,5301,10600,3,0001251553,Common Stock
+D,03/27/2023 00:00:00,SOUTHWELL DAVID P,4,S-Sale,--D,4599,15901,2,0001251553,Common Stock
+A,03/27/2023 00:00:00,SOUTHWELL DAVID P,4,M-Exempt,--D,10000,20500,1,0001251553,Common Stock
+D,03/27/2023 00:00:00,Hill Emily Luisa,4,S-Sale,--D,7363,38925,1,0001778279,Common Stock
+D,01/31/2023 00:00:00,Utter Christine Marie,4,S-Sale,--D,325,38059,1,0001707685,Common Stock
+D,01/31/2023 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,301,54903,2,0001578962,Common Stock
+D,01/31/2023 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,2320,166962,1,0001578962,Common Stock
+D,01/31/2023 00:00:00,Pauwels Eric,4,S-Sale,--D,375,65537,1,0001323212,Common Stock
+D,01/31/2023 00:00:00,Hill Emily Luisa,4,S-Sale,--D,575,46288,1,0001778279,Common Stock
+D,01/31/2023 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,812,75378,1,0001578852,Common Stock
+D,01/31/2023 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,28,3259,2,0001578850,Common Stock
+D,01/31/2023 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,630,63949,1,0001578850,Common Stock
+D,01/24/2023 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,284,55204,1,0001578962,Common Stock
+D,01/24/2023 00:00:00,Pauwels Eric,4,S-Sale,--D,359,65912,1,0001323212,Common Stock
+D,01/24/2023 00:00:00,Hill Emily Luisa,4,S-Sale,--D,223,46863,1,0001778279,Common Stock
+D,01/24/2023 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,44,3287,1,0001578850,Common Stock
+D,01/11/2023 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,27,3331,4,0001578850,Common Stock
+D,01/11/2023 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,383,64579,3,0001578850,Common Stock
+D,01/11/2023 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,495,76190,2,0001578852,Common Stock
+D,01/11/2023 00:00:00,Hill Emily Luisa,4,S-Sale,--D,418,47086,2,0001778279,Common Stock
+D,01/11/2023 00:00:00,Klein Matthew B.,4,S-Sale,--D,2244,77856,2,0001808968,Common Stock
+D,01/11/2023 00:00:00,Pauwels Eric,4,S-Sale,--D,571,66271,2,0001323212,Common Stock
+D,01/11/2023 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,492,55488,4,0001578962,Common Stock
+D,01/11/2023 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1189,169282,3,0001578962,Common Stock
+D,01/11/2023 00:00:00,Utter Christine Marie,4,S-Sale,--D,417,38384,2,0001707685,Common Stock
+D,01/10/2023 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,27,3358,2,0001578850,Common Stock
+D,01/10/2023 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,473,64962,1,0001578850,Common Stock
+D,01/10/2023 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,590,76685,1,0001578852,Common Stock
+D,01/10/2023 00:00:00,Hill Emily Luisa,4,S-Sale,--D,497,47504,1,0001778279,Common Stock
+D,01/10/2023 00:00:00,Klein Matthew B.,4,S-Sale,--D,2273,80100,1,0001808968,Common Stock
+D,01/10/2023 00:00:00,Pauwels Eric,4,S-Sale,--D,663,66842,1,0001323212,Common Stock
+D,01/10/2023 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,571,55980,2,0001578962,Common Stock
+D,01/10/2023 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1228,170471,1,0001578962,Common Stock
+D,01/10/2023 00:00:00,Utter Christine Marie,4,S-Sale,--D,489,38801,1,0001707685,Common Stock
+D,01/09/2023 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,43,3385,2,0001578850,Common Stock
+D,01/09/2023 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,716,65435,1,0001578850,Common Stock
+D,01/09/2023 00:00:00,Hill Emily Luisa,4,S-Sale,--D,758,48001,1,0001778279,Common Stock
+D,01/09/2023 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,835,77275,1,0001578852,Common Stock
+D,01/09/2023 00:00:00,Klein Matthew B.,4,S-Sale,--D,731,82373,1,0001808968,Common Stock
+D,01/09/2023 00:00:00,Pauwels Eric,4,S-Sale,--D,858,67505,1,0001323212,Common Stock
+D,01/09/2023 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,279,56551,2,0001578962,Common Stock
+D,01/09/2023 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1786,171699,1,0001578962,Common Stock
+D,01/09/2023 00:00:00,Utter Christine Marie,4,S-Sale,--D,706,39290,1,0001707685,Common Stock
+A,01/05/2023 00:00:00,Utter Christine Marie,4,A-Award,--D,32500,32500,2,0001707685,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,Utter Christine Marie,4,A-Award,--D,14000,39996,1,0001707685,Common Stock
+A,01/05/2023 00:00:00,Almstead Neil Gregory,4,A-Award,--D,36250,36250,3,0001578850,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,Almstead Neil Gregory,4,A-Award,--I,710,3428,2,0001578850,Common Stock
+A,01/05/2023 00:00:00,Almstead Neil Gregory,4,A-Award,--D,17000,66151,1,0001578850,Common Stock
+A,01/05/2023 00:00:00,Boulding Mark Elliott,4,A-Award,--D,36250,36250,2,0001578852,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,Boulding Mark Elliott,4,A-Award,--D,17000,78110,1,0001578852,Common Stock
+A,01/05/2023 00:00:00,Hill Emily Luisa,4,A-Award,--D,42500,42500,2,0001778279,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,Hill Emily Luisa,4,A-Award,--D,19500,48759,1,0001778279,Common Stock
+A,01/05/2023 00:00:00,Pauwels Eric,4,A-Award,--D,45000,45000,2,0001323212,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,Pauwels Eric,4,A-Award,--D,18000,68363,1,0001323212,Common Stock
+A,01/05/2023 00:00:00,Klein Matthew B.,4,A-Award,--D,65000,65000,2,0001808968,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,Klein Matthew B.,4,A-Award,--D,26000,83104,1,0001808968,Common Stock
+A,01/05/2023 00:00:00,Peltz Stuart Walter,4,A-Award,--I,45000,45000,4,0001578962,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,Peltz Stuart Walter,4,A-Award,--D,132500,132500,3,0001578962,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,Peltz Stuart Walter,4,A-Award,--I,18000,56830,2,0001578962,Common Stock
+A,01/05/2023 00:00:00,Peltz Stuart Walter,4,A-Award,--D,53000,173485,1,0001578962,Common Stock
+A,01/05/2023 00:00:00,SCHMERTZLER MICHAEL,4,A-Award,--D,20000,20000,2,0001288952,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,SCHMERTZLER MICHAEL,4,A-Award,--D,8000,117766,1,0001288952,Common Stock
+A,01/05/2023 00:00:00,Jacobson Allan Steven,4,A-Award,--D,10000,10000,2,0001579003,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,Jacobson Allan Steven,4,A-Award,--D,4000,12348,1,0001579003,Common Stock
+A,01/05/2023 00:00:00,ZELDIS JEROME B,4,A-Award,--D,10000,10000,2,0001433982,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,ZELDIS JEROME B,4,A-Award,--D,4000,10500,1,0001433982,Common Stock
+A,01/05/2023 00:00:00,Young Alethia,4,A-Award,--D,10000,10000,2,0001918147,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,Young Alethia,4,A-Award,--D,4000,9067,1,0001918147,Common Stock
+A,01/05/2023 00:00:00,Reeve Emma,4,A-Award,--D,10000,10000,2,0001680329,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,Reeve Emma,4,A-Award,--D,4000,11528,1,0001680329,Common Stock
+A,01/05/2023 00:00:00,STEELE GLENN JR MD PHD,4,A-Award,--D,10000,10000,2,0001269131,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,STEELE GLENN JR MD PHD,4,A-Award,--D,4000,10500,1,0001269131,Common Stock
+A,01/05/2023 00:00:00,SOUTHWELL DAVID P,4,A-Award,--D,10000,10000,2,0001251553,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,SOUTHWELL DAVID P,4,A-Award,--D,4000,10500,1,0001251553,Common Stock
+A,01/05/2023 00:00:00,Smith Mary L.,4,A-Award,--D,10000,10000,2,0001866044,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,Smith Mary L.,4,A-Award,--D,4000,9813,1,0001866044,Common Stock
+A,01/05/2023 00:00:00,Okey Stephanie,4,A-Award,--D,10000,10000,2,0001742616,Stock Option (Right to Buy)
+A,01/05/2023 00:00:00,Okey Stephanie,4,A-Award,--D,4000,5867,1,0001742616,Common Stock
+D,10/18/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,289,61923,12,0001578852,Stock Option (Right to Buy)
+D,10/18/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,10,62212,11,0001578852,Stock Option (Right to Buy)
+D,10/18/2022 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,289,61110,8,0001578852,Common Stock
+A,10/18/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,289,61399,7,0001578852,Common Stock
+D,10/18/2022 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,10,61110,6,0001578852,Common Stock
+A,10/18/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,10,61120,5,0001578852,Common Stock
+D,10/17/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,6402,62222,10,0001578852,Stock Option (Right to Buy)
+D,10/17/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,200,68624,9,0001578852,Stock Option (Right to Buy)
+D,10/17/2022 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,6402,61110,4,0001578852,Common Stock
+A,10/17/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,6402,67512,3,0001578852,Common Stock
+D,10/17/2022 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,200,61110,2,0001578852,Common Stock
+A,10/17/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,200,61310,1,0001578852,Common Stock
+D,09/20/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,300,68824,6,0001578852,Stock Option (Right to Buy)
+D,09/20/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,876,69124,5,0001578852,Stock Option (Right to Buy)
+D,09/20/2022 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,300,61110,4,0001578852,Common Stock
+A,09/20/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,300,61410,3,0001578852,Common Stock
+D,09/20/2022 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,876,61110,2,0001578852,Common Stock
+A,09/20/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,876,61986,1,0001578852,Common Stock
+D,08/09/2022 00:00:00,Okey Stephanie,4,S-Sale,--D,2296,1867,1,0001742616,Common Stock
+A,06/09/2022 00:00:00,Young Alethia,4,A-Award,--D,7000,7000,4,0001918147,Stock Option (Right to Buy)
+A,06/09/2022 00:00:00,Young Alethia,4,A-Award,--D,12000,12000,3,0001918147,Stock Option (Right to Buy)
+A,06/09/2022 00:00:00,Young Alethia,4,A-Award,--D,1867,5067,2,0001918147,Common Stock
+A,06/09/2022 00:00:00,Young Alethia,4,A-Award,--D,3200,3200,1,0001918147,Common Stock
+D,06/09/2022 00:00:00,Svoronos Dawn,4,S-Sale,--D,738,29017,1,0001574579,Common Stock
+D,06/07/2022 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,407,38239,1,0001578962,Common Stock
+D,04/19/2022 00:00:00,Klein Matthew B.,4,S-Sale,--D,897,56564,1,0001808968,Common Stock
+D,04/19/2022 00:00:00,Pauwels Eric,4,S-Sale,--D,822,49772,1,0001323212,Common Stock
+D,04/14/2022 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,82,38646,1,0001578962,Common Stock
+D,04/13/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,2276,0,3,0001578852,Stock Option (Right to Buy)
+D,04/13/2022 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,2276,61110,2,0001578852,Common Stock
+A,04/13/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,2276,63386,1,0001578852,Common Stock
+D,04/05/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,5,2276,3,0001578852,Stock Option (Right to Buy)
+D,04/05/2022 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,5,61110,2,0001578852,Common Stock
+A,04/05/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,5,61115,1,0001578852,Common Stock
+D,03/31/2022 00:00:00,Hill Emily Luisa,4,S-Sale,--D,7910,29259,1,0001778279,Common Stock
+D,02/10/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,15653,0,6,0001578852,Stock Option (Right to Buy)
+D,02/10/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,2282,2281,5,0001578852,Stock Option (Right to Buy)
+D,02/10/2022 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,15653,61110,4,0001578852,Common Stock
+A,02/10/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,15653,76763,3,0001578852,Common Stock
+D,02/10/2022 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,2282,61110,2,0001578852,Common Stock
+A,02/10/2022 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,2282,63392,1,0001578852,Common Stock
+D,02/02/2022 00:00:00,Utter Christine Marie,4,S-Sale,--D,707,25405,2,0001707685,Common Stock
+D,02/01/2022 00:00:00,Utter Christine Marie,4,S-Sale,--D,313,26112,1,0001707685,Common Stock
+D,02/01/2022 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,282,38728,2,0001578962,Common Stock
+D,02/01/2022 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1961,120485,1,0001578962,Common Stock
+D,02/01/2022 00:00:00,Pauwels Eric,4,S-Sale,--D,367,50594,1,0001323212,Common Stock
+D,02/01/2022 00:00:00,Hill Emily Luisa,4,S-Sale,--D,553,37169,1,0001778279,Common Stock
+D,02/01/2022 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,779,61110,1,0001578852,Common Stock
+D,02/01/2022 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,27,2420,2,0001578850,Common Stock
+D,02/01/2022 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,605,48853,1,0001578850,Common Stock
+D,01/25/2022 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,330,39010,1,0001578962,Common Stock
+D,01/25/2022 00:00:00,Pauwels Eric,4,S-Sale,--D,359,50961,1,0001323212,Common Stock
+D,01/25/2022 00:00:00,Hill Emily Luisa,4,S-Sale,--D,211,37722,1,0001778279,Common Stock
+D,01/25/2022 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,43,2447,1,0001578850,Common Stock
+D,01/18/2022 00:00:00,Utter Christine Marie,4,M-Exempt,--D,10000,0,4,0001707685,Stock Option (Right to Buy)
+D,01/18/2022 00:00:00,Utter Christine Marie,4,S-Sale,--D,10000,26425,3,0001707685,Common Stock
+A,01/18/2022 00:00:00,Utter Christine Marie,4,M-Exempt,--D,10000,36425,2,0001707685,Common Stock
+D,01/18/2022 00:00:00,Utter Christine Marie,4,S-Sale,--D,1428,26425,1,0001707685,Common Stock
+A,01/07/2022 00:00:00,Utter Christine Marie,4,A-Award,--D,43500,43500,3,0001707685,Stock Option (Right to Buy)
+A,01/07/2022 00:00:00,Utter Christine Marie,4,A-Award,--D,11600,27853,2,0001707685,Common Stock
+D,01/07/2022 00:00:00,Utter Christine Marie,4,S-Sale,--D,747,16253,1,0001707685,Common Stock
+A,01/07/2022 00:00:00,Almstead Neil Gregory,4,A-Award,--D,54000,54000,5,0001578850,Stock Option (Right to Buy)
+A,01/07/2022 00:00:00,Almstead Neil Gregory,4,A-Award,--I,780,2490,4,0001578850,Common Stock
+D,01/07/2022 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,45,1710,3,0001578850,Common Stock
+A,01/07/2022 00:00:00,Almstead Neil Gregory,4,A-Award,--D,14400,49458,2,0001578850,Common Stock
+D,01/07/2022 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,756,35058,1,0001578850,Common Stock
+A,01/07/2022 00:00:00,Boulding Mark Elliott,4,A-Award,--D,54000,54000,3,0001578852,Stock Option (Right to Buy)
+A,01/07/2022 00:00:00,Boulding Mark Elliott,4,A-Award,--D,14400,61889,2,0001578852,Common Stock
+D,01/07/2022 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,885,47489,1,0001578852,Common Stock
+A,01/07/2022 00:00:00,Hill Emily Luisa,4,A-Award,--D,58500,58500,3,0001778279,Stock Option (Right to Buy)
+A,01/07/2022 00:00:00,Hill Emily Luisa,4,A-Award,--D,15600,37933,2,0001778279,Common Stock
+D,01/07/2022 00:00:00,Hill Emily Luisa,4,S-Sale,--D,800,22333,1,0001778279,Common Stock
+A,01/07/2022 00:00:00,Klein Matthew B.,4,A-Award,--D,50000,50000,5,0001808968,Stock Option (Right to Buy)
+A,01/07/2022 00:00:00,Klein Matthew B.,4,A-Award,--D,52500,52500,4,0001808968,Stock Option (Right to Buy)
+A,01/07/2022 00:00:00,Klein Matthew B.,4,A-Award,--D,20000,57461,3,0001808968,Common Stock
+A,01/07/2022 00:00:00,Klein Matthew B.,4,A-Award,--D,21000,37461,2,0001808968,Common Stock
+D,01/07/2022 00:00:00,Klein Matthew B.,4,S-Sale,--D,775,16461,1,0001808968,Common Stock
+A,01/07/2022 00:00:00,Pauwels Eric,4,A-Award,--D,63000,63000,3,0001323212,Stock Option (Right to Buy)
+A,01/07/2022 00:00:00,Pauwels Eric,4,A-Award,--D,16800,51320,2,0001323212,Common Stock
+D,01/07/2022 00:00:00,Pauwels Eric,4,S-Sale,--D,866,34520,1,0001323212,Common Stock
+A,01/07/2022 00:00:00,Peltz Stuart Walter,4,A-Award,--I,63000,63000,6,0001578962,Stock Option (Right to Buy)
+A,01/07/2022 00:00:00,Peltz Stuart Walter,4,A-Award,--D,165000,165000,5,0001578962,Stock Option (Right to Buy)
+A,01/07/2022 00:00:00,Peltz Stuart Walter,4,A-Award,--I,16800,39340,4,0001578962,Common Stock
+D,01/07/2022 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,294,22540,3,0001578962,Common Stock
+A,01/07/2022 00:00:00,Peltz Stuart Walter,4,A-Award,--D,44000,122446,2,0001578962,Common Stock
+D,01/07/2022 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1869,78446,1,0001578962,Common Stock
+A,01/07/2022 00:00:00,Smith Mary L.,4,A-Award,--D,12000,12000,2,0001866044,Stock Option (Right To Buy)
+A,01/07/2022 00:00:00,Smith Mary L.,4,A-Award,--D,3200,5813,1,0001866044,Common Stock
+A,01/07/2022 00:00:00,Svoronos Dawn,4,A-Award,--D,12000,12000,3,0001574579,Stock Option (Right To Buy)
+A,01/07/2022 00:00:00,Svoronos Dawn,4,A-Award,--D,3200,29755,2,0001574579,Common Stock
+D,01/07/2022 00:00:00,Svoronos Dawn,4,S-Sale,--D,510,26555,1,0001574579,Common Stock
+A,01/07/2022 00:00:00,SCHMERTZLER MICHAEL,4,A-Award,--D,24000,24000,2,0001288952,Stock Option (Right To Buy)
+A,01/07/2022 00:00:00,SCHMERTZLER MICHAEL,4,A-Award,--D,6400,109766,1,0001288952,Common Stock
+A,01/07/2022 00:00:00,Jacobson Allan Steven,4,A-Award,--D,12000,12000,2,0001579003,Stock Option (Right To Buy)
+A,01/07/2022 00:00:00,Jacobson Allan Steven,4,A-Award,--D,3200,8348,1,0001579003,Common Stock
+A,01/07/2022 00:00:00,Reeve Emma,4,A-Award,--D,12000,12000,2,0001680329,Stock Option (Right To Buy)
+A,01/07/2022 00:00:00,Reeve Emma,4,A-Award,--D,3200,7528,1,0001680329,Common Stock
+A,01/07/2022 00:00:00,Okey Stephanie,4,A-Award,--D,12000,12000,2,0001742616,Stock Option (Right To Buy)
+A,01/07/2022 00:00:00,Okey Stephanie,4,A-Award,--D,3200,4163,1,0001742616,Common Stock
+A,01/07/2022 00:00:00,ZELDIS JEROME B,4,A-Award,--D,12000,12000,2,0001433982,Stock Option (Right To Buy)
+A,01/07/2022 00:00:00,ZELDIS JEROME B,4,A-Award,--D,3200,6500,1,0001433982,Common Stock
+A,01/07/2022 00:00:00,SOUTHWELL DAVID P,4,A-Award,--D,12000,12000,2,0001251553,Stock Option (Right To Buy)
+A,01/07/2022 00:00:00,SOUTHWELL DAVID P,4,A-Award,--D,3200,6500,1,0001251553,Common Stock
+A,01/07/2022 00:00:00,STEELE GLENN JR MD PHD,4,A-Award,--D,12000,12000,2,0001269131,Stock Option (Right To Buy)
+A,01/07/2022 00:00:00,STEELE GLENN JR MD PHD,4,A-Award,--D,3200,6500,1,0001269131,Common Stock
+D,01/04/2022 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,64,1755,1,0001578850,Common Stock
+D,01/04/2022 00:00:00,Hill Emily Luisa,4,S-Sale,--D,173,23133,1,0001778279,Common Stock
+D,01/04/2022 00:00:00,Pauwels Eric,4,S-Sale,--D,806,35386,1,0001323212,Common Stock
+D,01/04/2022 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,378,22834,1,0001578962,Common Stock
+D,09/02/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,3363,15653,3,0001578852,Stock Option (Right to Buy)
+D,09/02/2021 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,3363,48374,2,0001578852,Common Stock
+A,09/02/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,3363,51737,1,0001578852,Common Stock
+D,08/13/2021 00:00:00,Okey Stephanie,4,S-Sale,--D,1650,963,1,0001742616,Common Stock
+D,07/09/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,244,19016,30,0001578852,Stock Option (Right to Buy)
+D,07/09/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,227,19260,29,0001578852,Stock Option (Right to Buy)
+D,07/09/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,410,19487,28,0001578852,Stock Option (Right to Buy)
+D,07/09/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,548,19897,27,0001578852,Stock Option (Right to Buy)
+D,07/09/2021 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,244,48374,20,0001578852,Common Stock
+A,07/09/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,244,48618,19,0001578852,Common Stock
+D,07/09/2021 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,227,48374,18,0001578852,Common Stock
+A,07/09/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,227,48601,17,0001578852,Common Stock
+D,07/09/2021 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,410,48374,16,0001578852,Common Stock
+A,07/09/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,410,48784,15,0001578852,Common Stock
+D,07/09/2021 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,548,48374,14,0001578852,Common Stock
+A,07/09/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,548,48922,13,0001578852,Common Stock
+D,07/08/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,1405,20445,26,0001578852,Stock Option (Right to Buy)
+D,07/08/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,1800,21850,25,0001578852,Stock Option (Right to Buy)
+D,07/08/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,1500,23650,24,0001578852,Stock Option (Right to Buy)
+D,07/08/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,1100,25150,23,0001578852,Stock Option (Right To Buy)
+D,07/08/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,1000,4563,22,0001578852,Stock Option (Right to Buy)
+D,07/08/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,1000,5563,21,0001578852,Stock Option (Right To Buy)
+D,07/08/2021 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,1405,48374,12,0001578852,Common Stock
+A,07/08/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,1405,49779,11,0001578852,Common Stock
+D,07/08/2021 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,1800,48374,10,0001578852,Common Stock
+A,07/08/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,1800,50174,9,0001578852,Common Stock
+D,07/08/2021 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,1500,48374,8,0001578852,Common Stock
+A,07/08/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,1500,49874,7,0001578852,Common Stock
+D,07/08/2021 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,1100,48374,6,0001578852,Common Stock
+A,07/08/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,1100,49474,5,0001578852,Common Stock
+D,07/08/2021 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,1000,48374,4,0001578852,Common Stock
+A,07/08/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,1000,49374,3,0001578852,Common Stock
+D,07/08/2021 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,1000,48374,2,0001578852,Common Stock
+A,07/08/2021 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,1000,49374,1,0001578852,Common Stock
+A,06/11/2021 00:00:00,Smith Mary L.,4,A-Award,--D,5834,5834,4,0001866044,Stock Option (Right to Buy)
+A,06/11/2021 00:00:00,Smith Mary L.,4,A-Award,--D,10000,10000,3,0001866044,Stock Option (Right to Buy)
+A,06/11/2021 00:00:00,Smith Mary L.,4,A-Award,--D,963,2613,2,0001866044,Common Stock
+A,06/11/2021 00:00:00,Smith Mary L.,4,A-Award,--D,1650,1650,1,0001866044,Common Stock
+A,06/11/2021 00:00:00,Peltz Stuart Walter,4,A-Award,--I,36400,36400,2,0001578962,Stock Option (Right to Buy)
+A,06/11/2021 00:00:00,Peltz Stuart Walter,4,A-Award,--I,6240,22721,1,0001578962,Common Stock
+D,06/09/2021 00:00:00,Svoronos Dawn,4,S-Sale,--D,365,27065,1,0001574579,Common Stock
+D,04/20/2021 00:00:00,Klein Matthew B.,4,S-Sale,--D,197,16809,3,0001808968,Common Stock
+D,04/20/2021 00:00:00,Klein Matthew B.,4,S-Sale,--D,1444,17006,2,0001808968,Common Stock
+D,04/19/2021 00:00:00,Pauwels Eric,4,S-Sale,--D,786,35701,1,0001323212,Common Stock
+D,04/19/2021 00:00:00,Klein Matthew B.,4,S-Sale,--D,859,18450,1,0001808968,Common Stock
+A,04/13/2021 00:00:00,Peltz Stuart Walter,4,A-Award,--I,1400,16481,1,0001578962,Common Stock
+D,02/08/2021 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2657,21250,3,0001707685,Stock Option (Right to Buy)
+D,02/08/2021 00:00:00,Utter Christine Marie,4,S-Sale,--D,2657,16509,2,0001707685,Common Stock
+A,02/08/2021 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2657,19166,1,0001707685,Common Stock
+D,02/02/2021 00:00:00,Utter Christine Marie,4,S-Sale,--D,652,16509,2,0001707685,Common Stock
+D,02/01/2021 00:00:00,Utter Christine Marie,4,S-Sale,--D,368,17161,1,0001707685,Common Stock
+D,02/01/2021 00:00:00,Hill Emily Luisa,4,S-Sale,--D,541,23306,1,0001778279,Common Stock
+D,02/01/2021 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,778,48374,1,0001578852,Common Stock
+D,02/01/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,28,1819,2,0001578850,Common Stock
+D,02/01/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,973,35814,1,0001578850,Common Stock
+D,02/01/2021 00:00:00,Pauwels Eric,4,S-Sale,--D,362,36487,1,0001323212,Common Stock
+D,02/01/2021 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,283,15081,2,0001578962,Common Stock
+D,02/01/2021 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1968,80315,1,0001578962,Common Stock
+D,02/01/2021 00:00:00,Svoronos Dawn,4,S-Sale,--D,506,27430,1,0001574579,Common Stock
+D,01/25/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,44,1847,2,0001578850,Common Stock
+D,01/25/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,497,1891,1,0001578850,Common Stock
+D,01/25/2021 00:00:00,Hill Emily Luisa,4,S-Sale,--D,275,23847,1,0001778279,Common Stock
+D,01/25/2021 00:00:00,Pauwels Eric,4,S-Sale,--D,431,36849,1,0001323212,Common Stock
+D,01/25/2021 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,350,15364,1,0001578962,Common Stock
+D,01/15/2021 00:00:00,Klein Matthew B.,4,M-Exempt,--D,4300,86314,3,0001808968,Stock Option (Right to Buy)
+D,01/15/2021 00:00:00,Klein Matthew B.,4,S-Sale,--D,4300,19309,2,0001808968,Common Stock
+A,01/15/2021 00:00:00,Klein Matthew B.,4,M-Exempt,--D,4300,23609,1,0001808968,Common Stock
+D,01/13/2021 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2500,10000,7,0001707685,Stock Option (Right to Buy)
+D,01/13/2021 00:00:00,Utter Christine Marie,4,M-Exempt,--D,788,0,6,0001707685,Stock Option (Right To Buy)
+D,01/13/2021 00:00:00,Utter Christine Marie,4,S-Sale,--D,2500,17529,5,0001707685,Common Stock
+A,01/13/2021 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2500,20029,4,0001707685,Common Stock
+D,01/13/2021 00:00:00,Utter Christine Marie,4,S-Sale,--D,788,17529,3,0001707685,Common Stock
+A,01/13/2021 00:00:00,Utter Christine Marie,4,M-Exempt,--D,788,18317,2,0001707685,Common Stock
+D,01/13/2021 00:00:00,Utter Christine Marie,4,S-Sale,--D,659,17529,1,0001707685,Common Stock
+D,01/08/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--I,1300,0,3,0001578850,Stock Option (Right to Buy)
+D,01/08/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,1300,2388,2,0001578850,Common Stock
+A,01/08/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--I,1300,3688,1,0001578850,Common Stock
+D,01/08/2021 00:00:00,Klein Matthew B.,4,M-Exempt,--D,5500,90614,4,0001808968,Stock Option (Right to Buy)
+D,01/08/2021 00:00:00,Klein Matthew B.,4,S-Sale,--D,1500,19309,3,0001808968,Common Stock
+D,01/08/2021 00:00:00,Klein Matthew B.,4,S-Sale,--D,4000,20809,2,0001808968,Common Stock
+A,01/08/2021 00:00:00,Klein Matthew B.,4,M-Exempt,--D,5500,24809,1,0001808968,Common Stock
+D,01/08/2021 00:00:00,Hill Emily Luisa,4,M-Exempt,--D,9278,11932,12,0001778279,Stock Option (Right To Buy)
+D,01/08/2021 00:00:00,Hill Emily Luisa,4,M-Exempt,--D,10500,3500,11,0001778279,Stock Option (Right To Buy)
+D,01/08/2021 00:00:00,Hill Emily Luisa,4,M-Exempt,--D,3825,0,10,0001778279,Stock Option (Right To Buy)
+D,01/08/2021 00:00:00,Hill Emily Luisa,4,M-Exempt,--D,2430,0,9,0001778279,Stock Option (Right To Buy)
+D,01/08/2021 00:00:00,Hill Emily Luisa,4,S-Sale,--D,9278,24122,8,0001778279,Common Stock
+A,01/08/2021 00:00:00,Hill Emily Luisa,4,M-Exempt,--D,9278,33400,7,0001778279,Common Stock
+D,01/08/2021 00:00:00,Hill Emily Luisa,4,S-Sale,--D,10500,24122,6,0001778279,Common Stock
+A,01/08/2021 00:00:00,Hill Emily Luisa,4,M-Exempt,--D,10500,34622,5,0001778279,Common Stock
+D,01/08/2021 00:00:00,Hill Emily Luisa,4,S-Sale,--D,3825,24122,4,0001778279,Common Stock
+A,01/08/2021 00:00:00,Hill Emily Luisa,4,M-Exempt,--D,3825,27947,3,0001778279,Common Stock
+D,01/08/2021 00:00:00,Hill Emily Luisa,4,S-Sale,--D,2430,24122,2,0001778279,Common Stock
+A,01/08/2021 00:00:00,Hill Emily Luisa,4,M-Exempt,--D,2430,26552,1,0001778279,Common Stock
+D,01/07/2021 00:00:00,Klein Matthew B.,4,M-Exempt,--D,3886,96114,5,0001808968,Stock Option (Right to Buy)
+D,01/07/2021 00:00:00,Klein Matthew B.,4,S-Sale,--D,3886,19309,3,0001808968,Common Stock
+A,01/07/2021 00:00:00,Klein Matthew B.,4,M-Exempt,--D,3886,23195,2,0001808968,Common Stock
+A,01/06/2021 00:00:00,Hill Emily Luisa,4,A-Award,--D,63000,63000,2,0001778279,Stock Option (Right to Buy)
+A,01/06/2021 00:00:00,Hill Emily Luisa,4,A-Award,--D,10800,24122,1,0001778279,Common Stock
+A,01/06/2021 00:00:00,Boulding Mark Elliott,4,A-Award,--D,59500,59500,2,0001578852,Stock Option (Right to Buy)
+A,01/06/2021 00:00:00,Boulding Mark Elliott,4,A-Award,--D,10200,49152,1,0001578852,Common Stock
+A,01/06/2021 00:00:00,Pauwels Eric,4,A-Award,--D,59500,59500,2,0001323212,Stock Option (Right to Buy)
+A,01/06/2021 00:00:00,Pauwels Eric,4,A-Award,--D,10200,37280,1,0001323212,Common Stock
+A,01/06/2021 00:00:00,Peltz Stuart Walter,4,A-Award,--I,23100,23100,4,0001578962,Stock Option (Right to Buy)
+A,01/06/2021 00:00:00,Peltz Stuart Walter,4,A-Award,--D,161000,161000,3,0001578962,Stock Option (Right to Buy)
+A,01/06/2021 00:00:00,Peltz Stuart Walter,4,A-Award,--I,3960,15714,2,0001578962,Common Stock
+A,01/06/2021 00:00:00,Peltz Stuart Walter,4,A-Award,--D,27600,82283,1,0001578962,Common Stock
+A,01/06/2021 00:00:00,Utter Christine Marie,4,A-Award,--D,50750,50750,2,0001707685,Stock Option (Right to Buy)
+A,01/06/2021 00:00:00,Utter Christine Marie,4,A-Award,--D,8700,18188,1,0001707685,Common Stock
+A,01/06/2021 00:00:00,Klein Matthew B.,4,A-Award,--D,52500,52500,4,0001808968,Stock Option (Right to Buy)
+A,01/06/2021 00:00:00,Klein Matthew B.,4,A-Award,--D,9000,19309,1,0001808968,Common Stock
+A,01/06/2021 00:00:00,Almstead Neil Gregory,4,A-Award,--D,59500,59500,3,0001578850,Stock Option (Right to Buy)
+A,01/06/2021 00:00:00,Almstead Neil Gregory,4,A-Award,--I,600,2388,2,0001578850,Common Stock
+A,01/06/2021 00:00:00,Almstead Neil Gregory,4,A-Award,--D,10200,36787,1,0001578850,Common Stock
+A,01/06/2021 00:00:00,Reeve Emma,4,A-Award,--D,10000,10000,2,0001680329,Stock Option (Right To Buy)
+A,01/06/2021 00:00:00,Reeve Emma,4,A-Award,--D,1650,4328,1,0001680329,Common Stock
+A,01/06/2021 00:00:00,Svoronos Dawn,4,A-Award,--D,10000,10000,2,0001574579,Stock Option (Right To Buy)
+A,01/06/2021 00:00:00,Svoronos Dawn,4,A-Award,--D,1650,27936,1,0001574579,Common Stock
+A,01/06/2021 00:00:00,Jacobson Allan Steven,4,A-Award,--D,10000,10000,2,0001579003,Stock Option (Right To Buy)
+A,01/06/2021 00:00:00,Jacobson Allan Steven,4,A-Award,--D,1650,5148,1,0001579003,Common Stock
+A,01/06/2021 00:00:00,ZELDIS JEROME B,4,A-Award,--D,10000,10000,2,0001433982,Stock Option (Right To Buy)
+A,01/06/2021 00:00:00,ZELDIS JEROME B,4,A-Award,--D,1650,3300,1,0001433982,Common Stock
+A,01/06/2021 00:00:00,Okey Stephanie,4,A-Award,--D,10000,10000,2,0001742616,Stock Option (Right To Buy)
+A,01/06/2021 00:00:00,Okey Stephanie,4,A-Award,--D,1650,2613,1,0001742616,Common Stock
+A,01/06/2021 00:00:00,SOUTHWELL DAVID P,4,A-Award,--D,10000,10000,2,0001251553,Stock Option (Right To Buy)
+A,01/06/2021 00:00:00,SOUTHWELL DAVID P,4,A-Award,--D,1650,3300,1,0001251553,Common Stock
+A,01/06/2021 00:00:00,STEELE GLENN JR MD PHD,4,A-Award,--D,10000,10000,2,0001269131,Stock Option (Right To Buy)
+A,01/06/2021 00:00:00,STEELE GLENN JR MD PHD,4,A-Award,--D,1650,3300,1,0001269131,Common Stock
+A,01/06/2021 00:00:00,SCHMERTZLER MICHAEL,4,A-Award,--D,20000,20000,2,0001288952,Stock Option (Right To Buy)
+A,01/06/2021 00:00:00,SCHMERTZLER MICHAEL,4,A-Award,--D,3300,103366,1,0001288952,Common Stock
+D,01/05/2021 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,772,38952,1,0001578852,Common Stock
+D,01/05/2021 00:00:00,Hill Emily Luisa,4,S-Sale,--D,176,13322,2,0001778279,Common Stock
+D,01/05/2021 00:00:00,Hill Emily Luisa,4,S-Sale,--D,112,13498,1,0001778279,Common Stock
+D,01/05/2021 00:00:00,Pauwels Eric,4,S-Sale,--D,778,27080,2,0001323212,Common Stock
+D,01/05/2021 00:00:00,Pauwels Eric,4,S-Sale,--D,289,27858,1,0001323212,Common Stock
+D,01/05/2021 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,382,11754,3,0001578962,Common Stock
+D,01/05/2021 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,284,12136,2,0001578962,Common Stock
+D,01/05/2021 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1402,54683,1,0001578962,Common Stock
+D,01/05/2021 00:00:00,Utter Christine Marie,4,S-Sale,--D,316,9488,1,0001707685,Common Stock
+D,01/05/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,68,1788,3,0001578850,Common Stock
+D,01/05/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,56,1856,2,0001578850,Common Stock
+D,01/05/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,502,26587,1,0001578850,Common Stock
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--I,600,0,31,0001578850,Stock Option (Right to Buy)
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,48125,17500,30,0001578850,Stock Option (Right to Buy)
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,187,65625,29,0001578850,Stock Option (Right to Buy)
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,5715,0,28,0001578850,Stock Option (Right to Buy)
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,4188,65812,27,0001578850,Stock Option (Right To Buy)
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,2188,5715,26,0001578850,Stock Option (Right to Buy)
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,3035,7903,25,0001578850,Stock Option (Right to Buy)
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,32771,0,24,0001578850,Stock Option (Right to Buy)
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,7229,32771,23,0001578850,Stock Option (Right To Buy)
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,600,1912,22,0001578850,Common Stock
+A,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--I,600,2512,21,0001578850,Common Stock
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,189,27089,20,0001578850,Common Stock
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,47936,27278,19,0001578850,Common Stock
+A,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,48125,75214,18,0001578850,Common Stock
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,187,27089,17,0001578850,Common Stock
+A,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,187,27276,16,0001578850,Common Stock
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,100,27089,15,0001578850,Common Stock
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,5615,27189,14,0001578850,Common Stock
+A,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,5715,32804,13,0001578850,Common Stock
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,4188,27089,12,0001578850,Common Stock
+A,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,4188,31277,11,0001578850,Common Stock
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,2188,27089,10,0001578850,Common Stock
+A,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,2188,29277,9,0001578850,Common Stock
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,100,27089,8,0001578850,Common Stock
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,2935,27189,7,0001578850,Common Stock
+A,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,3035,30124,6,0001578850,Common Stock
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,200,27089,5,0001578850,Common Stock
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,32571,27289,4,0001578850,Common Stock
+A,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,32771,59860,3,0001578850,Common Stock
+D,01/04/2021 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,7229,27089,2,0001578850,Common Stock
+A,01/04/2021 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,7229,34318,1,0001578850,Common Stock
+D,12/30/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,115937,149063,10,0001578962,Stock Option (Right To Buy)
+D,12/30/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,169781,5219,9,0001578962,Stock Option (Right To Buy)
+D,12/30/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,7938,56085,8,0001578962,Common Stock
+D,12/30/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,30060,64023,7,0001578962,Common Stock
+D,12/30/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,77939,94083,6,0001578962,Common Stock
+A,12/30/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,115937,172022,5,0001578962,Common Stock
+D,12/30/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,8212,56085,4,0001578962,Common Stock
+D,12/30/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,38779,64297,3,0001578962,Common Stock
+D,12/30/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,122790,103076,2,0001578962,Common Stock
+A,12/30/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,169781,225866,1,0001578962,Common Stock
+D,12/15/2020 00:00:00,Reeve Emma,4,M-Exempt,--D,1028,11000,8,0001680329,Stock Option (Right to Buy)
+A,12/15/2020 00:00:00,Reeve Emma,4,M-Exempt,--D,1028,2678,5,0001680329,Common Stock
+D,12/14/2020 00:00:00,Reeve Emma,4,M-Exempt,--D,972,12028,7,0001680329,Stock Option (Right to Buy)
+D,12/14/2020 00:00:00,Reeve Emma,4,M-Exempt,--D,1000,13000,6,0001680329,Stock Option (Right to Buy)
+D,12/14/2020 00:00:00,Reeve Emma,4,S-Sale,--D,972,1650,4,0001680329,Common Stock
+A,12/14/2020 00:00:00,Reeve Emma,4,M-Exempt,--D,972,2622,3,0001680329,Common Stock
+D,12/14/2020 00:00:00,Reeve Emma,4,S-Sale,--D,1000,1650,2,0001680329,Common Stock
+A,12/14/2020 00:00:00,Reeve Emma,4,M-Exempt,--D,1000,2650,1,0001680329,Common Stock
+D,12/08/2020 00:00:00,Okey Stephanie,4,S-Sale,--D,687,963,1,0001742616,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,137500,62500,26,0001578962,Stock Option (Right To Buy)
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,18125,7875,25,0001578962,Stock Option (Right To Buy)
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,192792,0,24,0001578962,Stock Option (Right To Buy)
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,310,56085,23,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,13530,56395,22,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,5520,69925,21,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,9927,75445,20,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,23543,85372,19,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,22902,108915,18,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,61768,131817,17,0001578962,Common Stock
+A,12/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,137500,193585,16,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,300,56085,15,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,3242,56385,14,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,747,59627,13,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,2852,60374,12,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,3332,63226,11,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,7652,66558,10,0001578962,Common Stock
+A,12/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,18125,74210,9,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1700,56085,8,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,18022,57785,7,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,6494,75807,6,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,13984,82301,5,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,33443,96285,4,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,34036,129728,3,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,85113,163764,2,0001578962,Common Stock
+A,12/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,192792,248877,1,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,7208,192792,29,0001578962,Stock Option (Right To Buy)
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,3104,0,28,0001578962,Stock Option (Right to Buy)
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,2115,0,27,0001578962,Stock Option (Right to Buy)
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,7590,3104,26,0001578962,Stock Option (Right to Buy)
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,700,56085,25,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1200,56785,24,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,100,57985,23,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1300,58085,22,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1100,59385,21,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,2808,60485,20,0001578962,Common Stock
+A,12/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,7208,63293,19,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,300,56085,18,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,500,56385,17,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,449,56885,16,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,600,57334,15,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1255,57934,14,0001578962,Common Stock
+A,12/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,3104,59189,13,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,500,56085,12,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,400,56585,11,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,400,56985,10,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,815,57385,9,0001578962,Common Stock
+A,12/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,2115,58200,8,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,100,56085,7,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1600,56185,6,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,400,57785,5,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1200,58185,4,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1200,59385,3,0001578962,Common Stock
+D,12/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,3090,60585,2,0001578962,Common Stock
+A,12/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,7590,63675,1,0001578962,Common Stock
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,8421,18529,28,0001578962,Stock Option (Right To Buy)
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,7065,13399,27,0001578962,Stock Option (Right to Buy)
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,2362,2363,26,0001578962,Stock Option (Right to Buy)
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,7560,0,25,0001578962,Stock Option (Right to Buy)
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,2505,20464,24,0001578962,Stock Option (Right To Buy)
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,1575,4725,23,0001578962,Stock Option (Right To Buy)
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,500,375,22,0001578962,Stock Option (Right To Buy)
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,3440,7560,21,0001578962,Stock Option (Right To Buy)
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,4900,0,20,0001578962,Stock Option (Right To Buy)
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,8421,12178,19,0001578962,Common Stock
+A,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,8421,20599,18,0001578962,Common Stock
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,7065,12178,17,0001578962,Common Stock
+A,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,7065,19243,16,0001578962,Common Stock
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,2362,12178,15,0001578962,Common Stock
+A,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,2362,14540,14,0001578962,Common Stock
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,7560,12178,13,0001578962,Common Stock
+A,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,7560,19738,12,0001578962,Common Stock
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,2505,12178,11,0001578962,Common Stock
+A,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,2505,14683,10,0001578962,Common Stock
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,1575,12178,9,0001578962,Common Stock
+A,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,1575,13753,8,0001578962,Common Stock
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,500,12178,7,0001578962,Common Stock
+A,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,500,12678,6,0001578962,Common Stock
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,3440,12178,5,0001578962,Common Stock
+A,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,3440,15618,4,0001578962,Common Stock
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,4900,12178,3,0001578962,Common Stock
+A,11/04/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,4900,17078,2,0001578962,Common Stock
+D,11/04/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,11037,12178,1,0001578962,Common Stock
+D,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2656,23907,27,0001707685,Stock Option (Right to Buy)
+D,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,10625,26563,26,0001707685,Stock Option (Right to Buy)
+D,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2656,37188,25,0001707685,Stock Option (Right to Buy)
+D,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2656,39844,24,0001707685,Stock Option (Right To Buy)
+D,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,8055,0,23,0001707685,Stock Option (Right to Buy)
+D,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2500,12500,22,0001707685,Stock Option (Right to Buy)
+D,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,355,15000,21,0001707685,Stock Option (Right to Buy)
+D,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,688,8055,20,0001707685,Stock Option (Right to Buy)
+D,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,1567,8743,19,0001707685,Stock Option (Right To Buy)
+D,11/04/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,2656,9562,18,0001707685,Common Stock
+A,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2656,12218,17,0001707685,Common Stock
+D,11/04/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,10625,9562,16,0001707685,Common Stock
+A,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,10625,20187,15,0001707685,Common Stock
+D,11/04/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,2656,9562,14,0001707685,Common Stock
+A,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2656,12218,13,0001707685,Common Stock
+D,11/04/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,2656,9562,12,0001707685,Common Stock
+A,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2656,12218,11,0001707685,Common Stock
+D,11/04/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,8055,9562,10,0001707685,Common Stock
+A,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,8055,17617,9,0001707685,Common Stock
+D,11/04/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,2500,9562,8,0001707685,Common Stock
+A,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2500,12062,7,0001707685,Common Stock
+D,11/04/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,355,9562,6,0001707685,Common Stock
+A,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,355,9917,5,0001707685,Common Stock
+D,11/04/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,688,9562,4,0001707685,Common Stock
+A,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,688,10250,3,0001707685,Common Stock
+D,11/04/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,1567,9562,2,0001707685,Common Stock
+A,11/04/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,1567,11129,1,0001707685,Common Stock
+D,11/04/2020 00:00:00,Jacobson Allan Steven,4,M-Exempt,--D,20000,23000,3,0001579003,Stock Option (Right To Buy)
+D,11/04/2020 00:00:00,Jacobson Allan Steven,4,S-Sale,--D,20000,3498,2,0001579003,Common Stock
+A,11/04/2020 00:00:00,Jacobson Allan Steven,4,M-Exempt,--D,20000,23498,1,0001579003,Common Stock
+D,11/04/2020 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,21875,10938,6,0001578850,Stock Option (Right to Buy)
+D,11/04/2020 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,2187,32813,5,0001578850,Stock Option (Right To Buy)
+D,11/04/2020 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,21875,27089,4,0001578850,Common Stock
+A,11/04/2020 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,21875,48964,3,0001578850,Common Stock
+D,11/04/2020 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,2187,27089,2,0001578850,Common Stock
+A,11/04/2020 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,2187,29276,1,0001578850,Common Stock
+D,11/03/2020 00:00:00,Pauwels Eric,4,S-Sale,--D,6194,27647,1,0001323212,Common Stock
+D,11/02/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,50000,2115,5,0001578962,Stock Option (Right to Buy)
+D,11/02/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,11813,56085,4,0001578962,Common Stock
+D,11/02/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,9114,67898,3,0001578962,Common Stock
+D,11/02/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,29073,77012,2,0001578962,Common Stock
+A,11/02/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,50000,106085,1,0001578962,Common Stock
+D,10/16/2020 00:00:00,Jacobson Allan Steven,4,S-Sale,--D,5000,3498,1,0001579003,Common Stock
+D,10/16/2020 00:00:00,SOUTHWELL DAVID P,4,M-Exempt,--D,12000,0,8,0001251553,Stock Option (Right to Buy)
+D,10/16/2020 00:00:00,SOUTHWELL DAVID P,4,M-Exempt,--D,15000,0,7,0001251553,Stock Option (Right to Buy)
+D,10/16/2020 00:00:00,SOUTHWELL DAVID P,4,S-Sale,--D,500,1650,6,0001251553,Common Stock
+D,10/16/2020 00:00:00,SOUTHWELL DAVID P,4,S-Sale,--D,11500,2150,5,0001251553,Common Stock
+A,10/16/2020 00:00:00,SOUTHWELL DAVID P,4,M-Exempt,--D,12000,13650,4,0001251553,Common Stock
+D,10/16/2020 00:00:00,SOUTHWELL DAVID P,4,S-Sale,--D,700,1650,3,0001251553,Common Stock
+D,10/16/2020 00:00:00,SOUTHWELL DAVID P,4,S-Sale,--D,14300,2350,2,0001251553,Common Stock
+A,10/16/2020 00:00:00,SOUTHWELL DAVID P,4,M-Exempt,--D,15000,16650,1,0001251553,Common Stock
+D,10/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,48175,26000,8,0001578962,Stock Option (Right To Buy)
+D,10/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,22929,10694,7,0001578962,Stock Option (Right to Buy)
+D,10/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,31681,56085,6,0001578962,Common Stock
+D,10/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,16494,87766,5,0001578962,Common Stock
+A,10/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,48175,104260,4,0001578962,Common Stock
+D,10/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,11786,56085,3,0001578962,Common Stock
+D,10/07/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,11143,67871,2,0001578962,Common Stock
+A,10/07/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,22929,79014,1,0001578962,Common Stock
+D,10/06/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,51825,74175,15,0001578962,Stock Option (Right To Buy)
+D,10/06/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,22511,33623,14,0001578962,Stock Option (Right to Buy)
+D,10/06/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,50015,52115,13,0001578962,Stock Option (Right to Buy)
+D,10/06/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,51825,56085,10,0001578962,Common Stock
+A,10/06/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,51825,107910,9,0001578962,Common Stock
+D,10/06/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,22511,56085,8,0001578962,Common Stock
+A,10/06/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,22511,78596,7,0001578962,Common Stock
+D,10/06/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,50015,56085,6,0001578962,Common Stock
+A,10/06/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,50015,106100,5,0001578962,Common Stock
+D,10/06/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2500,15355,6,0001707685,Stock Option (Right to Buy)
+D,10/06/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,2500,9562,4,0001707685,Common Stock
+A,10/06/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2500,12062,3,0001707685,Common Stock
+D,10/05/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,54560,56134,12,0001578962,Stock Option (Right To Buy)
+D,10/05/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,900,102130,11,0001578962,Stock Option (Right To Buy)
+D,10/05/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,54560,56085,4,0001578962,Common Stock
+A,10/05/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,54560,110645,3,0001578962,Common Stock
+D,10/05/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,900,56085,2,0001578962,Common Stock
+A,10/05/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,900,56985,1,0001578962,Common Stock
+D,10/05/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,787,788,5,0001707685,Stock Option (Right To Buy)
+D,10/05/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,787,9562,2,0001707685,Common Stock
+A,10/05/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,787,10349,1,0001707685,Common Stock
+D,07/15/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,50000,103030,8,0001578962,Stock Option (Right To Buy)
+D,07/15/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,50000,153030,7,0001578962,Stock Option (Right To Buy)
+D,07/15/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,24401,56085,6,0001578962,Common Stock
+D,07/15/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,25599,80486,5,0001578962,Common Stock
+A,07/15/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,50000,106085,4,0001578962,Common Stock
+D,07/15/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,24403,56085,3,0001578962,Common Stock
+D,07/15/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,25597,80488,2,0001578962,Common Stock
+A,07/15/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,50000,106085,1,0001578962,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,17500,26250,22,0001578852,Stock Option (Right To Buy)
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,13125,6563,21,0001578852,Stock Option (Right To Buy)
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,100,39724,20,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,3675,39824,19,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,600,43499,18,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,400,44099,17,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,7350,44499,16,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,1000,51849,15,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,3775,52849,14,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,600,56624,13,0001578852,Common Stock
+A,07/07/2020 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,17500,57224,12,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,200,39724,11,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,4301,39924,10,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,626,44225,9,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,2881,44851,8,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,400,47732,7,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,100,48132,6,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,2824,48232,5,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,357,51056,4,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,962,51413,3,0001578852,Common Stock
+D,07/07/2020 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,474,52375,2,0001578852,Common Stock
+A,07/07/2020 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,13125,52849,1,0001578852,Common Stock
+D,07/06/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2500,17855,7,0001707685,Stock Option (Right To Buy)
+D,07/06/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,788,1575,6,0001707685,Stock Option (Right To Buy)
+D,07/06/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,500,9562,5,0001707685,Common Stock
+D,07/06/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,2000,10062,4,0001707685,Common Stock
+A,07/06/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2500,12062,3,0001707685,Common Stock
+D,07/06/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,788,9562,2,0001707685,Common Stock
+A,07/06/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,788,10350,1,0001707685,Common Stock
+D,06/29/2020 00:00:00,Hill Emily Luisa,4,S-Sale,--D,2581,13610,1,0001778279,Common Stock
+D,06/11/2020 00:00:00,Svoronos Dawn,4,S-Sale,--D,364,26286,1,0001574579,Common Stock
+D,05/20/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,33788,203030,3,0001578962,Stock Option (Right To Buy)
+D,05/20/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,33788,56085,2,0001578962,Common Stock
+A,05/20/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,33788,89873,1,0001578962,Common Stock
+D,05/18/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,6284,236818,3,0001578962,Stock Option (Right To Buy)
+D,05/18/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,6284,56085,2,0001578962,Common Stock
+A,05/18/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,6284,62369,1,0001578962,Common Stock
+D,05/05/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,109928,243102,4,0001578962,Stock Option (Right To Buy)
+D,05/05/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1985,56085,3,0001578962,Common Stock
+D,05/05/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,107943,58070,2,0001578962,Common Stock
+A,05/05/2020 00:00:00,Peltz Stuart Walter,4,M-Exempt,--D,109928,166013,1,0001578962,Common Stock
+D,04/20/2020 00:00:00,Jacobson Allan Steven,4,M-Exempt,--D,17900,43000,8,0001579003,Stock Option (Right To Buy)
+D,04/20/2020 00:00:00,Jacobson Allan Steven,4,S-Sale,--D,100,8498,6,0001579003,Common Stock
+D,04/20/2020 00:00:00,Jacobson Allan Steven,4,S-Sale,--D,9653,8598,5,0001579003,Common Stock
+D,04/20/2020 00:00:00,Jacobson Allan Steven,4,S-Sale,--D,8147,18251,4,0001579003,Common Stock
+A,04/20/2020 00:00:00,Jacobson Allan Steven,4,M-Exempt,--D,17900,26398,3,0001579003,Common Stock
+D,04/17/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2145,20355,3,0001707685,Stock Option (Right To Buy)
+D,04/17/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,2145,9304,2,0001707685,Common Stock
+A,04/17/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2145,11449,1,0001707685,Common Stock
+D,04/17/2020 00:00:00,Jacobson Allan Steven,4,M-Exempt,--D,2100,60900,7,0001579003,Stock Option (Right To Buy)
+D,04/17/2020 00:00:00,Jacobson Allan Steven,4,S-Sale,--D,2100,8498,2,0001579003,Common Stock
+A,04/17/2020 00:00:00,Jacobson Allan Steven,4,M-Exempt,--D,2100,10598,1,0001579003,Common Stock
+A,04/16/2020 00:00:00,Klein Matthew B.,4,A-Award,--D,50000,50000,2,0001808968,Stock Option (Right To Buy)
+A,04/16/2020 00:00:00,Klein Matthew B.,4,A-Award,--D,10000,10000,1,0001808968,Common Stock
+A,04/16/2020 00:00:00,Pauwels Eric,4,A-Award,--D,50000,50000,2,0001323212,Stock Option (Right To Buy)
+A,04/16/2020 00:00:00,Pauwels Eric,4,A-Award,--D,10000,33841,1,0001323212,Common Stock
+D,04/03/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,787,2363,3,0001707685,Stock Option (Right To Buy)
+D,04/03/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,787,9304,2,0001707685,Common Stock
+A,04/03/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,787,10091,1,0001707685,Common Stock
+A,03/16/2020 00:00:00,SCHMERTZLER MICHAEL,4,P-Purchase,--D,10000,100066,1,0001288952,Common Stock
+D,02/10/2020 00:00:00,Souza Marcio,4,M-Exempt,--I,625,3125,3,0001707657,Stock Option (Right To Buy)
+D,02/10/2020 00:00:00,Souza Marcio,4,S-Sale,--I,625,6744,2,0001707657,Common Stock
+A,02/10/2020 00:00:00,Souza Marcio,4,M-Exempt,--I,625,7369,1,0001707657,Common Stock
+D,02/06/2020 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,3102,0,8,0001578850,Stock Option (Right To Buy)
+D,02/06/2020 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,46898,0,7,0001578850,Stock Option (Right To Buy)
+D,02/06/2020 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,4040,1912,6,0001578850,Common Stock
+D,02/06/2020 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,3102,27089,4,0001578850,Common Stock
+A,02/06/2020 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,3102,30191,3,0001578850,Common Stock
+D,02/06/2020 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,46898,27089,2,0001578850,Common Stock
+A,02/06/2020 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,46898,73987,1,0001578850,Common Stock
+D,02/05/2020 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,405,5952,5,0001578850,Common Stock
+A,01/29/2020 00:00:00,Okey Stephanie,4,A-Award,--D,10000,10000,2,0001742616,Stock Option (Right To Buy)
+A,01/29/2020 00:00:00,Okey Stephanie,4,A-Award,--D,1650,1650,1,0001742616,Common Stock
+A,01/29/2020 00:00:00,ZELDIS JEROME B,4,A-Award,--D,10000,10000,2,0001433982,Stock Option (Right To Buy)
+A,01/29/2020 00:00:00,ZELDIS JEROME B,4,A-Award,--D,1650,1650,1,0001433982,Common Stock
+A,01/29/2020 00:00:00,Boulding Mark Elliott,4,A-Award,--D,59500,59500,2,0001578852,Stock Option (Right To Buy)
+A,01/29/2020 00:00:00,Boulding Mark Elliott,4,A-Award,--D,10200,39724,1,0001578852,Common Stock
+A,01/29/2020 00:00:00,Hill Emily Luisa,4,A-Award,--D,64250,64250,2,0001778279,Stock Option (Right To Buy)
+A,01/29/2020 00:00:00,Hill Emily Luisa,4,A-Award,--D,9300,16191,1,0001778279,Common Stock
+A,01/29/2020 00:00:00,Reeve Emma,4,A-Award,--D,10000,10000,2,0001680329,Stock Option (Right To Buy)
+A,01/29/2020 00:00:00,Reeve Emma,4,A-Award,--D,1650,1650,1,0001680329,Common Stock
+A,01/29/2020 00:00:00,Utter Christine Marie,4,A-Award,--D,23800,23800,2,0001707685,Stock Option (Right To Buy)
+A,01/29/2020 00:00:00,Utter Christine Marie,4,A-Award,--D,4080,9304,1,0001707685,Common Stock
+A,01/29/2020 00:00:00,SOUTHWELL DAVID P,4,A-Award,--D,10000,10000,2,0001251553,Stock Option (Right To Buy)
+A,01/29/2020 00:00:00,SOUTHWELL DAVID P,4,A-Award,--D,1650,1650,1,0001251553,Common Stock
+A,01/29/2020 00:00:00,Peltz Stuart Walter,4,A-Award,--I,28600,28600,4,0001578962,Stock Option (Right To Buy)
+A,01/29/2020 00:00:00,Peltz Stuart Walter,4,A-Award,--D,192500,192500,3,0001578962,Stock Option (Right To Buy)
+A,01/29/2020 00:00:00,Peltz Stuart Walter,4,A-Award,--I,4855,22957,2,0001578962,Common Stock
+A,01/29/2020 00:00:00,Peltz Stuart Walter,4,A-Award,--D,33000,56085,1,0001578962,Common Stock
+A,01/29/2020 00:00:00,Almstead Neil Gregory,4,A-Award,--D,69500,69500,3,0001578850,Stock Option (Right To Buy)
+A,01/29/2020 00:00:00,Almstead Neil Gregory,4,A-Award,--I,370,6357,2,0001578850,Common Stock
+A,01/29/2020 00:00:00,Almstead Neil Gregory,4,A-Award,--D,10200,27089,1,0001578850,Common Stock
+A,01/29/2020 00:00:00,SCHMERTZLER MICHAEL,4,A-Award,--D,20000,20000,2,0001288952,Stock Option (Right To Buy)
+A,01/29/2020 00:00:00,SCHMERTZLER MICHAEL,4,A-Award,--D,3300,90066,1,0001288952,Common Stock
+A,01/29/2020 00:00:00,Jacobson Allan Steven,4,A-Award,--D,10000,10000,2,0001579003,Stock Option (Right To Buy)
+A,01/29/2020 00:00:00,Jacobson Allan Steven,4,A-Award,--D,1650,8498,1,0001579003,Common Stock
+A,01/29/2020 00:00:00,STEELE GLENN JR MD PHD,4,A-Award,--D,10000,10000,2,0001269131,Stock Option (Right To Buy)
+A,01/29/2020 00:00:00,STEELE GLENN JR MD PHD,4,A-Award,--D,1650,1650,1,0001269131,Common Stock
+A,01/29/2020 00:00:00,Souza Marcio,4,A-Award,--I,4170,4170,4,0001707657,Stock Option (Right To Buy)
+A,01/29/2020 00:00:00,Souza Marcio,4,A-Award,--D,93500,93500,3,0001707657,Stock Option (Right To Buy)
+A,01/29/2020 00:00:00,Souza Marcio,4,A-Award,--I,1670,6744,2,0001707657,Common Stock
+A,01/29/2020 00:00:00,Souza Marcio,4,A-Award,--D,12600,50097,1,0001707657,Common Stock
+A,01/29/2020 00:00:00,Svoronos Dawn,4,A-Award,--D,10000,10000,2,0001574579,Stock Option (Right To Buy)
+A,01/29/2020 00:00:00,Svoronos Dawn,4,A-Award,--D,1650,26650,1,0001574579,Common Stock
+D,01/23/2020 00:00:00,Souza Marcio,4,S-Sale,--I,154,5074,1,0001707657,Common Stock
+D,01/23/2020 00:00:00,Hill Emily Luisa,4,S-Sale,--D,330,6891,1,0001778279,Common Stock
+D,01/23/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,423,18102,1,0001578962,Common Stock
+D,01/23/2020 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,46,5987,1,0001578850,Common Stock
+D,01/07/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,7500,22500,7,0001707685,Stock Option (Right To Buy)
+D,01/07/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,6250,0,6,0001707685,Stock Option (Right To Buy)
+D,01/07/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,7500,5224,5,0001707685,Common Stock
+A,01/07/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,7500,12724,4,0001707685,Common Stock
+D,01/07/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,6250,5224,3,0001707685,Common Stock
+A,01/07/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,6250,11474,2,0001707685,Common Stock
+D,01/07/2020 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,59,6033,4,0001578850,Common Stock
+D,01/07/2020 00:00:00,Hill Emily Luisa,4,S-Sale,--D,63,7221,3,0001778279,Common Stock
+D,01/06/2020 00:00:00,Souza Marcio,4,S-Sale,--I,86,5228,2,0001707657,Common Stock
+D,01/06/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,360,5224,1,0001707685,Common Stock
+D,01/06/2020 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,57,6092,3,0001578850,Common Stock
+D,01/06/2020 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,70,6149,2,0001578850,Common Stock
+D,01/06/2020 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,507,16889,1,0001578850,Common Stock
+D,01/06/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,359,18525,3,0001578962,Common Stock
+D,01/06/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,439,18884,2,0001578962,Common Stock
+D,01/06/2020 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1797,23085,1,0001578962,Common Stock
+D,01/06/2020 00:00:00,Hill Emily Luisa,4,S-Sale,--D,200,7284,2,0001778279,Common Stock
+D,01/06/2020 00:00:00,Hill Emily Luisa,4,S-Sale,--D,121,7484,1,0001778279,Common Stock
+D,01/03/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,788,3150,6,0001707685,Stock Option (Right To Buy)
+D,01/03/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,788,5584,4,0001707685,Common Stock
+A,01/03/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,788,6372,3,0001707685,Common Stock
+D,01/02/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2362,3938,5,0001707685,Stock Option (Right To Buy)
+D,01/02/2020 00:00:00,Utter Christine Marie,4,S-Sale,--D,2362,5584,2,0001707685,Common Stock
+A,01/02/2020 00:00:00,Utter Christine Marie,4,M-Exempt,--D,2362,7946,1,0001707685,Common Stock
+D,12/30/2019 00:00:00,Souza Marcio,4,G-Gift,-ED,1000,37497,1,0001707657,Common Stock
+D,12/23/2019 00:00:00,Souza Marcio,4,M-Exempt,--I,6250,3750,17,0001707657,Stock Option (Right To Buy)
+D,12/23/2019 00:00:00,Souza Marcio,4,M-Exempt,--D,30000,45000,16,0001707657,Stock Option (Right To Buy)
+D,12/23/2019 00:00:00,Souza Marcio,4,M-Exempt,--D,15881,7219,15,0001707657,Stock Option (Right To Buy)
+D,12/23/2019 00:00:00,Souza Marcio,4,M-Exempt,--D,30000,0,14,0001707657,Stock Option (Right To Buy)
+D,12/23/2019 00:00:00,Souza Marcio,4,S-Sale,--I,6250,5038,13,0001707657,Common Stock
+A,12/23/2019 00:00:00,Souza Marcio,4,M-Exempt,--I,6250,11288,12,0001707657,Common Stock
+D,12/23/2019 00:00:00,Souza Marcio,4,S-Sale,--D,18668,38221,11,0001707657,Common Stock
+D,12/23/2019 00:00:00,Souza Marcio,4,S-Sale,--D,11332,56889,10,0001707657,Common Stock
+A,12/23/2019 00:00:00,Souza Marcio,4,M-Exempt,--D,30000,68221,9,0001707657,Common Stock
+D,12/23/2019 00:00:00,Souza Marcio,4,S-Sale,--D,7004,38221,8,0001707657,Common Stock
+D,12/23/2019 00:00:00,Souza Marcio,4,S-Sale,--D,8877,45225,7,0001707657,Common Stock
+A,12/23/2019 00:00:00,Souza Marcio,4,M-Exempt,--D,15881,54102,6,0001707657,Common Stock
+D,12/23/2019 00:00:00,Souza Marcio,4,S-Sale,--D,21271,38221,5,0001707657,Common Stock
+D,12/23/2019 00:00:00,Souza Marcio,4,S-Sale,--D,8729,59492,4,0001707657,Common Stock
+A,12/23/2019 00:00:00,Souza Marcio,4,M-Exempt,--D,30000,68221,3,0001707657,Common Stock
+D,12/23/2019 00:00:00,Souza Marcio,4,S-Sale,--D,14814,38221,2,0001707657,Common Stock
+D,12/23/2019 00:00:00,Souza Marcio,4,S-Sale,--D,6000,53035,1,0001707657,Common Stock
+D,12/03/2019 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,7656,22969,19,0001578962,Stock Option (Right To Buy)
+D,12/03/2019 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,5741,6300,18,0001578962,Stock Option (Right To Buy)
+D,12/03/2019 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,1000,875,17,0001578962,Stock Option (Right To Buy)
+D,12/03/2019 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,559,12041,16,0001578962,Stock Option (Right To Buy)
+D,12/03/2019 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,125,1875,15,0001578962,Stock Option (Right To Buy)
+D,12/03/2019 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,3900,0,14,0001578962,Stock Option (Right To Buy)
+D,12/03/2019 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,7656,18676,13,0001578962,Common Stock
+A,12/03/2019 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,7656,26332,12,0001578962,Common Stock
+D,12/03/2019 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,5741,18676,11,0001578962,Common Stock
+A,12/03/2019 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,5741,24417,10,0001578962,Common Stock
+D,12/03/2019 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,1000,18676,9,0001578962,Common Stock
+A,12/03/2019 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,1000,19676,8,0001578962,Common Stock
+D,12/03/2019 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,559,18676,7,0001578962,Common Stock
+A,12/03/2019 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,559,19235,6,0001578962,Common Stock
+D,12/03/2019 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,125,18676,5,0001578962,Common Stock
+A,12/03/2019 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,125,18801,4,0001578962,Common Stock
+D,12/03/2019 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,3900,18676,3,0001578962,Common Stock
+A,12/03/2019 00:00:00,Peltz Stuart Walter,4,M-Exempt,--I,3900,22576,2,0001578962,Common Stock
+D,12/03/2019 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,3482,18676,1,0001578962,Common Stock
+D,07/05/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,4375,43750,16,0001578852,Stock Option (Right To Buy)
+D,07/05/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,4375,48125,15,0001578852,Stock Option (Right To Buy)
+D,07/05/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,3281,19688,14,0001578852,Stock Option (Right To Buy)
+D,07/05/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,3281,22969,13,0001578852,Stock Option (Right To Buy)
+D,07/05/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,1441,29524,12,0001578852,Common Stock
+D,07/05/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,2934,30965,11,0001578852,Common Stock
+A,07/05/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,4375,33899,10,0001578852,Common Stock
+D,07/05/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,1399,29524,9,0001578852,Common Stock
+D,07/05/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,2976,30923,8,0001578852,Common Stock
+A,07/05/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,4375,33899,7,0001578852,Common Stock
+D,07/05/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,1098,29524,6,0001578852,Common Stock
+D,07/05/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,2183,30622,5,0001578852,Common Stock
+A,07/05/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,3281,32805,4,0001578852,Common Stock
+D,07/05/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,1000,29524,3,0001578852,Common Stock
+D,07/05/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,2281,30524,2,0001578852,Common Stock
+A,07/05/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,3281,32805,1,0001578852,Common Stock
+D,07/01/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,9297,30000,18,0001707685,Stock Option (Right To Buy)
+D,07/01/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,641,10310,17,0001707685,Stock Option (Right To Buy)
+D,07/01/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,3133,0,16,0001707685,Stock Option (Right To Buy)
+D,07/01/2019 00:00:00,Utter Christine Marie,4,S-Sale,--D,9297,4937,12,0001707685,Common Stock
+A,07/01/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,9297,14234,11,0001707685,Common Stock
+D,07/01/2019 00:00:00,Utter Christine Marie,4,S-Sale,--D,641,4937,10,0001707685,Common Stock
+A,07/01/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,641,5578,9,0001707685,Common Stock
+D,07/01/2019 00:00:00,Utter Christine Marie,4,S-Sale,--D,3133,4937,8,0001707685,Common Stock
+A,07/01/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,3133,8070,7,0001707685,Common Stock
+D,07/01/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,17500,52500,33,0001578852,Stock Option (Right To Buy)
+D,07/01/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,2142,26250,32,0001578852,Stock Option (Right To Buy)
+D,07/01/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,70849,0,31,0001578852,Stock Option (Right To Buy)
+D,07/01/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,7307,70849,30,0001578852,Stock Option (Right To Buy)
+D,07/01/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,384,0,29,0001578852,Stock Option (Right To Buy)
+D,07/01/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,5910,0,28,0001578852,Stock Option (Right To Buy)
+D,07/01/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,17500,29524,22,0001578852,Common Stock
+A,07/01/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,17500,47024,21,0001578852,Common Stock
+D,07/01/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,2142,29524,20,0001578852,Common Stock
+A,07/01/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,2142,31666,19,0001578852,Common Stock
+D,07/01/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,70849,29524,18,0001578852,Common Stock
+A,07/01/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,70849,100373,17,0001578852,Common Stock
+D,07/01/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,7307,29524,16,0001578852,Common Stock
+A,07/01/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,7307,36831,15,0001578852,Common Stock
+D,07/01/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,384,29524,14,0001578852,Common Stock
+A,07/01/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,384,29908,13,0001578852,Common Stock
+D,07/01/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,5910,29524,12,0001578852,Common Stock
+A,07/01/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,5910,35434,11,0001578852,Common Stock
+D,06/28/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,703,39297,15,0001707685,Stock Option (Right To Buy)
+D,06/28/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,49,10951,14,0001707685,Stock Option (Right To Buy)
+D,06/28/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,236,3133,13,0001707685,Stock Option (Right To Buy)
+D,06/28/2019 00:00:00,Utter Christine Marie,4,S-Sale,--D,703,4937,6,0001707685,Common Stock
+A,06/28/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,703,5640,5,0001707685,Common Stock
+D,06/28/2019 00:00:00,Utter Christine Marie,4,S-Sale,--D,49,4937,4,0001707685,Common Stock
+A,06/28/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,49,4986,3,0001707685,Common Stock
+D,06/28/2019 00:00:00,Utter Christine Marie,4,S-Sale,--D,236,4937,2,0001707685,Common Stock
+A,06/28/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,236,5173,1,0001707685,Common Stock
+D,06/28/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,1140,28392,27,0001578852,Stock Option (Right To Buy)
+D,06/28/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,22968,29532,26,0001578852,Stock Option (Right To Buy)
+D,06/28/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,1844,78156,25,0001578852,Stock Option (Right To Buy)
+D,06/28/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,44090,5910,24,0001578852,Stock Option (Right To Buy)
+D,06/28/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,7533,384,23,0001578852,Stock Option (Right To Buy)
+D,06/28/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,1140,29524,10,0001578852,Common Stock
+A,06/28/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,1140,30664,9,0001578852,Common Stock
+D,06/28/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,22968,29524,8,0001578852,Common Stock
+A,06/28/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,22968,52492,7,0001578852,Common Stock
+D,06/28/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,1844,29524,6,0001578852,Common Stock
+A,06/28/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,1844,31368,5,0001578852,Common Stock
+D,06/28/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,44090,29524,4,0001578852,Common Stock
+A,06/28/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,44090,73614,3,0001578852,Common Stock
+D,06/28/2019 00:00:00,Boulding Mark Elliott,4,S-Sale,--D,7533,29524,2,0001578852,Common Stock
+A,06/28/2019 00:00:00,Boulding Mark Elliott,4,M-Exempt,--D,7533,37057,1,0001578852,Common Stock
+D,06/03/2019 00:00:00,Souza Marcio,4,S-Sale,--D,5490,58664,1,0001707657,Common Stock
+A,05/31/2019 00:00:00,Hill Emily Luisa,4,A-Award,--D,50000,50000,2,0001778279,Stock Option (Right To Buy)
+D,03/05/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,6300,6300,14,0001707685,Stock Option (Right To Buy)
+D,03/05/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,18750,6250,13,0001707685,Stock Option (Right To Buy)
+D,03/05/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,1150,0,12,0001707685,Stock Option (Right To Buy)
+D,03/05/2019 00:00:00,Utter Christine Marie,4,S-Sale,--D,3540,4937,11,0001707685,Common Stock
+D,03/05/2019 00:00:00,Utter Christine Marie,4,S-Sale,--D,2760,8477,10,0001707685,Common Stock
+A,03/05/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,6300,11237,9,0001707685,Common Stock
+D,03/05/2019 00:00:00,Utter Christine Marie,4,S-Sale,--D,8821,4937,8,0001707685,Common Stock
+D,03/05/2019 00:00:00,Utter Christine Marie,4,S-Sale,--D,9929,13758,7,0001707685,Common Stock
+A,03/05/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,18750,23687,6,0001707685,Common Stock
+D,03/05/2019 00:00:00,Utter Christine Marie,4,S-Sale,--D,610,4937,5,0001707685,Common Stock
+D,03/05/2019 00:00:00,Utter Christine Marie,4,S-Sale,--D,540,5547,4,0001707685,Common Stock
+A,03/05/2019 00:00:00,Utter Christine Marie,4,M-Exempt,--D,1150,6087,3,0001707685,Common Stock
+D,03/05/2019 00:00:00,Utter Christine Marie,4,S-Sale,--D,1000,4937,2,0001707685,Common Stock
+D,03/05/2019 00:00:00,Utter Christine Marie,4,S-Sale,--D,1509,5937,1,0001707685,Common Stock
+A,01/25/2019 00:00:00,SCHMERTZLER MICHAEL,4,P-Purchase,--I,66225,1386594,2,0001288952,Common Stock
+A,01/22/2019 00:00:00,Utter Christine Marie,4,A-Award,--D,10100,10100,2,0001707685,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,Utter Christine Marie,4,A-Award,--D,42500,42500,1,0001707685,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,Boulding Mark Elliott,4,A-Award,--D,17500,17500,2,0001578852,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,Boulding Mark Elliott,4,A-Award,--D,72500,72500,1,0001578852,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,SCHMERTZLER MICHAEL,4,A-Award,--D,28000,28000,1,0001288952,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,STEELE GLENN JR MD PHD,4,A-Award,--D,14000,14000,1,0001269131,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,Svoronos Dawn,4,A-Award,--D,14000,14000,1,0001574579,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,Okey Stephanie,4,A-Award,--D,14000,14000,1,0001742616,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,ZELDIS JEROME B,4,A-Award,--D,14000,14000,1,0001433982,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,Reeve Emma,4,A-Award,--D,14000,14000,1,0001680329,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,SOUTHWELL DAVID P,4,A-Award,--D,14000,14000,1,0001251553,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,Jacobson Allan Steven,4,A-Award,--D,14000,14000,1,0001579003,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,Peltz Stuart Walter,4,A-Award,--I,26950,26950,4,0001578962,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,Peltz Stuart Walter,4,A-Award,--D,55000,55000,3,0001578962,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,Peltz Stuart Walter,4,A-Award,--D,265000,265000,2,0001578962,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,Peltz Stuart Walter,4,A-Award,--I,4620,22158,1,0001578962,Common Stock
+A,01/22/2019 00:00:00,Almstead Neil Gregory,4,A-Award,--D,17500,17500,3,0001578850,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,Almstead Neil Gregory,4,A-Award,--D,72500,72500,2,0001578850,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,Almstead Neil Gregory,4,A-Award,--I,570,6219,1,0001578850,Common Stock
+A,01/22/2019 00:00:00,Souza Marcio,4,A-Award,--I,6825,6825,4,0001707657,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,Souza Marcio,4,A-Award,--D,25000,25000,3,0001707657,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,Souza Marcio,4,A-Award,--D,112500,112500,2,0001707657,Stock Option (Right to Buy)
+A,01/22/2019 00:00:00,Souza Marcio,4,A-Award,--I,1925,4667,1,0001707657,Common Stock
+D,01/07/2019 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,68,5649,4,0001578850,Common Stock
+D,01/07/2019 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,55,5717,3,0001578850,Common Stock
+D,01/07/2019 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,57,5772,2,0001578850,Common Stock
+D,01/07/2019 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,473,17396,1,0001578850,Common Stock
+D,01/07/2019 00:00:00,Souza Marcio,4,S-Sale,--I,83,2742,1,0001707657,Common Stock
+D,01/07/2019 00:00:00,Utter Christine Marie,4,S-Sale,--D,297,7446,1,0001707685,Common Stock
+D,01/07/2019 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,409,17538,3,0001578962,Common Stock
+D,01/07/2019 00:00:00,Peltz Stuart Walter,4,S-Sale,--I,339,17947,2,0001578962,Common Stock
+D,01/07/2019 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,1764,24882,1,0001578962,Common Stock
+A,12/14/2018 00:00:00,Okey Stephanie,4,A-Award,--D,1167,1167,2,0001742616,Stock Option (Right To Buy)
+A,12/14/2018 00:00:00,Okey Stephanie,4,A-Award,--D,14000,14000,1,0001742616,Stock Option (Right To Buy)
+A,12/14/2018 00:00:00,Reeve Emma,4,A-Award,--D,1167,1167,2,0001680329,Stock Option (Right To Buy)
+A,12/14/2018 00:00:00,Reeve Emma,4,A-Award,--D,14000,14000,1,0001680329,Stock Option (Right To Buy)
+D,06/19/2018 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,20000,46898,5,0001578850,Stock Option (Right To Buy)
+D,06/19/2018 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,12000,17154,3,0001578850,Common Stock
+D,06/19/2018 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,8000,29154,2,0001578850,Common Stock
+A,06/19/2018 00:00:00,Almstead Neil Gregory,4,M-Exempt,--D,20000,37154,1,0001578850,Common Stock
+D,06/01/2018 00:00:00,Souza Marcio,4,S-Sale,--D,5161,63071,1,0001707657,Common Stock
+D,01/05/2018 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,82,5125,2,0001578850,Common Stock
+D,01/05/2018 00:00:00,Almstead Neil Gregory,4,S-Sale,--D,621,17154,1,0001578850,Common Stock
+D,01/05/2018 00:00:00,Peltz Stuart Walter,4,S-Sale,--D,2230,26646,1,0001578962,Common Stock
+D,01/04/2018 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,77,5207,2,0001578850,Common Stock
+D,01/04/2018 00:00:00,Utter Christine Marie,4,S-Sale,--D,412,6660,1,0001707685,Common Stock
+A,01/03/2018 00:00:00,STEELE GLENN JR MD PHD,4,A-Award,--D,14000,14000,1,0001269131,Stock Option (Right To Buy)
+A,01/03/2018 00:00:00,Jacobson Allan Steven,4,A-Award,--D,14000,14000,1,0001579003,Stock Option (Right To Buy)
+A,01/03/2018 00:00:00,ZELDIS JEROME B,4,A-Award,--D,14000,14000,1,0001433982,Stock Option (Right To Buy)
+A,01/03/2018 00:00:00,SOUTHWELL DAVID P,4,A-Award,--D,14000,14000,1,0001251553,Stock Option (Right To Buy)
+A,01/03/2018 00:00:00,Svoronos Dawn,4,A-Award,--D,14000,14000,1,0001574579,Stock Option (Right To Buy)
+A,01/03/2018 00:00:00,SCHMERTZLER MICHAEL,4,A-Award,--D,28000,28000,1,0001288952,Stock Option (Right To Buy)
+A,01/03/2018 00:00:00,Boulding Mark Elliott,4,A-Award,--D,70000,70000,1,0001578852,Stock Option (Right To Buy)
+A,01/03/2018 00:00:00,Almstead Neil Gregory,4,A-Award,--D,70000,70000,3,0001578850,Stock Option (Right To Buy)
+A,01/03/2018 00:00:00,Almstead Neil Gregory,4,A-Award,--I,874,5284,1,0001578850,Common Stock
+A,01/03/2018 00:00:00,Souza Marcio,4,A-Award,--I,2696,2696,3,0001707657,Stock Option (Right To Buy)
+A,01/03/2018 00:00:00,Souza Marcio,4,A-Award,--D,75000,75000,2,0001707657,Stock Option (Right To Buy)
+A,01/03/2018 00:00:00,Souza Marcio,4,A-Award,--I,1079,1742,1,0001707657,Common Stock
+A,01/03/2018 00:00:00,Utter Christine Marie,4,A-Award,--D,40000,40000,2,0001707685,Stock Option (Right To Buy)
+A,01/03/2018 00:00:00,Peltz Stuart Walter,4,A-Award,--D,200000,200000,1,0001578962,Stock Option (Right To Buy)
+A,06/02/2017 00:00:00,Utter Christine Marie,4,A-Award,--D,25000,25000,2,0001707685,Stock Option (Right To Buy)
+A,05/31/2017 00:00:00,Souza Marcio,4,A-Award,--D,30000,30000,2,0001707657,Stock Option (Right To Buy)
+A,05/31/2017 00:00:00,Souza Marcio,4,A-Award,--D,30000,36457,1,0001707657,Common Stock
+D,05/24/2017 00:00:00,Rothera Mark,4,M-Exempt,--D,2000,6125,3,0001550424,Stock Option (Right To Buy)
+A,05/24/2017 00:00:00,Rothera Mark,4,M-Exempt,--D,2000,33739,1,0001550424,Common Stock
+A,05/23/2017 00:00:00,Svoronos Dawn,4,P-Purchase,--D,25000,25000,1,0001574579,Common Stock
+D,05/09/2017 00:00:00,Kovacs Shane William Charles,4,M-Exempt,--D,10000,45625,2,0001579397,Stock Option (Right To Buy)
+A,05/09/2017 00:00:00,Kovacs Shane William Charles,4,M-Exempt,--D,10000,37850,1,0001579397,Common Stock
+D,04/28/2017 00:00:00,"Complete Pharma Holdings II, LLC",4,J-Other,--D,6683598,0,1,0001704768,Common Stock
+D,03/15/2017 00:00:00,Rothera Mark,4,M-Exempt,--D,2966,69227,3,0001550424,Stock Option (Right To Buy)
+A,03/15/2017 00:00:00,Rothera Mark,4,M-Exempt,--D,2966,31739,1,0001550424,Common Stock
+D,02/16/2017 00:00:00,Rothera Mark,4,M-Exempt,--D,3125,72193,3,0001550424,Stock Option (Right To Buy)
+A,02/16/2017 00:00:00,Rothera Mark,4,M-Exempt,--D,3125,28773,1,0001550424,Common Stock
+D,01/17/2017 00:00:00,Rothera Mark,4,M-Exempt,--D,3125,75318,3,0001550424,Stock Option (Right To Buy)
+A,01/17/2017 00:00:00,Rothera Mark,4,M-Exempt,--D,3125,25648,1,0001550424,Common Stock
+D,01/05/2017 00:00:00,Almstead Neil Gregory,4,S-Sale,--I,78,2687,1,0001578850,Common Stock
+A,01/03/2017 00:00:00,SOUTHWELL DAVID P,4,A-Award,--D,12000,12000,1,0001251553,Stock Option (Right To Buy)
+A,01/03/2017 00:00:00,Almstead Neil Gregory,4,A-Award,--D,35000,35000,3,0001578850,Stock Option (Right To Buy)
+A,01/03/2017 00:00:00,Almstead Neil Gregory,4,A-Award,--I,720,2765,2,0001578850,Common Stock
+A,01/03/2017 00:00:00,Almstead Neil Gregory,4,A-Award,--D,6000,16000,1,0001578850,Common Stock
+A,01/03/2017 00:00:00,ZELDIS JEROME B,4,A-Award,--D,12000,12000,1,0001433982,Stock Option (Right To Buy)
+A,01/03/2017 00:00:00,SCHMERTZLER MICHAEL,4,A-Award,--D,24000,24000,1,0001288952,Stock Option (Right To Buy)

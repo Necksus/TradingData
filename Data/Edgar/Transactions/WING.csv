@@ -1,0 +1,801 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,05/17/2023 00:00:00,Smith Ania,4,A-Award,--D,566,1730,1,0001937651,"Common Stock, par value $0.01 per share"
+A,05/17/2023 00:00:00,MCDONALD WESLEY S,4,A-Award,--D,566,5876,1,0001185587,"Common Stock, par value $0.01 per share"
+A,05/17/2023 00:00:00,Madati Kilandigalu,4,A-Award,--D,566,6922,1,0001700938,"Common Stock, par value $0.01 per share"
+A,05/17/2023 00:00:00,Lavelle Kate S,4,A-Award,--D,566,4317,1,0001539858,"Common Stock, par value $0.01 per share"
+A,05/17/2023 00:00:00,HISLOP MICHAEL J,4,A-Award,--D,566,8305,1,0001060710,"Common Stock, par value $0.01 per share"
+A,05/17/2023 00:00:00,GOEBEL DAVID,4,A-Award,--D,566,6439,1,0001137523,"Common Stock, par value $0.01 per share"
+A,05/17/2023 00:00:00,Caine Lynn Crump,4,A-Award,--D,775,8353,1,0001403517,"Common Stock, par value $0.01 per share"
+A,05/17/2023 00:00:00,Anand Krishnan,4,A-Award,--D,566,4205,1,0001486343,"Common Stock, par value $0.01 per share"
+D,05/05/2023 00:00:00,Skipworth Michael,4,S-Sale,--D,4910,19242,1,0001644705,"Common Stock, par value $0.01 per share"
+D,05/05/2023 00:00:00,MCDONALD WESLEY S,4,S-Sale,--D,1500,5310,1,0001185587,"Common Stock, par value $0.01 per share"
+A,05/01/2023 00:00:00,Kapoor Raj,4,A-Award,--D,2114,2114,1,0001973855,Restricted Stock Units
+D,03/23/2023 00:00:00,McGrath Albert G,4,M-Exempt,--D,452,0,3,0001635981,Restricted Stock Units
+D,03/23/2023 00:00:00,McGrath Albert G,4,F-InKind,--D,178,7866,2,0001635981,"Common Stock, par value $0.01 per share"
+A,03/23/2023 00:00:00,McGrath Albert G,4,M-Exempt,--D,452,8044,1,0001635981,"Common Stock, par value $0.01 per share"
+A,03/09/2023 00:00:00,Upshaw Donnie,4,A-Award,--D,1711,1711,1,0001849194,Restricted Stock Units
+A,03/09/2023 00:00:00,Skipworth Michael,4,A-Award,--D,10442,10442,1,0001644705,Restricted Stock Units
+A,03/09/2023 00:00:00,Sherwood Craig M,4,A-Award,--D,885,885,1,0001943552,Restricted Stock Units
+A,03/09/2023 00:00:00,McGrath Albert G,4,A-Award,--D,1711,1711,1,0001635981,Restricted Stock Units
+A,03/09/2023 00:00:00,Kaleida Alex,4,A-Award,--D,1711,1711,1,0001880925,Restricted Stock Units
+A,03/09/2023 00:00:00,Carona Marisa,4,A-Award,--D,1711,1711,1,0001848776,Restricted Stock Units
+D,03/04/2023 00:00:00,Upshaw Donnie,4,M-Exempt,--D,338,0,9,0001849194,Restricted Stock Units
+D,03/04/2023 00:00:00,Upshaw Donnie,4,F-InKind,--D,134,6517,6,0001849194,"Common Stock, par value $0.01 per share"
+A,03/04/2023 00:00:00,Upshaw Donnie,4,M-Exempt,--D,338,6651,5,0001849194,"Common Stock, par value $0.01 per share"
+D,03/04/2023 00:00:00,Skipworth Michael,4,M-Exempt,--D,597,0,9,0001644705,Restricted Stock Units
+D,03/04/2023 00:00:00,Skipworth Michael,4,F-InKind,--D,235,24152,6,0001644705,"Common Stock, par value $0.01 per share"
+A,03/04/2023 00:00:00,Skipworth Michael,4,M-Exempt,--D,597,24387,5,0001644705,"Common Stock, par value $0.01 per share"
+D,03/04/2023 00:00:00,Kaleida Alex,4,M-Exempt,--D,267,0,9,0001880925,Restricted Stock Units
+D,03/04/2023 00:00:00,Kaleida Alex,4,F-InKind,--D,66,3282,6,0001880925,"Common Stock, par value $0.01 per share"
+A,03/04/2023 00:00:00,Kaleida Alex,4,M-Exempt,--D,267,3348,5,0001880925,"Common Stock, par value $0.01 per share"
+D,03/04/2023 00:00:00,Carona Marisa,4,M-Exempt,--D,205,0,9,0001848776,Restricted Stock Units
+D,03/04/2023 00:00:00,Carona Marisa,4,F-InKind,--D,50,426,6,0001848776,"Common Stock, par value $0.01 per share"
+A,03/04/2023 00:00:00,Carona Marisa,4,M-Exempt,--D,205,476,5,0001848776,"Common Stock, par value $0.01 per share"
+D,03/03/2023 00:00:00,Upshaw Donnie,4,M-Exempt,--D,220,220,8,0001849194,Restricted Stock Units
+D,03/03/2023 00:00:00,Upshaw Donnie,4,F-InKind,--D,87,6313,4,0001849194,"Common Stock, par value $0.01 per share"
+A,03/03/2023 00:00:00,Upshaw Donnie,4,M-Exempt,--D,220,6400,3,0001849194,"Common Stock, par value $0.01 per share"
+D,03/03/2023 00:00:00,Skipworth Michael,4,M-Exempt,--D,387,388,8,0001644705,Restricted Stock Units
+D,03/03/2023 00:00:00,Skipworth Michael,4,F-InKind,--D,153,23790,4,0001644705,"Common Stock, par value $0.01 per share"
+A,03/03/2023 00:00:00,Skipworth Michael,4,M-Exempt,--D,387,23943,3,0001644705,"Common Stock, par value $0.01 per share"
+D,03/03/2023 00:00:00,McGrath Albert G,4,M-Exempt,--D,220,220,6,0001635981,Restricted Stock Units
+D,03/03/2023 00:00:00,McGrath Albert G,4,F-InKind,--D,87,7592,4,0001635981,"Common Stock, par value $0.01 per share"
+A,03/03/2023 00:00:00,McGrath Albert G,4,M-Exempt,--D,220,7679,3,0001635981,"Common Stock, par value $0.01 per share"
+D,03/03/2023 00:00:00,Kaleida Alex,4,M-Exempt,--D,141,142,8,0001880925,Restricted Stock Units
+D,03/03/2023 00:00:00,Kaleida Alex,4,F-InKind,--D,35,3081,4,0001880925,"Common Stock, par value $0.01 per share"
+A,03/03/2023 00:00:00,Kaleida Alex,4,M-Exempt,--D,141,3116,3,0001880925,"Common Stock, par value $0.01 per share"
+D,03/03/2023 00:00:00,Carona Marisa,4,M-Exempt,--D,145,146,8,0001848776,Restricted Stock Units
+D,03/03/2023 00:00:00,Carona Marisa,4,F-InKind,--D,36,271,4,0001848776,"Common Stock, par value $0.01 per share"
+A,03/03/2023 00:00:00,Carona Marisa,4,M-Exempt,--D,145,307,3,0001848776,"Common Stock, par value $0.01 per share"
+D,03/03/2023 00:00:00,Anand Krishnan,4,S-Sale,--D,862,3639,1,0001486343,Common Stock
+D,03/02/2023 00:00:00,Upshaw Donnie,4,M-Exempt,--D,230,460,7,0001849194,Restricted Stock Units
+D,03/02/2023 00:00:00,Upshaw Donnie,4,F-InKind,--D,57,6180,2,0001849194,"Common Stock, par value $0.01 per share"
+A,03/02/2023 00:00:00,Upshaw Donnie,4,M-Exempt,--D,230,6237,1,0001849194,"Common Stock, par value $0.01 per share"
+D,03/02/2023 00:00:00,Skipworth Michael,4,M-Exempt,--D,397,794,7,0001644705,Restricted Stock Units
+D,03/02/2023 00:00:00,Skipworth Michael,4,F-InKind,--D,157,23556,2,0001644705,"Common Stock, par value $0.01 per share"
+A,03/02/2023 00:00:00,Skipworth Michael,4,M-Exempt,--D,397,23713,1,0001644705,"Common Stock, par value $0.01 per share"
+D,03/02/2023 00:00:00,McGrath Albert G,4,M-Exempt,--D,230,460,5,0001635981,Restricted Stock Units
+D,03/02/2023 00:00:00,McGrath Albert G,4,F-InKind,--D,91,7459,2,0001635981,"Common Stock, par value $0.01 per share"
+A,03/02/2023 00:00:00,McGrath Albert G,4,M-Exempt,--D,230,7550,1,0001635981,"Common Stock, par value $0.01 per share"
+D,03/02/2023 00:00:00,Kaleida Alex,4,M-Exempt,--D,215,432,7,0001880925,Restricted Stock Units
+D,03/02/2023 00:00:00,Kaleida Alex,4,F-InKind,--D,53,2975,2,0001880925,"Common Stock, par value $0.01 per share"
+A,03/02/2023 00:00:00,Kaleida Alex,4,M-Exempt,--D,215,3028,1,0001880925,"Common Stock, par value $0.01 per share"
+D,03/02/2023 00:00:00,Carona Marisa,4,M-Exempt,--D,215,432,7,0001848776,Restricted Stock Units
+D,03/02/2023 00:00:00,Carona Marisa,4,F-InKind,--D,53,162,2,0001848776,"Common Stock, par value $0.01 per share"
+A,03/02/2023 00:00:00,Carona Marisa,4,M-Exempt,--D,215,215,1,0001848776,"Common Stock, par value $0.01 per share"
+D,02/24/2023 00:00:00,Upshaw Donnie,4,S-Sale,--D,1088,6007,1,0001849194,"Common Stock, par value $0.01 per share"
+D,02/24/2023 00:00:00,Carona Marisa,4,M-Exempt,--D,484,969,7,0001848776,Employee Stock Option (right to buy)
+D,02/24/2023 00:00:00,Carona Marisa,4,M-Exempt,--D,684,684,6,0001848776,Employee Stock Option (right to buy)
+D,02/24/2023 00:00:00,Carona Marisa,4,S-Sale,--D,3317,0,5,0001848776,"Common Stock, par value $0.01 per share"
+D,02/24/2023 00:00:00,Carona Marisa,4,S-Sale,--D,484,3317,4,0001848776,"Common Stock, par value $0.01 per share"
+A,02/24/2023 00:00:00,Carona Marisa,4,M-Exempt,--D,484,3801,3,0001848776,"Common Stock, par value $0.01 per share"
+D,02/24/2023 00:00:00,Carona Marisa,4,S-Sale,--D,684,3317,2,0001848776,"Common Stock, par value $0.01 per share"
+A,02/24/2023 00:00:00,Carona Marisa,4,M-Exempt,--D,684,4001,1,0001848776,"Common Stock, par value $0.01 per share"
+D,02/21/2023 00:00:00,Upshaw Donnie,4,F-InKind,--D,1247,7095,2,0001849194,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,Upshaw Donnie,4,A-Award,--D,5075,8198,1,0001849194,"Common Stock, par value $0.01 per share"
+D,02/21/2023 00:00:00,McGrath Albert G,4,F-InKind,--D,1810,7320,2,0001635981,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,McGrath Albert G,4,A-Award,--D,6773,9130,1,0001635981,"Common Stock, par value $0.01 per share"
+D,02/21/2023 00:00:00,Kaleida Alex,4,F-InKind,--D,34,2813,6,0001880925,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,Kaleida Alex,4,A-Award,--D,141,2647,5,0001880925,"Common Stock, par value $0.01 per share"
+D,02/21/2023 00:00:00,Kaleida Alex,4,F-InKind,--D,109,2506,4,0001880925,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,Kaleida Alex,4,A-Award,--D,380,2615,3,0001880925,"Common Stock, par value $0.01 per share"
+D,02/21/2023 00:00:00,Kaleida Alex,4,F-InKind,--D,82,2235,2,0001880925,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,Kaleida Alex,4,A-Award,--D,267,2317,1,0001880925,"Common Stock, par value $0.01 per share"
+D,02/21/2023 00:00:00,Carona Marisa,4,F-InKind,--D,771,3317,2,0001848776,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,Carona Marisa,4,A-Award,--D,3080,3843,1,0001848776,"Common Stock, par value $0.01 per share"
+D,02/21/2023 00:00:00,Skipworth Michael,4,F-InKind,--D,2709,23316,2,0001644705,"Common Stock, par value $0.01 per share"
+A,02/21/2023 00:00:00,Skipworth Michael,4,A-Award,--D,8955,26025,1,0001644705,"Common Stock, par value $0.01 per share"
+D,11/17/2022 00:00:00,McGrath Albert G,4,M-Exempt,--D,3011,1506,3,0001635981,Employee Stock Option (right to buy)
+D,11/17/2022 00:00:00,McGrath Albert G,4,S-Sale,--D,1500,2357,2,0001635981,Common Stock
+A,11/17/2022 00:00:00,McGrath Albert G,4,M-Exempt,--D,3011,3857,1,0001635981,Common Stock
+D,11/17/2022 00:00:00,Peterson Stacy,4,M-Exempt,--D,1058,2118,9,0001644638,Employee Stock Option (right to buy)
+D,11/17/2022 00:00:00,Peterson Stacy,4,M-Exempt,--D,2159,1083,8,0001644638,Employee Stock Option (right to buy)
+D,11/17/2022 00:00:00,Peterson Stacy,4,S-Sale,--D,98,2004,7,0001644638,"Common Stock, par value $0.01 per share"
+D,11/17/2022 00:00:00,Peterson Stacy,4,S-Sale,--D,2510,2102,6,0001644638,"Common Stock, par value $0.01 per share"
+D,11/17/2022 00:00:00,Peterson Stacy,4,S-Sale,--D,1088,4612,5,0001644638,"Common Stock, par value $0.01 per share"
+D,11/17/2022 00:00:00,Peterson Stacy,4,S-Sale,--D,1515,5700,4,0001644638,"Common Stock, par value $0.01 per share"
+D,11/17/2022 00:00:00,Peterson Stacy,4,S-Sale,--D,1216,7215,3,0001644638,"Common Stock, par value $0.01 per share"
+A,11/17/2022 00:00:00,Peterson Stacy,4,M-Exempt,--D,1058,8431,2,0001644638,"Common Stock, par value $0.01 per share"
+A,11/17/2022 00:00:00,Peterson Stacy,4,M-Exempt,--D,2159,7373,1,0001644638,"Common Stock, par value $0.01 per share"
+D,10/31/2022 00:00:00,Skipworth Michael,4,M-Exempt,--D,1291,2582,5,0001644705,Employee Stock Option (right to buy)
+D,10/31/2022 00:00:00,Skipworth Michael,4,M-Exempt,--D,3979,1990,4,0001644705,Employee Stock Option (right to buy)
+D,10/31/2022 00:00:00,Skipworth Michael,4,S-Sale,--D,3827,17070,3,0001644705,"Common Stock, par value $0.01 per share"
+A,10/31/2022 00:00:00,Skipworth Michael,4,M-Exempt,--D,1291,20753,2,0001644705,"Common Stock, par value $0.01 per share"
+A,10/31/2022 00:00:00,Skipworth Michael,4,M-Exempt,--D,3979,19462,1,0001644705,"Common Stock, par value $0.01 per share"
+A,09/08/2022 00:00:00,Upshaw Donnie,4,A-Award,--D,861,861,1,0001849194,Restricted Stock Units
+A,09/08/2022 00:00:00,Peterson Stacy,4,A-Award,--D,558,558,1,0001644638,Restricted Stock Units
+A,07/13/2022 00:00:00,Smith Ania,4,A-Award,--D,1164,1164,1,0001937651,"Common Stock, par value $0.01 per share"
+D,06/11/2022 00:00:00,Kaleida Alex,4,M-Exempt,--D,188,0,3,0001880925,Restricted Stock Units
+D,06/11/2022 00:00:00,Kaleida Alex,4,F-InKind,--D,46,2050,2,0001880925,Common Stock
+A,06/11/2022 00:00:00,Kaleida Alex,4,M-Exempt,--D,188,2096,1,0001880925,Common Stock
+A,05/26/2022 00:00:00,MCDONALD WESLEY S,4,A-Award,--D,1520,6810,1,0001185587,"Common Stock, par value $0.01 per share"
+A,05/26/2022 00:00:00,Madati Kilandigalu,4,A-Award,--D,1520,6356,1,0001700938,"Common Stock, par value $0.01 per share"
+A,05/26/2022 00:00:00,Lavelle Kate S,4,A-Award,--D,1520,3751,1,0001539858,"Common Stock, par value $0.01 per share"
+A,05/26/2022 00:00:00,HISLOP MICHAEL J,4,A-Award,--D,1520,7739,1,0001060710,"Common Stock, par value $0.01 per share"
+A,05/26/2022 00:00:00,GOEBEL DAVID,4,A-Award,--D,1520,5873,1,0001137523,"Common Stock, par value $0.01 per share"
+A,05/26/2022 00:00:00,Caine Lynn Crump,4,A-Award,--D,2082,7578,1,0001403517,"Common Stock, par value $0.01 per share"
+A,05/26/2022 00:00:00,Anand Krishnan,4,A-Award,--D,1520,4501,1,0001486343,Common Stock
+D,05/12/2022 00:00:00,Peterson Stacy,4,S-Sale,--D,208,5214,2,0001644638,"Common Stock, par value $0.01 per share"
+D,05/11/2022 00:00:00,Peterson Stacy,4,M-Exempt,--D,851,854,3,0001644638,Restricted Stock Units
+A,05/11/2022 00:00:00,Peterson Stacy,4,M-Exempt,--D,851,5422,1,0001644638,"Common Stock, par value $0.01 per share"
+A,05/06/2022 00:00:00,Upshaw Donnie,4,A-Award,--D,4761,4761,1,0001849194,Restricted Stock Units
+A,05/06/2022 00:00:00,Skipworth Michael,4,A-Award,--D,3898,3898,1,0001644705,Restricted Stock Units
+A,05/06/2022 00:00:00,Peterson Stacy,4,A-Award,--D,5951,5951,1,0001644638,Restricted Stock Units
+A,05/06/2022 00:00:00,McGrath Albert G,4,A-Award,--D,2976,2976,1,0001635981,Restricted Stock Units
+A,05/06/2022 00:00:00,Kaleida Alex,4,A-Award,--D,2976,2976,1,0001880925,Restricted Stock Units
+A,05/06/2022 00:00:00,Carona Marisa,4,A-Award,--D,2976,2976,1,0001848776,Restricted Stock Units
+A,05/06/2022 00:00:00,Boudet Nicolas,4,A-Award,--D,2976,2976,1,0001799847,Restricted Stock Units
+D,03/23/2022 00:00:00,McGrath Albert G,4,M-Exempt,--D,451,452,3,0001635981,Restricted Stock Units
+D,03/23/2022 00:00:00,McGrath Albert G,4,F-InKind,--D,110,846,2,0001635981,"Common Stock, par value $0.01 per share"
+A,03/23/2022 00:00:00,McGrath Albert G,4,M-Exempt,--D,451,956,1,0001635981,"Common Stock, par value $0.01 per share"
+D,03/07/2022 00:00:00,Skipworth Michael,4,S-Sale,--D,748,15483,6,0001644705,"Common Stock, par value $0.01 per share"
+D,03/07/2022 00:00:00,Kaleida Alex,4,S-Sale,--D,66,1908,4,0001880925,"Common Stock, par value $0.01 per share"
+D,03/07/2022 00:00:00,Carona Marisa,4,S-Sale,--D,123,763,5,0001848776,"Common Stock, par value $0.01 per share"
+D,03/07/2022 00:00:00,Upshaw Donnie,4,S-Sale,--D,165,3123,5,0001849194,"Common Stock, par value $0.01 per share"
+D,03/07/2022 00:00:00,Boudet Nicolas,4,S-Sale,--D,236,2807,6,0001799847,"Common Stock, par value $0.01 per share"
+D,03/07/2022 00:00:00,Morrison Charles R,4,S-Sale,--D,241,76662,4,0001390389,"Common Stock, par value $0.01 per share"
+D,03/07/2022 00:00:00,Morrison Charles R,4,S-Sale,--D,599,76903,3,0001390389,"Common Stock, par value $0.01 per share"
+D,03/07/2022 00:00:00,Morrison Charles R,4,S-Sale,--D,160,77502,2,0001390389,"Common Stock, par value $0.01 per share"
+D,03/06/2022 00:00:00,Skipworth Michael,4,M-Exempt,--D,1291,0,9,0001644705,Restricted Stock Units
+A,03/06/2022 00:00:00,Skipworth Michael,4,M-Exempt,--D,1291,16231,5,0001644705,"Common Stock, par value $0.01 per share"
+D,03/06/2022 00:00:00,Carona Marisa,4,M-Exempt,--D,293,0,8,0001848776,Restricted Stock Units
+A,03/06/2022 00:00:00,Carona Marisa,4,M-Exempt,--D,293,886,4,0001848776,"Common Stock, par value $0.01 per share"
+D,03/06/2022 00:00:00,Upshaw Donnie,4,M-Exempt,--D,329,0,8,0001849194,Restricted Stock Units
+A,03/06/2022 00:00:00,Upshaw Donnie,4,M-Exempt,--D,329,3288,4,0001849194,"Common Stock, par value $0.01 per share"
+D,03/06/2022 00:00:00,Boudet Nicolas,4,M-Exempt,--D,608,0,9,0001799847,Restricted Stock Units
+A,03/06/2022 00:00:00,Boudet Nicolas,4,M-Exempt,--D,608,3043,5,0001799847,"Common Stock, par value $0.01 per share"
+D,03/06/2022 00:00:00,Morrison Charles R,4,M-Exempt,--D,2531,0,5,0001390389,Restricted Stock Units
+A,03/06/2022 00:00:00,Morrison Charles R,4,M-Exempt,--D,2531,77662,1,0001390389,"Common Stock, par value $0.01 per share"
+D,03/04/2022 00:00:00,Skipworth Michael,4,M-Exempt,--D,597,597,8,0001644705,Restricted Stock Units
+A,03/04/2022 00:00:00,Skipworth Michael,4,M-Exempt,--D,597,14940,4,0001644705,"Common Stock, par value $0.01 per share"
+D,03/04/2022 00:00:00,Skipworth Michael,4,S-Sale,--D,1,14343,3,0001644705,"Common Stock, par value $0.01 per share"
+D,03/04/2022 00:00:00,Skipworth Michael,4,S-Sale,--D,155,14344,2,0001644705,"Common Stock, par value $0.01 per share"
+D,03/04/2022 00:00:00,Peterson Stacy,4,S-Sale,--D,1,4571,3,0001644638,"Common Stock, par value $0.01 per share"
+D,03/04/2022 00:00:00,Peterson Stacy,4,S-Sale,--D,79,4572,2,0001644638,"Common Stock, par value $0.01 per share"
+D,03/04/2022 00:00:00,McGrath Albert G,4,S-Sale,--D,55,505,2,0001635981,"Common Stock, par value $0.01 per share"
+D,03/04/2022 00:00:00,Kaleida Alex,4,M-Exempt,--D,267,267,6,0001880925,Restricted Stock Units
+A,03/04/2022 00:00:00,Kaleida Alex,4,M-Exempt,--D,267,1974,3,0001880925,"Common Stock, par value $0.01 per share"
+D,03/04/2022 00:00:00,Kaleida Alex,4,S-Sale,--D,36,1707,2,0001880925,"Common Stock, par value $0.01 per share"
+D,03/04/2022 00:00:00,Carona Marisa,4,M-Exempt,--D,206,205,7,0001848776,Restricted Stock Units
+D,03/04/2022 00:00:00,Upshaw Donnie,4,M-Exempt,--D,339,338,7,0001849194,Restricted Stock Units
+A,03/04/2022 00:00:00,Upshaw Donnie,4,M-Exempt,--D,339,2959,3,0001849194,"Common Stock, par value $0.01 per share"
+D,03/04/2022 00:00:00,Upshaw Donnie,4,S-Sale,--D,55,2620,2,0001849194,"Common Stock, par value $0.01 per share"
+D,03/04/2022 00:00:00,Boudet Nicolas,4,M-Exempt,--D,349,348,8,0001799847,Restricted Stock Units
+A,03/04/2022 00:00:00,Boudet Nicolas,4,M-Exempt,--D,349,2435,4,0001799847,"Common Stock, par value $0.01 per share"
+D,03/04/2022 00:00:00,Boudet Nicolas,4,S-Sale,--D,1,2086,3,0001799847,"Common Stock, par value $0.01 per share"
+D,03/04/2022 00:00:00,Boudet Nicolas,4,S-Sale,--D,60,2087,2,0001799847,"Common Stock, par value $0.01 per share"
+D,03/03/2022 00:00:00,Skipworth Michael,4,M-Exempt,--D,387,775,7,0001644705,Restricted Stock Units
+A,03/03/2022 00:00:00,Skipworth Michael,4,M-Exempt,--D,387,14499,1,0001644705,"Common Stock, par value $0.01 per share"
+D,03/03/2022 00:00:00,Peterson Stacy,4,M-Exempt,--D,317,636,4,0001644638,Restricted Stock Units
+A,03/03/2022 00:00:00,Peterson Stacy,4,M-Exempt,--D,317,4651,1,0001644638,"Common Stock, par value $0.01 per share"
+D,03/03/2022 00:00:00,McGrath Albert G,4,M-Exempt,--D,219,440,3,0001635981,Restricted Stock Units
+A,03/03/2022 00:00:00,McGrath Albert G,4,M-Exempt,--D,219,560,1,0001635981,"Common Stock, par value $0.01 per share"
+D,03/03/2022 00:00:00,Kaleida Alex,4,M-Exempt,--D,141,283,5,0001880925,Restricted Stock Units
+A,03/03/2022 00:00:00,Kaleida Alex,4,M-Exempt,--D,141,1743,1,0001880925,"Common Stock, par value $0.01 per share"
+D,03/03/2022 00:00:00,Carona Marisa,4,M-Exempt,--D,145,291,6,0001848776,Restricted Stock Units
+A,03/03/2022 00:00:00,Carona Marisa,4,M-Exempt,--D,206,593,3,0001848776,"Common Stock, par value $0.01 per share"
+D,03/03/2022 00:00:00,Carona Marisa,4,S-Sale,--D,37,387,2,0001848776,"Common Stock, par value $0.01 per share"
+A,03/03/2022 00:00:00,Carona Marisa,4,M-Exempt,--D,145,424,1,0001848776,"Common Stock, par value $0.01 per share"
+D,03/03/2022 00:00:00,Upshaw Donnie,4,M-Exempt,--D,219,440,6,0001849194,Restricted Stock Units
+A,03/03/2022 00:00:00,Upshaw Donnie,4,M-Exempt,--D,219,2675,1,0001849194,"Common Stock, par value $0.01 per share"
+D,03/03/2022 00:00:00,Boudet Nicolas,4,M-Exempt,--D,242,485,7,0001799847,Restricted Stock Units
+A,03/03/2022 00:00:00,Boudet Nicolas,4,M-Exempt,--D,242,2147,1,0001799847,"Common Stock, par value $0.01 per share"
+A,03/02/2022 00:00:00,Carona Marisa,4,A-Award,--D,2157,2157,2,0001848776,Employee Stock Option (right to buy)
+A,03/02/2022 00:00:00,Carona Marisa,4,A-Award,--D,647,647,1,0001848776,Restricted Stock Units
+A,03/02/2022 00:00:00,McGrath Albert G,4,A-Award,--D,2300,2300,2,0001635981,Employee Stock Option (right to buy)
+A,03/02/2022 00:00:00,McGrath Albert G,4,A-Award,--D,690,690,1,0001635981,Restricted Stock Units
+A,03/02/2022 00:00:00,Peterson Stacy,4,A-Award,--D,3381,3381,2,0001644638,Employee Stock Option (right to buy)
+A,03/02/2022 00:00:00,Peterson Stacy,4,A-Award,--D,1015,1015,1,0001644638,Restricted Stock Units
+A,03/02/2022 00:00:00,Boudet Nicolas,4,A-Award,--D,2358,2358,2,0001799847,Employee Stock Option (right to buy)
+A,03/02/2022 00:00:00,Boudet Nicolas,4,A-Award,--D,708,708,1,0001799847,Restricted Stock Units
+A,03/02/2022 00:00:00,Upshaw Donnie,4,A-Award,--D,2300,2300,2,0001849194,Employee Stock Option (right to buy)
+A,03/02/2022 00:00:00,Upshaw Donnie,4,A-Award,--D,690,690,1,0001849194,Restricted Stock Units
+A,03/02/2022 00:00:00,Skipworth Michael,4,A-Award,--D,3968,3968,2,0001644705,Employee Stock Option (right to buy)
+A,03/02/2022 00:00:00,Skipworth Michael,4,A-Award,--D,1191,1191,1,0001644705,Restricted Stock Units
+A,03/02/2022 00:00:00,Kaleida Alex,4,A-Award,--D,2157,2157,2,0001880925,Employee Stock Option (right to buy)
+A,03/02/2022 00:00:00,Kaleida Alex,4,A-Award,--D,647,647,1,0001880925,Restricted Stock Units
+A,03/02/2022 00:00:00,Morrison Charles R,4,A-Award,--D,19166,19166,1,0001390389,Employee Stock Option (right to buy)
+D,02/18/2022 00:00:00,Upshaw Donnie,4,S-Sale,--D,780,2456,1,0001849194,"Common Stock, par value $0.01 per share"
+D,02/16/2022 00:00:00,Morrison Charles R,4,S-Sale,--D,1317,75131,4,0001390389,"Common Stock, par value $0.01 per share"
+D,02/16/2022 00:00:00,Morrison Charles R,4,S-Sale,--D,3723,76448,3,0001390389,"Common Stock, par value $0.01 per share"
+D,02/16/2022 00:00:00,Morrison Charles R,4,S-Sale,--D,230,80171,2,0001390389,"Common Stock, par value $0.01 per share"
+D,02/16/2022 00:00:00,Skipworth Michael,4,S-Sale,--D,340,14112,3,0001644705,"Common Stock, par value $0.01 per share"
+D,02/16/2022 00:00:00,Skipworth Michael,4,S-Sale,--D,16,14452,2,0001644705,"Common Stock, par value $0.01 per share"
+A,02/15/2022 00:00:00,Morrison Charles R,4,A-Award,--D,15184,80401,1,0001390389,"Common Stock, par value $0.01 per share"
+D,02/15/2022 00:00:00,Upshaw Donnie,4,F-InKind,--D,98,3236,2,0001849194,"Common Stock, par value $0.01 per share"
+A,02/15/2022 00:00:00,Upshaw Donnie,4,A-Award,--D,329,3334,1,0001849194,"Common Stock, par value $0.01 per share"
+A,02/15/2022 00:00:00,Skipworth Michael,4,A-Award,--D,1291,14468,1,0001644705,"Common Stock, par value $0.01 per share"
+D,02/15/2022 00:00:00,Kaleida Alex,4,F-InKind,--D,42,1602,6,0001880925,"Common Stock, par value $0.01 per share"
+A,02/15/2022 00:00:00,Kaleida Alex,4,A-Award,--D,141,1644,5,0001880925,"Common Stock, par value $0.01 per share"
+D,02/15/2022 00:00:00,Kaleida Alex,4,F-InKind,--D,80,1503,4,0001880925,"Common Stock, par value $0.01 per share"
+A,02/15/2022 00:00:00,Kaleida Alex,4,A-Award,--D,267,1583,3,0001880925,"Common Stock, par value $0.01 per share"
+D,02/15/2022 00:00:00,Kaleida Alex,4,F-InKind,--D,56,1316,2,0001880925,"Common Stock, par value $0.01 per share"
+A,02/15/2022 00:00:00,Kaleida Alex,4,A-Award,--D,188,1372,1,0001880925,"Common Stock, par value $0.01 per share"
+D,02/15/2022 00:00:00,Boudet Nicolas,4,F-InKind,--D,181,1905,2,0001799847,"Common Stock, par value $0.01 per share"
+A,02/15/2022 00:00:00,Boudet Nicolas,4,A-Award,--D,608,2086,1,0001799847,"Common Stock, par value $0.01 per share"
+D,12/09/2021 00:00:00,Boudet Nicolas,4,S-Sale,--D,236,1478,1,0001799847,"Common Stock, par value $0.01 per share"
+D,12/07/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,3203,65217,3,0001390389,"Common Stock, par value $0.01 per share"
+D,12/07/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,6964,68420,2,0001390389,"Common Stock, par value $0.01 per share"
+D,12/07/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,9833,75384,1,0001390389,"Common Stock, par value $0.01 per share"
+D,11/15/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,900,85217,3,0001390389,"Common Stock, par value $0.01 per share"
+D,11/15/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,3035,86117,2,0001390389,"Common Stock, par value $0.01 per share"
+D,11/13/2021 00:00:00,Morrison Charles R,4,M-Exempt,--D,10000,30000,4,0001390389,Restricted Stock Units
+A,11/13/2021 00:00:00,Morrison Charles R,4,M-Exempt,--D,10000,89152,1,0001390389,"Common Stock, par value $0.01 per share"
+D,11/12/2021 00:00:00,Boudet Nicolas,4,M-Exempt,--D,1161,2321,3,0001799847,Employee Stock Option (right to buy)
+D,11/12/2021 00:00:00,Boudet Nicolas,4,S-Sale,--D,693,1714,2,0001799847,"Common Stock, par value $0.01 per share"
+A,11/12/2021 00:00:00,Boudet Nicolas,4,M-Exempt,--D,1161,2407,1,0001799847,"Common Stock, par value $0.01 per share"
+D,08/27/2021 00:00:00,Sadarangani Mahesh,4,M-Exempt,--D,243,243,3,0001799168,Restricted Stock Units
+D,08/27/2021 00:00:00,Sadarangani Mahesh,4,F-InKind,--D,60,1032,2,0001799168,"Common Stock, par value $0.01 per share"
+A,08/27/2021 00:00:00,Sadarangani Mahesh,4,M-Exempt,--D,243,1092,1,0001799168,"Common Stock, par value $0.01 per share"
+D,08/02/2021 00:00:00,Sadarangani Mahesh,4,S-Sale,--D,849,849,3,0001799168,"Common Stock, par value $0.01 per share"
+D,07/30/2021 00:00:00,Sadarangani Mahesh,4,M-Exempt,--D,1575,3151,4,0001799168,Employee Stock Option (right to buy)
+D,07/30/2021 00:00:00,Sadarangani Mahesh,4,S-Sale,--D,927,1698,2,0001799168,"Common Stock, par value $0.01 per share"
+A,07/30/2021 00:00:00,Sadarangani Mahesh,4,M-Exempt,--D,1575,2625,1,0001799168,"Common Stock, par value $0.01 per share"
+D,07/30/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,100,79152,6,0001390389,"Common Stock, par value $0.01 per share"
+D,07/30/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,400,79252,5,0001390389,"Common Stock, par value $0.01 per share"
+D,07/30/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,1153,79652,4,0001390389,"Common Stock, par value $0.01 per share"
+D,07/30/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,3798,80805,3,0001390389,"Common Stock, par value $0.01 per share"
+D,07/30/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,7901,84603,2,0001390389,"Common Stock, par value $0.01 per share"
+D,07/30/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,16459,92504,1,0001390389,"Common Stock, par value $0.01 per share"
+D,07/30/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,200,13177,5,0001644705,"Common Stock, par value $0.01 per share"
+D,07/30/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,852,13377,4,0001644705,"Common Stock, par value $0.01 per share"
+D,07/30/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,2431,14229,3,0001644705,"Common Stock, par value $0.01 per share"
+D,07/30/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,4551,16660,2,0001644705,"Common Stock, par value $0.01 per share"
+D,07/30/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,6801,21211,1,0001644705,"Common Stock, par value $0.01 per share"
+D,07/30/2021 00:00:00,Peterson Stacy,4,S-Sale,--D,3220,4334,1,0001644638,"Common Stock, par value $0.01 per share"
+D,07/30/2021 00:00:00,Boudet Nicolas,4,S-Sale,--D,359,1246,1,0001799847,"Common Stock, par value $0.01 per share"
+D,07/30/2021 00:00:00,Carona Marisa,4,M-Exempt,--D,684,1368,4,0001848776,Employee Stock Option (right to buy)
+D,07/30/2021 00:00:00,Carona Marisa,4,S-Sale,--D,1961,279,3,0001848776,"Common Stock, par value $0.01 per share"
+D,07/30/2021 00:00:00,Carona Marisa,4,S-Sale,--D,405,2240,2,0001848776,"Common Stock, par value $0.01 per share"
+A,07/30/2021 00:00:00,Carona Marisa,4,M-Exempt,--D,684,2645,1,0001848776,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,328,28012,10,0001644705,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,1899,28340,9,0001644705,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,2580,30239,8,0001644705,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,1800,32819,7,0001644705,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,1939,34619,6,0001644705,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,1019,36558,5,0001644705,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,500,37577,4,0001644705,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,100,38077,3,0001644705,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,500,38177,2,0001644705,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,200,108963,10,0001390389,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,2089,109163,9,0001390389,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,9959,111252,8,0001390389,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,3286,121211,7,0001390389,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,1720,124497,6,0001390389,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,1718,126217,5,0001390389,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,1067,127935,4,0001390389,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,600,129002,3,0001390389,"Common Stock, par value $0.01 per share"
+D,07/28/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,500,129602,2,0001390389,"Common Stock, par value $0.01 per share"
+A,07/27/2021 00:00:00,Skipworth Michael,4,A-Award,--D,25500,38677,1,0001644705,"Common Stock, par value $0.01 per share"
+A,07/27/2021 00:00:00,Morrison Charles R,4,A-Award,--D,50950,130102,1,0001390389,"Common Stock, par value $0.01 per share"
+A,05/27/2021 00:00:00,MCDONALD WESLEY S,4,A-Award,--D,698,5290,1,0001185587,"Common Stock, par value $0.01 per share"
+A,05/27/2021 00:00:00,Madati Kilandigalu,4,A-Award,--D,698,4836,1,0001700938,"Common Stock, par value $0.01 per share"
+A,05/27/2021 00:00:00,Lavelle Kate S,4,A-Award,--D,698,2231,1,0001539858,"Common Stock, par value $0.01 per share"
+A,05/27/2021 00:00:00,HISLOP MICHAEL J,4,A-Award,--D,698,6219,1,0001060710,"Common Stock, par value $0.01 per share"
+A,05/27/2021 00:00:00,GOEBEL DAVID,4,A-Award,--D,698,4353,1,0001137523,"Common Stock, par value $0.01 per share"
+A,05/27/2021 00:00:00,Anand Krishnan,4,A-Award,--D,698,2981,1,0001486343,"Common Stock, par value $0.01 per share"
+A,05/27/2021 00:00:00,Caine Lynn Crump,4,A-Award,--D,698,5496,1,0001403517,"Common Stock, par value $0.01 per share"
+D,05/17/2021 00:00:00,Upshaw Donnie,4,S-Sale,--D,15,2846,3,0001849194,"Common Stock, par value $0.01 per share"
+D,05/17/2021 00:00:00,Upshaw Donnie,4,S-Sale,--D,90,2861,2,0001849194,"Common Stock, par value $0.01 per share"
+D,05/15/2021 00:00:00,Upshaw Donnie,4,M-Exempt,--D,427,0,4,0001849194,Restricted Stock Units
+A,05/15/2021 00:00:00,Upshaw Donnie,4,M-Exempt,--D,427,2951,1,0001849194,"Common Stock, par value $0.01 per share"
+D,05/11/2021 00:00:00,Peterson Stacy,4,M-Exempt,--D,850,1705,3,0001644638,Restricted Stock Units
+D,05/11/2021 00:00:00,Peterson Stacy,4,S-Sale,--D,212,7554,2,0001644638,"Common Stock, par value $0.01 per share"
+A,05/11/2021 00:00:00,Peterson Stacy,4,M-Exempt,--D,850,7766,1,0001644638,"Common Stock, par value $0.01 per share"
+D,05/11/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,500,79152,7,0001390389,"Common Stock, par value $0.01 per share"
+D,05/10/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,1100,79652,6,0001390389,"Common Stock, par value $0.01 per share"
+D,05/10/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,900,80752,5,0001390389,"Common Stock, par value $0.01 per share"
+D,05/10/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,3300,81652,4,0001390389,"Common Stock, par value $0.01 per share"
+D,05/10/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,1200,84952,3,0001390389,"Common Stock, par value $0.01 per share"
+D,05/07/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,3000,86152,2,0001390389,"Common Stock, par value $0.01 per share"
+D,05/05/2021 00:00:00,Morrison Charles R,4,G-Gift,-ED,5000,89152,1,0001390389,"Common Stock, par value $0.01 per share"
+D,05/03/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,4500,13018,1,0001644705,"Common Stock, par value $0.01 per share"
+D,03/23/2021 00:00:00,McGrath Albert G,4,M-Exempt,--D,452,903,3,0001635981,Restricted Stock Units
+D,03/23/2021 00:00:00,McGrath Albert G,4,F-InKind,--D,111,341,2,0001635981,"Common Stock, par value $0.01 per share"
+A,03/23/2021 00:00:00,McGrath Albert G,4,M-Exempt,--D,452,452,1,0001635981,"Common Stock, par value $0.01 per share"
+D,03/08/2021 00:00:00,Upshaw Donnie,4,S-Sale,--D,78,2524,3,0001849194,"Common Stock, par value $0.01 per share"
+D,03/08/2021 00:00:00,Upshaw Donnie,4,S-Sale,--D,3,2602,2,0001849194,"Common Stock, par value $0.01 per share"
+D,03/08/2021 00:00:00,Carona Marisa,4,S-Sale,--D,69,1914,3,0001848776,"Common Stock, par value $0.01 per share"
+D,03/08/2021 00:00:00,Carona Marisa,4,S-Sale,--D,3,1983,2,0001848776,"Common Stock, par value $0.01 per share"
+D,03/08/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,488,17518,3,0001644705,"Common Stock, par value $0.01 per share"
+D,03/08/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,20,18006,2,0001644705,"Common Stock, par value $0.01 per share"
+D,03/08/2021 00:00:00,Clarke Christina,4,S-Sale,--D,72,2252,3,0001795359,"Common Stock, par value $0.01 per share"
+D,03/08/2021 00:00:00,Clarke Christina,4,S-Sale,--D,3,2324,2,0001795359,"Common Stock, par value $0.01 per share"
+D,03/08/2021 00:00:00,Boudet Nicolas,4,S-Sale,--D,143,1605,3,0001799847,"Common Stock, par value $0.01 per share"
+D,03/08/2021 00:00:00,Boudet Nicolas,4,S-Sale,--D,6,1748,2,0001799847,"Common Stock, par value $0.01 per share"
+D,03/08/2021 00:00:00,Jobe Madison,4,S-Sale,--D,326,9076,3,0001456414,"Common Stock, par value $0.01 per share"
+D,03/08/2021 00:00:00,Jobe Madison,4,S-Sale,--D,13,9402,2,0001456414,"Common Stock, par value $0.01 per share"
+D,03/08/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,958,94152,3,0001390389,"Common Stock, par value $0.01 per share"
+D,03/08/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,39,95110,2,0001390389,"Common Stock, par value $0.01 per share"
+D,03/06/2021 00:00:00,Upshaw Donnie,4,M-Exempt,--D,329,329,4,0001849194,Restricted Stock Units
+A,03/06/2021 00:00:00,Upshaw Donnie,4,M-Exempt,--D,329,2605,1,0001849194,"Common Stock, par value $0.01 per share"
+D,03/06/2021 00:00:00,Carona Marisa,4,M-Exempt,--D,293,293,4,0001848776,Restricted Stock Units
+A,03/06/2021 00:00:00,Carona Marisa,4,M-Exempt,--D,293,1986,1,0001848776,"Common Stock, par value $0.01 per share"
+D,03/06/2021 00:00:00,Skipworth Michael,4,M-Exempt,--D,1290,1291,4,0001644705,Restricted Stock Units
+A,03/06/2021 00:00:00,Skipworth Michael,4,M-Exempt,--D,1290,18026,1,0001644705,"Common Stock, par value $0.01 per share"
+D,03/06/2021 00:00:00,Clarke Christina,4,M-Exempt,--D,304,304,4,0001795359,Restricted Stock Units
+A,03/06/2021 00:00:00,Clarke Christina,4,M-Exempt,--D,304,2327,1,0001795359,"Common Stock, par value $0.01 per share"
+D,03/06/2021 00:00:00,Boudet Nicolas,4,M-Exempt,--D,607,608,4,0001799847,Restricted Stock Units
+A,03/06/2021 00:00:00,Boudet Nicolas,4,M-Exempt,--D,607,1754,1,0001799847,"Common Stock, par value $0.01 per share"
+D,03/06/2021 00:00:00,Jobe Madison,4,M-Exempt,--D,860,861,4,0001456414,Restricted Stock Units
+A,03/06/2021 00:00:00,Jobe Madison,4,M-Exempt,--D,860,9415,1,0001456414,"Common Stock, par value $0.01 per share"
+D,03/06/2021 00:00:00,Morrison Charles R,4,M-Exempt,--D,2530,2531,4,0001390389,Restricted Stock Units
+A,03/06/2021 00:00:00,Morrison Charles R,4,M-Exempt,--D,2530,95149,1,0001390389,"Common Stock, par value $0.01 per share"
+D,03/05/2021 00:00:00,Carona Marisa,4,S-Sale,--D,51,1693,2,0001848776,"Common Stock, par value $0.01 per share"
+D,03/05/2021 00:00:00,Upshaw Donnie,4,S-Sale,--D,84,2276,2,0001849194,"Common Stock, par value $0.01 per share"
+D,03/05/2021 00:00:00,Clarke Christina,4,S-Sale,--D,84,2023,2,0001795359,"Common Stock, par value $0.01 per share"
+D,03/05/2021 00:00:00,Boudet Nicolas,4,S-Sale,--D,87,1147,2,0001799847,"Common Stock, par value $0.01 per share"
+D,03/05/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,240,16736,2,0001644705,"Common Stock, par value $0.01 per share"
+D,03/05/2021 00:00:00,Sadarangani Mahesh,4,S-Sale,--D,118,891,2,0001799168,"Common Stock, par value $0.01 per share"
+D,03/05/2021 00:00:00,Jobe Madison,4,S-Sale,--D,91,8555,2,0001456414,"Common Stock, par value $0.01 per share"
+D,03/04/2021 00:00:00,Carona Marisa,4,M-Exempt,--D,205,411,3,0001848776,Restricted Stock Units
+A,03/04/2021 00:00:00,Carona Marisa,4,M-Exempt,--D,205,1744,1,0001848776,"Common Stock, par value $0.01 per share"
+D,03/04/2021 00:00:00,Upshaw Donnie,4,M-Exempt,--D,338,677,3,0001849194,Restricted Stock Units
+A,03/04/2021 00:00:00,Upshaw Donnie,4,M-Exempt,--D,338,2360,1,0001849194,"Common Stock, par value $0.01 per share"
+A,03/04/2021 00:00:00,Morrison Charles R,4,A-Award,--D,40000,40000,2,0001390389,Restricted Stock Units
+D,03/04/2021 00:00:00,Clarke Christina,4,M-Exempt,--D,338,677,5,0001795359,Restricted Stock Units
+A,03/04/2021 00:00:00,Clarke Christina,4,M-Exempt,--D,338,2107,1,0001795359,"Common Stock, par value $0.01 per share"
+D,03/04/2021 00:00:00,Boudet Nicolas,4,M-Exempt,--D,348,697,5,0001799847,Restricted Stock Units
+A,03/04/2021 00:00:00,Boudet Nicolas,4,M-Exempt,--D,348,1234,1,0001799847,"Common Stock, par value $0.01 per share"
+D,03/04/2021 00:00:00,Skipworth Michael,4,M-Exempt,--D,597,1194,5,0001644705,Restricted Stock Units
+A,03/04/2021 00:00:00,Skipworth Michael,4,M-Exempt,--D,597,16976,1,0001644705,"Common Stock, par value $0.01 per share"
+D,03/04/2021 00:00:00,Sadarangani Mahesh,4,M-Exempt,--D,473,945,5,0001799168,Restricted Stock Units
+A,03/04/2021 00:00:00,Sadarangani Mahesh,4,M-Exempt,--D,473,1009,1,0001799168,"Common Stock, par value $0.01 per share"
+D,03/04/2021 00:00:00,Jobe Madison,4,M-Exempt,--D,363,727,3,0001456414,Restricted Stock Units
+A,03/04/2021 00:00:00,Jobe Madison,4,M-Exempt,--D,363,8646,1,0001456414,"Common Stock, par value $0.01 per share"
+A,03/03/2021 00:00:00,Morrison Charles R,4,A-Award,--D,21515,21515,1,0001390389,Employee Stock Option (right to buy)
+A,03/03/2021 00:00:00,Clarke Christina,4,A-Award,--D,2195,2195,4,0001795359,Employee Stock Option (right to buy)
+A,03/03/2021 00:00:00,Clarke Christina,4,A-Award,--D,659,659,3,0001795359,Restricted Stock Units
+A,03/03/2021 00:00:00,Boudet Nicolas,4,A-Award,--D,2421,2421,4,0001799847,Employee Stock Option (right to buy)
+A,03/03/2021 00:00:00,Boudet Nicolas,4,A-Award,--D,727,727,3,0001799847,Restricted Stock Units
+A,03/03/2021 00:00:00,Skipworth Michael,4,A-Award,--D,3873,3873,4,0001644705,Employee Stock Option (right to buy)
+A,03/03/2021 00:00:00,Skipworth Michael,4,A-Award,--D,1162,1162,3,0001644705,Restricted Stock Units
+A,03/03/2021 00:00:00,Sadarangani Mahesh,4,A-Award,--D,3680,3680,4,0001799168,Employee Stock Option (right to buy)
+A,03/03/2021 00:00:00,Sadarangani Mahesh,4,A-Award,--D,1104,1104,3,0001799168,Restricted Stock Units
+A,03/03/2021 00:00:00,McGrath Albert G,4,A-Award,--D,2195,2195,2,0001635981,Employee Stock Option (right to buy)
+A,03/03/2021 00:00:00,McGrath Albert G,4,A-Award,--D,659,659,1,0001635981,Restricted Stock Units
+A,03/03/2021 00:00:00,Peterson Stacy,4,A-Award,--D,3176,3176,2,0001644638,Employee Stock Option (right to buy)
+A,03/03/2021 00:00:00,Peterson Stacy,4,A-Award,--D,953,953,1,0001644638,Restricted Stock Units
+D,02/22/2021 00:00:00,Jobe Madison,4,S-Sale,--D,292,8283,2,0001456414,"Common Stock, par value $0.01 per share"
+D,02/22/2021 00:00:00,Skipworth Michael,4,S-Sale,--D,463,16379,2,0001644705,"Common Stock, par value $0.01 per share"
+D,02/22/2021 00:00:00,Morrison Charles R,4,S-Sale,--D,1571,92619,2,0001390389,"Common Stock, par value $0.01 per share"
+D,02/20/2021 00:00:00,Jobe Madison,4,M-Exempt,--D,1136,0,3,0001456414,Restricted Stock Units
+A,02/20/2021 00:00:00,Jobe Madison,4,M-Exempt,--D,1136,8575,1,0001456414,"Common Stock, par value $0.01 per share"
+D,02/20/2021 00:00:00,Skipworth Michael,4,M-Exempt,--D,1726,0,3,0001644705,Restricted Stock Units
+A,02/20/2021 00:00:00,Skipworth Michael,4,M-Exempt,--D,1726,16842,1,0001644705,"Common Stock, par value $0.01 per share"
+D,02/20/2021 00:00:00,Morrison Charles R,4,M-Exempt,--D,3785,0,3,0001390389,Restricted Stock Units
+A,02/20/2021 00:00:00,Morrison Charles R,4,M-Exempt,--D,3785,94190,1,0001390389,"Common Stock, par value $0.01 per share"
+D,02/16/2021 00:00:00,Boudet Nicolas,4,F-InKind,--D,181,886,2,0001799847,"Common Stock, par value $0.01 per share"
+A,02/16/2021 00:00:00,Boudet Nicolas,4,A-Award,--D,608,1067,1,0001799847,"Common Stock, par value $0.01 per share"
+D,02/16/2021 00:00:00,Clarke Christina,4,F-InKind,--D,91,1769,4,0001795359,"Common Stock, par value $0.01 per share"
+A,02/16/2021 00:00:00,Clarke Christina,4,A-Award,--D,304,1860,3,0001795359,"Common Stock, par value $0.01 per share"
+D,02/16/2021 00:00:00,Clarke Christina,4,F-InKind,--D,89,1556,2,0001795359,"Common Stock, par value $0.01 per share"
+A,02/16/2021 00:00:00,Clarke Christina,4,A-Award,--D,298,1645,1,0001795359,"Common Stock, par value $0.01 per share"
+D,02/16/2021 00:00:00,Jobe Madison,4,F-InKind,--D,210,7439,4,0001456414,"Common Stock, par value $0.01 per share"
+A,02/16/2021 00:00:00,Jobe Madison,4,A-Award,--D,861,7649,3,0001456414,"Common Stock, par value $0.01 per share"
+D,02/16/2021 00:00:00,Jobe Madison,4,F-InKind,--D,306,6788,2,0001456414,"Common Stock, par value $0.01 per share"
+A,02/16/2021 00:00:00,Jobe Madison,4,A-Award,--D,1136,7094,1,0001456414,"Common Stock, par value $0.01 per share"
+D,02/16/2021 00:00:00,Sadarangani Mahesh,4,F-InKind,--D,73,536,2,0001799168,"Common Stock, par value $0.01 per share"
+A,02/16/2021 00:00:00,Sadarangani Mahesh,4,A-Award,--D,243,609,1,0001799168,"Common Stock, par value $0.01 per share"
+D,02/16/2021 00:00:00,Skipworth Michael,4,F-InKind,--D,315,15116,6,0001644705,"Common Stock, par value $0.01 per share"
+A,02/16/2021 00:00:00,Skipworth Michael,4,A-Award,--D,1291,15431,5,0001644705,"Common Stock, par value $0.01 per share"
+D,02/16/2021 00:00:00,Skipworth Michael,4,F-InKind,--D,421,14140,4,0001644705,"Common Stock, par value $0.01 per share"
+A,02/16/2021 00:00:00,Skipworth Michael,4,A-Award,--D,1726,14561,3,0001644705,"Common Stock, par value $0.01 per share"
+D,02/16/2021 00:00:00,Skipworth Michael,4,F-InKind,--D,427,12835,2,0001644705,"Common Stock, par value $0.01 per share"
+A,02/16/2021 00:00:00,Skipworth Michael,4,A-Award,--D,1649,13262,1,0001644705,"Common Stock, par value $0.01 per share"
+D,02/16/2021 00:00:00,Morrison Charles R,4,F-InKind,--D,8048,90405,2,0001390389,"Common Stock, par value $0.01 per share"
+A,02/16/2021 00:00:00,Morrison Charles R,4,A-Award,--D,22712,98453,1,0001390389,"Common Stock, par value $0.01 per share"
+D,11/09/2020 00:00:00,Clarke Christina,4,S-Sale,--D,75,1347,2,0001795359,"Common Stock, par value $0.01 per share"
+D,11/07/2020 00:00:00,Clarke Christina,4,M-Exempt,--D,298,298,3,0001795359,Restricted Stock Units
+A,11/07/2020 00:00:00,Clarke Christina,4,M-Exempt,--D,298,1422,1,0001795359,"Common Stock, par value $0.01 per share"
+D,08/28/2020 00:00:00,Sadarangani Mahesh,4,S-Sale,--D,59,366,2,0001799168,"Common Stock, par value $0.01 per share"
+D,08/27/2020 00:00:00,Sadarangani Mahesh,4,M-Exempt,--D,242,486,3,0001799168,Restricted Stock Units
+A,08/27/2020 00:00:00,Sadarangani Mahesh,4,M-Exempt,--D,242,425,1,0001799168,"Common Stock, par value $0.01 per share"
+D,08/18/2020 00:00:00,MCDONALD WESLEY S,4,S-Sale,--D,1500,4592,1,0001185587,"Common Stock, par value $0.01 per share"
+D,08/18/2020 00:00:00,Jobe Madison,4,S-Sale,--D,1500,5958,1,0001456414,"Common Stock, par value $0.01 per share"
+D,08/12/2020 00:00:00,Skipworth Michael,4,S-Sale,--D,800,11428,3,0001644705,"Common Stock, par value $0.01 per share"
+D,08/12/2020 00:00:00,Skipworth Michael,4,S-Sale,--D,1400,12228,2,0001644705,"Common Stock, par value $0.01 per share"
+D,08/12/2020 00:00:00,Skipworth Michael,4,S-Sale,--D,1800,13628,1,0001644705,"Common Stock, par value $0.01 per share"
+D,08/12/2020 00:00:00,Morrison Charles R,4,M-Exempt,--D,79816,0,6,0001390389,Stock Options (Right to Buy)
+D,08/12/2020 00:00:00,Morrison Charles R,4,S-Sale,--D,3266,75741,5,0001390389,"Common Stock, par value $0.01 per share"
+D,08/12/2020 00:00:00,Morrison Charles R,4,S-Sale,--D,7756,79007,4,0001390389,"Common Stock, par value $0.01 per share"
+D,08/12/2020 00:00:00,Morrison Charles R,4,S-Sale,--D,9822,86763,3,0001390389,"Common Stock, par value $0.01 per share"
+D,08/12/2020 00:00:00,Morrison Charles R,4,S-Sale,--D,58972,96585,2,0001390389,"Common Stock, par value $0.01 per share"
+A,08/12/2020 00:00:00,Morrison Charles R,4,M-Exempt,--D,79816,155557,1,0001390389,"Common Stock, par value $0.01 per share"
+D,08/01/2020 00:00:00,Skipworth Michael,4,M-Exempt,--D,1649,0,3,0001644705,Restricted Stock Units
+D,08/01/2020 00:00:00,Skipworth Michael,4,F-InKind,--D,633,15428,2,0001644705,"Common Stock, par value $0.01 per share"
+A,08/01/2020 00:00:00,Skipworth Michael,4,M-Exempt,--D,1649,16061,1,0001644705,"Common Stock, par value $0.01 per share"
+A,05/28/2020 00:00:00,HISLOP MICHAEL J,4,A-Award,--D,840,5521,1,0001060710,"Common Stock, par value $0.01 per share"
+A,05/28/2020 00:00:00,GOEBEL DAVID,4,A-Award,--D,840,3655,1,0001137523,"Common Stock, par value $0.01 per share"
+A,05/28/2020 00:00:00,Caine Lynn Crump,4,A-Award,--D,840,4798,1,0001403517,"Common Stock, par value $0.01 per share"
+A,05/28/2020 00:00:00,Madati Kilandigalu,4,A-Award,--D,840,4138,1,0001700938,"Common Stock, par value $0.01 per share"
+A,05/28/2020 00:00:00,MCDONALD WESLEY S,4,A-Award,--D,840,6092,1,0001185587,"Common Stock, par value $0.01 per share"
+A,05/28/2020 00:00:00,Anand Krishnan,4,A-Award,--D,840,2283,1,0001486343,"Common Stock, par value $0.01 per share"
+A,05/28/2020 00:00:00,Lavelle Kate S,4,A-Award,--D,840,1533,1,0001539858,"Common Stock, par value $0.01 per share"
+D,05/14/2020 00:00:00,Morrison Charles R,4,S-Sale,--D,1000,75741,3,0001390389,"Common Stock, par value $0.01 per share"
+D,05/14/2020 00:00:00,Morrison Charles R,4,S-Sale,--D,7163,76741,2,0001390389,"Common Stock, par value $0.01 per share"
+D,05/14/2020 00:00:00,Morrison Charles R,4,S-Sale,--D,6837,83904,1,0001390389,"Common Stock, par value $0.01 per share"
+D,05/12/2020 00:00:00,Boudet Nicolas,4,S-Sale,--D,459,459,1,0001799847,"Common Stock, par value $0.01 per share"
+D,05/12/2020 00:00:00,Skipworth Michael,4,S-Sale,--D,1600,14412,4,0001644705,"Common Stock, par value $0.01 per share"
+A,05/11/2020 00:00:00,Peterson Stacy,4,A-Award,--D,3242,3242,2,0001644638,Employee Stock Option (right to buy)
+A,05/11/2020 00:00:00,Peterson Stacy,4,A-Award,--D,2555,2555,1,0001644638,Restricted Stock Units
+D,05/08/2020 00:00:00,Jobe Madison,4,S-Sale,--D,3000,7458,1,0001456414,"Common Stock, par value $0.01 per share"
+D,05/08/2020 00:00:00,Skipworth Michael,4,M-Exempt,--D,2725,0,6,0001644705,Employee Stock Option (right to buy)
+D,05/08/2020 00:00:00,Skipworth Michael,4,M-Exempt,--D,2725,0,5,0001644705,Employee Stock Option (right to buy)
+D,05/08/2020 00:00:00,Skipworth Michael,4,S-Sale,--D,2318,16012,3,0001644705,"Common Stock, par value $0.01 per share"
+A,05/08/2020 00:00:00,Skipworth Michael,4,M-Exempt,--D,2725,18330,2,0001644705,"Common Stock, par value $0.01 per share"
+A,05/08/2020 00:00:00,Skipworth Michael,4,M-Exempt,--D,2725,15605,1,0001644705,"Common Stock, par value $0.01 per share"
+A,03/23/2020 00:00:00,McGrath Albert G,4,A-Award,--D,4517,4517,2,0001635981,Employee Stock Option (right to buy)
+A,03/23/2020 00:00:00,McGrath Albert G,4,A-Award,--D,1355,1355,1,0001635981,Restricted Stock Units
+D,03/13/2020 00:00:00,Jobe Madison,4,M-Exempt,--D,1926,0,3,0001456414,Restricted Stock Units
+D,03/13/2020 00:00:00,Jobe Madison,4,F-InKind,--D,469,10458,2,0001456414,"Common Stock, par value $0.01 per share"
+A,03/13/2020 00:00:00,Jobe Madison,4,M-Exempt,--D,1926,10927,1,0001456414,"Common Stock, par value $0.01 per share"
+D,03/09/2020 00:00:00,Jobe Madison,4,S-Sale,--D,210,9001,2,0001456414,"Common Stock, par value $0.01 per share"
+D,03/09/2020 00:00:00,Morrison Charles R,4,S-Sale,--D,997,90741,2,0001390389,"Common Stock, par value $0.01 per share"
+D,03/09/2020 00:00:00,Skipworth Michael,4,S-Sale,--D,315,12880,2,0001644705,"Common Stock, par value $0.01 per share"
+D,03/09/2020 00:00:00,Clarke Christina,4,S-Sale,--D,72,1124,2,0001795359,"Common Stock, par value $0.01 per share"
+D,03/09/2020 00:00:00,Boudet Nicolas,4,S-Sale,--D,149,918,2,0001799847,"Common Stock, par value $0.01 per share"
+D,03/06/2020 00:00:00,Jobe Madison,4,M-Exempt,--D,861,1721,3,0001456414,Restricted Stock Units
+A,03/06/2020 00:00:00,Jobe Madison,4,M-Exempt,--D,861,9211,1,0001456414,"Common Stock, par value $0.01 per share"
+D,03/06/2020 00:00:00,Morrison Charles R,4,M-Exempt,--D,2531,5061,3,0001390389,Restricted Stock Units
+A,03/06/2020 00:00:00,Morrison Charles R,4,M-Exempt,--D,2531,91738,1,0001390389,"Common Stock, par value $0.01 per share"
+D,03/06/2020 00:00:00,Skipworth Michael,4,M-Exempt,--D,1291,2581,3,0001644705,Restricted Stock Units
+A,03/06/2020 00:00:00,Skipworth Michael,4,M-Exempt,--D,1291,13195,1,0001644705,"Common Stock, par value $0.01 per share"
+D,03/06/2020 00:00:00,Clarke Christina,4,M-Exempt,--D,304,608,3,0001795359,Restricted Stock Units
+A,03/06/2020 00:00:00,Clarke Christina,4,M-Exempt,--D,304,1196,1,0001795359,"Common Stock, par value $0.01 per share"
+D,03/06/2020 00:00:00,Boudet Nicolas,4,M-Exempt,--D,608,1215,3,0001799847,Restricted Stock Units
+A,03/06/2020 00:00:00,Boudet Nicolas,4,M-Exempt,--D,608,1067,1,0001799847,"Common Stock, par value $0.01 per share"
+D,03/05/2020 00:00:00,Jobe Madison,4,S-Sale,--D,645,8350,5,0001456414,"Common Stock, par value $0.01 per share"
+D,03/05/2020 00:00:00,Jobe Madison,4,S-Sale,--D,312,8995,4,0001456414,"Common Stock, par value $0.01 per share"
+D,03/05/2020 00:00:00,Morrison Charles R,4,S-Sale,--D,23662,89207,3,0001390389,"Common Stock, par value $0.01 per share"
+D,03/05/2020 00:00:00,Morrison Charles R,4,S-Sale,--D,11463,112869,2,0001390389,"Common Stock, par value $0.01 per share"
+D,03/05/2020 00:00:00,Sadarangani Mahesh,4,S-Sale,--D,40,183,3,0001799168,"Common Stock, par value $0.01 per share"
+D,03/05/2020 00:00:00,Sadarangani Mahesh,4,S-Sale,--D,19,223,2,0001799168,"Common Stock, par value $0.01 per share"
+D,03/05/2020 00:00:00,Skipworth Michael,4,S-Sale,--D,767,11904,5,0001644705,"Common Stock, par value $0.01 per share"
+D,03/05/2020 00:00:00,Skipworth Michael,4,S-Sale,--D,371,12671,4,0001644705,"Common Stock, par value $0.01 per share"
+D,03/05/2020 00:00:00,Boudet Nicolas,4,S-Sale,--D,100,459,3,0001799847,"Common Stock, par value $0.01 per share"
+D,03/05/2020 00:00:00,Boudet Nicolas,4,S-Sale,--D,48,559,2,0001799847,"Common Stock, par value $0.01 per share"
+D,03/05/2020 00:00:00,Clarke Christina,4,S-Sale,--D,96,892,4,0001795359,"Common Stock, par value $0.01 per share"
+D,03/05/2020 00:00:00,Clarke Christina,4,S-Sale,--D,46,988,3,0001795359,"Common Stock, par value $0.01 per share"
+A,03/04/2020 00:00:00,Jobe Madison,4,A-Award,--D,3631,3631,7,0001456414,Employee Stock Option (right to buy)
+A,03/04/2020 00:00:00,Jobe Madison,4,A-Award,--D,1090,1090,6,0001456414,Restricted Stock Units
+A,03/04/2020 00:00:00,Jobe Madison,4,A-Award,--D,860,9307,3,0001456414,"Common Stock, par value $0.01 per share"
+A,03/04/2020 00:00:00,Jobe Madison,4,A-Award,--D,1135,8447,2,0001456414,"Common Stock, par value $0.01 per share"
+A,03/04/2020 00:00:00,Jobe Madison,4,A-Award,--D,1926,7312,1,0001456414,"Common Stock, par value $0.01 per share"
+A,03/04/2020 00:00:00,Morrison Charles R,4,A-Award,--D,33160,33160,4,0001390389,Employee Stock Option (right to buy)
+A,03/04/2020 00:00:00,Morrison Charles R,4,A-Award,--D,35125,124332,1,0001390389,"Common Stock, par value $0.01 per share"
+A,03/04/2020 00:00:00,Sadarangani Mahesh,4,A-Award,--D,4726,4726,5,0001799168,Employee Stock Option (right to buy)
+A,03/04/2020 00:00:00,Sadarangani Mahesh,4,A-Award,--D,1418,1418,4,0001799168,Restricted Stock Units
+A,03/04/2020 00:00:00,Sadarangani Mahesh,4,A-Award,--D,242,242,1,0001799168,"Common Stock, par value $0.01 per share"
+A,03/04/2020 00:00:00,Skipworth Michael,4,A-Award,--D,5969,5969,8,0001644705,Employee Stock Option (right to buy)
+A,03/04/2020 00:00:00,Skipworth Michael,4,A-Award,--D,1791,1791,7,0001644705,Restricted Stock Units
+A,03/04/2020 00:00:00,Skipworth Michael,4,A-Award,--D,2725,2725,6,0001644705,Employee Stock Option (right to buy)
+A,03/04/2020 00:00:00,Skipworth Michael,4,A-Award,--D,1290,13042,3,0001644705,"Common Stock, par value $0.01 per share"
+A,03/04/2020 00:00:00,Skipworth Michael,4,A-Award,--D,1727,11752,2,0001644705,"Common Stock, par value $0.01 per share"
+A,03/04/2020 00:00:00,Skipworth Michael,4,A-Award,--D,1650,10025,1,0001644705,"Common Stock, par value $0.01 per share"
+A,03/04/2020 00:00:00,Boudet Nicolas,4,A-Award,--D,3482,3482,5,0001799847,Employee Stock Option (right to buy)
+A,03/04/2020 00:00:00,Boudet Nicolas,4,A-Award,--D,1045,1045,4,0001799847,Restricted Stock Units
+A,03/04/2020 00:00:00,Boudet Nicolas,4,A-Award,--D,607,607,1,0001799847,"Common Stock, par value $0.01 per share"
+A,03/04/2020 00:00:00,Clarke Christina,4,A-Award,--D,3383,3383,6,0001795359,Employee Stock Option (right to buy)
+A,03/04/2020 00:00:00,Clarke Christina,4,A-Award,--D,1015,1015,5,0001795359,Restricted Stock Units
+A,03/04/2020 00:00:00,Clarke Christina,4,A-Award,--D,304,1034,2,0001795359,"Common Stock, par value $0.01 per share"
+A,03/04/2020 00:00:00,Clarke Christina,4,A-Award,--D,298,730,1,0001795359,"Common Stock, par value $0.01 per share"
+D,03/02/2020 00:00:00,Skipworth Michael,4,S-Sale,--D,213,8375,2,0001644705,"Common Stock, par value $0.01 per share"
+D,03/02/2020 00:00:00,Morrison Charles R,4,S-Sale,--D,1426,89207,2,0001390389,"Common Stock, par value $0.01 per share"
+D,02/28/2020 00:00:00,Skipworth Michael,4,M-Exempt,--D,882,0,3,0001644705,Restricted Stock Units
+A,02/28/2020 00:00:00,Skipworth Michael,4,M-Exempt,--D,882,8588,1,0001644705,"Common Stock, par value $0.01 per share"
+D,02/28/2020 00:00:00,Morrison Charles R,4,M-Exempt,--D,5854,0,3,0001390389,Restricted Stock Units
+A,02/28/2020 00:00:00,Morrison Charles R,4,M-Exempt,--D,5854,90633,1,0001390389,"Common Stock, par value $0.01 per share"
+D,02/21/2020 00:00:00,Morrison Charles R,4,S-Sale,--D,905,84779,2,0001390389,"Common Stock, par value $0.01 per share"
+D,02/20/2020 00:00:00,Jobe Madison,4,M-Exempt,--D,1135,1136,3,0001456414,Restricted Stock Units
+D,02/20/2020 00:00:00,Jobe Madison,4,F-InKind,--D,320,5386,2,0001456414,"Common Stock, par value $0.01 per share"
+A,02/20/2020 00:00:00,Jobe Madison,4,M-Exempt,--D,1135,5706,1,0001456414,"Common Stock, par value $0.01 per share"
+D,02/20/2020 00:00:00,Morrison Charles R,4,M-Exempt,--D,3786,3785,3,0001390389,Restricted Stock Units
+A,02/20/2020 00:00:00,Morrison Charles R,4,M-Exempt,--D,3786,85684,1,0001390389,"Common Stock, par value $0.01 per share"
+D,02/20/2020 00:00:00,Skipworth Michael,4,M-Exempt,--D,1726,1726,3,0001644705,Restricted Stock Units
+D,02/20/2020 00:00:00,Skipworth Michael,4,F-InKind,--D,451,7706,2,0001644705,"Common Stock, par value $0.01 per share"
+A,02/20/2020 00:00:00,Skipworth Michael,4,M-Exempt,--D,1726,8157,1,0001644705,"Common Stock, par value $0.01 per share"
+D,11/05/2019 00:00:00,Morrison Charles R,4,S-Sale,--D,6747,81898,2,0001390389,"Common Stock, par value $0.01 per share"
+D,11/05/2019 00:00:00,Morrison Charles R,4,S-Sale,--D,13253,88645,1,0001390389,"Common Stock, par value $0.01 per share"
+D,11/01/2019 00:00:00,Skipworth Michael,4,S-Sale,--D,2000,6431,1,0001644705,"Common Stock, par value $0.01 per share"
+D,08/30/2019 00:00:00,Morrison Charles R,4,S-Sale,--D,1100,101898,1,0001390389,"Common Stock, par value $0.01 per share"
+A,08/27/2019 00:00:00,Minor Rebecca,4,A-Award,--D,1528,1528,1,0001784713,Restricted Stock Units
+D,08/06/2019 00:00:00,HISLOP MICHAEL J,4,S-Sale,--I,700,5105,3,0001060710,"Common Stock, par value $0.01 per share"
+D,08/06/2019 00:00:00,HISLOP MICHAEL J,4,S-Sale,--I,3570,5805,2,0001060710,"Common Stock, par value $0.01 per share"
+D,08/06/2019 00:00:00,HISLOP MICHAEL J,4,S-Sale,--I,730,9375,1,0001060710,"Common Stock, par value $0.01 per share"
+D,08/01/2019 00:00:00,Skipworth Michael,4,M-Exempt,--D,1650,1649,3,0001644705,Restricted Stock Units
+D,08/01/2019 00:00:00,Skipworth Michael,4,F-InKind,--D,650,8431,2,0001644705,"Common Stock, par value $0.01 per share"
+A,08/01/2019 00:00:00,Skipworth Michael,4,M-Exempt,--D,1650,9081,1,0001644705,"Common Stock, par value $0.01 per share"
+D,07/31/2019 00:00:00,Cooper Maurice,4,M-Exempt,--D,1083,2167,3,0001742283,Restricted Stock Units
+D,07/31/2019 00:00:00,Cooper Maurice,4,F-InKind,--D,264,1200,2,0001742283,"Common Stock, par value $0.01 per share"
+A,07/31/2019 00:00:00,Cooper Maurice,4,M-Exempt,--D,1083,1464,1,0001742283,"Common Stock, par value $0.01 per share"
+A,06/14/2019 00:00:00,MARSCH DARRYL R.,4,A-Award,--D,1404,1404,2,0001432387,Employee Stock Option (right to buy)
+A,06/14/2019 00:00:00,MARSCH DARRYL R.,4,A-Award,--D,3986,3986,1,0001432387,Restricted Stock Units
+A,06/11/2019 00:00:00,Anand Krishnan,4,A-Award,--D,563,1443,1,0001486343,"Common Stock, par value $0.01 per share"
+A,06/11/2019 00:00:00,Caine Lynn Crump,4,A-Award,--D,563,3958,1,0001403517,"Common Stock, par value $0.01 per share"
+A,06/11/2019 00:00:00,GOEBEL DAVID,4,A-Award,--D,563,2815,1,0001137523,"Common Stock, par value $0.01 per share"
+A,06/11/2019 00:00:00,HISLOP MICHAEL J,4,A-Award,--D,563,4681,1,0001060710,"Common Stock, par value $0.01 per share"
+A,06/11/2019 00:00:00,Lavelle Kate S,4,A-Award,--D,563,693,1,0001539858,"Common Stock, par value $0.01 per share"
+A,06/11/2019 00:00:00,Madati Kilandigalu,4,A-Award,--D,563,3298,1,0001700938,"Common Stock, par value $0.01 per share"
+A,06/11/2019 00:00:00,MCDONALD WESLEY S,4,A-Award,--D,563,5252,1,0001185587,"Common Stock, par value $0.01 per share"
+D,06/10/2019 00:00:00,HISLOP MICHAEL J,4,S-Sale,--I,400,10105,3,0001060710,"Common Stock, par value $0.01 per share"
+D,06/10/2019 00:00:00,HISLOP MICHAEL J,4,S-Sale,--I,2500,10505,2,0001060710,"Common Stock, par value $0.01 per share"
+D,06/10/2019 00:00:00,HISLOP MICHAEL J,4,S-Sale,--I,2100,13005,1,0001060710,"Common Stock, par value $0.01 per share"
+D,05/31/2019 00:00:00,Cooper Maurice,4,S-Sale,--D,380,381,1,0001742283,"Common Stock, par value $0.01 per share"
+D,05/21/2019 00:00:00,Kruguer Lawrence,4,S-Sale,--D,1466,1465,1,0001644364,"Common Stock, par value $0.01 per share"
+D,05/15/2019 00:00:00,Morrison Charles R,4,M-Exempt,--D,20009,0,4,0001390389,Employee Stock Option (right to buy)
+D,05/15/2019 00:00:00,Morrison Charles R,4,S-Sale,--D,12238,102998,3,0001390389,"Common Stock, par value $0.01 per share"
+D,05/15/2019 00:00:00,Morrison Charles R,4,S-Sale,--D,7771,115236,2,0001390389,"Common Stock, par value $0.01 per share"
+A,05/15/2019 00:00:00,Morrison Charles R,4,M-Exempt,--D,20009,123007,1,0001390389,"Common Stock, par value $0.01 per share"
+D,05/10/2019 00:00:00,Morrison Charles R,4,G-Gift,--D,6000,102998,1,0001390389,"Common Stock, par value $0.01 per share"
+D,05/10/2019 00:00:00,Skipworth Michael,4,M-Exempt,--D,2725,2725,5,0001644705,Employee Stock Option (right to buy)
+D,05/10/2019 00:00:00,Skipworth Michael,4,M-Exempt,--D,2725,0,4,0001644705,Employee Stock Option (right to buy)
+D,05/10/2019 00:00:00,Skipworth Michael,4,S-Sale,--D,5450,7431,3,0001644705,"Common Stock, par value $0.01 per share"
+A,05/10/2019 00:00:00,Skipworth Michael,4,M-Exempt,--D,2725,12881,2,0001644705,"Common Stock, par value $0.01 per share"
+A,05/10/2019 00:00:00,Skipworth Michael,4,M-Exempt,--D,2725,10156,1,0001644705,"Common Stock, par value $0.01 per share"
+D,05/10/2019 00:00:00,Jobe Madison,4,S-Sale,--D,2823,4571,1,0001456414,"Common Stock, par value $0.01 per share"
+D,03/15/2019 00:00:00,Morrison Charles R,4,M-Exempt,--D,20000,20009,3,0001390389,Employee Stock Option (right to buy)
+D,03/15/2019 00:00:00,Morrison Charles R,4,S-Sale,--D,20000,108998,2,0001390389,"Common Stock, par value $0.01 per share"
+A,03/15/2019 00:00:00,Morrison Charles R,4,M-Exempt,--D,20000,128998,1,0001390389,"Common Stock, par value $0.01 per share"
+D,03/13/2019 00:00:00,Jobe Madison,4,M-Exempt,--D,1926,1926,3,0001456414,Restricted Stock Units
+D,03/13/2019 00:00:00,Jobe Madison,4,F-InKind,--D,469,7394,2,0001456414,"Common Stock, par value $0.01 per share"
+A,03/13/2019 00:00:00,Jobe Madison,4,M-Exempt,--D,1926,7863,1,0001456414,"Common Stock, par value $0.01 per share"
+A,03/08/2019 00:00:00,Peterson Stacy,4,A-Award,--D,8175,8175,4,0001644638,Employee Stock Option (right to buy)
+D,03/08/2019 00:00:00,Peterson Stacy,4,F-InKind,--D,1859,43776,3,0001644638,"Common Stock, par value $0.01 per share"
+A,03/08/2019 00:00:00,Peterson Stacy,4,A-Award,--D,1590,45635,2,0001644638,"Common Stock, par value $0.01 per share"
+A,03/08/2019 00:00:00,Peterson Stacy,4,A-Award,--D,4463,44045,1,0001644638,"Common Stock, par value $0.01 per share"
+D,03/07/2019 00:00:00,MARSCH DARRYL R.,4,S-Sale,--D,769,7505,3,0001432387,"Common Stock, par value $0.01 per share"
+D,03/07/2019 00:00:00,Jobe Madison,4,S-Sale,--D,747,5937,3,0001456414,"Common Stock, par value $0.01 per share"
+D,03/07/2019 00:00:00,Cooper Maurice,4,S-Sale,--D,322,761,2,0001742283,"Common Stock, par value $0.01 per share"
+D,03/07/2019 00:00:00,Skipworth Michael,4,S-Sale,--D,823,7431,3,0001644705,"Common Stock, par value $0.01 per share"
+D,03/07/2019 00:00:00,Kruguer Lawrence,4,S-Sale,--D,3718,2931,3,0001644364,"Common Stock, par value $0.01 per share"
+A,03/07/2019 00:00:00,Lavelle Kate S,4,A-Award,--D,130,130,1,0001539858,"Common Stock, par value $0.01 per share"
+A,03/06/2019 00:00:00,MARSCH DARRYL R.,4,A-Award,--D,1405,2809,5,0001432387,Employee Stock Option (right to buy)
+A,03/06/2019 00:00:00,MARSCH DARRYL R.,4,A-Award,--D,2506,2506,4,0001432387,Restricted Stock Units
+A,03/06/2019 00:00:00,MARSCH DARRYL R.,4,A-Award,--D,1249,8274,2,0001432387,"Common Stock, par value $0.01 per share"
+A,03/06/2019 00:00:00,MARSCH DARRYL R.,4,A-Award,--D,1901,7025,1,0001432387,"Common Stock, par value $0.01 per share"
+A,03/06/2019 00:00:00,Jobe Madison,4,A-Award,--D,2582,2582,4,0001456414,Restricted Stock Units
+A,03/06/2019 00:00:00,Jobe Madison,4,A-Award,--D,1136,6684,2,0001456414,"Common Stock, par value $0.01 per share"
+A,03/06/2019 00:00:00,Jobe Madison,4,A-Award,--D,1926,5548,1,0001456414,"Common Stock, par value $0.01 per share"
+A,03/06/2019 00:00:00,Cooper Maurice,4,A-Award,--D,3645,3645,3,0001742283,Restricted Stock Units
+A,03/06/2019 00:00:00,Cooper Maurice,4,A-Award,--D,1083,1083,1,0001742283,"Common Stock, par value $0.01 per share"
+A,03/06/2019 00:00:00,Skipworth Michael,4,A-Award,--D,2725,2725,5,0001644705,Employee Stock Option (right to buy)
+A,03/06/2019 00:00:00,Skipworth Michael,4,A-Award,--D,3872,3872,4,0001644705,Restricted Stock Units
+A,03/06/2019 00:00:00,Skipworth Michael,4,A-Award,--D,1726,8254,2,0001644705,"Common Stock, par value $0.01 per share"
+A,03/06/2019 00:00:00,Skipworth Michael,4,A-Award,--D,1649,6528,1,0001644705,"Common Stock, par value $0.01 per share"
+A,03/06/2019 00:00:00,Morrison Charles R,4,A-Award,--D,7592,7592,1,0001390389,Restricted Stock Units
+A,03/06/2019 00:00:00,Kruguer Lawrence,4,A-Award,--D,5263,5263,5,0001644364,Employee Stock Option (right to buy)
+A,03/06/2019 00:00:00,Kruguer Lawrence,4,A-Award,--D,3645,3645,4,0001644364,Restricted Stock Units
+A,03/06/2019 00:00:00,Kruguer Lawrence,4,A-Award,--D,1817,6649,2,0001644364,"Common Stock, par value $0.01 per share"
+A,03/06/2019 00:00:00,Kruguer Lawrence,4,A-Award,--D,1901,4832,1,0001644364,"Common Stock, par value $0.01 per share"
+D,03/05/2019 00:00:00,Kruguer Lawrence,4,S-Sale,--D,1902,2931,1,0001644364,"Common Stock, par value $0.01 per share"
+D,02/28/2019 00:00:00,Peterson Stacy,4,M-Exempt,--D,4663,4663,3,0001644638,Restricted Stock Units
+D,02/28/2019 00:00:00,Peterson Stacy,4,F-InKind,--D,1131,39582,2,0001644638,"Common Stock, par value $0.01 per share"
+A,02/28/2019 00:00:00,Peterson Stacy,4,M-Exempt,--D,4663,40713,1,0001644638,"Common Stock, par value $0.01 per share"
+D,02/28/2019 00:00:00,Morrison Charles R,4,M-Exempt,--D,5855,5854,3,0001390389,Restricted Stock Units
+D,02/28/2019 00:00:00,Morrison Charles R,4,F-InKind,--D,2304,108998,2,0001390389,"Common Stock, par value $0.01 per share"
+A,02/28/2019 00:00:00,Morrison Charles R,4,M-Exempt,--D,5855,111302,1,0001390389,"Common Stock, par value $0.01 per share"
+D,02/28/2019 00:00:00,Kruguer Lawrence,4,M-Exempt,--D,1902,1901,2,0001644364,Restricted Stock Units
+A,02/28/2019 00:00:00,Kruguer Lawrence,4,M-Exempt,--D,1902,4833,1,0001644364,"Common Stock, par value $0.01 per share"
+D,02/28/2019 00:00:00,Skipworth Michael,4,M-Exempt,--D,883,882,3,0001644705,Restricted Stock Units
+D,02/28/2019 00:00:00,Skipworth Michael,4,F-InKind,--D,208,4879,2,0001644705,"Common Stock, par value $0.01 per share"
+A,02/28/2019 00:00:00,Skipworth Michael,4,M-Exempt,--D,883,5087,1,0001644705,"Common Stock, par value $0.01 per share"
+D,02/28/2019 00:00:00,MARSCH DARRYL R.,4,M-Exempt,--D,1902,1901,3,0001432387,Restricted Stock Units
+D,02/28/2019 00:00:00,MARSCH DARRYL R.,4,F-InKind,--D,452,5124,2,0001432387,"Common Stock, par value $0.01 per share"
+A,02/28/2019 00:00:00,MARSCH DARRYL R.,4,M-Exempt,--D,1902,5576,1,0001432387,"Common Stock, par value $0.01 per share"
+D,02/21/2019 00:00:00,Kruguer Lawrence,4,S-Sale,--D,1817,2931,2,0001644364,"Common Stock, par value $0.01 per share"
+D,02/20/2019 00:00:00,Skipworth Michael,4,M-Exempt,--D,1726,3452,3,0001644705,Restricted Stock Units
+D,02/20/2019 00:00:00,Skipworth Michael,4,F-InKind,--D,476,4204,2,0001644705,"Common Stock, par value $0.01 per share"
+A,02/20/2019 00:00:00,Skipworth Michael,4,M-Exempt,--D,1726,4680,1,0001644705,"Common Stock, par value $0.01 per share"
+D,02/20/2019 00:00:00,MARSCH DARRYL R.,4,M-Exempt,--D,1249,2498,3,0001432387,Restricted Stock Units
+D,02/20/2019 00:00:00,MARSCH DARRYL R.,4,F-InKind,--D,371,3674,2,0001432387,"Common Stock, par value $0.01 per share"
+A,02/20/2019 00:00:00,MARSCH DARRYL R.,4,M-Exempt,--D,1249,4045,1,0001432387,"Common Stock, par value $0.01 per share"
+D,02/20/2019 00:00:00,Morrison Charles R,4,M-Exempt,--D,3785,7571,3,0001390389,Restricted Stock Units
+D,02/20/2019 00:00:00,Morrison Charles R,4,F-InKind,--D,1490,105447,2,0001390389,"Common Stock, par value $0.01 per share"
+A,02/20/2019 00:00:00,Morrison Charles R,4,M-Exempt,--D,3785,106937,1,0001390389,"Common Stock, par value $0.01 per share"
+D,02/20/2019 00:00:00,Kruguer Lawrence,4,M-Exempt,--D,1817,3634,3,0001644364,Restricted Stock Units
+A,02/20/2019 00:00:00,Kruguer Lawrence,4,M-Exempt,--D,1817,4748,1,0001644364,"Common Stock, par value $0.01 per share"
+D,02/20/2019 00:00:00,Peterson Stacy,4,M-Exempt,--D,1590,3179,3,0001644638,Restricted Stock Units
+D,02/20/2019 00:00:00,Peterson Stacy,4,F-InKind,--D,442,36050,2,0001644638,"Common Stock, par value $0.01 per share"
+A,02/20/2019 00:00:00,Peterson Stacy,4,M-Exempt,--D,1590,36492,1,0001644638,"Common Stock, par value $0.01 per share"
+D,02/20/2019 00:00:00,Jobe Madison,4,M-Exempt,--D,1136,2271,3,0001456414,Restricted Stock Units
+D,02/20/2019 00:00:00,Jobe Madison,4,F-InKind,--D,337,3622,2,0001456414,"Common Stock, par value $0.01 per share"
+A,02/20/2019 00:00:00,Jobe Madison,4,M-Exempt,--D,1136,3959,1,0001456414,"Common Stock, par value $0.01 per share"
+D,02/04/2019 00:00:00,Kruguer Lawrence,4,M-Exempt,--D,2663,0,3,0001644364,Employee Stock Option (right to buy)
+D,02/04/2019 00:00:00,Kruguer Lawrence,4,S-Sale,--D,2663,2931,2,0001644364,"Common Stock, par value $0.01 per share"
+A,02/04/2019 00:00:00,Kruguer Lawrence,4,M-Exempt,--D,2663,5594,1,0001644364,"Common Stock, par value $0.01 per share"
+D,01/15/2019 00:00:00,Morrison Charles R,4,M-Exempt,--D,20000,40009,4,0001390389,Employee Stock Option (right to buy)
+D,01/15/2019 00:00:00,Morrison Charles R,4,S-Sale,--D,8910,103152,3,0001390389,"Common Stock, par value $0.01 per share"
+D,01/15/2019 00:00:00,Morrison Charles R,4,S-Sale,--D,11090,112062,2,0001390389,"Common Stock, par value $0.01 per share"
+A,01/15/2019 00:00:00,Morrison Charles R,4,M-Exempt,--D,20000,123152,1,0001390389,"Common Stock, par value $0.01 per share"
+D,01/07/2019 00:00:00,Kruguer Lawrence,4,M-Exempt,--D,2600,2663,3,0001644364,Employee Stock Option (right to buy)
+D,01/07/2019 00:00:00,Kruguer Lawrence,4,S-Sale,--D,2600,2931,2,0001644364,"Common Stock, par value $0.01 per share"
+A,01/07/2019 00:00:00,Kruguer Lawrence,4,M-Exempt,--D,2600,5531,1,0001644364,"Common Stock, par value $0.01 per share"
+D,12/10/2018 00:00:00,Morrison Charles R,5,G-Gift,--D,6000,103152,2,0001390389,"Common Stock, par value $0.01 per share"
+D,09/07/2018 00:00:00,HISLOP MICHAEL J,4,S-Sale,--D,4100,4118,2,0001060710,"Common Stock, par value $0.01 per share"
+D,09/07/2018 00:00:00,HISLOP MICHAEL J,4,S-Sale,--D,1800,8218,1,0001060710,"Common Stock, par value $0.01 per share"
+D,09/04/2018 00:00:00,Peterson Stacy,4,M-Exempt,--D,8175,0,3,0001644638,Employee Stock Option (right to buy)
+D,09/04/2018 00:00:00,Peterson Stacy,4,S-Sale,--D,3437,34902,2,0001644638,"Common Stock, par value $0.01 per share"
+A,09/04/2018 00:00:00,Peterson Stacy,4,M-Exempt,--D,8175,38339,1,0001644638,"Common Stock, par value $0.01 per share"
+A,08/17/2018 00:00:00,HISLOP MICHAEL J,4,G-Gift,-EI,15105,15105,2,0001060710,"Common Stock, par value $0.01 per share"
+D,08/17/2018 00:00:00,HISLOP MICHAEL J,4,G-Gift,-ED,15105,10018,1,0001060710,"Common Stock, par value $0.01 per share"
+D,08/08/2018 00:00:00,Morrison Charles R,4,S-Sale,--D,17000,109152,1,0001390389,"Common Stock, par value $0.01 per share"
+D,08/07/2018 00:00:00,Peterson Stacy,4,M-Exempt,--D,4000,8175,5,0001644638,Employee Stock Option (right to buy)
+D,08/07/2018 00:00:00,Peterson Stacy,4,M-Exempt,--D,8175,0,4,0001644638,Employee Stock Option (right to buy)
+D,08/07/2018 00:00:00,Peterson Stacy,4,S-Sale,--D,5259,30164,3,0001644638,"Common Stock, par value $0.01 per share"
+A,08/07/2018 00:00:00,Peterson Stacy,4,M-Exempt,--D,4000,35423,2,0001644638,"Common Stock, par value $0.01 per share"
+A,08/07/2018 00:00:00,Peterson Stacy,4,M-Exempt,--D,8175,31423,1,0001644638,"Common Stock, par value $0.01 per share"
+A,08/01/2018 00:00:00,Anand Krishnan,4,A-Award,--D,880,880,1,0001486343,"Common Stock, par value $0.01 per share"
+D,08/01/2018 00:00:00,Skipworth Michael,4,M-Exempt,--D,1649,3299,3,0001644705,Restricted Stock Units
+D,08/01/2018 00:00:00,Skipworth Michael,4,F-InKind,--D,402,2954,2,0001644705,"Common Stock, par value $0.01 per share"
+A,08/01/2018 00:00:00,Skipworth Michael,4,M-Exempt,--D,1649,3356,1,0001644705,"Common Stock, par value $0.01 per share"
+A,07/31/2018 00:00:00,Cooper Maurice,4,A-Award,--D,3250,3250,1,0001742283,Restricted Stock Units
+D,07/02/2018 00:00:00,Kruguer Lawrence,4,S-Sale,--D,1112,2931,1,0001644364,"Common Stock, par value $0.01 per share"
+D,06/11/2018 00:00:00,Morrison Charles R,4,M-Exempt,--D,20000,60009,4,0001390389,Employee Stock Option (right to buy)
+D,06/11/2018 00:00:00,Morrison Charles R,4,S-Sale,--D,300,126152,3,0001390389,"Common Stock, par value $0.01 per share"
+D,06/11/2018 00:00:00,Morrison Charles R,4,S-Sale,--D,10700,126452,2,0001390389,"Common Stock, par value $0.01 per share"
+A,06/11/2018 00:00:00,Morrison Charles R,4,M-Exempt,--D,20000,137152,1,0001390389,"Common Stock, par value $0.01 per share"
+D,06/08/2018 00:00:00,HISLOP MICHAEL J,4,S-Sale,--D,1400,25123,2,0001060710,"Common Stock, par value $0.01 per share"
+D,06/08/2018 00:00:00,HISLOP MICHAEL J,4,S-Sale,--D,4500,26523,1,0001060710,"Common Stock, par value $0.01 per share"
+D,05/18/2018 00:00:00,Kruguer Lawrence,4,S-Sale,--D,353,4043,1,0001644364,"Common Stock, par value $0.01 per share"
+D,05/17/2018 00:00:00,Morrison Charles R,4,S-Sale,--D,10000,117152,1,0001390389,"Common Stock, par value $0.01 per share"
+D,05/14/2018 00:00:00,Kruguer Lawrence,4,S-Sale,--D,1064,4396,1,0001644364,"Common Stock, par value $0.01 per share"
+D,05/10/2018 00:00:00,Skipworth Michael,4,S-Sale,--D,2500,1707,4,0001644705,"Common Stock, par value $0.01 per share"
+D,05/09/2018 00:00:00,Peterson Stacy,4,S-Sale,--D,8000,23248,1,0001644638,"Common Stock, par value $0.01 per share"
+D,05/09/2018 00:00:00,Morrison Charles R,4,M-Exempt,--D,20000,80009,4,0001390389,Employee Stock Option (right to buy)
+D,05/09/2018 00:00:00,Morrison Charles R,4,S-Sale,--D,1900,127152,3,0001390389,"Common Stock, par value $0.01 per share"
+D,05/09/2018 00:00:00,Morrison Charles R,4,S-Sale,--D,4100,129052,2,0001390389,"Common Stock, par value $0.01 per share"
+A,05/09/2018 00:00:00,Morrison Charles R,4,M-Exempt,--D,20000,133152,1,0001390389,"Common Stock, par value $0.01 per share"
+D,05/08/2018 00:00:00,Skipworth Michael,4,M-Exempt,--D,2725,5450,6,0001644705,Employee Stock Option (right to buy)
+D,05/08/2018 00:00:00,Skipworth Michael,4,M-Exempt,--D,2725,0,5,0001644705,Employee Stock Option (right to buy)
+D,05/08/2018 00:00:00,Skipworth Michael,4,S-Sale,--D,1860,4207,3,0001644705,"Common Stock, par value $0.01 per share"
+A,05/08/2018 00:00:00,Skipworth Michael,4,M-Exempt,--D,2725,6067,2,0001644705,"Common Stock, par value $0.01 per share"
+A,05/08/2018 00:00:00,Skipworth Michael,4,M-Exempt,--D,2725,3342,1,0001644705,"Common Stock, par value $0.01 per share"
+D,05/08/2018 00:00:00,Kruguer Lawrence,4,S-Sale,--D,2808,5460,1,0001644364,"Common Stock, par value $0.01 per share"
+A,05/01/2018 00:00:00,HISLOP MICHAEL J,4,A-Award,--D,1021,31023,1,0001060710,"Common Stock, par value $0.01 per share"
+A,05/01/2018 00:00:00,Madati Kilandigalu,4,A-Award,--D,1021,2735,1,0001700938,"Common Stock, par value $0.01 per share"
+A,05/01/2018 00:00:00,MCDONALD WESLEY S,4,A-Award,--D,1021,4689,1,0001185587,"Common Stock, par value $0.01 per share"
+A,05/01/2018 00:00:00,Caine Lynn Crump,4,A-Award,--D,1021,3395,1,0001403517,"Common Stock, par value $0.01 per share"
+A,05/01/2018 00:00:00,GOEBEL DAVID,4,A-Award,--D,1021,2252,1,0001137523,"Common Stock, par value $0.01 per share"
+D,04/10/2018 00:00:00,Peterson Stacy,4,M-Exempt,--D,4175,12175,5,0001644638,Employee Stock Option (right to buy)
+D,04/10/2018 00:00:00,Peterson Stacy,4,M-Exempt,--D,8175,8175,4,0001644638,Employee Stock Option (right to buy)
+D,04/10/2018 00:00:00,Peterson Stacy,4,S-Sale,--D,12350,31248,3,0001644638,"Common Stock, par value $0.01 per share"
+A,04/10/2018 00:00:00,Peterson Stacy,4,M-Exempt,--D,4175,43598,2,0001644638,"Common Stock, par value $0.01 per share"
+A,04/10/2018 00:00:00,Peterson Stacy,4,M-Exempt,--D,8175,39423,1,0001644638,"Common Stock, par value $0.01 per share"
+D,04/10/2018 00:00:00,HISLOP MICHAEL J,4,M-Exempt,--D,14534,0,2,0001060710,Employee Stock Option (right to buy)
+A,04/10/2018 00:00:00,HISLOP MICHAEL J,4,M-Exempt,--D,14534,30002,1,0001060710,"Common Stock, par value $0.01 per share"
+D,04/09/2018 00:00:00,Morrison Charles R,4,M-Exempt,--D,20000,100009,3,0001390389,Employee Stock Option (right to buy)
+D,04/09/2018 00:00:00,Morrison Charles R,4,S-Sale,--D,11000,113152,2,0001390389,"Common Stock, par value $0.01 per share"
+A,04/09/2018 00:00:00,Morrison Charles R,4,M-Exempt,--D,20000,124152,1,0001390389,"Common Stock, par value $0.01 per share"
+D,03/13/2018 00:00:00,Jobe Madison,4,M-Exempt,--D,1926,3852,3,0001456414,Restricted Stock Units
+D,03/13/2018 00:00:00,Jobe Madison,4,S-Sale,--D,469,2823,2,0001456414,"Common Stock, par value $0.01 per share"
+A,03/13/2018 00:00:00,Jobe Madison,4,M-Exempt,--D,1926,3292,1,0001456414,"Common Stock, par value $0.01 per share"
+D,03/12/2018 00:00:00,Dekker Flynn,4,M-Exempt,--D,8175,8175,2,0001644626,Employee Stock Option (right to buy)
+A,03/12/2018 00:00:00,Dekker Flynn,4,M-Exempt,--D,8175,33239,1,0001644626,"Common Stock, par value $0.01 per share"
+D,03/12/2018 00:00:00,HISLOP MICHAEL J,4,S-Sale,--D,5000,15468,1,0001060710,"Common Stock, par value $0.01 per share"
+D,03/08/2018 00:00:00,Dekker Flynn,4,S-Sale,--D,10000,25064,1,0001644626,"Common Stock, par value $0.01 per share"
+D,03/02/2018 00:00:00,Morrison Charles R,5,G-Gift,--D,6000,109152,1,0001390389,"Common Stock, par value $0.01 per share"
+D,03/02/2018 00:00:00,Dekker Flynn,4,M-Exempt,--D,8175,0,2,0001644626,Employee Stock Option (right to buy)
+A,03/02/2018 00:00:00,Dekker Flynn,4,M-Exempt,--D,8175,35064,1,0001644626,"Common Stock, par value $0.01 per share"
+D,03/01/2018 00:00:00,MARSCH DARRYL R.,4,S-Sale,--D,459,2796,2,0001432387,"Common Stock, par value $0.01 per share"
+D,03/01/2018 00:00:00,Kruguer Lawrence,4,S-Sale,--D,462,8268,2,0001644364,"Common Stock, par value $0.01 per share"
+D,03/01/2018 00:00:00,Peterson Stacy,4,S-Sale,--D,1148,31248,2,0001644638,"Common Stock, par value $0.01 per share"
+D,03/01/2018 00:00:00,Skipworth Michael,4,S-Sale,--D,265,617,2,0001644705,"Common Stock, par value $0.01 per share"
+D,02/28/2018 00:00:00,MARSCH DARRYL R.,4,M-Exempt,--D,1901,3803,3,0001432387,Restricted Stock Units
+A,02/28/2018 00:00:00,MARSCH DARRYL R.,4,M-Exempt,--D,1901,3255,1,0001432387,"Common Stock, par value $0.01 per share"
+D,02/28/2018 00:00:00,Kruguer Lawrence,4,M-Exempt,--D,1901,3803,3,0001644364,Restricted Stock Units
+A,02/28/2018 00:00:00,Kruguer Lawrence,4,M-Exempt,--D,1901,8730,1,0001644364,"Common Stock, par value $0.01 per share"
+D,02/28/2018 00:00:00,Peterson Stacy,4,M-Exempt,--D,4663,9326,3,0001644638,Restricted Stock Units
+A,02/28/2018 00:00:00,Peterson Stacy,4,M-Exempt,--D,4663,32396,1,0001644638,"Common Stock, par value $0.01 per share"
+D,02/28/2018 00:00:00,Skipworth Michael,4,M-Exempt,--D,882,1765,3,0001644705,Restricted Stock Units
+A,02/28/2018 00:00:00,Skipworth Michael,4,M-Exempt,--D,882,882,1,0001644705,"Common Stock, par value $0.01 per share"
+A,02/20/2018 00:00:00,Peterson Stacy,4,A-Award,--D,4769,4769,5,0001644638,Restricted Stock Units
+A,02/20/2018 00:00:00,Peterson Stacy,4,A-Award,--D,8175,8175,4,0001644638,Employee Stock Option (right to buy)
+D,02/20/2018 00:00:00,Peterson Stacy,4,M-Exempt,--D,4462,8926,3,0001644638,Restricted Stock Units
+D,02/20/2018 00:00:00,Peterson Stacy,4,S-Sale,--D,1079,27733,2,0001644638,"Common Stock, par value $0.01 per share"
+A,02/20/2018 00:00:00,Peterson Stacy,4,M-Exempt,--D,4462,28812,1,0001644638,"Common Stock, par value $0.01 per share"
+A,02/20/2018 00:00:00,Dekker Flynn,4,A-Award,--D,8175,8175,3,0001644626,Employee Stock Option (right to buy)
+D,02/20/2018 00:00:00,Dekker Flynn,4,M-Exempt,--D,3327,6654,2,0001644626,Restricted Stock Units
+A,02/20/2018 00:00:00,Dekker Flynn,4,M-Exempt,--D,3327,26889,1,0001644626,"Common Stock, par value $0.01 per share"
+A,02/20/2018 00:00:00,Kruguer Lawrence,4,A-Award,--D,5451,5451,5,0001644364,Restricted Stock Units
+A,02/20/2018 00:00:00,Kruguer Lawrence,4,A-Award,--D,5263,5263,4,0001644364,Employee Stock Option (right to buy)
+D,02/20/2018 00:00:00,Kruguer Lawrence,4,M-Exempt,--D,1901,3802,3,0001644364,Restricted Stock Units
+D,02/20/2018 00:00:00,Kruguer Lawrence,4,S-Sale,--D,532,6829,2,0001644364,"Common Stock, par value $0.01 per share"
+A,02/20/2018 00:00:00,Kruguer Lawrence,4,M-Exempt,--D,1901,7361,1,0001644364,"Common Stock, par value $0.01 per share"
+A,02/20/2018 00:00:00,MARSCH DARRYL R.,4,A-Award,--D,3747,3747,5,0001432387,Restricted Stock Units
+A,02/20/2018 00:00:00,MARSCH DARRYL R.,4,A-Award,--D,1404,1404,4,0001432387,Employee Stock Option (right to buy)
+D,02/20/2018 00:00:00,MARSCH DARRYL R.,4,M-Exempt,--D,1901,3802,3,0001432387,Restricted Stock Units
+D,02/20/2018 00:00:00,MARSCH DARRYL R.,4,S-Sale,--D,547,1354,2,0001432387,"Common Stock, par value $0.01 per share"
+A,02/20/2018 00:00:00,MARSCH DARRYL R.,4,M-Exempt,--D,1901,1901,1,0001432387,"Common Stock, par value $0.01 per share"
+A,02/20/2018 00:00:00,Morrison Charles R,4,A-Award,--D,11356,11356,1,0001390389,Restricted Stock Units
+A,02/20/2018 00:00:00,Skipworth Michael,4,A-Award,--D,5178,5178,2,0001644705,Restricted Stock Units
+A,02/20/2018 00:00:00,Skipworth Michael,4,A-Award,--D,2725,2725,1,0001644705,Employee Stock Option (right to buy)
+A,02/20/2018 00:00:00,Jobe Madison,4,A-Award,--D,3407,3407,4,0001456414,Restricted Stock Units
+D,02/20/2018 00:00:00,Jobe Madison,4,M-Exempt,--D,1926,3852,3,0001456414,Restricted Stock Units
+D,02/20/2018 00:00:00,Jobe Madison,4,S-Sale,--D,560,1366,2,0001456414,"Common Stock, par value $0.01 per share"
+A,02/20/2018 00:00:00,Jobe Madison,4,M-Exempt,--D,1926,1926,1,0001456414,"Common Stock, par value $0.01 per share"
+A,02/14/2018 00:00:00,MARSCH DARRYL R.,4,A-Award,--D,5618,5618,2,0001432387,Employee Stock Option (Right to Buy)
+D,02/14/2018 00:00:00,MARSCH DARRYL R.,4,D-Return,--D,5618,0,1,0001432387,Employee Stock Option (Right to Buy)
+A,02/14/2018 00:00:00,Kruguer Lawrence,4,A-Award,--D,26316,26316,2,0001644364,Employee Stock Option (Right to Buy)
+D,02/14/2018 00:00:00,Kruguer Lawrence,4,D-Return,--D,26316,0,1,0001644364,Employee Stock Option (Right to Buy)
+D,02/01/2018 00:00:00,Morrison Charles R,4,S-Sale,--D,1476,110152,2,0001390389,"Common Stock, par value $0.01 per share"
+D,01/31/2018 00:00:00,Morrison Charles R,4,M-Exempt,--D,5854,11709,3,0001390389,Restricted Stock Units
+A,01/31/2018 00:00:00,Morrison Charles R,4,M-Exempt,--D,5854,111628,1,0001390389,"Common Stock, par value $0.01 per share"
+D,12/11/2017 00:00:00,HISLOP MICHAEL J,4,S-Sale,--D,5000,20468,1,0001060710,Common Stock
+D,11/07/2017 00:00:00,Dekker Flynn,4,S-Sale,--D,16350,23562,1,0001644626,Common Stock
+A,10/31/2017 00:00:00,GOEBEL DAVID,4,A-Award,--D,1231,1231,1,0001137523,Common Stock
+D,09/14/2017 00:00:00,Kruguer Lawrence,4,M-Exempt,--D,10526,0,3,0001644364,Stock Options (Right to Buy)
+D,09/14/2017 00:00:00,Kruguer Lawrence,4,S-Sale,--D,10526,11590,2,0001644364,Common Stock
+A,09/14/2017 00:00:00,Kruguer Lawrence,4,M-Exempt,--D,10526,22116,1,0001644364,Common Stock
+D,08/24/2017 00:00:00,Peterson Stacy,4,S-Sale,--D,11557,24350,1,0001644638,Common Stock
+D,08/21/2017 00:00:00,Morrison Charles R,4,S-Sale,--D,24400,105774,2,0001390389,"Common Stock, par value $0.01 per share"
+D,08/18/2017 00:00:00,Morrison Charles R,4,S-Sale,--D,600,130174,1,0001390389,"Common Stock, par value $0.01 per share"
+A,08/01/2017 00:00:00,McLeod Scott V,4,A-Award,--D,4948,4948,1,0001712243,Restricted Stock Units
+A,08/01/2017 00:00:00,Skipworth Michael,4,A-Award,--D,4948,4948,1,0001644705,Restricted Stock Units
+D,05/24/2017 00:00:00,FELTENSTEIN SIDNEY J,4,S-Sale,--D,10599,29151,2,0001263328,Common Stock
+D,05/23/2017 00:00:00,FELTENSTEIN SIDNEY J,4,S-Sale,--D,15401,39750,1,0001263328,Common Stock
+D,05/19/2017 00:00:00,Kruguer Lawrence,4,S-Sale,--D,402,11590,1,0001644364,"Common Stock, par value $0.01 per share"
+D,05/15/2017 00:00:00,Dekker Flynn,4,M-Exempt,--D,16350,16350,3,0001644626,Stock Options (Right to Buy)
+D,05/15/2017 00:00:00,Dekker Flynn,4,S-Sale,--D,4102,39912,2,0001644626,"Common Stock, par value $0.01 per share"
+A,05/15/2017 00:00:00,Dekker Flynn,4,M-Exempt,--D,16350,44014,1,0001644626,"Common Stock, par value $0.01 per share"
+D,05/10/2017 00:00:00,Mravle Michael,4,M-Exempt,--D,65400,49050,3,0001644627,Stock Options (Right to Buy)
+D,05/10/2017 00:00:00,Mravle Michael,4,S-Sale,--D,34605,40795,2,0001644627,"Common Stock, par value $0.01 per share"
+A,05/10/2017 00:00:00,Mravle Michael,4,M-Exempt,--D,65400,75400,1,0001644627,"Common Stock, par value $0.01 per share"
+A,05/03/2017 00:00:00,HISLOP MICHAEL J,4,A-Award,--D,1714,25708,1,0001060710,Common Stock
+A,05/03/2017 00:00:00,Caine Lynn Crump,4,A-Award,--D,1714,2374,1,0001403517,Common Stock
+A,05/03/2017 00:00:00,MCDONALD WESLEY S,4,A-Award,--D,1714,3668,1,0001185587,Common Stock
+A,05/03/2017 00:00:00,Madati Kilandigalu,4,A-Award,--D,1714,1714,1,0001700938,Common Stock
+A,05/03/2017 00:00:00,FELTENSTEIN SIDNEY J,4,A-Award,--D,1714,47268,1,0001263328,Common Stock
+A,03/13/2017 00:00:00,Jobe Madison,4,A-Award,--D,5778,5778,1,0001456414,Restricted Stock Units
+A,02/28/2017 00:00:00,Mravle Michael,4,A-Award,--D,16350,32700,1,0001644627,Stock Options (Right to Buy)
+A,02/28/2017 00:00:00,Peterson Stacy,4,A-Award,--D,13989,13989,1,0001644638,Restricted Stock Units
+A,02/28/2017 00:00:00,Morrison Charles R,4,A-Award,--D,51094,120009,1,0001390389,Stock Options (Right to Buy)
+A,02/28/2017 00:00:00,Dekker Flynn,4,A-Award,--D,8175,8175,1,0001644626,Stock Options (Right to Buy)
+A,02/28/2017 00:00:00,Dekker Flynn,4,A-Award,--D,9981,9981,1,0001644626,Restricted Stock Units
+A,02/28/2017 00:00:00,Peterson Stacy,4,A-Award,--D,8175,8175,1,0001644638,Stock Options (Right to Buy)
+A,02/28/2017 00:00:00,Mravle Michael,4,A-Award,--D,7985,7985,1,0001644627,Restricted Stock Units
+A,02/28/2017 00:00:00,MARSCH DARRYL R.,4,A-Award,--D,5704,5704,1,0001432387,Restricted Stock Units
+A,02/28/2017 00:00:00,Vernon David A.,4,A-Award,--D,5450,5450,1,0001644680,Stock Options (Right to Buy)
+A,02/28/2017 00:00:00,Kruguer Lawrence,4,A-Award,--D,10526,10526,1,0001644364,Stock Options (Right to Buy)
+A,02/28/2017 00:00:00,Kruguer Lawrence,4,A-Award,--D,5704,5704,1,0001644364,Restricted Stock Units
+A,01/31/2017 00:00:00,Morrison Charles R,4,A-Award,--D,17563,17563,1,0001390389,Restricted Stock Units
+A,01/31/2017 00:00:00,Caine Lynn Crump,4,A-Award,--D,660,660,1,0001403517,Common Stock
+A,01/17/2017 00:00:00,Vernon David A.,4,A-Award,--D,40875,46325,1,0001644680,Stock Options (Right to Buy)
+D,01/03/2017 00:00:00,Morrison Charles R,4,M-Exempt,--D,49485,79816,5,0001390389,Stock Options (Right to Buy)
+D,01/03/2017 00:00:00,Morrison Charles R,4,M-Exempt,--D,49486,68915,4,0001390389,Stock Options (Right to Buy)
+D,01/03/2017 00:00:00,Morrison Charles R,4,S-Sale,--D,31000,130774,3,0001390389,"Common Stock, par value $0.01 per share"
+A,01/03/2017 00:00:00,Morrison Charles R,4,M-Exempt,--D,49485,161774,2,0001390389,"Common Stock, par value $0.01 per share"
+A,01/03/2017 00:00:00,Morrison Charles R,4,M-Exempt,--D,49486,112289,1,0001390389,"Common Stock, par value $0.01 per share"
+D,01/03/2017 00:00:00,Peterson Stacy,4,M-Exempt,--D,16350,16350,5,0001644638,Stock Options (Right to Buy)
+D,01/03/2017 00:00:00,Peterson Stacy,4,M-Exempt,--D,1907,0,4,0001644638,Stock Options (Right to Buy)
+D,01/03/2017 00:00:00,Peterson Stacy,4,S-Sale,--D,6700,35907,3,0001644638,"Common Stock, par value $0.01 per share"
+A,01/03/2017 00:00:00,Peterson Stacy,4,M-Exempt,--D,16350,42607,2,0001644638,"Common Stock, par value $0.01 per share"
+A,01/03/2017 00:00:00,Peterson Stacy,4,M-Exempt,--D,1907,26257,1,0001644638,"Common Stock, par value $0.01 per share"
+D,11/08/2016 00:00:00,RC II WS LLC,4,S-Sale,--D,6765858,0,1,0001644709,"Common Stock, par value $0.01 per share"
+D,11/08/2016 00:00:00,ARONSON NEAL K,4,S-Sale,--I,6765858,0,1,0001040618,"Common Stock, par value $0.01 per share"
+D,10/05/2016 00:00:00,Vernon David A.,4,M-Exempt,--D,3270,5450,6,0001644680,Stock Options (Right to Buy)
+D,10/05/2016 00:00:00,Vernon David A.,4,M-Exempt,--D,3270,8720,5,0001644680,Stock Options (Right to Buy)
+D,10/05/2016 00:00:00,Vernon David A.,4,M-Exempt,--D,3270,11990,4,0001644680,Stock Options (Right to Buy)
+A,10/05/2016 00:00:00,Vernon David A.,4,M-Exempt,--D,3270,87979,3,0001644680,Common Stock
+A,10/05/2016 00:00:00,Vernon David A.,4,M-Exempt,--D,3270,84709,2,0001644680,Common Stock
+A,10/05/2016 00:00:00,Vernon David A.,4,M-Exempt,--D,3270,81439,1,0001644680,Common Stock
+D,09/29/2016 00:00:00,Vernon David A.,4,M-Exempt,--D,2180,15260,7,0001644680,Stock Options (Right to Buy)
+D,09/29/2016 00:00:00,Vernon David A.,4,M-Exempt,--D,2180,17440,6,0001644680,Stock Options (Right to Buy)
+D,09/29/2016 00:00:00,Vernon David A.,4,M-Exempt,--D,2180,19620,5,0001644680,Stock Options (Right to Buy)
+D,09/29/2016 00:00:00,Vernon David A.,4,S-Sale,--D,6540,78169,4,0001644680,Common Stock
+A,09/29/2016 00:00:00,Vernon David A.,4,M-Exempt,--D,2180,84709,3,0001644680,Common Stock
+A,09/29/2016 00:00:00,Vernon David A.,4,M-Exempt,--D,2180,82529,2,0001644680,Common Stock
+A,09/29/2016 00:00:00,Vernon David A.,4,M-Exempt,--D,2180,80349,1,0001644680,Common Stock
+D,08/12/2016 00:00:00,RC II WS LLC,4,S-Sale,--D,6000000,6765858,1,0001644709,"Common Stock, par value $0.01 per share"
+D,08/12/2016 00:00:00,ARONSON NEAL K,4,S-Sale,--I,6000000,6765858,1,0001040618,"Common Stock, par value $0.01 per share"
+A,08/03/2016 00:00:00,MARSCH DARRYL R.,4,A-Award,--D,5618,5618,1,0001432387,Employee Stock Option (Right to Buy)
+A,07/15/2016 00:00:00,Skipworth Michael,4,A-Award,--D,1925,1925,4,0001644705,Employee Stock Option (Right to Buy)
+D,07/15/2016 00:00:00,Skipworth Michael,4,D-Return,--D,1925,0,3,0001644705,Employee Stock Option (Right to Buy)
+A,07/15/2016 00:00:00,Skipworth Michael,4,A-Award,--D,13625,13625,2,0001644705,Employee Stock Option (Right to Buy)
+D,07/15/2016 00:00:00,Skipworth Michael,4,D-Return,--D,13625,0,1,0001644705,Employee Stock Option (Right to Buy)
+A,07/15/2016 00:00:00,Kruguer Lawrence,4,A-Award,--D,26316,26316,2,0001644364,Employee Stock Option (Right to Buy)
+D,07/15/2016 00:00:00,Kruguer Lawrence,4,D-Return,--D,26316,0,1,0001644364,Employee Stock Option (Right to Buy)
+D,06/30/2016 00:00:00,Dekker Flynn,4,M-Exempt,--D,8175,24525,5,0001644626,Stock Options (Right to Buy)
+D,06/30/2016 00:00:00,Dekker Flynn,4,M-Exempt,--D,8175,0,4,0001644626,Stock Options (Right to Buy)
+D,06/30/2016 00:00:00,Dekker Flynn,4,S-Sale,--D,5036,27664,3,0001644626,Common Stock
+A,06/30/2016 00:00:00,Dekker Flynn,4,M-Exempt,--D,8175,32700,2,0001644626,Common Stock
+A,06/30/2016 00:00:00,Dekker Flynn,4,M-Exempt,--D,8175,24525,1,0001644626,Common Stock

@@ -1,0 +1,1201 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/01/2023 00:00:00,Locke Lori C.,4,F-InKind,--D,842,60927,1,0001646563,Series A Common Stock
+A,05/25/2023 00:00:00,Wiedenfels Gunnar,4,P-Purchase,--D,15000,738849,1,0001694392,Series A Common Stock
+D,05/16/2023 00:00:00,MALONE JOHN C,4,J-Other,1-D,3650000,0,4,0000937797,Put option (right to sell)
+D,05/16/2023 00:00:00,MALONE JOHN C,4,E-ExpireShort,1-D,3650000,0,3,0000937797,Call option (obligation to sell)
+A,05/16/2023 00:00:00,MALONE JOHN C,4,P-Purchase,1-D,3650000,3650000,2,0000937797,Put option (right to sell)
+D,05/16/2023 00:00:00,MALONE JOHN C,4,S-Sale,1-D,3650000,3650000,1,0000937797,Call option (obligation to sell)
+D,05/15/2023 00:00:00,MALONE JOHN C,4,E-ExpireShort,-ED,2000000,0,5,0000937797,Put Option (obligation to buy)
+A,05/09/2023 00:00:00,YANG GEOFFREY Y,4,A-Award,--D,16345,107868,1,0001201592,Series A Common Stock
+A,05/09/2023 00:00:00,Price Paula A,4,A-Award,--D,16345,32451,1,0001369240,Series A Common Stock
+A,05/09/2023 00:00:00,Miron Steven A,4,A-Award,--D,16345,127925,1,0001444691,Series A Common Stock
+A,05/09/2023 00:00:00,Merchant Fazal F,4,A-Award,--D,16345,70018,1,0001554904,Series A Common Stock
+A,05/09/2023 00:00:00,MALONE JOHN C,4,A-Award,--D,16345,9609470,1,0000937797,Series A Common Stock
+A,05/09/2023 00:00:00,LOWE KENNETH W,4,A-Award,--D,16345,1050341,1,0001186933,Series A Common Stock
+A,05/09/2023 00:00:00,LEE DEBRA L,4,A-Award,--D,16345,36237,1,0001119838,Series A Common Stock
+A,05/09/2023 00:00:00,GOULD PAUL A,4,A-Award,--D,16345,793657,1,0001018211,Series A Common Stock
+A,05/09/2023 00:00:00,FISHER RICHARD W,4,A-Award,--D,16345,32451,1,0001287510,Series A Common Stock
+A,05/09/2023 00:00:00,Wiedenfels Gunnar,4,G-Gift,--I,13045,13045,4,0001694392,Series A Common Stock
+D,05/09/2023 00:00:00,Wiedenfels Gunnar,4,G-Gift,--D,13045,723849,3,0001694392,Series A Common Stock
+A,05/09/2023 00:00:00,Wiedenfels Gunnar,4,G-Gift,--I,10140,14140,2,0001694392,Series A Common Stock
+D,05/09/2023 00:00:00,Wiedenfels Gunnar,4,G-Gift,--D,10140,736894,1,0001694392,Series A Common Stock
+A,05/09/2023 00:00:00,Di Piazza Samuel A Jr.,4,A-Award,--D,16345,80311,1,0001478420,Series A Common Stock
+A,05/09/2023 00:00:00,Newhouse Steven O,4,A-Award,--D,16345,35030,1,0001913168,Series A Common Stock
+A,05/09/2023 00:00:00,Chen Li Haslett,4,A-Award,--D,16345,32451,1,0001923425,Series A Common Stock
+D,04/06/2023 00:00:00,Alpert-Romm Adria,4,F-InKind,--D,6392,396748,1,0001444236,Series A Common Stock
+A,03/31/2023 00:00:00,Miron Steven A,4,A-Award,--D,2401,111580,1,0001444691,Series A Common Stock
+A,03/31/2023 00:00:00,Di Piazza Samuel A Jr.,4,A-Award,--D,4967,63966,1,0001478420,Series A Common Stock
+A,03/31/2023 00:00:00,Newhouse Steven O,4,A-Award,--D,2236,18685,1,0001913168,Series A Common Stock
+A,03/31/2023 00:00:00,YANG GEOFFREY Y,4,A-Award,--D,2401,91523,1,0001201592,Series A Common Stock
+A,03/31/2023 00:00:00,Merchant Fazal F,4,A-Award,--D,2567,53673,1,0001554904,Series A Common Stock
+A,03/17/2023 00:00:00,Campbell Bruce,4,A-Award,--I,209700,209700,4,0001421985,Series A Common Stock
+D,03/17/2023 00:00:00,Campbell Bruce,4,G-Gift,--I,209700,0,3,0001421985,Series A Common Stock
+A,03/15/2023 00:00:00,Campbell Bruce,4,A-Award,--I,209700,209700,2,0001421985,Series A Common Stock
+D,03/15/2023 00:00:00,Campbell Bruce,4,J-Other,--D,209700,431924,1,0001421985,Series A Common Stock
+D,03/01/2023 00:00:00,Locke Lori C.,4/A,F-InKind,--D,2142,32958,2,0001646563,Series A Common Stock
+A,03/01/2023 00:00:00,Zeiler Gerhard,4,A-Award,--D,201656,201656,2,0001605503,Employee Stock Option (right to acquire)
+A,03/01/2023 00:00:00,Zeiler Gerhard,4,A-Award,--D,96031,291032,1,0001605503,Series A Common Stock
+A,03/01/2023 00:00:00,Perrette Jean-Briac,4,A-Award,--D,285679,285679,2,0001600595,Employee Stock Option (right to acquire)
+A,03/01/2023 00:00:00,Perrette Jean-Briac,4,A-Award,--D,136044,852345,1,0001600595,Series A Common Stock
+A,03/01/2023 00:00:00,Leavy David,4,A-Award,--D,100828,100828,2,0001608489,Employee Stock Option (right to acquire)
+A,03/01/2023 00:00:00,Leavy David,4,A-Award,--D,48016,275604,1,0001608489,Series A Common Stock
+A,03/01/2023 00:00:00,Alpert-Romm Adria,4,A-Award,--D,320103,403140,1,0001444236,Series A Common Stock
+D,03/01/2023 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,36377,716301,2,0001600595,Series A Common Stock
+D,03/01/2023 00:00:00,Leavy David,4,F-InKind,--D,10256,227588,2,0001608489,Series A Common Stock
+A,03/01/2023 00:00:00,Locke Lori C.,4,A-Award,--D,28811,61373,3,0001646563,Series A Common Stock
+D,03/01/2023 00:00:00,Locke Lori C.,4,F-InKind,--D,2456,32562,2,0001646563,Series A Common Stock
+A,03/01/2023 00:00:00,Campbell Bruce,4,A-Award,--D,285679,285679,5,0001421985,Employee Stock Option
+A,03/01/2023 00:00:00,Campbell Bruce,4,A-Award,--D,136044,641624,3,0001421985,Series A Common Stock
+D,03/01/2023 00:00:00,Campbell Bruce,4,F-InKind,--D,26414,505580,2,0001421985,Series A Common Stock
+A,03/01/2023 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,128041,747034,3,0001694392,Series A Common Stock
+D,03/01/2023 00:00:00,Wiedenfels Gunnar,4,F-InKind,--D,36291,618993,2,0001694392,Series A Common Stock
+A,03/01/2023 00:00:00,Sims Savalle,4,A-Award,--D,201656,201656,5,0001706848,Employee Stock Option (right to acquire)
+A,03/01/2023 00:00:00,Sims Savalle,4,A-Award,--D,96031,368038,3,0001706848,Series A Common Stock
+D,03/01/2023 00:00:00,Sims Savalle,4,F-InKind,--D,12668,272007,2,0001706848,Series A Common Stock
+D,02/28/2023 00:00:00,Locke Lori C.,4/A,F-InKind,--D,854,35100,1,0001646563,Series A Common Stock
+D,02/28/2023 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,13419,752678,1,0001600595,Series A Common Stock
+D,02/28/2023 00:00:00,Leavy David,4,F-InKind,--D,4455,237844,1,0001608489,Series A Common Stock
+D,02/28/2023 00:00:00,Locke Lori C.,4,F-InKind,--D,936,35018,1,0001646563,Series A Common Stock
+D,02/28/2023 00:00:00,Campbell Bruce,4,F-InKind,--D,7716,531994,1,0001421985,Series A Common Stock
+A,02/28/2023 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,268874,268874,5,0001694392,Employee Stock Option (right to acquire)
+D,02/28/2023 00:00:00,Wiedenfels Gunnar,4,F-InKind,--D,8439,655284,1,0001694392,Series A Common Stock
+D,02/28/2023 00:00:00,Sims Savalle,4,F-InKind,--D,4520,284675,1,0001706848,Series A Common Stock
+D,02/27/2023 00:00:00,Zaslav David,4,F-InKind,--D,164598,4271574,2,0001318285,Series A Common Stock
+A,02/27/2023 00:00:00,Zaslav David,4,A-Award,--D,421070,4436172,1,0001318285,Series A Common Stock
+D,02/15/2023 00:00:00,Zeiler Gerhard,4,F-InKind,--D,35506,195001,1,0001605503,Series A Common Stock
+D,01/06/2023 00:00:00,Zaslav David,4,F-InKind,--D,78428,4015102,1,0001318285,Series A Common Stock
+D,12/28/2022 00:00:00,Campbell Bruce,4,F-InKind,--D,14072,685128,1,0001421985,Series A Common Stock
+D,12/28/2022 00:00:00,Alpert-Romm Adria,4,F-InKind,--D,3335,83037,1,0001444236,Series A Common Stock
+D,11/08/2022 00:00:00,MALONE JOHN C,4,S-Sale,--D,2000000,2000000,1,0000937797,Put Option (obligation to buy)
+A,08/29/2022 00:00:00,Leavy David,4,A-Award,--D,73368,240802,1,0001608489,Series A Common Stock
+A,08/08/2022 00:00:00,Zeiler Gerhard,4,P-Purchase,--D,20000,230507,1,0001605503,Series A Common Stock
+A,08/08/2022 00:00:00,Merchant Fazal F,4,P-Purchase,--D,35000,51106,1,0001554904,Series A Common Stock
+A,08/08/2022 00:00:00,Wiedenfels Gunnar,4,P-Purchase,--D,34340,663723,2,0001694392,Series A Common Stock
+A,08/08/2022 00:00:00,Wiedenfels Gunnar,4,P-Purchase,--D,1120,629383,1,0001694392,Series A Common Stock
+A,08/04/2022 00:00:00,Sims Savalle,4,A-Award,--D,146736,289198,1,0001706848,Series A Common Stock
+A,08/03/2022 00:00:00,Perrette Jean-Briac,4,A-Award,--D,146736,766097,1,0001600595,Series A Common Stock
+A,07/15/2022 00:00:00,Campbell Bruce,4,A-Award,--D,146736,699200,1,0001421985,Series A Common Stock
+A,07/15/2022 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,146736,628263,1,0001694392,Series A Common Stock
+D,07/01/2022 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,22526,619361,1,0001600595,Series A Common Stock
+A,06/29/2022 00:00:00,Miron Steven A,4,A-Award,--D,16106,109179,1,0001444691,Series A Common Stock
+A,06/29/2022 00:00:00,Newhouse Steven O,4,A-Award,--D,16106,16449,1,0001913168,Series A Common Stock
+A,06/29/2022 00:00:00,YANG GEOFFREY Y,4,A-Award,--D,16106,89122,1,0001201592,Series A Common Stock
+A,06/29/2022 00:00:00,Price Paula A,4,A-Award,--D,16106,16106,1,0001369240,Series A Common Stock
+A,06/29/2022 00:00:00,Chen Li Haslett,4,A-Award,--D,16106,16106,1,0001923425,Series A Common Stock
+A,06/29/2022 00:00:00,Di Piazza Samuel A Jr.,4,A-Award,--D,16106,58999,1,0001478420,Series A Common Stock
+A,06/29/2022 00:00:00,Merchant Fazal F,4,A-Award,--D,16106,16106,1,0001554904,Series A Common Stock
+A,06/29/2022 00:00:00,FISHER RICHARD W,4,A-Award,--D,16106,16106,1,0001287510,Series A Common Stock
+A,06/29/2022 00:00:00,LEE DEBRA L,4,A-Award,--D,16106,19892,1,0001119838,Series A Common Stock
+A,06/29/2022 00:00:00,BENNETT ROBERT R,4,A-Award,--D,16106,78843,1,0001119603,Series A Common Stock
+A,06/29/2022 00:00:00,MALONE JOHN C,4,A-Award,--D,16106,9593125,1,0000937797,Series A Common Stock
+A,06/29/2022 00:00:00,GOULD PAUL A,4,A-Award,--D,16106,777312,1,0001018211,Series A Common Stock
+D,06/01/2022 00:00:00,Locke Lori C.,4,F-InKind,--D,681,35954,1,0001646563,Series A Common Stock
+A,05/05/2022 00:00:00,YANG GEOFFREY Y,4,P-Purchase,--I,35653,35653,3,0001201592,Series A Common Stock
+A,05/05/2022 00:00:00,YANG GEOFFREY Y,4,P-Purchase,--I,11937,11937,2,0001201592,Series A Common Stock
+A,05/05/2022 00:00:00,YANG GEOFFREY Y,4,P-Purchase,--I,10706,10706,1,0001201592,Series A Common Stock
+A,05/04/2022 00:00:00,Wiedenfels Gunnar,4,G-Gift,-EI,4000,4000,3,0001694392,Series A Common Stock
+D,05/04/2022 00:00:00,Wiedenfels Gunnar,4,G-Gift,-ED,4000,481527,2,0001694392,Series A Common Stock
+A,05/02/2022 00:00:00,Di Piazza Samuel A Jr.,4,P-Purchase,--I,2700,2700,2,0001478420,Series A Common Stock
+A,05/02/2022 00:00:00,Di Piazza Samuel A Jr.,4,P-Purchase,--D,13500,42893,1,0001478420,Series A Common Stock
+A,05/02/2022 00:00:00,Zeiler Gerhard,4,P-Purchase,--D,25000,210507,1,0001605503,Series A Common Stock
+A,05/02/2022 00:00:00,Wiedenfels Gunnar,4,P-Purchase,--D,4000,485527,1,0001694392,Series A Common Stock
+A,05/02/2022 00:00:00,MALONE JOHN C,4,P-Purchase,--D,1200000,0,2,0000937797,Put Option (obligation to buy)
+A,04/29/2022 00:00:00,GOULD PAUL A,4,P-Purchase,--D,5000,761206,1,0001018211,Series A Common Stock
+D,04/28/2022 00:00:00,MALONE JOHN C,4,S-Sale,--D,1200000,1200000,1,0000937797,Put Option (obligation to buy)
+A,04/28/2022 00:00:00,Leavy David,4,P-Purchase,--D,6866,167176,1,0001608489,Series A Common Stock
+A,04/28/2022 00:00:00,BENNETT ROBERT R,4,P-Purchase,--D,3000,62737,3,0001119603,Series A Common Stock
+A,04/28/2022 00:00:00,BENNETT ROBERT R,4,P-Purchase,--D,25000,59737,2,0001119603,Series A Common Stock
+A,04/27/2022 00:00:00,BENNETT ROBERT R,4,P-Purchase,--D,25000,34737,1,0001119603,Series A Common Stock
+A,04/27/2022 00:00:00,Wiedenfels Gunnar,4,P-Purchase,--D,25000,481527,1,0001694392,Series A Common Stock
+A,04/27/2022 00:00:00,Zaslav David,4,P-Purchase,--D,200,4093530,2,0001318285,Series A Common Stock
+A,04/27/2022 00:00:00,Zaslav David,4,P-Purchase,--D,50000,4093330,1,0001318285,Series A Common Stock
+A,04/25/2022 00:00:00,Zeiler Gerhard,4,A-Award,--D,130097,185507,1,0001605503,Series A Common Stock
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,198132,198132,2,0001318285,Employee Stock Option (right to acquire)
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,198132,0,1,0001318285,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,1322488,1322488,34,0001318285,Employee Stock Option
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,1322488,0,33,0001318285,Employee Stock Option
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,1270188,1270188,32,0001318285,Employee Stock Option
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,1270188,0,31,0001318285,Employee Stock Option
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,1401917,1401917,30,0001318285,Employee Stock Option
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,1401917,0,29,0001318285,Employee Stock Option
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,1421234,1421234,28,0001318285,Employee Stock Option
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,1421234,0,27,0001318285,Employee Stock Option
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,1360127,1360127,26,0001318285,Employee Stock Option
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,1360127,0,25,0001318285,Employee Stock Option
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,1682083,1682083,24,0001318285,Employee Stock Option
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,1682083,0,23,0001318285,Employee Stock Option
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,1603292,1603292,22,0001318285,Employee Stock Option
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,1603292,0,21,0001318285,Employee Stock Option
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,1557685,1557685,20,0001318285,Employee Stock Option
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,1557685,0,19,0001318285,Employee Stock Option
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,1519414,1519414,18,0001318285,Employee Stock Option
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,1519414,0,17,0001318285,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,1635284,1635284,16,0001318285,Employee Stock Option
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,1635284,0,15,0001318285,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,2560788,2560788,14,0001318285,Employee Stock Option
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,2560788,0,13,0001318285,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,2393454,2393454,12,0001318285,Employee Stock Option
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,2393454,0,11,0001318285,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,2155404,2155404,10,0001318285,Employee Stock Option
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,2155404,0,9,0001318285,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,2211344,2211344,8,0001318285,Employee Stock Option
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,2211344,0,7,0001318285,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,2435655,2435655,6,0001318285,Employee Stock Option
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,2435655,0,5,0001318285,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--I,153,153,4,0001318285,Series A Common Stock
+A,04/08/2022 00:00:00,Zaslav David,4,A-Award,--D,4043330,4043330,3,0001318285,Series A Common Stock
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,1265843,0,2,0001318285,Series C Common Stock
+D,04/08/2022 00:00:00,Zaslav David,4,D-Return,--D,2777487,0,1,0001318285,Series A Common Stock
+A,04/08/2022 00:00:00,Campbell Bruce,4,A-Award,--D,130546,130546,12,0001421985,Employee Stock Option
+D,04/08/2022 00:00:00,Campbell Bruce,4,D-Return,--D,130546,0,11,0001421985,Employee Stock Option
+A,04/08/2022 00:00:00,Campbell Bruce,4,A-Award,--D,183346,183346,10,0001421985,Employee Stock Option
+D,04/08/2022 00:00:00,Campbell Bruce,4,D-Return,--D,183346,0,9,0001421985,Employee Stock Option
+A,04/08/2022 00:00:00,Campbell Bruce,4,A-Award,--D,126984,126984,8,0001421985,Employee Stock Option
+D,04/08/2022 00:00:00,Campbell Bruce,4,D-Return,--D,126984,0,7,0001421985,Employee Stock Option
+A,04/08/2022 00:00:00,Campbell Bruce,4,A-Award,--D,202962,202962,6,0001421985,Employee Stock Option
+D,04/08/2022 00:00:00,Campbell Bruce,4,D-Return,--D,202962,0,5,0001421985,Employee Stock Option
+A,04/08/2022 00:00:00,Campbell Bruce,4,A-Award,--D,147,552464,4,0001421985,Series A Common Stock
+A,04/08/2022 00:00:00,Campbell Bruce,4,A-Award,--D,552317,552317,3,0001421985,Series A Common Stock
+D,04/08/2022 00:00:00,Campbell Bruce,4,D-Return,--D,40794,0,2,0001421985,Series C Common Stock
+D,04/08/2022 00:00:00,Campbell Bruce,4,D-Return,--D,511523,0,1,0001421985,Series A Common Stock
+A,04/08/2022 00:00:00,YANG GEOFFREY Y,4,A-Award,--D,73016,73016,1,0001201592,Series A Common Stock
+A,04/08/2022 00:00:00,Di Piazza Samuel A Jr.,4,A-Award,--D,29393,29393,1,0001478420,Series A Common Stock
+A,04/08/2022 00:00:00,LEE DEBRA L,4,A-Award,--D,3786,3786,1,0001119838,Series A Common Stock
+A,04/08/2022 00:00:00,Leavy David,4,A-Award,--D,65273,65273,11,0001608489,Employee Stock Option
+D,04/08/2022 00:00:00,Leavy David,4,D-Return,--D,65273,0,10,0001608489,Employee Stock Option
+A,04/08/2022 00:00:00,Leavy David,4,A-Award,--D,85944,85944,9,0001608489,Employee Stock Option
+D,04/08/2022 00:00:00,Leavy David,4,D-Return,--D,85944,0,8,0001608489,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Leavy David,4,A-Award,--D,29101,29101,7,0001608489,Employee Stock Option
+D,04/08/2022 00:00:00,Leavy David,4,D-Return,--D,29101,0,6,0001608489,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Leavy David,4,A-Award,--D,16914,16914,5,0001608489,Employee Stock Option
+D,04/08/2022 00:00:00,Leavy David,4,D-Return,--D,16914,0,4,0001608489,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Leavy David,4,A-Award,--D,160310,160310,3,0001608489,Series A Common Stock
+D,04/08/2022 00:00:00,Leavy David,4,D-Return,--D,5521,0,2,0001608489,Series C Common Stock
+D,04/08/2022 00:00:00,Leavy David,4,D-Return,--D,154789,0,1,0001608489,Series A Common Stock
+A,04/08/2022 00:00:00,Miron Steven A,4,A-Award,--D,93073,93073,3,0001444691,Series A Common Stock
+D,04/08/2022 00:00:00,Miron Steven A,4,D-Return,--D,26361,0,2,0001444691,Series C Common Stock
+D,04/08/2022 00:00:00,Miron Steven A,4,D-Return,--D,66712,0,1,0001444691,Series A Common Stock
+A,04/08/2022 00:00:00,MALONE JOHN C,4,A-Award,--I,170471,170471,9,0000937797,Series A Common Stock
+A,04/08/2022 00:00:00,MALONE JOHN C,4,A-Award,--I,8773685,8773685,8,0000937797,Series A Common Stock
+A,04/08/2022 00:00:00,MALONE JOHN C,4,A-Award,--D,9577019,9577019,7,0000937797,Series A Common Stock
+D,04/08/2022 00:00:00,MALONE JOHN C,4,D-Return,--I,7669362,0,6,0000937797,Series C Common Stock
+D,04/08/2022 00:00:00,MALONE JOHN C,4,D-Return,--D,3652000,0,5,0000937797,Series C Common Stock
+D,04/08/2022 00:00:00,MALONE JOHN C,4,D-Return,--I,170471,0,4,0000937797,Series B Common Stock
+D,04/08/2022 00:00:00,MALONE JOHN C,4,D-Return,--D,5923019,0,3,0000937797,Series B Common Stock
+D,04/08/2022 00:00:00,MALONE JOHN C,4,D-Return,--I,1104323,0,2,0000937797,Series A Common Stock
+D,04/08/2022 00:00:00,MALONE JOHN C,4,D-Return,--D,2000,0,1,0000937797,Series A Common Stock
+A,04/08/2022 00:00:00,GOULD PAUL A,4,A-Award,--D,756206,756206,4,0001018211,Series A Common Stock
+D,04/08/2022 00:00:00,GOULD PAUL A,4,D-Return,--D,451232,0,3,0001018211,Series C Common Stock
+D,04/08/2022 00:00:00,GOULD PAUL A,4,D-Return,--D,87317,0,2,0001018211,Series B Common Stock
+D,04/08/2022 00:00:00,GOULD PAUL A,4,D-Return,--D,217657,0,1,0001018211,Series A Common Stock
+A,04/08/2022 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,130546,130546,14,0001694392,Employee Stock Option
+D,04/08/2022 00:00:00,Wiedenfels Gunnar,4,D-Return,--D,130546,0,13,0001694392,Employee Stock Option
+A,04/08/2022 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,150402,150402,12,0001694392,Employee Stock Option
+D,04/08/2022 00:00:00,Wiedenfels Gunnar,4,D-Return,--D,150402,0,11,0001694392,Employee Stock Option
+A,04/08/2022 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,92592,92592,10,0001694392,Employee Stock Option
+D,04/08/2022 00:00:00,Wiedenfels Gunnar,4,D-Return,--D,92592,0,9,0001694392,Employee Stock Option
+A,04/08/2022 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,50741,50741,8,0001694392,Employee Stock Option
+D,04/08/2022 00:00:00,Wiedenfels Gunnar,4,D-Return,--D,50741,0,7,0001694392,Employee Stock Option
+A,04/08/2022 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,40001,40001,6,0001694392,Employee Stock Option
+D,04/08/2022 00:00:00,Wiedenfels Gunnar,4,D-Return,--D,40001,0,5,0001694392,Employee Stock Option
+A,04/08/2022 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,39,456527,4,0001694392,Series A Common Stock
+A,04/08/2022 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,456488,456488,3,0001694392,Series A Common Stock
+D,04/08/2022 00:00:00,Wiedenfels Gunnar,4,D-Return,--D,75000,0,2,0001694392,Series C Common Stock
+D,04/08/2022 00:00:00,Wiedenfels Gunnar,4,D-Return,--D,381488,0,1,0001694392,Series A Common Stock
+A,04/08/2022 00:00:00,Perrette Jean-Briac,4,A-Award,--D,130546,130546,11,0001600595,Employee Stock Option
+D,04/08/2022 00:00:00,Perrette Jean-Briac,4,D-Return,--D,130546,0,10,0001600595,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Perrette Jean-Briac,4,A-Award,--D,150402,150402,9,0001600595,Employee Stock Option
+D,04/08/2022 00:00:00,Perrette Jean-Briac,4,D-Return,--D,150402,0,8,0001600595,Employee Stock Option
+A,04/08/2022 00:00:00,Perrette Jean-Briac,4,A-Award,--D,92592,92592,7,0001600595,Employee Stock Option
+D,04/08/2022 00:00:00,Perrette Jean-Briac,4,D-Return,--D,92592,0,6,0001600595,Employee Stock Option
+A,04/08/2022 00:00:00,Perrette Jean-Briac,4,A-Award,--D,54969,54969,5,0001600595,Employee Stock Option
+D,04/08/2022 00:00:00,Perrette Jean-Briac,4,D-Return,--D,54969,0,4,0001600595,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Perrette Jean-Briac,4,A-Award,--D,641887,641887,3,0001600595,Series A Common Stock
+D,04/08/2022 00:00:00,Perrette Jean-Briac,4,D-Return,--D,538,0,2,0001600595,Series C Common Stock
+D,04/08/2022 00:00:00,Perrette Jean-Briac,4,D-Return,--D,641349,0,1,0001600595,Series A Common Stock
+A,04/08/2022 00:00:00,BENNETT ROBERT R,4,A-Award,--I,678,1983,13,0001119603,Series A Common Stock
+A,04/08/2022 00:00:00,BENNETT ROBERT R,4,A-Award,--I,1305,1305,12,0001119603,Series A Common Stock
+A,04/08/2022 00:00:00,BENNETT ROBERT R,4,A-Award,--I,34690,34690,11,0001119603,Series A Common Stock
+A,04/08/2022 00:00:00,BENNETT ROBERT R,4,A-Award,--I,173163,173163,10,0001119603,Series A Common Stock
+A,04/08/2022 00:00:00,BENNETT ROBERT R,4,A-Award,--D,9737,9737,9,0001119603,Series A Common Stock
+D,04/08/2022 00:00:00,BENNETT ROBERT R,4,D-Return,--I,979,0,8,0001119603,Series C Common Stock
+D,04/08/2022 00:00:00,BENNETT ROBERT R,4,D-Return,--I,27922,0,7,0001119603,Series C Common Stock
+D,04/08/2022 00:00:00,BENNETT ROBERT R,4,D-Return,--I,164799,0,6,0001119603,Series C Common Stock
+D,04/08/2022 00:00:00,BENNETT ROBERT R,4,D-Return,--D,3519,0,5,0001119603,Series C Common Stock
+D,04/08/2022 00:00:00,BENNETT ROBERT R,4,D-Return,--I,326,0,4,0001119603,Series A Common Stock
+D,04/08/2022 00:00:00,BENNETT ROBERT R,4,D-Return,--I,6768,0,3,0001119603,Series A Common Stock
+D,04/08/2022 00:00:00,BENNETT ROBERT R,4,D-Return,--I,8364,0,2,0001119603,Series A Common Stock
+D,04/08/2022 00:00:00,BENNETT ROBERT R,4,D-Return,--D,6218,0,1,0001119603,Series A Common Stock
+A,04/08/2022 00:00:00,Locke Lori C.,4,A-Award,--D,36635,36635,2,0001646563,Series A Common Stock
+D,04/08/2022 00:00:00,Locke Lori C.,4,D-Return,--D,36635,0,1,0001646563,Series A Common Stock
+A,04/08/2022 00:00:00,Sims Savalle,4,A-Award,--D,6766,6766,7,0001706848,Employee Stock Option
+D,04/08/2022 00:00:00,Sims Savalle,4,D-Return,--D,6766,0,6,0001706848,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Sims Savalle,4,A-Award,--D,2401,2401,5,0001706848,Employee Stock Option
+D,04/08/2022 00:00:00,Sims Savalle,4,D-Return,--D,2401,0,4,0001706848,Employee Stock Option
+A,04/08/2022 00:00:00,Sims Savalle,4,A-Award,--D,142462,142462,3,0001706848,Series A Common Stock
+D,04/08/2022 00:00:00,Sims Savalle,4,D-Return,--D,100,0,2,0001706848,Series C Common Stock
+D,04/08/2022 00:00:00,Sims Savalle,4,D-Return,--D,142362,0,1,0001706848,Series A Common Stock
+A,04/08/2022 00:00:00,Alpert-Romm Adria,4,A-Award,--D,187143,187143,14,0001444236,Employee Stock Option
+D,04/08/2022 00:00:00,Alpert-Romm Adria,4,D-Return,--D,187143,0,13,0001444236,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Alpert-Romm Adria,4,A-Award,--D,71801,71801,12,0001444236,Employee Stock Option
+D,04/08/2022 00:00:00,Alpert-Romm Adria,4,D-Return,--D,71801,0,11,0001444236,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Alpert-Romm Adria,4,A-Award,--D,126051,126051,10,0001444236,Employee Stock Option
+D,04/08/2022 00:00:00,Alpert-Romm Adria,4,D-Return,--D,126051,0,9,0001444236,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Alpert-Romm Adria,4,A-Award,--D,87302,87302,8,0001444236,Employee Stock Option
+D,04/08/2022 00:00:00,Alpert-Romm Adria,4,D-Return,--D,87302,0,7,0001444236,Employee Stock Option
+A,04/08/2022 00:00:00,Alpert-Romm Adria,4,A-Award,--D,67654,67654,6,0001444236,Employee Stock Option (right to acquire)
+D,04/08/2022 00:00:00,Alpert-Romm Adria,4,D-Return,--D,67654,0,5,0001444236,Employee Stock Option (right to acquire)
+A,04/08/2022 00:00:00,Alpert-Romm Adria,4,A-Award,--D,86372,86372,4,0001444236,Series A Common Stock
+D,04/08/2022 00:00:00,Alpert-Romm Adria,4,D-Return,--D,10989,0,3,0001444236,Series C Common Stock
+D,04/08/2022 00:00:00,Alpert-Romm Adria,4,D-Return,--D,75383,0,2,0001444236,Series A Common Stock
+A,04/08/2022 00:00:00,ADVANCE/NEWHOUSE PARTNERSHIP,4/A,J-Other,--D,4158459,4158459,2,0001106770,"Series A common stock, par value $0.01 per share"
+D,04/08/2022 00:00:00,ADVANCE/NEWHOUSE PARTNERSHIP,4/A,J-Other,--D,4152302.53,0,1,0001106770,"Series C common stock, par value $0.01 per share"
+A,04/08/2022 00:00:00,ADVANCE/NEWHOUSE PROGRAMMING PARTNERSHIP,4,J-Other,--D,194023290,194023290,3,0001455382,"Series A common stock, par value $0.01 per share"
+D,04/08/2022 00:00:00,ADVANCE/NEWHOUSE PROGRAMMING PARTNERSHIP,4,J-Other,--D,70673242,0,2,0001455382,"Series A common stock, par value $0.01 per share"
+D,04/08/2022 00:00:00,ADVANCE/NEWHOUSE PROGRAMMING PARTNERSHIP,4,J-Other,--D,91048739.86,0,1,0001455382,"Series C common stock, par value $0.01 per share"
+A,04/08/2022 00:00:00,ADVANCE/NEWHOUSE PARTNERSHIP,4,J-Other,--D,4152302,4152302,2,0001106770,"Series A common stock, par value $0.01 per share"
+D,04/08/2022 00:00:00,ADVANCE/NEWHOUSE PARTNERSHIP,4,J-Other,--D,4152302.53,0,1,0001106770,"Series C common stock, par value $0.01 per share"
+A,04/07/2022 00:00:00,Alpert-Romm Adria,4,A-Award,--D,70709,75383,1,0001444236,Series A Common Stock
+A,03/01/2022 00:00:00,Perrette Jean-Briac,4,A-Award,--D,156863,641349,1,0001600595,Series A Common Stock
+A,03/01/2022 00:00:00,Leavy David,4,A-Award,--D,78432,154789,1,0001608489,Series A Common Stock
+A,03/01/2022 00:00:00,Campbell Bruce,4,A-Award,--D,160428,511523,3,0001421985,Series A Common Stock
+D,03/01/2022 00:00:00,Campbell Bruce,4,F-InKind,--D,49482,351095,2,0001421985,Series A Common Stock
+D,03/01/2022 00:00:00,Leavy David,4,F-InKind,--D,5991,76357,2,0001608489,Series A Common Stock
+A,03/01/2022 00:00:00,Alpert-Romm Adria,4,A-Award,--D,187143,187143,1,0001444236,Employee Stock Option (right to acquire)
+D,03/01/2022 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,25154,484486,2,0001600595,Series A Common Stock
+A,03/01/2022 00:00:00,Locke Lori C.,4,A-Award,--D,17114,36635,3,0001646563,Series A Common Stock
+D,03/01/2022 00:00:00,Locke Lori C.,4,F-InKind,--D,494,19521,2,0001646563,Series A Common Stock
+A,03/01/2022 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,213904,381488,3,0001694392,Series A Common Stock
+D,03/01/2022 00:00:00,Wiedenfels Gunnar,4,F-InKind,--D,23890,167584,2,0001694392,Series A Common Stock
+A,03/01/2022 00:00:00,Sims Savalle,4,A-Award,--D,78432,142362,3,0001706848,Series A Common Stock
+D,03/01/2022 00:00:00,Sims Savalle,4,F-InKind,--D,5256,63930,2,0001706848,Series A Common Stock
+D,02/28/2022 00:00:00,Zaslav David,4,F-InKind,--D,65228,2777487,2,0001318285,Series A Common Stock
+A,02/28/2022 00:00:00,Zaslav David,4,A-Award,--D,226288,2842715,1,0001318285,Series A Common Stock
+D,02/28/2022 00:00:00,Campbell Bruce,4,F-InKind,--D,7716,400577,1,0001421985,Series A Common Stock
+D,02/28/2022 00:00:00,Leavy David,4,F-InKind,--D,4455,82348,1,0001608489,Series A Common Stock
+D,02/28/2022 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,11295,509640,1,0001600595,Series A Common Stock
+D,02/28/2022 00:00:00,Locke Lori C.,4,F-InKind,--D,657,20015,1,0001646563,Series A Common Stock
+D,02/28/2022 00:00:00,Wiedenfels Gunnar,4,F-InKind,--D,8439,191474,1,0001694392,Series A Common Stock
+D,02/28/2022 00:00:00,Sims Savalle,4,F-InKind,--D,4464,69186,1,0001706848,Series A Common Stock
+D,02/23/2022 00:00:00,Sims Savalle,4,F-InKind,--D,817,73650,1,0001706848,Series A Common Stock
+A,01/24/2022 00:00:00,BENNETT ROBERT R,4,W-Will,-EI,979,979,2,0001119603,Series C Common Stock
+A,01/24/2022 00:00:00,BENNETT ROBERT R,4,W-Will,-EI,326,326,1,0001119603,Series A Common Stock
+D,01/18/2022 00:00:00,Zaslav David,4,M-Exempt,--D,451985,0,10,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/18/2022 00:00:00,Zaslav David,4,M-Exempt,--D,451985,0,9,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/18/2022 00:00:00,Zaslav David,4,F-InKind,--D,9267,1265843,8,0001318285,Series C Common Stock
+D,01/18/2022 00:00:00,Zaslav David,4,D-Return,--D,96242,1275110,7,0001318285,Series C Common Stock
+D,01/18/2022 00:00:00,Zaslav David,4,D-Return,--D,338986,1371352,6,0001318285,Series C Common Stock
+A,01/18/2022 00:00:00,Zaslav David,4,M-Exempt,--D,451985,1710338,5,0001318285,Series C Common Stock
+D,01/18/2022 00:00:00,Zaslav David,4,F-InKind,--D,7918,2616427,4,0001318285,Series A Common Stock
+D,01/18/2022 00:00:00,Zaslav David,4,D-Return,--D,98678,2624345,3,0001318285,Series A Common Stock
+D,01/18/2022 00:00:00,Zaslav David,4,D-Return,--D,338989,2723023,2,0001318285,Series A Common Stock
+A,01/18/2022 00:00:00,Zaslav David,4,M-Exempt,--D,451985,3062012,1,0001318285,Series A Common Stock
+D,01/06/2022 00:00:00,Zaslav David,4,F-InKind,--D,268444,2610027,1,0001318285,Series A Common Stock
+A,01/03/2022 00:00:00,Zaslav David,4,A-Award,--D,198132,198132,1,0001318285,Employee Stock Option (right to acquire)
+D,12/01/2021 00:00:00,MALONE JOHN C,4,S-Sale,--I,25000,7669362,4,0000937797,Series C Common Stock
+D,12/01/2021 00:00:00,MALONE JOHN C,4,S-Sale,--I,120000,7694362,3,0000937797,Series C Common Stock
+D,11/30/2021 00:00:00,MALONE JOHN C,4,S-Sale,--I,119957,7814362,2,0000937797,Series C Common Stock
+D,11/30/2021 00:00:00,MALONE JOHN C,4,S-Sale,--I,200043,7934319,1,0000937797,Series C Common Stock
+D,07/01/2021 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,21942,520935,1,0001600595,Series A Common Stock
+D,06/28/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416657,0,6,0001455381,Put option (right to sell)
+D,06/28/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416657,0,5,0001455381,Call option (obligation to sell)
+D,06/25/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,416657,4,0001455381,Put option (right to sell)
+D,06/25/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,416657,3,0001455381,Call option (obligation to sell)
+D,06/24/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,833324,2,0001455381,Put option (right to sell)
+D,06/24/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,833324,1,0001455381,Call option (obligation to sell)
+D,06/23/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,1249991,6,0001455381,Put option (right to sell)
+D,06/23/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,1249991,5,0001455381,Call option (obligation to sell)
+D,06/22/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,1666658,4,0001455381,Put option (right to sell)
+D,06/22/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,1666658,3,0001455381,Call option (obligation to sell)
+D,06/21/2021 00:00:00,MALONE JOHN C,4,S-Sale,--D,6768,244605,1,0000937797,Series A Common Stock
+D,06/21/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,2083325,2,0001455381,Put option (right to sell)
+D,06/21/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,2083325,1,0001455381,Call option (obligation to sell)
+D,06/18/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,2499992,6,0001455381,Put option (right to sell)
+D,06/18/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,2499992,5,0001455381,Call option (obligation to sell)
+D,06/17/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,2916659,4,0001455381,Put option (right to sell)
+D,06/17/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,2916659,3,0001455381,Call option (obligation to sell)
+D,06/16/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,3333326,2,0001455381,Put option (right to sell)
+D,06/16/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,3333326,1,0001455381,Call option (obligation to sell)
+D,06/15/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,3749993,6,0001455381,Put option (right to sell)
+D,06/15/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,3749993,5,0001455381,Call option (obligation to sell)
+D,06/14/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,4166660,4,0001455381,Put option (right to sell)
+D,06/14/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,4166660,3,0001455381,Call option (obligation to sell)
+D,06/11/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,4583327,2,0001455381,Put option (right to sell)
+D,06/11/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,4583327,1,0001455381,Call option (obligation to sell)
+A,06/10/2021 00:00:00,SWAIN SUSAN M,4,A-Award,--D,6218,33331,1,0001193327,Series A Common Stock
+A,06/10/2021 00:00:00,WARGO J DAVID,4,A-Award,--D,6218,45213,1,0001082013,Series A Common Stock
+A,06/10/2021 00:00:00,LOWE KENNETH W,4,A-Award,--D,6218,26093,1,0001186933,Series A Common Stock
+A,06/10/2021 00:00:00,Beck Robert R,4,A-Award,--D,6218,74797,1,0001444694,Series A Common Stock
+A,06/10/2021 00:00:00,MIRON ROBERT,4,A-Award,--D,6218,70190,1,0001192676,Series A Common Stock
+A,06/10/2021 00:00:00,Sanchez Daniel E.,4,A-Award,--D,6218,18237,1,0001567395,Series A Common Stock
+A,06/10/2021 00:00:00,Miron Steven A,4,A-Award,--D,6218,66712,1,0001444691,Series A Common Stock
+A,06/10/2021 00:00:00,BENNETT ROBERT R,4,A-Award,--D,6218,12986,1,0001119603,Series A Common Stock
+A,06/10/2021 00:00:00,JOHNSON ROBERT  L,4,A-Award,--D,6218,8711,1,0001188283,Series A Common Stock
+A,06/10/2021 00:00:00,GOULD PAUL A,4,A-Award,--D,6218,217657,1,0001018211,Series A Common Stock
+D,06/10/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,4999994,6,0001455381,Put option (right to sell)
+D,06/10/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,4999994,5,0001455381,Call option (obligation to sell)
+D,06/09/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,5416661,4,0001455381,Put option (right to sell)
+D,06/09/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,5416661,3,0001455381,Call option (obligation to sell)
+D,06/08/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,5833328,2,0001455381,Put option (right to sell)
+D,06/08/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,5833328,1,0001455381,Call option (obligation to sell)
+D,06/07/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,6249995,6,0001455381,Put option (right to sell)
+D,06/07/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,6249995,5,0001455381,Call option (obligation to sell)
+D,06/04/2021 00:00:00,MALONE JOHN C,4,S-Sale,--I,280161,6817938,2,0000937797,Series C Common Stock
+D,06/04/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,6666662,4,0001455381,Put option (right to sell)
+D,06/04/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,6666662,3,0001455381,Call option (obligation to sell)
+D,06/03/2021 00:00:00,MALONE JOHN C,4,S-Sale,--I,124839,7098099,1,0000937797,Series C Common Stock
+D,06/03/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,7083329,2,0001455381,Put option (right to sell)
+D,06/03/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,7083329,1,0001455381,Call option (obligation to sell)
+D,06/02/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,7499996,6,0001455381,Put option (right to sell)
+D,06/02/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,7499996,5,0001455381,Call option (obligation to sell)
+D,06/01/2021 00:00:00,Locke Lori C.,4,F-InKind,--D,842,20672,1,0001646563,Series A Common Stock
+D,06/01/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,7916663,4,0001455381,Put option (right to sell)
+D,06/01/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,7916663,3,0001455381,Call option (obligation to sell)
+D,05/28/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,50133,150402,6,0001600595,Employee Stock Option
+D,05/28/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,92592,92592,5,0001600595,Employee Stock Option
+D,05/28/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,72327,0,4,0001600595,Employee Stock Option (right to acquire)
+A,05/28/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,50133,542877,3,0001600595,Series A Common Stock
+A,05/28/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,92592,492744,2,0001600595,Series A Common Stock
+A,05/28/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,72327,400152,1,0001600595,Series A Common Stock
+D,05/28/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,8333330,2,0001455381,Put option (right to sell)
+D,05/28/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,8333330,1,0001455381,Call option (obligation to sell)
+D,05/27/2021 00:00:00,BENNETT ROBERT R,4,S-Sale,--I,20,0,1,0001119603,Series B Common Stock
+D,05/27/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,8749997,6,0001455381,Put option (right to sell)
+D,05/27/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,8749997,5,0001455381,Call option (obligation to sell)
+D,05/26/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,9166664,4,0001455381,Put option (right to sell)
+D,05/26/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,9166664,3,0001455381,Call option (obligation to sell)
+D,05/25/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,9583331,2,0001455381,Put option (right to sell)
+D,05/25/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,9583331,1,0001455381,Call option (obligation to sell)
+A,05/24/2021 00:00:00,Wiedenfels Gunnar,4,P-Purchase,--D,25000,75000,1,0001694392,Series C Common Stock
+D,05/24/2021 00:00:00,Wiedenfels Gunnar,4,S-Sale,--D,8383,199913,2,0001694392,Series A Common Stock
+D,05/24/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,9999998,6,0001455381,Put option (right to sell)
+D,05/24/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,9999998,5,0001455381,Call option (obligation to sell)
+D,05/21/2021 00:00:00,Wiedenfels Gunnar,4,F-InKind,--D,8046,208296,1,0001694392,Series A Common Stock
+D,05/21/2021 00:00:00,Sims Savalle,4,F-InKind,--D,483,74464,1,0001706848,Series A Common Stock
+D,05/21/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,10416665,4,0001455381,Put option (right to sell)
+D,05/21/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,10416665,3,0001455381,Call option (obligation to sell)
+D,05/20/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,10833332,2,0001455381,Put option (right to sell)
+D,05/20/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,10833332,1,0001455381,Call option (obligation to sell)
+D,05/19/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,11249999,8,0001455381,Put option (right to sell)
+D,05/19/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,E-ExpireShort,1-I,416667,11249999,7,0001455381,Call option (obligation to sell)
+D,05/18/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,11666666,6,0001455381,Put option (right to sell)
+D,05/18/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,X-InTheMoney,1-I,416667,11666666,5,0001455381,Call option (obligation to sell)
+D,05/18/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,X-InTheMoney,1-I,416667,11673890,2,0001455381,Series C Common Stock
+D,05/17/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,J-Other,1-I,416667,12083333,4,0001455381,Put option (right to sell)
+D,05/17/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,X-InTheMoney,1-I,416667,12083333,3,0001455381,Call option (obligation to sell)
+D,05/17/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,X-InTheMoney,1-I,416667,12090557,1,0001455381,Series C Common Stock
+A,05/16/2021 00:00:00,Zaslav David,4/A,A-Award,--D,1421234,1421234,1,0001318285,Employee Stock Option (right to acquire)
+A,05/16/2021 00:00:00,Zaslav David,4,A-Award,--D,1322488,1322488,10,0001318285,Employee Stock Option (right to acquire)
+A,05/16/2021 00:00:00,Zaslav David,4,A-Award,--D,1270188,1270188,9,0001318285,Employee Stock Option (right to acquire)
+A,05/16/2021 00:00:00,Zaslav David,4,A-Award,--D,1401917,1401917,8,0001318285,Employee Stock Option (right to acquire)
+A,05/16/2021 00:00:00,Zaslav David,4,A-Award,--D,1421234,1421234,7,0001318285,Employee Stock Option (right to acquire)
+A,05/16/2021 00:00:00,Zaslav David,4,A-Award,--D,1360127,1360127,6,0001318285,Employee Stock Option (right to acquire)
+A,05/16/2021 00:00:00,Zaslav David,4,A-Award,--D,1682083,1682083,5,0001318285,Employee Stock Option (right to acquire)
+A,05/16/2021 00:00:00,Zaslav David,4,A-Award,--D,1603292,1603292,4,0001318285,Employee Stock Option (right to acquire)
+A,05/16/2021 00:00:00,Zaslav David,4,A-Award,--D,1557685,1557685,3,0001318285,Employee Stock Option (right to acquire)
+A,05/16/2021 00:00:00,Zaslav David,4,A-Award,--D,1519414,1519414,2,0001318285,Employee Stock Option (right to acquire)
+A,05/16/2021 00:00:00,Zaslav David,4,A-Award,--D,1635284,1635284,1,0001318285,Employee Stock Option (right to acquire)
+D,03/16/2021 00:00:00,Sanchez Daniel E.,4,S-Sale,--D,9538,12019,1,0001567395,Series A Common Stock
+D,03/16/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,164907,54969,6,0001600595,Employee Stock Option (right to acquire)
+D,03/16/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,34110,72327,5,0001600595,Employee Stock Option (right to acquire)
+D,03/16/2021 00:00:00,Perrette Jean-Briac,4,S-Sale,--D,164907,327825,4,0001600595,Series A Common Stock
+A,03/16/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,164907,492732,3,0001600595,Series A Common Stock
+D,03/16/2021 00:00:00,Perrette Jean-Briac,4,S-Sale,--D,34110,327825,2,0001600595,Series A Common Stock
+A,03/16/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,34110,361935,1,0001600595,Series A Common Stock
+D,03/15/2021 00:00:00,Locke Lori C.,4,S-Sale,--D,1301,21514,1,0001646563,Series A Common Stock
+D,03/15/2021 00:00:00,Beck Robert R,4,S-Sale,--D,15999,68579,1,0001444694,Series A Common Stock
+D,03/15/2021 00:00:00,LOWE KENNETH W,4,S-Sale,--D,83500,1007903,1,0001186933,Series C Common Stock
+D,03/04/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,100000,106437,9,0001600595,Employee Stock Option (right to acquire)
+D,03/04/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,200533,0,8,0001600595,Employee Stock Option (right to acquire)
+D,03/04/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,174068,0,7,0001600595,Employee Stock Option (right to acquire)
+D,03/04/2021 00:00:00,Perrette Jean-Briac,4,S-Sale,--D,100000,327825,6,0001600595,Series A Common Stock
+A,03/04/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,100000,427825,5,0001600595,Series A Common Stock
+D,03/04/2021 00:00:00,Perrette Jean-Briac,4,S-Sale,--D,200533,327825,4,0001600595,Series A Common Stock
+A,03/04/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,200533,528358,3,0001600595,Series A Common Stock
+D,03/04/2021 00:00:00,Perrette Jean-Briac,4,S-Sale,--D,174068,327825,2,0001600595,Series A Common Stock
+A,03/04/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,174068,501893,1,0001600595,Series A Common Stock
+D,03/03/2021 00:00:00,Sanchez Daniel E.,4,S-Sale,--D,2000,21557,1,0001567395,Series A Common Stock
+D,03/02/2021 00:00:00,Perrette Jean-Briac,4,S-Sale,--D,93342,327825,2,0001600595,Series A Common Stock
+D,03/02/2021 00:00:00,Leavy David,4,S-Sale,--D,300,93395,11,0001608489,Series A Common Stock
+D,03/02/2021 00:00:00,Leavy David,4,S-Sale,--D,3554,93695,10,0001608489,Series A Common Stock
+D,03/02/2021 00:00:00,Leavy David,4,S-Sale,--D,2899,97249,9,0001608489,Series A Common Stock
+D,03/02/2021 00:00:00,Sims Savalle,4,S-Sale,--D,3668,74947,2,0001706848,Series A Common Stock
+A,03/02/2021 00:00:00,Wiedenfels Gunnar,4,P-Purchase,--D,40000,50000,12,0001694392,Series C Common Stock
+D,03/02/2021 00:00:00,Wiedenfels Gunnar,4,S-Sale,--D,1457,216342,11,0001694392,Series A Common Stock
+D,03/02/2021 00:00:00,Wiedenfels Gunnar,4,S-Sale,--D,10861,217799,10,0001694392,Series A Common Stock
+D,03/02/2021 00:00:00,Wiedenfels Gunnar,4,S-Sale,--D,8264,228660,9,0001694392,Series A Common Stock
+D,03/02/2021 00:00:00,LOWE KENNETH W,4,S-Sale,--D,111000,1091403,1,0001186933,Series C Common Stock
+A,03/01/2021 00:00:00,Perrette Jean-Briac,4,A-Award,--D,130546,130546,3,0001600595,Employee Stock Option (right to acquire)
+A,03/01/2021 00:00:00,Perrette Jean-Briac,4,A-Award,--D,37715,421167,1,0001600595,Series A Common Stock
+A,03/01/2021 00:00:00,Campbell Bruce,4,A-Award,--D,130546,130546,3,0001421985,Employee Stock Option (right to acquire)
+D,03/01/2021 00:00:00,Campbell Bruce,4,F-InKind,--D,43833,408293,2,0001421985,Series A Common Stock
+A,03/01/2021 00:00:00,Campbell Bruce,4,A-Award,--D,37715,452126,1,0001421985,Series A Common Stock
+A,03/01/2021 00:00:00,Alpert-Romm Adria,4,A-Award,--D,71801,71801,1,0001444236,Employee Stock Option (right to acquire)
+A,03/01/2021 00:00:00,Leavy David,4,A-Award,--D,65273,65273,15,0001608489,Director Stock Option (right to acquire)
+D,03/01/2021 00:00:00,Leavy David,4,M-Exempt,--D,28648,85944,14,0001608489,Employee Stock Option (right to acquire)
+D,03/01/2021 00:00:00,Leavy David,4,M-Exempt,--D,14550,29101,13,0001608489,Employee Stock Option (right to acquire)
+D,03/01/2021 00:00:00,Leavy David,4,M-Exempt,--D,16913,16914,12,0001608489,Employee Stock Option (right to acquire)
+A,03/01/2021 00:00:00,Leavy David,4,A-Award,--D,18858,100148,8,0001608489,Series A Common Stock
+D,03/01/2021 00:00:00,Leavy David,4,F-InKind,--D,6312,81290,7,0001608489,Series A Common Stock
+D,03/01/2021 00:00:00,Leavy David,4,S-Sale,--D,28648,87602,6,0001608489,Series A Common Stock
+A,03/01/2021 00:00:00,Leavy David,4,M-Exempt,--D,28648,116250,5,0001608489,Series A Common Stock
+D,03/01/2021 00:00:00,Leavy David,4,S-Sale,--D,14550,87602,4,0001608489,Series A Common Stock
+A,03/01/2021 00:00:00,Leavy David,4,M-Exempt,--D,14550,102152,3,0001608489,Series A Common Stock
+D,03/01/2021 00:00:00,Leavy David,4,S-Sale,--D,16913,87602,2,0001608489,Series A Common Stock
+A,03/01/2021 00:00:00,Leavy David,4,M-Exempt,--D,16913,104515,1,0001608489,Series A Common Stock
+A,03/01/2021 00:00:00,Sims Savalle,4,A-Award,--D,24515,78615,1,0001706848,Series A Common Stock
+A,03/01/2021 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,130546,130546,16,0001694392,Employee Stock Option (right to acquire)
+D,03/01/2021 00:00:00,Wiedenfels Gunnar,4,M-Exempt,--D,50133,150402,15,0001694392,Employee Stock Option (right to acquire)
+D,03/01/2021 00:00:00,Wiedenfels Gunnar,4,M-Exempt,--D,46296,92592,14,0001694392,Employee Stock Option (right to acquire)
+D,03/01/2021 00:00:00,Wiedenfels Gunnar,4,M-Exempt,--D,50740,50741,13,0001694392,Employee Stock Option (right to acquire)
+A,03/01/2021 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,37715,236924,8,0001694392,Series A Common Stock
+D,03/01/2021 00:00:00,Wiedenfels Gunnar,4,F-InKind,--D,19754,199209,7,0001694392,Series A Common Stock
+D,03/01/2021 00:00:00,Wiedenfels Gunnar,4,S-Sale,--D,50133,218963,6,0001694392,Series A Common Stock
+A,03/01/2021 00:00:00,Wiedenfels Gunnar,4,M-Exempt,--D,50133,269096,5,0001694392,Series A Common Stock
+D,03/01/2021 00:00:00,Wiedenfels Gunnar,4,S-Sale,--D,46296,218963,4,0001694392,Series A Common Stock
+A,03/01/2021 00:00:00,Wiedenfels Gunnar,4,M-Exempt,--D,46296,265259,3,0001694392,Series A Common Stock
+D,03/01/2021 00:00:00,Wiedenfels Gunnar,4,S-Sale,--D,50740,218963,2,0001694392,Series A Common Stock
+A,03/01/2021 00:00:00,Wiedenfels Gunnar,4,M-Exempt,--D,50740,269703,1,0001694392,Series A Common Stock
+A,03/01/2021 00:00:00,Locke Lori C.,4,A-Award,--D,6601,22815,1,0001646563,Series A Common Stock
+D,03/01/2021 00:00:00,Sims Savalle,4,F-InKind,--D,3523,54100,7,0001706848,Series A Common Stock
+D,03/01/2021 00:00:00,Sims Savalle,4,S-Sale,--D,8125,57623,6,0001706848,Series A Common Stock
+D,03/01/2021 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,19756,383452,5,0001600595,Series A Common Stock
+D,03/01/2021 00:00:00,Locke Lori C.,4,S-Sale,--D,1703,16214,2,0001646563,Series A Common Stock
+D,02/26/2021 00:00:00,Sims Savalle,4,M-Exempt,--D,1724,0,9,0001706848,Employee Stock Option (right to acquire)
+D,02/26/2021 00:00:00,Sims Savalle,4,M-Exempt,--D,1724,0,8,0001706848,Employee Stock Option (right to acquire)
+D,02/26/2021 00:00:00,Sims Savalle,4,F-InKind,--D,6714,65748,5,0001706848,Series A Common Stock
+D,02/26/2021 00:00:00,Sims Savalle,4,F-InKind,--D,1624,100,4,0001706848,Series C Common Stock
+A,02/26/2021 00:00:00,Sims Savalle,4,M-Exempt,--D,1724,1724,3,0001706848,Series C Common Stock
+D,02/26/2021 00:00:00,Sims Savalle,4,F-InKind,--D,1494,72462,2,0001706848,Series A Common Stock
+A,02/26/2021 00:00:00,Sims Savalle,4,M-Exempt,--D,1724,73956,1,0001706848,Series A Common Stock
+D,02/26/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,11491,0,7,0001600595,Employee Stock Option (right to acquire)
+D,02/26/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,11491,0,6,0001600595,Employee Stock Option (right to acquire)
+D,02/26/2021 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,10953,538,4,0001600595,Series C Common Stock
+A,02/26/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,11491,11491,3,0001600595,Series C Common Stock
+D,02/26/2021 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,10259,403208,2,0001600595,Series A Common Stock
+A,02/26/2021 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,11491,413467,1,0001600595,Series A Common Stock
+D,02/26/2021 00:00:00,Locke Lori C.,4,F-InKind,--D,802,17917,1,0001646563,Series A Common Stock
+D,02/25/2021 00:00:00,Leavy David,5,G-Gift,--D,7543,86192,1,0001608489,Series A Common Stock
+D,02/24/2021 00:00:00,Zaslav David,4,F-InKind,--D,135032,2878471,2,0001318285,Series A Common Stock
+A,02/24/2021 00:00:00,Zaslav David,4,A-Award,--D,485983,3013503,1,0001318285,Series A Common Stock
+D,02/24/2021 00:00:00,BENNETT ROBERT R,4,S-Sale,--D,3173,6768,3,0001119603,Series A Common Stock
+D,02/24/2021 00:00:00,BENNETT ROBERT R,4,S-Sale,--I,53451,0,2,0001119603,Series A Common Stock
+D,02/24/2021 00:00:00,BENNETT ROBERT R,4,S-Sale,--I,46549,8364,1,0001119603,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,11491,0,5,0001444236,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,1850,10989,4,0001444236,Series C Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,9641,12839,3,0001444236,Series C Common Stock
+A,02/23/2021 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,11491,22480,2,0001444236,Series C Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,4471,10989,1,0001444236,Series C Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,29100,87302,33,0001444236,Employee Stock Option
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,67654,67654,32,0001444236,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,95279,0,31,0001444236,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,50134,0,30,0001444236,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,48353,0,29,0001444236,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,11491,0,28,0001444236,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,420,4674,27,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,760,5094,26,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,27920,5854,25,0001444236,Series A Common Stock
+A,02/23/2021 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,29100,33774,24,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,1020,4674,23,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,1554,5694,22,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,65080,7248,21,0001444236,Series A Common Stock
+A,02/23/2021 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,67654,72328,20,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,1420,4674,19,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,2000,6094,18,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,91859,8094,17,0001444236,Series A Common Stock
+A,02/23/2021 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,95279,99953,16,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,740,4674,15,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,941,5414,14,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,48453,6355,13,0001444236,Series A Common Stock
+A,02/23/2021 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,50134,54808,12,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,671,4674,11,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,954,5345,10,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,46728,6299,9,0001444236,Series A Common Stock
+A,02/23/2021 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,48353,53027,8,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,100,4674,7,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,404,4774,6,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,10987,5178,5,0001444236,Series A Common Stock
+A,02/23/2021 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,11491,16165,4,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,340,4674,3,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,740,5014,2,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,27391,5754,1,0001444236,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,M-Exempt,--D,11491,0,34,0001608489,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Leavy David,4,M-Exempt,--D,14550,43651,33,0001608489,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Leavy David,4,M-Exempt,--D,33827,33827,32,0001608489,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Leavy David,4,M-Exempt,--D,55580,0,31,0001608489,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Leavy David,4,M-Exempt,--D,12534,0,30,0001608489,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Leavy David,4,M-Exempt,--D,38682,0,29,0001608489,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Leavy David,4,M-Exempt,--D,11491,0,28,0001608489,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,11491,5521,27,0001608489,Series C Common Stock
+A,02/23/2021 00:00:00,Leavy David,4,M-Exempt,--D,11491,17012,26,0001608489,Series C Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,4944,87602,25,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,F-InKind,--D,2469,92546,24,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,20,95015,23,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,856,95035,22,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,5141,95891,21,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,8533,101032,20,0001608489,Series A Common Stock
+A,02/23/2021 00:00:00,Leavy David,4,M-Exempt,--D,14550,109565,19,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,100,95015,18,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,2124,95115,17,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,12526,97239,16,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,19077,109765,15,0001608489,Series A Common Stock
+A,02/23/2021 00:00:00,Leavy David,4,M-Exempt,--D,33827,128842,14,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,1416,95015,13,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,6040,96431,12,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,21481,102471,11,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,26643,123952,10,0001608489,Series A Common Stock
+A,02/23/2021 00:00:00,Leavy David,4,M-Exempt,--D,55580,150595,9,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,12534,95015,8,0001608489,Series A Common Stock
+A,02/23/2021 00:00:00,Leavy David,4,M-Exempt,--D,12534,107549,7,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,38682,95015,6,0001608489,Series A Common Stock
+A,02/23/2021 00:00:00,Leavy David,4,M-Exempt,--D,38682,133697,5,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,11491,95015,4,0001608489,Series A Common Stock
+A,02/23/2021 00:00:00,Leavy David,4,M-Exempt,--D,11491,106506,3,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,4582,95015,2,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Leavy David,4,S-Sale,--D,15720,99597,1,0001608489,Series A Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,M-Exempt,--D,52858,0,31,0001421985,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Campbell Bruce,4,M-Exempt,--D,42327,126984,30,0001421985,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Campbell Bruce,4,M-Exempt,--D,174678,0,29,0001421985,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Campbell Bruce,4,M-Exempt,--D,160427,0,28,0001421985,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Campbell Bruce,4,M-Exempt,--D,148280,0,27,0001421985,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Campbell Bruce,4,M-Exempt,--D,52858,0,26,0001421985,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,4550,40794,25,0001421985,Series C Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,28308,45344,24,0001421985,Series C Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,20000,73652,23,0001421985,Series C Common Stock
+A,02/23/2021 00:00:00,Campbell Bruce,4,M-Exempt,--D,52858,93652,22,0001421985,Series C Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,F-InKind,--D,8578,414411,21,0001421985,Series A Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,200,422989,20,0001421985,Series A Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,760,423189,19,0001421985,Series A Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,41367,423949,18,0001421985,Series A Common Stock
+A,02/23/2021 00:00:00,Campbell Bruce,4,M-Exempt,--D,42327,465316,17,0001421985,Series A Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,3080,422989,16,0001421985,Series A Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,100262,426069,15,0001421985,Series A Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,71336,526331,14,0001421985,Series A Common Stock
+A,02/23/2021 00:00:00,Campbell Bruce,4,M-Exempt,--D,174678,597667,13,0001421985,Series A Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,120357,422989,12,0001421985,Series A Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,2910,543346,11,0001421985,Series A Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,37160,546256,10,0001421985,Series A Common Stock
+A,02/23/2021 00:00:00,Campbell Bruce,4,M-Exempt,--D,160427,583416,9,0001421985,Series A Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,2824,422989,8,0001421985,Series A Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,145456,425813,7,0001421985,Series A Common Stock
+A,02/23/2021 00:00:00,Campbell Bruce,4,M-Exempt,--D,148280,571269,6,0001421985,Series A Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,500,422989,5,0001421985,Series A Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,1280,423489,4,0001421985,Series A Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,13080,424769,3,0001421985,Series A Common Stock
+D,02/23/2021 00:00:00,Campbell Bruce,4,S-Sale,--D,37998,437849,2,0001421985,Series A Common Stock
+A,02/23/2021 00:00:00,Campbell Bruce,4,M-Exempt,--D,52858,475847,1,0001421985,Series A Common Stock
+D,02/23/2021 00:00:00,Sims Savalle,4,M-Exempt,--D,3383,6766,21,0001706848,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Sims Savalle,4,M-Exempt,--D,2400,2401,20,0001706848,Employee Stock Option
+D,02/23/2021 00:00:00,Sims Savalle,4,M-Exempt,--D,7623,0,19,0001706848,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Sims Savalle,4,M-Exempt,--D,2006,0,18,0001706848,Employee Stock Option
+D,02/23/2021 00:00:00,Sims Savalle,4,M-Exempt,--D,7737,0,17,0001706848,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Sims Savalle,4,M-Exempt,--D,5230,0,16,0001706848,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Sims Savalle,4,S-Sale,--D,1941,72232,15,0001706848,Series A Common Stock
+D,02/23/2021 00:00:00,Sims Savalle,4,F-InKind,--D,988,74173,14,0001706848,Series A Common Stock
+D,02/23/2021 00:00:00,Sims Savalle,4,S-Sale,--D,3383,75161,13,0001706848,Series A Common Stock
+A,02/23/2021 00:00:00,Sims Savalle,4,M-Exempt,--D,3383,78544,12,0001706848,Series A Common Stock
+D,02/23/2021 00:00:00,Sims Savalle,4,S-Sale,--D,2400,75161,11,0001706848,Series A Common Stock
+A,02/23/2021 00:00:00,Sims Savalle,4,M-Exempt,--D,2400,77561,10,0001706848,Series A Common Stock
+D,02/23/2021 00:00:00,Sims Savalle,4,S-Sale,--D,7623,75161,9,0001706848,Series A Common Stock
+A,02/23/2021 00:00:00,Sims Savalle,4,M-Exempt,--D,7623,82784,8,0001706848,Series A Common Stock
+D,02/23/2021 00:00:00,Sims Savalle,4,S-Sale,--D,2006,75161,7,0001706848,Series A Common Stock
+A,02/23/2021 00:00:00,Sims Savalle,4,M-Exempt,--D,2006,77167,6,0001706848,Series A Common Stock
+D,02/23/2021 00:00:00,Sims Savalle,4,S-Sale,--D,7737,75161,5,0001706848,Series A Common Stock
+A,02/23/2021 00:00:00,Sims Savalle,4,M-Exempt,--D,7737,82898,4,0001706848,Series A Common Stock
+D,02/23/2021 00:00:00,Sims Savalle,4,S-Sale,--D,5230,75161,3,0001706848,Series A Common Stock
+A,02/23/2021 00:00:00,Sims Savalle,4,M-Exempt,--D,5230,80391,2,0001706848,Series A Common Stock
+D,02/23/2021 00:00:00,Sims Savalle,4,S-Sale,--D,631,75161,1,0001706848,Series A Common Stock
+D,02/23/2021 00:00:00,LOWE KENNETH W,4,M-Exempt,--D,177089,0,15,0001186933,Director Stock Option (right to acquire)
+D,02/23/2021 00:00:00,LOWE KENNETH W,4,M-Exempt,--D,121935,0,14,0001186933,Director Stock Option (right to acquire)
+D,02/23/2021 00:00:00,LOWE KENNETH W,4,M-Exempt,--D,94942,0,13,0001186933,Director Stock Option (right to acquire)
+D,02/23/2021 00:00:00,LOWE KENNETH W,4,S-Sale,--D,735,1202403,12,0001186933,Series C Common Stock
+D,02/23/2021 00:00:00,LOWE KENNETH W,4,S-Sale,--D,35544,1203138,11,0001186933,Series C Common Stock
+D,02/23/2021 00:00:00,LOWE KENNETH W,4,S-Sale,--D,140810,1238682,10,0001186933,Series C Common Stock
+A,02/23/2021 00:00:00,LOWE KENNETH W,4,M-Exempt,--D,177089,1379492,9,0001186933,Series C Common Stock
+D,02/23/2021 00:00:00,LOWE KENNETH W,4,S-Sale,--D,400,1202403,8,0001186933,Series C Common Stock
+D,02/23/2021 00:00:00,LOWE KENNETH W,4,S-Sale,--D,24348,1202803,7,0001186933,Series C Common Stock
+D,02/23/2021 00:00:00,LOWE KENNETH W,4,S-Sale,--D,97187,1227151,6,0001186933,Series C Common Stock
+A,02/23/2021 00:00:00,LOWE KENNETH W,4,M-Exempt,--D,121935,1324338,5,0001186933,Series C Common Stock
+D,02/23/2021 00:00:00,LOWE KENNETH W,4,S-Sale,--D,4270,1202403,4,0001186933,Series C Common Stock
+D,02/23/2021 00:00:00,LOWE KENNETH W,4,S-Sale,--D,35043,1206673,3,0001186933,Series C Common Stock
+D,02/23/2021 00:00:00,LOWE KENNETH W,4,S-Sale,--D,55629,1241716,2,0001186933,Series C Common Stock
+A,02/23/2021 00:00:00,LOWE KENNETH W,4,M-Exempt,--D,94942,1297345,1,0001186933,Series C Common Stock
+D,02/23/2021 00:00:00,Wiedenfels Gunnar,4,M-Exempt,--D,46296,138888,9,0001694392,Employee Stock Option
+D,02/23/2021 00:00:00,Wiedenfels Gunnar,4,M-Exempt,--D,101481,101481,8,0001694392,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Wiedenfels Gunnar,4,M-Exempt,--D,120000,40001,7,0001694392,Employee Stock Option (right to acquire)
+D,02/23/2021 00:00:00,Wiedenfels Gunnar,4,S-Sale,--D,46296,218963,6,0001694392,Series A Common Stock
+A,02/23/2021 00:00:00,Wiedenfels Gunnar,4,M-Exempt,--D,46296,265259,5,0001694392,Series A Common Stock
+D,02/23/2021 00:00:00,Wiedenfels Gunnar,4,S-Sale,--D,101481,218963,4,0001694392,Series A Common Stock
+A,02/23/2021 00:00:00,Wiedenfels Gunnar,4,M-Exempt,--D,101481,320444,3,0001694392,Series A Common Stock
+D,02/23/2021 00:00:00,Wiedenfels Gunnar,4,S-Sale,--D,120000,218963,2,0001694392,Series A Common Stock
+A,02/23/2021 00:00:00,Wiedenfels Gunnar,4,M-Exempt,--D,120000,338963,1,0001694392,Series A Common Stock
+D,02/23/2021 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,12941,401976,1,0001600595,Series A Common Stock
+D,02/23/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,C-Conversion,--I,568041,214053,3,0001455381,Series C-1 Convertible Participating Preferred Stock
+D,02/23/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,S-Sale,--I,11000000,2,2,0001455381,Series C Common Stock
+A,02/23/2021 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,C-Conversion,--I,11000000,11000002,1,0001455381,Series C Common Stock
+D,01/27/2021 00:00:00,MALONE JOHN C,4,G-Gift,-ED,242605,2000,2,0000937797,Series A Common Stock
+D,01/19/2021 00:00:00,Zaslav David,4,M-Exempt,--D,451984,451985,14,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/19/2021 00:00:00,Zaslav David,4,M-Exempt,--D,361588,0,13,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/19/2021 00:00:00,Zaslav David,4,M-Exempt,--D,451984,451985,12,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/19/2021 00:00:00,Zaslav David,4,M-Exempt,--D,361588,0,11,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/19/2021 00:00:00,Zaslav David,4,F-InKind,--D,15010,1258353,10,0001318285,Series C Common Stock
+D,01/19/2021 00:00:00,Zaslav David,4,D-Return,--D,175205,1273363,9,0001318285,Series C Common Stock
+D,01/19/2021 00:00:00,Zaslav David,4,D-Return,--D,610164,1448568,8,0001318285,Series C Common Stock
+A,01/19/2021 00:00:00,Zaslav David,4,M-Exempt,--D,451984,2058732,7,0001318285,Series C Common Stock
+A,01/19/2021 00:00:00,Zaslav David,4,M-Exempt,--D,361588,1606748,6,0001318285,Series C Common Stock
+D,01/19/2021 00:00:00,Zaslav David,4,F-InKind,--D,23620,2527520,5,0001318285,Series A Common Stock
+D,01/19/2021 00:00:00,Zaslav David,4,D-Return,--D,159010,2551140,4,0001318285,Series A Common Stock
+D,01/19/2021 00:00:00,Zaslav David,4,D-Return,--D,610182,2710150,3,0001318285,Series A Common Stock
+A,01/19/2021 00:00:00,Zaslav David,4,M-Exempt,--D,451984,3320332,2,0001318285,Series A Common Stock
+A,01/19/2021 00:00:00,Zaslav David,4,M-Exempt,--D,361588,2868348,1,0001318285,Series A Common Stock
+D,01/06/2021 00:00:00,Zaslav David,4,F-InKind,--D,273991,2506760,1,0001318285,Series A Common Stock
+A,01/04/2021 00:00:00,JOHNSON ROBERT  L,4,A-Award,--D,2493,2493,1,0001188283,Series A Common Stock
+D,12/04/2020 00:00:00,LOWE KENNETH W,4,M-Exempt,--D,91836,0,3,0001186933,Director Stock Option (right to acquire)
+D,12/04/2020 00:00:00,LOWE KENNETH W,4,S-Sale,--D,91836,1202403,2,0001186933,Series C Common Stock
+A,12/04/2020 00:00:00,LOWE KENNETH W,4,M-Exempt,--D,91836,1294239,1,0001186933,Series C Common Stock
+D,12/03/2020 00:00:00,MALONE JOHN C,4,S-Sale,--I,550000,300000,1,0000937797,Series A Common Stock
+A,06/18/2020 00:00:00,BENNETT ROBERT R,4,A-Award,--D,6768,63392,1,0001119603,Series A Common Stock
+A,06/18/2020 00:00:00,Beck Robert R,4,A-Award,--D,6768,84578,1,0001444694,Series A Common Stock
+A,06/18/2020 00:00:00,MALONE JOHN C,4,A-Award,--D,6768,787359,1,0000937797,Series A Common Stock
+A,06/18/2020 00:00:00,SWAIN SUSAN M,4,A-Award,--D,6768,27113,1,0001193327,Series A Common Stock
+A,06/18/2020 00:00:00,MIRON ROBERT,4,A-Award,--D,6768,63825,1,0001192676,Series A Common Stock
+A,06/18/2020 00:00:00,GOULD PAUL A,4,A-Award,--D,6768,211439,1,0001018211,Series A Common Stock
+A,06/18/2020 00:00:00,WARGO J DAVID,4,A-Award,--D,6768,38995,1,0001082013,Series A Common Stock
+A,06/18/2020 00:00:00,Miron Steven A,4,A-Award,--D,6768,60494,1,0001444691,Series A Common Stock
+A,06/18/2020 00:00:00,Sanchez Daniel E.,4,A-Award,--D,6768,23557,1,0001567395,Series A Common Stock
+A,06/18/2020 00:00:00,LOWE KENNETH W,4,A-Award,--D,6768,19875,1,0001186933,Series A Common Stock
+A,06/18/2020 00:00:00,ANSTROM S DECKER,4,A-Award,--D,6768,38068,1,0001203698,Series A Common Stock
+D,06/01/2020 00:00:00,Locke Lori C.,4,F-InKind,--D,561,18719,1,0001646563,Series A Common Stock
+D,05/22/2020 00:00:00,Wiedenfels Gunnar,4,F-InKind,--D,7809,218963,1,0001694392,Series A Common Stock
+D,05/22/2020 00:00:00,Sims Savalle,4,F-InKind,--D,326,76230,1,0001706848,Series A Common Stock
+D,05/08/2020 00:00:00,MALONE JOHN C,4,S-Sale,--D,5229,780591,1,0000937797,Series A Common Stock
+D,03/18/2020 00:00:00,Leavy David,4,F-InKind,--D,1129,114123,1,0001608489,Series A Common Stock
+D,03/16/2020 00:00:00,WARGO J DAVID,4,S-Sale,--D,160000,142624,2,0001082013,Series C Common Stock
+D,03/16/2020 00:00:00,WARGO J DAVID,4,S-Sale,--D,40000,32227,1,0001082013,Series A Common Stock
+D,03/09/2020 00:00:00,WARGO J DAVID,4,S-Sale,--D,185000,302624,1,0001082013,Series C Common Stock
+D,03/02/2020 00:00:00,Sims Savalle,4,S-Sale,--D,7484,76556,3,0001706848,Series A Common Stock
+A,02/28/2020 00:00:00,Perrette Jean-Briac,4/A,A-Award,--D,70937,414917,2,0001600595,Series A Common Stock
+D,02/28/2020 00:00:00,Perrette Jean-Briac,4/A,F-InKind,--D,10364,343980,1,0001600595,Series A Common Stock
+A,02/28/2020 00:00:00,Sims Savalle,4,A-Award,--D,44590,84040,2,0001706848,Series A Common Stock
+D,02/28/2020 00:00:00,Sims Savalle,4,F-InKind,--D,1108,39450,1,0001706848,Series A Common Stock
+A,02/28/2020 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,200535,200535,3,0001694392,Employee Stock Option
+A,02/28/2020 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,70937,226772,2,0001694392,Series A Common Stock
+D,02/28/2020 00:00:00,Wiedenfels Gunnar,4,F-InKind,--D,6907,155835,1,0001694392,Series A Common Stock
+A,02/28/2020 00:00:00,Perrette Jean-Briac,4,A-Award,--D,200535,200535,3,0001600595,Employee Stock Option
+A,02/28/2020 00:00:00,Perrette Jean-Briac,4,A-Award,--D,70937,274860,2,0001600595,Series A Common Stock
+D,02/28/2020 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,10364,203923,1,0001600595,Series A Common Stock
+A,02/28/2020 00:00:00,Locke Lori C.,4,A-Award,--D,8108,19280,1,0001646563,Series A Common Stock
+A,02/28/2020 00:00:00,Leavy David,4,A-Award,--D,114592,114592,3,0001608489,Employee Stock Option
+A,02/28/2020 00:00:00,Leavy David,4,A-Award,--D,40536,115252,2,0001608489,Series A Common Stock
+D,02/28/2020 00:00:00,Leavy David,4,F-InKind,--D,2260,74716,1,0001608489,Series A Common Stock
+A,02/28/2020 00:00:00,Faricy Peter,4,A-Award,--D,183346,183346,2,0001753932,Employee Stock Option
+A,02/28/2020 00:00:00,Faricy Peter,4,A-Award,--D,64857,247224,1,0001753932,Series A Common Stock
+A,02/28/2020 00:00:00,Campbell Bruce,4,A-Award,--D,183346,183346,3,0001421985,Employee Stock Option
+A,02/28/2020 00:00:00,Campbell Bruce,4,A-Award,--D,64857,422989,2,0001421985,Series A Common Stock
+D,02/28/2020 00:00:00,Campbell Bruce,4,F-InKind,--D,34885,358132,1,0001421985,Series A Common Stock
+A,02/28/2020 00:00:00,Alpert-Romm Adria,4,A-Award,--D,126051,126051,1,0001444236,Employee Stock Option
+D,02/26/2020 00:00:00,Sims Savalle,4,F-InKind,--D,1091,40558,1,0001706848,Series A Common Stock
+D,02/26/2020 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,39722,214287,1,0001600595,Series A Common Stock
+D,02/26/2020 00:00:00,Leavy David,4,F-InKind,--D,2510,76976,1,0001608489,Series A Common Stock
+D,02/26/2020 00:00:00,Campbell Bruce,4,F-InKind,--D,9883,393017,1,0001421985,Series A Common Stock
+D,02/26/2020 00:00:00,Alpert-Romm Adria,4,F-InKind,--D,2863,33145,1,0001444236,Series A Common Stock
+D,02/24/2020 00:00:00,Zaslav David,4,F-InKind,--D,440659,2931475,2,0001318285,Series A Common Stock
+A,02/24/2020 00:00:00,Zaslav David,4,A-Award,--D,1585949,3372134,1,0001318285,Series A Common Stock
+D,02/24/2020 00:00:00,Campbell Bruce,4,F-InKind,--D,7914,402900,2,0001421985,Series A Common Stock
+A,02/24/2020 00:00:00,Campbell Bruce,4,A-Award,--D,46595,410814,1,0001421985,Series A Common Stock
+D,02/24/2020 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,12941,254009,2,0001600595,Series A Common Stock
+A,02/24/2020 00:00:00,Perrette Jean-Briac,4,A-Award,--D,55067,266950,1,0001600595,Series A Common Stock
+D,02/24/2020 00:00:00,Leavy David,4,F-InKind,--D,2452,79486,2,0001608489,Series A Common Stock
+A,02/24/2020 00:00:00,Leavy David,4,A-Award,--D,14826,81938,1,0001608489,Series A Common Stock
+D,02/21/2020 00:00:00,Sims Savalle,4,F-InKind,--D,1671,41649,1,0001706848,Series A Common Stock
+D,02/14/2020 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,S-Sale,--I,9500000,2,1,0001455381,Series C Common Stock
+D,01/16/2020 00:00:00,Zaslav David,4,M-Exempt,--D,451985,903969,18,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/16/2020 00:00:00,Zaslav David,4,M-Exempt,--D,361588,361588,17,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/16/2020 00:00:00,Zaslav David,4,M-Exempt,--D,289271,0,16,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/16/2020 00:00:00,Zaslav David,4,M-Exempt,--D,451985,903969,15,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/16/2020 00:00:00,Zaslav David,4,M-Exempt,--D,361588,361588,14,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/16/2020 00:00:00,Zaslav David,4,M-Exempt,--D,289271,0,13,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/16/2020 00:00:00,Zaslav David,4,F-InKind,--D,28837,1245160,12,0001318285,Series C Common Stock
+D,01/16/2020 00:00:00,Zaslav David,4,D-Return,--D,221535,1273997,11,0001318285,Series C Common Stock
+D,01/16/2020 00:00:00,Zaslav David,4,D-Return,--D,827128,1495532,10,0001318285,Series C Common Stock
+A,01/16/2020 00:00:00,Zaslav David,4,M-Exempt,--D,451985,2322660,9,0001318285,Series C Common Stock
+A,01/16/2020 00:00:00,Zaslav David,4,M-Exempt,--D,361588,1870675,8,0001318285,Series C Common Stock
+A,01/16/2020 00:00:00,Zaslav David,4,M-Exempt,--D,289271,1509087,7,0001318285,Series C Common Stock
+D,01/16/2020 00:00:00,Zaslav David,4,F-InKind,--D,31899,1786185,6,0001318285,Series A Common Stock
+D,01/16/2020 00:00:00,Zaslav David,4,D-Return,--D,215779,1818084,5,0001318285,Series A Common Stock
+D,01/16/2020 00:00:00,Zaslav David,4,D-Return,--D,827130,2033863,4,0001318285,Series A Common Stock
+A,01/16/2020 00:00:00,Zaslav David,4,M-Exempt,--D,451985,2860993,3,0001318285,Series A Common Stock
+A,01/16/2020 00:00:00,Zaslav David,4,M-Exempt,--D,361588,2409008,2,0001318285,Series A Common Stock
+A,01/16/2020 00:00:00,Zaslav David,4,M-Exempt,--D,289271,2047420,1,0001318285,Series A Common Stock
+D,01/06/2020 00:00:00,Zaslav David,4,F-InKind,--D,71980,1758149,1,0001318285,Series A common stock
+D,11/26/2019 00:00:00,ANSTROM S DECKER,4,M-Exempt,--D,1963,0,3,0001203698,Director Stock Options (right to acquire)
+D,11/26/2019 00:00:00,ANSTROM S DECKER,4,F-InKind,--D,1863,31300,2,0001203698,Series A common stock
+A,11/26/2019 00:00:00,ANSTROM S DECKER,4,M-Exempt,--D,1963,33163,1,0001203698,Series A common stock
+D,11/26/2019 00:00:00,Campbell Bruce,4,S-Sale,--D,25000,364219,1,0001421985,Series A common stock
+D,11/21/2019 00:00:00,Leavy David,4,M-Exempt,--D,37600,12534,3,0001608489,Employee Stock Options (right to acquire)
+D,11/21/2019 00:00:00,Leavy David,4,S-Sale,--D,44970,66611,2,0001608489,Series A common stock
+A,11/21/2019 00:00:00,Leavy David,4,M-Exempt,--D,37600,111581,1,0001608489,Series A common stock
+D,11/20/2019 00:00:00,Perrette Jean-Briac,4,S-Sale,--D,58812,211883,1,0001600595,Series A common stock
+A,11/15/2019 00:00:00,WARGO J DAVID,4,P-Purchase,--D,162450,487624,1,0001082013,Series C Common Stock
+A,11/14/2019 00:00:00,MALONE JOHN C,4,P-Purchase,1-D,3650000,3650000,5,0000937797,Put option (right to sell)
+D,11/14/2019 00:00:00,MALONE JOHN C,4,S-Sale,1-D,3650000,3650000,4,0000937797,Call option (obligation to sell)
+A,11/14/2019 00:00:00,MALONE JOHN C,4,P-Purchase,--D,2670000,10317937,1,0000937797,Series C Common Stock
+D,11/12/2019 00:00:00,Perrette Jean-Briac,4,S-Sale,--D,600,0,1,0001600595,Series C Common Stock
+D,11/11/2019 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,C-Conversion,--I,490581,782094,2,0001455381,Series C-1 Convertible Participating Preferred Stock
+A,11/11/2019 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,C-Conversion,--I,9500002,9500002,1,0001455381,Series C Common Stock
+D,08/19/2019 00:00:00,Sanchez Daniel E.,4,S-Sale,--D,1059,16789,1,0001567395,Series A Common Stock
+D,08/13/2019 00:00:00,Sims Savalle,4,M-Exempt,--D,2400,4801,4,0001706848,Employee Stock Option
+D,08/13/2019 00:00:00,Sims Savalle,4,S-Sale,--D,17,0,3,0001706848,Series C Common Stock
+D,08/13/2019 00:00:00,Sims Savalle,4,S-Sale,--D,3068,43320,2,0001706848,Series A Common Stock
+A,08/13/2019 00:00:00,Sims Savalle,4,M-Exempt,--D,2400,46388,1,0001706848,Series A Common Stock
+A,08/07/2019 00:00:00,Locke Lori C.,4,A-Award,--D,11172,11172,1,0001646563,Series A Common Stock
+A,06/13/2019 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,P-Purchase,1-I,12500000,12500000,4,0001455381,Put option (right to sell)
+D,06/13/2019 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,S-Sale,1-I,12500000,12500000,3,0001455381,Call option (obligation to sell)
+D,06/13/2019 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,C-Conversion,--I,645502,4099296.5,2,0001455381,Series C-1 Convertible Participating Preferred Stock
+A,06/13/2019 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,C-Conversion,--I,12500017,12507224,1,0001455381,Series C Common Stock
+D,06/11/2019 00:00:00,Campbell Bruce,4,S-Sale,--D,10000,389219,1,0001421985,Series A Common Stock
+A,05/28/2019 00:00:00,Faricy Peter,4,P-Purchase,--D,35900,182367,1,0001753932,Series A Common Stock
+D,05/22/2019 00:00:00,Wiedenfels Gunnar,4,F-InKind,--D,7809,162742,1,0001694392,Series A Common Stock
+D,05/22/2019 00:00:00,Sims Savalle,4,F-InKind,--D,289,43988,1,0001706848,Series A Common Stock
+A,05/15/2019 00:00:00,MIRON ROBERT,4/A,M-Exempt,--D,3649,0,6,0001192676,Director Stock Option (right to acquire)
+A,05/15/2019 00:00:00,MIRON ROBERT,4/A,M-Exempt,--D,3649,0,5,0001192676,Director Stock Option (right to acquire)
+A,05/15/2019 00:00:00,MIRON ROBERT,4/A,M-Exempt,--D,3649,29850,3,0001192676,Series C Common Stock
+A,05/15/2019 00:00:00,MIRON ROBERT,4/A,M-Exempt,--D,3649,57057,1,0001192676,Series A Common Stock
+D,05/15/2019 00:00:00,Miron Steven A,4,M-Exempt,--D,3649,0,6,0001444691,Director Stock Option (right to acquire)
+D,05/15/2019 00:00:00,Miron Steven A,4,M-Exempt,--D,3649,0,5,0001444691,Director Stock Option (right to acquire)
+D,05/15/2019 00:00:00,Miron Steven A,4,F-InKind,--D,3489,26361,4,0001444691,Series C Common Stock
+A,05/15/2019 00:00:00,Miron Steven A,4,M-Exempt,--D,3649,29850,3,0001444691,Series C Common Stock
+D,05/15/2019 00:00:00,Miron Steven A,4,F-InKind,--D,3393,53726,2,0001444691,Series A Common Stock
+A,05/15/2019 00:00:00,Miron Steven A,4,M-Exempt,--D,3649,57119,1,0001444691,Series A Common Stock
+D,05/15/2019 00:00:00,MIRON ROBERT,4,M-Exempt,--D,3649,0,8,0001192676,Director Stock Option (right to acquire)
+D,05/15/2019 00:00:00,MIRON ROBERT,4,M-Exempt,--D,3649,0,7,0001192676,Director Stock Option (right to acquire)
+D,05/15/2019 00:00:00,MIRON ROBERT,4,F-InKind,--D,3489,26361,5,0001192676,Series C Common Stock
+A,05/15/2019 00:00:00,MIRON ROBERT,4,M-Exempt,--D,3649,29850,4,0001192676,Series C Common Stock
+D,05/15/2019 00:00:00,MIRON ROBERT,4,F-InKind,--D,3393,53664,2,0001192676,Series A Common Stock
+A,05/15/2019 00:00:00,MIRON ROBERT,4,M-Exempt,--D,3649,57057,1,0001192676,Series A Common Stock
+D,05/15/2019 00:00:00,MALONE JOHN C,4,M-Exempt,--D,3649,0,10,0000937797,Director Stock Option (right to acquire)
+D,05/15/2019 00:00:00,MALONE JOHN C,4,M-Exempt,--D,3649,0,9,0000937797,Director Stock Option (right to acquire)
+D,05/15/2019 00:00:00,MALONE JOHN C,4,F-InKind,--D,3489,7647937,6,0000937797,Series C Common Stock
+A,05/15/2019 00:00:00,MALONE JOHN C,4,M-Exempt,--D,3649,7651426,5,0000937797,Series C Common Stock
+D,05/15/2019 00:00:00,MALONE JOHN C,4,F-InKind,--D,3393,785820,2,0000937797,Series A Common Stock
+A,05/15/2019 00:00:00,MALONE JOHN C,4,M-Exempt,--D,3649,789213,1,0000937797,Series A Common Stock
+D,05/15/2019 00:00:00,GOULD PAUL A,4,M-Exempt,--D,3649,0,6,0001018211,Director Stock Option (right to acquire)
+D,05/15/2019 00:00:00,GOULD PAUL A,4,M-Exempt,--D,3649,0,5,0001018211,Director Stock Option (right to acquire)
+D,05/15/2019 00:00:00,GOULD PAUL A,4,F-InKind,--D,3489,451232,4,0001018211,Series C Common Stock
+A,05/15/2019 00:00:00,GOULD PAUL A,4,M-Exempt,--D,3649,454721,3,0001018211,Series C Common Stock
+D,05/15/2019 00:00:00,GOULD PAUL A,4,F-InKind,--D,3393,204415,2,0001018211,Series A Common Stock
+A,05/15/2019 00:00:00,GOULD PAUL A,4,M-Exempt,--D,3649,208064,1,0001018211,Series A Common Stock
+D,05/14/2019 00:00:00,BENNETT ROBERT R,4,M-Exempt,--D,3649,0,6,0001119603,Director Stock Option (right to acquire)
+D,05/14/2019 00:00:00,BENNETT ROBERT R,4,M-Exempt,--D,3649,0,5,0001119603,Director Stock Option (right to acquire)
+A,05/14/2019 00:00:00,BENNETT ROBERT R,4,M-Exempt,--D,3649,31441,3,0001119603,Series C Common Stock
+A,05/14/2019 00:00:00,BENNETT ROBERT R,4,M-Exempt,--D,3649,56624,1,0001119603,Series A Common Stock
+D,05/13/2019 00:00:00,WARGO J DAVID,4,M-Exempt,--D,3649,0,4,0001082013,Director Stock Option (right to acquire)
+D,05/13/2019 00:00:00,WARGO J DAVID,4,M-Exempt,--D,3649,0,3,0001082013,Director Stock Option (right to acquire)
+A,05/13/2019 00:00:00,WARGO J DAVID,4,M-Exempt,--D,3649,325174,2,0001082013,Series C Common Stock
+A,05/13/2019 00:00:00,WARGO J DAVID,4,M-Exempt,--D,3649,72227,1,0001082013,Series A Common Stock
+A,05/08/2019 00:00:00,BENNETT ROBERT R,4,A-Award,--D,5229,52975,1,0001119603,Series A Common Stock
+A,05/08/2019 00:00:00,WARGO J DAVID,4,A-Award,--D,5229,68578,1,0001082013,Series A Common Stock
+A,05/08/2019 00:00:00,SWAIN SUSAN M,4,A-Award,--D,5229,20345,1,0001193327,Series A Common Stock
+A,05/08/2019 00:00:00,Sanchez Daniel E.,4,A-Award,--D,5229,17848,1,0001567395,Series A Common Stock
+A,05/08/2019 00:00:00,Miron Steven A,4,A-Award,--D,5229,53470,1,0001444691,Series A Common Stock
+A,05/08/2019 00:00:00,MIRON ROBERT,4,A-Award,--D,5229,53408,1,0001192676,Series A Common Stock
+A,05/08/2019 00:00:00,MALONE JOHN C,4,A-Award,--D,5229,785564,1,0000937797,Series A Common Stock
+A,05/08/2019 00:00:00,LOWE KENNETH W,4,A-Award,--D,5229,13107,1,0001186933,Series A Common Stock
+A,05/08/2019 00:00:00,GOULD PAUL A,4,A-Award,--D,5229,204415,1,0001018211,Series A Common Stock
+A,05/08/2019 00:00:00,Beck Robert R,4,A-Award,--D,5229,77810,1,0001444694,Series A Common Stock
+A,05/08/2019 00:00:00,ANSTROM S DECKER,4,A-Award,--D,5229,31200,1,0001203698,Series A Common Stock
+D,04/05/2019 00:00:00,Beck Robert R,4,M-Exempt,--D,3649,0,4,0001444694,Director Stock Option (right to acquire)
+D,04/05/2019 00:00:00,Beck Robert R,4,M-Exempt,--D,3649,0,3,0001444694,Director Stock Option (right to acquire)
+A,04/05/2019 00:00:00,Beck Robert R,4,M-Exempt,--D,3649,125697,2,0001444694,Series C Common Stock
+A,04/05/2019 00:00:00,Beck Robert R,4,M-Exempt,--D,3649,72581,1,0001444694,Series A Common Stock
+A,03/18/2019 00:00:00,Leavy David,4,F-InKind,--D,1096,73682,1,0001608489,Series A Common Stock
+D,03/15/2019 00:00:00,Sims Savalle,4,M-Exempt,--D,281,0,3,0001706848,Employee Stock Option (right to acquire)
+D,03/15/2019 00:00:00,Sims Savalle,4,F-InKind,--D,264,17,2,0001706848,Series C Common Stock
+A,03/15/2019 00:00:00,Sims Savalle,4,M-Exempt,--D,281,281,1,0001706848,Series C Common Stock
+D,03/15/2019 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,12585,0,6,0001600595,Employee Stock Option (right to acquire)
+D,03/15/2019 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,12585,0,5,0001600595,Employee Stock Option (right to acquire)
+D,03/15/2019 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,11985,600,4,0001600595,Series C Common Stock
+A,03/15/2019 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,12585,12585,3,0001600595,Series C Common Stock
+D,03/15/2019 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,11824,270695,2,0001600595,Series A Common Stock
+A,03/15/2019 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,12585,282519,1,0001600595,Series A Common Stock
+D,03/15/2019 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,12585,0,6,0001444236,Employee Stock Option (right to acquire)
+D,03/15/2019 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,12585,0,5,0001444236,Employee Stock Option (right to acquire)
+D,03/15/2019 00:00:00,Alpert-Romm Adria,4,F-InKind,--D,12032,15460,4,0001444236,Series C Common Stock
+A,03/15/2019 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,12585,27492,3,0001444236,Series C Common Stock
+D,03/15/2019 00:00:00,Alpert-Romm Adria,4,F-InKind,--D,11883,36008,2,0001444236,Series A Common Stock
+A,03/15/2019 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,12585,47891,1,0001444236,Series A Common Stock
+D,03/04/2019 00:00:00,Sims Savalle,4,A-Award,--D,3382,10149,11,0001706848,Employee Stock Option
+D,03/04/2019 00:00:00,Sims Savalle,4,A-Award,--D,2400,7201,10,0001706848,Employee Stock Option
+D,03/04/2019 00:00:00,Sims Savalle,4,A-Award,--D,6016,2006,9,0001706848,Employee Stock Option
+D,03/04/2019 00:00:00,Sims Savalle,4,A-Award,--D,281,0,8,0001706848,Employee Stock Option
+D,03/04/2019 00:00:00,Sims Savalle,4,S-Sale,--D,137,0,7,0001706848,Series C Common Stock
+D,03/04/2019 00:00:00,Sims Savalle,4,S-Sale,--D,16486,44277,6,0001706848,Series A Common Stock
+A,03/04/2019 00:00:00,Sims Savalle,4,M-Exempt,--D,3382,60763,5,0001706848,Series A Common Stock
+A,03/04/2019 00:00:00,Sims Savalle,4,M-Exempt,--D,2400,57381,4,0001706848,Series A Common Stock
+A,03/04/2019 00:00:00,Sims Savalle,4,M-Exempt,--D,6016,54981,3,0001706848,Series A Common Stock
+A,03/04/2019 00:00:00,Sims Savalle,4,M-Exempt,--D,281,48965,2,0001706848,Series A Common Stock
+A,03/01/2019 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,185184,185184,2,0001694392,Employee Stock Option
+A,03/01/2019 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,60554,170551,1,0001694392,Series A Common Stock
+A,03/01/2019 00:00:00,Sims Savalle,4,A-Award,--D,13842,48684,1,0001706848,Series A Common Stock
+A,03/01/2019 00:00:00,Perrette Jean-Briac,4,A-Award,--D,185184,185184,2,0001600595,Employee Stock Option
+A,03/01/2019 00:00:00,Perrette Jean-Briac,4,A-Award,--D,60554,269934,1,0001600595,Series A Common Stock
+A,03/01/2019 00:00:00,Leavy David,4,A-Award,--D,58201,58201,2,0001608489,Employee Stock Option
+A,03/01/2019 00:00:00,Leavy David,4,A-Award,--D,19032,74778,1,0001608489,Series A Common Stock
+A,03/01/2019 00:00:00,Faricy Peter,4,A-Award,--D,169311,169311,2,0001753932,Employee Stock Option
+A,03/01/2019 00:00:00,Faricy Peter,4,A-Award,--D,55364,146467,1,0001753932,Series A Common Stock
+A,03/01/2019 00:00:00,Campbell Bruce,4,A-Award,--D,169311,169311,2,0001421985,Employee Stock Option
+A,03/01/2019 00:00:00,Campbell Bruce,4,A-Award,--D,55364,399009,1,0001421985,Series A Common Stock
+A,03/01/2019 00:00:00,Alpert-Romm Adria,4,A-Award,--D,116402,116402,1,0001444236,Employee Stock Option
+D,02/28/2019 00:00:00,Wehner Kurt,4,F-InKind,--D,38,325,2,0001562017,Series C Common Stock
+D,02/28/2019 00:00:00,Wehner Kurt,4,F-InKind,--D,38,17378,1,0001562017,Series A Common Stock
+D,02/28/2019 00:00:00,Sims Savalle,4,F-InKind,--D,71,137,2,0001706848,Series C Common Stock
+D,02/28/2019 00:00:00,Sims Savalle,4,F-InKind,--D,71,34842,1,0001706848,Series A Common Stock
+D,02/27/2019 00:00:00,Zaslav David,4,F-InKind,--D,167472,1679405,2,0001318285,Series A Common Stock
+A,02/27/2019 00:00:00,Zaslav David,4,A-Award,--D,602894,1846877,1,0001318285,Series A Common Stock
+D,02/27/2019 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,13803,209380,6,0001600595,Series A Common Stock
+A,02/27/2019 00:00:00,Perrette Jean-Briac,4,A-Award,--D,58732,223183,5,0001600595,Series A Common Stock
+D,02/27/2019 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,11750,164451,4,0001600595,Series A Common Stock
+A,02/27/2019 00:00:00,Perrette Jean-Briac,4,A-Award,--D,50000,176201,3,0001600595,Series A Common Stock
+D,02/27/2019 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,14169,126201,2,0001600595,Series A Common Stock
+A,02/27/2019 00:00:00,Perrette Jean-Briac,4,A-Award,--D,60290,140370,1,0001600595,Series A Common Stock
+D,02/27/2019 00:00:00,Leavy David,4,F-InKind,--D,2510,55746,2,0001608489,Series A Common Stock
+A,02/27/2019 00:00:00,Leavy David,4,A-Award,--D,15073,58256,1,0001608489,Series A Common Stock
+D,02/27/2019 00:00:00,Campbell Bruce,4,F-InKind,--D,9419,343645,2,0001421985,Series A Common Stock
+A,02/27/2019 00:00:00,Campbell Bruce,4,A-Award,--D,48232,353064,1,0001421985,Series A Common Stock
+D,02/27/2019 00:00:00,Alpert-Romm Adria,4,F-InKind,--D,2842,35306,2,0001444236,Series A Common Stock
+A,02/27/2019 00:00:00,Alpert-Romm Adria,4,A-Award,--D,15073,38148,1,0001444236,Series A Common Stock
+D,02/26/2019 00:00:00,Wehner Kurt,4,F-InKind,--D,545,17416,1,0001562017,Series A Common Stock
+D,02/26/2019 00:00:00,Sims Savalle,4,F-InKind,--D,1082,34913,1,0001706848,Series A Common Stock
+D,02/22/2019 00:00:00,Wehner Kurt,4,F-InKind,--D,717,17961,1,0001562017,Series A Common Stock
+D,02/22/2019 00:00:00,Sims Savalle,4,F-InKind,--D,1083,35995,1,0001706848,Series A Common Stock
+D,02/22/2019 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,8562,80080,1,0001600595,Series A Common Stock
+D,02/22/2019 00:00:00,Leavy David,4,F-InKind,--D,1598,43183,1,0001608489,Series A Common Stock
+D,02/22/2019 00:00:00,Campbell Bruce,4,F-InKind,--D,6316,304832,1,0001421985,Series A Common Stock
+D,02/22/2019 00:00:00,Alpert-Romm Adria,4,F-InKind,--D,2296,23075,1,0001444236,Series A Common Stock
+A,02/04/2019 00:00:00,Perrette Jean-Briac,4,A-Award,--D,140057,228699,1,0001600595,Series A Common Stock
+D,01/16/2019 00:00:00,Zaslav David,4,M-Exempt,--D,451984,1355954,16,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/16/2019 00:00:00,Zaslav David,4,M-Exempt,--D,361588,723176,15,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/16/2019 00:00:00,Zaslav David,4,M-Exempt,--D,289270,289271,14,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/16/2019 00:00:00,Zaslav David,4,M-Exempt,--D,231417,0,13,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/16/2019 00:00:00,Zaslav David,4,M-Exempt,--D,451984,1355954,12,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/16/2019 00:00:00,Zaslav David,4,M-Exempt,--D,361588,723176,11,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/16/2019 00:00:00,Zaslav David,4,M-Exempt,--D,289270,289271,10,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/16/2019 00:00:00,Zaslav David,4,M-Exempt,--D,231417,0,9,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/16/2019 00:00:00,Zaslav David,4,F-InKind,--D,6428,1219816,8,0001318285,Series C Common Stock
+D,01/16/2019 00:00:00,Zaslav David,4,D-Return,--D,100911,1226244,7,0001318285,Series C Common Stock
+D,01/16/2019 00:00:00,Zaslav David,4,D-Return,--D,338988,1327155,6,0001318285,Series C Common Stock
+A,01/16/2019 00:00:00,Zaslav David,4,M-Exempt,--D,451984,1666143,5,0001318285,Series C Common Stock
+D,01/16/2019 00:00:00,Zaslav David,4,F-InKind,--D,7335,1243983,4,0001318285,Series A Common Stock
+D,01/16/2019 00:00:00,Zaslav David,4,D-Return,--D,99207,1251318,3,0001318285,Series A Common Stock
+D,01/16/2019 00:00:00,Zaslav David,4,D-Return,--D,338988,1350525,2,0001318285,Series A Common Stock
+A,01/16/2019 00:00:00,Zaslav David,4,M-Exempt,--D,451984,1689513,1,0001318285,Series A Common Stock
+D,01/07/2019 00:00:00,Zaslav David,4,F-InKind,--D,138516,1214159,2,0001318285,Series C Common Stock
+D,01/07/2019 00:00:00,Zaslav David,4,F-InKind,--D,132862,1237529,1,0001318285,Series A Common Stock
+A,01/02/2019 00:00:00,Zaslav David,4,A-Award,--D,989299,989299,1,0001318285,Employee Stock Option (right to acquire)
+D,11/13/2018 00:00:00,LOWE KENNETH W,4,S-Sale,--D,33657,1202403,2,0001186933,Series C Common Stock
+D,11/13/2018 00:00:00,LOWE KENNETH W,4,S-Sale,--D,24343,1236060,1,0001186933,Series C Common Stock
+D,11/12/2018 00:00:00,Leavy David,4,M-Exempt,--D,10226,0,10,0001608489,Employee Stock Options (right to acquire)
+D,11/12/2018 00:00:00,Leavy David,4,M-Exempt,--D,5147,0,9,0001608489,Employee Stock Options (right to acquire)
+D,11/12/2018 00:00:00,Leavy David,4,M-Exempt,--D,10226,0,8,0001608489,Employee Stock Options (right to acquire)
+D,11/12/2018 00:00:00,Leavy David,4,M-Exempt,--D,5147,0,7,0001608489,Employee Stock Options (right to acquire)
+D,11/12/2018 00:00:00,Leavy David,4,S-Sale,--D,15373,5521,6,0001608489,Series C Common Stock
+A,11/12/2018 00:00:00,Leavy David,4,M-Exempt,--D,10226,20894,5,0001608489,Series C Common Stock
+A,11/12/2018 00:00:00,Leavy David,4,M-Exempt,--D,5147,10668,4,0001608489,Series C Common Stock
+D,11/12/2018 00:00:00,Leavy David,4,S-Sale,--D,23905,44270,3,0001608489,Series A Common Stock
+A,11/12/2018 00:00:00,Leavy David,4,M-Exempt,--D,10226,68175,2,0001608489,Series A Common Stock
+A,11/12/2018 00:00:00,Leavy David,4,M-Exempt,--D,5147,57949,1,0001608489,Series A Common Stock
+D,11/12/2018 00:00:00,Wiedenfels Gunnar,4,S-Sale,--D,50000,10000,1,0001694392,Series C Common Stock
+A,10/08/2018 00:00:00,Faricy Peter,4,A-Award,--D,91103,91103,1,0001753932,Series A Common Stock
+D,10/01/2018 00:00:00,Campbell Bruce,4,M-Exempt,--D,31462,0,3,0001421985,Employee Stock Options (right to acquire)
+D,10/01/2018 00:00:00,Campbell Bruce,4,S-Sale,--D,31462,40794,2,0001421985,Series C Common Stock
+A,10/01/2018 00:00:00,Campbell Bruce,4,M-Exempt,--D,31462,72256,1,0001421985,Series C Common Stock
+D,09/14/2018 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,25976,0,6,0001600595,Employee Stock Options (right to acquire)
+D,09/14/2018 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,25976,0,5,0001600595,Employee Stock Options (right to acquire)
+D,09/14/2018 00:00:00,Perrette Jean-Briac,4,S-Sale,--D,40500,0,4,0001600595,Series C Common Stock
+A,09/14/2018 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,25976,40500,3,0001600595,Series C Common Stock
+D,09/14/2018 00:00:00,Perrette Jean-Briac,4,S-Sale,--D,52892,88642,2,0001600595,Series A Common Stock
+A,09/14/2018 00:00:00,Perrette Jean-Briac,4,M-Exempt,--D,25976,141534,1,0001600595,Series A Common Stock
+D,09/14/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,0,10,0000937797,Forward sale contract (obligation to sell)
+D,09/14/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,0,9,0000937797,Forward sale contract (obligation to sell)
+D,09/14/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21655,7647777,4,0000937797,Series C Common Stock
+D,09/14/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,188452,7669432,3,0000937797,Series C Common Stock
+D,09/13/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,8,0000937797,Forward sale contract (obligation to sell)
+D,09/13/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,7,0000937797,Forward sale contract (obligation to sell)
+D,09/13/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21614,7857884,2,0000937797,Series C Common Stock
+D,09/13/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,188100,7879498,1,0000937797,Series C Common Stock
+D,09/12/2018 00:00:00,Campbell Bruce,4,M-Exempt,--D,31462,0,3,0001421985,Employee Stock Options (right to acquire)
+D,09/12/2018 00:00:00,Campbell Bruce,4,S-Sale,--D,31462,310554,2,0001421985,Series A Common Stock
+A,09/12/2018 00:00:00,Campbell Bruce,4,M-Exempt,--D,31462,342016,1,0001421985,Series A Common Stock
+D,09/12/2018 00:00:00,Wehner Kurt,4,M-Exempt,--D,1445,0,12,0001562017,Employee Stock Options (right to acquire)
+D,09/12/2018 00:00:00,Wehner Kurt,4,M-Exempt,--D,166,0,11,0001562017,Employee Stock Options (right to acquire)
+D,09/12/2018 00:00:00,Wehner Kurt,4,M-Exempt,--D,4011,4011,10,0001562017,Employee Stock Options (right to acquire)
+D,09/12/2018 00:00:00,Wehner Kurt,4,M-Exempt,--D,1445,0,9,0001562017,Employee Stock Options (right to acquire)
+D,09/12/2018 00:00:00,Wehner Kurt,4,M-Exempt,--D,166,0,8,0001562017,Employee Stock Options (right to acquire)
+D,09/12/2018 00:00:00,Wehner Kurt,4,S-Sale,--D,1611,363,7,0001562017,Series C Common Stock
+A,09/12/2018 00:00:00,Wehner Kurt,4,M-Exempt,--D,1445,1974,6,0001562017,Series C Common Stock
+A,09/12/2018 00:00:00,Wehner Kurt,4,M-Exempt,--D,166,529,5,0001562017,Series C Common Stock
+D,09/12/2018 00:00:00,Wehner Kurt,4,S-Sale,--D,5622,18678,4,0001562017,Series A Common Stock
+A,09/12/2018 00:00:00,Wehner Kurt,4,M-Exempt,--D,4011,24300,3,0001562017,Series A Common Stock
+A,09/12/2018 00:00:00,Wehner Kurt,4,M-Exempt,--D,1445,20289,2,0001562017,Series A Common Stock
+A,09/12/2018 00:00:00,Wehner Kurt,4,M-Exempt,--D,166,18844,1,0001562017,Series A Common Stock
+D,09/12/2018 00:00:00,Sims Savalle,4,M-Exempt,--D,1414,0,4,0001706848,Employee Stock Options (right to acquire)
+D,09/12/2018 00:00:00,Sims Savalle,4,S-Sale,--D,1414,208,3,0001706848,Series C Common Stock
+A,09/12/2018 00:00:00,Sims Savalle,4,M-Exempt,--D,1414,1622,2,0001706848,Series C Common Stock
+D,09/12/2018 00:00:00,Sims Savalle,4,S-Sale,--D,252,208,1,0001706848,Series C Common Stock
+D,09/12/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,10,0000937797,Forward sale contract (obligation to sell)
+D,09/12/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,9,0000937797,Forward sale contract (obligation to sell)
+D,09/12/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21503,8067598,4,0000937797,Series C Common Stock
+D,09/12/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,187132,8089101,3,0000937797,Series C Common Stock
+D,09/11/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,8,0000937797,Forward sale contract (obligation to sell)
+D,09/11/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,7,0000937797,Forward sale contract (obligation to sell)
+D,09/11/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21233,8276233,2,0000937797,Series C Common Stock
+D,09/11/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,184778,8297466,1,0000937797,Series C Common Stock
+D,09/10/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,10,0000937797,Forward sale contract (obligation to sell)
+D,09/10/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,9,0000937797,Forward sale contract (obligation to sell)
+D,09/10/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21195,8482244,4,0000937797,Series C Common Stock
+D,09/10/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,184448,8503439,3,0000937797,Series C Common Stock
+D,09/07/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,8,0000937797,Forward sale contract (obligation to sell)
+D,09/07/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,7,0000937797,Forward sale contract (obligation to sell)
+D,09/07/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21121,8687887,2,0000937797,Series C Common Stock
+D,09/07/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,183810,8709008,1,0000937797,Series C Common Stock
+D,09/06/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,10,0000937797,Forward sale contract (obligation to sell)
+D,09/06/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,9,0000937797,Forward sale contract (obligation to sell)
+D,09/06/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21068,8892818,4,0000937797,Series C Common Stock
+D,09/06/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,183348,8913886,3,0000937797,Series C Common Stock
+D,09/05/2018 00:00:00,LOWE KENNETH W,4,M-Exempt,--D,112747,0,5,0001186933,Director Stock Options (right to acquire)
+D,09/05/2018 00:00:00,LOWE KENNETH W,4,M-Exempt,--D,70874,0,4,0001186933,Director Stock Options (right to acquire)
+D,09/05/2018 00:00:00,LOWE KENNETH W,4,S-Sale,--D,183621,1260403,3,0001186933,Series C Common Stock
+A,09/05/2018 00:00:00,LOWE KENNETH W,4,M-Exempt,--D,112747,1444024,2,0001186933,Series C Common Stock
+A,09/05/2018 00:00:00,LOWE KENNETH W,4,M-Exempt,--D,70874,1331277,1,0001186933,Series C Common Stock
+D,09/05/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,8,0000937797,Forward sale contract (obligation to sell)
+D,09/05/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,7,0000937797,Forward sale contract (obligation to sell)
+D,09/05/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21071,9097234,2,0000937797,Series C Common Stock
+D,09/05/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,183370,9118305,1,0000937797,Series C Common Stock
+D,09/04/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,10,0000937797,Forward sale contract (obligation to sell)
+D,09/04/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,9,0000937797,Forward sale contract (obligation to sell)
+D,09/04/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21051,9301675,4,0000937797,Series C Common Stock
+D,09/04/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,183194,9322726,3,0000937797,Series C Common Stock
+D,08/31/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,8,0000937797,Forward sale contract (obligation to sell)
+D,08/31/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,7,0000937797,Forward sale contract (obligation to sell)
+D,08/31/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21104,9505920,2,0000937797,Series C Common Stock
+D,08/31/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,183656,9527024,1,0000937797,Series C Common Stock
+D,08/30/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,10,0000937797,Forward sale contract (obligation to sell)
+D,08/30/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,9,0000937797,Forward sale contract (obligation to sell)
+D,08/30/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21182,9710680,4,0000937797,Series C Common Stock
+D,08/30/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,184338,9731862,3,0000937797,Series C Common Stock
+D,08/29/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,8,0000937797,Forward sale contract (obligation to sell)
+D,08/29/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,7,0000937797,Forward sale contract (obligation to sell)
+D,08/29/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21180,9916200,2,0000937797,Series C Common Stock
+D,08/29/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,184316,9937380,1,0000937797,Series C Common Stock
+D,08/28/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,10,0000937797,Forward sale contract (obligation to sell)
+D,08/28/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,9,0000937797,Forward sale contract (obligation to sell)
+D,08/28/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21169,10121696,4,0000937797,Series C Common Stock
+D,08/28/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,184228,10142865,3,0000937797,Series C Common Stock
+D,08/27/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,8,0000937797,Forward sale contract (obligation to sell)
+D,08/27/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,7,0000937797,Forward sale contract (obligation to sell)
+D,08/27/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21243,10327093,2,0000937797,Series C Common Stock
+D,08/27/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,184866,10348336,1,0000937797,Series C Common Stock
+D,08/24/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,10,0000937797,Forward sale contract (obligation to sell)
+D,08/24/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,9,0000937797,Forward sale contract (obligation to sell)
+D,08/24/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21212,10533202,4,0000937797,Series C Common Stock
+D,08/24/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,184602,10554414,3,0000937797,Series C Common Stock
+D,08/23/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,8,0000937797,Forward sale contract (obligation to sell)
+D,08/23/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,7,0000937797,Forward sale contract (obligation to sell)
+D,08/23/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21250,10739016,2,0000937797,Series C Common Stock
+D,08/23/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,184932,10760266,1,0000937797,Series C Common Stock
+D,08/22/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,10,0000937797,Forward sale contract (obligation to sell)
+D,08/22/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,9,0000937797,Forward sale contract (obligation to sell)
+D,08/22/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21288,10945198,4,0000937797,Series C Common Stock
+D,08/22/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,185262,10966486,3,0000937797,Series C Common Stock
+D,08/21/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,8,0000937797,Forward sale contract (obligation to sell)
+D,08/21/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,7,0000937797,Forward sale contract (obligation to sell)
+D,08/21/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21359,11151748,2,0000937797,Series C Common Stock
+D,08/21/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,185878,11173107,1,0000937797,Series C Common Stock
+D,08/20/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,10,0000937797,Forward sale contract (obligation to sell)
+D,08/20/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,9,0000937797,Forward sale contract (obligation to sell)
+D,08/20/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,21132,11358985,4,0000937797,Series C Common Stock
+D,08/20/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,183898,11380117,3,0000937797,Series C Common Stock
+D,08/17/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,8,0000937797,Forward sale contract (obligation to sell)
+D,08/17/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,7,0000937797,Forward sale contract (obligation to sell)
+D,08/17/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,20982,11564015,2,0000937797,Series C Common Stock
+D,08/17/2018 00:00:00,MALONE JOHN C,4,J-Other,1-D,182600,11584997,1,0000937797,Series C Common Stock
+D,07/31/2018 00:00:00,Campbell Bruce,4,F-InKind,--D,12348,310554,1,0001421985,Series A Common Stock
+A,07/16/2018 00:00:00,Zaslav David,4,A-Award,--D,1571489,1571489,5,0001318285,Employee Stock Option (right to acquire)
+A,07/16/2018 00:00:00,Zaslav David,4,A-Award,--D,2393454,2393454,4,0001318285,Employee Stock Option (right to acquire)
+A,07/16/2018 00:00:00,Zaslav David,4,A-Award,--D,2155404,2155404,3,0001318285,Employee Stock Option (right to acquire)
+A,07/16/2018 00:00:00,Zaslav David,4,A-Award,--D,2211344,2211344,2,0001318285,Employee Stock Option (right to acquire)
+A,07/16/2018 00:00:00,Zaslav David,4,A-Award,--D,2435655,2435655,1,0001318285,Employee Stock Option (right to acquire)
+A,06/13/2018 00:00:00,MALONE JOHN C,4,P-Purchase,--I,107000,557000,5,0000937797,Series C Common Stock
+A,06/12/2018 00:00:00,MALONE JOHN C,4,P-Purchase,--I,450000,450000,4,0000937797,Series C Common Stock
+A,06/12/2018 00:00:00,MALONE JOHN C,4,P-Purchase,--I,850000,850000,1,0000937797,Series A Common Stock
+D,05/17/2018 00:00:00,WARGO J DAVID,4,M-Exempt,--D,3934,0,4,0001082013,Director Stock Option (right to acquire)
+D,05/17/2018 00:00:00,WARGO J DAVID,4,M-Exempt,--D,3934,0,3,0001082013,Director Stock Option (right to acquire)
+A,05/17/2018 00:00:00,WARGO J DAVID,4,M-Exempt,--D,3934,321525,2,0001082013,Series C Common Stock
+A,05/17/2018 00:00:00,WARGO J DAVID,4,M-Exempt,--D,3934,63349,1,0001082013,Series A Common Stock
+D,05/17/2018 00:00:00,MALONE JOHN C,4,M-Exempt,--D,3934,0,8,0000937797,Director Stock Option (right to acquire)
+D,05/17/2018 00:00:00,MALONE JOHN C,4,M-Exempt,--D,3934,0,7,0000937797,Director Stock Option (right to acquire)
+D,05/17/2018 00:00:00,MALONE JOHN C,4,F-InKind,--D,3892,11767597,5,0000937797,Series C Common Stock
+A,05/17/2018 00:00:00,MALONE JOHN C,4,M-Exempt,--D,3934,11771489,4,0000937797,Series C Common Stock
+D,05/17/2018 00:00:00,MALONE JOHN C,4,F-InKind,--D,3804,780335,2,0000937797,Series A Common Stock
+A,05/17/2018 00:00:00,MALONE JOHN C,4,M-Exempt,--D,3934,784139,1,0000937797,Series A Common Stock
+D,05/17/2018 00:00:00,GOULD PAUL A,4,M-Exempt,--D,3934,0,6,0001018211,Director Stock Option (right to acquire)
+D,05/17/2018 00:00:00,GOULD PAUL A,4,M-Exempt,--D,3934,0,5,0001018211,Director Stock Option (right to acquire)
+D,05/17/2018 00:00:00,GOULD PAUL A,4,F-InKind,--D,3892,451072,4,0001018211,Series C Common Stock
+A,05/17/2018 00:00:00,GOULD PAUL A,4,M-Exempt,--D,3934,454964,3,0001018211,Series C Common Stock
+D,05/17/2018 00:00:00,GOULD PAUL A,4,F-InKind,--D,3804,199186,2,0001018211,Series A Common Stock
+A,05/17/2018 00:00:00,GOULD PAUL A,4,M-Exempt,--D,3934,202990,1,0001018211,Series A Common Stock
+D,05/17/2018 00:00:00,BENNETT ROBERT R,4,M-Exempt,--D,3934,0,8,0001119603,Director Stock Option (right to acquire)
+D,05/17/2018 00:00:00,BENNETT ROBERT R,4,M-Exempt,--D,3934,0,7,0001119603,Director Stock Option (right to acquire)
+D,05/17/2018 00:00:00,BENNETT ROBERT R,4,F-InKind,--D,3892,27792,5,0001119603,Series C Common Stock
+A,05/17/2018 00:00:00,BENNETT ROBERT R,4,M-Exempt,--D,3934,31684,4,0001119603,Series C Common Stock
+D,05/17/2018 00:00:00,BENNETT ROBERT R,4,F-InKind,--D,3804,47746,2,0001119603,Series A Common Stock
+A,05/17/2018 00:00:00,BENNETT ROBERT R,4,M-Exempt,--D,3934,51550,1,0001119603,Series A Common Stock
+D,05/14/2018 00:00:00,MIRON ROBERT,4,M-Exempt,--D,3934,0,6,0001192676,Director Stock Option (right to acquire)
+D,05/14/2018 00:00:00,MIRON ROBERT,4,M-Exempt,--D,3934,0,5,0001192676,Director Stock Option (right to acquire)
+A,05/14/2018 00:00:00,MIRON ROBERT,4,M-Exempt,--D,3934,26201,3,0001192676,Series C Common Stock
+A,05/14/2018 00:00:00,MIRON ROBERT,4,M-Exempt,--D,3934,48179,1,0001192676,Series A Common Stock
+D,05/11/2018 00:00:00,Miron Steven A,4,M-Exempt,--D,3934,0,4,0001444691,Director Stock Option (right to acquire)
+D,05/11/2018 00:00:00,Miron Steven A,4,M-Exempt,--D,3934,0,3,0001444691,Director Stock Option (right to acquire)
+A,05/11/2018 00:00:00,Miron Steven A,4,M-Exempt,--D,3934,26201,2,0001444691,Series C Common Stock
+A,05/11/2018 00:00:00,Miron Steven A,4,M-Exempt,--D,3934,48241,1,0001444691,Series A Common Stock
+A,05/10/2018 00:00:00,WARGO J DAVID,4,A-Award,--D,6733,59415,1,0001082013,Series A Common Stock
+A,05/10/2018 00:00:00,SWAIN SUSAN M,4,A-Award,--D,6733,15116,1,0001193327,Series A Common Stock
+A,05/10/2018 00:00:00,Sanchez Daniel E.,4,A-Award,--D,6733,12619,1,0001567395,Series A Common Stock
+A,05/10/2018 00:00:00,Miron Steven A,4,A-Award,--D,6733,44307,1,0001444691,Series A Common Stock
+A,05/10/2018 00:00:00,MIRON ROBERT,4,A-Award,--D,6733,44245,1,0001192676,Series A Common Stock
+A,05/10/2018 00:00:00,MALONE JOHN C,4,A-Award,--D,6733,780205,1,0000937797,Series A Common Stock
+A,05/10/2018 00:00:00,LOWE KENNETH W,4,A-Award,--D,7878,7878,1,0001186933,Series A Common Stock
+A,05/10/2018 00:00:00,GOULD PAUL A,4,A-Award,--D,6733,199056,1,0001018211,Series A Common Stock
+A,05/10/2018 00:00:00,BENNETT ROBERT R,4,A-Award,--D,6733,47616,1,0001119603,Series A Common Stock
+A,05/10/2018 00:00:00,Beck Robert R,4,A-Award,--D,6733,68932,1,0001444694,Series A Common Stock
+A,05/10/2018 00:00:00,ANSTROM S DECKER,4,A-Award,--D,6733,25971,1,0001203698,Series A Common Stock
+A,05/09/2018 00:00:00,Wiedenfels Gunnar,4,P-Purchase,--D,10000,60000,1,0001694392,Series C Common Stock
+A,05/09/2018 00:00:00,WARGO J DAVID,4,P-Purchase,--D,50000,317591,1,0001082013,Series C Common Stock
+D,05/02/2018 00:00:00,Beck Robert R,4,M-Exempt,--D,3934,0,4,0001444694,Director Stock Option (right to acquire)
+D,05/02/2018 00:00:00,Beck Robert R,4,M-Exempt,--D,3934,0,3,0001444694,Director Stock Option (right to acquire)
+A,05/02/2018 00:00:00,Beck Robert R,4,M-Exempt,--D,3934,122048,2,0001444694,Series C Common Stock
+A,05/02/2018 00:00:00,Beck Robert R,4,M-Exempt,--D,3934,62199,1,0001444694,Series A Common Stock
+A,03/20/2018 00:00:00,LOWE KENNETH W,4,A-Award,--D,55987,1260403,1,0001186933,Series C Common Stock
+A,03/16/2018 00:00:00,Wehner Kurt,4/A,A-Award,--D,3207,3207,2,0001562017,Employee Stock Option (right to acquire)
+A,03/16/2018 00:00:00,Wehner Kurt,4/A,A-Award,--D,1069,18678,1,0001562017,Series A Common Stock
+A,03/16/2018 00:00:00,Wehner Kurt,4,A-Award,--D,2566,2566,2,0001562017,Employee Stock Option (right to acquire)
+A,03/16/2018 00:00:00,Wehner Kurt,4,A-Award,--D,1069,18678,1,0001562017,Series A Common Stock
+D,03/16/2018 00:00:00,Leavy David,4,F-InKind,--D,1096,52178,1,0001608489,Series A Common Stock
+D,03/16/2018 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,8119,0,6,0001444236,Employee Stock Option (right to acquire)
+D,03/16/2018 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,8119,0,5,0001444236,Employee Stock Option (right to acquire)
+D,03/16/2018 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,8119,14907,4,0001444236,Series C Common Stock
+A,03/16/2018 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,8119,23026,3,0001444236,Series C Common Stock
+D,03/16/2018 00:00:00,Alpert-Romm Adria,4,S-Sale,--D,8119,25344,2,0001444236,Series A Common Stock
+A,03/16/2018 00:00:00,Alpert-Romm Adria,4,M-Exempt,--D,8119,33463,1,0001444236,Series A Common Stock
+D,03/14/2018 00:00:00,Sims Savalle,4,S-Sale,--D,2571,36640,1,0001706848,Series A Common Stock
+A,03/08/2018 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,A-Award,--I,7207,7207,1,0001455381,Series C Common Stock
+A,03/01/2018 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,202962,202962,2,0001694392,Employee Stock Option (right to acquire)
+A,03/01/2018 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,61678,109997,1,0001694392,Series A Common Stock
+A,03/01/2018 00:00:00,Wehner Kurt,4,A-Award,--D,10149,10149,4,0001562017,Employee Stock Option (right to acquire)
+A,03/01/2018 00:00:00,Wehner Kurt,4,A-Award,--D,3084,17609,2,0001562017,Series A Common Stock
+A,03/01/2018 00:00:00,Sims Savalle,4,A-Award,--D,13531,13531,4,0001706848,Employee Stock Option (right to acquire)
+A,03/01/2018 00:00:00,Sims Savalle,4,A-Award,--D,11308,39211,2,0001706848,Series A Common Stock
+A,03/01/2018 00:00:00,Perrette Jean-Briac,4,A-Award,--D,219876,219876,5,0001600595,Employee Stock Option (right to acquire)
+A,03/01/2018 00:00:00,Perrette Jean-Briac,4,A-Award,--D,66818,115558,3,0001600595,Series A Common Stock
+D,03/01/2018 00:00:00,Leavy David,4,M-Exempt,--D,6391,0,11,0001608489,Employee Stock Option (right to acquire)
+A,03/01/2018 00:00:00,Leavy David,4,A-Award,--D,67654,67654,10,0001608489,Employee Stock Option (right to acquire)
+D,03/01/2018 00:00:00,Leavy David,4,M-Exempt,--D,6391,0,9,0001608489,Employee Stock Option (right to acquire)
+D,03/01/2018 00:00:00,Leavy David,4,S-Sale,--D,14282,5521,8,0001608489,Series C Common Stock
+A,03/01/2018 00:00:00,Leavy David,4,M-Exempt,--D,6391,19803,7,0001608489,Series C Common Stock
+D,03/01/2018 00:00:00,Leavy David,4,S-Sale,--D,6391,53274,5,0001608489,Series A Common Stock
+A,03/01/2018 00:00:00,Leavy David,4,M-Exempt,--D,6391,59665,4,0001608489,Series A Common Stock
+A,03/01/2018 00:00:00,Leavy David,4,A-Award,--D,20560,53274,3,0001608489,Series A Common Stock
+A,03/01/2018 00:00:00,Campbell Bruce,4,A-Award,--D,202962,202962,5,0001421985,Employee Stock Option (right to acquire)
+A,03/01/2018 00:00:00,Campbell Bruce,4,A-Award,--D,215873,332306,3,0001421985,Series A Common Stock
+A,03/01/2018 00:00:00,Alpert-Romm Adria,4,A-Award,--D,135308,135308,4,0001444236,Employee Stock Option (right to acquire)
+D,02/28/2018 00:00:00,Wehner Kurt,4,F-InKind,--D,132,363,3,0001562017,Series C Common Stock
+D,02/28/2018 00:00:00,Wehner Kurt,4,F-InKind,--D,132,14525,1,0001562017,Series A Common Stock
+D,02/28/2018 00:00:00,Sims Savalle,4,F-InKind,--D,105,460,3,0001706848,Series C Common Stock
+D,02/28/2018 00:00:00,Sims Savalle,4,F-InKind,--D,105,27903,1,0001706848,Series A Common Stock
+D,02/28/2018 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,4007,14524,4,0001600595,Series C Common Stock
+D,02/28/2018 00:00:00,Perrette Jean-Briac,4,F-InKind,--D,14264,48740,2,0001600595,Series A Common Stock
+A,02/28/2018 00:00:00,Perrette Jean-Briac,4,A-Award,--D,43647,63004,1,0001600595,Series A Common Stock
+D,02/28/2018 00:00:00,Leavy David,4,F-InKind,--D,507,13412,6,0001608489,Series C Common Stock
+D,02/28/2018 00:00:00,Leavy David,4,F-InKind,--D,2106,32714,2,0001608489,Series A Common Stock
+A,02/28/2018 00:00:00,Leavy David,4,A-Award,--D,9700,34820,1,0001608489,Series A Common Stock
+D,02/28/2018 00:00:00,Campbell Bruce,4,F-InKind,--D,2379,40794,4,0001421985,Series C Common Stock
+D,02/28/2018 00:00:00,Campbell Bruce,4,F-InKind,--D,8695,106433,2,0001421985,Series A Common Stock
+A,02/28/2018 00:00:00,Campbell Bruce,4,A-Award,--D,37181,115128,1,0001421985,Series A Common Stock
+D,02/28/2018 00:00:00,Alpert-Romm Adria,4,F-InKind,--D,731,14907,3,0001444236,Series C Common Stock
+D,02/28/2018 00:00:00,Alpert-Romm Adria,4,F-InKind,--D,2993,25344,2,0001444236,Series A Common Stock
+A,02/28/2018 00:00:00,Alpert-Romm Adria,4,A-Award,--D,12125,28337,1,0001444236,Series A Common Stock
+A,02/28/2018 00:00:00,Wehner Kurt,4,A-Award,--D,366,1295,1,0001562017,Series A Common Stock
+D,02/26/2018 00:00:00,Wehner Kurt,4,F-InKind,--D,282,14657,2,0001562017,Series A Common Stock
+D,02/26/2018 00:00:00,Sims Savalle,4,F-InKind,--D,233,28008,2,0001706848,Series A Common Stock
+D,02/23/2018 00:00:00,Wehner Kurt,4,F-InKind,--D,624,14939,1,0001562017,Series A Common Stock
+D,02/23/2018 00:00:00,Sims Savalle,4,F-InKind,--D,803,28241,1,0001706848,Series A Common Stock
+A,01/17/2018 00:00:00,Zaslav David,4,A-Award,--D,1807938,1807938,10,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/17/2018 00:00:00,Zaslav David,4,M-Exempt,--D,361587,1084764,9,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/17/2018 00:00:00,Zaslav David,4,M-Exempt,--D,289270,578541,8,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/17/2018 00:00:00,Zaslav David,4,M-Exempt,--D,231416,231417,7,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/17/2018 00:00:00,Zaslav David,4,M-Exempt,--D,925665,0,6,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+A,01/17/2018 00:00:00,Zaslav David,4,A-Award,--D,1807938,1807938,5,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/17/2018 00:00:00,Zaslav David,4,M-Exempt,--D,361587,1084764,4,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/17/2018 00:00:00,Zaslav David,4,M-Exempt,--D,289270,578541,3,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/17/2018 00:00:00,Zaslav David,4,M-Exempt,--D,231416,231417,2,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/17/2018 00:00:00,Zaslav David,4,M-Exempt,--D,925665,0,1,0001318285,Cash- and Stock-Settled Stock Appreciation Right
+D,01/17/2018 00:00:00,Leavy David,4,F-InKind,--D,129,13919,1,0001608489,Series C Common Stock
+D,01/08/2018 00:00:00,Zaslav David,4,F-InKind,--D,138512,1352675,2,0001318285,Series C Common Stock
+D,01/08/2018 00:00:00,Zaslav David,4,F-InKind,--D,138512,1370391,1,0001318285,Series A Common Stock
+D,01/02/2018 00:00:00,Zaslav David,4,F-InKind,--D,108131,1491187,2,0001318285,Series C Common Stock
+D,01/02/2018 00:00:00,Zaslav David,4,F-InKind,--D,101813,1508903,1,0001318285,Series A Common Stock
+D,12/20/2017 00:00:00,Campbell Bruce,4,M-Exempt,--D,7888,0,9,0001421985,Employee Stock Options (right to acquire)
+D,12/20/2017 00:00:00,Campbell Bruce,4,S-Sale,--D,7888,43173,6,0001421985,Series C Common Stock
+A,12/20/2017 00:00:00,Campbell Bruce,4,M-Exempt,--D,7888,51061,5,0001421985,Series C Common Stock
+D,12/19/2017 00:00:00,Campbell Bruce,4,M-Exempt,--D,100,7888,8,0001421985,Employee Stock Options (right to acquire)
+D,12/19/2017 00:00:00,Campbell Bruce,4,M-Exempt,--D,7988,0,7,0001421985,Employee Stock Options (right to acquire)
+D,12/19/2017 00:00:00,Campbell Bruce,4,S-Sale,--D,100,43173,4,0001421985,Series C Common Stock
+A,12/19/2017 00:00:00,Campbell Bruce,4,M-Exempt,--D,100,43273,3,0001421985,Series C Common Stock
+D,12/19/2017 00:00:00,Campbell Bruce,4,S-Sale,--D,7988,77310,2,0001421985,Series A Common Stock
+A,12/19/2017 00:00:00,Campbell Bruce,4,M-Exempt,--D,7988,85298,1,0001421985,Series A Common Stock
+A,12/14/2017 00:00:00,WARGO J DAVID,4,P-Purchase,--D,100000,267591,1,0001082013,Series C Common Stock
+A,12/14/2017 00:00:00,MALONE JOHN C,4,P-Purchase,--D,102377,773472,1,0000937797,Series A Common Stock
+D,12/13/2017 00:00:00,Campbell Bruce,4,S-Sale,--D,3047,43173,1,0001421985,Series C Common Stock
+A,12/13/2017 00:00:00,MALONE JOHN C,4,P-Purchase,--D,332523,671095,1,0000937797,Series A Common Stock
+A,11/06/2017 00:00:00,WARGO J DAVID,4,P-Purchase,--D,20000,167591,2,0001082013,Series C Common Stock
+A,11/03/2017 00:00:00,WARGO J DAVID,4,P-Purchase,--D,80000,147591,1,0001082013,Series C Common Stock
+A,11/03/2017 00:00:00,Wiedenfels Gunnar,4,P-Purchase,--D,15000,50000,1,0001694392,Series C Common Stock
+A,08/18/2017 00:00:00,GUAGLIARDO PAUL J,4,P-Purchase,--D,10000,10000,1,0001282691,Series A Common Stock
+A,08/15/2017 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,3,0000937797,Forward sale contract (obligation to sell)
+A,08/15/2017 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,1,2,0000937797,Forward sale contract (obligation to sell)
+D,08/15/2017 00:00:00,MALONE JOHN C,4,J-Other,1-D,1,0,1,0000937797,Forward sale contract (obligation to sell)
+A,08/15/2017 00:00:00,Wiedenfels Gunnar,4,P-Purchase,--D,15000,35000,1,0001694392,Series C Common Stock
+D,08/10/2017 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,D-Return,--I,201119,6017473.5,1,0001455381,Series C-1 Convertible Participating Preferred Stock
+A,08/07/2017 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,A-Award,--I,6218592.5,6218592.5,5,0001455381,Series C-1 Convertible Participating Preferred Stock
+A,08/07/2017 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,A-Award,--I,7852582.44,7852582.44,4,0001455381,Series A-1 Convertible Participating Preferred Stock
+D,08/07/2017 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,D-Return,--I,24874370,0,3,0001455381,Series C Convertible Participating Preferred Stock
+D,08/07/2017 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,D-Return,--I,70673242,0,2,0001455381,Series A Convertible Participating Preferred Stock
+D,08/07/2017 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,D-Return,--I,70673242,0,1,0001455381,Series A Convertible Participating Preferred Stock
+A,08/02/2017 00:00:00,ANSTROM S DECKER,4,P-Purchase,--D,10000,13931,1,0001203698,Series C Common Stock
+A,08/01/2017 00:00:00,Wiedenfels Gunnar,4,P-Purchase,--D,20000,20000,1,0001694392,Series C Common Stock
+D,08/01/2017 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,D-Return,--I,446162,24874370,3,0001455381,Series C Convertible Participating Preferred Stock
+D,08/01/2017 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,D-Return,--I,434070,70673242,2,0001455381,Series A Convertible Participating Preferred Stock
+D,08/01/2017 00:00:00,ADVANCE LONG-TERM MANAGEMENT TRUST,4,D-Return,--I,434070,70673242,1,0001455381,Series A Convertible Participating Preferred Stock
+D,07/31/2017 00:00:00,Campbell Bruce,4,F-InKind,--D,13003,77310,2,0001421985,Series A Common Stock
+D,06/15/2017 00:00:00,Campbell Bruce,4,S-Sale,--D,9283,39884,1,0001421985,Series A Common Stock
+D,06/13/2017 00:00:00,Wehner Kurt,4,M-Exempt,--D,1231,0,6,0001562017,Employee Stock Option (right to acquire)
+D,06/13/2017 00:00:00,Wehner Kurt,4,M-Exempt,--D,1231,0,5,0001562017,Employee Stock Option (right to acquire)
+D,06/13/2017 00:00:00,Wehner Kurt,4,S-Sale,--D,2176,495,4,0001562017,Series C Common Stock
+A,06/13/2017 00:00:00,Wehner Kurt,4,M-Exempt,--D,1231,2671,3,0001562017,Series C Common Stock
+D,06/13/2017 00:00:00,Wehner Kurt,4,S-Sale,--D,2570,15563,2,0001562017,Series A Common Stock
+A,06/13/2017 00:00:00,Wehner Kurt,4,M-Exempt,--D,1231,18133,1,0001562017,Series A Common Stock
+A,05/22/2017 00:00:00,Campbell Bruce,4,A-Award,--D,50429,90313,1,0001421985,Series  A Common Stock
+A,05/22/2017 00:00:00,Sims Savalle,4,A-Award,--D,9601,9601,2,0001706848,Employee Stock Option (right to acquire)
+A,05/22/2017 00:00:00,Sims Savalle,4,A-Award,--D,2900,29044,1,0001706848,Series A Common Stock
+A,05/22/2017 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,160001,160001,2,0001694392,Employee Stock Option (right to acquire)
+A,05/22/2017 00:00:00,Wiedenfels Gunnar,4,A-Award,--D,48319,48319,1,0001694392,Series A Common Stock
+A,05/17/2017 00:00:00,Sanchez Daniel E.,4,A-Award,--D,5864,5864,1,0001567395,Series A Common Stock
+A,05/17/2017 00:00:00,WARGO J DAVID,4,A-Award,--D,5864,52682,1,0001082013,Series A Common Stock
+A,05/17/2017 00:00:00,SWAIN SUSAN M,4,A-Award,--D,5864,8383,1,0001193327,Series A Common Stock
+A,05/17/2017 00:00:00,Miron Steven A,4,A-Award,--D,5864,37574,1,0001444691,Series A Common Stock
+A,05/17/2017 00:00:00,MIRON ROBERT,4,A-Award,--D,5864,37512,1,0001192676,Series A Common Stock
+A,05/17/2017 00:00:00,MALONE JOHN C,4,A-Award,--D,5864,338572,1,0000937797,Series A Common Stock
+A,05/17/2017 00:00:00,GOULD PAUL A,4,A-Award,--D,5864,192323,1,0001018211,Series A Common Stock
+A,05/17/2017 00:00:00,BENNETT ROBERT R,4,A-Award,--D,5864,40883,1,0001119603,Series A Common Stock
+A,05/17/2017 00:00:00,Beck Robert R,4,A-Award,--D,5864,58265,1,0001444694,Series A Common Stock
+A,05/17/2017 00:00:00,ANSTROM S DECKER,4,A-Award,--D,5864,19238,1,0001203698,Series A Common Stock

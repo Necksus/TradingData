@@ -1,0 +1,721 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,06/13/2023 00:00:00,PERU RAMIRO G,4,A-Award,--D,6541,89355,1,0001192045,"Common Stock, $.01 Par Value"
+A,06/13/2023 00:00:00,Bailo Carla Jean,4,A-Award,--D,6541,94998,1,0001756088,"Common Stock, $.01 Par Value"
+A,06/13/2023 00:00:00,Brand Stephen R,4,A-Award,--D,6541,99491,1,0001516382,"Common Stock, $.01 Par Value"
+A,06/13/2023 00:00:00,Powers Anita M.,4,A-Award,--D,9812,17959,1,0001713998,"Common Stock, $.01 Par Value"
+A,06/13/2023 00:00:00,ROBESON ROSE M,4,A-Award,--D,6541,69531,1,0001251678,"Common Stock, $.01 Par Value"
+A,06/13/2023 00:00:00,Quintana Julio M,4,A-Award,--D,11084,133028,1,0001364531,"Common Stock, $.01 Par Value"
+A,06/13/2023 00:00:00,SULLIVAN WILLIAM D,4,A-Award,--D,9812,154157,1,0001221980,"Common Stock, $.01 Par Value"
+D,05/05/2023 00:00:00,PURSELL A WADE,4,G-Gift,--D,5000,351974,1,0001041812,"Common Stock, $.01 Par Value"
+A,03/15/2023 00:00:00,Vogel Herbert S,4,P-Purchase,--D,1000,406063,1,0001544288,"Common Stock, $.01 Par Value"
+A,03/09/2023 00:00:00,Vogel Herbert S,4,P-Purchase,--D,1000,405063,2,0001544288,"Common Stock, $.01 Par Value"
+A,03/08/2023 00:00:00,Vogel Herbert S,4,P-Purchase,--D,1000,404063,1,0001544288,"Common Stock, $.01 Par Value"
+A,03/07/2023 00:00:00,Vogel Herbert S,4,P-Purchase,--D,1000,403063,2,0001544288,"Common Stock, $.01 Par Value"
+A,03/06/2023 00:00:00,Vogel Herbert S,4,P-Purchase,--D,1000,402063,1,0001544288,"Common Stock, $.01 Par Value"
+A,01/27/2023 00:00:00,Lebeck James Barker,4,A-Award,--D,14698,14698,1,0001963802,Restricted Stock Units
+A,12/31/2022 00:00:00,PURSELL A WADE,5,J-Other,--D,88,356974,3,0001041812,"Common Stock, $.01 Par Value"
+A,12/31/2022 00:00:00,Vogel Herbert S,5,J-Other,--D,337,401063,2,0001544288,"Common Stock, $.01 Par Value"
+D,11/07/2022 00:00:00,Vogel Herbert S,5,G-Gift,--D,7224,400726,1,0001544288,"Common Stock, $.01 Par Value"
+D,10/27/2022 00:00:00,PURSELL A WADE,5,G-Gift,--D,1000,356886,2,0001041812,"Common Stock, $.01 Par Value"
+D,10/21/2022 00:00:00,Quintana Julio M,4,S-Sale,--D,22300,121944,1,0001364531,"Common Stock, $.01 Par Value"
+D,09/21/2022 00:00:00,PURSELL A WADE,5,G-Gift,--D,3000,357886,1,0001041812,"Common Stock, $.01 Par Value"
+D,09/09/2022 00:00:00,Lytle Patrick A,4,S-Sale,--D,8658,12463,1,0001767858,"Common Stock, $.01 Par Value"
+D,09/09/2022 00:00:00,Copeland David W,4,S-Sale,--D,10000,228543,2,0001396395,"Common Stock, $.01 Par Value"
+D,09/09/2022 00:00:00,Copeland David W,4,G-Gift,--D,7481,238543,1,0001396395,"Common Stock, $.01 Par Value"
+D,09/01/2022 00:00:00,Newton Lehman E III,4,F-InKind,--D,14832,158551,2,0001403099,"Common Stock, $.01 Par Value"
+A,09/01/2022 00:00:00,Newton Lehman E III,4,M-Exempt,--D,37704,173383,1,0001403099,"Common Stock, $.01 Par Value"
+D,09/01/2022 00:00:00,Knott Kenneth J.,4,F-InKind,--D,13976,118441,2,0001442846,"Common Stock, $.01 Par Value"
+A,09/01/2022 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,36066,132417,1,0001442846,"Common Stock, $.01 Par Value"
+D,09/01/2022 00:00:00,PURSELL A WADE,4,F-InKind,--D,57574,360886,2,0001041812,"Common Stock, $.01 Par Value"
+A,09/01/2022 00:00:00,PURSELL A WADE,4,M-Exempt,--D,131148,418460,1,0001041812,"Common Stock, $.01 Par Value"
+D,09/01/2022 00:00:00,Lytle Patrick A,4,F-InKind,--D,3520,21121,2,0001767858,"Common Stock, $.01 Par Value"
+A,09/01/2022 00:00:00,Lytle Patrick A,4,M-Exempt,--D,12178,24641,1,0001767858,"Common Stock, $.01 Par Value"
+D,09/01/2022 00:00:00,Vogel Herbert S,4,F-InKind,--D,64771,407950,2,0001544288,"Common Stock, $.01 Par Value"
+A,09/01/2022 00:00:00,Vogel Herbert S,4,M-Exempt,--D,147540,472721,1,0001544288,"Common Stock, $.01 Par Value"
+D,09/01/2022 00:00:00,Copeland David W,4,F-InKind,--D,24518,246024,2,0001396395,"Common Stock, $.01 Par Value"
+A,09/01/2022 00:00:00,Copeland David W,4,M-Exempt,--D,62296,270542,1,0001396395,"Common Stock, $.01 Par Value"
+D,09/01/2022 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,5319,50950,4,0001563908,"Common Stock, $.01 Par Value"
+A,09/01/2022 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,16206,56269,3,0001563908,"Common Stock, $.01 Par Value"
+D,09/01/2022 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,16536,105371,2,0001563908,"Common Stock, $.01 Par Value"
+A,09/01/2022 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,37704,121907,1,0001563908,"Common Stock, $.01 Par Value"
+D,09/01/2022 00:00:00,Whitcomb David J.,4,F-InKind,--D,7878,60861,2,0001442781,"Common Stock, $.01 Par Value"
+A,09/01/2022 00:00:00,Whitcomb David J.,4,M-Exempt,--D,22108,68739,1,0001442781,"Common Stock, $.01 Par Value"
+A,08/02/2022 00:00:00,Newton Lehman E III,4,A-Award,--D,9536,9536,2,0001403099,Restricted Stock Units
+A,08/02/2022 00:00:00,Whitcomb David J.,4,A-Award,--D,4842,4842,1,0001442781,Restricted Stock Units
+A,08/02/2022 00:00:00,Lutey Mary Ellen,4,A-Award,--I,3668,3668,2,0001563908,Restricted Stock Units
+A,08/02/2022 00:00:00,Lutey Mary Ellen,4,A-Award,--D,9536,9536,1,0001563908,Restricted Stock Units
+A,08/02/2022 00:00:00,Knott Kenneth J.,4,A-Award,--D,9536,9536,2,0001442846,Restricted Stock Units
+A,08/02/2022 00:00:00,Copeland David W,4,A-Award,--D,18339,18339,1,0001396395,Restricted Stock Units
+A,08/02/2022 00:00:00,Lytle Patrick A,4,A-Award,--D,3668,3668,1,0001767858,Restricted Stock Units
+A,08/02/2022 00:00:00,Vogel Herbert S,4,A-Award,--D,52817,52817,1,0001544288,Restricted Stock Units
+A,08/02/2022 00:00:00,PURSELL A WADE,4,A-Award,--D,31543,31543,2,0001041812,Restricted Stock Units
+D,07/01/2022 00:00:00,Newton Lehman E III,4,M-Exempt,--D,3756,7514,10,0001403099,Restricted Stock Units
+D,07/01/2022 00:00:00,Newton Lehman E III,4,M-Exempt,--D,8012,8014,9,0001403099,Restricted Stock Units
+D,07/01/2022 00:00:00,Newton Lehman E III,4,M-Exempt,--D,4190,0,8,0001403099,Restricted Stock Units
+D,07/01/2022 00:00:00,Newton Lehman E III,4,F-InKind,--D,916,135299,7,0001403099,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Newton Lehman E III,4,M-Exempt,--D,3756,136215,6,0001403099,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Newton Lehman E III,4,F-InKind,--D,1952,132459,5,0001403099,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Newton Lehman E III,4,M-Exempt,--D,8012,134411,4,0001403099,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Newton Lehman E III,4,F-InKind,--D,1022,126399,3,0001403099,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Newton Lehman E III,4,M-Exempt,--D,4190,127421,2,0001403099,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1502,3006,20,0001563908,Restricted Stock Units
+D,07/01/2022 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,3756,7514,19,0001563908,Restricted Stock Units
+D,07/01/2022 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,3205,3205,18,0001563908,Restricted Stock Units
+D,07/01/2022 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,8013,8013,17,0001563908,Restricted Stock Units
+D,07/01/2022 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1801,0,16,0001563908,Restricted Stock Units
+D,07/01/2022 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,4190,0,15,0001563908,Restricted Stock Units
+D,07/01/2022 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,435,40063,14,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1502,40498,13,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,1086,84203,12,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,3756,85289,11,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,927,38996,10,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,3205,39923,9,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,2316,81533,8,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,8013,83849,7,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,521,36718,6,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1801,37239,5,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,1211,75836,4,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,4190,77047,3,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Vogel Herbert S,4,M-Exempt,--D,20907,41814,14,0001544288,Restricted Stock Units
+D,07/01/2022 00:00:00,Vogel Herbert S,4,M-Exempt,--D,65775,65775,13,0001544288,Restricted Stock Units
+D,07/01/2022 00:00:00,Vogel Herbert S,4,M-Exempt,--D,16394,0,12,0001544288,Restricted Stock Units
+D,07/01/2022 00:00:00,Vogel Herbert S,4,M-Exempt,--D,20000,0,11,0001544288,Restricted Stock Units
+D,07/01/2022 00:00:00,Vogel Herbert S,4,F-InKind,--D,9179,325181,10,0001544288,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Vogel Herbert S,4,M-Exempt,--D,20907,334360,9,0001544288,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Vogel Herbert S,4,F-InKind,--D,28876,313453,8,0001544288,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Vogel Herbert S,4,M-Exempt,--D,65775,342329,7,0001544288,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Vogel Herbert S,4,F-InKind,--D,7197,276554,6,0001544288,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Vogel Herbert S,4,M-Exempt,--D,16394,283751,5,0001544288,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Vogel Herbert S,4,F-InKind,--D,8781,267357,4,0001544288,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Vogel Herbert S,4,M-Exempt,--D,20000,276138,3,0001544288,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Lytle Patrick A,4,M-Exempt,--D,1502,3006,10,0001767858,Restricted Stock Units
+D,07/01/2022 00:00:00,Lytle Patrick A,4,M-Exempt,--D,2090,2091,9,0001767858,Restricted Stock Units
+D,07/01/2022 00:00:00,Lytle Patrick A,4,M-Exempt,--D,1353,0,8,0001767858,Restricted Stock Units
+D,07/01/2022 00:00:00,Lytle Patrick A,4,F-InKind,--D,435,12463,7,0001767858,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Lytle Patrick A,4,M-Exempt,--D,1502,12898,6,0001767858,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Lytle Patrick A,4,F-InKind,--D,605,11396,5,0001767858,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Lytle Patrick A,4,M-Exempt,--D,2090,12001,4,0001767858,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Lytle Patrick A,4,F-InKind,--D,392,9911,3,0001767858,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Lytle Patrick A,4,M-Exempt,--D,1353,10303,2,0001767858,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Copeland David W,4,M-Exempt,--D,7513,15027,10,0001396395,Restricted Stock Units
+D,07/01/2022 00:00:00,Copeland David W,4,M-Exempt,--D,13238,13240,9,0001396395,Restricted Stock Units
+D,07/01/2022 00:00:00,Copeland David W,4,M-Exempt,--D,6922,0,8,0001396395,Restricted Stock Units
+D,07/01/2022 00:00:00,Copeland David W,4,F-InKind,--D,2957,208246,7,0001396395,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Copeland David W,4,M-Exempt,--D,7513,211203,6,0001396395,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Copeland David W,4,F-InKind,--D,4354,203690,5,0001396395,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Copeland David W,4,M-Exempt,--D,13238,208044,4,0001396395,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Copeland David W,4,F-InKind,--D,1686,194806,3,0001396395,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Copeland David W,4,M-Exempt,--D,6922,196492,2,0001396395,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,PURSELL A WADE,4,M-Exempt,--D,13066,26134,10,0001041812,Restricted Stock Units
+D,07/01/2022 00:00:00,PURSELL A WADE,4,M-Exempt,--D,27871,27871,9,0001041812,Restricted Stock Units
+D,07/01/2022 00:00:00,PURSELL A WADE,4,M-Exempt,--D,14572,0,8,0001041812,Restricted Stock Units
+D,07/01/2022 00:00:00,PURSELL A WADE,4,F-InKind,--D,5736,290312,7,0001041812,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,PURSELL A WADE,4,M-Exempt,--D,13066,296048,6,0001041812,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,PURSELL A WADE,4,F-InKind,--D,12236,282982,5,0001041812,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,PURSELL A WADE,4,M-Exempt,--D,27871,295218,4,0001041812,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,PURSELL A WADE,4,F-InKind,--D,5686,267347,3,0001041812,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,PURSELL A WADE,4,M-Exempt,--D,14572,273033,2,0001041812,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,3756,7514,10,0001442846,Restricted Stock Units
+D,07/01/2022 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,7664,7665,9,0001442846,Restricted Stock Units
+D,07/01/2022 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,4008,0,8,0001442846,Restricted Stock Units
+D,07/01/2022 00:00:00,Knott Kenneth J.,4,F-InKind,--D,915,95971,7,0001442846,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,3756,96886,6,0001442846,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Knott Kenneth J.,4,F-InKind,--D,1867,93130,5,0001442846,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,7664,94997,4,0001442846,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Knott Kenneth J.,4,F-InKind,--D,976,87333,3,0001442846,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,4008,88309,2,0001442846,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Whitcomb David J.,4,M-Exempt,--D,2058,4116,10,0001442781,Restricted Stock Units
+D,07/01/2022 00:00:00,Whitcomb David J.,4,M-Exempt,--D,4390,4390,9,0001442781,Restricted Stock Units
+D,07/01/2022 00:00:00,Whitcomb David J.,4,M-Exempt,--D,2457,0,8,0001442781,Restricted Stock Units
+D,07/01/2022 00:00:00,Whitcomb David J.,4,F-InKind,--D,595,46631,7,0001442781,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Whitcomb David J.,4,M-Exempt,--D,2058,47226,6,0001442781,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Whitcomb David J.,4,F-InKind,--D,1269,45168,5,0001442781,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Whitcomb David J.,4,M-Exempt,--D,4390,46437,4,0001442781,"Common Stock, $.01 Par Value"
+D,07/01/2022 00:00:00,Whitcomb David J.,4,F-InKind,--D,711,42047,3,0001442781,"Common Stock, $.01 Par Value"
+A,07/01/2022 00:00:00,Whitcomb David J.,4,M-Exempt,--D,2457,42758,2,0001442781,"Common Stock, $.01 Par Value"
+A,06/30/2022 00:00:00,Newton Lehman E III,4,J-Other,--D,848,123231,1,0001403099,"Common Stock, $.01 Par Value"
+A,06/30/2022 00:00:00,Lutey Mary Ellen,4,J-Other,--I,280,35438,2,0001563908,"Common Stock, $.01 Par Value"
+A,06/30/2022 00:00:00,Lutey Mary Ellen,4,J-Other,--D,284,72857,1,0001563908,"Common Stock, $.01 Par Value"
+A,06/30/2022 00:00:00,Vogel Herbert S,4,J-Other,--D,458,256138,2,0001544288,"Common Stock, $.01 Par Value"
+A,06/30/2022 00:00:00,Lytle Patrick A,4,J-Other,--D,560,8950,1,0001767858,"Common Stock, $.01 Par Value"
+A,06/30/2022 00:00:00,Copeland David W,4,J-Other,--D,848,189570,1,0001396395,"Common Stock, $.01 Par Value"
+A,06/30/2022 00:00:00,PURSELL A WADE,4,J-Other,--D,100,258461,1,0001041812,"Common Stock, $.01 Par Value"
+A,06/30/2022 00:00:00,Knott Kenneth J.,4,J-Other,--D,497,84301,1,0001442846,"Common Stock, $.01 Par Value"
+A,06/30/2022 00:00:00,Whitcomb David J.,4,J-Other,--D,376,40301,1,0001442781,"Common Stock, $.01 Par Value"
+A,06/14/2022 00:00:00,Brand Stephen R,4,A-Award,--D,3621,92950,1,0001516382,"Common Stock, $.01 Par Value"
+A,06/14/2022 00:00:00,Bailo Carla Jean,4,A-Award,--D,3621,88457,1,0001756088,"Common Stock, $.01 Par Value"
+A,06/14/2022 00:00:00,Powers Anita M.,4,A-Award,--D,5432,8147,1,0001713998,"Common Stock, $.01 Par Value"
+A,06/14/2022 00:00:00,ROBESON ROSE M,4,A-Award,--D,3621,62990,1,0001251678,"Common Stock, $.01 Par Value"
+A,06/14/2022 00:00:00,PERU RAMIRO G,4,A-Award,--D,3621,82814,1,0001192045,"Common Stock, $.01 Par Value"
+A,06/14/2022 00:00:00,Quintana Julio M,4,A-Award,--D,3621,144244,1,0001364531,"Common Stock, $.01 Par Value"
+A,06/14/2022 00:00:00,SULLIVAN WILLIAM D,4,A-Award,--D,5934,144345,1,0001221980,"Common Stock, $.01 Par Value"
+D,05/31/2022 00:00:00,Copeland David W,4,S-Sale,--D,5000,188722,1,0001396395,"Common Stock, $.01 Par Value"
+D,05/26/2022 00:00:00,Copeland David W,4,S-Sale,--D,20000,193722,3,0001396395,"Common Stock, $.01 Par Value"
+D,05/25/2022 00:00:00,Copeland David W,4,S-Sale,--D,20000,213722,2,0001396395,"Common Stock, $.01 Par Value"
+D,05/05/2022 00:00:00,Vogel Herbert S,4,G-Gift,--D,5000,255680,1,0001544288,"Common Stock, $.01 Par Value"
+D,04/18/2022 00:00:00,Whitcomb David J.,4,S-Sale,--D,7100,39925,2,0001442781,"Common Stock, $.01 Par Value"
+D,04/18/2022 00:00:00,Whitcomb David J.,4,S-Sale,--D,37671,47025,1,0001442781,"Common Stock, $.01 Par Value"
+D,03/21/2022 00:00:00,Whitcomb David J.,4,S-Sale,--D,9254,84696,2,0001442781,"Common Stock, $.01 Par Value"
+D,03/21/2022 00:00:00,Lutey Mary Ellen,4,S-Sale,--D,9999,72573,1,0001563908,"Common Stock, $.01 Par Value"
+D,03/11/2022 00:00:00,PURSELL A WADE,4,G-Gift,--D,3000,287312,1,0001041812,"Common Stock, $.01 Par Value"
+D,03/08/2022 00:00:00,Lutey Mary Ellen,4,S-Sale,--I,9533,35158,3,0001563908,"Common Stock, $.01 Par Value"
+D,03/08/2022 00:00:00,Lytle Patrick A,4,S-Sale,--D,6776,8390,2,0001767858,"Common Stock, $.01 Par Value"
+D,03/08/2022 00:00:00,PERU RAMIRO G,4,S-Sale,--D,30000,79193,1,0001192045,"Common Stock, $.01 Par Value"
+D,03/07/2022 00:00:00,Copeland David W,4,G-Gift,--D,2500,233722,1,0001396395,"Common Stock, $.01 Par Value"
+A,12/31/2021 00:00:00,Newton Lehman E III,4,J-Other,--D,380,135679,1,0001403099,"Common Stock, $.01 Par Value"
+A,12/31/2021 00:00:00,Knott Kenneth J.,4,J-Other,--D,380,96351,1,0001442846,"Common Stock, $.01 Par Value"
+A,12/31/2021 00:00:00,Whitcomb David J.,4,J-Other,--D,424,93950,1,0001442781,"Common Stock, $.01 Par Value"
+A,12/31/2021 00:00:00,Lutey Mary Ellen,4,J-Other,--I,317,44691,2,0001563908,"Common Stock, $.01 Par Value"
+A,12/31/2021 00:00:00,Lutey Mary Ellen,4,J-Other,--D,321,82572,1,0001563908,"Common Stock, $.01 Par Value"
+A,12/31/2021 00:00:00,Lytle Patrick A,4,J-Other,--D,380,15166,1,0001767858,"Common Stock, $.01 Par Value"
+A,12/31/2021 00:00:00,Vogel Herbert S,5,J-Other,--D,509,260680,2,0001544288,"Common Stock, $.01 Par Value"
+A,12/31/2021 00:00:00,PURSELL A WADE,5,J-Other,--D,113,258361,2,0001041812,"Common Stock, $.01 Par Value"
+A,12/31/2021 00:00:00,Copeland David W,5,J-Other,--D,380,236222,2,0001396395,"Common Stock, $.01 Par Value"
+D,12/14/2021 00:00:00,Lytle Patrick A,4,M-Exempt,--D,2090,4181,3,0001767858,Restricted Stock Units
+D,12/14/2021 00:00:00,Lytle Patrick A,4,F-InKind,--D,605,14786,2,0001767858,"Common Stock, $.01 Par Value"
+A,12/14/2021 00:00:00,Lytle Patrick A,4,M-Exempt,--D,2090,15391,1,0001767858,"Common Stock, $.01 Par Value"
+D,12/14/2021 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,7664,15329,3,0001442846,Restricted Stock Units
+D,12/14/2021 00:00:00,Knott Kenneth J.,4,F-InKind,--D,1867,83804,2,0001442846,"Common Stock, $.01 Par Value"
+A,12/14/2021 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,7664,85671,1,0001442846,"Common Stock, $.01 Par Value"
+D,12/14/2021 00:00:00,PURSELL A WADE,4,M-Exempt,--D,27870,55742,3,0001041812,Restricted Stock Units
+D,12/14/2021 00:00:00,PURSELL A WADE,4,F-InKind,--D,12235,262248,2,0001041812,"Common Stock, $.01 Par Value"
+A,12/14/2021 00:00:00,PURSELL A WADE,4,M-Exempt,--D,27870,274483,1,0001041812,"Common Stock, $.01 Par Value"
+D,12/14/2021 00:00:00,Copeland David W,4,M-Exempt,--D,13238,26478,3,0001396395,Restricted Stock Units
+D,12/14/2021 00:00:00,Copeland David W,4,F-InKind,--D,5077,238842,2,0001396395,"Common Stock, $.01 Par Value"
+A,12/14/2021 00:00:00,Copeland David W,4,M-Exempt,--D,13238,243919,1,0001396395,"Common Stock, $.01 Par Value"
+D,12/14/2021 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,3205,6410,6,0001563908,Restricted Stock Units
+D,12/14/2021 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,8012,16026,5,0001563908,Restricted Stock Units
+D,12/14/2021 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,927,44374,4,0001563908,"Common Stock, $.01 Par Value"
+A,12/14/2021 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,3205,45301,3,0001563908,"Common Stock, $.01 Par Value"
+D,12/14/2021 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,2316,82251,2,0001563908,"Common Stock, $.01 Par Value"
+A,12/14/2021 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,8012,84567,1,0001563908,"Common Stock, $.01 Par Value"
+D,12/14/2021 00:00:00,Vogel Herbert S,4,M-Exempt,--D,65774,131550,3,0001544288,Restricted Stock Units
+D,12/14/2021 00:00:00,Vogel Herbert S,4,F-InKind,--D,28875,265171,2,0001544288,"Common Stock, $.01 Par Value"
+A,12/14/2021 00:00:00,Vogel Herbert S,4,M-Exempt,--D,65774,294046,1,0001544288,"Common Stock, $.01 Par Value"
+D,12/14/2021 00:00:00,Newton Lehman E III,4,M-Exempt,--D,8012,16026,3,0001403099,Restricted Stock Units
+D,12/14/2021 00:00:00,Newton Lehman E III,4,F-InKind,--D,1952,122383,2,0001403099,"Common Stock, $.01 Par Value"
+A,12/14/2021 00:00:00,Newton Lehman E III,4,M-Exempt,--D,8012,124335,1,0001403099,"Common Stock, $.01 Par Value"
+D,12/14/2021 00:00:00,Whitcomb David J.,4,M-Exempt,--D,4389,8780,3,0001442781,Restricted Stock Units
+D,12/14/2021 00:00:00,Whitcomb David J.,4,F-InKind,--D,1269,93526,2,0001442781,"Common Stock, $.01 Par Value"
+A,12/14/2021 00:00:00,Whitcomb David J.,4,M-Exempt,--D,4389,94795,1,0001442781,"Common Stock, $.01 Par Value"
+A,11/24/2021 00:00:00,Powers Anita M.,4,A-Award,--D,2715,2715,1,0001713998,"Common Stock, $.01 Par Value"
+D,11/05/2021 00:00:00,SULLIVAN WILLIAM D,5,G-Gift,--D,1400,138411,1,0001221980,"Common Stock, $.01 Par Value"
+D,11/05/2021 00:00:00,Vogel Herbert S,5,G-Gift,--D,5000,260171,1,0001544288,"Common Stock, $.01 Par Value"
+D,11/05/2021 00:00:00,SULLIVAN WILLIAM D,4,S-Sale,--D,55000,139811,1,0001221980,"Common Stock, $.01 Par Value"
+D,11/03/2021 00:00:00,PURSELL A WADE,5,G-Gift,--D,4000,258248,1,0001041812,"Common Stock, $.01 Par Value"
+D,11/02/2021 00:00:00,Copeland David W,5,G-Gift,--D,3000,235842,1,0001396395,"Common Stock, $.01 Par Value"
+D,11/02/2021 00:00:00,ROBESON ROSE M,4,S-Sale,--D,15000,59369,1,0001251678,"Common Stock, $.01 Par Value"
+D,11/02/2021 00:00:00,Lytle Patrick A,4,S-Sale,--D,12543,13301,1,0001767858,"Common Stock, $.01 Par Value"
+D,09/01/2021 00:00:00,Whitcomb David J.,4,F-InKind,--D,2128,90406,2,0001442781,"Common Stock, $.01 Par Value"
+A,09/01/2021 00:00:00,Whitcomb David J.,4,M-Exempt,--D,7362,92534,1,0001442781,"Common Stock, $.01 Par Value"
+D,09/01/2021 00:00:00,Vogel Herbert S,4,F-InKind,--D,26584,228272,2,0001544288,"Common Stock, $.01 Par Value"
+A,09/01/2021 00:00:00,Vogel Herbert S,4,M-Exempt,--D,61350,254856,1,0001544288,"Common Stock, $.01 Par Value"
+D,09/01/2021 00:00:00,PURSELL A WADE,4,F-InKind,--D,25979,246613,2,0001041812,"Common Stock, $.01 Par Value"
+A,09/01/2021 00:00:00,PURSELL A WADE,4,M-Exempt,--D,61350,272592,1,0001041812,"Common Stock, $.01 Par Value"
+D,09/01/2021 00:00:00,Newton Lehman E III,4,F-InKind,--D,3922,116323,2,0001403099,"Common Stock, $.01 Par Value"
+A,09/01/2021 00:00:00,Newton Lehman E III,4,M-Exempt,--D,16104,120245,1,0001403099,"Common Stock, $.01 Par Value"
+D,09/01/2021 00:00:00,Lytle Patrick A,4,F-InKind,--D,1029,25844,2,0001767858,"Common Stock, $.01 Par Value"
+A,09/01/2021 00:00:00,Lytle Patrick A,4,M-Exempt,--D,3558,26873,1,0001767858,"Common Stock, $.01 Par Value"
+D,09/01/2021 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,1596,42096,4,0001563908,"Common Stock, $.01 Par Value"
+A,09/01/2021 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,5521,43692,3,0001563908,"Common Stock, $.01 Par Value"
+D,09/01/2021 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,4655,76555,2,0001563908,"Common Stock, $.01 Par Value"
+A,09/01/2021 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,16104,81210,1,0001563908,"Common Stock, $.01 Par Value"
+D,09/01/2021 00:00:00,Knott Kenneth J.,4,F-InKind,--D,3362,78007,2,0001442846,"Common Stock, $.01 Par Value"
+A,09/01/2021 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,13804,81369,1,0001442846,"Common Stock, $.01 Par Value"
+D,09/01/2021 00:00:00,Copeland David W,4,F-InKind,--D,6350,230681,2,0001396395,"Common Stock, $.01 Par Value"
+A,09/01/2021 00:00:00,Copeland David W,4,M-Exempt,--D,26074,237031,1,0001396395,"Common Stock, $.01 Par Value"
+A,08/02/2021 00:00:00,Whitcomb David J.,4,A-Award,--D,6174,6174,1,0001442781,Restricted Stock Units
+A,08/02/2021 00:00:00,Newton Lehman E III,4,A-Award,--D,11270,11270,1,0001403099,Restricted Stock Units
+A,08/02/2021 00:00:00,Vogel Herbert S,4,A-Award,--D,62721,62721,1,0001544288,Restricted Stock Units
+A,08/02/2021 00:00:00,PURSELL A WADE,4,A-Award,--D,39200,39200,1,0001041812,Restricted Stock Units
+A,08/02/2021 00:00:00,Lutey Mary Ellen,4,A-Award,--I,4508,4508,2,0001563908,Restricted Stock Units
+A,08/02/2021 00:00:00,Lutey Mary Ellen,4,A-Award,--D,11270,11270,1,0001563908,Restricted Stock Units
+A,08/02/2021 00:00:00,Knott Kenneth J.,4,A-Award,--D,11270,11270,1,0001442846,Restricted Stock Units
+A,08/02/2021 00:00:00,Copeland David W,4,A-Award,--D,22540,22540,1,0001396395,Restricted Stock Units
+A,08/02/2021 00:00:00,Lytle Patrick A,4,A-Award,--D,4508,4508,1,0001767858,Restricted Stock Units
+D,07/01/2021 00:00:00,PURSELL A WADE,4,M-Exempt,--D,14572,14572,7,0001041812,Restricted Stock Units
+D,07/01/2021 00:00:00,PURSELL A WADE,4,M-Exempt,--D,6488,0,6,0001041812,Restricted Stock Units
+D,07/01/2021 00:00:00,PURSELL A WADE,4,F-InKind,--D,4212,211242,5,0001041812,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,PURSELL A WADE,4,M-Exempt,--D,14572,215454,4,0001041812,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,PURSELL A WADE,4,F-InKind,--D,1876,200882,3,0001041812,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,PURSELL A WADE,4,M-Exempt,--D,6488,202758,2,0001041812,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,Whitcomb David J.,4,M-Exempt,--D,2456,2457,7,0001442781,Restricted Stock Units
+D,07/01/2021 00:00:00,Whitcomb David J.,4,M-Exempt,--D,1557,0,6,0001442781,Restricted Stock Units
+D,07/01/2021 00:00:00,Whitcomb David J.,4,F-InKind,--D,710,85172,5,0001442781,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,Whitcomb David J.,4,M-Exempt,--D,2456,85882,4,0001442781,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,Whitcomb David J.,4,F-InKind,--D,450,83426,3,0001442781,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,Whitcomb David J.,4,M-Exempt,--D,1557,83876,2,0001442781,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,Copeland David W,4,M-Exempt,--D,6922,6922,7,0001396395,Restricted Stock Units
+D,07/01/2021 00:00:00,Copeland David W,4,M-Exempt,--D,2758,0,6,0001396395,Restricted Stock Units
+D,07/01/2021 00:00:00,Copeland David W,4,F-InKind,--D,1686,210957,5,0001396395,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,Copeland David W,4,M-Exempt,--D,6922,212643,4,0001396395,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,Copeland David W,4,F-InKind,--D,672,205721,3,0001396395,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,Copeland David W,4,M-Exempt,--D,2758,206393,2,0001396395,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,Vogel Herbert S,4,M-Exempt,--D,16393,16394,7,0001544288,Restricted Stock Units
+D,07/01/2021 00:00:00,Vogel Herbert S,4,M-Exempt,--D,6488,0,6,0001544288,Restricted Stock Units
+D,07/01/2021 00:00:00,Vogel Herbert S,4,F-InKind,--D,4738,193506,5,0001544288,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,Vogel Herbert S,4,M-Exempt,--D,16393,198244,4,0001544288,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,Vogel Herbert S,4,F-InKind,--D,1876,181851,3,0001544288,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,Vogel Herbert S,4,M-Exempt,--D,6488,183727,2,0001544288,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,Lytle Patrick A,4,M-Exempt,--D,1353,1353,7,0001767858,Restricted Stock Units
+D,07/01/2021 00:00:00,Lytle Patrick A,4,M-Exempt,--D,753,0,6,0001767858,Restricted Stock Units
+D,07/01/2021 00:00:00,Lytle Patrick A,4,F-InKind,--D,392,23315,5,0001767858,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,Lytle Patrick A,4,M-Exempt,--D,1353,23707,4,0001767858,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,Lytle Patrick A,4,F-InKind,--D,218,22354,3,0001767858,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,Lytle Patrick A,4,M-Exempt,--D,753,22572,2,0001767858,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,4007,4008,7,0001442846,Restricted Stock Units
+D,07/01/2021 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,1460,0,6,0001442846,Restricted Stock Units
+D,07/01/2021 00:00:00,Knott Kenneth J.,4,F-InKind,--D,976,67565,5,0001442846,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,4007,68541,4,0001442846,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,Knott Kenneth J.,4,F-InKind,--D,356,64534,3,0001442846,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,1460,64890,2,0001442846,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1801,1801,14,0001563908,Restricted Stock Units
+D,07/01/2021 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,4189,4190,13,0001563908,Restricted Stock Units
+D,07/01/2021 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1168,0,12,0001563908,Restricted Stock Units
+D,07/01/2021 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,1703,0,11,0001563908,Restricted Stock Units
+D,07/01/2021 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,521,38171,10,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1801,38692,9,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,1211,65106,8,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,4189,66317,7,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,338,36891,6,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1168,37229,5,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,493,62128,4,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,1703,62621,3,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,Newton Lehman E III,4,M-Exempt,--D,4189,4190,7,0001403099,Restricted Stock Units
+D,07/01/2021 00:00:00,Newton Lehman E III,4,M-Exempt,--D,1703,0,6,0001403099,Restricted Stock Units
+D,07/01/2021 00:00:00,Newton Lehman E III,4,F-InKind,--D,1021,104141,5,0001403099,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,Newton Lehman E III,4,M-Exempt,--D,4189,105162,4,0001403099,"Common Stock, $.01 Par Value"
+D,07/01/2021 00:00:00,Newton Lehman E III,4,F-InKind,--D,416,100973,3,0001403099,"Common Stock, $.01 Par Value"
+A,07/01/2021 00:00:00,Newton Lehman E III,4,M-Exempt,--D,1703,101389,2,0001403099,"Common Stock, $.01 Par Value"
+A,06/30/2021 00:00:00,PURSELL A WADE,4,J-Other,-ED,439,196270,1,0001041812,"Common Stock, $.01 Par Value"
+A,06/30/2021 00:00:00,Whitcomb David J.,4,J-Other,-ED,1689,82319,1,0001442781,"Common Stock, $.01 Par Value"
+A,06/30/2021 00:00:00,Copeland David W,4,J-Other,-ED,2500,203635,1,0001396395,"Common Stock, $.01 Par Value"
+A,06/30/2021 00:00:00,Vogel Herbert S,4,J-Other,-ED,1962,177239,1,0001544288,"Common Stock, $.01 Par Value"
+A,06/30/2021 00:00:00,Lytle Patrick A,4,J-Other,-ED,2500,21819,1,0001767858,"Common Stock, $.01 Par Value"
+A,06/30/2021 00:00:00,Knott Kenneth J.,4,J-Other,-ED,2500,63430,1,0001442846,"Common Stock, $.01 Par Value"
+A,06/30/2021 00:00:00,Lutey Mary Ellen,4,J-Other,-EI,1224,36061,2,0001563908,"Common Stock, $.01 Par Value"
+A,06/30/2021 00:00:00,Lutey Mary Ellen,4,J-Other,-ED,1278,60918,1,0001563908,"Common Stock, $.01 Par Value"
+A,06/30/2021 00:00:00,Newton Lehman E III,4,J-Other,-ED,2500,99686,1,0001403099,"Common Stock, $.01 Par Value"
+D,06/23/2021 00:00:00,Knott Kenneth J.,4,S-Sale,--D,12257,60930,1,0001442846,"Common Stock, $.01 Par Value"
+A,06/21/2021 00:00:00,Quintana Julio M,4,A-Award,--D,8041,140623,1,0001364531,"Common Stock, $.01 Par Value"
+A,06/21/2021 00:00:00,Brand Stephen R,4,A-Award,--D,8041,89329,1,0001516382,"Common Stock, $.01 Par Value"
+A,06/21/2021 00:00:00,PERU RAMIRO G,4,A-Award,--D,8041,109193,1,0001192045,"Common Stock, $.01 Par Value"
+A,06/21/2021 00:00:00,SULLIVAN WILLIAM D,4,A-Award,--D,13067,194811,1,0001221980,"Common Stock, $.01 Par Value"
+A,06/21/2021 00:00:00,Bailo Carla Jean,4,A-Award,--D,12564,84836,1,0001756088,"Common Stock, $.01 Par Value"
+A,06/21/2021 00:00:00,ROBESON ROSE M,4,A-Award,--D,8041,74369,1,0001251678,"Common Stock, $.01 Par Value"
+D,06/01/2021 00:00:00,Knott Kenneth J.,4,S-Sale,--D,1714,73187,1,0001442846,"Common Stock, $.01 Par Value"
+D,02/23/2021 00:00:00,ROBESON ROSE M,4,S-Sale,--D,4000,66328,1,0001251678,"Common Stock, $.01 Par Value"
+A,12/21/2020 00:00:00,Lytle Patrick A,4,A-Award,--D,6271,6271,1,0001767858,Restricted Stock Units
+A,12/21/2020 00:00:00,Whitcomb David J.,4,A-Award,--D,13169,13169,1,0001442781,Restricted Stock Units
+A,12/21/2020 00:00:00,Lutey Mary Ellen,4,A-Award,--I,9615,9615,2,0001563908,Restricted Stock Units
+A,12/21/2020 00:00:00,Lutey Mary Ellen,4,A-Award,--D,24038,24038,1,0001563908,Restricted Stock Units
+A,12/21/2020 00:00:00,PURSELL A WADE,4,A-Award,--D,83612,83612,1,0001041812,Restricted Stock Units
+A,12/21/2020 00:00:00,Newton Lehman E III,4,A-Award,--D,24038,24038,1,0001403099,Restricted Stock Units
+A,12/21/2020 00:00:00,Vogel Herbert S,4,A-Award,--D,197324,197324,1,0001544288,Restricted Stock Units
+A,12/21/2020 00:00:00,Copeland David W,4,A-Award,--D,39716,39716,1,0001396395,Restricted Stock Units
+A,12/21/2020 00:00:00,Knott Kenneth J.,4,A-Award,--D,22993,22993,1,0001442846,Restricted Stock Units
+D,08/01/2020 00:00:00,Lytle Patrick A,4,M-Exempt,--D,11655,0,3,0001767858,Restricted Stock Units
+D,08/01/2020 00:00:00,Lytle Patrick A,4,F-InKind,--D,3378,19319,2,0001767858,"Common Stock, $.01 Par Value"
+A,08/01/2020 00:00:00,Lytle Patrick A,4,M-Exempt,--D,11655,22697,1,0001767858,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Whitcomb David J.,4,M-Exempt,--D,2456,4913,12,0001442781,Restricted Stock Units
+D,07/01/2020 00:00:00,Whitcomb David J.,4,M-Exempt,--D,1557,1557,11,0001442781,Restricted Stock Units
+D,07/01/2020 00:00:00,Whitcomb David J.,4,M-Exempt,--D,1513,0,10,0001442781,Restricted Stock Units
+D,07/01/2020 00:00:00,Whitcomb David J.,4,F-InKind,--D,3701,80630,9,0001442781,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Whitcomb David J.,4,M-Exempt,--D,12769,84331,8,0001442781,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Whitcomb David J.,4,F-InKind,--D,712,71562,7,0001442781,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Whitcomb David J.,4,M-Exempt,--D,2456,72274,6,0001442781,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Whitcomb David J.,4,F-InKind,--D,452,69818,5,0001442781,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Whitcomb David J.,4,M-Exempt,--D,1557,70270,4,0001442781,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Whitcomb David J.,4,F-InKind,--D,439,68713,3,0001442781,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Whitcomb David J.,4,M-Exempt,--D,1513,69152,2,0001442781,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Newton Lehman E III,4,M-Exempt,--D,4189,8379,12,0001403099,Restricted Stock Units
+D,07/01/2020 00:00:00,Newton Lehman E III,4,M-Exempt,--D,1703,1703,11,0001403099,Restricted Stock Units
+D,07/01/2020 00:00:00,Newton Lehman E III,4,M-Exempt,--D,2647,0,10,0001403099,Restricted Stock Units
+D,07/01/2020 00:00:00,Newton Lehman E III,4,F-InKind,--D,5442,97186,9,0001403099,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Newton Lehman E III,4,M-Exempt,--D,22345,102628,8,0001403099,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Newton Lehman E III,4,F-InKind,--D,1021,80283,7,0001403099,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Newton Lehman E III,4,M-Exempt,--D,4189,81304,6,0001403099,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Newton Lehman E III,4,F-InKind,--D,416,77115,5,0001403099,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Newton Lehman E III,4,M-Exempt,--D,1703,77531,4,0001403099,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Newton Lehman E III,4,F-InKind,--D,645,75828,3,0001403099,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Newton Lehman E III,4,M-Exempt,--D,2647,76473,2,0001403099,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1800,3602,26,0001563908,Restricted Stock Units
+D,07/01/2020 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,4189,8379,25,0001563908,Restricted Stock Units
+D,07/01/2020 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1168,1168,24,0001563908,Restricted Stock Units
+D,07/01/2020 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,1703,1703,23,0001563908,Restricted Stock Units
+D,07/01/2020 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1109,0,22,0001563908,Restricted Stock Units
+D,07/01/2020 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,2647,0,21,0001563908,Restricted Stock Units
+D,07/01/2020 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,2281,34837,20,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,9364,37118,19,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,5442,59640,18,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,22345,65082,17,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,439,27754,16,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1800,28193,15,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,1021,42737,14,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,4189,43758,13,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,285,26393,12,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1168,26678,11,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,415,39569,10,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,1703,39984,9,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,271,25510,8,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1109,25781,7,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,645,38281,6,0001563908,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,2647,38926,5,0001563908,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,4007,8015,12,0001442846,Restricted Stock Units
+D,07/01/2020 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,1460,1460,11,0001442846,Restricted Stock Units
+D,07/01/2020 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,2017,0,10,0001442846,Restricted Stock Units
+D,07/01/2020 00:00:00,Knott Kenneth J.,4,F-InKind,--D,4146,74901,9,0001442846,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,17025,79047,8,0001442846,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Knott Kenneth J.,4,F-InKind,--D,976,62022,7,0001442846,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,4007,62998,6,0001442846,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Knott Kenneth J.,4,F-InKind,--D,356,58991,5,0001442846,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,1460,59347,4,0001442846,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Knott Kenneth J.,4,F-InKind,--D,492,57887,3,0001442846,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,2017,58379,2,0001442846,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Ottoson Javan D,4,M-Exempt,--D,22768,45538,12,0001359693,Restricted Stock Units
+D,07/01/2020 00:00:00,Ottoson Javan D,4,M-Exempt,--D,15570,15571,11,0001359693,Restricted Stock Units
+D,07/01/2020 00:00:00,Ottoson Javan D,4,M-Exempt,--D,25207,0,10,0001359693,Restricted Stock Units
+D,07/01/2020 00:00:00,Ottoson Javan D,4,F-InKind,--D,93590,376560,9,0001359693,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Ottoson Javan D,4,M-Exempt,--D,212800,470150,8,0001359693,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Ottoson Javan D,4,F-InKind,--D,10014,257350,7,0001359693,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Ottoson Javan D,4,M-Exempt,--D,22768,267364,6,0001359693,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Ottoson Javan D,4,F-InKind,--D,6848,244596,5,0001359693,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Ottoson Javan D,4,M-Exempt,--D,15570,251444,4,0001359693,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Ottoson Javan D,4,F-InKind,--D,11087,235874,3,0001359693,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Ottoson Javan D,4,M-Exempt,--D,25207,246961,2,0001359693,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Vogel Herbert S,4,M-Exempt,--D,16393,32787,11,0001544288,Restricted Stock Units
+D,07/01/2020 00:00:00,Vogel Herbert S,4,M-Exempt,--D,6488,6488,10,0001544288,Restricted Stock Units
+D,07/01/2020 00:00:00,Vogel Herbert S,4,M-Exempt,--D,11595,0,9,0001544288,Restricted Stock Units
+D,07/01/2020 00:00:00,Vogel Herbert S,4,F-InKind,--D,28368,175277,8,0001544288,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Vogel Herbert S,4,M-Exempt,--D,97888,203645,7,0001544288,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Vogel Herbert S,4,F-InKind,--D,7210,105757,6,0001544288,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Vogel Herbert S,4,M-Exempt,--D,16393,112967,5,0001544288,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Vogel Herbert S,4,F-InKind,--D,2380,96574,4,0001544288,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Vogel Herbert S,4,M-Exempt,--D,6488,98954,3,0001544288,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Vogel Herbert S,4,M-Exempt,--D,11595,92466,2,0001544288,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,PURSELL A WADE,4,M-Exempt,--D,14572,29144,12,0001041812,Restricted Stock Units
+D,07/01/2020 00:00:00,PURSELL A WADE,4,M-Exempt,--D,6488,6488,11,0001041812,Restricted Stock Units
+D,07/01/2020 00:00:00,PURSELL A WADE,4,M-Exempt,--D,10083,0,10,0001041812,Restricted Stock Units
+D,07/01/2020 00:00:00,PURSELL A WADE,4,F-InKind,--D,24669,195831,9,0001041812,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,PURSELL A WADE,4,M-Exempt,--D,85121,220500,8,0001041812,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,PURSELL A WADE,4,F-InKind,--D,4223,135379,7,0001041812,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,PURSELL A WADE,4,M-Exempt,--D,14572,139602,6,0001041812,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,PURSELL A WADE,4,F-InKind,--D,1881,125030,5,0001041812,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,PURSELL A WADE,4,M-Exempt,--D,6488,126911,4,0001041812,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,PURSELL A WADE,4,F-InKind,--D,2923,120423,3,0001041812,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,PURSELL A WADE,4,M-Exempt,--D,10083,123346,2,0001041812,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Lytle Patrick A,4,M-Exempt,--D,1353,2706,13,0001767858,Restricted Stock Units
+D,07/01/2020 00:00:00,Lytle Patrick A,4,M-Exempt,--D,753,753,12,0001767858,Restricted Stock Units
+D,07/01/2020 00:00:00,Lytle Patrick A,4,M-Exempt,--D,1210,0,11,0001767858,Restricted Stock Units
+D,07/01/2020 00:00:00,Lytle Patrick A,4,F-InKind,--D,329,11042,10,0001767858,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Lytle Patrick A,4,M-Exempt,--D,1135,11371,9,0001767858,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Lytle Patrick A,4,F-InKind,--D,393,10236,8,0001767858,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Lytle Patrick A,4,M-Exempt,--D,1353,10629,7,0001767858,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Lytle Patrick A,4,F-InKind,--D,219,9276,6,0001767858,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Lytle Patrick A,4,M-Exempt,--D,753,9495,5,0001767858,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Lytle Patrick A,4,F-InKind,--D,351,8742,4,0001767858,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Lytle Patrick A,4,M-Exempt,--D,1210,9093,3,0001767858,"Common Stock, $.01 Par Value"
+D,07/01/2020 00:00:00,Copeland David W,4,M-Exempt,--D,6921,13844,8,0001396395,Restricted Stock Units
+D,07/01/2020 00:00:00,Copeland David W,4,M-Exempt,--D,2757,2758,7,0001396395,Restricted Stock Units
+D,07/01/2020 00:00:00,Copeland David W,4,M-Exempt,--D,3529,0,6,0001396395,Restricted Stock Units
+A,07/01/2020 00:00:00,Copeland David W,4,M-Exempt,--D,29792,201135,5,0001396395,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Copeland David W,4,M-Exempt,--D,6921,171343,4,0001396395,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Copeland David W,4,M-Exempt,--D,2757,164422,3,0001396395,"Common Stock, $.01 Par Value"
+A,07/01/2020 00:00:00,Copeland David W,4,M-Exempt,--D,3529,161665,2,0001396395,"Common Stock, $.01 Par Value"
+A,06/30/2020 00:00:00,Whitcomb David J.,4,J-Other,-ED,2224,67639,1,0001442781,"Common Stock, $.01 Par Value"
+A,06/30/2020 00:00:00,Newton Lehman E III,4,J-Other,-ED,2224,73826,1,0001403099,"Common Stock, $.01 Par Value"
+A,06/30/2020 00:00:00,Lutey Mary Ellen,4,J-Other,-EI,2224,24672,4,0001563908,"Common Stock, $.01 Par Value"
+A,06/30/2020 00:00:00,Lutey Mary Ellen,4,J-Other,-ED,2224,36279,3,0001563908,"Common Stock, $.01 Par Value"
+A,06/30/2020 00:00:00,Knott Kenneth J.,4,J-Other,-ED,2224,56362,1,0001442846,"Common Stock, $.01 Par Value"
+A,06/30/2020 00:00:00,Ottoson Javan D,4,J-Other,-ED,2224,221754,1,0001359693,"Common Stock, $.01 Par Value"
+A,06/30/2020 00:00:00,Vogel Herbert S,4,J-Other,-ED,2224,80871,1,0001544288,"Common Stock, $.01 Par Value"
+A,06/30/2020 00:00:00,PURSELL A WADE,4,J-Other,-ED,2224,113263,1,0001041812,"Common Stock, $.01 Par Value"
+A,06/30/2020 00:00:00,Lytle Patrick A,4,J-Other,-ED,2224,7883,2,0001767858,"Common Stock, $.01 Par Value"
+A,06/30/2020 00:00:00,Copeland David W,4,J-Other,-ED,2224,158136,1,0001396395,"Common Stock, $.01 Par Value"
+A,06/09/2020 00:00:00,Quintana Julio M,4,A-Award,--D,27028,132582,1,0001364531,"Common Stock, $.01 Par Value"
+A,06/09/2020 00:00:00,PERU RAMIRO G,4,A-Award,--D,27028,101152,1,0001192045,"Common Stock, $.01 Par Value"
+A,06/09/2020 00:00:00,Bailo Carla Jean,4,A-Award,--D,56758,72272,1,0001756088,"Common Stock, $.01 Par Value"
+A,06/09/2020 00:00:00,BICKLE LARRY W,4,A-Award,--D,27028,206067,1,0000939252,"Common Stock, $.01 Par Value"
+A,06/09/2020 00:00:00,Brand Stephen R,4,A-Award,--D,27028,81288,1,0001516382,"Common Stock, $.01 Par Value"
+A,06/09/2020 00:00:00,LEIKER LOREN M,4,A-Award,--D,27028,105261,1,0001189094,"Common Stock, $.01 Par Value"
+A,06/09/2020 00:00:00,ROBESON ROSE M,4,A-Award,--D,27028,70328,1,0001251678,"Common Stock, $.01 Par Value"
+A,06/09/2020 00:00:00,SULLIVAN WILLIAM D,4,A-Award,--D,48650,181744,1,0001221980,"Common Stock, $.01 Par Value"
+A,03/10/2020 00:00:00,Quintana Julio M,4,P-Purchase,--D,40000,105554,1,0001364531,"Common Stock, $.01 Par Value"
+A,03/09/2020 00:00:00,PERU RAMIRO G,4,P-Purchase,--D,15000,74124,2,0001192045,"Common Stock, $.01 Par Value"
+A,03/09/2020 00:00:00,Copeland David W,4,P-Purchase,--D,10000,155912,2,0001396395,"Common Stock, $.01 Par Value"
+A,03/06/2020 00:00:00,PERU RAMIRO G,4,P-Purchase,--D,7500,59124,1,0001192045,"Common Stock, $.01 Par Value"
+A,03/06/2020 00:00:00,Copeland David W,4,P-Purchase,--D,15000,145912,1,0001396395,"Common Stock, $.01 Par Value"
+A,03/04/2020 00:00:00,Copeland David W,4,P-Purchase,--D,5000,130912,1,0001396395,"Common Stock, $.01 Par Value"
+A,03/04/2020 00:00:00,Ottoson Javan D,4,P-Purchase,--D,8000,219530,1,0001359693,"Common Stock, $.01 Par Value"
+A,03/03/2020 00:00:00,Vogel Herbert S,4,P-Purchase,--D,2000,78647,1,0001544288,"Common Stock, $.01 Par Value"
+A,03/03/2020 00:00:00,Whitcomb David J.,4,P-Purchase,--D,10000,65415,2,0001442781,"Common Stock, $.01 Par Value"
+A,02/25/2020 00:00:00,Copeland David W,4,P-Purchase,--D,5000,125912,2,0001396395,Common Stock; $.01 Par Value
+A,02/24/2020 00:00:00,Copeland David W,4,P-Purchase,--D,5000,120912,1,0001396395,Common Stock; $.01 Par Value
+A,02/24/2020 00:00:00,PERU RAMIRO G,4,P-Purchase,--D,7500,51624,1,0001192045,"Common Stock, $.01 Par Value"
+A,12/31/2019 00:00:00,Lutey Mary Ellen,4,J-Other,-EI,951,22448,2,0001563908,"Common Stock, $.01 Par Value"
+A,12/31/2019 00:00:00,Lutey Mary Ellen,4,J-Other,-ED,912,34055,1,0001563908,"Common Stock, $.01 Par Value"
+A,12/31/2019 00:00:00,Lytle Patrick A,4,J-Other,-ED,564,5659,1,0001767858,"Common Stock, $.01 Par Value"
+A,12/31/2019 00:00:00,Whitcomb David J.,4,J-Other,--D,955,55415,1,0001442781,"Common Stock, $.01 Par Value"
+A,08/05/2019 00:00:00,Ottoson Javan D,4,A-Award,--D,68306,68306,1,0001359693,Restricted Stock Units
+A,08/05/2019 00:00:00,Lutey Mary Ellen,4,A-Award,--I,5402,5402,2,0001563908,Restricted Stock Units
+A,08/05/2019 00:00:00,Lutey Mary Ellen,4,A-Award,--D,12568,12568,1,0001563908,Restricted Stock Units
+A,08/05/2019 00:00:00,Copeland David W,4,A-Award,--D,20765,20765,1,0001396395,Restricted Stock Units
+A,08/05/2019 00:00:00,Vogel Herbert S,4,A-Award,--D,49180,49180,1,0001544288,Restricted Stock Units
+A,08/05/2019 00:00:00,Whitcomb David J.,4,A-Award,--D,7369,7369,1,0001442781,Restricted Stock Units
+A,08/05/2019 00:00:00,Lytle Patrick A,4,A-Award,--D,4059,4059,1,0001767858,Restricted Stock Units
+A,08/05/2019 00:00:00,Knott Kenneth J.,4,A-Award,--D,12022,12022,1,0001442846,Restricted Stock Units
+A,08/05/2019 00:00:00,Newton Lehman E III,4,A-Award,--D,12568,12568,1,0001403099,Restricted Stock Units
+A,08/05/2019 00:00:00,PURSELL A WADE,4,A-Award,--D,43716,43716,1,0001041812,Restricted Stock Units
+D,07/01/2019 00:00:00,Whitcomb David J.,4,M-Exempt,--D,1557,3114,11,0001442781,Restricted Stock Units
+D,07/01/2019 00:00:00,Whitcomb David J.,4,M-Exempt,--D,1512,1513,10,0001442781,Restricted Stock Units
+D,07/01/2019 00:00:00,Whitcomb David J.,4,M-Exempt,--D,683,0,9,0001442781,Restricted Stock Units
+D,07/01/2019 00:00:00,Whitcomb David J.,4,F-InKind,--D,452,54460,8,0001442781,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Whitcomb David J.,4,M-Exempt,--D,1557,54912,7,0001442781,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Whitcomb David J.,4,F-InKind,--D,439,53355,6,0001442781,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Whitcomb David J.,4,M-Exempt,--D,1512,53794,5,0001442781,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Whitcomb David J.,4,F-InKind,--D,198,52282,4,0001442781,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Whitcomb David J.,4,M-Exempt,--D,683,52480,3,0001442781,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Vogel Herbert S,4,M-Exempt,--D,6487,12976,10,0001544288,Restricted Stock Units
+D,07/01/2019 00:00:00,Vogel Herbert S,4,M-Exempt,--D,11595,11595,9,0001544288,Restricted Stock Units
+D,07/01/2019 00:00:00,Vogel Herbert S,4,M-Exempt,--D,4452,0,8,0001544288,Restricted Stock Units
+D,07/01/2019 00:00:00,Vogel Herbert S,4,F-InKind,--D,1880,76647,7,0001544288,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Vogel Herbert S,4,M-Exempt,--D,6487,78527,6,0001544288,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Vogel Herbert S,4,F-InKind,--D,3361,72040,5,0001544288,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Vogel Herbert S,4,M-Exempt,--D,11595,75401,4,0001544288,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Vogel Herbert S,4,F-InKind,--D,1291,63806,3,0001544288,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Vogel Herbert S,4,M-Exempt,--D,4452,65097,2,0001544288,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,PURSELL A WADE,4,M-Exempt,--D,6487,12976,11,0001041812,Restricted Stock Units
+D,07/01/2019 00:00:00,PURSELL A WADE,4,M-Exempt,--D,10083,10083,10,0001041812,Restricted Stock Units
+D,07/01/2019 00:00:00,PURSELL A WADE,4,M-Exempt,--D,4452,0,9,0001041812,Restricted Stock Units
+D,07/01/2019 00:00:00,PURSELL A WADE,4,F-InKind,--D,1880,111039,8,0001041812,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,PURSELL A WADE,4,M-Exempt,--D,6487,112919,7,0001041812,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,PURSELL A WADE,4,F-InKind,--D,2923,106432,6,0001041812,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,PURSELL A WADE,4,M-Exempt,--D,10083,109355,5,0001041812,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,PURSELL A WADE,4,F-InKind,--D,1291,99272,4,0001041812,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,PURSELL A WADE,4,M-Exempt,--D,4452,100563,3,0001041812,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Ottoson Javan D,4,M-Exempt,--D,15570,31141,10,0001359693,Restricted Stock Units
+D,07/01/2019 00:00:00,Ottoson Javan D,4,M-Exempt,--D,25207,25207,9,0001359693,Restricted Stock Units
+D,07/01/2019 00:00:00,Ottoson Javan D,4,M-Exempt,--D,7716,0,8,0001359693,Restricted Stock Units
+D,07/01/2019 00:00:00,Ottoson Javan D,4,F-InKind,--D,6848,211530,7,0001359693,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Ottoson Javan D,4,M-Exempt,--D,15570,218378,6,0001359693,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Ottoson Javan D,4,F-InKind,--D,11087,202808,5,0001359693,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Ottoson Javan D,4,M-Exempt,--D,25207,213895,4,0001359693,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Ottoson Javan D,4,F-InKind,--D,2768,188688,3,0001359693,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Ottoson Javan D,4,M-Exempt,--D,7716,191456,2,0001359693,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Newton Lehman E III,4,M-Exempt,--D,1703,3406,10,0001403099,Restricted Stock Units
+D,07/01/2019 00:00:00,Newton Lehman E III,4,M-Exempt,--D,2647,2647,9,0001403099,Restricted Stock Units
+D,07/01/2019 00:00:00,Newton Lehman E III,4,M-Exempt,--D,1009,0,8,0001403099,Restricted Stock Units
+D,07/01/2019 00:00:00,Newton Lehman E III,4,F-InKind,--D,416,71602,7,0001403099,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Newton Lehman E III,4,M-Exempt,--D,1703,72018,6,0001403099,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Newton Lehman E III,4,F-InKind,--D,645,70315,5,0001403099,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Newton Lehman E III,4,M-Exempt,--D,2647,70960,4,0001403099,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Newton Lehman E III,4,F-InKind,--D,246,68313,3,0001403099,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Newton Lehman E III,4,M-Exempt,--D,1009,68559,2,0001403099,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Lytle Patrick A,4,M-Exempt,--D,752,1506,10,0001767858,Restricted Stock Units
+D,07/01/2019 00:00:00,Lytle Patrick A,4,M-Exempt,--D,1210,1210,9,0001767858,Restricted Stock Units
+D,07/01/2019 00:00:00,Lytle Patrick A,4,M-Exempt,--D,668,0,8,0001767858,Restricted Stock Units
+D,07/01/2019 00:00:00,Lytle Patrick A,4,F-InKind,--D,218,5095,7,0001767858,Common Stock
+A,07/01/2019 00:00:00,Lytle Patrick A,4,M-Exempt,--D,752,5313,6,0001767858,Common Stock
+D,07/01/2019 00:00:00,Lytle Patrick A,4,F-InKind,--D,351,4561,5,0001767858,Common Stock
+A,07/01/2019 00:00:00,Lytle Patrick A,4,M-Exempt,--D,1210,4912,4,0001767858,Common Stock
+D,07/01/2019 00:00:00,Lytle Patrick A,4,F-InKind,--D,192,3702,3,0001767858,Common Stock
+A,07/01/2019 00:00:00,Lytle Patrick A,4,M-Exempt,--D,668,3894,2,0001767858,Common Stock
+D,07/01/2019 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1167,2336,22,0001563908,Restricted Stock Units
+D,07/01/2019 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,1703,3406,21,0001563908,Restricted Stock Units
+D,07/01/2019 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1109,1109,20,0001563908,Restricted Stock Units
+D,07/01/2019 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,2647,2647,19,0001563908,Restricted Stock Units
+D,07/01/2019 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,535,0,18,0001563908,Restricted Stock Units
+D,07/01/2019 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,1009,0,17,0001563908,Restricted Stock Units
+D,07/01/2019 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,285,21497,16,0001563908,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1167,21782,15,0001563908,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,415,33143,14,0001563908,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,1703,33558,13,0001563908,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,271,20615,12,0001563908,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1109,20886,11,0001563908,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,645,31855,10,0001563908,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,2647,32500,9,0001563908,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,131,19777,8,0001563908,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,535,19908,7,0001563908,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,246,29853,6,0001563908,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,1009,30099,5,0001563908,Common Stock; $.01 Par Value
+D,07/01/2019 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,1459,2920,11,0001442846,Restricted Stock Units
+D,07/01/2019 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,2017,2017,10,0001442846,Restricted Stock Units
+D,07/01/2019 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,831,0,9,0001442846,Restricted Stock Units
+D,07/01/2019 00:00:00,Knott Kenneth J.,4,F-InKind,--D,356,54138,8,0001442846,Common Stock: $.01 Par Value
+A,07/01/2019 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,1459,54494,7,0001442846,Common Stock: $.01 Par Value
+D,07/01/2019 00:00:00,Knott Kenneth J.,4,F-InKind,--D,492,53035,6,0001442846,Common Stock: $.01 Par Value
+A,07/01/2019 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,2017,53527,5,0001442846,Common Stock: $.01 Par Value
+D,07/01/2019 00:00:00,Knott Kenneth J.,4,F-InKind,--D,203,51510,4,0001442846,Common Stock: $.01 Par Value
+A,07/01/2019 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,831,51713,3,0001442846,Common Stock: $.01 Par Value
+D,07/01/2019 00:00:00,Copeland David W,4,M-Exempt,--D,2757,5515,7,0001396395,Restricted Stock Units
+D,07/01/2019 00:00:00,Copeland David W,4,M-Exempt,--D,3529,3529,6,0001396395,Restricted Stock Units
+D,07/01/2019 00:00:00,Copeland David W,4,M-Exempt,--D,1558,0,5,0001396395,Restricted Stock Units
+A,07/01/2019 00:00:00,Copeland David W,4,M-Exempt,--D,2757,115912,4,0001396395,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Copeland David W,4,M-Exempt,--D,3529,113155,3,0001396395,Common Stock; $.01 Par Value
+A,07/01/2019 00:00:00,Copeland David W,4,M-Exempt,--D,1558,109626,2,0001396395,Common Stock; $.01 Par Value
+A,06/28/2019 00:00:00,Whitcomb David J.,4,J-Other,-ED,853,51797,2,0001442781,Common Stock; $.01 Par Value
+A,06/28/2019 00:00:00,Vogel Herbert S,4,J-Other,-ED,1614,60645,1,0001544288,Common Stock; $.01 Par Value
+A,06/28/2019 00:00:00,PURSELL A WADE,4,J-Other,-ED,1614,96111,2,0001041812,Common Stock; $.01 Par Value
+A,06/28/2019 00:00:00,Ottoson Javan D,4,J-Other,-ED,1614,183740,1,0001359693,Common Stock; $.01 Par Value
+A,06/28/2019 00:00:00,Newton Lehman E III,4,J-Other,-ED,1614,67550,1,0001403099,Common Stock; $.01 Par Value
+A,06/28/2019 00:00:00,Lytle Patrick A,4,J-Other,-ED,1165,3226,1,0001767858,Common Stock
+A,06/28/2019 00:00:00,Lutey Mary Ellen,4,J-Other,-EI,838,19373,4,0001563908,Common Stock; $.01 Par Value
+A,06/28/2019 00:00:00,Lutey Mary Ellen,4,J-Other,-ED,808,29090,3,0001563908,Common Stock; $.01 Par Value
+A,06/28/2019 00:00:00,Knott Kenneth J.,4,J-Other,-ED,1614,50882,2,0001442846,Common Stock: $.01 Par Value
+A,06/28/2019 00:00:00,Copeland David W,4,J-Other,-ED,1614,108068,1,0001396395,Common Stock; $.01 Par Value
+A,06/21/2019 00:00:00,SULLIVAN WILLIAM D,4,A-Award,--D,24304,133094,1,0001221980,Common Stock; $.01 Par Value
+A,06/21/2019 00:00:00,ROBESON ROSE M,4,A-Award,--D,10345,43300,1,0001251678,Common Stock; $.01 Par Value
+A,06/21/2019 00:00:00,Quintana Julio M,4,A-Award,--D,10345,65554,1,0001364531,Common Stock; $.01 Par Value
+A,06/21/2019 00:00:00,PERU RAMIRO G,4,A-Award,--D,10345,44124,1,0001192045,"Common Stock, $.01 Par Value"
+A,06/21/2019 00:00:00,LEIKER LOREN M,4,A-Award,--D,10345,78233,1,0001189094,Common Stock
+A,06/21/2019 00:00:00,Brand Stephen R,4,A-Award,--D,10345,54260,1,0001516382,Common Stock; $.01 Par Value
+A,06/21/2019 00:00:00,Bailo Carla Jean,4,A-Award,--D,10345,15514,1,0001756088,Common Stock
+A,06/21/2019 00:00:00,BICKLE LARRY W,4,A-Award,--D,10345,179039,1,0000939252,Common Stock; $.01 Par Value
+A,06/10/2019 00:00:00,Vogel Herbert S,4,A-Award,--D,20000,20000,1,0001544288,Restricted Stock Units
+A,05/29/2019 00:00:00,Vogel Herbert S,4,P-Purchase,--D,2000,59031,2,0001544288,Common Stock; $.01 Par Value
+A,05/24/2019 00:00:00,Copeland David W,4,P-Purchase,--D,10000,106454,1,0001396395,Common Stock; $.01 Par Value
+A,05/07/2019 00:00:00,Ottoson Javan D,4,P-Purchase,--D,5000,182126,1,0001359693,Common Stock; $.01 Par Value
+D,03/05/2019 00:00:00,PURSELL A WADE,4,G-Gift,-ED,6000,94497,1,0001041812,Common Stock; $.01 Par Value
+A,12/31/2018 00:00:00,Whitcomb David J.,4,J-Other,-ED,569,50944,1,0001442781,Common Stock; $.01 Par Value
+A,12/31/2018 00:00:00,Lutey Mary Ellen,4,J-Other,-EI,581,18535,2,0001563908,Common Stock; $.01 Par Value
+A,12/31/2018 00:00:00,Lutey Mary Ellen,4,J-Other,-ED,591,28282,1,0001563908,Common Stock; $.01 Par Value
+A,12/31/2018 00:00:00,Knott Kenneth J.,4,J-Other,-ED,80,49268,1,0001442846,Common Stock: $.01 Par Value
+A,12/31/2018 00:00:00,Vogel Herbert S,4,J-Other,-ED,229,57031,1,0001544288,Common Stock; $.01 Par Value
+A,12/31/2018 00:00:00,Ottoson Javan D,5,J-Other,--D,12,177126,2,0001359693,Common Stock; $.01 Par Value
+A,10/23/2018 00:00:00,Bailo Carla Jean,4/A,A-Award,--D,5169,5169,1,0001756088,Common Stock
+A,10/23/2018 00:00:00,Bailo Carla Jean,4,A-Award,--D,5184,5184,1,0001756088,Common Stock
+A,07/30/2018 00:00:00,Lutey Mary Ellen,4,A-Award,--I,3503,3503,2,0001563908,Restricted Stock Units
+A,07/30/2018 00:00:00,Lutey Mary Ellen,4,A-Award,--D,5109,5109,1,0001563908,Restricted Stock Units
+A,07/30/2018 00:00:00,Whitcomb David J.,4,A-Award,--D,4671,4671,1,0001442781,Restricted Stock Units
+A,07/30/2018 00:00:00,Vogel Herbert S,4,A-Award,--D,19463,19463,1,0001544288,Restricted Stock Units
+A,07/30/2018 00:00:00,Solomon Mark T,4,A-Award,--D,4360,4360,1,0001379283,Restricted Stock Units
+A,07/30/2018 00:00:00,PURSELL A WADE,4,A-Award,--D,19463,19463,1,0001041812,Restricted Stock Units
+A,07/30/2018 00:00:00,Ottoson Javan D,4,A-Award,--D,46711,46711,1,0001359693,Restricted Stock Units
+A,07/30/2018 00:00:00,Newton Lehman E III,4,A-Award,--D,5109,5109,1,0001403099,Restricted Stock Units
+A,07/30/2018 00:00:00,Knott Kenneth J.,4,A-Award,--D,4379,4379,1,0001442846,Restricted Stock Units
+A,07/30/2018 00:00:00,Copeland David W,4,A-Award,--D,8272,8272,1,0001396395,Restricted Stock Units
+D,07/02/2018 00:00:00,Ottoson Javan D,4,M-Exempt,--D,25206,50414,10,0001359693,Restricted Stock Units
+D,07/02/2018 00:00:00,Ottoson Javan D,4,M-Exempt,--D,7716,7716,9,0001359693,Restricted Stock Units
+D,07/02/2018 00:00:00,Ottoson Javan D,4,M-Exempt,--D,5719,0,8,0001359693,Restricted Stock Units
+D,07/02/2018 00:00:00,Ottoson Javan D,4,F-InKind,--D,11086,179614,7,0001359693,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Ottoson Javan D,4,M-Exempt,--D,25206,190700,6,0001359693,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Ottoson Javan D,4,F-InKind,--D,3394,165494,5,0001359693,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Ottoson Javan D,4,M-Exempt,--D,7716,168888,4,0001359693,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Ottoson Javan D,4,F-InKind,--D,2516,161172,3,0001359693,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Ottoson Javan D,4,M-Exempt,--D,5719,163688,2,0001359693,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Whitcomb David J.,4,M-Exempt,--D,1512,3025,11,0001442781,Restricted Stock Units
+D,07/02/2018 00:00:00,Whitcomb David J.,4,M-Exempt,--D,683,683,10,0001442781,Restricted Stock Units
+D,07/02/2018 00:00:00,Whitcomb David J.,4,M-Exempt,--D,477,0,9,0001442781,Restricted Stock Units
+D,07/02/2018 00:00:00,Whitcomb David J.,4,F-InKind,--D,439,50375,8,0001442781,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Whitcomb David J.,4,M-Exempt,--D,1512,50814,7,0001442781,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Whitcomb David J.,4,F-InKind,--D,198,49302,6,0001442781,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Whitcomb David J.,4,M-Exempt,--D,683,49500,5,0001442781,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Whitcomb David J.,4,F-InKind,--D,139,48817,4,0001442781,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Whitcomb David J.,4,M-Exempt,--D,477,48956,3,0001442781,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Vogel Herbert S,4,M-Exempt,--D,11595,23190,9,0001544288,Restricted Stock Units
+D,07/02/2018 00:00:00,Vogel Herbert S,4,M-Exempt,--D,4452,4452,8,0001544288,Restricted Stock Units
+D,07/02/2018 00:00:00,Vogel Herbert S,4,M-Exempt,--D,3098,0,7,0001544288,Restricted Stock Units
+D,07/02/2018 00:00:00,Vogel Herbert S,4,F-InKind,--D,3361,56802,6,0001544288,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Vogel Herbert S,4,M-Exempt,--D,11595,60163,5,0001544288,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Vogel Herbert S,4,F-InKind,--D,1291,48568,4,0001544288,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Vogel Herbert S,4,M-Exempt,--D,4452,49859,3,0001544288,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Vogel Herbert S,4,M-Exempt,--D,3098,45407,2,0001544288,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1109,2218,22,0001563908,Restricted Stock Units
+D,07/02/2018 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,2646,5294,21,0001563908,Restricted Stock Units
+D,07/02/2018 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,534,535,20,0001563908,Restricted Stock Units
+D,07/02/2018 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,1009,1009,19,0001563908,Restricted Stock Units
+D,07/02/2018 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,382,0,18,0001563908,Restricted Stock Units
+D,07/02/2018 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,744,0,17,0001563908,Restricted Stock Units
+D,07/02/2018 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,271,17954,16,0001563908,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,1109,18225,15,0001563908,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,645,27691,14,0001563908,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,2646,28336,13,0001563908,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,131,17116,12,0001563908,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,534,17247,11,0001563908,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,246,25690,10,0001563908,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,1009,25936,9,0001563908,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Lutey Mary Ellen,4,F-InKind,--I,94,16713,8,0001563908,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Lutey Mary Ellen,4,M-Exempt,--I,382,16807,7,0001563908,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Lutey Mary Ellen,4,F-InKind,--D,182,24927,6,0001563908,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Lutey Mary Ellen,4,M-Exempt,--D,744,25109,5,0001563908,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,PURSELL A WADE,4,M-Exempt,--D,10082,20166,11,0001041812,Restricted Stock Units
+D,07/02/2018 00:00:00,PURSELL A WADE,4,M-Exempt,--D,4452,4452,10,0001041812,Restricted Stock Units
+D,07/02/2018 00:00:00,PURSELL A WADE,4,M-Exempt,--D,3098,0,9,0001041812,Restricted Stock Units
+D,07/02/2018 00:00:00,PURSELL A WADE,4,F-InKind,--D,2922,100497,8,0001041812,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,PURSELL A WADE,4,M-Exempt,--D,10082,103419,7,0001041812,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,PURSELL A WADE,4,F-InKind,--D,1291,93337,6,0001041812,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,PURSELL A WADE,4,M-Exempt,--D,4452,94628,5,0001041812,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,PURSELL A WADE,4,F-InKind,--D,898,90176,4,0001041812,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,PURSELL A WADE,4,M-Exempt,--D,3098,91074,3,0001041812,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Copeland David W,4,M-Exempt,--D,3529,7058,10,0001396395,Restricted Stock Units
+D,07/02/2018 00:00:00,Copeland David W,4,M-Exempt,--D,1558,1558,9,0001396395,Restricted Stock Units
+D,07/02/2018 00:00:00,Copeland David W,4,M-Exempt,--D,1335,0,8,0001396395,Restricted Stock Units
+D,07/02/2018 00:00:00,Copeland David W,4,F-InKind,--D,1023,96454,7,0001396395,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Copeland David W,4,M-Exempt,--D,3529,97477,6,0001396395,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Copeland David W,4,F-InKind,--D,452,93948,5,0001396395,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Copeland David W,4,M-Exempt,--D,1558,94400,4,0001396395,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Copeland David W,4,F-InKind,--D,387,92842,3,0001396395,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Copeland David W,4,M-Exempt,--D,1335,93229,2,0001396395,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Solomon Mark T,4,M-Exempt,--D,1411,2824,10,0001379283,Restricted Stock Units
+D,07/02/2018 00:00:00,Solomon Mark T,4,M-Exempt,--D,653,653,9,0001379283,Restricted Stock Units
+D,07/02/2018 00:00:00,Solomon Mark T,4,M-Exempt,--D,477,0,8,0001379283,Restricted Stock Units
+D,07/02/2018 00:00:00,Solomon Mark T,4,F-InKind,--D,409,18854,7,0001379283,"Common Stock, $.01 Par Value"
+A,07/02/2018 00:00:00,Solomon Mark T,4,M-Exempt,--D,1411,19263,6,0001379283,"Common Stock, $.01 Par Value"
+D,07/02/2018 00:00:00,Solomon Mark T,4,F-InKind,--D,190,17852,5,0001379283,"Common Stock, $.01 Par Value"
+A,07/02/2018 00:00:00,Solomon Mark T,4,M-Exempt,--D,653,18042,4,0001379283,"Common Stock, $.01 Par Value"
+D,07/02/2018 00:00:00,Solomon Mark T,4,F-InKind,--D,139,17389,3,0001379283,"Common Stock, $.01 Par Value"
+A,07/02/2018 00:00:00,Solomon Mark T,4,M-Exempt,--D,477,17528,2,0001379283,"Common Stock, $.01 Par Value"
+D,07/02/2018 00:00:00,Newton Lehman E III,4,M-Exempt,--D,2646,5294,10,0001403099,Restricted Stock Units
+D,07/02/2018 00:00:00,Newton Lehman E III,4,M-Exempt,--D,1009,1009,9,0001403099,Restricted Stock Units
+D,07/02/2018 00:00:00,Newton Lehman E III,4,M-Exempt,--D,744,0,8,0001403099,Restricted Stock Units
+D,07/02/2018 00:00:00,Newton Lehman E III,4,F-InKind,--D,645,65936,7,0001403099,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Newton Lehman E III,4,M-Exempt,--D,2646,66581,6,0001403099,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Newton Lehman E III,4,F-InKind,--D,246,63935,5,0001403099,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Newton Lehman E III,4,M-Exempt,--D,1009,64181,4,0001403099,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Newton Lehman E III,4,F-InKind,--D,182,63172,3,0001403099,Common Stock; $.01 Par Value
+A,07/02/2018 00:00:00,Newton Lehman E III,4,M-Exempt,--D,744,63354,2,0001403099,Common Stock; $.01 Par Value
+D,07/02/2018 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,2016,4034,10,0001442846,Restricted Stock Units
+D,07/02/2018 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,831,831,9,0001442846,Restricted Stock Units
+D,07/02/2018 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,572,0,8,0001442846,Restricted Stock Units
+D,07/02/2018 00:00:00,Knott Kenneth J.,4,F-InKind,--D,491,49188,7,0001442846,Common Stock: $.01 Par Value
+A,07/02/2018 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,2016,49679,6,0001442846,Common Stock: $.01 Par Value
+D,07/02/2018 00:00:00,Knott Kenneth J.,4,F-InKind,--D,203,47663,5,0001442846,Common Stock: $.01 Par Value
+A,07/02/2018 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,831,47866,4,0001442846,Common Stock: $.01 Par Value
+D,07/02/2018 00:00:00,Knott Kenneth J.,4,F-InKind,--D,140,47035,3,0001442846,Common Stock: $.01 Par Value
+A,07/02/2018 00:00:00,Knott Kenneth J.,4,M-Exempt,--D,572,47175,2,0001442846,Common Stock: $.01 Par Value
+A,06/29/2018 00:00:00,Ottoson Javan D,4,J-Other,-ED,1118,157969,1,0001359693,Common Stock; $.01 Par Value
+A,06/29/2018 00:00:00,Whitcomb David J.,4,J-Other,-ED,470,48479,2,0001442781,Common Stock; $.01 Par Value
+A,06/29/2018 00:00:00,Vogel Herbert S,4,J-Other,-ED,865,42309,1,0001544288,Common Stock; $.01 Par Value
+A,06/29/2018 00:00:00,Lutey Mary Ellen,4,J-Other,-EI,456,16425,4,0001563908,Common Stock; $.01 Par Value
+A,06/29/2018 00:00:00,Lutey Mary Ellen,4,J-Other,-ED,444,24365,3,0001563908,Common Stock; $.01 Par Value
+A,06/29/2018 00:00:00,PURSELL A WADE,4,J-Other,-ED,1132,87976,2,0001041812,Common Stock; $.01 Par Value
+A,06/29/2018 00:00:00,Copeland David W,4,J-Other,-ED,1132,91894,1,0001396395,Common Stock; $.01 Par Value
+A,06/29/2018 00:00:00,Solomon Mark T,4,J-Other,-ED,628,17051,1,0001379283,"Common Stock, $.01 Par Value"
+A,06/29/2018 00:00:00,Newton Lehman E III,4,J-Other,-ED,1132,62610,1,0001403099,Common Stock; $.01 Par Value
+A,06/29/2018 00:00:00,Knott Kenneth J.,4,J-Other,-ED,1039,46603,1,0001442846,Common Stock: $.01 Par Value
+A,06/25/2018 00:00:00,ROBESON ROSE M,4,A-Award,--D,6780,32955,1,0001251678,Common Stock; $.01 Par Value
+A,06/25/2018 00:00:00,Quintana Julio M,4,A-Award,--D,6780,55209,1,0001364531,Common Stock; $.01 Par Value
+A,06/25/2018 00:00:00,PERU RAMIRO G,4,A-Award,--D,6780,33779,1,0001192045,"Common Stock, $.01 Par Value"
+A,06/25/2018 00:00:00,LEIKER LOREN M,4,A-Award,--D,10170,67888,1,0001189094,Common Stock
+A,06/25/2018 00:00:00,Brand Stephen R,4,A-Award,--D,6780,43915,1,0001516382,Common Stock; $.01 Par Value
+A,06/25/2018 00:00:00,BICKLE LARRY W,4,A-Award,--D,6780,168694,1,0000939252,Common Stock; $.01 Par Value
+A,06/25/2018 00:00:00,SULLIVAN WILLIAM D,4,A-Award,--D,14502,108790,1,0001221980,Common Stock; $.01 Par Value
+D,05/10/2018 00:00:00,Ottoson Javan D,5,G-Gift,--D,2500,177114,1,0001359693,Common Stock; $.01 Par Value
+D,04/26/2018 00:00:00,PURSELL A WADE,4,G-Gift,--D,4500,86844,1,0001041812,Common Stock; $.01 Par Value
+A,12/29/2017 00:00:00,Whitcomb David J.,4,J-Other,-ED,206,48009,1,0001442781,Common Stock; $.01 Par Value
+A,12/29/2017 00:00:00,Lutey Mary Ellen,4,J-Other,-EI,292,15969,2,0001563908,Common Stock; $.01 Par Value
+A,12/29/2017 00:00:00,Lutey Mary Ellen,4,J-Other,-ED,313,23921,1,0001563908,Common Stock; $.01 Par Value
+D,09/19/2017 00:00:00,PURSELL A WADE,4,G-Gift,-ED,4440,91344,1,0001041812,Common Stock; $.01 Par Value
+A,09/01/2017 00:00:00,Newton Lehman E III,4,A-Award,--D,7940,7940,1,0001403099,Restricted Stock Units
+A,08/02/2017 00:00:00,Whitcomb David J.,4,A-Award,--D,4537,4537,1,0001442781,Restricted Stock Units
+A,08/02/2017 00:00:00,Vogel Herbert S,4,A-Award,--D,34785,34785,1,0001544288,Restricted Stock Units
+A,08/02/2017 00:00:00,Solomon Mark T,4,A-Award,--D,4235,4235,1,0001379283,Restricted Stock Units
+A,08/02/2017 00:00:00,PURSELL A WADE,4,A-Award,--D,30248,30248,1,0001041812,Restricted Stock Units
+A,08/02/2017 00:00:00,Ottoson Javan D,4,A-Award,--D,75620,75620,1,0001359693,Restricted Stock Units
+A,08/02/2017 00:00:00,Lutey Mary Ellen,4,A-Award,--I,3327,3327,2,0001563908,Restricted Stock Units
+A,08/02/2017 00:00:00,Lutey Mary Ellen,4,A-Award,--D,7940,7940,1,0001563908,Restricted Stock Units
+A,08/02/2017 00:00:00,Knott Kenneth J.,4,A-Award,--D,6050,6050,1,0001442846,Restricted Stock Units
+A,08/02/2017 00:00:00,Copeland David W,4,A-Award,--D,10587,10587,1,0001396395,Restricted Stock Units
+D,07/03/2017 00:00:00,Whitcomb David J.,4,M-Exempt,--D,682,1366,11,0001442781,Restricted Stock Units
+D,07/03/2017 00:00:00,Whitcomb David J.,4,M-Exempt,--D,477,477,10,0001442781,Restricted Stock Units
+D,07/03/2017 00:00:00,Whitcomb David J.,4,M-Exempt,--D,288,0,9,0001442781,Restricted Stock Units

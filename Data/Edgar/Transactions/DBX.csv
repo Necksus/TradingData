@@ -1,0 +1,888 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/26/2023 00:00:00,Regan Timothy,4,S-Sale,--D,2585,628868,1,0001734440,Class A Common Stock
+D,06/21/2023 00:00:00,Peacock Karen,4,S-Sale,--D,4667,23374,1,0001786299,Class A Common Stock
+D,06/21/2023 00:00:00,Campbell Lisa M,4,S-Sale,--D,6148,27542,1,0001775679,Class A Common Stock
+D,06/14/2023 00:00:00,Houston Andrew,4,S-Sale,--D,515226,8266666,1,0001734563,Class A Common Stock
+D,06/14/2023 00:00:00,Regan Timothy,4,S-Sale,--D,2369,631453,1,0001734440,Class A Common Stock
+D,06/09/2023 00:00:00,Volkmer Bart,4,S-Sale,--D,10113,341307,1,0001734437,Class A Common Stock
+D,06/05/2023 00:00:00,Houston Andrew,4,C-Conversion,--I,162500,71613073,5,0001734563,Class B Common Stock
+D,06/05/2023 00:00:00,Houston Andrew,4,S-Sale,--I,162500,0,2,0001734563,Class A Common Stock
+A,06/05/2023 00:00:00,Houston Andrew,4,C-Conversion,--I,162500,162500,1,0001734563,Class A Common Stock
+D,05/25/2023 00:00:00,Regan Timothy,4,S-Sale,--D,2585,633822,1,0001734440,Class A Common Stock
+A,05/18/2023 00:00:00,MATHEW SARA,4,A-Award,--D,11077,29954,1,0001192748,Class A Common Stock
+A,05/18/2023 00:00:00,Seibel Michael,4,A-Award,--D,11077,37341,1,0001835628,Class A Common Stock
+A,05/18/2023 00:00:00,Peacock Karen,4,A-Award,--D,11077,28041,1,0001786299,Class A Common Stock
+A,05/18/2023 00:00:00,JACOBS PAUL E,4,A-Award,--D,11077,124923,1,0001191310,Class A Common Stock
+A,05/18/2023 00:00:00,Campbell Lisa M,4,A-Award,--D,11077,33690,1,0001775679,Class A Common Stock
+A,05/18/2023 00:00:00,BLAIR DONALD W,4,A-Award,--D,11077,100637,1,0001237789,Class A Common Stock
+A,05/18/2023 00:00:00,Parasnis Abhay,4,A-Award,--D,11077,25165,1,0001647550,Class A Common Stock
+D,05/16/2023 00:00:00,Volkmer Bart,4,S-Sale,--D,10550,351420,2,0001734437,Class A Common Stock
+D,05/15/2023 00:00:00,Regan Timothy,4,F-InKind,--D,26491,636407,1,0001734440,Class A Common Stock
+D,05/15/2023 00:00:00,Volkmer Bart,4,F-InKind,--D,16828,361970,1,0001734437,Class A Common Stock
+D,05/11/2023 00:00:00,Houston Andrew,4,C-Conversion,--I,162500,71775573,5,0001734563,Class B Common Stock
+D,05/11/2023 00:00:00,Houston Andrew,4,S-Sale,--I,162500,0,2,0001734563,Class A Common Stock
+A,05/11/2023 00:00:00,Houston Andrew,4,C-Conversion,--I,162500,162500,1,0001734563,Class A Common Stock
+D,04/25/2023 00:00:00,Regan Timothy,4,S-Sale,--D,1939,662898,1,0001734440,Class A Common Stock
+D,04/14/2023 00:00:00,Regan Timothy,4,S-Sale,--D,1723,664837,1,0001734440,Class A Common Stock
+D,04/10/2023 00:00:00,Volkmer Bart,4,S-Sale,--D,10000,378798,1,0001734437,Class A Common Stock
+D,04/04/2023 00:00:00,Houston Andrew,4,C-Conversion,--I,162500,71938073,5,0001734563,Class B Common Stock
+D,04/04/2023 00:00:00,Houston Andrew,4,S-Sale,--I,162500,0,2,0001734563,Class A Common Stock
+A,04/04/2023 00:00:00,Houston Andrew,4,C-Conversion,--I,162500,162500,1,0001734563,Class A Common Stock
+A,04/01/2023 00:00:00,Volkmer Bart,4,A-Award,--D,159049,388798,1,0001734437,Class A Common Stock
+A,04/01/2023 00:00:00,Regan Timothy,4,A-Award,--D,220222,666560,1,0001734440,Class A Common Stock
+D,03/27/2023 00:00:00,Regan Timothy,4,S-Sale,--D,2369,446338,1,0001734440,Class A Common Stock
+D,03/13/2023 00:00:00,Volkmer Bart,4,S-Sale,--D,11506,229749,1,0001734437,Class A Common Stock
+D,03/06/2023 00:00:00,Houston Andrew,4,C-Conversion,--I,162500,72100573,5,0001734563,Class B Common Stock
+D,03/06/2023 00:00:00,Houston Andrew,4,S-Sale,--I,162500,0,2,0001734563,Class A Common Stock
+A,03/06/2023 00:00:00,Houston Andrew,4,C-Conversion,--I,162500,162500,1,0001734563,Class A Common Stock
+D,02/27/2023 00:00:00,Regan Timothy,4,S-Sale,--D,2369,448707,1,0001734440,Class A Common Stock
+D,02/27/2023 00:00:00,Volkmer Bart,4,S-Sale,--D,13667,241255,1,0001734437,Class A Common Stock
+D,02/15/2023 00:00:00,Regan Timothy,4,F-InKind,--D,15154,451076,1,0001734440,Class A Common Stock
+D,02/15/2023 00:00:00,Volkmer Bart,4,F-InKind,--D,10880,254922,1,0001734437,Class A Common Stock
+D,02/06/2023 00:00:00,Houston Andrew,4,C-Conversion,--I,162500,72263073,5,0001734563,Class B Common Stock
+D,02/06/2023 00:00:00,Houston Andrew,4,S-Sale,--I,162500,0,2,0001734563,Class A Common Stock
+A,02/06/2023 00:00:00,Houston Andrew,4,C-Conversion,--I,162500,162500,1,0001734563,Class A Common Stock
+D,01/25/2023 00:00:00,Regan Timothy,4,S-Sale,--D,2369,466230,1,0001734440,Class A Common Stock
+D,01/24/2023 00:00:00,Young Timothy H.,4,S-Sale,--D,15000,1108945,1,0001791676,Class A Common Stock
+D,01/11/2023 00:00:00,Volkmer Bart,4,S-Sale,--D,10000,265802,1,0001734437,Class A Common Stock
+D,01/05/2023 00:00:00,Houston Andrew,4,C-Conversion,--I,162500,72425573,5,0001734563,Class B Common Stock
+D,01/05/2023 00:00:00,Houston Andrew,4,S-Sale,--I,162500,0,2,0001734563,Class A Common Stock
+A,01/05/2023 00:00:00,Houston Andrew,4,C-Conversion,--I,162500,162500,1,0001734563,Class A Common Stock
+D,01/03/2023 00:00:00,Regan Timothy,4,S-Sale,--D,2000,468599,1,0001734440,Class A Common Stock
+D,12/31/2022 00:00:00,Young Timothy H.,4,D-Return,--D,353044,1123945,1,0001791676,Class A Common Stock
+D,12/27/2022 00:00:00,Regan Timothy,4,S-Sale,--D,3000,470599,1,0001734440,Class A Common Stock
+D,12/23/2022 00:00:00,Young Timothy H.,4,S-Sale,--D,15000,1476989,1,0001791676,Class A Common Stock
+D,12/12/2022 00:00:00,Volkmer Bart,4,S-Sale,--D,10264,275802,1,0001734437,Class A Common Stock
+D,12/05/2022 00:00:00,Houston Andrew,4,C-Conversion,--I,150000,72588073,5,0001734563,Class B Common Stock
+D,12/05/2022 00:00:00,Houston Andrew,4,S-Sale,--I,162500,0,2,0001734563,Class A Common Stock
+A,12/05/2022 00:00:00,Houston Andrew,4,C-Conversion,--I,150000,162500,1,0001734563,Class A Common Stock
+D,11/25/2022 00:00:00,Young Timothy H.,4,S-Sale,--D,15000,1491989,1,0001791676,Class A Common Stock
+D,11/25/2022 00:00:00,Regan Timothy,4,S-Sale,--D,3000,473599,1,0001734440,Class A Common Stock
+D,11/16/2022 00:00:00,Volkmer Bart,4,S-Sale,--D,10534,286066,2,0001734437,Class A Common Stock
+D,11/15/2022 00:00:00,Young Timothy H.,4,F-InKind,--D,32634,1506989,1,0001791676,Class A Common Stock
+D,11/15/2022 00:00:00,Volkmer Bart,4,F-InKind,--D,15255,296600,1,0001734437,Class A Common Stock
+D,11/15/2022 00:00:00,Regan Timothy,4,F-InKind,--D,21188,476599,1,0001734440,Class A Common Stock
+D,11/10/2022 00:00:00,Houston Andrew,4,S-Sale,--I,162500,12500,1,0001734563,Class A Common Stock
+D,10/25/2022 00:00:00,Regan Timothy,4,S-Sale,--D,3000,497787,1,0001734440,Class A Common Stock
+D,10/24/2022 00:00:00,Young Timothy H.,4,S-Sale,--D,15000,1539623,1,0001791676,Class A Common Stock
+D,10/11/2022 00:00:00,Volkmer Bart,4,C-Conversion,--D,29237,68480,3,0001734437,Class B Common Stock
+D,10/11/2022 00:00:00,Volkmer Bart,4,S-Sale,--D,11000,311855,2,0001734437,Class A Common Stock
+A,10/11/2022 00:00:00,Volkmer Bart,4,C-Conversion,--D,29237,322855,1,0001734437,Class A Common Stock
+D,10/11/2022 00:00:00,Houston Andrew,4,S-Sale,--D,240999,8781892,9,0001734563,Class A Common Stock
+D,10/11/2022 00:00:00,Houston Andrew,4,S-Sale,--I,52551,175000,8,0001734563,Class A Common Stock
+D,10/10/2022 00:00:00,Houston Andrew,4,C-Conversion,--I,150000,7743764,10,0001734563,Class B Common Stock
+D,10/10/2022 00:00:00,Houston Andrew,4,S-Sale,--I,200,227551,7,0001734563,Class A Common Stock
+D,10/10/2022 00:00:00,Houston Andrew,4,S-Sale,--I,272249,227751,6,0001734563,Class A Common Stock
+D,10/10/2022 00:00:00,Houston Andrew,4,S-Sale,--D,800,9022891,5,0001734563,Class A Common Stock
+D,10/10/2022 00:00:00,Houston Andrew,4,S-Sale,--D,273426,9023691,4,0001734563,Class A Common Stock
+D,10/10/2022 00:00:00,Houston Andrew,4,S-Sale,--I,700,716728,3,0001734563,Class A Common Stock
+D,10/10/2022 00:00:00,Houston Andrew,4,S-Sale,--I,149300,717428,2,0001734563,Class A Common Stock
+A,10/10/2022 00:00:00,Houston Andrew,4,C-Conversion,--I,150000,866728,1,0001734563,Class A Common Stock
+D,09/26/2022 00:00:00,Regan Timothy,4,S-Sale,--D,3000,500787,1,0001734440,Class A Common Stock
+D,09/23/2022 00:00:00,Young Timothy H.,4,S-Sale,--D,15000,1554623,1,0001791676,Class A Common Stock
+D,09/12/2022 00:00:00,Volkmer Bart,4,S-Sale,--D,11000,293618,1,0001734437,Class A Common Stock
+D,09/12/2022 00:00:00,Regan Timothy,4,S-Sale,--D,5000,503787,1,0001734440,Class A Common Stock
+D,08/24/2022 00:00:00,Young Timothy H.,4,S-Sale,--D,15000,1569623,1,0001791676,Class A Common Stock
+D,08/16/2022 00:00:00,Volkmer Bart,4,S-Sale,--D,11270,304618,2,0001734437,Class A Common Stock
+D,08/15/2022 00:00:00,Young Timothy H.,4,F-InKind,--D,32634,1584623,1,0001791676,Class A Common Stock
+D,08/15/2022 00:00:00,Regan Timothy,4,F-InKind,--D,21186,508787,1,0001734440,Class A Common Stock
+D,08/15/2022 00:00:00,Volkmer Bart,4,F-InKind,--D,15255,315888,1,0001734437,Class A Common Stock
+D,07/25/2022 00:00:00,Young Timothy H.,4,S-Sale,--D,15000,1617257,1,0001791676,Class A Common Stock
+D,07/25/2022 00:00:00,Regan Timothy,4,S-Sale,--D,2500,529973,1,0001734440,Class A Common Stock
+D,07/11/2022 00:00:00,Volkmer Bart,4,S-Sale,--D,11000,331143,1,0001734437,Class A Common Stock
+D,06/27/2022 00:00:00,Regan Timothy,4,S-Sale,--D,2500,532473,1,0001734440,Class A Common Stock
+D,06/24/2022 00:00:00,Young Timothy H.,4,S-Sale,--D,15000,1632257,1,0001791676,Class A Common Stock
+D,06/10/2022 00:00:00,Volkmer Bart,4,S-Sale,--D,11000,342143,1,0001734437,Class A Common Stock
+D,05/25/2022 00:00:00,Regan Timothy,4,S-Sale,--D,2500,534973,1,0001734440,Class A Common Stock
+D,05/24/2022 00:00:00,Young Timothy H.,4,S-Sale,--D,200,1647257,2,0001791676,Class A Common Stock
+D,05/24/2022 00:00:00,Young Timothy H.,4,S-Sale,--D,14800,1647457,1,0001791676,Class A Common Stock
+D,05/20/2022 00:00:00,Peacock Karen,4,S-Sale,--D,10316,16964,2,0001786299,Class A Common Stock
+D,05/20/2022 00:00:00,Campbell Lisa M,4,S-Sale,--D,4667,22613,2,0001775679,Class A Common Stock
+A,05/19/2022 00:00:00,Seibel Michael,4,A-Award,--D,12297,26264,1,0001835628,Class A Common Stock
+A,05/19/2022 00:00:00,BLAIR DONALD W,4,A-Award,--D,12297,89560,1,0001237789,Class A Common Stock
+A,05/19/2022 00:00:00,Peacock Karen,4,A-Award,--D,12297,27280,1,0001786299,Class A Common Stock
+A,05/19/2022 00:00:00,Campbell Lisa M,4,A-Award,--D,12297,27280,1,0001775679,Class A Common Stock
+A,05/19/2022 00:00:00,JACOBS PAUL E,4,A-Award,--D,12297,113846,1,0001191310,Class A Common Stock
+A,05/19/2022 00:00:00,MATHEW SARA,4,A-Award,--D,12297,18877,1,0001192748,Class A Common Stock
+A,05/19/2022 00:00:00,Parasnis Abhay,4,A-Award,--D,12297,14088,1,0001647550,Class A Common Stock
+D,05/17/2022 00:00:00,Volkmer Bart,4,S-Sale,--D,11270,353143,2,0001734437,Class A Common Stock
+D,05/16/2022 00:00:00,Regan Timothy,4,F-InKind,--D,21188,537473,1,0001734440,Class A Common Stock
+D,05/16/2022 00:00:00,Volkmer Bart,4,F-InKind,--D,15255,364413,1,0001734437,Class A Common Stock
+D,05/16/2022 00:00:00,Young Timothy H.,4,F-InKind,--D,32634,1662257,2,0001791676,Class A Common Stock
+D,05/12/2022 00:00:00,Young Timothy H.,4,S-Sale,--D,183986,1694891,1,0001791676,Class A Common Stock
+D,04/25/2022 00:00:00,Young Timothy H.,4,S-Sale,--D,12750,1878877,1,0001791676,Class A Common Stock
+D,04/25/2022 00:00:00,Regan Timothy,4,S-Sale,--D,2500,558661,1,0001734440,Class A Common Stock
+D,04/11/2022 00:00:00,Volkmer Bart,4,S-Sale,--D,11000,379668,1,0001734437,Class A Common Stock
+A,04/01/2022 00:00:00,Volkmer Bart,4,A-Award,--D,134558,390668,1,0001734437,Class A Common Stock
+D,04/01/2022 00:00:00,Regan Timothy,4,S-Sale,--D,1000,561161,2,0001734440,Class A Common Stock
+A,04/01/2022 00:00:00,Regan Timothy,4,A-Award,--D,201837,562161,1,0001734440,Class A Common Stock
+D,03/25/2022 00:00:00,Regan Timothy,4,S-Sale,--D,2500,360324,1,0001734440,Class A Common Stock
+A,03/25/2022 00:00:00,Parasnis Abhay,4,A-Award,--D,1791,1791,1,0001647550,Class A Common Stock
+D,03/24/2022 00:00:00,Young Timothy H.,4,S-Sale,--D,12750,1891627,1,0001791676,Class A Common Stock
+D,03/11/2022 00:00:00,Volkmer Bart,4,S-Sale,--D,11000,256110,1,0001734437,Class A Common Stock
+D,03/09/2022 00:00:00,Houston Andrew,4,C-Conversion,--I,175000,72738073,5,0001734563,Class B Common Stock
+D,03/09/2022 00:00:00,Houston Andrew,4,G-Gift,--I,175000,500000,2,0001734563,Class A Common Stock
+A,03/09/2022 00:00:00,Houston Andrew,4,C-Conversion,--I,175000,675000,1,0001734563,Class A Common Stock
+D,02/25/2022 00:00:00,Regan Timothy,4,S-Sale,--D,2500,362824,1,0001734440,Class A Common Stock
+D,02/24/2022 00:00:00,Young Timothy H.,4,S-Sale,--D,4645,1904377,2,0001791676,Class A Common Stock
+D,02/24/2022 00:00:00,Young Timothy H.,4,S-Sale,--D,8105,1909022,1,0001791676,Class A Common Stock
+D,02/24/2022 00:00:00,Volkmer Bart,4,S-Sale,--D,4897,267110,2,0001734437,Class A Common Stock
+D,02/24/2022 00:00:00,Volkmer Bart,4,S-Sale,--D,9515,272007,1,0001734437,Class A Common Stock
+D,02/15/2022 00:00:00,Young Timothy H.,4,F-InKind,--D,201694,1917127,1,0001791676,Class A Common Stock
+D,02/15/2022 00:00:00,Regan Timothy,4,F-InKind,--D,11711,365324,1,0001734440,Class A Common Stock
+D,02/15/2022 00:00:00,Volkmer Bart,4,F-InKind,--D,7943,281522,1,0001734437,Class A Common Stock
+D,01/25/2022 00:00:00,Regan Timothy,4,S-Sale,--D,2500,377035,1,0001734440,Class A Common Stock
+D,01/24/2022 00:00:00,Young Timothy H.,4,S-Sale,--D,3712,2118821,2,0001791676,Class A Common Stock
+D,01/24/2022 00:00:00,Young Timothy H.,4,S-Sale,--D,9038,2122533,1,0001791676,Class A Common Stock
+D,01/11/2022 00:00:00,Volkmer Bart,4,S-Sale,--D,11000,289465,1,0001734437,Class A Common Stock
+D,01/04/2022 00:00:00,Regan Timothy,4,S-Sale,--D,3000,379535,1,0001734440,Class A Common Stock
+D,12/31/2021 00:00:00,Young Timothy H.,4,D-Return,--D,176523,2131571,1,0001791676,Class A Common Stock
+D,12/27/2021 00:00:00,Young Timothy H.,4,S-Sale,--D,11250,2308094,2,0001791676,Class A Common Stock
+D,12/27/2021 00:00:00,Regan Timothy,4,S-Sale,--D,2500,382535,1,0001734440,Class A Common Stock
+D,12/14/2021 00:00:00,Young Timothy H.,4,G-Gift,-ED,1300,2319344,1,0001791676,Class A Common Stock
+D,12/10/2021 00:00:00,Volkmer Bart,4,S-Sale,--D,10880,300465,1,0001734437,Class A Common Stock
+D,11/26/2021 00:00:00,Regan Timothy,4,S-Sale,--D,2500,385035,1,0001734440,Class A Common Stock
+D,11/24/2021 00:00:00,Young Timothy H.,4,S-Sale,--D,9639,1261508,1,0001791676,Class A Common Stock
+D,11/16/2021 00:00:00,Volkmer Bart,4,C-Conversion,--D,82099,97717,4,0001734437,Class B Common Stock
+D,11/16/2021 00:00:00,Volkmer Bart,4,S-Sale,--D,12305,311345,3,0001734437,Class A Common Stock
+A,11/16/2021 00:00:00,Volkmer Bart,4,C-Conversion,--D,82099,323650,2,0001734437,Class A Common Stock
+D,11/15/2021 00:00:00,Houston Andrew,4,S-Sale,--D,1036216,9297117,1,0001734563,Class A Common Stock
+D,11/15/2021 00:00:00,Young Timothy H.,4,F-InKind,--D,32634,1271147,1,0001791676,Class A Common Stock
+D,11/15/2021 00:00:00,Volkmer Bart,4,F-InKind,--D,15722,241551,1,0001734437,Class A Common Stock
+D,11/15/2021 00:00:00,Regan Timothy,4,F-InKind,--D,16493,387535,1,0001734440,Class A Common Stock
+D,11/11/2021 00:00:00,Campbell Lisa M,4,S-Sale,--D,3200,14983,1,0001775679,Class A Common Stock
+D,10/25/2021 00:00:00,Young Timothy H.,4,S-Sale,--D,9624,1303781,1,0001791676,Class A Common Stock
+D,10/25/2021 00:00:00,Regan Timothy,4,S-Sale,--D,11000,404028,1,0001734440,Class A Common Stock
+D,10/11/2021 00:00:00,Volkmer Bart,4,S-Sale,--D,10000,257273,1,0001734437,Class A Common Stock
+D,09/27/2021 00:00:00,Regan Timothy,4,S-Sale,--D,1601,415028,2,0001734440,Class A Common Stock
+D,09/24/2021 00:00:00,Regan Timothy,4,S-Sale,--D,899,416629,1,0001734440,Class A Common Stock
+D,09/24/2021 00:00:00,Young Timothy H.,4,S-Sale,--D,9624,1313405,1,0001791676,Class A Common Stock
+D,09/13/2021 00:00:00,Volkmer Bart,4,S-Sale,--D,10000,267273,1,0001734437,Class A Common Stock
+D,08/25/2021 00:00:00,Regan Timothy,4,S-Sale,--D,2500,417528,1,0001734440,Class A Common Stock
+D,08/24/2021 00:00:00,Young Timothy H.,4,S-Sale,--D,10381,1323029,1,0001791676,Class A Common Stock
+D,08/16/2021 00:00:00,Young Timothy H.,4,F-InKind,--D,32634,1333410,1,0001791676,Class A Common Stock
+D,08/16/2021 00:00:00,Regan Timothy,4,F-InKind,--D,16494,420028,1,0001734440,Class A Common Stock
+D,08/16/2021 00:00:00,Volkmer Bart,4,F-InKind,--D,15722,277273,1,0001734437,Class A Common Stock
+D,08/12/2021 00:00:00,Volkmer Bart,4,S-Sale,--D,10000,292995,1,0001734437,Class A Common Stock
+D,07/29/2021 00:00:00,Regan Timothy,4,S-Sale,--D,4130,436522,1,0001734440,Class A Common Stock
+A,07/28/2021 00:00:00,MATHEW SARA,4,A-Award,--D,6580,6580,1,0001192748,Class A Common Stock
+D,07/26/2021 00:00:00,Young Timothy H.,4,S-Sale,--D,11250,1366044,1,0001791676,Class A Common Stock
+D,07/26/2021 00:00:00,Regan Timothy,4,S-Sale,--D,1868,440652,1,0001734440,Class A Common Stock
+D,07/12/2021 00:00:00,Volkmer Bart,4,S-Sale,--D,10000,302995,1,0001734437,Class A Common Stock
+D,07/01/2021 00:00:00,Regan Timothy,4,S-Sale,--D,3000,442520,1,0001734440,Class A Common Stock
+D,06/25/2021 00:00:00,Regan Timothy,4,S-Sale,--D,1523,445520,1,0001734440,Class A Common Stock
+D,06/24/2021 00:00:00,Young Timothy H.,4,S-Sale,--D,11250,1377294,1,0001791676,Class A Common Stock
+D,06/11/2021 00:00:00,Volkmer Bart,4,C-Conversion,--D,90133,179816,5,0001734437,Class B Common Stock
+A,06/11/2021 00:00:00,Volkmer Bart,4,M-Exempt,--D,90133,269949,4,0001734437,Class B Common Stock
+D,06/11/2021 00:00:00,Volkmer Bart,4,M-Exempt,--D,90133,0,3,0001734437,Stock Option (right to buy)
+D,06/11/2021 00:00:00,Volkmer Bart,4,S-Sale,--D,90133,312995,2,0001734437,Class A Common Stock
+A,06/11/2021 00:00:00,Volkmer Bart,4,C-Conversion,--D,90133,403128,1,0001734437,Class A Common Stock
+D,06/02/2021 00:00:00,Regan Timothy,4,S-Sale,--D,4147,447043,1,0001734440,Class A Common Stock
+D,05/25/2021 00:00:00,Regan Timothy,4,S-Sale,--D,2150,451190,1,0001734440,Class A Common Stock
+D,05/24/2021 00:00:00,Young Timothy H.,4,S-Sale,--D,11250,1388544,1,0001791676,Class A Common Stock
+D,05/24/2021 00:00:00,Peacock Karen,4,S-Sale,--D,8818,14983,2,0001786299,Class A Common Stock
+D,05/21/2021 00:00:00,Campbell Lisa M,4,S-Sale,--D,8818,18183,2,0001775679,Class A Common Stock
+A,05/20/2021 00:00:00,Seibel Michael,4,A-Award,--D,9335,13967,1,0001835628,Class A Common Stock
+A,05/20/2021 00:00:00,Peacock Karen,4,A-Award,--D,9335,23801,1,0001786299,Class A Common Stock
+A,05/20/2021 00:00:00,Campbell Lisa M,4,A-Award,--D,9335,27001,1,0001775679,Class A Common Stock
+A,05/20/2021 00:00:00,BLAIR DONALD W,4,A-Award,--D,9335,77263,1,0001237789,Class A Common Stock
+A,05/20/2021 00:00:00,JACOBS PAUL E,4,A-Award,--D,9335,101549,1,0001191310,Class A Common Stock
+A,05/20/2021 00:00:00,MYLOD ROBERT J JR,4,A-Award,--D,9335,88243,1,0001214607,Class A Common Stock
+D,05/17/2021 00:00:00,Regan Timothy,4,F-InKind,--D,16045,453340,1,0001734440,Class A Common Stock
+D,05/17/2021 00:00:00,Young Timothy H.,4,F-InKind,--D,32634,1399794,1,0001791676,Class A Common Stock
+D,05/17/2021 00:00:00,Volkmer Bart,4,F-InKind,--D,15722,312995,3,0001734437,Class A Common Stock
+D,05/13/2021 00:00:00,Volkmer Bart,4,S-Sale,--D,9900,328717,2,0001734437,Class A Common Stock
+D,05/13/2021 00:00:00,Volkmer Bart,4,S-Sale,--D,100,338617,1,0001734437,Class A Common Stock
+D,04/26/2021 00:00:00,Regan Timothy,4,S-Sale,--D,2150,469385,1,0001734440,Class A Common Stock
+D,04/12/2021 00:00:00,Volkmer Bart,4,S-Sale,--D,10000,338717,1,0001734437,Class A Common Stock
+A,04/01/2021 00:00:00,Regan Timothy,4,A-Award,--D,175207,471535,2,0001734440,Class A Common Stock
+D,04/01/2021 00:00:00,Regan Timothy,4,S-Sale,--D,3884,296328,1,0001734440,Class A Common Stock
+A,04/01/2021 00:00:00,Volkmer Bart,4,A-Award,--D,116804,348717,1,0001734437,Class A Common Stock
+D,03/25/2021 00:00:00,Regan Timothy,4,S-Sale,--D,1608,300212,1,0001734440,Class A Common Stock
+D,03/19/2021 00:00:00,Volkmer Bart,4,C-Conversion,--D,42898,179816,2,0001734437,Class B Common Stock
+A,03/19/2021 00:00:00,Volkmer Bart,4,C-Conversion,--D,42898,231913,1,0001734437,Class A Common Stock
+D,03/12/2021 00:00:00,Regan Timothy,4,S-Sale,--D,3777,301820,1,0001734440,Class A Common Stock
+D,03/11/2021 00:00:00,Volkmer Bart,4,S-Sale,--D,200,189015,2,0001734437,Class A Common Stock
+D,03/11/2021 00:00:00,Volkmer Bart,4,S-Sale,--D,9800,189215,1,0001734437,Class A Common Stock
+A,03/10/2021 00:00:00,MYLOD ROBERT J JR,4,P-Purchase,--I,100000,222698,1,0001214607,Class A Common Stock
+D,03/09/2021 00:00:00,Houston Andrew,4,C-Conversion,--I,190000,72913073,5,0001734563,Class B Common Stock
+D,03/09/2021 00:00:00,Houston Andrew,4,G-Gift,--I,190000,500000,2,0001734563,Class A Common Stock
+A,03/09/2021 00:00:00,Houston Andrew,4,C-Conversion,--I,190000,690000,1,0001734563,Class A Common Stock
+D,02/25/2021 00:00:00,Regan Timothy,4,S-Sale,--D,1608,305597,1,0001734440,Class A Common Stock
+D,02/25/2021 00:00:00,Volkmer Bart,4,S-Sale,--D,10000,199015,1,0001734437,Class A Common Stock
+D,02/16/2021 00:00:00,Volkmer Bart,4,F-InKind,--D,8636,209015,1,0001734437,Class A Common Stock
+D,02/16/2021 00:00:00,Young Timothy H.,4,F-InKind,--D,26666,1432428,1,0001791676,Class A Common Stock
+D,02/16/2021 00:00:00,Regan Timothy,4,F-InKind,--D,7918,307205,1,0001734440,Class A Common Stock
+D,02/05/2021 00:00:00,Nottebohm Olivia,4,D-Return,--D,633569,112565,2,0001801732,Class A Common Stock
+D,02/05/2021 00:00:00,Nottebohm Olivia,4,F-InKind,--D,98625,746134,1,0001801732,Class A Common Stock
+D,01/27/2021 00:00:00,Regan Timothy,4,S-Sale,--D,1941,315123,1,0001734440,Class A Common Stock
+D,01/25/2021 00:00:00,Regan Timothy,4,S-Sale,--D,1608,317064,1,0001734440,Class A Common Stock
+D,01/11/2021 00:00:00,Volkmer Bart,4,S-Sale,--D,8300,217651,2,0001734437,Class A Common Stock
+D,01/11/2021 00:00:00,Volkmer Bart,4,S-Sale,--D,1700,225951,1,0001734437,Class A Common Stock
+D,01/07/2021 00:00:00,Regan Timothy,4,S-Sale,--D,970,318672,1,0001734440,Class A Common Stock
+D,01/04/2021 00:00:00,Regan Timothy,4,S-Sale,--D,804,319642,1,0001734440,Class A Common Stock
+D,12/24/2020 00:00:00,Regan Timothy,4,S-Sale,--D,1608,320446,1,0001734440,Class A Common Stock
+D,12/14/2020 00:00:00,Regan Timothy,4,S-Sale,--D,1941,322054,2,0001734440,Class A Common Stock
+A,12/11/2020 00:00:00,Seibel Michael,4,A-Award,--D,4632,4632,1,0001835628,Class A Common Stock
+D,12/11/2020 00:00:00,Regan Timothy,4,S-Sale,--D,1064,323995,1,0001734440,Class A Common Stock
+D,12/08/2020 00:00:00,Regan Timothy,4,S-Sale,--D,970,325059,1,0001734440,Class A Common Stock
+D,12/07/2020 00:00:00,Volkmer Bart,4,S-Sale,--D,10000,227651,1,0001734437,Class A Common Stock
+A,12/01/2020 00:00:00,Young Timothy H.,4/A,A-Award,--D,1588704,2518230,1,0001791676,Class A Common Stock
+A,12/01/2020 00:00:00,Young Timothy H.,4,A-Award,--D,529568,1459094,1,0001791676,Class A Common Stock
+D,11/25/2020 00:00:00,Regan Timothy,4,S-Sale,--D,1941,326029,1,0001734440,Class A Common Stock
+D,11/16/2020 00:00:00,Regan Timothy,4,F-InKind,--D,3099,0,4,0001734440,Class B Common Stock
+D,11/16/2020 00:00:00,Regan Timothy,4,C-Conversion,--D,3151,3099,3,0001734440,Class B Common Stock
+D,11/16/2020 00:00:00,Regan Timothy,4,F-InKind,--D,11064,327970,2,0001734440,Class A Common Stock
+A,11/16/2020 00:00:00,Regan Timothy,4,C-Conversion,--D,3151,339034,1,0001734440,Class A Common Stock
+D,11/16/2020 00:00:00,Young Timothy H.,4,F-InKind,--D,123582,929526,1,0001791676,Class A Common Stock
+D,11/16/2020 00:00:00,Volkmer Bart,4,F-InKind,--D,14168,237651,2,0001734437,Class A Common Stock
+D,11/12/2020 00:00:00,Volkmer Bart,4,S-Sale,--D,10000,251819,1,0001734437,Class A Common Stock
+D,11/11/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,610637,0,21,0001734432,Class B Common Stock
+D,11/11/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,213783,0,20,0001734432,Class B Common Stock
+D,11/11/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,5713438,0,19,0001734432,Class B Common Stock
+A,11/11/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,68124,897822,14,0001734432,Class A Common Stock
+D,11/11/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,610637,0,13,0001734432,Class A Common Stock
+D,11/11/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,213783,0,12,0001734432,Class A Common Stock
+D,11/11/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,5713438,0,11,0001734432,Class A Common Stock
+A,11/11/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,610637,610637,10,0001734432,Class A Common Stock
+A,11/11/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,213783,213783,9,0001734432,Class A Common Stock
+A,11/11/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,5713438,5713438,8,0001734432,Class A Common Stock
+D,11/09/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,610635,610637,18,0001734432,Class B Common Stock
+D,11/09/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,213788,213783,17,0001734432,Class B Common Stock
+D,11/09/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,5713435,5713438,16,0001734432,Class B Common Stock
+A,11/09/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,68124,829698,7,0001734432,Class A Common Stock
+D,11/09/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,610635,0,6,0001734432,Class A Common Stock
+D,11/09/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,213788,0,5,0001734432,Class A Common Stock
+D,11/09/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,5713435,0,4,0001734432,Class A Common Stock
+A,11/09/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,610635,610635,3,0001734432,Class A Common Stock
+A,11/09/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,213788,213788,2,0001734432,Class A Common Stock
+A,11/09/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,5713435,5713435,1,0001734432,Class A Common Stock
+D,10/26/2020 00:00:00,Regan Timothy,4,S-Sale,--D,1941,335883,1,0001734440,Class A Common Stock
+A,10/01/2020 00:00:00,Regan Timothy,4,A-Award,--D,201772,337824,1,0001734440,Class A Common Stock
+D,09/21/2020 00:00:00,Regan Timothy,4,S-Sale,--D,2000,136052,1,0001734440,Class A Common Stock
+D,08/28/2020 00:00:00,Volkmer Bart,4,S-Sale,--D,4200,261819,1,0001734437,Class A Common Stock
+D,08/27/2020 00:00:00,Vashee Ajay,4,S-Sale,--D,20750,461607,1,0001734428,Class A Common Stock
+D,08/20/2020 00:00:00,Regan Timothy,4,S-Sale,--D,2000,138052,1,0001734440,Class A Common Stock
+D,08/18/2020 00:00:00,Volkmer Bart,4,S-Sale,--D,9800,266019,2,0001734437,Class A Common Stock
+D,08/17/2020 00:00:00,Regan Timothy,4,F-InKind,--D,2162,6250,4,0001734440,Class B Common Stock
+D,08/17/2020 00:00:00,Regan Timothy,4,C-Conversion,--D,4088,8412,3,0001734440,Class B Common Stock
+D,08/17/2020 00:00:00,Regan Timothy,4,F-InKind,--D,4082,140052,2,0001734440,Class A Common Stock
+A,08/17/2020 00:00:00,Regan Timothy,4,C-Conversion,--D,4088,144134,1,0001734440,Class A Common Stock
+D,08/17/2020 00:00:00,Volkmer Bart,4,F-InKind,--D,14168,275819,1,0001734437,Class A Common Stock
+D,08/17/2020 00:00:00,Vashee Ajay,4,F-InKind,--D,25440,482357,1,0001734428,Class A Common Stock
+D,07/27/2020 00:00:00,Vashee Ajay,4,S-Sale,--D,13750,507797,1,0001734428,Class A Common Stock
+D,07/20/2020 00:00:00,Regan Timothy,4,S-Sale,--D,2000,140046,1,0001734440,Class A Common Stock
+D,07/07/2020 00:00:00,Regan Timothy,4,S-Sale,--D,1000,142046,1,0001734440,Class A Common Stock
+D,06/26/2020 00:00:00,Vashee Ajay,4,S-Sale,--D,13750,521547,1,0001734428,Class A Common Stock
+D,06/23/2020 00:00:00,Regan Timothy,4,S-Sale,--D,1000,143046,2,0001734440,Class A Common Stock
+D,06/22/2020 00:00:00,Regan Timothy,4,S-Sale,--D,2000,144046,1,0001734440,Class A Common Stock
+D,06/17/2020 00:00:00,Volkmer Bart,4,S-Sale,--D,7000,289987,1,0001734437,Class A Common Stock
+D,06/01/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407090,1221272,11,0001734432,Class B Common Stock
+D,06/01/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,427571,10,0001734432,Class B Common Stock
+D,06/01/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,11426873,9,0001734432,Class B Common Stock
+A,06/01/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,44793,761574,7,0001734432,Class A Common Stock
+D,06/01/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,407090,0,6,0001734432,Class A Common Stock
+D,06/01/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,142525,0,5,0001734432,Class A Common Stock
+D,06/01/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,3808957,0,4,0001734432,Class A Common Stock
+A,06/01/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407090,407090,3,0001734432,Class A Common Stock
+A,06/01/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,142525,2,0001734432,Class A Common Stock
+A,06/01/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,3808957,1,0001734432,Class A Common Stock
+D,05/26/2020 00:00:00,Campbell Lisa M,4,S-Sale,--D,6300,17666,1,0001775679,Class A Common Stock
+D,05/26/2020 00:00:00,Peacock Karen,4,S-Sale,--D,9500,14466,1,0001786299,Class A Common Stock
+D,05/26/2020 00:00:00,Vashee Ajay,4,S-Sale,--D,13750,535297,1,0001734428,Class A Common Stock
+D,05/26/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407090,1628362,11,0001734432,Class B Common Stock
+D,05/26/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,570096,10,0001734432,Class B Common Stock
+D,05/26/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,15235830,9,0001734432,Class B Common Stock
+A,05/26/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,44793,716781,8,0001734432,Class A Common Stock
+D,05/26/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,142525,0,7,0001734432,Class A Common Stock
+D,05/26/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,3808957,0,6,0001734432,Class A Common Stock
+D,05/26/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,407090,0,5,0001734432,Class A Common Stock
+A,05/26/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,142525,4,0001734432,Class A Common Stock
+A,05/26/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,3808957,3,0001734432,Class A Common Stock
+A,05/26/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407090,407090,2,0001734432,Class A Common Stock
+A,05/21/2020 00:00:00,Schreier R. Bryan,4,A-Award,--D,11297,38881,1,0001734432,Class A Common Stock
+A,05/21/2020 00:00:00,Rice Condoleezza,4,A-Award,--D,11297,67704,1,0001528387,Class A Common Stock
+A,05/21/2020 00:00:00,Peacock Karen,4,A-Award,--D,11297,23966,1,0001786299,Class A Common Stock
+A,05/21/2020 00:00:00,JACOBS PAUL E,4,A-Award,--D,11297,92214,1,0001191310,Class A Common Stock
+A,05/21/2020 00:00:00,Campbell Lisa M,4,A-Award,--D,11297,23966,1,0001775679,Class A Common Stock
+A,05/21/2020 00:00:00,BLAIR DONALD W,4,A-Award,--D,11297,67928,1,0001237789,Class A Common Stock
+A,05/21/2020 00:00:00,MYLOD ROBERT J JR,4,A-Award,--D,11297,78908,1,0001214607,Class A Common Stock
+D,05/20/2020 00:00:00,Regan Timothy,4,S-Sale,--D,2000,146046,1,0001734440,Class A Common Stock
+D,05/18/2020 00:00:00,Volkmer Bart,4,S-Sale,--D,21000,296987,2,0001734437,Class A Common Stock
+D,05/15/2020 00:00:00,Vashee Ajay,4,F-InKind,--D,25442,549047,1,0001734428,Class A Common Stock
+D,05/15/2020 00:00:00,Volkmer Bart,4,F-InKind,--D,12493,317987,1,0001734437,Class A Common Stock
+D,05/15/2020 00:00:00,Regan Timothy,4,F-InKind,--D,2162,12500,4,0001734440,Class B Common Stock
+D,05/15/2020 00:00:00,Regan Timothy,4,C-Conversion,--D,4088,14662,3,0001734440,Class B Common Stock
+D,05/15/2020 00:00:00,Regan Timothy,4,F-InKind,--D,3356,148046,2,0001734440,Class A Common Stock
+A,05/15/2020 00:00:00,Regan Timothy,4,C-Conversion,--D,4088,151402,1,0001734440,Class A Common Stock
+D,05/15/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407090,2035452,11,0001734432,Class B Common Stock
+D,05/15/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,712621,10,0001734432,Class B Common Stock
+D,05/15/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,19044787,9,0001734432,Class B Common Stock
+A,05/15/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,44793,671988,7,0001734432,Class A Common Stock
+D,05/15/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,407090,0,6,0001734432,Class A Common Stock
+D,05/15/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,142525,0,5,0001734432,Class A Common Stock
+D,05/15/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,3808957,0,4,0001734432,Class A Common Stock
+A,05/15/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407090,407090,3,0001734432,Class A Common Stock
+A,05/15/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,142525,2,0001734432,Class A Common Stock
+A,05/15/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,3808957,1,0001734432,Class A Common Stock
+D,05/13/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407090,2442542,18,0001374246,Class B Common Stock
+D,05/13/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,855146,16,0001374246,Class B Common Stock
+D,05/13/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,22853744,14,0001374246,Class B Common Stock
+D,05/13/2020 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,407090,0,12,0001374246,Class A Common Stock
+D,05/13/2020 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,142525,0,10,0001374246,Class A Common Stock
+D,05/13/2020 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,3808957,0,8,0001374246,Class A Common Stock
+A,05/13/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407090,407090,6,0001374246,Class A Common Stock
+A,05/13/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,142525,4,0001374246,Class A Common Stock
+A,05/13/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,3808957,2,0001374246,Class A Common Stock
+D,05/13/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407090,2442542,21,0001734432,Class B Common Stock
+D,05/13/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,855146,19,0001734432,Class B Common Stock
+D,05/13/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,22853744,17,0001734432,Class B Common Stock
+A,05/13/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,44793,627195,14,0001734432,Class A Common Stock
+D,05/13/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,407090,0,12,0001734432,Class A Common Stock
+D,05/13/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,142525,0,10,0001734432,Class A Common Stock
+D,05/13/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,3808957,0,8,0001734432,Class A Common Stock
+A,05/13/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407090,407090,6,0001734432,Class A Common Stock
+A,05/13/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,142525,4,0001734432,Class A Common Stock
+A,05/13/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,3808957,2,0001734432,Class A Common Stock
+D,05/11/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407090,2849632,17,0001374246,Class B Common Stock
+D,05/11/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,997671,15,0001374246,Class B Common Stock
+D,05/11/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,26662701,13,0001374246,Class B Common Stock
+D,05/11/2020 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,407090,0,11,0001374246,Class A Common Stock
+D,05/11/2020 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,142525,0,9,0001374246,Class A Common Stock
+D,05/11/2020 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,3808957,0,7,0001374246,Class A Common Stock
+A,05/11/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407090,407090,5,0001374246,Class A Common Stock
+A,05/11/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,142525,3,0001374246,Class A Common Stock
+A,05/11/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,3808957,1,0001374246,Class A Common Stock
+D,05/11/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407090,2849632,20,0001734432,Class B Common Stock
+D,05/11/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,997671,18,0001734432,Class B Common Stock
+D,05/11/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,26662701,16,0001734432,Class B Common Stock
+A,05/11/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,44793,582402,13,0001734432,Class A Common Stock
+D,05/11/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,407090,0,11,0001734432,Class A Common Stock
+D,05/11/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,142525,0,9,0001734432,Class A Common Stock
+D,05/11/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,3808957,0,7,0001734432,Class A Common Stock
+A,05/11/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407090,407090,5,0001734432,Class A Common Stock
+A,05/11/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,142525,3,0001734432,Class A Common Stock
+A,05/11/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,3808957,1,0001734432,Class A Common Stock
+D,05/08/2020 00:00:00,Regan Timothy,4,S-Sale,--D,1000,147314,1,0001734440,Class A Common Stock
+D,05/08/2020 00:00:00,BLAIR DONALD W,4,S-Sale,--D,10000,56631,1,0001237789,Class A Common Stock
+D,04/28/2020 00:00:00,Vashee Ajay,4,S-Sale,--D,41250,574489,1,0001734428,Class A Common Stock
+D,04/20/2020 00:00:00,Regan Timothy,4/A,S-Sale,--D,2000,148314,1,0001734440,Class A Common Stock
+D,04/20/2020 00:00:00,Regan Timothy,4,S-Sale,--D,2000,152302,1,0001734440,Class A Common Stock
+D,04/20/2020 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,498900,27736583,6,0001734434,Class B Common Stock
+D,04/20/2020 00:00:00,Ferdowsi Arash,4,S-Sale,--I,498900,0,4,0001734434,Class A Common Stock
+A,04/20/2020 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,498900,498900,3,0001734434,Class A Common Stock
+D,04/16/2020 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,125000,28235483,5,0001734434,Class B Common Stock
+D,04/16/2020 00:00:00,Ferdowsi Arash,4,S-Sale,--I,125000,0,2,0001734434,Class A Common Stock
+A,04/16/2020 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,125000,125000,1,0001734434,Class A Common Stock
+A,04/01/2020 00:00:00,Volkmer Bart,4,A-Award,--D,133848,330480,1,0001734437,Class A Common Stock
+A,04/01/2020 00:00:00,Regan Timothy,4,A-Award,--D,55770,154302,1,0001734440,Class A Common Stock
+A,04/01/2020 00:00:00,Vashee Ajay,4,A-Award,--D,228658,615739,1,0001734428,Class A Common Stock
+D,04/01/2020 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,125000,28360483,3,0001734434,Class B Common Stock
+D,04/01/2020 00:00:00,Ferdowsi Arash,4,S-Sale,--I,125000,0,2,0001734434,Class A Common Stock
+A,04/01/2020 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,125000,125000,1,0001734434,Class A Common Stock
+D,03/20/2020 00:00:00,Regan Timothy,4,S-Sale,--D,2000,98532,1,0001734440,Class A Common Stock
+D,03/19/2020 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,19360,28485483,4,0001734434,Class B Common Stock
+D,03/19/2020 00:00:00,Ferdowsi Arash,4,D-Return,--D,4400000,0,3,0001734434,Class A Common Stock
+D,03/19/2020 00:00:00,Ferdowsi Arash,4,S-Sale,--I,19360,0,2,0001734434,Class A Common Stock
+A,03/19/2020 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,19360,19360,1,0001734434,Class A Common Stock
+D,03/18/2020 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,39521,28504843,7,0001734434,Class B Common Stock
+D,03/18/2020 00:00:00,Ferdowsi Arash,4,S-Sale,--I,39521,0,4,0001734434,Class A Common Stock
+A,03/18/2020 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,39521,39521,3,0001734434,Class A Common Stock
+D,03/16/2020 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,42219,28544364,6,0001734434,Class B Common Stock
+D,03/16/2020 00:00:00,Ferdowsi Arash,4,S-Sale,--I,66119,0,2,0001734434,Class A Common Stock
+A,03/16/2020 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,42219,66119,1,0001734434,Class A Common Stock
+D,03/03/2020 00:00:00,Volkmer Bart,4,C-Conversion,--D,50403,222714,2,0001734437,Class B Common Stock
+A,03/03/2020 00:00:00,Volkmer Bart,4,C-Conversion,--D,50403,196632,1,0001734437,Class A Common Stock
+D,03/03/2020 00:00:00,Ferdowsi Arash,4,S-Sale,--I,1100,23900,2,0001734434,Class A Common Stock
+D,03/02/2020 00:00:00,Ferdowsi Arash,4,S-Sale,--I,125000,25000,1,0001734434,Class A Common Stock
+A,03/01/2020 00:00:00,Nottebohm Olivia,4,A-Award,--D,844759,844759,1,0001801732,Class A Common Stock
+D,02/24/2020 00:00:00,Ferdowsi Arash,4,S-Sale,--I,139133,150000,2,0001734434,Class A Common Stock
+D,02/24/2020 00:00:00,Ferdowsi Arash,4,S-Sale,--I,110867,289133,1,0001734434,Class A Common Stock
+D,02/24/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,814181,3256722,11,0001734432,Class B Common Stock
+D,02/24/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,285049,1140196,10,0001734432,Class B Common Stock
+D,02/24/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,7617915,30471658,9,0001734432,Class B Common Stock
+A,02/24/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,89587,537609,7,0001734432,Class A Common Stock
+D,02/24/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,814181,0,6,0001734432,Class A Common Stock
+D,02/24/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,285049,0,5,0001734432,Class A Common Stock
+D,02/24/2020 00:00:00,Schreier R. Bryan,4,J-Other,--I,7617915,0,4,0001734432,Class A Common Stock
+A,02/24/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,814181,814181,3,0001734432,Class A Common Stock
+A,02/24/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,285049,285049,2,0001734432,Class A Common Stock
+A,02/24/2020 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,7617915,7617915,1,0001734432,Class A Common Stock
+D,02/24/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,814181,3256722,9,0001374246,Class B Common Stock
+D,02/24/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,285049,1140196,8,0001374246,Class B Common Stock
+D,02/24/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,7617915,30471658,7,0001374246,Class B Common Stock
+D,02/24/2020 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,814181,0,6,0001374246,Class A Common Stock
+D,02/24/2020 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,285049,0,5,0001374246,Class A Common Stock
+D,02/24/2020 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,7617915,0,4,0001374246,Class A Common Stock
+A,02/24/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,814181,814181,3,0001374246,Class A Common Stock
+A,02/24/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,285049,285049,2,0001374246,Class A Common Stock
+A,02/24/2020 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,7617915,7617915,1,0001374246,Class A Common Stock
+D,02/21/2020 00:00:00,Vashee Ajay,4,S-Sale,--D,41250,387081,1,0001734428,Class A Common Stock
+D,02/21/2020 00:00:00,Volkmer Bart,4,S-Sale,--D,42000,146229,1,0001734437,Class A Common Stock
+D,02/21/2020 00:00:00,Regan Timothy,4,S-Sale,--D,1000,100532,2,0001734440,Class A Common Stock
+D,02/20/2020 00:00:00,Regan Timothy,4,S-Sale,--D,2000,101532,1,0001734440,Class A Common Stock
+D,02/18/2020 00:00:00,Regan Timothy,4,F-InKind,--D,2473,18750,4,0001734440,Class B Common Stock
+D,02/18/2020 00:00:00,Regan Timothy,4,C-Conversion,--D,3777,21223,3,0001734440,Class B Common Stock
+D,02/18/2020 00:00:00,Regan Timothy,4,F-InKind,--D,2129,103532,2,0001734440,Class A Common Stock
+A,02/18/2020 00:00:00,Regan Timothy,4,C-Conversion,--D,3777,105661,1,0001734440,Class A Common Stock
+D,02/18/2020 00:00:00,Vashee Ajay,4,F-InKind,--D,12996,428331,1,0001734428,Class A Common Stpck
+D,02/18/2020 00:00:00,Volkmer Bart,4,F-InKind,--D,7215,188229,1,0001734437,Class A Common Stock
+D,01/21/2020 00:00:00,Regan Timothy,4,S-Sale,--D,2000,101884,1,0001734440,Class A Common Stock
+D,12/20/2019 00:00:00,Regan Timothy,4,S-Sale,--D,3000,103884,1,0001734440,Class A Common Stock
+D,11/25/2019 00:00:00,Clark Quentin,4,S-Sale,--D,8333,1308393,1,0001734435,Class A Common Stock
+D,11/20/2019 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,50000,28586583,4,0001734434,Class B Common Stock
+D,11/20/2019 00:00:00,Ferdowsi Arash,4,G-Gift,-EI,50000,400000,2,0001734434,Class A Common Stock
+A,11/20/2019 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,50000,450000,1,0001734434,Class A Common Stock
+D,11/20/2019 00:00:00,Regan Timothy,4,S-Sale,--D,3000,103884,1,0001734440,Class A Common Stock
+D,11/15/2019 00:00:00,Regan Timothy,4,F-InKind,--D,2909,25000,4,0001734440,Class B Common Stock
+D,11/15/2019 00:00:00,Regan Timothy,4,C-Conversion,--D,3341,27909,3,0001734440,Class B Common Stock
+D,11/15/2019 00:00:00,Regan Timothy,4,F-InKind,--D,3081,106884,2,0001734440,Class A Common Stock
+A,11/15/2019 00:00:00,Regan Timothy,4,C-Conversion,--D,3341,109965,1,0001734440,Class A Common Stock
+D,11/15/2019 00:00:00,Rangan Yamini,4,C-Conversion,--D,5251,0,4,0001753409,Class B Common Stock
+D,11/15/2019 00:00:00,Rangan Yamini,4,F-InKind,--D,5165,5251,3,0001753409,Class B Common Stock
+D,11/15/2019 00:00:00,Rangan Yamini,4,F-InKind,--D,10063,279008,2,0001753409,Class A Common Stock
+A,11/15/2019 00:00:00,Rangan Yamini,4,C-Conversion,--D,5251,289071,1,0001753409,Class A Common Stock
+D,11/15/2019 00:00:00,Volkmer Bart,4,F-InKind,--D,14657,195444,1,0001734437,Class A Common Stock
+D,11/15/2019 00:00:00,Clark Quentin,4,F-InKind,--D,61975,1316726,1,0001734435,Class A Common Stock
+D,11/15/2019 00:00:00,Vashee Ajay,4,C-Conversion,--D,78742,255641,3,0001734428,Class B Common Stock
+D,11/15/2019 00:00:00,Vashee Ajay,4,F-InKind,--D,27737,441327,2,0001734428,Class A Common Stpck
+A,11/15/2019 00:00:00,Vashee Ajay,4,C-Conversion,--D,78742,469064,1,0001734428,Class A Common Stock
+A,11/11/2019 00:00:00,Houston Andrew,4,P-Purchase,--I,500000,500000,1,0001734563,Class A Common Stock
+D,11/07/2019 00:00:00,Vashee Ajay,4,S-Sale,--D,27500,390322,1,0001734428,Class A Common Stock
+A,11/01/2019 00:00:00,Young Timothy H.,4,A-Award,--D,1053108,1053108,1,0001791676,Class A Common Stock
+A,11/01/2019 00:00:00,Mediratta Bharat,4,A-Award,--D,1053108,1053108,1,0001791710,Class A Common Stock
+D,10/24/2019 00:00:00,Clark Quentin,4,S-Sale,--D,8333,1378701,1,0001734435,Class A Common Stock
+D,10/21/2019 00:00:00,Regan Timothy,4,S-Sale,--D,3000,106624,1,0001734440,Class A Common Stock
+D,09/24/2019 00:00:00,Clark Quentin,4,S-Sale,--D,100,1387034,2,0001734435,Class A Common Stock
+D,09/24/2019 00:00:00,Clark Quentin,4,S-Sale,--D,8233,1387134,1,0001734435,Class A Common Stock
+D,09/19/2019 00:00:00,Vashee Ajay,4,S-Sale,--D,13750,417822,1,0001734428,Class A Common Stock
+D,09/19/2019 00:00:00,Volkmer Bart,4,S-Sale,--D,14255,210101,2,0001734437,Class A Common Stock
+D,09/18/2019 00:00:00,Volkmer Bart,4,S-Sale,--D,2329,224356,1,0001734437,Class A Common Stock
+D,09/18/2019 00:00:00,Regan Timothy,4,S-Sale,--D,1000,109624,1,0001734440,Class A Common Stock
+D,09/06/2019 00:00:00,Clark Quentin,4,S-Sale,--D,8333,1395367,1,0001734435,Class A Common Stock
+A,08/23/2019 00:00:00,Campbell Lisa M,4,A-Award,--D,12669,12669,1,0001775679,Class A Common Stock
+A,08/23/2019 00:00:00,Peacock Karen,4,A-Award,--D,12669,12669,1,0001786299,Class A Common Stock
+D,08/21/2019 00:00:00,Regan Timothy,4,S-Sale,--D,1000,110624,1,0001734440,Class A Common Stock
+D,08/15/2019 00:00:00,Rangan Yamini,4,F-InKind,--D,5165,10416,4,0001753409,Class B Common Stock
+D,08/15/2019 00:00:00,Rangan Yamini,4,C-Conversion,--D,5251,15581,3,0001753409,Class B Common Stock
+A,08/15/2019 00:00:00,Rangan Yamini,4,C-Conversion,--D,5251,283820,2,0001753409,Class A Common Stock
+D,08/15/2019 00:00:00,Rangan Yamini,4,F-InKind,--D,10063,278569,1,0001753409,Class A Common Stock
+D,08/15/2019 00:00:00,Regan Timothy,4,C-Conversion,--D,4088,31250,4,0001734440,Class B Common Stock
+D,08/15/2019 00:00:00,Regan Timothy,4,F-InKind,--D,2162,35338,3,0001734440,Class B Common Stock
+A,08/15/2019 00:00:00,Regan Timothy,4,C-Conversion,--D,4088,111624,2,0001734440,Class A Common Stock
+D,08/15/2019 00:00:00,Regan Timothy,4,F-InKind,--D,2150,107536,1,0001734440,Class A Common Stock
+D,08/15/2019 00:00:00,Volkmer Bart,4,C-Conversion,--D,1680,273117,4,0001734437,Class B Common Stock
+D,08/15/2019 00:00:00,Volkmer Bart,4,F-InKind,--D,1653,274797,3,0001734437,Class B Common Stock
+A,08/15/2019 00:00:00,Volkmer Bart,4,C-Conversion,--D,1680,226685,2,0001734437,Class A Common Stock
+D,08/15/2019 00:00:00,Volkmer Bart,4,F-InKind,--D,14657,225005,1,0001734437,Class A Common Stock
+D,08/15/2019 00:00:00,Vashee Ajay,4,F-InKind,--D,27738,431572,1,0001734428,Class A Common Stock
+D,08/15/2019 00:00:00,Clark Quentin,4,F-InKind,--D,61976,1403700,1,0001734435,Class A Common Stock
+D,08/12/2019 00:00:00,Rice Condoleezza,4,S-Sale,--D,23943,56407,1,0001528387,Class A Common Stock
+D,07/24/2019 00:00:00,Clark Quentin,4,S-Sale,--D,16674,1465676,1,0001734435,Class A Common Stock
+D,07/17/2019 00:00:00,Regan Timothy,4,S-Sale,--D,4125,108698,1,0001734440,Class A Common Stock
+D,06/24/2019 00:00:00,Clark Quentin,4,S-Sale,--D,16666,1482350,1,0001734435,Class A Common Stock
+D,06/24/2019 00:00:00,Vashee Ajay,4,S-Sale,--D,13731,459310,1,0001734428,Class A Common Stock
+D,06/19/2019 00:00:00,Regan Timothy,4,S-Sale,--D,1000,112823,1,0001734440,Class A Common Stock
+D,06/13/2019 00:00:00,Rangan Yamini,4,S-Sale,--D,4129,288632,1,0001753409,Class A Common Stock
+D,06/13/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407091,4070903,9,0001374246,Class B Common Stock
+D,06/13/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,1425245,8,0001374246,Class B Common Stock
+D,06/13/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,38089573,7,0001374246,Class B Common Stock
+D,06/13/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,407091,0,6,0001374246,Class A Common Stock
+D,06/13/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,142525,0,5,0001374246,Class A Common Stock
+D,06/13/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,3808957,0,4,0001374246,Class A Common Stock
+A,06/13/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407091,407091,3,0001374246,Class A Common Stock
+A,06/13/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,142525,2,0001374246,Class A Common Stock
+A,06/13/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,3808957,1,0001374246,Class A Common Stock
+D,06/13/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407091,4070903,11,0001734432,Class B Common Stock
+D,06/13/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,1425245,10,0001734432,Class B Common Stock
+D,06/13/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,38089573,9,0001734432,Class B Common Stock
+A,06/13/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,44792,448022,7,0001734432,Class A Common Stock
+D,06/13/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,407091,0,6,0001734432,Class A Common Stock
+D,06/13/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,142525,0,5,0001734432,Class A Common Stock
+D,06/13/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,3808957,0,4,0001734432,Class A Common Stock
+A,06/13/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407091,407091,3,0001734432,Class A Common Stock
+A,06/13/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,142525,2,0001734432,Class A Common Stock
+A,06/13/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,3808957,1,0001734432,Class A Common Stock
+D,06/07/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,814181,4477994,10,0001374246,Class B Common Stock
+D,06/07/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,285049,1567770,9,0001374246,Class B Common Stock
+D,06/07/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,7617915,41898530,8,0001374246,Class B Common Stock
+D,06/07/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,14104,0,7,0001374246,Class A Common Stock
+D,06/07/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,814181,0,6,0001374246,Class A Common Stock
+D,06/07/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,285049,0,5,0001374246,Class A Common Stock
+D,06/07/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,7617915,0,4,0001374246,Class A Common Stock
+A,06/07/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,814181,814181,3,0001374246,Class A Common Stock
+A,06/07/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,285049,285049,2,0001374246,Class A Common Stock
+A,06/07/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,7617915,7617915,1,0001374246,Class A Common Stock
+D,06/07/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,814181,4477994,12,0001734432,Class B Common Stock
+D,06/07/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,285049,1567770,11,0001734432,Class B Common Stock
+D,06/07/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,7617915,41898530,10,0001734432,Class B Common Stock
+A,06/07/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,89693,403230,8,0001734432,Class A Common Stock
+D,06/07/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,14104,0,7,0001734432,Class A Common Stock
+D,06/07/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,814181,0,6,0001734432,Class A Common Stock
+D,06/07/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,285049,0,5,0001734432,Class A Common Stock
+D,06/07/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,7617915,0,4,0001734432,Class A Common Stock
+A,06/07/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,814181,814181,3,0001734432,Class A Common Stock
+A,06/07/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,285049,285049,2,0001734432,Class A Common Stock
+A,06/07/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,7617915,7617915,1,0001734432,Class A Common Stock
+D,06/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407091,5292175,19,0001374246,Class B Common Stock
+D,06/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,1852819,17,0001374246,Class B Common Stock
+D,06/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,49516445,15,0001374246,Class B Common Stock
+D,06/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,407091,0,12,0001374246,Class A Common Stock
+D,06/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,142525,0,10,0001374246,Class A Common Stock
+D,06/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,3808957,0,8,0001374246,Class A Common Stock
+A,06/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407091,407091,6,0001374246,Class A Common Stock
+A,06/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,142525,4,0001374246,Class A Common Stock
+A,06/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,3808957,2,0001374246,Class A Common Stock
+D,06/05/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407091,5292175,22,0001734432,Class B Common Stock
+D,06/05/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,1852819,20,0001734432,Class B Common Stock
+D,06/05/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,49516445,18,0001734432,Class B Common Stock
+A,06/05/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,44791,313537,14,0001734432,Class A Common Stock
+D,06/05/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,407091,0,12,0001734432,Class A Common Stock
+D,06/05/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,142525,0,10,0001734432,Class A Common Stock
+D,06/05/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,3808957,0,8,0001734432,Class A Common Stock
+A,06/05/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407091,407091,6,0001734432,Class A Common Stock
+A,06/05/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,142525,4,0001734432,Class A Common Stock
+A,06/05/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,3808957,2,0001734432,Class A Common Stock
+D,06/04/2019 00:00:00,Volkmer Bart,4,S-Sale,--D,100,239662,3,0001734437,Class A Common Stock
+D,06/04/2019 00:00:00,Volkmer Bart,4,S-Sale,--D,4461,239762,2,0001734437,Class A Common Stock
+D,06/03/2019 00:00:00,Volkmer Bart,4,S-Sale,--D,4561,244223,1,0001734437,Class A Common Stock
+D,06/03/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407091,5699266,18,0001374246,Class B Common Stock
+D,06/03/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,1995344,16,0001374246,Class B Common Stock
+D,06/03/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,53325402,14,0001374246,Class B Common Stock
+D,06/03/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,407091,0,11,0001374246,Class A Common Stock
+D,06/03/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,142525,0,9,0001374246,Class A Common Stock
+D,06/03/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,3808957,0,7,0001374246,Class A Common Stock
+A,06/03/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407091,407091,5,0001374246,Class A Common Stock
+A,06/03/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,142525,3,0001374246,Class A Common Stock
+A,06/03/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,3808957,1,0001374246,Class A Common Stock
+D,06/03/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407091,5699266,21,0001734432,Class B Common Stock
+D,06/03/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,1995344,19,0001734432,Class B Common Stock
+D,06/03/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,53325402,17,0001734432,Class B Common Stock
+A,06/03/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,44791,268746,13,0001734432,Class A Common Stock
+D,06/03/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,407091,0,11,0001734432,Class A Common Stock
+D,06/03/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,142525,0,9,0001734432,Class A Common Stock
+D,06/03/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,3808957,0,7,0001734432,Class A Common Stock
+A,06/03/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407091,407091,5,0001734432,Class A Common Stock
+A,06/03/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,142525,3,0001734432,Class A Common Stock
+A,06/03/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,3808957,1,0001734432,Class A Common Stock
+D,05/30/2019 00:00:00,MYLOD ROBERT J JR,4,S-Sale,--D,6072,67611,1,0001214607,Class A Common Stock
+D,05/24/2019 00:00:00,Clark Quentin,4,S-Sale,--D,16666,1499016,1,0001734435,Class A Common Stock
+D,05/24/2019 00:00:00,Vashee Ajay,4,S-Sale,--D,13731,473041,1,0001734428,Class A Common Stock
+A,05/23/2019 00:00:00,BLAIR DONALD W,4,A-Award,--D,13298,66631,1,0001237789,Class A Common Stock
+A,05/23/2019 00:00:00,JACOBS PAUL E,4,A-Award,--D,13298,80917,1,0001191310,Class A Common Stock
+A,05/23/2019 00:00:00,WHITMAN MARGARET C,4,A-Award,--D,13298,66631,1,0001079816,Class A Common Stock
+A,05/23/2019 00:00:00,Rice Condoleezza,4,A-Award,--D,13298,80350,1,0001528387,Class A Common Stock
+A,05/23/2019 00:00:00,MYLOD ROBERT J JR,4,A-Award,--D,13298,73683,1,0001214607,Class A Common Stock
+A,05/23/2019 00:00:00,Schreier R. Bryan,4,A-Award,--D,13298,27584,1,0001734432,Class A Common Stock
+D,05/22/2019 00:00:00,Volkmer Bart,4,S-Sale,--D,5804,248784,2,0001734437,Class A Common Stock
+D,05/21/2019 00:00:00,Volkmer Bart,4,S-Sale,--D,6372,254588,1,0001734437,Class A Common Stock
+D,05/15/2019 00:00:00,Vashee Ajay,4,F-InKind,--D,27737,486772,1,0001734428,Class A Common Stock
+D,05/15/2019 00:00:00,Regan Timothy,4,F-InKind,--D,2162,37500,5,0001734440,Class B Common Stock
+D,05/15/2019 00:00:00,Regan Timothy,4,C-Conversion,--D,4088,39662,4,0001734440,Class B Common Stock
+D,05/15/2019 00:00:00,Regan Timothy,4,S-Sale,--D,2000,113823,3,0001734440,Class A Common Stock
+D,05/15/2019 00:00:00,Regan Timothy,4,F-InKind,--D,2150,115823,2,0001734440,Class A Common Stock
+A,05/15/2019 00:00:00,Regan Timothy,4,C-Conversion,--D,4088,117973,1,0001734440,Class A Common Stock
+D,05/15/2019 00:00:00,Clark Quentin,4,F-InKind,--D,61976,1515682,1,0001734435,Class A Common Stock
+D,05/15/2019 00:00:00,Rangan Yamini,4,C-Conversion,--D,5518,20832,4,0001753409,Class B Common Stock
+D,05/15/2019 00:00:00,Rangan Yamini,4,F-InKind,--D,4898,26350,3,0001753409,Class B Common Stock
+D,05/15/2019 00:00:00,Rangan Yamini,4,F-InKind,--D,10063,292761,2,0001753409,Class A Common Stock
+A,05/15/2019 00:00:00,Rangan Yamini,4,C-Conversion,--D,5518,302824,1,0001753409,Class A Common Stock
+D,05/15/2019 00:00:00,Volkmer Bart,4,F-InKind,--D,1653,276450,4,0001734437,Class B Common Stock
+D,05/15/2019 00:00:00,Volkmer Bart,4,C-Conversion,--D,1680,278103,3,0001734437,Class B Common Stock
+D,05/15/2019 00:00:00,Volkmer Bart,4,F-InKind,--D,14657,260960,2,0001734437,Class A Common Stock
+A,05/15/2019 00:00:00,Volkmer Bart,4,C-Conversion,--D,1680,275617,1,0001734437,Class A Common Stock
+D,04/24/2019 00:00:00,Clark Quentin,4,S-Sale,--D,16666,1577658,1,0001734435,Class A Common Stock
+D,04/22/2019 00:00:00,Regan Timothy,4,S-Sale,--D,1000,113885,1,0001734440,Class A Common Stock
+D,04/17/2019 00:00:00,Regan Timothy,4,S-Sale,--D,1000,114885,1,0001734440,Class A Common Stock
+D,04/15/2019 00:00:00,Vashee Ajay,4/A,S-Sale,--D,13731,514509,1,0001734428,Class A Common Stock
+A,04/01/2019 00:00:00,Clark Quentin,4/A,A-Award,--D,89188,1594324,1,0001734435,Class A Common Stock
+A,04/01/2019 00:00:00,Clark Quentin,4,A-Award,--D,89188,1594324,1,0001734435,Class A Common Stock
+A,04/01/2019 00:00:00,Volkmer Bart,4,A-Award,--D,107026,273937,1,0001734437,Class A Common Stock
+A,04/01/2019 00:00:00,Regan Timothy,4,A-Award,--D,49053,115885,1,0001734440,Class A Common Stock
+A,04/01/2019 00:00:00,Vashee Ajay,4,A-Award,--D,182837,528240,1,0001734428,Class A Common Stock
+A,04/01/2019 00:00:00,Rangan Yamini,4,A-Award,--D,133783,297306,1,0001753409,Class A Common Stock
+D,03/25/2019 00:00:00,Vashee Ajay,4,S-Sale,--D,13731,514509,1,0001734428,Class A Common Stock
+D,03/25/2019 00:00:00,Vashee Ajay,4,S-Sale,--D,13731,345403,1,0001734428,Class A Common Stock
+D,03/25/2019 00:00:00,Clark Quentin,4,S-Sale,--D,16666,1505136,1,0001734435,Class A Common Stock
+D,03/20/2019 00:00:00,Regan Timothy,4,S-Sale,--D,2000,66832,1,0001734440,Class A Common Stock
+D,03/13/2019 00:00:00,Houston Andrew,4/A,G-Gift,-EI,45000,0,1,0001734563,Class A Common Stock
+D,03/13/2019 00:00:00,Houston Andrew,4,C-Conversion,--I,45000,73103073,3,0001734563,Class B Common Stock
+D,03/13/2019 00:00:00,Houston Andrew,4,G-Gift,-EI,45000,0,2,0001734563,Class A Common Stock
+A,03/13/2019 00:00:00,Houston Andrew,4,C-Conversion,--I,45000,45000,1,0001734563,Class A Common Stock
+D,03/07/2019 00:00:00,Volkmer Bart,4,S-Sale,--D,5658,166911,3,0001734437,Class A Common Stock
+D,03/06/2019 00:00:00,Volkmer Bart,4,S-Sale,--D,200,172569,2,0001734437,Class A Common Stock
+D,03/06/2019 00:00:00,Volkmer Bart,4,S-Sale,--D,5458,172769,1,0001734437,Class A Common Stock
+D,03/05/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407091,6106357,12,0001734432,Class B Common Stock
+D,03/05/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,2137869,11,0001734432,Class B Common Stock
+D,03/05/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,57134359,10,0001734432,Class B Common Stock
+A,03/05/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,44791,223955,7,0001734432,Class A Common Stock
+D,03/05/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,407091,0,6,0001734432,Class A Common Stock
+D,03/05/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,142525,0,5,0001734432,Class A Common Stock
+D,03/05/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,3808957,0,4,0001734432,Class A Common Stock
+A,03/05/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407091,407091,3,0001734432,Class A Common Stock
+A,03/05/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,142525,2,0001734432,Class A Common Stock
+A,03/05/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,3808957,1,0001734432,Class A Common Stock
+D,03/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407091,6106357,10,0001374246,Class B Common Stock
+D,03/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,2137869,9,0001374246,Class B Common Stock
+D,03/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,57134359,8,0001374246,Class B Common Stock
+D,03/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,407091,0,6,0001374246,Class A Common Stock
+D,03/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,142525,0,5,0001374246,Class A Common Stock
+D,03/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,3808957,0,4,0001374246,Class A Common Stock
+A,03/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407091,407091,3,0001374246,Class A Common Stock
+A,03/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,142525,2,0001374246,Class A Common Stock
+A,03/05/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,3808957,1,0001374246,Class A Common Stock
+D,02/28/2019 00:00:00,Volkmer Bart,4,S-Sale,--D,5209,178227,2,0001734437,Class A Common Stock
+D,02/27/2019 00:00:00,Volkmer Bart,4,S-Sale,--D,4759,183436,1,0001734437,Class A Common Stock
+D,02/26/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407091,6513448,10,0001374246,Class B Common Stock
+D,02/26/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,2280394,9,0001374246,Class B Common Stock
+D,02/26/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,60943316,8,0001374246,Class B Common Stock
+D,02/26/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,3524,14104,7,0001374246,Class A Common Stock
+D,02/26/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,407091,0,6,0001374246,Class A Common Stock
+D,02/26/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,142525,0,5,0001374246,Class A Common Stock
+D,02/26/2019 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,3808957,0,4,0001374246,Class A Common Stock
+A,02/26/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407091,407091,3,0001374246,Class A Common Stock
+A,02/26/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,142525,2,0001374246,Class A Common Stock
+A,02/26/2019 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,3808957,1,0001374246,Class A Common Stock
+D,02/26/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407091,6513448,12,0001734432,Class B Common Stock
+D,02/26/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,2280394,11,0001734432,Class B Common Stock
+D,02/26/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,60943316,10,0001734432,Class B Common Stock
+D,02/26/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,3524,14104,8,0001734432,Class A Common Stock
+A,02/26/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,44791,179164,7,0001734432,Class A Common Stock
+D,02/26/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,407091,0,6,0001734432,Class A Common Stock
+D,02/26/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,142525,0,5,0001734432,Class A Common Stock
+D,02/26/2019 00:00:00,Schreier R. Bryan,4,J-Other,--I,3808957,0,4,0001734432,Class A Common Stock
+A,02/26/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407091,407091,3,0001734432,Class A Common Stock
+A,02/26/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,142525,2,0001734432,Class A Common Stock
+A,02/26/2019 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,3808957,1,0001734432,Class A Common Stock
+D,02/25/2019 00:00:00,Vashee Ajay,4,S-Sale,--D,13731,359134,1,0001734428,Class A Common Stock
+D,02/25/2019 00:00:00,Clark Quentin,4,S-Sale,--D,16666,1521802,1,0001734435,Class A Common Stock
+D,02/20/2019 00:00:00,Regan Timothy,4,S-Sale,--D,1000,68832,1,0001734440,Class A Common Stock
+D,02/20/2019 00:00:00,Rangan Yamini,4,S-Sale,--D,5633,163523,1,0001753409,Class A Common Stock
+D,02/15/2019 00:00:00,Volkmer Bart,4,C-Conversion,--D,4055,279783,4,0001734437,Class B Common Stock
+D,02/15/2019 00:00:00,Volkmer Bart,4,F-InKind,--D,2146,283838,3,0001734437,Class B Common Stock
+A,02/15/2019 00:00:00,Volkmer Bart,4,C-Conversion,--D,4055,188195,2,0001734437,Class A Common Stock
+D,02/15/2019 00:00:00,Volkmer Bart,4,F-InKind,--D,8068,184140,1,0001734437,Class A Common Stock
+D,02/15/2019 00:00:00,Vashee Ajay,4,C-Conversion,--D,2856,334383,4,0001734428,Class B Common Stock
+D,02/15/2019 00:00:00,Vashee Ajay,4,F-InKind,--D,2810,337239,3,0001734428,Class B Common Stock
+A,02/15/2019 00:00:00,Vashee Ajay,4,C-Conversion,--D,2856,372865,2,0001734428,Class A Common Stock
+D,02/15/2019 00:00:00,Vashee Ajay,4,F-InKind,--D,16394,370009,1,0001734428,Class A Common Stock
+D,02/15/2019 00:00:00,Regan Timothy,4,C-Conversion,--D,3887,43750,4,0001734440,Class B Common Stock
+D,02/15/2019 00:00:00,Regan Timothy,4,F-InKind,--D,2363,47637,3,0001734440,Class B Common Stock
+A,02/15/2019 00:00:00,Regan Timothy,4,C-Conversion,--D,3887,69832,2,0001734440,Class A Common Stock
+D,02/15/2019 00:00:00,Regan Timothy,4,F-InKind,--D,1089,65945,1,0001734440,Class A Common Stock
+D,02/15/2019 00:00:00,Rangan Yamini,4,F-InKind,--D,3744,31248,4,0001753409,Class B Common Stock
+D,02/15/2019 00:00:00,Rangan Yamini,4,C-Conversion,--D,6672,34992,3,0001753409,Class B Common Stock
+A,02/15/2019 00:00:00,Rangan Yamini,4,C-Conversion,--D,6672,169156,2,0001753409,Class A Common Stock
+D,02/15/2019 00:00:00,Rangan Yamini,4,F-InKind,--D,4128,162484,1,0001753409,Class A Common Stock
+D,02/15/2019 00:00:00,Clark Quentin,4,F-InKind,--D,56302,1538468,1,0001734435,Class A Common Stock
+D,01/24/2019 00:00:00,Clark Quentin,4,S-Sale,--D,16666,1594770,1,0001734435,Class A Common Stock
+D,01/24/2019 00:00:00,Vashee Ajay,4,S-Sale,--D,13731,386403,1,0001734428,Class A Common Stock
+D,01/18/2019 00:00:00,Regan Timothy,4,S-Sale,--D,1000,67034,1,0001734440,Class A Common Stock
+D,01/16/2019 00:00:00,Regan Timothy,4,S-Sale,--D,5125,68034,1,0001734440,Class A Common Stock
+D,12/28/2018 00:00:00,Vashee Ajay,4,S-Sale,--D,13731,400134,1,0001734428,Class A Common Stock
+D,12/28/2018 00:00:00,Clark Quentin,4,S-Sale,--D,16666,1611436,1,0001734435,Class A Common Stock
+D,12/17/2018 00:00:00,Regan Timothy,4,S-Sale,--D,8125,73159,1,0001734440,Class A Common Stock
+D,12/06/2018 00:00:00,Rangan Yamini,4,S-Sale,--D,35936,166612,1,0001753409,Class A Common Stock
+D,12/06/2018 00:00:00,Volkmer Bart,4,S-Sale,--D,4759,192208,1,0001734437,Class A Common Stock
+D,12/04/2018 00:00:00,Volkmer Bart,4,S-Sale,--D,1400,196967,2,0001734437,Class A Common Stock
+D,12/04/2018 00:00:00,Volkmer Bart,4,S-Sale,--D,2906,198367,1,0001734437,Class A Common Stock
+D,11/29/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407091,6920539,10,0001374246,Class B Common Stock
+D,11/29/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,2422919,9,0001374246,Class B Common Stock
+D,11/29/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,64752273,8,0001374246,Class B Common Stock
+D,11/29/2018 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,407091,0,6,0001374246,Class A Common Stock
+D,11/29/2018 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,142525,0,5,0001374246,Class A Common Stock
+D,11/29/2018 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,3808957,0,4,0001374246,Class A Common Stock
+A,11/29/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407091,407091,3,0001374246,Class A Common Stock
+A,11/29/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,142525,2,0001374246,Class A Common Stock
+A,11/29/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,3808957,1,0001374246,Class A Common Stock
+D,11/29/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407091,6920539,12,0001734432,Class B Common Stock
+D,11/29/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,2422919,11,0001734432,Class B Common Stock
+D,11/29/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,64752273,10,0001734432,Class B Common Stock
+A,11/29/2018 00:00:00,Schreier R. Bryan,4,J-Other,--I,45355,134373,7,0001734432,Class A Common Stock
+D,11/29/2018 00:00:00,Schreier R. Bryan,4,J-Other,--I,407091,0,6,0001734432,Class A Common Stock
+D,11/29/2018 00:00:00,Schreier R. Bryan,4,J-Other,--I,142525,0,5,0001734432,Class A Common Stock
+D,11/29/2018 00:00:00,Schreier R. Bryan,4,J-Other,--I,3808957,0,4,0001734432,Class A Common Stock
+A,11/29/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407091,407091,3,0001734432,Class A Common Stock
+A,11/29/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,142525,2,0001734432,Class A Common Stock
+A,11/29/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,3808957,1,0001734432,Class A Common Stock
+D,11/26/2018 00:00:00,Clark Quentin,4,S-Sale,--D,700,1628102,2,0001734435,Class A Common Stock
+D,11/26/2018 00:00:00,Clark Quentin,4,S-Sale,--D,15966,1628802,1,0001734435,Class A Common Stock
+D,11/26/2018 00:00:00,Vashee Ajay,4,S-Sale,--D,1387,413865,2,0001734428,Class A Common Stock
+D,11/26/2018 00:00:00,Vashee Ajay,4,S-Sale,--D,12344,415252,1,0001734428,Class A Common Stock
+D,11/26/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407091,7327630,10,0001374246,Class B Common Stock
+D,11/26/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,2565444,9,0001374246,Class B Common Stock
+D,11/26/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,68561230,8,0001374246,Class B Common Stock
+D,11/26/2018 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,407091,0,6,0001374246,Class A Common Stock
+D,11/26/2018 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,142525,0,5,0001374246,Class A Common Stock
+D,11/26/2018 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,3808957,0,4,0001374246,Class A Common Stock
+A,11/26/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407091,407091,3,0001374246,Class A Common Stock
+A,11/26/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,142525,2,0001374246,Class A Common Stock
+A,11/26/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,3808957,1,0001374246,Class A Common Stock
+D,11/26/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407091,7327630,12,0001734432,Class B Common Stock
+D,11/26/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,2565444,11,0001734432,Class B Common Stock
+D,11/26/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,68561230,10,0001734432,Class B Common Stock
+A,11/26/2018 00:00:00,Schreier R. Bryan,4,J-Other,--I,44509,89018,7,0001734432,Class A Common Stock
+D,11/26/2018 00:00:00,Schreier R. Bryan,4,J-Other,--I,407091,0,6,0001734432,Class A Common Stock
+D,11/26/2018 00:00:00,Schreier R. Bryan,4,J-Other,--I,142525,0,5,0001734432,Class A Common Stock
+D,11/26/2018 00:00:00,Schreier R. Bryan,4,J-Other,--I,3808957,0,4,0001734432,Class A Common Stock
+A,11/26/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407091,407091,3,0001734432,Class A Common Stock
+A,11/26/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,142525,2,0001734432,Class A Common Stock
+A,11/26/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,3808957,1,0001734432,Class A Common Stock
+D,11/21/2018 00:00:00,Regan Timothy,4,S-Sale,--D,1000,81284,1,0001734440,Class A Common Stock
+D,11/21/2018 00:00:00,Volkmer Bart,4,C-Conversion,--D,3848,285984,3,0001734437,Class B Common Stock
+D,11/21/2018 00:00:00,Volkmer Bart,4,S-Sale,--D,4303,201273,2,0001734437,Class A Common Stock
+A,11/21/2018 00:00:00,Volkmer Bart,4,C-Conversion,--D,3848,205576,1,0001734437,Class A Common Stock
+D,11/21/2018 00:00:00,Vashee Ajay,4,C-Conversion,--D,4283,340049,2,0001734428,Class B Common Stock
+A,11/21/2018 00:00:00,Vashee Ajay,4,C-Conversion,--D,4283,427596,1,0001734428,Class A Common Stock
+D,11/20/2018 00:00:00,Volkmer Bart,4,S-Sale,--D,4303,201728,1,0001734437,Class A Common Stock
+D,11/15/2018 00:00:00,Rangan Yamini,4,F-InKind,--D,5165,41664,4,0001753409,Class B Common Stock
+D,11/15/2018 00:00:00,Rangan Yamini,4,C-Conversion,--D,5251,46829,3,0001753409,Class B Common Stock
+D,11/15/2018 00:00:00,Rangan Yamini,4,F-InKind,--D,5917,202548,2,0001753409,Class A Common Stock
+A,11/15/2018 00:00:00,Rangan Yamini,4,C-Conversion,--D,5251,208465,1,0001753409,Class A Common Stock
+D,11/15/2018 00:00:00,Volkmer Bart,4,F-InKind,--D,3786,289832,2,0001734437,Class B Common Stock
+D,11/15/2018 00:00:00,Volkmer Bart,4,F-InKind,--D,2066,206031,1,0001734437,Class A Common Stock
+D,11/15/2018 00:00:00,Vashee Ajay,4,F-InKind,--D,4215,344332,2,0001734428,Class B Common Stock
+D,11/15/2018 00:00:00,Vashee Ajay,4,F-InKind,--D,3306,423313,1,0001734428,Class A Common Stock
+D,11/15/2018 00:00:00,Regan Timothy,4,F-InKind,--D,2854,50000,4,0001734440,Class B Common Stock
+D,11/15/2018 00:00:00,Regan Timothy,4,C-Conversion,--D,3396,52854,3,0001734440,Class B Common Stock
+D,11/15/2018 00:00:00,Regan Timothy,4,F-InKind,--D,1561,82284,2,0001734440,Class A Common Stock
+A,11/15/2018 00:00:00,Regan Timothy,4,C-Conversion,--D,3396,83845,1,0001734440,Class A Common Stock
+D,11/15/2018 00:00:00,Clark Quentin,4,F-InKind,--D,61975,1644768,1,0001734435,Class A Common Stock
+D,11/15/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407091,2443403,10,0001374246,Class B Common Stock
+D,11/15/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,7999287,9,0001374246,Class B Common Stock
+D,11/15/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,72370187,8,0001374246,Class B Common Stock
+D,11/15/2018 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,407091,0,6,0001374246,Class A Common Stock
+D,11/15/2018 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,142525,0,5,0001374246,Class A Common Stock
+D,11/15/2018 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,3808957,0,4,0001374246,Class A Common Stock
+A,11/15/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,407091,407091,3,0001374246,Class A Common Stock
+A,11/15/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,142525,142525,2,0001374246,Class A Common Stock
+A,11/15/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3808957,3808957,1,0001374246,Class A Common Stock
+D,11/15/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407091,2443403,12,0001734432,Class B Common Stock
+D,11/15/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,7999287,11,0001734432,Class B Common Stock
+D,11/15/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,72370187,10,0001734432,Class B Common Stock
+A,11/15/2018 00:00:00,Schreier R. Bryan,4,J-Other,--I,44509,44509,7,0001734432,Class A Common Stock
+D,11/15/2018 00:00:00,Schreier R. Bryan,4,J-Other,--I,407091,0,6,0001734432,Class A Common Stock
+D,11/15/2018 00:00:00,Schreier R. Bryan,4,J-Other,--I,142525,0,5,0001734432,Class A Common Stock
+D,11/15/2018 00:00:00,Schreier R. Bryan,4,J-Other,--I,3808957,0,4,0001734432,Class A Common Stock
+A,11/15/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,407091,407091,3,0001734432,Class A Common Stock
+A,11/15/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,142525,142525,2,0001734432,Class A Common Stock
+A,11/15/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3808957,3808957,1,0001734432,Class A Common Stock
+D,11/09/2018 00:00:00,Houston Andrew,4,S-Sale,--I,47600,716728,1,0001734563,Class A Common Stock
+D,10/30/2018 00:00:00,Houston Andrew,4,C-Conversion,--I,739820,7893764,3,0001734563,Class B Common Stock
+A,10/30/2018 00:00:00,Houston Andrew,4,C-Conversion,--I,739820,764328,1,0001734563,Class A Common Stock
+D,10/24/2018 00:00:00,Clark Quentin,4,S-Sale,--D,2600,1706743,2,0001734435,Class A Common Stock
+D,10/24/2018 00:00:00,Clark Quentin,4,S-Sale,--D,14066,1709343,1,0001734435,Class A Common Stock
+D,10/24/2018 00:00:00,Vashee Ajay,4,S-Sale,--D,2109,426619,2,0001734428,Class A Common Stock
+D,10/24/2018 00:00:00,Vashee Ajay,4,S-Sale,--D,11622,428728,1,0001734428,Class A Common Stock
+D,10/22/2018 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,400000,28636583,3,0001734434,Class B Common Stock
+A,10/22/2018 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,400000,400000,1,0001734434,Class A Common Stock
+D,10/17/2018 00:00:00,Regan Timothy,4,S-Sale,--D,1000,80449,1,0001734440,Class A Common Stock
+D,10/01/2018 00:00:00,MYLOD ROBERT J JR,4,S-Sale,--D,1300,60385,2,0001214607,Class A Common Stock
+D,10/01/2018 00:00:00,MYLOD ROBERT J JR,4,S-Sale,--D,30367,61685,1,0001214607,Class A Common Stock
+D,09/25/2018 00:00:00,Houston Andrew,4,S-Sale,--I,61728,24508,1,0001734563,Class A Common Stock
+D,09/24/2018 00:00:00,Clark Quentin,4,S-Sale,--D,16666,1723409,1,0001734435,Class A Common Stock
+D,09/24/2018 00:00:00,Vashee Ajay,4,S-Sale,--D,13731,440350,1,0001734428,Class A Common Stock
+D,09/21/2018 00:00:00,Volkmer Bart,4,S-Sale,--D,4303,208097,3,0001734437,Class A Common Stock
+D,09/20/2018 00:00:00,Volkmer Bart,4,S-Sale,--D,2030,212400,2,0001734437,Class A Common Stock
+D,09/20/2018 00:00:00,Volkmer Bart,4,S-Sale,--D,2273,214430,1,0001734437,Class A Common Stock
+D,09/19/2018 00:00:00,Regan Timothy,4,S-Sale,--D,1000,81449,1,0001734440,Class A Common Stock
+D,09/04/2018 00:00:00,Woodside Dennis,4,D-Return,--D,993696,765144,2,0001734438,Class A Common Stock
+D,09/04/2018 00:00:00,Woodside Dennis,4,F-InKind,--D,184855,1758840,1,0001734438,Class A Common Stock
+D,08/24/2018 00:00:00,Woodside Dennis,4,S-Sale,--D,13101,1943695,2,0001734438,Class A Common Stock
+D,08/24/2018 00:00:00,Woodside Dennis,4,S-Sale,--D,174173,1956796,1,0001734438,Class A Common Stock
+D,08/24/2018 00:00:00,Vashee Ajay,4,S-Sale,--D,200,454081,2,0001734428,Class A Common Stock
+D,08/24/2018 00:00:00,Vashee Ajay,4,S-Sale,--D,13531,454281,1,0001734428,Class A Common Stock
+D,08/24/2018 00:00:00,Rice Condoleezza,4,S-Sale,--D,200,67052,2,0001528387,Class A Common Stock
+D,08/24/2018 00:00:00,Rice Condoleezza,4,S-Sale,--D,24800,67252,1,0001528387,Class A Common Stock
+D,08/24/2018 00:00:00,Regan Timothy,4,S-Sale,--D,3000,82449,1,0001734440,Class A Common Stock
+D,08/24/2018 00:00:00,Houston Andrew,4,S-Sale,--I,61728,86236,1,0001734563,Class A Common Stock
+D,08/24/2018 00:00:00,Clark Quentin,4,S-Sale,--D,1100,1740075,2,0001734435,Class A Common Stock
+D,08/24/2018 00:00:00,Clark Quentin,4,S-Sale,--D,15566,1741175,1,0001734435,Class A Common Stock
+A,08/23/2018 00:00:00,SC XII MANAGEMENT LLC,4,J-Other,--I,17628,17628,1,0001374246,Class A Common Stock
+A,08/23/2018 00:00:00,Schreier R. Bryan,4,J-Other,--I,17628,17628,1,0001734432,Class A Common Stock
+D,08/15/2018 00:00:00,MYLOD ROBERT J JR,4,C-Conversion,--D,53333,0,3,0001214607,Class B Common Stock
+A,08/15/2018 00:00:00,MYLOD ROBERT J JR,4,C-Conversion,--D,53333,92052,1,0001214607,Class A Common Stock
+D,08/15/2018 00:00:00,Houston Andrew,4,C-Conversion,--I,147964,8633584,3,0001734563,Class B Common Stock
+A,08/15/2018 00:00:00,Houston Andrew,4,C-Conversion,--I,147964,147964,1,0001734563,Class A Common Stock
+D,08/15/2018 00:00:00,Volkmer Bart,4,C-Conversion,--D,19417,293618,6,0001734437,Class B Common Stock
+D,08/15/2018 00:00:00,Volkmer Bart,4,C-Conversion,--D,3848,313035,5,0001734437,Class B Common Stock
+D,08/15/2018 00:00:00,Volkmer Bart,4,F-InKind,--D,3786,316883,4,0001734437,Class B Common Stock
+A,08/15/2018 00:00:00,Volkmer Bart,4,C-Conversion,--D,19417,216703,3,0001734437,Class A Common Stock
+A,08/15/2018 00:00:00,Volkmer Bart,4,C-Conversion,--D,3848,197286,2,0001734437,Class A Common Stock
+D,08/15/2018 00:00:00,Volkmer Bart,4,F-InKind,--D,2066,193438,1,0001734437,Class A Common Stock
+D,08/15/2018 00:00:00,Vashee Ajay,4,C-Conversion,--D,90682,348547,6,0001734428,Class B Common Stock
+D,08/15/2018 00:00:00,Vashee Ajay,4,C-Conversion,--D,4283,439229,5,0001734428,Class B Common Stock
+D,08/15/2018 00:00:00,Vashee Ajay,4,F-InKind,--D,4215,443512,4,0001734428,Class B Common Stock
+A,08/15/2018 00:00:00,Vashee Ajay,4,C-Conversion,--D,90682,467812,3,0001734428,Class A Common Stock
+A,08/15/2018 00:00:00,Vashee Ajay,4,C-Conversion,--D,4283,377130,2,0001734428,Class A Common Stock
+D,08/15/2018 00:00:00,Vashee Ajay,4,F-InKind,--D,3306,372847,1,0001734428,Class A Common Stock
+D,08/15/2018 00:00:00,Clark Quentin,4,F-InKind,--D,243259,1756741,1,0001734435,Class A Common Stock
+D,08/15/2018 00:00:00,Woodside Dennis,4,C-Conversion,--D,578571,1766045,3,0001734438,Class B Common Stock
+A,08/15/2018 00:00:00,Woodside Dennis,4,C-Conversion,--D,578571,2130969,2,0001734438,Class A Common Stock
+D,08/15/2018 00:00:00,Woodside Dennis,4,F-InKind,--D,92078,1552398,1,0001734438,Class A Common Stock
+D,08/15/2018 00:00:00,Regan Timothy,4,F-InKind,--D,2162,56250,4,0001734440,Class B Common Stock
+D,08/15/2018 00:00:00,Regan Timothy,4,C-Conversion,--D,4088,58412,3,0001734440,Class B Common Stock
+D,08/15/2018 00:00:00,Regan Timothy,4,F-InKind,--D,1089,85449,2,0001734440,Class A Common Stock
+A,08/15/2018 00:00:00,Regan Timothy,4,C-Conversion,--D,4088,86538,1,0001734440,Class A Common Stock
+D,05/15/2018 00:00:00,Rice Condoleezza,4,C-Conversion,--D,53333,0,2,0001528387,Class B Common Stock
+A,05/15/2018 00:00:00,Rice Condoleezza,4,C-Conversion,--D,53333,92052,1,0001528387,Class A Common Stock
+D,05/15/2018 00:00:00,Regan Timothy,4,C-Conversion,--D,4088,62500,4,0001734440,Class B Common Stock
+D,05/15/2018 00:00:00,Regan Timothy,4,F-InKind,--D,2162,66588,3,0001734440,Class B Common Stock
+A,05/15/2018 00:00:00,Regan Timothy,4,C-Conversion,--D,4088,82450,2,0001734440,Class A Common Stock
+D,05/15/2018 00:00:00,Regan Timothy,4,F-InKind,--D,1089,78362,1,0001734440,Class A Common Stock
+D,05/15/2018 00:00:00,Vashee Ajay,4,F-InKind,--D,36858,447727,2,0001734428,Class B Common Stock
+D,05/15/2018 00:00:00,Vashee Ajay,4,F-InKind,--D,3306,376153,1,0001734428,Class A Common Stock
+D,05/15/2018 00:00:00,Woodside Dennis,4,F-InKind,--D,92078,1644476,1,0001734438,Class A Common Stock
+D,05/15/2018 00:00:00,Volkmer Bart,4,F-InKind,--D,19097,320669,2,0001734437,Class B Common Stock
+D,05/15/2018 00:00:00,Volkmer Bart,4,F-InKind,--D,2066,195504,1,0001734437,Class A Common Stock
+D,04/27/2018 00:00:00,Regan Timothy,4,C-Conversion,--D,29088,68750,2,0001734440,Class B Common Stock
+A,04/27/2018 00:00:00,Regan Timothy,4,C-Conversion,--D,29088,79451,1,0001734440,Class A Common Stock
+D,04/27/2018 00:00:00,JACOBS PAUL E,4,C-Conversion,--I,172711,0,4,0001191310,Class B Common Stock
+D,04/27/2018 00:00:00,JACOBS PAUL E,4,C-Conversion,--D,53333,0,3,0001191310,Class B Common Stock
+A,04/27/2018 00:00:00,JACOBS PAUL E,4,C-Conversion,--I,172711,172711,2,0001191310,Class A Common Stock
+A,04/27/2018 00:00:00,JACOBS PAUL E,4,C-Conversion,--D,53333,67619,1,0001191310,Class A Common Stock
+D,04/27/2018 00:00:00,Rice Condoleezza,4,C-Conversion,--D,24433,53333,2,0001528387,Class B Common Stock
+A,04/27/2018 00:00:00,Rice Condoleezza,4,C-Conversion,--D,24433,38719,1,0001528387,Class A Common Stock
+D,04/27/2018 00:00:00,MYLOD ROBERT J JR,4,C-Conversion,--D,24433,53333,3,0001214607,Class B Common Stock
+A,04/27/2018 00:00:00,MYLOD ROBERT J JR,4,C-Conversion,--D,24433,38719,1,0001214607,Class A Common Stock
+A,03/27/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,2850494,2850494,12,0001374246,Class B Common Stock
+D,03/27/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,11894,0,11,0001374246,Series B Preferred Stock
+D,03/27/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,1376520,0,10,0001374246,Series A-1 Preferred Stock
+D,03/27/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,1462080,0,9,0001374246,Series A Preferred Stock
+A,03/27/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,8141812,8141812,8,0001374246,Class B Common Stock
+D,03/27/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,33974,0,7,0001374246,Series B Preferred Stock
+D,03/27/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,3931759,0,6,0001374246,Series A-1 Preferred Stock
+D,03/27/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,4176079,0,5,0001374246,Series A Preferred Stock
+A,03/27/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,76179144,76179144,4,0001374246,Class B Common Stock
+D,03/27/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,317886,0,3,0001374246,Series B Preferred Stock
+D,03/27/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,36787659,0,2,0001374246,Series A-1 Preferred Stock
+D,03/27/2018 00:00:00,SC XII MANAGEMENT LLC,4,C-Conversion,--I,39073599,0,1,0001374246,Series A Preferred Stock
+D,03/27/2018 00:00:00,MYLOD ROBERT J JR,4,C-Conversion,--I,122698,0,5,0001214607,Class B Common Stock
+A,03/27/2018 00:00:00,MYLOD ROBERT J JR,4,C-Conversion,--I,14884,122698,4,0001214607,Class B Common Stock
+D,03/27/2018 00:00:00,MYLOD ROBERT J JR,4,C-Conversion,--I,14884,0,3,0001214607,Series A-1 Preferred Stock
+A,03/27/2018 00:00:00,MYLOD ROBERT J JR,4,C-Conversion,--I,122698,122698,1,0001214607,Class A Common Stock
+D,03/27/2018 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,2333333,29036583,4,0001734434,Class B Common Stock
+D,03/27/2018 00:00:00,Ferdowsi Arash,4,S-Sale,--I,2333333,0,2,0001734434,Class A Common Stock
+A,03/27/2018 00:00:00,Ferdowsi Arash,4,C-Conversion,--I,2333333,2333333,1,0001734434,Class A Common Stock
+D,03/27/2018 00:00:00,Houston Andrew,4,C-Conversion,--I,2333333,73148073,4,0001734563,Class B Common Stock
+D,03/27/2018 00:00:00,Houston Andrew,4,S-Sale,--I,2333333,0,2,0001734563,Class A Common Stock
+A,03/27/2018 00:00:00,Houston Andrew,4,C-Conversion,--I,2333333,2333333,1,0001734563,Class A Common Stock
+A,03/27/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,2850494,2850494,12,0001734432,Class B Common Stock
+D,03/27/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,11894,0,11,0001734432,Series B Preferred Stock
+D,03/27/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,1376520,0,10,0001734432,Series A-1 Preferred Stock
+D,03/27/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,1462080,0,9,0001734432,Series A Preferred Stock
+A,03/27/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,8141812,8141812,8,0001734432,Class B Common Stock
+D,03/27/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,33974,0,7,0001734432,Series B Preferred Stock
+D,03/27/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,3931759,0,6,0001734432,Series A-1 Preferred Stock
+D,03/27/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,4176079,0,5,0001734432,Series A Preferred Stock
+A,03/27/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,76179144,76179144,4,0001734432,Class B Common Stock
+D,03/27/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,317886,0,3,0001734432,Series B Preferred Stock
+D,03/27/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,36787659,0,2,0001734432,Series A-1 Preferred Stock
+D,03/27/2018 00:00:00,Schreier R. Bryan,4,C-Conversion,--I,39073599,0,1,0001734432,Series A Preferred Stock
+D,03/23/2018 00:00:00,Woodside Dennis,4,F-InKind,--D,490010,2344616,1,0001734438,Class B Common Stock
+D,03/23/2018 00:00:00,Volkmer Bart,4,F-InKind,--D,161490,339766,2,0001734437,Class B Common Stock
+D,03/23/2018 00:00:00,Volkmer Bart,4,F-InKind,--D,2066,197570,1,0001734437,Class A Common Stock
+D,03/23/2018 00:00:00,Vashee Ajay,4,F-InKind,--I,15991,42474,3,0001734428,Class B Common Stock
+D,03/23/2018 00:00:00,Vashee Ajay,4,F-InKind,--D,188833,484585,2,0001734428,Class B Common Stock
+D,03/23/2018 00:00:00,Vashee Ajay,4,F-InKind,--D,3306,379459,1,0001734428,Class A Common Stock
+D,03/23/2018 00:00:00,Regan Timothy,4,F-InKind,--D,2162,97838,1,0001734440,Class B Common Stock

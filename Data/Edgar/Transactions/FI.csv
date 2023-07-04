@@ -1,0 +1,961 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/28/2023 00:00:00,Kereere Suzan,4,F-InKind,--D,3148,49425,1,0001896086,Common Stock
+D,06/01/2023 00:00:00,Chiarello Guy,4,S-Sale,--D,8000,187356,1,0001654667,Common Stock
+A,05/18/2023 00:00:00,Bisignano Frank,4,G-Gift,--I,282,582,5,0001346629,Common Stock
+A,05/18/2023 00:00:00,Bisignano Frank,4,G-Gift,--I,282,1012,4,0001346629,Common Stock
+A,05/18/2023 00:00:00,Bisignano Frank,4,G-Gift,--I,282,4568,3,0001346629,Common Stock
+D,05/18/2023 00:00:00,Bisignano Frank,4,G-Gift,--I,705,14235,2,0001346629,Common Stock
+D,05/18/2023 00:00:00,Bisignano Frank,4,G-Gift,--D,423,2956529,1,0001346629,Common Stock
+A,05/17/2023 00:00:00,Haggart Dylan G.,4,A-Award,--D,1755,4463,1,0001684185,Common Stock
+A,05/17/2023 00:00:00,WARREN KEVIN M,4,A-Award,--D,1755,6787,1,0001495787,Common Stock
+A,05/17/2023 00:00:00,Simons Doyle,4,A-Award,--D,2382,107116,1,0001185922,Common Stock
+A,05/17/2023 00:00:00,MILLER HEIDI,4,A-Award,--D,1755,27844,1,0001199930,Common Stock
+A,05/17/2023 00:00:00,Mamilli Wafaa,4,A-Award,--D,1755,5609,1,0001800960,Common Stock
+A,05/17/2023 00:00:00,DiSimone Harry,4,A-Award,--D,1755,14702,1,0001732108,Common Stock
+A,05/17/2023 00:00:00,DE CASTRO HENRIQUE,4,A-Award,--D,1755,21416,1,0001562331,Common Stock
+D,05/11/2023 00:00:00,Bisignano Frank,4,G-Gift,--D,2101,2956952,1,0001346629,Common Stock
+D,05/08/2023 00:00:00,Bisignano Frank,4,M-Exempt,--D,223669,0,12,0001346629,Employee Stock Option (right to buy)
+D,05/08/2023 00:00:00,Bisignano Frank,4,M-Exempt,--D,109278,0,11,0001346629,Employee Stock Option (right to buy)
+D,05/08/2023 00:00:00,Bisignano Frank,4,F-InKind,--D,243544,2959053,4,0001346629,Common Stock
+A,05/08/2023 00:00:00,Bisignano Frank,4,M-Exempt,--D,223669,3202597,3,0001346629,Common Stock
+A,05/08/2023 00:00:00,Bisignano Frank,4,M-Exempt,--D,109278,2978928,2,0001346629,Common Stock
+D,05/05/2023 00:00:00,Hau Robert W.,4,S-Sale,--D,8500,133491,1,0001473856,Common Stock
+D,05/01/2023 00:00:00,Chiarello Guy,4,S-Sale,--D,8000,195356,1,0001654667,Common Stock
+D,04/28/2023 00:00:00,Bisignano Frank,4,G-Gift,-ED,3639,2869650,1,0001346629,Common Stock
+D,04/26/2023 00:00:00,Simons Doyle,4,M-Exempt,--D,10064,0,2,0001185922,Stock Option (right to buy)
+A,04/26/2023 00:00:00,Simons Doyle,4,M-Exempt,--D,10064,104734,1,0001185922,Common Stock
+D,04/03/2023 00:00:00,Chiarello Guy,4,S-Sale,--D,8000,203356,1,0001654667,Common Stock
+A,03/31/2023 00:00:00,Simons Doyle,4,A-Award,--D,310,42448,1,0001185922,Deferred Compensation Notional Units
+A,03/31/2023 00:00:00,MILLER HEIDI,4,A-Award,--D,310,3183,1,0001199930,Deferred Compensation Notional Units
+A,03/31/2023 00:00:00,DiSimone Harry,4,A-Award,--D,332,4497,1,0001732108,Deferred Compensation Notional Units
+A,03/31/2023 00:00:00,DE CASTRO HENRIQUE,4,A-Award,--D,288,2966,1,0001562331,Deferred Compensation Notional Units
+D,03/24/2023 00:00:00,Foskett Christopher M,4,S-Sale,--D,9000,97665,1,0001473587,Common Stock
+D,03/02/2023 00:00:00,Chiarello Guy,4,S-Sale,--I,13059,0,3,0001654667,Common Stock
+D,03/01/2023 00:00:00,Chiarello Guy,4,S-Sale,--I,13059,13059,2,0001654667,Common Stock
+D,03/01/2023 00:00:00,Chiarello Guy,4,S-Sale,--D,8000,211356,1,0001654667,Common Stock
+D,02/26/2023 00:00:00,Foskett Christopher M,4,F-InKind,--D,743,106665,1,0001473587,Common Stock
+D,02/26/2023 00:00:00,Chiarello Guy,4,F-InKind,--D,2827,219356,1,0001654667,Common Stock
+D,02/26/2023 00:00:00,Best Kenneth,4,F-InKind,--D,249,39829,1,0001407947,Common Stock
+D,02/26/2023 00:00:00,Bisignano Frank,4,F-InKind,--D,4903,2873289,1,0001346629,Common Stock
+D,02/23/2023 00:00:00,Rosman Adam L.,4,F-InKind,--D,1592,45288,2,0001549373,Common Stock
+D,02/23/2023 00:00:00,Kereere Suzan,4,F-InKind,--D,2031,52573,2,0001896086,Common Stock
+D,02/23/2023 00:00:00,Hau Robert W.,4,F-InKind,--D,3384,141991,2,0001473856,Common Stock
+D,02/23/2023 00:00:00,Foskett Christopher M,4,F-InKind,--D,1502,107408,2,0001473587,Common Stock
+D,02/23/2023 00:00:00,Chiarello Guy,4,F-InKind,--D,6892,222183,2,0001654667,Common Stock
+D,02/23/2023 00:00:00,Best Kenneth,4,F-InKind,--D,634,40078,2,0001407947,Common Stock
+D,02/23/2023 00:00:00,Bisignano Frank,4,F-InKind,--D,11950,2878192,2,0001346629,Common Stock
+A,02/22/2023 00:00:00,Rosman Adam L.,4,A-Award,--D,12821,46880,1,0001549373,Common Stock
+A,02/22/2023 00:00:00,Kereere Suzan,4,A-Award,--D,22547,54604,1,0001896086,Common Stock
+A,02/22/2023 00:00:00,Hau Robert W.,4,A-Award,--D,23763,145375,1,0001473856,Common Stock
+A,02/22/2023 00:00:00,Foskett Christopher M,4,A-Award,--D,11495,108910,1,0001473587,Common Stock
+A,02/22/2023 00:00:00,Chiarello Guy,4,A-Award,--D,40783,229075,1,0001654667,Common Stock
+A,02/22/2023 00:00:00,Best Kenneth,4,A-Award,--D,7516,40712,1,0001407947,Common Stock
+A,02/22/2023 00:00:00,Bisignano Frank,4,A-Award,--D,76676,2890142,1,0001346629,Common Stock
+D,02/20/2023 00:00:00,Hau Robert W.,4,F-InKind,--D,2231,121612,1,0001473856,Common Stock
+D,02/20/2023 00:00:00,Best Kenneth,4,F-InKind,--D,190,33196,1,0001407947,Common Stock
+D,02/15/2023 00:00:00,Bisignano Frank,4,M-Exempt,--D,71893,0,9,0001346629,Employee Stock Option (right to buy)
+D,02/15/2023 00:00:00,Bisignano Frank,4,F-InKind,--D,48708,2813466,2,0001346629,Common Stock
+A,02/15/2023 00:00:00,Bisignano Frank,4,M-Exempt,--D,71893,2862174,1,0001346629,Common Stock
+D,02/01/2023 00:00:00,Chiarello Guy,4,S-Sale,--D,8000,188292,1,0001654667,Common Stock
+D,01/29/2023 00:00:00,Hau Robert W.,4,F-InKind,--D,2882,123843,1,0001473856,Common Stock
+D,01/29/2023 00:00:00,Foskett Christopher M,4,F-InKind,--D,1679,97415,1,0001473587,Common Stock
+D,01/29/2023 00:00:00,Chiarello Guy,4,F-InKind,--D,5331,196292,1,0001654667,Common Stock
+D,01/29/2023 00:00:00,Bisignano Frank,4,F-InKind,--D,16451,2790281,6,0001346629,Common Stock
+D,01/29/2023 00:00:00,Best Kenneth,4,F-InKind,--D,589,33386,1,0001407947,Common Stock
+D,01/23/2023 00:00:00,Chiarello Guy,4,S-Sale,--D,1063,201623,1,0001654667,Common Stock
+D,01/18/2023 00:00:00,Chiarello Guy,4,S-Sale,--D,2937,202686,1,0001654667,Common Stock
+D,01/06/2023 00:00:00,"ValueAct Holdings, L.P.",4,S-Sale,--I,675014,11647776,3,0001418814,Common Stock
+D,01/05/2023 00:00:00,"ValueAct Holdings, L.P.",4,S-Sale,--I,1264956,12322790,2,0001418814,Common Stock
+D,01/04/2023 00:00:00,"ValueAct Holdings, L.P.",4,S-Sale,--I,1060030,13587746,1,0001418814,Common Stock
+D,01/04/2023 00:00:00,Chiarello Guy,4,S-Sale,--D,4000,205623,1,0001654667,Common Stock
+A,12/31/2022 00:00:00,Simons Doyle,4,A-Award,--D,347,42138,1,0001185922,Deferred Compensation Notional Units
+A,12/31/2022 00:00:00,MILLER HEIDI,4,A-Award,--D,347,2873,1,0001199930,Deferred Compensation Notional Units
+A,12/31/2022 00:00:00,DiSimone Harry,4,A-Award,--D,372,4165,1,0001732108,Deferred Compensation Notional Units
+A,12/31/2022 00:00:00,DE CASTRO HENRIQUE,4,A-Award,--D,322,2678,1,0001562331,Deferred Compensation Notional Units
+D,12/16/2022 00:00:00,Bisignano Frank,4,G-Gift,-ED,511,2806732,5,0001346629,Common Stock
+D,12/09/2022 00:00:00,Foskett Christopher M,4,S-Sale,--D,4000,99094,1,0001473587,Common Stock
+D,12/02/2022 00:00:00,Bisignano Frank,4,G-Gift,-ED,479,2807243,4,0001346629,Common Stock
+D,12/01/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,14380,209623,1,0001654667,Common Stock
+D,11/01/2022 00:00:00,Bisignano Frank,4,G-Gift,-ED,3091,2837722,3,0001346629,Common Stock
+D,11/01/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,4550,224003,1,0001654667,Common Stock
+D,10/05/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,4000,228553,1,0001654667,Common Stock
+A,09/30/2022 00:00:00,Simons Doyle,4,A-Award,--D,375,41791,1,0001185922,Deferred Compensation Notional Units
+A,09/30/2022 00:00:00,MILLER HEIDI,4,A-Award,--D,375,2526,1,0001199930,Deferred Compensation Notional Units
+A,09/30/2022 00:00:00,DiSimone Harry,4,A-Award,--D,401,3793,1,0001732108,Deferred Compensation Notional Units
+A,09/30/2022 00:00:00,DE CASTRO HENRIQUE,4,A-Award,--D,348,2356,1,0001562331,Deferred Compensation Notional Units
+D,09/12/2022 00:00:00,Bisignano Frank,4,G-Gift,-ED,7243,2840813,2,0001346629,Common Stock
+D,09/12/2022 00:00:00,DiSimone Harry,4,S-Sale,--I,2706,0,2,0001732108,Common Stock
+D,09/07/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,4400,232553,1,0001654667,Common Stock
+D,09/02/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,100,236953,3,0001654667,Common Stock
+D,09/01/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,11937,0,6,0001654667,Employee Stock Option (right to buy)
+D,09/01/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,11937,237053,2,0001654667,Common Stock
+A,09/01/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,11937,248990,1,0001654667,Common Stock
+D,08/23/2022 00:00:00,Bisignano Frank,4,G-Gift,-ED,94,2809103,1,0001346629,Common Stock
+D,08/15/2022 00:00:00,Bisignano Frank,4,F-InKind,--D,112716,2809197,4,0001346629,Common Stock
+A,08/12/2022 00:00:00,DE CASTRO HENRIQUE,4,J-Other,--D,7075,19661,1,0001562331,Common Stock
+D,08/12/2022 00:00:00,Bisignano Frank,4,M-Exempt,--D,881902,0,11,0001346629,Employee Stock Option (right to buy)
+D,08/12/2022 00:00:00,Bisignano Frank,4,F-InKind,--D,583697,2921913,3,0001346629,Common Stock
+A,08/12/2022 00:00:00,Bisignano Frank,4,M-Exempt,--D,881902,3505610,2,0001346629,Common Stock
+D,08/08/2022 00:00:00,Bisignano Frank,4,G-Gift,-ED,1409,2623708,1,0001346629,Common Stock
+D,08/08/2022 00:00:00,Best Kenneth,4,M-Exempt,--D,4788,0,5,0001407947,Employee Stock Option (right to buy)
+D,08/08/2022 00:00:00,Best Kenneth,4,G-Gift,-ED,1151,33975,4,0001407947,Common Stock
+D,08/08/2022 00:00:00,Best Kenneth,4,S-Sale,--D,4788,35126,3,0001407947,Common Stock
+A,08/08/2022 00:00:00,Best Kenneth,4,M-Exempt,--D,4788,39914,2,0001407947,Common Stock
+D,08/08/2022 00:00:00,Best Kenneth,4,S-Sale,--D,13730,35126,1,0001407947,Common Stock
+D,08/01/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,11000,0,12,0001654667,Employee Stock Option (right to buy)
+D,08/01/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,15000,11937,11,0001654667,Employee Stock Option (right to buy)
+D,08/01/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,11000,237053,8,0001654667,Common Stock
+A,08/01/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,11000,248053,7,0001654667,Common Stock
+D,08/01/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,4000,237053,6,0001654667,Common Stock
+D,08/01/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,4900,241053,5,0001654667,Common Stock
+D,08/01/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,10100,245953,4,0001654667,Common Stock
+A,08/01/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,15000,256053,3,0001654667,Common Stock
+D,07/31/2022 00:00:00,VIELEHR BYRON C,4,F-InKind,--D,27067,55882,2,0001331429,Common Stock
+A,07/31/2022 00:00:00,VIELEHR BYRON C,4,A-Award,--D,57589,82949,1,0001331429,Common Stock
+D,07/31/2022 00:00:00,Hau Robert W.,4,F-InKind,--D,18045,126725,2,0001473856,Common Stock
+A,07/31/2022 00:00:00,Hau Robert W.,4,A-Award,--D,38393,144770,1,0001473856,Common Stock
+D,07/31/2022 00:00:00,Foskett Christopher M,4,F-InKind,--D,15895,103094,2,0001473587,Common Stock
+A,07/31/2022 00:00:00,Foskett Christopher M,4,A-Award,--D,28795,118989,1,0001473587,Common Stock
+D,07/31/2022 00:00:00,Chiarello Guy,4,F-InKind,--D,29400,241053,2,0001654667,Common Stock
+A,07/31/2022 00:00:00,Chiarello Guy,4,A-Award,--D,57589,270453,1,0001654667,Common Stock
+D,07/31/2022 00:00:00,Best Kenneth,4,F-InKind,--D,3768,48856,2,0001407947,Common Stock
+A,07/31/2022 00:00:00,Best Kenneth,4,A-Award,--D,9599,52624,1,0001407947,Common Stock
+D,07/31/2022 00:00:00,Bisignano Frank,4,F-InKind,--D,78322,2625117,8,0001346629,Common Stock
+A,07/31/2022 00:00:00,Bisignano Frank,4,A-Award,--D,143971,2703439,7,0001346629,Common Stock
+D,07/29/2022 00:00:00,Bisignano Frank,4,F-InKind,--D,24457,2559468,6,0001346629,Common Stock
+D,07/28/2022 00:00:00,Bisignano Frank,4,G-Gift,-ED,4809,2583925,5,0001346629,Common Stock
+D,07/27/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,4000,212864,1,0001654667,Common Stock
+D,07/26/2022 00:00:00,Rosman Adam L.,4,F-InKind,--D,3931,34059,1,0001549373,Common Stock
+D,07/22/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,15000,26937,5,0001654667,Employee Stock Option (right to buy)
+D,07/22/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,15000,216864,2,0001654667,Common Stock
+A,07/22/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,15000,231864,1,0001654667,Common Stock
+D,07/01/2022 00:00:00,Bisignano Frank,4,G-Gift,-ED,3781,2588734,4,0001346629,Common Stock
+A,06/30/2022 00:00:00,Simons Doyle,4,A-Award,--D,318,41416,1,0001185922,Deferred Compensation Notional Units
+A,06/30/2022 00:00:00,MILLER HEIDI,4,A-Award,--D,332,2151,1,0001199930,Deferred Compensation Notional Units
+A,06/30/2022 00:00:00,DiSimone Harry,4,A-Award,--D,332,3392,1,0001732108,Deferred Compensation Notional Units
+A,06/30/2022 00:00:00,DE CASTRO HENRIQUE,4,A-Award,--D,304,2008,1,0001562331,Deferred Compensation Notional Units
+D,06/28/2022 00:00:00,Kereere Suzan,4,F-InKind,--D,3179,32057,1,0001896086,Common Stock
+A,06/14/2022 00:00:00,"ValueAct Holdings, L.P.",4,P-Purchase,--I,208341,14647776,3,0001418814,Common Stock
+A,06/13/2022 00:00:00,"ValueAct Holdings, L.P.",4,P-Purchase,--I,291659,14439435,2,0001418814,Common Stock
+A,06/10/2022 00:00:00,"ValueAct Holdings, L.P.",4,P-Purchase,--I,500000,14147776,1,0001418814,Common Stock
+D,05/27/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,10000,11000,5,0001654667,Employee Stock Option (right to buy)
+D,05/27/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,10000,216864,2,0001654667,Common Stock
+A,05/27/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,10000,226864,1,0001654667,Common Stock
+D,05/26/2022 00:00:00,Foskett Christopher M,4,S-Sale,--D,8170,90194,1,0001473587,Common Stock
+A,05/18/2022 00:00:00,Haggart Dylan G.,4,A-Award,--D,2231,2708,1,0001684185,Common Stock
+A,05/18/2022 00:00:00,DAVIS ALISON,4,A-Award,--D,2231,9984,1,0001203539,Common Stock
+A,05/18/2022 00:00:00,WARREN KEVIN M,4,A-Award,--D,2231,5032,1,0001495787,Common Stock
+A,05/18/2022 00:00:00,Simons Doyle,4,A-Award,--D,3028,94670,1,0001185922,Common Stock
+A,05/18/2022 00:00:00,MILLER HEIDI,4,A-Award,--D,2231,26089,1,0001199930,Common Stock
+A,05/18/2022 00:00:00,Mamilli Wafaa,4,A-Award,--D,2231,3854,1,0001800960,Common Stock
+A,05/18/2022 00:00:00,DiSimone Harry,4,A-Award,--D,2231,12947,1,0001732108,Common Stock
+A,05/18/2022 00:00:00,DE CASTRO HENRIQUE,4,A-Award,--D,2231,12586,1,0001562331,Common Stock
+A,05/09/2022 00:00:00,"ValueAct Holdings, L.P.",4,P-Purchase,--I,432950,13647776,2,0001418814,Common Stock
+A,05/06/2022 00:00:00,"ValueAct Holdings, L.P.",4,P-Purchase,--I,67050,13214826,1,0001418814,Common Stock
+A,05/05/2022 00:00:00,Bisignano Frank,4,G-Gift,-EI,300,300,12,0001346629,Common Stock
+D,05/05/2022 00:00:00,Bisignano Frank,4,G-Gift,-EI,750,14940,11,0001346629,Common Stock
+A,05/05/2022 00:00:00,Bisignano Frank,4,G-Gift,-EI,300,1867,10,0001346629,Common Stock
+A,05/05/2022 00:00:00,Bisignano Frank,4,G-Gift,-EI,300,730,9,0001346629,Common Stock
+D,05/05/2022 00:00:00,Bisignano Frank,4,G-Gift,-ED,450,2592515,3,0001346629,Common Stock
+A,05/02/2022 00:00:00,"ValueAct Holdings, L.P.",4,P-Purchase,--I,112575,13147776,1,0001418814,Common Stock
+D,05/02/2022 00:00:00,Simons Doyle,4,M-Exempt,--D,10904,0,2,0001185922,Stock Option (right to buy)
+A,05/02/2022 00:00:00,Simons Doyle,4,M-Exempt,--D,10904,91642,1,0001185922,Common Stock
+D,04/28/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,43000,21000,6,0001654667,Employee Stock Option (right to buy)
+D,04/28/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,33000,216864,3,0001654667,Common Stock
+D,04/28/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,10000,249864,2,0001654667,Common Stock
+A,04/28/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,43000,259864,1,0001654667,Common Stock
+D,04/04/2022 00:00:00,Bisignano Frank,4,G-Gift,-ED,99,2592965,2,0001346629,Common Stock
+D,03/31/2022 00:00:00,Bisignano Frank,4,G-Gift,-ED,19860,2593064,1,0001346629,Common Stock
+A,03/31/2022 00:00:00,Simons Doyle,4,A-Award,--D,267,41098,1,0001185922,Deferred Compensation Notional Units
+A,03/31/2022 00:00:00,OLEARY DENIS,4,A-Award,--D,415,39966,1,0001253512,Deferred Compensation Notional Units
+A,03/31/2022 00:00:00,NUTTALL SCOTT C,4,A-Award,--D,291,1867,1,0001207606,Deferred Compensation Notional Units
+A,03/31/2022 00:00:00,MILLER HEIDI,4,A-Award,--D,291,1819,1,0001199930,Deferred Compensation Notional Units
+A,03/31/2022 00:00:00,DiSimone Harry,4,A-Award,--D,291,3060,1,0001732108,Deferred Compensation Notional Units
+A,03/31/2022 00:00:00,DE CASTRO HENRIQUE,4,A-Award,--D,267,1704,1,0001562331,Deferred Compensation Notional Units
+D,03/28/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,10000,64000,5,0001654667,Employee Stock Option (right to buy)
+D,03/28/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,10000,216864,2,0001654667,Common Stock
+A,03/28/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,10000,226864,1,0001654667,Common Stock
+D,03/03/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,10000,74000,5,0001654667,Employee Stock Option (right to buy)
+D,03/03/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,10000,216864,2,0001654667,Common Stock
+A,03/03/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,10000,226864,1,0001654667,Common Stock
+D,02/26/2022 00:00:00,Foskett Christopher M,4,F-InKind,--D,933,98364,1,0001473587,Common Stock
+D,02/26/2022 00:00:00,Chiarello Guy,4,F-InKind,--D,2856,216864,1,0001654667,Common Stock
+D,02/26/2022 00:00:00,Bisignano Frank,4,F-InKind,--D,6302,2612924,1,0001346629,Common Stock
+D,02/26/2022 00:00:00,Best Kenneth,4,F-InKind,--D,107,43025,1,0001407947,Common Stock
+A,02/23/2022 00:00:00,Haggart Dylan G.,4,A-Award,--D,477,477,1,0001684185,Common Stock
+A,02/23/2022 00:00:00,Rosman Adam L.,4,A-Award,--D,11610,37990,1,0001549373,Common Stock
+A,02/23/2022 00:00:00,VIELEHR BYRON C,4,A-Award,--D,11880,25360,1,0001331429,Common Stock
+A,02/23/2022 00:00:00,Kereere Suzan,4,A-Award,--D,16739,35236,1,0001896086,Common Stock
+A,02/23/2022 00:00:00,Hau Robert W.,4,A-Award,--D,21599,106377,1,0001473856,Common Stock
+A,02/23/2022 00:00:00,Foskett Christopher M,4,A-Award,--D,11205,99297,1,0001473587,Common Stock
+A,02/23/2022 00:00:00,Chiarello Guy,4,A-Award,--D,40497,219720,1,0001654667,Common Stock
+A,02/23/2022 00:00:00,Bisignano Frank,4,A-Award,--D,86394,2619226,1,0001346629,Common Stock
+A,02/23/2022 00:00:00,Best Kenneth,4,A-Award,--D,5940,43132,1,0001407947,Common Stock
+D,02/21/2022 00:00:00,Hau Robert W.,4,F-InKind,--D,2579,84778,2,0001473856,Common Stock
+D,02/21/2022 00:00:00,Best Kenneth,4,F-InKind,--D,230,37192,2,0001407947,Common Stock
+D,02/20/2022 00:00:00,Hau Robert W.,4,F-InKind,--D,2190,87357,1,0001473856,Common Stock
+D,02/20/2022 00:00:00,Best Kenneth,4,F-InKind,--D,189,37422,1,0001407947,Common Stock
+D,02/15/2022 00:00:00,Foskett Christopher M,4,F-InKind,--D,3774,88092,1,0001473587,Common Stock
+D,02/15/2022 00:00:00,Chiarello Guy,4,F-InKind,--D,10730,179223,1,0001654667,Common Stock
+D,02/15/2022 00:00:00,Bisignano Frank,4,F-InKind,--D,25960,2532832,1,0001346629,Common Stock
+D,01/31/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,8408,84000,10,0001654667,Employee Stock Option (right to buy)
+D,01/31/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,8408,189953,6,0001654667,Common Stock
+A,01/31/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,8408,198361,5,0001654667,Common Stock
+D,01/29/2022 00:00:00,VIELEHR BYRON C,4,F-InKind,--D,1663,13480,1,0001331429,Common Stock
+D,01/29/2022 00:00:00,Chiarello Guy,4,F-InKind,--D,6422,189953,4,0001654667,Common Stock
+D,01/29/2022 00:00:00,Bisignano Frank,4,F-InKind,--D,11941,2558792,2,0001346629,Common Stock
+D,01/29/2022 00:00:00,Hau Robert W.,4,F-InKind,--D,2862,89547,1,0001473856,Common Stock
+D,01/29/2022 00:00:00,Foskett Christopher M,4,F-InKind,--D,1681,91866,1,0001473587,Common Stock
+D,01/29/2022 00:00:00,Best Kenneth,4,F-InKind,--D,573,37611,1,0001407947,Common Stock
+D,01/28/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,12592,92408,9,0001654667,Employee Stock Option (right to buy)
+D,01/28/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,2592,196375,3,0001654667,Common Stock
+D,01/28/2022 00:00:00,Chiarello Guy,4,S-Sale,--D,10000,198967,2,0001654667,Common Stock
+A,01/28/2022 00:00:00,Chiarello Guy,4,M-Exempt,--D,12592,208967,1,0001654667,Common Stock
+A,12/31/2021 00:00:00,Simons Doyle,4,A-Award,--D,261,40831,1,0001185922,Deferred Compensation Notional Units
+A,12/31/2021 00:00:00,OLEARY DENIS,4,A-Award,--D,405,39551,1,0001253512,Deferred Compensation Notional Units
+A,12/31/2021 00:00:00,NUTTALL SCOTT C,4,A-Award,--D,285,1576,1,0001207606,Deferred Compensation Notional Units
+A,12/31/2021 00:00:00,MILLER HEIDI,4,A-Award,--D,285,1528,1,0001199930,Deferred Compensation Notional Units
+A,12/31/2021 00:00:00,DiSimone Harry,4,A-Award,--D,285,2769,1,0001732108,Deferred Compensation Notional Units
+A,12/31/2021 00:00:00,DE CASTRO HENRIQUE,4,A-Award,--D,261,1437,1,0001562331,Deferred Compensation Notional Units
+D,12/30/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,21000,105000,5,0001654667,Employee Stock Option (right to buy)
+D,12/30/2021 00:00:00,Chiarello Guy,4,S-Sale,--D,12844,196375,3,0001654667,Common Stock
+D,12/30/2021 00:00:00,Chiarello Guy,4,S-Sale,--D,8156,209219,2,0001654667,Common Stock
+A,12/30/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,21000,217375,1,0001654667,Common Stock
+A,12/28/2021 00:00:00,DiSimone Harry,5,G-Gift,--I,2706,2706,2,0001732108,Common Stock
+D,12/28/2021 00:00:00,DiSimone Harry,5,G-Gift,--D,2706,10716,1,0001732108,Common Stock
+D,12/16/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,43292,126000,4,0001654667,Employee Stock Option (right to buy)
+D,12/16/2021 00:00:00,Chiarello Guy,4,S-Sale,--D,43292,196375,2,0001654667,Common Stock
+A,12/16/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,43292,239667,1,0001654667,Common Stock
+D,12/15/2021 00:00:00,VIELEHR BYRON C,4,S-Sale,--D,10739,15138,1,0001331429,Common Stock
+D,12/07/2021 00:00:00,Bisignano Frank,4,G-Gift,-ED,5826,2570733,1,0001346629,Common Stock
+D,12/07/2021 00:00:00,Foskett Christopher M,4,S-Sale,--D,3000,93547,1,0001473587,Common Stock
+D,12/07/2021 00:00:00,Chiarello Guy,4,G-Gift,-ED,1000,196375,3,0001654667,Common Stock
+D,12/06/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,20000,169292,5,0001654667,Employee Stock Option (right to buy)
+D,12/06/2021 00:00:00,Chiarello Guy,4,S-Sale,--D,20000,197375,2,0001654667,Common Stock
+A,12/06/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,20000,217375,1,0001654667,Common Stock
+D,12/03/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,60000,189292,4,0001654667,Employee Stock Option (right to buy)
+D,12/03/2021 00:00:00,Chiarello Guy,4,S-Sale,--D,60000,197375,2,0001654667,Common Stock
+A,12/03/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,60000,257375,1,0001654667,Common Stock
+D,12/01/2021 00:00:00,Bisignano Frank,4,M-Exempt,--D,377955,881902,11,0001346629,Employee Stock Option (right to buy)
+D,12/01/2021 00:00:00,Bisignano Frank,4,F-InKind,--D,271134,2576559,5,0001346629,Common Stock
+A,12/01/2021 00:00:00,Bisignano Frank,4,M-Exempt,--D,377955,2847693,4,0001346629,Common Stock
+A,11/26/2021 00:00:00,DiSimone Harry,4,P-Purchase,--D,1000,13422,1,0001732108,Common Stock
+A,11/23/2021 00:00:00,Bisignano Frank,4,P-Purchase,--I,310,430,2,0001346629,Common Stock
+A,11/23/2021 00:00:00,Bisignano Frank,4,P-Purchase,--D,10091,2476261,1,0001346629,Common Stock
+A,11/23/2021 00:00:00,OLEARY DENIS,4,P-Purchase,--D,10400,115573,1,0001253512,Common Stock
+D,11/17/2021 00:00:00,Bisignano Frank,4,G-Gift,-ED,1000,2469738,3,0001346629,Common Stock
+D,11/15/2021 00:00:00,Bisignano Frank,4,G-Gift,-ED,3850,2470738,2,0001346629,Common Stock
+D,11/15/2021 00:00:00,VIELEHR BYRON C,4,S-Sale,--D,10000,25877,1,0001331429,Common Stock
+D,11/10/2021 00:00:00,DiSimone Harry,4,M-Exempt,--D,960,0,2,0001732108,Stock Option (right to buy)
+A,11/10/2021 00:00:00,DiSimone Harry,4,M-Exempt,--D,960,12422,1,0001732108,Common Stock
+D,11/10/2021 00:00:00,DAVIS ALISON,4,S-Sale,--D,1934,7753,1,0001203539,Common Stock
+A,11/01/2021 00:00:00,OLEARY DENIS,4,P-Purchase,--D,15700,105173,1,0001253512,Common Stock
+D,10/15/2021 00:00:00,VIELEHR BYRON C,4,S-Sale,--D,10000,35877,1,0001331429,Common Stock
+A,09/30/2021 00:00:00,Simons Doyle,4,A-Award,--D,249,40570,1,0001185922,Deferred Compensation Notional Units
+A,09/30/2021 00:00:00,OLEARY DENIS,4,A-Award,--D,388,39146,1,0001253512,Deferred Compensation Notional Units
+A,09/30/2021 00:00:00,NUTTALL SCOTT C,4,A-Award,--D,272,1291,1,0001207606,Deferred Compensation Notional Units
+A,09/30/2021 00:00:00,MILLER HEIDI,4,A-Award,--D,272,1243,1,0001199930,Deferred Compensation Notional Units
+A,09/30/2021 00:00:00,DiSimone Harry,4,A-Award,--D,272,2484,1,0001732108,Deferred Compensation Notional Units
+A,09/30/2021 00:00:00,DE CASTRO HENRIQUE,4,A-Award,--D,249,1176,1,0001562331,Deferred Compensation Notional Units
+D,09/17/2021 00:00:00,Bisignano Frank,4,G-Gift,-ED,1673,2474588,1,0001346629,Common Stock
+D,09/15/2021 00:00:00,VIELEHR BYRON C,4,S-Sale,--D,10000,45877,1,0001331429,Common Stock
+D,09/01/2021 00:00:00,Bisignano Frank,4,M-Exempt,--D,377955,1259857,9,0001346629,Employee Stock Option (right to buy)
+D,09/01/2021 00:00:00,Bisignano Frank,4,F-InKind,--D,252546,2466170,3,0001346629,Common Stock
+A,09/01/2021 00:00:00,Bisignano Frank,4,M-Exempt,--D,377955,2718716,2,0001346629,Common Stock
+D,08/23/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,20000,249292,9,0001654667,Employee Stock Option (right to buy)
+D,08/23/2021 00:00:00,Chiarello Guy,4,S-Sale,--D,20000,197375,6,0001654667,Common Stock
+A,08/23/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,20000,217375,5,0001654667,Common Stock
+D,08/20/2021 00:00:00,Bisignano Frank,4,G-Gift,-ED,2656,2311970,1,0001346629,Common Stock
+D,08/19/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,40000,269292,8,0001654667,Employee Stock Option (right to buy)
+D,08/19/2021 00:00:00,Chiarello Guy,4,S-Sale,--D,40000,197375,4,0001654667,Common Stock
+A,08/19/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,40000,237375,3,0001654667,Common Stock
+D,08/16/2021 00:00:00,VIELEHR BYRON C,4,S-Sale,--D,10000,55877,1,0001331429,Common Stock
+D,08/15/2021 00:00:00,Bisignano Frank,4,F-InKind,--D,149020,2314626,1,0001346629,Common Stock
+A,08/11/2021 00:00:00,OLEARY DENIS,4,P-Purchase,--D,12500,89473,1,0001253512,Common Stock
+D,07/29/2021 00:00:00,Bisignano Frank,4,F-InKind,--D,24351,2463646,2,0001346629,Common Stock
+A,07/26/2021 00:00:00,Rosman Adam L.,4,A-Award,--D,105549,105549,2,0001549373,Employee Stock Option (right to buy)
+A,07/26/2021 00:00:00,Rosman Adam L.,4,A-Award,--D,23350,26380,1,0001549373,Common Stock
+D,07/15/2021 00:00:00,VIELEHR BYRON C,4,S-Sale,--D,10000,65877,1,0001331429,Common Stock
+D,07/07/2021 00:00:00,Bisignano Frank,4,G-Gift,-ED,1354,2487997,1,0001346629,Common Stock
+A,06/30/2021 00:00:00,Simons Doyle,4,A-Award,--D,253,40321,1,0001185922,Deferred Compensation Notional Units
+A,06/30/2021 00:00:00,OLEARY DENIS,4,A-Award,--D,425,38758,1,0001253512,Deferred Compensation Notional Units
+A,06/30/2021 00:00:00,NUTTALL SCOTT C,4,A-Award,--D,276,1019,1,0001207606,Deferred Compensation Notional Units
+A,06/30/2021 00:00:00,MILLER HEIDI,4,A-Award,--D,276,971,1,0001199930,Deferred Compensation Notional Units
+A,06/30/2021 00:00:00,DiSimone Harry,4,A-Award,--D,264,2212,1,0001732108,Deferred Compensation Notional Units
+A,06/30/2021 00:00:00,DE CASTRO HENRIQUE,4,A-Award,--D,253,927,1,0001562331,Deferred Compensation Notional Units
+D,06/18/2021 00:00:00,VIELEHR BYRON C,4,S-Sale,--D,5000,75877,1,0001331429,Common Stock
+A,06/11/2021 00:00:00,Mamilli Wafaa,4,A-Award,--D,1623,1623,1,0001800960,Common Stock
+D,06/01/2021 00:00:00,Bisignano Frank,4,M-Exempt,--D,377955,1637812,10,0001346629,Employee Stock Option (right to buy)
+D,06/01/2021 00:00:00,Bisignano Frank,4,F-InKind,--D,246413,2489351,4,0001346629,Common Stock
+A,06/01/2021 00:00:00,Bisignano Frank,4,M-Exempt,--D,377955,2735764,3,0001346629,Common Stock
+A,05/19/2021 00:00:00,WARREN KEVIN M,4,A-Award,--D,1699,2801,1,0001495787,Common Stock
+A,05/19/2021 00:00:00,Simons Doyle,4,A-Award,--D,1699,80738,1,0001185922,Common Stock
+A,05/19/2021 00:00:00,OLEARY DENIS,4,A-Award,--D,2495,76973,1,0001253512,Common Stock
+A,05/19/2021 00:00:00,NUTTALL SCOTT C,4,A-Award,--D,1699,26358,1,0001207606,Common Stock
+A,05/19/2021 00:00:00,MILLER HEIDI,4,A-Award,--D,1699,20828,1,0001199930,Common Stock
+A,05/19/2021 00:00:00,Lynch Dennis,4,A-Award,--D,1699,22030,1,0001425470,Common Stock
+A,05/19/2021 00:00:00,DiSimone Harry,4,A-Award,--D,1699,11462,1,0001732108,Common Stock
+A,05/19/2021 00:00:00,DE CASTRO HENRIQUE,4,A-Award,--D,1699,10355,1,0001562331,Common Stock
+A,05/19/2021 00:00:00,DAVIS ALISON,4,A-Award,--D,1699,9687,1,0001203539,Common Stock
+A,05/12/2021 00:00:00,Chiarello Guy,4,G-Gift,-EI,37381,37381,2,0001654667,Common Stock
+D,05/12/2021 00:00:00,Chiarello Guy,4,G-Gift,-EI,37381,0,1,0001654667,Common Stock
+D,05/04/2021 00:00:00,Bisignano Frank,4,G-Gift,-ED,1738,2357809,2,0001346629,Common Stock
+D,05/03/2021 00:00:00,KKR Group Partnership L.P.,4,S-Sale,--I,23000000,62300667,1,0001472698,Common Stock
+D,05/03/2021 00:00:00,New Omaha Holdings L.P.,4,S-Sale,--I,23000000,62300667,1,0001654991,Common Stock
+D,04/30/2021 00:00:00,Lynch Dennis,4,M-Exempt,--D,6788,0,3,0001425470,Stock Option (right to buy)
+D,04/30/2021 00:00:00,Lynch Dennis,4,S-Sale,--D,6788,20331,2,0001425470,Common Stock
+A,04/30/2021 00:00:00,Lynch Dennis,4,M-Exempt,--D,6788,27119,1,0001425470,Common Stock
+D,04/16/2021 00:00:00,Bisignano Frank,4,G-Gift,-ED,7967,2359547,1,0001346629,Common Stock
+D,04/15/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,20000,309292,7,0001654667,Employee Stock Option (right to buy)
+D,04/15/2021 00:00:00,Chiarello Guy,4,S-Sale,--D,20000,197375,6,0001654667,Common Stock
+A,04/15/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,20000,217375,5,0001654667,Common Stock
+A,04/01/2021 00:00:00,Chiarello Guy,4,G-Gift,-EI,37381,37381,4,0001654667,Common Stock
+D,04/01/2021 00:00:00,Chiarello Guy,4,G-Gift,-ED,37381,197375,3,0001654667,Common Stock
+A,03/31/2021 00:00:00,Simons Doyle,4,A-Award,--D,227,40068,1,0001185922,Deferred Compensation Notional Units
+A,03/31/2021 00:00:00,OLEARY DENIS,4,A-Award,--D,406,38333,1,0001253512,Deferred Compensation Notional Units
+A,03/31/2021 00:00:00,NUTTALL SCOTT C,4,A-Award,--D,248,743,1,0001207606,Deferred Compensation Notional Units
+A,03/31/2021 00:00:00,MILLER HEIDI,4,A-Award,--D,248,695,1,0001199930,Deferred Compensation Notional Units
+A,03/31/2021 00:00:00,DiSimone Harry,4,A-Award,--D,227,1948,1,0001732108,Deferred Compensation Notional Units
+A,03/31/2021 00:00:00,DE CASTRO HENRIQUE,4,A-Award,--D,227,674,1,0001562331,Deferred Compensation Notional Units
+A,03/18/2021 00:00:00,Chiarello Guy,4,G-Gift,-EI,26118,26118,2,0001654667,Common Stock
+D,03/18/2021 00:00:00,Chiarello Guy,4,G-Gift,-ED,26118,234756,1,0001654667,Common Stock
+D,03/18/2021 00:00:00,Bisignano Frank,4,G-Gift,-ED,2827,2367514,9,0001346629,Common Stock
+D,03/16/2021 00:00:00,Bisignano Frank,4,M-Exempt,--D,503941,2015767,13,0001346629,Employee Stock Option (right to buy)
+D,03/16/2021 00:00:00,Bisignano Frank,4,F-InKind,--D,322127,2370341,8,0001346629,Common Stock
+A,03/16/2021 00:00:00,Bisignano Frank,4,M-Exempt,--D,503941,2692468,7,0001346629,Common Stock
+A,03/12/2021 00:00:00,Bisignano Frank,4,G-Gift,-EI,120,120,6,0001346629,Common Stock
+A,03/12/2021 00:00:00,Bisignano Frank,4,G-Gift,-EI,120,1567,5,0001346629,Common Stock
+D,03/12/2021 00:00:00,Bisignano Frank,4,G-Gift,-ED,240,2188527,4,0001346629,Common Stock
+D,03/11/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,30000,329292,3,0001654667,Employee Stock Option (right to buy)
+D,03/11/2021 00:00:00,Chiarello Guy,4,S-Sale,--D,30000,260874,2,0001654667,Common Stock
+A,03/11/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,30000,290874,1,0001654667,Common Stock
+D,03/10/2021 00:00:00,Simons Doyle,4,M-Exempt,--D,10388,0,3,0001185922,Stock Option (right to buy)
+D,03/10/2021 00:00:00,Simons Doyle,4,S-Sale,--D,10388,79039,2,0001185922,Common Stock
+A,03/10/2021 00:00:00,Simons Doyle,4,M-Exempt,--D,10388,89427,1,0001185922,Common Stock
+D,03/10/2021 00:00:00,Lynch Dennis,4,M-Exempt,--D,2000,6788,3,0001425470,Stock Option (right to buy)
+D,03/10/2021 00:00:00,Lynch Dennis,4,S-Sale,--D,2000,20331,2,0001425470,Common Stock
+A,03/10/2021 00:00:00,Lynch Dennis,4,M-Exempt,--D,2000,22331,1,0001425470,Common Stock
+D,03/09/2021 00:00:00,McGranahan Devin,4,S-Sale,--D,10000,77980,1,0001684853,Common Stock
+D,03/09/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,20000,359292,4,0001654667,Employee Stock Option (right to buy)
+D,03/09/2021 00:00:00,Chiarello Guy,4,S-Sale,--D,10000,260874,3,0001654667,Common Stock
+D,03/09/2021 00:00:00,Chiarello Guy,4,S-Sale,--D,10000,270874,2,0001654667,Common Stock
+A,03/09/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,20000,280874,1,0001654667,Common Stock
+D,03/08/2021 00:00:00,Bisignano Frank,4,G-Gift,-ED,418,2188767,3,0001346629,Common Stock
+D,03/08/2021 00:00:00,Foskett Christopher M,4,S-Sale,--D,8000,96547,1,0001473587,Common Stock
+D,03/03/2021 00:00:00,Bisignano Frank,4,G-Gift,-ED,1760,2189185,2,0001346629,Common Stock
+D,03/02/2021 00:00:00,Bisignano Frank,4,G-Gift,-ED,10151,2190945,1,0001346629,Common Stock
+D,02/26/2021 00:00:00,McGranahan Devin,4,F-InKind,--D,483,87980,1,0001684853,Common Stock
+D,02/26/2021 00:00:00,McCreary Lynn S.,4,F-InKind,--D,625,64758,1,0001582646,Common Stock
+D,02/26/2021 00:00:00,Hau Robert W.,4,S-Sale,--D,8479,92409,1,0001473856,Common Stock
+D,02/26/2021 00:00:00,Foskett Christopher M,4,F-InKind,--D,897,104547,1,0001473587,Common Stock
+D,02/26/2021 00:00:00,Bisignano Frank,4,F-InKind,--D,6062,2201096,1,0001346629,Common Stock
+D,02/26/2021 00:00:00,Chiarello Guy,4,F-InKind,--D,2833,260874,1,0001654667,Common Stock
+D,02/26/2021 00:00:00,Best Kenneth,4,F-InKind,--D,107,38184,1,0001407947,Common Stock
+D,02/24/2021 00:00:00,VIELEHR BYRON C,4,F-InKind,--D,24752,80877,3,0001331429,Common Stock
+A,02/24/2021 00:00:00,VIELEHR BYRON C,4,A-Award,--D,41959,105629,2,0001331429,Common Stock
+A,02/24/2021 00:00:00,VIELEHR BYRON C,4,A-Award,--D,10703,63670,1,0001331429,Common Stock
+D,02/24/2021 00:00:00,McGranahan Devin,4,F-InKind,--D,14081,88463,3,0001684853,Common Stock
+A,02/24/2021 00:00:00,McGranahan Devin,4,A-Award,--D,20980,102544,2,0001684853,Common Stock
+A,02/24/2021 00:00:00,McGranahan Devin,4,A-Award,--D,10703,81564,1,0001684853,Common Stock
+D,02/24/2021 00:00:00,McCreary Lynn S.,4,F-InKind,--D,2013,65383,2,0001582646,Common Stock
+A,02/24/2021 00:00:00,McCreary Lynn S.,4,A-Award,--D,4282,67396,1,0001582646,Common Stock
+D,02/24/2021 00:00:00,Hau Robert W.,4,F-InKind,--D,5031,100888,2,0001473856,Common Stock
+A,02/24/2021 00:00:00,Hau Robert W.,4,A-Award,--D,10703,105919,1,0001473856,Common Stock
+D,02/24/2021 00:00:00,Best Kenneth,4,F-InKind,--D,686,38291,2,0001407947,Common Stock
+A,02/24/2021 00:00:00,Best Kenneth,4,A-Award,--D,2143,38977,1,0001407947,Common Stock
+D,02/22/2021 00:00:00,VIELEHR BYRON C,4,F-InKind,--D,968,52967,1,0001331429,Common Stock
+D,02/22/2021 00:00:00,McCreary Lynn S.,4,F-InKind,--D,516,63114,3,0001582646,Common Stock
+D,02/22/2021 00:00:00,Hau Robert W.,4,F-InKind,--D,2203,95216,3,0001473856,Common Stock
+D,02/22/2021 00:00:00,Best Kenneth,4,F-InKind,--D,160,36834,3,0001407947,Common Stock
+D,02/21/2021 00:00:00,McCreary Lynn S.,4,F-InKind,--D,459,63630,2,0001582646,Common Stock
+D,02/21/2021 00:00:00,Hau Robert W.,4,F-InKind,--D,2578,97419,2,0001473856,Common Stock
+D,02/21/2021 00:00:00,Best Kenneth,4,F-InKind,--D,230,36994,2,0001407947,Common Stock
+D,02/20/2021 00:00:00,McGranahan Devin,4,F-InKind,--D,616,70861,1,0001684853,Common Stock
+D,02/20/2021 00:00:00,McCreary Lynn S.,4,F-InKind,--D,664,64089,1,0001582646,Common Stock
+D,02/20/2021 00:00:00,Hau Robert W.,4,F-InKind,--D,1600,99997,1,0001473856,Common Stock
+D,02/20/2021 00:00:00,Best Kenneth,4,F-InKind,--D,185,37224,1,0001407947,Common Stock
+A,02/16/2021 00:00:00,OLEARY DENIS,4,P-Purchase,--D,9100,74478,1,0001253512,Common Stock
+D,02/15/2021 00:00:00,Foskett Christopher M,4,F-InKind,--D,9265,105444,1,0001473587,Common Stock
+D,02/15/2021 00:00:00,Chiarello Guy,4,F-InKind,--D,25930,263707,1,0001654667,Common Stock
+D,02/15/2021 00:00:00,Bisignano Frank,4,F-InKind,--D,62404,2207158,1,0001346629,Common Stock
+D,02/09/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,20000,379292,3,0001654667,Employee Stock Option (right to buy)
+D,02/09/2021 00:00:00,Chiarello Guy,4,S-Sale,--D,20000,289637,2,0001654667,Common Stock
+A,02/09/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,20000,309637,1,0001654667,Common Stock
+A,01/29/2021 00:00:00,VIELEHR BYRON C,4,A-Award,--D,15143,53935,1,0001331429,Common Stock
+A,01/29/2021 00:00:00,McGranahan Devin,4,A-Award,--D,16442,71477,1,0001684853,Common Stock
+A,01/29/2021 00:00:00,McCreary Lynn S.,4,A-Award,--D,10680,64753,1,0001582646,Common Stock
+A,01/29/2021 00:00:00,Hau Robert W.,4,A-Award,--D,26415,101597,1,0001473856,Common Stock
+A,01/29/2021 00:00:00,Foskett Christopher M,4,A-Award,--D,12035,114709,1,0001473587,Common Stock
+A,01/29/2021 00:00:00,Chiarello Guy,4,A-Award,--D,39277,289637,1,0001654667,Common Stock
+A,01/29/2021 00:00:00,Bisignano Frank,4,A-Award,--D,78879,2269562,1,0001346629,Common Stock
+A,01/29/2021 00:00:00,Best Kenneth,4,A-Award,--D,4870,37409,1,0001407947,Common Stock
+A,01/22/2021 00:00:00,OLEARY DENIS,4,A-Award,--D,320,65378,1,0001253512,Common Stock
+D,01/08/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,20000,399292,4,0001654667,Employee Stock Option (right to buy)
+D,01/08/2021 00:00:00,Chiarello Guy,4,S-Sale,--D,8578,250360,3,0001654667,Common Stock
+D,01/08/2021 00:00:00,Chiarello Guy,4,S-Sale,--D,11422,258938,2,0001654667,Common Stock
+A,01/08/2021 00:00:00,Chiarello Guy,4,M-Exempt,--D,20000,270360,1,0001654667,Common Stock
+D,12/31/2020 00:00:00,Bisignano Frank,4,F-InKind,--D,30900,2190683,10,0001346629,Common Stock
+A,12/31/2020 00:00:00,YABUKI JEFFERY W,4,A-Award,--D,111552,289503,3,0001207371,Common Stock
+D,12/30/2020 00:00:00,Bisignano Frank,4,G-Gift,-ED,1509,2221583,9,0001346629,Common Stock
+D,12/29/2020 00:00:00,Bisignano Frank,4,G-Gift,-ED,266,2223092,8,0001346629,Common Stock
+D,12/24/2020 00:00:00,YABUKI JEFFERY W,4,G-Gift,-EI,1875,333543,2,0001207371,Common Stock
+D,12/18/2020 00:00:00,DAVIS ALISON,4,M-Exempt,--D,1090,2000,4,0001203539,Stock Option (right to buy)
+D,12/18/2020 00:00:00,DAVIS ALISON,4,S-Sale,--D,1090,7988,3,0001203539,Common Stock
+A,12/18/2020 00:00:00,DAVIS ALISON,4,M-Exempt,--D,1090,9078,2,0001203539,Common Stock
+D,12/18/2020 00:00:00,DAVIS ALISON,4,S-Sale,--D,983,7988,1,0001203539,Common Stock
+D,12/16/2020 00:00:00,Bisignano Frank,4,G-Gift,-EI,34500,15690,12,0001346629,Common Stock
+D,12/16/2020 00:00:00,Bisignano Frank,4,G-Gift,-ED,86700,2223358,7,0001346629,Common Stock
+D,12/14/2020 00:00:00,New Omaha Holdings L.P.,4,S-Sale,--I,20125000,85300667,1,0001654991,Common Stock
+D,12/14/2020 00:00:00,KKR Group Partnership L.P.,4,S-Sale,--I,20125000,85300667,1,0001472698,Common Stock
+D,12/11/2020 00:00:00,YABUKI JEFFERY W,4,G-Gift,-EI,1740,335418,1,0001207371,Common Stock
+D,12/11/2020 00:00:00,OLEARY DENIS,4,M-Exempt,--D,10904,0,4,0001253512,Stock Option (right to buy)
+D,12/11/2020 00:00:00,OLEARY DENIS,4,M-Exempt,--D,10388,0,3,0001253512,Stock Option (right to buy)
+A,12/11/2020 00:00:00,OLEARY DENIS,4,M-Exempt,--D,10904,65058,2,0001253512,Common Stock
+A,12/11/2020 00:00:00,OLEARY DENIS,4,M-Exempt,--D,10388,54154,1,0001253512,Common Stock
+D,12/11/2020 00:00:00,Chiarello Guy,4,G-Gift,-ED,440,250360,3,0001654667,Common Stock
+D,12/09/2020 00:00:00,Chiarello Guy,4,M-Exempt,--D,20000,419292,4,0001654667,Employee Stock Option (right to buy)
+D,12/09/2020 00:00:00,Chiarello Guy,4,S-Sale,--D,20000,250800,2,0001654667,Common Stock
+A,12/09/2020 00:00:00,Chiarello Guy,4,M-Exempt,--D,20000,270800,1,0001654667,Common Stock
+D,11/30/2020 00:00:00,Bisignano Frank,4,G-Gift,-ED,1744,2310058,6,0001346629,Common Stock
+A,11/23/2020 00:00:00,Bisignano Frank,4,G-Gift,-EI,42373,50190,11,0001346629,Common Stock
+D,11/23/2020 00:00:00,Bisignano Frank,4,G-Gift,-ED,42373,2311802,5,0001346629,Common Stock
+D,11/18/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,5514,177951,3,0001207371,Common Stock
+D,11/18/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,11688,183465,2,0001207371,Common Stock
+D,11/18/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,12798,195153,1,0001207371,Common Stock
+D,11/16/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--I,2200,337158,1,0001207371,Common Stock
+D,11/13/2020 00:00:00,Bisignano Frank,4,G-Gift,-ED,226,2354175,4,0001346629,Common Stock
+D,11/12/2020 00:00:00,Bisignano Frank,4,G-Gift,-ED,3484,2354401,3,0001346629,Common Stock
+D,11/12/2020 00:00:00,Foskett Christopher M,4,S-Sale,--D,14100,102674,1,0001473587,Common Stock
+D,11/11/2020 00:00:00,YABUKI JEFFERY W,4,M-Exempt,--D,50000,162700,4,0001207371,Employee Stock Option (right to buy)
+D,11/11/2020 00:00:00,YABUKI JEFFERY W,4,F-InKind,--D,27586,207951,2,0001207371,Common Stock
+A,11/11/2020 00:00:00,YABUKI JEFFERY W,4,M-Exempt,--D,50000,235537,1,0001207371,Common Stock
+D,11/09/2020 00:00:00,Chiarello Guy,4,M-Exempt,--D,30000,439292,4,0001654667,Employee Stock Option (right to buy)
+D,11/09/2020 00:00:00,Chiarello Guy,4,S-Sale,--D,10000,250800,3,0001654667,Common Stock
+D,11/09/2020 00:00:00,Chiarello Guy,4,S-Sale,--D,20000,260800,2,0001654667,Common Stock
+A,11/09/2020 00:00:00,Chiarello Guy,4,M-Exempt,--D,30000,280800,1,0001654667,Common Stock
+A,11/04/2020 00:00:00,DiSimone Harry,4,P-Purchase,--D,1000,9763,1,0001732108,Common Stock
+D,10/31/2020 00:00:00,McGranahan Devin,4,F-InKind,--D,4581,55035,1,0001684853,Common Stock
+A,10/30/2020 00:00:00,WARREN KEVIN M,4,A-Award,--D,1102,1102,1,0001495787,Common Stock
+D,10/22/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,2850,185537,5,0001207371,Common Stock
+D,10/22/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,4150,188387,4,0001207371,Common Stock
+D,10/22/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,900,192537,3,0001207371,Common Stock
+D,10/21/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,12100,193437,2,0001207371,Common Stock
+D,10/21/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,10000,205537,1,0001207371,Common Stock
+D,10/09/2020 00:00:00,Chiarello Guy,4,M-Exempt,--D,10000,469292,3,0001654667,Employee Stock Option (right to buy)
+D,10/09/2020 00:00:00,Chiarello Guy,4,S-Sale,--D,10000,250800,2,0001654667,Common Stock
+A,10/09/2020 00:00:00,Chiarello Guy,4,M-Exempt,--D,10000,260800,1,0001654667,Common Stock
+D,09/21/2020 00:00:00,Bisignano Frank,4,G-Gift,-ED,9742,2357885,2,0001346629,Common Stock
+D,09/16/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,12100,215537,3,0001207371,Common Stock
+D,09/16/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,16200,227637,2,0001207371,Common Stock
+D,09/16/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,1700,243837,1,0001207371,Common Stock
+D,08/28/2020 00:00:00,Bisignano Frank,4,G-Gift,-ED,4345,2367627,1,0001346629,Common Stock
+D,08/21/2020 00:00:00,KKR Group Partnership L.P.,4,S-Sale,--I,5000000,105425667,1,0001472698,Common Stock
+D,08/21/2020 00:00:00,New Omaha Holdings L.P.,4,S-Sale,--I,5000000,105425667,1,0001654991,Common Stock
+D,08/19/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,2206,245537,4,0001207371,Common Stock
+D,08/19/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,9430,247743,3,0001207371,Common Stock
+D,08/19/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,9900,257173,2,0001207371,Common Stock
+D,08/19/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,8464,267073,1,0001207371,Common Stock
+D,08/15/2020 00:00:00,Foskett Christopher M,4,F-InKind,--D,12876,116774,1,0001473587,Common Stock
+D,08/15/2020 00:00:00,Chiarello Guy,4,F-InKind,--D,30997,250800,3,0001654667,Common Stock
+D,08/15/2020 00:00:00,Bisignano Frank,4,F-InKind,--D,148072,2446397,1,0001346629,Common Stock
+D,07/30/2020 00:00:00,Chiarello Guy,4,G-Gift,-ED,500,281797,2,0001654667,Common Stock
+D,07/29/2020 00:00:00,Bisignano Frank,4,F-InKind,--D,23351,2594469,6,0001346629,Common Stock
+D,07/15/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,1000,275537,4,0001207371,Common Stock
+D,07/15/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,15600,276537,3,0001207371,Common Stock
+D,07/15/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,12500,292137,2,0001207371,Common Stock
+D,07/15/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,900,304637,1,0001207371,Common Stock
+D,06/19/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--I,2500,339358,1,0001207371,Common Stock
+D,06/18/2020 00:00:00,Chiarello Guy,4,S-Sale,--D,10000,282775,1,0001654667,Common Stock
+D,06/17/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,6810,305537,3,0001207371,Common Stock
+D,06/17/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,13970,312347,2,0001207371,Common Stock
+D,06/17/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,9220,326317,1,0001207371,Common Stock
+D,06/16/2020 00:00:00,Foskett Christopher M,4,M-Exempt,--D,22500,25429,4,0001473587,Employee Stock Option (right to buy)
+D,06/16/2020 00:00:00,Foskett Christopher M,4,S-Sale,--D,22500,129650,3,0001473587,Common Stock
+A,06/16/2020 00:00:00,Foskett Christopher M,4,M-Exempt,--D,22500,152150,2,0001473587,Common Stock
+D,06/15/2020 00:00:00,DAVIS ALISON,4,S-Sale,--D,4000,8971,1,0001203539,Common Stock
+D,06/05/2020 00:00:00,Chiarello Guy,4,S-Sale,--D,10000,292775,2,0001654667,Common Stock
+D,06/05/2020 00:00:00,Chiarello Guy,4,S-Sale,--D,10000,302775,1,0001654667,Common Stock
+A,06/03/2020 00:00:00,Bisignano Frank,4,G-Gift,-EI,95,3008,7,0001346629,Common Stock
+D,06/03/2020 00:00:00,Bisignano Frank,4,G-Gift,-ED,285,2617820,5,0001346629,Common Stock
+D,06/03/2020 00:00:00,Best Kenneth,4,M-Exempt,--D,5902,0,5,0001407947,Employee Stock Option (right to buy)
+D,06/03/2020 00:00:00,Best Kenneth,4,M-Exempt,--D,5594,0,4,0001407947,Employee Stock Option (right to buy)
+D,06/03/2020 00:00:00,Best Kenneth,4,S-Sale,--D,11496,32539,3,0001407947,Common Stock
+A,06/03/2020 00:00:00,Best Kenneth,4,M-Exempt,--D,5902,44035,2,0001407947,Common Stock
+A,06/03/2020 00:00:00,Best Kenneth,4,M-Exempt,--D,5594,38133,1,0001407947,Common Stock
+D,06/01/2020 00:00:00,Bisignano Frank,4,G-Gift,-ED,715,2618105,4,0001346629,Common Stock
+D,05/29/2020 00:00:00,Bisignano Frank,4,G-Gift,-ED,3005,2618820,3,0001346629,Common Stock
+D,05/21/2020 00:00:00,McCreary Lynn S.,4,M-Exempt,--D,19496,0,5,0001582646,Employee Stock Option (right to buy)
+D,05/21/2020 00:00:00,McCreary Lynn S.,4,M-Exempt,--D,17560,0,4,0001582646,Employee Stock Option (right to buy)
+D,05/21/2020 00:00:00,McCreary Lynn S.,4,S-Sale,--D,37056,54073,3,0001582646,Common Stock
+A,05/21/2020 00:00:00,McCreary Lynn S.,4,M-Exempt,--D,19496,91129,2,0001582646,Common Stock
+A,05/21/2020 00:00:00,McCreary Lynn S.,4,M-Exempt,--D,17560,71633,1,0001582646,Common Stock
+D,05/20/2020 00:00:00,YABUKI JEFFERY W,4,M-Exempt,--D,270000,212700,9,0001207371,Employee Stock Option (right to buy)
+D,05/20/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,42339,335537,7,0001207371,Common Stock
+D,05/20/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,170670,377876,6,0001207371,Common Stock
+D,05/20/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,56991,548546,5,0001207371,Common Stock
+A,05/20/2020 00:00:00,YABUKI JEFFERY W,4,M-Exempt,--D,270000,605537,4,0001207371,Common Stock
+D,05/20/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,6481,335537,3,0001207371,Common Stock
+D,05/20/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,15005,342018,2,0001207371,Common Stock
+D,05/20/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,8514,357023,1,0001207371,Common Stock
+A,05/14/2020 00:00:00,Simons Doyle,4,A-Award,--D,1934,79039,1,0001185922,Common Stock
+A,05/14/2020 00:00:00,OLEARY DENIS,4,A-Award,--D,2690,43766,1,0001253512,Common Stock
+A,05/14/2020 00:00:00,NUTTALL SCOTT C,4,A-Award,--D,1934,24659,1,0001207606,Common Stock
+A,05/14/2020 00:00:00,MILLER HEIDI,4,A-Award,--D,1934,19129,1,0001199930,Common Stock
+A,05/14/2020 00:00:00,Lynch Dennis,4,A-Award,--D,1934,20331,1,0001425470,Common Stock
+A,05/14/2020 00:00:00,DiSimone Harry,4,A-Award,--D,1934,8763,1,0001732108,Common Stock
+A,05/14/2020 00:00:00,DE CASTRO HENRIQUE,4,A-Award,--D,1934,8656,1,0001562331,Common Stock
+A,05/14/2020 00:00:00,DAVIS ALISON,4,A-Award,--D,1934,12971,1,0001203539,Common Stock
+D,05/06/2020 00:00:00,Chiarello Guy,4,G-Gift,-ED,478,282297,1,0001654667,Common Stock
+D,05/05/2020 00:00:00,Foskett Christopher M,4,G-Gift,-ED,775,129650,1,0001473587,Common Stock
+D,04/17/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,10000,365537,1,0001207371,Common Stock
+D,04/15/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,1692,375537,3,0001207371,Common Stock
+D,04/15/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,8308,377229,2,0001207371,Common Stock
+D,04/15/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,10000,385537,1,0001207371,Common Stock
+D,04/01/2020 00:00:00,Bisignano Frank,4,G-Gift,-ED,16712,2583540,2,0001346629,Common Stock
+A,03/31/2020 00:00:00,Simons Doyle,4,A-Award,--D,245,39841,1,0001185922,Deferred Compensation Notional Units
+A,03/31/2020 00:00:00,OLEARY DENIS,4,A-Award,--D,311,37927,1,0001253512,Deferred Compensation Notional Units
+A,03/31/2020 00:00:00,NUTTALL SCOTT C,4,A-Award,--D,272,495,1,0001207606,Deferred Compensation Notional Units
+A,03/31/2020 00:00:00,MILLER HEIDI,4,A-Award,--D,245,447,1,0001199930,Deferred Compensation Notional Units
+A,03/31/2020 00:00:00,DiSimone Harry,4,A-Award,--D,245,1721,1,0001732108,Deferred Compensation Notional Units
+A,03/31/2020 00:00:00,DE CASTRO HENRIQUE,4,A-Award,--D,245,447,1,0001562331,Deferred Compensation Notional Units
+D,03/26/2020 00:00:00,Bisignano Frank,4,G-Gift,-ED,6055,2600252,1,0001346629,Common Stock
+D,03/18/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,400,395537,10,0001207371,Common Stock
+D,03/18/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,2455,395937,9,0001207371,Common Stock
+D,03/18/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,1400,398392,8,0001207371,Common Stock
+D,03/18/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,800,399792,7,0001207371,Common Stock
+D,03/18/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,1100,400592,6,0001207371,Common Stock
+D,03/18/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,1645,401692,5,0001207371,Common Stock
+D,03/18/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,4200,403337,4,0001207371,Common Stock
+D,03/18/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,4500,407537,3,0001207371,Common Stock
+D,03/18/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,2100,412037,2,0001207371,Common Stock
+D,03/18/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,1400,414137,1,0001207371,Common Stock
+D,03/14/2020 00:00:00,Hau Robert W.,4,F-InKind,--D,11940,75182,1,0001473856,Common Stock
+A,02/26/2020 00:00:00,YABUKI JEFFERY W,4,A-Award,--D,168644,168644,3,0001207371,Employee Stock Option (right to buy)
+A,02/26/2020 00:00:00,YABUKI JEFFERY W,4,A-Award,--D,52415,415537,1,0001207371,Common Stock
+A,02/26/2020 00:00:00,VIELEHR BYRON C,4,A-Award,--D,54162,54162,1,0001331429,Employee Stock Option (right to buy)
+A,02/26/2020 00:00:00,McGranahan Devin,4,A-Award,--D,85519,85519,3,0001684853,Employee Stock Option (right to buy)
+A,02/26/2020 00:00:00,McGranahan Devin,4,A-Award,--D,40622,40622,2,0001684853,Employee Stock Option (right to buy)
+A,02/26/2020 00:00:00,McGranahan Devin,4,A-Award,--D,4209,59616,1,0001684853,Common Stock
+A,02/26/2020 00:00:00,McCreary Lynn S.,4,A-Award,--D,17104,17104,2,0001582646,Employee Stock Option (right to buy)
+A,02/26/2020 00:00:00,McCreary Lynn S.,4,A-Award,--D,5316,54073,1,0001582646,Common Stock
+A,02/26/2020 00:00:00,Hau Robert W.,4,A-Award,--D,71266,71266,1,0001473856,Employee Stock Option (right to buy)
+A,02/26/2020 00:00:00,Foskett Christopher M,4,A-Award,--D,21505,21505,2,0001473587,Employee Stock Option (right to buy)
+A,02/26/2020 00:00:00,Foskett Christopher M,4,A-Award,--D,6684,130425,1,0001473587,Common Stock
+A,02/26/2020 00:00:00,Chiarello Guy,4,A-Award,--D,71266,71266,2,0001654667,Employee Stock Option (right to buy)
+A,02/26/2020 00:00:00,Chiarello Guy,4,A-Award,--D,22150,312775,1,0001654667,Common Stock
+A,02/26/2020 00:00:00,Bisignano Frank,4,A-Award,--D,159636,159636,7,0001346629,Employee Stock Option (right to buy)
+A,02/26/2020 00:00:00,Bisignano Frank,4,A-Award,--D,49615,2606307,1,0001346629,Common Stock
+A,02/26/2020 00:00:00,Best Kenneth,4,A-Award,--D,4276,4276,3,0001407947,Employee Stock Option (right to buy)
+A,02/26/2020 00:00:00,Best Kenneth,4,A-Award,--D,443,32539,2,0001407947,Common Stock
+A,02/26/2020 00:00:00,Best Kenneth,4,A-Award,--D,1329,32096,1,0001407947,Common Stock
+D,02/25/2020 00:00:00,VIELEHR BYRON C,4,F-InKind,--D,4598,38792,1,0001331429,Common Stock
+D,02/25/2020 00:00:00,McGranahan Devin,4,F-InKind,--D,4244,55407,1,0001684853,Common Stock
+D,02/25/2020 00:00:00,McCreary Lynn S.,4,F-InKind,--D,1841,48757,1,0001582646,Common Stock
+D,02/25/2020 00:00:00,Hau Robert W.,4,F-InKind,--D,6438,87122,1,0001473856,Common Stock
+D,02/25/2020 00:00:00,Best Kenneth,4,F-InKind,--D,306,30767,1,0001407947,Common Stock
+D,02/22/2020 00:00:00,YABUKI JEFFERY W,4,F-InKind,--D,12458,363122,2,0001207371,Common Stock
+D,02/22/2020 00:00:00,VIELEHR BYRON C,4,F-InKind,--D,937,43390,1,0001331429,Common Stock
+D,02/22/2020 00:00:00,McCreary Lynn S.,4,F-InKind,--D,516,50598,2,0001582646,Common Stock
+D,02/22/2020 00:00:00,Hau Robert W.,4,F-InKind,--D,2203,93560,2,0001473856,Common Stock
+D,02/22/2020 00:00:00,Best Kenneth,4,F-InKind,--D,160,31073,2,0001407947,Common Stock
+D,02/21/2020 00:00:00,YABUKI JEFFERY W,4,F-InKind,--D,8966,375580,1,0001207371,Common Stock
+D,02/21/2020 00:00:00,McCreary Lynn S.,4,F-InKind,--D,458,51114,1,0001582646,Common Stock
+D,02/21/2020 00:00:00,Hau Robert W.,4,F-InKind,--D,1778,95763,1,0001473856,Common Stock
+D,02/21/2020 00:00:00,Best Kenneth,4,F-InKind,--D,230,31233,1,0001407947,Common Stock
+D,02/20/2020 00:00:00,Foskett Christopher M,4,F-InKind,--D,5850,123741,1,0001473587,Common Stock
+D,02/20/2020 00:00:00,Chiarello Guy,4,F-InKind,--D,15891,290625,1,0001654667,Common Stock
+D,02/20/2020 00:00:00,Bisignano Frank,4,F-InKind,--D,27672,2556692,1,0001346629,Common Stock
+D,02/19/2020 00:00:00,YABUKI JEFFERY W,4,F-InKind,--D,8687,384546,3,0001207371,Common Stock
+D,02/19/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,5000,393233,2,0001207371,Common Stock
+D,02/19/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,20000,398233,1,0001207371,Common Stock
+D,02/19/2020 00:00:00,VIELEHR BYRON C,4,F-InKind,--D,1353,44327,1,0001331429,Common Stock
+D,02/19/2020 00:00:00,McCreary Lynn S.,4,F-InKind,--D,693,51572,1,0001582646,Common Stock
+D,02/19/2020 00:00:00,Best Kenneth,4,F-InKind,--D,166,31463,1,0001407947,Common Stock
+D,02/15/2020 00:00:00,Chiarello Guy,4,F-InKind,--D,19587,306516,1,0001654667,Common Stock
+D,02/15/2020 00:00:00,Foskett Christopher M,4,F-InKind,--D,6405,129591,1,0001473587,Common Stock
+D,02/15/2020 00:00:00,Bisignano Frank,4,F-InKind,--D,50095,2584364,1,0001346629,Common Stock
+D,02/10/2020 00:00:00,Simons Doyle,4,M-Exempt,--D,13728,0,3,0001185922,Stock Option (right to buy)
+D,02/10/2020 00:00:00,Simons Doyle,4,S-Sale,--D,13728,77105,2,0001185922,Common Stock
+A,02/10/2020 00:00:00,Simons Doyle,4,M-Exempt,--D,13728,90833,1,0001185922,Common Stock
+D,01/29/2020 00:00:00,Best Kenneth,4,F-InKind,--D,891,31629,1,0001407947,Common Stock
+D,01/15/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,6200,418233,3,0001207371,Common Stock
+D,01/15/2020 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,18800,424433,2,0001207371,Common Stock
+D,12/31/2019 00:00:00,Bisignano Frank,4,F-InKind,--D,23368,2634459,4,0001346629,Common Stock
+A,12/31/2019 00:00:00,DE CASTRO HENRIQUE,4,A-Award,--D,202,202,1,0001562331,Deferred Compensation Notional Units
+A,12/31/2019 00:00:00,MILLER HEIDI,4,A-Award,--D,202,202,1,0001199930,Deferred Compensation Notional Units
+A,12/31/2019 00:00:00,Simons Doyle,4,A-Award,--D,202,39596,1,0001185922,Deferred Compensation Notional Units
+A,12/31/2019 00:00:00,OLEARY DENIS,4,A-Award,--D,256,37616,1,0001253512,Deferred Compensation Notional Units
+A,12/31/2019 00:00:00,DiSimone Harry,4,A-Award,--D,202,1476,1,0001732108,Deferred Compensation Notional Units
+A,12/31/2019 00:00:00,NUTTALL SCOTT C,4,A-Award,--D,223,223,1,0001207606,Deferred Compensation Notional Units
+D,12/31/2019 00:00:00,McCreary Lynn S.,4,F-InKind,--D,99,52265,1,0001582646,Common Stock
+D,12/31/2019 00:00:00,Best Kenneth,4,F-InKind,--D,24,32470,1,0001407947,Common Stock
+D,12/31/2019 00:00:00,VIELEHR BYRON C,4,F-InKind,--D,247,45680,1,0001331429,Common Stock
+D,12/31/2019 00:00:00,McGranahan Devin,4,F-InKind,--D,247,59651,1,0001684853,Common Stock
+D,12/31/2019 00:00:00,Hau Robert W.,4,F-InKind,--D,346,97541,1,0001473856,Common Stock
+D,12/23/2019 00:00:00,YABUKI JEFFERY W,4,G-Gift,-ED,257,443233,1,0001207371,Common Stock
+D,12/19/2019 00:00:00,Bisignano Frank,4,G-Gift,-ED,215,2657827,3,0001346629,Common Stock
+D,12/19/2019 00:00:00,YABUKI JEFFERY W,4,G-Gift,-EI,2222,341858,3,0001207371,Common Stock
+D,12/18/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,200,443490,2,0001207371,Common Stock
+D,12/18/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,24800,443690,1,0001207371,Common Stock
+D,12/13/2019 00:00:00,Bisignano Frank,4,G-Gift,-ED,7788,2658042,2,0001346629,Common Stock
+D,12/13/2019 00:00:00,McGranahan Devin,4,S-Sale,--D,3100,59898,2,0001684853,Common Stock
+D,12/13/2019 00:00:00,McGranahan Devin,4,S-Sale,--D,400,62998,1,0001684853,Common Stock
+D,12/10/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,45000,468490,3,0001207371,Common Stock
+D,12/09/2019 00:00:00,YABUKI JEFFERY W,4,M-Exempt,--D,658380,0,5,0001207371,Employee Stock Option (right to buy)
+D,12/09/2019 00:00:00,YABUKI JEFFERY W,4,F-InKind,--D,356319,513490,2,0001207371,Common Stock
+A,12/09/2019 00:00:00,YABUKI JEFFERY W,4,M-Exempt,--D,658380,869809,1,0001207371,Common Stock
+D,11/27/2019 00:00:00,Chiarello Guy,4,S-Sale,--D,30000,326103,1,0001654667,Common Stock
+D,11/20/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,11910,211429,2,0001207371,Common Stock
+D,11/20/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,13090,223339,1,0001207371,Common Stock
+A,11/20/2019 00:00:00,DiSimone Harry,4,P-Purchase,--D,900,6829,2,0001732108,Common Stock
+D,11/19/2019 00:00:00,Bisignano Frank,4,G-Gift,-ED,1405,2665830,1,0001346629,Common Stock
+A,11/19/2019 00:00:00,OLEARY DENIS,4,A-Award,--D,647,41076,1,0001253512,Common Stock
+A,11/18/2019 00:00:00,DiSimone Harry,4,P-Purchase,--D,100,5929,1,0001732108,Common Stock
+D,11/13/2019 00:00:00,McCreary Lynn S.,4,M-Exempt,--D,18000,0,3,0001582646,Employee Stock Option (right to buy)
+D,11/13/2019 00:00:00,McCreary Lynn S.,4,S-Sale,--D,18000,52364,2,0001582646,Common Stock
+A,11/13/2019 00:00:00,McCreary Lynn S.,4,M-Exempt,--D,18000,70364,1,0001582646,Common Stock
+D,10/31/2019 00:00:00,McGranahan Devin,4,F-InKind,--D,4424,63398,1,0001684853,Common Stock
+D,10/16/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,21400,236429,2,0001207371,Common Stock
+D,10/16/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,3600,257829,1,0001207371,Common Stock
+A,09/30/2019 00:00:00,DiSimone Harry,4,A-Award,--D,225,1274,1,0001732108,Deferred Compensation Notional Units
+A,09/30/2019 00:00:00,OLEARY DENIS,4,A-Award,--D,285,37360,1,0001253512,Deferred Compensation Notional Units
+A,09/30/2019 00:00:00,Simons Doyle,4,A-Award,--D,233,39394,1,0001185922,Deferred Compensation Notional Units
+D,09/18/2019 00:00:00,YABUKI JEFFERY W,4,G-Gift,-EI,970,344080,3,0001207371,Common Stock
+D,09/18/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,9800,261429,2,0001207371,Common Stock
+D,09/18/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,15200,271229,1,0001207371,Common Stock
+D,09/09/2019 00:00:00,Foskett Christopher M,4,F-InKind,--D,4252,135996,1,0001473587,Common Stock
+D,09/09/2019 00:00:00,Bisignano Frank,4,F-InKind,--D,46845,2667235,2,0001346629,Common Stock
+D,09/09/2019 00:00:00,Chiarello Guy,4,F-InKind,--D,16344,356103,1,0001654667,Common Stock
+A,09/04/2019 00:00:00,Bisignano Frank,4,G-Gift,-EI,190,2913,3,0001346629,Common Stock
+D,09/04/2019 00:00:00,Bisignano Frank,4,G-Gift,-ED,4605,2714080,1,0001346629,Common Stock
+D,09/04/2019 00:00:00,Foskett Christopher M,4,S-Sale,--D,5000,140248,1,0001473587,Common Stock
+D,08/29/2019 00:00:00,Chiarello Guy,4,S-Sale,--D,46000,372447,1,0001654667,Common Stock
+D,08/21/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,5000,286429,2,0001207371,Common Stock
+D,08/21/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,20000,291429,1,0001207371,Common Stock
+D,08/15/2019 00:00:00,Foskett Christopher M,4,F-InKind,--D,12901,145248,1,0001473587,Common Stock
+D,08/15/2019 00:00:00,Chiarello Guy,4,F-InKind,--D,29846,418447,1,0001654667,Common Stock
+D,08/15/2019 00:00:00,Bisignano Frank,4,F-InKind,--D,147727,2718685,3,0001346629,Common Stock
+D,08/06/2019 00:00:00,Bisignano Frank,4,G-Gift,-ED,144,2866412,2,0001346629,Common Stock
+D,08/05/2019 00:00:00,Bisignano Frank,4,G-Gift,-ED,3932,2866556,1,0001346629,Common Stock
+A,07/29/2019 00:00:00,Foskett Christopher M,4,A-Award,--D,16684,16684,6,0001473587,Employee Stock Option (right to buy)
+A,07/29/2019 00:00:00,Foskett Christopher M,4,A-Award,--D,15976,15976,5,0001473587,Employee Stock Option (right to buy)
+A,07/29/2019 00:00:00,Foskett Christopher M,4,A-Award,--D,7988,7988,4,0001473587,Employee Stock Option (right to buy)
+A,07/29/2019 00:00:00,Foskett Christopher M,4,A-Award,--D,47929,47929,3,0001473587,Employee Stock Option (right to buy)
+D,07/29/2019 00:00:00,Foskett Christopher M,4,F-InKind,--D,4252,158149,2,0001473587,Common Stock
+A,07/29/2019 00:00:00,Foskett Christopher M,4,A-Award,--D,162401,162401,1,0001473587,Common Stock
+A,07/29/2019 00:00:00,Chiarello Guy,4,A-Award,--D,61802,61802,8,0001654667,Employee Stock Option (right to buy)
+A,07/29/2019 00:00:00,Chiarello Guy,4,A-Award,--D,159764,159764,7,0001654667,Employee Stock Option (right to buy)
+A,07/29/2019 00:00:00,Chiarello Guy,4,A-Award,--D,79882,79882,6,0001654667,Employee Stock Option (right to buy)
+A,07/29/2019 00:00:00,Chiarello Guy,4,A-Award,--D,47929,47929,5,0001654667,Employee Stock Option (right to buy)
+A,07/29/2019 00:00:00,Chiarello Guy,4,A-Award,--D,41937,41937,4,0001654667,Employee Stock Option (right to buy)
+A,07/29/2019 00:00:00,Chiarello Guy,4,A-Award,--D,479292,479292,3,0001654667,Employee Stock Option (right to buy)
+D,07/29/2019 00:00:00,Chiarello Guy,4,F-InKind,--D,15737,448293,2,0001654667,Common Stock
+A,07/29/2019 00:00:00,Chiarello Guy,4,A-Award,--D,464030,464030,1,0001654667,Common Stock
+A,07/29/2019 00:00:00,NUTTALL SCOTT C,4,A-Award,--I,7575,7575,2,0001207606,Common Stock
+A,07/29/2019 00:00:00,NUTTALL SCOTT C,4,A-Award,--D,22725,22725,1,0001207606,Common Stock
+A,07/29/2019 00:00:00,MILLER HEIDI,4,A-Award,--D,47929,47929,3,0001199930,Stock Option (right to buy)
+A,07/29/2019 00:00:00,MILLER HEIDI,4,A-Award,--I,3030,3030,2,0001199930,Common Stock
+A,07/29/2019 00:00:00,MILLER HEIDI,4,A-Award,--D,17195,17195,1,0001199930,Common Stock
+A,07/29/2019 00:00:00,DE CASTRO HENRIQUE,4,A-Award,--D,6564,6722,1,0001562331,Common Stock
+A,07/29/2019 00:00:00,Bisignano Frank,4,A-Award,--D,126427,126427,13,0001346629,Employee Stock Option (right to buy)
+A,07/29/2019 00:00:00,Bisignano Frank,4,A-Award,--D,447339,447339,12,0001346629,Employee Stock Option (right to buy)
+A,07/29/2019 00:00:00,Bisignano Frank,4,A-Award,--D,223669,223669,11,0001346629,Employee Stock Option (right to buy)
+A,07/29/2019 00:00:00,Bisignano Frank,4,A-Award,--D,109278,109278,10,0001346629,Employee Stock Option (right to buy)
+A,07/29/2019 00:00:00,Bisignano Frank,4,A-Award,--D,71893,71893,9,0001346629,Employee Stock Option (right to buy)
+A,07/29/2019 00:00:00,Bisignano Frank,4,A-Award,--D,2519708,2519708,8,0001346629,Employee Stock Option (right to buy)
+A,07/29/2019 00:00:00,Bisignano Frank,4,A-Award,--I,4602,4602,7,0001346629,Common Stock
+A,07/29/2019 00:00:00,Bisignano Frank,4,A-Award,--I,7817,7817,6,0001346629,Common Stock
+A,07/29/2019 00:00:00,Bisignano Frank,4,A-Award,--I,575,575,5,0001346629,Common Stock
+A,07/29/2019 00:00:00,Bisignano Frank,4,A-Award,--I,83160,83160,4,0001346629,Common Stock
+A,07/29/2019 00:00:00,Bisignano Frank,4,A-Award,--I,31838,31838,3,0001346629,Common Stock
+A,07/29/2019 00:00:00,Bisignano Frank,4,A-Award,--D,143349,2870488,2,0001346629,Common Stock
+A,07/29/2019 00:00:00,Bisignano Frank,4,A-Award,--D,2727139,2727139,1,0001346629,Common Stock
+A,07/29/2019 00:00:00,Schultz Kevin J,4,A-Award,--D,534,15845,2,0001341409,Common Stock
+A,07/29/2019 00:00:00,Schultz Kevin J,4,A-Award,--D,6327,15311,1,0001341409,Common Stock
+A,07/29/2019 00:00:00,VIELEHR BYRON C,4,A-Award,--D,10544,45927,1,0001331429,Common Stock
+A,07/29/2019 00:00:00,McGranahan Devin,4,A-Award,--D,10544,67822,1,0001684853,Common Stock
+A,07/29/2019 00:00:00,McCreary Lynn S.,4,A-Award,--D,4220,52364,1,0001582646,Common Stock
+A,07/29/2019 00:00:00,Hau Robert W.,4,A-Award,--D,14763,97887,1,0001473856,Common Stock
+A,07/29/2019 00:00:00,Best Kenneth,4,A-Award,--D,1056,32442,1,0001407947,Common Stock
+D,07/26/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,2900,311429,3,0001207371,Common Stock
+D,07/26/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,16300,314329,2,0001207371,Common Stock
+D,07/26/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,800,330629,1,0001207371,Common Stock
+D,07/17/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,20000,331429,1,0001207371,Common Stock
+A,06/30/2019 00:00:00,RENWICK GLENN M,4,A-Award,--D,612,46435,1,0001198119,Deferred Compensation Notional Units
+A,06/30/2019 00:00:00,DiSimone Harry,4,A-Award,--D,256,1049,1,0001732108,Deferred Compensation Notional Units
+A,06/30/2019 00:00:00,Simons Doyle,4,A-Award,--D,283,39161,1,0001185922,Deferred Compensation Notional Units
+A,06/30/2019 00:00:00,Kim John Y,4,A-Award,--D,256,3945,1,0001547987,Deferred Compensation Notional Units
+A,06/30/2019 00:00:00,OLEARY DENIS,4,A-Award,--D,324,37075,1,0001253512,Deferred Compensation Notional Units
+D,06/19/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,3500,351429,2,0001207371,Common Stock
+D,06/19/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,16500,354929,1,0001207371,Common Stock
+A,05/22/2019 00:00:00,DiSimone Harry,4,A-Award,--D,2143,5829,1,0001732108,Common Stock
+A,05/22/2019 00:00:00,OLEARY DENIS,4,A-Award,--D,2143,40429,1,0001253512,Common Stock
+A,05/22/2019 00:00:00,RENWICK GLENN M,4,A-Award,--D,2143,194913,1,0001198119,Common Stock
+A,05/22/2019 00:00:00,DAVIS ALISON,4,A-Award,--D,2143,11037,1,0001203539,Common Stock
+A,05/22/2019 00:00:00,Sherman J Donald,4,A-Award,--D,2143,12793,1,0001344702,Common Stock
+A,05/22/2019 00:00:00,Lynch Dennis,4,A-Award,--D,2143,18397,1,0001425470,Common Stock
+A,05/22/2019 00:00:00,Simons Doyle,4,A-Award,--D,2143,77105,1,0001185922,Common Stock
+A,05/22/2019 00:00:00,Kim John Y,4,A-Award,--D,2143,7547,1,0001547987,Common Stock
+A,05/22/2019 00:00:00,ROBAK KIM M,4,A-Award,--D,2143,76849,1,0001264141,Common Stock
+D,05/21/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--I,2000,345050,2,0001207371,Common Stock
+D,05/21/2019 00:00:00,YABUKI JEFFERY W,4,G-Gift,-EI,3300,347050,1,0001207371,Common Stock
+D,05/15/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,18000,371429,2,0001207371,Common Stock
+D,05/15/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,2000,389429,1,0001207371,Common Stock
+D,05/09/2019 00:00:00,Simons Doyle,4,M-Exempt,--D,15316,0,2,0001185922,Stock Option (right to buy)
+A,05/09/2019 00:00:00,Simons Doyle,4,M-Exempt,--D,15316,74962,1,0001185922,Common Stock
+D,05/06/2019 00:00:00,RENWICK GLENN M,4,M-Exempt,--D,15316,0,2,0001198119,Stock Option (right to buy)
+A,05/06/2019 00:00:00,RENWICK GLENN M,4,M-Exempt,--D,15316,192770,1,0001198119,Common Stock
+D,04/17/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,20000,391146,1,0001207371,Common Stock
+A,03/31/2019 00:00:00,RENWICK GLENN M,4,A-Award,--D,632,45823,1,0001198119,Deferred Compensation Notional Units
+A,03/31/2019 00:00:00,DiSimone Harry,4,A-Award,--D,264,793,1,0001732108,Deferred Compensation Notional Units
+A,03/31/2019 00:00:00,Simons Doyle,4,A-Award,--D,292,38878,1,0001185922,Deferred Compensation Notional Units
+A,03/31/2019 00:00:00,Kim John Y,4,A-Award,--D,264,3689,1,0001547987,Deferred Compensation Notional Units
+A,03/31/2019 00:00:00,OLEARY DENIS,4,A-Award,--D,335,36751,1,0001253512,Deferred Compensation Notional Units
+D,03/20/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,24995,411146,2,0001207371,Common Stock
+D,03/20/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,25005,436141,1,0001207371,Common Stock
+D,03/15/2019 00:00:00,ROBAK KIM M,4,M-Exempt,--D,10904,0,3,0001264141,Stock Option (right to buy)
+D,03/15/2019 00:00:00,ROBAK KIM M,4,S-Sale,--D,10904,74706,2,0001264141,Common Stock
+A,03/15/2019 00:00:00,ROBAK KIM M,4,M-Exempt,--D,10904,85610,1,0001264141,Common Stock
+D,03/14/2019 00:00:00,Hau Robert W.,4,F-InKind,--D,11940,82841,1,0001473856,Common Stock
+D,02/28/2019 00:00:00,OLEARY DENIS,4,M-Exempt,--D,13728,0,3,0001253512,Stock Option (right to buy)
+D,02/28/2019 00:00:00,OLEARY DENIS,4,S-Sale,--D,13728,38286,2,0001253512,Common Stock
+A,02/28/2019 00:00:00,OLEARY DENIS,4,M-Exempt,--D,13728,52014,1,0001253512,Common Stock
+D,02/27/2019 00:00:00,Best Kenneth,4,M-Exempt,--D,6132,0,5,0001407947,Employee Stock Option (right to buy)
+D,02/27/2019 00:00:00,Best Kenneth,4,M-Exempt,--D,7148,0,4,0001407947,Employee Stock Option (right to buy)
+D,02/27/2019 00:00:00,Best Kenneth,4,S-Sale,--D,13280,31216,3,0001407947,Common Stock
+A,02/27/2019 00:00:00,Best Kenneth,4,M-Exempt,--D,6132,44496,2,0001407947,Common Stock
+A,02/27/2019 00:00:00,Best Kenneth,4,M-Exempt,--D,7148,38364,1,0001407947,Common Stock
+D,02/22/2019 00:00:00,Best Kenneth,4,F-InKind,--D,160,31216,1,0001407947,Common Stock
+D,02/22/2019 00:00:00,Hau Robert W.,4,F-InKind,--D,1528,94781,1,0001473856,Common Stock
+D,02/22/2019 00:00:00,McCreary Lynn S.,4,F-InKind,--D,516,47861,1,0001582646,Common Stock
+D,02/22/2019 00:00:00,Schultz Kevin J,4,F-InKind,--D,376,8701,1,0001341409,Common Stock
+D,02/22/2019 00:00:00,VIELEHR BYRON C,4,F-InKind,--D,1377,35100,1,0001331429,Common Stock
+D,02/22/2019 00:00:00,YABUKI JEFFERY W,4,F-InKind,--D,12457,461146,1,0001207371,Common Stock
+A,02/20/2019 00:00:00,Schultz Kevin J,4,A-Award,--D,28140,28140,1,0001341409,Employee Stock Option (right to buy)
+A,02/20/2019 00:00:00,McGranahan Devin,4,A-Award,--D,52762,52762,2,0001684853,Employee Stock Option (right to buy)
+A,02/20/2019 00:00:00,McGranahan Devin,4,A-Award,--D,5902,56995,1,0001684853,Common Stock
+A,02/20/2019 00:00:00,VIELEHR BYRON C,4,A-Award,--D,70349,70349,1,0001331429,Employee Stock Option (right to buy)
+A,02/20/2019 00:00:00,Hau Robert W.,4,A-Award,--D,43968,43968,2,0001473856,Employee Stock Option (right to buy)
+A,02/20/2019 00:00:00,Hau Robert W.,4,A-Award,--D,14753,96309,1,0001473856,Common Stock
+A,02/20/2019 00:00:00,McCreary Lynn S.,4,A-Award,--D,17588,17588,2,0001582646,Employee Stock Option (right to buy)
+A,02/20/2019 00:00:00,McCreary Lynn S.,4,A-Award,--D,5902,48377,1,0001582646,Common Stock
+A,02/20/2019 00:00:00,Best Kenneth,4,A-Award,--D,5277,5277,2,0001407947,Employee Stock Option (right to buy)
+A,02/20/2019 00:00:00,Best Kenneth,4,A-Award,--D,1771,31376,1,0001407947,Common Stock
+A,02/20/2019 00:00:00,YABUKI JEFFERY W,4,A-Award,--D,290187,290187,3,0001207371,Employee Stock Option (right to buy)
+A,02/20/2019 00:00:00,YABUKI JEFFERY W,4,A-Award,--D,32457,473603,1,0001207371,Common Stock
+D,02/20/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,50000,441146,4,0001207371,Common Stock
+D,02/19/2019 00:00:00,Best Kenneth,4,F-InKind,--D,166,29605,1,0001407947,Common Stock
+D,02/19/2019 00:00:00,Schultz Kevin J,4,F-InKind,--D,276,9077,1,0001341409,Common Stock
+D,02/19/2019 00:00:00,VIELEHR BYRON C,4,F-InKind,--D,1945,36477,1,0001331429,Common Stock
+D,02/19/2019 00:00:00,McCreary Lynn S.,4,F-InKind,--D,663,42475,1,0001582646,Common Stock
+D,02/19/2019 00:00:00,YABUKI JEFFERY W,4,F-InKind,--D,44371,491146,3,0001207371,Common Stock
+A,02/19/2019 00:00:00,YABUKI JEFFERY W,4,A-Award,--D,94405,535517,2,0001207371,Common Stock
+D,02/19/2019 00:00:00,YABUKI JEFFERY W,4,F-InKind,--D,8689,441112,1,0001207371,Common Stock
+D,02/18/2019 00:00:00,McCreary Lynn S.,4,F-InKind,--D,1054,43138,1,0001582646,Common Stock
+D,02/18/2019 00:00:00,YABUKI JEFFERY W,4,F-InKind,--D,5107,449801,1,0001207371,Common Stock
+D,02/18/2019 00:00:00,Best Kenneth,4,F-InKind,--D,203,29771,1,0001407947,Common Stock
+D,01/29/2019 00:00:00,Best Kenneth,4,F-InKind,--D,908,29974,1,0001407947,Common Stock
+D,01/24/2019 00:00:00,YABUKI JEFFERY W,4,M-Exempt,--D,502652,0,4,0001207371,Employee Stock Option (right to buy)
+D,01/24/2019 00:00:00,YABUKI JEFFERY W,4,F-InKind,--D,274958,454908,2,0001207371,Common Stock
+A,01/24/2019 00:00:00,YABUKI JEFFERY W,4,M-Exempt,--D,502652,729866,1,0001207371,Common Stock
+D,01/16/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,25877,227214,4,0001207371,Common Stock
+D,01/16/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,9723,253091,3,0001207371,Common Stock
+D,01/16/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,10500,262814,2,0001207371,Common Stock
+D,01/16/2019 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,3900,273314,1,0001207371,Common Stock
+A,12/31/2018 00:00:00,OLEARY DENIS,4,A-Award,--D,402,36416,1,0001253512,Deferred Compensation Notional Units
+A,12/31/2018 00:00:00,RENWICK GLENN M,4,A-Award,--D,759,45191,1,0001198119,Deferred Compensation Notional Units
+A,12/31/2018 00:00:00,DiSimone Harry,4,A-Award,--D,159,529,1,0001732108,Deferred Compensation Notional Units
+A,12/31/2018 00:00:00,Simons Doyle,4,A-Award,--D,351,38586,1,0001185922,Deferred Compensation Notional Units
+A,12/31/2018 00:00:00,Kim John Y,4,A-Award,--D,317,3425,1,0001547987,Deferred Compensation Notional Units
+D,12/19/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,28000,277214,3,0001207371,Common Stock
+D,12/19/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,14800,305214,2,0001207371,Common Stock
+D,12/19/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,7200,320014,1,0001207371,Common Stock
+A,11/26/2018 00:00:00,YABUKI JEFFERY W,4,G-Gift,-EI,113922,350350,4,0001207371,Common Stock
+D,11/26/2018 00:00:00,YABUKI JEFFERY W,4,G-Gift,-ED,113922,327214,3,0001207371,Common Stock
+D,11/21/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,30021,441136,2,0001207371,Common Stock
+D,11/21/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,19979,471157,1,0001207371,Common Stock
+D,11/12/2018 00:00:00,Schultz Kevin J,4,F-InKind,--D,2861,9353,1,0001341409,Common Stock
+D,11/12/2018 00:00:00,YABUKI JEFFERY W,4,M-Exempt,--D,275000,502652,4,0001207371,Employee Stock Option (right to buy)
+D,11/12/2018 00:00:00,YABUKI JEFFERY W,4,F-InKind,--D,151244,491136,2,0001207371,Common Stock
+A,11/12/2018 00:00:00,YABUKI JEFFERY W,4,M-Exempt,--D,275000,642380,1,0001207371,Common Stock
+D,10/17/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,50000,367380,1,0001207371,Common Stock
+A,09/30/2018 00:00:00,DiSimone Harry,4,A-Award,--D,142,370,1,0001732108,Deferred Compensation Notional Units
+A,09/30/2018 00:00:00,Simons Doyle,4,A-Award,--D,313,38235,1,0001185922,Deferred Compensation Notional Units
+A,09/30/2018 00:00:00,RENWICK GLENN M,4,A-Award,--D,677,44432,1,0001198119,Deferred Compensation Notional Units
+A,09/30/2018 00:00:00,OLEARY DENIS,4,A-Award,--D,359,36014,1,0001253512,Deferred Compensation Notional Units
+A,09/30/2018 00:00:00,Kim John Y,4,A-Award,--D,283,3108,1,0001547987,Deferred Compensation Notional Units
+D,09/19/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,1000,417380,2,0001207371,Common Stock
+D,09/19/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,49000,418380,1,0001207371,Common Stock
+D,08/15/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,50000,467380,1,0001207371,Common Stock
+D,07/18/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,50000,517380,1,0001207371,Common Stock
+A,06/30/2018 00:00:00,DiSimone Harry,4,A-Award,--D,157,228,1,0001732108,Deferred Compensation Notional Units
+A,06/30/2018 00:00:00,Simons Doyle,4,A-Award,--D,348,37922,1,0001185922,Deferred Compensation Notional Units
+A,06/30/2018 00:00:00,RENWICK GLENN M,4,A-Award,--D,753,43755,1,0001198119,Deferred Compensation Notional Units
+A,06/30/2018 00:00:00,OLEARY DENIS,4,A-Award,--D,399,35655,1,0001253512,Deferred Compensation Notional Units
+A,06/30/2018 00:00:00,Kim John Y,4,A-Award,--D,314,2825,1,0001547987,Deferred Compensation Notional Units
+D,06/20/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,50000,567380,1,0001207371,Common Stock
+D,05/30/2018 00:00:00,ROBAK KIM M,4,M-Exempt,--D,10388,0,3,0001264141,Stock Option (right to buy)
+D,05/30/2018 00:00:00,ROBAK KIM M,4,S-Sale,--D,10388,74706,2,0001264141,Common Stock
+A,05/30/2018 00:00:00,ROBAK KIM M,4,M-Exempt,--D,10388,85094,1,0001264141,Common Stock
+A,05/23/2018 00:00:00,Simons Doyle,4,A-Award,--D,2672,59646,1,0001185922,Common Stock
+A,05/23/2018 00:00:00,Sherman J Donald,4,A-Award,--D,2672,10650,1,0001344702,Common Stock
+A,05/23/2018 00:00:00,ROBAK KIM M,4,A-Award,--D,2672,74706,1,0001264141,Common Stock
+A,05/23/2018 00:00:00,RENWICK GLENN M,4,A-Award,--D,2672,177454,1,0001198119,Common Stock
+A,05/23/2018 00:00:00,OLEARY DENIS,4,A-Award,--D,2672,38286,1,0001253512,Common Stock
+A,05/23/2018 00:00:00,Lynch Dennis,4,A-Award,--D,2672,16254,1,0001425470,Common Stock
+A,05/23/2018 00:00:00,Kim John Y,4,A-Award,--D,2672,5404,1,0001547987,Common Stock
+A,05/23/2018 00:00:00,DiSimone Harry,4,A-Award,--D,2672,3686,1,0001732108,Common Stock
+A,05/23/2018 00:00:00,DAVIS ALISON,4,A-Award,--D,2672,8894,1,0001203539,Common Stock
+D,05/16/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,50000,617380,1,0001207371,Common Stock
+D,05/07/2018 00:00:00,Simons Doyle,4,M-Exempt,--D,12248,0,2,0001185922,Stock Option (right to buy)
+A,05/07/2018 00:00:00,Simons Doyle,4,M-Exempt,--D,12248,56974,1,0001185922,Common Stock
+D,04/18/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,50000,667380,1,0001207371,Common Stock
+A,03/31/2018 00:00:00,RENWICK GLENN M,4,A-Award,--D,782,43002,1,0001198119,Deferred Compensation Notional Units
+A,03/31/2018 00:00:00,OLEARY DENIS,4,A-Award,--D,414,35256,1,0001253512,Deferred Compensation Notional Units
+A,03/31/2018 00:00:00,Kim John Y,4,A-Award,--D,327,2511,1,0001547987,Deferred Compensation Notional Units
+A,03/31/2018 00:00:00,Simons Doyle,4,A-Award,--D,362,37574,1,0001185922,Deferred Compensation Notional Units
+A,03/31/2018 00:00:00,DiSimone Harry,4,A-Award,--D,71,71,1,0001732108,Deferred Compensation Notional Units
+D,03/19/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,10000,717030,2,0001207371,Common Stock
+D,03/19/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,24000,727030,1,0001207371,Common Stock
+A,02/21/2018 00:00:00,Best Kenneth,4,A-Award,--D,3349,3349,2,0001407947,Employee Stock Option (right to buy)
+A,02/21/2018 00:00:00,Best Kenneth,4,A-Award,--D,1074,15272,1,0001407947,Common Stock
+A,02/21/2018 00:00:00,VIELEHR BYRON C,4,A-Award,--D,33483,33483,1,0001331429,Employee Stock Option (right to buy)
+A,02/21/2018 00:00:00,Schultz Kevin J,4,A-Award,--D,13393,13393,1,0001341409,Employee Stock Option (right to buy)
+A,02/21/2018 00:00:00,McGranahan Devin,4,A-Award,--D,33483,33483,1,0001684853,Employee Stock Option (right to buy)
+A,02/21/2018 00:00:00,McCreary Lynn S.,4,A-Award,--D,6697,6697,2,0001582646,Employee Stock Option (right to buy)
+A,02/21/2018 00:00:00,McCreary Lynn S.,4,A-Award,--D,2147,21921,1,0001582646,Common Stock
+A,02/21/2018 00:00:00,ERNST MARK A,4,A-Award,--D,20090,20090,1,0001181852,Employee Stock Option (right to buy)
+A,02/21/2018 00:00:00,Hau Robert W.,4,A-Award,--D,25670,25670,2,0001473856,Employee Stock Option (right to buy)
+A,02/21/2018 00:00:00,Hau Robert W.,4,A-Award,--D,8227,40660,1,0001473856,Common Stock
+A,02/21/2018 00:00:00,YABUKI JEFFERY W,4,A-Award,--D,89286,89286,6,0001207371,Employee Stock Option (right to buy)
+A,02/21/2018 00:00:00,YABUKI JEFFERY W,4,A-Award,--D,28615,375515,4,0001207371,Common Stock
+D,02/21/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,2397,346900,3,0001207371,Common Stock
+D,02/21/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,11807,349297,2,0001207371,Common Stock
+D,02/21/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,2796,361104,1,0001207371,Common Stock
+A,02/21/2018 00:00:00,DiSimone Harry,4,A-Award,--D,480,480,3,0001732108,Stock Option (right to buy)
+A,02/21/2018 00:00:00,DiSimone Harry,4,P-Purchase,--D,353,507,2,0001732108,Common Stock
+A,02/21/2018 00:00:00,DiSimone Harry,4,A-Award,--D,154,154,1,0001732108,Common Stock
+D,02/19/2018 00:00:00,VIELEHR BYRON C,4,F-InKind,--D,683,19036,1,0001331429,Common Stock
+D,02/19/2018 00:00:00,Schultz Kevin J,4,F-InKind,--D,161,5932,1,0001341409,Common Stock
+D,02/19/2018 00:00:00,Gregoire Kevin P.,4,F-InKind,--D,301,36211,2,0001601818,Common Stock
+D,02/19/2018 00:00:00,Best Kenneth,4,F-InKind,--D,196,14198,2,0001407947,Common Stock
+D,02/19/2018 00:00:00,McCreary Lynn S.,4,F-InKind,--D,706,19774,2,0001582646,Common Stock
+D,02/19/2018 00:00:00,YABUKI JEFFERY W,4,F-InKind,--D,7312,363900,4,0001207371,Common Stock
+D,02/18/2018 00:00:00,Gregoire Kevin P.,4,F-InKind,--D,493,36512,1,0001601818,Common Stock
+D,02/18/2018 00:00:00,Best Kenneth,4,F-InKind,--D,118,14394,1,0001407947,Common Stock
+D,02/18/2018 00:00:00,McCreary Lynn S.,4,F-InKind,--D,529,20480,1,0001582646,Common Stock
+D,02/18/2018 00:00:00,YABUKI JEFFERY W,4,F-InKind,--D,2553,371212,3,0001207371,Common Stock
+D,02/16/2018 00:00:00,YABUKI JEFFERY W,4,M-Exempt,--D,363984,0,6,0001207371,Employee Stock Option (right to buy)
+D,02/16/2018 00:00:00,YABUKI JEFFERY W,4,F-InKind,--D,193270,373765,2,0001207371,Common Stock
+A,02/16/2018 00:00:00,YABUKI JEFFERY W,4,M-Exempt,--D,363984,567035,1,0001207371,Common Stock
+D,02/16/2018 00:00:00,OLEARY DENIS,4,M-Exempt,--D,7658,0,3,0001253512,Stock Option (right to buy)
+D,02/16/2018 00:00:00,OLEARY DENIS,4,S-Sale,--D,12160,17807,2,0001253512,Common Stock
+A,02/16/2018 00:00:00,OLEARY DENIS,4,M-Exempt,--D,7658,29967,1,0001253512,Common Stock
+D,02/15/2018 00:00:00,RENWICK GLENN M,4,M-Exempt,--D,6124,0,2,0001198119,Stock Option (right to buy)
+A,02/15/2018 00:00:00,RENWICK GLENN M,4,M-Exempt,--D,6124,87391,1,0001198119,Common Stock
+D,01/17/2018 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,17000,203051,1,0001207371,Common Stock
+A,12/31/2017 00:00:00,Kim John Y,4,A-Award,--D,178,1092,1,0001547987,Deferred Compensation Notional Units
+A,12/31/2017 00:00:00,OLEARY DENIS,4,A-Award,--D,225,17421,1,0001253512,Deferred Compensation Notional Units
+A,12/31/2017 00:00:00,RENWICK GLENN M,4,A-Award,--D,426,21110,1,0001198119,Deferred Compensation Notional Units
+A,12/31/2017 00:00:00,Simons Doyle,4,A-Award,--D,197,18606,1,0001185922,Deferred Compensation Notional Units
+A,12/31/2017 00:00:00,ROBAK KIM M,4,A-Award,--D,113,7931,1,0001264141,Deferred Compensation Notional Units
+D,12/21/2017 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,3100,220051,2,0001207371,Common Stock
+D,12/21/2017 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,13900,223151,1,0001207371,Common Stock
+D,12/15/2017 00:00:00,VIELEHR BYRON C,4,S-Sale,--D,10000,19719,1,0001331429,Common Stock
+D,12/12/2017 00:00:00,ERNST MARK A,5,G-Gift,--D,1900,54365,2,0001181852,Common Stock
+D,12/11/2017 00:00:00,Schultz Kevin J,4,M-Exempt,--D,5500,12966,4,0001341409,Employee Stock Option (right to buy)
+D,12/11/2017 00:00:00,Schultz Kevin J,4,S-Sale,--D,3439,6093,3,0001341409,Common Stock
+D,12/11/2017 00:00:00,Schultz Kevin J,4,F-InKind,--D,4199,9532,2,0001341409,Common Stock
+A,12/11/2017 00:00:00,Schultz Kevin J,4,M-Exempt,--D,5500,13731,1,0001341409,Common Stock
+D,12/01/2017 00:00:00,VIELEHR BYRON C,4,F-InKind,--D,9029,29719,1,0001331429,Common Stock
+D,11/22/2017 00:00:00,Gregoire Kevin P.,4,M-Exempt,--D,7991,0,10,0001601818,Employee Stock Option (right to buy)
+D,11/22/2017 00:00:00,Gregoire Kevin P.,4,M-Exempt,--D,9950,0,9,0001601818,Employee Stock Option (right to buy)
+D,11/22/2017 00:00:00,Gregoire Kevin P.,4,M-Exempt,--D,11604,0,8,0001601818,Employee Stock Option (right to buy)
+D,11/22/2017 00:00:00,Gregoire Kevin P.,4,S-Sale,--D,9573,37005,7,0001601818,Common Stock
+D,11/22/2017 00:00:00,Gregoire Kevin P.,4,F-InKind,--D,5858,46578,6,0001601818,Common Stock
+A,11/22/2017 00:00:00,Gregoire Kevin P.,4,M-Exempt,--D,7991,52436,5,0001601818,Common Stock
+D,11/22/2017 00:00:00,Gregoire Kevin P.,4,F-InKind,--D,6671,44445,4,0001601818,Common Stock
+A,11/22/2017 00:00:00,Gregoire Kevin P.,4,M-Exempt,--D,9950,51116,3,0001601818,Common Stock
+D,11/22/2017 00:00:00,Gregoire Kevin P.,4,F-InKind,--D,7443,41166,2,0001601818,Common Stock
+A,11/22/2017 00:00:00,Gregoire Kevin P.,4,M-Exempt,--D,11604,48609,1,0001601818,Common Stock
+D,11/21/2017 00:00:00,YABUKI JEFFERY W,4,S-Sale,--I,2000,118214,2,0001207371,Common Stock
+D,11/17/2017 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,2100,236835,2,0001207371,Common Stock
+D,11/17/2017 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,14900,238935,1,0001207371,Common Stock
+D,11/12/2017 00:00:00,Schultz Kevin J,4,F-InKind,--D,1509,8015,1,0001341409,Common Stock
+A,10/16/2017 00:00:00,YABUKI JEFFERY W,4,G-Gift,-EI,60000,120214,3,0001207371,Common Stock
+D,10/16/2017 00:00:00,YABUKI JEFFERY W,4,G-Gift,-ED,60000,253835,2,0001207371,Common Stock
+D,10/16/2017 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,17000,313835,1,0001207371,Common Stock
+A,09/30/2017 00:00:00,Simons Doyle,4,A-Award,--D,200,18409,1,0001185922,Deferred Compensation Notional Units
+A,09/30/2017 00:00:00,ROBAK KIM M,4,A-Award,--D,115,7818,1,0001264141,Deferred Compensation Notional Units
+A,09/30/2017 00:00:00,Kim John Y,4,A-Award,--D,181,914,1,0001547987,Deferred Compensation Notional Units
+A,09/30/2017 00:00:00,OLEARY DENIS,4,A-Award,--D,229,17196,1,0001253512,Deferred Compensation Notional Units
+A,09/30/2017 00:00:00,RENWICK GLENN M,4,A-Award,--D,433,20684,1,0001198119,Deferred Compensation Notional Units
+D,09/19/2017 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,17000,330835,1,0001207371,Common Stock
+D,09/18/2017 00:00:00,ROBAK KIM M,4,M-Exempt,--D,6124,0,3,0001264141,Stock Option (right to buy)
+D,09/18/2017 00:00:00,ROBAK KIM M,4,S-Sale,--D,6124,36017,2,0001264141,Common Stock
+A,09/18/2017 00:00:00,ROBAK KIM M,4,M-Exempt,--D,6124,42141,1,0001264141,Common Stock
+D,09/15/2017 00:00:00,YABUKI JEFFERY W,4,M-Exempt,--D,180000,363984,4,0001207371,Employee Stock Option (right to buy)
+D,09/15/2017 00:00:00,YABUKI JEFFERY W,4,F-InKind,--D,101316,347835,2,0001207371,Common Stock
+A,09/15/2017 00:00:00,YABUKI JEFFERY W,4,M-Exempt,--D,180000,449151,1,0001207371,Common Stock
+D,08/23/2017 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,17000,269151,1,0001207371,Common Stock
+D,07/20/2017 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,17000,286151,1,0001207371,Common Stock
+D,07/06/2017 00:00:00,Simons Doyle,4,M-Exempt,--D,4216,0,2,0001185922,Stock Option (right to buy)
+A,07/06/2017 00:00:00,Simons Doyle,4,M-Exempt,--D,4216,22363,1,0001185922,Common Stock
+A,06/30/2017 00:00:00,Simons Doyle,4,A-Award,--D,199,18209,1,0001185922,Deferred Compensation Notional Units
+A,06/30/2017 00:00:00,RENWICK GLENN M,4,A-Award,--D,314,20251,1,0001198119,Deferred Compensation Notional Units
+A,06/30/2017 00:00:00,OLEARY DENIS,4,A-Award,--D,230,16967,1,0001253512,Deferred Compensation Notional Units
+A,06/30/2017 00:00:00,Kim John Y,4,A-Award,--D,191,733,1,0001547987,Deferred Compensation Notional Units
+A,06/30/2017 00:00:00,ROBAK KIM M,4,A-Award,--D,112,7703,1,0001264141,Deferred Compensation Notional Units
+D,06/23/2017 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,17000,303151,1,0001207371,Common Stock
+A,05/24/2017 00:00:00,Sherman J Donald,4,A-Award,--D,2144,2144,2,0001344702,Stock Option (right to buy)
+A,05/24/2017 00:00:00,Sherman J Donald,4,A-Award,--D,701,3989,1,0001344702,Common Stock
+A,05/24/2017 00:00:00,DAVIS ALISON,4,A-Award,--D,2144,2144,2,0001203539,Stock Option (right to buy)
+A,05/24/2017 00:00:00,DAVIS ALISON,4,A-Award,--D,701,3111,1,0001203539,Common Stock
+A,05/24/2017 00:00:00,Lynch Dennis,4,A-Award,--D,2144,2144,2,0001425470,Stock Option (right to buy)
+A,05/24/2017 00:00:00,Lynch Dennis,4,A-Award,--D,701,6791,1,0001425470,Common Stock
+A,05/24/2017 00:00:00,Kim John Y,4,A-Award,--D,2144,2144,2,0001547987,Stock Option (right to buy)
+A,05/24/2017 00:00:00,Kim John Y,4,A-Award,--D,701,1366,1,0001547987,Common Stock
+A,05/24/2017 00:00:00,Simons Doyle,4,A-Award,--D,2144,2144,2,0001185922,Stock Option (right to buy)
+A,05/24/2017 00:00:00,Simons Doyle,4,A-Award,--D,701,18147,1,0001185922,Common Stock
+A,05/24/2017 00:00:00,ROBAK KIM M,4,A-Award,--D,2144,2144,2,0001264141,Stock Option (right to buy)
+A,05/24/2017 00:00:00,ROBAK KIM M,4,A-Award,--D,701,36017,1,0001264141,Common Stock
+A,05/24/2017 00:00:00,RENWICK GLENN M,4,A-Award,--D,2144,2144,2,0001198119,Stock Option (right to buy)
+A,05/24/2017 00:00:00,RENWICK GLENN M,4,A-Award,--D,701,81267,1,0001198119,Common Stock
+A,05/24/2017 00:00:00,OLEARY DENIS,4,A-Award,--D,2144,2144,2,0001253512,Stock Option (right to buy)
+A,05/24/2017 00:00:00,OLEARY DENIS,4,A-Award,--D,701,22309,1,0001253512,Common Stock
+D,05/22/2017 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,3625,320151,2,0001207371,Common Stock
+D,05/22/2017 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,13375,323776,1,0001207371,Common Stock
+D,05/08/2017 00:00:00,RENWICK GLENN M,4,M-Exempt,--D,5096,0,2,0001198119,Stock Option (right to buy)
+A,05/08/2017 00:00:00,RENWICK GLENN M,4,M-Exempt,--D,5096,80566,1,0001198119,Common Stock
+D,04/26/2017 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,2000,337151,1,0001207371,Common Stock
+D,04/18/2017 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,15000,339151,1,0001207371,Common Stock
+A,03/31/2017 00:00:00,ROBAK KIM M,4,A-Award,--D,112,7591,1,0001264141,Deferred Compensation Notional Units
+A,03/31/2017 00:00:00,RENWICK GLENN M,4,A-Award,--D,224,19937,1,0001198119,Deferred Compensation Notional Units
+A,03/31/2017 00:00:00,OLEARY DENIS,4,A-Award,--D,235,16737,1,0001253512,Deferred Compensation Notional Units
+A,03/31/2017 00:00:00,Kim John Y,4,A-Award,--D,183,542,1,0001547987,Deferred Compensation Notional Units
+A,03/31/2017 00:00:00,Simons Doyle,4,A-Award,--D,202,18010,1,0001185922,Deferred Compensation Notional Units
+D,03/28/2017 00:00:00,Gregoire Kevin P.,4,F-InKind,--D,592,36789,1,0001601818,Common Stock
+D,03/15/2017 00:00:00,YABUKI JEFFERY W,4,S-Sale,--D,17000,354151,1,0001207371,Common Stock
+D,03/09/2017 00:00:00,WERTHEIMER THOMAS C,4,M-Exempt,--D,5096,0,2,0001235116,Stock Option (right to buy)
+A,03/09/2017 00:00:00,WERTHEIMER THOMAS C,4,M-Exempt,--D,5096,18987,1,0001235116,Common Stock
+D,03/01/2017 00:00:00,McCreary Lynn S.,4,S-Sale,--D,4309,20793,1,0001582646,Common Stock
+A,02/22/2017 00:00:00,Hau Robert W.,4,A-Award,--D,21506,21506,2,0001473856,Employee Stock Option (right to buy)
+A,02/22/2017 00:00:00,Hau Robert W.,4,A-Award,--D,7029,32433,1,0001473856,Common Stock
+A,02/22/2017 00:00:00,TAIT STEVEN,4,A-Award,--D,5377,5377,2,0001227313,Employee Stock Option (right to buy)
+A,02/22/2017 00:00:00,TAIT STEVEN,4,A-Award,--D,1758,32261,1,0001227313,Common Stock
+A,02/22/2017 00:00:00,YABUKI JEFFERY W,4,A-Award,--D,93409,93409,3,0001207371,Employee Stock Option (right to buy)
+A,02/22/2017 00:00:00,YABUKI JEFFERY W,4,A-Award,--D,39758,371151,1,0001207371,Common Stock
+A,02/22/2017 00:00:00,McCreary Lynn S.,4,A-Award,--D,7393,7393,2,0001582646,Employee Stock Option (right to buy)
+A,02/22/2017 00:00:00,McCreary Lynn S.,4,A-Award,--D,2417,25102,1,0001582646,Common Stock
+A,02/22/2017 00:00:00,Gregoire Kevin P.,4,A-Award,--D,8065,8065,2,0001601818,Employee Stock Option (right to buy)
+A,02/22/2017 00:00:00,Gregoire Kevin P.,4,A-Award,--D,879,37381,1,0001601818,Common Stock
+A,02/22/2017 00:00:00,Schultz Kevin J,4,A-Award,--D,5377,5377,2,0001341409,Employee Stock Option (right to buy)
+A,02/22/2017 00:00:00,Schultz Kevin J,4,A-Award,--D,1758,9524,1,0001341409,Common Stock
+A,02/22/2017 00:00:00,VIELEHR BYRON C,4,A-Award,--D,13441,13441,2,0001331429,Employee Stock Option (right to buy)
+A,02/22/2017 00:00:00,VIELEHR BYRON C,4,A-Award,--D,4393,38532,1,0001331429,Common Stock
+A,02/22/2017 00:00:00,Best Kenneth,4,A-Award,--D,2285,2285,2,0001407947,Employee Stock Option (right to buy)
+A,02/22/2017 00:00:00,Best Kenneth,4,A-Award,--D,747,14305,1,0001407947,Common Stock
+A,02/22/2017 00:00:00,McGranahan Devin,4,A-Award,--D,10753,10753,1,0001684853,Employee Stock Option (right to buy)
+A,02/22/2017 00:00:00,ERNST MARK A,4,A-Award,--D,37635,37635,1,0001181852,Employee Stock Option (right to buy)
+D,02/20/2017 00:00:00,Best Kenneth,4,F-InKind,--D,985,13558,3,0001407947,Common Stock
+D,02/20/2017 00:00:00,Gregoire Kevin P.,4,F-InKind,--D,4242,36502,3,0001601818,Common Stock

@@ -1,0 +1,636 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/21/2023 00:00:00,Adams Diane,4,S-Sale,--D,3276,275928,1,0001475901,Class A Common Stock
+D,06/20/2023 00:00:00,"Battery Partners IX, LLC",4,G-Gift,--D,30000,249853,7,0001517642,Class A Common Stock
+D,06/20/2023 00:00:00,"Battery Partners IX, LLC",4,S-Sale,--D,184160,279853,6,0001517642,Class A Common Stock
+D,06/20/2023 00:00:00,"Battery Partners IX, LLC",4,J-Other,--I,3500000,0,5,0001517642,Class A Common Stock
+A,06/20/2023 00:00:00,"Battery Partners IX, LLC",4,J-Other,--I,3500000,3500000,4,0001517642,Class A Common Stock
+D,06/20/2023 00:00:00,"Battery Partners IX, LLC",4,J-Other,--I,35351,109376,3,0001517642,Class A Common Stock
+D,06/20/2023 00:00:00,"Battery Partners IX, LLC",4,J-Other,--I,3500000,11035367,2,0001517642,Class A Common Stock
+D,06/16/2023 00:00:00,Pattabhiraman Arun,4/A,S-Sale,--D,34569,510777,1,0001929299,Class A Common Stock
+D,06/16/2023 00:00:00,"Battery Partners IX, LLC",4,S-Sale,--D,285439,0,1,0001517642,Class A Common Stock
+D,06/16/2023 00:00:00,Stoner Chelsea R.,4,S-Sale,--I,79750,79750,1,0001741527,Class A Common Stock
+D,06/16/2023 00:00:00,Thomas Ragy,4,S-Sale,--D,17167,482770,1,0001866802,Class A Common Stock
+D,06/16/2023 00:00:00,Scott Jacob,4,S-Sale,--D,323,213778,1,0001967575,Class A Common Stock
+D,06/16/2023 00:00:00,Sarin Manish,4,S-Sale,--D,18899,819115,1,0001906496,Class A Common Stock
+D,06/16/2023 00:00:00,Pattabhiraman Arun,4,S-Sale,--D,34589,510757,1,0001929299,Class A Common Stock
+D,06/16/2023 00:00:00,Ohls Paul,4,S-Sale,--D,1780,731806,1,0001949951,Class A Common Stock
+D,06/16/2023 00:00:00,Adams Diane,4,S-Sale,--D,2974,279204,3,0001475901,Class A Common Stock
+D,06/15/2023 00:00:00,Adams Diane,4,C-Conversion,--D,861,131000,6,0001475901,Class B Common Stock
+A,06/15/2023 00:00:00,Adams Diane,4,M-Exempt,--D,861,131861,5,0001475901,Class B Common Stock
+D,06/15/2023 00:00:00,Adams Diane,4,M-Exempt,--D,861,107472,4,0001475901,Employee Stock Option (right to buy)
+D,06/15/2023 00:00:00,Adams Diane,4,S-Sale,--D,861,282178,2,0001475901,Class A Common Stock
+A,06/15/2023 00:00:00,Adams Diane,4,C-Conversion,--D,861,283039,1,0001475901,Class A Common Stock
+A,06/15/2023 00:00:00,Schloss Eileen,4,A-Award,--D,16951,59354,1,0001560574,Class A Common Stock
+A,06/15/2023 00:00:00,Kanouff Yvette,4,A-Award,--D,13377,50135,1,0001333214,Class A Common Stock
+A,06/15/2023 00:00:00,Haverty Kevin,4,A-Award,--D,10357,33667,1,0001820043,Class A Common Stock
+A,06/15/2023 00:00:00,GILLIS EDWIN J,4,A-Award,--D,17390,56724,1,0001186557,Class A Common Stock
+A,06/15/2023 00:00:00,Agrawal Neeraj,4,A-Award,--D,13377,617369,1,0001532809,Class A Common Stock
+A,06/15/2023 00:00:00,Pham Trac,4,A-Award,--D,16721,16721,1,0001627340,Class A Common Stock
+D,06/12/2023 00:00:00,TABORS R DAVID,4,S-Sale,--D,284821,0,1,0001199925,Class A Common Stock
+D,06/09/2023 00:00:00,"Battery Partners IX, LLC",4,S-Sale,--D,2759,284821,6,0001517642,Class A Common Stock
+D,06/08/2023 00:00:00,"Battery Partners IX, LLC",4,S-Sale,--I,285439,285439,5,0001517642,Class A Common Stock
+D,06/07/2023 00:00:00,"Battery Partners IX, LLC",4,J-Other,--I,3000000,0,4,0001517642,Class A Common Stock
+A,06/07/2023 00:00:00,"Battery Partners IX, LLC",4,J-Other,--I,3000000,3000000,3,0001517642,Class A Common Stock
+D,06/07/2023 00:00:00,"Battery Partners IX, LLC",4,J-Other,--I,30304,144727,2,0001517642,Class A Common Stock
+D,06/07/2023 00:00:00,"Battery Partners IX, LLC",4,J-Other,--I,3000000,14535367,1,0001517642,Class A Common Stock
+D,05/03/2023 00:00:00,Adams Diane,4,S-Sale,--D,550,282178,1,0001475901,Class A Common Stock
+D,05/01/2023 00:00:00,Adams Diane,4,S-Sale,--D,450,282728,2,0001475901,Class A Common Stock
+D,05/01/2023 00:00:00,Thomas Ragy,4,S-Sale,--D,1557,499937,2,0001866802,Class A Common Stock
+D,05/01/2023 00:00:00,Singh Pavitar,4,S-Sale,--D,7,1009082,2,0001866840,Class A Common Stock
+D,04/28/2023 00:00:00,Adams Diane,4,C-Conversion,--D,1000,131000,3,0001475901,Class B Common Stock
+A,04/28/2023 00:00:00,Adams Diane,4,C-Conversion,--D,1000,283178,1,0001475901,Class A Common Stock
+D,04/28/2023 00:00:00,Thomas Ragy,4,C-Conversion,--D,3000,29179443,3,0001866802,Class B Common Stock
+A,04/28/2023 00:00:00,Thomas Ragy,4,C-Conversion,--D,3000,501494,1,0001866802,Class A Common Stock
+D,04/28/2023 00:00:00,Singh Pavitar,4,C-Conversion,--D,2500,1257828,3,0001866840,Class B Common Stock
+A,04/28/2023 00:00:00,Singh Pavitar,4,C-Conversion,--D,2500,1009089,1,0001866840,Class A Common Stock
+D,04/11/2023 00:00:00,"Battery Partners IX, LLC",4,G-Gift,--D,287580,0,8,0001517642,Class A Common Stock
+D,04/11/2023 00:00:00,"Battery Partners IX, LLC",4,S-Sale,--I,159500,0,7,0001517642,Class A Common Stock
+D,04/11/2023 00:00:00,"Battery Partners IX, LLC",4,S-Sale,--D,214160,0,6,0001517642,Class A Common Stock
+D,04/11/2023 00:00:00,"Battery Partners IX, LLC",4,S-Sale,--D,285439,0,5,0001517642,Class A Common Stock
+D,04/10/2023 00:00:00,"Battery Partners IX, LLC",4,J-Other,--I,3000000,0,4,0001517642,Class A Common Stock
+A,04/10/2023 00:00:00,"Battery Partners IX, LLC",4,J-Other,--I,3000000,3000000,3,0001517642,Class A Common Stock
+D,04/10/2023 00:00:00,"Battery Partners IX, LLC",4,J-Other,--I,30304,175031,2,0001517642,Class A Common Stock
+D,04/10/2023 00:00:00,"Battery Partners IX, LLC",4,J-Other,--I,3000000,17535367,1,0001517642,Class A Common Stock
+D,04/04/2023 00:00:00,Adams Diane,4,C-Conversion,--D,100000,132000,6,0001475901,Class B Common Stock
+A,04/04/2023 00:00:00,Adams Diane,4,M-Exempt,--D,100000,232000,5,0001475901,Class B Common Stock
+D,04/04/2023 00:00:00,Adams Diane,4,M-Exempt,--D,100000,108333,4,0001475901,Employee Stock Option (right to buy)
+D,04/04/2023 00:00:00,Adams Diane,4,S-Sale,--D,100000,282178,3,0001475901,Class A Common Stock
+A,04/04/2023 00:00:00,Adams Diane,4,C-Conversion,--D,100000,382178,2,0001475901,Class A Common Stock
+D,04/04/2023 00:00:00,Singh Pavitar,4,C-Conversion,--D,65000,1260328,4,0001866840,Class B Common Stock
+D,04/04/2023 00:00:00,Singh Pavitar,4,S-Sale,--D,65000,1006589,3,0001866840,Class A Common Stock
+A,04/04/2023 00:00:00,Singh Pavitar,4,C-Conversion,--D,65000,1071589,2,0001866840,Class A Common Stock
+A,04/03/2023 00:00:00,Ohls Paul,4,A-Award,--D,297891,733586,1,0001949951,Class A Common Stock
+A,04/03/2023 00:00:00,Pattabhiraman Arun,4,A-Award,--D,192483,545346,1,0001929299,Class A Common Stock
+A,04/03/2023 00:00:00,Sarin Manish,4,A-Award,--D,320806,838014,1,0001906496,Class A Common Stock
+A,04/03/2023 00:00:00,Scott Jacob,4,A-Award,--D,183318,214101,1,0001967575,Class A Common Stock
+A,04/03/2023 00:00:00,Adams Diane,4,A-Award,--D,192483,282178,1,0001475901,Class A Common Stock
+A,04/03/2023 00:00:00,Singh Pavitar,4,A-Award,--D,733272,1006589,1,0001866840,Class A Common Stock
+A,04/03/2023 00:00:00,Thomas Ragy,4,A-Award,--D,1512373,1512373,1,0001866802,Employee Stock Option (right to buy)
+D,03/21/2023 00:00:00,Adams Diane,4,S-Sale,--D,17267,89695,2,0001475901,Class A Common Stock
+D,03/20/2023 00:00:00,Adams Diane,4,S-Sale,--D,647,106962,1,0001475901,Class A Common Stock
+D,03/16/2023 00:00:00,Adams Diane,4,S-Sale,--D,8086,107609,2,0001475901,Class A Common Stock
+D,03/16/2023 00:00:00,Thomas Ragy,4,S-Sale,--D,51697,498494,2,0001866802,Class A Common Stock
+D,03/16/2023 00:00:00,Singh Pavitar,4,S-Sale,--D,7,273317,2,0001866840,Class A Common Stock
+D,03/16/2023 00:00:00,Sarin Manish,4,S-Sale,--D,40417,517208,1,0001906496,Class A Common Stock
+D,03/16/2023 00:00:00,Ohls Paul,4,S-Sale,--D,6739,435695,1,0001949951,Class A Common Stock
+D,03/16/2023 00:00:00,Scott Jacob,4,S-Sale,--D,1454,30783,1,0001967575,Class A Common Stock
+D,03/15/2023 00:00:00,Adams Diane,4,C-Conversion,--D,1000,132000,3,0001475901,Class B Common Stock
+A,03/15/2023 00:00:00,Adams Diane,4,C-Conversion,--D,1000,115695,1,0001475901,Class A Common Stock
+D,03/15/2023 00:00:00,Thomas Ragy,4,C-Conversion,--D,3000,29182443,3,0001866802,Class B Common Stock
+A,03/15/2023 00:00:00,Thomas Ragy,4,C-Conversion,--D,3000,550191,1,0001866802,Class A Common Stock
+D,03/15/2023 00:00:00,Singh Pavitar,4,C-Conversion,--D,2500,1325328,3,0001866840,Class B Common Stock
+A,03/15/2023 00:00:00,Singh Pavitar,4,C-Conversion,--D,2500,273324,1,0001866840,Class A Common Stock
+D,03/15/2023 00:00:00,Haley Daniel P,4,C-Conversion,--D,1000,140291,2,0001653709,Class B Common Stock
+A,03/15/2023 00:00:00,Haley Daniel P,4,C-Conversion,--D,1000,101544,1,0001653709,Class A Common Stock
+D,03/07/2023 00:00:00,Singh Pavitar,4,C-Conversion,--D,5000,1327828,3,0001866840,Class B Common Stock
+D,03/07/2023 00:00:00,Singh Pavitar,4,S-Sale,--D,5000,270824,2,0001866840,Class A Common Stock
+A,03/07/2023 00:00:00,Singh Pavitar,4,C-Conversion,--D,5000,275824,1,0001866840,Class A Common Stock
+D,02/07/2023 00:00:00,Singh Pavitar,4,C-Conversion,--D,20000,1332828,3,0001866840,Class B Common Stock
+D,02/07/2023 00:00:00,Singh Pavitar,4,S-Sale,--D,20000,270824,2,0001866840,Class A Common Stock
+A,02/07/2023 00:00:00,Singh Pavitar,4,C-Conversion,--D,20000,290824,1,0001866840,Class A Common Stock
+D,12/16/2022 00:00:00,Sarin Manish,4,S-Sale,--D,3930,555085,1,0001906496,Class A Common Stock
+A,12/15/2022 00:00:00,Ohls Paul,4,A-Award,--D,333333,441949,1,0001949951,Class A Common Stock
+D,12/12/2022 00:00:00,Thomas Ragy,4,S-Sale,--D,1111,547191,2,0001866802,Class A Common Stock
+D,12/12/2022 00:00:00,Haley Daniel P,4,S-Sale,--D,456,100544,2,0001653709,Class A Common Stock
+D,12/12/2022 00:00:00,Singh Pavitar,4,S-Sale,--D,7,270824,2,0001866840,Class A Common Stock
+D,12/12/2022 00:00:00,Adams Diane,4,S-Sale,--D,303,114695,2,0001475901,Class A Common Stock
+D,12/09/2022 00:00:00,Thomas Ragy,4,C-Conversion,--D,3000,28402885,3,0001866802,Class B Common Stock
+A,12/09/2022 00:00:00,Thomas Ragy,4,C-Conversion,--D,3000,548302,1,0001866802,Class A Common Stock
+D,12/09/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,1000,141291,3,0001653709,Class B Common Stock
+A,12/09/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,1000,101000,1,0001653709,Class A Common Stock
+D,12/09/2022 00:00:00,Singh Pavitar,4,C-Conversion,--D,2500,1352828,3,0001866840,Class B Common Stock
+A,12/09/2022 00:00:00,Singh Pavitar,4,C-Conversion,--D,2500,270831,1,0001866840,Class A Common Stock
+D,12/09/2022 00:00:00,Adams Diane,4,C-Conversion,--D,1000,133000,3,0001475901,Class B Common Stock
+A,12/09/2022 00:00:00,Adams Diane,4,C-Conversion,--D,1000,114998,1,0001475901,Class A Common Stock
+A,12/02/2022 00:00:00,Haverty Kevin,4,A-Award,--D,23310,23310,1,0001820043,Class A Common Stock
+D,11/15/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,40000,142291,5,0001653709,Class B Common Stock
+A,11/15/2022 00:00:00,Haley Daniel P,4,M-Exempt,--D,40000,182291,4,0001653709,Class B Common Stock
+D,11/15/2022 00:00:00,Haley Daniel P,4,M-Exempt,--D,40000,245083,3,0001653709,Employee Stock Option (right to buy)
+D,11/15/2022 00:00:00,Haley Daniel P,4,S-Sale,--D,40000,100000,2,0001653709,Class A Common Stock
+A,11/15/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,40000,140000,1,0001653709,Class A Common Stock
+D,10/17/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,40000,142291,5,0001653709,Class B Common Stock
+A,10/17/2022 00:00:00,Haley Daniel P,4,M-Exempt,--D,40000,182291,4,0001653709,Class B Common Stock
+D,10/17/2022 00:00:00,Haley Daniel P,4,M-Exempt,--D,40000,285083,3,0001653709,Employee Stock Option (right to buy)
+D,10/17/2022 00:00:00,Haley Daniel P,4,S-Sale,--D,40000,100000,2,0001653709,Class A Common Stock
+A,10/17/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,40000,140000,1,0001653709,Class A Common Stock
+D,09/16/2022 00:00:00,Sarin Manish,4,S-Sale,--D,3931,559015,1,0001906496,Class A Common Stock
+D,09/15/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,40000,142291,8,0001653709,Class B Common Stock
+A,09/15/2022 00:00:00,Haley Daniel P,4,M-Exempt,--D,40000,182291,7,0001653709,Class B Common Stock
+D,09/15/2022 00:00:00,Haley Daniel P,4,M-Exempt,--D,40000,325083,6,0001653709,Employee Stock Option (right to buy)
+D,09/15/2022 00:00:00,Haley Daniel P,4,S-Sale,--D,40481,100000,4,0001653709,Class A Common Stock
+A,09/15/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,40000,140481,3,0001653709,Class A Common Stock
+D,09/15/2022 00:00:00,Adams Diane,4,S-Sale,--D,655,113998,3,0001475901,Class A Common Stock
+D,09/14/2022 00:00:00,Thomas Ragy,4,S-Sale,--D,1263,545302,2,0001866802,Class A Common Stock
+D,09/14/2022 00:00:00,Singh Pavitar,4,C-Conversion,--D,36093,1355328,6,0001866840,Class B Common Stock
+D,09/14/2022 00:00:00,Singh Pavitar,4,S-Sale,--D,37500,268331,4,0001866840,Class A Common Stock
+A,09/14/2022 00:00:00,Singh Pavitar,4,C-Conversion,--D,36093,305831,3,0001866840,Class A Common Stock
+D,09/14/2022 00:00:00,Haley Daniel P,4,S-Sale,--D,519,100481,2,0001653709,Class A Common Stock
+D,09/14/2022 00:00:00,Adams Diane,4,S-Sale,--D,345,114653,2,0001475901,Class A Common Stock
+D,09/14/2022 00:00:00,Lazzaron Luca,4,S-Sale,--D,270,532643,2,0001867345,Class A Common Stock
+D,09/13/2022 00:00:00,Thomas Ragy,4,C-Conversion,--D,3000,28405885,3,0001866802,Class B Common Stock
+A,09/13/2022 00:00:00,Thomas Ragy,4,C-Conversion,--D,3000,546565,1,0001866802,Class A Common Stock
+D,09/13/2022 00:00:00,Singh Pavitar,4,C-Conversion,--D,2500,1391421,5,0001866840,Class B Common Stock
+D,09/13/2022 00:00:00,Singh Pavitar,4,S-Sale,--D,2500,269738,2,0001866840,Class A Common Stock
+A,09/13/2022 00:00:00,Singh Pavitar,4,C-Conversion,--D,2500,272238,1,0001866840,Class A Common Stock
+D,09/13/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,1000,142291,5,0001653709,Class B Common Stock
+A,09/13/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,1000,101000,1,0001653709,Class A Common Stock
+D,09/13/2022 00:00:00,Adams Diane,4,C-Conversion,--D,1000,134000,4,0001475901,Class B Common Stock
+A,09/13/2022 00:00:00,Adams Diane,4,C-Conversion,--D,1000,114998,1,0001475901,Class A Common Stock
+D,09/13/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,2500,585000,3,0001867345,Class B Common Stock
+A,09/13/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,2500,532913,1,0001867345,Class A Common Stock
+A,09/12/2022 00:00:00,Thomas Ragy,4,J-Other,--D,2211,543565,1,0001866802,Class A Common Stock
+A,09/12/2022 00:00:00,"ICONIQ Strategic Partners, L.P.",4,J-Other,--I,901536,1227532,6,0001575779,Class A Common Stock
+A,09/12/2022 00:00:00,"ICONIQ Strategic Partners, L.P.",4,J-Other,--I,898189,1223027,5,0001575779,Class A Common Stock
+D,09/12/2022 00:00:00,"ICONIQ Strategic Partners, L.P.",4,J-Other,--I,2487258,0,4,0001575779,Class A Common Stock
+D,09/12/2022 00:00:00,"ICONIQ Strategic Partners, L.P.",4,J-Other,--I,3177383,0,3,0001575779,Class A Common Stock
+D,09/12/2022 00:00:00,"ICONIQ Strategic Partners, L.P.",4,J-Other,--I,1365003,0,2,0001575779,Class A Common Stock
+D,09/12/2022 00:00:00,"ICONIQ Strategic Partners, L.P.",4,J-Other,--D,5438692,0,1,0001575779,Class A Common Stock
+D,09/06/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,24692,587500,5,0001867345,Class B Common Stock
+A,09/06/2022 00:00:00,Lazzaron Luca,4,M-Exempt,--D,24692,612192,4,0001867345,Class B Common Stock
+D,09/06/2022 00:00:00,Lazzaron Luca,4,M-Exempt,--D,24692,4475,3,0001867345,Employee Stock Option (right to buy)
+D,09/06/2022 00:00:00,Lazzaron Luca,4,S-Sale,--D,24692,530413,2,0001867345,Class A Common Stock
+A,09/06/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,24692,555105,1,0001867345,Class A Common Stock
+D,08/15/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,62000,143291,5,0001653709,Class B Common Stock
+A,08/15/2022 00:00:00,Haley Daniel P,4,M-Exempt,--D,62000,205291,4,0001653709,Class B Common Stock
+D,08/15/2022 00:00:00,Haley Daniel P,4,M-Exempt,--D,62000,365083,3,0001653709,Employee Stock Option (right to buy)
+D,08/15/2022 00:00:00,Haley Daniel P,4,S-Sale,--D,62000,100000,2,0001653709,Class A Common Stock
+A,08/15/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,62000,162000,1,0001653709,Class A Common Stock
+D,08/09/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,27778,587500,5,0001867345,Class B Common Stock
+A,08/09/2022 00:00:00,Lazzaron Luca,4,M-Exempt,--D,27778,615278,4,0001867345,Class B Common Stock
+D,08/09/2022 00:00:00,Lazzaron Luca,4,M-Exempt,--D,27778,112439,3,0001867345,Employee Stock Option (right to buy)
+D,08/09/2022 00:00:00,Lazzaron Luca,4,S-Sale,--D,27778,530413,2,0001867345,Class A Common Stock
+A,08/09/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,27778,558191,1,0001867345,Class A Common Stock
+D,08/01/2022 00:00:00,Haley Daniel P,4,S-Sale,--D,702,100000,1,0001653709,Class A Common Stock
+D,07/12/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,31496,587500,7,0001867345,Class B Common Stock
+A,07/12/2022 00:00:00,Lazzaron Luca,4,M-Exempt,--D,22283,618996,6,0001867345,Class B Common Stock
+A,07/12/2022 00:00:00,Lazzaron Luca,4,M-Exempt,--D,9213,596713,5,0001867345,Class B Common Stock
+D,07/12/2022 00:00:00,Lazzaron Luca,4,M-Exempt,--D,22283,140217,4,0001867345,Employee Stock Option (right to buy)
+D,07/12/2022 00:00:00,Lazzaron Luca,4,M-Exempt,--D,9213,29167,3,0001867345,Employee Stock Option (right to buy)
+D,07/12/2022 00:00:00,Lazzaron Luca,4,S-Sale,--D,31496,530413,2,0001867345,Class A Common Stock
+A,07/12/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,31496,561909,1,0001867345,Class A Common Stock
+D,06/28/2022 00:00:00,Adams Diane,4,S-Sale,--D,701,113998,1,0001475901,Class A Common Stock
+A,06/24/2022 00:00:00,Thomas Ragy,4,J-Other,--D,789,541354,1,0001866802,Class A Common Stock
+D,06/24/2022 00:00:00,Singh Pavitar,4,S-Sale,--D,25000,269738,1,0001866840,Class A Common Stock
+A,06/24/2022 00:00:00,"ICONIQ Strategic Partners, L.P.",4,J-Other,--I,325996,325996,6,0001575779,Class A Common Stock
+A,06/24/2022 00:00:00,"ICONIQ Strategic Partners, L.P.",4,J-Other,--I,324838,324838,5,0001575779,Class A Common Stock
+D,06/24/2022 00:00:00,"ICONIQ Strategic Partners, L.P.",4,J-Other,--I,883550,2487258,4,0001575779,Class A Common Stock
+D,06/24/2022 00:00:00,"ICONIQ Strategic Partners, L.P.",4,J-Other,--I,1128705,3177383,3,0001575779,Class A Common Stock
+D,06/24/2022 00:00:00,"ICONIQ Strategic Partners, L.P.",4,J-Other,--I,467106,1365003,2,0001575779,Class A Common Stock
+D,06/24/2022 00:00:00,"ICONIQ Strategic Partners, L.P.",4,J-Other,--D,1861128,5438692,1,0001575779,Class A Common Stock
+D,06/21/2022 00:00:00,Thomas Ragy,4,S-Sale,--D,1096,540565,2,0001866802,Class A Common Stock
+D,06/21/2022 00:00:00,Sarin Manish,4,S-Sale,--D,3760,562946,2,0001906496,Class A Common Stock
+D,06/21/2022 00:00:00,Pattabhiraman Arun,4,S-Sale,--D,17812,352863,2,0001929299,Class A Common Stock
+D,06/21/2022 00:00:00,Lazzaron Luca,4,S-Sale,--D,235,530413,2,0001867345,Class A Common Stock
+D,06/21/2022 00:00:00,Haley Daniel P,4,S-Sale,--D,298,100702,2,0001653709,Class A Common Stock
+D,06/21/2022 00:00:00,Adams Diane,4,S-Sale,--D,299,114699,2,0001475901,Class A Common Stock
+D,06/17/2022 00:00:00,Singh Pavitar,4,C-Conversion,--D,2500,1393921,2,0001866840,Class B Common Stock
+A,06/17/2022 00:00:00,Singh Pavitar,4,C-Conversion,--D,2500,294738,1,0001866840,Class A Common Stock
+D,06/17/2022 00:00:00,Thomas Ragy,4,C-Conversion,--D,3000,28093938,3,0001866802,Class B Common Stock
+A,06/17/2022 00:00:00,Thomas Ragy,4,C-Conversion,--D,3000,541661,1,0001866802,Class A Common Stock
+A,06/17/2022 00:00:00,Sarin Manish,4,A-Award,--D,77289,566706,1,0001906496,Class A Common Stock
+A,06/17/2022 00:00:00,Pattabhiraman Arun,4,A-Award,--D,370675,370675,1,0001929299,Class A Common Stock
+D,06/17/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,2500,587500,3,0001867345,Class B Common Stock
+A,06/17/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,2500,530648,1,0001867345,Class A Common Stock
+D,06/17/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,1000,143291,3,0001653709,Class B Common Stock
+A,06/17/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,1000,101000,1,0001653709,Class A Common Stock
+D,06/17/2022 00:00:00,Adams Diane,4,C-Conversion,--D,1000,135000,3,0001475901,Class B Common Stock
+A,06/17/2022 00:00:00,Adams Diane,4,C-Conversion,--D,1000,114998,1,0001475901,Class A Common Stock
+D,06/17/2022 00:00:00,Adams Diane,4,S-Sale,--D,2759,113998,1,0001475901,Class A Common Stock
+A,06/16/2022 00:00:00,Schloss Eileen,4,A-Award,--D,8575,42403,1,0001560574,Class A Common Stock
+A,06/16/2022 00:00:00,Kanouff Yvette,4,A-Award,--D,24390,36758,1,0001333214,Class A Common Stock
+A,06/16/2022 00:00:00,GILLIS EDWIN J,4,A-Award,--D,25914,39334,1,0001186557,Class A Common Stock
+A,06/16/2022 00:00:00,CHAMBERS JOHN T,4,A-Award,--D,35315,52946,1,0001198044,Class A Common Stock
+A,06/16/2022 00:00:00,Agrawal Neeraj,4,A-Award,--D,20325,33114,1,0001532809,Class A Common Stock
+D,05/31/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,21440,590000,5,0001867345,Class B Common Stock
+A,05/31/2022 00:00:00,Lazzaron Luca,4,M-Exempt,--D,21440,611440,4,0001867345,Class B Common Stock
+D,05/31/2022 00:00:00,Lazzaron Luca,4,M-Exempt,--D,21440,38380,3,0001867345,Employee Stock Option (right to buy)
+D,05/31/2022 00:00:00,Lazzaron Luca,4,S-Sale,--D,21440,528148,2,0001867345,Class A Common Stock
+A,05/31/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,21440,549588,1,0001867345,Class A Common Stock
+D,05/03/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,19380,590000,5,0001867345,Class B Common Stock
+A,05/03/2022 00:00:00,Lazzaron Luca,4,M-Exempt,--D,19380,609380,4,0001867345,Class B Common Stock
+D,05/03/2022 00:00:00,Lazzaron Luca,4,M-Exempt,--D,19380,59820,3,0001867345,Employee Stock Option (right to buy)
+D,05/03/2022 00:00:00,Lazzaron Luca,4,S-Sale,--D,19380,528148,2,0001867345,Class A Common Stock
+A,05/03/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,19380,547528,1,0001867345,Class A Common Stock
+D,04/20/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,5800,590000,10,0001867345,Class B Common Stock
+A,04/20/2022 00:00:00,Lazzaron Luca,4,M-Exempt,--D,5800,595800,9,0001867345,Class B Common Stock
+D,04/20/2022 00:00:00,Lazzaron Luca,4,M-Exempt,--D,5800,79200,8,0001867345,Employee Stock Option (right to buy)
+D,04/20/2022 00:00:00,Lazzaron Luca,4,S-Sale,--D,5800,528148,4,0001867345,Class A Common Stock
+A,04/20/2022 00:00:00,Lazzaron Luca,4,A-Award,--D,5800,533948,3,0001867345,Class A Common Stock
+D,04/19/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,15000,590000,7,0001867345,Class B Common Stock
+A,04/19/2022 00:00:00,Lazzaron Luca,4,M-Exempt,--D,15000,605000,6,0001867345,Class B Common Stock
+D,04/19/2022 00:00:00,Lazzaron Luca,4,M-Exempt,--D,15000,85000,5,0001867345,Employee Stock Option (right to buy)
+D,04/19/2022 00:00:00,Lazzaron Luca,4,S-Sale,--D,15000,528148,2,0001867345,Class A Common Stock
+A,04/19/2022 00:00:00,Lazzaron Luca,4,A-Award,--D,15000,543148,1,0001867345,Class A Common Stock
+D,04/19/2022 00:00:00,Haley Daniel P,4,S-Sale,--D,2763,100000,1,0001653709,Class A Common Stock
+D,04/13/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,72917,144291,9,0001653709,Class B Common Stock
+A,04/13/2022 00:00:00,Haley Daniel P,4,M-Exempt,--D,72917,217208,8,0001653709,Class B Common Stock
+D,04/13/2022 00:00:00,Haley Daniel P,4,M-Exempt,--D,72917,427083,7,0001653709,Employee Stock Option (right to buy)
+D,04/13/2022 00:00:00,Haley Daniel P,4,S-Sale,--D,72917,102763,5,0001653709,Class A Common Stock
+A,04/13/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,72917,175680,4,0001653709,Class A Common Stock
+D,04/12/2022 00:00:00,Thomas Ragy,4,S-Sale,--D,4589,538661,3,0001866802,Class A Common Stock
+D,04/12/2022 00:00:00,Haley Daniel P,4,S-Sale,--D,1237,102763,3,0001653709,Class A Common Stock
+D,04/12/2022 00:00:00,Adams Diane,4,C-Conversion,--D,4000,136000,4,0001475901,Class B Common Stock
+D,04/12/2022 00:00:00,Adams Diane,4,S-Sale,--D,1241,116757,3,0001475901,Class A Common Stock
+D,04/12/2022 00:00:00,Lazzaron Luca,4,S-Sale,--D,933,528148,3,0001867345,Class A Common Stock
+D,04/11/2022 00:00:00,Thomas Ragy,4/A,C-Conversion,--D,1048005,28096938,1,0001866802,Class B Common Stock
+D,04/11/2022 00:00:00,Thomas Ragy,4,C-Conversion,--D,12000,27364938,4,0001866802,Class B Common Stock
+A,04/11/2022 00:00:00,Thomas Ragy,4,C-Conversion,--D,12000,543250,2,0001866802,Class A Common Stock
+A,04/11/2022 00:00:00,Thomas Ragy,4,A-Award,--D,500000,531250,1,0001866802,Class A Common Stock
+D,04/11/2022 00:00:00,Singh Pavitar,4,C-Conversion,--D,10000,1396421,4,0001866840,Class B Common Stock
+A,04/11/2022 00:00:00,Singh Pavitar,4,C-Conversion,--D,10000,290329,3,0001866840,Class A Common Stock
+A,04/11/2022 00:00:00,Singh Pavitar,4,A-Award,--D,250000,280329,2,0001866840,Class A Common Stock
+D,04/11/2022 00:00:00,Singh Pavitar,4,S-Sale,--D,22000,30329,1,0001866840,Class A Common Stock
+D,04/11/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,4000,144291,6,0001653709,Class B Common Stock
+A,04/11/2022 00:00:00,Haley Daniel P,4,C-Conversion,--D,4000,104000,2,0001653709,Class A Common Stock
+A,04/11/2022 00:00:00,Haley Daniel P,4,A-Award,--D,100000,100000,1,0001653709,Class A Common Stock
+A,04/11/2022 00:00:00,Adams Diane,4,C-Conversion,--D,4000,117998,2,0001475901,Class A Common Stock
+A,04/11/2022 00:00:00,Adams Diane,4,A-Award,--D,100000,113998,1,0001475901,Class A Common Stock
+D,04/11/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,10000,590000,4,0001867345,Class B Common Stock
+A,04/11/2022 00:00:00,Lazzaron Luca,4,C-Conversion,--D,10000,529081,2,0001867345,Class A Common Stock
+A,04/11/2022 00:00:00,Lazzaron Luca,4,A-Award,--D,250000,519081,1,0001867345,Class A Common Stock
+D,04/11/2022 00:00:00,Thomas Ragy,4,C-Conversion,--D,1048005,27376938,3,0001866802,Class B Common Stock
+D,04/11/2022 00:00:00,Thomas Ragy,4,S-Sale,--D,1048005,31250,2,0001866802,Class A Common Stock
+A,04/11/2022 00:00:00,Thomas Ragy,4,C-Conversion,--D,1048005,1079255,1,0001866802,Class A Common Stock
+D,04/11/2022 00:00:00,"ICONIQ Strategic Partners, L.P.",4,S-Sale,--I,1684519,3370808,4,0001575779,Class A Common Stock
+D,04/11/2022 00:00:00,"ICONIQ Strategic Partners, L.P.",4,S-Sale,--I,2151914,4306088,3,0001575779,Class A Common Stock
+D,04/11/2022 00:00:00,"ICONIQ Strategic Partners, L.P.",4,S-Sale,--I,915573,1832109,2,0001575779,Class A Common Stock
+D,04/11/2022 00:00:00,"ICONIQ Strategic Partners, L.P.",4,S-Sale,--D,3647994,7299820,1,0001575779,Class A Common Stock
+A,04/11/2022 00:00:00,"H&F Corporate Investors IX, Ltd.",4,P-Purchase,--I,1048005,10861506,2,0001767564,Class A Common Stock
+A,04/11/2022 00:00:00,"H&F Corporate Investors IX, Ltd.",4,P-Purchase,--I,8400000,9813501,1,0001767564,Class A Common Stock
+A,03/15/2022 00:00:00,Sarin Manish,4,A-Award,--D,489417,489417,1,0001906496,Class A Common Stock
+A,01/13/2022 00:00:00,Schloss Eileen,4,A-Award,--D,17128,33828,1,0001560574,Class A Common Stock
+D,01/12/2022 00:00:00,Singh Pavitar,4,S-Sale,--D,600,50907,2,0001866840,Class A Common Stock
+D,01/11/2022 00:00:00,Singh Pavitar,4,S-Sale,--D,15193,51507,1,0001866840,Class A Common Stock
+D,12/28/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,S-Sale,--I,28470,5055327,4,0001619710,Class A Common Stock
+D,12/28/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,S-Sale,--D,36370,6458002,3,0001619710,Class A Common Stock
+D,12/27/2021 00:00:00,Singh Pavitar,4,C-Conversion,--D,69765,1406421,3,0001866840,Class B Common Stock
+D,12/27/2021 00:00:00,Singh Pavitar,4,S-Sale,--D,3065,66700,2,0001866840,Class A Common Stock
+A,12/27/2021 00:00:00,Singh Pavitar,4,C-Conversion,--D,69765,69765,1,0001866840,Class A Common Stock
+D,12/27/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,S-Sale,--I,113558,5083797,2,0001619710,Class A Common Stock
+D,12/27/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,S-Sale,--D,145067,6494372,1,0001619710,Class A Common Stock
+D,12/15/2021 00:00:00,Conn Wilson Grad,4,C-Conversion,--D,10000,0,5,0001866859,Class B Common Stock
+A,12/15/2021 00:00:00,Conn Wilson Grad,4,M-Exempt,--D,10000,10000,4,0001866859,Class B Common Stock
+D,12/15/2021 00:00:00,Conn Wilson Grad,4,M-Exempt,--D,10000,198333,3,0001866859,Employee Stock Option (right to buy)
+D,12/15/2021 00:00:00,Conn Wilson Grad,4,S-Sale,--D,10000,16582,2,0001866859,Class A Common Stock
+A,12/15/2021 00:00:00,Conn Wilson Grad,4,C-Conversion,--D,10000,26582,1,0001866859,Class A Common Stock
+D,12/14/2021 00:00:00,Singh Pavitar,4,C-Conversion,--D,400000,1476186,3,0001866840,Class B Common Stock
+D,12/14/2021 00:00:00,Singh Pavitar,4,S-Sale,--D,400000,0,2,0001866840,Class A Common Stock
+A,12/14/2021 00:00:00,Singh Pavitar,4,C-Conversion,--D,400000,400000,1,0001866840,Class A Common Stock
+D,11/22/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,119034,119034,8,0001532809,Class B Common Stock
+D,11/22/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,1203569,1203568,7,0001532809,Class B Common Stock
+D,11/22/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,205335,205335,6,0001532809,Class B Common Stock
+D,11/22/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,20535367,20535367,5,0001532809,Class B Common Stock
+A,11/22/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,119034,215670,4,0001532809,Class A Common Stock
+A,11/22/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,1203569,2180664,3,0001532809,Class A Common Stock
+A,11/22/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,205335,205335,2,0001532809,Class A Common Stock
+A,11/22/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,20535367,20535367,1,0001532809,Class A Common Stock
+D,11/22/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,119034,119034,8,0001485934,Class B Common Stock
+D,11/22/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,1203569,1203568,7,0001485934,Class B Common Stock
+D,11/22/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,205335,205335,6,0001485934,Class B Common Stock
+D,11/22/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,20535367,20535367,5,0001485934,Class B Common Stock
+A,11/22/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,119034,215670,4,0001485934,Class A Common Stock
+A,11/22/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,1203569,2180664,3,0001485934,Class A Common Stock
+A,11/22/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,205335,205335,2,0001485934,Class A Common Stock
+A,11/22/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,20535367,20535367,1,0001485934,Class A Common Stock
+D,11/22/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,119034,119034,8,0001404868,Class B Common Stock
+D,11/22/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,1203569,1203568,7,0001404868,Class B Common Stock
+D,11/22/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,205335,205335,6,0001404868,Class B Common Stock
+D,11/22/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,20535367,20535367,5,0001404868,Class B Common Stock
+A,11/22/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,119034,215670,4,0001404868,Class A Common Stock
+A,11/22/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,1203569,2180664,3,0001404868,Class A Common Stock
+A,11/22/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,205335,205335,2,0001404868,Class A Common Stock
+A,11/22/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,20535367,20535367,1,0001404868,Class A Common Stock
+D,11/22/2021 00:00:00,Lynch Christopher Mark,4,C-Conversion,--D,26809,1229968,4,0001867031,Class B Common Stock
+A,11/22/2021 00:00:00,Lynch Christopher Mark,4,M-Exempt,--D,26809,1256777,3,0001867031,Class B Common Stock
+D,11/22/2021 00:00:00,Lynch Christopher Mark,4,M-Exempt,--D,26809,160691,2,0001867031,Employee Stock Option (right to buy)
+A,11/22/2021 00:00:00,Lynch Christopher Mark,4,C-Conversion,--D,26809,556777,1,0001867031,Class A Common Stock
+D,11/16/2021 00:00:00,Lazzaron Luca,4/A,C-Conversion,--D,0,600000,5,0001867345,Class B Common Stock
+D,11/16/2021 00:00:00,Lazzaron Luca,4/A,S-Sale,--D,50000,269081,3,0001867345,Class A Common Stock
+A,11/16/2021 00:00:00,Lazzaron Luca,4/A,C-Conversion,--D,0,319081,2,0001867345,Class A Common Stock
+D,11/16/2021 00:00:00,Lazzaron Luca,4,C-Conversion,--D,50000,550000,5,0001867345,Class B Common Stock
+D,11/16/2021 00:00:00,Lazzaron Luca,4,S-Sale,--D,50000,169081,3,0001867345,Class A Common Stock
+A,11/16/2021 00:00:00,Lazzaron Luca,4,C-Conversion,--D,50000,219081,2,0001867345,Class A Common Stock
+D,11/16/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,1877688,0,8,0001619710,Class B Common Stock
+D,11/16/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,2481424,0,7,0001619710,Class B Common Stock
+D,11/16/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,3551725,0,6,0001619710,Class B Common Stock
+D,11/16/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--D,4537203,0,5,0001619710,Class B Common Stock
+A,11/16/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,1877688,2747682,4,0001619710,Class A Common Stock
+A,11/16/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,2481424,10947814,3,0001619710,Class A Common Stock
+A,11/16/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,3551725,5197355,2,0001619710,Class A Common Stock
+A,11/16/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--D,4537203,6639439,1,0001619710,Class A Common Stock
+D,09/24/2021 00:00:00,Conn Wilson Grad,4,C-Conversion,--D,16582,0,2,0001866859,Class B Common Stock
+A,09/24/2021 00:00:00,Conn Wilson Grad,4,C-Conversion,--D,16582,16582,1,0001866859,Class A Common Stock
+D,09/23/2021 00:00:00,Adams Diane,4,C-Conversion,--D,12436,140000,2,0001475901,Class B Common Stock
+A,09/23/2021 00:00:00,Adams Diane,4,C-Conversion,--D,12436,12436,1,0001475901,Class A Common Stock
+D,09/14/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,804723,1877688,8,0001619710,Class B Common Stock
+D,09/14/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,8206325,2481424,7,0001619710,Class B Common Stock
+D,09/14/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,1522168,3551725,6,0001619710,Class B Common Stock
+D,09/14/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--D,1944516,4537203,5,0001619710,Class B Common Stock
+A,09/14/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,804723,869994,4,0001619710,Class A Common Stock
+A,09/14/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,8206325,8466390,3,0001619710,Class A Common Stock
+A,09/14/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,1522168,1645630,2,0001619710,Class A Common Stock
+A,09/14/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--D,1944516,2102236,1,0001619710,Class A Common Stock
+D,09/13/2021 00:00:00,Lynch Christopher Mark,4,C-Conversion,--D,529968,1229968,2,0001867031,Class B Common Stock
+A,09/13/2021 00:00:00,Lynch Christopher Mark,4,C-Conversion,--D,529968,529968,1,0001867031,Class A Common Stock
+D,09/04/2021 00:00:00,Lazzaron Luca,4/A,C-Conversion,--D,150000,600000,4,0001867345,Class B Common Stock
+A,09/04/2021 00:00:00,Lazzaron Luca,4/A,C-Conversion,--D,150000,319081,1,0001867345,Class A Common Stock
+D,08/30/2021 00:00:00,Lazzaron Luca,4,C-Conversion,--D,169081,600000,4,0001867345,Class B Common Stock
+A,08/30/2021 00:00:00,Lazzaron Luca,4,C-Conversion,--D,169081,169081,1,0001867345,Class A Common Stock
+A,06/25/2021 00:00:00,Kanouff Yvette,4/A,A-Award,--D,0,0,2,0001333214,Stock Option (right to buy)
+A,06/25/2021 00:00:00,Kanouff Yvette,4/A,A-Award,--D,12368,12368,1,0001333214,Class A Common Stock
+A,06/25/2021 00:00:00,GILLIS EDWIN J,4/A,A-Award,--D,0,0,2,0001186557,Stock Option (right to buy)
+A,06/25/2021 00:00:00,GILLIS EDWIN J,4/A,A-Award,--D,13420,13420,1,0001186557,Class A Common Stock
+A,06/25/2021 00:00:00,CHAMBERS JOHN T,4/A,A-Award,--D,0,0,2,0001198044,Stock Option (right to buy)
+A,06/25/2021 00:00:00,CHAMBERS JOHN T,4/A,A-Award,--D,17631,17631,1,0001198044,Class A Common Stock
+A,06/25/2021 00:00:00,Agrawal Neeraj,4/A,A-Award,--D,0,0,2,0001532809,Stock Option (right to buy)
+A,06/25/2021 00:00:00,Agrawal Neeraj,4/A,A-Award,--D,12789,12789,1,0001532809,Class A Common Stock
+A,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,2318632,2318632,23,0001866802,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,2318632,0,22,0001866802,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,2318632,2318632,21,0001866802,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,2318632,0,20,0001866802,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,2318632,2318632,19,0001866802,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,2318632,0,18,0001866802,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,600000,600000,17,0001866802,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,600000,0,16,0001866802,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,575000,575000,15,0001866802,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,575000,0,14,0001866802,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,2318632,2318632,13,0001866802,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,2318632,0,12,0001866802,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,500000,500000,11,0001866802,Class B Common Stock
+A,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,3165320,3165320,10,0001866802,Class B Common Stock
+A,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,13106677,13106677,9,0001866802,Class B Common Stock
+A,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,8129863,8129863,8,0001866802,Class B Common Stock
+A,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,28770704,28770704,7,0001866802,Class B Common Stock
+A,06/25/2021 00:00:00,Thomas Ragy,4,P-Purchase,--D,31250,31250,6,0001866802,Class A Common Stock
+D,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,500000,0,5,0001866802,Common Stock
+D,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,3165320,0,4,0001866802,Common Stock
+D,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,13106677,0,3,0001866802,Common Stock
+D,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,8129863,0,2,0001866802,Common Stock
+D,06/25/2021 00:00:00,Thomas Ragy,4,J-Other,--D,28770704,0,1,0001866802,Common Stock
+A,06/25/2021 00:00:00,Singh Pavitar,4,J-Other,--D,500000,500000,10,0001866840,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Singh Pavitar,4,J-Other,--D,500000,0,9,0001866840,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Singh Pavitar,4,J-Other,--D,415625,415625,8,0001866840,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Singh Pavitar,4,J-Other,--D,415625,0,7,0001866840,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Singh Pavitar,4,J-Other,--D,175000,175000,6,0001866840,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Singh Pavitar,4,J-Other,--D,175000,0,5,0001866840,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Singh Pavitar,4,J-Other,--D,162500,162500,4,0001866840,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Singh Pavitar,4,J-Other,--D,162500,0,3,0001866840,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Singh Pavitar,4,J-Other,--D,1876186,1876186,2,0001866840,Class B Common Stock
+D,06/25/2021 00:00:00,Singh Pavitar,4,J-Other,--D,1876186,0,1,0001866840,Common Stock
+A,06/25/2021 00:00:00,Lynch Christopher Mark,4,J-Other,--D,500000,500000,10,0001867031,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Lynch Christopher Mark,4,J-Other,--D,500000,0,9,0001867031,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Lynch Christopher Mark,4,J-Other,--D,525000,525000,8,0001867031,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Lynch Christopher Mark,4,J-Other,--D,525000,0,7,0001867031,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Lynch Christopher Mark,4,J-Other,--D,206250,206250,6,0001867031,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Lynch Christopher Mark,4,J-Other,--D,206250,0,5,0001867031,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Lynch Christopher Mark,4,J-Other,--D,187500,187500,4,0001867031,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Lynch Christopher Mark,4,J-Other,--D,187500,0,3,0001867031,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Lynch Christopher Mark,4,J-Other,--D,1759936,1759936,2,0001867031,Class B Common Stock
+D,06/25/2021 00:00:00,Lynch Christopher Mark,4,J-Other,--D,1759936,0,1,0001867031,Common Stock
+A,06/25/2021 00:00:00,Lazzaron Luca,4,J-Other,--D,500000,500000,12,0001867345,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Lazzaron Luca,4,J-Other,--D,500000,0,11,0001867345,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Lazzaron Luca,4,J-Other,--D,525000,525000,10,0001867345,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Lazzaron Luca,4,J-Other,--D,525000,0,9,0001867345,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Lazzaron Luca,4,J-Other,--D,220000,220000,8,0001867345,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Lazzaron Luca,4,J-Other,--D,220000,0,7,0001867345,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Lazzaron Luca,4,J-Other,--D,162500,162500,6,0001867345,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Lazzaron Luca,4,J-Other,--D,162500,0,5,0001867345,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Lazzaron Luca,4,J-Other,--D,100000,100000,4,0001867345,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Lazzaron Luca,4,J-Other,--D,100000,0,3,0001867345,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Lazzaron Luca,4,J-Other,--D,769081,769081,2,0001867345,Class B Common Stock
+D,06/25/2021 00:00:00,Lazzaron Luca,4,J-Other,--D,769081,0,1,0001867345,Common Stock
+A,06/25/2021 00:00:00,Kundra Vivek,4,J-Other,--I,100000,100000,12,0001867888,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Kundra Vivek,4,J-Other,--I,100000,0,11,0001867888,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Kundra Vivek,4,J-Other,--D,500000,500000,10,0001867888,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Kundra Vivek,4,J-Other,--D,500000,0,9,0001867888,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Kundra Vivek,4,J-Other,--D,425000,425000,8,0001867888,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Kundra Vivek,4,J-Other,--D,425000,0,7,0001867888,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Kundra Vivek,4,J-Other,--D,206250,206250,6,0001867888,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Kundra Vivek,4,J-Other,--D,206250,0,5,0001867888,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Kundra Vivek,4,J-Other,--D,337500,337500,4,0001867888,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Kundra Vivek,4,J-Other,--D,337500,0,3,0001867888,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Kundra Vivek,4,J-Other,--D,617173,617173,2,0001867888,Class B Common Stock
+D,06/25/2021 00:00:00,Kundra Vivek,4,J-Other,--D,617173,0,1,0001867888,Common Stock
+A,06/25/2021 00:00:00,Kanouff Yvette,4,J-Other,--D,300000,300000,3,0001333214,Stock Option (right to buy)
+D,06/25/2021 00:00:00,Kanouff Yvette,4,J-Other,--D,300000,0,2,0001333214,Stock Option (right to buy)
+A,06/25/2021 00:00:00,Kanouff Yvette,4,A-Award,--D,12368,12368,1,0001333214,Stock Option (right to buy)
+A,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,J-Other,--I,2682411,2682411,32,0001619710,Class B Common Stock
+A,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,J-Other,--I,10687749,10687749,31,0001619710,Class B Common Stock
+A,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,J-Other,--I,5073893,5073893,30,0001619710,Class B Common Stock
+A,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,J-Other,--D,6481719,6481719,29,0001619710,Class B Common Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,595107,0,28,0001619710,Series F Preferred Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--D,760231,0,27,0001619710,Series F Preferred Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,46829,0,26,0001619710,Series E-2 Preferred Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--D,59823,0,25,0001619710,Series E-2 Preferred Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,336077,0,24,0001619710,Series E-1 Preferred Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--D,429327,0,23,0001619710,Series E-1 Preferred Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,318573,0,22,0001619710,Series D-2 Preferred Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,1269324,0,21,0001619710,Series D-2 Preferred Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,1694248,0,20,0001619710,Series D-2 Preferred Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--D,2164349,0,19,0001619710,Series D-2 Preferred Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,2363838,0,18,0001619710,Series D Preferred Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,9418425,0,17,0001619710,Series D Preferred Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,1807612,0,16,0001619710,Series B Preferred Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--D,2309168,0,15,0001619710,Series B Preferred Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,J-Other,-EI,2682411,0,14,0001619710,Common Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,J-Other,-EI,10687749,0,13,0001619710,Common Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,J-Other,-EI,5073893,0,12,0001619710,Common Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,J-Other,-ED,6481719,0,11,0001619710,Common Stock
+A,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,2682411,2682411,10,0001619710,Common Stock
+A,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,10687749,10687749,9,0001619710,Common Stock
+A,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--I,4479873,5073893,8,0001619710,Common Stock
+A,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,C-Conversion,--D,5722898,6481719,7,0001619710,Common Stock
+A,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,P-Purchase,--I,65271,65271,6,0001619710,Class A Common Stock
+A,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,P-Purchase,--I,260065,260065,5,0001619710,Class A Common Stock
+A,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,P-Purchase,--I,123462,123462,4,0001619710,Class A Common Stock
+A,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,P-Purchase,--D,157720,157720,3,0001619710,Class A Common Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,J-Other,-EI,594020,0,2,0001619710,Common Stock
+D,06/25/2021 00:00:00,"ICONIQ STRATEGIC PARTNERS II, L.P.",4,J-Other,-ED,758821,0,1,0001619710,Common Stock
+A,06/25/2021 00:00:00,Haley Daniel P,4,J-Other,--D,200000,200000,8,0001653709,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Haley Daniel P,4,J-Other,--D,200000,0,7,0001653709,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Haley Daniel P,4,J-Other,--D,275000,275000,6,0001653709,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Haley Daniel P,4,J-Other,--D,275000,0,5,0001653709,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Haley Daniel P,4,J-Other,--D,500000,500000,4,0001653709,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Haley Daniel P,4,J-Other,--D,500000,0,3,0001653709,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Haley Daniel P,4,J-Other,--D,148291,0,2,0001653709,Class B Common Stock
+D,06/25/2021 00:00:00,Haley Daniel P,4,J-Other,--D,148291,0,1,0001653709,Common Stock
+A,06/25/2021 00:00:00,GILLIS EDWIN J,4,J-Other,--D,250000,250000,3,0001186557,Stock Option (right to buy)
+D,06/25/2021 00:00:00,GILLIS EDWIN J,4,J-Other,--D,250000,0,2,0001186557,Stock Option (right to buy)
+A,06/25/2021 00:00:00,GILLIS EDWIN J,4,A-Award,--D,13420,13420,1,0001186557,Stock Option (right to buy)
+A,06/25/2021 00:00:00,Dominguez Carlos,4,J-Other,--D,112500,112500,8,0001466264,Stock Option (right to buy)
+D,06/25/2021 00:00:00,Dominguez Carlos,4,J-Other,--D,112500,0,7,0001466264,Stock Option (right to buy)
+A,06/25/2021 00:00:00,Dominguez Carlos,4,J-Other,--D,103125,103125,6,0001466264,Stock Option (right to buy)
+D,06/25/2021 00:00:00,Dominguez Carlos,4,J-Other,--D,103125,0,5,0001466264,Stock Option (right to buy)
+A,06/25/2021 00:00:00,Dominguez Carlos,4,J-Other,--D,22917,22917,4,0001466264,Stock Option (right to buy)
+D,06/25/2021 00:00:00,Dominguez Carlos,4,J-Other,--D,22917,0,3,0001466264,Stock Option (right to buy)
+A,06/25/2021 00:00:00,Dominguez Carlos,4,J-Other,--D,2237122,2237122,2,0001466264,Class B Common Stock
+D,06/25/2021 00:00:00,Dominguez Carlos,4,J-Other,--D,2237122,0,1,0001466264,Common Stock
+A,06/25/2021 00:00:00,Conn Wilson Grad,4,J-Other,--D,150000,150000,10,0001866859,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Conn Wilson Grad,4,J-Other,--D,150000,0,9,0001866859,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Conn Wilson Grad,4,J-Other,--D,275000,275000,8,0001866859,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Conn Wilson Grad,4,J-Other,--D,275000,0,7,0001866859,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Conn Wilson Grad,4,J-Other,--D,85938,85938,6,0001866859,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Conn Wilson Grad,4,J-Other,--D,85938,0,5,0001866859,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Conn Wilson Grad,4,J-Other,--D,208333,208333,4,0001866859,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Conn Wilson Grad,4,J-Other,--D,208333,0,3,0001866859,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Conn Wilson Grad,4,J-Other,--D,16582,16582,2,0001866859,Class B Common Stock
+D,06/25/2021 00:00:00,Conn Wilson Grad,4,J-Other,--D,16582,0,1,0001866859,Common Stock
+A,06/25/2021 00:00:00,CHAMBERS JOHN T,4,J-Other,--I,400332,400332,7,0001198044,Class B Common Stock
+A,06/25/2021 00:00:00,CHAMBERS JOHN T,4,J-Other,--D,1350000,1350000,6,0001198044,Stock Option (right to buy)
+D,06/25/2021 00:00:00,CHAMBERS JOHN T,4,J-Other,--D,1350000,0,5,0001198044,Stock Option (right to buy)
+A,06/25/2021 00:00:00,CHAMBERS JOHN T,4,J-Other,--D,75000,75000,4,0001198044,Stock Option (right to buy)
+D,06/25/2021 00:00:00,CHAMBERS JOHN T,4,J-Other,--D,75000,0,3,0001198044,Stock Option (right to buy)
+A,06/25/2021 00:00:00,CHAMBERS JOHN T,4,A-Award,--D,17631,17631,2,0001198044,Stock Option (right to buy)
+D,06/25/2021 00:00:00,CHAMBERS JOHN T,4,J-Other,--I,400332,0,1,0001198044,Common Stock
+A,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,J-Other,--I,238068,238068,36,0001485934,Class B Common Stock
+A,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,J-Other,--I,2407137,2407137,35,0001485934,Class B Common Stock
+A,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,J-Other,--I,410670,410670,34,0001485934,Class B Common Stock
+A,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,J-Other,--I,41070734,41070734,33,0001485934,Class B Common Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,142042,0,32,0001485934,Series F Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,1436205,0,31,0001485934,Series F Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,55,0,30,0001485934,Series F Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,5498,0,29,0001485934,Series F Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,3016,0,28,0001485934,Series E-2 Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,30499,0,27,0001485934,Series E-2 Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,18,0,26,0001485934,Series E-2 Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,1773,0,25,0001485934,Series E-2 Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,7748,0,24,0001485934,Series E-1 Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,78340,0,23,0001485934,Series E-1 Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,144,0,22,0001485934,Series E-1 Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,14289,0,21,0001485934,Series E-1 Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,918,0,20,0001485934,Series D-2 Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,91707,0,19,0001485934,Series D-2 Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,2871,0,18,0001485934,Series D Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,287166,0,17,0001485934,Series D Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,64728,0,16,0001485934,Series C Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,6473307,0,15,0001485934,Series C Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,143199,0,14,0001485934,Series B Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,14321250,0,13,0001485934,Series B Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,198440,0,12,0001485934,Series A Preferred Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,19846041,0,11,0001485934,Series A Preferred Stock
+A,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,P-Purchase,--I,96636,96636,10,0001485934,Class A Common Stock
+A,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,P-Purchase,--I,977095,977095,9,0001485934,Class A Common Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,J-Other,--I,238068,0,8,0001485934,Common Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,J-Other,--I,2407137,0,7,0001485934,Common Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,J-Other,--I,410670,0,6,0001485934,Common Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,J-Other,--I,41070734,0,5,0001485934,Common Stock
+D,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,152806,238068,4,0001485934,Common Stock
+A,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,1545044,2407137,3,0001485934,Common Stock
+A,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,410373,410670,2,0001485934,Common Stock
+A,06/25/2021 00:00:00,"Battery Ventures IX, L.P.",4,C-Conversion,--I,41041031,41070734,1,0001485934,Common Stock
+A,06/25/2021 00:00:00,Lee Roger H,4,J-Other,--I,238068,238068,36,0001404868,Class B Common Stock
+A,06/25/2021 00:00:00,Lee Roger H,4,J-Other,--I,2407137,2407137,35,0001404868,Class B Common Stock
+A,06/25/2021 00:00:00,Lee Roger H,4,J-Other,--I,410670,410670,34,0001404868,Class B Common Stock
+A,06/25/2021 00:00:00,Lee Roger H,4,J-Other,--I,41070734,41070734,33,0001404868,Class B Common Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,142042,0,32,0001404868,Series F Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,1436205,0,31,0001404868,Series F Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,55,0,30,0001404868,Series F Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,5498,0,29,0001404868,Series F Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,3016,0,28,0001404868,Series E-2 Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,30499,0,27,0001404868,Series E-2 Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,18,0,26,0001404868,Series E-2 Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,1773,0,25,0001404868,Series E-2 Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,7748,0,24,0001404868,Series E-1 Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,78340,0,23,0001404868,Series E-1 Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,144,0,22,0001404868,Series E-1 Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,14289,0,21,0001404868,Series E-1 Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,918,0,20,0001404868,Series D-2 Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,91707,0,19,0001404868,Series D-2 Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,2871,0,18,0001404868,Series D Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,287166,0,17,0001404868,Series D Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,64728,0,16,0001404868,Series C Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,6473307,0,15,0001404868,Series C Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,143199,0,14,0001404868,Series B Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,14321250,0,13,0001404868,Series B Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,198440,0,12,0001404868,Series A Preferred Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,19846041,0,11,0001404868,Series A Preferred Stock
+A,06/25/2021 00:00:00,Lee Roger H,4,P-Purchase,--I,96636,96636,10,0001404868,Class A Common Stock
+A,06/25/2021 00:00:00,Lee Roger H,4,P-Purchase,--I,977095,977095,9,0001404868,Class A Common Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,J-Other,--I,238068,0,8,0001404868,Common Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,J-Other,--I,2407137,0,7,0001404868,Common Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,J-Other,--I,410670,0,6,0001404868,Common Stock
+D,06/25/2021 00:00:00,Lee Roger H,4,J-Other,--I,41070734,0,5,0001404868,Common Stock
+A,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,152806,238068,4,0001404868,Common Stock
+A,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,1545044,2407137,3,0001404868,Common Stock
+A,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,410373,410670,2,0001404868,Common Stock
+A,06/25/2021 00:00:00,Lee Roger H,4,C-Conversion,--I,41041031,41070734,1,0001404868,Common Stock
+A,06/25/2021 00:00:00,Agrawal Neeraj,4,J-Other,--I,238068,238068,37,0001532809,Class B Common Stock
+A,06/25/2021 00:00:00,Agrawal Neeraj,4,J-Other,--I,2407137,2407137,36,0001532809,Class B Common Stock
+A,06/25/2021 00:00:00,Agrawal Neeraj,4,J-Other,--I,410670,410670,35,0001532809,Class B Common Stock
+A,06/25/2021 00:00:00,Agrawal Neeraj,4,J-Other,--I,41070734,41070734,34,0001532809,Class B Common Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,142042,0,33,0001532809,Series F Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,1436205,0,32,0001532809,Series F Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,55,0,31,0001532809,Series F Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,5498,0,30,0001532809,Series F Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,3016,0,29,0001532809,Series E-2 Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,30499,0,28,0001532809,Series E-2 Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,18,0,27,0001532809,Series E-2 Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,1773,0,26,0001532809,Series E-2 Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,7748,0,25,0001532809,Series E-1 Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,78340,0,24,0001532809,Series E-1 Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,144,0,23,0001532809,Series E-1 Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,14289,0,22,0001532809,Series E-1 Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,918,0,21,0001532809,Series D-2 Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,91707,0,20,0001532809,Series D-2 Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,2871,0,19,0001532809,Series D Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,287166,0,18,0001532809,Series D Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,64728,0,17,0001532809,Series C Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,6473307,0,16,0001532809,Series C Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,143199,0,15,0001532809,Series B Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,14321250,0,14,0001532809,Series B Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,198440,0,13,0001532809,Series A Preferred Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,19846041,0,12,0001532809,Series A Preferred Stock
+A,06/25/2021 00:00:00,Agrawal Neeraj,4,A-Award,--D,12789,12789,11,0001532809,Stock Option (right to buy)
+A,06/25/2021 00:00:00,Agrawal Neeraj,4,P-Purchase,--I,96636,96636,10,0001532809,Class A Common Stock
+A,06/25/2021 00:00:00,Agrawal Neeraj,4,P-Purchase,--I,977095,977095,9,0001532809,Class A Common Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,J-Other,--I,238068,0,8,0001532809,Common Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,J-Other,--I,2407137,0,7,0001532809,Common Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,J-Other,--I,410670,0,6,0001532809,Common Stock
+D,06/25/2021 00:00:00,Agrawal Neeraj,4,J-Other,--I,41070734,0,5,0001532809,Common Stock
+A,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,152806,238068,4,0001532809,Common Stock
+A,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,1545044,2407137,3,0001532809,Common Stock
+A,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,410373,410670,2,0001532809,Common Stock
+A,06/25/2021 00:00:00,Agrawal Neeraj,4,C-Conversion,--I,41041031,41070734,1,0001532809,Common Stock
+A,06/25/2021 00:00:00,Adams Diane,4,J-Other,--D,200000,200000,10,0001475901,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Adams Diane,4,J-Other,--D,200000,0,9,0001475901,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Adams Diane,4,J-Other,--D,275000,275000,8,0001475901,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Adams Diane,4,J-Other,--D,275000,0,7,0001475901,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Adams Diane,4,J-Other,--D,85938,85938,6,0001475901,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Adams Diane,4,J-Other,--D,85938,0,5,0001475901,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Adams Diane,4,J-Other,--D,208333,208333,4,0001475901,Employee Stock Option (right to buy)
+D,06/25/2021 00:00:00,Adams Diane,4,J-Other,--D,208333,0,3,0001475901,Employee Stock Option (right to buy)
+A,06/25/2021 00:00:00,Adams Diane,4,J-Other,--D,152436,152436,2,0001475901,Class B Common Stock
+D,06/25/2021 00:00:00,Adams Diane,4,J-Other,--D,152436,0,1,0001475901,Common Stock
+A,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,J-Other,--I,55589960,55589960,23,0001767564,Class B Common Stock
+D,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,9090909,0,22,0001767564,Series G-2 Convertible Preferred Stock
+D,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,10810810,0,21,0001767564,Series G-1 Convertible Preferred Stock
+D,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,1867825,0,20,0001767564,Series F Convertible Preferred Stock
+D,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,111752,0,19,0001767564,Series E-2 Convertible Preferred Stock
+D,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,682186,0,18,0001767564,Series E-1 Convertible Preferred Stock
+D,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,18525,0,17,0001767564,Series D-2 Convertible Preferred Stock
+D,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,1393143,0,16,0001767564,Series D Convertible Preferred Stock
+D,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,4903524,0,15,0001767564,Series C Convertible Preferred Stock
+D,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,10347669,0,14,0001767564,Series B Convertible Preferred Stock
+D,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,5455519,0,13,0001767564,Series A Convertible Preferred Stock
+A,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,P-Purchase,--I,1413501,1413501,12,0001767564,Class A Common Stock
+D,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,J-Other,--I,55589960,0,11,0001767564,Common Stock
+A,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,9090909,55589960,10,0001767564,Common Stock
+A,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,10810810,46499051,9,0001767564,Common Stock
+A,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,1867825,35688241,8,0001767564,Common Stock
+A,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,111752,33820416,7,0001767564,Common Stock
+A,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,682186,33708664,6,0001767564,Common Stock
+A,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,18525,33026478,5,0001767564,Common Stock
+A,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,1393143,33007953,4,0001767564,Common Stock
+A,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,4903524,31614810,3,0001767564,Common Stock
+A,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,10347669,26711286,2,0001767564,Common Stock
+A,06/25/2021 00:00:00,"H&F Corporate Investors IX, Ltd.",4,C-Conversion,--I,5455519,16363617,1,0001767564,Common Stock
+A,06/22/2021 00:00:00,Thomas Ragy,4,A-Award,--D,2318632,2318632,8,0001866802,Employee Stock Option (right to buy)
+A,06/22/2021 00:00:00,Thomas Ragy,4,A-Award,--D,2318632,2318632,7,0001866802,Employee Stock Option (right to buy)
+A,06/22/2021 00:00:00,Thomas Ragy,4,A-Award,--D,2318632,2318632,6,0001866802,Employee Stock Option (right to buy)
+A,06/22/2021 00:00:00,Thomas Ragy,4,A-Award,--D,720000,28770704,1,0001866802,Common Stock
+A,06/22/2021 00:00:00,Singh Pavitar,4,A-Award,--D,600000,1876186,1,0001866840,Common Stock
+A,06/22/2021 00:00:00,Lynch Christopher Mark,4,A-Award,--D,600000,1759936,1,0001867031,Common Stock
+A,06/22/2021 00:00:00,Lazzaron Luca,4,A-Award,--D,600000,769081,1,0001867345,Common Stock
+A,06/22/2021 00:00:00,Kundra Vivek,4,A-Award,--D,600000,617173,1,0001867888,Common Stock
+A,06/22/2021 00:00:00,Haley Daniel P,4,A-Award,--D,140000,148291,1,0001653709,Common Stock
+A,06/22/2021 00:00:00,Adams Diane,4,A-Award,--D,140000,152436,1,0001475901,Common Stock

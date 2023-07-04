@@ -1,0 +1,401 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/05/2023 00:00:00,Spradlin Shane M.,4,S-Sale,--D,3284,40000,3,0001427690,Common Stock
+D,06/05/2023 00:00:00,Hulgrave Michelle,4,S-Sale,--D,2000,19834,2,0001862976,Common Stock
+D,06/01/2023 00:00:00,KURNICK ROBERT H JR,4,F-InKind,--D,8434,59442,1,0001226255,Common Stock
+D,06/01/2023 00:00:00,Spradlin Shane M.,4,F-InKind,--D,4216,43284,2,0001427690,Common Stock
+D,06/01/2023 00:00:00,PENSKE ROGER S,4,F-InKind,--D,42158,631231,1,0000942439,Common Stock
+D,06/01/2023 00:00:00,Hulgrave Michelle,4,F-InKind,--D,1592,21834,1,0001862976,Common Stock
+D,06/01/2023 00:00:00,Denker Claude H III,4,F-InKind,--D,4216,38238,1,0001644298,Common Stock
+A,06/01/2023 00:00:00,BARR JOHN,4,A-Award,--D,171,36085,1,0001226261,Deferred Stock Units (Phantom Stock)
+A,06/01/2023 00:00:00,Davis Lisa Ann,4,A-Award,--D,112,23516,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,06/01/2023 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,83,17476,1,0001732994,Deferred Stock Units (Phantom Stock)
+A,06/01/2023 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,246,51805,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,06/01/2023 00:00:00,Pierce Sandra E.,4,A-Award,--D,52,11061,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,06/01/2023 00:00:00,SMITH GREG C,4,A-Award,--D,95,19983,1,0001190855,Deferred Stock Units (Phantom Stock)
+D,05/03/2023 00:00:00,MCWATERS KIMBERLY J,4,S-Sale,--D,8524,0,1,0001272480,Common Stock
+D,05/02/2023 00:00:00,Davis Lisa Ann,4,S-Sale,--I,2029,0,1,0001706496,Common Stock
+D,03/08/2023 00:00:00,Spradlin Shane M.,4,G-Gift,-ED,35,47500,1,0001427690,Common Stock
+D,03/08/2023 00:00:00,BARR JOHN,4,S-Sale,--D,2000,3712,1,0001226261,Common Stock
+A,03/01/2023 00:00:00,Pierce Sandra E.,4,A-Award,--D,46,11009,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,03/01/2023 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,73,17393,1,0001732994,Deferred Stock Units (Phantom Stock)
+A,03/01/2023 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,216,51559,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,03/01/2023 00:00:00,Davis Lisa Ann,4,A-Award,--D,98,23404,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,03/01/2023 00:00:00,SMITH GREG C,4,A-Award,--D,83,19888,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,03/01/2023 00:00:00,BARR JOHN,4,A-Award,--D,151,35914,1,0001226261,Deferred Stock Units (Phantom Stock)
+D,02/22/2023 00:00:00,Spradlin Shane M.,4,S-Sale,--D,4389,47535,1,0001427690,Common Stock
+D,02/21/2023 00:00:00,SMITH GREG C,4,S-Sale,--D,2029,0,1,0001190855,Common Stock
+A,02/15/2023 00:00:00,Denker Claude H III,4,A-Award,--D,6909,42454,1,0001644298,Common Stock
+A,02/15/2023 00:00:00,Hulgrave Michelle,4,A-Award,--D,6909,23426,1,0001862976,Common Stock
+A,02/15/2023 00:00:00,Spradlin Shane M.,4,A-Award,--D,6909,51924,1,0001427690,Common Stock
+A,02/15/2023 00:00:00,KURNICK ROBERT H JR,4,A-Award,--D,9212,104057,1,0001226255,Common Stock
+A,02/15/2023 00:00:00,PENSKE ROGER S,4,A-Award,--D,50668,673389,1,0000942439,Common Stock
+A,12/14/2022 00:00:00,BARR JOHN,4,A-Award,--D,2029,5712,1,0001226261,Common Stock
+A,12/14/2022 00:00:00,Davis Lisa Ann,4,A-Award,--D,2029,2029,1,0001706496,Common Stock
+A,12/14/2022 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,2029,17321,1,0001732994,Deferred Stock Units (Phantom Stock)
+A,12/14/2022 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,2029,51343,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,12/14/2022 00:00:00,PENSKE GREGORY W,4,A-Award,--D,2678,2678,1,0001168830,Common Stock
+A,12/14/2022 00:00:00,Pierce Sandra E.,4,A-Award,--D,2029,10964,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,12/14/2022 00:00:00,SMITH GREG C,4,A-Award,--D,2029,2029,1,0001190855,Common Stock
+A,12/14/2022 00:00:00,THOMPSON H BRIAN,4,A-Award,--D,2455,108416,1,0001086564,Common Stock
+A,12/14/2022 00:00:00,STEINHART RONALD G,4,A-Award,--D,2029,52076,2,0001111641,Common Stock
+A,12/14/2022 00:00:00,EISENSON MICHAEL R,4,A-Award,--D,2029,79970,2,0001245724,Common Stock
+A,12/01/2022 00:00:00,Davis Lisa Ann,4,A-Award,--D,106,23306,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,12/01/2022 00:00:00,SMITH GREG C,4,A-Award,--D,90,19804,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,12/01/2022 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,224,49314,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,12/01/2022 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,70,15292,1,0001732994,Deferred Stock Units (Phantom Stock)
+A,12/01/2022 00:00:00,BARR JOHN,4,A-Award,--D,163,35764,1,0001226261,Deferred Stock Units (Phantom Stock)
+A,12/01/2022 00:00:00,Pierce Sandra E.,4,A-Award,--D,41,8935,1,0001562298,Deferred Stock Units (Phantom Stock)
+D,11/03/2022 00:00:00,STEINHART RONALD G,4,G-Gift,-ED,915,50047,1,0001111641,Common Stock
+A,09/01/2022 00:00:00,Davis Lisa Ann,4,A-Award,--D,105,23200,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,09/01/2022 00:00:00,SMITH GREG C,4,A-Award,--D,89,19714,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,09/01/2022 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,69,15222,1,0001732994,Deferred Stock Units (Phantom Stock)
+A,09/01/2022 00:00:00,Pierce Sandra E.,4,A-Award,--D,40,8894,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,09/01/2022 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,222,49090,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,09/01/2022 00:00:00,BARR JOHN,4,A-Award,--D,161,35601,1,0001226261,Deferred Stock Units (Phantom Stock)
+D,08/18/2022 00:00:00,EISENSON MICHAEL R,4,G-Gift,-ED,8193,77941,1,0001245724,Common Stock
+D,08/02/2022 00:00:00,BARR JOHN,4,S-Sale,--D,5000,3683,1,0001226261,Common Stock
+D,07/29/2022 00:00:00,KURNICK ROBERT H JR,5,G-Gift,--D,2285,94845,1,0001226255,Common Stock
+D,06/02/2022 00:00:00,Denker Claude H III,4,S-Sale,--D,4708,35545,2,0001644298,Common Stock
+D,06/02/2022 00:00:00,Pierce Sandra E.,4,S-Sale,--I,400,0,2,0001562298,Common Stock
+D,06/02/2022 00:00:00,Pierce Sandra E.,4,S-Sale,--I,3417,0,1,0001562298,Common Stock
+A,06/01/2022 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,65,15153,1,0001732994,Deferred Stock Units (Phantom Stock)
+A,06/01/2022 00:00:00,BARR JOHN,4,A-Award,--D,152,35440,1,0001226261,Deferred Stock Units (Phantom Stock)
+A,06/01/2022 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,209,48868,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,06/01/2022 00:00:00,Davis Lisa Ann,4,A-Award,--D,99,23095,1,0001706496,Deferred Stock Units (Phantom Stock)
+D,06/01/2022 00:00:00,Denker Claude H III,4,F-InKind,--D,3641,40253,1,0001644298,Common Stock
+D,06/01/2022 00:00:00,Spradlin Shane M.,4,S-Sale,--D,4207,45015,3,0001427690,Common Stock
+D,06/01/2022 00:00:00,Spradlin Shane M.,4,F-InKind,--D,4142,49222,2,0001427690,Common Stock
+D,06/01/2022 00:00:00,Hulgrave Michelle,4,S-Sale,--D,2000,16517,2,0001862976,Common Stock
+D,06/01/2022 00:00:00,Hulgrave Michelle,4,F-InKind,--D,1318,18517,1,0001862976,Common Stock
+A,06/01/2022 00:00:00,Pierce Sandra E.,4,A-Award,--D,38,8854,3,0001562298,Deferred Stock Units (Phantom Stock)
+D,06/01/2022 00:00:00,KURNICK ROBERT H JR,4,S-Sale,--D,9803,97130,2,0001226255,Common Stock
+D,06/01/2022 00:00:00,KURNICK ROBERT H JR,4,F-InKind,--D,7579,106933,1,0001226255,Common Stock
+D,06/01/2022 00:00:00,PENSKE ROGER S,4,S-Sale,--D,49009,622721,2,0000942439,Common Stock
+D,06/01/2022 00:00:00,PENSKE ROGER S,4,F-InKind,--D,37887,671730,1,0000942439,Common Stock
+A,06/01/2022 00:00:00,SMITH GREG C,4,A-Award,--D,84,19625,1,0001190855,Deferred Stock Units (Phantom Stock)
+D,05/17/2022 00:00:00,Spradlin Shane M.,4,G-Gift,-ED,45,53364,1,0001427690,Common Stock
+A,03/01/2022 00:00:00,SMITH GREG C,4,A-Award,--D,96,19541,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,03/01/2022 00:00:00,Pierce Sandra E.,4,A-Award,--D,43,8816,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,03/01/2022 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,238,48659,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,03/01/2022 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,74,15088,1,0001732994,Deferred Stock Units (Phantom Stock)
+A,03/01/2022 00:00:00,Davis Lisa Ann,4,A-Award,--D,113,22996,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,03/01/2022 00:00:00,BARR JOHN,4,A-Award,--D,173,35288,1,0001226261,Deferred Stock Units (Phantom Stock)
+A,02/15/2022 00:00:00,Spradlin Shane M.,4,A-Award,--D,8650,53409,1,0001427690,Common Stock (Restricted Shares)
+A,02/15/2022 00:00:00,PENSKE ROGER S,4,A-Award,--D,86498,709617,1,0000942439,Common Stock (Restricted Shares)
+A,02/15/2022 00:00:00,KURNICK ROBERT H JR,4,A-Award,--D,17300,114512,1,0001226255,Common Stock (Restricted Shares)
+A,02/15/2022 00:00:00,Hulgrave Michelle,4,A-Award,--D,7464,19835,1,0001862976,Common Stock (Restricted Shares)
+A,02/15/2022 00:00:00,Denker Claude H III,4,A-Award,--D,8650,43894,1,0001644298,Common Stock (Restricted Shares)
+A,12/16/2021 00:00:00,THOMPSON H BRIAN,4,A-Award,--D,2948,105961,1,0001086564,Voting Common Stock
+A,12/16/2021 00:00:00,STEINHART RONALD G,4,A-Award,--D,2477,50962,2,0001111641,Common Stock
+A,12/16/2021 00:00:00,SMITH GREG C,4,A-Award,--D,2477,19445,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,12/16/2021 00:00:00,Pierce Sandra E.,4,A-Award,--D,2477,2477,1,0001562298,Common Stock
+A,12/16/2021 00:00:00,PENSKE GREGORY W,4,A-Award,--D,3270,3270,1,0001168830,Voting Common Stock
+A,12/16/2021 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,2477,48421,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,12/16/2021 00:00:00,EISENSON MICHAEL R,4,A-Award,--D,2477,86134,1,0001245724,Voting Common Stock
+A,12/16/2021 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,2477,15014,1,0001732994,Deferred Stock Units (Phantom Stock)
+A,12/16/2021 00:00:00,Davis Lisa Ann,4,A-Award,--D,3072,22884,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,12/16/2021 00:00:00,BARR JOHN,4,A-Award,--D,2477,8683,1,0001226261,Common Stock
+A,12/01/2021 00:00:00,SMITH GREG C,4,A-Award,--D,78,16968,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,12/01/2021 00:00:00,Pierce Sandra E.,4,A-Award,--D,40,8773,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,12/01/2021 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,211,45944,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,12/01/2021 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,58,12537,1,0001732994,Deferred Stock Units (Phantom Stock)
+A,12/01/2021 00:00:00,Davis Lisa Ann,4,A-Award,--D,91,19812,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,12/01/2021 00:00:00,BARR JOHN,4,A-Award,--D,161,35116,1,0001226261,Deferred Stock Units (Phantom Stock)
+D,11/09/2021 00:00:00,STEINHART RONALD G,4,G-Gift,-ED,900,48485,1,0001111641,Common Stock
+A,09/01/2021 00:00:00,SMITH GREG C,4,A-Award,--D,84,16890,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,09/01/2021 00:00:00,Pierce Sandra E.,4,A-Award,--D,44,8732,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,09/01/2021 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,228,45732,2,0001272480,Deferred Stock Units (Phantom Stock)
+A,09/01/2021 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,62,12479,1,0001732994,Deferred Stock Units (Phantom Stock)
+A,09/01/2021 00:00:00,Davis Lisa Ann,4,A-Award,--D,98,19720,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,09/01/2021 00:00:00,BARR JOHN,4,A-Award,--D,174,34954,1,0001226261,Deferred Stock Units (Phantom Stock)
+D,08/16/2021 00:00:00,MCWATERS KIMBERLY J,4,G-Gift,-ED,400,8524,1,0001272480,Common Stock
+D,08/16/2021 00:00:00,PENSKE ROGER S,4,S-Sale,--I,25000,286835,1,0000942439,Common Stock
+D,08/03/2021 00:00:00,BARR JOHN,4,S-Sale,--D,5000,6206,1,0001226261,Common Stock
+D,07/30/2021 00:00:00,Spradlin Shane M.,4,S-Sale,--D,2000,44759,1,0001427690,Common Stock
+D,07/30/2021 00:00:00,KURNICK ROBERT H JR,4,S-Sale,--D,7662,97212,1,0001226255,Common Stock
+D,06/03/2021 00:00:00,PENSKE ROGER S,4,S-Sale,--D,8500,648119,3,0000942439,Common Stock
+A,06/02/2021 00:00:00,BARR JOHN,4,A-Award,--D,182,34780,1,0001226261,Deferred Stock Units (Phantom Stock)
+A,06/02/2021 00:00:00,Davis Lisa Ann,4,A-Award,--D,103,19622,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,06/02/2021 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,238,45504,1,0001272480,Deferred Stock Units (Phantom Stock)
+D,06/02/2021 00:00:00,PENSKE ROGER S,4,S-Sale,--D,12313,656619,2,0000942439,Common Stock
+D,06/02/2021 00:00:00,KURNICK ROBERT H JR,4,S-Sale,--D,7101,104874,3,0001226255,Common Stock
+D,06/02/2021 00:00:00,KURNICK ROBERT H JR,4,S-Sale,--D,1500,111975,2,0001226255,Common Stock
+D,06/02/2021 00:00:00,Spradlin Shane M.,4,S-Sale,--D,1265,46759,4,0001427690,Common Stock
+A,06/02/2021 00:00:00,Pierce Sandra E.,4,A-Award,--D,45,8689,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,06/02/2021 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,65,12417,1,0001732994,Deferred Stock Units (Phantom Stock)
+A,06/02/2021 00:00:00,SMITH GREG C,4,A-Award,--D,88,16806,1,0001190855,Deferred Stock Units (Phantom Stock)
+D,06/01/2021 00:00:00,PENSKE ROGER S,4,F-InKind,--D,35416,668932,1,0000942439,Common Stock
+D,06/01/2021 00:00:00,KURNICK ROBERT H JR,4,F-InKind,--D,7084,113475,1,0001226255,Common Stock
+D,06/01/2021 00:00:00,Spradlin Shane M.,4,F-InKind,--D,3215,48024,3,0001427690,Common Stock
+D,06/01/2021 00:00:00,Carlson John D. Jr.,4,F-InKind,--D,15080,28359,1,0001520240,Common Stock (Restricted Shares)
+D,06/01/2021 00:00:00,Denker Claude H III,4,F-InKind,--D,2315,35244,1,0001644298,Common Stock
+D,06/01/2021 00:00:00,Hulgrave Michelle,4,F-InKind,--D,1063,12371,1,0001862976,Common Stock
+D,05/28/2021 00:00:00,Spradlin Shane M.,4,G-Gift,-ED,150,51239,2,0001427690,Common Stock
+D,05/10/2021 00:00:00,BARR JOHN,4,S-Sale,--D,5000,11206,1,0001226261,Common Stock
+D,05/04/2021 00:00:00,Spradlin Shane M.,4,G-Gift,-ED,60,51389,1,0001427690,Common Stock
+D,04/29/2021 00:00:00,Denker Claude H III,4,S-Sale,--D,15000,37559,1,0001644298,Common Stock
+D,03/12/2021 00:00:00,STEINHART RONALD G,4,S-Sale,--D,10000,49385,1,0001111641,Common Stock
+A,03/01/2021 00:00:00,SMITH GREG C,4,A-Award,--D,103,16718,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,03/01/2021 00:00:00,Pierce Sandra E.,4,A-Award,--D,53,8643,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,03/01/2021 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,278,45266,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,03/01/2021 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,76,12352,1,0001732994,Deferred Stock Units (Phantom Shares)
+A,03/01/2021 00:00:00,Davis Lisa Ann,4,A-Award,--D,120,19520,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,03/01/2021 00:00:00,BARR JOHN,4,A-Award,--D,213,34598,1,0001226261,Deferred Stock Units (Phantom Stock)
+A,02/16/2021 00:00:00,KURNICK ROBERT H JR,4/A,A-Award,--D,28688,120559,1,0001226255,Common Stock (Restricted Shares)
+A,02/16/2021 00:00:00,KURNICK ROBERT H JR,4,A-Award,--D,28668,120539,1,0001226255,Common Stock (Restricted Shares)
+A,02/16/2021 00:00:00,PENSKE ROGER S,4,A-Award,--D,143338,704348,1,0000942439,Common Stock (Restricted Shares)
+A,02/16/2021 00:00:00,Denker Claude H III,4,A-Award,--D,14334,52559,1,0001644298,Common Stock (Restricted Shares)
+A,02/16/2021 00:00:00,Spradlin Shane M.,4,A-Award,--D,14334,51449,1,0001427690,Common Stock (Restricted Shares)
+A,02/16/2021 00:00:00,Carlson John D. Jr.,4,A-Award,--D,14334,43439,1,0001520240,Common Stock (Restricted Shares)
+A,12/09/2020 00:00:00,THOMPSON H BRIAN,4,A-Award,--D,319,103013,2,0001086564,Voting Common Stock
+A,12/09/2020 00:00:00,THOMPSON H BRIAN,4,A-Award,--D,4000,102694,1,0001086564,Voting Common Stock
+A,12/09/2020 00:00:00,STEINHART RONALD G,4,A-Award,--D,4000,59385,2,0001111641,Voting Common Stock
+A,12/09/2020 00:00:00,SMITH GREG C,4,A-Award,--D,4000,16615,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,12/09/2020 00:00:00,Pierce Sandra E.,4,A-Award,--D,340,8590,2,0001562298,Deferred Stock Units (Phantom Stock)
+A,12/09/2020 00:00:00,Pierce Sandra E.,4,A-Award,--D,4000,4000,1,0001562298,Common Stock
+A,12/09/2020 00:00:00,PENSKE GREGORY W,4,A-Award,--D,170,4170,2,0001168830,Voting Common Stock
+A,12/09/2020 00:00:00,PENSKE GREGORY W,4,A-Award,--D,4000,4000,1,0001168830,Voting Common Stock
+A,12/09/2020 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,4000,44988,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,12/09/2020 00:00:00,EISENSON MICHAEL R,4,A-Award,--D,4000,83657,1,0001245724,Voting Common Stock
+A,12/09/2020 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,4000,12276,1,0001732994,Deferred Stock Units (Phantom Shares)
+A,12/09/2020 00:00:00,Davis Lisa Ann,4,A-Award,--D,4340,19400,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,12/09/2020 00:00:00,BARR JOHN,4,A-Award,--D,4000,16206,1,0001226261,Common Stock
+A,12/01/2020 00:00:00,SMITH GREG C,4,A-Award,--D,92,12615,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,12/01/2020 00:00:00,Pierce Sandra E.,4,A-Award,--D,60,8250,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,12/01/2020 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,298,40988,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,12/01/2020 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,60,8276,1,0001732994,Deferred Stock Units (Phantom Shares)
+A,12/01/2020 00:00:00,Davis Lisa Ann,4,A-Award,--D,109,15060,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,12/01/2020 00:00:00,BARR JOHN,4,A-Award,--D,250,34385,1,0001226261,Deferred Stock Units (Phantom Stock)
+D,11/30/2020 00:00:00,STEINHART RONALD G,4,G-Gift,-ED,1755,55385,1,0001111641,Voting Common Stock
+D,11/17/2020 00:00:00,PENSKE ROGER S,5,G-Gift,--I,54762,286833,1,0000942439,Common Stock
+D,10/28/2020 00:00:00,Spradlin Shane M.,5,G-Gift,--D,200,37115,1,0001427690,Common Stock
+D,10/23/2020 00:00:00,Carlson John D. Jr.,4,S-Sale,--D,8000,29105,1,0001520240,Common Stock
+D,09/04/2020 00:00:00,BARR JOHN,4,S-Sale,--D,10000,12206,2,0001226261,Common Stock
+D,08/12/2020 00:00:00,Spradlin Shane M.,4,S-Sale,--D,5821,37315,1,0001427690,Common Stock
+D,06/01/2020 00:00:00,PENSKE ROGER S,4,F-InKind,--D,36419,608120,1,0000942439,Common Stock
+D,06/01/2020 00:00:00,Spradlin Shane M.,4,F-InKind,--D,3127,43136,1,0001427690,Common Stock
+D,06/01/2020 00:00:00,KURNICK ROBERT H JR,4,F-InKind,--D,6950,91871,1,0001226255,Common Stock
+D,06/01/2020 00:00:00,Denker Claude H III,4,F-InKind,--D,2454,38225,1,0001644298,Common Stock
+A,03/03/2020 00:00:00,BARR JOHN,4,L-Small,-ED,206,22206,1,0001226261,Common Stock
+A,03/03/2020 00:00:00,SMITH GREG C,4,A-Award,--D,116,12524,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,03/03/2020 00:00:00,Pierce Sandra E.,4,A-Award,--D,76,8190,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,03/03/2020 00:00:00,Penske Roger S Jr,4,A-Award,--D,116,12524,1,0001311260,Deferred Stock Units (Phantom Stock)
+A,03/03/2020 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,376,40690,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,03/03/2020 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,76,8216,1,0001732994,Deferred Stock Units (Phantom Shares)
+A,03/03/2020 00:00:00,Davis Lisa Ann,4,A-Award,--D,138,14950,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,03/03/2020 00:00:00,BARR JOHN,4,A-Award,--D,316,34135,1,0001226261,Deferred Stock Units (Phantom Stock)
+A,02/11/2020 00:00:00,Carlson John D. Jr.,4,A-Award,--D,4446,37105,1,0001520240,Common Stock (Restricted Shares)
+A,02/11/2020 00:00:00,Denker Claude H III,4,A-Award,--D,4446,40679,1,0001644298,Common Stock (Restricted Shares)
+A,02/11/2020 00:00:00,Spradlin Shane M.,4,A-Award,--D,4446,46263,1,0001427690,Common Stock (Restricted Shares)
+A,02/11/2020 00:00:00,KURNICK ROBERT H JR,4,A-Award,--D,8891,98821,1,0001226255,Common Stock (Restricted Shares)
+A,02/11/2020 00:00:00,PENSKE ROGER S,4,A-Award,--D,44456,644539,1,0000942439,Common Stock (Restricted Shares)
+A,12/11/2019 00:00:00,THOMPSON H BRIAN,4,A-Award,--D,718,98694,2,0001086564,Voting Common Stock
+A,12/11/2019 00:00:00,THOMPSON H BRIAN,4,A-Award,--D,4000,97976,1,0001086564,Voting Common Stock
+A,12/11/2019 00:00:00,STEINHART RONALD G,4,A-Award,--D,4000,57140,2,0001111641,Voting Common Stock
+A,12/11/2019 00:00:00,SMITH GREG C,4,A-Award,--D,4000,12408,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,12/11/2019 00:00:00,Pierce Sandra E.,4,A-Award,--D,766,8115,2,0001562298,Deferred Stock Units (Phantom Stock)
+A,12/11/2019 00:00:00,Pierce Sandra E.,4,A-Award,--D,4000,4000,1,0001562298,Common Stock
+A,12/11/2019 00:00:00,Penske Roger S Jr,4,A-Award,--D,4000,12408,1,0001311260,Deferred Stock Units (Phantom Stock)
+A,12/11/2019 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,4000,40314,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,12/11/2019 00:00:00,EISENSON MICHAEL R,4,A-Award,--D,4000,79657,1,0001245724,Voting Common Stock
+A,12/11/2019 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,4000,8140,1,0001732994,Deferred Stock Units (Phantom Shares)
+A,12/11/2019 00:00:00,Davis Lisa Ann,4,A-Award,--D,4766,14812,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,12/11/2019 00:00:00,BARR JOHN,4,A-Award,--D,4000,22000,1,0001226261,Common Stock
+A,12/03/2019 00:00:00,BARR JOHN,4,A-Award,--D,274,33820,1,0001226261,Deferred Stock Units (Phantom Stock)
+A,12/03/2019 00:00:00,Davis Lisa Ann,4,A-Award,--D,81,10046,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,12/03/2019 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,34,4140,1,0001732994,Deferred Stock Units (Phantom Shares)
+A,12/03/2019 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,294,36314,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,12/03/2019 00:00:00,Penske Roger S Jr,4,A-Award,--D,68,8408,1,0001311260,Deferred Stock Units (Phantom Stock)
+A,12/03/2019 00:00:00,Pierce Sandra E.,4,A-Award,--D,59,7348,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,12/03/2019 00:00:00,SMITH GREG C,4,A-Award,--D,68,8408,1,0001190855,Deferred Stock Units (Phantom Stock)
+D,11/13/2019 00:00:00,Carlson John D. Jr.,4,S-Sale,--D,5000,32659,1,0001520240,Common Stock
+D,11/12/2019 00:00:00,STEINHART RONALD G,4,G-Gift,-ED,1960,53140,1,0001111641,Voting Common Stock
+D,11/08/2019 00:00:00,Spradlin Shane M.,5,G-Gift,--D,100,41817,2,0001427690,Common Stock
+D,10/30/2019 00:00:00,Spradlin Shane M.,5,G-Gift,--D,65,41917,1,0001427690,Common Stock
+D,10/30/2019 00:00:00,MCWATERS KIMBERLY J,4,S-Sale,--D,5000,8924,1,0001272480,Common Stock
+D,09/11/2019 00:00:00,Spradlin Shane M.,4,I-Discretionary,--I,3431,0,2,0001427690,Common Stock
+D,09/11/2019 00:00:00,Spradlin Shane M.,4,S-Sale,--D,2500,41982,1,0001427690,Common Stock
+A,09/04/2019 00:00:00,SMITH GREG C,4,A-Award,--D,78,8340,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,09/04/2019 00:00:00,Pierce Sandra E.,4,A-Award,--D,68,7289,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,09/04/2019 00:00:00,Penske Roger S Jr,4,A-Award,--D,78,8340,1,0001311260,Deferred Stock Units (Phantom Stock)
+A,09/04/2019 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,335,36020,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,09/04/2019 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,38,4107,1,0001732994,Deferred Stock Units (Phantom Shares)
+A,09/04/2019 00:00:00,Davis Lisa Ann,4,A-Award,--D,93,9965,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,09/04/2019 00:00:00,BARR JOHN,4,A-Award,--D,312,33546,1,0001226261,Deferred Stock Units (Phantom Stock)
+A,06/04/2019 00:00:00,SMITH GREG C,4,A-Award,--D,70,8262,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,06/04/2019 00:00:00,Pierce Sandra E.,4,A-Award,--D,61,7221,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,06/04/2019 00:00:00,Penske Roger S Jr,4,A-Award,--D,70,8262,1,0001311260,Deferred Stock Units (Phantom Stock)
+A,06/04/2019 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,300,35685,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,06/04/2019 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,34,4069,1,0001732994,Deferred Stock Units (Phantom Shares)
+A,06/04/2019 00:00:00,Davis Lisa Ann,4,A-Award,--D,83,9872,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,06/04/2019 00:00:00,BARR JOHN,4,A-Award,--D,280,33234,1,0001226261,Deferred Stock Units (Phantom Stock)
+D,06/04/2019 00:00:00,KURNICK ROBERT H JR,4,S-Sale,--D,8579,89930,2,0001226255,Common Stock
+D,06/03/2019 00:00:00,Spradlin Shane M.,4,S-Sale,--D,2656,44482,2,0001427690,Common Stock
+D,06/03/2019 00:00:00,PENSKE ROGER S,4,D-Return,--I,213071,294485,3,0000942439,Common Stock
+D,06/03/2019 00:00:00,PENSKE ROGER S,4,D-Return,--D,43298,600083,2,0000942439,Common Stock
+D,06/01/2019 00:00:00,Spradlin Shane M.,4,F-InKind,--D,2962,47138,1,0001427690,Common Stock
+D,06/01/2019 00:00:00,PENSKE ROGER S,4,F-InKind,--D,30844,643381,1,0000942439,Common Stock
+D,06/01/2019 00:00:00,KURNICK ROBERT H JR,4,F-InKind,--D,6112,98509,1,0001226255,Common Stock
+D,06/01/2019 00:00:00,Denker Claude H III,4,F-InKind,--D,1911,36233,1,0001644298,Common Stock (Restricted Shares)
+D,06/01/2019 00:00:00,Carlson John D. Jr.,4,F-InKind,--D,2639,37659,1,0001520240,Common Stock (Restricted Shares)
+A,03/01/2019 00:00:00,SMITH GREG C,4,A-Award,--D,69.85,8192.79,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,03/01/2019 00:00:00,Pierce Sandra E.,4,A-Award,--D,61.05,7160.58,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,03/01/2019 00:00:00,Penske Roger S Jr,4,A-Award,--D,69.85,8192.79,1,0001311260,Deferred Stock Units (Phantom Stock)
+A,03/01/2019 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,301.69,35384.64,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,03/01/2019 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,34.4,4034.4,1,0001732994,Deferred Stock Units (Phantom Shares)
+A,03/01/2019 00:00:00,Davis Lisa Ann,4,A-Award,--D,83.46,9788.86,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,03/01/2019 00:00:00,BARR JOHN,4,A-Award,--D,280.96,32954.11,1,0001226261,Deferred Stock Units (Phantom Stock)
+D,02/28/2019 00:00:00,BARR JOHN,4,S-Sale,--D,5000,18000,1,0001226261,Common Stock
+A,02/12/2019 00:00:00,KURNICK ROBERT H JR,4,A-Award,--D,21509,104621,1,0001226255,Common Stock (Restricted Shares)
+A,02/12/2019 00:00:00,PENSKE ROGER S,4,A-Award,--D,107543,674225,1,0000942439,Common Stock (Restricted Shares)
+A,02/12/2019 00:00:00,Spradlin Shane M.,4,A-Award,--D,10754,50100,1,0001427690,Common Stock (Restricted Shares)
+A,02/12/2019 00:00:00,Denker Claude H III,4,A-Award,--D,10754,38144,1,0001644298,Common Stock (Restricted Shares)
+A,02/12/2019 00:00:00,Carlson John D. Jr.,4,A-Award,--D,10754,40298,1,0001520240,Common Stock (Restricted Shares)
+A,12/12/2018 00:00:00,THOMPSON H BRIAN,4,A-Award,--D,948,93976,2,0001086564,Voting Common Stock
+A,12/12/2018 00:00:00,THOMPSON H BRIAN,4,A-Award,--D,4000,93028,1,0001086564,Voting Common Stock
+A,12/12/2018 00:00:00,STEINHART RONALD G,4,A-Award,--D,4000,55100,2,0001111641,Voting Common Stock
+A,12/12/2018 00:00:00,SMITH GREG C,4,A-Award,--D,4000,8122.94,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,12/12/2018 00:00:00,Pierce Sandra E.,4,A-Award,--D,1011.38,7099.53,2,0001562298,Deferred Stock Units (Phantom Stock)
+A,12/12/2018 00:00:00,Pierce Sandra E.,4,A-Award,--D,4000,4000,1,0001562298,Common Stock
+A,12/12/2018 00:00:00,Penske Roger S Jr,4,A-Award,--D,4000,8122.94,1,0001311260,Deferred Stock Units (Phantom Stock)
+A,12/12/2018 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,4000,35082.95,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,12/12/2018 00:00:00,EISENSON MICHAEL R,4,A-Award,--D,4000,75657,2,0001245724,Voting Common Stock
+A,12/12/2018 00:00:00,Duerheimer Wolfgang,4,A-Award,--D,4000,4000,1,0001732994,Deferred Stock Units (Phantom Shares)
+A,12/12/2018 00:00:00,Davis Lisa Ann,4,A-Award,--D,5011.38,9705.4,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,12/12/2018 00:00:00,BARR JOHN,4,A-Award,--D,4000,23000,1,0001226261,Common Stock
+A,12/04/2018 00:00:00,SMITH GREG C,4,A-Award,--D,35.92,4122.94,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,12/04/2018 00:00:00,Pierce Sandra E.,4,A-Award,--D,53.04,6088.15,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,12/04/2018 00:00:00,Penske Roger S Jr,4,A-Award,--D,35.92,4122.94,1,0001311260,Deferred Stock Units (Phantom Stock)
+A,12/04/2018 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,270.8,31082.95,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,12/04/2018 00:00:00,Davis Lisa Ann,4,A-Award,--D,40.89,4694.01,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,12/04/2018 00:00:00,BARR JOHN,4,A-Award,--D,284.65,32673.15,1,0001226261,Deferred Stock Units (Phantom Stock)
+D,11/21/2018 00:00:00,STEINHART RONALD G,4,G-Gift,-ED,2300,51100,1,0001111641,Voting Common Stock
+D,09/06/2018 00:00:00,EISENSON MICHAEL R,4,G-Gift,-ED,25000,71657,1,0001245724,Voting Common Stock
+A,09/05/2018 00:00:00,SMITH GREG C,4,A-Award,--D,27.79,4087.02,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,09/05/2018 00:00:00,Pierce Sandra E.,4,A-Award,--D,41.04,6035.11,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,09/05/2018 00:00:00,Penske Roger S Jr,4,A-Award,--D,27.79,4087.02,1,0001311260,Deferred Stock Units (Phantom Stock)
+A,09/05/2018 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,209.53,30812.15,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,09/05/2018 00:00:00,Davis Lisa Ann,4,A-Award,--D,31.64,4653.12,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,09/05/2018 00:00:00,BARR JOHN,4,A-Award,--D,220.25,32388.5,1,0001226261,Deferred Stock Units (Phantom Stock)
+D,08/31/2018 00:00:00,Spradlin Shane M.,5,G-Gift,--D,50,39346,1,0001427690,Common Stock
+A,06/01/2018 00:00:00,SMITH GREG C,4,A-Award,--D,29.02,4059.23,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,06/01/2018 00:00:00,Pierce Sandra E.,4,A-Award,--D,42.86,5994.07,1,0001562298,Deferred Stock Units (Phantom Stock)
+D,06/01/2018 00:00:00,KURNICK ROBERT H JR,4,G-Gift,-ED,2100,83112,2,0001226255,Common Stock
+D,06/01/2018 00:00:00,KURNICK ROBERT H JR,4,F-InKind,--D,7908,85212,1,0001226255,Common Stock
+D,06/01/2018 00:00:00,Denker Claude H III,4,F-InKind,--D,1614,27390,1,0001644298,Common Stock (Restricted Shares)
+D,06/01/2018 00:00:00,Spradlin Shane M.,4,S-Sale,--D,2150,39396,2,0001427690,Common Stock
+D,06/01/2018 00:00:00,Spradlin Shane M.,4,F-InKind,--D,2971,41546,1,0001427690,Common Stock
+A,06/01/2018 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,218.81,30602.62,2,0001272480,Deferred Stock Units (Phantom Stock)
+D,06/01/2018 00:00:00,MCWATERS KIMBERLY J,4,S-Sale,--D,5000,13924,1,0001272480,Common Stock
+D,06/01/2018 00:00:00,Carlson John D. Jr.,4,F-InKind,--D,2061,29544,1,0001520240,Common Stock (Restricted Shares)
+D,06/01/2018 00:00:00,PENSKE ROGER S,4,F-InKind,--D,37895,619877,1,0000942439,Common Stock
+A,06/01/2018 00:00:00,Penske Roger S Jr,4,A-Award,--D,29.02,4059.23,1,0001311260,Deferred Stock Units (Phantom Stock)
+A,06/01/2018 00:00:00,Davis Lisa Ann,4,A-Award,--D,33.04,4621.48,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,06/01/2018 00:00:00,BARR JOHN,4,A-Award,--D,230.01,32168.25,1,0001226261,Deferred Stock Units (Phantom Stock)
+A,05/18/2018 00:00:00,THOMPSON H BRIAN,4,P-Purchase,--I,4000,4000,1,0001086564,Voting Common Stock
+D,03/27/2018 00:00:00,MITSUI & CO LTD,4,S-Sale,--D,226603,2664042,2,0000067099,Common Stock
+D,03/27/2018 00:00:00,MITSUI & CO LTD,4,S-Sale,--D,906413,10658163,1,0000067099,Common Stock
+A,03/01/2018 00:00:00,SMITH GREG C,4,A-Award,--D,30.2,4030.2,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,03/01/2018 00:00:00,Pierce Sandra E.,4,A-Award,--D,44.6,5951.21,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,03/01/2018 00:00:00,Penske Roger S Jr,4,A-Award,--D,30.2,4030.2,1,0001311260,Deferred Stock Units (Phantom Stock)
+A,03/01/2018 00:00:00,NOTO LUCIO A,4,A-Award,--D,391.87,52291.49,1,0001180541,Deferred Stock Units (Phantom Stock)
+A,03/01/2018 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,227.69,30383.81,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,03/01/2018 00:00:00,LOVEJOY WILLIAM J,4,A-Award,--D,562.16,75015.72,1,0001283649,Deferred Stock Units (Phantom Stock)
+A,03/01/2018 00:00:00,Davis Lisa Ann,4,A-Award,--D,34.39,4588.44,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,03/01/2018 00:00:00,BARR JOHN,4,A-Award,--D,239.34,31938.25,1,0001226261,Deferred Stock Units (Phantom Stock)
+A,02/13/2018 00:00:00,Spradlin Shane M.,4,A-Award,--D,6761,44517,1,0001427690,Common Stock (Restricted Shares)
+A,02/13/2018 00:00:00,PENSKE ROGER S,4,A-Award,--D,74434,657772,1,0000942439,Common Stock (Restricted Shares)
+A,02/13/2018 00:00:00,KURNICK ROBERT H JR,4,A-Award,--D,14887,93120,1,0001226255,Common Stock (Restricted Shares)
+A,02/13/2018 00:00:00,Denker Claude H III,4,A-Award,--D,6761,29004,1,0001644298,Common Stock (Restricted Shares)
+A,02/13/2018 00:00:00,Carlson John D. Jr.,4,A-Award,--D,6761,31605,1,0001520240,Common Stock (Restricted Shares)
+A,12/13/2017 00:00:00,THOMPSON H BRIAN,4,A-Award,--D,467,89028,2,0001086564,Voting Common Stock
+A,12/13/2017 00:00:00,THOMPSON H BRIAN,4,A-Award,--D,4000,88561,1,0001086564,Voting Common Stock
+A,12/13/2017 00:00:00,STEINHART RONALD G,4,A-Award,--D,4000,53400,2,0001111641,Voting Common Stock
+A,12/13/2017 00:00:00,SMITH GREG C,4,A-Award,--D,4000,4000,1,0001190855,Deferred Stock Units (Phantom Stock)
+A,12/13/2017 00:00:00,Pierce Sandra E.,4,A-Award,--D,831.08,5906.62,2,0001562298,Deferred Stock Units (Phantom Stock)
+A,12/13/2017 00:00:00,Pierce Sandra E.,4,A-Award,--D,4000,16700,1,0001562298,Common Stock
+A,12/13/2017 00:00:00,Penske Roger S Jr,4,A-Award,--D,4000,4000,1,0001311260,Deferred Stock Units (Phantom Stock)
+A,12/13/2017 00:00:00,NOTO LUCIO A,4,A-Award,--D,4831.08,51899.62,1,0001180541,Deferred Stock Units (Phantom Stock)
+A,12/13/2017 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,4000,30156.11,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,12/13/2017 00:00:00,LOVEJOY WILLIAM J,4,A-Award,--D,4831.08,74453.56,1,0001283649,Deferred Stock Units (Phantom Stock)
+A,12/13/2017 00:00:00,EISENSON MICHAEL R,4,A-Award,--D,970,96657,2,0001245724,Voting Common Stock
+A,12/13/2017 00:00:00,EISENSON MICHAEL R,4,A-Award,--D,4000,95687,1,0001245724,Voting Common Stock
+A,12/13/2017 00:00:00,Davis Lisa Ann,4,A-Award,--D,4554.05,4554.05,1,0001706496,Deferred Stock Units (Phantom Stock)
+A,12/13/2017 00:00:00,BARR JOHN,4,A-Award,--D,4000,19000,1,0001226261,Common Stock
+A,12/01/2017 00:00:00,BARR JOHN,4,A-Award,--D,213.4,31698.91,1,0001226261,Deferred Stock Units (Phantom Stock)
+A,12/01/2017 00:00:00,LOVEJOY WILLIAM J,4,A-Award,--D,468.69,69622.47,1,0001283649,Deferred Stock Units (Phantom Stock)
+A,12/01/2017 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,176.08,26156.11,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,12/01/2017 00:00:00,NOTO LUCIO A,4,A-Award,--D,316.86,47068.53,1,0001180541,Deferred Stock Units (Phantom Stock)
+A,12/01/2017 00:00:00,Pierce Sandra E.,4,A-Award,--D,34.17,5075.54,1,0001562298,Deferred Stock Units (Phantom Stock)
+D,11/13/2017 00:00:00,Carlson John D. Jr.,4,S-Sale,--D,7000,24844,1,0001520240,Common Stock
+D,11/06/2017 00:00:00,Spradlin Shane M.,4,S-Sale,--D,3188,37756,2,0001427690,Common Stock
+D,11/01/2017 00:00:00,STEINHART RONALD G,4,G-Gift,-ED,2100,49400,1,0001111641,Voting Common Stock
+D,10/27/2017 00:00:00,Spradlin Shane M.,4,G-Gift,-ED,200,40944,1,0001427690,Common Stock
+A,10/20/2017 00:00:00,PENSKE ROGER S,4,P-Purchase,--I,1103996,33688936,1,0000942439,Common Stock
+A,10/20/2017 00:00:00,PENSKE CORP,4,P-Purchase,--I,1103996,33688936,1,0000849531,Common Stock
+D,10/20/2017 00:00:00,MITSUI & CO LTD,4,S-Sale,--D,220799,2890645,2,0000067099,Common Stock
+D,10/20/2017 00:00:00,MITSUI & CO LTD,4,S-Sale,--D,883197,11564576,1,0000067099,Common Stock
+A,09/01/2017 00:00:00,Pierce Sandra E.,4,A-Award,--D,37.15,5041.37,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,09/01/2017 00:00:00,NOTO LUCIO A,4,A-Award,--D,344.47,46751.67,1,0001180541,Deferred Stock Units (Phantom Stock)
+A,09/01/2017 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,191.43,25980.03,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,09/01/2017 00:00:00,LOVEJOY WILLIAM J,4,A-Award,--D,509.54,69153.78,1,0001283649,Deferred Stock Units (Phantom Stock)
+A,09/01/2017 00:00:00,BARR JOHN,4,A-Award,--D,231.99,31485.51,1,0001226261,Deferred Stock Units (Phantom Stock)
+D,08/09/2017 00:00:00,Denker Claude H III,4,S-Sale,--D,5000,22243,1,0001644298,Common Stock
+D,06/01/2017 00:00:00,PENSKE ROGER S,4,F-InKind,--D,42723,1037699,1,0000942439,Common Stock
+A,06/01/2017 00:00:00,Pierce Sandra E.,4,A-Award,--D,35.59,5004.22,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,06/01/2017 00:00:00,NOTO LUCIO A,4,A-Award,--D,330.04,46407.2,1,0001180541,Deferred Stock Units (Phantom Stock)
+A,06/01/2017 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,183.4,25788.6,1,0001272480,Deferred Stock Units (Phantom Stock)
+D,06/01/2017 00:00:00,Spradlin Shane M.,4,S-Sale,--D,1900,41144,2,0001427690,Common Stock
+D,06/01/2017 00:00:00,Spradlin Shane M.,4,F-InKind,--D,3626,43044,1,0001427690,Common Stock
+D,06/01/2017 00:00:00,KURNICK ROBERT H JR,4,S-Sale,--D,11172,78233,2,0001226255,Common Stock
+D,06/01/2017 00:00:00,KURNICK ROBERT H JR,4,F-InKind,--D,7959,89405,1,0001226255,Common Stock
+A,06/01/2017 00:00:00,LOVEJOY WILLIAM J,4,A-Award,--D,488.18,68644.24,1,0001283649,Deferred Stock Units (Phantom Stock)
+D,06/01/2017 00:00:00,Carlson John D. Jr.,4,F-InKind,--D,2278,31844,1,0001520240,Common Stock (Restricted Shares)
+A,06/01/2017 00:00:00,BARR JOHN,4,A-Award,--D,222.27,31253.52,1,0001226261,Deferred Stock Units (Phantom Stock)
+A,03/01/2017 00:00:00,Pierce Sandra E.,4,A-Award,--D,29.21,4968.63,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,03/01/2017 00:00:00,NOTO LUCIO A,4,A-Award,--D,270.88,46077.16,1,0001180541,Deferred Stock Units (Phantom Stock)
+A,03/01/2017 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,150.53,25605.2,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,03/01/2017 00:00:00,LOVEJOY WILLIAM J,4,A-Award,--D,400.68,68156.06,1,0001283649,Deferred Stock Units (Phantom Stock)
+A,03/01/2017 00:00:00,BARR JOHN,4,A-Award,--D,182.43,31031.25,1,0001226261,Deferred Stock Units (Phantom Stock)
+A,02/08/2017 00:00:00,PENSKE ROGER S,4/A,A-Award,--D,87085,1080422,1,0000942439,Common Stock (Restricted Shares)
+A,02/08/2017 00:00:00,KURNICK ROBERT H JR,4/A,A-Award,--D,17417,97364,1,0001226255,Common Stock (Restricted Shares)
+A,02/08/2017 00:00:00,PENSKE ROGER S,4,A-Award,--D,91144,1084481,1,0000942439,Common Stock
+A,02/08/2017 00:00:00,KURNICK ROBERT H JR,4,A-Award,--D,18229,98176,3,0001226255,Common Stock (Restricted Shares)
+A,02/08/2017 00:00:00,Spradlin Shane M.,4,A-Award,--D,5695,46670,3,0001427690,Common Stock (Restricted Shares)
+A,02/08/2017 00:00:00,Denker Claude H III,4,A-Award,--D,3861,28928,1,0001644298,Common Stock (Restricted Shares)
+A,02/08/2017 00:00:00,Carlson John D. Jr.,4,A-Award,--D,3861,34122,1,0001520240,Common Stock (Restricted Shares)
+D,01/25/2017 00:00:00,Pierce Sandra E.,5,S-Sale,-LD,300,0,2,0001562298,Common Stock
+A,12/14/2016 00:00:00,EISENSON MICHAEL R,4,A-Award,--D,947,91687,2,0001245724,Voting Common Stock
+A,12/14/2016 00:00:00,EISENSON MICHAEL R,4,A-Award,--D,4000,90740,1,0001245724,Voting Common Stock
+A,12/14/2016 00:00:00,THOMPSON H BRIAN,4,A-Award,--D,426,84561,2,0001086564,Voting Common Stock
+A,12/14/2016 00:00:00,THOMPSON H BRIAN,4,A-Award,--D,4000,84135,1,0001086564,Voting Common Stock
+A,12/14/2016 00:00:00,STEINHART RONALD G,4,A-Award,--D,4000,51500,2,0001111641,Voting Common Stock
+A,12/14/2016 00:00:00,Pierce Sandra E.,4,A-Award,--D,757.72,4939.43,2,0001562298,Deferred Stock Units (Phantom Stock)
+A,12/14/2016 00:00:00,Pierce Sandra E.,4,A-Award,--D,4000,12700,1,0001562298,Common Stock
+A,12/14/2016 00:00:00,PENSKE GREGORY W,4,A-Award,--D,758,4758,2,0001168830,Voting Common Stock
+A,12/14/2016 00:00:00,PENSKE GREGORY W,4,A-Award,--D,4000,4000,1,0001168830,Voting Common Stock
+A,12/14/2016 00:00:00,NOTO LUCIO A,4,A-Award,--D,4757.72,45806.27,1,0001180541,Deferred Stock Units (Phantom Stock)
+A,12/14/2016 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,4000,25454.67,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,12/14/2016 00:00:00,LOVEJOY WILLIAM J,4,A-Award,--D,4757.72,67755.39,1,0001283649,Deferred Stock Units (Phantom Stock)
+A,12/14/2016 00:00:00,BARR JOHN,4,A-Award,--D,4000,15000,1,0001226261,Common Stock
+D,12/09/2016 00:00:00,Spradlin Shane M.,4,G-Gift,-ED,180,40975,2,0001427690,Common Stock
+A,12/01/2016 00:00:00,KURNICK ROBERT H JR,4,L-Small,-ED,70,79947,2,0001226255,Common Stock
+A,12/01/2016 00:00:00,Pierce Sandra E.,4,A-Award,--D,23.32,4181.71,1,0001562298,Deferred Stock Units (Phantom Stock)
+A,12/01/2016 00:00:00,NOTO LUCIO A,4,A-Award,--D,228.88,41048.55,1,0001180541,Deferred Stock Units (Phantom Stock)
+A,12/01/2016 00:00:00,MCWATERS KIMBERLY J,4,A-Award,--D,119.63,21454.67,1,0001272480,Deferred Stock Units (Phantom Stock)
+A,12/01/2016 00:00:00,LOVEJOY WILLIAM J,4,A-Award,--D,351.27,62997.67,1,0001283649,Deferred Stock Units (Phantom Stock)
+A,12/01/2016 00:00:00,BARR JOHN,4,A-Award,--D,172.01,30848.82,1,0001226261,Deferred Stock Units (Phantom Stock)
+D,11/10/2016 00:00:00,STEINHART RONALD G,4,G-Gift,-ED,2300,47500,1,0001111641,Voting Common Stock
+D,11/03/2016 00:00:00,Spradlin Shane M.,4,G-Gift,-ED,35,41155,1,0001427690,Common Stock
+D,09/12/2016 00:00:00,Spradlin Shane M.,4,S-Sale,--D,4900,41190,2,0001427690,Common Stock
+A,09/09/2016 00:00:00,PENSKE ROGER S,4,P-Purchase,--I,157602,32584940,2,0000942439,Common Stock
+A,09/09/2016 00:00:00,PENSKE CORP,4,P-Purchase,--I,157602,32584940,2,0000849531,Common Stock
+A,09/08/2016 00:00:00,PENSKE ROGER S,4,P-Purchase,--I,170000,32427338,1,0000942439,Common Stock
+A,09/08/2016 00:00:00,PENSKE CORP,4,P-Purchase,--I,170000,32427338,1,0000849531,Common Stock
+A,09/07/2016 00:00:00,PENSKE ROGER S,4,P-Purchase,--I,100000,32257338,3,0000942439,Common Stock
+A,09/07/2016 00:00:00,PENSKE CORP,4,P-Purchase,--I,100000,32257338,3,0000849531,Common Stock
+A,09/06/2016 00:00:00,PENSKE ROGER S,4,P-Purchase,--I,75000,32157338,2,0000942439,Common Stock
+A,09/06/2016 00:00:00,PENSKE CORP,4,P-Purchase,--I,75000,32157338,2,0000849531,Common Stock
+A,09/02/2016 00:00:00,PENSKE ROGER S,4,P-Purchase,--I,50000,32082338,1,0000942439,Common Stock
+A,09/02/2016 00:00:00,PENSKE CORP,4,P-Purchase,--I,50000,32082338,1,0000849531,Common Stock
+A,09/01/2016 00:00:00,KURNICK ROBERT H JR,4,L-Small,-ED,74,79877,1,0001226255,Common Stock

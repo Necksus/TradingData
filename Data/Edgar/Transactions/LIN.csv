@@ -1,0 +1,825 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/14/2023 00:00:00,Durbin Sean,4,S-Sale,--D,1966,8149,1,0001850358,Ordinary Shares
+D,05/15/2023 00:00:00,Hoyt Kelcey E,4,G-Gift,-ED,215,15333.107,1,0001681090,Ordinary Shares
+D,05/15/2023 00:00:00,Strauss David P,4,M-Exempt,--D,6605,0,15,0001705851,Stock Options (right to buy)
+D,05/15/2023 00:00:00,Strauss David P,4,S-Sale,--D,6,23939.147,4,0001705851,Ordinary Shares
+D,05/15/2023 00:00:00,Strauss David P,4,S-Sale,--D,2188,23945.147,3,0001705851,Ordinary Shares
+D,05/15/2023 00:00:00,Strauss David P,4,F-InKind,--D,4411,26133.147,2,0001705851,Ordinary Shares
+A,05/15/2023 00:00:00,Strauss David P,4,M-Exempt,--D,6605,30544.147,1,0001705851,Ordinary Shares
+D,05/15/2023 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,10500,0,15,0001681090,Stock Option (right to buy)
+D,05/15/2023 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,9360,0,14,0001681090,Stock Option (right to buy)
+D,05/15/2023 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,6686,15548.107,4,0001681090,Ordinary Shares
+A,05/15/2023 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,10500,22234.107,3,0001681090,Ordinary Shares
+D,05/15/2023 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,5735,11734.107,2,0001681090,Ordinary Shares
+A,05/15/2023 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,9360,17469.107,1,0001681090,Ordinary Shares
+D,05/01/2023 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,116355,100000,22,0001190775,Stock Option (right to buy)
+D,05/01/2023 00:00:00,ANGEL STEPHEN F,4,S-Sale,--D,45309,369611.293,7,0001190775,Ordinary Shares
+D,05/01/2023 00:00:00,ANGEL STEPHEN F,4,F-InKind,--D,71046,414920.293,6,0001190775,Ordinary Shares
+A,05/01/2023 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,116355,485966.293,5,0001190775,Ordinary Shares
+D,05/01/2023 00:00:00,Bichara Guillermo,4,M-Exempt,--D,40100,0,14,0001629436,Stock Options (right to buy)
+D,05/01/2023 00:00:00,Bichara Guillermo,4,S-Sale,--D,14648,27161,3,0001629436,Ordinary Shares
+D,05/01/2023 00:00:00,Bichara Guillermo,4,F-InKind,--D,25452,41809,2,0001629436,Ordinary Shares
+A,05/01/2023 00:00:00,Bichara Guillermo,4,M-Exempt,--D,40100,67261,1,0001629436,Ordinary Shares
+D,03/21/2023 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,1594.012,14346.096,19,0001190775,Restricted Stock Units
+D,03/21/2023 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,2355.352,21198.168,14,0001190775,Performance Share Units
+A,03/21/2023 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,2355.352,2355.352,13,0001190775,Performance Share Units
+D,03/21/2023 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,4781.526,43033.738,12,0001190775,Performance Share Units
+A,03/21/2023 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,4781.526,4781.526,11,0001190775,Performance Share Units
+D,03/21/2023 00:00:00,ANGEL STEPHEN F,4,F-InKind,--D,872,369611.293,10,0001190775,Ordinary Shares
+A,03/21/2023 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,2355.352,370483.293,9,0001190775,Ordinary Shares
+D,03/21/2023 00:00:00,ANGEL STEPHEN F,4,F-InKind,--D,1770,368127.941,8,0001190775,Ordinary Shares
+A,03/21/2023 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,4781.526,369897.941,7,0001190775,Ordinary Shares
+D,03/21/2023 00:00:00,ANGEL STEPHEN F,4,F-InKind,--D,590,365116.415,6,0001190775,Ordinary Shares
+A,03/21/2023 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,1594.012,365706.415,5,0001190775,Ordinary Shares
+D,03/10/2023 00:00:00,Strauss David P,4,M-Exempt,--D,1715,0,15,0001705851,Restricted Stock Units
+D,03/10/2023 00:00:00,Strauss David P,4,M-Exempt,--D,2790,0,11,0001705851,Performance Share Units
+A,03/10/2023 00:00:00,Strauss David P,4,A-Award,--D,2790,2790,10,0001705851,Performance Share Units
+D,03/10/2023 00:00:00,Strauss David P,4,M-Exempt,--D,5150,0,9,0001705851,Performance Share Units
+A,03/10/2023 00:00:00,Strauss David P,4,A-Award,--D,5150,5150,8,0001705851,Performance Share Units
+D,03/10/2023 00:00:00,Strauss David P,4,F-InKind,--D,1428,25730.42,6,0001705851,Ordinary Shares
+A,03/10/2023 00:00:00,Strauss David P,4,M-Exempt,--D,2790,27158.42,5,0001705851,Ordinary Shares
+D,03/10/2023 00:00:00,Strauss David P,4,F-InKind,--D,2242,24368.42,4,0001705851,Ordinary Shares
+A,03/10/2023 00:00:00,Strauss David P,4,M-Exempt,--D,5150,26610.42,3,0001705851,Ordinary Shares
+D,03/10/2023 00:00:00,Strauss David P,4,F-InKind,--D,837,21460.42,2,0001705851,Ordinary Shares
+A,03/10/2023 00:00:00,Strauss David P,4,M-Exempt,--D,1715,22297.42,1,0001705851,Ordinary Shares
+D,03/10/2023 00:00:00,Panikar John,4,M-Exempt,--D,840,0,15,0001504943,Restricted Stock Units
+D,03/10/2023 00:00:00,Panikar John,4,M-Exempt,--D,1360,0,11,0001504943,Performance Share Units
+A,03/10/2023 00:00:00,Panikar John,4,A-Award,--D,1360,1360,10,0001504943,Performance Share Units
+D,03/10/2023 00:00:00,Panikar John,4,M-Exempt,--D,2510,0,9,0001504943,Performance Share Units
+A,03/10/2023 00:00:00,Panikar John,4,A-Award,--D,2510,2510,8,0001504943,Performance Share Units
+D,03/10/2023 00:00:00,Panikar John,4,F-InKind,--D,536,21416.5304,6,0001504943,Ordinary Shares
+A,03/10/2023 00:00:00,Panikar John,4,M-Exempt,--D,1360,21952.5304,5,0001504943,Ordinary Shares
+D,03/10/2023 00:00:00,Panikar John,4,F-InKind,--D,988,20592.5304,4,0001504943,Ordinary Shares
+A,03/10/2023 00:00:00,Panikar John,4,M-Exempt,--D,2510,21580.5304,3,0001504943,Ordinary Shares
+D,03/10/2023 00:00:00,Panikar John,4,F-InKind,--D,331,19070.5304,2,0001504943,Ordinary Shares
+A,03/10/2023 00:00:00,Panikar John,4,M-Exempt,--D,840,19401.5304,1,0001504943,Ordinary Shares
+D,03/10/2023 00:00:00,Nowicki Juergen,4,M-Exempt,--D,365,0,14,0001809034,Restricted Stock Units
+D,03/10/2023 00:00:00,Nowicki Juergen,4,M-Exempt,--D,590,0,10,0001809034,Performance Share Units
+A,03/10/2023 00:00:00,Nowicki Juergen,4,A-Award,--D,590,590,9,0001809034,Performance Share Units
+D,03/10/2023 00:00:00,Nowicki Juergen,4,M-Exempt,--D,1090,0,8,0001809034,Performance Share Units
+A,03/10/2023 00:00:00,Nowicki Juergen,4,A-Award,--D,1090,1090,7,0001809034,Performance Share Units
+D,03/10/2023 00:00:00,Nowicki Juergen,4,F-InKind,--D,302,6920,6,0001809034,Ordinary Shares
+A,03/10/2023 00:00:00,Nowicki Juergen,4,M-Exempt,--D,590,7222,5,0001809034,Ordinary Shares
+D,03/10/2023 00:00:00,Nowicki Juergen,4,F-InKind,--D,557,6632,4,0001809034,Ordinary Shares
+A,03/10/2023 00:00:00,Nowicki Juergen,4,M-Exempt,--D,1090,7189,3,0001809034,Ordinary Shares
+D,03/10/2023 00:00:00,Nowicki Juergen,4,F-InKind,--D,187,6099,2,0001809034,Ordinary Shares
+A,03/10/2023 00:00:00,Nowicki Juergen,4,M-Exempt,--D,365,6286,1,0001809034,Ordinary Shares
+D,03/10/2023 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,3090,0,14,0001757274,Restricted Stock Units
+D,03/10/2023 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,5010,0,10,0001757274,Performance Share Units
+A,03/10/2023 00:00:00,Lamba Sanjiv,4,A-Award,--D,5010,5010,9,0001757274,Performance Share Units
+D,03/10/2023 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,9260,0,8,0001757274,Performance Share Units
+A,03/10/2023 00:00:00,Lamba Sanjiv,4,A-Award,--D,9260,9260,7,0001757274,Performance Share Units
+D,03/10/2023 00:00:00,Lamba Sanjiv,4,F-InKind,--D,2322,56398,6,0001757274,Ordinary Shares
+A,03/10/2023 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,5010,58720,5,0001757274,Ordinary Shares
+D,03/10/2023 00:00:00,Lamba Sanjiv,4,F-InKind,--D,4292,53710,4,0001757274,Ordinary Shares
+A,03/10/2023 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,9260,58002,3,0001757274,Ordinary Shares
+D,03/10/2023 00:00:00,Lamba Sanjiv,4,F-InKind,--D,1432,48742,2,0001757274,Ordinary Shares
+A,03/10/2023 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,3090,50174,1,0001757274,Ordinary Shares
+D,03/10/2023 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,460,0,15,0001681090,Restricted Stock Units
+D,03/10/2023 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,740,0,11,0001681090,Performance Share Units
+A,03/10/2023 00:00:00,Hoyt Kelcey E,4,A-Award,--D,740,740,10,0001681090,Performance Share Units
+D,03/10/2023 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,1370,0,9,0001681090,Performance Share Units
+A,03/10/2023 00:00:00,Hoyt Kelcey E,4,A-Award,--D,1370,1370,8,0001681090,Performance Share Units
+D,03/10/2023 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,287,8109.107,6,0001681090,Ordinary Shares
+A,03/10/2023 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,740,8396.107,5,0001681090,Ordinary Shares
+D,03/10/2023 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,430,7656.107,4,0001681090,Ordinary Shares
+A,03/10/2023 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,1370,8086.107,3,0001681090,Ordinary Shares
+D,03/10/2023 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,214,6716.107,2,0001681090,Ordinary Shares
+A,03/10/2023 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,460,6930.107,1,0001681090,Ordinary Shares
+D,03/10/2023 00:00:00,Durbin Sean,4,M-Exempt,--D,580,0,14,0001850358,Restricted Stock Units
+D,03/10/2023 00:00:00,Durbin Sean,4,M-Exempt,--D,940,0,10,0001850358,Performance Share Units
+A,03/10/2023 00:00:00,Durbin Sean,4,A-Award,--D,940,940,9,0001850358,Performance Share Units
+D,03/10/2023 00:00:00,Durbin Sean,4,M-Exempt,--D,1740,0,8,0001850358,Performance Share Units
+A,03/10/2023 00:00:00,Durbin Sean,4,A-Award,--D,1740,1740,7,0001850358,Performance Share Units
+D,03/10/2023 00:00:00,Durbin Sean,4,F-InKind,--D,455,10115,6,0001850358,Ordinary Shares
+A,03/10/2023 00:00:00,Durbin Sean,4,M-Exempt,--D,940,10570,5,0001850358,Ordinary Shares
+D,03/10/2023 00:00:00,Durbin Sean,4,F-InKind,--D,841,9630,4,0001850358,Ordinary Shares
+A,03/10/2023 00:00:00,Durbin Sean,4,M-Exempt,--D,1740,10471,3,0001850358,Ordinary Shares
+D,03/10/2023 00:00:00,Durbin Sean,4,F-InKind,--D,281,8731,2,0001850358,Ordinary Shares
+A,03/10/2023 00:00:00,Durbin Sean,4,M-Exempt,--D,580,9012,1,0001850358,Ordinary Shares
+D,03/10/2023 00:00:00,White Matthew J,4,M-Exempt,--D,3590,0,15,0001441755,Restricted Stock Units
+D,03/10/2023 00:00:00,White Matthew J,4,M-Exempt,--D,5830,0,11,0001441755,Performance Share Units
+A,03/10/2023 00:00:00,White Matthew J,4,A-Award,--D,5830,5830,10,0001441755,Performance Share Units
+D,03/10/2023 00:00:00,White Matthew J,4,M-Exempt,--D,10770,0,9,0001441755,Performance Share Units
+A,03/10/2023 00:00:00,White Matthew J,4,A-Award,--D,10770,10770,8,0001441755,Performance Share Units
+D,03/10/2023 00:00:00,White Matthew J,4,F-InKind,--D,2702,57634,6,0001441755,Ordinary Shares
+A,03/10/2023 00:00:00,White Matthew J,4,M-Exempt,--D,5830,60336,5,0001441755,Ordinary Shares
+D,03/10/2023 00:00:00,White Matthew J,4,F-InKind,--D,4991,54506,4,0001441755,Ordinary Shares
+A,03/10/2023 00:00:00,White Matthew J,4,M-Exempt,--D,10770,59497,3,0001441755,Ordinary Shares
+D,03/10/2023 00:00:00,White Matthew J,4,F-InKind,--D,1664,48727,2,0001441755,Ordinary Shares
+A,03/10/2023 00:00:00,White Matthew J,4,M-Exempt,--D,3590,50391,1,0001441755,Ordinary Shares
+D,03/10/2023 00:00:00,Bichara Guillermo,4,M-Exempt,--D,2150,0,15,0001629436,Restricted Stock Units
+D,03/10/2023 00:00:00,Bichara Guillermo,4,M-Exempt,--D,3490,0,11,0001629436,Performance Share Units
+A,03/10/2023 00:00:00,Bichara Guillermo,4,A-Award,--D,3490,3490,10,0001629436,Performance Share Units
+D,03/10/2023 00:00:00,Bichara Guillermo,4,M-Exempt,--D,6450,0,9,0001629436,Performance Share Units
+A,03/10/2023 00:00:00,Bichara Guillermo,4,A-Award,--D,6450,6450,8,0001629436,Performance Share Units
+D,03/10/2023 00:00:00,Bichara Guillermo,4,F-InKind,--D,1618,27161,6,0001629436,Ordinary Shares
+A,03/10/2023 00:00:00,Bichara Guillermo,4,M-Exempt,--D,3490,28779,5,0001629436,Ordinary Shares
+D,03/10/2023 00:00:00,Bichara Guillermo,4,F-InKind,--D,2989,25289,4,0001629436,Ordinary Shares
+A,03/10/2023 00:00:00,Bichara Guillermo,4,M-Exempt,--D,6450,28278,3,0001629436,Ordinary Shares
+D,03/10/2023 00:00:00,Bichara Guillermo,4,F-InKind,--D,997,21828,2,0001629436,Ordinary Shares
+A,03/10/2023 00:00:00,Bichara Guillermo,4,M-Exempt,--D,2150,22825,1,0001629436,Ordinary Shares
+D,03/08/2023 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,3941.706,31533.647,14,0001190775,Restricted Stock Units
+D,03/08/2023 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,1409.462,0,9,0001190775,Restricted Stock Units
+D,03/08/2023 00:00:00,ANGEL STEPHEN F,4,F-InKind,--D,1459,364112.403,8,0001190775,Ordinary Shares
+A,03/08/2023 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,3941.706,365571.403,7,0001190775,Ordinary Shares
+D,03/08/2023 00:00:00,ANGEL STEPHEN F,4,F-InKind,--D,202,361629.697,6,0001190775,Ordinary Shares
+A,03/08/2023 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,1409.462,361831.697,5,0001190775,Ordinary Shares
+D,03/08/2023 00:00:00,WOOD ROBERT L,4,M-Exempt,--D,611.309,0,3,0001167298,Restricted Stock Units
+D,03/08/2023 00:00:00,WOOD ROBERT L,4,F-InKind,--D,119,16295.1896,2,0001167298,Ordinary Shares
+A,03/08/2023 00:00:00,WOOD ROBERT L,4,M-Exempt,--D,611.309,16414.1896,1,0001167298,Ordinary Shares
+D,03/08/2023 00:00:00,WEISSER ALBERTO,4,M-Exempt,--D,611.309,0,3,0001186250,Restricted Stock Units
+D,03/08/2023 00:00:00,WEISSER ALBERTO,4,F-InKind,--D,14,597.309,2,0001186250,Ordinary Shares
+A,03/08/2023 00:00:00,WEISSER ALBERTO,4,M-Exempt,--D,611.309,611.309,1,0001186250,Ordinary Shares
+D,03/08/2023 00:00:00,RICHENHAGEN MARTIN,4,M-Exempt,--D,611.309,0,3,0001284296,Restricted Stock Units
+D,03/08/2023 00:00:00,RICHENHAGEN MARTIN,4,F-InKind,--D,76,6486.006,2,0001284296,Ordinary Shares
+A,03/08/2023 00:00:00,RICHENHAGEN MARTIN,4,M-Exempt,--D,611.309,6562.006,1,0001284296,Ordinary Shares
+D,03/08/2023 00:00:00,Ossadnik Victoria,4,M-Exempt,--D,611.309,0,3,0001757272,Restricted Stock Units
+D,03/08/2023 00:00:00,Ossadnik Victoria,4,F-InKind,--D,91,2315.024,2,0001757272,Ordinary Shares
+A,03/08/2023 00:00:00,Ossadnik Victoria,4,M-Exempt,--D,611.309,2406.024,1,0001757272,Ordinary Shares
+D,03/08/2023 00:00:00,Kaeser Josef,4,M-Exempt,--D,611.309,0,2,0001782602,Restricted Stock Units
+A,03/08/2023 00:00:00,Kaeser Josef,4,M-Exempt,--D,611.309,611.309,1,0001782602,Ordinary Shares
+D,03/08/2023 00:00:00,GALANTE EDWARD G,4,M-Exempt,--D,611.309,0,2,0001199009,Restricted Stock Units
+A,03/08/2023 00:00:00,GALANTE EDWARD G,4,M-Exempt,--D,611.309,13673.465,1,0001199009,Ordinary Shares
+D,03/08/2023 00:00:00,Enders Thomas,4,M-Exempt,--D,611.309,0,3,0001757262,Restricted Stock Units
+D,03/08/2023 00:00:00,Enders Thomas,4,F-InKind,--D,67,12131.465,2,0001757262,Ordinary Shares
+A,03/08/2023 00:00:00,Enders Thomas,4,M-Exempt,--D,611.309,12198.465,1,0001757262,Ordinary Shares
+D,03/08/2023 00:00:00,Achleitner Ann-Kristin,4,M-Exempt,--D,611.309,0,3,0001757273,Restricted Stock Units
+D,03/08/2023 00:00:00,Achleitner Ann-Kristin,4,F-InKind,--D,50,3413.465,2,0001757273,Ordinary Shares
+A,03/08/2023 00:00:00,Achleitner Ann-Kristin,4,M-Exempt,--D,611.309,3463.465,1,0001757273,Ordinary Shares
+A,03/07/2023 00:00:00,Strauss David P,4,A-Award,--D,8515,8515,7,0001705851,Stock Options (right to buy)
+A,03/07/2023 00:00:00,Strauss David P,4,A-Award,--D,1290,1290,3,0001705851,Restricted Stock Units
+A,03/07/2023 00:00:00,Panikar John,4,A-Award,--D,10245,10245,7,0001504943,Stock Options (right to buy)
+A,03/07/2023 00:00:00,Panikar John,4,A-Award,--D,1550,1550,3,0001504943,Restricted Stock Units
+A,03/07/2023 00:00:00,Durbin Sean,4,A-Award,--D,10540,10540,6,0001850358,Stock Options (right to buy)
+A,03/07/2023 00:00:00,Durbin Sean,4,A-Award,--D,1595,1595,2,0001850358,Restricted Stock Units
+A,03/07/2023 00:00:00,Bichara Guillermo,4,A-Award,--D,11085,11085,7,0001629436,Stock Options (right to buy)
+A,03/07/2023 00:00:00,Bichara Guillermo,4,A-Award,--D,1680,1680,3,0001629436,Restricted Stock Units
+A,03/07/2023 00:00:00,Nowicki Juergen,4,A-Award,--D,9275,9275,7,0001809034,Stock Options (right to buy)
+A,03/07/2023 00:00:00,Nowicki Juergen,4,A-Award,--D,1405,1405,2,0001809034,Restricted Stock Units
+A,03/07/2023 00:00:00,Lamba Sanjiv,4,A-Award,--D,46365,46365,6,0001757274,Stock Option (right to buy)
+A,03/07/2023 00:00:00,Lamba Sanjiv,4,A-Award,--D,7015,7015,2,0001757274,Restricted Stock Units
+A,03/07/2023 00:00:00,White Matthew J,4,A-Award,--D,18970,18970,7,0001441755,Stock Option (right to buy)
+A,03/07/2023 00:00:00,White Matthew J,4,A-Award,--D,2870,2870,3,0001441755,Restricted Stock Units
+A,03/07/2023 00:00:00,Hoyt Kelcey E,4,A-Award,--D,2110,2110,7,0001681090,Stock Option (right to buy)
+A,03/07/2023 00:00:00,Hoyt Kelcey E,4,A-Award,--D,320,320,3,0001681090,Restricted Stock Units
+A,03/07/2023 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,1363,1363,10,0001190775,Restricted Stock Units
+A,03/07/2023 00:00:00,WOOD ROBERT L,4,A-Award,--D,591,591,4,0001167298,Restricted Stock Units
+A,03/07/2023 00:00:00,WEISSER ALBERTO,4,A-Award,--D,591,591,4,0001186250,Restricted Stock Units
+A,03/07/2023 00:00:00,RICHENHAGEN MARTIN,4,A-Award,--D,591,591,4,0001284296,Restricted Stock Units
+A,03/07/2023 00:00:00,Ossadnik Victoria,4,A-Award,--D,591,591,4,0001757272,Restricted Stock Units
+A,03/07/2023 00:00:00,Kaeser Josef,4,A-Award,--D,591,591,3,0001782602,Restricted Stock Units
+A,03/07/2023 00:00:00,GRANT HUGH,4,A-Award,--D,591,591,1,0001083211,Restricted Stock Units
+A,03/07/2023 00:00:00,Enders Thomas,4,A-Award,--D,591,591,4,0001757262,Restricted Stock Units
+A,03/07/2023 00:00:00,Achleitner Ann-Kristin,4,A-Award,--D,591,591,4,0001757273,Restricted Stock Units
+D,03/03/2023 00:00:00,Durbin Sean,4,M-Exempt,--D,5945,0,13,0001850358,Stock Options (right to buy)
+D,03/03/2023 00:00:00,Durbin Sean,4,S-Sale,--D,2000,8432,4,0001850358,Ordinary Shares
+D,03/03/2023 00:00:00,Durbin Sean,4,S-Sale,--D,2060,10432,3,0001850358,Ordinary Shares
+D,03/03/2023 00:00:00,Durbin Sean,4,F-InKind,--D,3885,12492,2,0001850358,Ordinary Shares
+A,03/03/2023 00:00:00,Durbin Sean,4,M-Exempt,--D,5945,16377,1,0001850358,Ordinary Shares
+A,02/13/2023 00:00:00,Durbin Sean,4,A-Award,--D,55.71,239.236,11,0001850358,Deferred Stock Units
+A,02/13/2023 00:00:00,White Matthew J,4,A-Award,--D,80.4,1273.319,14,0001441755,Deferred Stock Units
+A,02/13/2023 00:00:00,Strauss David P,4,A-Award,--D,42.5,196.838,11,0001705851,Deferred Stock Units
+A,02/13/2023 00:00:00,Panikar John,4,A-Award,--D,41.78,180.808,10,0001504943,Deferred Stock Units
+A,02/13/2023 00:00:00,Lamba Sanjiv,4,A-Award,--D,143.57,143.57,9,0001757274,Deferred Stock Units
+A,02/13/2023 00:00:00,Hoyt Kelcey E,4,A-Award,--D,23.35,110.467,13,0001681090,Deferred Stock Unit
+A,02/13/2023 00:00:00,Bichara Guillermo,4,A-Award,--D,65.28,721.894,12,0001629436,Deferred Stock Units
+A,02/13/2023 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,3.25,119584.454,21,0001190775,Deferred Stock Units
+D,01/20/2023 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,24536.675,119581.204,22,0001190775,Deferred Stock Units
+D,01/20/2023 00:00:00,ANGEL STEPHEN F,4,F-InKind,--D,9991.124,360422.235,6,0001190775,Ordinary Shares
+A,01/20/2023 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,24536.675,370413.359,5,0001190775,Ordinary Shares
+D,11/16/2022 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,5150,0,18,0001681090,Stock Option (right to buy)
+D,11/16/2022 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,3735,0,17,0001681090,Stock Option (right to buy)
+D,11/16/2022 00:00:00,Hoyt Kelcey E,4,S-Sale,--D,131,6470.107,8,0001681090,Ordinary Shares
+D,11/16/2022 00:00:00,Hoyt Kelcey E,4,S-Sale,--D,300,6601.107,7,0001681090,Ordinary Shares
+D,11/16/2022 00:00:00,Hoyt Kelcey E,4,S-Sale,--D,800,6901.107,6,0001681090,Ordinary Shares
+D,11/16/2022 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,2504,7701.107,5,0001681090,Ordinary Shares
+A,11/16/2022 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,3735,10205.107,4,0001681090,Ordinary Shares
+D,11/16/2022 00:00:00,Hoyt Kelcey E,4,S-Sale,--D,1701,6470.107,3,0001681090,Ordinary Shares
+D,11/16/2022 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,3449,8171.107,2,0001681090,Ordinary Shares
+A,11/16/2022 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,5150,11620.107,1,0001681090,Ordinary Shares
+D,11/14/2022 00:00:00,Strauss David P,4,M-Exempt,--D,6605,6605,13,0001705851,Stock Options (right to buy)
+D,11/14/2022 00:00:00,Strauss David P,4,S-Sale,--D,2166,20582.42,3,0001705851,Ordinary Shares
+D,11/14/2022 00:00:00,Strauss David P,4,F-InKind,--D,4439,22748.42,2,0001705851,Ordinary Shares
+A,11/14/2022 00:00:00,Strauss David P,4,M-Exempt,--D,6605,27187.42,1,0001705851,Ordinary Shares
+D,11/11/2022 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,200000,216355,19,0001190775,Stock Option (right to buy)
+D,11/11/2022 00:00:00,ANGEL STEPHEN F,4,S-Sale,--D,74227,345876.684,7,0001190775,Ordinary Shares
+D,11/11/2022 00:00:00,ANGEL STEPHEN F,4,F-InKind,--D,125773,420103.684,6,0001190775,Ordinary Shares
+A,11/11/2022 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,200000,545876.684,5,0001190775,Ordinary Shares
+D,08/09/2022 00:00:00,Hoyt Kelcey E,4,G-Gift,-ED,85,6470.107,1,0001681090,Ordinary Shares
+D,05/25/2022 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,2840,0,9,0001757274,Stock Option (right to buy)
+A,05/25/2022 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,2840,47084,1,0001757274,Ordinary Shares
+D,05/03/2022 00:00:00,Opfermann Andreas,4,M-Exempt,--D,387,0,9,0001793274,Stock Option (right to buy)
+D,05/03/2022 00:00:00,Opfermann Andreas,4,S-Sale,--D,186,1671,2,0001793274,Ordinary Shares
+A,05/03/2022 00:00:00,Opfermann Andreas,4,M-Exempt,--D,387,1857,1,0001793274,Ordinary Shares
+D,03/21/2022 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,5310,0,11,0001757274,Performance Share Units
+A,03/21/2022 00:00:00,Lamba Sanjiv,4,A-Award,--D,5310,5310,10,0001757274,Performance Share Units
+D,03/21/2022 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,10770,0,9,0001757274,Performance Share Units
+A,03/21/2022 00:00:00,Lamba Sanjiv,4,A-Award,--D,10770,10770,8,0001757274,Performance Share Units
+D,03/21/2022 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,3590,0,7,0001757274,Restricted Stock Units
+D,03/21/2022 00:00:00,Lamba Sanjiv,4,F-InKind,--D,1664,44244,6,0001757274,Ordinary Shares
+A,03/21/2022 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,3590,45908,5,0001757274,Ordinary Shares
+D,03/21/2022 00:00:00,Lamba Sanjiv,4,F-InKind,--D,2461,42318,4,0001757274,Ordinary Shares
+A,03/21/2022 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,5310,44779,3,0001757274,Ordinary Shares
+D,03/21/2022 00:00:00,Lamba Sanjiv,4,F-InKind,--D,4991,39469,2,0001757274,Ordinary Shares
+A,03/21/2022 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,10770,44460,1,0001757274,Ordinary Shares
+D,03/21/2022 00:00:00,White Matthew J,4,M-Exempt,--D,6170,0,12,0001441755,Performance Share Units
+A,03/21/2022 00:00:00,White Matthew J,4,A-Award,--D,6170,6170,11,0001441755,Performance Share Units
+D,03/21/2022 00:00:00,White Matthew J,4,M-Exempt,--D,12510,0,10,0001441755,Performance Share Units
+A,03/21/2022 00:00:00,White Matthew J,4,A-Award,--D,12510,12510,9,0001441755,Performance Share Units
+D,03/21/2022 00:00:00,White Matthew J,4,M-Exempt,--D,4170,0,8,0001441755,Restricted Stock Units
+D,03/21/2022 00:00:00,White Matthew J,4,F-InKind,--D,1933,46801,6,0001441755,Ordinary Shares
+A,03/21/2022 00:00:00,White Matthew J,4,M-Exempt,--D,4170,48734,5,0001441755,Ordinary Shares
+D,03/21/2022 00:00:00,White Matthew J,4,F-InKind,--D,2860,44564,4,0001441755,Ordinary Shares
+A,03/21/2022 00:00:00,White Matthew J,4,M-Exempt,--D,6170,47424,3,0001441755,Ordinary Shares
+D,03/21/2022 00:00:00,White Matthew J,4,F-InKind,--D,5798,41254,2,0001441755,Ordinary Shares
+A,03/21/2022 00:00:00,White Matthew J,4,M-Exempt,--D,12510,47052,1,0001441755,Ordinary Shares
+D,03/21/2022 00:00:00,Strauss David P,4,M-Exempt,--D,2760,0,12,0001705851,Performance Stock Units
+A,03/21/2022 00:00:00,Strauss David P,4,A-Award,--D,2760,2760,11,0001705851,Performance Share Units
+D,03/21/2022 00:00:00,Strauss David P,4,M-Exempt,--D,5590,0,10,0001705851,Performance Stock Units
+A,03/21/2022 00:00:00,Strauss David P,4,A-Award,--D,5590,5590,9,0001705851,Performance Stock Units
+D,03/21/2022 00:00:00,Strauss David P,4,M-Exempt,--D,1865,0,8,0001705851,Restricted Stock Units
+D,03/21/2022 00:00:00,Strauss David P,4,F-InKind,--D,875,20582,6,0001705851,Ordinary Shares
+A,03/21/2022 00:00:00,Strauss David P,4,M-Exempt,--D,1865,21457.42,5,0001705851,Ordinary Shares
+D,03/21/2022 00:00:00,Strauss David P,4,F-InKind,--D,1360,19592,4,0001705851,Ordinary Shares
+A,03/21/2022 00:00:00,Strauss David P,4,M-Exempt,--D,2760,20952.42,3,0001705851,Ordinary Shares
+D,03/21/2022 00:00:00,Strauss David P,4,F-InKind,--D,2754,18192.42,2,0001705851,Ordinary Shares
+A,03/21/2022 00:00:00,Strauss David P,4,M-Exempt,--D,5590,20946.42,1,0001705851,Ordinary Shares
+D,03/21/2022 00:00:00,Panikar John,4,M-Exempt,--D,1540,0,12,0001504943,Performance Share Units
+A,03/21/2022 00:00:00,Panikar John,4,A-Award,--D,1540,1540,11,0001504943,Performance Share Units
+D,03/21/2022 00:00:00,Panikar John,4,M-Exempt,--D,3120,0,10,0001504943,Performance Share Units
+A,03/21/2022 00:00:00,Panikar John,4,A-Award,--D,3120,3120,9,0001504943,Performance Share Units
+D,03/21/2022 00:00:00,Panikar John,4,M-Exempt,--D,1040,0,8,0001504943,Restricted Stock Units
+D,03/21/2022 00:00:00,Panikar John,4,F-InKind,--D,410,18561.5304,6,0001504943,Ordinary Shares
+A,03/21/2022 00:00:00,Panikar John,4,M-Exempt,--D,1040,18971.5304,5,0001504943,Ordinary Shares
+D,03/21/2022 00:00:00,Panikar John,4,F-InKind,--D,606,17931.5304,4,0001504943,Ordinary Shares
+A,03/21/2022 00:00:00,Panikar John,4,M-Exempt,--D,1540,18537.5304,3,0001504943,Ordinary Shares
+D,03/21/2022 00:00:00,Panikar John,4,F-InKind,--D,1228,16997.5304,2,0001504943,Ordinary Shares
+A,03/21/2022 00:00:00,Panikar John,4,M-Exempt,--D,3120,18225.5304,1,0001504943,Ordinary Shares
+D,03/21/2022 00:00:00,Opfermann Andreas,4,M-Exempt,--D,480,0,11,0001793274,Performance Share Units
+A,03/21/2022 00:00:00,Opfermann Andreas,4,A-Award,--D,480,480,10,0001793274,Performance Share Units
+D,03/21/2022 00:00:00,Opfermann Andreas,4,M-Exempt,--D,960,0,9,0001793274,Performance Share Units
+A,03/21/2022 00:00:00,Opfermann Andreas,4,A-Award,--D,960,960,8,0001793274,Performance Share Units
+D,03/21/2022 00:00:00,Opfermann Andreas,4,M-Exempt,--D,320,0,7,0001793274,Restricted Stock Units
+D,03/21/2022 00:00:00,Opfermann Andreas,4,F-InKind,--D,152,1470,6,0001793274,Ordinary Shares
+A,03/21/2022 00:00:00,Opfermann Andreas,4,M-Exempt,--D,320,1622,5,0001793274,Ordinary Shares
+D,03/21/2022 00:00:00,Opfermann Andreas,4,F-InKind,--D,228,1302,4,0001793274,Ordinary Shares
+A,03/21/2022 00:00:00,Opfermann Andreas,4,M-Exempt,--D,480,1530,3,0001793274,Ordinary Shares
+D,03/21/2022 00:00:00,Opfermann Andreas,4,F-InKind,--D,456,1050,2,0001793274,Ordinary Shares
+A,03/21/2022 00:00:00,Opfermann Andreas,4,M-Exempt,--D,960,1506,1,0001793274,Ordinary Shares
+D,03/21/2022 00:00:00,Nowicki Juergen,4,M-Exempt,--D,640,0,11,0001809034,Performance Share Units
+A,03/21/2022 00:00:00,Nowicki Juergen,4,A-Award,--D,640,640,10,0001809034,Performance Share Units
+D,03/21/2022 00:00:00,Nowicki Juergen,4,M-Exempt,--D,1300,0,9,0001809034,Performance Share Units
+A,03/21/2022 00:00:00,Nowicki Juergen,4,A-Award,--D,1300,1300,8,0001809034,Performance Share Units
+D,03/21/2022 00:00:00,Nowicki Juergen,4,M-Exempt,--D,435,0,7,0001809034,Restricted Stock Units
+D,03/21/2022 00:00:00,Nowicki Juergen,4,F-InKind,--D,225,5921,6,0001809034,Ordinary Shares
+A,03/21/2022 00:00:00,Nowicki Juergen,4,M-Exempt,--D,435,6146,5,0001809034,Ordinary Shares
+D,03/21/2022 00:00:00,Nowicki Juergen,4,F-InKind,--D,330,5711,4,0001809034,Ordinary Shares
+A,03/21/2022 00:00:00,Nowicki Juergen,4,M-Exempt,--D,640,6041,3,0001809034,Ordinary Shares
+D,03/21/2022 00:00:00,Nowicki Juergen,4,F-InKind,--D,670,5401,2,0001809034,Ordinary Shares
+A,03/21/2022 00:00:00,Nowicki Juergen,4,M-Exempt,--D,1300,6071,1,0001809034,Ordinary Shares
+D,03/21/2022 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,790,0,12,0001681090,Performance Share Units
+A,03/21/2022 00:00:00,Hoyt Kelcey E,4,A-Award,--D,790,790,11,0001681090,Performance Share Units
+D,03/21/2022 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,1600,0,10,0001681090,Performance Share Units
+A,03/21/2022 00:00:00,Hoyt Kelcey E,4,A-Award,--D,1600,1600,9,0001681090,Performance Share Units
+D,03/21/2022 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,535,0,8,0001681090,Restricted Stock Units
+D,03/21/2022 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,248,6555.107,6,0001681090,Ordinary Shares
+A,03/21/2022 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,535,6803.107,5,0001681090,Ordinary Shares
+D,03/21/2022 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,349,6268.107,4,0001681090,Ordinary Shares
+A,03/21/2022 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,790,6617.107,3,0001681090,Ordinary Shares
+D,03/21/2022 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,502,5827.107,2,0001681090,Ordinary Shares
+A,03/21/2022 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,1600,6329.107,1,0001681090,Ordinary Shares
+D,03/21/2022 00:00:00,Durbin Sean,4,M-Exempt,--D,1030,0,11,0001850358,Performance Share Units
+A,03/21/2022 00:00:00,Durbin Sean,4,A-Award,--D,1030,1030,10,0001850358,Performance Share Units
+D,03/21/2022 00:00:00,Durbin Sean,4,M-Exempt,--D,2080,0,9,0001850358,Performance Share Units
+A,03/21/2022 00:00:00,Durbin Sean,4,A-Award,--D,2080,2080,8,0001850358,Performance Share Units
+D,03/21/2022 00:00:00,Durbin Sean,4,M-Exempt,--D,695,0,7,0001850358,Restricted Stock Units
+D,03/21/2022 00:00:00,Durbin Sean,4,F-InKind,--D,336,10432,6,0001850358,Ordinary Shares
+A,03/21/2022 00:00:00,Durbin Sean,4,M-Exempt,--D,695,10768,5,0001850358,Ordinary Shares
+D,03/21/2022 00:00:00,Durbin Sean,4,F-InKind,--D,498,10073,4,0001850358,Ordinary Shares
+A,03/21/2022 00:00:00,Durbin Sean,4,M-Exempt,--D,1030,10571,3,0001850358,Ordinary Shares
+D,03/21/2022 00:00:00,Durbin Sean,4,F-InKind,--D,1005,9541,2,0001850358,Ordinary Shares
+A,03/21/2022 00:00:00,Durbin Sean,4,M-Exempt,--D,2080,10546,1,0001850358,Ordinary Shares
+D,03/21/2022 00:00:00,Bichara Guillermo,4,M-Exempt,--D,3540,0,12,0001629436,Performance Share Units
+A,03/21/2022 00:00:00,Bichara Guillermo,4,A-Award,--D,3540,3540,11,0001629436,Performance Share Units
+D,03/21/2022 00:00:00,Bichara Guillermo,4,M-Exempt,--D,7180,0,10,0001629436,Performance Share Units
+A,03/21/2022 00:00:00,Bichara Guillermo,4,A-Award,--D,7180,7180,9,0001629436,Performance Share Units
+D,03/21/2022 00:00:00,Bichara Guillermo,4,M-Exempt,--D,2395,0,8,0001629436,Restricted Stock Units
+D,03/21/2022 00:00:00,Bichara Guillermo,4,F-InKind,--D,1110,20675,6,0001629436,Ordinary Shares
+A,03/21/2022 00:00:00,Bichara Guillermo,4,M-Exempt,--D,2395,21785,5,0001629436,Ordinary Shares
+D,03/21/2022 00:00:00,Bichara Guillermo,4,F-InKind,--D,1641,19390,4,0001629436,Ordinary Shares
+A,03/21/2022 00:00:00,Bichara Guillermo,4,M-Exempt,--D,3540,21031,3,0001629436,Ordinary Shares
+D,03/21/2022 00:00:00,Bichara Guillermo,4,F-InKind,--D,3328,17491,2,0001629436,Ordinary Shares
+A,03/21/2022 00:00:00,Bichara Guillermo,4,M-Exempt,--D,7180,20819,1,0001629436,Ordinary Shares
+A,03/08/2022 00:00:00,Lamba Sanjiv,4,P-Purchase,--D,3750,33690,1,0001757274,Ordinary Shares
+A,03/07/2022 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,153.75,141944.708,21,0001190775,Deferred Stock Units
+A,03/07/2022 00:00:00,Bichara Guillermo,4,A-Award,--D,64.25,656.614,13,0001629436,Deferred Stock Units
+A,03/07/2022 00:00:00,Bichara Guillermo,4,A-Award,--D,13280,13280,7,0001629436,Stock Options (right to buy)
+A,03/07/2022 00:00:00,Bichara Guillermo,4,A-Award,--D,1535,1535,3,0001629436,Restricted Stock Units
+A,03/07/2022 00:00:00,Strauss David P,4,A-Award,--D,37.96,190.515,13,0001705851,Deferred Stock Units
+A,03/07/2022 00:00:00,Strauss David P,4,A-Award,--D,10200,10200,7,0001705851,Stock Options (right to buy)
+A,03/07/2022 00:00:00,Strauss David P,4,A-Award,--D,1180,1180,3,0001705851,Restricted Stock Units
+A,03/07/2022 00:00:00,Hoyt Kelcey E,4,A-Award,--D,19.77,86.111,16,0001681090,Deferred Stock Unit
+A,03/07/2022 00:00:00,Hoyt Kelcey E,4,A-Award,--D,2680,2680,7,0001681090,Stock Options (right to buy)
+A,03/07/2022 00:00:00,Hoyt Kelcey E,4,A-Award,--D,310,310,3,0001681090,Restricted Stock Units
+A,03/07/2022 00:00:00,Nowicki Juergen,4,A-Award,--D,11270,11270,7,0001809034,Stock Options (right to buy)
+A,03/07/2022 00:00:00,Nowicki Juergen,4,A-Award,--D,1300,1300,2,0001809034,Restricted Stock Units
+A,03/07/2022 00:00:00,Durbin Sean,4,A-Award,--D,51.66,183.526,12,0001850358,Deferred Stock Units
+A,03/07/2022 00:00:00,Durbin Sean,4,A-Award,--D,12395,12395,6,0001850358,Stock Options (right to buy)
+A,03/07/2022 00:00:00,Durbin Sean,4,A-Award,--D,1430,1430,2,0001850358,Restricted Stock Units
+A,03/07/2022 00:00:00,Panikar John,4,A-Award,--D,42.7,139.028,11,0001504943,Deferred Stock Units
+A,03/07/2022 00:00:00,Panikar John,4,A-Award,--D,12395,12395,7,0001504943,Stock Options (right to buy)
+A,03/07/2022 00:00:00,Panikar John,4,A-Award,--D,1430,1430,3,0001504943,Restricted Stock Units
+A,03/07/2022 00:00:00,Opfermann Andreas,4,A-Award,--D,11830,11830,6,0001793274,Stock Options (right to buy)
+A,03/07/2022 00:00:00,Opfermann Andreas,4,A-Award,--D,1365,1365,2,0001793274,Restricted Stock Units
+A,03/07/2022 00:00:00,White Matthew J,4,A-Award,--D,78.88,1192.919,15,0001441755,Deferred Stock Units
+A,03/07/2022 00:00:00,White Matthew J,4,A-Award,--D,22535,22535,7,0001441755,Stock Options (right to buy)
+A,03/07/2022 00:00:00,White Matthew J,4,A-Award,--D,2600,2600,3,0001441755,Restricted Stock Units
+A,03/07/2022 00:00:00,Lamba Sanjiv,4,A-Award,--D,54920,54920,6,0001757274,Stock Options (right to buy)
+A,03/07/2022 00:00:00,Lamba Sanjiv,4,A-Award,--D,6335,6335,2,0001757274,Restricted Stock Units
+D,03/02/2022 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,3881.684,34935.152,11,0001190775,Restricted Stock Units
+D,03/02/2022 00:00:00,ANGEL STEPHEN F,4,F-InKind,--D,906,345876.684,6,0001190775,Ordinary Shares
+A,03/02/2022 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,3881.684,346782.684,5,0001190775,Ordinary Shares
+A,03/01/2022 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,1388,1388,7,0001190775,Restricted Stock Units
+A,03/01/2022 00:00:00,WOOD ROBERT L,4,A-Award,--D,602,602,2,0001167298,Restricted Stock Units
+A,03/01/2022 00:00:00,RICHENHAGEN MARTIN,4,A-Award,--D,602,602,2,0001284296,Restricted Stock Units
+A,03/01/2022 00:00:00,Ossadnik Victoria,4,A-Award,--D,602,602,2,0001757272,Restricted Stock Units
+A,03/01/2022 00:00:00,Kaeser Josef,4,A-Award,--D,602,602,1,0001782602,Restricted Stock Units
+A,03/01/2022 00:00:00,WEISSER ALBERTO,4,A-Award,--D,602,602,2,0001186250,Restricted Stock Units
+A,03/01/2022 00:00:00,GALANTE EDWARD G,4,A-Award,--D,602,602,2,0001199009,Restricted Stock Units
+A,03/01/2022 00:00:00,Enders Thomas,4,A-Award,--D,602,602,2,0001757262,Restricted Stock Units
+A,03/01/2022 00:00:00,Achleitner Ann-Kristin,4,A-Award,--D,602,602,2,0001757273,Restricted Stock Units
+D,02/23/2022 00:00:00,WOOD ROBERT L,4,M-Exempt,--D,518.301,0,2,0001167298,Restricted Stock Units
+A,02/23/2022 00:00:00,WOOD ROBERT L,4,M-Exempt,--D,518.301,15802.8806,1,0001167298,Ordinary Shares
+D,02/23/2022 00:00:00,RICHENHAGEN MARTIN,4,M-Exempt,--D,518.301,0,2,0001284296,Restricted Stock Units
+A,02/23/2022 00:00:00,RICHENHAGEN MARTIN,4,M-Exempt,--D,518.301,5950.697,1,0001284296,Ordinary Shares
+D,02/23/2022 00:00:00,Reitzle Wolfgang,4,M-Exempt,--D,1296.262,0,2,0001757276,Restricted Stock Units
+A,02/23/2022 00:00:00,Reitzle Wolfgang,4,M-Exempt,--D,1296.262,20210.547,1,0001757276,Ordinary Shares
+D,02/23/2022 00:00:00,Ossadnik Victoria,4,M-Exempt,--D,518.301,0,2,0001757272,Restricted Stock Units
+A,02/23/2022 00:00:00,Ossadnik Victoria,4,M-Exempt,--D,518.301,1794.715,1,0001757272,Ordinary Shares
+A,02/23/2022 00:00:00,McVay Larry D,4,M-Exempt,--D,518.301,13308.582,1,0001415036,Ordinary Shares
+D,02/23/2022 00:00:00,GALANTE EDWARD G,4,M-Exempt,--D,518.301,0,2,0001199009,Restricted Stock Units
+A,02/23/2022 00:00:00,GALANTE EDWARD G,4,M-Exempt,--D,518.301,13062.156,1,0001199009,Ordinary Shares
+D,02/23/2022 00:00:00,Fehrenbach Franz,4,M-Exempt,--D,518.301,0,2,0001757325,Restricted Stock Units
+A,02/23/2022 00:00:00,Fehrenbach Franz,4,M-Exempt,--D,518.301,5081.156,1,0001757325,Ordinary Shares
+D,02/23/2022 00:00:00,Enders Thomas,4,M-Exempt,--D,518.301,0,2,0001757262,Restricted Stock Units
+A,02/23/2022 00:00:00,Enders Thomas,4,M-Exempt,--D,518.301,11587.156,1,0001757262,Ordinary Shares
+D,02/23/2022 00:00:00,DICCIANI NANCE K,4,M-Exempt,--D,518.301,0,2,0001198097,Resticted Stock Units
+A,02/23/2022 00:00:00,DICCIANI NANCE K,4,M-Exempt,--D,518.301,19590.417,1,0001198097,Ordinary Shares
+D,02/23/2022 00:00:00,BOERSIG CLEMENS A H,4,M-Exempt,--D,518.301,0,2,0001455223,Restricted Stock Units
+A,02/23/2022 00:00:00,BOERSIG CLEMENS A H,4,M-Exempt,--D,518.301,2793.156,1,0001455223,Ordinary Shares
+D,02/23/2022 00:00:00,Achleitner Ann-Kristin,4,M-Exempt,--D,518.301,0,2,0001757273,Restricted Stock Units
+A,02/23/2022 00:00:00,Achleitner Ann-Kristin,4,M-Exempt,--D,518.301,2852.156,1,0001757273,Ordinary Shares
+A,02/18/2022 00:00:00,Fehrenbach Franz,4,P-Purchase,--D,95,4562.855,2,0001757325,Ordinary Shares
+A,02/18/2022 00:00:00,Fehrenbach Franz,4,P-Purchase,--D,280,4467.855,1,0001757325,Ordinary Shares
+A,02/15/2022 00:00:00,ANGEL STEPHEN F,4,I-Discretionary,--D,11477.7,141790.958,20,0001190775,Deferred Stock Units
+D,11/03/2021 00:00:00,ANGEL STEPHEN F,4/A,F-InKind,--D,176061,342901,2,0001190775,Ordinary Shares
+A,11/03/2021 00:00:00,ANGEL STEPHEN F,4/A,M-Exempt,--D,261075,518962,1,0001190775,Ordinary Shares
+D,11/03/2021 00:00:00,Nowicki Juergen,4/A,F-InKind,--D,3924,4771,6,0001809034,Ordinary Shares
+A,11/03/2021 00:00:00,Nowicki Juergen,4/A,M-Exempt,--D,5093,8695,5,0001809034,Ordinary Shares
+D,11/03/2021 00:00:00,Nowicki Juergen,4/A,F-InKind,--D,2513,3602,4,0001809034,Ordinary Shares
+A,11/03/2021 00:00:00,Nowicki Juergen,4/A,M-Exempt,--D,3240,6115,3,0001809034,Ordinary Shares
+D,11/03/2021 00:00:00,Nowicki Juergen,4/A,F-InKind,--D,1135,2875,2,0001809034,Ordinary Shares
+A,11/03/2021 00:00:00,Nowicki Juergen,4/A,M-Exempt,--D,1473,4010,1,0001809034,Ordinary Shares
+D,11/03/2021 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,261075,0,17,0001190775,Stock Option (right to buy)
+D,11/03/2021 00:00:00,ANGEL STEPHEN F,4,F-InKind,--D,164570,354392,6,0001190775,Ordinary Shares
+A,11/03/2021 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,261075,518962,5,0001190775,Ordinary Shares
+D,11/03/2021 00:00:00,Nowicki Juergen,4,M-Exempt,--D,5093,10187,14,0001809034,Stock Options (right to buy)
+D,11/03/2021 00:00:00,Nowicki Juergen,4,M-Exempt,--D,1473,2947,13,0001809034,Stock Options (right to buy)
+D,11/03/2021 00:00:00,Nowicki Juergen,4,M-Exempt,--D,3240,1620,12,0001809034,Stock Options (right to buy)
+D,11/03/2021 00:00:00,Nowicki Juergen,4,F-InKind,--D,2703,7104,6,0001809034,Ordinary Shares
+A,11/03/2021 00:00:00,Nowicki Juergen,4,M-Exempt,--D,5093,9807,5,0001809034,Ordinary Shares
+D,11/03/2021 00:00:00,Nowicki Juergen,4,F-InKind,--D,1754,4714,4,0001809034,Ordinary Shares
+A,11/03/2021 00:00:00,Nowicki Juergen,4,M-Exempt,--D,3240,6468,3,0001809034,Ordinary Shares
+D,11/03/2021 00:00:00,Nowicki Juergen,4,F-InKind,--D,782,3228,2,0001809034,Ordinary Shares
+A,11/03/2021 00:00:00,Nowicki Juergen,4,M-Exempt,--D,1473,4010,1,0001809034,Ordinary Shares
+D,11/02/2021 00:00:00,Panikar John,4,M-Exempt,--D,8407,0,13,0001504943,Stock Options (right to buy)
+D,11/02/2021 00:00:00,Panikar John,4,M-Exempt,--D,7796,3899,12,0001504943,Stock Options (right to buy)
+D,11/02/2021 00:00:00,Panikar John,4,S-Sale,--D,4872,15105.5304,5,0001504943,Ordinary Shares
+D,11/02/2021 00:00:00,Panikar John,4,F-InKind,--D,5710,19977.5304,4,0001504943,Ordinary Shares
+A,11/02/2021 00:00:00,Panikar John,4,M-Exempt,--D,8407,25687.5304,3,0001504943,Ordinary Shares
+D,11/02/2021 00:00:00,Panikar John,4,F-InKind,--D,5621,17280.5304,2,0001504943,Ordinary Shares
+A,11/02/2021 00:00:00,Panikar John,4,M-Exempt,--D,7796,22901.5304,1,0001504943,Ordinary Shares
+D,06/09/2021 00:00:00,Nowicki Juergen,4,M-Exempt,--D,645,0,10,0001809034,Stock Options (right to buy)
+A,06/09/2021 00:00:00,Nowicki Juergen,4,M-Exempt,--D,645,2537,3,0001809034,Ordinary Shares
+D,06/08/2021 00:00:00,Opfermann Andreas,4,M-Exempt,--D,93,0,3,0001793274,Restricted Stock Units
+D,06/08/2021 00:00:00,Opfermann Andreas,4,F-InKind,--D,45,546,2,0001793274,Ordinary Shares
+A,06/08/2021 00:00:00,Opfermann Andreas,4,M-Exempt,--D,93,591,1,0001793274,Ordinary Shares
+D,06/08/2021 00:00:00,Nowicki Juergen,4,M-Exempt,--D,155,155,4,0001809034,Restricted Stock Units
+D,06/08/2021 00:00:00,Nowicki Juergen,4,F-InKind,--D,80,1892,2,0001809034,Ordinary Shares
+A,06/08/2021 00:00:00,Nowicki Juergen,4,M-Exempt,--D,155,1972,1,0001809034,Ordinary Shares
+D,06/08/2021 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,686,0,2,0001757274,Restricted Stock Units
+A,06/08/2021 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,686,29940,1,0001757274,Ordinary Shares
+D,05/25/2021 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,3052,0,9,0001757274,Stock Option (right to buy)
+D,05/25/2021 00:00:00,Lamba Sanjiv,4,S-Sale,--D,21,29254,2,0001757274,Ordinary Shares
+A,05/25/2021 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,3052,29275,1,0001757274,Ordinary Shares
+D,05/13/2021 00:00:00,McVay Larry D,4,M-Exempt,--D,624.928,0,2,0001415036,Restricted Stock Units
+D,05/13/2021 00:00:00,WOOD ROBERT L,4,M-Exempt,--D,624.928,0,3,0001167298,Restricted Stock Units
+D,05/13/2021 00:00:00,WOOD ROBERT L,4,F-InKind,--D,25,15261.0428,2,0001167298,Ordinary Shares
+A,05/13/2021 00:00:00,WOOD ROBERT L,4,M-Exempt,--D,624.928,15286.0428,1,0001167298,Ordinary Shares
+D,05/13/2021 00:00:00,RICHENHAGEN MARTIN,4,M-Exempt,--D,624.928,0,3,0001284296,Restricted Stock Units
+D,05/13/2021 00:00:00,RICHENHAGEN MARTIN,4,F-InKind,--D,25,5432.396,2,0001284296,Ordinary Shares
+A,05/13/2021 00:00:00,RICHENHAGEN MARTIN,4,M-Exempt,--D,624.928,5457.396,1,0001284296,Ordinary Shares
+D,05/13/2021 00:00:00,Reitzle Wolfgang,4,M-Exempt,--D,1561.808,0,3,0001757276,Restricted Stock Units
+D,05/13/2021 00:00:00,Reitzle Wolfgang,4,F-InKind,--D,140,18914.285,2,0001757276,Ordinary Shares
+A,05/13/2021 00:00:00,Reitzle Wolfgang,4,M-Exempt,--D,1561.808,19054.285,1,0001757276,Ordinary Shares
+D,05/13/2021 00:00:00,McVay Larry D,4,M-Exempt,--D,624.928,0,3,0001415036,Restricted Stock Units
+D,05/13/2021 00:00:00,McVay Larry D,4,F-InKind,--D,25,12790.281,2,0001415036,Ordinary Shares
+A,05/13/2021 00:00:00,McVay Larry D,4,M-Exempt,--D,624.928,12815.281,1,0001415036,Ordinary Shares
+D,05/13/2021 00:00:00,Fehrenbach Franz,4,M-Exempt,--D,624.928,0,3,0001757325,Restricted Stock Units
+D,05/13/2021 00:00:00,Fehrenbach Franz,4,F-InKind,--D,43,4187.855,2,0001757325,Ordinary Shares
+A,05/13/2021 00:00:00,Fehrenbach Franz,4,M-Exempt,--D,624.928,4230.855,1,0001757325,Ordinary Shares
+D,05/13/2021 00:00:00,Enders Thomas,4,M-Exempt,--D,624.928,0,3,0001757262,Restricted Stock Units
+D,05/13/2021 00:00:00,Enders Thomas,4,F-InKind,--D,134,11068.855,2,0001757262,Ordinary Shares
+A,05/13/2021 00:00:00,Enders Thomas,4,M-Exempt,--D,624.928,11202.855,1,0001757262,Ordinary Shares
+D,05/13/2021 00:00:00,DICCIANI NANCE K,4,M-Exempt,--D,624.928,0,3,0001198097,Restricted Stock Units
+D,05/13/2021 00:00:00,DICCIANI NANCE K,4,F-InKind,--D,50,19072.116,2,0001198097,Ordinary Shares
+A,05/13/2021 00:00:00,DICCIANI NANCE K,4,M-Exempt,--D,624.928,19122.116,1,0001198097,Ordinary Shares
+D,05/13/2021 00:00:00,BOERSIG CLEMENS A H,4,M-Exempt,--D,624.928,0,3,0001455223,Restricted Stock Units
+D,05/13/2021 00:00:00,BOERSIG CLEMENS A H,4,F-InKind,--D,46,2274.855,2,0001455223,Ordinary Shares
+A,05/13/2021 00:00:00,BOERSIG CLEMENS A H,4,M-Exempt,--D,624.928,2320.855,1,0001455223,Ordinary Shares
+D,05/13/2021 00:00:00,Achleitner Ann-Kristin,4,M-Exempt,--D,624.928,0,3,0001757273,Restricted Stock Units
+D,05/13/2021 00:00:00,Achleitner Ann-Kristin,4,F-InKind,--D,43,2333.855,2,0001757273,Ordinary Shares
+A,05/13/2021 00:00:00,Achleitner Ann-Kristin,4,M-Exempt,--D,624.928,2376.855,1,0001757273,Ordinary Shares
+D,05/11/2021 00:00:00,GALANTE EDWARD G,4,G-Gift,-ED,2000,12541.414,1,0001199009,Ordinary Shares
+D,03/11/2021 00:00:00,Ossadnik Victoria,4,M-Exempt,--D,622.487,0,3,0001757272,Restricted Stock Units
+D,03/11/2021 00:00:00,Ossadnik Victoria,4,F-InKind,--D,119,1276.414,2,0001757272,Ordinary Shares
+A,03/11/2021 00:00:00,Ossadnik Victoria,4,A-Award,--D,622.487,1395.414,1,0001757272,Ordinary Shares
+D,03/11/2021 00:00:00,GALANTE EDWARD G,4,M-Exempt,--D,622.487,0,3,0001199009,Restricted Stock Units
+D,03/11/2021 00:00:00,GALANTE EDWARD G,4,F-InKind,--D,25,14541.414,2,0001199009,Ordinary Shares
+A,03/11/2021 00:00:00,GALANTE EDWARD G,4,M-Exempt,--D,622.487,14566.414,1,0001199009,Ordinary Shares
+A,03/08/2021 00:00:00,Durbin Sean,4,A-Award,--D,19070,19070,5,0001850358,Stock Options (right to buy)
+A,03/08/2021 00:00:00,Durbin Sean,4,A-Award,--D,1810,1810,2,0001850358,Restricted Stock Units
+A,03/08/2021 00:00:00,Hoyt Kelcey E,4,A-Award,--D,4100,4100,6,0001681090,Stock Option (right to buy)
+A,03/08/2021 00:00:00,Hoyt Kelcey E,4,A-Award,--D,390,390,3,0001681090,Restricted Stock Units
+A,03/08/2021 00:00:00,Lamba Sanjiv,4,A-Award,--D,40995,40995,6,0001757274,Stock Option (right to buy)
+A,03/08/2021 00:00:00,Lamba Sanjiv,4,A-Award,--D,3895,3895,2,0001757274,Restricted Stock Units
+A,03/08/2021 00:00:00,Opfermann Andreas,4,A-Award,--D,19070,19070,6,0001793274,Stock Option (right to buy)
+A,03/08/2021 00:00:00,Opfermann Andreas,4,A-Award,--D,1810,1810,2,0001793274,Restricted Stock Units
+A,03/08/2021 00:00:00,Nowicki Juergen,4,A-Award,--D,16685,16685,7,0001809034,Stock Options (right to buy)
+A,03/08/2021 00:00:00,Nowicki Juergen,4,A-Award,--D,1585,1585,2,0001809034,Restricted Stock Units
+A,03/08/2021 00:00:00,Panikar John,4,A-Award,--D,19070,19070,6,0001504943,Stock Options (right to buy)
+A,03/08/2021 00:00:00,Panikar John,4,A-Award,--D,1810,1810,3,0001504943,Restricted Stock Units
+A,03/08/2021 00:00:00,White Matthew J,4,A-Award,--D,34320,34320,6,0001441755,Stock Option (right to buy)
+A,03/08/2021 00:00:00,White Matthew J,4,A-Award,--D,3260,3260,3,0001441755,Restricted Stock Units
+A,03/08/2021 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,133465,133465,14,0001190775,Stock Option (right to buy)
+A,03/08/2021 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,12670,12670,6,0001190775,Restricted Stock Units
+A,03/05/2021 00:00:00,Hoyt Kelcey E,4,A-Award,--D,22.716,65.394,14,0001681090,Deferred Stock Unit
+A,03/05/2021 00:00:00,Panikar John,4,A-Award,--D,24.889,94.951,10,0001504943,Deferred Stock Units
+A,03/05/2021 00:00:00,White Matthew J,4,A-Award,--D,92.841,1098.11,13,0001441755,Deferred Stock Units
+A,03/05/2021 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,186.67,128449.429,21,0001190775,Deferred Stock Units
+D,03/01/2021 00:00:00,White Matthew J,4,M-Exempt,--D,7765,0,4,0001441755,Restricted Stock Units
+D,03/01/2021 00:00:00,White Matthew J,4,F-InKind,--D,3599,34542,2,0001441755,Ordinary Shares
+A,03/01/2021 00:00:00,White Matthew J,4,M-Exempt,--D,7765,38141,1,0001441755,Ordinary Shares
+D,03/01/2021 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,7375,0,3,0001411350,Restricted Stock Units
+D,03/01/2021 00:00:00,Menezes Eduardo F,4,F-InKind,--D,3245,74437.4994,2,0001411350,Ordinary Shares
+A,03/01/2021 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,7375,77682.4994,1,0001411350,Ordinary Shares
+D,03/01/2021 00:00:00,Panikar John,4,M-Exempt,--D,3030,0,4,0001504943,Restricted Stock Units
+D,03/01/2021 00:00:00,Panikar John,4,F-InKind,--D,1193,15100.9108,2,0001504943,Ordinary Shares
+A,03/01/2021 00:00:00,Panikar John,4,M-Exempt,--D,3030,16293.9108,1,0001504943,Ordinary Shares
+D,03/01/2021 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,1165,0,4,0001681090,Restricted Stock Units
+D,03/01/2021 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,540,4729.107,2,0001681090,Ordinary Shares
+A,03/01/2021 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,1165,5269.107,1,0001681090,Ordinary Shares
+A,02/26/2021 00:00:00,Fehrenbach Franz,4,P-Purchase,--D,493,3605.927,1,0001757325,Ordinary Shares
+A,02/22/2021 00:00:00,WOOD ROBERT L,4,A-Award,--D,511,0,2,0001167298,Restricted Stock Units
+A,02/22/2021 00:00:00,RICHENHAGEN MARTIN,4,A-Award,--D,511,511,2,0001284296,Restricted Stock Units
+A,02/22/2021 00:00:00,Reitzle Wolfgang,4,A-Award,--D,1278,1278,2,0001757276,Restricted Stock Units
+A,02/22/2021 00:00:00,Ossadnik Victoria,4,A-Award,--D,511,511,2,0001757272,Restricted Stock Units
+A,02/22/2021 00:00:00,McVay Larry D,4,A-Award,--D,511,511,2,0001415036,Restricted Stock Units
+A,02/22/2021 00:00:00,GALANTE EDWARD G,4,A-Award,--D,511,511,2,0001199009,Restricted Stock Units
+A,02/22/2021 00:00:00,Fehrenbach Franz,4,A-Award,--D,511,511,2,0001757325,Restricted Stock Units
+A,02/22/2021 00:00:00,Enders Thomas,4,A-Award,--D,511,511,2,0001757262,Restricted Stock Units
+A,02/22/2021 00:00:00,DICCIANI NANCE K,4,A-Award,--D,511,511,2,0001198097,Resticted Stock Units
+A,02/22/2021 00:00:00,BOERSIG CLEMENS A H,4,A-Award,--D,511,511,2,0001455223,Restricted Stock Units
+A,02/22/2021 00:00:00,Achleitner Ann-Kristin,4,A-Award,--D,511,511,2,0001757273,Restricted Stock Units
+D,02/12/2021 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,2675,0,14,0001681090,Stock Option (right to buy)
+D,02/12/2021 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,3995,0,13,0001681090,Stock Option (right to buy)
+D,02/12/2021 00:00:00,Hoyt Kelcey E,4,S-Sale,--D,1547,4104.107,6,0001681090,Ordinary Shares
+D,02/12/2021 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,2448,5651.107,5,0001681090,Ordinary Shares
+A,02/12/2021 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,3995,8099.107,4,0001681090,Ordinary Shares
+D,02/12/2021 00:00:00,Hoyt Kelcey E,4,S-Sale,--D,1012,4104.107,3,0001681090,Ordinary Shares
+D,02/12/2021 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,1663,5116.107,2,0001681090,Ordinary Shares
+A,02/12/2021 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,2675,6779.107,1,0001681090,Ordinary Shares
+D,11/09/2020 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,47375,0,13,0001411350,Stock Option (right to buy)
+D,11/09/2020 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,37305,0,12,0001411350,Stock Option (right to buy)
+D,11/09/2020 00:00:00,Menezes Eduardo F,4,S-Sale,--D,10229,70307.499,6,0001411350,Ordinary Shares
+D,11/09/2020 00:00:00,Menezes Eduardo F,4,F-InKind,--D,27076,80536.499,5,0001411350,Ordinary Shares
+A,11/09/2020 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,37305,107612.499,4,0001411350,Ordinary Shares
+D,11/09/2020 00:00:00,Menezes Eduardo F,4,S-Sale,--D,13027,70307.499,3,0001411350,Ordinary Shares
+D,11/09/2020 00:00:00,Menezes Eduardo F,4,F-InKind,--D,34348,83334.499,2,0001411350,Ordinary Shares
+A,11/09/2020 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,47375,117682.499,1,0001411350,Ordinary Shares
+D,11/09/2020 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,203930,0,16,0001190775,Stock Option (right to buy)
+D,11/09/2020 00:00:00,ANGEL STEPHEN F,4,S-Sale,--D,56000,257887,7,0001190775,Ordinary Shares
+D,11/09/2020 00:00:00,ANGEL STEPHEN F,4,F-InKind,--D,147930,313887,6,0001190775,Ordinary Shares
+A,11/09/2020 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,203930,461817,5,0001190775,Ordinary Shares
+D,08/19/2020 00:00:00,Opfermann Andreas,4,M-Exempt,--D,457,0,7,0001793274,Stock Option (right to buy)
+D,08/19/2020 00:00:00,Opfermann Andreas,4,S-Sale,--D,5,498,2,0001793274,Ordinary Shares
+A,08/19/2020 00:00:00,Opfermann Andreas,4,M-Exempt,--D,457,503,1,0001793274,Ordinary Shares
+D,08/06/2020 00:00:00,Nowicki Juergen,4,M-Exempt,--D,763,0,7,0001809034,Stock Options (right to buy)
+D,08/06/2020 00:00:00,Nowicki Juergen,4,S-Sale,--D,7,1817,2,0001809034,Ordinary Shares
+A,08/06/2020 00:00:00,Nowicki Juergen,4,M-Exempt,--D,763,1824,1,0001809034,Ordinary Shares
+D,08/03/2020 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,187015,0,15,0001190775,Stock Option (right to buy)
+D,08/03/2020 00:00:00,ANGEL STEPHEN F,4,F-InKind,--D,131080,257887,6,0001190775,Ordinary Shares
+A,08/03/2020 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,187015,388967,5,0001190775,Ordinary Shares
+D,06/03/2020 00:00:00,Roby Anne K,4,M-Exempt,--D,9405,40000,15,0001595290,Stock Option (right to buy)
+D,06/03/2020 00:00:00,Roby Anne K,4,M-Exempt,--D,15790,0,12,0001595290,Stock Option (right to buy)
+D,06/03/2020 00:00:00,Roby Anne K,4,S-Sale,--D,6671,31292.522,5,0001595290,Ordinary Shares
+D,06/03/2020 00:00:00,Roby Anne K,4,F-InKind,--D,11732,37963.522,4,0001595290,Ordinary Shares
+A,06/03/2020 00:00:00,Roby Anne K,4,M-Exempt,--D,15790,49695.522,3,0001595290,Ordinary Shares
+D,06/03/2020 00:00:00,Roby Anne K,4,F-InKind,--D,6792,33905.522,2,0001595290,Ordinary Shares
+A,06/03/2020 00:00:00,Roby Anne K,4,M-Exempt,--D,9405,40697.522,1,0001595290,Ordinary Shares
+D,06/02/2020 00:00:00,Opfermann Andreas,4,M-Exempt,--D,75,0,4,0001793274,Restricted Stock Units
+D,06/02/2020 00:00:00,Opfermann Andreas,4,F-InKind,--D,39,46,2,0001793274,Ordinary Shares
+A,06/02/2020 00:00:00,Opfermann Andreas,4,M-Exempt,--D,75,85,1,0001793274,Ordinary Shares
+D,06/02/2020 00:00:00,Nowicki Juergen,4,M-Exempt,--D,125,0,3,0001809034,Restricted Stock Units
+D,06/02/2020 00:00:00,Nowicki Juergen,4,F-InKind,--D,64,1061,2,0001809034,Ordinary Shares
+A,06/02/2020 00:00:00,Nowicki Juergen,4,M-Exempt,--D,125,1125,1,0001809034,Ordinary Shares
+D,06/02/2020 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,502,0,3,0001757274,Restricted Stock Units
+A,06/02/2020 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,502,26223,1,0001757274,Ordinary Shares
+D,05/18/2020 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,862,0,8,0001757274,Stock Option (right to buy)
+D,05/18/2020 00:00:00,Lamba Sanjiv,4,S-Sale,--D,862,25721,2,0001757274,Ordinary Shares
+A,05/18/2020 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,862,26583,1,0001757274,Ordinary Shares
+A,03/17/2020 00:00:00,Fehrenbach Franz,4,P-Purchase,--D,1400,3112.927,1,0001757325,Ordinary Shares
+A,03/16/2020 00:00:00,ANGEL STEPHEN F,4,P-Purchase,--D,2000,201952,5,0001190775,Ordinary Shares
+A,03/13/2020 00:00:00,Enders Thomas,4,P-Purchase,--D,3400,10577.927,1,0001757262,Ordinary Shares
+D,03/12/2020 00:00:00,Bruch Christian,4,M-Exempt,--D,646,0,8,0001757275,Stock Option (right to buy)
+D,03/12/2020 00:00:00,Bruch Christian,4,S-Sale,--D,336,10293,2,0001757275,Ordinary Shares
+A,03/12/2020 00:00:00,Bruch Christian,4,M-Exempt,--D,646,10629,1,0001757275,Ordinary Shares
+A,03/12/2020 00:00:00,ANGEL STEPHEN F,4,P-Purchase,--D,2000,199952,5,0001190775,Ordinary Shares
+A,03/09/2020 00:00:00,White Matthew J,4,A-Award,--D,43695,43695,6,0001441755,Stock Option (right to buy)
+A,03/09/2020 00:00:00,White Matthew J,4,A-Award,--D,3590,3590,3,0001441755,Restricted Stock Units
+A,03/09/2020 00:00:00,Roby Anne K,4,A-Award,--D,23545,23545,6,0001595290,Stock Option (right to buy)
+A,03/09/2020 00:00:00,Roby Anne K,4,A-Award,--D,1935,1935,3,0001595290,Restricted Stock Units
+A,03/09/2020 00:00:00,Opfermann Andreas,4,A-Award,--D,26090,26090,6,0001793274,Stock Option (right to buy)
+A,03/09/2020 00:00:00,Opfermann Andreas,4,A-Award,--D,2145,2145,2,0001793274,Restricted Stock Units
+A,03/09/2020 00:00:00,Menezes Eduardo F,4,A-Award,--D,37565,37565,5,0001411350,Stock Option (right to buy)
+A,03/09/2020 00:00:00,Menezes Eduardo F,4,A-Award,--D,3090,3090,2,0001411350,Restricted Stock Units
+A,03/09/2020 00:00:00,Lamba Sanjiv,4,A-Award,--D,37565,37565,6,0001757274,Stock Option (right to buy)
+A,03/09/2020 00:00:00,Lamba Sanjiv,4,A-Award,--D,3090,3090,2,0001757274,Restricted Stock Units
+A,03/09/2020 00:00:00,Hoyt Kelcey E,4,A-Award,--D,5545,5545,6,0001681090,Stock Option (right to buy)
+A,03/09/2020 00:00:00,Hoyt Kelcey E,4,A-Award,--D,460,460,3,0001681090,Restricted Stock
+A,03/09/2020 00:00:00,Bruch Christian,4,A-Award,--D,28695,28695,6,0001757275,Stock Options (right to buy)
+A,03/09/2020 00:00:00,Bruch Christian,4,A-Award,--D,2360,2360,2,0001757275,Retricted Stock Units
+A,03/09/2020 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,169560,169560,13,0001190775,Stock Option (right to buy)
+A,03/09/2020 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,13935,13935,6,0001190775,Restricted Stock Units
+A,03/09/2020 00:00:00,ANGEL STEPHEN F,4,P-Purchase,--D,3000,197952,5,0001190775,Ordinary Shares
+A,03/06/2020 00:00:00,ANGEL STEPHEN F,4/A,A-Award,--D,18373.506,126100.796,1,0001190775,Deferred Stock Units
+A,03/06/2020 00:00:00,White Matthew J,4,A-Award,--D,111.242,986.571,12,0001441755,Deferred Stock Units
+A,03/06/2020 00:00:00,Roby Anne K,4,A-Award,--D,63.739,120.569,14,0001595290,Deferred Stock Unit
+A,03/06/2020 00:00:00,Menezes Eduardo F,4,A-Award,--D,83.432,177.806,12,0001411350,Deferred Stock Unit
+A,03/06/2020 00:00:00,Hoyt Kelcey E,4,A-Award,--D,26.057,41.597,15,0001681090,Deferred Stock Unit
+A,03/06/2020 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,223.837,107951.127,21,0001190775,Deferred Stock Units
+D,03/02/2020 00:00:00,White Matthew J,4,M-Exempt,--D,5450,0,7,0001441755,Restricted Stock Unit
+D,03/02/2020 00:00:00,White Matthew J,4,M-Exempt,--D,7960,0,6,0001441755,Restricted Stock Units
+D,03/02/2020 00:00:00,White Matthew J,4,F-InKind,--D,2526,30376,4,0001441755,Ordinary Shares
+A,03/02/2020 00:00:00,White Matthew J,4,M-Exempt,--D,5450,32902,3,0001441755,Ordinary Shares
+D,03/02/2020 00:00:00,White Matthew J,4,F-InKind,--D,3689,27452,2,0001441755,Ordinary Shares
+A,03/02/2020 00:00:00,White Matthew J,4,M-Exempt,--D,7960,31141,1,0001441755,Ordinary Shares
+D,03/02/2020 00:00:00,Roby Anne K,4,M-Exempt,--D,2960,0,7,0001595290,Restricted Stock Units
+D,03/02/2020 00:00:00,Roby Anne K,4,M-Exempt,--D,4328,0,6,0001595290,Restricted Stock Units
+D,03/02/2020 00:00:00,Roby Anne K,4,F-InKind,--D,1372,31292.522,4,0001595290,Ordinary Shares
+A,03/02/2020 00:00:00,Roby Anne K,4,M-Exempt,--D,2960,32664.522,3,0001595290,Ordinary Shares
+D,03/02/2020 00:00:00,Roby Anne K,4,F-InKind,--D,1841,29704.522,2,0001595290,Ordinary Shares
+A,03/02/2020 00:00:00,Roby Anne K,4,M-Exempt,--D,4328,31545.522,1,0001595290,Ordinary Shares
+D,03/02/2020 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,5340,0,6,0001411350,Restricted Stock Units
+D,03/02/2020 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,7808,0,5,0001411350,Restricted Stock Units
+D,03/02/2020 00:00:00,Menezes Eduardo F,4,F-InKind,--D,2350,70307.499,4,0001411350,Ordinary Shares
+A,03/02/2020 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,5340,72657.499,3,0001411350,Ordinary Shares
+D,03/02/2020 00:00:00,Menezes Eduardo F,4,F-InKind,--D,3435,67317.499,2,0001411350,Ordinary Shares
+A,03/02/2020 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,7808,70752.499,1,0001411350,Orindary Shares
+D,03/02/2020 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,790,0,7,0001681090,Restricted Stock Units
+D,03/02/2020 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,1152,0,6,0001681090,Restricted Stock Units
+D,03/02/2020 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,248,4104.107,4,0001681090,Ordinary Shares
+A,03/02/2020 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,790,4352.107,3,0001681090,Ordinary Shares
+D,03/02/2020 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,362,3562.107,2,0001681090,Ordinary Shares
+A,03/02/2020 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,1152,3924.107,1,0001681090,Ordinary Shares
+D,02/27/2020 00:00:00,WOOD ROBERT L,4,M-Exempt,--D,772.927,0,3,0001167298,Restricted Stock Units
+D,02/27/2020 00:00:00,WOOD ROBERT L,4,F-InKind,--D,58,14558.855,2,0001167298,Ordinary Shares
+A,02/27/2020 00:00:00,WOOD ROBERT L,4,M-Exempt,--D,772.927,14616.855,1,0001167298,Ordinary Shares
+D,02/27/2020 00:00:00,RICHENHAGEN MARTIN,4,M-Exempt,--D,772.927,0,3,0001284296,Restricted Stock Units
+D,02/27/2020 00:00:00,RICHENHAGEN MARTIN,4,F-InKind,--D,54,4832.468,2,0001284296,Ordinary Shares
+A,02/27/2020 00:00:00,RICHENHAGEN MARTIN,4,M-Exempt,--D,772.927,4886.468,1,0001284296,Ordinary Shares
+D,02/27/2020 00:00:00,Reitzle Wolfgang,4,M-Exempt,--D,1802.477,0,3,0001757276,Restricted Stock Units
+D,02/27/2020 00:00:00,Reitzle Wolfgang,4,F-InKind,--D,387,17492.477,2,0001757276,Ordinary Shares
+A,02/27/2020 00:00:00,Reitzle Wolfgang,4,M-Exempt,--D,1802.477,17879.477,1,0001757276,Ordinary Shares
+D,02/27/2020 00:00:00,Ossadnik Victoria,4,M-Exempt,--D,772.927,0,2,0001757272,Restricted Stock Units
+A,02/27/2020 00:00:00,Ossadnik Victoria,4,M-Exempt,--D,772.927,772.927,1,0001757272,Ordinary Shares
+D,02/27/2020 00:00:00,McVay Larry D,4,M-Exempt,--D,772.927,0,3,0001415036,Restricted Stock Units
+D,02/27/2020 00:00:00,McVay Larry D,4,F-InKind,--D,54,11972.786,2,0001415036,Ordinary Shares
+A,02/27/2020 00:00:00,McVay Larry D,4,M-Exempt,--D,772.927,12026.786,1,0001415036,Ordinary Shares
+D,02/27/2020 00:00:00,GALANTE EDWARD G,4,M-Exempt,--D,772.927,0,3,0001199009,Restricted Stock Units
+D,02/27/2020 00:00:00,GALANTE EDWARD G,4,F-InKind,--D,58,13943.927,2,0001199009,Ordinary Shares
+A,02/27/2020 00:00:00,GALANTE EDWARD G,4,M-Exempt,--D,772.927,14001.927,1,0001199009,Ordinary Shares
+D,02/27/2020 00:00:00,Fehrenbach Franz,4,M-Exempt,--D,772.927,0,3,0001757325,Restricted Stock Units
+D,02/27/2020 00:00:00,Fehrenbach Franz,4,F-InKind,--D,39,1712.927,2,0001757325,Ordinary Shares
+A,02/27/2020 00:00:00,Fehrenbach Franz,4,M-Exempt,--D,772.927,1751.927,1,0001757325,Ordinary Shares
+D,02/27/2020 00:00:00,Enders Thomas,4,M-Exempt,--D,772.927,0,3,0001757262,Restricted Stock Units
+D,02/27/2020 00:00:00,Enders Thomas,4,F-InKind,--D,195,7177.927,2,0001757262,Ordinary Shares
+A,02/27/2020 00:00:00,Enders Thomas,4,M-Exempt,--D,772.927,7372.927,1,0001757262,Ordinary Shares
+D,02/27/2020 00:00:00,DICCIANI NANCE K,4,M-Exempt,--D,772.927,0,3,0001198097,Resticted Stock Units
+D,02/27/2020 00:00:00,DICCIANI NANCE K,4,F-InKind,--D,62,18497.188,2,0001198097,Ordinary Shares
+A,02/27/2020 00:00:00,DICCIANI NANCE K,4,M-Exempt,--D,772.927,18559.188,1,0001198097,Ordinary Shares
+D,02/27/2020 00:00:00,BOERSIG CLEMENS A H,4,M-Exempt,--D,772.927,0,3,0001455223,Restricted Stock Units
+D,02/27/2020 00:00:00,BOERSIG CLEMENS A H,4,F-InKind,--D,56,1695.927,2,0001455223,Ordinary Shares
+A,02/27/2020 00:00:00,BOERSIG CLEMENS A H,4,M-Exempt,--D,772.927,1751.927,1,0001455223,Ordinary Shares
+D,02/27/2020 00:00:00,Achleitner Ann-Kristin,4,M-Exempt,--D,772.927,0,2,0001757273,Restricted Stock Units
+A,02/27/2020 00:00:00,Achleitner Ann-Kristin,4,M-Exempt,--D,772.927,1751.927,1,0001757273,Ordinary Shares
+A,02/24/2020 00:00:00,WOOD ROBERT L,4,A-Award,--D,611,611,2,0001167298,Restricted Stock Units
+A,02/24/2020 00:00:00,RICHENHAGEN MARTIN,4,A-Award,--D,611,611,2,0001284296,Restricted Stock Units
+A,02/24/2020 00:00:00,Reitzle Wolfgang,4,A-Award,--D,1527,1527,2,0001757276,Restricted Stock Units
+A,02/24/2020 00:00:00,Ossadnik Victoria,4,A-Award,--D,611,611,2,0001757272,Restricted Stock Units
+A,02/24/2020 00:00:00,McVay Larry D,4,A-Award,--D,611,611,2,0001415036,Restricted Stock Units
+A,02/24/2020 00:00:00,GALANTE EDWARD G,4,A-Award,--D,611,611,2,0001199009,Restricted Stock Units
+A,02/24/2020 00:00:00,Fehrenbach Franz,4,A-Award,--D,611,611,2,0001757325,Restricted Stock Units
+A,02/24/2020 00:00:00,Enders Thomas,4,A-Award,--D,611,611,2,0001757262,Restricted Stock Units
+A,02/24/2020 00:00:00,DICCIANI NANCE K,4,A-Award,--D,611,611,2,0001198097,Restricted Stock Units
+A,02/24/2020 00:00:00,BOERSIG CLEMENS A H,4,A-Award,--D,611,611,2,0001455223,Restricted Stock Units
+A,02/24/2020 00:00:00,Achleitner Ann-Kristin,4,A-Award,--D,611,611,2,0001757273,Restricted Stock Units
+D,02/18/2020 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,35220,0,11,0001411350,Stock Option (right to buy)
+D,02/18/2020 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,43005,0,10,0001411350,Stock Option (right to buy)
+D,02/18/2020 00:00:00,Menezes Eduardo F,4,F-InKind,--D,30576,62944.499,4,0001411350,Ordinary Shares
+A,02/18/2020 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,43005,93520.499,3,0001411350,Ordinary Shares
+D,02/18/2020 00:00:00,Menezes Eduardo F,4,F-InKind,--D,25649,50515.499,2,0001411350,Ordinary Shares
+A,02/18/2020 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,35220,76164.499,1,0001411350,Orindary Shares
+D,02/18/2020 00:00:00,White Matthew J,4,M-Exempt,--D,31090,0,14,0001441755,Stock Option (right to buy)
+D,02/18/2020 00:00:00,White Matthew J,4,M-Exempt,--D,15060,0,13,0001441755,Stock Option (right to buy)
+D,02/18/2020 00:00:00,White Matthew J,4,S-Sale,--D,4067,23181,6,0001441755,Ordinary Shares
+D,02/18/2020 00:00:00,White Matthew J,4,F-InKind,--D,10993,27248,5,0001441755,Ordinary Shares
+A,02/18/2020 00:00:00,White Matthew J,4,M-Exempt,--D,15060,38241,4,0001441755,Ordinary Shares
+D,02/18/2020 00:00:00,White Matthew J,4,S-Sale,--D,7754,23181,3,0001441755,Ordinary Shares
+D,02/18/2020 00:00:00,White Matthew J,4,F-InKind,--D,23336,30935,2,0001441755,Ordinary Shares
+A,02/18/2020 00:00:00,White Matthew J,4,M-Exempt,--D,31090,54271,1,0001441755,Ordinary Shares
+A,12/31/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,266.087,107727.29,19,0001190775,Deferred Stock Units
+D,12/20/2019 00:00:00,Roby Anne K,4,M-Exempt,--D,9215,0,10,0001595290,Stock Option (right to buy)
+D,12/20/2019 00:00:00,Roby Anne K,4,S-Sale,--D,2402,27217.522,3,0001595290,Ordinary Shares
+D,12/20/2019 00:00:00,Roby Anne K,4,F-InKind,--D,6813,29619.522,2,0001595290,Ordinary Shares
+A,12/20/2019 00:00:00,Roby Anne K,4,M-Exempt,--D,9215,36432.522,1,0001595290,Ordinary Shares
+A,12/13/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,270.988,107012.88,19,0001190775,Deferred Stock Units
+A,11/29/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,274.72,106741.892,19,0001190775,Deferred Stock Units
+D,11/19/2019 00:00:00,Roby Anne K,4,M-Exempt,--D,9215,9215,10,0001595290,Stock Option (right to buy)
+D,11/19/2019 00:00:00,Roby Anne K,4,S-Sale,--D,2355,27217.522,3,0001595290,Ordinary Shares
+D,11/19/2019 00:00:00,Roby Anne K,4,F-InKind,--D,6860,29572.522,2,0001595290,Ordinary Shares
+A,11/19/2019 00:00:00,Roby Anne K,4,M-Exempt,--D,9215,36432.522,1,0001595290,Ordinary Shares
+D,11/18/2019 00:00:00,Roby Anne K,4,S-Sale,--D,1583,27217.522,1,0001595290,Ordinary Shares
+A,11/15/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,270.135,106467.172,19,0001190775,Deferred Stock Units
+A,10/31/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,285.606,106197.037,19,0001190775,Deferred Stock Units
+A,10/15/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,290.245,105911.431,19,0001190775,Deferred Stock Units
+A,09/30/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,292.432,105147.668,19,0001190775,Deferred Stock Units
+A,09/13/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,294.806,104855.236,19,0001190775,Deferred Stock Units
+A,08/30/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,299.878,104560.43,19,0001190775,Deferred Stock Units
+D,08/15/2019 00:00:00,Eulitz Bernd Hugo,4,M-Exempt,--D,646,0,6,0001757324,Stock Option (right to buy)
+D,08/15/2019 00:00:00,Eulitz Bernd Hugo,4,S-Sale,--D,335,10904,2,0001757324,Ordinary Shares
+A,08/15/2019 00:00:00,Eulitz Bernd Hugo,4,M-Exempt,--D,646,11239,1,0001757324,Ordinary Shares
+A,08/15/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,303.526,104260.552,19,0001190775,Deferred Stock Units
+A,07/31/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,296.163,103957.026,19,0001190775,Deferred Stock Units
+A,07/15/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,277.601,103660.863,19,0001190775,Deferred Stock Units
+A,06/28/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,282.122,103381.234,19,0001190775,Deferred Stock Units
+A,06/14/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,279.463,102661.362,19,0001190775,Deferred Stock Units
+D,06/06/2019 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,236510,0,14,0001190775,Stock Option (right to buy)
+D,06/06/2019 00:00:00,ANGEL STEPHEN F,4,S-Sale,--D,56574,194952,7,0001190775,Ordinary Shares
+D,06/06/2019 00:00:00,ANGEL STEPHEN F,4,F-InKind,--D,179936,251526,6,0001190775,Ordinary Shares
+A,06/06/2019 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,236510,431462,5,0001190775,Ordinary Shares
+D,06/04/2019 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,142,0,2,0001757274,Restricted Stock Units
+A,06/04/2019 00:00:00,Lamba Sanjiv,4,M-Exempt,--D,142,25721,1,0001757274,Ordinary Shares
+D,06/04/2019 00:00:00,Eulitz Bernd Hugo,4,M-Exempt,--D,106,0,3,0001757324,Restricted Stock Units
+D,06/04/2019 00:00:00,Eulitz Bernd Hugo,4,F-InKind,--D,55,10593,2,0001757324,Ordinary Shares
+A,06/04/2019 00:00:00,Eulitz Bernd Hugo,4,M-Exempt,--D,106,10648,1,0001757324,Ordinary Shares
+D,06/04/2019 00:00:00,Bruch Christian,4,M-Exempt,--D,106,0,3,0001757275,Restricted Stock Units
+D,06/04/2019 00:00:00,Bruch Christian,4,F-InKind,--D,55,9983,2,0001757275,Ordinary Shares
+A,06/04/2019 00:00:00,Bruch Christian,4,M-Exempt,--D,106,10038,1,0001757275,Ordinary Shares
+A,05/31/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,313.764,102381.689,20,0001190775,Deferred Stock Units
+D,05/17/2019 00:00:00,Menezes Eduardo F,4,S-Sale,--D,19056,40927.67,1,0001411350,Orindary Shares
+A,05/15/2019 00:00:00,Lamba Sanjiv,4,P-Purchase,--D,1900,25579,1,0001757274,Ordinary Shares
+A,05/15/2019 00:00:00,Eulitz Bernd Hugo,4,P-Purchase,--D,1496,10542,1,0001757324,Ordinary Shares
+A,05/15/2019 00:00:00,Bruch Christian,4,P-Purchase,--D,1474,9932,1,0001757275,Ordinary Shares
+A,05/15/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,313.226,102067.925,23,0001190775,Deferred Stock Units
+A,04/30/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,314.268,101754.699,23,0001190775,Deferred Stock Units
+A,04/24/2019 00:00:00,Eulitz Bernd Hugo,4,A-Award,--D,2582,2582,8,0001757324,Stock Option (right to buy)
+A,04/24/2019 00:00:00,Eulitz Bernd Hugo,4,A-Award,--D,2289,2289,7,0001757324,Stock Option (right to buy)
+A,04/24/2019 00:00:00,Eulitz Bernd Hugo,4,A-Award,--D,646,646,6,0001757324,Stock Option (right to buy)
+A,04/24/2019 00:00:00,Eulitz Bernd Hugo,4,A-Award,--D,624,624,4,0001757324,Restricted Stock Units
+A,04/24/2019 00:00:00,Eulitz Bernd Hugo,4,A-Award,--D,376,376,3,0001757324,Restricted Stock Units
+A,04/24/2019 00:00:00,Eulitz Bernd Hugo,4,A-Award,--D,106,6,2,0001757324,Restricted Stock Units
+A,04/24/2019 00:00:00,Lamba Sanjiv,4,A-Award,--D,2840,2840,8,0001757274,Stock Option (right to buy)
+A,04/24/2019 00:00:00,Lamba Sanjiv,4,A-Award,--D,3052,3052,7,0001757274,Stock Option (right to buy)
+A,04/24/2019 00:00:00,Lamba Sanjiv,4,A-Award,--D,862,862,6,0001757274,Stock Option (right to buy)
+A,04/24/2019 00:00:00,Lamba Sanjiv,4,A-Award,--D,686,686,4,0001757274,Restricted Stock Units
+A,04/24/2019 00:00:00,Lamba Sanjiv,4,A-Award,--D,502,502,3,0001757274,Restricted Stock Units
+A,04/24/2019 00:00:00,Lamba Sanjiv,4,A-Award,--D,142,142,2,0001757274,Restricted Stock Units
+A,04/24/2019 00:00:00,Bruch Christian,4,A-Award,--D,2582,2582,8,0001757275,Stock Option (right to buy)
+A,04/24/2019 00:00:00,Bruch Christian,4,A-Award,--D,2289,2289,7,0001757275,Stock Option (right to buy)
+A,04/24/2019 00:00:00,Bruch Christian,4,A-Award,--D,646,646,6,0001757275,Stock Option (right to buy)
+A,04/24/2019 00:00:00,Bruch Christian,4,A-Award,--D,624,624,4,0001757275,Restricted Stock Units
+A,04/24/2019 00:00:00,Bruch Christian,4,A-Award,--D,376,376,3,0001757275,Restricted Stock Units
+A,04/24/2019 00:00:00,Bruch Christian,4,A-Award,--D,106,106,2,0001757275,Restricted Stock Units
+A,04/15/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,314.478,100926.097,23,0001190775,Deferred Stock Units
+D,04/08/2019 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,218175,0,16,0001190775,Stock Option (right to buy)
+D,04/08/2019 00:00:00,ANGEL STEPHEN F,4,S-Sale,--D,54994,171083,8,0001190775,Ordinary Shares
+D,04/08/2019 00:00:00,ANGEL STEPHEN F,4,F-InKind,--D,163181,226077,7,0001190775,Ordinary Shares
+A,04/08/2019 00:00:00,ANGEL STEPHEN F,4,M-Exempt,--D,218175,389258,6,0001190775,Ordinary Shares
+D,04/05/2019 00:00:00,White Matthew J,4,M-Exempt,--D,18430,0,25,0001441755,Stock Option (right to buy)
+D,04/05/2019 00:00:00,White Matthew J,4,M-Exempt,--D,14845,0,24,0001441755,Stock Option (right to buy)
+D,04/05/2019 00:00:00,White Matthew J,4,S-Sale,--D,100,23181,18,0001441755,Ordinary Shares
+D,04/05/2019 00:00:00,White Matthew J,4,S-Sale,--D,200,23281,17,0001441755,Ordinary Shares
+D,04/05/2019 00:00:00,White Matthew J,4,S-Sale,--D,415,23481,16,0001441755,Ordinary Shares
+D,04/05/2019 00:00:00,White Matthew J,4,S-Sale,--D,85,23896,15,0001441755,Ordinary Shares
+D,04/05/2019 00:00:00,White Matthew J,4,S-Sale,--D,5,23981,14,0001441755,Ordinary Shares
+D,04/05/2019 00:00:00,White Matthew J,4,S-Sale,--D,100,23986,13,0001441755,Ordinary Shares
+D,04/05/2019 00:00:00,White Matthew J,4,S-Sale,--D,1,24086,12,0001441755,Ordinary Shares
+D,04/05/2019 00:00:00,White Matthew J,4,S-Sale,--D,3117,24087,11,0001441755,Ordinary Shares
+D,04/05/2019 00:00:00,White Matthew J,4,F-InKind,--D,14407,27204,10,0001441755,Ordinary Shares
+A,04/05/2019 00:00:00,White Matthew J,4,M-Exempt,--D,18430,41611,9,0001441755,Ordinary Shares
+D,04/05/2019 00:00:00,White Matthew J,4,S-Sale,--D,500,23181,8,0001441755,Ordinary Shares
+D,04/05/2019 00:00:00,White Matthew J,4,S-Sale,--D,50,23681,7,0001441755,Ordinary Shares
+D,04/05/2019 00:00:00,White Matthew J,4,S-Sale,--D,2050,23731,6,0001441755,Ordinary Shares
+D,04/05/2019 00:00:00,White Matthew J,4,S-Sale,--D,150,25781,5,0001441755,Ordinary Shares
+D,04/05/2019 00:00:00,White Matthew J,4,S-Sale,--D,1000,25931,4,0001441755,Ordinary Shares
+D,04/05/2019 00:00:00,White Matthew J,4,F-InKind,--D,11095,26931,3,0001441755,Ordinary Shares
+A,04/05/2019 00:00:00,White Matthew J,4,M-Exempt,--D,14845,38026,2,0001441755,Ordinary Shares
+A,03/29/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,322.003,100611.619,22,0001190775,Deferred Stock Units
+A,03/22/2019 00:00:00,Enders Thomas,4,P-Purchase,--D,6600,6600,1,0001757262,Ordinary Shares
+A,03/20/2019 00:00:00,Eulitz Bernd Hugo,4/A,A-Award,--D,40470,40470,3,0001757324,Stock Option (right to buy)
+A,03/20/2019 00:00:00,Eulitz Bernd Hugo,4/A,A-Award,--D,3590,3590,2,0001757324,Restricted Stock Units
+A,03/20/2019 00:00:00,Menezes Eduardo F,4,A-Award,--D,40470,40470,6,0001411350,Stock Option (right to buy)
+A,03/20/2019 00:00:00,Menezes Eduardo F,4,A-Award,--D,3590,3590,2,0001411350,Restricted Stock Units
+A,03/20/2019 00:00:00,Lamba Sanjiv,4,A-Award,--D,40470,40470,3,0001757274,Stock Option (right to buy)
+A,03/20/2019 00:00:00,Lamba Sanjiv,4,A-Award,--D,3590,3590,2,0001757274,Ristricted Stock Units
+A,03/20/2019 00:00:00,Eulitz Bernd Hugo,4,A-Award,--D,40470,40470,3,0001757324,Stock Option (right to buy)
+A,03/20/2019 00:00:00,Eulitz Bernd Hugo,4,A-Award,--D,3590,3590,2,0001757324,Ristricted Stock Units
+D,03/20/2019 00:00:00,Roby Anne K,4,M-Exempt,--D,13195,0,10,0001595290,Stock Option (right to buy)
+A,03/20/2019 00:00:00,Roby Anne K,4,A-Award,--D,26230,26230,9,0001595290,Stock Option (right to buy)
+A,03/20/2019 00:00:00,Roby Anne K,4,A-Award,--D,2330,2330,5,0001595290,Ristricted Stock Units
+D,03/20/2019 00:00:00,Roby Anne K,4,S-Sale,--D,3159,28800.522,3,0001595290,Ordinary Shares
+D,03/20/2019 00:00:00,Roby Anne K,4,F-InKind,--D,10036,31959.502,2,0001595290,Ordinary Shares
+A,03/20/2019 00:00:00,Roby Anne K,4,M-Exempt,--D,13195,41995.522,1,0001595290,Ordinary Shares
+A,03/20/2019 00:00:00,Bruch Christian,4,A-Award,--D,29975,29975,3,0001757275,Stock Options (right to buy)
+A,03/20/2019 00:00:00,Bruch Christian,4,A-Award,--D,2660,2660,2,0001757275,Ristricted Stock Units
+A,03/20/2019 00:00:00,Hoyt Kelcey E,4,A-Award,--D,5995,5995,7,0001681090,Stock Option (right to buy)
+A,03/20/2019 00:00:00,Hoyt Kelcey E,4,A-Award,--D,535,535,3,0001681090,Ristricked Stock Units
+A,03/20/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,177605,177605,13,0001190775,Stock Option (right to buy)
+A,03/20/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,15755,15755,7,0001190775,Ristricted Stock Units
+A,03/20/2019 00:00:00,White Matthew J,4,A-Award,--D,47020,47020,7,0001441755,Stock Option (right to buy)
+A,03/20/2019 00:00:00,White Matthew J,4,A-Award,--D,4170,4170,3,0001441755,Restricted Stock Units
+A,03/15/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,321.091,100289.616,24,0001190775,Deferred Stock Units
+A,02/28/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,296.313,99968.525,23,0001190775,Deferred Stock Units
+A,02/26/2019 00:00:00,WOOD ROBERT L,4,A-Award,--D,759,759,2,0001167298,Restricted Stock Units
+A,02/26/2019 00:00:00,Fehrenbach Franz,4,A-Award,--D,759,759,2,0001757325,Ristricted Stock Units
+A,02/26/2019 00:00:00,RICHENHAGEN MARTIN,4,A-Award,--D,759,759,2,0001284296,Ristricted Stock Units
+A,02/26/2019 00:00:00,Reitzle Wolfgang,4,A-Award,--D,1770,1770,2,0001757276,Ristricted Stock Units
+A,02/26/2019 00:00:00,Ossadnik Victoria,4,A-Award,--D,759,759,2,0001757272,Ristricted Stock Units
+A,02/26/2019 00:00:00,McVay Larry D,4,A-Award,--D,759,759,2,0001415036,Resticted Stock Units
+A,02/26/2019 00:00:00,GALANTE EDWARD G,4,A-Award,--D,759,759,2,0001199009,Resticted Stock Units
+A,02/26/2019 00:00:00,Enders Thomas,4,A-Award,--D,759,759,2,0001757262,Ristricted Stock Units
+A,02/26/2019 00:00:00,DICCIANI NANCE K,4,A-Award,--D,759,759,2,0001198097,Resticted Stock Units
+A,02/26/2019 00:00:00,BOERSIG CLEMENS A H,4,A-Award,--D,759,759,2,0001455223,Ristricted Stock Units
+A,02/26/2019 00:00:00,Achleitner Ann-Kristin,4,A-Award,--D,759,759,2,0001757273,Ristricted Stock Units
+A,02/25/2019 00:00:00,White Matthew J,4,A-Award,--D,123.57,859.598,26,0001441755,Deferred Stock Units
+D,02/25/2019 00:00:00,White Matthew J,4,M-Exempt,--D,13640,0,17,0001441755,Stock Option (right to buy)
+D,02/25/2019 00:00:00,White Matthew J,4,M-Exempt,--D,6191,0,13,0001441755,Restricted Stock Units
+D,02/25/2019 00:00:00,White Matthew J,4,M-Exempt,--D,6054,0,12,0001441755,Restricted Stock Units
+D,02/25/2019 00:00:00,White Matthew J,4,S-Sale,--D,300,23181,11,0001441755,Ordinary Shares
+D,02/25/2019 00:00:00,White Matthew J,4,S-Sale,--D,407,23481,10,0001441755,Ordinary Shares
+D,02/25/2019 00:00:00,White Matthew J,4,S-Sale,--D,1001,23888,9,0001441755,Ordinary Shares
+D,02/25/2019 00:00:00,White Matthew J,4,S-Sale,--D,2421,24889,8,0001441755,Ordinary Shares
+D,02/25/2019 00:00:00,White Matthew J,4,F-InKind,--D,9511,27310,7,0001441755,Ordinary Shares
+A,02/25/2019 00:00:00,White Matthew J,4,M-Exempt,--D,13640,36821,6,0001441755,Ordinary Shares
+D,02/25/2019 00:00:00,White Matthew J,4,F-InKind,--D,2869,23181,5,0001441755,Ordinary Shares
+A,02/25/2019 00:00:00,White Matthew J,4,M-Exempt,--D,6191,26050,4,0001441755,Ordinary Shares
+D,02/25/2019 00:00:00,White Matthew J,4,F-InKind,--D,2806,19859,3,0001441755,Ordinary Shares
+A,02/25/2019 00:00:00,White Matthew J,4,M-Exempt,--D,6054,22665,2,0001441755,Ordinary Shares
+A,02/25/2019 00:00:00,Roby Anne K,4,A-Award,--D,56.83,56.83,19,0001595290,Deferred Stock Unit
+D,02/25/2019 00:00:00,Roby Anne K,4,M-Exempt,--D,3588,0,7,0001595290,Ristricted Stock Unit
+D,02/25/2019 00:00:00,Roby Anne K,4,M-Exempt,--D,3510,0,6,0001595290,Ristricted Stock Unit
+D,02/25/2019 00:00:00,Roby Anne K,4,F-InKind,--D,1663,28800.522,5,0001595290,Ordinary Shares
+A,02/25/2019 00:00:00,Roby Anne K,4,M-Exempt,--D,3588,30463.522,4,0001595290,Ordinary Shares
+D,02/25/2019 00:00:00,Roby Anne K,4,F-InKind,--D,1627,26875.522,3,0001595290,Ordinary Shares
+A,02/25/2019 00:00:00,Roby Anne K,4,M-Exempt,--D,3510,28502.522,2,0001595290,Ordinary Shares
+A,02/25/2019 00:00:00,Menezes Eduardo F,4,A-Award,--D,92.68,92.68,17,0001411350,Deffered Stock Unit
+D,02/25/2019 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,6464,0,6,0001411350,Restricted Stock Unit
+D,02/25/2019 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,6330,0,5,0001411350,Restricted Stock Unit
+D,02/25/2019 00:00:00,Menezes Eduardo F,4,F-InKind,--D,2996,59983.67,4,0001411350,Ordinary Shares
+A,02/25/2019 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,6464,62979.67,3,0001411350,Ordinary Shares
+D,02/25/2019 00:00:00,Menezes Eduardo F,4,F-InKind,--D,2934,56515.67,2,0001411350,Ordinary Shares
+A,02/25/2019 00:00:00,Menezes Eduardo F,4,M-Exempt,--D,6330,59449.67,1,0001411350,Ordinary Shares
+A,02/25/2019 00:00:00,Hoyt Kelcey E,4,A-Award,--D,15.54,15.54,18,0001681090,Deferred Stock Unit
+D,02/25/2019 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,682,0,7,0001681090,Ristricked Stock Units
+D,02/25/2019 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,666,0,6,0001681090,Ristricked Stock Units
+D,02/25/2019 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,214,2772.107,5,0001681090,Ordinary Shares
+A,02/25/2019 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,682,2986.107,4,0001681090,Ordinary Shares
+D,02/25/2019 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,209,2304.107,3,0001681090,Ordinary Shares
+A,02/25/2019 00:00:00,Hoyt Kelcey E,4,M-Exempt,--D,666,2513.107,2,0001681090,Ordinary Shares
+A,02/25/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,22839.92,99672.211,20,0001190775,Deferred Stock Units
+A,02/15/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,304.577,76832.288,22,0001190775,Deferred Stock Units
+D,02/01/2019 00:00:00,White Matthew J,4,M-Exempt,--D,20290,0,10,0001441755,Stock Option (right to buy)
+D,02/01/2019 00:00:00,White Matthew J,4,S-Sale,--D,7749,16611,4,0001441755,Orinary Shares
+D,02/01/2019 00:00:00,White Matthew J,4,F-InKind,--D,12541,24360,3,0001441755,Ordinary Shares
+A,02/01/2019 00:00:00,White Matthew J,4,M-Exempt,--D,20290,36901,2,0001441755,Ordinary Shares
+A,01/31/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,314.909,76527.711,21,0001190775,Deferred Stock Units
+A,01/15/2019 00:00:00,ANGEL STEPHEN F,4,A-Award,--D,326.486,76212.802,20,0001190775,Deferred Stock Units
+D,12/19/2018 00:00:00,WOOD ROBERT L,4,S-Sale,--D,1800,13843.928,1,0001167298,Ordinary Shares
+D,11/29/2018 00:00:00,Menezes Eduardo F,4,S-Sale,--I,3852.387,0,1,0001411350,Ordinary Shares
+D,11/29/2018 00:00:00,Menezes Eduardo F,4,S-Sale,--D,6335,53114.692,2,0001411350,Ordinary Shares
+A,11/23/2018 00:00:00,Bruch Christian,4,P-Purchase,--D,693,8458,1,0001757275,Ordinary Shares
+D,11/16/2018 00:00:00,Menezes Eduardo F,4,F-InKind,--D,424.3,59449.692,2,0001411350,Ordinary Shares
+D,11/16/2018 00:00:00,Hoyt Kelcey E,4,F-InKind,--D,3.456,1847.107,2,0001681090,Ordinary Shares
+D,11/16/2018 00:00:00,Roby Anne K,4,F-InKind,--D,1755.429,24992.522,2,0001595290,Ordinary Shares

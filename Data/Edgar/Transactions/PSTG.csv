@@ -1,0 +1,801 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/26/2023 00:00:00,Brown Andrew William Fraser,4,S-Sale,--D,9097,44964,1,0001593803,Class A Common Stock
+D,06/22/2023 00:00:00,Murphy John Francis,4,S-Sale,--D,9097,36396,1,0001417762,Class A Common Stock
+D,06/20/2023 00:00:00,Colgrove John,4,F-InKind,--D,15309,8020317,1,0001651902,Class A Common Stock
+D,06/20/2023 00:00:00,Singh Ajay,4,F-InKind,--D,23403,390990,1,0001897944,Class A Common Stock
+D,06/20/2023 00:00:00,FitzSimons Dan,4,M-Exempt,--D,25000,0,4,0001958028,Stock Option (right to buy)
+D,06/20/2023 00:00:00,FitzSimons Dan,4,S-Sale,--D,40668,160119,3,0001958028,Class A Common Stock
+A,06/20/2023 00:00:00,FitzSimons Dan,4,M-Exempt,--D,25000,200787,2,0001958028,Class A Common Stock
+D,06/20/2023 00:00:00,FitzSimons Dan,4,F-InKind,--D,16743,175787,1,0001958028,Class A Common Stock
+D,06/20/2023 00:00:00,Giancarlo Charles H,4,F-InKind,--D,43739,1824038,1,0001299634,Class A Common Stock
+D,06/20/2023 00:00:00,Chu Mona,4,F-InKind,--D,2849,152575,1,0001915915,Class A Common Stock
+D,06/20/2023 00:00:00,Krysler P. Kevan,4,S-Sale,--D,26925,528059,2,0001584979,Class A Common Stock
+D,06/20/2023 00:00:00,Krysler P. Kevan,4,F-InKind,--D,29072,554984,1,0001584979,Class A Common Stock
+D,06/15/2023 00:00:00,Chu Mona,4,S-Sale,--D,7567,155424,1,0001915915,Class A Common Stock
+A,06/14/2023 00:00:00,Dietzen Scott,4,A-Award,--D,8543,105377,1,0001651908,Class A Common Stock
+A,06/14/2023 00:00:00,Tomb Gregory,4,A-Award,--D,8543,39087,1,0001804221,Class A Common Stock
+A,06/14/2023 00:00:00,Taylor Roxanne,4,A-Award,--D,8543,71959,1,0001768759,Class A Common Stock
+A,06/14/2023 00:00:00,Rothschild Jeffrey,4,A-Award,--D,8543,98470,1,0001550341,Class A Common Stock
+A,06/14/2023 00:00:00,Taylor Susan J.S.,4,A-Award,--D,8543,90633,1,0001541774,Class A Common Stock
+A,06/14/2023 00:00:00,Brown Andrew William Fraser,4,A-Award,--D,8543,54061,1,0001593803,Class A Common Stock
+A,06/14/2023 00:00:00,Yen Mallun,4,A-Award,--D,8543,52811,1,0001511893,Class A Common Stock
+A,06/14/2023 00:00:00,Murphy John Francis,4,A-Award,--D,8543,45493,1,0001417762,Class A Common Stock
+D,06/13/2023 00:00:00,Singh Ajay,4,S-Sale,--D,37084,414393,1,0001897944,Class A Common Stock
+A,06/10/2023 00:00:00,Giancarlo Charles H,4,A-Award,--D,813526,813526,2,0001299634,Stock-Related Performance Restricted Stock Unit
+A,06/10/2023 00:00:00,Krysler P. Kevan,4,A-Award,--D,284734,284734,2,0001584979,Stock-Related Performance Restricted Stock Unit
+A,06/10/2023 00:00:00,Singh Ajay,4,A-Award,--D,284734,284734,2,0001897944,Stock-Related Performance Restricted Stock Unit
+A,06/10/2023 00:00:00,Colgrove John,4,A-Award,--D,284734,284734,5,0001651902,Stock-Related Performance Restricted Stock Unit
+A,06/10/2023 00:00:00,FitzSimons Dan,4,A-Award,--D,284734,284734,2,0001958028,Stock-Related Performance Restricted Stock Unit
+A,06/10/2023 00:00:00,Chu Mona,4,A-Award,--D,61014,61014,2,0001915915,Stock-Related Performance Restricted Stock Unit
+D,06/02/2023 00:00:00,Chu Mona,4,S-Sale,--D,11053,162991,1,0001915915,Class A Common Stock
+D,04/13/2023 00:00:00,Taylor Roxanne,4,S-Sale,--D,19155,63416,1,0001768759,Class A Common Stock
+D,03/21/2023 00:00:00,FitzSimons Dan,4,S-Sale,--D,28481,192530,2,0001958028,Class A Common Stock
+D,03/20/2023 00:00:00,Singh Ajay,4,F-InKind,--D,37036,451477,1,0001897944,Class A Common Stock
+D,03/20/2023 00:00:00,Krysler P. Kevan,4,F-InKind,--D,56695,584056,1,0001584979,Class A Common Stock
+D,03/20/2023 00:00:00,Giancarlo Charles H,4,F-InKind,--D,111801,1867777,1,0001299634,Class A Common Stock
+D,03/20/2023 00:00:00,FitzSimons Dan,4,F-InKind,--D,35334,221011,1,0001958028,Class A Common Stock
+D,03/20/2023 00:00:00,Colgrove John,4,F-InKind,--D,37300,8035626,1,0001651902,Class A Common Stock
+D,03/20/2023 00:00:00,Chu Mona,4,F-InKind,--D,2751,174044,1,0001915915,Class A Common Stock
+A,03/14/2023 00:00:00,Singh Ajay,4,A-Award,--D,159543,488136,1,0001897944,Class A Common Stock
+A,03/14/2023 00:00:00,Krysler P. Kevan,4,A-Award,--D,159543,640374,1,0001584979,Class A Common Stock
+A,03/14/2023 00:00:00,Giancarlo Charles H,4,A-Award,--D,455835,1979201,1,0001299634,Class A Common Stock
+A,03/14/2023 00:00:00,FitzSimons Dan,4,A-Award,--D,136751,255968,1,0001958028,Class A Common Stock
+A,03/14/2023 00:00:00,Colgrove John,4,A-Award,--D,159543,8072926,1,0001651902,Class A Common Stock
+D,12/29/2022 00:00:00,Krysler P. Kevan,4,S-Sale,--D,27679,480831,1,0001584979,Class A Common Stock
+D,12/27/2022 00:00:00,Tomb Gregory,4,S-Sale,--D,10643,30544,1,0001804221,Class A Common Stock
+D,12/21/2022 00:00:00,FitzSimons Dan,4,S-Sale,--D,10918,119217,2,0001958028,Class A Common Stock
+D,12/21/2022 00:00:00,Brown Andrew William Fraser,4,S-Sale,--D,9930,45518,1,0001593803,Class A Common Stock
+D,12/20/2022 00:00:00,FitzSimons Dan,4,F-InKind,--D,11667,130135,1,0001958028,Class A Common Stock
+D,12/20/2022 00:00:00,Giancarlo Charles H,4,F-InKind,--D,42717,1523366,1,0001299634,Class A Common Stock
+D,12/20/2022 00:00:00,Krysler P. Kevan,4,F-InKind,--D,30199,508510,1,0001584979,Class A Common Stock
+D,12/20/2022 00:00:00,Singh Ajay,4,F-InKind,--D,16812,328593,1,0001897944,Class A Common Stock
+D,12/20/2022 00:00:00,Colgrove John,4,F-InKind,--D,17030,7913383,1,0001651902,Class A Common Stock
+D,12/20/2022 00:00:00,Chu Mona,4,F-InKind,--D,3645,176418,1,0001915915,Class A Common Stock
+D,09/20/2022 00:00:00,Singh Ajay,4,F-InKind,--D,16811,345405,1,0001897944,Class A Common Stock
+D,09/20/2022 00:00:00,Krysler P. Kevan,4,F-InKind,--D,30199,538709,1,0001584979,Class A Common Stock
+D,09/20/2022 00:00:00,Giancarlo Charles H,4,F-InKind,--D,42716,1566083,1,0001299634,Class A Common Stock
+D,09/20/2022 00:00:00,Chu Mona,4,F-InKind,--D,2802,180063,1,0001915915,Class A Common Stock
+D,09/20/2022 00:00:00,Colgrove John,4,F-InKind,--D,17030,7930413,1,0001651902,Class A Common Stock
+D,09/12/2022 00:00:00,Brown Andrew William Fraser,4,S-Sale,--D,12637,55448,1,0001593803,Class A Common Stock
+A,06/28/2022 00:00:00,Dietzen Scott,5,J-Other,--I,173500,173500,3,0001651908,Class A Common Stock
+A,06/28/2022 00:00:00,Dietzen Scott,5,J-Other,--I,173500,173500,2,0001651908,Class A Common Stock
+D,06/28/2022 00:00:00,Dietzen Scott,5,J-Other,--I,347000,0,1,0001651908,Class A Common Stock
+D,06/20/2022 00:00:00,Singh Ajay,4,F-InKind,--D,16811,361843,1,0001897944,Class A Common Stock
+D,06/20/2022 00:00:00,Krysler P. Kevan,4,F-InKind,--D,30199,568601,1,0001584979,Class A Common Stock
+D,06/20/2022 00:00:00,Giancarlo Charles H,4,F-InKind,--D,42716,1608492,1,0001299634,Class A Common Stock
+D,06/20/2022 00:00:00,Colgrove John,4,F-InKind,--D,17029,7947443,1,0001651902,Class A Common Stock
+D,06/20/2022 00:00:00,Chu Mona,4,F-InKind,--D,2542,182558,1,0001915915,Class A Common Stock
+A,06/15/2022 00:00:00,Taylor Roxanne,4,A-Award,--D,9097,82571,1,0001768759,Class A Common Stock
+A,06/15/2022 00:00:00,Taylor Susan J.S.,4,A-Award,--D,9097,82090,1,0001541774,Class A Common Stock
+A,06/15/2022 00:00:00,Tomb Gregory,4,A-Award,--D,9097,41187,1,0001804221,Class A Common Stock
+A,06/15/2022 00:00:00,Dietzen Scott,4,A-Award,--D,9097,96834,1,0001651908,Class A Common Stock
+A,06/15/2022 00:00:00,Murphy John Francis,4,A-Award,--D,9097,36950,1,0001417762,Class A Common Stock
+A,06/15/2022 00:00:00,Yen Mallun,4,A-Award,--D,9097,44268,1,0001511893,Class A Common Stock
+A,06/15/2022 00:00:00,Rothschild Jeffrey,4,A-Award,--D,9097,89927,1,0001550341,Class A Common Stock
+A,06/15/2022 00:00:00,Brown Andrew William Fraser,4,A-Award,--D,9097,68085,1,0001593803,Class A Common Stock
+D,03/23/2022 00:00:00,Singh Ajay,4,S-Sale,--D,36338,378654,1,0001897944,Class A Common Stock
+D,03/21/2022 00:00:00,Brown Andrew William Fraser,4,S-Sale,--D,11564,58988,1,0001593803,Class A Common Stock
+D,03/20/2022 00:00:00,Singh Ajay,4,F-InKind,--D,62943,414992,1,0001897944,Class A Common Stock
+D,03/20/2022 00:00:00,Krysler P. Kevan,4,F-InKind,--D,56420,598800,1,0001584979,Class A Common Stock
+D,03/20/2022 00:00:00,Giancarlo Charles H,4,F-InKind,--D,125851,1651208,1,0001299634,Class A Common Stock
+D,03/20/2022 00:00:00,Colgrove John,4,F-InKind,--D,44050,7964472,1,0001651902,Class A Common Stock
+A,03/15/2022 00:00:00,Colgrove John,4,A-Award,--D,210967,8008522,1,0001651902,Class A Common Stock
+A,03/15/2022 00:00:00,Giancarlo Charles H,4,A-Award,--D,602764,1776087,1,0001299634,Class A Common Stock
+A,03/15/2022 00:00:00,Singh Ajay,4,A-Award,--D,195898,477562,1,0001897944,Class A Common Stock
+A,03/15/2022 00:00:00,Krysler P. Kevan,4,A-Award,--D,210967,654248,1,0001584979,Class A Common Stock
+A,03/15/2022 00:00:00,Chu Mona,4,A-Award,--D,117598,185100,1,0001915915,Class A Common Stock
+D,12/20/2021 00:00:00,Krysler P. Kevan,4,F-InKind,--D,21482,443281,1,0001584979,Class A Common Stock
+D,12/20/2021 00:00:00,Giancarlo Charles H,4,F-InKind,--D,30589,1173323,1,0001299634,Class A Common Stock
+D,12/20/2021 00:00:00,Colgrove John,4,F-InKind,--D,13444,7797555,1,0001651902,Class A Common Stock
+D,12/09/2021 00:00:00,Krysler P. Kevan,4,S-Sale,--D,26444,464763,1,0001584979,Class A Common Stock
+D,12/02/2021 00:00:00,Tomb Gregory,4,S-Sale,--D,29311,32090,1,0001804221,Class A Common Stock
+A,12/01/2021 00:00:00,Murphy John Francis,4,A-Award,--D,6324,27853,2,0001417762,Class A Common Stock
+A,12/01/2021 00:00:00,Murphy John Francis,4,A-Award,--D,21529,21529,1,0001417762,Class A Common Stock
+D,09/20/2021 00:00:00,Krysler P. Kevan,4,F-InKind,--D,21481,491207,1,0001584979,Class A Common Stock
+D,09/20/2021 00:00:00,Giancarlo Charles H,4,F-InKind,--D,44991,1203912,1,0001299634,Class A Common Stock
+D,09/20/2021 00:00:00,Colgrove John,4,F-InKind,--D,13445,7810999,1,0001651902,Class A Common Stock
+A,09/13/2021 00:00:00,Yen Mallun,4,A-Award,--D,7986,35171,2,0001511893,Class A Common Stock
+A,09/13/2021 00:00:00,Yen Mallun,4,A-Award,--D,27185,27185,1,0001511893,Class A Common Stock
+D,09/10/2021 00:00:00,Sands Anita M,4,M-Exempt,--D,60000,138000,4,0001589849,Stock Option (right to buy)
+D,09/10/2021 00:00:00,Sands Anita M,4,S-Sale,--D,14157,26819,3,0001589849,Class A Common Stock
+D,09/10/2021 00:00:00,Sands Anita M,4,S-Sale,--D,60000,40976,2,0001589849,Class A Common Stock
+A,09/10/2021 00:00:00,Sands Anita M,4,M-Exempt,--D,60000,100976,1,0001589849,Class A Common Stock
+D,06/20/2021 00:00:00,Krysler P. Kevan,4,F-InKind,--D,21481,511716,1,0001584979,Class A Common Stock
+D,06/20/2021 00:00:00,Giancarlo Charles H,4,F-InKind,--D,44991,1247931,1,0001299634,Class A Common Stock
+D,06/20/2021 00:00:00,Colgrove John,4,F-InKind,--D,13444,7824444,1,0001651902,Class A Common Stock
+A,06/15/2021 00:00:00,Tomb Gregory,4,A-Award,--D,12637,61401,1,0001804221,Class A Common Stock
+A,06/15/2021 00:00:00,Taylor Susan J.S.,4,A-Award,--D,12637,72993,1,0001541774,Class A Common Stock
+A,06/15/2021 00:00:00,Taylor Roxanne,4,A-Award,--D,12637,73474,1,0001768759,Class A Common Stock
+A,06/15/2021 00:00:00,Sands Anita M,4,A-Award,--D,12637,40976,1,0001589849,Class A Common Stock
+A,06/15/2021 00:00:00,Rothschild Jeffrey,4,A-Award,--D,12637,80830,1,0001550341,Class A Common Stock
+A,06/15/2021 00:00:00,GARRETT MARK,4,A-Award,--D,12637,66356,1,0001246215,Class A Common Stock
+A,06/15/2021 00:00:00,Dietzen Scott,4,A-Award,--D,12637,87737,1,0001651908,Class A Common Stock
+A,06/15/2021 00:00:00,Brown Andrew William Fraser,4,A-Award,--D,12637,70552,1,0001593803,Class A Common Stock
+D,04/08/2021 00:00:00,Sands Anita M,4,M-Exempt,--D,20000,0,4,0001589849,Stock Option (right to buy)
+D,04/08/2021 00:00:00,Sands Anita M,4,S-Sale,--D,10380,28339,3,0001589849,Class A Common Stock
+D,04/08/2021 00:00:00,Sands Anita M,4,S-Sale,--D,20000,38719,2,0001589849,Class A Common Stock
+A,04/08/2021 00:00:00,Sands Anita M,4,M-Exempt,--D,20000,58719,1,0001589849,Class A Common Stock
+D,03/20/2021 00:00:00,Krysler P. Kevan,4,F-InKind,--D,44635,533197,1,0001584979,Class A Common Stock
+D,03/20/2021 00:00:00,Giancarlo Charles H,4,F-InKind,--D,110317,1292922,1,0001299634,Class A Common Stock
+D,03/20/2021 00:00:00,Colgrove John,4,F-InKind,--D,39920,7837888,1,0001651902,Class A Common Stock
+A,02/26/2021 00:00:00,Dietzen Scott,4,J-Other,-EI,750000,1718456,4,0001651908,Class A Common Stock
+D,02/26/2021 00:00:00,Dietzen Scott,4,J-Other,-EI,375000,0,3,0001651908,Class A Common Stock
+D,02/26/2021 00:00:00,Dietzen Scott,4,J-Other,-EI,375000,0,2,0001651908,Class A Common Stock
+A,02/18/2021 00:00:00,Krysler P. Kevan,4,A-Award,--D,186801,576860,1,0001584979,Class A Common Stock
+A,02/18/2021 00:00:00,Giancarlo Charles H,4,A-Award,--D,431079,1402267,1,0001299634,Class A Common Stock
+A,02/18/2021 00:00:00,Colgrove John,4,A-Award,--D,201170,7877808,1,0001651902,Class A Common Stock
+D,02/01/2021 00:00:00,Dietzen Scott,4,S-Sale,--I,10000,347000,2,0001651908,Class A Common Stock
+D,02/01/2021 00:00:00,Dietzen Scott,4,S-Sale,--I,300000,968456,1,0001651908,Class A Common Stock
+D,01/21/2021 00:00:00,Dietzen Scott,4,S-Sale,--I,25000,357000,1,0001651908,Class A Common Stock
+D,01/04/2021 00:00:00,Dietzen Scott,4,S-Sale,--I,12554,382000,5,0001651908,Class A Common Stock
+D,01/04/2021 00:00:00,Dietzen Scott,4,S-Sale,--I,62446,394554,4,0001651908,Class A Common Stock
+D,01/04/2021 00:00:00,Dietzen Scott,4,S-Sale,--I,50729,1268456,3,0001651908,Class A Common Stock
+D,01/04/2021 00:00:00,Dietzen Scott,4,S-Sale,--I,249271,1319185,2,0001651908,Class A Common Stock
+D,12/22/2020 00:00:00,Mountford Paul S,4,S-Sale,--D,66986,371083,2,0001473704,Class A Common Stock
+D,12/21/2020 00:00:00,Krysler P. Kevan,4,F-InKind,--D,55051,390059,1,0001584979,Class A Common Stock
+D,12/21/2020 00:00:00,Giancarlo Charles H,4,F-InKind,--D,62762,971188,1,0001299634,Class A Common Stock
+D,12/21/2020 00:00:00,Mountford Paul S,4,F-InKind,--D,56708,438069,1,0001473704,Class A Common Stock
+D,12/21/2020 00:00:00,Colgrove John,4,F-InKind,--D,11393,7676638,7,0001651902,Class A Common Stock
+A,12/17/2020 00:00:00,Colgrove John,4,G-Gift,-EI,89017,2765000,6,0001651902,Class A Common Stock
+A,12/17/2020 00:00:00,Colgrove John,4,G-Gift,-EI,89016,2765000,5,0001651902,Class A Common Stock
+D,12/17/2020 00:00:00,Colgrove John,4,G-Gift,-ED,178033,7688031,4,0001651902,Class A Common Stock
+A,12/15/2020 00:00:00,Colgrove John,4,G-Gift,-EI,425983,2675983,3,0001651902,Class A Common Stock
+A,12/15/2020 00:00:00,Colgrove John,4,G-Gift,-EI,425984,2675984,2,0001651902,Class A Common Stock
+D,12/15/2020 00:00:00,Colgrove John,4,G-Gift,-EI,851967,701959,1,0001651902,Class A Common Stock
+D,12/14/2020 00:00:00,Dietzen Scott,4,G-Gift,-EI,25000,1568456,1,0001651908,Class A Common Stock
+D,12/07/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,14122,1541056,3,0001651908,Class A Common Stock
+D,12/04/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,65000,457000,5,0001651908,Class A Common Stock
+D,12/04/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,35000,522000,4,0001651908,Class A Common Stock
+D,12/04/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,135878,1555178,2,0001651908,Class A Common Stock
+D,12/04/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,150000,1691056,1,0001651908,Class A Common Stock
+D,11/23/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,32162,557000,4,0001651908,Class A Common Stock
+D,11/23/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,261700,1841056,2,0001651908,Class A Common Stock
+D,11/20/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,35738,589162,3,0001651908,Class A Common Stock
+D,11/20/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,37300,2102756,1,0001651908,Class A Common Stock
+D,11/18/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,2100,624900,2,0001651908,Class A Common Stock
+D,11/18/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,1000,2140056,1,0001651908,Class A Common Stock
+D,10/08/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,35000,627000,2,0001651908,Class A Common Stock
+D,10/08/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,150000,2141056,1,0001651908,Class A Common Stock
+D,09/21/2020 00:00:00,Colgrove John,4,F-InKind,--D,11395,7866064,1,0001651902,Class A Common Stock
+D,09/21/2020 00:00:00,Giancarlo Charles H,4,F-InKind,--D,62762,1033950,1,0001299634,Class A Common Stock
+D,07/23/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,9454,2291056,4,0001651908,Class A Common Stock
+D,07/22/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,179914,2300510,3,0001651908,Class A Common Stock
+D,07/21/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,101174,2480424,2,0001651908,Class A Common Stock
+D,07/21/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,65421,662000,1,0001651908,Class A Common Stock
+D,06/30/2020 00:00:00,Tomb Gregory,4,S-Sale,--D,3386,48764,1,0001804221,Class A Common Stock
+A,06/25/2020 00:00:00,Tomb Gregory,4,A-Award,--D,14182,52150,1,0001804221,Class A Common Stock
+A,06/25/2020 00:00:00,Taylor Susan J.S.,4,A-Award,--D,14182,60356,1,0001541774,Class A Common Stock
+A,06/25/2020 00:00:00,Taylor Roxanne,4,A-Award,--D,14182,60837,1,0001768759,Class A Common Stock
+A,06/25/2020 00:00:00,Sands Anita M,4,A-Award,--D,14182,38719,1,0001589849,Class A Common Stock
+A,06/25/2020 00:00:00,Rothschild Jeffrey,4,A-Award,--D,14182,68193,1,0001550341,Class A Common Stock
+A,06/25/2020 00:00:00,GARRETT MARK,4,A-Award,--D,14182,53719,1,0001246215,Class A Common Stock
+A,06/25/2020 00:00:00,Dietzen Scott,4,A-Award,--D,14182,127500,1,0001651908,Class A Common Stock
+A,06/25/2020 00:00:00,Brown Andrew William Fraser,4,A-Award,--D,14182,57915,1,0001593803,Class A Common Stock
+D,06/20/2020 00:00:00,Giancarlo Charles H,4,F-InKind,--D,62762,1095740,1,0001299634,Class A Common Stock
+D,06/20/2020 00:00:00,Colgrove John,4,F-InKind,--D,10778,7877459,1,0001651902,Class A Common Stock
+D,05/29/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,4579,727421,6,0001651908,Class A Common Stock
+D,05/29/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,9458,2581598,5,0001651908,Class A Common Stock
+A,04/15/2020 00:00:00,Dietzen Scott,4,J-Other,-EI,375000,375000,4,0001651908,Class A Common Stock
+A,04/15/2020 00:00:00,Dietzen Scott,4,J-Other,-EI,375000,375000,3,0001651908,Class A Common Stock
+D,04/15/2020 00:00:00,Dietzen Scott,4,J-Other,-EI,375000,2591056,2,0001651908,Class A Common Stock
+D,04/15/2020 00:00:00,Dietzen Scott,4,J-Other,-EI,375000,2966056,1,0001651908,Class A Common Stock
+D,04/05/2020 00:00:00,Dietzen Scott,4,F-InKind,--D,1387,113318,1,0001651908,Class A Common Stock
+D,04/05/2020 00:00:00,Colgrove John,4,F-InKind,--D,3393,7888237,2,0001651902,Class A Common Stock
+D,04/02/2020 00:00:00,Colgrove John,4,M-Exempt,--D,100671,499329,6,0001651902,Stock Option (right to buy)
+A,04/02/2020 00:00:00,Colgrove John,4,M-Exempt,--D,100671,7891630,1,0001651902,Class A Common Stock
+D,03/20/2020 00:00:00,Giancarlo Charles H,4,F-InKind,--D,88675,1158502,1,0001299634,Class A Common Stock
+D,03/20/2020 00:00:00,Colgrove John,4,F-InKind,--D,18685,7790959,1,0001651902,Class A Common Stock
+A,02/24/2020 00:00:00,Tomb Gregory,4,A-Award,--D,3386,37968,2,0001804221,Class A Common Stock
+A,02/24/2020 00:00:00,Tomb Gregory,4,A-Award,--D,34582,34582,1,0001804221,Class A Common Stock
+D,02/21/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,35000,732000,2,0001651908,Class A Common Stock
+D,02/21/2020 00:00:00,Dietzen Scott,4,S-Sale,--I,150000,3341056,1,0001651908,Class A Common Stock
+D,01/05/2020 00:00:00,Dietzen Scott,4,F-InKind,--D,1512,114705,1,0001651908,Class A Common Stock
+D,01/05/2020 00:00:00,Colgrove John,4,F-InKind,--D,3865,7835970,1,0001651902,Class A Common Stock
+D,12/20/2019 00:00:00,Colgrove John,4/A,F-InKind,--D,6262,7813509,1,0001651902,Class A Common Stock
+D,12/20/2019 00:00:00,Giancarlo Charles H,4,F-InKind,--D,49985,1312038,1,0001299634,Class A Common Stock
+D,12/20/2019 00:00:00,Colgrove John,4,F-InKind,--D,6282,7839835,1,0001651902,Class A Common Stock
+A,12/07/2019 00:00:00,Krysler P. Kevan,4,A-Award,--D,444138,444138,1,0001584979,Class A Common Stock
+A,11/04/2019 00:00:00,Mountford Paul S,4,A-Award,--D,494777,494777,1,0001473704,Class A Common Stock
+D,10/07/2019 00:00:00,Colgrove John,4,F-InKind,--D,4864,7846117,1,0001651902,Class A Common Stock
+D,10/07/2019 00:00:00,Dietzen Scott,4,F-InKind,--D,1407,116217,1,0001651908,Class A Common Stock
+D,10/07/2019 00:00:00,Hatfield David,4,F-InKind,--D,4864,679916,1,0001395529,Class A Common Stock
+D,10/07/2019 00:00:00,Riitters Timothy,4,F-InKind,--D,12591,371892,1,0001651904,Class A Common Stock
+D,09/26/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,384483,2,0001651904,Class A Common Stock
+D,09/24/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,389693,1,0001651904,Class A Common Stock
+D,09/20/2019 00:00:00,Riitters Timothy,4,F-InKind,--D,6892,394903,1,0001651904,Class A Common Stock
+D,09/20/2019 00:00:00,Hatfield David,4,F-InKind,--D,6261,684780,1,0001395529,Class A Common Stock
+D,09/20/2019 00:00:00,Giancarlo Charles H,4,F-InKind,--D,49983,1362023,1,0001299634,Class A Common Stock
+D,09/20/2019 00:00:00,Colgrove John,4,F-InKind,--D,6261,7850981,1,0001651902,Class A Common Stock
+A,09/12/2019 00:00:00,Brown Andrew William Fraser,4,A-Award,--D,9930,43733,2,0001593803,Class A Common Stock
+A,09/12/2019 00:00:00,Brown Andrew William Fraser,4,A-Award,--D,33803,33803,1,0001593803,Class A Common Stock
+D,09/12/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,401795,2,0001651904,Class A Common Stock
+D,09/10/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,407005,1,0001651904,Class A Common Stock
+D,09/09/2019 00:00:00,Hatfield David,4,M-Exempt,--D,33557,452089,6,0001395529,Stock Option (right to buy)
+A,09/09/2019 00:00:00,Hatfield David,4,M-Exempt,--D,33557,691041,1,0001395529,Class A Common Stock
+D,08/29/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,412215,2,0001651904,Class A Common Stock
+D,08/27/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,417425,1,0001651904,Class A Common Stock
+D,07/05/2019 00:00:00,Riitters Timothy,4,F-InKind,--D,12590,422635,1,0001651904,Class A Common Stock
+D,07/05/2019 00:00:00,Hatfield David,4,F-InKind,--D,4864,657484,1,0001395529,Class A Common Stock
+D,07/05/2019 00:00:00,Dietzen Scott,4,F-InKind,--D,1563,117624,1,0001651908,Class A Common Stock
+D,07/05/2019 00:00:00,Colgrove John,4,F-InKind,--D,4864,7857242,1,0001651902,Class A Common Stock
+D,06/27/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,435225,2,0001651904,Class A Common Stock
+D,06/25/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,440435,1,0001651904,Class A Common Stock
+A,06/20/2019 00:00:00,Speiser Michael L,4,A-Award,--D,14157,45537,1,0001433644,Class A Common Stock
+D,06/20/2019 00:00:00,Riitters Timothy,4,F-InKind,--D,7204,445645,1,0001651904,Class A Common Stock
+D,06/20/2019 00:00:00,Hatfield David,4,F-InKind,--D,6262,662348,1,0001395529,Class A Common Stock
+D,06/20/2019 00:00:00,Giancarlo Charles H,4,F-InKind,--D,49984,1411379,1,0001299634,Class A Common Stock
+D,06/20/2019 00:00:00,Colgrove John,4,F-InKind,--D,6262,7862106,1,0001651902,Class A Common Stock
+A,06/20/2019 00:00:00,Taylor Susan J.S.,4,A-Award,--D,14157,46174,1,0001541774,Class A Common Stock
+A,06/20/2019 00:00:00,Taylor Roxanne,4,A-Award,--D,14157,46655,1,0001768759,Class A Common Stock
+A,06/20/2019 00:00:00,Slootman Frank,4,A-Award,--D,14157,39537,1,0001402348,Class A Common Stock
+A,06/20/2019 00:00:00,Sands Anita M,4,A-Award,--D,14157,24537,1,0001589849,Class A Common Stock
+A,06/20/2019 00:00:00,Rothschild Jeffrey,4,A-Award,--D,14157,54011,1,0001550341,Class A Common Stock
+A,06/20/2019 00:00:00,GARRETT MARK,4,A-Award,--D,14157,39537,1,0001246215,Class A Common Stock
+D,06/13/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,452849,2,0001651904,Class A Common Stock
+D,06/11/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,458059,1,0001651904,Class A Common Stock
+D,05/30/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,463269,2,0001651904,Class A Common Stock
+D,05/28/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,468479,1,0001651904,Class A Common Stock
+D,04/26/2019 00:00:00,Dietzen Scott,4,S-Sale,--I,33000,767000,1,0001651908,Class A Common Stock
+D,04/24/2019 00:00:00,Dietzen Scott,4,S-Sale,--I,100000,3491056,1,0001651908,Class A Common Stock
+D,04/05/2019 00:00:00,Riitters Timothy,4,F-InKind,--D,14854,473689,1,0001651904,Class A Common Stock
+D,04/05/2019 00:00:00,Hatfield David,4,F-InKind,--D,4865,668610,1,0001395529,Class A Common Stock
+D,04/05/2019 00:00:00,Dietzen Scott,4,F-InKind,--D,1839,119187,2,0001651908,Class A Common Stock
+D,04/05/2019 00:00:00,Colgrove John,4,F-InKind,--D,4865,7868368,1,0001651902,Class A Common Stock
+D,03/28/2019 00:00:00,Dietzen Scott,4,G-Gift,-EI,25000,3591056,1,0001651908,Class A Common Stock
+D,03/28/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,488543,1,0001651904,Class A Common Stock
+D,03/26/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,493753,1,0001651904,Class A Common Stock
+D,03/25/2019 00:00:00,Dietzen Scott,4,S-Sale,--I,100000,800000,4,0001651908,Class A Common Stock
+D,03/25/2019 00:00:00,Dietzen Scott,4,S-Sale,--I,300000,3616056,3,0001651908,Class A Common Stock
+A,03/22/2019 00:00:00,Dietzen Scott,4,G-Gift,-EI,2407,3916056,2,0001651908,Class A Common Stock
+D,03/22/2019 00:00:00,Dietzen Scott,4,G-Gift,-ED,2407,121026,1,0001651908,Class A Common Stock
+D,03/21/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,498963,1,0001651904,Class A Common Stock
+A,03/20/2019 00:00:00,Colgrove John,4/A,A-Award,--D,124202,7846887,2,0001651902,Class A Common Stock
+D,03/20/2019 00:00:00,Colgrove John,4/A,F-InKind,--D,20120,7722685,1,0001651902,Class A Common Stock
+A,03/20/2019 00:00:00,Giancarlo Charles H,4/A,A-Award,--D,309263,1395761,2,0001299634,Class A Common Stock
+D,03/20/2019 00:00:00,Giancarlo Charles H,4/A,F-InKind,--D,171823,1086498,1,0001299634,Class A Common Stock
+A,03/20/2019 00:00:00,Hatfield David,4/A,A-Award,--D,150548,673475,2,0001395529,Class A Common Stock
+D,03/20/2019 00:00:00,Hatfield David,4/A,F-InKind,--D,20571,522927,1,0001395529,Class A Common Stock
+D,03/20/2019 00:00:00,Riitters Timothy,4,F-InKind,--D,28812,504173,3,0001651904,Class A Common Stock
+A,03/20/2019 00:00:00,Riitters Timothy,4,A-Award,--D,163094,532985,2,0001651904,Class A Common Stock
+A,03/20/2019 00:00:00,Hatfield David,4,P-Purchase,--D,150548,673474,2,0001395529,Class A Common Stock
+D,03/20/2019 00:00:00,Hatfield David,4,F-InKind,--D,20571,522927,1,0001395529,Class A Common Stock
+A,03/20/2019 00:00:00,Giancarlo Charles H,4,A-Award,--D,374865,1461363,2,0001299634,Class A Common Stock
+D,03/20/2019 00:00:00,Giancarlo Charles H,4,F-InKind,--D,171823,1086498,1,0001299634,Class A Common Stock
+A,03/20/2019 00:00:00,Colgrove John,4,A-Award,--D,150548,7873233,2,0001651902,Class A Common Stock
+D,03/20/2019 00:00:00,Colgrove John,4,F-InKind,--D,20120,7722685,1,0001651902,Class A Common Stock
+D,03/19/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,369891,1,0001651904,Class A Common Stock
+D,03/14/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,375101,1,0001651904,Class A Common Stock
+D,03/12/2019 00:00:00,Riitters Timothy,4,S-Sale,--D,5210,380311,1,0001651904,Class A Common Stock
+A,02/26/2019 00:00:00,Taylor Roxanne,4,A-Award,--D,2898,32498,2,0001768759,Class A Common Stock
+A,02/26/2019 00:00:00,Taylor Roxanne,4,A-Award,--D,29600,29600,1,0001768759,Class A Common Stock
+D,01/07/2019 00:00:00,Riitters Timothy,4,F-InKind,--D,15337,373360,1,0001651904,Class A Common Stock
+D,01/07/2019 00:00:00,Hatfield David,4,F-InKind,--D,3904,458127,1,0001395529,Class A Common Stock
+D,01/07/2019 00:00:00,Dietzen Scott,4,F-InKind,--D,2366,123433,1,0001651908,Class A Common Stock
+D,01/07/2019 00:00:00,Colgrove John,4,F-InKind,--D,3904,7731580,1,0001651902,Class A Common Stock
+D,12/20/2018 00:00:00,Giancarlo Charles H,4,F-InKind,--D,14403,1208004,1,0001299634,Class A Common Stock
+D,12/19/2018 00:00:00,Riitters Timothy,4,M-Exempt,--D,25500,808500,4,0001651904,Stock Option (right to buy)
+D,12/19/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,16687,388697,3,0001651904,Class A Common Stock
+D,12/19/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,13313,405384,2,0001651904,Class A Common Stock
+A,12/19/2018 00:00:00,Riitters Timothy,4,M-Exempt,--D,25500,418697,1,0001651904,Class A Common Stock
+D,12/06/2018 00:00:00,Riitters Timothy,4,M-Exempt,--D,20500,834000,4,0001651904,Stock Option (right to buy)
+D,12/06/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,5162,393197,3,0001651904,Class A Common Stock
+D,12/06/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,19838,398359,2,0001651904,Class A Common Stock
+A,12/06/2018 00:00:00,Riitters Timothy,4,M-Exempt,--D,20500,418197,1,0001651904,Class A Common Stock
+D,12/04/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,43800,0,5,0001433644,Class B Common Stock
+D,12/04/2018 00:00:00,Speiser Michael L,4,C-Conversion,--D,6000,0,4,0001433644,Class B Common Stock
+A,12/04/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,43800,43800,2,0001433644,Class A Common Stock
+A,12/04/2018 00:00:00,Speiser Michael L,4,C-Conversion,--D,6000,31380,1,0001433644,Class A Common Stock
+A,12/04/2018 00:00:00,Slootman Frank,4,J-Other,--D,160000,160000,5,0001402348,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Slootman Frank,4,J-Other,--D,160000,0,4,0001402348,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Slootman Frank,4,J-Other,--D,360000,360000,3,0001402348,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Slootman Frank,4,J-Other,--D,360000,0,2,0001402348,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Sands Anita M,4,J-Other,--D,198000,198000,3,0001589849,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Sands Anita M,4,J-Other,--D,198000,0,2,0001589849,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Riitters Timothy,4,J-Other,--D,32500,32500,11,0001651904,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Riitters Timothy,4,J-Other,--D,32500,0,10,0001651904,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Riitters Timothy,4,J-Other,--D,27500,27500,9,0001651904,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Riitters Timothy,4,J-Other,--D,27500,0,8,0001651904,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Riitters Timothy,4,J-Other,--D,75000,75000,7,0001651904,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Riitters Timothy,4,J-Other,--D,75000,0,6,0001651904,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Riitters Timothy,4,J-Other,--D,350000,350000,5,0001651904,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Riitters Timothy,4,J-Other,--D,350000,0,4,0001651904,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Riitters Timothy,4,J-Other,--D,854500,854500,3,0001651904,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Riitters Timothy,4,J-Other,--D,854500,0,2,0001651904,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Hatfield David,4,J-Other,--D,75000,75000,18,0001395529,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Hatfield David,4,J-Other,--D,75000,0,17,0001395529,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Hatfield David,4,J-Other,--D,150000,150000,16,0001395529,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Hatfield David,4,J-Other,--D,150000,0,15,0001395529,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Hatfield David,4,J-Other,--D,500000,500000,14,0001395529,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Hatfield David,4,J-Other,--D,500000,0,13,0001395529,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Hatfield David,4,J-Other,--D,400000,400000,12,0001395529,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Hatfield David,4,J-Other,--D,400000,0,11,0001395529,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Hatfield David,4,J-Other,--D,452112,452112,10,0001395529,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Hatfield David,4,J-Other,--D,452112,0,9,0001395529,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Hatfield David,4,C-Conversion,--I,18666,0,8,0001395529,Class B Common Stock
+D,12/04/2018 00:00:00,Hatfield David,4,C-Conversion,--I,18666,0,7,0001395529,Class B Common Stock
+D,12/04/2018 00:00:00,Hatfield David,4,C-Conversion,--I,18666,0,6,0001395529,Class B Common Stock
+D,12/04/2018 00:00:00,Hatfield David,4,C-Conversion,--D,150510,0,5,0001395529,Class B Common Stock
+A,12/04/2018 00:00:00,Hatfield David,4,C-Conversion,--I,18666,18666,4,0001395529,Class A Common Stock
+A,12/04/2018 00:00:00,Hatfield David,4,C-Conversion,--I,18666,18666,3,0001395529,Class A Common Stock
+A,12/04/2018 00:00:00,Hatfield David,4,C-Conversion,--I,18666,18666,2,0001395529,Class A Common Stock
+A,12/04/2018 00:00:00,Hatfield David,4,C-Conversion,--D,150510,462031,1,0001395529,Class A Common Stock
+A,12/04/2018 00:00:00,GARRETT MARK,4,J-Other,--D,300000,300000,3,0001246215,Stock Option (right to buy)
+D,12/04/2018 00:00:00,GARRETT MARK,4,J-Other,--D,300000,0,2,0001246215,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Dietzen Scott,4,J-Other,--D,125000,125000,11,0001651908,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Dietzen Scott,4,J-Other,--D,125000,0,10,0001651908,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Dietzen Scott,4,J-Other,--D,83333,83333,9,0001651908,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Dietzen Scott,4,J-Other,--D,83333,0,8,0001651908,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Dietzen Scott,4,J-Other,--D,600000,600000,7,0001651908,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Dietzen Scott,4,J-Other,--D,600000,0,6,0001651908,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,900000,0,5,0001651908,Class B Common Stock
+D,12/04/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,3806083,0,4,0001651908,Class B Common Stock
+A,12/04/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,900000,900000,3,0001651908,Class A Common Stock
+A,12/04/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,3806083,3913649,2,0001651908,Class A Common Stock
+A,12/04/2018 00:00:00,Colgrove John,4,J-Other,--D,125000,125000,14,0001651902,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Colgrove John,4,J-Other,--D,125000,0,13,0001651902,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Colgrove John,4,J-Other,--D,83333,83333,12,0001651902,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Colgrove John,4,J-Other,--D,83333,0,11,0001651902,Stock Option (right to buy)
+A,12/04/2018 00:00:00,Colgrove John,4,J-Other,--D,600000,600000,10,0001651902,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Colgrove John,4,J-Other,--D,600000,0,9,0001651902,Stock Option (right to buy)
+D,12/04/2018 00:00:00,Colgrove John,4,C-Conversion,--I,2250000,0,8,0001651902,Class B Common Stock
+D,12/04/2018 00:00:00,Colgrove John,4,C-Conversion,--I,2250000,0,7,0001651902,Class B Common Stock
+D,12/04/2018 00:00:00,Colgrove John,4,C-Conversion,--I,1553926,0,6,0001651902,Class B Common Stock
+D,12/04/2018 00:00:00,Colgrove John,4,C-Conversion,--D,7500000,0,5,0001651902,Class B Common Stock
+A,12/04/2018 00:00:00,Colgrove John,4,C-Conversion,--I,2250000,2250000,4,0001651902,Class A Common Stock
+A,12/04/2018 00:00:00,Colgrove John,4,C-Conversion,--I,2250000,2250000,3,0001651902,Class A Common Stock
+A,12/04/2018 00:00:00,Colgrove John,4,C-Conversion,--I,1553926,1553926,2,0001651902,Class A Common Stock
+A,12/04/2018 00:00:00,Colgrove John,4,C-Conversion,--D,7500000,7735484,1,0001651902,Class A Common Stock
+A,10/18/2018 00:00:00,Taylor Susan J.S.,4,A-Award,--D,5243,32017,2,0001541774,Class A Common Stock
+A,10/18/2018 00:00:00,Taylor Susan J.S.,4,A-Award,--D,26774,26774,1,0001541774,Class A Common Stock
+D,10/05/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,9654,397697,2,0001651904,Class A Common Stock
+D,10/05/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,5291,407351,1,0001651904,Class A Common Stock
+D,10/05/2018 00:00:00,Hatfield David,4,S-Sale,--D,2398,311521,2,0001395529,Class A Common Stock
+D,10/05/2018 00:00:00,Hatfield David,4,S-Sale,--D,2495,313919,1,0001395529,Class A Common Stock
+D,10/05/2018 00:00:00,Dietzen Scott,4,S-Sale,--D,1529,125799,2,0001651908,Class A Common Stock
+D,10/05/2018 00:00:00,Dietzen Scott,4,S-Sale,--D,1848,127328,1,0001651908,Class A Common Stock
+D,10/05/2018 00:00:00,Colgrove John,4,S-Sale,--D,2481,235484,2,0001651902,Class A Common Stock
+D,10/05/2018 00:00:00,Colgrove John,4,S-Sale,--D,2298,237965,1,0001651902,Class A Common Stock
+D,09/26/2018 00:00:00,Riitters Timothy,4,C-Conversion,--D,18000,0,6,0001651904,Class B Common Stock
+A,09/26/2018 00:00:00,Riitters Timothy,4,M-Exempt,--D,18000,18000,5,0001651904,Class B Common Stock
+D,09/26/2018 00:00:00,Riitters Timothy,4,M-Exempt,--D,18000,854500,4,0001651904,Stock Option (right to buy)
+D,09/26/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,200,412642,3,0001651904,Class A Common Stock
+D,09/26/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,24800,412842,2,0001651904,Class A Common Stock
+A,09/26/2018 00:00:00,Riitters Timothy,4,C-Conversion,--D,18000,437642,1,0001651904,Class A Common Stock
+D,09/20/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,26680,419642,1,0001651904,Class A Common Stock
+D,09/20/2018 00:00:00,Hatfield David,4,S-Sale,--D,50253,316414,1,0001395529,Class A Common Stock
+D,09/20/2018 00:00:00,Giancarlo Charles H,4,S-Sale,--D,54990,1221552,1,0001299634,Class A Common Stock
+D,09/18/2018 00:00:00,Hatfield David,5,M-Exempt,-LD,14354,485646,9,0001395529,Stock Option (right to buy)
+D,09/18/2018 00:00:00,Hatfield David,5,M-Exempt,-LD,99891,300109,8,0001395529,Stock Option (right to buy)
+A,09/18/2018 00:00:00,Hatfield David,5,M-Exempt,-LD,99891,529867,3,0001395529,Class A Common Stock
+A,09/18/2018 00:00:00,Hatfield David,5,M-Exempt,-LD,14354,429976,2,0001395529,Class A Common Stock
+D,09/12/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,4500,446322,1,0001651904,Class A Common Stock
+D,09/10/2018 00:00:00,Hatfield David,5,G-Gift,--D,18130,415622,1,0001395529,Class A Common Stock
+D,09/04/2018 00:00:00,Sands Anita M,4,S-Sale,--D,15000,10380,1,0001589849,Class A Common Stock
+D,08/29/2018 00:00:00,Riitters Timothy,4,C-Conversion,--D,20500,0,5,0001651904,Class B Common Stock
+A,08/29/2018 00:00:00,Riitters Timothy,4,M-Exempt,--D,20500,20500,4,0001651904,Class B Common Stock
+D,08/29/2018 00:00:00,Riitters Timothy,4,M-Exempt,--D,20500,872500,3,0001651904,Stock Option (right to buy)
+D,08/29/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,25000,450822,2,0001651904,Class A Common Stock
+A,08/29/2018 00:00:00,Riitters Timothy,4,C-Conversion,--D,20500,475822,1,0001651904,Class A Common Stock
+D,08/20/2018 00:00:00,Hatfield David,4,C-Conversion,--D,150000,150510,6,0001395529,Class B Common Stock
+A,08/20/2018 00:00:00,Hatfield David,4,M-Exempt,--D,49994,300510,5,0001395529,Class B Common Stock
+D,08/20/2018 00:00:00,Hatfield David,4,M-Exempt,--D,49994,452112,4,0001395529,Stock Option (right to buy)
+D,08/20/2018 00:00:00,Hatfield David,4,S-Sale,--D,1100,366667,3,0001395529,Class A Common Stock
+D,08/20/2018 00:00:00,Hatfield David,4,S-Sale,--D,148900,367767,2,0001395529,Class A Common Stock
+A,08/20/2018 00:00:00,Hatfield David,4,C-Conversion,--D,150000,516667,1,0001395529,Class A Common Stock
+D,07/26/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,125000,3806083,4,0001651908,Class B Common Stock
+D,07/26/2018 00:00:00,Dietzen Scott,4,S-Sale,--I,125000,107566,3,0001651908,Class A Common Stock
+A,07/26/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,125000,232566,2,0001651908,Class A Common Stock
+D,07/18/2018 00:00:00,Hatfield David,4,C-Conversion,--D,150000,250516,5,0001395529,Class B Common Stock
+A,07/18/2018 00:00:00,Hatfield David,4,M-Exempt,--D,50000,400516,4,0001395529,Class B Common Stock
+D,07/18/2018 00:00:00,Hatfield David,4,M-Exempt,--D,50000,502106,3,0001395529,Stock Option (right to buy)
+D,07/18/2018 00:00:00,Hatfield David,4,S-Sale,--D,150000,366667,2,0001395529,Class A Common Stock
+A,07/18/2018 00:00:00,Hatfield David,4,C-Conversion,--D,150000,516667,1,0001395529,Class A Common Stock
+D,07/09/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,2338406,0,10,0001433644,Class B Common Stock
+D,07/09/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,1722254,0,9,0001433644,Class B Common Stock
+D,07/09/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,377173,0,8,0001433644,Class B Common Stock
+D,07/09/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,2338406,40982,6,0001433644,Class A Common Stock
+A,07/09/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,2338406,2379388,5,0001433644,Class A Common Stock
+D,07/09/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,1722254,0,4,0001433644,Class A Common Stock
+A,07/09/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,1722254,1722254,3,0001433644,Class A Common Stock
+D,07/09/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,377173,0,2,0001433644,Class A Common Stock
+A,07/09/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,377173,377173,1,0001433644,Class A Common Stock
+D,07/05/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,200000,40982,10,0001433644,Class A Common Stock
+D,07/05/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,200000,0,5,0001433644,Class A Common Stock
+D,07/05/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,15100,455322,1,0001651904,Class A Common Stock
+D,07/05/2018 00:00:00,Hatfield David,4,S-Sale,--D,4963,366667,1,0001395529,Class A Common Stock
+D,07/05/2018 00:00:00,Dietzen Scott,4,S-Sale,--D,4097,129176,1,0001651908,Class A Common Stock
+D,07/05/2018 00:00:00,Colgrove John,4,S-Sale,--D,3428,240263,1,0001651902,Class A Common Stock
+D,07/03/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,200000,240982,9,0001433644,Class A Common Stock
+D,07/03/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,200000,200000,4,0001433644,Class A Common Stock
+D,07/02/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,600000,2338406,13,0001433644,Class B Common Stock
+D,07/02/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,600000,1722254,12,0001433644,Class B Common Stock
+D,07/02/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,120147,440982,8,0001433644,Class A Common Stock
+D,07/02/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,79853,561129,7,0001433644,Class A Common Stock
+A,07/02/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,600000,640982,6,0001433644,Class A Common Stock
+D,07/02/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,120147,400000,3,0001433644,Class A Common Stock
+D,07/02/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,79853,520147,2,0001433644,Class A Common Stock
+A,07/02/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,600000,600000,1,0001433644,Class A Common Stock
+D,06/28/2018 00:00:00,Riitters Timothy,4,C-Conversion,--D,25000,0,5,0001651904,Class B Common Stock
+A,06/28/2018 00:00:00,Riitters Timothy,4,M-Exempt,--D,25000,25000,4,0001651904,Class B Common Stock
+D,06/28/2018 00:00:00,Riitters Timothy,4,M-Exempt,--D,25000,893000,3,0001651904,Stock Option (right to buy)
+D,06/28/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,25000,470422,2,0001651904,Class A Common Stock
+A,06/28/2018 00:00:00,Riitters Timothy,4,C-Conversion,--D,25000,495422,1,0001651904,Class A Common Stock
+D,06/26/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,125000,3931083,4,0001651908,Class B Common Stock
+D,06/26/2018 00:00:00,Dietzen Scott,4,S-Sale,--I,125000,107566,3,0001651908,Class A Common Stock
+A,06/26/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,125000,232566,2,0001651908,Class A Common Stock
+A,06/21/2018 00:00:00,Speiser Michael L,4,A-Award,--D,9779,25380,1,0001433644,Class A Common Stock
+A,06/21/2018 00:00:00,Slootman Frank,4,A-Award,--D,9779,25380,1,0001402348,Class A Common Stock
+A,06/21/2018 00:00:00,Sands Anita M,4,A-Award,--D,9779,25380,1,0001589849,Class A Common Stock
+A,06/21/2018 00:00:00,Rothschild Jeffrey,4,A-Award,--D,9779,39854,1,0001550341,Class A Common Stock
+A,06/21/2018 00:00:00,GARRETT MARK,4,A-Award,--D,9779,25380,1,0001246215,Class A Common Stock
+D,06/20/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,2322254,12,0001433644,Class B Common Stock
+D,06/20/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,50000,0,7,0001433644,Class A Common Stock
+A,06/20/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,50000,6,0001433644,Class A Common Stock
+D,06/19/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,2372254,11,0001433644,Class B Common Stock
+D,06/19/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,50000,0,5,0001433644,Class A Common Stock
+A,06/19/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,50000,4,0001433644,Class A Common Stock
+D,06/18/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,2422254,10,0001433644,Class B Common Stock
+D,06/18/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,28897,0,3,0001433644,Class A Common Stock
+D,06/18/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,21103,28897,2,0001433644,Class A Common Stock
+A,06/18/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,50000,1,0001433644,Class A Common Stock
+D,06/18/2018 00:00:00,Hatfield David,4,C-Conversion,--D,150000,350516,6,0001395529,Class B Common Stock
+A,06/18/2018 00:00:00,Hatfield David,4,M-Exempt,--D,50000,500516,5,0001395529,Class B Common Stock
+D,06/18/2018 00:00:00,Hatfield David,4,M-Exempt,--D,50000,552106,4,0001395529,Stock Option (right to buy)
+D,06/18/2018 00:00:00,Hatfield David,4,S-Sale,--D,87198,371630,3,0001395529,Class A Common Stock
+D,06/18/2018 00:00:00,Hatfield David,4,S-Sale,--D,62802,458828,2,0001395529,Class A Common Stock
+A,06/18/2018 00:00:00,Hatfield David,4,C-Conversion,--D,150000,521630,1,0001395529,Class A Common Stock
+A,06/15/2018 00:00:00,Dietzen Scott,4,G-Gift,-EI,107566,107566,2,0001651908,Class A Common Stock
+D,06/15/2018 00:00:00,Dietzen Scott,4,G-Gift,-ED,107566,133273,1,0001651908,Class A Common Stock
+D,06/13/2018 00:00:00,Riitters Timothy,4,C-Conversion,--D,7500,0,5,0001651904,Class B Common Stock
+A,06/13/2018 00:00:00,Riitters Timothy,4,M-Exempt,--D,7500,7500,4,0001651904,Class B Common Stock
+D,06/13/2018 00:00:00,Riitters Timothy,4,M-Exempt,--D,7500,918000,3,0001651904,Stock Option (right to buy)
+D,06/13/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,9556,470422,2,0001651904,Class A Common Stock
+A,06/13/2018 00:00:00,Riitters Timothy,4,C-Conversion,--D,7500,479978,1,0001651904,Class A Common Stock
+D,06/12/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,232226,0,5,0001433644,Class B Common Stock
+D,06/12/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,232226,0,2,0001433644,Class A Common Stock
+A,06/12/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,232226,232226,1,0001433644,Class A Common Stock
+D,06/07/2018 00:00:00,Sands Anita M,4/A,C-Conversion,--D,102000,0,5,0001589849,Class B Common Stock
+A,06/07/2018 00:00:00,Sands Anita M,4/A,M-Exempt,--D,102000,102000,4,0001589849,Class B Common Stock
+D,06/07/2018 00:00:00,Sands Anita M,4/A,M-Exempt,--D,102000,198000,3,0001589849,Stock Option (right to buy)
+D,06/07/2018 00:00:00,Sands Anita M,4/A,S-Sale,--D,102000,15601,2,0001589849,Class A Common Stock
+A,06/07/2018 00:00:00,Sands Anita M,4/A,C-Conversion,--D,102000,117601,1,0001589849,Class A Common Stock
+D,06/07/2018 00:00:00,Sands Anita M,4,C-Conversion,--D,102000,0,5,0001589849,Class B Common Stock
+A,06/07/2018 00:00:00,Sands Anita M,4,M-Exempt,--D,102000,102000,4,0001589849,Class B Common Stock
+D,06/07/2018 00:00:00,Sands Anita M,4,M-Exempt,--D,102000,198000,3,0001589849,Stock Option (right to buy)
+D,06/07/2018 00:00:00,Sands Anita M,4,S-Sale,--D,102000,0,2,0001589849,Class A Common Stock
+A,06/07/2018 00:00:00,Sands Anita M,4,A-Award,--D,102000,102000,1,0001589849,Class A Common Stock
+D,06/06/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,2472254,14,0001433644,Class B Common Stock
+D,06/06/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,50000,0,8,0001433644,Class A Common Stock
+A,06/06/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,50000,7,0001433644,Class A Common Stock
+D,06/05/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,2522254,13,0001433644,Class B Common Stock
+D,06/05/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,50000,0,6,0001433644,Class A Common Stock
+A,06/05/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,50000,5,0001433644,Class A Common Stock
+D,06/04/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,2572254,12,0001433644,Class B Common Stock
+D,06/04/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,1024538,0,11,0001433644,Class B Common Stock
+A,06/04/2018 00:00:00,Speiser Michael L,4,J-Other,--I,40982,40982,9,0001433644,Class A Common Stock
+D,06/04/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,50000,0,4,0001433644,Class A Common Stock
+A,06/04/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,50000,3,0001433644,Class A Common Stock
+D,06/04/2018 00:00:00,Speiser Michael L,4,J-Other,--I,1024538,0,2,0001433644,Class A Common Stock
+A,06/04/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,1024538,1024538,1,0001433644,Class A Common Stock
+D,06/04/2018 00:00:00,Dietzen Scott,4/A,C-Conversion,--I,1000000,4056083,4,0001651908,Class B Common Stock
+D,06/04/2018 00:00:00,Dietzen Scott,4/A,J-Other,--I,1000000,0,3,0001651908,Class A Common Stock
+A,06/04/2018 00:00:00,Dietzen Scott,4/A,C-Conversion,--I,1000000,1000000,2,0001651908,Class A Common Stock
+D,06/04/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,1000000,4056083,4,0001651908,Class B Common Stock
+D,06/04/2018 00:00:00,Dietzen Scott,4,J-Other,--I,1000000,0,3,0001651908,Class A Common Stock
+A,06/04/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,1000000,1000000,2,0001651908,Class A Common Stock
+D,05/31/2018 00:00:00,Dietzen Scott,4,C-Conversion,--D,77668,0,9,0001651908,Class B Common Stock
+A,05/31/2018 00:00:00,Dietzen Scott,4,M-Exempt,--D,77668,77668,8,0001651908,Class B Common Stock
+D,05/31/2018 00:00:00,Dietzen Scott,4,M-Exempt,--D,77668,0,7,0001651908,Stock Option (right to buy)
+A,05/31/2018 00:00:00,Dietzen Scott,4,C-Conversion,--D,77668,240839,3,0001651908,Class A Common Stock
+D,05/30/2018 00:00:00,Riitters Timothy,4,C-Conversion,--D,22000,0,5,0001651904,Class B Common Stock
+A,05/30/2018 00:00:00,Riitters Timothy,4,M-Exempt,--D,22000,22000,4,0001651904,Class B Common Stock
+D,05/30/2018 00:00:00,Riitters Timothy,4,M-Exempt,--D,22000,925500,3,0001651904,Stock Option (right to buy)
+D,05/30/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,25000,472478,2,0001651904,Class A Common Stock
+A,05/30/2018 00:00:00,Riitters Timothy,4,C-Conversion,--D,22000,497478,1,0001651904,Class A Common Stock
+D,05/29/2018 00:00:00,Dietzen Scott,4,C-Conversion,--D,222332,0,6,0001651908,Class B Common Stock
+A,05/29/2018 00:00:00,Dietzen Scott,4,M-Exempt,--D,222332,222332,5,0001651908,Class B Common Stock
+D,05/29/2018 00:00:00,Dietzen Scott,4,M-Exempt,--D,222332,77668,4,0001651908,Stock Option (right to buy)
+D,05/29/2018 00:00:00,Dietzen Scott,4,S-Sale,--D,222332,163171,2,0001651908,Class A Common Stock
+A,05/29/2018 00:00:00,Dietzen Scott,4,C-Conversion,--D,222332,385503,1,0001651908,Class A Common Stock
+D,05/23/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,2622254,12,0001433644,Class B Common Stock
+D,05/23/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,50000,0,8,0001433644,Class A Common Stock
+A,05/23/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,50000,7,0001433644,Class A Common Stock
+D,05/22/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,2672254,11,0001433644,Class B Common Stock
+D,05/22/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,43450,0,6,0001433644,Class A Common Stock
+D,05/22/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,4600,43450,5,0001433644,Class A Common Stock
+D,05/22/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,1950,48050,4,0001433644,Class A Common Stock
+A,05/22/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,50000,3,0001433644,Class A Common Stock
+D,05/21/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,2722254,10,0001433644,Class B Common Stock
+D,05/21/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,50000,0,2,0001433644,Class A Common Stock
+A,05/21/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,50000,1,0001433644,Class A Common Stock
+D,05/21/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,125000,5056083,3,0001651908,Class B Common Stock
+D,05/21/2018 00:00:00,Dietzen Scott,4,S-Sale,--I,125000,0,2,0001651908,Class A Common Stock
+A,05/21/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,125000,125000,1,0001651908,Class A Common Stock
+D,05/18/2018 00:00:00,Hatfield David,4,C-Conversion,--D,150000,450516,5,0001395529,Class B Common Stock
+A,05/18/2018 00:00:00,Hatfield David,4,M-Exempt,--D,50000,600516,4,0001395529,Class B Common Stock
+D,05/18/2018 00:00:00,Hatfield David,4,M-Exempt,--D,50000,602106,3,0001395529,Stock Option (right to buy)
+D,05/18/2018 00:00:00,Hatfield David,4,S-Sale,--D,150000,371630,2,0001395529,Class A Common Stock
+A,05/18/2018 00:00:00,Hatfield David,4,C-Conversion,--D,150000,521630,1,0001395529,Class A Common Stock
+D,05/09/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,2772254,11,0001433644,Class B Common Stock
+D,05/09/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,50000,0,7,0001433644,Class A Common Stock
+A,05/09/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,50000,6,0001433644,Class A Common Stock
+D,05/08/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,2822254,10,0001433644,Class B Common Stock
+D,05/08/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,50000,0,5,0001433644,Class A Common Stock
+A,05/08/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,50000,4,0001433644,Class A Common Stock
+D,05/07/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,2872254,9,0001433644,Class B Common Stock
+D,05/07/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,43437,0,3,0001433644,Class A Common Stock
+D,05/07/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,6563,43437,2,0001433644,Class A Common Stock
+A,05/07/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,50000,1,0001433644,Class A Common Stock
+D,04/26/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,125000,5181083,3,0001651908,Class B Common Stock
+D,04/26/2018 00:00:00,Dietzen Scott,4,S-Sale,--I,125000,0,2,0001651908,Class A Common Stock
+A,04/26/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,125000,125000,1,0001651908,Class A Common Stock
+D,04/25/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,2922254,10,0001433644,Class B Common Stock
+D,04/25/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,50000,0,6,0001433644,Class A Common Stock
+A,04/25/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,50000,5,0001433644,Class A Common Stock
+D,04/24/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,2972254,9,0001433644,Class B Common Stock
+D,04/24/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,50000,0,4,0001433644,Class A Common Stock
+A,04/24/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,50000,3,0001433644,Class A Common Stock
+D,04/23/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,3022254,8,0001433644,Class B Common Stock
+D,04/23/2018 00:00:00,Speiser Michael L,4,S-Sale,--I,50000,0,2,0001433644,Class A Common Stock
+A,04/23/2018 00:00:00,Speiser Michael L,4,C-Conversion,--I,50000,50000,1,0001433644,Class A Common Stock
+D,04/18/2018 00:00:00,Hatfield David,4,C-Conversion,--D,190000,550516,5,0001395529,Class B Common Stock
+A,04/18/2018 00:00:00,Hatfield David,4,M-Exempt,--D,63334,740516,4,0001395529,Class B Common Stock
+D,04/18/2018 00:00:00,Hatfield David,4,M-Exempt,--D,63334,652106,3,0001395529,Stock Option (right to buy)
+D,04/18/2018 00:00:00,Hatfield David,4,S-Sale,--D,190000,371630,2,0001395529,Class A Common Stock
+A,04/18/2018 00:00:00,Hatfield David,4,C-Conversion,--D,190000,561630,1,0001395529,Class A Common Stock
+D,04/05/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,35062,475478,1,0001651904,Class A Common Stock
+D,04/05/2018 00:00:00,Hatfield David,4,S-Sale,--D,12266,371630,1,0001395529,Class A Common Stock
+D,04/05/2018 00:00:00,Dietzen Scott,4,S-Sale,--D,8435,163171,1,0001651908,Class A Common Stock
+D,04/05/2018 00:00:00,Colgrove John,4,S-Sale,--D,8480,243691,1,0001651902,Class A Common Stock
+A,03/29/2018 00:00:00,Rothschild Jeffrey,4,A-Award,--D,30075,30075,1,0001550341,Class A Common Stock
+D,03/28/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,3000,510540,1,0001651904,Class A Common Stock
+D,03/26/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,125000,0,7,0001651908,Class B Common Stock
+D,03/26/2018 00:00:00,Dietzen Scott,4,S-Sale,--I,125000,0,5,0001651908,Class A Common Stock
+A,03/26/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,125000,125000,4,0001651908,Class A Common Stock
+D,03/23/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,25000,5306083,6,0001651908,Class B Common Stock
+D,03/23/2018 00:00:00,Dietzen Scott,4,G-Gift,-EI,25000,0,3,0001651908,Class A Common Stock
+A,03/23/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,25000,25000,2,0001651908,Class A Common Stock
+D,03/19/2018 00:00:00,Hatfield David,4,C-Conversion,--D,200000,677182,5,0001395529,Class B Common Stock
+A,03/19/2018 00:00:00,Hatfield David,4,M-Exempt,--D,66667,877182,4,0001395529,Class B Common Stock
+D,03/19/2018 00:00:00,Hatfield David,4,M-Exempt,--D,66667,715440,3,0001395529,Stock Option (right to buy)
+D,03/19/2018 00:00:00,Hatfield David,4,S-Sale,--D,200000,383896,2,0001395529,Class A Common Stock
+A,03/19/2018 00:00:00,Hatfield David,4,C-Conversion,--D,200000,583896,1,0001395529,Class A Common Stock
+A,03/19/2018 00:00:00,BHUSRI ANEEL,4,A-Award,--D,392521,986151,1,0001196579,Class A Common Stock
+D,03/19/2018 00:00:00,Greylock XIII GP LLC,4,C-Conversion,--I,667597,554133,6,0001541539,Class B Common Stock
+D,03/19/2018 00:00:00,Greylock XIII GP LLC,4,C-Conversion,--I,7415283,6155022,5,0001541539,Class B Common Stock
+D,03/19/2018 00:00:00,Greylock XIII GP LLC,4,J-Other,--I,667597,0,4,0001541539,Class A Common  Stock
+D,03/19/2018 00:00:00,Greylock XIII GP LLC,4,J-Other,--I,7415283,0,3,0001541539,Class A Common Stock
+A,03/19/2018 00:00:00,Greylock XIII GP LLC,4,C-Conversion,--I,667597,667597,2,0001541539,Class A Common  Stock
+A,03/19/2018 00:00:00,Greylock XIII GP LLC,4,C-Conversion,--I,7415283,7415283,1,0001541539,Class A Common Stock
+D,03/14/2018 00:00:00,Riitters Timothy,4/A,C-Conversion,--D,7500,0,6,0001651904,Class B Common Stock
+A,03/14/2018 00:00:00,Riitters Timothy,4/A,M-Exempt,--D,7500,7500,5,0001651904,Class B Common Stock
+D,03/14/2018 00:00:00,Riitters Timothy,4/A,M-Exempt,--D,7500,947500,4,0001651904,Stock Option (right to buy)
+D,03/14/2018 00:00:00,Riitters Timothy,4/A,S-Sale,--D,10500,525701,3,0001651904,Class A Common Stock
+A,03/14/2018 00:00:00,Riitters Timothy,4/A,C-Conversion,--D,7500,536201,2,0001651904,Class A Common Stock
+A,03/14/2018 00:00:00,Riitters Timothy,4/A,A-Award,--D,164172,528701,1,0001651904,Class A Common Stock
+A,03/14/2018 00:00:00,Hatfield David,4/A,A-Award,--D,151543,368340,1,0001395529,Class A Common Stock
+A,03/14/2018 00:00:00,Giancarlo Charles H,4/A,A-Award,--D,374817,1325917,2,0001299634,Class A Common Stock
+A,03/14/2018 00:00:00,Giancarlo Charles H,4/A,A-Award,--D,486355,951100,1,0001299634,Class A Common Stock
+A,03/14/2018 00:00:00,Colgrove John,4/A,A-Award,--D,151543,263396,1,0001651902,Class A Common Stock
+D,03/14/2018 00:00:00,Riitters Timothy,4,C-Conversion,--D,7500,0,6,0001651904,Class B Common Stock
+A,03/14/2018 00:00:00,Riitters Timothy,4,M-Exempt,--D,7500,7500,5,0001651904,Class B Common Stock
+D,03/14/2018 00:00:00,Riitters Timothy,4,M-Exempt,--D,7500,947500,4,0001651904,Stock Option (right to buy)
+D,03/14/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,10500,513540,3,0001651904,Class A Common Stock
+A,03/14/2018 00:00:00,Riitters Timothy,4,C-Conversion,--D,7500,524040,2,0001651904,Class A Common Stock
+A,03/14/2018 00:00:00,Riitters Timothy,4,A-Award,--D,152011,516540,1,0001651904,Class A Common Stock
+A,03/14/2018 00:00:00,Hatfield David,4,A-Award,--D,140318,381490,1,0001395529,Class A Common Stock
+A,03/14/2018 00:00:00,Giancarlo Charles H,4,A-Award,--D,347053,1276542,2,0001299634,Class A Common Stock
+A,03/14/2018 00:00:00,Giancarlo Charles H,4,A-Award,--D,464744,929489,1,0001299634,Class A Common Stock
+A,03/14/2018 00:00:00,Colgrove John,4,A-Award,--D,140318,252171,1,0001651902,Class A Common Stock
+D,03/08/2018 00:00:00,Dietzen Scott,4/A,C-Conversion,--I,500000,900000,5,0001651908,Class B Common Stock
+D,03/08/2018 00:00:00,Dietzen Scott,4/A,J-Other,--I,200000,0,4,0001651908,Class A Common Stock
+D,03/08/2018 00:00:00,Dietzen Scott,4/A,J-Other,--I,300000,200000,3,0001651908,Class A Common Stock
+A,03/08/2018 00:00:00,Dietzen Scott,4/A,C-Conversion,--I,500000,500000,2,0001651908,Class A Common Stock
+D,03/08/2018 00:00:00,Dietzen Scott,4/A,C-Conversion,--I,500000,900000,5,0001651908,Class B Common Stock
+D,03/08/2018 00:00:00,Dietzen Scott,4/A,J-Other,--I,200000,0,4,0001651908,Class A Common Stock
+D,03/08/2018 00:00:00,Dietzen Scott,4/A,J-Other,--I,300000,200000,3,0001651908,Class A Common Stock
+A,03/08/2018 00:00:00,Dietzen Scott,4/A,C-Conversion,--I,500000,500000,2,0001651908,Class A Common Stock
+D,03/08/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,500000,900000,5,0001651908,Class B Common Stock
+D,03/08/2018 00:00:00,Dietzen Scott,4,J-Other,--I,200000,0,4,0001651908,Class A Common Stock
+D,03/08/2018 00:00:00,Dietzen Scott,4,J-Other,--I,300000,200000,3,0001651908,Class A Common Stock
+A,03/08/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,500000,500000,2,0001651908,Class A Common Stock
+A,03/05/2018 00:00:00,BHUSRI ANEEL,4,A-Award,--D,327634,593630,1,0001196579,Class A Common Stock
+D,03/05/2018 00:00:00,Greylock XIII GP LLC,4,C-Conversion,--I,553656,1221730,6,0001541539,Class B Common Stock
+D,03/05/2018 00:00:00,Greylock XIII GP LLC,4,C-Conversion,--I,6149694,13570305,5,0001541539,Class B Common Stock
+D,03/05/2018 00:00:00,Greylock XIII GP LLC,4,J-Other,--I,553656,0,4,0001541539,Class A Common Stock
+D,03/05/2018 00:00:00,Greylock XIII GP LLC,4,J-Other,--I,6149694,0,3,0001541539,Class A Common Stock
+A,03/05/2018 00:00:00,Greylock XIII GP LLC,4,C-Conversion,--I,553656,553656,2,0001541539,Class A Common Stock
+A,03/05/2018 00:00:00,Greylock XIII GP LLC,4,C-Conversion,--I,6149694,6149694,1,0001541539,Class A Common Stock
+D,03/02/2018 00:00:00,Speiser Michael L,4,J-Other,--I,17102128,0,3,0001433644,Class B Common Stock
+A,03/02/2018 00:00:00,Speiser Michael L,4,J-Other,--I,2052254,3072254,2,0001433644,Class B Common Stock
+A,03/02/2018 00:00:00,Speiser Michael L,4,J-Other,--I,155126,232226,1,0001433644,Class B Common Stock
+D,03/02/2018 00:00:00,SUTTER HILL VENTURES,4,J-Other,--D,17102128,0,1,0000879051,Class B Common Stock
+A,02/27/2018 00:00:00,Riitters Timothy,4,A-Award,--D,40000,364529,3,0001651904,Class A Common Stock
+A,02/27/2018 00:00:00,Riitters Timothy,4,A-Award,--D,40000,324529,2,0001651904,Class A Common Stock
+A,02/27/2018 00:00:00,Riitters Timothy,4,A-Award,--D,40000,284529,1,0001651904,Class A Common Stock
+A,02/27/2018 00:00:00,Hatfield David,4,A-Award,--D,20001,241172,3,0001395529,Class A Common Stock
+A,02/27/2018 00:00:00,Hatfield David,4,A-Award,--D,20001,221171,2,0001395529,Class A Common Stock
+A,02/27/2018 00:00:00,Hatfield David,4,A-Award,--D,20001,201170,1,0001395529,Class A Common Stock
+A,02/27/2018 00:00:00,Dietzen Scott,4,A-Award,--D,20001,169199,3,0001651908,Class A Common Stock
+A,02/27/2018 00:00:00,Dietzen Scott,4,A-Award,--D,20001,149198,2,0001651908,Class A Common Stock
+A,02/27/2018 00:00:00,Dietzen Scott,4,A-Award,--D,20001,129197,1,0001651908,Class A Common Stock
+A,02/27/2018 00:00:00,Colgrove John,4,A-Award,--D,20001,111853,3,0001651902,Class A Common Stock
+A,02/27/2018 00:00:00,Colgrove John,4,A-Award,--D,20001,91852,2,0001651902,Class A Common Stock
+A,02/27/2018 00:00:00,Colgrove John,4,A-Award,--D,20001,71851,1,0001651902,Class A Common Stock
+D,02/21/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,125000,125000,3,0001651908,Class B Common Stock
+D,02/21/2018 00:00:00,Dietzen Scott,4,S-Sale,--I,125000,0,2,0001651908,Class A Common Stock
+A,02/21/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,125000,125000,1,0001651908,Class A Common Stock
+D,02/20/2018 00:00:00,Hatfield David,4,C-Conversion,--D,200000,810515,5,0001395529,Class B Common Stock
+A,02/20/2018 00:00:00,Hatfield David,4,M-Exempt,--D,66667,1010515,4,0001395529,Class B Common Stock
+D,02/20/2018 00:00:00,Hatfield David,4,M-Exempt,--D,66667,782107,3,0001395529,Stock Option (right to buy)
+D,02/20/2018 00:00:00,Hatfield David,4,S-Sale,--D,200000,181169,2,0001395529,Class A Common Stock
+A,02/20/2018 00:00:00,Hatfield David,4,C-Conversion,--D,200000,381169,1,0001395529,Class A Common Stock
+D,01/29/2018 00:00:00,Hatfield David,4,C-Conversion,--D,10000,943848,5,0001395529,Class B Common Stock
+A,01/29/2018 00:00:00,Hatfield David,4,M-Exempt,--D,3334,953848,4,0001395529,Class B Common Stock
+D,01/29/2018 00:00:00,Hatfield David,4,M-Exempt,--D,3334,848774,3,0001395529,Stock Option (right to buy)
+D,01/29/2018 00:00:00,Hatfield David,4,S-Sale,--D,10000,181168,2,0001395529,Class A Common Stock
+A,01/29/2018 00:00:00,Hatfield David,4,C-Conversion,--D,10000,191168,1,0001395529,Class A Common Stock
+D,01/26/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,125000,250000,3,0001651908,Class B Common Stock
+D,01/26/2018 00:00:00,Dietzen Scott,4,S-Sale,--I,125000,0,2,0001651908,Class A Common Stock
+A,01/26/2018 00:00:00,Dietzen Scott,4,C-Conversion,--I,125000,125000,1,0001651908,Class A Common Stock
+D,01/23/2018 00:00:00,Hatfield David,4,C-Conversion,--D,95817,950514,5,0001395529,Class B Common Stock
+A,01/23/2018 00:00:00,Hatfield David,4,M-Exempt,--D,31939,1046331,4,0001395529,Class B Common Stock
+D,01/23/2018 00:00:00,Hatfield David,4,M-Exempt,--D,31939,852108,3,0001395529,Stock Option (right to buy)
+D,01/23/2018 00:00:00,Hatfield David,4,S-Sale,--D,95817,181168,2,0001395529,Class A Common Stock
+A,01/23/2018 00:00:00,Hatfield David,4,C-Conversion,--D,95817,276985,1,0001395529,Class A Common Stock
+D,01/19/2018 00:00:00,Hatfield David,4,C-Conversion,--D,24183,1014392,10,0001395529,Class B Common Stock
+A,01/19/2018 00:00:00,Hatfield David,4,M-Exempt,--D,8061,1038575,9,0001395529,Class B Common Stock
+D,01/19/2018 00:00:00,Hatfield David,4,M-Exempt,--D,8061,884047,8,0001395529,Stock Option (right to buy)
+D,01/19/2018 00:00:00,Hatfield David,4,S-Sale,--D,24183,181168,4,0001395529,Class A Common Stock
+A,01/19/2018 00:00:00,Hatfield David,4,C-Conversion,--D,24183,205351,3,0001395529,Class A Common Stock
+D,01/18/2018 00:00:00,Hatfield David,4,C-Conversion,--D,70000,1030514,7,0001395529,Class B Common Stock
+A,01/18/2018 00:00:00,Hatfield David,4,M-Exempt,--D,23334,1100514,6,0001395529,Class B Common Stock
+D,01/18/2018 00:00:00,Hatfield David,4,M-Exempt,--D,23334,892108,5,0001395529,Stock Option (right to buy)
+D,01/18/2018 00:00:00,Hatfield David,4,S-Sale,--D,70000,181168,2,0001395529,Class A Common Stock
+A,01/18/2018 00:00:00,Hatfield David,4,C-Conversion,--D,70000,251168,1,0001395529,Class A Common Stock
+A,01/12/2018 00:00:00,BHUSRI ANEEL,4,A-Award,--D,250395,265996,1,0001196579,Class A Common Stock
+D,01/12/2018 00:00:00,Greylock XIII GP LLC,4,C-Conversion,--I,441320,1775386,6,0001541539,Class B Common Stock
+D,01/12/2018 00:00:00,Greylock XIII GP LLC,4,C-Conversion,--I,4901930,19719999,5,0001541539,Class B Common Stock
+D,01/12/2018 00:00:00,Greylock XIII GP LLC,4,J-Other,--I,441320,0,4,0001541539,Class A Common Stock
+D,01/12/2018 00:00:00,Greylock XIII GP LLC,4,J-Other,--I,4901930,0,3,0001541539,Class A Common Stock
+A,01/12/2018 00:00:00,Greylock XIII GP LLC,4,C-Conversion,--I,441320,441320,2,0001541539,Class A Common Stock
+A,01/12/2018 00:00:00,Greylock XIII GP LLC,4,C-Conversion,--I,4901930,4901930,1,0001541539,Class A Common Stock
+D,01/11/2018 00:00:00,Dyckerhoff Stefan A,4,C-Conversion,--I,25520,242808,3,0001484394,Class B Common Stock
+D,01/11/2018 00:00:00,Dyckerhoff Stefan A,4,S-Sale,--I,25520,0,2,0001484394,Class A Common Stock
+A,01/11/2018 00:00:00,Dyckerhoff Stefan A,4,C-Conversion,--I,25520,25520,1,0001484394,Class A Common Stock
+D,01/11/2018 00:00:00,WHITE JAMES N,4,C-Conversion,--I,79223,1282150,10,0001201720,Class B Common Stock
+D,01/11/2018 00:00:00,WHITE JAMES N,4,C-Conversion,--I,15900,474866,9,0001201720,Class B Common Stock
+D,01/11/2018 00:00:00,WHITE JAMES N,4,S-Sale,--I,79223,0,4,0001201720,Class A Common Stock
+A,01/11/2018 00:00:00,WHITE JAMES N,4,C-Conversion,--I,79223,79223,3,0001201720,Class A Common Stock
+D,01/11/2018 00:00:00,WHITE JAMES N,4,S-Sale,--I,15900,50000,2,0001201720,Class A Common Stock
+A,01/11/2018 00:00:00,WHITE JAMES N,4,C-Conversion,--I,15900,65900,1,0001201720,Class A Common Stock
+D,01/08/2018 00:00:00,Riitters Timothy,4,S-Sale,--D,15747,244529,1,0001651904,Class A Common Stock
+D,01/08/2018 00:00:00,Hatfield David,4,S-Sale,--D,2169,181168,1,0001395529,Class A Common Stock
+D,01/08/2018 00:00:00,Dietzen Scott,4,S-Sale,--D,2167,109196,1,0001651908,Class A Common Stock
+D,01/08/2018 00:00:00,Colgrove John,4,S-Sale,--D,2167,51850,1,0001651902,Class A Common Stock
+D,01/01/2018 00:00:00,WHITE JAMES N,5,G-Gift,--I,0,490766,8,0001201720,Class B Common Stock
+D,01/01/2018 00:00:00,WHITE JAMES N,5,G-Gift,--I,0,50000,6,0001201720,Class A Common Stock
+D,01/01/2018 00:00:00,Speiser Michael L,5,G-Gift,--I,0,377173,1,0001433644,Class B Common Stock
+D,01/01/2018 00:00:00,COXE TENCH,5,G-Gift,--I,0,1458191,1,0001197647,Class B Common Stock
+D,01/01/2018 00:00:00,BIRD JEFFREY W,5,G-Gift,--I,0,499478,1,0001250409,Class B Common Stock
+A,12/21/2017 00:00:00,Dietzen Scott,4,G-Gift,-EI,375000,375000,3,0001651908,Class B Common Stock
+D,12/21/2017 00:00:00,Dietzen Scott,4,G-Gift,-EI,375000,5331083,2,0001651908,Class B Common Stock
+D,12/20/2017 00:00:00,WHITE JAMES N,5,G-Gift,--I,271638,1089735,9,0001201720,Class B Common Stock
+D,12/18/2017 00:00:00,Hatfield David,4,C-Conversion,--D,70000,1077180,5,0001395529,Class B Common Stock
+A,12/18/2017 00:00:00,Hatfield David,4,M-Exempt,--D,23334,1147180,4,0001395529,Class B Common Stock
+D,12/18/2017 00:00:00,Hatfield David,4,M-Exempt,--D,23334,915442,3,0001395529,Stock Option (right to buy)
+D,12/18/2017 00:00:00,Hatfield David,4,S-Sale,--D,70000,183337,2,0001395529,Class A Common Stock
+A,12/18/2017 00:00:00,Hatfield David,4,C-Conversion,--D,70000,253337,1,0001395529,Class A Common Stock
+D,12/13/2017 00:00:00,Riitters Timothy,4,C-Conversion,--D,10000,0,5,0001651904,Class B Common Stock
+A,12/13/2017 00:00:00,Riitters Timothy,4,M-Exempt,--D,10000,10000,4,0001651904,Class B Common Stock
+D,12/13/2017 00:00:00,Riitters Timothy,4,M-Exempt,--D,10000,955000,3,0001651904,Stock Option (right to buy)
+D,12/13/2017 00:00:00,Riitters Timothy,4,S-Sale,--D,11749,260276,2,0001651904,Class A Common Stock
+A,12/13/2017 00:00:00,Riitters Timothy,4,C-Conversion,--D,10000,272025,1,0001651904,Class A Common Stock
+D,12/07/2017 00:00:00,Dyckerhoff Stefan A,4,C-Conversion,--I,25407,268328,3,0001484394,Class B Common Stock
+D,12/07/2017 00:00:00,Dyckerhoff Stefan A,4,S-Sale,--I,25407,0,2,0001484394,Class A Common Stock
+A,12/07/2017 00:00:00,Dyckerhoff Stefan A,4,C-Conversion,--I,25407,25407,1,0001484394,Class A Common Stock
+D,12/07/2017 00:00:00,Dietzen Scott,4,C-Conversion,--I,100000,5706083,7,0001651908,Class B Common Stock
+D,12/07/2017 00:00:00,Dietzen Scott,4,S-Sale,--I,100000,0,5,0001651908,Class A Common Stock
+A,12/07/2017 00:00:00,Dietzen Scott,4,C-Conversion,--I,100000,100000,4,0001651908,Class A Common Stock
+D,12/05/2017 00:00:00,Dietzen Scott,4,C-Conversion,--I,100000,5806083,6,0001651908,Class B Common Stock
+D,12/05/2017 00:00:00,Dietzen Scott,4,S-Sale,--I,100000,0,3,0001651908,Class A Common Stock
+A,12/05/2017 00:00:00,Dietzen Scott,4,C-Conversion,--I,100000,100000,2,0001651908,Class A Common Stock
+D,11/30/2017 00:00:00,SUTTER HILL VENTURES,4,J-Other,--D,8500000,17102128,1,0000879051,Class B Common Stock
+D,11/30/2017 00:00:00,BIRD JEFFREY W,4,J-Other,--I,8500000,17102128,3,0001250409,Class B Common Stock
+A,11/30/2017 00:00:00,BIRD JEFFREY W,4,J-Other,--I,318750,318750,2,0001250409,Class B Common Stock
+A,11/30/2017 00:00:00,BIRD JEFFREY W,4,J-Other,--I,77100,77100,1,0001250409,Class B Common Stock
+A,11/30/2017 00:00:00,COXE TENCH,4,J-Other,--I,75394,1069704,4,0001197647,Class B Common Stock
+D,11/30/2017 00:00:00,COXE TENCH,4,J-Other,--I,8500000,17102128,3,0001197647,Class B Common Stock
+A,11/30/2017 00:00:00,COXE TENCH,4,J-Other,--I,120467,1458191,2,0001197647,Class B Common Stock
+A,11/30/2017 00:00:00,COXE TENCH,4,J-Other,--I,77100,77100,1,0001197647,Class B Common Stock
+D,11/30/2017 00:00:00,WHITE JAMES N,4,J-Other,--I,8500000,17102128,3,0001201720,Class B Common Stock
+A,11/30/2017 00:00:00,WHITE JAMES N,4,J-Other,--I,106250,106250,2,0001201720,Class B Common Stock
+A,11/30/2017 00:00:00,WHITE JAMES N,4,J-Other,--I,77100,77100,1,0001201720,Class B Common Stock
+D,11/30/2017 00:00:00,Speiser Michael L,4,J-Other,--I,8500000,17102128,3,0001433644,Class B Common Stock
+A,11/30/2017 00:00:00,Speiser Michael L,4,J-Other,--I,1020000,1020000,2,0001433644,Class B Common Stock
+A,11/30/2017 00:00:00,Speiser Michael L,4,J-Other,--I,77100,77100,1,0001433644,Class B Common Stock
+D,11/30/2017 00:00:00,Pullara Samuel J III,4,J-Other,--I,8500000,17102128,3,0001561643,Class B Common Stock
+A,11/30/2017 00:00:00,Pullara Samuel J III,4,J-Other,--I,255000,255000,2,0001561643,Class B Common Stock
+A,11/30/2017 00:00:00,Pullara Samuel J III,4,J-Other,--I,77100,77100,1,0001561643,Class B Common Stock
+D,11/30/2017 00:00:00,Dyckerhoff Stefan A,4,J-Other,--I,8500000,17102128,3,0001484394,Class B Common Stock
+A,11/30/2017 00:00:00,Dyckerhoff Stefan A,4,J-Other,--I,255000,255000,2,0001484394,Class B Common Stock
+A,11/30/2017 00:00:00,Dyckerhoff Stefan A,4,J-Other,--I,77100,77100,1,0001484394,Class B Common Stock
+D,11/22/2017 00:00:00,Hatfield David,4,C-Conversion,--D,130000,1123846,5,0001395529,Class B Common Stock
+A,11/22/2017 00:00:00,Hatfield David,4,M-Exempt,--D,43334,1253846,4,0001395529,Class B Common Stock
+D,11/22/2017 00:00:00,Hatfield David,4,M-Exempt,--D,43334,938776,3,0001395529,Stock Option (right to buy)
+D,11/22/2017 00:00:00,Hatfield David,4,S-Sale,--D,130000,183337,2,0001395529,Class A Common Stock
+A,11/22/2017 00:00:00,Hatfield David,4,C-Conversion,--D,130000,313337,1,0001395529,Class A Common Stock
+D,11/20/2017 00:00:00,Hatfield David,4,C-Conversion,--D,70000,1210512,5,0001395529,Class B Common Stock
+A,11/20/2017 00:00:00,Hatfield David,4,M-Exempt,--D,23334,1280512,4,0001395529,Class B Common Stock
+D,11/20/2017 00:00:00,Hatfield David,4,M-Exempt,--D,23334,982110,3,0001395529,Stock Option (right to buy)
+D,11/20/2017 00:00:00,Hatfield David,4,S-Sale,--D,70000,183337,2,0001395529,Class A Common Stock
+A,11/20/2017 00:00:00,Hatfield David,4,C-Conversion,--D,70000,253337,1,0001395529,Class A Common Stock
+D,10/18/2017 00:00:00,Hatfield David,4,C-Conversion,--D,70000,1257178,5,0001395529,Class B Common Stock
+A,10/18/2017 00:00:00,Hatfield David,4,M-Exempt,--D,23334,1327178,4,0001395529,Class B Common Stock
+D,10/18/2017 00:00:00,Hatfield David,4,M-Exempt,--D,23334,1005444,3,0001395529,Stock Option (right to buy)
+D,10/18/2017 00:00:00,Hatfield David,4,S-Sale,--D,70000,183337,2,0001395529,Class A Common Stock
+A,10/18/2017 00:00:00,Hatfield David,4,C-Conversion,--D,70000,253337,1,0001395529,Class A Common Stock
+D,10/13/2017 00:00:00,Slootman Frank,4,G-Gift,-EI,176208,0,1,0001402348,Class A Common Stock
+D,10/06/2017 00:00:00,Colgrove John,4,S-Sale,--D,1853,54017,1,0001651902,Class A Common Stock
+D,10/06/2017 00:00:00,Dietzen Scott,4,S-Sale,--D,1853,111363,1,0001651908,Class A Common Stock
+D,10/06/2017 00:00:00,Hatfield David,4,S-Sale,--D,1853,183337,1,0001395529,Class A Common Stock
+D,10/06/2017 00:00:00,Riitters Timothy,4,S-Sale,--D,15175,262025,1,0001651904,Class A Common Stock
+D,10/02/2017 00:00:00,Riitters Timothy,4,C-Conversion,--D,25000,0,5,0001651904,Class B Common Stock
+A,10/02/2017 00:00:00,Riitters Timothy,4,M-Exempt,--D,25000,25000,4,0001651904,Class B Common Stock
+D,10/02/2017 00:00:00,Riitters Timothy,4,M-Exempt,--D,25000,965000,3,0001651904,Stock Option (right to buy)
+D,10/02/2017 00:00:00,Riitters Timothy,4,S-Sale,--D,25000,277200,2,0001651904,Class A Common Stock
+A,10/02/2017 00:00:00,Riitters Timothy,4,C-Conversion,--D,25000,302200,1,0001651904,Class A Common Stock
+D,09/27/2017 00:00:00,Hatfield David,4,C-Conversion,--D,40000,1303844,5,0001395529,Class B Common Stock
+A,09/27/2017 00:00:00,Hatfield David,4,M-Exempt,--D,13334,1343844,4,0001395529,Class B Common Stock
+D,09/27/2017 00:00:00,Hatfield David,4,M-Exempt,--D,13334,1028778,3,0001395529,Stock Option (right to buy)
+D,09/27/2017 00:00:00,Hatfield David,4,S-Sale,--D,40000,185190,2,0001395529,Class A Common Stock
+A,09/27/2017 00:00:00,Hatfield David,4,C-Conversion,--D,40000,225190,1,0001395529,Class A Common Stock
+D,09/18/2017 00:00:00,Hatfield David,4,C-Conversion,--D,30000,1330510,5,0001395529,Class B Common Stock
+A,09/18/2017 00:00:00,Hatfield David,4,M-Exempt,--D,10000,1360510,4,0001395529,Class B Common Stock
+D,09/18/2017 00:00:00,Hatfield David,4,M-Exempt,--D,10000,1042112,3,0001395529,Stock Option (right to buy)
+D,09/18/2017 00:00:00,Hatfield David,4,S-Sale,--D,30000,185190,2,0001395529,Class A Common Stock
+A,09/18/2017 00:00:00,Hatfield David,4,C-Conversion,--D,30000,215190,1,0001395529,Class A Common Stock
+A,09/11/2017 00:00:00,WHITE JAMES N,5,G-Gift,--I,1200,1200,7,0001201720,Class A Common Stock
+D,09/11/2017 00:00:00,WHITE JAMES N,5,G-Gift,--I,1200,0,2,0001201720,Class A Common Stock
+D,09/08/2017 00:00:00,Riitters Timothy,4,C-Conversion,--D,5000,0,5,0001651904,Class B Common Stock
+A,09/08/2017 00:00:00,Riitters Timothy,4,M-Exempt,--D,5000,5000,4,0001651904,Class B Common Stock
+D,09/08/2017 00:00:00,Riitters Timothy,4,M-Exempt,--D,5000,990000,3,0001651904,Stock Option (right to buy)
+D,09/08/2017 00:00:00,Riitters Timothy,4,S-Sale,--D,5000,277200,2,0001651904,Class A Common Stock
+A,09/08/2017 00:00:00,Riitters Timothy,4,C-Conversion,--D,5000,282200,1,0001651904,Class A Common Stock
+D,09/01/2017 00:00:00,Riitters Timothy,4,C-Conversion,--D,55000,0,5,0001651904,Class B Common Stock
+A,09/01/2017 00:00:00,Riitters Timothy,4,M-Exempt,--D,55000,55000,4,0001651904,Class B Common Stock
+D,09/01/2017 00:00:00,Riitters Timothy,4,M-Exempt,--D,55000,995000,3,0001651904,Stock Option (right to buy)
+D,09/01/2017 00:00:00,Riitters Timothy,4,S-Sale,--D,55000,277200,2,0001651904,Class A Common Stock
+A,09/01/2017 00:00:00,Riitters Timothy,4,C-Conversion,--D,55000,332200,1,0001651904,Class A Common Stock
+A,08/22/2017 00:00:00,Giancarlo Charles H,4,A-Award,--D,500000,500000,3,0001299634,Stock Option (Right to Buy)
+A,08/22/2017 00:00:00,Giancarlo Charles H,4,A-Award,--D,500000,500000,2,0001299634,Stock Option (Right to Buy)
+A,08/22/2017 00:00:00,Giancarlo Charles H,4,A-Award,--D,464745,464745,1,0001299634,Class A Common Stock
+A,08/22/2017 00:00:00,Riitters Timothy,4,A-Award,--D,50000,277200,1,0001651904,Class A Common Stock
+A,08/22/2017 00:00:00,Hatfield David,4,A-Award,--D,100000,185190,1,0001395529,Class A Common Stock
+D,07/06/2017 00:00:00,Riitters Timothy,4,S-Sale,--D,10248,227200,1,0001651904,Class A Common Stock
+D,07/06/2017 00:00:00,Hatfield David,4,S-Sale,--D,1844,85190,1,0001395529,Class A Common Stock
+D,07/06/2017 00:00:00,Dietzen Scott,4,S-Sale,--D,1843,113216,1,0001651908,Class A Common Stock
+D,07/06/2017 00:00:00,Colgrove John,4,S-Sale,--D,1826,55870,1,0001651902,Class A Common Stock
+D,06/22/2017 00:00:00,Riitters Timothy,4,S-Sale,--D,5000,237448,2,0001651904,Class A Common Stock
+D,06/22/2017 00:00:00,Volpi Michelangelo,4,S-Sale,--I,446,0,5,0001626464,Class A Common Stock
+D,06/22/2017 00:00:00,Volpi Michelangelo,4,S-Sale,--I,22950,0,4,0001626464,Class A Common Stock
+D,06/22/2017 00:00:00,Volpi Michelangelo,4,S-Sale,--I,11642,0,3,0001626464,Class A Common Stock
+D,06/22/2017 00:00:00,Volpi Michelangelo,4,S-Sale,--I,172,0,2,0001626464,Class A Common Stock
+D,06/22/2017 00:00:00,Volpi Michelangelo,4,S-Sale,--I,463,0,1,0001626464,Class A Common Stock
+D,06/21/2017 00:00:00,Riitters Timothy,4,S-Sale,--D,3255,242448,1,0001651904,Class A Common Stock
+D,06/21/2017 00:00:00,Volpi Michelangelo,4,S-Sale,--I,5156,446,5,0001626464,Class A Common Stock
+D,06/21/2017 00:00:00,Volpi Michelangelo,4,S-Sale,--I,265388,22950,4,0001626464,Class A Common Stock
+D,06/21/2017 00:00:00,Volpi Michelangelo,4,S-Sale,--I,134623,11642,3,0001626464,Class A Common Stock
+D,06/21/2017 00:00:00,Volpi Michelangelo,4,S-Sale,--I,1990,172,2,0001626464,Class A Common Stock
+D,06/21/2017 00:00:00,Volpi Michelangelo,4,S-Sale,--I,5357,463,1,0001626464,Class A Common Stock
+A,06/20/2017 00:00:00,Speiser Michael L,4,A-Award,--D,15601,15601,1,0001433644,Class A Common Stock
+A,06/20/2017 00:00:00,Slootman Frank,4/A,A-Award,--D,15601,15601,1,0001402348,Class A Common Stock
+A,06/20/2017 00:00:00,BHUSRI ANEEL,4,A-Award,--D,15601,15601,1,0001196579,Class A Common Stock
+A,06/20/2017 00:00:00,GARRETT MARK,4,A-Award,--D,15601,15601,1,0001246215,Class A Common Stock
+A,06/20/2017 00:00:00,Sands Anita M,4,A-Award,--D,15601,15601,1,0001589849,Class A Common Stock
+A,06/20/2017 00:00:00,Slootman Frank,4,A-Award,--D,15601,191809,1,0001402348,Class A Common Stock
+D,06/20/2017 00:00:00,Volpi Michelangelo,4,S-Sale,--I,1450,5602,10,0001626464,Class A Common Stock
+D,06/20/2017 00:00:00,Volpi Michelangelo,4,S-Sale,--I,1506,5820,9,0001626464,Class A Common Stock
+D,06/20/2017 00:00:00,Volpi Michelangelo,4,S-Sale,--I,74600,288338,8,0001626464,Class A Common Stock
+D,06/20/2017 00:00:00,Volpi Michelangelo,4,S-Sale,--I,559,2162,7,0001626464,Class A Common Stock
+D,06/20/2017 00:00:00,Volpi Michelangelo,4,S-Sale,--I,37842,146265,6,0001626464,Class A Common Stock

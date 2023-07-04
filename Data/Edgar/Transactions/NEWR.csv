@@ -1,0 +1,1921 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/16/2023 00:00:00,Dodds Mark,4,S-Sale,--D,9008,13143,1,0001951035,Common Stock
+A,06/15/2023 00:00:00,Dodds Mark,4,A-Award,--D,20685,20685,2,0001951035,Restricted Stock Units
+A,06/15/2023 00:00:00,Friedrichs Kristy,4,A-Award,--D,13790,13790,1,0001869545,Restricted Stock Units
+A,06/15/2023 00:00:00,Barter David,4,A-Award,--D,37578,37578,1,0001706672,Restricted Stock Units
+A,06/15/2023 00:00:00,Lloyd Thomas J.,4,A-Award,--D,18617,18617,1,0001941754,Restricted Stock Units
+A,06/15/2023 00:00:00,Staples William,4,A-Award,--D,65502,65502,1,0001801655,Restricted Stock Units
+D,06/06/2023 00:00:00,Cirne Lewis,4,S-Sale,--I,15000,5115958,1,0001623920,Common Stock
+D,05/18/2023 00:00:00,Friedrichs Kristy,4,S-Sale,--D,300,15698,2,0001869545,Common Stock
+D,05/18/2023 00:00:00,Friedrichs Kristy,4,S-Sale,--D,2373,15998,1,0001869545,Common Stock
+D,05/18/2023 00:00:00,Lloyd Thomas J.,4,S-Sale,--D,120,5214,2,0001941754,Common Stock
+D,05/18/2023 00:00:00,Lloyd Thomas J.,4,S-Sale,--D,959,5334,1,0001941754,Common Stock
+D,05/16/2023 00:00:00,Lloyd Thomas J.,4/A,S-Sale,--D,1621,6293,1,0001941754,Common Stock
+D,05/16/2023 00:00:00,Barter David,4,S-Sale,--D,2490,20074,2,0001706672,Common Stock
+D,05/16/2023 00:00:00,Dodds Mark,4,S-Sale,--D,2218,22151,2,0001951035,Common Stock
+D,05/16/2023 00:00:00,Staples William,4,S-Sale,--D,6343,112233,4,0001801655,Common Stock
+D,05/16/2023 00:00:00,Friedrichs Kristy,4,S-Sale,--D,3581,18371,6,0001869545,Common Stock
+D,05/16/2023 00:00:00,Lloyd Thomas J.,4,S-Sale,--D,50,5320,9,0001941754,Common Stock
+D,05/16/2023 00:00:00,Lloyd Thomas J.,4,S-Sale,--D,2544,5370,8,0001941754,Common Stock
+D,05/15/2023 00:00:00,Barter David,4,M-Exempt,--D,4974,44760,3,0001706672,Restricted Stock Units
+A,05/15/2023 00:00:00,Barter David,4,M-Exempt,--D,4974,22564,1,0001706672,Common Stock
+D,05/15/2023 00:00:00,Dodds Mark,4,M-Exempt,--D,5582,55825,3,0001951035,Restricted Stock Units
+A,05/15/2023 00:00:00,Dodds Mark,4,M-Exempt,--D,5582,24369,1,0001951035,Common Stock
+D,05/15/2023 00:00:00,Staples William,4,M-Exempt,--D,5815,46524,7,0001801655,Restricted Stock Units
+D,05/15/2023 00:00:00,Staples William,4,M-Exempt,--D,5543,38802,6,0001801655,Restricted Stock Units
+D,05/15/2023 00:00:00,Staples William,4,M-Exempt,--D,2850,8552,5,0001801655,Restricted Stock Units
+A,05/15/2023 00:00:00,Staples William,4,M-Exempt,--D,5815,118576,3,0001801655,Common Stock
+A,05/15/2023 00:00:00,Staples William,4,M-Exempt,--D,5543,112761,2,0001801655,Common Stock
+A,05/15/2023 00:00:00,Staples William,4,M-Exempt,--D,2850,107218,1,0001801655,Common Stock
+D,05/15/2023 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,166,0,2,0001750061,Restricted Stock Units
+A,05/15/2023 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,166,8735,1,0001750061,Common Stock
+D,05/15/2023 00:00:00,Cirne Lewis,4,M-Exempt,--D,2520,20157,3,0001623920,Restricted Stock Units
+A,05/15/2023 00:00:00,Cirne Lewis,4,M-Exempt,--I,2520,5145958,1,0001623920,Common Stock
+D,05/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,2395,19157,11,0001869545,Restricted Stock Units
+D,05/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1176,4705,10,0001869545,Restricted Stock Units
+D,05/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,374,0,9,0001869545,Restricted Stock Units
+D,05/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1689,13505,8,0001869545,Restricted Stock Units
+D,05/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1511,10583,7,0001869545,Restricted Stock Units
+A,05/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,374,21952,5,0001869545,Common Stock
+A,05/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1176,21578,4,0001869545,Common Stock
+A,05/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1511,20402,3,0001869545,Common Stock
+A,05/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1689,18891,2,0001869545,Common Stock
+A,05/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,2395,17202,1,0001869545,Common Stock
+D,05/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,1226,11032,16,0001941754,Restricted Stock Units
+D,05/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,533,4270,15,0001941754,Restricted Stock Units
+D,05/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,256,257,14,0001941754,Restricted Stock Units
+D,05/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,950,7600,13,0001941754,Restricted Stock Units
+D,05/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,412,1647,12,0001941754,Restricted Stock Units
+D,05/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,297,594,11,0001941754,Restricted Stock Units
+D,05/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,105,0,10,0001941754,Restricted Stock Units
+A,05/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,297,7914,7,0001941754,Common Stock
+A,05/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,105,7617,6,0001941754,Common Stock
+A,05/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,1226,7512,5,0001941754,Common Stock
+A,05/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,533,6286,4,0001941754,Common Stock
+A,05/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,256,5753,3,0001941754,Common Stock
+A,05/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,950,5497,2,0001941754,Common Stock
+A,05/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,412,4547,1,0001941754,Common Stock
+D,05/15/2023 00:00:00,Numoto Takeshi,4,M-Exempt,--D,113,0,2,0001899931,Restricted Stock Units
+A,05/15/2023 00:00:00,Numoto Takeshi,4,M-Exempt,--D,113,1829,1,0001899931,Common Stock
+D,05/15/2023 00:00:00,Friedrichs Kristy,4,S-Sale,--D,300,14807,2,0001869545,Common Stock
+D,05/15/2023 00:00:00,Friedrichs Kristy,4,S-Sale,--D,7358,15107,1,0001869545,Common Stock
+D,05/15/2023 00:00:00,Lloyd Thomas J.,4,S-Sale,--D,50,4135,2,0001941754,Common Stock
+D,05/15/2023 00:00:00,Lloyd Thomas J.,4,S-Sale,--D,2544,4185,1,0001941754,Common Stock
+D,05/08/2023 00:00:00,Cirne Lewis,4,S-Sale,--I,3125,5143438,2,0001623920,Common Stock
+D,05/08/2023 00:00:00,Cirne Lewis,4,S-Sale,--I,11875,5146563,1,0001623920,Common Stock
+D,05/03/2023 00:00:00,Lloyd Thomas J.,4,S-Sale,--D,2794,6729,4,0001941754,Common Stock
+D,05/03/2023 00:00:00,Staples William,4,S-Sale,--D,23613,104368,3,0001801655,Common Stock
+D,05/03/2023 00:00:00,Dodds Mark,4,S-Sale,--D,7696,18787,2,0001951035,Common Stock
+D,05/03/2023 00:00:00,Friedrichs Kristy,4,S-Sale,--D,8370,22465,3,0001869545,Common Stock
+D,05/03/2023 00:00:00,Barter David,4,S-Sale,--D,8663,17590,2,0001706672,Common Stock
+A,05/02/2023 00:00:00,Cirne Lewis,4/A,M-Exempt,--I,36852,5143438,2,0001623920,Common Stock
+A,05/02/2023 00:00:00,Cirne Lewis,4/A,M-Exempt,--I,13438,5106586,1,0001623920,Common Stock
+D,05/02/2023 00:00:00,Cirne Lewis,4,M-Exempt,--D,36852,0,5,0001623920,Performance Stock Units
+D,05/02/2023 00:00:00,Cirne Lewis,4,M-Exempt,--D,13438,0,4,0001623920,Performance Stock Units
+A,05/02/2023 00:00:00,Cirne Lewis,4,M-Exempt,--I,36852,5158438,2,0001623920,Common Stock
+A,05/02/2023 00:00:00,Cirne Lewis,4,M-Exempt,--I,13438,5121586,1,0001623920,Common Stock
+D,05/02/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,1149,0,7,0001941754,Performance Stock Units
+D,05/02/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,2728,0,6,0001941754,Performance Stock Units
+D,05/02/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,4104,0,5,0001941754,Performance Stock Units
+A,05/02/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,1149,9523,3,0001941754,Common Stock
+A,05/02/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,2728,8374,2,0001941754,Common Stock
+A,05/02/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,4104,5646,1,0001941754,Common Stock
+D,05/02/2023 00:00:00,Staples William,4,M-Exempt,--D,29563,0,5,0001801655,Performance Stock Units
+D,05/02/2023 00:00:00,Staples William,4,M-Exempt,--D,23259,0,4,0001801655,Performance Stock Units
+A,05/02/2023 00:00:00,Staples William,4,M-Exempt,--D,29563,127981,2,0001801655,Common Stock
+A,05/02/2023 00:00:00,Staples William,4,M-Exempt,--D,23259,98418,1,0001801655,Common Stock
+D,05/02/2023 00:00:00,Dodds Mark,4,M-Exempt,--D,22327,0,3,0001951035,Performance Stock Units
+A,05/02/2023 00:00:00,Dodds Mark,4,M-Exempt,--D,22327,26483,1,0001951035,Common Stock
+D,05/02/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,9003,0,5,0001869545,Performance Stock Units
+D,05/02/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,9577,0,4,0001869545,Performance Stock Units
+A,05/02/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,9003,30835,2,0001869545,Common Stock
+A,05/02/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,9577,21832,1,0001869545,Common Stock
+D,05/02/2023 00:00:00,Barter David,4,M-Exempt,--D,19891,0,3,0001706672,Performance Stock Units
+A,05/02/2023 00:00:00,Barter David,4,M-Exempt,--D,19891,26253,1,0001706672,Common Stock
+A,04/17/2023 00:00:00,Numoto Takeshi,4,A-Award,--D,431,431,1,0001899931,Restricted Stock Units
+A,04/17/2023 00:00:00,DelSanto Anne,4,A-Award,--D,653,653,1,0001770310,Restricted Stock Units
+A,04/17/2023 00:00:00,Bhat Phalachandra,4,A-Award,--D,431,431,1,0001933387,Restricted Stock Units
+A,04/17/2023 00:00:00,HENSHALL DAVID J,4,A-Award,--D,761,761,1,0001176008,Restricted Stock Units
+A,04/17/2023 00:00:00,Watteeuw Carlisle Caroline,4,A-Award,--D,633,633,1,0001750061,Restricted Stock Units
+D,04/06/2023 00:00:00,Cirne Lewis,4,S-Sale,--I,3519,5093148,3,0001623920,Common Stock
+D,04/06/2023 00:00:00,Cirne Lewis,4,S-Sale,--I,9324,5096667,2,0001623920,Common Stock
+D,04/06/2023 00:00:00,Cirne Lewis,4,S-Sale,--I,2157,5105991,1,0001623920,Common Stock
+D,03/07/2023 00:00:00,Cirne Lewis,4,S-Sale,--I,1476,5108148,2,0001623920,Common Stock
+D,03/07/2023 00:00:00,Cirne Lewis,4,S-Sale,--I,13524,5109624,1,0001623920,Common Stock
+D,03/02/2023 00:00:00,Cirne Lewis,4,G-Gift,--I,100000,5123148,1,0001623920,Common Stock
+D,02/21/2023 00:00:00,Lloyd Thomas J.,4,S-Sale,--D,1187,16251,1,0001941754,Common Stock
+D,02/21/2023 00:00:00,Friedrichs Kristy,4,S-Sale,--D,515,12255,2,0001869545,Common Stock
+D,02/21/2023 00:00:00,Friedrichs Kristy,4,S-Sale,--D,2909,12770,1,0001869545,Common Stock
+D,02/17/2023 00:00:00,Friedrichs Kristy,4,S-Sale,--D,368,15679,7,0001869545,Common Stock
+D,02/16/2023 00:00:00,Dodds Mark,4,S-Sale,--D,1426,4156,2,0001951035,Common Stock
+D,02/16/2023 00:00:00,Lloyd Thomas J.,4,S-Sale,--D,1405,17438,8,0001941754,Common Stock
+D,02/16/2023 00:00:00,Staples William,4,S-Sale,--D,4454,75159,4,0001801655,Common Stock
+D,02/16/2023 00:00:00,Friedrichs Kristy,4,S-Sale,--D,2579,16047,6,0001869545,Common Stock
+D,02/16/2023 00:00:00,Barter David,4,S-Sale,--D,1812,6362,2,0001706672,Common Stock
+D,02/15/2023 00:00:00,Dodds Mark,4,M-Exempt,--D,5582,61407,3,0001951035,Restricted Stock Units
+A,02/15/2023 00:00:00,Dodds Mark,4,M-Exempt,--D,5582,5582,1,0001951035,Common Stock
+D,02/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,1226,12258,15,0001941754,Restricted Stock Units
+D,02/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,534,4803,14,0001941754,Restricted Stock Units
+D,02/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,256,513,13,0001941754,Restricted Stock Units
+D,02/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,950,8550,12,0001941754,Restricted Stock Units
+D,02/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,412,2059,11,0001941754,Restricted Stock Units
+D,02/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,296,891,10,0001941754,Restricted Stock Units
+D,02/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,105,105,9,0001941754,Restricted Stock Units
+A,02/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,1226,18843,7,0001941754,Common Stock
+A,02/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,534,17617,6,0001941754,Common Stock
+A,02/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,256,17083,5,0001941754,Common Stock
+A,02/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,950,16827,4,0001941754,Common Stock
+A,02/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,412,15877,3,0001941754,Common Stock
+A,02/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,296,15465,2,0001941754,Common Stock
+A,02/15/2023 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,105,15169,1,0001941754,Common Stock
+D,02/15/2023 00:00:00,Staples William,4,M-Exempt,--D,5816,52339,7,0001801655,Restricted Stock Units
+D,02/15/2023 00:00:00,Staples William,4,M-Exempt,--D,5543,44345,6,0001801655,Restricted Stock Units
+D,02/15/2023 00:00:00,Staples William,4,M-Exempt,--D,2851,11402,5,0001801655,Restricted Stock Units
+A,02/15/2023 00:00:00,Staples William,4,M-Exempt,--D,5816,79613,3,0001801655,Common Stock
+A,02/15/2023 00:00:00,Staples William,4,M-Exempt,--D,5543,73797,2,0001801655,Common Stock
+A,02/15/2023 00:00:00,Staples William,4,M-Exempt,--D,2851,68254,1,0001801655,Common Stock
+D,02/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,2394,21552,12,0001869545,Restricted Stock Units
+D,02/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1176,5881,11,0001869545,Restricted Stock Units
+D,02/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,374,374,10,0001869545,Restricted Stock Units
+D,02/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1688,15194,9,0001869545,Restricted Stock Units
+D,02/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1512,12094,8,0001869545,Restricted Stock Units
+A,02/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,2394,18626,5,0001869545,Common Stock
+A,02/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1176,16232,4,0001869545,Common Stock
+A,02/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,374,15056,3,0001869545,Common Stock
+A,02/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1688,14682,2,0001869545,Common Stock
+A,02/15/2023 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1512,12994,1,0001869545,Common Stock
+D,02/15/2023 00:00:00,Barter David,4,M-Exempt,--D,4973,49734,3,0001706672,Restricted Stock Units
+A,02/15/2023 00:00:00,Barter David,4,M-Exempt,--D,4973,8174,1,0001706672,Common Stock
+D,02/15/2023 00:00:00,Numoto Takeshi,4,M-Exempt,--D,113,113,2,0001899931,Restricted Stock Units
+A,02/15/2023 00:00:00,Numoto Takeshi,4,M-Exempt,--D,113,1716,1,0001899931,Common Stock
+D,02/15/2023 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,165,166,2,0001750061,Restricted Stock Units
+A,02/15/2023 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,165,8569,1,0001750061,Common Stock
+D,02/15/2023 00:00:00,Cirne Lewis,4,M-Exempt,--D,2520,22677,3,0001623920,Restricted Stock Units
+A,02/15/2023 00:00:00,Cirne Lewis,4,M-Exempt,--I,2520,5223148,1,0001623920,Common Stock
+D,02/08/2023 00:00:00,Friedrichs Kristy,4,S-Sale,--D,873,11114,1,0001869545,Common Stock
+D,02/07/2023 00:00:00,Cirne Lewis,4,S-Sale,--I,480,5220628,3,0001623920,Common Stock
+D,02/07/2023 00:00:00,Cirne Lewis,4,S-Sale,--I,4778,5221108,2,0001623920,Common Stock
+D,02/07/2023 00:00:00,Cirne Lewis,4,S-Sale,--I,9742,5225886,1,0001623920,Common Stock
+A,02/03/2023 00:00:00,Dodds Mark,4,A-Award,--D,50854,50854,1,0001951035,Performance Stock Units
+A,02/03/2023 00:00:00,Lloyd Thomas J.,4,A-Award,--D,50854,50854,1,0001941754,Performance Stock Units
+A,02/03/2023 00:00:00,Staples William,4,A-Award,--D,406830,406830,1,0001801655,Performance Stock Units
+A,02/03/2023 00:00:00,Barter David,4,A-Award,--D,177988,177988,1,0001706672,Performance Stock Units
+D,01/06/2023 00:00:00,Cirne Lewis,4,M-Exempt,--D,25000,0,6,0001623920,Stock Option (Right to Buy)
+D,01/06/2023 00:00:00,Cirne Lewis,4,S-Sale,--D,15979,50477,3,0001623920,Common Stock
+D,01/06/2023 00:00:00,Cirne Lewis,4,S-Sale,--D,9021,66456,2,0001623920,Common Stock
+A,01/06/2023 00:00:00,Cirne Lewis,4,M-Exempt,--D,25000,75477,1,0001623920,Common Stock
+D,12/06/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,25000,7,0001623920,Stock Option (Right to Buy)
+D,12/06/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,473,50477,4,0001623920,Common Stock
+D,12/06/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,6160,50950,3,0001623920,Common Stock
+D,12/06/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,23367,57110,2,0001623920,Common Stock
+A,12/06/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,80477,1,0001623920,Common Stock
+D,11/18/2022 00:00:00,Lloyd Thomas J.,4,S-Sale,--D,2251,14709,1,0001941754,Common Stock
+D,11/18/2022 00:00:00,Friedrichs Kristy,4,S-Sale,--D,2764,11987,1,0001869545,Common Stock
+D,11/16/2022 00:00:00,Lloyd Thomas J.,4,S-Sale,--D,1527,16960,8,0001941754,Common Stock
+D,11/16/2022 00:00:00,Lloyd Thomas J.,4/A,S-Sale,--D,1527,2251,8,0001941754,Common Stock
+D,11/16/2022 00:00:00,Staples William,4,S-Sale,--D,6485,65403,4,0001801655,Common Stock
+D,11/16/2022 00:00:00,Barter David,4,S-Sale,--D,1772,3201,2,0001706672,Restricted Stock Units
+D,11/16/2022 00:00:00,Friedrichs Kristy,4,S-Sale,--D,3653,14751,6,0001869545,Common Stock
+D,11/15/2022 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,1225,13484,15,0001941754,Restricted Stock Units
+D,11/15/2022 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,534,5337,14,0001941754,Restricted Stock Units
+D,11/15/2022 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,256,769,13,0001941754,Restricted Stock Units
+D,11/15/2022 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,950,9500,12,0001941754,Restricted Stock Units
+D,11/15/2022 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,411,2471,11,0001941754,Restricted Stock Units
+D,11/15/2022 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,297,1187,10,0001941754,Restricted Stock Units
+D,11/15/2022 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,105,210,9,0001941754,Restricted Stock Units
+A,11/15/2022 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,1225,18487,7,0001941754,Common Stock
+A,11/15/2022 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,534,17262,6,0001941754,Common Stock
+A,11/15/2022 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,256,16728,5,0001941754,Common Stock
+A,11/15/2022 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,950,16472,4,0001941754,Common Stock
+A,11/15/2022 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,411,15522,3,0001941754,Common Stock
+A,11/15/2022 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,297,15111,2,0001941754,Common Stock
+A,11/15/2022 00:00:00,Lloyd Thomas J.,4,M-Exempt,--D,105,14814,1,0001941754,Common Stock
+D,11/15/2022 00:00:00,Numoto Takeshi,4,M-Exempt,--D,113,226,2,0001899931,Restricted Stock Units
+A,11/15/2022 00:00:00,Numoto Takeshi,4,M-Exempt,--D,113,1603,1,0001899931,Common Stock
+D,11/15/2022 00:00:00,Lloyd Thomas J.,4/A,M-Exempt,--D,1225,13484,15,0001941754,Restricted Stock Units
+D,11/15/2022 00:00:00,Lloyd Thomas J.,4/A,M-Exempt,--D,534,5337,14,0001941754,Restricted Stock Units
+D,11/15/2022 00:00:00,Lloyd Thomas J.,4/A,M-Exempt,--D,256,769,13,0001941754,Restricted Stock Units
+D,11/15/2022 00:00:00,Lloyd Thomas J.,4/A,M-Exempt,--D,950,9500,12,0001941754,Restricted Stock Units
+D,11/15/2022 00:00:00,Lloyd Thomas J.,4/A,M-Exempt,--D,411,2471,11,0001941754,Restricted Stock Units
+D,11/15/2022 00:00:00,Lloyd Thomas J.,4/A,M-Exempt,--D,297,1187,10,0001941754,Restricted Stock Units
+D,11/15/2022 00:00:00,Lloyd Thomas J.,4/A,M-Exempt,--D,105,210,9,0001941754,Restricted Stock Units
+A,11/15/2022 00:00:00,Lloyd Thomas J.,4/A,M-Exempt,--D,1225,3778,7,0001941754,Common Stock
+A,11/15/2022 00:00:00,Lloyd Thomas J.,4/A,M-Exempt,--D,534,2553,6,0001941754,Common Stock
+A,11/15/2022 00:00:00,Lloyd Thomas J.,4/A,M-Exempt,--D,256,2019,5,0001941754,Common Stock
+A,11/15/2022 00:00:00,Lloyd Thomas J.,4/A,M-Exempt,--D,950,1763,4,0001941754,Common Stock
+A,11/15/2022 00:00:00,Lloyd Thomas J.,4/A,M-Exempt,--D,411,813,3,0001941754,Common Stock
+A,11/15/2022 00:00:00,Lloyd Thomas J.,4/A,M-Exempt,--D,297,402,2,0001941754,Common Stock
+A,11/15/2022 00:00:00,Lloyd Thomas J.,4/A,M-Exempt,--D,105,105,1,0001941754,Common Stock
+D,11/15/2022 00:00:00,Staples William,4,M-Exempt,--D,5815,58155,7,0001801655,Restricted Stock Units
+D,11/15/2022 00:00:00,Staples William,4,M-Exempt,--D,5543,49888,6,0001801655,Restricted Stock Units
+D,11/15/2022 00:00:00,Staples William,4,M-Exempt,--D,2850,14253,5,0001801655,Restricted Stock Units
+A,11/15/2022 00:00:00,Staples William,4,M-Exempt,--D,5815,71888,3,0001801655,Common Stock
+A,11/15/2022 00:00:00,Staples William,4,M-Exempt,--D,5543,66073,2,0001801655,Common Stock
+A,11/15/2022 00:00:00,Staples William,4,M-Exempt,--D,2850,60530,1,0001801655,Common Stock
+D,11/15/2022 00:00:00,Barter David,4,M-Exempt,--D,4973,54707,3,0001706672,Restricted Stock Units
+A,11/15/2022 00:00:00,Barter David,4,M-Exempt,--D,4973,4973,1,0001706672,Restricted Stock Units
+D,11/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,2395,23946,11,0001869545,Restricted Stock Units
+D,11/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1176,7057,10,0001869545,Restricted Stock Units
+D,11/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,374,748,9,0001869545,Restricted Stock Units
+D,11/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1688,16882,8,0001869545,Restricted Stock Units
+D,11/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1512,13606,7,0001869545,Restricted Stock Units
+A,11/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,2395,18404,5,0001869545,Common Stock
+A,11/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1176,16009,4,0001869545,Common Stock
+A,11/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,374,14833,3,0001869545,Common Stock
+A,11/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1688,14459,2,0001869545,Common Stock
+A,11/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1512,12771,1,0001869545,Common Stock
+D,11/15/2022 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,166,331,2,0001750061,Restricted Stock Units
+A,11/15/2022 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,166,8404,1,0001750061,Common Stock
+D,11/15/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,2519,25197,4,0001623920,Restricted Stock Units
+A,11/15/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,2519,50477,1,0001623920,Common Stock
+D,11/15/2022 00:00:00,JANA PARTNERS LLC,4,S-Sale,--D,253249,3212444,2,0001159159,Common Stock
+D,11/15/2022 00:00:00,JANA PARTNERS LLC,4,S-Sale,--D,64239,3465693,1,0001159159,"Common Stock, par value $0.001 per share (""Common Stock"")"
+D,11/11/2022 00:00:00,Mahendran Radhakrishnan,4,S-Sale,--I,200000,5059021,1,0001869546,Common Stock
+D,11/07/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,55000,7,0001623920,Stock Option (Right to Buy)
+D,11/07/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,500,47958,4,0001623920,Common Stock
+D,11/07/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,3729,48458,3,0001623920,Common Stock
+D,11/07/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,25771,52187,2,0001623920,Common Stock
+A,11/07/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,77958,1,0001623920,Common Stock
+A,10/18/2022 00:00:00,Dodds Mark,4,A-Award,--D,66989,66989,1,0001951035,Restricted Stock Units
+D,10/06/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,85000,6,0001623920,Stock Option (Right to Buy)
+D,10/06/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,2300,47958,3,0001623920,Common Stock
+D,10/06/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,27700,50258,2,0001623920,Common Stock
+A,10/06/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,77958,1,0001623920,Common Stock
+D,09/07/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,115000,7,0001623920,Stock Option (Right to Buy)
+D,09/07/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,9562,47958,5,0001623920,Common Stock
+D,09/07/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,12143,57520,4,0001623920,Common Stock
+D,09/07/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,8295,69663,3,0001623920,Common Stock
+A,09/07/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,77958,2,0001623920,Common Stock
+D,08/24/2022 00:00:00,Cirne Lewis,4,G-Gift,-EI,76000,5385151,1,0001623920,Common Stock
+D,08/18/2022 00:00:00,Friedrichs Kristy,4,S-Sale,--D,2767,11259,1,0001869545,Common Stock
+D,08/18/2022 00:00:00,Lloyd Thomas J.,4,S-Sale,--D,1730,0,2,0001941754,Common Stock
+A,08/17/2022 00:00:00,Bhat Phalachandra,4,A-Award,--D,2982,2982,1,0001933387,Restricted Stock Units
+A,08/17/2022 00:00:00,Numoto Takeshi,4,A-Award,--D,2982,2982,1,0001899931,Restricted Stock Units
+A,08/17/2022 00:00:00,HENSHALL DAVID J,4,A-Award,--D,2982,2982,1,0001176008,Restricted Stock Units
+A,08/17/2022 00:00:00,Mahendran Radhakrishnan,4,A-Award,--D,2982,2982,1,0001869546,Restricted Stock Units
+A,08/17/2022 00:00:00,Cochran Hope F,4,A-Award,--D,2982,2982,1,0001392352,Restricted Stock Units
+A,08/17/2022 00:00:00,Watteeuw Carlisle Caroline,4,A-Award,--D,2982,2982,1,0001750061,Restricted Stock Units
+A,08/17/2022 00:00:00,DelSanto Anne,4,A-Award,--D,2982,2982,1,0001770310,Restricted Stock Units
+A,08/17/2022 00:00:00,Arthur Susan Donner,4,A-Award,--D,2982,2982,1,0001815200,Restricted Stock Units
+D,08/17/2022 00:00:00,Lloyd Thomas J.,4,S-Sale,--D,18,1730,1,0001941754,Common Stock
+A,08/17/2022 00:00:00,Barter David,4,A-Award,--D,59680,59680,1,0001706672,Restricted Stock Units
+A,08/17/2022 00:00:00,JANA PARTNERS LLC,4,A-Award,--I,2982,2982,1,0001159159,Restricted Stock Units
+D,08/16/2022 00:00:00,Staples William,4,S-Sale,--D,2800,57680,5,0001801655,Common Stock
+D,08/16/2022 00:00:00,Staples William,4,S-Sale,--D,3612,60480,4,0001801655,Common Stock
+D,08/16/2022 00:00:00,Friedrichs Kristy,4,S-Sale,--D,1550,14026,8,0001869545,Common Stock
+D,08/16/2022 00:00:00,Friedrichs Kristy,4,S-Sale,--D,2183,15576,7,0001869545,Common Stock
+A,08/16/2022 00:00:00,Sachleben Mark,4,G-Gift,-EI,4760,412086,9,0001623944,Common Stock
+D,08/16/2022 00:00:00,Sachleben Mark,4,G-Gift,-ED,4760,0,8,0001623944,Common Stock
+D,08/16/2022 00:00:00,Sachleben Mark,4,S-Sale,--D,2000,4760,7,0001623944,Common Stock
+D,08/16/2022 00:00:00,Sachleben Mark,4,S-Sale,--D,2868,6760,6,0001623944,Common Stock
+D,08/16/2022 00:00:00,Hurn Steve,4,S-Sale,--D,1250,29812,5,0001862113,Common Stock
+D,08/16/2022 00:00:00,Hurn Steve,4,S-Sale,--D,1682,31062,4,0001862113,Common Stock
+D,08/15/2022 00:00:00,Bhat Phalachandra,4,M-Exempt,--D,814,0,2,0001933387,Restricted Stock Units
+A,08/15/2022 00:00:00,Bhat Phalachandra,4,M-Exempt,--D,814,814,1,0001933387,Common Stock
+D,08/15/2022 00:00:00,Numoto Takeshi,4,M-Exempt,--D,1378,0,4,0001899931,Restricted Stock Units
+D,08/15/2022 00:00:00,Numoto Takeshi,4,M-Exempt,--D,112,339,3,0001899931,Restricted Stock Units
+A,08/15/2022 00:00:00,Numoto Takeshi,4,M-Exempt,--D,1378,1490,2,0001899931,Common Stock
+A,08/15/2022 00:00:00,Numoto Takeshi,4,M-Exempt,--D,112,112,1,0001899931,Common Stock
+D,08/15/2022 00:00:00,Arthur Susan Donner,4/A,M-Exempt,--D,814,0,2,0001815200,Restricted Stock Units
+A,08/15/2022 00:00:00,Arthur Susan Donner,4/A,M-Exempt,--D,814,3814,1,0001815200,Common Stock
+D,08/15/2022 00:00:00,Staples William,4,M-Exempt,--D,5815,63970,8,0001801655,Common Stock
+D,08/15/2022 00:00:00,Staples William,4,M-Exempt,--D,5543,55431,7,0001801655,Restricted Stock Units
+D,08/15/2022 00:00:00,Staples William,4,M-Exempt,--D,2851,17103,6,0001801655,Restricted Stock Units
+A,08/15/2022 00:00:00,Staples William,4,M-Exempt,--D,5815,64092,3,0001801655,Common Stock
+A,08/15/2022 00:00:00,Staples William,4,M-Exempt,--D,5543,58277,2,0001801655,Common Stock
+A,08/15/2022 00:00:00,Staples William,4,M-Exempt,--D,2851,52734,1,0001801655,Common Stock
+D,08/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,2394,26341,14,0001869545,Restricted Stock Units
+D,08/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1176,8233,13,0001869545,Restricted Stock Units
+D,08/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,373,1122,12,0001869545,Restricted Stock Units
+D,08/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,236,0,11,0001869545,Restricted Stock Units
+D,08/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1688,18570,10,0001869545,Restricted Stock Units
+D,08/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1512,15118,9,0001869545,Restricted Stock Units
+A,08/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,2394,17759,6,0001869545,Common Stock
+A,08/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1176,15365,5,0001869545,Common Stock
+A,08/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,373,14189,4,0001869545,Common Stock
+A,08/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,236,13816,3,0001869545,Common Stock
+A,08/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1688,13580,2,0001869545,Common Stock
+A,08/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1512,11892,1,0001869545,Common Stock
+D,08/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,4105,12315,14,0001623944,Restricted Stock Units
+D,08/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,2268,24944,13,0001623944,Restricted Stock Units
+D,08/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,1999,13996,12,0001623944,Restricted Stock Units
+D,08/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,1995,11,0001623944,Restricted Stock Units
+D,08/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,590,0,10,0001623944,Restricted Stock Units
+A,08/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,4105,9628,5,0001623944,Common Stock
+A,08/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,2268,5523,4,0001623944,Common Stock
+A,08/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,1999,3255,3,0001623944,Common Stock
+A,08/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,1256,2,0001623944,Common Stock
+A,08/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,590,591,1,0001623944,Common Stock
+D,08/15/2022 00:00:00,Hurn Steve,4,M-Exempt,--D,1710,18815,8,0001862113,Restricted Stock Units
+D,08/15/2022 00:00:00,Hurn Steve,4,M-Exempt,--D,1764,17638,7,0001862113,Restricted Stock Units
+D,08/15/2022 00:00:00,Hurn Steve,4,M-Exempt,--D,2646,18524,6,0001862113,Restricted Stock Units
+A,08/15/2022 00:00:00,Hurn Steve,4,M-Exempt,--D,1710,32744,3,0001862113,Common Stock
+A,08/15/2022 00:00:00,Hurn Steve,4,M-Exempt,--D,1764,31034,2,0001862113,Common Stock
+A,08/15/2022 00:00:00,Hurn Steve,4,M-Exempt,--D,2646,29270,1,0001862113,Common Stock
+D,08/15/2022 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,2640,0,4,0001750061,Restricted Stock Units
+D,08/15/2022 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,165,497,3,0001750061,Restricted Stock Units
+A,08/15/2022 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,2640,8238,2,0001750061,Common Stock
+A,08/15/2022 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,165,5598,1,0001750061,Common Stock
+D,08/15/2022 00:00:00,Mahendran Radhakrishnan,4,M-Exempt,--D,2640,0,2,0001869546,Restricted Stock Units
+A,08/15/2022 00:00:00,Mahendran Radhakrishnan,4,M-Exempt,--D,2640,3079,1,0001869546,Common Stock
+D,08/15/2022 00:00:00,HENSHALL DAVID J,4,M-Exempt,--D,2640,0,2,0001176008,Restricted Stock Units
+A,08/15/2022 00:00:00,HENSHALL DAVID J,4,M-Exempt,--D,2640,8974,1,0001176008,Common Stock
+D,08/15/2022 00:00:00,Cochran Hope F,4,M-Exempt,--D,2640,0,2,0001392352,Restricted Stock Units
+A,08/15/2022 00:00:00,Cochran Hope F,4,M-Exempt,--D,2640,7058,1,0001392352,Common Stock
+D,08/15/2022 00:00:00,Arthur Susan Donner,4,M-Exempt,--D,814,0,2,0001815200,Restricted Stock Units
+A,08/15/2022 00:00:00,Arthur Susan Donner,4,M-Exempt,--D,814,814,1,0001815200,Common Stock
+D,08/15/2022 00:00:00,DelSanto Anne,4,M-Exempt,--D,2640,0,2,0001770310,Restricted Stock Units
+A,08/15/2022 00:00:00,DelSanto Anne,4,M-Exempt,--D,2640,4224,1,0001770310,Restricted Stock Units
+D,08/15/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,2520,27716,4,0001623920,Restricted Stock Units
+A,08/15/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,2520,47958,1,0001623920,Common Stock
+D,08/15/2022 00:00:00,JANA PARTNERS LLC,4,M-Exempt,--I,814,0,2,0001159159,Restricted Stock Units
+A,08/15/2022 00:00:00,JANA PARTNERS LLC,4,M-Exempt,--D,814,3529932,1,0001159159,"Common Stock, par value $0.001 per share"
+D,08/10/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,13590,0,3,0001869545,Stock Option (Right to Buy)
+D,08/10/2022 00:00:00,Friedrichs Kristy,4,S-Sale,--D,13590,9439,2,0001869545,Common Stock
+A,08/10/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,13590,23029,1,0001869545,Common Stock
+D,08/08/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,145000,8,0001623920,Stock Option (Right to Buy)
+D,08/08/2022 00:00:00,Cirne Lewis,4,S-Sale,--I,400,5461151,6,0001623920,Common Stock
+D,08/08/2022 00:00:00,Cirne Lewis,4,S-Sale,--I,3600,5461551,5,0001623920,Common Stock
+D,08/08/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,2140,45438,4,0001623920,Common Stock
+D,08/08/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,8754,47578,3,0001623920,Common Stock
+D,08/08/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,19106,56332,2,0001623920,Common Stock
+A,08/08/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,75438,1,0001623920,Common Stock
+D,07/06/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,175000,6,0001623920,Stock Option (Right to Buy)
+D,07/06/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,2300,45438,3,0001623920,Common Stock
+D,07/06/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,27700,47738,2,0001623920,Common Stock
+A,07/06/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,75438,1,0001623920,Common Stock
+D,06/13/2022 00:00:00,Messinger Adam,4,M-Exempt,--D,2640,0,2,0001624030,Restricted Stock Units
+A,06/13/2022 00:00:00,Messinger Adam,4,M-Exempt,--D,2640,48372,1,0001624030,Common Stock
+D,06/13/2022 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,209,628,4,0001217124,Restricted Stock Units
+D,06/13/2022 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,2640,0,3,0001217124,Restricted Stock Units
+A,06/13/2022 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,209,15116,2,0001217124,Common Stock
+A,06/13/2022 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,2640,14907,1,0001217124,Common Stock
+D,06/13/2022 00:00:00,Scholnick Dan,4,M-Exempt,--D,147,444,4,0001606272,Restricted Stock Units
+D,06/13/2022 00:00:00,Scholnick Dan,4,M-Exempt,--D,2640,0,3,0001606272,Restricted Stock Units
+A,06/13/2022 00:00:00,Scholnick Dan,4,M-Exempt,--D,147,40942,2,0001606272,Common Stock
+A,06/13/2022 00:00:00,Scholnick Dan,4,M-Exempt,--D,2640,40795,1,0001606272,Common Stock
+A,06/13/2022 00:00:00,Bhat Phalachandra,4,A-Award,--D,814,814,1,0001933387,Restricted Stock Units
+A,06/13/2022 00:00:00,Arthur Susan Donner,4,A-Award,--D,814,814,1,0001815200,Restricted Stock Units
+A,06/13/2022 00:00:00,JANA PARTNERS LLC,4,A-Award,--I,814,814,1,0001159159,Restricted Stock Units
+D,06/07/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,205000,8,0001623920,Stock Option (Right to Buy)
+D,06/07/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,4300,45438,5,0001623920,Common Stock
+D,06/07/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,23300,49738,4,0001623920,Common Stock
+D,06/07/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,1805,73038,3,0001623920,Common Stock
+D,06/07/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,595,74843,2,0001623920,Common Stock
+A,06/07/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,75438,1,0001623920,Common Stock
+D,05/20/2022 00:00:00,Cirne Lewis,4/A,S-Sale,--I,0,5465151,2,0001623920,Common Stock
+D,05/20/2022 00:00:00,Cirne Lewis,4/A,S-Sale,--I,0,5465151,1,0001623920,Common Stock
+D,05/20/2022 00:00:00,Cirne Lewis,4,S-Sale,--I,892,5463151,2,0001623920,Common Stock
+D,05/20/2022 00:00:00,Cirne Lewis,4,S-Sale,--I,1108,5464043,1,0001623920,Common Stock
+D,05/19/2022 00:00:00,Friedrichs Kristy,4,S-Sale,--D,2321,9439,1,0001869545,Common Stock
+A,05/16/2022 00:00:00,Friedrichs Kristy,4/A,A-Award,--D,28735,28735,13,0001869545,Restricted Stock Units
+D,05/16/2022 00:00:00,Friedrichs Kristy,4/A,S-Sale,--D,15,12701,7,0001869545,Common Stock
+D,05/16/2022 00:00:00,Friedrichs Kristy,4/A,S-Sale,--D,2650,12716,6,0001869545,Common Stock
+A,05/16/2022 00:00:00,Friedrichs Kristy,4,A-Award,--D,28735,28735,13,0001869545,Restricted Stock Units
+D,05/16/2022 00:00:00,Friedrichs Kristy,4,S-Sale,--D,15,11760,7,0001869545,Common Stock
+D,05/16/2022 00:00:00,Friedrichs Kristy,4,S-Sale,--D,2650,11775,6,0001869545,Common Stock
+A,05/16/2022 00:00:00,Hurn Steve,4,A-Award,--D,20525,20525,7,0001862113,Restricted Stock Units
+D,05/16/2022 00:00:00,Hurn Steve,4,S-Sale,--D,31,26509,4,0001862113,Common Stock
+D,05/16/2022 00:00:00,Hurn Steve,4,S-Sale,--D,2199,26540,3,0001862113,Common Stock
+A,05/16/2022 00:00:00,Staples William,4,A-Award,--D,69785,69785,7,0001801655,Common Stock
+D,05/16/2022 00:00:00,Staples William,4,S-Sale,--D,2,49883,4,0001801655,Common Stock
+D,05/16/2022 00:00:00,Staples William,4,S-Sale,--D,4000,49885,3,0001801655,Common Stock
+A,05/16/2022 00:00:00,Sachleben Mark,4,A-Award,--D,16420,16420,13,0001623944,Restricted Stock Units
+A,05/16/2022 00:00:00,Sachleben Mark,4,G-Gift,-EI,2572,407326,8,0001623944,Common Stock
+D,05/16/2022 00:00:00,Sachleben Mark,4,G-Gift,-ED,2572,0,7,0001623944,Common Stock
+D,05/16/2022 00:00:00,Sachleben Mark,4,S-Sale,--D,50,2572,6,0001623944,Common Stock
+D,05/16/2022 00:00:00,Sachleben Mark,4,S-Sale,--D,2900,2622,5,0001623944,Common Stock
+D,05/15/2022 00:00:00,Friedrichs Kristy,4/A,M-Exempt,--D,1177,9409,12,0001869545,Restricted Stock Units
+D,05/15/2022 00:00:00,Friedrichs Kristy,4/A,M-Exempt,--D,374,1495,11,0001869545,Restricted Stock Units
+D,05/15/2022 00:00:00,Friedrichs Kristy,4/A,M-Exempt,--D,236,236,10,0001869545,Restricted Stock Units
+D,05/15/2022 00:00:00,Friedrichs Kristy,4/A,M-Exempt,--D,1688,20258,9,0001869545,Restricted Stock Units
+D,05/15/2022 00:00:00,Friedrichs Kristy,4/A,M-Exempt,--D,1511,16630,8,0001869545,Restricted Stock Units
+A,05/15/2022 00:00:00,Friedrichs Kristy,4/A,M-Exempt,--D,1177,15366,5,0001869545,Common Stock
+A,05/15/2022 00:00:00,Friedrichs Kristy,4/A,M-Exempt,--D,374,14189,4,0001869545,Common Stock
+A,05/15/2022 00:00:00,Friedrichs Kristy,4/A,M-Exempt,--D,236,13815,3,0001869545,Common Stock
+A,05/15/2022 00:00:00,Friedrichs Kristy,4/A,M-Exempt,--D,1688,13579,2,0001869545,Common Stock
+A,05/15/2022 00:00:00,Friedrichs Kristy,4/A,M-Exempt,--D,1511,11891,1,0001869545,Common Stock
+D,05/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1177,9409,12,0001869545,Restricted Stock Units
+D,05/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,374,1495,11,0001869545,Restricted Stock Units
+D,05/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,236,236,10,0001869545,Restricted Stock Units
+D,05/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1688,20258,9,0001869545,Restricted Stock Units
+D,05/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1511,16630,8,0001869545,Restricted Stock Units
+A,05/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,236,14425,5,0001869545,Common Stock
+A,05/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,374,14189,4,0001869545,Common Stock
+A,05/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,236,13815,3,0001869545,Common Stock
+A,05/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1688,13579,2,0001869545,Common Stock
+A,05/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1511,11891,1,0001869545,Common Stock
+D,05/15/2022 00:00:00,Hurn Steve,4,M-Exempt,--D,1763,19402,6,0001862113,Restricted Stock Units
+D,05/15/2022 00:00:00,Hurn Steve,4,M-Exempt,--D,2647,21170,5,0001862113,Restricted Stock Units
+A,05/15/2022 00:00:00,Hurn Steve,4,M-Exempt,--D,1763,28739,2,0001862113,Common Stock
+A,05/15/2022 00:00:00,Hurn Steve,4,M-Exempt,--D,2647,26976,1,0001862113,Common Stock
+D,05/15/2022 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,177,0,2,0001750061,Restricted Stock Units
+A,05/15/2022 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,177,5433,1,0001750061,Common Stock
+D,05/15/2022 00:00:00,Staples William,4,M-Exempt,--D,5543,60974,6,0001801655,Restricted Stock Units
+D,05/15/2022 00:00:00,Staples William,4,M-Exempt,--D,2850,19954,5,0001801655,Restricted Stock Units
+A,05/15/2022 00:00:00,Staples William,4,M-Exempt,--D,5543,53885,2,0001801655,Common Stock
+A,05/15/2022 00:00:00,Staples William,4,M-Exempt,--D,2850,48342,1,0001801655,Common Stock
+D,05/15/2022 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,212,0,2,0001217124,Restricted Stock Units
+A,05/15/2022 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,212,12267,1,0001217124,Common Stock
+D,05/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,2268,27212,12,0001623944,Restricted Stock Units
+D,05/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,2000,15995,11,0001623944,Restricted Stock Units
+D,05/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,2660,10,0001623944,Restricted Stock Units
+D,05/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,590,9,0001623944,Restricted Stock Units
+A,05/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,2268,5522,4,0001623944,Common Stock
+A,05/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,2000,3254,3,0001623944,Common Stock
+A,05/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,1254,2,0001623944,Common Stock
+A,05/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,589,1,0001623944,Common Stock
+D,05/15/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,2520,30236,4,0001623920,Restricted Stock Units
+A,05/15/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,2520,45438,1,0001623920,Common Stock
+D,05/06/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,235000,8,0001623920,Stock Option (Right to Buy)
+D,05/06/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,1300,42918,5,0001623920,Common Stock
+D,05/06/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,8900,44218,4,0001623920,Common Stock
+D,05/06/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,13079,53118,3,0001623920,Common Stock
+D,05/06/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,6721,66197,2,0001623920,Common Stock
+A,05/06/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,72918,1,0001623920,Common Stock
+D,04/20/2022 00:00:00,Friedrichs Kristy,4,S-Sale,--D,3472,10380,2,0001869545,Common Stock
+D,04/20/2022 00:00:00,Hurn Steve,4,S-Sale,--D,4642,24329,2,0001862113,Common Stock
+D,04/20/2022 00:00:00,Staples William,4,S-Sale,--D,13175,45492,2,0001801655,Common Stock
+A,04/20/2022 00:00:00,Sachleben Mark,4,G-Gift,-EI,16524,404754,5,0001623944,Common Stock
+D,04/20/2022 00:00:00,Sachleben Mark,4,G-Gift,-ED,16524,0,4,0001623944,Common Stock
+D,04/20/2022 00:00:00,Sachleben Mark,4,S-Sale,--D,15616,16524,3,0001623944,Common Stock
+D,04/19/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,9003,0,3,0001869545,Performance Stock Units
+A,04/19/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,9003,13852,1,0001869545,Common Stock
+D,04/19/2022 00:00:00,Hurn Steve,4,M-Exempt,--D,9406,0,3,0001862113,Performance Stock Units
+A,04/19/2022 00:00:00,Hurn Steve,4,M-Exempt,--D,9406,28971,1,0001862113,Common Stock
+D,04/19/2022 00:00:00,Staples William,4,M-Exempt,--D,29563,0,3,0001801655,Performance Stock Units
+A,04/19/2022 00:00:00,Staples William,4,M-Exempt,--D,29563,58667,1,0001801655,Common Stock
+D,04/19/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,20046,0,7,0001623944,Performance Stock Units
+D,04/19/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,12094,0,6,0001623944,Performance Stock Units
+A,04/19/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,20046,32140,2,0001623944,Common Stock
+A,04/19/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,12094,12094,1,0001623944,Common Stock
+D,04/19/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,29480,0,6,0001623920,Performance Stock Units
+D,04/19/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,13438,0,5,0001623920,Performance Stock Units
+A,04/19/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,29480,42918,2,0001623920,Common Stock
+A,04/19/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,13438,13438,1,0001623920,Common Stock
+A,04/18/2022 00:00:00,Numoto Takeshi,4/A,A-Award,--D,451,451,1,0001899931,Restricted Stock Units
+A,04/18/2022 00:00:00,Watteeuw Carlisle Caroline,4/A,A-Award,--D,662,662,1,0001750061,Restricted Stock Units
+A,04/18/2022 00:00:00,Scholnick Dan,4/A,A-Award,--D,591,591,1,0001606272,Restricted Stock Units
+A,04/18/2022 00:00:00,TOLONEN JAMES R,4/A,A-Award,--D,837,837,1,0001217124,Restricted Stock Units
+A,04/18/2022 00:00:00,Numoto Takeshi,4,A-Award,--D,423,423,1,0001899931,Restricted Stock Units
+A,04/18/2022 00:00:00,Scholnick Dan,4,A-Award,--D,563,563,1,0001606272,Restricted Stock Units
+A,04/18/2022 00:00:00,Watteeuw Carlisle Caroline,4,A-Award,--D,634,634,1,0001750061,Restricted Stock Units
+A,04/18/2022 00:00:00,TOLONEN JAMES R,4,A-Award,--D,809,809,1,0001217124,Restricted Stock Units
+D,04/06/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,265000,6,0001623920,Stock Option (Right to Buy)
+D,04/06/2022 00:00:00,Cirne Lewis,4,S-Sale,--I,2000,5465151,4,0001623920,Common Stock
+D,04/06/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,6600,0,3,0001623920,Common Stock
+D,04/06/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,23400,6600,2,0001623920,Common Stock
+A,04/06/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,30000,1,0001623920,Common Stock
+D,03/07/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,295000,7,0001623920,Stock Option (Right to Buy)
+D,03/07/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,1900,0,4,0001623920,Common Stock
+D,03/07/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,10375,1900,3,0001623920,Common Stock
+D,03/07/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,17725,12275,2,0001623920,Common Stock
+A,03/07/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,30000,1,0001623920,Common Stock
+D,02/18/2022 00:00:00,Friedrichs Kristy,4,S-Sale,--D,250,4849,3,0001869545,Common Stock
+D,02/18/2022 00:00:00,Friedrichs Kristy,4,S-Sale,--D,2922,5099,2,0001869545,Common Stock
+D,02/17/2022 00:00:00,Friedrichs Kristy,4,S-Sale,--D,324,8021,1,0001869545,Common Stock
+D,02/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1176,10586,12,0001869545,Restricted Stock Units
+D,02/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,374,1869,11,0001869545,Restricted Stock Units
+D,02/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,236,472,10,0001869545,Restricted Stock Units
+D,02/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1688,21946,9,0001869545,Restricted Stock Units
+D,02/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1512,18141,8,0001869545,Restricted Stock Units
+D,02/15/2022 00:00:00,Friedrichs Kristy,4,S-Sale,--D,120,8345,7,0001869545,Common Stock
+D,02/15/2022 00:00:00,Friedrichs Kristy,4,S-Sale,--D,1694,8465,6,0001869545,Common Stock
+A,02/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1176,10159,5,0001869545,Common Stock
+A,02/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,374,8983,4,0001869545,Common Stock
+A,02/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,236,8609,3,0001869545,Common Stock
+A,02/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1688,8373,2,0001869545,Common Stock
+A,02/15/2022 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1512,6685,1,0001869545,Common Stock
+D,02/15/2022 00:00:00,Hurn Steve,4,M-Exempt,--D,1764,21165,6,0001862113,Restricted Stock Units
+D,02/15/2022 00:00:00,Hurn Steve,4,M-Exempt,--D,2646,23817,5,0001862113,Restricted Stock Units
+D,02/15/2022 00:00:00,Hurn Steve,4,S-Sale,--D,100,19565,4,0001862113,Common Stock
+D,02/15/2022 00:00:00,Hurn Steve,4,S-Sale,--D,2039,19665,3,0001862113,Common Stock
+A,02/15/2022 00:00:00,Hurn Steve,4,M-Exempt,--D,1764,21704,2,0001862113,Common Stock
+A,02/15/2022 00:00:00,Hurn Steve,4,M-Exempt,--D,2646,19940,1,0001862113,Common Stock
+D,02/15/2022 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,177,177,2,0001750061,Restricted Stock Units
+A,02/15/2022 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,177,5256,1,0001750061,Common Stock
+D,02/15/2022 00:00:00,Staples William,4,M-Exempt,--D,5543,66517,6,0001801655,Restricted Stock Units
+D,02/15/2022 00:00:00,Staples William,4,M-Exempt,--D,2851,22804,5,0001801655,Restricted Stock Units
+D,02/15/2022 00:00:00,Staples William,4,S-Sale,--D,100,29104,4,0001801655,Common Stock
+D,02/15/2022 00:00:00,Staples William,4,S-Sale,--D,2435,29204,3,0001801655,Common Stock
+A,02/15/2022 00:00:00,Staples William,4,M-Exempt,--D,5543,31639,2,0001801655,Common Stock
+A,02/15/2022 00:00:00,Staples William,4,M-Exempt,--D,2851,26096,1,0001801655,Common Stock
+D,02/15/2022 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,212,212,2,0001217124,Restricted Stock Units
+A,02/15/2022 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,212,12055,1,0001217124,Common Stock
+D,02/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,2267,29480,12,0001623944,Restricted Stock Units
+D,02/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,1999,17995,11,0001623944,Restricted Stock Units
+D,02/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,3325,10,0001623944,Restricted Stock Units
+D,02/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,1179,9,0001623944,Restricted Stock Units
+A,02/15/2022 00:00:00,Sachleben Mark,4,G-Gift,-EI,3836,388230,8,0001623944,Common Stock
+D,02/15/2022 00:00:00,Sachleben Mark,4,G-Gift,-ED,3836,0,7,0001623944,Common Stock
+D,02/15/2022 00:00:00,Sachleben Mark,4,S-Sale,--D,50,3836,6,0001623944,Common Stock
+D,02/15/2022 00:00:00,Sachleben Mark,4,S-Sale,--D,1957,3886,5,0001623944,Common Stock
+A,02/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,2267,5843,4,0001623944,Common Stock
+A,02/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,1999,3576,3,0001623944,Common Stock
+A,02/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,1577,2,0001623944,Common Stock
+A,02/15/2022 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,912,1,0001623944,Common Stock
+D,02/15/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,2519,32756,7,0001623920,Restricted Stock Units
+A,02/15/2022 00:00:00,Cirne Lewis,4,G-Gift,-EI,1495,5467151,5,0001623920,Common Stock
+D,02/15/2022 00:00:00,Cirne Lewis,4,G-Gift,-ED,1495,0,4,0001623920,Common Stock
+D,02/15/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,40,1495,3,0001623920,Common Stock
+D,02/15/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,984,1535,2,0001623920,Common Stock
+A,02/15/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,2519,2519,1,0001623920,Common Stock
+D,02/11/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,325000,15,0001623920,Stock Option (Right to Buy)
+D,02/11/2022 00:00:00,Cirne Lewis,4,S-Sale,--I,451,5465656,13,0001623920,Common Stock
+D,02/11/2022 00:00:00,Cirne Lewis,4,S-Sale,--I,57,5466107,12,0001623920,Common Stock
+D,02/11/2022 00:00:00,Cirne Lewis,4,S-Sale,--I,83,5466164,11,0001623920,Common Stock
+D,02/11/2022 00:00:00,Cirne Lewis,4,S-Sale,--I,151,5466247,10,0001623920,Common Stock
+D,02/11/2022 00:00:00,Cirne Lewis,4,S-Sale,--I,1155,5466398,9,0001623920,Common Stock
+D,02/11/2022 00:00:00,Cirne Lewis,4,S-Sale,--I,103,5467553,8,0001623920,Common Stock
+D,02/11/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,13166,0,7,0001623920,Common Stock
+D,02/11/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,2100,13166,6,0001623920,Common Stock
+D,02/11/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,2500,15266,5,0001623920,Common Stock
+D,02/11/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,4700,17766,4,0001623920,Common Stock
+D,02/11/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,4500,22466,3,0001623920,Common Stock
+D,02/11/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,3034,26966,2,0001623920,Common Stock
+A,02/11/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,30000,1,0001623920,Common Stock
+D,01/03/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,355000,13,0001623920,Stock Option (Right to Buy)
+D,01/03/2022 00:00:00,Cirne Lewis,4,S-Sale,--I,200,5467656,11,0001623920,Common Stock
+D,01/03/2022 00:00:00,Cirne Lewis,4,S-Sale,--I,200,5467856,10,0001623920,Common Stock
+D,01/03/2022 00:00:00,Cirne Lewis,4,S-Sale,--I,3400,5468056,9,0001623920,Common Stock
+D,01/03/2022 00:00:00,Cirne Lewis,4,S-Sale,--I,9801,5471456,8,0001623920,Common Stock
+D,01/03/2022 00:00:00,Cirne Lewis,4,S-Sale,--I,6399,5481257,7,0001623920,Common Stock
+D,01/03/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,300,0,6,0001623920,Common Stock
+D,01/03/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,300,300,5,0001623920,Common Stock
+D,01/03/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,5200,600,4,0001623920,Common Stock
+D,01/03/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,14517,5800,3,0001623920,Common Stock
+D,01/03/2022 00:00:00,Cirne Lewis,4,S-Sale,--D,9683,20317,2,0001623920,Common Stock
+A,01/03/2022 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,30000,1,0001623920,Common Stock
+A,12/23/2021 00:00:00,Cirne Lewis,4,J-Other,--I,176,5487656,1,0001623920,Common Stock
+A,12/14/2021 00:00:00,Numoto Takeshi,4,A-Award,--D,1378,1378,1,0001899931,Restricted Stock Units
+D,12/01/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,385000,19,0001623920,Stock Option (Right to Buy)
+D,12/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,208,5487480,17,0001623920,Common Stock
+D,12/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,200,5487688,16,0001623920,Common Stock
+D,12/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,1600,5487888,15,0001623920,Common Stock
+D,12/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,4500,5489488,14,0001623920,Common Stock
+D,12/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,2900,5493988,13,0001623920,Common Stock
+D,12/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,4133,5496888,12,0001623920,Common Stock
+D,12/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,1589,5501021,11,0001623920,Common Stock
+D,12/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,4870,5502610,10,0001623920,Common Stock
+D,12/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,600,0,9,0001623920,Common Stock
+D,12/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,200,600,8,0001623920,Common Stock
+D,12/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,2710,800,7,0001623920,Common Stock
+D,12/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,6068,3510,6,0001623920,Common Stock
+D,12/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,4495,9578,5,0001623920,Common Stock
+D,12/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,6192,14073,4,0001623920,Common Stock
+D,12/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,1625,20265,3,0001623920,Common Stock
+D,12/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,8110,21890,2,0001623920,Common Stock
+A,12/01/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,30000,1,0001623920,Common Stock
+D,11/18/2021 00:00:00,Friedrichs Kristy,4,S-Sale,--D,2501,4849,3,0001869545,Common Stock
+D,11/17/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,5814,13590,4,0001869545,Stock Option (Right to Buy)
+D,11/17/2021 00:00:00,Friedrichs Kristy,4,S-Sale,--D,5814,7350,2,0001869545,Common Stock
+A,11/17/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,5814,13164,1,0001869545,Common Stock
+D,11/16/2021 00:00:00,Friedrichs Kristy,4,S-Sale,--D,900,7350,7,0001869545,Common Stock
+D,11/16/2021 00:00:00,Friedrichs Kristy,4,S-Sale,--D,1583,8250,6,0001869545,Common Stock
+D,11/16/2021 00:00:00,Staples William,4,S-Sale,--D,500,23245,5,0001801655,Common Stock
+D,11/16/2021 00:00:00,Staples William,4,S-Sale,--D,1309,23745,4,0001801655,Common Stock
+D,11/16/2021 00:00:00,Staples William,4,S-Sale,--D,1920,25054,3,0001801655,Common Stock
+A,11/16/2021 00:00:00,Sachleben Mark,4,G-Gift,-EI,2772,384394,9,0001623944,Common Stock
+D,11/16/2021 00:00:00,Sachleben Mark,4,G-Gift,-ED,2772,0,8,0001623944,Common Stock
+D,11/16/2021 00:00:00,Sachleben Mark,4,S-Sale,--D,256,2772,7,0001623944,Common Stock
+D,11/16/2021 00:00:00,Sachleben Mark,4,S-Sale,--D,802,3028,6,0001623944,Common Stock
+D,11/16/2021 00:00:00,Sachleben Mark,4,S-Sale,--D,1692,3830,5,0001623944,Common Stock
+A,11/16/2021 00:00:00,Cirne Lewis,4,G-Gift,-EI,1525,5507480,5,0001623920,Common Stock
+D,11/16/2021 00:00:00,Cirne Lewis,4,G-Gift,-ED,1525,0,4,0001623920,Common Stock
+D,11/16/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,461,1525,3,0001623920,Common Stock
+D,11/16/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,534,1986,2,0001623920,Common Stock
+D,11/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1176,11762,12,0001869545,Restricted Stock Units
+D,11/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,373,2243,11,0001869545,Restricted Stock Units
+D,11/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,235,708,10,0001869545,Restricted Stock Units
+D,11/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1688,23634,9,0001869545,Restricted Stock Units
+D,11/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1512,19653,8,0001869545,Restricted Stock Units
+A,11/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1176,9833,5,0001869545,Common Stock
+A,11/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,373,8657,4,0001869545,Common Stock
+A,11/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,235,8284,3,0001869545,Common Stock
+A,11/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1688,8049,2,0001869545,Common Stock
+A,11/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1512,6361,1,0001869545,Common Stock
+D,11/15/2021 00:00:00,Staples William,4,M-Exempt,--D,5543,72060,7,0001801655,Restricted Stock Units
+D,11/15/2021 00:00:00,Staples William,4,M-Exempt,--D,2850,25655,6,0001801655,Restricted Stock Units
+A,11/15/2021 00:00:00,Staples William,4,M-Exempt,--D,5543,26974,2,0001801655,Common Stock
+A,11/15/2021 00:00:00,Staples William,4,M-Exempt,--D,2850,21431,1,0001801655,Common Stock
+D,11/15/2021 00:00:00,Hurn Steve,4,M-Exempt,--D,1764,22929,4,0001862113,Restricted Stock Units
+D,11/15/2021 00:00:00,Hurn Steve,4,M-Exempt,--D,2646,26463,3,0001862113,Restricted Stock Units
+A,11/15/2021 00:00:00,Hurn Steve,4,M-Exempt,--D,1764,16757,2,0001862113,Common Stock
+A,11/15/2021 00:00:00,Hurn Steve,4,M-Exempt,--D,2646,14993,1,0001862113,Common Stock
+D,11/15/2021 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,212,424,2,0001217124,Restricted Stock Units
+A,11/15/2021 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,212,11843,1,0001217124,Common Stock
+D,11/15/2021 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,177,354,2,0001750061,Restricted Stock Units
+A,11/15/2021 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,177,5079,1,0001750061,Common Stock
+D,11/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,2268,31747,13,0001623944,Restricted Stock Units
+D,11/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,2000,19994,12,0001623944,Restricted Stock Units
+D,11/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,3990,11,0001623944,Restricted Stock Units
+D,11/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,1768,10,0001623944,Restricted Stock Units
+A,11/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,2268,5522,4,0001623944,Common Stock
+A,11/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,2000,3254,3,0001623944,Common Stock
+A,11/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,1254,2,0001623944,Common Stock
+A,11/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,589,1,0001623944,Common Stock
+D,11/15/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,2520,35275,7,0001623920,Restricted Stock Units
+A,11/15/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,2520,2520,1,0001623920,Common Stock
+D,11/01/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,415000,9,0001623920,Stock Option (Right to Buy)
+D,11/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,3999,5505955,7,0001623920,Common Stock
+D,11/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,13822,5509954,6,0001623920,Common Stock
+D,11/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,5679,5523776,5,0001623920,Common Stock
+D,11/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,5701,0,4,0001623920,Common Stock
+D,11/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,16206,5701,3,0001623920,Common Stock
+D,11/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,8093,21907,2,0001623920,Common Stock
+A,11/01/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,30000,1,0001623920,Common Stock
+D,10/01/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,445000,11,0001623920,Stock Option (Right to Buy)
+D,10/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,5800,0,9,0001623920,Common Stock
+D,10/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,3800,5800,8,0001623920,Common Stock
+D,10/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,20400,9600,7,0001623920,Common Stock
+A,10/01/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,30000,6,0001623920,Common Stock
+D,10/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,4205,5529455,5,0001623920,Common Stock
+D,10/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,3247,5533660,4,0001623920,Common Stock
+D,10/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,9048,5536907,3,0001623920,Common Stock
+D,09/09/2021 00:00:00,Cirne Lewis,4,G-Gift,-EI,20000,5545955,2,0001623920,Common Stock
+D,09/09/2021 00:00:00,Cirne Lewis,4,G-Gift,-EI,20000,5565955,1,0001623920,Common Stock
+D,09/01/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,475000,7,0001623920,Stock Option (Right to Buy)
+D,09/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,8670,5585955,5,0001623920,Common Stock
+D,09/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,18330,5594625,4,0001623920,Common Stock
+D,09/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,13092,0,3,0001623920,Common Stock
+D,09/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,16908,13092,2,0001623920,Common Stock
+A,09/01/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,30000,1,0001623920,Common Stock
+A,08/18/2021 00:00:00,Mahendran Radhakrishnan,4,A-Award,--D,2640,2640,1,0001869546,Restricted Stock Units
+D,08/18/2021 00:00:00,Friedrichs Kristy,4,S-Sale,--D,2915,4849,1,0001869545,Common Stock
+A,08/18/2021 00:00:00,Watteeuw Carlisle Caroline,4,A-Award,--D,2640,2640,1,0001750061,Restricted Stock Units
+A,08/18/2021 00:00:00,Scholnick Dan,4,A-Award,--D,2640,2640,1,0001606272,Restricted Stock Units
+A,08/18/2021 00:00:00,HENSHALL DAVID J,4,A-Award,--D,2640,2640,1,0001176008,Restricted Stock Units
+A,08/18/2021 00:00:00,Cochran Hope F,4,A-Award,--D,2640,2640,1,0001392352,Restricted Stock Units
+A,08/18/2021 00:00:00,TOLONEN JAMES R,4,A-Award,--D,2640,2640,1,0001217124,Restricted Stock Units
+A,08/18/2021 00:00:00,Messinger Adam,4,A-Award,--D,2640,2640,1,0001624030,Restricted Stock Units
+A,08/18/2021 00:00:00,DelSanto Anne,4,A-Award,--D,2640,2640,1,0001770310,Restricted Stock Units
+D,08/16/2021 00:00:00,Friedrichs Kristy,4,S-Sale,--D,2071,7764,6,0001869545,Common Stock
+D,08/16/2021 00:00:00,Staples William,4,S-Sale,--D,3784,18581,3,0001801655,Common Stock
+A,08/16/2021 00:00:00,Sachleben Mark,4,G-Gift,-EI,3256,381622,7,0001623944,Common Stock
+D,08/16/2021 00:00:00,Sachleben Mark,4,G-Gift,-ED,3256,0,6,0001623944,Common Stock
+D,08/16/2021 00:00:00,Sachleben Mark,4,S-Sale,--D,2264,3256,5,0001623944,Common Stock
+A,08/16/2021 00:00:00,Cirne Lewis,4,G-Gift,-EI,1479,5612955,4,0001623920,Common Stock
+D,08/16/2021 00:00:00,Cirne Lewis,4,G-Gift,-ED,1479,0,3,0001623920,Common Stock
+D,08/16/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,1040,1479,2,0001623920,Common Stock
+D,08/15/2021 00:00:00,Mahendran Radhakrishnan,4,M-Exempt,--D,439,0,2,0001869546,Restricted Stock Units
+A,08/15/2021 00:00:00,Mahendran Radhakrishnan,4,M-Exempt,--D,439,439,1,0001869546,Common Stock
+D,08/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1176,12938,11,0001869545,Restricted Stock Units
+D,08/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,374,2616,10,0001869545,Restricted Stock Units
+D,08/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,236,943,9,0001869545,Restricted Stock Units
+D,08/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1688,25322,8,0001869545,Restricted Stock Units
+D,08/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1512,21165,7,0001869545,Restricted Stock Units
+A,08/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1176,9835,5,0001869545,Common Stock
+A,08/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,374,8659,4,0001869545,Common Stock
+A,08/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,236,8285,3,0001869545,Common Stock
+A,08/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1688,8049,2,0001869545,Common Stock
+A,08/15/2021 00:00:00,Friedrichs Kristy,4,M-Exempt,--D,1512,6361,1,0001869545,Common Stock
+D,08/15/2021 00:00:00,Hurn Steve,4,M-Exempt,--D,1764,24693,4,0001862113,Restricted Stock Units
+D,08/15/2021 00:00:00,Hurn Steve,4,M-Exempt,--D,2646,29109,3,0001862113,Restricted Stock Units
+A,08/15/2021 00:00:00,Hurn Steve,4,M-Exempt,--D,1764,12347,2,0001862113,Common Stock
+A,08/15/2021 00:00:00,Hurn Steve,4,M-Exempt,--D,2646,10583,1,0001862113,Common Stock
+D,08/15/2021 00:00:00,DelSanto Anne,4,M-Exempt,--D,1584,0,2,0001770310,Restricted Stock Units
+D,08/15/2021 00:00:00,DelSanto Anne,4,M-Exempt,--D,1584,1584,1,0001770310,Restricted Stock Units
+D,08/15/2021 00:00:00,HENSHALL DAVID J,4,M-Exempt,--D,1584,0,2,0001176008,Restricted Stock Units
+A,08/15/2021 00:00:00,HENSHALL DAVID J,4,M-Exempt,--D,1584,6334,1,0001176008,Common Stock
+D,08/15/2021 00:00:00,Messinger Adam,4,M-Exempt,--D,1584,0,2,0001624030,Restricted Stock Units
+A,08/15/2021 00:00:00,Messinger Adam,4,M-Exempt,--D,1584,45732,1,0001624030,Common Stock
+D,08/15/2021 00:00:00,Cochran Hope F,4,M-Exempt,--D,1584,0,2,0001392352,Restricted Stock Units
+A,08/15/2021 00:00:00,Cochran Hope F,4,M-Exempt,--D,1584,4418,1,0001392352,Common Stock
+D,08/15/2021 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,1584,0,4,0001217124,Restricted Stock Units
+D,08/15/2021 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,212,636,3,0001217124,Restricted Stock Units
+A,08/15/2021 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,1584,11631,2,0001217124,Common Stock
+A,08/15/2021 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,212,10047,1,0001217124,Common Stock
+D,08/15/2021 00:00:00,Scholnick Dan,4,M-Exempt,--D,1584,0,2,0001606272,Restricted Stock Units
+A,08/15/2021 00:00:00,Scholnick Dan,4,M-Exempt,--D,1584,38155,1,0001606272,Common Stock
+D,08/15/2021 00:00:00,Staples William,4,M-Exempt,--D,5543,77603,5,0001801655,Restricted Stock Units
+D,08/15/2021 00:00:00,Staples William,4,M-Exempt,--D,2851,28505,4,0001801655,Restricted Stock Units
+A,08/15/2021 00:00:00,Staples William,4,M-Exempt,--D,5543,22365,2,0001801655,Common Stock
+A,08/15/2021 00:00:00,Staples William,4,M-Exempt,--D,2851,16822,1,0001801655,Common Stock
+D,08/15/2021 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,1584,0,4,0001750061,Restricted Stock Units
+D,08/15/2021 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,177,177,3,0001750061,Restricted Stock Units
+A,08/15/2021 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,1584,4902,2,0001750061,Common Stock
+A,08/15/2021 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,177,3318,1,0001750061,Common Stock
+D,08/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,2267,34015,11,0001623944,Restricted Stock Units
+D,08/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,1999,21994,10,0001623944,Restricted Stock Units
+D,08/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,664,4655,9,0001623944,Restricted Stock Units
+D,08/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,590,2357,8,0001623944,Restricted Stock Units
+A,08/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,2267,5520,4,0001623944,Common Stock
+A,08/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,1999,3253,3,0001623944,Common Stock
+A,08/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,664,1254,2,0001623944,Common Stock
+A,08/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,590,590,1,0001623944,Common Stock
+D,08/15/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,2519,37795,6,0001623920,Restricted Stock Units
+A,08/15/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,2519,2519,1,0001623920,Common Stock
+D,08/04/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,7000,5611476,7,0001623920,Common Stock
+D,08/04/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,3700,5618476,6,0001623920,Common Stock
+D,08/04/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,6800,5622176,5,0001623920,Common Stock
+D,08/04/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,3500,5628976,4,0001623920,Common Stock
+D,08/04/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,3500,5632476,3,0001623920,Common Stock
+D,08/04/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,3500,5635976,2,0001623920,Common Stock
+D,08/04/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,3500,5639476,1,0001623920,Common Stock
+D,08/02/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,505000,7,0001623920,Stock Option (Right to Buy)
+D,08/02/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,2312,5642976,5,0001623920,Common Stock
+D,08/02/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,18188,5645288,4,0001623920,Common Stock
+D,08/02/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,2800,0,3,0001623920,Common Stock
+D,08/02/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,27200,2800,2,0001623920,Common Stock
+A,08/02/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,30000,1,0001623920,Common Stock
+D,07/01/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,535000,7,0001623920,Stock Option (Right to Buy)
+D,07/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,5467,5663476,5,0001623920,Common Stock
+D,07/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,16031,5668943,4,0001623920,Common Stock
+D,07/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,2500,0,3,0001623920,Common Stock
+D,07/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,27500,2500,2,0001623920,Common Stock
+A,07/01/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,30000,1,0001623920,Common Stock
+A,06/24/2021 00:00:00,Mahendran Radhakrishnan,4,A-Award,--D,439,439,1,0001869546,Restricted Stock Units
+D,06/02/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,501,5684974,1,0001623920,Common Stock
+D,06/01/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,565000,9,0001623920,Stock Option (Right to Buy)
+D,06/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,1589,5685475,8,0001623920,Common Stock
+D,06/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,9412,5687064,7,0001623920,Common Stock
+D,06/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,881,0,6,0001623920,Common Stock
+D,06/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,2119,881,5,0001623920,Common Stock
+D,06/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,27000,3000,4,0001623920,Common Stock
+A,06/01/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,30000,3,0001623920,Common Stock
+A,05/27/2021 00:00:00,Cirne Lewis,4,G-Gift,-EI,100000,274000,2,0001623920,Common Stock
+D,05/27/2021 00:00:00,Cirne Lewis,4,G-Gift,-EI,100000,5696476,1,0001623920,Common Stock
+D,05/17/2021 00:00:00,Staples William,4,M-Exempt,--D,5543,83146,8,0001801655,Restricted Stock Units
+A,05/17/2021 00:00:00,Staples William,4,A-Award,--D,88689,88689,7,0001801655,Restricted Stock Units
+D,05/17/2021 00:00:00,Staples William,4,S-Sale,--D,700,13971,5,0001801655,Common Stock
+D,05/17/2021 00:00:00,Staples William,4,S-Sale,--D,350,14671,4,0001801655,Common Stock
+D,05/17/2021 00:00:00,Staples William,4,S-Sale,--D,2537,15021,3,0001801655,Common Stock
+A,05/17/2021 00:00:00,Sachleben Mark,4,A-Award,--D,36282,36282,14,0001623944,Restricted Stock Units
+A,05/17/2021 00:00:00,Sachleben Mark,4,G-Gift,-EI,3099,378366,9,0001623944,Common Stock
+D,05/17/2021 00:00:00,Sachleben Mark,4,G-Gift,-ED,3099,0,8,0001623944,Common Stock
+D,05/17/2021 00:00:00,Sachleben Mark,4,S-Sale,--D,300,3099,7,0001623944,Common Stock
+D,05/17/2021 00:00:00,Sachleben Mark,4,S-Sale,--D,200,3399,6,0001623944,Common Stock
+D,05/17/2021 00:00:00,Sachleben Mark,4,S-Sale,--D,1194,3599,5,0001623944,Common Stock
+A,05/17/2021 00:00:00,Cirne Lewis,4,A-Award,--D,40314,40314,1,0001623920,Restricted Stock Units
+D,05/17/2021 00:00:00,Hurn Steve,4,M-Exempt,--D,1763,26457,8,0001862113,Restricted Stock Units
+A,05/17/2021 00:00:00,Hurn Steve,4,A-Award,--D,28220,28220,7,0001862113,Restricted Stock Units
+D,05/17/2021 00:00:00,Hurn Steve,4,S-Sale,--D,1200,7937,5,0001862113,Common Stock
+D,05/17/2021 00:00:00,Hurn Steve,4,S-Sale,--D,900,9137,4,0001862113,Common Stock
+D,05/17/2021 00:00:00,Hurn Steve,4,S-Sale,--D,3811,10037,3,0001862113,Common Stock
+A,05/17/2021 00:00:00,Hurn Steve,4,M-Exempt,--D,1763,13848,2,0001862113,Common Stock
+D,05/15/2021 00:00:00,Staples William,4,M-Exempt,--D,2850,31356,6,0001801655,Restricted Stock Units
+A,05/15/2021 00:00:00,Staples William,4,M-Exempt,--D,5543,17558,2,0001801655,Common Stock
+A,05/15/2021 00:00:00,Staples William,4,M-Exempt,--D,2850,12015,1,0001801655,Common Stock
+D,05/15/2021 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,288,0,2,0001217124,Restricted Stock Units
+A,05/15/2021 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,288,9835,1,0001217124,Common Stock
+D,05/15/2021 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,165,0,2,0001750061,Restricted Stock Units
+A,05/15/2021 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,165,3141,1,0001750061,Common Stock
+D,05/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,1999,23993,13,0001623944,Restricted Stock Units
+D,05/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,5319,12,0001623944,Restricted Stock Units
+D,05/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,2947,11,0001623944,Restricted Stock Units
+D,05/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,0,10,0001623944,Restricted Stock Units
+A,05/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,1999,4793,4,0001623944,Common Stock
+A,05/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,2794,3,0001623944,Common Stock
+A,05/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,2129,2,0001623944,Common Stock
+A,05/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,1540,1,0001623944,Common Stock
+D,05/15/2021 00:00:00,Christenson Michael J,4,M-Exempt,--D,4945,49449,4,0001319331,Restricted Stock Units
+D,05/15/2021 00:00:00,Christenson Michael J,4,M-Exempt,--D,2058,24699,3,0001319331,Restricted Stock Units
+A,05/15/2021 00:00:00,Christenson Michael J,4,M-Exempt,--D,4945,96604,2,0001319331,Common Stock
+A,05/15/2021 00:00:00,Christenson Michael J,4,M-Exempt,--D,2058,91659,1,0001319331,Common Stock
+D,05/15/2021 00:00:00,Hurn Steve,4,M-Exempt,--D,10585,31755,6,0001862113,Restricted Stock Units
+A,05/15/2021 00:00:00,Hurn Steve,4,M-Exempt,--D,10585,12085,1,0001862113,Common Stock
+D,05/03/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,595000,10,0001623920,Stock Option (Right to Buy)
+D,05/03/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,847,5796476,8,0001623920,Common Stock
+D,05/03/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,3978,5797323,7,0001623920,Common Stock
+D,05/03/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,6202,5801301,6,0001623920,Common Stock
+D,05/03/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,973,5807503,5,0001623920,Common Stock
+D,05/03/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,3368,0,4,0001623920,Common Stock
+D,05/03/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,26432,3368,3,0001623920,Common Stock
+D,05/03/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,200,29800,2,0001623920,Common Stock
+A,05/03/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,30000,1,0001623920,Common Stock
+A,04/15/2021 00:00:00,TOLONEN JAMES R,4,A-Award,--D,848,848,3,0001217124,Restricted Stock Units
+A,04/15/2021 00:00:00,Watteeuw Carlisle Caroline,4,A-Award,--D,708,708,3,0001750061,Restricted Stock Units
+D,04/06/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,1000,5808476,1,0001623920,Common Stock
+D,04/01/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,625000,7,0001623920,Stock Option (Right to Buy)
+D,04/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,1875,5809476,5,0001623920,Common Stock
+D,04/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,9625,5811351,4,0001623920,Common Stock
+D,04/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,4337,0,3,0001623920,Common Stock
+D,04/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,25663,4337,2,0001623920,Common Stock
+A,04/01/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,30000,1,0001623920,Common Stock
+D,03/01/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,655000,8,0001623920,Stock Option (Right to Buy)
+D,03/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,418,5820976,6,0001623920,Common Stock
+D,03/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,2686,5821394,5,0001623920,Common Stock
+D,03/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,8396,5824080,4,0001623920,Common Stock
+D,03/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,10391,0,3,0001623920,Common Stock
+D,03/01/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,19609,10391,2,0001623920,Common Stock
+A,03/01/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,30000,1,0001623920,Common Stock
+D,02/16/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,685000,9,0001623920,Stock Option (Right to Buy)
+D,02/16/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,1738,5832476,7,0001623920,Common Stock
+D,02/16/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,3426,5834214,6,0001623920,Common Stock
+D,02/16/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,6836,5837640,5,0001623920,Common Stock
+D,02/16/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,2308,0,4,0001623920,Common Stock
+D,02/16/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,6218,2308,3,0001623920,Common Stock
+D,02/16/2021 00:00:00,Cirne Lewis,4,S-Sale,--D,21474,8526,2,0001623920,Common Stock
+A,02/16/2021 00:00:00,Cirne Lewis,4,M-Exempt,--D,30000,30000,1,0001623920,Common Stock
+A,02/16/2021 00:00:00,Sachleben Mark,4,G-Gift,-EI,3527,375267,8,0001623944,Common Stock
+D,02/16/2021 00:00:00,Sachleben Mark,4,G-Gift,-ED,3527,0,7,0001623944,Common Stock
+D,02/16/2021 00:00:00,Sachleben Mark,4,S-Sale,--D,1708,3527,6,0001623944,Common Stock
+D,02/16/2021 00:00:00,Sachleben Mark,4,S-Sale,--D,1,5235,5,0001623944,Common Stock
+D,02/15/2021 00:00:00,Christenson Michael J,4,M-Exempt,--D,4945,54394,4,0001319331,Restricted Stock Units
+D,02/15/2021 00:00:00,Christenson Michael J,4,M-Exempt,--D,2058,26757,3,0001319331,Restricted Stock Units
+A,02/15/2021 00:00:00,Christenson Michael J,4,M-Exempt,--D,4945,89601,2,0001319331,Common Stock
+A,02/15/2021 00:00:00,Christenson Michael J,4,M-Exempt,--D,2058,84656,1,0001319331,Common Stock
+D,02/15/2021 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,287,288,2,0001217124,Restricted Stock Units
+A,02/15/2021 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,287,9547,1,0001217124,Common Stock
+D,02/15/2021 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,165,165,2,0001750061,Restricted Stock Units
+A,02/15/2021 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,165,2976,1,0001750061,Common Stock
+D,02/15/2021 00:00:00,Staples William,4,M-Exempt,--D,1657,0,6,0001801655,Restricted Stock Units
+D,02/15/2021 00:00:00,Staples William,4,M-Exempt,--D,11402,34206,5,0001801655,Restricted Stock Units
+D,02/15/2021 00:00:00,Staples William,4,S-Sale,--D,3893,9165,4,0001801655,Common Stock
+D,02/15/2021 00:00:00,Staples William,4,S-Sale,--D,1,13058,3,0001801655,Common Stock
+A,02/15/2021 00:00:00,Staples William,4,M-Exempt,--D,1657,13059,2,0001801655,Common Stock
+A,02/15/2021 00:00:00,Staples William,4,M-Exempt,--D,11402,11402,1,0001801655,Common Stock
+D,02/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,2000,25992,12,0001623944,Restricted Stock Units
+D,02/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,5984,11,0001623944,Restricted Stock Units
+D,02/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,3536,10,0001623944,Restricted Stock Units
+D,02/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,1540,9,0001623944,Restricted Stock Units
+A,02/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,2000,5236,4,0001623944,Common Stock
+A,02/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,3236,3,0001623944,Common Stock
+A,02/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,2571,2,0001623944,Common Stock
+A,02/15/2021 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,1982,1,0001623944,Common Stock
+D,01/04/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,1415,5844476,3,0001623920,Common Stock
+D,01/04/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,15945,5845891,2,0001623920,Common Stock
+D,01/04/2021 00:00:00,Cirne Lewis,4,S-Sale,--I,22140,5861836,1,0001623920,Common Stock
+D,12/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,16194,5883976,3,0001623920,Common Stock
+D,12/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,18806,5900170,2,0001623920,Common Stock
+A,11/16/2020 00:00:00,Sachleben Mark,4,G-Gift,-EI,2442,371740,8,0001623944,Common Stock
+D,11/16/2020 00:00:00,Sachleben Mark,4,G-Gift,-ED,2442,0,7,0001623944,Common Stock
+D,11/16/2020 00:00:00,Sachleben Mark,4,S-Sale,--D,2000,2442,6,0001623944,Common Stock
+D,11/16/2020 00:00:00,Sachleben Mark,4,S-Sale,--D,351,4442,5,0001623944,Common Stock
+D,11/15/2020 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,288,575,2,0001217124,Restricted Stock Units
+A,11/15/2020 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,288,9260,1,0001217124,Common Stock
+D,11/15/2020 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,165,330,2,0001750061,Restricted Stock Units
+A,11/15/2020 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,165,2811,1,0001750061,Common Stock
+D,11/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,1999,27992,12,0001623944,Restricted Stock Units
+D,11/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,6649,11,0001623944,Restricted Stock Units
+D,11/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,4125,10,0001623944,Restricted Stock Units
+D,11/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,3080,9,0001623944,Restricted Stock Units
+A,11/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,1999,4793,4,0001623944,Common Stock
+A,11/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,2794,3,0001623944,Common Stock
+A,11/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,2129,2,0001623944,Common Stock
+A,11/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,1540,1,0001623944,Common Stock
+D,11/15/2020 00:00:00,Christenson Michael J,4,M-Exempt,--D,19779,59339,4,0001319331,Restricted Stock Units
+D,11/15/2020 00:00:00,Christenson Michael J,4,M-Exempt,--D,2058,28815,3,0001319331,Restricted Stock Units
+A,11/15/2020 00:00:00,Christenson Michael J,4,M-Exempt,--D,19779,81974,2,0001319331,Common Stock
+A,11/15/2020 00:00:00,Christenson Michael J,4,M-Exempt,--D,2058,62195,1,0001319331,Common Stock
+D,11/11/2020 00:00:00,Cirne Lewis,4,G-Gift,-EI,40000,5918976,1,0001623920,Common Stock
+A,11/10/2020 00:00:00,HENSHALL DAVID J,4,P-Purchase,--D,4750,4750,1,0001176008,Common Stock
+D,11/02/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,6322,5958976,3,0001623920,Common Stock
+D,11/02/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,4595,5965298,2,0001623920,Common Stock
+D,11/02/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,24583,5969893,1,0001623920,Common Stock
+D,10/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,1201,5994467,2,0001623920,Common Stock
+D,10/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,33299,5995668,1,0001623920,Common Stock
+D,09/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,33000,6028967,2,0001623920,Common Stock
+D,09/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,2500,6061967,1,0001623920,Common Stock
+A,08/26/2020 00:00:00,Staples William,4,A-Award,--D,1657,1657,1,0001801655,Restricted Stock Units
+A,08/19/2020 00:00:00,HENSHALL DAVID J,4,A-Award,--D,1584,1584,2,0001176008,Restricted Stock Units
+A,08/19/2020 00:00:00,HENSHALL DAVID J,4,A-Award,--D,3855,3855,1,0001176008,Stock Option (Right to Buy)
+A,08/19/2020 00:00:00,DelSanto Anne,4,A-Award,--D,1584,1584,2,0001770310,Restricted Stock Units
+A,08/19/2020 00:00:00,DelSanto Anne,4,A-Award,--D,3855,3855,1,0001770310,Stock Option (Right to Buy)
+A,08/19/2020 00:00:00,TOLONEN JAMES R,4,A-Award,--D,1584,1584,2,0001217124,Restricted Stock Units
+A,08/19/2020 00:00:00,TOLONEN JAMES R,4,A-Award,--D,3855,3855,1,0001217124,Stock Option (Right to Buy)
+A,08/19/2020 00:00:00,Scholnick Dan,4,A-Award,--D,1584,1584,2,0001606272,Restricted Stock Units
+A,08/19/2020 00:00:00,Scholnick Dan,4,A-Award,--D,3855,3855,1,0001606272,Stock Option (Right to Buy)
+A,08/19/2020 00:00:00,Messinger Adam,4,A-Award,--D,1584,1584,2,0001624030,Restricted Stock Units
+A,08/19/2020 00:00:00,Messinger Adam,4,A-Award,--D,3855,3855,1,0001624030,Stock Option (Right to Buy)
+A,08/19/2020 00:00:00,Cochran Hope F,4,A-Award,--D,1584,1584,2,0001392352,Restricted Stock Units
+A,08/19/2020 00:00:00,Cochran Hope F,4,A-Award,--D,3855,3855,1,0001392352,Stock Option (Right to Buy)
+A,08/19/2020 00:00:00,Watteeuw Carlisle Caroline,4,A-Award,--D,1584,1584,2,0001750061,Restricted Stock Units
+A,08/19/2020 00:00:00,Watteeuw Carlisle Caroline,4,A-Award,--D,3855,3855,1,0001750061,Stock Option (Right to Buy)
+A,08/19/2020 00:00:00,Christenson Michael J,4,P-Purchase,--D,9000,60137,1,0001319331,Common Stock
+A,08/17/2020 00:00:00,Sachleben Mark,4,G-Gift,-EI,2409,369298,7,0001623944,Common Stock
+D,08/17/2020 00:00:00,Sachleben Mark,4,G-Gift,-ED,2409,0,6,0001623944,Common Stock
+D,08/17/2020 00:00:00,Sachleben Mark,4,S-Sale,--D,2385,2409,5,0001623944,Common Stock
+D,08/15/2020 00:00:00,FENTON PETER H,4,M-Exempt,--D,1579,0,6,0001219230,Restricted Stock Units
+D,08/15/2020 00:00:00,FENTON PETER H,4,M-Exempt,--D,325,975,5,0001219230,Restricted Stock Units
+A,08/15/2020 00:00:00,FENTON PETER H,4,M-Exempt,--D,1579,3461,2,0001219230,Common Stock
+A,08/15/2020 00:00:00,FENTON PETER H,4,M-Exempt,--D,325,1882,1,0001219230,Common Stock
+D,08/15/2020 00:00:00,Scholnick Dan,4,M-Exempt,--D,1579,0,2,0001606272,Restricted Stock Units
+A,08/15/2020 00:00:00,Scholnick Dan,4,M-Exempt,--D,1579,36571,1,0001606272,Common Stock
+D,08/15/2020 00:00:00,Cochran Hope F,4,M-Exempt,--D,1579,0,2,0001392352,Restricted Stock Units
+A,08/15/2020 00:00:00,Cochran Hope F,4,M-Exempt,--D,1579,2834,1,0001392352,Common Stock
+D,08/15/2020 00:00:00,Messinger Adam,4,M-Exempt,--D,1579,0,2,0001624030,Restricted Stock Units
+A,08/15/2020 00:00:00,Messinger Adam,4,M-Exempt,--D,1579,44148,1,0001624030,Common Stock
+D,08/15/2020 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,1579,0,4,0001217124,Restricted Stock Units
+D,08/15/2020 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,287,863,3,0001217124,Restricted Stock Units
+A,08/15/2020 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,1579,8972,2,0001217124,Common Stock
+A,08/15/2020 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,287,7393,1,0001217124,Common Stock
+D,08/15/2020 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,1579,0,4,0001750061,Restricted Stock Units
+D,08/15/2020 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,165,495,3,0001750061,Restricted Stock Units
+A,08/15/2020 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,1579,2646,2,0001750061,Common Stock
+A,08/15/2020 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,165,1067,1,0001750061,Common Stock
+D,08/15/2020 00:00:00,Christenson Michael J,4,M-Exempt,--D,1579,0,4,0001319331,Restricted Stock Units
+D,08/15/2020 00:00:00,Christenson Michael J,4,M-Exempt,--D,2058,30873,3,0001319331,Restricted Stock Units
+A,08/15/2020 00:00:00,Christenson Michael J,4,M-Exempt,--D,1579,51137,2,0001319331,Common Stock
+A,08/15/2020 00:00:00,Christenson Michael J,4,M-Exempt,--D,2058,49558,1,0001319331,Common Stock
+D,08/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,1999,29991,11,0001623944,Restricted Stock Units
+D,08/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,7314,10,0001623944,Restricted Stock Units
+D,08/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,590,4714,9,0001623944,Restricted Stock Units
+D,08/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,4620,8,0001623944,Restricted Stock Units
+A,08/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,1999,4794,4,0001623944,Common Stock
+A,08/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,2795,3,0001623944,Common Stock
+A,08/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,590,2130,2,0001623944,Common Stock
+A,08/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,1540,1,0001623944,Common Stock
+D,08/06/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,218653,0,4,0001623944,Stock Option (Right to Buy)
+A,08/06/2020 00:00:00,Sachleben Mark,4,G-Gift,-EI,218653,366889,3,0001623944,Common Stock
+D,08/06/2020 00:00:00,Sachleben Mark,4,G-Gift,-ED,218653,0,2,0001623944,Common Stock
+A,08/06/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,218653,218653,1,0001623944,Common Stock
+D,08/03/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,14594,6064467,3,0001623920,Common Stock
+D,08/03/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,12379,6079061,2,0001623920,Common Stock
+D,08/03/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,13027,6091440,1,0001623920,Common Stock
+D,07/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,1200,6104467,4,0001623920,Common Stock
+D,07/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,17127,6105676,3,0001623920,Common Stock
+D,07/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,16256,6122803,2,0001623920,Common Stock
+D,07/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,5417,6139059,1,0001623920,Common Stock
+D,06/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,14408,6144476,3,0001623920,Common Stock
+D,06/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,18419,6158884,2,0001623920,Common Stock
+D,06/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,7173,6177303,1,0001623920,Common Stock
+A,05/18/2020 00:00:00,Sachleben Mark,4,G-Gift,-EI,3042,148236,7,0001623944,Common Stock
+D,05/18/2020 00:00:00,Sachleben Mark,4,G-Gift,-ED,3042,0,6,0001623944,Common Stock
+D,05/18/2020 00:00:00,Sachleben Mark,4,S-Sale,--D,1587,3042,5,0001623944,Common Stock
+D,05/15/2020 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,145,0,2,0001217124,Restricted Stock Units
+A,05/15/2020 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,145,7106,1,0001217124,Common Stock
+D,05/15/2020 00:00:00,FENTON PETER H,4,M-Exempt,--D,164,0,4,0001219230,Restricted Stock Units
+A,05/15/2020 00:00:00,FENTON PETER H,4,M-Exempt,--D,164,1557,1,0001219230,Common Stock
+A,05/15/2020 00:00:00,Sachleben Mark,4,A-Award,--D,31990,31990,12,0001623944,Restricted Stock Units
+D,05/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,7979,11,0001623944,Restricted Stock Units
+D,05/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,5304,10,0001623944,Restricted Stock Units
+D,05/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,6160,9,0001623944,Restricted Stock Units
+D,05/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,1835,0,8,0001623944,Restricted Stock Units
+A,05/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,4629,4,0001623944,Common Stock
+A,05/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,3964,3,0001623944,Common Stock
+A,05/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,3375,2,0001623944,Common Stock
+A,05/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,1835,1835,1,0001623944,Common Stock
+A,05/15/2020 00:00:00,Christenson Michael J,4,A-Award,--D,32931,32931,1,0001319331,Restricted Stock Units
+A,05/15/2020 00:00:00,Cirne Lewis,4,A-Award,--D,111663,111663,1,0001623920,Stock Option (Right to Buy)
+D,05/04/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,0,6184476,5,0001623920,Common Stock
+D,05/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,1085,6184476,4,0001623920,Common Stock
+D,05/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,9155,6185561,3,0001623920,Common Stock
+D,05/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,24260,6194716,2,0001623920,Common Stock
+D,04/17/2020 00:00:00,Cirne Lewis,4,G-Gift,-EI,40000,6218976,1,0001623920,Common Stock
+A,04/15/2020 00:00:00,TOLONEN JAMES R,4,A-Award,--D,1150,1150,1,0001217124,Restricted Stock Units
+A,04/15/2020 00:00:00,Watteeuw Carlisle Caroline,4,A-Award,--D,660,660,1,0001750061,Restricted Stock Units
+A,04/15/2020 00:00:00,FENTON PETER H,4,A-Award,--D,1300,1300,1,0001219230,Restricted Stock Units
+D,04/02/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,500,6258976,3,0001623920,Common Stock
+D,04/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,17298,6259476,2,0001623920,Common Stock
+D,04/01/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,13702,6276774,1,0001623920,Common Stock
+D,03/11/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,31347,218653,4,0001623944,Stock Option (Right to Buy)
+A,03/11/2020 00:00:00,Sachleben Mark,4,G-Gift,-EI,31347,145194,3,0001623944,Common Stock
+D,03/11/2020 00:00:00,Sachleben Mark,4,G-Gift,-ED,31347,0,2,0001623944,Common Stock
+A,03/11/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,31347,31347,1,0001623944,Common Stock
+D,03/02/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,1900,6290476,4,0001623920,Common Stock
+D,03/02/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,1342,6292376,3,0001623920,Common Stock
+D,03/02/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,16195,6293718,2,0001623920,Common Stock
+D,03/02/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,14563,6309913,1,0001623920,Common Stock
+A,02/18/2020 00:00:00,Staples William,4,A-Award,--D,45608,45608,2,0001801655,Restricted Stock Units
+A,02/18/2020 00:00:00,Staples William,4,A-Award,--D,112085,112085,1,0001801655,Stock Option (Right to Buy)
+A,02/18/2020 00:00:00,Sachleben Mark,4,G-Gift,-EI,3383,113847,7,0001623944,Common Stock
+D,02/18/2020 00:00:00,Sachleben Mark,4,G-Gift,-ED,3383,0,6,0001623944,Common Stock
+D,02/18/2020 00:00:00,Sachleben Mark,4,S-Sale,--D,1670,3383,5,0001623944,Common Stock
+D,02/15/2020 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,145,145,2,0001217124,Restricted Stock Units
+A,02/15/2020 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,145,6961,1,0001217124,Common Stock
+D,02/15/2020 00:00:00,FENTON PETER H,4,M-Exempt,--D,164,164,4,0001219230,Restricted Stock Units
+A,02/15/2020 00:00:00,FENTON PETER H,4,M-Exempt,--D,164,1393,1,0001219230,Common Stock
+D,02/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,8644,11,0001623944,Restricted Stock Units
+D,02/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,5893,10,0001623944,Restricted Stock Units
+D,02/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,7700,9,0001623944,Restricted Stock Units
+D,02/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,1835,8,0001623944,Restricted Stock Units
+A,02/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,5053,4,0001623944,Common Stock
+A,02/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,4388,3,0001623944,Common Stock
+A,02/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,3799,2,0001623944,Common Stock
+A,02/15/2020 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,2259,1,0001623944,Common Stock
+D,02/10/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,35000,6324476,2,0001623920,Common Stock
+D,01/03/2020 00:00:00,Cirne Lewis,4,S-Sale,--I,8500,6366976,1,0001623920,Common Stock
+D,12/09/2019 00:00:00,Cirne Lewis,4,G-Gift,-EI,7500,6359476,1,0001623920,Common Stock
+D,12/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,4749,6375476,3,0001623920,Common Stock
+D,12/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,2786,6380225,2,0001623920,Common Stock
+D,12/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,965,6383011,1,0001623920,Common Stock
+A,11/18/2019 00:00:00,Sachleben Mark,4,G-Gift,-EI,2301,110464,7,0001623944,Common Stock
+D,11/18/2019 00:00:00,Sachleben Mark,4,G-Gift,-ED,2301,0,6,0001623944,Common Stock
+D,11/18/2019 00:00:00,Sachleben Mark,4,S-Sale,--D,2327,2301,5,0001623944,Common Stock
+D,11/15/2019 00:00:00,FENTON PETER H,4,M-Exempt,--D,164,328,4,0001219230,Restricted Stock Units
+A,11/15/2019 00:00:00,FENTON PETER H,4,M-Exempt,--D,164,1229,1,0001219230,Common Stock
+D,11/15/2019 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,145,290,2,0001217124,Restricted Stock Units
+A,11/15/2019 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,145,6816,1,0001217124,Common Stock
+D,11/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,9309,11,0001623944,Restricted Stock Units
+D,11/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,6482,10,0001623944,Restricted Stock Units
+D,11/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,9240,9,0001623944,Restricted Stock Units
+D,11/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,3669,8,0001623944,Restricted Stock Units
+A,11/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,665,4628,4,0001623944,Common Stock
+A,11/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,3963,3,0001623944,Common Stock
+A,11/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,3374,2,0001623944,Common Stock
+A,11/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,1834,1,0001623944,Common Stock
+A,11/15/2019 00:00:00,Christenson Michael J,4,A-Award,--D,79118,79118,2,0001319331,Restricted Stock Units
+A,11/15/2019 00:00:00,Christenson Michael J,4,A-Award,--D,189412,189412,1,0001319331,Stock Option (Right to Buy)
+D,11/05/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,5235,6383976,2,0001623920,Common Stock
+D,11/05/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,4265,6389211,1,0001623920,Common Stock
+D,10/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,1000,6393476,5,0001623920,Common Stock
+D,10/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,542,6394476,4,0001623920,Common Stock
+D,10/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,4005,6395018,3,0001623920,Common Stock
+D,10/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,2381,6399023,2,0001623920,Common Stock
+D,10/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,1572,6401404,1,0001623920,Common Stock
+D,09/12/2019 00:00:00,Gochee James R.,4,S-Sale,--D,4000,124823,1,0001627841,Common Stock
+D,09/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,650,6402976,2,0001623920,Common Stock
+D,09/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,5850,6403626,1,0001623920,Common Stock
+A,08/22/2019 00:00:00,TOLONEN JAMES R,4,A-Award,--D,1579,1579,2,0001217124,Restricted Stock Units
+A,08/22/2019 00:00:00,TOLONEN JAMES R,4,A-Award,--D,3987,3987,1,0001217124,Stock Option (Right to Buy)
+A,08/22/2019 00:00:00,Scholnick Dan,4,A-Award,--D,1579,1579,2,0001606272,Restricted Stock Units
+A,08/22/2019 00:00:00,Scholnick Dan,4,A-Award,--D,3987,3987,1,0001606272,Stock Option (Right to Buy)
+A,08/22/2019 00:00:00,Messinger Adam,4,A-Award,--D,1579,1579,2,0001624030,Restricted Stock Units
+A,08/22/2019 00:00:00,Messinger Adam,4,A-Award,--D,3987,3987,1,0001624030,Stock Option (Right to Buy)
+A,08/22/2019 00:00:00,FENTON PETER H,4,A-Award,--D,1579,1579,2,0001219230,Restricted Stock Units
+A,08/22/2019 00:00:00,FENTON PETER H,4,A-Award,--D,3987,3987,1,0001219230,Stock Option (Right to Buy)
+A,08/22/2019 00:00:00,Cochran Hope F,4,A-Award,--D,1579,1579,2,0001392352,Restricted Stock Units
+A,08/22/2019 00:00:00,Cochran Hope F,4,A-Award,--D,3987,3987,1,0001392352,Stock Option (Right to Buy)
+A,08/22/2019 00:00:00,Christenson Michael J,4,A-Award,--D,1579,1579,2,0001319331,Restricted Stock Units
+A,08/22/2019 00:00:00,Christenson Michael J,4,A-Award,--D,3987,3987,1,0001319331,Stock Option (Right to Buy)
+A,08/22/2019 00:00:00,Watteeuw Carlisle Caroline,4,A-Award,--D,1579,1579,2,0001750061,Restricted Stock Units
+A,08/22/2019 00:00:00,Watteeuw Carlisle Caroline,4,A-Award,--D,3987,3987,1,0001750061,Stock Option (Right to Buy)
+A,08/22/2019 00:00:00,ABBASI SOHAIB,4,A-Award,--D,1579,1579,2,0001275992,Restricted Stock Units
+A,08/22/2019 00:00:00,ABBASI SOHAIB,4,A-Award,--D,3987,3987,1,0001275992,Stock Option (Right to Buy)
+D,08/19/2019 00:00:00,Schultz Erica,4,S-Sale,--D,2186,22002,9,0001542687,Common Stock
+D,08/19/2019 00:00:00,Sachleben Mark,4,S-Sale,--I,2332,108163,8,0001623944,Common Stock
+D,08/16/2019 00:00:00,Schultz Erica,4,S-Sale,--D,2154,24188,8,0001542687,Common Stock
+A,08/16/2019 00:00:00,Sachleben Mark,4,G-Gift,-EI,2332,110495,7,0001623944,Common Stock
+D,08/16/2019 00:00:00,Sachleben Mark,4,G-Gift,-ED,2332,0,6,0001623944,Common Stock
+D,08/16/2019 00:00:00,Sachleben Mark,4,S-Sale,--D,2295,2332,5,0001623944,Common Stock
+D,08/16/2019 00:00:00,Gochee James R.,4,S-Sale,--D,1788,128823,6,0001627841,Common Stock
+D,08/15/2019 00:00:00,Scholnick Dan,4,M-Exempt,--D,902,0,2,0001606272,Restricted Stock Units
+A,08/15/2019 00:00:00,Scholnick Dan,4,M-Exempt,--D,902,34992,1,0001606272,Common Stock
+D,08/15/2019 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,144,435,4,0001217124,Restricted Stock Units
+D,08/15/2019 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,902,0,3,0001217124,Restricted Stock Units
+A,08/15/2019 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,144,6671,2,0001217124,Common Stock
+A,08/15/2019 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,902,6527,1,0001217124,Common Stock
+D,08/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,1208,18133,15,0001542687,Restricted Stock Units
+D,08/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,1235,13582,14,0001542687,Restricted Stock Units
+D,08/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,182,1635,13,0001542687,Restricted Stock Units
+D,08/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,616,4312,12,0001542687,Restricted Stock Units
+D,08/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,917,2752,11,0001542687,Restricted Stock Units
+D,08/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,182,0,10,0001542687,Restricted Stock Units
+A,08/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,1208,26342,7,0001542687,Common Stock
+A,08/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,1235,25134,6,0001542687,Common Stock
+A,08/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,182,23899,5,0001542687,Common Stock
+A,08/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,616,23717,4,0001542687,Common Stock
+A,08/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,917,23101,3,0001542687,Common Stock
+A,08/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,182,22184,2,0001542687,Common Stock
+D,08/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,664,9974,12,0001623944,Restricted Stock Units
+D,08/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,590,7071,11,0001623944,Restricted Stock Units
+D,08/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,1539,10780,10,0001623944,Restricted Stock Units
+D,08/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,5503,9,0001623944,Restricted Stock Units
+A,08/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,664,4627,4,0001623944,Common Stock
+A,08/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,590,3963,3,0001623944,Common Stock
+A,08/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,1539,3373,2,0001623944,Common Stock
+A,08/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,1834,1,0001623944,Common Stock
+D,08/15/2019 00:00:00,Messinger Adam,4,M-Exempt,--D,902,0,2,0001624030,Restricted Stock Units
+A,08/15/2019 00:00:00,Messinger Adam,4,M-Exempt,--D,902,42569,1,0001624030,Common Stock
+D,08/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,362,5441,11,0001627841,Restricted Stock Units
+D,08/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,413,4950,10,0001627841,Restricted Stock Units
+D,08/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,1155,8085,9,0001627841,Restricted Stock Units
+D,08/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,1468,4402,8,0001627841,Restricted Stock Units
+D,08/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,287,0,7,0001627841,Restricted Stock Units
+A,08/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,362,130611,5,0001627841,Common Stock
+A,08/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,413,130249,4,0001627841,Common Stock
+A,08/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,1155,129836,3,0001627841,Common Stock
+A,08/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,1468,128681,2,0001627841,Common Stock
+A,08/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,287,127213,1,0001627841,Common Stock
+D,08/15/2019 00:00:00,FENTON PETER H,4,M-Exempt,--D,163,492,6,0001219230,Restricted Stock Units
+D,08/15/2019 00:00:00,FENTON PETER H,4,M-Exempt,--D,902,0,5,0001219230,Restricted Stock Units
+A,08/15/2019 00:00:00,FENTON PETER H,4,M-Exempt,--D,163,1065,2,0001219230,Common Stock
+A,08/15/2019 00:00:00,FENTON PETER H,4,M-Exempt,--D,902,902,1,0001219230,Common Stock
+D,08/15/2019 00:00:00,Cochran Hope F,4,M-Exempt,--D,902,0,2,0001392352,Restricted Stock Units
+A,08/15/2019 00:00:00,Cochran Hope F,4,M-Exempt,--D,902,1255,1,0001392352,Common Stock
+D,08/15/2019 00:00:00,Christenson Michael J,4,M-Exempt,--D,902,0,2,0001319331,Restricted Stock Units
+A,08/15/2019 00:00:00,Christenson Michael J,4,M-Exempt,--D,902,47500,1,0001319331,Common Stock
+D,08/15/2019 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,902,0,2,0001750061,Restricted Stock Units
+A,08/15/2019 00:00:00,Watteeuw Carlisle Caroline,4,M-Exempt,--D,902,902,1,0001750061,Common Stock
+D,08/15/2019 00:00:00,ABBASI SOHAIB,4,M-Exempt,--D,94,284,4,0001275992,Restricted Stock Units
+D,08/15/2019 00:00:00,ABBASI SOHAIB,4,M-Exempt,--D,902,0,3,0001275992,Restricted Stock Units
+A,08/15/2019 00:00:00,ABBASI SOHAIB,4,M-Exempt,--D,94,6347,2,0001275992,Common Stock
+A,08/15/2019 00:00:00,ABBASI SOHAIB,4,M-Exempt,--D,902,6253,1,0001275992,Common Stock
+D,08/14/2019 00:00:00,Gochee James R.,4,S-Sale,--D,4000,126926,1,0001627841,Common Stock
+D,08/13/2019 00:00:00,Sachleben Mark,4,S-Sale,--I,10000,108163,2,0001623944,Common Stock
+D,08/13/2019 00:00:00,Sachleben Mark,4,G-Gift,-EI,10000,118163,1,0001623944,Common Stock
+D,08/05/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,237,6409476,11,0001623920,Common Stock
+D,08/05/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,3211,6409713,10,0001623920,Common Stock
+D,08/05/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,5247,6412924,9,0001623920,Common Stock
+D,08/05/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,3305,6418171,8,0001623920,Common Stock
+D,08/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,29,174000,7,0001623920,Common Stock
+D,08/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,200,174029,6,0001623920,Common Stock
+D,08/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,100,174229,5,0001623920,Common Stock
+D,08/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,300,174329,4,0001623920,Common Stock
+D,08/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,366,174629,3,0001623920,Common Stock
+D,08/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,1356,174995,2,0001623920,Common Stock
+D,08/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,1649,176351,1,0001623920,Common Stock
+D,07/15/2019 00:00:00,Sachleben Mark,4,S-Sale,--I,15000,128163,1,0001623944,Common Stock
+D,07/10/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,2850,49300,3,0001627841,Stock Option (Right to Buy)
+D,07/10/2019 00:00:00,Gochee James R.,4,S-Sale,--D,6850,130926,2,0001627841,Common Stock
+A,07/10/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,2850,137776,1,0001627841,Common Stock
+D,07/05/2019 00:00:00,Schultz Erica,4,G-Gift,-ED,2124,22002,1,0001542687,Common Stock
+D,07/05/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,500,6421476,1,0001623920,Common Stock
+D,07/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,8388,6421976,4,0001623920,Common Stock
+D,07/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,4612,6430364,3,0001623920,Common Stock
+D,07/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,2457,178000,2,0001623920,Common Stock
+D,07/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,1543,180457,1,0001623920,Common Stock
+D,06/18/2019 00:00:00,Sachleben Mark,4,S-Sale,--I,15000,143163,1,0001623944,Common Stock
+D,06/14/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,2850,52150,3,0001627841,Stock Option (Right to Buy)
+D,06/14/2019 00:00:00,Gochee James R.,4,S-Sale,--D,6850,134926,2,0001627841,Common Stock
+A,06/14/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,2850,141776,1,0001627841,Common Stock
+D,06/12/2019 00:00:00,Gochee James R.,4,S-Sale,--D,4000,138926,1,0001627841,Common Stock
+D,06/06/2019 00:00:00,Cirne Lewis,4,G-Gift,-EI,10000,6434976,7,0001623920,Common Stock
+D,06/05/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,500,6444976,6,0001623920,Common Stock
+D,06/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,248,182000,12,0001623920,Common Stock
+D,06/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,1400,182248,11,0001623920,Common Stock
+D,06/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,752,183648,10,0001623920,Common Stock
+D,06/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,700,184400,9,0001623920,Common Stock
+D,06/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,900,185100,8,0001623920,Common Stock
+D,06/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,2239,6445476,5,0001623920,Common Stock
+D,06/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,3900,6447715,4,0001623920,Common Stock
+D,06/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,2100,6451615,3,0001623920,Common Stock
+D,06/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,3604,6453715,2,0001623920,Common Stock
+D,06/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,3157,6457319,1,0001623920,Common Stock
+D,05/22/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,2500,28976,3,0001542687,Stock Option (Right to Buy)
+D,05/22/2019 00:00:00,Schultz Erica,4,S-Sale,--D,2500,24126,2,0001542687,Common Stock
+A,05/22/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,2500,26626,1,0001542687,Common Stock
+D,05/22/2019 00:00:00,FENTON PETER H,4,G-Gift,-EI,5000,105914,4,0001219230,Common Stock
+D,05/21/2019 00:00:00,FENTON PETER H,4,S-Sale,--I,2625,110914,3,0001219230,Common Stock
+D,05/21/2019 00:00:00,FENTON PETER H,4,S-Sale,--I,8271,113539,2,0001219230,Common Stock
+D,05/20/2019 00:00:00,FENTON PETER H,4,S-Sale,--I,34104,121810,1,0001219230,Common Stock
+D,05/20/2019 00:00:00,Sachleben Mark,4,S-Sale,--I,3947,158163,1,0001623944,Common Stock
+D,05/17/2019 00:00:00,Schultz Erica,4,S-Sale,--D,2237,24126,8,0001542687,Common Stock
+D,05/16/2019 00:00:00,Schultz Erica,4,S-Sale,--D,1443,26363,7,0001542687,Common Stock
+A,05/16/2019 00:00:00,Sachleben Mark,4,G-Gift,-EI,3947,162110,7,0001623944,Common Stock
+D,05/16/2019 00:00:00,Sachleben Mark,4,G-Gift,-ED,3947,0,6,0001623944,Common Stock
+D,05/16/2019 00:00:00,Sachleben Mark,4,S-Sale,--D,3450,3947,5,0001623944,Common Stock
+D,05/16/2019 00:00:00,Gochee James R.,4,S-Sale,--D,1673,288337,7,0001627841,Common Stock
+A,05/15/2019 00:00:00,Schultz Erica,4,A-Award,--D,19341,19341,16,0001542687,Restricted Stock Units
+A,05/15/2019 00:00:00,Schultz Erica,4,A-Award,--D,44979,44979,15,0001542687,Stock Option (Right to Buy)
+D,05/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,1234,14817,14,0001542687,Restricted Stock Units
+D,05/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,181,1817,13,0001542687,Restricted Stock Units
+D,05/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,616,4928,12,0001542687,Restricted Stock Units
+D,05/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,917,3669,11,0001542687,Restricted Stock Units
+D,05/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,182,182,10,0001542687,Restricted Stock Units
+D,05/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,550,0,9,0001542687,Restricted Stock Units
+A,05/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,1234,27806,6,0001542687,Common Stock
+A,05/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,181,26572,5,0001542687,Common Stock
+A,05/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,616,26391,4,0001542687,Common Stock
+A,05/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,917,25775,3,0001542687,Common Stock
+A,05/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,182,24858,2,0001542687,Common Stock
+A,05/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,550,24676,1,0001542687,Common Stock
+A,05/15/2019 00:00:00,Sachleben Mark,4,A-Award,--D,10638,10638,13,0001623944,Restricted Stock Units
+A,05/15/2019 00:00:00,Sachleben Mark,4,A-Award,--D,24739,24739,12,0001623944,Stock Option (Right to Buy)
+D,05/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,7661,11,0001623944,Restricted Stock Units
+D,05/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,12319,10,0001623944,Restricted Stock Units
+D,05/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,7337,9,0001623944,Restricted Stock Units
+D,05/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,3434,0,8,0001623944,Restricted Stock Units
+A,05/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,7397,4,0001623944,Common Stock
+A,05/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,5857,3,0001623944,Common Stock
+A,05/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,3434,4023,2,0001623944,Common Stock
+A,05/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,589,1,0001623944,Common Stock
+A,05/15/2019 00:00:00,Gochee James R.,4,A-Award,--D,5803,5803,14,0001627841,Restricted Stock Units
+A,05/15/2019 00:00:00,Gochee James R.,4,A-Award,--D,13494,13494,13,0001627841,Stock Option (Right to Buy)
+D,05/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,412,5363,12,0001627841,Restricted Stock Units
+D,05/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,1155,9240,11,0001627841,Restricted Stock Units
+D,05/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,1467,5870,10,0001627841,Restricted Stock Units
+D,05/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,286,287,9,0001627841,Restricted Stock Units
+D,05/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,1456,0,8,0001627841,Restricted Stock Units
+A,05/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,1155,290010,6,0001627841,Common Stock
+A,05/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,1467,288855,5,0001627841,Common Stock
+A,05/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,286,287388,4,0001627841,Common Stock
+A,05/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,1456,287102,3,0001627841,Common Stock
+A,05/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,412,285646,2,0001627841,Common Stock
+D,05/15/2019 00:00:00,Gochee James R.,4,S-Sale,--D,4000,285234,1,0001627841,Common Stock
+A,05/15/2019 00:00:00,Cirne Lewis,4,A-Award,--D,103452,103452,1,0001623920,Stock Option (Right to Buy)
+D,05/15/2019 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,198,0,2,0001217124,Restricted Stock Units
+A,05/15/2019 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,198,5625,1,0001217124,Common Stock
+D,05/15/2019 00:00:00,FENTON PETER H,4,M-Exempt,--D,155,0,3,0001219230,Restricted Stock Units
+A,05/15/2019 00:00:00,FENTON PETER H,4,M-Exempt,--D,155,617,1,0001219230,Common Stock
+D,05/15/2019 00:00:00,ABBASI SOHAIB,4,M-Exempt,--D,129,0,2,0001275992,Restricted Stock Units
+A,05/15/2019 00:00:00,ABBASI SOHAIB,4,M-Exempt,--D,129,5351,1,0001275992,Common Stock
+D,05/13/2019 00:00:00,Sachleben Mark,4,S-Sale,--I,15000,158163,1,0001623944,Common Stock
+D,05/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,1700,6460476,1,0001623920,Common Stock
+D,05/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,2500,186000,6,0001623920,Common Stock
+D,05/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,1500,188500,5,0001623920,Common Stock
+D,05/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,5460,6462176,4,0001623920,Common Stock
+D,05/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,8804,6467636,3,0001623920,Common Stock
+D,05/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,2736,6476440,2,0001623920,Common Stock
+A,04/15/2019 00:00:00,FENTON PETER H,4,A-Award,--D,655,655,1,0001219230,Restricted Stock Units
+A,04/15/2019 00:00:00,ABBASI SOHAIB,4,A-Award,--D,378,378,1,0001275992,Restricted Stock Units
+A,04/15/2019 00:00:00,TOLONEN JAMES R,4,A-Award,--D,579,579,1,0001217124,Restricted Stock Units
+D,04/15/2019 00:00:00,Sachleben Mark,4,S-Sale,--I,15000,173163,1,0001623944,Common Stock
+D,04/10/2019 00:00:00,Gochee James R.,4,S-Sale,--D,4000,289234,1,0001627841,Common Stock
+D,04/05/2019 00:00:00,Cirne Lewis,4,G-Gift,-EI,10280,6479176,1,0001623920,Common Stock
+D,04/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,7226,6489456,6,0001623920,Common Stock
+D,04/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,5074,6496682,5,0001623920,Common Stock
+D,04/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,2700,6501756,4,0001623920,Common Stock
+D,04/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,100,190000,3,0001623920,Common Stock
+D,04/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,2060,190100,2,0001623920,Common Stock
+D,04/02/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,1840,192160,1,0001623920,Common Stock
+D,03/18/2019 00:00:00,Sachleben Mark,4,S-Sale,--I,15000,188163,1,0001623944,Common Stock
+D,03/13/2019 00:00:00,Gochee James R.,4,S-Sale,--D,4000,293234,1,0001627841,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,200,194000,17,0001623920,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,300,194200,16,0001623920,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,200,194500,15,0001623920,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,400,194700,14,0001623920,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,902,195100,13,0001623920,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,1398,196002,12,0001623920,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,200,197400,11,0001623920,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,400,197600,10,0001623920,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,400,6504456,9,0001623920,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,1600,6504856,8,0001623920,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,700,6506456,7,0001623920,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,1300,6507156,6,0001623920,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,3313,6508456,5,0001623920,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,2787,6511769,4,0001623920,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,2500,6514556,3,0001623920,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,2100,6517056,2,0001623920,Common Stock
+D,03/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,1600,6519156,1,0001623920,Common Stock
+D,02/22/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,2500,31476,3,0001542687,Stock Option (Right to Buy)
+D,02/22/2019 00:00:00,Schultz Erica,4,S-Sale,--D,2500,24126,2,0001542687,Common Stock
+A,02/22/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,2500,26626,1,0001542687,Common Stock
+D,02/20/2019 00:00:00,Schultz Erica,4,S-Sale,--D,2405,24126,8,0001542687,Common Stock
+D,02/20/2019 00:00:00,Sachleben Mark,4,S-Sale,--I,4814,203163,10,0001623944,Common Stock
+D,02/19/2019 00:00:00,Schultz Erica,4,S-Sale,--D,1276,26531,7,0001542687,Common Stock
+D,02/19/2019 00:00:00,Sachleben Mark,4,S-Sale,--I,15000,207977,9,0001623944,Common Stock
+D,02/19/2019 00:00:00,Sachleben Mark,4,S-Sale,--I,245,222977,8,0001623944,Common Stock
+A,02/19/2019 00:00:00,Sachleben Mark,4,G-Gift,-EI,5059,223222,7,0001623944,Common Stock
+D,02/19/2019 00:00:00,Sachleben Mark,4,G-Gift,-ED,5059,0,6,0001623944,Common Stock
+D,02/19/2019 00:00:00,Sachleben Mark,4,S-Sale,--D,2582,5059,5,0001623944,Common Stock
+D,02/19/2019 00:00:00,Gochee James R.,4,S-Sale,--D,1624,297234,6,0001627841,Common Stock
+D,02/15/2019 00:00:00,FENTON PETER H,4,M-Exempt,--D,154,155,3,0001219230,Restricted Stock Units
+A,02/15/2019 00:00:00,FENTON PETER H,4,M-Exempt,--D,154,462,1,0001219230,Common Stock
+D,02/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,182,1998,14,0001542687,Restricted Stock Units
+D,02/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,616,5544,13,0001542687,Restricted Stock Units
+D,02/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,917,4586,12,0001542687,Restricted Stock Units
+D,02/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,182,364,11,0001542687,Restricted Stock Units
+D,02/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,549,550,10,0001542687,Restricted Stock Units
+D,02/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,1235,16051,9,0001542687,Restricted Stock Units
+A,02/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,182,27807,6,0001542687,Common Stock
+A,02/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,616,27625,5,0001542687,Common Stock
+A,02/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,917,27009,4,0001542687,Common Stock
+A,02/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,182,26092,3,0001542687,Common Stock
+A,02/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,549,25910,2,0001542687,Common Stock
+A,02/15/2019 00:00:00,Schultz Erica,4,M-Exempt,--D,1235,25361,1,0001542687,Common Stock
+D,02/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,13859,14,0001623944,Restricted Stock Units
+D,02/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,9171,13,0001623944,Restricted Stock Units
+D,02/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,3433,3434,12,0001623944,Restricted Stock Units
+D,02/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,8250,11,0001623944,Restricted Stock Units
+A,02/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,7641,4,0001623944,Common Stock
+A,02/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,6101,3,0001623944,Common Stock
+A,02/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,3433,4267,2,0001623944,Common Stock
+A,02/15/2019 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,834,1,0001623944,Common Stock
+D,02/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,1155,10395,11,0001627841,Restricted Stock Units
+D,02/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,1467,7337,10,0001627841,Restricted Stock Units
+D,02/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,286,573,9,0001627841,Restricted Stock Units
+D,02/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,1455,1456,8,0001627841,Restricted Stock Units
+D,02/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,413,5775,7,0001627841,Restricted Stock Units
+A,02/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,1155,298858,5,0001627841,Common Stock
+A,02/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,1467,297703,4,0001627841,Common Stock
+A,02/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,286,296236,3,0001627841,Common Stock
+A,02/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,1455,295950,2,0001627841,Common Stock
+A,02/15/2019 00:00:00,Gochee James R.,4,M-Exempt,--D,413,294495,1,0001627841,Common Stock
+D,02/15/2019 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,197,198,2,0001217124,Restricted Stock Units
+A,02/15/2019 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,197,5427,1,0001217124,Common Stock
+D,02/15/2019 00:00:00,ABBASI SOHAIB,4,M-Exempt,--D,129,129,2,0001275992,Restricted Stock Units
+A,02/15/2019 00:00:00,ABBASI SOHAIB,4,M-Exempt,--D,129,5222,1,0001275992,Common Stock
+D,02/13/2019 00:00:00,Gochee James R.,4,S-Sale,--D,4000,293837,1,0001627841,Common Stock
+D,02/11/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,1050,6520756,3,0001623920,Common Stock
+D,02/11/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,8430,6521806,2,0001623920,Common Stock
+D,02/11/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,6520,6530236,1,0001623920,Common Stock
+D,02/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,600,198000,3,0001623920,Common Stock
+D,02/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,2400,198600,2,0001623920,Common Stock
+D,02/04/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,1000,201000,1,0001623920,Common Stock
+D,01/22/2019 00:00:00,Sachleben Mark,4,S-Sale,--I,2000,0,1,0001623944,Common Stock
+D,01/16/2019 00:00:00,Gochee James R.,4,S-Sale,--D,4000,297837,1,0001627841,Common Stock
+D,01/14/2019 00:00:00,Sachleben Mark,4,S-Sale,--I,15000,218163,1,0001623944,Common Stock
+D,01/10/2019 00:00:00,Sachleben Mark,4,S-Sale,--I,2000,0,1,0001623944,Common Stock
+D,01/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,400,202000,7,0001623920,Common Stock
+D,01/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,1200,202400,6,0001623920,Common Stock
+D,01/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,2400,203600,5,0001623920,Common Stock
+D,01/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,7415,6536756,4,0001623920,Common Stock
+D,01/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,27312,6544171,3,0001623920,Common Stock
+D,01/03/2019 00:00:00,Cirne Lewis,4,S-Sale,--I,50273,6571483,2,0001623920,Common Stock
+D,12/26/2018 00:00:00,Cirne Lewis,4,G-Gift,-EI,15000,6621756,1,0001623920,Common Stock
+D,12/20/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,1071,233163,1,0001623944,Common Stock
+D,12/19/2018 00:00:00,Schultz Erica,4,S-Sale,--D,874,23881,1,0001542687,Common Stock
+D,12/17/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,2000,6,0001623944,Common Stock
+D,12/17/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,15000,234234,5,0001623944,Common Stock
+A,12/17/2018 00:00:00,Sachleben Mark,4,G-Gift,-EI,1071,249234,4,0001623944,Common Stock
+D,12/17/2018 00:00:00,Sachleben Mark,4,G-Gift,-ED,1071,0,3,0001623944,Common Stock
+D,12/17/2018 00:00:00,Sachleben Mark,4,S-Sale,--D,1133,1071,2,0001623944,Common Stock
+D,12/17/2018 00:00:00,Gochee James R.,4,S-Sale,--D,500,301837,2,0001627841,Common Stock
+D,12/17/2018 00:00:00,Schultz Erica,4,S-Sale,--D,24,24755,3,0001542687,Common Stock
+D,12/17/2018 00:00:00,Schultz Erica,4,S-Sale,--D,900,24779,2,0001542687,Common Stock
+D,12/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,2204,0,8,0001623944,Restricted Stock Units
+A,12/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,2204,2204,1,0001623944,Common Stock
+D,12/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,996,0,3,0001627841,Restricted Stock Units
+A,12/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,996,302337,1,0001627841,Common Stock
+D,12/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1798,0,4,0001542687,Restricted Stock Units
+A,12/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1798,25679,1,0001542687,Common Stock
+D,12/12/2018 00:00:00,Gochee James R.,4,S-Sale,--D,4000,301341,1,0001627841,Common Stock
+D,12/06/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,2000,1,0001623944,Common Stock
+D,12/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,500,206000,8,0001623920,Common Stock
+D,12/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,1000,206500,7,0001623920,Common Stock
+D,12/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,800,207500,6,0001623920,Common Stock
+D,12/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,1700,208300,5,0001623920,Common Stock
+D,12/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,23087,6636756,4,0001623920,Common Stock
+D,12/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,16507,6659843,3,0001623920,Common Stock
+D,12/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,20930,6676350,2,0001623920,Common Stock
+D,12/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,24476,6697280,1,0001623920,Common Stock
+D,11/23/2018 00:00:00,Schultz Erica,4,S-Sale,--D,382,23881,1,0001542687,Common Stock
+D,11/20/2018 00:00:00,Schultz Erica,4,S-Sale,--D,2661,24263,1,0001542687,Common Stock
+D,11/20/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,3625,248163,1,0001623944,Common Stock
+D,11/19/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,9500,9,0001623944,Common Stock
+D,11/16/2018 00:00:00,Schultz Erica,4,S-Sale,--D,1879,26924,9,0001542687,Common Stock
+A,11/16/2018 00:00:00,Sachleben Mark,4,G-Gift,-EI,3625,251788,8,0001623944,Common Stock
+D,11/16/2018 00:00:00,Sachleben Mark,4,G-Gift,-ED,3625,0,7,0001623944,Common Stock
+D,11/16/2018 00:00:00,Sachleben Mark,4,S-Sale,--D,100,3625,6,0001623944,Common Stock
+D,11/16/2018 00:00:00,Sachleben Mark,4,S-Sale,--D,3671,3725,5,0001623944,Common Stock
+D,11/16/2018 00:00:00,Gochee James R.,4,S-Sale,--D,2381,305341,6,0001627841,Common Stock
+D,11/15/2018 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,197,395,2,0001217124,Restricted Stock Units
+A,11/15/2018 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,197,5230,1,0001217124,Common Stock
+D,11/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,182,2180,16,0001542687,Restricted Stock Units
+D,11/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,616,6160,15,0001542687,Restricted Stock Units
+D,11/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,917,5503,14,0001542687,Restricted Stock Units
+D,11/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,181,546,13,0001542687,Restricted Stock Units
+D,11/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,550,1099,12,0001542687,Restricted Stock Units
+D,11/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1235,17286,11,0001542687,Restricted Stock Units
+D,11/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1800,33976,10,0001542687,Stock Option (Right to Buy)
+A,11/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,182,28803,8,0001542687,Common Stock
+A,11/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,616,28621,7,0001542687,Common Stock
+A,11/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,917,28005,6,0001542687,Common Stock
+A,11/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,181,27088,5,0001542687,Common Stock
+A,11/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,550,26907,4,0001542687,Common Stock
+A,11/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1235,26357,3,0001542687,Common Stock
+D,11/15/2018 00:00:00,Schultz Erica,4,S-Sale,--D,1800,25122,2,0001542687,Common Stock
+A,11/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1800,26922,1,0001542687,Common Stock
+D,11/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,15399,14,0001623944,Restricted Stock Units
+D,11/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,11005,13,0001623944,Restricted Stock Units
+D,11/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,3433,6867,12,0001623944,Restricted Stock Units
+D,11/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,8839,11,0001623944,Restricted Stock Units
+A,11/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,7396,4,0001623944,Common Stock
+A,11/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,5856,3,0001623944,Common Stock
+A,11/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,3433,4022,2,0001623944,Common Stock
+A,11/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,589,589,1,0001623944,Common Stock
+D,11/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1155,11550,11,0001627841,Restricted Stock Units
+D,11/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1468,8804,10,0001627841,Restricted Stock Units
+D,11/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,286,859,9,0001627841,Restricted Stock Units
+D,11/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1455,2911,8,0001627841,Restricted Stock Units
+D,11/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,412,6188,7,0001627841,Restricted Stock Units
+A,11/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1155,307722,5,0001627841,Common Stock
+A,11/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1468,306567,4,0001627841,Common Stock
+A,11/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,286,305099,3,0001627841,Common Stock
+A,11/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1455,304813,2,0001627841,Common Stock
+A,11/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,412,303358,1,0001627841,Common Stock
+D,11/15/2018 00:00:00,FENTON PETER H,4,M-Exempt,--D,154,309,3,0001219230,Restricted Stock Units
+A,11/15/2018 00:00:00,FENTON PETER H,4,M-Exempt,--D,154,308,1,0001219230,Common Stock
+D,11/15/2018 00:00:00,ABBASI SOHAIB,4,M-Exempt,--D,129,258,2,0001275992,Restricted Stock Units
+A,11/15/2018 00:00:00,ABBASI SOHAIB,4,M-Exempt,--D,129,5093,1,0001275992,Common Stock
+D,11/14/2018 00:00:00,Gochee James R.,4,S-Sale,--D,4000,302946,1,0001627841,Common Stock
+D,11/12/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,15000,248163,1,0001623944,Common Stock
+D,11/08/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,9500,1,0001623944,Common Stock
+D,11/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,400,210000,10,0001623920,Common Stock
+D,11/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,918,210400,9,0001623920,Common Stock
+D,11/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,1211,211318,8,0001623920,Common Stock
+D,11/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,1471,212529,7,0001623920,Common Stock
+D,11/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,6700,6721756,6,0001623920,Common Stock
+D,11/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,2701,6728456,5,0001623920,Common Stock
+D,11/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,23747,6731157,4,0001623920,Common Stock
+D,11/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,21404,6754904,3,0001623920,Common Stock
+D,11/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,30448,6776308,2,0001623920,Common Stock
+D,10/17/2018 00:00:00,Gochee James R.,4,S-Sale,--D,4000,306946,1,0001627841,Common Stock
+D,10/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1800,35776,4,0001542687,Stock Option (Right to Buy)
+D,10/15/2018 00:00:00,Schultz Erica,4,S-Sale,--D,107,25122,3,0001542687,Common Stock
+D,10/15/2018 00:00:00,Schultz Erica,4,S-Sale,--D,1693,25229,2,0001542687,Common Stock
+A,10/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1800,26922,1,0001542687,Common Stock
+D,10/15/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,17000,2,0001623944,Common Stock
+D,10/15/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,15000,263163,1,0001623944,Common Stock
+D,10/10/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,4906,37576,2,0001542687,Stock Option (Right to Buy)
+A,10/10/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,4906,25122,1,0001542687,Common Stock
+D,10/08/2018 00:00:00,Cirne Lewis,4,G-Gift,-EI,12000,6806756,1,0001623920,Common Stock
+D,10/04/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,17000,1,0001623944,Common Stock
+D,10/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,500,214000,7,0001623920,Common Stock
+D,10/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,1300,214500,6,0001623920,Common Stock
+D,10/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,2200,215800,5,0001623920,Common Stock
+D,10/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,4327,6818756,4,0001623920,Common Stock
+D,10/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,14314,6823083,3,0001623920,Common Stock
+D,10/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,24914,6837397,2,0001623920,Common Stock
+D,10/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,41445,6862311,1,0001623920,Common Stock
+D,09/20/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,1052,278163,1,0001623944,Common Stock
+D,09/17/2018 00:00:00,Gochee James R.,4,S-Sale,--D,508,310946,2,0001627841,Common Stock
+D,09/17/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1800,42482,6,0001542687,Stock Option (Right to Buy)
+D,09/17/2018 00:00:00,Schultz Erica,4,S-Sale,--D,1800,20216,4,0001542687,Common Stock
+A,09/17/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1800,22016,3,0001542687,Common Stock
+D,09/17/2018 00:00:00,Schultz Erica,4,S-Sale,--D,939,20216,2,0001542687,Common Stock
+D,09/17/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,24500,6,0001623944,Common Stock
+D,09/17/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,15000,279215,5,0001623944,Common Stock
+A,09/17/2018 00:00:00,Sachleben Mark,4,G-Gift,-EI,1052,294215,4,0001623944,Common Stock
+D,09/17/2018 00:00:00,Sachleben Mark,4,G-Gift,-ED,1052,0,3,0001623944,Common Stock
+D,09/17/2018 00:00:00,Sachleben Mark,4,S-Sale,--D,1151,1052,2,0001623944,Common Stock
+D,09/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,995,996,3,0001627841,Restricted Stock Units
+A,09/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,995,311454,1,0001627841,Common Stock
+D,09/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1798,1798,5,0001542687,Restricted Stock Units
+A,09/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1798,21155,1,0001542687,Common Stock
+D,09/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,2203,2204,8,0001623944,Restricted Stock Units
+A,09/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,2203,2203,1,0001623944,Common Stock
+D,09/12/2018 00:00:00,FENTON PETER H,4,S-Sale,--I,2791,316443,4,0001219230,Common Stock
+D,09/12/2018 00:00:00,FENTON PETER H,4,S-Sale,--I,9309,319234,3,0001219230,Common Stock
+D,09/12/2018 00:00:00,Gochee James R.,4,S-Sale,--D,4000,310459,1,0001627841,Common Stock
+D,09/11/2018 00:00:00,FENTON PETER H,4,S-Sale,--I,10383,328543,2,0001219230,Common Stock
+D,09/11/2018 00:00:00,FENTON PETER H,4,S-Sale,--I,29488,338926,1,0001219230,Common Stock
+D,09/06/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,24500,1,0001623944,Common Stock
+D,09/05/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,232,218000,16,0001623920,Common Stock
+D,09/05/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,100,218232,15,0001623920,Common Stock
+D,09/05/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,200,218332,14,0001623920,Common Stock
+D,09/05/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,100,218532,13,0001623920,Common Stock
+D,09/05/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,600,218632,12,0001623920,Common Stock
+D,09/05/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,1700,219232,11,0001623920,Common Stock
+D,09/05/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,1068,220932,10,0001623920,Common Stock
+D,09/05/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,1218,6903756,9,0001623920,Common Stock
+D,09/05/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,1783,6904974,8,0001623920,Common Stock
+D,09/05/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,4000,6906757,7,0001623920,Common Stock
+D,09/05/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,2600,6910757,6,0001623920,Common Stock
+D,09/05/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,530,6913357,5,0001623920,Common Stock
+D,09/05/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,590,6913887,4,0001623920,Common Stock
+D,09/05/2018 00:00:00,Cirne Lewis,4,S-Sale,--D,15260,6914477,3,0001623920,Common Stock
+D,09/05/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,42676,6929737,2,0001623920,Common Stock
+D,09/05/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,16343,6972413,1,0001623920,Common Stock
+A,08/21/2018 00:00:00,Scholnick Dan,4,A-Award,--D,902,902,3,0001606272,Restricted Stock Units
+A,08/21/2018 00:00:00,Scholnick Dan,4,A-Award,--D,2164,2164,2,0001606272,Stock Option (Right to Buy)
+A,08/21/2018 00:00:00,FENTON PETER H,4,A-Award,--D,902,902,2,0001219230,Restricted Stock Units
+A,08/21/2018 00:00:00,FENTON PETER H,4,A-Award,--D,2164,2164,1,0001219230,Stock Option (Right to Buy)
+A,08/21/2018 00:00:00,TOLONEN JAMES R,4,A-Award,--D,902,902,2,0001217124,Restricted Stock Units
+A,08/21/2018 00:00:00,TOLONEN JAMES R,4,A-Award,--D,2164,2164,1,0001217124,Stock Option (Right to Buy)
+A,08/21/2018 00:00:00,Messinger Adam,4,A-Award,--D,902,902,2,0001624030,Restricted Stock Units
+A,08/21/2018 00:00:00,Messinger Adam,4,A-Award,--D,2164,2164,1,0001624030,Stock Option (Right to Buy)
+A,08/21/2018 00:00:00,Cochran Hope F,4,A-Award,--D,902,902,2,0001392352,Restricted Stock Units
+A,08/21/2018 00:00:00,Cochran Hope F,4,A-Award,--D,2164,2164,1,0001392352,Stock Option (Right to Buy)
+A,08/21/2018 00:00:00,ABBASI SOHAIB,4,A-Award,--D,902,902,2,0001275992,Restricted Stock Units
+A,08/21/2018 00:00:00,ABBASI SOHAIB,4,A-Award,--D,2164,2164,1,0001275992,Stock Option (Right to Buy)
+A,08/21/2018 00:00:00,Watteeuw Carlisle Caroline,4,A-Award,--D,902,902,2,0001750061,Restricted Stock Units
+A,08/21/2018 00:00:00,Watteeuw Carlisle Caroline,4,A-Award,--D,2164,2164,1,0001750061,Stock Option (Right to Buy)
+A,08/21/2018 00:00:00,Christenson Michael J,4,A-Award,--D,902,902,2,0001319331,Restricted Stock Units
+A,08/21/2018 00:00:00,Christenson Michael J,4,A-Award,--D,2164,2164,1,0001319331,Stock Option (Right to Buy)
+D,08/20/2018 00:00:00,Schultz Erica,4,S-Sale,--D,2765,19357,1,0001542687,Common Stock
+D,08/20/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,3437,293163,1,0001623944,Common Stock
+D,08/16/2018 00:00:00,Schultz Erica,4,S-Sale,--D,1823,22122,9,0001542687,Common Stock
+A,08/16/2018 00:00:00,Sachleben Mark,4,G-Gift,-EI,3437,296600,6,0001623944,Common Stock
+D,08/16/2018 00:00:00,Sachleben Mark,4,G-Gift,-ED,3437,0,5,0001623944,Common Stock
+D,08/16/2018 00:00:00,Sachleben Mark,4,S-Sale,--D,3370,3437,4,0001623944,Common Stock
+D,08/16/2018 00:00:00,Gochee James R.,4,S-Sale,--D,1826,314459,6,0001627841,Common Stock
+D,08/15/2018 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,197,592,4,0001217124,Restricted Stock Units
+D,08/15/2018 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,1667,0,3,0001217124,Restricted Stock Units
+A,08/15/2018 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,197,5033,2,0001217124,Common Stock
+A,08/15/2018 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,1667,4836,1,0001217124,Common Stock
+D,08/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,181,2362,16,0001542687,Restricted Stock Units
+D,08/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,616,6776,15,0001542687,Restricted Stock Units
+D,08/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,917,6420,14,0001542687,Restricted Stock Units
+D,08/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,182,727,13,0001542687,Restricted Stock Units
+D,08/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,549,1649,12,0001542687,Restricted Stock Units
+D,08/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1234,18521,11,0001542687,Restricted Stock Units
+D,08/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1800,44282,10,0001542687,Stock Option (Right to Buy)
+A,08/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,181,23945,8,0001542687,Common Stock
+A,08/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,616,23764,7,0001542687,Common Stock
+A,08/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,917,23148,6,0001542687,Common Stock
+A,08/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,182,22231,5,0001542687,Common Stock
+A,08/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,549,22049,4,0001542687,Common Stock
+A,08/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1234,21500,3,0001542687,Common Stock
+D,08/15/2018 00:00:00,Schultz Erica,4,S-Sale,--D,1800,20266,2,0001542687,Common Stock
+A,08/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1800,22066,1,0001542687,Common Stock
+A,08/15/2018 00:00:00,Sachleben Mark,4,A-Award,--D,21648,21648,13,0001623944,Stock Option (Right to Buy)
+A,08/15/2018 00:00:00,Sachleben Mark,4,A-Award,--D,9428,9428,12,0001623944,Restricted Stock Units
+D,08/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,16939,11,0001623944,Restricted Stock Units
+D,08/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,12839,10,0001623944,Restricted Stock Units
+D,08/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,3433,10300,9,0001623944,Restricted Stock Units
+A,08/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,6807,3,0001623944,Common Stock
+A,08/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,5267,2,0001623944,Common Stock
+A,08/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,3433,3433,1,0001623944,Common Stock
+D,08/15/2018 00:00:00,Messinger Adam,4,M-Exempt,--D,1667,0,2,0001624030,Restricted Stock Units
+A,08/15/2018 00:00:00,Messinger Adam,4,M-Exempt,--D,1667,41667,1,0001624030,Common Stock
+A,08/15/2018 00:00:00,Gochee James R.,4,A-Award,--D,15154,15154,12,0001627841,Stock Option (Right to Buy)
+A,08/15/2018 00:00:00,Gochee James R.,4,A-Award,--D,6600,6600,11,0001627841,Restricted Stock Units
+D,08/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1155,12705,10,0001627841,Restricted Stock Units
+D,08/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1467,10272,9,0001627841,Restricted Stock Units
+D,08/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,287,1145,8,0001627841,Restricted Stock Units
+D,08/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1455,4366,7,0001627841,Restricted Stock Units
+D,08/15/2018 00:00:00,Gochee James R.,4,S-Sale,--D,4000,316285,5,0001627841,Common Stock
+A,08/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1155,320285,4,0001627841,Common Stock
+A,08/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1467,319130,3,0001627841,Common Stock
+A,08/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,287,317663,2,0001627841,Common Stock
+A,08/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1455,317376,1,0001627841,Common Stock
+D,08/15/2018 00:00:00,FENTON PETER H,4,M-Exempt,--D,154,463,3,0001219230,Restricted Stock Units
+A,08/15/2018 00:00:00,FENTON PETER H,4,M-Exempt,--D,154,154,1,0001219230,Common Stock
+D,08/15/2018 00:00:00,Cochran Hope F,4,M-Exempt,--D,353,0,2,0001392352,Restricted Stock Units
+A,08/15/2018 00:00:00,Cochran Hope F,4,M-Exempt,--D,353,353,1,0001392352,Commn Stock
+D,08/15/2018 00:00:00,ABBASI SOHAIB,4,M-Exempt,--D,128,387,4,0001275992,Restricted Stock Units
+D,08/15/2018 00:00:00,ABBASI SOHAIB,4,M-Exempt,--D,1667,0,3,0001275992,Restricted Stock Units
+A,08/15/2018 00:00:00,ABBASI SOHAIB,4,M-Exempt,--D,128,4964,2,0001275992,Common Stock
+A,08/15/2018 00:00:00,ABBASI SOHAIB,4,M-Exempt,--D,1667,4836,1,0001275992,Common Stock
+A,08/15/2018 00:00:00,Cirne Lewis,4,A-Award,--D,75767,75767,1,0001623920,Stock Option (Right to Buy)
+D,08/13/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,15000,293163,1,0001623944,Common Stock
+D,08/09/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,32000,2,0001623944,Common Stock
+D,08/07/2018 00:00:00,Sachleben Mark,4,G-Gift,-EI,20000,308163,1,0001623944,Common Stock
+D,08/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,1600,222000,9,0001623920,Common Stock
+D,08/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,1400,223600,8,0001623920,Common Stock
+D,08/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,500,225000,7,0001623920,Common Stock
+D,08/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,500,225500,6,0001623920,Common Stock
+D,08/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,17255,6988756,5,0001623920,Common Stock
+D,08/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,30122,7006011,4,0001623920,Common Stock
+D,08/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,24522,7036133,3,0001623920,Common Stock
+D,08/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,7320,7060655,2,0001623920,Common Stock
+D,08/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,5781,7067975,1,0001623920,Common Stock
+D,07/16/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,32000,2,0001623944,Common Stock
+D,07/16/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1800,46082,3,0001542687,Stock Option (Right to Buy)
+D,07/16/2018 00:00:00,Schultz Erica,4,S-Sale,--D,1800,20266,2,0001542687,Common Stock
+A,07/16/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1800,22066,1,0001542687,Common Stock
+D,07/16/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,39500,2,0001623944,Common Stock
+D,07/16/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,15000,328163,1,0001623944,Common Stock
+D,07/11/2018 00:00:00,Gochee James R.,4,S-Sale,--D,4000,315921,1,0001627841,Common Stock
+D,07/05/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,39500,1,0001623944,Common Stock
+D,07/03/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,100,226000,6,0001623920,Common Stock
+D,07/03/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,1087,226100,5,0001623920,Common Stock
+D,07/03/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,2813,227187,4,0001623920,Common Stock
+D,07/03/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,9416,7073756,3,0001623920,Common Stock
+D,07/03/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,25097,7083172,2,0001623920,Common Stock
+D,07/03/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,50487,7108269,1,0001623920,Common Stock
+D,06/20/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,1114,343163,1,0001623944,Common Stock
+D,06/18/2018 00:00:00,Schultz Erica,4,S-Sale,--D,889,20266,4,0001542687,Common Stock
+D,06/18/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,47000,6,0001623944,Common Stock
+D,06/18/2018 00:00:00,Sachleben Mark,4,S-Sale,--D,15000,344277,5,0001623944,Common Stock
+A,06/18/2018 00:00:00,Sachleben Mark,4,G-Gift,-EI,1114,359277,4,0001623944,Common Stock
+D,06/18/2018 00:00:00,Sachleben Mark,4,G-Gift,-ED,1114,0,3,0001623944,Common Stock
+D,06/18/2018 00:00:00,Sachleben Mark,4,S-Sale,--D,1089,1114,2,0001623944,Common Stock
+D,06/18/2018 00:00:00,Gochee James R.,4,S-Sale,--D,331,319921,2,0001627841,Common Stock
+D,06/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1798,3596,6,0001542687,Restricted Stock Units
+D,06/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1800,47882,5,0001542687,Stock Option (Right to Buy)
+A,06/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1798,21155,3,0001542687,Common Stock
+D,06/15/2018 00:00:00,Schultz Erica,4,S-Sale,--D,1800,19357,2,0001542687,Common Stock
+A,06/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1800,21157,1,0001542687,Common Stock
+D,06/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,2203,4407,8,0001623944,Restricted Stock Units
+A,06/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,2203,2203,1,0001623944,Common Stock
+D,06/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,995,1991,3,0001627841,Restricted Stock Units
+A,06/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,995,320252,1,0001627841,Common Stock
+D,06/13/2018 00:00:00,Gochee James R.,4,S-Sale,--D,4000,319257,1,0001627841,Common Stock
+D,06/07/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,47000,1,0001623944,Common Stock
+D,06/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,1719,230000,8,0001623920,Common Stock
+D,06/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,1520,231719,7,0001623920,Common Stock
+D,06/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,761,233239,6,0001623920,Common Stock
+D,06/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,3402,7158756,5,0001623920,Common Stock
+D,06/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,47205,7162158,4,0001623920,Common Stock
+D,06/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,18768,7209363,3,0001623920,Common Stock
+D,06/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,15625,7228131,2,0001623920,Common Stock
+D,05/21/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,54500,1,0001623944,Common Stock
+D,05/18/2018 00:00:00,Schultz Erica,4,S-Sale,--D,2429,19357,1,0001542687,Common Stock
+D,05/18/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,3056,358163,1,0001623944,Common Stock
+D,05/16/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1188,21786,8,0001542687,Common Stock
+A,05/16/2018 00:00:00,Sachleben Mark,4,G-Gift,-EI,3056,361219,6,0001623944,Common Stock
+D,05/16/2018 00:00:00,Sachleben Mark,4,G-Gift,-ED,3056,0,5,0001623944,Common Stock
+D,05/16/2018 00:00:00,Sachleben Mark,4,S-Sale,--D,1567,3056,4,0001623944,Common Stock
+D,05/16/2018 00:00:00,Gochee James R.,4,S-Sale,--D,4000,323257,6,0001627841,Common Stock
+D,05/16/2018 00:00:00,Gochee James R.,4,S-Sale,--D,1122,327257,5,0001627841,Common Stock
+D,05/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,182,2543,16,0001542687,Restricted Stock Units
+D,05/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,616,7392,15,0001542687,Restricted Stock Units
+D,05/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,917,7337,14,0001542687,Restricted Stock Units
+D,05/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,182,909,13,0001542687,Restricted Stock Units
+D,05/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,550,2198,12,0001542687,Restricted Stock Units
+A,05/15/2018 00:00:00,Schultz Erica,4,A-Award,--D,44552,44552,11,0001542687,Stock Option (Right to Buy)
+A,05/15/2018 00:00:00,Schultz Erica,4,A-Award,--D,19755,19755,10,0001542687,Restricted Stock Units
+D,05/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1800,49682,9,0001542687,Stock Option (Right to Buy)
+A,05/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,182,22974,7,0001542687,Common Stock
+A,05/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,616,22792,6,0001542687,Common Stock
+A,05/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,917,22176,5,0001542687,Common Stock
+A,05/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,182,21259,4,0001542687,Common Stock
+A,05/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,550,21077,3,0001542687,Common Stock
+D,05/15/2018 00:00:00,Schultz Erica,4,S-Sale,--D,1800,20527,2,0001542687,Common Stock
+A,05/15/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1800,22327,1,0001542687,Common Stock
+D,05/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,18479,11,0001623944,Restricted Stock Units
+D,05/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1835,14673,10,0001623944,Restricted Stock Units
+D,05/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1248,13733,9,0001623944,Restricted Stock Units
+A,05/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,4623,3,0001623944,Common Stock
+A,05/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1835,3083,2,0001623944,Common Stock
+A,05/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1248,1248,1,0001623944,Common Stock
+D,05/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1155,13860,10,0001627841,Restricted Stock Units
+D,05/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,286,1432,9,0001627841,Restricted Stock Units
+D,05/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1467,11739,8,0001627841,Restricted Stock Units
+D,05/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,529,5821,7,0001627841,Restricted Stock Units
+A,05/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1155,328379,4,0001627841,Common Stock
+A,05/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,286,327224,3,0001627841,Common Stock
+A,05/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1467,326938,2,0001627841,Common Stock
+A,05/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,529,325471,1,0001627841,Common Stock
+D,05/14/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,15000,358163,1,0001623944,Common Stock
+D,05/11/2018 00:00:00,Cirne Lewis,4,G-Gift,-EI,55000,7243756,1,0001623920,Common Stock
+D,05/09/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,24312,16779,7,0001542687,Stock Option (Right to Buy)
+D,05/09/2018 00:00:00,Schultz Erica,4,S-Sale,--D,500,20527,6,0001542687,Common Stock
+D,05/09/2018 00:00:00,Schultz Erica,4,S-Sale,--D,3712,21027,5,0001542687,Common Stock
+D,05/09/2018 00:00:00,Schultz Erica,4,S-Sale,--D,3900,24739,4,0001542687,Common Stock
+D,05/09/2018 00:00:00,Schultz Erica,4,S-Sale,--D,12512,28639,3,0001542687,Common Stock
+A,05/09/2018 00:00:00,Schultz Erica,4,S-Sale,--D,3688,41151,2,0001542687,Common Stock
+A,05/09/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,24312,44839,1,0001542687,Common Stock
+D,05/03/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,54500,1,0001623944,Common Stock
+D,05/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,1675,234000,4,0001623920,Common Stock
+D,05/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,2325,235675,3,0001623920,Common Stock
+D,05/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,57212,7298756,2,0001623920,Common Stock
+D,05/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,27788,7355968,1,0001623920,Common Stock
+A,05/01/2018 00:00:00,Cochran Hope F,4,A-Award,--D,353,353,2,0001392352,Restricted Stock Units
+A,05/01/2018 00:00:00,Cochran Hope F,4,A-Award,--D,865,865,1,0001392352,Stock Option (Right to Buy)
+D,04/23/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,62000,1,0001623944,Common Stock
+D,04/18/2018 00:00:00,Gochee James R.,4,S-Sale,--D,4000,324942,1,0001627841,Common Stock
+A,04/16/2018 00:00:00,TOLONEN JAMES R,4,A-Award,--D,789,789,1,0001217124,Restricted Stock Units
+A,04/16/2018 00:00:00,FENTON PETER H,4,A-Award,--D,617,617,1,0001219230,Restricted Stock Units
+A,04/16/2018 00:00:00,ABBASI SOHAIB,4,A-Award,--D,515,515,1,0001275992,Restricted Stock Units
+D,04/16/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1800,51482,3,0001542687,Stock Option (Right to Buy)
+D,04/16/2018 00:00:00,Schultz Erica,4,S-Sale,--D,1800,20527,2,0001542687,Common Stock
+A,04/16/2018 00:00:00,Schultz Erica,4,M-Exempt,--D,1800,22327,1,0001542687,Common Stock
+D,04/10/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,10000,373163,1,0001623944,Common Stock
+D,04/05/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,62000,1,0001623944,Common Stock
+D,04/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,3831,7383756,4,0001623920,Common Stock
+D,04/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,3300,7387587,3,0001623920,Common Stock
+D,04/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,9908,7390887,2,0001623920,Common Stock
+D,04/04/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,18881,7400795,1,0001623920,Common Stock
+D,04/03/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,200,238000,5,0001623920,Common Stock
+D,04/03/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,3800,238200,4,0001623920,Common Stock
+D,04/03/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,6456,7419676,3,0001623920,Common Stock
+D,04/03/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,42624,7426132,2,0001623920,Common Stock
+D,03/26/2018 00:00:00,Cirne Lewis,4,G-Gift,-EI,16000,7468756,1,0001623920,Common Stock
+D,03/20/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,1440,383163,1,0001623944,Common Stock
+D,03/19/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,69500,1,0001623944,Common Stock
+A,03/16/2018 00:00:00,Sachleben Mark,4,G-Gift,-EI,1440,384603,4,0001623944,Common Stock
+D,03/16/2018 00:00:00,Sachleben Mark,4,G-Gift,-ED,1440,0,3,0001623944,Common Stock
+D,03/16/2018 00:00:00,Sachleben Mark,4,S-Sale,--D,763,1440,2,0001623944,Common Stock
+D,03/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,2203,6610,7,0001623944,Restricted Stock Units
+A,03/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,2203,2203,1,0001623944,Common Stock
+D,03/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,995,2986,3,0001627841,Restricted Stock Units
+A,03/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,995,329275,1,0001627841,Common Stock
+D,03/14/2018 00:00:00,Gochee James R.,4,S-Sale,--D,4000,328280,1,0001627841,Common Stock
+D,03/12/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,10000,383163,1,0001623944,Common Stock
+D,03/08/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,69500,1,0001623944,Common Stock
+D,03/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,400,242000,8,0001623920,Common Stock
+D,03/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,700,242400,7,0001623920,Common Stock
+D,03/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,600,243100,6,0001623920,Common Stock
+D,03/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,2300,243700,5,0001623920,Common Stock
+D,03/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,19904,7484756,4,0001623920,Common Stock
+D,03/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,7721,7504660,3,0001623920,Common Stock
+D,03/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,9801,7512381,2,0001623920,Common Stock
+D,03/02/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,47574,7522182,1,0001623920,Common Stock
+D,02/21/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,2536,393163,1,0001623944,Common Stock
+D,02/20/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,7500,77000,8,0001623944,Common Stock
+D,02/16/2018 00:00:00,Schulman Robin,4,S-Sale,--D,637,1771,4,0001627835,Common Stock
+A,02/16/2018 00:00:00,Sachleben Mark,4,G-Gift,-EI,3540,395699,7,0001623944,Common Stock
+D,02/16/2018 00:00:00,Sachleben Mark,4,G-Gift,-ED,3540,0,6,0001623944,Common Stock
+D,02/16/2018 00:00:00,Sachleben Mark,4,S-Sale,--D,1627,3540,5,0001623944,Common Stock
+D,02/16/2018 00:00:00,Gochee James R.,4,S-Sale,--D,1179,332280,5,0001627841,Common Stock
+D,02/15/2018 00:00:00,Schulman Robin,4,M-Exempt,--D,385,5005,7,0001627835,Restricted Stock Units
+D,02/15/2018 00:00:00,Schulman Robin,4,M-Exempt,--D,917,8254,6,0001627835,Restricted Stock Units
+D,02/15/2018 00:00:00,Schulman Robin,4,M-Exempt,--D,529,6350,5,0001627835,Restricted Stock Units
+A,02/15/2018 00:00:00,Schulman Robin,4,M-Exempt,--D,385,2408,3,0001627835,Common Stock
+A,02/15/2018 00:00:00,Schulman Robin,4,M-Exempt,--D,917,2023,2,0001627835,Common Stock
+A,02/15/2018 00:00:00,Schulman Robin,4,M-Exempt,--D,529,1106,1,0001627835,Common Stock
+D,02/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,20019,11,0001623944,Restricted Stock Units
+D,02/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,16508,10,0001623944,Restricted Stock Units
+D,02/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1249,14981,9,0001623944,Restricted Stock Units
+A,02/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,5167,4,0001623944,Common Stock
+A,02/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,3627,3,0001623944,Common Stock
+A,02/15/2018 00:00:00,Sachleben Mark,4,M-Exempt,--D,1249,1793,2,0001623944,Common Stock
+D,02/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1155,15015,9,0001627841,Restricted Stock Units
+D,02/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,286,1718,8,0001627841,Restricted Stock Units
+D,02/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1468,13206,7,0001627841,Restricted Stock Units
+D,02/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,529,6350,6,0001627841,Restricted Stock Units
+A,02/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1155,333459,4,0001627841,Common Stock
+A,02/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,286,332304,3,0001627841,Common Stock
+A,02/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,1468,332018,2,0001627841,Common Stock
+A,02/15/2018 00:00:00,Gochee James R.,4,M-Exempt,--D,529,330550,1,0001627841,Common Stock
+D,02/15/2018 00:00:00,Schulman Robin,4,M-Exempt,--D,1109,13275,5,0001627835,Stock Option (Right to Buy)
+D,02/15/2018 00:00:00,Schulman Robin,4,M-Exempt,--D,7292,0,4,0001627835,Stock Option (Right to Buy)
+D,02/15/2018 00:00:00,Schulman Robin,4,S-Sale,--D,8401,577,3,0001627835,Common Stock
+A,02/15/2018 00:00:00,Schulman Robin,4,M-Exempt,--D,1109,8978,2,0001627835,Common Stock
+A,02/15/2018 00:00:00,Schulman Robin,4,M-Exempt,--D,7292,7869,1,0001627835,Common Stock
+D,02/14/2018 00:00:00,Gochee James R.,4,S-Sale,--D,4000,330021,1,0001627841,Common Stock
+D,02/12/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,1200,7569756,4,0001623920,Common Stock
+D,02/12/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,10000,392159,1,0001623944,Common Stock
+D,02/09/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,2500,77000,1,0001623944,Common Stock
+D,02/09/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,400,246000,7,0001623920,Common Stock
+D,02/09/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,2700,246400,6,0001623920,Common Stock
+D,02/09/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,900,249100,5,0001623920,Common Stock
+D,02/09/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,8065,7570956,3,0001623920,Common Stock
+D,02/09/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,50340,7579021,2,0001623920,Common Stock
+D,02/09/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,14995,7629361,1,0001623920,Common Stock
+D,02/08/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,5000,79500,1,0001623944,Common Stock
+D,02/07/2018 00:00:00,Cirne Lewis,4/A,S-Sale,--I,200,7644356,4,0001623920,Common Stock
+D,02/07/2018 00:00:00,Cirne Lewis,4/A,S-Sale,--I,1800,7644556,3,0001623920,Common Stock
+D,02/07/2018 00:00:00,Cirne Lewis,4/A,S-Sale,--I,4933,7646356,2,0001623920,Common Stock
+D,02/07/2018 00:00:00,Cirne Lewis,4/A,S-Sale,--I,6767,7651289,1,0001623920,Common Stock
+D,02/07/2018 00:00:00,Schulman Robin,4,S-Sale,--D,2318,577,2,0001627835,Common Stock
+A,02/07/2018 00:00:00,Schulman Robin,4,M-Exempt,--D,2318,2895,1,0001627835,Common Stock
+D,02/07/2018 00:00:00,Cirne Lewis,4,S-Sale,--D,200,7644356,5,0001623920,Common Stock
+D,02/07/2018 00:00:00,Cirne Lewis,4,S-Sale,--D,1800,7644556,4,0001623920,Common Stock
+D,02/07/2018 00:00:00,Cirne Lewis,4,S-Sale,--D,4933,7646356,3,0001623920,Common Stock
+D,02/07/2018 00:00:00,Cirne Lewis,4,S-Sale,--D,6767,7651289,2,0001623920,Common Stock
+D,02/07/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,11300,7658056,1,0001623920,Common Stock
+D,01/29/2018 00:00:00,Schulman Robin,4,S-Sale,--D,1,577,2,0001627835,Common Stock
+A,01/29/2018 00:00:00,Schulman Robin,4,M-Exempt,--D,1,578,1,0001627835,Common Stock
+D,01/22/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,5000,84500,1,0001623944,Common Stock
+D,01/17/2018 00:00:00,Gochee James R.,4,S-Sale,--D,4000,333476,1,0001627841,Common Stock
+D,01/12/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,10000,402159,1,0001623944,Common Stock
+D,01/08/2018 00:00:00,Cirne Lewis,4,S-Sale,--I,25000,7669356,2,0001623920,Common Stock
+D,01/04/2018 00:00:00,Sachleben Mark,4,S-Sale,--I,5000,84500,2,0001623944,Common Stock
+D,12/28/2017 00:00:00,Sachleben Mark,4,G-Gift,-EI,6700,412159,1,0001623944,Common Stock
+D,12/20/2017 00:00:00,Schulman Robin,4,S-Sale,--D,372,577,1,0001627835,Common Stock
+D,12/20/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,5000,89500,2,0001623944,Common Stock
+D,12/20/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,1042,418859,1,0001623944,Common Stock
+D,12/18/2017 00:00:00,Schulman Robin,4,S-Sale,--D,416,949,4,0001627835,Common Stock
+A,12/18/2017 00:00:00,Sachleben Mark,4,G-Gift,-EI,1042,419901,4,0001623944,Common Stock
+D,12/18/2017 00:00:00,Sachleben Mark,4,G-Gift,-ED,1042,0,3,0001623944,Common Stock
+D,12/18/2017 00:00:00,Sachleben Mark,4,S-Sale,--D,1161,1042,2,0001623944,Common Stock
+D,12/18/2017 00:00:00,Gochee James R.,4,S-Sale,--D,428,337476,2,0001627841,Common Stock
+D,12/15/2017 00:00:00,Cirne Lewis,4,G-Gift,-EI,16000,7694356,1,0001623920,Common Stock
+D,12/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,1575,7350,6,0001627835,Stock Option (Right to Buy)
+D,12/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,788,3675,5,0001627835,Restricted Stock Units
+D,12/15/2017 00:00:00,Schulman Robin,4,S-Sale,--D,1575,1365,3,0001627835,Common Stock
+A,12/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,1575,2940,2,0001627835,Common Stock
+A,12/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,788,1365,1,0001627835,Common Stock
+D,12/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,2203,8813,7,0001623944,Restricted Stock Units
+A,12/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,2203,2203,1,0001623944,Common Stock
+D,12/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,830,3981,3,0001627841,Restricted Stock Units
+A,12/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,830,337904,1,0001627841,Common Stock
+D,12/13/2017 00:00:00,Gochee James R.,4,S-Sale,--D,4000,337074,1,0001627841,Common Stock
+D,12/11/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,10000,418859,1,0001623944,Common Stock
+D,12/07/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,5000,89500,1,0001623944,Common Stock
+D,12/07/2017 00:00:00,Cirne Lewis,4,S-Sale,--I,33000,7710356,1,0001623920,Common Stock
+D,11/27/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,5000,94500,1,0001623944,Common Stock
+D,11/20/2017 00:00:00,Schulman Robin,4,S-Sale,--D,1144,577,1,0001627835,Common Stock
+D,11/20/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,1645,428859,1,0001623944,Common Stock
+D,11/16/2017 00:00:00,Gochee James R.,4,S-Sale,--D,1746,341074,6,0001627841,Common Stock
+A,11/16/2017 00:00:00,Sachleben Mark,4,G-Gift,-EI,2384,430504,6,0001623944,Common Stock
+D,11/16/2017 00:00:00,Sachleben Mark,4,G-Gift,-ED,2384,0,5,0001623944,Common Stock
+D,11/16/2017 00:00:00,Sachleben Mark,4,S-Sale,--D,2238,2384,4,0001623944,Common Stock
+D,11/16/2017 00:00:00,Schulman Robin,4,S-Sale,--D,688,1721,6,0001627835,Common Stock
+D,11/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,1155,16170,10,0001627841,Restricted Stock Units
+D,11/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,286,2004,9,0001627841,Restricted Stock Units
+D,11/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,1467,14674,8,0001627841,Restricted Stock Units
+D,11/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,530,6879,7,0001627841,Restricted Stock Units
+D,11/15/2017 00:00:00,Gochee James R.,4,S-Sale,--D,4000,342820,5,0001627841,Common Stock
+A,11/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,1155,346820,4,0001627841,Common Stock
+A,11/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,286,345665,3,0001627841,Common Stock
+A,11/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,1467,345379,2,0001627841,Common Stock
+A,11/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,530,343912,1,0001627841,Common Stock
+D,11/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,21559,11,0001623944,Restricted Stock Units
+D,11/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,18342,10,0001623944,Restricted Stock Units
+D,11/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,1248,16230,9,0001623944,Restricted Stock Units
+A,11/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,1540,4622,3,0001623944,Common Stock
+A,11/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,3082,2,0001623944,Common Stock
+A,11/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,1248,1248,1,0001623944,Common Stock
+D,11/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,1109,14384,10,0001627835,Stock Option (Right to Buy)
+D,11/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,385,5390,9,0001627835,Restricted Stock Units
+D,11/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,917,9171,8,0001627835,Restricted Stock Units
+D,11/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,530,6879,7,0001627835,Restricted Stock Units
+D,11/15/2017 00:00:00,Schulman Robin,4,S-Sale,--D,1109,2409,5,0001627835,Common Stock
+A,11/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,1109,3518,4,0001627835,Common Stock
+A,11/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,385,2409,3,0001627835,Common Stock
+A,11/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,917,2024,2,0001627835,Common Stock
+A,11/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,530,1107,1,0001627835,Common Stock
+D,11/13/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,10000,428120,1,0001623944,Common Stock
+D,11/09/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,5000,94500,1,0001623944,Common Stock
+D,11/07/2017 00:00:00,Cirne Lewis,4,S-Sale,--I,3652,7743356,2,0001623920,Common Stock
+D,11/07/2017 00:00:00,Cirne Lewis,4,S-Sale,--I,29348,7747008,1,0001623920,Common Stock
+D,10/23/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,5000,99500,1,0001623944,Common Stock
+D,10/18/2017 00:00:00,Gochee James R.,4,S-Sale,--D,4000,343382,1,0001627841,Common Stock
+D,10/11/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,10000,438120,1,0001623944,Common Stock
+D,10/09/2017 00:00:00,Cirne Lewis,4,G-Gift,-EI,18000,7776356,2,0001623920,Common Stock
+D,10/06/2017 00:00:00,Cirne Lewis,4,S-Sale,--I,33000,7794356,1,0001623920,Common Stock
+D,10/06/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,1109,15493,3,0001627835,Stock Option (Right to Buy)
+D,10/06/2017 00:00:00,Schulman Robin,4,S-Sale,--D,1109,577,2,0001627835,Common Stock
+A,10/06/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,1109,1686,1,0001627835,Common Stock
+D,10/05/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,5000,99500,1,0001623944,Common Stock
+D,10/02/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,445,6673,3,0001627835,Stock Option (Right to buy)
+D,10/02/2017 00:00:00,Schulman Robin,4,S-Sale,--D,445,577,2,0001627835,Common Stock
+A,10/02/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,445,1022,1,0001627835,Common Stock
+D,09/25/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,5000,104500,1,0001623944,Common Stock
+D,09/20/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,1367,448120,1,0001623944,Common Stock
+D,09/20/2017 00:00:00,Schulman Robin,4,S-Sale,--D,488,577,1,0001627835,Common Stock
+D,09/18/2017 00:00:00,Schulman Robin,4,S-Sale,--D,299,1065,4,0001627835,Common Stock
+A,09/18/2017 00:00:00,Sachleben Mark,4,G-Gift,-EI,1367,449487,4,0001623944,Common Stock
+D,09/18/2017 00:00:00,Sachleben Mark,4,G-Gift,-ED,1367,0,3,0001623944,Common Stock
+D,09/18/2017 00:00:00,Sachleben Mark,4,S-Sale,--D,836,1367,2,0001623944,Common Stock
+D,09/18/2017 00:00:00,Gochee James R.,4,S-Sale,--D,427,347382,2,0001627841,Common Stock
+D,09/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,1050,8925,6,0001627835,Stock Option (Right to Buy)
+D,09/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,787,4463,5,0001627835,Restricted Stock Units
+D,09/15/2017 00:00:00,Schulman Robin,4,S-Sale,--D,1050,1364,3,0001627835,Common Stock
+A,09/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,1050,2414,2,0001627835,Common Stock
+A,09/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,787,1364,1,0001627835,Common Stock
+D,09/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,2203,11016,7,0001623944,Restricted Stock Units
+A,09/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,2203,2203,1,0001623944,Common Stock
+D,09/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,829,4811,3,0001627841,Restricted Stock Units
+A,09/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,829,347809,1,0001627841,Common Stock
+D,09/13/2017 00:00:00,Gochee James R.,4,S-Sale,--D,4000,346980,1,0001627841,Common Stock
+D,09/13/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,10000,448120,1,0001623944,Common Stock
+D,09/07/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,5000,104500,1,0001623944,Common Stock
+D,09/07/2017 00:00:00,Cirne Lewis,4,S-Sale,--I,33000,7827356,1,0001623920,Common Stock
+A,08/22/2017 00:00:00,TOLONEN JAMES R,4,A-Award,--D,1667,1667,3,0001217124,Restricted Stock Units
+A,08/22/2017 00:00:00,TOLONEN JAMES R,4,A-Award,--D,4015,4015,2,0001217124,Stock Option (Right to Buy)
+A,08/22/2017 00:00:00,Messinger Adam,4,A-Award,--D,1667,1667,3,0001624030,Restricted Stock Units
+A,08/22/2017 00:00:00,Messinger Adam,4,A-Award,--D,4015,4015,2,0001624030,Stock Option (Right to Buy)
+A,08/22/2017 00:00:00,Friar Sarah,4,A-Award,--D,1667,1667,2,0001570658,Restricted Stock Units
+A,08/22/2017 00:00:00,Friar Sarah,4,A-Award,--D,4015,4015,1,0001570658,Stock Option (Right to Buy)
+A,08/22/2017 00:00:00,ABBASI SOHAIB,4,A-Award,--D,1667,1667,3,0001275992,Restricted Stock Units
+A,08/22/2017 00:00:00,ABBASI SOHAIB,4,A-Award,--D,4015,4015,2,0001275992,Stock Option (Right to Buy)
+D,08/21/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,5000,109500,2,0001623944,Common Stock
+D,08/21/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,1913,458120,1,0001623944,Common Stock
+D,08/18/2017 00:00:00,Schulman Robin,4,S-Sale,--D,1136,577,1,0001627835,Common Stock
+D,08/16/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,1050,9975,10,0001627835,Stock Option (Right to Buy)
+D,08/16/2017 00:00:00,Schulman Robin,4,S-Sale,--D,1050,1713,6,0001627835,Common Stock
+A,08/16/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,1050,2763,5,0001627835,Common Stock
+D,08/16/2017 00:00:00,Schulman Robin,4,S-Sale,--D,695,1713,4,0001627835,Common Stock
+A,08/16/2017 00:00:00,Sachleben Mark,4,G-Gift,-EI,2868,460033,6,0001623944,Common Stock
+D,08/16/2017 00:00:00,Sachleben Mark,4,G-Gift,-ED,2868,0,5,0001623944,Common Stock
+D,08/16/2017 00:00:00,Sachleben Mark,4,S-Sale,--D,1753,2868,4,0001623944,Common Stock
+A,08/16/2017 00:00:00,Gochee James R.,4,S-Sale,--D,4000,350980,6,0001627841,Common Stock
+D,08/16/2017 00:00:00,Gochee James R.,4,S-Sale,--D,1767,354980,5,0001627841,Common Stock
+D,08/15/2017 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,2265,0,2,0001217124,Restricted Stock Units
+A,08/15/2017 00:00:00,TOLONEN JAMES R,4,M-Exempt,--D,2265,3169,1,0001217124,Common Stock
+D,08/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,385,5775,9,0001627835,Restricted Stock Units
+D,08/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,917,10088,8,0001627835,Restricted Stock Units
+D,08/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,529,7409,7,0001627835,Restricted Stock Units
+A,08/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,385,2408,3,0001627835,Common Stock
+A,08/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,917,2023,2,0001627835,Common Stock
+A,08/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,529,1106,1,0001627835,Common Stock
+D,08/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,1539,23099,11,0001623944,Restricted Stock Units
+D,08/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,20176,10,0001623944,Restricted Stock Units
+D,08/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,1248,17478,9,0001623944,Restricted Stock Units
+A,08/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,1539,4621,3,0001623944,Common Stock
+A,08/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,1834,3082,2,0001623944,Common Stock
+A,08/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,1248,1248,1,0001623944,Common Stock
+D,08/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,1154,17325,10,0001627841,Restricted Stock Units
+D,08/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,287,2290,9,0001627841,Restricted Stock Units
+D,08/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,1467,16141,8,0001627841,Restricted Stock Units
+D,08/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,529,7409,7,0001627841,Restricted Stock Units
+A,08/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,1154,356747,4,0001627841,Common Stock
+A,08/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,287,355593,3,0001627841,Common Stock
+A,08/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,1467,355306,2,0001627841,Common Stock
+A,08/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,529,353839,1,0001627841,Common Stock
+D,08/15/2017 00:00:00,ABBASI SOHAIB,4,M-Exempt,--D,2265,0,2,0001275992,Restricted Stock Units
+A,08/15/2017 00:00:00,ABBASI SOHAIB,4,M-Exempt,--D,2265,3169,1,0001275992,Common Stock
+D,08/09/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,10000,457165,1,0001623944,Common Stock
+D,08/07/2017 00:00:00,Cirne Lewis,4,S-Sale,--I,33000,7860356,2,0001623920,Common Stock
+D,08/03/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,5000,109500,1,0001623944,Common Stock
+D,08/01/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,667,7118,3,0001627835,Stock Option (Right to buy)
+D,08/01/2017 00:00:00,Schulman Robin,4,S-Sale,--D,667,577,2,0001627835,Common Stock
+A,08/01/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,667,1244,1,0001627835,Common Stock
+D,07/18/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,5000,114500,1,0001623944,Common Stock
+D,07/17/2017 00:00:00,Cirne Lewis,4,G-Gift,-EI,2000,7893356,1,0001623920,Common Stock
+D,07/12/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,5534,16602,3,0001627835,Stock Option (Right to Buy)
+D,07/12/2017 00:00:00,Schulman Robin,4,S-Sale,--D,5534,577,2,0001627835,Common Stock
+A,07/12/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,5534,6111,1,0001627835,Common Stock
+D,07/12/2017 00:00:00,Gochee James R.,4,S-Sale,--D,4000,353310,1,0001627841,Common Stock
+D,07/12/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,10000,467165,1,0001623944,Common Stock
+D,07/11/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,3320,55000,3,0001627841,Stock Option (Right to Buy)
+D,07/11/2017 00:00:00,Gochee James R.,4,S-Sale,--D,3320,357310,2,0001627841,Common Stock
+A,07/11/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,3320,360630,1,0001627841,Common Stock
+D,07/10/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,6680,58320,3,0001627841,Stock Option (Right to Buy)
+D,07/10/2017 00:00:00,Gochee James R.,4,S-Sale,--D,6680,357310,2,0001627841,Common Stock
+A,07/10/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,6680,363990,1,0001627841,Common Stock
+D,07/10/2017 00:00:00,Cirne Lewis,4,S-Sale,--I,33000,7895356,1,0001623920,Common Stock
+D,07/06/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,5000,114500,1,0001623944,Common Stock
+D,06/20/2017 00:00:00,Schulman Robin,4,S-Sale,--D,490,577,1,0001627835,Common Stock
+D,06/20/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,1370,477165,1,0001623944,Common Stock
+D,06/19/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,7700,65000,4,0001627841,Stock Option (Right to Buy)
+D,06/19/2017 00:00:00,Gochee James R.,4,S-Sale,--D,200,357310,3,0001627841,Common Stock
+D,06/19/2017 00:00:00,Gochee James R.,4,S-Sale,--D,7500,357510,2,0001627841,Common Stock
+A,06/19/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,7700,365010,1,0001627841,Common Stock
+D,06/16/2017 00:00:00,Schulman Robin,4,S-Sale,--D,298,1067,2,0001627835,Common Stock
+A,06/16/2017 00:00:00,Sachleben Mark,4,G-Gift,-EI,1370,478535,4,0001623944,Common Stock
+D,06/16/2017 00:00:00,Sachleben Mark,4,G-Gift,-ED,1370,0,3,0001623944,Common Stock
+D,06/16/2017 00:00:00,Sachleben Mark,4,S-Sale,--D,833,1370,2,0001623944,Common Stock
+D,06/16/2017 00:00:00,Gochee James R.,4,S-Sale,--D,425,357310,2,0001627841,Common Stock
+D,06/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,788,5250,3,0001627835,Restricted Stock Units
+A,06/15/2017 00:00:00,Schulman Robin,4,M-Exempt,--D,788,1365,1,0001627835,Common Stock
+D,06/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,2203,13219,7,0001623944,Restricted Stock Units
+A,06/15/2017 00:00:00,Sachleben Mark,4,M-Exempt,--D,2203,2203,1,0001623944,Common Stock
+D,06/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,829,5640,3,0001627841,Restricted Stock Units
+A,06/15/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,829,357735,1,0001627841,Common Stock
+D,06/14/2017 00:00:00,Gochee James R.,4,S-Sale,--D,4000,356906,1,0001627841,Common Stock
+D,06/13/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,2300,72700,3,0001627841,Stock Option (Right to Buy)
+D,06/13/2017 00:00:00,Gochee James R.,4,S-Sale,--D,2300,360906,2,0001627841,Common Stock
+A,06/13/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,2300,363206,1,0001627841,Common Stock
+D,06/12/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,3500,119500,2,0001623944,Common Stock
+D,06/12/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,8000,477165,1,0001623944,Common Stock
+D,06/12/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,20000,75000,5,0001627841,Stock Option (Right to Buy)
+D,06/12/2017 00:00:00,Gochee James R.,4,S-Sale,--D,10000,360906,4,0001627841,Common Stock
+D,06/12/2017 00:00:00,Gochee James R.,4,S-Sale,--D,2100,370906,3,0001627841,Common Stock
+D,06/12/2017 00:00:00,Gochee James R.,4,S-Sale,--D,7900,373006,2,0001627841,Common Stock
+A,06/12/2017 00:00:00,Gochee James R.,4,M-Exempt,--D,20000,380906,1,0001627841,Common Stock
+D,06/07/2017 00:00:00,Cirne Lewis,4,S-Sale,--I,33000,7928356,2,0001623920,Common Stock
+D,06/05/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,3500,119500,1,0001623944,Common Stock
+A,05/30/2017 00:00:00,Cirne Lewis,4,J-Other,-EI,214,7961356,1,0001623920,Common Stock
+D,05/30/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,3500,123000,1,0001623944,Common Stock
+D,05/19/2017 00:00:00,Schulman Robin,4,S-Sale,--D,569,577,1,0001627835,Common Stock
+D,05/18/2017 00:00:00,Schulman Robin,4,S-Sale,--D,246,1146,1,0001627835,Common Stock
+D,05/18/2017 00:00:00,Sachleben Mark,4,S-Sale,--I,582,485165,1,0001623944,Common Stock
+D,05/17/2017 00:00:00,Gochee James R.,4,S-Sale,--D,4000,360906,5,0001627841,Common Stock
+D,05/16/2017 00:00:00,Schulman Robin,4,S-Sale,--D,499,1392,5,0001627835,Common Stock
+A,05/16/2017 00:00:00,Sachleben Mark,4,G-Gift,-EI,1721,485747,6,0001623944,Common Stock
+D,05/16/2017 00:00:00,Sachleben Mark,4,G-Gift,-ED,1721,0,5,0001623944,Common Stock
+D,05/16/2017 00:00:00,Sachleben Mark,4,S-Sale,--D,1050,1721,4,0001623944,Common Stock
+D,05/16/2017 00:00:00,Gochee James R.,4,S-Sale,--D,789,364906,4,0001627841,Common Stock
+D,05/15/2017 00:00:00,Schulman Robin,4,D-Return,--D,2318,11597,3,0001627835,Stock Option (Right to Buy)
+D,05/15/2017 00:00:00,Schulman Robin,4,D-Return,--D,1,13915,3,0001627835,Stock Option (Right to Buy)
+A,05/15/2017 00:00:00,Schulman Robin,4,A-Award,--D,13916,13916,10,0001627835,Stock Option (Right to Buy)
+A,05/15/2017 00:00:00,Schulman Robin,4,A-Award,--D,6160,6160,9,0001627835,Restricted Stock Units

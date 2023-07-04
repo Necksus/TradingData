@@ -1,0 +1,1094 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/22/2023 00:00:00,Schwartz Monica,4,S-Sale,--D,15168,25962,1,0001820292,Common Stock
+A,06/15/2023 00:00:00,Ortega Steven L,4,A-Award,--D,2414,2414,1,0001830679,Restricted Stock Units
+A,06/15/2023 00:00:00,Robinson Cathy Marie,4,A-Award,--D,2414,2414,1,0001607893,Restricted Stock Units
+A,06/15/2023 00:00:00,Naylor Maile,4,A-Award,--D,2414,2414,3,0001788654,Restricted Stock Units
+A,06/15/2023 00:00:00,Gloeckler Michelle J.,4,A-Award,--D,2414,2414,3,0001788782,Restricted Stock Units
+A,06/15/2023 00:00:00,Parent Kenneth M.,4,A-Award,--D,2414,2414,3,0001743913,Restricted Stock Units
+A,06/15/2023 00:00:00,Baldwin Christopher J,4,A-Award,--D,2414,2414,3,0001306296,Restricted Stock Units
+A,06/15/2023 00:00:00,Steele Robert Allan,4,A-Award,--D,2414,2414,3,0001404402,Restricted Stock Units
+A,06/15/2023 00:00:00,Peterson Christopher H,4,A-Award,--D,2414,2414,3,0001558968,Restricted Stock Units
+A,06/15/2023 00:00:00,Brown Darryl,4,A-Award,--D,2414,2414,3,0001863453,Restricted Stock Units
+D,06/14/2023 00:00:00,Naylor Maile,4,M-Exempt,--D,2559,0,2,0001788654,Restricted Stock Units
+A,06/14/2023 00:00:00,Naylor Maile,4,M-Exempt,--D,2559,13830,1,0001788654,Common Stock
+D,06/14/2023 00:00:00,Gloeckler Michelle J.,4,M-Exempt,--D,2559,0,2,0001788782,Restricted Stock Units
+A,06/14/2023 00:00:00,Gloeckler Michelle J.,4,M-Exempt,--D,2559,13830,1,0001788782,Common Stock
+D,06/14/2023 00:00:00,Parent Kenneth M.,4,M-Exempt,--D,2559,0,2,0001743913,Restricted Stock Units
+A,06/14/2023 00:00:00,Parent Kenneth M.,4,M-Exempt,--D,2559,19905,1,0001743913,Common Stock
+D,06/14/2023 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,3412,0,2,0001306296,Restricted Stock Units
+A,06/14/2023 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,3412,243942,1,0001306296,Common Stock
+D,06/14/2023 00:00:00,Steele Robert Allan,4,M-Exempt,--D,2559,0,2,0001404402,Restricted Stock Units
+A,06/14/2023 00:00:00,Steele Robert Allan,4,M-Exempt,--D,2559,19905,1,0001404402,Common Stock
+D,06/14/2023 00:00:00,Peterson Christopher H,4,M-Exempt,--D,2559,0,2,0001558968,Restricted Stock Units
+A,06/14/2023 00:00:00,Peterson Christopher H,4,M-Exempt,--D,2559,18017,1,0001558968,Common Stock
+D,06/14/2023 00:00:00,Brown Darryl,4,M-Exempt,--D,2559,0,2,0001863453,Restricted Stock Units
+A,06/14/2023 00:00:00,Brown Darryl,4,M-Exempt,--D,2559,5893,1,0001863453,Common Stock
+D,04/01/2023 00:00:00,Werner William C.,4,F-InKind,--D,7609,37531,2,0001743889,Common Stock
+A,04/01/2023 00:00:00,Werner William C.,4,A-Award,--D,8544,45140,1,0001743889,Common Stock
+D,04/01/2023 00:00:00,Schwartz Monica,4,F-InKind,--D,4941,41123,2,0001820292,Common Stock
+A,04/01/2023 00:00:00,Schwartz Monica,4,A-Award,--D,6572,46064,1,0001820292,Common Stock
+D,04/01/2023 00:00:00,McGrail Joseph,4,F-InKind,--D,838,14174,2,0001882045,Common Stock
+A,04/01/2023 00:00:00,McGrail Joseph,4,A-Award,--D,4929,15012,1,0001882045,Common Stock
+D,04/01/2023 00:00:00,Luce Graham,4,F-InKind,--D,6998,23971,2,0001743434,Common Stock
+A,04/01/2023 00:00:00,Luce Graham,4,A-Award,--D,6737,30969,1,0001743434,Common Stock
+D,04/01/2023 00:00:00,Felice Laura L.,4,F-InKind,--D,8269,96925,2,0001743504,Common Stock
+A,04/01/2023 00:00:00,Felice Laura L.,4,A-Award,--D,11173,105194,1,0001743504,Common Stock
+D,04/01/2023 00:00:00,Kessler Scott,4,F-InKind,--D,8708,142282,4,0001743501,Common Stock
+A,04/01/2023 00:00:00,Kessler Scott,4,A-Award,--D,9202,150990,3,0001743501,Common Stock
+D,04/01/2023 00:00:00,Eddy Robert W.,4,F-InKind,--D,28274,256217,4,0001510712,Common Stock
+A,04/01/2023 00:00:00,Eddy Robert W.,4,A-Award,--D,52583,284491,3,0001510712,Common Stock
+D,04/01/2023 00:00:00,Desroches Jeff,4,F-InKind,--D,8708,114815,4,0001743872,Common Stock
+A,04/01/2023 00:00:00,Desroches Jeff,4,A-Award,--D,9859,123523,3,0001743872,Common Stock
+D,04/01/2023 00:00:00,Cichocki Paul,4,F-InKind,--D,14750,156719,4,0001808323,Common Stock
+A,04/01/2023 00:00:00,Cichocki Paul,4,A-Award,--D,17746,171469,3,0001808323,Common Stock
+D,03/31/2023 00:00:00,Kessler Scott,4,F-InKind,--D,27000,141788,2,0001743501,Common Stock
+A,03/31/2023 00:00:00,Kessler Scott,4,A-Award,--D,55842,168788,1,0001743501,Common Stock
+D,03/31/2023 00:00:00,Eddy Robert W.,4,F-InKind,--D,54001,231908,2,0001510712,Common Stock
+A,03/31/2023 00:00:00,Eddy Robert W.,4,A-Award,--D,111686,285909,1,0001510712,Common Stock
+D,03/31/2023 00:00:00,Desroches Jeff,4,F-InKind,--D,27000,113664,2,0001743872,Common Stock
+A,03/31/2023 00:00:00,Desroches Jeff,4,A-Award,--D,55842,140664,1,0001743872,Common Stock
+D,03/31/2023 00:00:00,Cichocki Paul,4,F-InKind,--D,43394,153723,2,0001808323,Common Stock
+A,03/31/2023 00:00:00,Cichocki Paul,4,A-Award,--D,89748,197117,1,0001808323,Common Stock
+D,03/14/2023 00:00:00,Eddy Robert W.,4,G-Gift,--D,1640,174223,1,0001510712,Common Stock
+D,03/09/2023 00:00:00,Desroches Jeff,4,S-Sale,--D,1012,84822,3,0001743872,Common Stock
+D,03/09/2023 00:00:00,Desroches Jeff,4,S-Sale,--D,2936,85834,2,0001743872,Common Stock
+D,03/09/2023 00:00:00,Desroches Jeff,4,S-Sale,--D,3111,88770,1,0001743872,Common Stock
+D,02/13/2023 00:00:00,Desroches Jeff,4,S-Sale,--D,1716,91881,1,0001743872,Common Stock
+D,01/31/2023 00:00:00,Eddy Robert W.,4,S-Sale,--D,743,175863,5,0001510712,Common Stock
+D,01/31/2023 00:00:00,Eddy Robert W.,4,S-Sale,--D,1372,176606,4,0001510712,Common Stock
+D,01/31/2023 00:00:00,Eddy Robert W.,4,S-Sale,--D,747,177978,3,0001510712,Common Stock
+D,01/30/2023 00:00:00,Eddy Robert W.,4,S-Sale,--D,5031,178725,2,0001510712,Common Stock
+D,01/27/2023 00:00:00,Eddy Robert W.,4,S-Sale,--D,6228,183756,1,0001510712,Common Stock
+D,01/26/2023 00:00:00,Eddy Robert W.,4,S-Sale,--D,1300,189984,3,0001510712,Common Stock
+D,01/24/2023 00:00:00,Eddy Robert W.,4,S-Sale,--D,100,191284,2,0001510712,Common Stock
+D,12/15/2022 00:00:00,McGrail Joseph,4,S-Sale,--D,1975,10083,1,0001882045,Common Stock
+D,12/15/2022 00:00:00,Kessler Scott,4,M-Exempt,--D,9515,0,4,0001743501,Stock Option
+D,12/15/2022 00:00:00,Kessler Scott,4,S-Sale,--D,350,112946,3,0001743501,Common Stock
+D,12/15/2022 00:00:00,Kessler Scott,4,S-Sale,--D,13010,113296,2,0001743501,Common Stock
+A,12/15/2022 00:00:00,Kessler Scott,4,M-Exempt,--D,9515,126306,1,0001743501,Common Stock
+D,11/30/2022 00:00:00,Eddy Robert W.,4,G-Gift,-ED,4000,191384,1,0001510712,Common Stock
+D,11/01/2022 00:00:00,McGrail Joseph,4,F-InKind,--D,1910,12058,1,0001882045,Common Stock
+D,09/27/2022 00:00:00,Werner William C.,4,F-InKind,--D,765,36596,1,0001743889,Common Stock
+D,09/16/2022 00:00:00,Eddy Robert W.,4,F-InKind,--D,12370,195384,1,0001510712,Common Stock
+D,09/15/2022 00:00:00,Kessler Scott,4,M-Exempt,--D,9514,9515,4,0001743501,Stock Option
+D,09/15/2022 00:00:00,Kessler Scott,4,S-Sale,--D,715,116791,3,0001743501,Common Stock
+D,09/15/2022 00:00:00,Kessler Scott,4,S-Sale,--D,12644,117506,2,0001743501,Common Stock
+A,09/15/2022 00:00:00,Kessler Scott,4,M-Exempt,--D,9514,130150,1,0001743501,Common Stock
+D,09/07/2022 00:00:00,Eddy Robert W.,4,S-Sale,--D,5538,207754,5,0001510712,Common Stock
+D,09/07/2022 00:00:00,Eddy Robert W.,4,S-Sale,--D,4400,213292,4,0001510712,Common Stock
+D,09/07/2022 00:00:00,Eddy Robert W.,4,S-Sale,--D,2800,217692,3,0001510712,Common Stock
+D,09/06/2022 00:00:00,Eddy Robert W.,4,S-Sale,--D,1104,220492,2,0001510712,Common Stock
+D,09/02/2022 00:00:00,Eddy Robert W.,4,S-Sale,--D,2800,221596,1,0001510712,Common Stock
+D,08/31/2022 00:00:00,Luce Graham,4,M-Exempt,--D,3236,0,5,0001743434,Stock Option
+D,08/31/2022 00:00:00,Luce Graham,4,M-Exempt,--D,2706,0,4,0001743434,Stock Option
+D,08/31/2022 00:00:00,Luce Graham,4,S-Sale,--D,9896,24232,3,0001743434,Common Stock
+A,08/31/2022 00:00:00,Luce Graham,4,M-Exempt,--D,3236,34128,2,0001743434,Common Stock
+A,08/31/2022 00:00:00,Luce Graham,4,M-Exempt,--D,2706,30892,1,0001743434,Common Stock
+D,08/19/2022 00:00:00,Luce Graham,4,M-Exempt,--D,486,3236,11,0001743434,Stock Option
+D,08/19/2022 00:00:00,Luce Graham,4,M-Exempt,--D,1300,2706,10,0001743434,Stock Option
+D,08/19/2022 00:00:00,Luce Graham,4,S-Sale,--D,3286,28186,7,0001743434,Common Stock
+A,08/19/2022 00:00:00,Luce Graham,4,M-Exempt,--D,486,31472,6,0001743434,Common Stock
+A,08/19/2022 00:00:00,Luce Graham,4,M-Exempt,--D,1300,30986,5,0001743434,Common Stock
+D,08/19/2022 00:00:00,Eddy Robert W.,4,S-Sale,--D,600,224396,2,0001510712,Common Stock
+D,08/18/2022 00:00:00,Luce Graham,4,M-Exempt,--D,3075,3722,9,0001743434,Stock Option
+D,08/18/2022 00:00:00,Luce Graham,4,M-Exempt,--D,3473,4006,8,0001743434,Stock Option
+D,08/18/2022 00:00:00,Luce Graham,4,S-Sale,--D,258,29686,4,0001743434,Common Stock
+D,08/18/2022 00:00:00,Luce Graham,4,S-Sale,--D,11127,29944,3,0001743434,Common Stock
+A,08/18/2022 00:00:00,Luce Graham,4,M-Exempt,--D,3075,41071,2,0001743434,Common Stock
+A,08/18/2022 00:00:00,Luce Graham,4,M-Exempt,--D,3473,37996,1,0001743434,Common Stock
+D,08/18/2022 00:00:00,Eddy Robert W.,4,S-Sale,--D,2758,224996,1,0001510712,Common Stock
+D,08/03/2022 00:00:00,Schwartz Monica,4,F-InKind,--D,2708,39492,1,0001820292,Common Stock
+D,07/08/2022 00:00:00,Desroches Jeff,4,S-Sale,--D,3203,93597,2,0001743872,Common Stock
+D,07/08/2022 00:00:00,Desroches Jeff,4,S-Sale,--D,11797,96800,1,0001743872,Common Stock
+D,07/05/2022 00:00:00,Werner William C.,4,S-Sale,--D,1201,37361,2,0001743889,Common Stock
+D,07/05/2022 00:00:00,Werner William C.,4,S-Sale,--D,18799,38562,1,0001743889,Common Stock
+D,06/21/2022 00:00:00,Kessler Scott,4,S-Sale,--D,2125,124481,1,0001743501,Common Stock
+D,06/17/2022 00:00:00,Baldwin Christopher J,4,F-InKind,--D,5350,240530,1,0001306296,Common Stock
+A,06/16/2022 00:00:00,Werthauser Judith L.,4,A-Award,--D,2559,2559,3,0001757923,Restricted Stock Units
+A,06/16/2022 00:00:00,Steele Robert Allan,4,A-Award,--D,2559,2559,3,0001404402,Restricted Stock Units
+A,06/16/2022 00:00:00,Peterson Christopher H,4,A-Award,--D,2559,2559,3,0001558968,Restricted Stock Units
+A,06/16/2022 00:00:00,Parent Kenneth M.,4,A-Award,--D,2559,2559,3,0001743913,Restricted Stock Units
+A,06/16/2022 00:00:00,Naylor Maile,4,A-Award,--D,2559,2559,3,0001788654,Restricted Stock Units
+A,06/16/2022 00:00:00,Kingsbury Thomas,4,A-Award,--D,2559,2559,3,0001371136,Restricted Stock Units
+D,06/16/2022 00:00:00,Kessler Scott,4,S-Sale,--D,1720,126606,4,0001743501,Common Stock
+A,06/16/2022 00:00:00,Gloeckler Michelle J.,4,A-Award,--D,2559,2559,3,0001788782,Restricted Stock Units
+A,06/16/2022 00:00:00,Brown Darryl,4,A-Award,--D,2559,2559,3,0001863453,Restricted Stock Units
+A,06/16/2022 00:00:00,Baldwin Christopher J,4,A-Award,--D,3412,3412,2,0001306296,Restricted Stock Units
+D,06/15/2022 00:00:00,Werthauser Judith L.,4,M-Exempt,--D,3203,0,2,0001757923,Restricted Stock Units
+A,06/15/2022 00:00:00,Werthauser Judith L.,4,M-Exempt,--D,3203,16745,1,0001757923,Common Stock
+D,06/15/2022 00:00:00,Steele Robert Allan,4,M-Exempt,--D,3203,0,2,0001404402,Restricted Stock Units
+A,06/15/2022 00:00:00,Steele Robert Allan,4,M-Exempt,--D,3203,17346,1,0001404402,Common Stock
+D,06/15/2022 00:00:00,Peterson Christopher H,4,M-Exempt,--D,3203,0,2,0001558968,Restricted Stock Units
+A,06/15/2022 00:00:00,Peterson Christopher H,4,M-Exempt,--D,3203,15458,1,0001558968,Common Stock
+D,06/15/2022 00:00:00,Parent Kenneth M.,4,M-Exempt,--D,3203,0,2,0001743913,Restricted Stock Units
+A,06/15/2022 00:00:00,Parent Kenneth M.,4,M-Exempt,--D,3203,17346,1,0001743913,Common Stock
+D,06/15/2022 00:00:00,Naylor Maile,4,M-Exempt,--D,3203,0,2,0001788654,Restricted Stock Units
+A,06/15/2022 00:00:00,Naylor Maile,4,M-Exempt,--D,3203,11271,1,0001788654,Common Stock
+D,06/15/2022 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,3203,0,2,0001371136,Restricted Stock Units
+A,06/15/2022 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,3203,9816,1,0001371136,Common Stock
+D,06/15/2022 00:00:00,Kessler Scott,4,M-Exempt,--D,9514,28543,5,0001743501,Stock Option
+D,06/15/2022 00:00:00,Kessler Scott,4,S-Sale,--D,2097,128326,3,0001743501,Common Stock
+D,06/15/2022 00:00:00,Kessler Scott,4,S-Sale,--D,7417,130423,2,0001743501,Common Stock
+A,06/15/2022 00:00:00,Kessler Scott,4,M-Exempt,--D,9514,137840,1,0001743501,Common Stock
+D,06/15/2022 00:00:00,Gloeckler Michelle J.,4,M-Exempt,--D,3203,0,2,0001788782,Restricted Stock Units
+A,06/15/2022 00:00:00,Gloeckler Michelle J.,4,M-Exempt,--D,3203,11271,1,0001788782,Common Stock
+D,06/15/2022 00:00:00,Brown Darryl,4,M-Exempt,--D,3203,0,2,0001863453,Restricted Stock Units
+A,06/15/2022 00:00:00,Brown Darryl,4,M-Exempt,--D,3203,3334,1,0001863453,Common Stock
+D,04/18/2022 00:00:00,Eddy Robert W.,4,S-Sale,--D,7128,227754,2,0001510712,Common Stock
+D,04/18/2022 00:00:00,Eddy Robert W.,4,S-Sale,--D,37872,234882,1,0001510712,Common Stock
+D,04/05/2022 00:00:00,Parent Kenneth M.,4,M-Exempt,--D,35004,0,3,0001743913,Stock Option
+D,04/05/2022 00:00:00,Parent Kenneth M.,4,S-Sale,--D,35004,14143,2,0001743913,Common Stock
+A,04/05/2022 00:00:00,Parent Kenneth M.,4,M-Exempt,--D,35004,49147,1,0001743913,Common Stock
+D,04/01/2022 00:00:00,Werner William C.,4,F-InKind,--D,8791,57361,2,0001743889,Common Stock
+A,04/01/2022 00:00:00,Werner William C.,4,A-Award,--D,8132,66152,1,0001743889,Common Stock
+D,04/01/2022 00:00:00,Schwartz Monica,4,F-InKind,--D,1276,42200,2,0001820292,Common Stock
+A,04/01/2022 00:00:00,Schwartz Monica,4,A-Award,--D,7393,43476,1,0001820292,Common Stock
+A,04/01/2022 00:00:00,McGrail Joseph,4,A-Award,--D,5544,13968,1,0001882045,Common Stock
+D,04/01/2022 00:00:00,Luce Graham,4,F-InKind,--D,8203,34523,2,0001743434,Common Stock
+A,04/01/2022 00:00:00,Luce Graham,4,A-Award,--D,8317,42726,1,0001743434,Common Stock
+D,04/01/2022 00:00:00,Kessler Scott,4,F-InKind,--D,12083,128326,2,0001743501,Common Stock
+A,04/01/2022 00:00:00,Kessler Scott,4,A-Award,--D,10350,140409,1,0001743501,Common Stock
+D,04/01/2022 00:00:00,Felice Laura L.,4,F-InKind,--D,8958,94021,2,0001743504,Common Stock
+A,04/01/2022 00:00:00,Felice Laura L.,4,A-Award,--D,11089,102979,1,0001743504,Common Stock
+D,04/01/2022 00:00:00,Eddy Robert W.,4,F-InKind,--D,29536,272754,2,0001510712,Common Stock
+A,04/01/2022 00:00:00,Eddy Robert W.,4,A-Award,--D,51752,302290,1,0001510712,Common Stock
+D,04/01/2022 00:00:00,Desroches Jeff,4,F-InKind,--D,12083,108597,2,0001743872,Common Stock
+A,04/01/2022 00:00:00,Desroches Jeff,4,A-Award,--D,10350,120680,1,0001743872,Common Stock
+D,04/01/2022 00:00:00,Cichocki Paul,4,F-InKind,--D,24064,107369,2,0001808323,Common Stock
+A,04/01/2022 00:00:00,Cichocki Paul,4,A-Award,--D,18482,131433,1,0001808323,Common Stock
+D,04/01/2022 00:00:00,Baldwin Christopher J,4,F-InKind,--D,28360,245880,1,0001306296,Common Stock
+D,03/15/2022 00:00:00,Kessler Scott,4,M-Exempt,--D,9514,15856,5,0001743501,Common Stock
+D,03/15/2022 00:00:00,Kessler Scott,4,S-Sale,--D,166,126214,4,0001743501,Common Stock
+D,03/15/2022 00:00:00,Kessler Scott,4,S-Sale,--D,7108,126380,3,0001743501,Common Stock
+D,03/15/2022 00:00:00,Kessler Scott,4,S-Sale,--D,6085,133488,2,0001743501,Common Stock
+A,03/15/2022 00:00:00,Kessler Scott,4,M-Exempt,--D,9514,139573,1,0001743501,Common Stock
+D,12/15/2021 00:00:00,Steele Robert Allan,4,M-Exempt,--D,11812,11813,3,0001404402,Stock Option
+D,12/15/2021 00:00:00,Steele Robert Allan,4,S-Sale,--D,11812,14143,2,0001404402,Common Stock
+A,12/15/2021 00:00:00,Steele Robert Allan,4,M-Exempt,--D,11812,25955,1,0001404402,Common Stock
+D,11/09/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,4118,115000,9,0001743880,Stock Option
+D,11/09/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,4118,115977,6,0001743880,Common Stock
+A,11/09/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,4118,120095,5,0001743880,Common Stock
+D,11/08/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,236,119118,8,0001743880,Stock Option
+D,11/08/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,236,115977,4,0001743880,Common Stock
+A,11/08/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,236,116213,3,0001743880,Common Stock
+D,11/05/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,646,119354,7,0001743880,Stock Option
+D,11/05/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,646,115977,2,0001743880,Common Stock
+A,11/05/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,646,116623,1,0001743880,Common Stock
+A,11/01/2021 00:00:00,McGrail Joseph,4,A-Award,--D,8424,8424,1,0001882045,Common Stock
+D,10/25/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,10000,120000,4,0001743880,Stock Option
+D,10/25/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,1074,115977,3,0001743880,Common Stock
+D,10/25/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,8926,117051,2,0001743880,Common Stock
+A,10/25/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,10000,125977,1,0001743880,Common Stock
+A,09/27/2021 00:00:00,Werner William C.,4,A-Award,--D,5174,58020,1,0001743889,Common Stock
+D,09/16/2021 00:00:00,Eddy Robert W.,4,F-InKind,--D,12370,250538,1,0001510712,Common Stock
+D,08/24/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,4899,130000,6,0001743880,Stock Option
+D,08/24/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,4899,115977,4,0001743880,Common Stock
+A,08/24/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,4899,120876,3,0001743880,Common Stock
+D,08/23/2021 00:00:00,Werner William C.,4,M-Exempt,--D,25830,0,5,0001743889,Stock Option
+D,08/23/2021 00:00:00,Werner William C.,4,S-Sale,--D,232,52846,4,0001743889,Common Stock
+D,08/23/2021 00:00:00,Werner William C.,4,S-Sale,--D,5238,53078,3,0001743889,Common Stock
+D,08/23/2021 00:00:00,Werner William C.,4,S-Sale,--D,30662,58316,2,0001743889,Common Stock
+A,08/23/2021 00:00:00,Werner William C.,4,M-Exempt,--D,25830,88978,1,0001743889,Common Stock
+D,08/23/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,101,134899,5,0001743880,Stock Option
+D,08/23/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,101,115977,2,0001743880,Common Stock
+A,08/23/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,101,116078,1,0001743880,Common Stock
+D,08/19/2021 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,4356,43868,3,0001743528,Common Stock
+D,08/19/2021 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,1424,48224,2,0001743528,Common Stock
+D,08/19/2021 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,88,49648,1,0001743528,Common Stock
+D,08/19/2021 00:00:00,Desroches Jeff,4,M-Exempt,--D,28000,29750,5,0001743872,Stock Option
+D,08/19/2021 00:00:00,Desroches Jeff,4,S-Sale,--D,23956,110330,4,0001743872,Common Stock
+D,08/19/2021 00:00:00,Desroches Jeff,4,S-Sale,--D,21887,134286,3,0001743872,Common Stock
+D,08/19/2021 00:00:00,Desroches Jeff,4,S-Sale,--D,2157,156173,2,0001743872,Common Stock
+A,08/19/2021 00:00:00,Desroches Jeff,4,M-Exempt,--D,28000,158330,1,0001743872,Common Stock
+D,08/03/2021 00:00:00,Schwartz Monica,4/A,F-InKind,--D,3611,36083,1,0001820292,Common Stock
+D,08/03/2021 00:00:00,Schwartz Monica,4,F-InKind,--D,3728,35966,1,0001820292,Common Stock
+D,08/03/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,5000,135000,4,0001743880,Stock Option
+D,08/03/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,3700,115977,3,0001743880,Common Stock
+D,08/03/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,1300,119677,2,0001743880,Common Stock
+A,08/03/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,5000,120977,1,0001743880,Common Stock
+D,08/03/2021 00:00:00,Luce Graham,4,M-Exempt,--D,5859,0,3,0001743434,Stock Option
+D,08/03/2021 00:00:00,Luce Graham,4,S-Sale,--D,9119,34409,2,0001743434,Common Stock
+A,08/03/2021 00:00:00,Luce Graham,4,M-Exempt,--D,5859,43528,1,0001743434,Common Stock
+D,07/23/2021 00:00:00,Kessler Scott,4,M-Exempt,--D,5589,0,12,0001743501,Stock Option
+D,07/23/2021 00:00:00,Kessler Scott,4,M-Exempt,--D,5590,0,11,0001743501,Stock Option
+D,07/23/2021 00:00:00,Kessler Scott,4,S-Sale,--D,11179,130059,6,0001743501,Common Stock
+A,07/23/2021 00:00:00,Kessler Scott,4,M-Exempt,--D,11179,141238,5,0001743501,Common Stock
+D,07/22/2021 00:00:00,Kessler Scott,4,M-Exempt,--D,9457,5589,10,0001743501,Stock Option
+D,07/22/2021 00:00:00,Kessler Scott,4,M-Exempt,--D,9456,5590,9,0001743501,Stock Option
+D,07/22/2021 00:00:00,Kessler Scott,4,S-Sale,--D,18913,130059,4,0001743501,Common Stock
+A,07/22/2021 00:00:00,Kessler Scott,4,M-Exempt,--D,18913,148972,3,0001743501,Common Stock
+D,07/21/2021 00:00:00,Kessler Scott,4,M-Exempt,--D,17767,15046,8,0001743501,Stock Option
+D,07/21/2021 00:00:00,Kessler Scott,4,M-Exempt,--D,17766,15046,7,0001743501,Stock Option
+D,07/21/2021 00:00:00,Kessler Scott,4,S-Sale,--D,35533,130059,2,0001743501,Common Stock
+A,07/21/2021 00:00:00,Kessler Scott,4,M-Exempt,--D,35533,165592,1,0001743501,Common Stock
+D,07/21/2021 00:00:00,Luce Graham,4,S-Sale,--D,4062,37669,1,0001743434,Common Stock
+D,07/20/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,5000,140000,3,0001743880,Stock Option
+D,07/20/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,5000,115977,2,0001743880,Common Stock
+A,07/20/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,5000,120977,1,0001743880,Common Stock
+D,06/28/2021 00:00:00,Desroches Jeff,4,F-InKind,--D,10866,130331,1,0001743872,Common Stock
+D,06/28/2021 00:00:00,Eddy Robert W.,4,F-InKind,--D,12937,262908,1,0001510712,Common Stock
+D,06/28/2021 00:00:00,Felice Laura L.,4,F-InKind,--D,5197,91890,1,0001743504,Common Stock
+D,06/28/2021 00:00:00,Kessler Scott,4,F-InKind,--D,9702,130059,1,0001743501,Common Stock
+D,06/28/2021 00:00:00,Luce Graham,4,F-InKind,--D,2599,41731,1,0001743434,Common Stock
+D,06/28/2021 00:00:00,Poulliot Brian,4,F-InKind,--D,9702,115977,1,0001743880,Common Stock
+D,06/28/2021 00:00:00,Sugrue Kristyn M.,4,F-InKind,--D,2167,49736,1,0001743528,Common Stock
+D,06/28/2021 00:00:00,Werner William C.,4,F-InKind,--D,5197,63148,1,0001743889,Common Stock
+D,06/28/2021 00:00:00,Baldwin Christopher J,4,F-InKind,--D,30177,274240,1,0001306296,Common Stock
+A,06/17/2021 00:00:00,Brown Darryl,4,A-Award,--D,3203,3203,3,0001863453,Restricted Stock Units
+A,06/17/2021 00:00:00,Gloeckler Michelle J.,4,A-Award,--D,3203,3203,3,0001788782,Restricted Stock Units
+A,06/17/2021 00:00:00,Kingsbury Thomas,4,A-Award,--D,3203,3203,3,0001371136,Restricted Stock Units
+A,06/17/2021 00:00:00,Naylor Maile,4,A-Award,--D,3203,3203,3,0001788654,Restricted Stock Units
+A,06/17/2021 00:00:00,Parent Kenneth M.,4,A-Award,--D,3203,3203,3,0001743913,Restricted Stock Units
+A,06/17/2021 00:00:00,Peterson Christopher H,4,A-Award,--D,3203,3203,3,0001558968,Restricted Stock Units
+A,06/17/2021 00:00:00,Steele Robert Allan,4,A-Award,--D,3203,3203,3,0001404402,Restricted Stock Units
+A,06/17/2021 00:00:00,Werthauser Judith L.,4,A-Award,--D,3203,3203,3,0001757923,Restricted Stock Units
+A,06/17/2021 00:00:00,Baldwin Christopher J,4,A-Award,--D,10679,304417,1,0001306296,Common Stock
+D,06/16/2021 00:00:00,Brown Darryl,4,M-Exempt,--D,131,0,2,0001863453,Restricted Stock Units
+A,06/16/2021 00:00:00,Brown Darryl,4,M-Exempt,--D,131,131,1,0001863453,Common Stock
+D,06/16/2021 00:00:00,Gloeckler Michelle J.,4,M-Exempt,--D,4053,0,2,0001788782,Restricted Stock Units
+A,06/16/2021 00:00:00,Gloeckler Michelle J.,4,M-Exempt,--D,4053,8068,1,0001788782,Common Stock
+D,06/16/2021 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,4053,0,2,0001371136,Restricted Stock Units
+A,06/16/2021 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,4053,6613,1,0001371136,Common Stock
+D,06/16/2021 00:00:00,Naylor Maile,4,M-Exempt,--D,4053,0,2,0001788654,Restricted Stock Units
+A,06/16/2021 00:00:00,Naylor Maile,4,M-Exempt,--D,4053,8068,1,0001788654,Common Stock
+D,06/16/2021 00:00:00,Parent Kenneth M.,4,M-Exempt,--D,4053,0,2,0001743913,Restricted Stock Units
+A,06/16/2021 00:00:00,Parent Kenneth M.,4,M-Exempt,--D,4053,14143,1,0001743913,Common Stock
+D,06/16/2021 00:00:00,Peterson Christopher H,4,M-Exempt,--D,4053,0,2,0001558968,Restricted Stock Units
+A,06/16/2021 00:00:00,Peterson Christopher H,4,M-Exempt,--D,4053,12255,1,0001558968,Common Stock
+D,06/16/2021 00:00:00,Steele Robert Allan,4,M-Exempt,--D,4053,0,2,0001404402,Restricted Stock Units
+A,06/16/2021 00:00:00,Steele Robert Allan,4,M-Exempt,--D,4053,14143,1,0001404402,Common Stock
+D,06/16/2021 00:00:00,Werthauser Judith L.,4,M-Exempt,--D,4053,0,2,0001757923,Restricted Stock Units
+A,06/16/2021 00:00:00,Werthauser Judith L.,4,M-Exempt,--D,4053,13542,1,0001757923,Common Stock
+D,06/09/2021 00:00:00,Kessler Scott,4,M-Exempt,--D,32813,32812,3,0001743501,Stock Option
+D,06/09/2021 00:00:00,Kessler Scott,4,S-Sale,--D,32813,139761,2,0001743501,Common Stock
+A,06/09/2021 00:00:00,Kessler Scott,4,M-Exempt,--D,32813,172574,1,0001743501,Common Stock
+D,06/07/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,2040,145000,9,0001743880,Stock Option
+D,06/07/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,2040,125679,6,0001743880,Common Stock
+A,06/07/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,2040,127719,5,0001743880,Common Stock
+D,06/04/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,60,147040,8,0001743880,Stock Option
+D,06/04/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,60,125679,4,0001743880,Common Stock
+A,06/04/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,60,125739,3,0001743880,Common Stock
+D,06/03/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,2900,147100,7,0001743880,Stock Option
+D,06/03/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,2900,125679,2,0001743880,Common Stock
+A,06/03/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,2900,128579,1,0001743880,Common Stock
+A,06/02/2021 00:00:00,Brown Darryl,4,A-Award,--D,131,131,1,0001863453,Restricted Stock Units
+D,05/17/2021 00:00:00,Luce Graham,4,S-Sale,--D,100,44330,5,0001743434,Common Stock
+D,05/14/2021 00:00:00,Luce Graham,4,M-Exempt,--D,2439,6797,7,0001743434,Stock Option
+D,05/14/2021 00:00:00,Luce Graham,4,S-Sale,--D,3906,44430,4,0001743434,Common Stock
+A,05/14/2021 00:00:00,Luce Graham,4,M-Exempt,--D,2439,48336,3,0001743434,Common Stock
+D,05/13/2021 00:00:00,Luce Graham,4,M-Exempt,--D,70,9236,6,0001743434,Stock Option
+D,05/13/2021 00:00:00,Luce Graham,4,S-Sale,--D,114,45897,2,0001743434,Common Stock
+A,05/13/2021 00:00:00,Luce Graham,4,M-Exempt,--D,70,46011,1,0001743434,Common Stock
+D,05/10/2021 00:00:00,Luce Graham,4,M-Exempt,--D,1200,9306,6,0001743434,Stock Option
+D,05/10/2021 00:00:00,Luce Graham,4,S-Sale,--D,1670,45941,4,0001743434,Common Stock
+A,05/10/2021 00:00:00,Luce Graham,4,M-Exempt,--D,1200,47611,3,0001743434,Common Stock
+D,05/06/2021 00:00:00,Luce Graham,4,M-Exempt,--D,2000,10506,5,0001743434,Stock Option
+D,05/06/2021 00:00:00,Luce Graham,4,S-Sale,--D,3800,46411,2,0001743434,Common Stock
+A,05/06/2021 00:00:00,Luce Graham,4,M-Exempt,--D,2000,50211,1,0001743434,Common Stock
+A,04/20/2021 00:00:00,Werner William C.,4,A-Award,--D,3973,68345,1,0001743889,Common Stock
+A,04/20/2021 00:00:00,Cichocki Paul,4,A-Award,--D,2838,112951,1,0001808323,Common Stock
+A,04/20/2021 00:00:00,Eddy Robert W.,4,A-Award,--D,36330,275845,1,0001510712,Common Stock
+A,04/20/2021 00:00:00,Felice Laura L.,4,A-Award,--D,5108,97087,1,0001743504,Common Stock
+A,04/20/2021 00:00:00,Schwartz Monica,4,A-Award,--D,11353,39694,1,0001820292,Common Stock
+D,04/19/2021 00:00:00,Luce Graham,4,M-Exempt,--D,1086,12506,5,0001743434,Stock Option
+D,04/19/2021 00:00:00,Luce Graham,4,M-Exempt,--D,7479,14958,4,0001743434,Stock Option
+D,04/19/2021 00:00:00,Luce Graham,4,S-Sale,--D,8565,48211,3,0001743434,Common Stock
+A,04/19/2021 00:00:00,Luce Graham,4,M-Exempt,--D,1086,56776,2,0001743434,Common Stock
+A,04/19/2021 00:00:00,Luce Graham,4,M-Exempt,--D,7479,55690,1,0001743434,Common Stock
+A,04/01/2021 00:00:00,Delaney Lee,4/A,A-Award,--D,80146,358548,1,0001743502,Common Stock
+D,04/01/2021 00:00:00,Werner William C.,4,F-InKind,--D,6331,64372,2,0001743889,Common Stock
+A,04/01/2021 00:00:00,Werner William C.,4,A-Award,--D,12654,70703,1,0001743889,Common Stock
+D,04/01/2021 00:00:00,Sugrue Kristyn M.,4,F-InKind,--D,5276,51903,2,0001743528,Common Stock
+A,04/01/2021 00:00:00,Sugrue Kristyn M.,4,A-Award,--D,10545,57179,1,0001743528,Common Stock
+D,04/01/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,26631,0,6,0001743880,Stock Option
+D,04/01/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,207,125679,5,0001743880,Common Stock
+D,04/01/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,26424,125886,4,0001743880,Common Stock
+A,04/01/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,26631,152310,3,0001743880,Common Stock
+D,04/01/2021 00:00:00,Poulliot Brian,4,F-InKind,--D,9754,125679,2,0001743880,Common Stock
+A,04/01/2021 00:00:00,Poulliot Brian,4,A-Award,--D,15748,135433,1,0001743880,Common Stock
+A,04/01/2021 00:00:00,Schwartz Monica,4,A-Award,--D,8436,28341,1,0001820292,Common Stock
+D,04/01/2021 00:00:00,Luce Graham,4,F-InKind,--D,6331,48211,2,0001743434,Common Stock
+A,04/01/2021 00:00:00,Luce Graham,4,A-Award,--D,12654,54542,1,0001743434,Common Stock
+D,04/01/2021 00:00:00,Kessler Scott,4,F-InKind,--D,9754,139761,2,0001743501,Common Stock
+A,04/01/2021 00:00:00,Kessler Scott,4,A-Award,--D,15748,149515,1,0001743501,Common Stock
+D,04/01/2021 00:00:00,Eddy Robert W.,4,F-InKind,--D,19509,239515,2,0001510712,Common Stock
+A,04/01/2021 00:00:00,Eddy Robert W.,4,A-Award,--D,31496,259024,1,0001510712,Common Stock
+D,04/01/2021 00:00:00,Felice Laura L.,4,F-InKind,--D,6331,91979,2,0001743504,Common Stock
+A,04/01/2021 00:00:00,Felice Laura L.,4,A-Award,--D,12654,98310,1,0001743504,Common Stock
+D,04/01/2021 00:00:00,Baldwin Christopher J,4,F-InKind,--D,27285,293738,1,0001306296,Common Stock
+D,04/01/2021 00:00:00,Desroches Jeff,4,F-InKind,--D,9754,141197,2,0001743872,Common Stock
+A,04/01/2021 00:00:00,Desroches Jeff,4,A-Award,--D,15748,150951,1,0001743872,Common Stock
+D,04/01/2021 00:00:00,Delaney Lee,4,F-InKind,--D,29747,316146,2,0001743502,Common Stock
+A,04/01/2021 00:00:00,Delaney Lee,4,A-Award,--D,67491,345893,1,0001743502,Common Stock
+D,04/01/2021 00:00:00,Cichocki Paul,4,F-InKind,--D,19902,110113,2,0001808323,Common Stock
+A,04/01/2021 00:00:00,Cichocki Paul,4,A-Award,--D,25309,130015,1,0001808323,Common Stock
+D,03/26/2021 00:00:00,Eddy Robert W.,4,S-Sale,--I,14912,0,2,0001510712,Common Stock
+D,03/26/2021 00:00:00,Eddy Robert W.,4,S-Sale,--D,12870,227528,1,0001510712,Common Stock
+D,03/23/2021 00:00:00,Eddy Robert W.,4,S-Sale,--I,2200,14912,2,0001510712,Common Stock
+D,03/23/2021 00:00:00,Eddy Robert W.,4,S-Sale,--D,2000,240398,1,0001510712,Common Stock
+D,03/09/2021 00:00:00,Kessler Scott,4,M-Exempt,--D,32812,32813,4,0001743501,Stock Option
+D,03/09/2021 00:00:00,Kessler Scott,4,S-Sale,--D,21412,133767,3,0001743501,Common Stock
+D,03/09/2021 00:00:00,Kessler Scott,4,S-Sale,--D,11400,155179,2,0001743501,Common Stock
+A,03/09/2021 00:00:00,Kessler Scott,4,M-Exempt,--D,32812,166579,1,0001743501,Common Stock
+D,02/19/2021 00:00:00,Eddy Robert W.,4,S-Sale,--I,5984,17112,2,0001510712,Common Stock
+D,02/19/2021 00:00:00,Eddy Robert W.,4,S-Sale,--D,5130,242398,1,0001510712,Common Stock
+D,02/03/2021 00:00:00,Eddy Robert W.,4,S-Sale,--I,200,0,3,0001510712,Common Stock
+D,02/03/2021 00:00:00,Eddy Robert W.,4,S-Sale,--I,21018,200,2,0001510712,Common Stock
+D,02/01/2021 00:00:00,Kessler Scott,4,M-Exempt,--D,21534,0,5,0001743501,Stock Option
+D,02/01/2021 00:00:00,Kessler Scott,4,S-Sale,--D,4881,133767,4,0001743501,Common Stock
+D,02/01/2021 00:00:00,Kessler Scott,4,S-Sale,--D,12253,138648,3,0001743501,Common Stock
+D,02/01/2021 00:00:00,Kessler Scott,4,S-Sale,--D,4400,150901,2,0001743501,Common Stock
+A,02/01/2021 00:00:00,Kessler Scott,4,M-Exempt,--D,21534,155301,1,0001743501,Common Stock
+D,01/28/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,169,26631,8,0001743880,Stock Option
+D,01/28/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,169,119685,6,0001743880,Common Stock
+A,01/28/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,169,119854,5,0001743880,Common Stock
+D,01/27/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,28450,26800,7,0001743880,Stock Option
+D,01/27/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,11017,119685,4,0001743880,Common Stock
+D,01/27/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,9933,130702,3,0001743880,Common Stock
+D,01/27/2021 00:00:00,Poulliot Brian,4,S-Sale,--D,7500,140635,2,0001743880,Common Stock
+A,01/27/2021 00:00:00,Poulliot Brian,4,M-Exempt,--D,28450,148135,1,0001743880,Common Stock
+D,12/18/2020 00:00:00,Desroches Jeff,4,M-Exempt,--D,47250,0,3,0001743872,Stock Option
+D,12/18/2020 00:00:00,Desroches Jeff,4,S-Sale,--D,80596,135203,2,0001743872,Common Stock
+A,12/18/2020 00:00:00,Desroches Jeff,4,M-Exempt,--D,47250,215799,1,0001743872,Common Stock
+D,12/14/2020 00:00:00,Eddy Robert W.,4,G-Gift,--I,6000,0,1,0001510712,Common Stock
+D,11/30/2020 00:00:00,Steele Robert Allan,4,M-Exempt,--D,7875,23625,3,0001404402,Stock Option
+D,11/30/2020 00:00:00,Steele Robert Allan,4,S-Sale,--D,7875,14143,2,0001404402,Common Stock
+A,11/30/2020 00:00:00,Steele Robert Allan,4,M-Exempt,--D,7875,22018,1,0001404402,Common Stock
+D,11/02/2020 00:00:00,Kessler Scott,4,M-Exempt,--D,21534,21534,3,0001743501,Stock Option
+D,11/02/2020 00:00:00,Kessler Scott,4,S-Sale,--D,21534,133767,2,0001743501,Common Stock
+A,11/02/2020 00:00:00,Kessler Scott,4,M-Exempt,--D,21534,155301,1,0001743501,Common Stock
+D,10/05/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,265562,0,7,0001306296,Stock Option
+D,10/05/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--D,94329,321023,5,0001306296,Common Stock
+D,10/05/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--D,171233,415352,4,0001306296,Common Stock
+A,10/05/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,265562,586585,3,0001306296,Common Stock
+D,10/02/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,125060,265562,6,0001306296,Stock Option
+D,10/02/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--D,125060,321023,2,0001306296,Common Stock
+A,10/02/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,125060,446083,1,0001306296,Common Stock
+D,09/18/2020 00:00:00,Felice Laura L.,4,M-Exempt,--D,7000,39141,3,0001743504,Stock Option
+D,09/18/2020 00:00:00,Felice Laura L.,4,S-Sale,--D,7000,85656,2,0001743504,Common Stock
+A,09/18/2020 00:00:00,Felice Laura L.,4,M-Exempt,--D,7000,92656,1,0001743504,Common Stock
+D,09/01/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--I,31476,0,1,0001306296,Common Stock
+D,08/24/2020 00:00:00,Werner William C.,4,M-Exempt,--D,40000,25830,4,0001743889,Stock Option
+D,08/24/2020 00:00:00,Werner William C.,4,S-Sale,--D,22417,58049,3,0001743889,Common Stock
+D,08/24/2020 00:00:00,Werner William C.,4,S-Sale,--D,24614,80466,2,0001743889,Common Stock
+A,08/24/2020 00:00:00,Werner William C.,4,M-Exempt,--D,40000,105080,1,0001743889,Common Stock
+D,08/24/2020 00:00:00,Poulliot Brian,4,M-Exempt,--D,15000,55250,3,0001743880,Stock Option
+D,08/24/2020 00:00:00,Poulliot Brian,4,S-Sale,--D,15000,119685,2,0001743880,Common Stock
+A,08/24/2020 00:00:00,Poulliot Brian,4,M-Exempt,--D,15000,134685,1,0001743880,Common Stock
+D,08/20/2020 00:00:00,Felice Laura L.,4,M-Exempt,--D,7000,46141,5,0001743504,Stock Option
+D,08/20/2020 00:00:00,Felice Laura L.,4,S-Sale,--D,400,85656,4,0001743504,Common Stock
+D,08/20/2020 00:00:00,Felice Laura L.,4,S-Sale,--D,5700,86056,3,0001743504,Common Stock
+D,08/20/2020 00:00:00,Felice Laura L.,4,S-Sale,--D,900,91756,2,0001743504,Common Stock
+A,08/20/2020 00:00:00,Felice Laura L.,4,M-Exempt,--D,7000,92656,1,0001743504,Common Stock
+D,08/20/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--I,67351,31476,3,0001306296,Common Stock
+D,08/20/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--I,127159,98827,2,0001306296,Common Stock
+D,08/20/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--I,23710,225986,1,0001306296,Common Stock
+A,08/03/2020 00:00:00,Schwartz Monica,4,A-Award,--D,19905,19905,1,0001820292,Common Stock
+D,08/03/2020 00:00:00,Kessler Scott,4,M-Exempt,--D,21534,43068,3,0001743501,Stock Option
+D,08/03/2020 00:00:00,Kessler Scott,4,S-Sale,--D,21534,133767,2,0001743501,Common Stock
+A,08/03/2020 00:00:00,Kessler Scott,4,M-Exempt,--D,21534,155301,1,0001743501,Common Stock
+D,07/17/2020 00:00:00,Felice Laura L.,4,M-Exempt,--D,7000,53141,3,0001743504,Stock Option
+D,07/17/2020 00:00:00,Felice Laura L.,4,S-Sale,--D,7000,85656,2,0001743504,Common Stock
+A,07/17/2020 00:00:00,Felice Laura L.,4,M-Exempt,--D,7000,92656,1,0001743504,Common Stock
+D,07/17/2020 00:00:00,Desroches Jeff,4,M-Exempt,--D,5264,0,3,0001743872,Stock Option
+D,07/17/2020 00:00:00,Desroches Jeff,4,S-Sale,--D,5264,168549,2,0001743872,Common Stock
+A,07/17/2020 00:00:00,Desroches Jeff,4,M-Exempt,--D,5264,173813,1,0001743872,Common Stock
+D,07/14/2020 00:00:00,Luce Graham,4,M-Exempt,--D,5117,5859,14,0001743434,Stock Option
+D,07/14/2020 00:00:00,Luce Graham,4,M-Exempt,--D,2895,13592,13,0001743434,Stock Option
+D,07/14/2020 00:00:00,Luce Graham,4,M-Exempt,--D,10485,0,12,0001743434,Stock Option
+D,07/14/2020 00:00:00,Luce Graham,4,S-Sale,--D,22993,41888,8,0001743434,Common Stock
+A,07/14/2020 00:00:00,Luce Graham,4,M-Exempt,--D,5117,64881,7,0001743434,Common Stock
+A,07/14/2020 00:00:00,Luce Graham,4,M-Exempt,--D,2895,59764,6,0001743434,Common Stock
+A,07/14/2020 00:00:00,Luce Graham,4,M-Exempt,--D,10485,56869,5,0001743434,Common Stock
+D,07/14/2020 00:00:00,Eddy Robert W.,4,S-Sale,--I,11649,23096,6,0001510712,Common Stock
+D,07/14/2020 00:00:00,Eddy Robert W.,4,S-Sale,--I,19669,21218,5,0001510712,Common Stock
+D,07/14/2020 00:00:00,Eddy Robert W.,4,S-Sale,--I,18700,15428,4,0001510712,Common Stock
+D,07/13/2020 00:00:00,Luce Graham,4,M-Exempt,--D,6601,10976,11,0001743434,Stock Option
+D,07/13/2020 00:00:00,Luce Graham,4,M-Exempt,--D,3900,16487,10,0001743434,Stock Option
+D,07/13/2020 00:00:00,Luce Graham,4,M-Exempt,--D,13315,10485,9,0001743434,Stock Option
+D,07/13/2020 00:00:00,Luce Graham,4,S-Sale,--D,29618,46384,4,0001743434,Common Stock
+A,07/13/2020 00:00:00,Luce Graham,4,M-Exempt,--D,6601,76002,3,0001743434,Common Stock
+A,07/13/2020 00:00:00,Luce Graham,4,M-Exempt,--D,3900,69401,2,0001743434,Common Stock
+A,07/13/2020 00:00:00,Luce Graham,4,M-Exempt,--D,13315,65501,1,0001743434,Common Stock
+D,07/13/2020 00:00:00,Eddy Robert W.,4,S-Sale,--I,6351,34745,3,0001510712,Common Stock
+D,07/13/2020 00:00:00,Eddy Robert W.,4,S-Sale,--I,11602,40887,2,0001510712,Common Stock
+D,07/13/2020 00:00:00,Eddy Robert W.,4,S-Sale,--I,11100,34128,1,0001510712,Common Stock
+D,06/29/2020 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,9765,0,7,0001743528,Stock Option
+D,06/29/2020 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,4883,4885,6,0001743528,Stock Option
+D,06/29/2020 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,9335,46634,5,0001743528,Common Stock
+D,06/29/2020 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,5053,55969,4,0001743528,Common Stock
+D,06/29/2020 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,2974,61022,3,0001743528,Common Stock
+A,06/29/2020 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,14648,63996,2,0001743528,Common Stock
+D,06/26/2020 00:00:00,Werner William C.,4,F-InKind,--D,5197,65080,1,0001743889,Common Stock
+D,06/26/2020 00:00:00,Sugrue Kristyn M.,4,F-InKind,--D,2166,49348,1,0001743528,Common Stock
+D,06/26/2020 00:00:00,Poulliot Brian,4,F-InKind,--D,9702,119685,1,0001743880,Common Stock
+D,06/26/2020 00:00:00,Luce Graham,4,F-InKind,--D,2599,52186,1,0001743434,Common Stock
+D,06/26/2020 00:00:00,Kessler Scott,4,F-InKind,--D,9702,133767,1,0001743501,Common Stock
+D,06/26/2020 00:00:00,Felice Laura L.,4,F-InKind,--D,5197,85656,1,0001743504,Common Stock
+D,06/26/2020 00:00:00,Eddy Robert W.,4,F-InKind,--D,12936,238100,1,0001510712,Common Stock
+D,06/26/2020 00:00:00,Desroches Jeff,4,F-InKind,--D,10866,168549,1,0001743872,Common Stock
+D,06/26/2020 00:00:00,Delaney Lee,4,F-InKind,--D,6930,278402,1,0001743502,Common Stock
+D,06/26/2020 00:00:00,Baldwin Christopher J,4,F-InKind,--D,28874,321023,1,0001306296,Common Stock
+D,06/19/2020 00:00:00,Felice Laura L.,4,M-Exempt,--D,7000,60141,4,0001743504,Stock Option
+D,06/19/2020 00:00:00,Felice Laura L.,4,S-Sale,--D,2967,90853,3,0001743504,Common Stock
+D,06/19/2020 00:00:00,Felice Laura L.,4,S-Sale,--D,4033,93820,2,0001743504,Common Stock
+A,06/19/2020 00:00:00,Felice Laura L.,4,M-Exempt,--D,7000,97853,1,0001743504,Common Stock
+A,06/18/2020 00:00:00,Naylor Maile,4,A-Award,--D,4053,4053,3,0001788654,Restricted Stock Units
+A,06/18/2020 00:00:00,Werthauser Judith L.,4,A-Award,--D,4053,4053,3,0001757923,Restricted Stock Units
+A,06/18/2020 00:00:00,Steele Robert Allan,4,A-Award,--D,4053,4053,3,0001404402,Restricted Stock Units
+A,06/18/2020 00:00:00,Peterson Christopher H,4,A-Award,--D,4053,4053,3,0001558968,Restricted Stock Units
+A,06/18/2020 00:00:00,Parent Kenneth M.,4,A-Award,--D,4053,4053,3,0001743913,Restricted Stock Units
+A,06/18/2020 00:00:00,Kingsbury Thomas,4,A-Award,--D,4053,4053,3,0001371136,Common Stock
+A,06/18/2020 00:00:00,Gloeckler Michelle J.,4,A-Award,--D,4053,4053,3,0001788782,Restricted Stock Units
+D,06/17/2020 00:00:00,Naylor Maile,4,M-Exempt,--D,4015,0,2,0001788654,Restricted Stock Units
+A,06/17/2020 00:00:00,Naylor Maile,4,M-Exempt,--D,4015,4015,1,0001788654,Common Stock
+D,06/17/2020 00:00:00,Werthauser Judith L.,4,M-Exempt,--D,5447,0,2,0001757923,Restricted Stock Units
+A,06/17/2020 00:00:00,Werthauser Judith L.,4,A-Award,--D,5447,9489,1,0001757923,Common Stock
+D,06/17/2020 00:00:00,Steele Robert Allan,4,M-Exempt,--D,5447,0,2,0001404402,Restricted Stock Units
+A,06/17/2020 00:00:00,Steele Robert Allan,4,M-Exempt,--D,5447,10090,1,0001404402,Common Stock
+D,06/17/2020 00:00:00,Peterson Christopher H,4,M-Exempt,--D,5447,0,2,0001558968,Restricted Stock Units
+A,06/17/2020 00:00:00,Peterson Christopher H,4,M-Exempt,--D,5447,8202,1,0001558968,Common Stock
+D,06/17/2020 00:00:00,Parent Kenneth M.,4,M-Exempt,--D,5447,0,2,0001743913,Restricted Stock Units
+A,06/17/2020 00:00:00,Parent Kenneth M.,4,M-Exempt,--D,5447,10090,1,0001743913,Common Stock
+D,06/17/2020 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,2560,0,2,0001371136,Common Stock
+A,06/17/2020 00:00:00,Kingsbury Thomas,4,M-Exempt,--D,2560,2560,1,0001371136,Common Stock
+D,06/17/2020 00:00:00,Gloeckler Michelle J.,4,M-Exempt,--D,4015,0,2,0001788782,Restricted Stock Units
+A,06/17/2020 00:00:00,Gloeckler Michelle J.,4,M-Exempt,--D,4015,4015,1,0001788782,Common Stock
+D,05/21/2020 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,5663,11326,9,0001743528,Stock Option
+D,05/21/2020 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,19530,9765,8,0001743528,Stock Option
+D,05/21/2020 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,11459,51514,7,0001743528,Common Stock
+D,05/21/2020 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,3749,62973,6,0001743528,Common Stock
+D,05/21/2020 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,6967,66722,5,0001743528,Common Stock
+D,05/21/2020 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,4461,73689,4,0001743528,Common Stock
+D,05/21/2020 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,870,78150,3,0001743528,Common Stock
+A,05/21/2020 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,5663,79020,2,0001743528,Common Stock
+A,05/21/2020 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,19530,73357,1,0001743528,Common Stock
+D,05/21/2020 00:00:00,Poulliot Brian,4,M-Exempt,--D,12519,0,5,0001743880,Stock Option
+D,05/21/2020 00:00:00,Poulliot Brian,4,M-Exempt,--D,12000,70250,4,0001743880,Stock Option
+D,05/21/2020 00:00:00,Poulliot Brian,4,S-Sale,--D,24519,129387,3,0001743880,Common Stock
+A,05/21/2020 00:00:00,Poulliot Brian,4,M-Exempt,--D,12519,153906,2,0001743880,Common Stock
+A,05/21/2020 00:00:00,Poulliot Brian,4,M-Exempt,--D,12000,141387,1,0001743880,Common Stock
+D,05/21/2020 00:00:00,Felice Laura L.,4,M-Exempt,--D,18000,67141,7,0001743504,Stock Option
+D,05/21/2020 00:00:00,Felice Laura L.,4,S-Sale,--D,2419,90853,6,0001743504,Common Stock
+D,05/21/2020 00:00:00,Felice Laura L.,4,S-Sale,--D,11500,93272,5,0001743504,Common Stock
+D,05/21/2020 00:00:00,Felice Laura L.,4,S-Sale,--D,800,104772,4,0001743504,Common Stock
+D,05/21/2020 00:00:00,Felice Laura L.,4,S-Sale,--D,2306,105572,3,0001743504,Common Stock
+D,05/21/2020 00:00:00,Felice Laura L.,4,S-Sale,--D,975,107878,2,0001743504,Common Stock
+A,05/21/2020 00:00:00,Felice Laura L.,4,M-Exempt,--D,18000,108853,1,0001743504,Common Stock
+D,05/21/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--I,149738,249696,6,0001306296,Common Stock
+D,05/21/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--I,256465,0,5,0001306296,Common Stock
+D,05/21/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--I,74273,256465,4,0001306296,Common Stock
+D,05/21/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--I,77396,330738,3,0001306296,Common Stock
+D,05/21/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--I,35261,408134,2,0001306296,Common Stock
+D,05/21/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--I,6867,443395,1,0001306296,Common Stock
+D,04/28/2020 00:00:00,Werner William C.,4,M-Exempt,--D,1,65830,3,0001743889,Stock Option
+D,04/28/2020 00:00:00,Werner William C.,4,S-Sale,--D,1,70277,2,0001743889,Common Stock
+A,04/28/2020 00:00:00,Werner William C.,4,M-Exempt,--D,1,70278,1,0001743889,Common Stock
+D,04/27/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,81304,0,9,0001306296,Stock Option
+D,04/27/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,33224,0,8,0001306296,Stock Option
+D,04/27/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--D,114528,349897,4,0001306296,Common Stock
+A,04/27/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,114528,464425,3,0001306296,Common Stock
+D,04/24/2020 00:00:00,Poulliot Brian,4,M-Exempt,--D,12000,12519,3,0001743880,Stock Option
+D,04/24/2020 00:00:00,Poulliot Brian,4,S-Sale,--D,12000,129387,2,0001743880,Common Stock
+A,04/24/2020 00:00:00,Poulliot Brian,4,M-Exempt,--D,12000,141387,1,0001743880,Common Stock
+D,04/24/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,500,81304,7,0001306296,Stock Option
+D,04/24/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,500,33224,6,0001306296,Stock Option
+D,04/24/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--D,1000,349897,2,0001306296,Common Stock
+A,04/24/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,1000,350897,1,0001306296,Common Stock
+D,04/23/2020 00:00:00,Kessler Scott,4,M-Exempt,--D,21534,64602,4,0001743501,Stock Option
+D,04/23/2020 00:00:00,Kessler Scott,4,S-Sale,--D,801,143469,3,0001743501,Common Stock
+D,04/23/2020 00:00:00,Kessler Scott,4,S-Sale,--D,32895,144270,2,0001743501,Common Stock
+A,04/23/2020 00:00:00,Kessler Scott,4,M-Exempt,--D,21534,177165,1,0001743501,Common Stock
+D,04/20/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,5183,81804,8,0001306296,Stock Option
+D,04/20/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,2283,33724,7,0001306296,Stock Option
+D,04/20/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--D,7466,349897,4,0001306296,Common Stock
+A,04/20/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,7466,357363,3,0001306296,Common Stock
+D,04/17/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,70513,86987,6,0001306296,Stock Option
+D,04/17/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,104040,36007,5,0001306296,Stock Option
+D,04/17/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--D,174553,349897,2,0001306296,Common Stock
+A,04/17/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,174553,524450,1,0001306296,Common Stock
+D,04/13/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,300000,140047,4,0001306296,Common Stock
+D,04/13/2020 00:00:00,Baldwin Christopher J,4,S-Sale,--D,300000,349897,2,0001306296,Common Stock
+A,04/13/2020 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,300000,649897,1,0001306296,Common Stock
+A,04/01/2020 00:00:00,Werner William C.,4,A-Award,--D,22437,22437,3,0001743889,Stock Option
+D,04/01/2020 00:00:00,Werner William C.,4,F-InKind,--D,3014,70277,2,0001743889,Common Stock
+A,04/01/2020 00:00:00,Werner William C.,4,A-Award,--D,22437,73291,1,0001743889,Common Stock
+A,04/01/2020 00:00:00,Sugrue Kristyn M.,4,A-Award,--D,18697,18697,3,0001743528,Stock Option
+D,04/01/2020 00:00:00,Sugrue Kristyn M.,4,F-InKind,--D,2512,53827,2,0001743528,Common Stock
+A,04/01/2020 00:00:00,Sugrue Kristyn M.,4,A-Award,--D,18697,56339,1,0001743528,Common Stock
+D,04/01/2020 00:00:00,Poulliot Brian,4,F-InKind,--D,5626,129387,2,0001743880,Common Stock
+A,04/01/2020 00:00:00,Poulliot Brian,4,A-Award,--D,27921,135013,1,0001743880,Common Stock
+A,04/01/2020 00:00:00,Masood Rafeh,4,A-Award,--D,24531,24531,3,0001744011,Stock Option
+D,04/01/2020 00:00:00,Masood Rafeh,4,F-InKind,--D,3296,70876,2,0001744011,Common Stock
+A,04/01/2020 00:00:00,Masood Rafeh,4,A-Award,--D,24531,74172,1,0001744011,Common Stock
+A,04/01/2020 00:00:00,Luce Graham,4,A-Award,--D,22437,22437,3,0001743434,Stock Option
+D,04/01/2020 00:00:00,Luce Graham,4,F-InKind,--D,3014,54785,2,0001743434,Common Stock
+A,04/01/2020 00:00:00,Luce Graham,4,A-Award,--D,22437,57799,1,0001743434,Common Stock
+D,04/01/2020 00:00:00,Kessler Scott,4,F-InKind,--D,5626,155631,2,0001743501,Common Stock
+A,04/01/2020 00:00:00,Kessler Scott,4,A-Award,--D,27921,161257,1,0001743501,Common Stock
+A,04/01/2020 00:00:00,Felice Laura L.,4,A-Award,--D,22437,22437,3,0001743504,Stock Option
+D,04/01/2020 00:00:00,Felice Laura L.,4,F-InKind,--D,3014,90853,2,0001743504,Common Stock
+A,04/01/2020 00:00:00,Felice Laura L.,4,A-Award,--D,22437,93867,1,0001743504,Common Stock
+D,04/01/2020 00:00:00,Eddy Robert W.,4,F-InKind,--D,11253,251036,2,0001510712,Common Stock
+A,04/01/2020 00:00:00,Eddy Robert W.,4,A-Award,--D,55843,262289,1,0001510712,Common Stock
+D,04/01/2020 00:00:00,Desroches Jeff,4,F-InKind,--D,5626,179415,2,0001743872,Common Stock
+A,04/01/2020 00:00:00,Desroches Jeff,4,A-Award,--D,27921,185041,1,0001743872,Common Stock
+D,04/01/2020 00:00:00,Delaney Lee,4,F-InKind,--D,12056,285332,2,0001743502,Common Stock
+A,04/01/2020 00:00:00,Delaney Lee,4,A-Award,--D,119664,297388,1,0001743502,Common Stock
+A,04/01/2020 00:00:00,Cichocki Paul,4,A-Award,--D,179497,179497,3,0001808323,Stock Option
+A,04/01/2020 00:00:00,Cichocki Paul,4,A-Award,--D,44874,104706,2,0001808323,Common Stock
+A,04/01/2020 00:00:00,Cichocki Paul,4,A-Award,--D,59832,59832,1,0001808323,Common Stock
+D,03/19/2020 00:00:00,Luce Graham,4,M-Exempt,--D,1200,9800,7,0001743434,Common Stock
+D,03/19/2020 00:00:00,Luce Graham,4,S-Sale,--D,1200,35362,5,0001743434,Common Stock
+A,03/19/2020 00:00:00,Luce Graham,4,M-Exempt,--D,1200,36562,4,0001743434,Common Stock
+D,03/18/2020 00:00:00,Masood Rafeh,4/A,M-Exempt,--D,5960,38438,2,0001744011,Stock Option
+A,03/18/2020 00:00:00,Masood Rafeh,4/A,M-Exempt,--D,5960,76836,1,0001744011,Common Stock
+D,03/18/2020 00:00:00,Delaney Lee,4,M-Exempt,--D,17602,55000,5,0001743502,Stock Option
+D,03/18/2020 00:00:00,Delaney Lee,4,S-Sale,--D,1145,177724,4,0001743502,Common Stock
+D,03/18/2020 00:00:00,Delaney Lee,4,S-Sale,--D,8577,178869,3,0001743502,Common Stock
+D,03/18/2020 00:00:00,Delaney Lee,4,S-Sale,--D,7880,187446,2,0001743502,Common Stock
+A,03/18/2020 00:00:00,Delaney Lee,4,M-Exempt,--D,17602,195326,1,0001743502,Common Stock
+D,03/18/2020 00:00:00,Luce Graham,4,M-Exempt,--D,22000,11000,6,0001743434,Common Stock
+D,03/18/2020 00:00:00,Luce Graham,4,S-Sale,--D,14162,35362,3,0001743434,Common Stock
+D,03/18/2020 00:00:00,Luce Graham,4,S-Sale,--D,7838,49524,2,0001743434,Common Stock
+A,03/18/2020 00:00:00,Luce Graham,4,M-Exempt,--D,22000,57362,1,0001743434,Common Stock
+D,03/18/2020 00:00:00,Masood Rafeh,4,M-Exempt,--D,18366,5961,11,0001744011,Common Stock
+D,03/18/2020 00:00:00,Masood Rafeh,4,M-Exempt,--D,12381,0,10,0001744011,Common Stock
+D,03/18/2020 00:00:00,Masood Rafeh,4,S-Sale,--D,3148,49641,8,0001744011,Common Stock
+D,03/18/2020 00:00:00,Masood Rafeh,4,S-Sale,--D,22570,52789,7,0001744011,Common Stock
+D,03/18/2020 00:00:00,Masood Rafeh,4,S-Sale,--D,21489,75359,6,0001744011,Common Stock
+D,03/18/2020 00:00:00,Masood Rafeh,4,S-Sale,--D,2538,96848,5,0001744011,Common Stock
+A,03/18/2020 00:00:00,Masood Rafeh,4,M-Exempt,--D,18366,99386,4,0001744011,Common Stock
+A,03/18/2020 00:00:00,Masood Rafeh,4,M-Exempt,--D,12381,81020,3,0001744011,Common Stock
+D,03/18/2020 00:00:00,Eddy Robert W.,4,M-Exempt,--D,85840,0,12,0001510712,Stock Option
+D,03/18/2020 00:00:00,Eddy Robert W.,4,S-Sale,--D,5700,206446,7,0001510712,Common Stock
+D,03/18/2020 00:00:00,Eddy Robert W.,4,S-Sale,--D,21129,212146,6,0001510712,Common Stock
+D,03/18/2020 00:00:00,Eddy Robert W.,4,S-Sale,--D,37438,233275,5,0001510712,Common Stock
+D,03/18/2020 00:00:00,Eddy Robert W.,4,S-Sale,--D,21573,270713,4,0001510712,Common Stock
+A,03/18/2020 00:00:00,Eddy Robert W.,4,M-Exempt,--D,85840,292286,3,0001510712,Common Stock
+D,03/17/2020 00:00:00,Masood Rafeh,4,M-Exempt,--D,15619,12381,9,0001744011,Common Stock
+D,03/17/2020 00:00:00,Masood Rafeh,4,S-Sale,--D,15619,68639,2,0001744011,Common Stock
+A,03/17/2020 00:00:00,Masood Rafeh,4,M-Exempt,--D,15619,84258,1,0001744011,Common Stock
+D,03/17/2020 00:00:00,Eddy Robert W.,4,M-Exempt,--D,19160,85840,11,0001510712,Stock Option
+D,03/17/2020 00:00:00,Eddy Robert W.,4,S-Sale,--D,19160,206446,2,0001510712,Common Stock
+A,03/17/2020 00:00:00,Eddy Robert W.,4,M-Exempt,--D,19160,225606,1,0001510712,Common Stock
+A,03/03/2020 00:00:00,Luce Graham,4,A-Award,--D,14000,23800,1,0001743434,Stock Option
+A,02/02/2020 00:00:00,Kingsbury Thomas,4,A-Award,--D,2560,2560,1,0001371136,Common Stock
+D,01/02/2020 00:00:00,Poulliot Brian,4,M-Exempt,--D,10000,24519,3,0001743880,Stock Option
+D,01/02/2020 00:00:00,Poulliot Brian,4,S-Sale,--D,10000,107092,2,0001743880,Common Stock
+A,01/02/2020 00:00:00,Poulliot Brian,4,M-Exempt,--D,10000,117092,1,0001743880,Common Stock
+D,12/02/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,10000,34519,3,0001743880,Stock Option
+D,12/02/2019 00:00:00,Poulliot Brian,4,S-Sale,--D,10000,107092,2,0001743880,Common Stock
+A,12/02/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,10000,117092,1,0001743880,Common Stock
+D,11/18/2019 00:00:00,Werner William C.,4,M-Exempt,--D,8775,65831,3,0001743889,Stock Option
+D,11/18/2019 00:00:00,Werner William C.,4,S-Sale,--D,8775,50854,2,0001743889,Common Stock
+A,11/18/2019 00:00:00,Werner William C.,4,M-Exempt,--D,8775,59629,1,0001743889,Common Stock
+D,11/18/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,35000,105000,6,0001510712,Stock Option
+D,11/18/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,35000,206446,2,0001510712,Common Stock
+A,11/18/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,35000,241446,1,0001510712,Common Stock
+D,11/05/2019 00:00:00,Werner William C.,4,M-Exempt,--D,1975,74606,9,0001743889,Stock Option
+D,11/05/2019 00:00:00,Werner William C.,4,S-Sale,--D,1975,50854,6,0001743889,Common Stock
+A,11/05/2019 00:00:00,Werner William C.,4,M-Exempt,--D,1975,52829,5,0001743889,Common Stock
+D,11/04/2019 00:00:00,Werner William C.,4,M-Exempt,--D,1306,76581,8,0001743889,Stock Option
+D,11/04/2019 00:00:00,Werner William C.,4,S-Sale,--D,1306,50854,4,0001743889,Common Stock
+A,11/04/2019 00:00:00,Werner William C.,4,M-Exempt,--D,1306,52160,3,0001743889,Common Stock
+D,11/01/2019 00:00:00,Werner William C.,4,M-Exempt,--D,9006,77887,7,0001743889,Stock Option
+D,11/01/2019 00:00:00,Werner William C.,4,S-Sale,--D,9006,50854,2,0001743889,Common Stock
+A,11/01/2019 00:00:00,Werner William C.,4,M-Exempt,--D,9006,59860,1,0001743889,Common Stock
+D,11/01/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,10000,44519,4,0001743880,Stock Option
+D,11/01/2019 00:00:00,Poulliot Brian,4,S-Sale,--D,6400,107092,3,0001743880,Common Stock
+D,11/01/2019 00:00:00,Poulliot Brian,4,S-Sale,--D,3600,113492,2,0001743880,Common Stock
+A,11/01/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,10000,117092,1,0001743880,Common Stock
+D,11/01/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,56227,140000,9,0001510712,Stock Option
+D,11/01/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,56227,206446,4,0001510712,Common Stock
+A,11/01/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,56227,262673,3,0001510712,Common Stock
+D,10/31/2019 00:00:00,Luce Graham,4,M-Exempt,--D,10000,33000,3,0001743434,Common Stock
+D,10/31/2019 00:00:00,Luce Graham,4,S-Sale,--D,10000,35362,2,0001743434,Common Stock
+A,10/31/2019 00:00:00,Luce Graham,4,M-Exempt,--D,10000,45362,1,0001743434,Common Stock
+D,10/31/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,6830,196227,8,0001510712,Stock Option
+D,10/31/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,6830,206446,2,0001510712,Common Stock
+A,10/31/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,6830,213276,1,0001510712,Common Stock
+D,10/29/2019 00:00:00,Baldwin Christopher J,4/A,S-Sale,--I,30149,0,2,0001306296,Common Stock
+A,10/29/2019 00:00:00,Baldwin Christopher J,4/A,J-Other,--I,30149,30149,1,0001306296,Common Stock
+D,10/23/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--I,13777,0,3,0001306296,Common Stock
+D,10/22/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--I,16372,13777,2,0001306296,Common Stock
+D,10/07/2019 00:00:00,Delaney Lee,4,M-Exempt,--D,10000,72602,3,0001743502,Stock Option
+D,10/07/2019 00:00:00,Delaney Lee,4,S-Sale,--D,10000,177724,2,0001743502,Common Stock
+A,10/07/2019 00:00:00,Delaney Lee,4,M-Exempt,--D,10000,187724,1,0001743502,Common Stock
+D,10/04/2019 00:00:00,SEIFFER JONATHAN A,4,S-Sale,--D,75000,57704,1,0001243592,Common Stock
+D,10/01/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,3756,54519,3,0001743880,Stock Option
+D,10/01/2019 00:00:00,Poulliot Brian,4,S-Sale,--D,10000,107092,2,0001743880,Common Stock
+A,10/01/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,3756,117092,1,0001743880,Common Stock
+A,09/19/2019 00:00:00,Gloeckler Michelle J.,4,A-Award,--D,4015,4015,1,0001788782,Restricted Stock Units
+A,09/19/2019 00:00:00,Naylor Maile,4,A-Award,--D,4015,4015,1,0001788654,Restricted Stock Units
+D,09/17/2019 00:00:00,SEIFFER JONATHAN A,4,S-Sale,--I,2987094,0,3,0001243592,Common Stock
+D,09/17/2019 00:00:00,Galashan John Kristofer,4,S-Sale,--I,2987094,0,5,0001590836,Common Stock
+D,09/17/2019 00:00:00,Galashan John Kristofer,4,G-Gift,--D,42845,0,4,0001590836,Common Stock
+D,09/17/2019 00:00:00,Galashan John Kristofer,4,S-Sale,--D,42844,42845,3,0001590836,Common Stock
+D,09/16/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,6943,203057,7,0001510712,Stock Option
+A,09/16/2019 00:00:00,Eddy Robert W.,4,A-Award,--D,55782,206446,3,0001510712,Common Stock
+D,09/16/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,6943,150664,2,0001510712,Common Stock
+A,09/16/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,6943,157607,1,0001510712,Common Stock
+A,09/16/2019 00:00:00,SEIFFER JONATHAN A,4,J-Other,--D,132704,132704,2,0001243592,Common Stock
+D,09/16/2019 00:00:00,SEIFFER JONATHAN A,4,J-Other,--I,6989930,2987094,1,0001243592,Common Stock
+A,09/16/2019 00:00:00,Galashan John Kristofer,4,J-Other,--D,85689,85689,2,0001590836,Common Stock
+D,09/16/2019 00:00:00,Galashan John Kristofer,4,J-Other,--I,6989930,2987094,1,0001590836,Common Stock
+D,09/12/2019 00:00:00,Kessler Scott,4,M-Exempt,--D,1800,86136,6,0001743501,Common Stock
+D,09/12/2019 00:00:00,Kessler Scott,4,S-Sale,--D,1800,133336,4,0001743501,Common Stock
+A,09/12/2019 00:00:00,Kessler Scott,4,M-Exempt,--D,1800,135136,3,0001743501,Common Stock
+D,09/12/2019 00:00:00,Masood Rafeh,4,M-Exempt,--D,3600,24327,6,0001744011,Common Stock
+D,09/12/2019 00:00:00,Masood Rafeh,4,S-Sale,--D,7880,68639,4,0001744011,Common Stock
+A,09/12/2019 00:00:00,Masood Rafeh,4,M-Exempt,--D,3600,76519,3,0001744011,Common Stock
+D,09/12/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,225,9768,6,0001743528,Common Stock
+D,09/12/2019 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,4812,37642,4,0001743528,Common Stock
+A,09/12/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,225,42454,3,0001743528,Common Stock
+D,09/12/2019 00:00:00,Delaney Lee,4,M-Exempt,--D,1900,82602,6,0001743502,Stock Option
+D,09/12/2019 00:00:00,Delaney Lee,4,S-Sale,--D,1900,177724,4,0001743502,Common Stock
+A,09/12/2019 00:00:00,Delaney Lee,4,M-Exempt,--D,1900,179624,3,0001743502,Common Stock
+D,09/11/2019 00:00:00,Kessler Scott,4,M-Exempt,--D,5378,87936,5,0001743501,Common Stock
+D,09/11/2019 00:00:00,Kessler Scott,4,S-Sale,--D,5378,133336,2,0001743501,Common Stock
+A,09/11/2019 00:00:00,Kessler Scott,4,M-Exempt,--D,5378,138714,1,0001743501,Common Stock
+D,09/11/2019 00:00:00,Masood Rafeh,4,M-Exempt,--D,10510,27927,5,0001744011,Common Stock
+D,09/11/2019 00:00:00,Masood Rafeh,4,S-Sale,--D,15686,72919,2,0001744011,Common Stock
+A,09/11/2019 00:00:00,Masood Rafeh,4,M-Exempt,--D,10510,88605,1,0001744011,Common Stock
+D,09/11/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,4658,9993,5,0001743528,Common Stock
+D,09/11/2019 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,9473,42229,2,0001743528,Common Stock
+A,09/11/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,4658,51702,1,0001743528,Common Stock
+D,09/11/2019 00:00:00,Delaney Lee,4,M-Exempt,--D,5498,84502,5,0001743502,Stock Option
+D,09/11/2019 00:00:00,Delaney Lee,4,S-Sale,--D,5498,177724,2,0001743502,Common Stock
+A,09/11/2019 00:00:00,Delaney Lee,4,M-Exempt,--D,5498,183222,1,0001743502,Common Stock
+D,09/10/2019 00:00:00,Baldwin Christopher J,4,G-Gift,-ED,20000,349897,1,0001306296,Common Stock
+D,09/10/2019 00:00:00,Luce Graham,4,M-Exempt,--D,393,43000,6,0001743434,Common Stock
+D,09/10/2019 00:00:00,Luce Graham,4,S-Sale,--D,393,35362,4,0001743434,Common Stock
+A,09/10/2019 00:00:00,Luce Graham,4,M-Exempt,--D,393,35755,3,0001743434,Common Stock
+D,09/09/2019 00:00:00,Luce Graham,4,M-Exempt,--D,7107,43393,5,0001743434,Common Stock
+D,09/09/2019 00:00:00,Luce Graham,4,S-Sale,--D,7107,35362,2,0001743434,Common Stock
+A,09/09/2019 00:00:00,Luce Graham,4,M-Exempt,--D,7107,42469,1,0001743434,Common Stock
+D,09/09/2019 00:00:00,Werner William C.,4,M-Exempt,--D,10017,86893,9,0001743889,Stock Option
+D,09/09/2019 00:00:00,Werner William C.,4,S-Sale,--D,14398,50854,6,0001743889,Common Stock
+A,09/09/2019 00:00:00,Werner William C.,4,M-Exempt,--D,10017,65252,5,0001743889,Common Stock
+D,09/06/2019 00:00:00,Delaney Lee,4,M-Exempt,--D,10000,90000,3,0001743502,Stock Option
+D,09/06/2019 00:00:00,Delaney Lee,4,S-Sale,--D,10000,177724,2,0001743502,Common Stock
+A,09/06/2019 00:00:00,Delaney Lee,4,M-Exempt,--D,10000,187724,1,0001743502,Common Stock
+D,09/06/2019 00:00:00,Werner William C.,4,M-Exempt,--D,10059,96910,8,0001743889,Stock Option
+D,09/06/2019 00:00:00,Werner William C.,4,S-Sale,--D,14359,55235,4,0001743889,Common Stock
+A,09/06/2019 00:00:00,Werner William C.,4,M-Exempt,--D,10059,69594,3,0001743889,Common Stock
+D,09/05/2019 00:00:00,Werner William C.,4,M-Exempt,--D,11520,106969,7,0001743889,Stock Option
+D,09/05/2019 00:00:00,Werner William C.,4,S-Sale,--D,16900,59535,2,0001743889,Common Stock
+A,09/05/2019 00:00:00,Werner William C.,4,M-Exempt,--D,11520,76435,1,0001743889,Common Stock
+D,09/05/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,70000,210000,9,0001510712,Stock Option
+D,09/05/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,70000,150664,4,0001510712,Common Stock
+A,09/05/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,70000,220664,3,0001510712,Common Stock
+D,09/03/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,6367,0,8,0001510712,Stock Option
+D,09/03/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,6367,150664,2,0001510712,Common Stock
+A,09/03/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,6367,157031,1,0001510712,Common Stock
+D,09/03/2019 00:00:00,Poulliot Brian,4,S-Sale,--D,10000,113336,1,0001743880,Common Stock
+D,08/29/2019 00:00:00,Desroches Jeff,4,M-Exempt,--D,6700,5264,3,0001743872,Stock Option
+D,08/29/2019 00:00:00,Desroches Jeff,4,S-Sale,--D,6700,157120,2,0001743872,Common Stock
+A,08/29/2019 00:00:00,Desroches Jeff,4,M-Exempt,--D,6700,163820,1,0001743872,Common Stock
+D,08/23/2019 00:00:00,Desroches Jeff,4,M-Exempt,--D,2100,11964,7,0001743872,Stock Option
+D,08/23/2019 00:00:00,Desroches Jeff,4,S-Sale,--D,2100,157120,5,0001743872,Common Stock
+A,08/23/2019 00:00:00,Desroches Jeff,4,M-Exempt,--D,2100,159220,4,0001743872,Common Stock
+D,08/22/2019 00:00:00,Desroches Jeff,4,M-Exempt,--D,36200,14064,6,0001743872,Stock Option
+D,08/22/2019 00:00:00,Desroches Jeff,4,S-Sale,--D,29000,157120,3,0001743872,Common Stock
+D,08/22/2019 00:00:00,Desroches Jeff,4,S-Sale,--D,7200,186120,2,0001743872,Common Stock
+A,08/22/2019 00:00:00,Desroches Jeff,4,M-Exempt,--D,36200,193320,1,0001743872,Common Stock
+D,08/22/2019 00:00:00,Werner William C.,4,S-Sale,--D,6515,64915,1,0001743889,Common Stock
+D,08/22/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,25000,6367,6,0001510712,Stock Option
+D,08/22/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,25000,150664,2,0001510712,Common Stock
+A,08/22/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,25000,175664,1,0001510712,Common Stock
+D,08/21/2019 00:00:00,Poulliot Brian,4,S-Sale,--D,10000,123336,1,0001743880,Common Stock
+D,08/08/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--I,5303,30149,2,0001306296,Common Stock
+D,08/07/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--I,24844,35452,1,0001306296,Common Stock
+D,08/07/2019 00:00:00,Delaney Lee,4,M-Exempt,--D,10000,100000,3,0001743502,Stock Option
+D,08/07/2019 00:00:00,Delaney Lee,4,S-Sale,--D,10000,177724,2,0001743502,Common Stock
+A,08/07/2019 00:00:00,Delaney Lee,4,M-Exempt,--D,10000,187724,1,0001743502,Common Stock
+D,07/08/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,32853,440047,8,0001306296,Stock Option
+D,07/08/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--I,30147,60296,5,0001306296,Common Stock
+D,07/08/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--D,32853,369897,4,0001306296,Common Stock
+A,07/08/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,32853,402750,3,0001306296,Common Stock
+D,07/05/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,200,472900,7,0001306296,Stock Option
+D,07/05/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--D,200,369897,2,0001306296,Common Stock
+A,07/05/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,200,370097,1,0001306296,Common Stock
+D,07/05/2019 00:00:00,Delaney Lee,4,M-Exempt,--D,10000,110000,3,0001743502,Stock Option
+D,07/05/2019 00:00:00,Delaney Lee,4,S-Sale,--D,10000,177724,2,0001743502,Common Stock
+A,07/05/2019 00:00:00,Delaney Lee,4,M-Exempt,--D,10000,187724,1,0001743502,Common Stock
+D,07/02/2019 00:00:00,Saville Kirk,4,S-Sale,--D,4343,29215,1,0001743909,Common Stock
+D,07/01/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,25000,31367,7,0001510712,Stock Option
+D,07/01/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,25000,150664,3,0001510712,Common Stock
+A,07/01/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,25000,175664,2,0001510712,Common Stock
+D,06/28/2019 00:00:00,Glynn Caroline,4,F-InKind,--D,1735,23574,1,0001743931,Common Stock
+D,06/28/2019 00:00:00,Sugrue Kristyn M.,4,F-InKind,--D,2169,47044,1,0001743528,Common Stock
+D,06/28/2019 00:00:00,Luce Graham,4,F-InKind,--D,2602,35362,1,0001743434,Common Stock
+D,06/28/2019 00:00:00,Saville Kirk,4,F-InKind,--D,3469,33558,3,0001743909,Common Stock
+D,06/28/2019 00:00:00,Werner William C.,4,F-InKind,--D,5203,71430,1,0001743889,Common Stock
+D,06/28/2019 00:00:00,Felice Laura L.,4,F-InKind,--D,5203,71430,1,0001743504,Common Stock
+D,06/28/2019 00:00:00,Masood Rafeh,4,F-InKind,--D,5689,78095,1,0001744011,Common Stock
+D,06/28/2019 00:00:00,Delaney Lee,4,F-InKind,--D,6938,177724,1,0001743502,Common Stock
+D,06/28/2019 00:00:00,Kessler Scott,4,F-InKind,--D,9713,133336,1,0001743501,Common Stock
+D,06/28/2019 00:00:00,Poulliot Brian,4,F-InKind,--D,9713,133336,1,0001743880,Common Stock
+D,06/28/2019 00:00:00,Desroches Jeff,4,F-InKind,--D,10878,157120,1,0001743872,Common Stock
+D,06/28/2019 00:00:00,Eddy Robert W.,4,F-InKind,--D,12950,150664,1,0001510712,Common Stock
+D,06/28/2019 00:00:00,Baldwin Christopher J,4,F-InKind,--D,28907,369897,1,0001306296,Common Stock
+D,06/27/2019 00:00:00,Saville Kirk,4,M-Exempt,--D,7812,15624,4,0001743909,Stock Option
+D,06/27/2019 00:00:00,Saville Kirk,4,S-Sale,--D,7812,37027,2,0001743909,Common Stock
+A,06/27/2019 00:00:00,Saville Kirk,4,M-Exempt,--D,7812,44839,1,0001743909,Common Stock
+D,06/27/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,6804,56367,9,0001510712,Stock Option
+D,06/27/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,6804,163614,4,0001510712,Common Stock
+A,06/27/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,6804,170418,3,0001510712,Common Stock
+D,06/27/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,15830,473100,8,0001306296,Stock Option
+D,06/27/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--D,15830,398804,4,0001306296,Common Stock
+A,06/27/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,15830,414634,3,0001306296,Common Stock
+D,06/26/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,7237,63171,8,0001510712,Stock Option
+D,06/26/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,7237,163614,2,0001510712,Common Stock
+A,06/26/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,7237,170851,1,0001510712,Common Stock
+D,06/26/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,11415,488930,7,0001306296,Stock Option
+D,06/26/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--D,11415,398804,2,0001306296,Common Stock
+A,06/26/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,11415,410219,1,0001306296,Common Stock
+A,06/20/2019 00:00:00,Steele Robert Allan,4,A-Award,--D,5447,5447,3,0001404402,Restricted Stock Units
+A,06/20/2019 00:00:00,Peterson Christopher H,4,A-Award,--D,5447,5447,3,0001558968,Restricted Stock Units
+A,06/20/2019 00:00:00,Parent Kenneth M.,4,A-Award,--D,5447,5447,3,0001743913,Restricted Stock Units
+A,06/20/2019 00:00:00,Werthauser Judith L.,4,A-Award,--D,5447,5447,3,0001757923,Restricted Stock Units
+D,06/20/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,10959,70408,6,0001510712,Stock Option
+D,06/20/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,10959,163614,2,0001510712,Common Stock
+A,06/20/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,10959,174573,1,0001510712,Common Stock
+D,06/20/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,21377,500345,5,0001306296,Stock Option
+D,06/20/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--D,21377,398804,2,0001306296,Common Stock
+A,06/20/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,21377,420181,1,0001306296,Common Stock
+D,06/19/2019 00:00:00,Steele Robert Allan,4,M-Exempt,--D,4643,0,2,0001404402,Restricted Stock Units
+A,06/19/2019 00:00:00,Steele Robert Allan,4,M-Exempt,--D,4643,4643,1,0001404402,Common Stock
+D,06/19/2019 00:00:00,Peterson Christopher H,4,M-Exempt,--D,2755,0,2,0001558968,Restricted Stock Units
+A,06/19/2019 00:00:00,Peterson Christopher H,4,M-Exempt,--D,2755,2755,1,0001558968,Common Stock
+D,06/19/2019 00:00:00,Parent Kenneth M.,4,M-Exempt,--D,4643,0,2,0001743913,Restricted Stock Units
+A,06/19/2019 00:00:00,Parent Kenneth M.,4,M-Exempt,--D,4643,4643,1,0001743913,Common Stock
+D,06/19/2019 00:00:00,Werthauser Judith L.,4,M-Exempt,--D,4042,0,2,0001757923,Restricted Stock Units
+A,06/19/2019 00:00:00,Werthauser Judith L.,4,M-Exempt,--D,4042,4042,1,0001757923,Common Stock
+D,06/07/2019 00:00:00,Galashan John Kristofer,4,S-Sale,--I,8750000,9977024,1,0001590836,Common Stock
+D,06/07/2019 00:00:00,SEIFFER JONATHAN A,4,S-Sale,--I,8750000,9977024,1,0001243592,Common Stock
+D,06/07/2019 00:00:00,"Green Equity Investors V, L.P.",4,S-Sale,--D,265897,303183,3,0001449644,Common Stock
+D,06/07/2019 00:00:00,"Green Equity Investors V, L.P.",4,S-Sale,--D,1957749,2232287,2,0001449644,Common Stock
+D,06/07/2019 00:00:00,"Green Equity Investors V, L.P.",4,S-Sale,--D,6526354,7441554,1,0001449644,Common Stock
+D,06/07/2019 00:00:00,Delaney Lee,4,M-Exempt,--D,10000,120000,3,0001743502,Stock Option
+D,06/07/2019 00:00:00,Delaney Lee,4,S-Sale,--D,10000,184662,2,0001743502,Common Stock
+A,06/07/2019 00:00:00,Delaney Lee,4,M-Exempt,--D,10000,194662,1,0001743502,Common Stock
+D,06/07/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--I,30147,90443,1,0001306296,Common Stock
+D,06/07/2019 00:00:00,CVC European Equity V Ltd,4,S-Sale,--I,8750000,9977024,1,0001633062,Common Stock
+D,05/08/2019 00:00:00,Delaney Lee,4,M-Exempt,--D,10000,130000,3,0001743502,Stock Option
+D,05/08/2019 00:00:00,Delaney Lee,4,S-Sale,--D,10000,184662,2,0001743502,Common Stock
+A,05/08/2019 00:00:00,Delaney Lee,4,M-Exempt,--D,10000,194662,1,0001743502,Common Stock
+D,05/07/2019 00:00:00,Saville Kirk,4,M-Exempt,--D,14000,0,4,0001743909,Stock Option
+D,05/07/2019 00:00:00,Saville Kirk,4,S-Sale,--D,8158,37027,3,0001743909,Common Stock
+D,05/07/2019 00:00:00,Saville Kirk,4,S-Sale,--D,5842,45185,2,0001743909,Common Stock
+A,05/07/2019 00:00:00,Saville Kirk,4,M-Exempt,--D,14000,51027,1,0001743909,Common Stock
+D,05/07/2019 00:00:00,Luce Graham,4,M-Exempt,--D,2500,50500,3,0001743434,Stock Option
+D,05/07/2019 00:00:00,Luce Graham,4,S-Sale,--D,2500,37964,2,0001743434,Common Stock
+A,05/07/2019 00:00:00,Luce Graham,4,M-Exempt,--D,2500,40464,1,0001743434,Common Stock
+D,05/07/2019 00:00:00,Glynn Caroline,4,M-Exempt,--D,56000,0,8,0001743931,Stock Option
+D,05/07/2019 00:00:00,Glynn Caroline,4,M-Exempt,--D,7000,0,7,0001743931,Stock Option
+D,05/07/2019 00:00:00,Glynn Caroline,4,M-Exempt,--D,5880,0,6,0001743931,Stock Option
+D,05/07/2019 00:00:00,Glynn Caroline,4,S-Sale,--D,41771,25309,5,0001743931,Common Stock
+D,05/07/2019 00:00:00,Glynn Caroline,4,S-Sale,--D,27109,67080,4,0001743931,Common Stock
+A,05/07/2019 00:00:00,Glynn Caroline,4,M-Exempt,--D,56000,94189,3,0001743931,Common Stock
+A,05/07/2019 00:00:00,Glynn Caroline,4,M-Exempt,--D,7000,38189,2,0001743931,Common Stock
+A,05/07/2019 00:00:00,Glynn Caroline,4,M-Exempt,--D,5880,31189,1,0001743931,Common Stock
+D,05/07/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--I,18131,140590,2,0001306296,Common Stock
+D,05/07/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--I,12016,158721,1,0001306296,Common Stock
+D,05/03/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,48622,521722,5,0001306296,Stock Option
+D,05/03/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--D,48622,378804,2,0001306296,Common Stock
+A,05/03/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,48622,427426,1,0001306296,Common Stock
+D,05/01/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,50000,81367,6,0001510712,Stock Option
+D,05/01/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,50000,163614,2,0001510712,Common Stock
+A,05/01/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,50000,213614,1,0001510712,Common Stock
+D,04/15/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,20000,131367,6,0001510712,Stock Option
+D,04/15/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,20000,163614,2,0001510712,Common Stock
+A,04/15/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,20000,183614,1,0001510712,Common Stock
+D,04/15/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,1400,0,5,0001743528,Stock Option
+D,04/15/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,16298,0,4,0001743528,Stock Option
+D,04/15/2019 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,17698,49213,3,0001743528,Common Stock
+A,04/15/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,1400,66911,2,0001743528,Common Stock
+A,04/15/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,16298,65511,1,0001743528,Common Stock
+D,04/05/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,48622,570344,5,0001306296,Stock Option
+D,04/05/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--D,48622,378804,2,0001306296,Common Stock
+A,04/05/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,48622,427426,1,0001306296,Common Stock
+D,04/03/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,6802,16298,3,0001743528,Stock Option
+D,04/03/2019 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,6802,49213,2,0001743528,Common Stock
+A,04/03/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,6802,56015,1,0001743528,Common Stock
+D,04/03/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,15000,151367,6,0001510712,Stock Option
+D,04/03/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,15000,163614,2,0001510712,Common Stock
+A,04/03/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,15000,178614,1,0001510712,Common Stock
+A,04/01/2019 00:00:00,Werner William C.,4,A-Award,--D,20387,20387,2,0001743889,Stock Option
+A,04/01/2019 00:00:00,Werner William C.,4,A-Award,--D,20387,76633,1,0001743889,Common Stock
+A,04/01/2019 00:00:00,Sugrue Kristyn M.,4,A-Award,--D,16989,16989,2,0001743528,Stock Option
+A,04/01/2019 00:00:00,Sugrue Kristyn M.,4,A-Award,--D,16989,49213,1,0001743528,Common Stock
+A,04/01/2019 00:00:00,Saville Kirk,4,A-Award,--D,13591,13591,2,0001743909,Stock Option
+A,04/01/2019 00:00:00,Saville Kirk,4,A-Award,--D,13591,37027,1,0001743909,Common Stock
+A,04/01/2019 00:00:00,Poulliot Brian,4,A-Award,--D,38057,38057,2,0001743880,Stock Option
+A,04/01/2019 00:00:00,Poulliot Brian,4,A-Award,--D,38057,143049,1,0001743880,Common Stock
+A,04/01/2019 00:00:00,Masood Rafeh,4,A-Award,--D,22290,22290,2,0001744011,Stock Option
+A,04/01/2019 00:00:00,Masood Rafeh,4,A-Award,--D,22290,83784,1,0001744011,Common Stock
+A,04/01/2019 00:00:00,Luce Graham,4,A-Award,--D,20387,20387,2,0001743434,Stock Option
+A,04/01/2019 00:00:00,Luce Graham,4,A-Award,--D,20387,37964,1,0001743434,Common Stock
+A,04/01/2019 00:00:00,Kessler Scott,4,A-Award,--D,38057,38057,2,0001743501,Stock Option
+A,04/01/2019 00:00:00,Kessler Scott,4,A-Award,--D,38057,143049,1,0001743501,Common Stock
+A,04/01/2019 00:00:00,Glynn Caroline,4,A-Award,--D,13591,13591,2,0001743931,Stock Option
+A,04/01/2019 00:00:00,Glynn Caroline,4,A-Award,--D,13591,25309,1,0001743931,Common Stock
+A,04/01/2019 00:00:00,Felice Laura L.,4,A-Award,--D,20387,20387,2,0001743504,Stock Option
+A,04/01/2019 00:00:00,Felice Laura L.,4,A-Award,--D,20387,76633,1,0001743504,Common Stock
+A,04/01/2019 00:00:00,Eddy Robert W.,4,A-Award,--D,76114,76114,5,0001510712,Stock Option
+A,04/01/2019 00:00:00,Eddy Robert W.,4,A-Award,--D,76114,163614,1,0001510712,Common Stock
+A,04/01/2019 00:00:00,Desroches Jeff,4,A-Award,--D,38057,38057,2,0001743872,Stock Option
+A,04/01/2019 00:00:00,Desroches Jeff,4,A-Award,--D,38057,167998,1,0001743872,Common Stock
+A,04/01/2019 00:00:00,Baldwin Christopher J,4,A-Award,--D,183490,183490,4,0001306296,Stock Option
+A,04/01/2019 00:00:00,Baldwin Christopher J,4,A-Award,--D,183490,378047,1,0001306296,Common Stock
+A,04/01/2019 00:00:00,Delaney Lee,4,A-Award,--D,81551,81551,2,0001743502,Stock Option
+A,04/01/2019 00:00:00,Delaney Lee,4,A-Award,--D,81551,184662,1,0001743502,Common Stock
+D,04/01/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,35000,166367,6,0001510712,Stock Option
+D,04/01/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,35000,87500,2,0001510712,Common Stock
+A,04/01/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,35000,122500,1,0001510712,Common Stock
+D,03/29/2019 00:00:00,Desroches Jeff,4,M-Exempt,--D,22333,50264,6,0001743872,Stock Option
+D,03/29/2019 00:00:00,Desroches Jeff,4,S-Sale,--D,22333,129941,4,0001743872,Common Stock
+A,03/29/2019 00:00:00,Desroches Jeff,4,M-Exempt,--D,22333,152274,3,0001743872,Common Stock
+D,03/28/2019 00:00:00,Desroches Jeff,4,M-Exempt,--D,4273,72597,5,0001743872,Stock Option
+D,03/28/2019 00:00:00,Desroches Jeff,4,S-Sale,--D,4273,129941,2,0001743872,Common Stock
+A,03/28/2019 00:00:00,Desroches Jeff,4,M-Exempt,--D,4273,134214,1,0001743872,Common Stock
+D,03/12/2019 00:00:00,"Green Equity Investors V, L.P.",4,S-Sale,--D,297045,569080,3,0001449644,Common Stock
+D,03/12/2019 00:00:00,"Green Equity Investors V, L.P.",4,S-Sale,--D,2187085,4190036,2,0001449644,Common Stock
+D,03/12/2019 00:00:00,"Green Equity Investors V, L.P.",4,S-Sale,--D,7290870,13967908,1,0001449644,Common Stock
+D,03/12/2019 00:00:00,Galashan John Kristofer,4,S-Sale,--I,9775000,18727024,1,0001590836,Common Stock
+D,03/12/2019 00:00:00,SEIFFER JONATHAN A,4,S-Sale,--I,9775000,18727024,1,0001243592,Common Stock
+D,03/12/2019 00:00:00,CVC European Equity V Ltd,4,S-Sale,--I,9775000,18727024,1,0001633062,Common Stock
+D,03/06/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,30242,23100,3,0001743528,Stock Option
+D,03/06/2019 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,30242,32224,2,0001743528,Common Stock
+A,03/06/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,30242,62466,1,0001743528,Common Stock
+D,03/06/2019 00:00:00,Desroches Jeff,4,M-Exempt,--D,11800,76870,3,0001743872,Stock Option
+D,03/06/2019 00:00:00,Desroches Jeff,4,S-Sale,--D,11800,129941,2,0001743872,Common Stock
+A,03/06/2019 00:00:00,Desroches Jeff,4,M-Exempt,--D,11800,141741,1,0001743872,Common Stock
+D,03/06/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,25000,201367,6,0001510712,Stock Option
+D,03/06/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,25000,87500,2,0001510712,Common Stock
+A,03/06/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,25000,112250,1,0001510712,Common Stock
+D,03/06/2019 00:00:00,Werner William C.,4,M-Exempt,--D,19761,118489,5,0001743889,Stock Option
+D,03/06/2019 00:00:00,Werner William C.,4,M-Exempt,--D,14383,0,4,0001743889,Stock Option
+D,03/06/2019 00:00:00,Werner William C.,4,S-Sale,--D,34144,56246,3,0001743889,Common Stock
+A,03/06/2019 00:00:00,Werner William C.,4,M-Exempt,--D,19761,90390,2,0001743889,Common Stock
+A,03/06/2019 00:00:00,Werner William C.,4,M-Exempt,--D,14383,70629,1,0001743889,Common Stock
+D,03/06/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,36390,163000,5,0001743880,Stock Option
+D,03/06/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,5510,150000,4,0001743880,Stock Option
+D,03/06/2019 00:00:00,Poulliot Brian,4,S-Sale,--D,41900,104992,3,0001743880,Common Stock
+A,03/06/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,36390,146892,2,0001743880,Common Stock
+A,03/06/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,5510,110502,1,0001743880,Common Stock
+A,03/05/2019 00:00:00,Werner William C.,4,A-Award,--D,27650,138250,1,0001743889,Stock Option
+A,03/05/2019 00:00:00,Sugrue Kristyn M.,4,A-Award,--D,1400,1400,5,0001743528,Stock Option
+A,03/05/2019 00:00:00,Sugrue Kristyn M.,4,A-Award,--D,23100,53342,4,0001743528,Stock Option
+D,03/05/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,20000,30242,3,0001743528,Stock Option
+D,03/05/2019 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,20000,32224,2,0001743528,Common Stock
+A,03/05/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,20000,52224,1,0001743528,Common Stock
+A,03/05/2019 00:00:00,Saville Kirk,4,A-Award,--D,14000,14000,1,0001743909,Stock Option
+A,03/05/2019 00:00:00,Poulliot Brian,4,A-Award,--D,16450,82250,2,0001743880,Stock Option
+A,03/05/2019 00:00:00,Poulliot Brian,4,A-Award,--D,42000,155510,1,0001743880,Stock Option
+A,03/05/2019 00:00:00,Luce Graham,4,A-Award,--D,14000,53000,4,0001743434,Stock Option
+D,03/05/2019 00:00:00,Luce Graham,4,M-Exempt,--D,10000,39000,3,0001743434,Stock Option
+D,03/05/2019 00:00:00,Luce Graham,4,S-Sale,--D,10000,17577,2,0001743434,Common Stock
+A,03/05/2019 00:00:00,Luce Graham,4,M-Exempt,--D,10000,27577,1,0001743434,Common Stock
+A,03/05/2019 00:00:00,Delaney Lee,4,A-Award,--D,70000,346502,2,0001743502,Stock Option
+A,03/05/2019 00:00:00,Delaney Lee,4,A-Award,--D,28000,140000,1,0001743502,Stock Option
+A,03/05/2019 00:00:00,Glynn Caroline,4,A-Award,--D,1400,7000,2,0001743931,Stock Option
+A,03/05/2019 00:00:00,Glynn Caroline,4,A-Award,--D,22400,56000,1,0001743931,Stock Option
+A,03/05/2019 00:00:00,Felice Laura L.,4,A-Award,--D,24500,85141,1,0001743504,Stock Option
+A,03/05/2019 00:00:00,Eddy Robert W.,4,A-Award,--D,56000,280000,7,0001510712,Stock Option
+D,03/05/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,25000,226367,6,0001510712,Stock Option
+D,03/05/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,25000,87500,2,0001510712,Common Stock
+A,03/05/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,25000,112500,1,0001510712,Common Stock
+A,03/05/2019 00:00:00,Desroches Jeff,4,A-Award,--D,9450,47250,1,0001743872,Stock Option
+A,03/05/2019 00:00:00,Baldwin Christopher J,4,A-Award,--D,163331,618966,6,0001306296,Stock Option
+D,03/05/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,48622,455635,5,0001306296,Stock Option
+D,03/05/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--D,48622,195314,2,0001306296,Common Stock
+A,03/05/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,48622,243936,1,0001306296,Common Stock
+D,02/28/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,4552,50242,3,0001743528,Stock Option
+D,02/28/2019 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,4552,32224,2,0001743528,Common Stock
+A,02/28/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,4552,36776,1,0001743528,Common Stock
+D,02/20/2019 00:00:00,Werner William C.,4,M-Exempt,--D,5056,14383,3,0001743889,Stock Option
+D,02/20/2019 00:00:00,Werner William C.,4,S-Sale,--D,5056,56246,2,0001743889,Common Stock
+A,02/20/2019 00:00:00,Werner William C.,4,M-Exempt,--D,5056,61302,1,0001743889,Common Stock
+D,02/20/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,2100,199390,5,0001743880,Stock Option
+D,02/20/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,14190,113510,4,0001743880,Stock Option
+D,02/20/2019 00:00:00,Poulliot Brian,4,S-Sale,--D,16290,104992,3,0001743880,Common Stock
+A,02/20/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,2100,121282,2,0001743880,Common Stock
+A,02/20/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,14190,119182,1,0001743880,Common Stock
+D,02/20/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,9100,251367,6,0001510712,Stock Option
+D,02/20/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,9100,87500,2,0001510712,Common Stock
+A,02/20/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,9100,96600,1,0001510712,Common Stock
+D,02/20/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,2956,54794,8,0001743528,Stock Option
+D,02/20/2019 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,2956,32224,5,0001743528,Common Stock
+A,02/20/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,2956,35180,4,0001743528,Common Stock
+D,02/19/2019 00:00:00,Masood Rafeh,4,M-Exempt,--D,28000,28000,3,0001744011,Stock Option
+D,02/19/2019 00:00:00,Masood Rafeh,4,S-Sale,--D,28000,61494,2,0001744011,Common Stock
+A,02/19/2019 00:00:00,Masood Rafeh,4,M-Exempt,--D,28000,89494,1,0001744011,Common Stock
+D,02/19/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,13348,57750,7,0001743528,Stock Option
+D,02/19/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,2100,0,6,0001743528,Stock Option
+D,02/19/2019 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,15448,32224,3,0001743528,Common Stock
+A,02/19/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,13348,47672,2,0001743528,Common Stock
+A,02/19/2019 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,2100,34324,1,0001743528,Common Stock
+D,02/15/2019 00:00:00,Kessler Scott,4,M-Exempt,--D,20000,93314,3,0001743501,Stock Option
+D,02/15/2019 00:00:00,Kessler Scott,4,S-Sale,--D,20000,104992,2,0001743501,Common Stock
+A,02/15/2019 00:00:00,Kessler Scott,4,M-Exempt,--D,20000,124992,1,0001743501,Common Stock
+D,02/11/2019 00:00:00,Luce Graham,4,M-Exempt,--D,10000,49000,3,0001743434,Stock Option
+D,02/11/2019 00:00:00,Luce Graham,4,S-Sale,--D,10000,17577,2,0001743434,Common Stock
+A,02/11/2019 00:00:00,Luce Graham,4,M-Exempt,--D,10000,27577,1,0001743434,Common Stock
+D,02/05/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,1510,201490,5,0001743880,Stock Option
+D,02/05/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,300,127700,4,0001743880,Stock Option
+D,02/05/2019 00:00:00,Poulliot Brian,4,S-Sale,--D,1810,104992,3,0001743880,Common Stock
+A,02/05/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,1510,106802,2,0001743880,Common Stock
+A,02/05/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,300,105292,1,0001743880,Common Stock
+D,02/05/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,900,260467,6,0001510712,Stock Option
+D,02/05/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,900,87500,2,0001510712,Common Stock
+A,02/05/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,900,88400,1,0001510712,Common Stock
+D,02/05/2019 00:00:00,Werner William C.,4,M-Exempt,--D,800,19439,3,0001743889,Stock Option
+D,02/05/2019 00:00:00,Werner William C.,4,S-Sale,--D,800,56246,2,0001743889,Common Stock
+A,02/05/2019 00:00:00,Werner William C.,4,M-Exempt,--D,800,57046,1,0001743889,Common Stock
+D,02/01/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,32412,504257,7,0001306296,Stock Option
+D,02/01/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,16210,157500,6,0001306296,Stock Option
+D,02/01/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--D,32412,195314,3,0001306296,Common Stock
+D,02/01/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--D,16210,227726,2,0001306296,Common Stock
+A,02/01/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,48622,243936,1,0001306296,Common Stock
+D,02/01/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,25000,261367,6,0001510712,Stock Option
+D,02/01/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,25000,87500,2,0001510712,Common Stock
+A,02/01/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,25000,112500,1,0001510712,Common Stock
+D,02/01/2019 00:00:00,Saville Kirk,4,M-Exempt,--D,21000,0,3,0001743909,Stock Option
+D,02/01/2019 00:00:00,Saville Kirk,4,S-Sale,--D,21000,0,2,0001743909,Common Stock
+A,02/01/2019 00:00:00,Saville Kirk,4,M-Exempt,--D,21000,21000,1,0001743909,Common Stock
+A,01/31/2019 00:00:00,Peterson Christopher H,4,A-Award,--D,2755,2755,1,0001558968,Restricted Stock Units
+D,01/28/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,20000,128000,6,0001743880,Stock Option
+D,01/28/2019 00:00:00,Poulliot Brian,4,S-Sale,--D,20000,104992,4,0001743880,Common Stock
+A,01/28/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,20000,124992,3,0001743880,Common Stock
+D,01/25/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,25000,286367,8,0001510712,Stock Option
+D,01/25/2019 00:00:00,Eddy Robert W.,4,S-Sale,--D,25000,87500,6,0001510712,Common Stock
+A,01/25/2019 00:00:00,Eddy Robert W.,4,M-Exempt,--D,25000,112500,5,0001510712,Common Stock
+D,01/25/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,48622,173710,6,0001306296,Stock Option
+D,01/25/2019 00:00:00,Baldwin Christopher J,4,S-Sale,--D,48622,195314,4,0001306296,Common Stock
+A,01/25/2019 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,48622,243936,3,0001306296,Common Stock
+D,01/25/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,20000,148000,5,0001743880,Stock Option
+D,01/25/2019 00:00:00,Poulliot Brian,4,S-Sale,--D,20000,104992,2,0001743880,Common Stock
+A,01/25/2019 00:00:00,Poulliot Brian,4,M-Exempt,--D,20000,124992,1,0001743880,Common Stock
+D,01/25/2019 00:00:00,Luce Graham,4,M-Exempt,--D,23238,59000,3,0001743434,Stock Option
+D,01/25/2019 00:00:00,Luce Graham,4,S-Sale,--D,23238,17577,2,0001743434,Common Stock
+A,01/25/2019 00:00:00,Luce Graham,4,M-Exempt,--D,23238,40815,1,0001743434,Common Stock
+D,01/22/2019 00:00:00,Werner William C.,4,M-Exempt,--D,40000,20239,3,0001743889,Stock Option
+D,01/22/2019 00:00:00,Werner William C.,4,S-Sale,--D,40000,56246,2,0001743889,Common Stock
+A,01/22/2019 00:00:00,Werner William C.,4,M-Exempt,--D,40000,96246,1,0001743889,Common Stock
+D,01/17/2019 00:00:00,Desroches Jeff,4,M-Exempt,--D,25000,88670,3,0001743872,Stock Option
+D,01/17/2019 00:00:00,Desroches Jeff,4,S-Sale,--D,25000,129941,2,0001743872,Common Stock
+A,01/17/2019 00:00:00,Desroches Jeff,4,M-Exempt,--D,25000,154941,1,0001743872,Common Stock
+D,01/15/2019 00:00:00,Luce Graham,4,M-Exempt,--D,10000,82238,3,0001743434,Stock Option
+D,01/15/2019 00:00:00,Luce Graham,4,S-Sale,--D,10000,17577,2,0001743434,Common Stock
+A,01/15/2019 00:00:00,Luce Graham,4,M-Exempt,--D,10000,27577,1,0001743434,Common Stock
+D,01/10/2019 00:00:00,Luce Graham,4,M-Exempt,--D,23239,92238,3,0001743434,Stock Option
+D,01/10/2019 00:00:00,Luce Graham,4,S-Sale,--D,23239,17577,2,0001743434,Common Stock
+A,01/10/2019 00:00:00,Luce Graham,4,M-Exempt,--D,23239,40816,1,0001743434,Common Stock
+D,12/31/2018 00:00:00,Saville Kirk,4,M-Exempt,--D,47220,21000,3,0001743909,Stock Option
+D,12/31/2018 00:00:00,Saville Kirk,4,S-Sale,--D,47220,0,2,0001743909,Common Stock (Par Value $0.01 Per Share)
+A,12/31/2018 00:00:00,Saville Kirk,4,M-Exempt,--D,47220,47220,1,0001743909,Common Stock (Par Value $0.01 Per Share)
+A,12/07/2018 00:00:00,Baldwin Christopher J,4,G-Gift,-EI,849696,849696,2,0001306296,Common Stock
+D,12/07/2018 00:00:00,Baldwin Christopher J,4,G-Gift,-ED,849696,195314,1,0001306296,Common Stock
+A,12/06/2018 00:00:00,Eddy Robert W.,4,G-Gift,-EI,52489,52489,4,0001510712,Common Stock
+D,12/06/2018 00:00:00,Eddy Robert W.,4,G-Gift,-ED,52489,87500,3,0001510712,Common Stock
+A,12/04/2018 00:00:00,Eddy Robert W.,4,G-Gift,-EI,86324,86324,2,0001510712,Common Stock
+D,12/04/2018 00:00:00,Eddy Robert W.,4,G-Gift,-ED,86324,139989,1,0001510712,Common Stock
+A,11/01/2018 00:00:00,Werthauser Judith L.,4,A-Award,--D,4042,4042,1,0001757923,Restricted Stock Units
+D,10/01/2018 00:00:00,SEIFFER JONATHAN A,4,S-Sale,--I,15034658,28502024,1,0001243592,Common Stock
+D,10/01/2018 00:00:00,"Green Equity Investors V, L.P.",4,S-Sale,--D,456875,866125,3,0001449644,Common Stock
+D,10/01/2018 00:00:00,"Green Equity Investors V, L.P.",4,S-Sale,--D,3363897,6377121,2,0001449644,Common Stock
+D,10/01/2018 00:00:00,"Green Equity Investors V, L.P.",4,S-Sale,--D,11213886,21258778,1,0001449644,Common Stock
+D,10/01/2018 00:00:00,Yin Tommy,4,S-Sale,--I,15034658,28502024,1,0001742868,Common Stock
+D,10/01/2018 00:00:00,Galashan John Kristofer,4,S-Sale,--I,15034658,28502024,1,0001590836,Common Stock
+D,10/01/2018 00:00:00,Eddy Robert W.,4,S-Sale,--D,236943,226313,1,0001510712,Common Stock
+D,10/01/2018 00:00:00,Desroches Jeff,4,S-Sale,--D,74490,129941,1,0001743872,Common Stock
+D,10/01/2018 00:00:00,Felice Laura L.,4,S-Sale,--D,37359,56246,1,0001743504,Common Stock
+D,10/01/2018 00:00:00,Parent Kenneth M.,4,S-Sale,--D,6996,0,1,0001743913,Common Stock
+D,10/01/2018 00:00:00,Sugrue Kristyn M.,4,S-Sale,--D,30682,32224,1,0001743528,Common Stock
+D,10/01/2018 00:00:00,Poulliot Brian,4,S-Sale,--D,110605,104992,1,0001743880,Common Stock
+D,10/01/2018 00:00:00,Delaney Lee,4,S-Sale,--D,178498,103111,1,0001743502,Common Stock
+D,10/01/2018 00:00:00,Kessler Scott,4,S-Sale,--D,61686,104992,1,0001743501,Common Stock
+D,10/01/2018 00:00:00,Saville Kirk,4,S-Sale,--D,22780,23436,1,0001743909,Common Stock
+D,10/01/2018 00:00:00,Werner William C.,4,S-Sale,--D,57361,56246,1,0001743889,Common Stock
+D,10/01/2018 00:00:00,Luce Graham,4,S-Sale,--D,31523,17577,1,0001743434,Common Stock
+D,10/01/2018 00:00:00,Baldwin Christopher J,4,S-Sale,--D,302668,1045010,1,0001306296,Common Stock
+D,10/01/2018 00:00:00,CVC European Equity V Ltd,4,S-Sale,--I,15034658,28502024,1,0001633062,Common Stock
+D,09/26/2018 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,21302,71098,6,0001743528,Stock Option
+D,09/26/2018 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,3500,2100,5,0001743528,Stock Option
+D,09/26/2018 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,5880,0,4,0001743528,Stock Option
+A,09/26/2018 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,21302,62906,3,0001743528,Common Stock
+A,09/26/2018 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,3500,41604,2,0001743528,Common Stock
+A,09/26/2018 00:00:00,Sugrue Kristyn M.,4,M-Exempt,--D,5880,38104,1,0001743528,Common Stock
+D,09/26/2018 00:00:00,Eddy Robert W.,4,M-Exempt,--D,236943,311367,3,0001510712,Stock Option
+A,09/26/2018 00:00:00,Eddy Robert W.,4,M-Exempt,--D,236943,463256,1,0001510712,Common Stock
+D,09/26/2018 00:00:00,Poulliot Brian,4,M-Exempt,--D,104725,98275,4,0001743880,Stock Option
+D,09/26/2018 00:00:00,Poulliot Brian,4,M-Exempt,--D,5880,0,3,0001743880,Stock Option
+A,09/26/2018 00:00:00,Poulliot Brian,4,M-Exempt,--D,104725,215597,2,0001743880,Common Stock
+A,09/26/2018 00:00:00,Poulliot Brian,4,M-Exempt,--D,5880,110872,1,0001743880,Common Stock
+D,09/26/2018 00:00:00,Delaney Lee,4,M-Exempt,--D,178498,276502,2,0001743502,Stock Option
+A,09/26/2018 00:00:00,Delaney Lee,4,M-Exempt,--D,178498,281609,1,0001743502,Common Stock
+D,09/26/2018 00:00:00,Kessler Scott,4,M-Exempt,--D,61686,113314,2,0001743501,Stock Option
+A,09/26/2018 00:00:00,Kessler Scott,4,M-Exempt,--D,61686,166678,1,0001743501,Common Stock
+D,09/26/2018 00:00:00,Parent Kenneth M.,4,M-Exempt,--D,6996,35004,2,0001743913,Stock Option
+A,09/26/2018 00:00:00,Parent Kenneth M.,4,M-Exempt,--D,6996,6996,1,0001743913,Common Stock
+D,09/26/2018 00:00:00,Werner William C.,4,M-Exempt,--D,51481,60239,3,0001743889,Stock Option
+D,09/26/2018 00:00:00,Werner William C.,4,M-Exempt,--D,5880,0,2,0001743889,Stock Option
+A,09/26/2018 00:00:00,Werner William C.,4,M-Exempt,--D,57361,113607,1,0001743889,Common Stock
+D,09/26/2018 00:00:00,Saville Kirk,4,M-Exempt,--D,22780,68220,2,0001743909,Stock Option
+A,09/26/2018 00:00:00,Saville Kirk,4,M-Exempt,--D,22780,46216,1,0001743909,Common Stock
+D,09/26/2018 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,302668,222332,3,0001306296,Stock Option
+A,09/26/2018 00:00:00,Baldwin Christopher J,4,M-Exempt,--D,302668,1347678,1,0001306296,Common Stock
+D,09/26/2018 00:00:00,Desroches Jeff,4,M-Exempt,--D,74490,113670,2,0001743872,Stock Option
+A,09/26/2018 00:00:00,Desroches Jeff,4,M-Exempt,--D,74490,204431,1,0001743872,Common Stock
+D,09/26/2018 00:00:00,Felice Laura L.,4,M-Exempt,--D,37359,60641,2,0001743504,Stock Option
+A,09/26/2018 00:00:00,Felice Laura L.,4,M-Exempt,--D,37359,93605,1,0001743504,Common Stock
+D,09/26/2018 00:00:00,Luce Graham,4,M-Exempt,--D,31523,115477,2,0001743434,Stock Option
+A,09/26/2018 00:00:00,Luce Graham,4,M-Exempt,--D,31523,49100,1,0001743434,Common Stock
+A,09/04/2018 00:00:00,Parent Kenneth M.,4,A-Award,--D,4643,4643,1,0001743913,Restricted Stock Units
+A,09/04/2018 00:00:00,Steele Robert Allan,4,A-Award,--D,4643,4643,1,0001404402,Restricted Stock Units
+D,07/28/2018 00:00:00,Poulliot Brian,4,F-InKind,--D,26258,104992,1,0001743880,Common Stock
+D,07/28/2018 00:00:00,Masood Rafeh,4,F-InKind,--D,15380,61494,1,0001744011,Common Stock
+D,07/28/2018 00:00:00,Kessler Scott,4,F-InKind,--D,26258,104992,1,0001743501,Common Stock
+D,07/28/2018 00:00:00,Sugrue Kristyn M.,4,F-InKind,--D,11722,32224,1,0001743528,Common Stock
+D,07/28/2018 00:00:00,Eddy Robert W.,4,F-InKind,--D,35011,226313,1,0001510712,Common Stock
+D,07/28/2018 00:00:00,Felice Laura L.,4,F-InKind,--D,14069,56246,1,0001743504,Common Stock
+D,07/28/2018 00:00:00,Werner William C.,4,F-InKind,--D,14069,56246,1,0001743889,Common Stock
+D,07/28/2018 00:00:00,Desroches Jeff,4,F-InKind,--D,23107,129941,1,0001743872,Common Stock
+D,07/28/2018 00:00:00,Baldwin Christopher J,4,F-InKind,--D,566754,1045010,1,0001306296,Common Stock
+D,07/28/2018 00:00:00,Delaney Lee,4,F-InKind,--D,37512,103111,1,0001743502,Common Stock
+A,06/28/2018 00:00:00,Delaney Lee,4,A-Award,--D,140623,140623,1,0001743502,Common Stock
+A,06/28/2018 00:00:00,Felice Laura L.,4,A-Award,--D,70315,70315,1,0001743504,Common Stock
+A,06/28/2018 00:00:00,Eddy Robert W.,4,A-Award,--D,175000,261324,2,0001510712,Common Stock
+A,06/28/2018 00:00:00,Werner William C.,4,A-Award,--D,70315,70315,1,0001743889,Common Stock
+A,06/28/2018 00:00:00,Desroches Jeff,4,A-Award,--D,131250,153048,1,0001743872,Common Stock
+A,06/28/2018 00:00:00,Baldwin Christopher J,4,A-Award,--D,1611764,1611764,1,0001306296,Common Stock
+A,06/28/2018 00:00:00,Saville Kirk,4,A-Award,--D,23436,23436,1,0001743909,Common Stock
+A,06/28/2018 00:00:00,Kessler Scott,4,A-Award,--D,131250,131250,1,0001743501,Common Stock
+A,06/28/2018 00:00:00,Poulliot Brian,4,A-Award,--D,131250,131250,1,0001743880,Common Stock
+A,06/28/2018 00:00:00,Luce Graham,4,A-Award,--D,17577,17577,1,0001743434,Common Stock
+A,06/28/2018 00:00:00,Masood Rafeh,4,A-Award,--D,76874,76874,1,0001744011,Common Stock
+A,06/28/2018 00:00:00,Glynn Carolyn,4,A-Award,--D,11718,11718,1,0001743931,Common Stock
+A,06/28/2018 00:00:00,Sugrue Kristyn M.,4,A-Award,--D,43946,43946,1,0001743528,Common Stock
+A,06/27/2018 00:00:00,Delaney Lee,4,A-Award,--D,281253,281253,3,0001743502,Stock Option
+A,06/27/2018 00:00:00,Delaney Lee,4,A-Award,--D,140623,140623,2,0001743502,Stock Option
+A,06/27/2018 00:00:00,Felice Laura L.,4,A-Award,--D,35154,35154,3,0001743504,Stock Option
+A,06/27/2018 00:00:00,Felice Laura L.,4,A-Award,--D,35161,35161,2,0001743504,Stock Option
+A,06/27/2018 00:00:00,Eddy Robert W.,4,A-Award,--D,262500,262500,4,0001510712,Stock Option
+A,06/27/2018 00:00:00,Eddy Robert W.,4,A-Award,--D,262500,262500,3,0001510712,Stock Option
+A,06/27/2018 00:00:00,Eddy Robert W.,4,P-Purchase,--I,2000,263324,1,0001510712,Common Stock
+A,06/27/2018 00:00:00,Werner William C.,4,A-Award,--D,35154,35154,3,0001743889,Stock Option
+A,06/27/2018 00:00:00,Werner William C.,4,A-Award,--D,35161,35161,2,0001743889,Stock Option
+A,06/27/2018 00:00:00,Desroches Jeff,4,A-Award,--D,73500,73500,3,0001743872,Stock Option
+A,06/27/2018 00:00:00,Desroches Jeff,4,A-Award,--D,57750,57750,2,0001743872,Stock Option
+A,06/27/2018 00:00:00,Baldwin Christopher J,4,A-Award,--D,585935,585935,3,0001306296,Stock Option
+A,06/27/2018 00:00:00,Saville Kirk,4,A-Award,--D,23436,23436,2,0001743909,Stock Option
+A,06/27/2018 00:00:00,Kessler Scott,4,A-Award,--D,65625,65625,3,0001743501,Stock Option
+A,06/27/2018 00:00:00,Kessler Scott,4,A-Award,--D,65625,65625,2,0001743501,Stock Option
+A,06/27/2018 00:00:00,Poulliot Brian,4,A-Award,--D,65625,65625,3,0001743880,Stock Option
+A,06/27/2018 00:00:00,Poulliot Brian,4,A-Award,--D,65625,65625,2,0001743880,Stock Option
+A,06/27/2018 00:00:00,Luce Graham,4,A-Award,--D,17577,17577,2,0001743434,Stock Option
+A,06/27/2018 00:00:00,Masood Rafeh,4,A-Award,--D,38437,38437,3,0001744011,Stock Option
+A,06/27/2018 00:00:00,Masood Rafeh,4,A-Award,--D,38437,38437,2,0001744011,Stock Option
+A,06/27/2018 00:00:00,Glynn Carolyn,4,A-Award,--D,11718,11718,2,0001743931,Stock Option
+A,06/27/2018 00:00:00,Sugrue Kristyn M.,4,A-Award,--D,29295,29295,3,0001743528,Stock Option
+A,06/27/2018 00:00:00,Sugrue Kristyn M.,4,A-Award,--D,14651,14651,2,0001743528,Stock Option

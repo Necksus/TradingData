@@ -1,0 +1,961 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/27/2023 00:00:00,Nachman Joseph R,4,S-Sale,--D,6000,315487,1,0001540652,Common Stock
+D,06/15/2023 00:00:00,Schwarzbach David A,4,S-Sale,--D,5000,237935,1,0001349334,Common Stock
+A,06/09/2023 00:00:00,Barone Christine,4,A-Award,--D,5720,33857,1,0001804370,Common Stock
+A,06/09/2023 00:00:00,Rothstein Sharon,4,A-Award,--D,5720,29847,1,0001769134,Common Stock
+A,06/09/2023 00:00:00,Wells Royce A.,4,A-Award,--D,5720,22609,1,0001559292,Common Stock
+A,06/09/2023 00:00:00,Gibbs Robert Lane,4,A-Award,--D,5720,38124,1,0001551440,Common Stock
+A,06/09/2023 00:00:00,Hu George,4,A-Award,--D,5720,30974,1,0001386396,Common Stock
+A,06/09/2023 00:00:00,Terrill Chris,4,A-Award,--D,5720,18741,1,0001467382,Common Stock
+A,06/09/2023 00:00:00,IRVINE DIANE M,4,A-Award,--D,5720,75711,1,0001287611,Common Stock
+A,06/09/2023 00:00:00,ANDERSON FRED D,4,A-Award,--D,5720,34164,1,0001211665,Common Stock
+D,06/01/2023 00:00:00,Eaton Sam,4,S-Sale,--D,486,216165,1,0001850580,Common Stock
+D,05/26/2023 00:00:00,Nachman Joseph R,4,S-Sale,--D,6000,321487,1,0001540652,Common Stock
+D,05/22/2023 00:00:00,Eaton Sam,4,S-Sale,--D,10181,216165,2,0001850580,Common Stock
+D,05/20/2023 00:00:00,Orr Carmen,4,F-InKind,--D,1958,99048,2,0001919747,Common Stock
+D,05/20/2023 00:00:00,Saldanha Craig,4,F-InKind,--D,4060,152828,1,0001918455,Common Stock
+D,05/20/2023 00:00:00,Eaton Sam,4,F-InKind,--D,10844,226346,1,0001850580,Common Stock
+D,05/20/2023 00:00:00,Stoppelman Jeremy,4,F-InKind,--D,25015,637041,1,0001541476,Common Stock
+D,05/20/2023 00:00:00,Nachman Joseph R,4,F-InKind,--D,12256,327487,1,0001540652,Common Stock
+D,05/20/2023 00:00:00,Schwarzbach David A,4,F-InKind,--D,10750,242935,1,0001349334,Common Stock
+D,05/18/2023 00:00:00,Orr Carmen,4,S-Sale,--D,8000,101006,1,0001919747,Common Stock
+A,04/17/2023 00:00:00,Barone Christine,4,A-Award,--D,265,28137,1,0001804370,Common Stock
+A,04/17/2023 00:00:00,Gibbs Robert Lane,4,A-Award,--D,386,32404,1,0001551440,Common Stock
+A,04/17/2023 00:00:00,Terrill Chris,4,A-Award,--D,265,13021,1,0001467382,Common Stock
+A,04/17/2023 00:00:00,IRVINE DIANE M,4,A-Award,--D,655,69991,1,0001287611,Common Stock
+A,04/17/2023 00:00:00,ANDERSON FRED D,4,A-Award,--D,265,28444,1,0001211665,Common Stock
+D,04/10/2023 00:00:00,Nachman Joseph R,4,S-Sale,--D,6000,339743,1,0001540652,Common Stock
+D,03/21/2023 00:00:00,Eaton Sam,4,S-Sale,--D,7121,237190,1,0001850580,Common Stock
+D,03/15/2023 00:00:00,Eaton Sam,4,F-InKind,--D,3700,244311,1,0001850580,Common Stock
+D,03/15/2023 00:00:00,Stoppelman Jeremy,4,F-InKind,--D,7725,662056,1,0001541476,Common Stock
+D,03/15/2023 00:00:00,Nachman Joseph R,4,F-InKind,--D,3452,345743,1,0001540652,Common Stock
+D,03/15/2023 00:00:00,Schwarzbach David A,4,F-InKind,--D,2844,253685,1,0001349334,Common Stock
+A,03/06/2023 00:00:00,Eaton Sam,4,A-Award,--D,21364,248011,1,0001850580,Common Stock
+A,03/06/2023 00:00:00,Stoppelman Jeremy,4,A-Award,--D,49847,669781,1,0001541476,Common Stock
+A,03/06/2023 00:00:00,Nachman Joseph R,4,A-Award,--D,24924,349195,1,0001540652,Common Stock
+A,03/06/2023 00:00:00,Schwarzbach David A,4,A-Award,--D,24045,256529,1,0001349334,Common Stock
+A,03/01/2023 00:00:00,Barone Christine,4,A-Award,--D,1354,27872,1,0001804370,Common Stock
+A,03/01/2023 00:00:00,Gibbs Robert Lane,4,A-Award,--D,1440,32018,1,0001551440,Common Stock
+A,03/01/2023 00:00:00,Terrill Chris,4,A-Award,--D,1143,12756,1,0001467382,Common Stock
+A,03/01/2023 00:00:00,IRVINE DIANE M,4,A-Award,--D,2939,69336,1,0001287611,Common Stock
+A,03/01/2023 00:00:00,ANDERSON FRED D,4,A-Award,--D,1684,28179,1,0001211665,Common Stock
+D,02/21/2023 00:00:00,Eaton Sam,4,S-Sale,--D,12153,226647,2,0001850580,Common Stock
+D,02/20/2023 00:00:00,Orr Carmen,4,F-InKind,--D,5109,109006,1,0001919747,Common Stock
+D,02/20/2023 00:00:00,Saldanha Craig,4,F-InKind,--D,8154,156888,1,0001918455,Common Stock
+D,02/20/2023 00:00:00,Eaton Sam,4,F-InKind,--D,10260,238800,1,0001850580,Common Stock
+D,02/20/2023 00:00:00,Stoppelman Jeremy,4,F-InKind,--D,23469,619934,1,0001541476,Common Stock
+D,02/20/2023 00:00:00,Nachman Joseph R,4,F-InKind,--D,8164,324271,1,0001540652,Common Stock
+D,02/20/2023 00:00:00,Schwarzbach David A,4,F-InKind,--D,7135,232484,1,0001349334,Common Stock
+D,02/15/2023 00:00:00,Schwarzbach David A,4,S-Sale,--D,2000,239619,1,0001349334,Common Stock
+D,01/27/2023 00:00:00,Stoppelman Jeremy,4/A,M-Exempt,--D,15000,0,7,0001541476,Stock Option (Right to Buy)
+D,01/27/2023 00:00:00,Stoppelman Jeremy,4/A,S-Sale,--D,15000,643403,5,0001541476,Common Stock
+A,01/27/2023 00:00:00,Stoppelman Jeremy,4/A,M-Exempt,--D,15000,658403,4,0001541476,Common Stock
+D,01/27/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,15000,0,7,0001541476,Stock Option (Right to Buy)
+D,01/27/2023 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,15000,646803,5,0001541476,Common Stock
+A,01/27/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,15000,661803,4,0001541476,Common Stock
+D,01/26/2023 00:00:00,Stoppelman Jeremy,4/A,M-Exempt,--D,50000,15000,6,0001541476,Stock Option (Right to Buy)
+D,01/26/2023 00:00:00,Stoppelman Jeremy,4/A,S-Sale,--D,50000,643403,3,0001541476,Common Stock
+A,01/26/2023 00:00:00,Stoppelman Jeremy,4/A,M-Exempt,--D,50000,693403,2,0001541476,Common Stock
+D,01/26/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,15000,6,0001541476,Stock Option (Right to Buy)
+D,01/26/2023 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,50000,646803,3,0001541476,Common Stock
+A,01/26/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,696803,2,0001541476,Common Stock
+A,01/25/2023 00:00:00,Orr Carmen,4/A,A-Award,--D,43334,114115,1,0001919747,Common Stock
+A,01/25/2023 00:00:00,Saldanha Craig,4/A,A-Award,--D,50000,165042,1,0001918455,Common Stock
+A,01/25/2023 00:00:00,Eaton Sam,4/A,A-Award,--D,68334,249060,1,0001850580,Common Stock
+A,01/25/2023 00:00:00,Stoppelman Jeremy,4/A,A-Award,--D,141667,643403,1,0001541476,Common Stock
+A,01/25/2023 00:00:00,Nachman Joseph R,4/A,A-Award,--D,70834,332435,1,0001540652,Common Stock
+A,01/25/2023 00:00:00,Schwarzbach David A,4/A,A-Award,--D,68334,241619,1,0001349334,Common Stock
+A,01/25/2023 00:00:00,Saldanha Craig,4,A-Award,--D,51200,166242,1,0001918455,Common Stock
+A,01/25/2023 00:00:00,Orr Carmen,4,A-Award,--D,44374,115155,1,0001919747,Common Stock
+A,01/25/2023 00:00:00,Eaton Sam,4,A-Award,--D,69974,250700,1,0001850580,Common Stock
+A,01/25/2023 00:00:00,Nachman Joseph R,4,A-Award,--D,72534,334135,1,0001540652,Common Stock
+A,01/25/2023 00:00:00,Schwarzbach David A,4,A-Award,--D,69974,243259,1,0001349334,Common Stock
+A,01/25/2023 00:00:00,Stoppelman Jeremy,4,A-Award,--D,145067,646803,1,0001541476,Common Stock
+D,01/25/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,65000,10,0001541476,Stock Option (Right to Buy)
+D,01/25/2023 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,11224,501736,7,0001541476,Common Stock
+D,01/25/2023 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,38776,512960,6,0001541476,Common Stock
+A,01/25/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,551736,5,0001541476,Common Stock
+D,01/24/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,115000,9,0001541476,Stock Option (Right to Buy)
+D,01/24/2023 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,50000,501736,4,0001541476,Common Stock
+A,01/24/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,551736,3,0001541476,Common Stock
+D,01/23/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,165000,8,0001541476,Stock Option (Right to Buy)
+D,01/23/2023 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,50000,501736,2,0001541476,Common Stock
+A,01/23/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,551736,1,0001541476,Common Stock
+D,01/23/2023 00:00:00,Nachman Joseph R,4,S-Sale,--D,3452,261601,1,0001540652,Common Stock
+D,01/20/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,215000,9,0001541476,Stock Option (Right to Buy)
+D,01/20/2023 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,50000,501736,6,0001541476,Common Stock
+A,01/20/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,551736,5,0001541476,Common Stock
+D,01/19/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,265000,8,0001541476,Stock Option (Right to Buy)
+D,01/19/2023 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,50000,501736,4,0001541476,Common Stock
+A,01/19/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,551736,3,0001541476,Common Stock
+D,01/18/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,315000,7,0001541476,Stock Option (Right to Buy)
+D,01/18/2023 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,50000,501736,2,0001541476,Common Stock
+A,01/18/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,551736,1,0001541476,Common Stock
+D,01/17/2023 00:00:00,Schwarzbach David A,4,S-Sale,--D,2000,173285,1,0001349334,Common Stock
+D,01/17/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,365000,9,0001541476,Stock Option (Right to Buy)
+D,01/17/2023 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,50000,501736,6,0001541476,Common Stock
+A,01/17/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,551736,5,0001541476,Common Stock
+D,01/13/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,415000,8,0001541476,Stock Option (Right to Buy)
+D,01/13/2023 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,50000,501736,4,0001541476,Common Stock
+A,01/13/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,551736,3,0001541476,Common Stock
+D,01/12/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,465000,7,0001541476,Stock Option (Right to Buy)
+D,01/12/2023 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,50000,501736,2,0001541476,Common Stock
+A,01/12/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,551736,1,0001541476,Common Stock
+D,01/11/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,515000,11,0001541476,Stock Option (Right to Buy)
+D,01/11/2023 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,50000,501736,7,0001541476,Common Stock
+A,01/11/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,551736,6,0001541476,Common Stock
+D,01/10/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,10000,565000,10,0001541476,Stock Option (Right to Buy)
+D,01/10/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,40000,0,9,0001541476,Stock Option (Right to Buy)
+D,01/10/2023 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,50000,501736,5,0001541476,Common Stock
+A,01/10/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,10000,551736,4,0001541476,Common Stock
+A,01/10/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,40000,541736,3,0001541476,Common Stock
+D,01/09/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,40000,8,0001541476,Stock Option (Right to Buy)
+D,01/09/2023 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,50000,501736,2,0001541476,Common Stock
+A,01/09/2023 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,50000,551736,1,0001541476,Common Stock
+D,01/03/2023 00:00:00,Schwarzbach David A,4,S-Sale,--D,2000,175285,1,0001349334,Common Stock
+D,12/21/2022 00:00:00,Nachman Joseph R,4,S-Sale,--D,6000,265053,1,0001540652,Common Stock
+D,11/30/2022 00:00:00,Eaton Sam,4,S-Sale,--D,5547,180726,1,0001850580,Common Stock
+D,11/21/2022 00:00:00,Nachman Joseph R,4,S-Sale,--D,6000,271053,2,0001540652,Common Stock
+D,11/20/2022 00:00:00,Eaton Sam,4,F-InKind,--D,10978,186273,1,0001850580,Common Stock
+D,11/20/2022 00:00:00,YELP INC,4,F-InKind,--D,10978,186273,1,0001345016,Common Stock
+D,11/20/2022 00:00:00,YELP INC,4,F-InKind,--D,10978,186273,1,0001345016,Common Stock
+D,11/20/2022 00:00:00,Stoppelman Jeremy,4,F-InKind,--D,3729,501736,1,0001541476,Common Stock
+D,11/20/2022 00:00:00,Schwarzbach David A,4,F-InKind,--D,7887,177285,1,0001349334,Common Stock
+D,11/20/2022 00:00:00,Nachman Joseph R,4,F-InKind,--D,9930,277053,1,0001540652,Common Stock
+D,11/15/2022 00:00:00,Schwarzbach David A,4,S-Sale,--D,2000,185172,1,0001349334,Common Stock
+D,10/21/2022 00:00:00,Nachman Joseph R,4,S-Sale,--D,6000,286983,1,0001540652,Common Stock
+D,10/17/2022 00:00:00,Schwarzbach David A,4,S-Sale,--D,2000,187172,1,0001349334,Common Stock
+D,10/03/2022 00:00:00,Stoppelman Jeremy,4,F-InKind,--D,15351,505465,1,0001541476,Common Stock
+D,09/21/2022 00:00:00,Nachman Joseph R,4,S-Sale,--D,6000,292983,1,0001540652,Common Stock
+D,09/15/2022 00:00:00,Schwarzbach David A,4,S-Sale,--D,2000,189172,1,0001349334,Common Stock
+D,09/12/2022 00:00:00,Eaton Sam,4,S-Sale,--D,5547,197251,1,0001850580,Common Stock
+D,08/22/2022 00:00:00,Eaton Sam,4,F-InKind,--D,11156,202798,1,0001850580,Common Stock
+D,08/22/2022 00:00:00,Stoppelman Jeremy,4,F-InKind,--D,19080,520816,1,0001541476,Common Stock
+D,08/22/2022 00:00:00,Nachman Joseph R,4,S-Sale,--D,6000,298983,2,0001540652,Common Stock
+D,08/22/2022 00:00:00,Nachman Joseph R,4,F-InKind,--D,9930,304983,1,0001540652,Common Stock
+D,08/22/2022 00:00:00,Schwarzbach David A,4,F-InKind,--D,7886,191172,1,0001349334,Common Stock
+D,08/15/2022 00:00:00,Schwarzbach David A,4,S-Sale,--D,2000,199058,1,0001349334,Common Stock
+D,07/21/2022 00:00:00,Nachman Joseph R,4,S-Sale,--D,6000,314913,1,0001540652,Common Stock
+D,07/18/2022 00:00:00,Schwarzbach David A,4,S-Sale,--D,2000,201058,1,0001349334,Common Stock
+D,06/21/2022 00:00:00,Nachman Joseph R,4,S-Sale,--D,6000,320913,1,0001540652,Common Stock
+D,06/15/2022 00:00:00,Schwarzbach David A,4,S-Sale,--D,2000,203058,1,0001349334,Common Stock
+A,06/07/2022 00:00:00,Barone Christine,4,A-Award,--D,139,26518,1,0001804370,Common Stock
+A,06/07/2022 00:00:00,Terrill Chris,4,A-Award,--D,10150,10150,3,0001467382,Stock Option (Right to Buy)
+A,06/07/2022 00:00:00,Terrill Chris,4,A-Award,--D,843,11613,2,0001467382,Common Stock
+A,06/07/2022 00:00:00,Terrill Chris,4,A-Award,--D,5088,10770,1,0001467382,Common Stock
+A,06/02/2022 00:00:00,Barone Christine,4,A-Award,--D,5682,26379,1,0001804370,Common Stock
+A,06/02/2022 00:00:00,Rothstein Sharon,4,A-Award,--D,5682,24127,1,0001769134,Common Stock
+A,06/02/2022 00:00:00,Wells Royce A.,4,A-Award,--D,5682,16889,1,0001559292,Common Stock
+A,06/02/2022 00:00:00,Gibbs Robert Lane,4,A-Award,--D,5682,49401,1,0001551440,Common Stock
+A,06/02/2022 00:00:00,Hu George,4,A-Award,--D,5682,25254,1,0001386396,Common Stock
+A,06/02/2022 00:00:00,Terrill Chris,4,A-Award,--D,5682,5682,1,0001467382,Common Stock
+A,06/02/2022 00:00:00,IRVINE DIANE M,4,A-Award,--D,5682,66397,1,0001287611,Common Stock
+A,06/02/2022 00:00:00,ANDERSON FRED D,4,A-Award,--D,5682,26495,1,0001211665,Common Stock
+D,06/01/2022 00:00:00,Nachman Joseph R,4,M-Exempt,--D,20000,0,4,0001540652,Employee Stock Option (Right to Buy)
+D,06/01/2022 00:00:00,Nachman Joseph R,4,S-Sale,--D,4405,326913,3,0001540652,Common Stock
+D,06/01/2022 00:00:00,Nachman Joseph R,4,S-Sale,--D,15595,331318,2,0001540652,Common Stock
+A,06/01/2022 00:00:00,Nachman Joseph R,4,M-Exempt,--D,20000,346913,1,0001540652,Common Stock
+D,05/27/2022 00:00:00,Eaton Sam,4,S-Sale,--D,10605,213215,1,0001850580,Common Stock
+D,05/23/2022 00:00:00,Nachman Joseph R,4/A,S-Sale,--D,1222,326174,3,0001540652,Common Stock
+D,05/23/2022 00:00:00,Nachman Joseph R,4/A,S-Sale,--D,4778,327396,2,0001540652,Common Stock
+D,05/23/2022 00:00:00,Nachman Joseph R,4,S-Sale,--D,1222,328696,3,0001540652,Common Stock
+D,05/23/2022 00:00:00,Nachman Joseph R,4,S-Sale,--D,4778,329918,2,0001540652,Common Stock
+D,05/23/2022 00:00:00,Schwarzbach David A,4/A,S-Sale,--D,2000,205058,2,0001349334,Common Stock
+D,05/23/2022 00:00:00,Schwarzbach David A,4,S-Sale,--D,2000,207220,2,0001349334,Common Stock
+D,05/20/2022 00:00:00,Eaton Sam,4/A,F-InKind,--D,10760,223820,1,0001850580,Common Stock
+D,05/20/2022 00:00:00,Eaton Sam,4,F-InKind,--D,9663,224917,1,0001850580,Common Stock
+D,05/20/2022 00:00:00,Stoppelman Jeremy,4/A,F-InKind,--D,19080,539896,1,0001541476,Common Stock
+D,05/20/2022 00:00:00,Stoppelman Jeremy,4,F-InKind,--D,14036,544940,1,0001541476,Common Stock
+D,05/20/2022 00:00:00,Nachman Joseph R,4/A,F-InKind,--D,9928,332174,1,0001540652,Common Stock
+D,05/20/2022 00:00:00,Nachman Joseph R,4,F-InKind,--D,7406,334696,1,0001540652,Common Stock
+D,05/20/2022 00:00:00,Schwarzbach David A,4/A,F-InKind,--D,7887,207058,1,0001349334,Common Stock
+D,05/20/2022 00:00:00,Schwarzbach David A,4,F-InKind,--D,5725,209220,1,0001349334,Common Stock
+D,04/21/2022 00:00:00,Nachman Joseph R,4,S-Sale,--D,6000,342102,1,0001540652,Common Stock
+D,04/01/2022 00:00:00,Nachman Joseph R,4,M-Exempt,--D,20500,20000,3,0001540652,Employee Stock Option (Right to Buy)
+D,04/01/2022 00:00:00,Nachman Joseph R,4,S-Sale,--D,20500,348102,2,0001540652,Common Stock
+A,04/01/2022 00:00:00,Nachman Joseph R,4,M-Exempt,--D,20500,368602,1,0001540652,Common Stock
+D,04/01/2022 00:00:00,Schwarzbach David A,4,S-Sale,--D,7500,214945,1,0001349334,Common Stock
+D,03/21/2022 00:00:00,Nachman Joseph R,4,S-Sale,--D,6000,348102,1,0001540652,Common Stock
+D,03/15/2022 00:00:00,Eaton Sam,4,F-InKind,--D,3776,234580,1,0001850580,Common Stock
+D,03/15/2022 00:00:00,Stoppelman Jeremy,4,F-InKind,--D,25079,558976,1,0001541476,Common Stock
+D,03/15/2022 00:00:00,Nachman Joseph R,4,F-InKind,--D,10385,354102,1,0001540652,Common Stock
+D,03/15/2022 00:00:00,Schwarzbach David A,4,F-InKind,--D,8055,222445,1,0001349334,Common Stock
+A,03/14/2022 00:00:00,Saldanha Craig,4,A-Award,--D,115042,115042,1,0001918455,Common Stock
+A,03/10/2022 00:00:00,Warren Miriam,4,A-Award,--D,8720,40209,1,0001850752,Common Stock
+A,03/10/2022 00:00:00,Eaton Sam,4,A-Award,--D,34877,238356,1,0001850580,Common Stock
+A,03/10/2022 00:00:00,Stoppelman Jeremy,4,A-Award,--D,162754,584055,1,0001541476,Common Stock
+A,03/10/2022 00:00:00,Nachman Joseph R,4,A-Award,--D,81378,364487,1,0001540652,Common Stock
+A,03/10/2022 00:00:00,Schwarzbach David A,4,A-Award,--D,69753,230500,1,0001349334,Common Stock
+A,03/01/2022 00:00:00,Barone Christine,4,A-Award,--D,996,20697,1,0001804370,Common Stock
+A,03/01/2022 00:00:00,Wells Royce A.,4,A-Award,--D,1065,11207,1,0001559292,Common Stock
+A,03/01/2022 00:00:00,Gibbs Robert Lane,4,A-Award,--D,1254,43719,1,0001551440,Common Stock
+A,03/01/2022 00:00:00,IRVINE DIANE M,4,A-Award,--D,2560,60715,1,0001287611,Common Stock
+A,03/01/2022 00:00:00,ANDERSON FRED D,4,A-Award,--D,1467,20813,1,0001211665,Common Stock
+D,02/22/2022 00:00:00,Warren Miriam,4,F-InKind,--D,1179,31489,1,0001850752,Common Stock
+D,02/22/2022 00:00:00,Eaton Sam,4,S-Sale,--D,6679,203479,2,0001850580,Common Stock
+D,02/22/2022 00:00:00,Eaton Sam,4,F-InKind,--D,6608,210158,1,0001850580,Common Stock
+D,02/22/2022 00:00:00,Stoppelman Jeremy,4,F-InKind,--D,9907,421301,1,0001541476,Common Stock
+D,02/22/2022 00:00:00,Nachman Joseph R,4,F-InKind,--D,5286,283109,1,0001540652,Common Stock
+D,02/22/2022 00:00:00,Schwarzbach David A,4,F-InKind,--D,4115,160747,1,0001349334,Common Stock
+A,02/14/2022 00:00:00,Eaton Sam,4,A-Award,--D,45300,216766,2,0001850580,Common Stock
+A,02/14/2022 00:00:00,Eaton Sam,4,A-Award,--D,51572,171466,1,0001850580,Common Stock
+A,02/14/2022 00:00:00,Stoppelman Jeremy,4,A-Award,--D,120328,431208,1,0001541476,Common Stock
+A,02/14/2022 00:00:00,Nachman Joseph R,4,A-Award,--D,60164,288395,1,0001540652,Common Stock
+A,02/14/2022 00:00:00,Schwarzbach David A,4,A-Award,--D,58041,164862,1,0001349334,Common Stock
+D,11/23/2021 00:00:00,Patel Vivek,4,S-Sale,--D,6090,98387,2,0001770687,Common Stock
+D,11/22/2021 00:00:00,Warren Miriam,4,F-InKind,--D,1617,32668,1,0001850752,Common Stock
+D,11/22/2021 00:00:00,Eaton Sam,4,S-Sale,--D,4169,119894,2,0001850580,Common Stock
+D,11/22/2021 00:00:00,Eaton Sam,4,F-InKind,--D,5457,124063,1,0001850580,Common Stock
+D,11/22/2021 00:00:00,Wilson Laurence,4,F-InKind,--D,4133,160049,1,0001539846,Common Stock
+D,11/22/2021 00:00:00,Patel Vivek,4,F-InKind,--D,5673,104477,1,0001770687,Common Stock
+D,11/22/2021 00:00:00,Nachman Joseph R,4,F-InKind,--D,6069,228231,1,0001540652,Common Stock
+D,11/22/2021 00:00:00,Schwarzbach David A,4,F-InKind,--D,3925,106821,1,0001349334,Common Stock
+D,10/01/2021 00:00:00,Stoppelman Jeremy,4,F-InKind,--D,10307,310880,1,0001541476,Common Stock
+D,09/16/2021 00:00:00,Eaton Sam,4,S-Sale,--D,4085,129520,1,0001850580,Common Stock
+D,08/23/2021 00:00:00,Warren Miriam,4,S-Sale,--D,2535,34285,2,0001850752,Common Stock
+D,08/23/2021 00:00:00,Patel Vivek,4,S-Sale,--D,5766,110150,2,0001770687,Common Stock
+D,08/23/2021 00:00:00,Wilson Laurence,4,S-Sale,--D,3122,164182,2,0001539846,Common Stock
+D,08/20/2021 00:00:00,Warren Miriam,4,F-InKind,--D,1357,36820,1,0001850752,Common Stock
+D,08/20/2021 00:00:00,Eaton Sam,4,F-InKind,--D,5457,133605,1,0001850580,Common Stock
+D,08/20/2021 00:00:00,Patel Vivek,4,F-InKind,--D,5674,115916,1,0001770687,Common Stock
+D,08/20/2021 00:00:00,Wilson Laurence,4,F-InKind,--D,4132,167304,1,0001539846,Common Stock
+D,08/20/2021 00:00:00,Schwarzbach David A,4,F-InKind,--D,3926,110746,1,0001349334,Common Stock
+D,08/20/2021 00:00:00,Nachman Joseph R,4,F-InKind,--D,6067,234300,1,0001540652,Common Stock
+D,08/20/2021 00:00:00,Stoppelman Jeremy,4,F-InKind,--D,10307,321187,1,0001541476,Common Stock
+D,08/20/2021 00:00:00,Gibbs Robert Lane,4,M-Exempt,--D,25000,0,2,0001551440,Stock Option (Right to Buy)
+A,08/20/2021 00:00:00,Gibbs Robert Lane,4,M-Exempt,--D,25000,42465,1,0001551440,Common Stock
+A,06/03/2021 00:00:00,Wells Royce A.,4,A-Award,--D,10000,10000,2,0001559292,Stock Option (Right to Buy)
+A,06/03/2021 00:00:00,Wells Royce A.,4,A-Award,--D,4468,10142,1,0001559292,Common Stock
+A,06/03/2021 00:00:00,Hu George,4,A-Award,--D,10000,10000,2,0001386396,Stock Option (Right to Buy)
+A,06/03/2021 00:00:00,Hu George,4,A-Award,--D,4468,19572,1,0001386396,Common Stock
+A,06/03/2021 00:00:00,SHARPLES BRIAN,4,A-Award,--D,10000,10000,2,0001034604,Stock Option (Right to Buy)
+A,06/03/2021 00:00:00,SHARPLES BRIAN,4,A-Award,--D,4468,18193,1,0001034604,Common Stock
+A,06/03/2021 00:00:00,IRVINE DIANE M,4,A-Award,--D,10000,10000,2,0001287611,Stock Option (Right to Buy)
+A,06/03/2021 00:00:00,IRVINE DIANE M,4,A-Award,--D,4468,58155,1,0001287611,Common Stock
+A,06/03/2021 00:00:00,Barone Christine,4,A-Award,--D,10000,10000,2,0001804370,Stock Option (Right to Buy)
+A,06/03/2021 00:00:00,Barone Christine,4,A-Award,--D,4468,19701,1,0001804370,Common Stock
+A,06/03/2021 00:00:00,Gibbs Robert Lane,4,A-Award,--D,10000,10000,2,0001551440,Stock Option (Right to Buy)
+A,06/03/2021 00:00:00,Gibbs Robert Lane,4,A-Award,--D,4468,17465,1,0001551440,Common Stock
+A,06/03/2021 00:00:00,ANDERSON FRED D,4,A-Award,--D,10000,10000,2,0001211665,Stock Option (Right to Buy)
+A,06/03/2021 00:00:00,ANDERSON FRED D,4,A-Award,--D,4468,19346,1,0001211665,Common Stock
+A,06/03/2021 00:00:00,Rothstein Sharon,4,A-Award,--D,10000,10000,2,0001769134,Stock Option (Right to Buy)
+A,06/03/2021 00:00:00,Rothstein Sharon,4,A-Award,--D,4468,18445,1,0001769134,Common Stock
+D,06/01/2021 00:00:00,Eaton Sam,4,S-Sale,--D,794,139062,1,0001850580,Common Stock
+D,06/01/2021 00:00:00,Patel Vivek,4,S-Sale,--D,779,121590,1,0001770687,Common Stock
+D,05/28/2021 00:00:00,Patterson Carolyn,4,M-Exempt,--D,8200,0,5,0001851179,Employee Stock Option (Right to Buy)
+D,05/28/2021 00:00:00,Patterson Carolyn,4,M-Exempt,--D,9306,0,4,0001851179,Employee Stock Option (Right to Buy)
+D,05/28/2021 00:00:00,Patterson Carolyn,4,S-Sale,--D,17506,69785,3,0001851179,Common Stock
+A,05/28/2021 00:00:00,Patterson Carolyn,4,M-Exempt,--D,8200,87291,2,0001851179,Common Stock
+A,05/28/2021 00:00:00,Patterson Carolyn,4,M-Exempt,--D,9306,79091,1,0001851179,Common Stock
+D,05/24/2021 00:00:00,Wilson Laurence,4,S-Sale,--D,2314,171436,3,0001539846,Common Stock
+D,05/21/2021 00:00:00,Warren Miriam,4,S-Sale,--D,2531,38177,2,0001850752,Common Stock
+D,05/21/2021 00:00:00,Eaton Sam,4,S-Sale,--D,4060,139062,2,0001850580,Common Stock
+D,05/21/2021 00:00:00,Patel Vivek,4,S-Sale,--D,15146,121590,2,0001770687,Common Stock
+D,05/21/2021 00:00:00,Wilson Laurence,4,S-Sale,--D,6593,173750,2,0001539846,Common Stock
+D,05/20/2021 00:00:00,Patterson Carolyn,4,F-InKind,--D,2751,69785,1,0001851179,Common Stock
+D,05/20/2021 00:00:00,Warren Miriam,4,F-InKind,--D,1723,40708,1,0001850752,Common Stock
+D,05/20/2021 00:00:00,Eaton Sam,4,F-InKind,--D,5834,143122,1,0001850580,Common Stock
+D,05/20/2021 00:00:00,Schwarzbach David A,4,F-InKind,--D,6727,114672,1,0001349334,Common Stock
+D,05/20/2021 00:00:00,Stoppelman Jeremy,4,F-InKind,--D,28803,331494,1,0001541476,Common Stock
+D,05/20/2021 00:00:00,Nachman Joseph R,4,F-InKind,--D,12341,239589,1,0001540652,Common Stock
+D,05/20/2021 00:00:00,Patel Vivek,4,F-InKind,--D,10066,136736,1,0001770687,Common Stock
+D,05/20/2021 00:00:00,Wilson Laurence,4,F-InKind,--D,9821,180343,1,0001539846,Common Stock
+D,05/11/2021 00:00:00,Patel Vivek,4,M-Exempt,--D,4478,0,4,0001770687,Employee Stock Option (Right to Buy)
+D,05/11/2021 00:00:00,Patel Vivek,4,S-Sale,--D,793,146802,3,0001770687,Common Stock
+D,05/11/2021 00:00:00,Patel Vivek,4,S-Sale,--D,3685,147595,2,0001770687,Common Stock
+A,05/11/2021 00:00:00,Patel Vivek,4,M-Exempt,--D,4478,151280,1,0001770687,Common Stock
+D,03/22/2021 00:00:00,Eaton Sam,4,M-Exempt,--D,667,0,3,0001850580,Employee Stock Option (Right to Buy)
+D,03/22/2021 00:00:00,Eaton Sam,4,S-Sale,--D,3340,142179,2,0001850580,Common Stock
+A,03/22/2021 00:00:00,Eaton Sam,4,M-Exempt,--D,667,145519,1,0001850580,Common Stock
+D,03/08/2021 00:00:00,Warren Miriam,4,M-Exempt,--D,8200,0,3,0001850752,Employee Stock Option (Right to Buy)
+D,03/08/2021 00:00:00,Warren Miriam,4,S-Sale,--D,8200,40107,2,0001850752,Common Stock
+A,03/08/2021 00:00:00,Warren Miriam,4,M-Exempt,--D,8200,48307,1,0001850752,Common Stock
+D,03/08/2021 00:00:00,Patel Vivek,4,S-Sale,--D,3077,146802,2,0001770687,Common Stock
+D,03/08/2021 00:00:00,Patel Vivek,4,S-Sale,--D,51159,149879,1,0001770687,Common Stock
+D,03/08/2021 00:00:00,Wilson Laurence,4,M-Exempt,--D,55000,37500,3,0001539846,Employee Stock Option (Right to Buy)
+D,03/08/2021 00:00:00,Wilson Laurence,4,S-Sale,--D,68330,190164,2,0001539846,Common Stock
+A,03/08/2021 00:00:00,Wilson Laurence,4,A-Award,--D,55000,258494,1,0001539846,Common Stock
+A,03/03/2021 00:00:00,Stoppelman Jeremy,4,A-Award,--D,119372,360297,1,0001541476,Common Stock
+A,03/03/2021 00:00:00,Patel Vivek,4,A-Award,--D,44076,201038,1,0001770687,Common Stock
+A,03/03/2021 00:00:00,Schwarzbach David A,4,A-Award,--D,29385,121399,1,0001349334,Common Stock
+A,03/03/2021 00:00:00,Nachman Joseph R,4,A-Award,--D,55094,251930,1,0001540652,Common Stock
+A,03/03/2021 00:00:00,Wilson Laurence,4,A-Award,--D,36730,203494,1,0001539846,Common Stock
+A,03/01/2021 00:00:00,SHARPLES BRIAN,4,A-Award,--D,1196,13725,1,0001034604,Common Stock
+A,03/01/2021 00:00:00,ANDERSON FRED D,4,A-Award,--D,1488,14878,1,0001211665,Common Stock
+A,03/01/2021 00:00:00,Barone Christine,4,A-Award,--D,1010,15233,1,0001804370,Common Stock
+A,03/01/2021 00:00:00,IRVINE DIANE M,4,A-Award,--D,2596,53687,1,0001287611,Common Stock
+A,03/01/2021 00:00:00,Hu George,4,A-Award,--D,1079,15104,1,0001386396,Common Stock
+A,03/01/2021 00:00:00,Gibbs Robert Lane,4,A-Award,--D,1272,12997,1,0001551440,Common Stock
+D,02/23/2021 00:00:00,Wilson Laurence,4,S-Sale,--D,292,166764,3,0001539846,Common Stock
+D,02/23/2021 00:00:00,Wilson Laurence,4,S-Sale,--D,3441,167056,2,0001539846,Common Stock
+D,02/22/2021 00:00:00,Wilson Laurence,4,F-InKind,--D,2715,170497,1,0001539846,Common Stock
+D,02/22/2021 00:00:00,Patel Vivek,4,F-InKind,--D,3146,156962,1,0001770687,Common Stock
+D,02/22/2021 00:00:00,Schwarzbach David A,4,F-InKind,--D,5230,92014,1,0001349334,Common Stock
+D,02/22/2021 00:00:00,Nachman Joseph R,4,F-InKind,--D,4019,196836,1,0001540652,Common Stock
+D,02/22/2021 00:00:00,Stoppelman Jeremy,4,F-InKind,--D,6632,240925,1,0001541476,Common Stock
+D,02/16/2021 00:00:00,Wilson Laurence,4,M-Exempt,--D,25000,92500,4,0001539846,Employee Stock Option (Right to Buy)
+D,02/16/2021 00:00:00,Wilson Laurence,4,S-Sale,--D,5138,173212,3,0001539846,Common Stock
+D,02/16/2021 00:00:00,Wilson Laurence,4,S-Sale,--D,34022,178350,2,0001539846,Common Stock
+A,02/16/2021 00:00:00,Wilson Laurence,4,A-Award,--D,25000,212372,1,0001539846,Common Stock
+A,02/05/2021 00:00:00,Stoppelman Jeremy,4,A-Award,--D,119417,247557,1,0001541476,Common Stock
+A,02/05/2021 00:00:00,Schwarzbach David A,4,A-Award,--D,51179,97244,1,0001349334,Common Stock
+A,02/05/2021 00:00:00,Nachman Joseph R,4,A-Award,--D,59709,200855,1,0001540652,Common Stock
+A,02/05/2021 00:00:00,Wilson Laurence,4,A-Award,--D,34119,187372,1,0001539846,Common Stock
+A,02/05/2021 00:00:00,Patel Vivek,4,A-Award,--D,37531,160108,1,0001770687,Common Stock
+D,01/04/2021 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,346830,0,6,0001541476,Stock Option (Right to Buy)
+D,01/04/2021 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,10130,128140,5,0001541476,Common Stock
+D,01/04/2021 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,12983,138270,4,0001541476,Common Stock
+D,01/04/2021 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,51991,151253,3,0001541476,Common Stock
+D,01/04/2021 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,271726,203244,2,0001541476,Common Stock
+A,01/04/2021 00:00:00,Stoppelman Jeremy,4,A-Award,--D,346830,474970,1,0001541476,Common Stock
+D,12/15/2020 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,400000,346830,3,0001541476,Stock Option (Right to Buy)
+D,12/15/2020 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,400000,128140,2,0001541476,Common Stock
+A,12/15/2020 00:00:00,Stoppelman Jeremy,4,A-Award,--D,400000,528140,1,0001541476,Common Stock
+A,12/14/2020 00:00:00,Wells Royce A.,4,A-Award,--D,11550,11550,2,0001559292,Stock Option (Right to Buy)
+A,12/14/2020 00:00:00,Wells Royce A.,4,A-Award,--D,5674,5674,1,0001559292,Common Stock
+D,12/10/2020 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,400000,746830,3,0001541476,Stock Option (Right to Buy)
+D,12/10/2020 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,400000,128140,2,0001541476,Common Stock
+A,12/10/2020 00:00:00,Stoppelman Jeremy,4,A-Award,--D,400000,528140,1,0001541476,Common Stock
+D,12/01/2020 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,400000,1146830,3,0001541476,Stock Option (Right to Buy)
+D,12/01/2020 00:00:00,Stoppelman Jeremy,4,S-Sale,--D,400000,128140,2,0001541476,Common Stock
+A,12/01/2020 00:00:00,Stoppelman Jeremy,4,A-Award,--D,400000,528140,1,0001541476,Common Stock
+D,11/20/2020 00:00:00,Nachman Joseph R,4,F-InKind,--D,3705,141146,1,0001540652,Common Stock
+D,11/20/2020 00:00:00,Wilson Laurence,4,F-InKind,--D,1978,153253,1,0001539846,Common Stock
+D,11/20/2020 00:00:00,Patel Vivek,4,F-InKind,--D,4660,122577,1,0001770687,Common Stock
+D,11/18/2020 00:00:00,Wilson Laurence,4,M-Exempt,--D,12500,117500,3,0001539846,Employee Stock Option (Right to Buy)
+D,11/18/2020 00:00:00,Wilson Laurence,4,S-Sale,--D,18866,155231,2,0001539846,Common Stock
+A,11/18/2020 00:00:00,Wilson Laurence,4,A-Award,--D,12500,174097,1,0001539846,Common Stock
+D,09/03/2020 00:00:00,IRVINE DIANE M,4,M-Exempt,--D,25000,0,2,0001287611,Stock Option (Right to Buy)
+A,09/03/2020 00:00:00,IRVINE DIANE M,4,M-Exempt,--D,25000,51091,1,0001287611,Common Stock
+D,08/21/2020 00:00:00,Nachman Joseph R,4,S-Sale,--D,2685,144851,1,0001540652,Common Stock
+D,08/21/2020 00:00:00,Wilson Laurence,4,S-Sale,--D,2053,161597,1,0001539846,Common Stock
+D,08/21/2020 00:00:00,Patel Vivek,4,S-Sale,--D,3870,127237,1,0001770687,Common Stock
+D,08/03/2020 00:00:00,Wilson Laurence,4,S-Sale,--D,12242,163650,1,0001539846,Common Stock
+A,07/01/2020 00:00:00,Rothstein Sharon,4,A-Award,--D,10000,10000,2,0001769134,Stock Option (Right to Buy)
+A,07/01/2020 00:00:00,Rothstein Sharon,4,A-Award,--D,7859,13977,1,0001769134,Common Stock
+A,07/01/2020 00:00:00,Gibbs Robert Lane,4,A-Award,--D,10000,10000,2,0001551440,Stock Option (Right to Buy)
+A,07/01/2020 00:00:00,Gibbs Robert Lane,4,A-Award,--D,7859,11725,1,0001551440,Common Stock
+A,07/01/2020 00:00:00,Hu George,4,A-Award,--D,10000,10000,2,0001386396,Stock Option (Right to Buy)
+A,07/01/2020 00:00:00,Hu George,4,A-Award,--D,7859,14025,1,0001386396,Common Stock
+A,07/01/2020 00:00:00,ANDERSON FRED D,4,A-Award,--D,10000,10000,2,0001211665,Stock Option (Right to Buy)
+A,07/01/2020 00:00:00,ANDERSON FRED D,4,A-Award,--D,7859,13390,1,0001211665,Common Stock
+A,07/01/2020 00:00:00,IRVINE DIANE M,4,A-Award,--D,10000,10000,2,0001287611,Stock Option (Right to Buy)
+A,07/01/2020 00:00:00,IRVINE DIANE M,4,A-Award,--D,7859,26091,1,0001287611,Common Stock
+A,07/01/2020 00:00:00,SHARPLES BRIAN,4,A-Award,--D,10000,10000,2,0001034604,Stock Option (Right to Buy)
+A,07/01/2020 00:00:00,SHARPLES BRIAN,4,A-Award,--D,7859,12529,1,0001034604,Common Stock
+A,07/01/2020 00:00:00,Barone Christine,4,A-Award,--D,7859,14223,1,0001804370,Common Stock
+D,06/01/2020 00:00:00,Patel Vivek,4,S-Sale,--D,721,131107,1,0001770687,Common Stock
+D,05/27/2020 00:00:00,Wilson Laurence,4,S-Sale,--D,1819,175892,1,0001539846,Common Stock
+D,05/22/2020 00:00:00,Patel Vivek,4,S-Sale,--D,137,131107,2,0001770687,Common Stock
+D,05/22/2020 00:00:00,Wilson Laurence,4,S-Sale,--D,72,177711,2,0001539846,Common Stock
+D,05/22/2020 00:00:00,Nachman Joseph R,4,S-Sale,--D,75,146815,2,0001540652,Common Stock
+D,05/21/2020 00:00:00,Patel Vivek,4,S-Sale,--D,3772,131244,1,0001770687,Common Stock
+D,05/21/2020 00:00:00,Wilson Laurence,4,S-Sale,--D,2000,177783,1,0001539846,Common Stock
+D,05/21/2020 00:00:00,Nachman Joseph R,4,S-Sale,--D,2635,146890,1,0001540652,Common Stock
+D,05/19/2020 00:00:00,Wilson Laurence,4,S-Sale,--D,1179,179783,1,0001539846,Common Stock
+A,04/15/2020 00:00:00,Rothstein Sharon,4,A-Award,--D,72,6118,1,0001769134,Common Stock
+A,03/06/2020 00:00:00,Barone Christine,4,A-Award,--D,14600,14600,2,0001804370,Stock Option (Right to Buy)
+A,03/06/2020 00:00:00,Barone Christine,4,A-Award,--D,5616,6613,1,0001804370,Common Stock
+A,03/06/2020 00:00:00,Schwarzbach David A,4,A-Award,--D,71900,71900,2,0001349334,Stock Option (Right to Buy)
+A,03/06/2020 00:00:00,Schwarzbach David A,4,A-Award,--D,46065,46065,1,0001349334,Common Stock
+A,03/01/2020 00:00:00,Rothstein Sharon,4/A,A-Award,--D,748,6046,1,0001769134,Common Stock
+A,03/01/2020 00:00:00,Hu George,4/A,A-Award,--D,799,6166,1,0001386396,Common Stock
+A,03/01/2020 00:00:00,Barone Christine,4/A,A-Award,--D,748,748,1,0001804370,Common Stock
+A,03/01/2020 00:00:00,ANDERSON FRED D,4/A,A-Award,--D,1102,5531,1,0001211665,Common Stock
+A,03/01/2020 00:00:00,IRVINE DIANE M,4/A,A-Award,--D,1922,18232,1,0001287611,Common Stock
+A,03/01/2020 00:00:00,IRVINE DIANE M,4,A-Award,--D,2563,18873,1,0001287611,Common Stock
+A,03/01/2020 00:00:00,ANDERSON FRED D,4,A-Award,--D,1469,5898,1,0001211665,Common Stock
+A,03/01/2020 00:00:00,Barone Christine,4,A-Award,--D,997,997,1,0001804370,Common Stock
+A,03/01/2020 00:00:00,Rothstein Sharon,4,A-Award,--D,997,6295,1,0001769134,Common Stock
+A,03/01/2020 00:00:00,Hu George,4,A-Award,--D,1066,6433,1,0001386396,Common Stock
+D,02/21/2020 00:00:00,Wilson Laurence,4,S-Sale,--D,4675,180962,3,0001539846,Common Stock
+D,02/20/2020 00:00:00,Stoppelman Jeremy,4/A,F-InKind,--D,2250,128140,2,0001541476,Common Stock
+D,02/20/2020 00:00:00,Wilson Laurence,4,F-InKind,--D,3295,185637,2,0001539846,Common Stock
+D,02/20/2020 00:00:00,Patel Vivek,4,F-InKind,--D,3862,135016,2,0001770687,Common Stock
+D,02/20/2020 00:00:00,Nachman Joseph R,4,F-InKind,--D,4301,149525,2,0001540652,Common Stock
+D,02/20/2020 00:00:00,Stoppelman Jeremy,4,F-InKind,--D,2250,145720,2,0001541476,Common Stock
+A,02/19/2020 00:00:00,Stoppelman Jeremy,4/A,A-Award,--D,76181,130390,1,0001541476,Common Stock
+A,02/19/2020 00:00:00,Wilson Laurence,4,A-Award,--D,28850,188932,1,0001539846,Common Stock
+A,02/19/2020 00:00:00,Patel Vivek,4,A-Award,--D,34620,138878,1,0001770687,Common Stock
+A,02/19/2020 00:00:00,Nachman Joseph R,4,A-Award,--D,43275,153826,1,0001540652,Common Stock
+A,02/19/2020 00:00:00,Stoppelman Jeremy,4,A-Award,--D,93761,147970,1,0001541476,Common Stock
+D,02/03/2020 00:00:00,Miln James,4,S-Sale,--D,1201,36690,1,0001786790,Common Stock
+D,01/15/2020 00:00:00,Wilson Laurence,4,S-Sale,--D,19043,160082,1,0001539846,Common Stock
+D,01/06/2020 00:00:00,Stoppelman Jeremy,4,M-Exempt,--D,54209,1546830,2,0001541476,Stock Option (Right to Buy)
+A,01/06/2020 00:00:00,Stoppelman Jeremy,4,A-Award,--D,54209,54209,1,0001541476,Common Stock
+D,11/20/2019 00:00:00,Miln James,4,F-InKind,--D,635,37891,1,0001786790,Common Stock
+D,11/20/2019 00:00:00,Nachman Joseph R,4,F-InKind,--D,4482,110551,1,0001540652,Common Stock
+D,11/20/2019 00:00:00,Patel Vivek,4,F-InKind,--D,4973,105001,1,0001770687,Common Stock
+D,11/20/2019 00:00:00,Wilson Laurence,4,F-InKind,--D,2583,179125,1,0001539846,Common Stock
+D,11/15/2019 00:00:00,Patel Vivek,5,S-Sale,-LD,743,104258,1,0001770687,Common Stock
+A,09/11/2019 00:00:00,Miln James,4,A-Award,--D,14688,38526,1,0001786790,Common Stock
+D,08/20/2019 00:00:00,Wilson Laurence,4,F-InKind,--D,2542,181708,1,0001539846,Common Stock
+D,08/20/2019 00:00:00,Patel Vivek,4,F-InKind,--D,3624,109974,1,0001770687,Common Stock
+D,08/20/2019 00:00:00,Nachman Joseph R,4,F-InKind,--D,3235,115033,1,0001540652,Common Stock
+D,08/20/2019 00:00:00,Baker Charles,4,F-InKind,--D,3943,121627,1,0001321154,Common Stock
+D,05/20/2019 00:00:00,Patel Vivek,4,F-InKind,--D,3469,112855,1,0001770687,Common Stock
+D,05/20/2019 00:00:00,Wilson Laurence,4,F-InKind,--D,2544,184250,1,0001539846,Common Stock
+D,05/20/2019 00:00:00,Ramsay Alan,4,F-InKind,--D,1062,28966,1,0001701399,Common Stock
+D,05/20/2019 00:00:00,Nachman Joseph R,4,F-InKind,--D,3236,117526,1,0001540652,Common Stock
+D,05/20/2019 00:00:00,Baker Charles,4,F-InKind,--D,3604,125143,1,0001321154,Common Stock
+A,05/01/2019 00:00:00,Rothstein Sharon,4,A-Award,--D,628,5298,1,0001769134,Common Stock
+A,05/01/2019 00:00:00,Hu George,4,A-Award,--D,697,5367,1,0001386396,Common Stock
+A,03/07/2019 00:00:00,Rothstein Sharon,4,A-Award,--D,9950,9950,2,0001769134,Stock Option (Right to Buy)
+A,03/07/2019 00:00:00,Rothstein Sharon,4,A-Award,--D,4670,4670,1,0001769134,Common Stock
+A,03/07/2019 00:00:00,SHARPLES BRIAN,4,A-Award,--D,9950,9950,2,0001034604,Stock Option (Right to Buy)
+A,03/07/2019 00:00:00,SHARPLES BRIAN,4,A-Award,--D,4670,4670,1,0001034604,Common Stock
+A,03/07/2019 00:00:00,Hu George,4,A-Award,--D,9950,9950,2,0001386396,Stock Option (Right to Buy)
+A,03/07/2019 00:00:00,Hu George,4,A-Award,--D,4670,4670,1,0001386396,Common Stock
+A,03/01/2019 00:00:00,ANDERSON FRED D,4,A-Award,--D,1063,4429,1,0001211665,Common Stock
+A,03/01/2019 00:00:00,Naficy Mariam,4,A-Award,--D,613,1136,1,0001597584,Common Stock
+A,03/01/2019 00:00:00,Gibbs Robert Lane,4,A-Award,--D,995,3866,1,0001551440,Common Stock
+A,03/01/2019 00:00:00,IRVINE DIANE M,4,A-Award,--D,1771,16310,1,0001287611,Common Stock
+D,02/26/2019 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,2000,341940,1,0001539856,Common Stock
+D,02/21/2019 00:00:00,Ramsay Alan,4,M-Exempt,--D,4484,1410,6,0001701399,Stock Option (Right to Buy)
+D,02/21/2019 00:00:00,Ramsay Alan,4,M-Exempt,--D,11250,0,5,0001701399,Stock Option (Right to Buy)
+D,02/21/2019 00:00:00,Ramsay Alan,4,S-Sale,--D,19774,29710,4,0001701399,Common Stock
+A,02/21/2019 00:00:00,Ramsay Alan,4,M-Exempt,--D,4484,49484,3,0001701399,Common Stock
+A,02/21/2019 00:00:00,Ramsay Alan,4,M-Exempt,--D,11250,45000,2,0001701399,Common Stock
+D,02/20/2019 00:00:00,Ramsay Alan,4,F-InKind,--D,1204,33750,1,0001701399,Common Stock
+D,02/20/2019 00:00:00,Wilson Laurence,4,F-InKind,--D,2672,186794,1,0001539846,Common Stock
+D,02/20/2019 00:00:00,Baker Charles,4,F-InKind,--D,3734,128435,1,0001321154,Common Stock
+D,02/20/2019 00:00:00,Nachman Joseph R,4,F-InKind,--D,3367,120762,1,0001540652,Common Stock
+D,02/19/2019 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,2000,343940,1,0001539856,Common Stock
+D,02/12/2019 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,2000,345940,1,0001539856,Common Stock
+A,02/07/2019 00:00:00,Baker Charles,4,A-Award,--D,20690,20690,4,0001321154,Performance Rights
+A,02/07/2019 00:00:00,Baker Charles,4,A-Award,--D,83900,83900,3,0001321154,Employee Stock Option (Right to Buy)
+A,02/07/2019 00:00:00,Baker Charles,4,A-Award,--D,20690,132169,1,0001321154,Common Stock
+A,02/07/2019 00:00:00,Wilson Laurence,4,A-Award,--D,13794,13794,3,0001539846,Performance Rights
+A,02/07/2019 00:00:00,Wilson Laurence,4,A-Award,--D,55950,55950,2,0001539846,Employee Stock Option (Right to Buy)
+A,02/07/2019 00:00:00,Wilson Laurence,4,A-Award,--D,13794,189466,1,0001539846,Common Stock
+A,02/07/2019 00:00:00,Ramsay Alan,4,A-Award,--D,6552,6552,3,0001701399,Performance Rights
+A,02/07/2019 00:00:00,Ramsay Alan,4,A-Award,--D,26600,26600,2,0001701399,Stock Option (Right to Buy)
+A,02/07/2019 00:00:00,Ramsay Alan,4,A-Award,--D,6552,34954,1,0001701399,Common Stock
+A,02/07/2019 00:00:00,Nachman Joseph R,4,A-Award,--D,20690,20690,3,0001540652,Performance Rights
+A,02/07/2019 00:00:00,Nachman Joseph R,4,A-Award,--D,83900,83900,2,0001540652,Employee Stock Option (Right to Buy)
+A,02/07/2019 00:00:00,Nachman Joseph R,4,A-Award,--D,20690,124129,1,0001540652,Common Stock
+A,02/07/2019 00:00:00,Stoppelman Jeremy,4,A-Award,--D,44828,44828,2,0001541476,Performance Rights
+A,02/07/2019 00:00:00,Stoppelman Jeremy,4,A-Award,--D,272700,272700,1,0001541476,Employee Stock Option (Right to Buy)
+D,02/05/2019 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,2000,347940,1,0001539856,Common Stock
+D,02/05/2019 00:00:00,Ramsay Alan,4,M-Exempt,--D,128,5894,3,0001701399,Stock Option (Right to Buy)
+D,02/05/2019 00:00:00,Ramsay Alan,4,S-Sale,--D,128,28402,2,0001701399,Common Stock
+A,02/05/2019 00:00:00,Ramsay Alan,4,M-Exempt,--D,128,28530,1,0001701399,Common Stock
+D,01/29/2019 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,2000,349940,1,0001539856,Common Stock
+D,01/22/2019 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,2000,351940,1,0001539856,Common Stock
+D,01/15/2019 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,2000,353940,1,0001539856,Common Stock
+D,01/08/2019 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,2000,355940,1,0001539856,Common Stock
+D,01/07/2019 00:00:00,Ramsay Alan,4,M-Exempt,--D,128,6022,3,0001701399,Stock Option (Right to Buy)
+D,01/07/2019 00:00:00,Ramsay Alan,4,S-Sale,--D,128,27958,2,0001701399,Common Stock
+A,01/07/2019 00:00:00,Ramsay Alan,4,M-Exempt,--D,128,28086,1,0001701399,Common Stock
+D,01/02/2019 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,2000,357940,1,0001539856,Common Stock
+D,12/26/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,2000,359940,1,0001539856,Common Stock
+D,12/18/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,2000,361940,1,0001539856,Common Stock
+D,12/11/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,2000,363940,1,0001539856,Common Stock
+D,12/04/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,2000,365940,1,0001539856,Common Stock
+D,11/27/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,2000,367940,1,0001539856,Common Stock
+D,11/20/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,2000,369940,1,0001539856,Common Stock
+D,11/20/2018 00:00:00,Baker Charles,4,F-InKind,--D,4524,111081,1,0001321154,Common Stock
+D,11/20/2018 00:00:00,Wilson Laurence,4,F-InKind,--D,5217,175672,1,0001539846,Common Stock
+D,11/20/2018 00:00:00,Ramsay Alan,4,F-InKind,--D,921,27958,2,0001701399,Common Stock
+D,11/20/2018 00:00:00,Nachman Joseph R,4,F-InKind,--D,5996,103439,1,0001540652,Common Stock
+D,11/19/2018 00:00:00,Ramsay Alan,4,S-Sale,--D,6355,28879,1,0001701399,Common Stock
+D,11/13/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,2000,371940,1,0001539856,Common Stock
+D,11/13/2018 00:00:00,Ramsay Alan,4,S-Sale,--D,5000,35234,1,0001701399,Common Stock
+D,11/06/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2193310,1,0001541476,Common Stock
+D,11/06/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,360,373940,2,0001539856,Common Stock
+D,11/06/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,3640,377580,1,0001539856,Common Stock
+D,11/01/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2206310,1,0001541476,Common Stock
+D,10/30/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,4000,377940,1,0001539856,Common Stock
+D,10/24/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2219310,1,0001541476,Common Stock
+D,10/23/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,4000,381940,1,0001539856,Common Stock
+D,10/22/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,10500,40500,3,0001540652,Stock Option (Right to Buy)
+D,10/22/2018 00:00:00,Nachman Joseph R,4,S-Sale,--D,10500,109435,2,0001540652,Common Stock
+A,10/22/2018 00:00:00,Nachman Joseph R,4,A-Award,--D,10500,119935,1,0001540652,Common Stock
+D,10/16/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,701,2232310,2,0001541476,Common Stock
+D,10/16/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,12299,2233011,1,0001541476,Common Stock
+D,10/16/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,4000,385940,1,0001539856,Common Stock
+D,10/11/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,9400,2245310,2,0001541476,Common Stock
+D,10/11/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,3600,2254710,1,0001541476,Common Stock
+D,10/09/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,4000,389940,1,0001539856,Common Stock
+D,10/03/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2258310,1,0001541476,Common Stock
+D,10/02/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--I,4000,393940,1,0001539856,Common Stock
+D,09/25/2018 00:00:00,Donaker Geoffrey L,4/A,M-Exempt,--D,2000,317000,3,0001539856,Stock Option (Right to Buy)
+D,09/25/2018 00:00:00,Donaker Geoffrey L,4/A,S-Sale,--D,2000,6055,2,0001539856,Common Stock
+A,09/25/2018 00:00:00,Donaker Geoffrey L,4/A,M-Exempt,--D,2000,8055,1,0001539856,Common Stock
+D,09/25/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2271310,1,0001541476,Common Stock
+D,09/25/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,317000,3,0001539856,Stock Option (Right to Buy)
+D,09/25/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,2000,6055,2,0001539856,Common Stock
+A,09/25/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,8055,1,0001539856,Common Stock
+D,09/20/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,6900,2284310,2,0001541476,Common Stock
+D,09/20/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,6100,2278210,1,0001541476,Common Stock
+D,09/20/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,10500,51000,4,0001540652,Stock Option (Right to Buy)
+D,09/20/2018 00:00:00,Nachman Joseph R,4,S-Sale,--D,5300,109435,3,0001540652,Common Stock
+D,09/20/2018 00:00:00,Nachman Joseph R,4,S-Sale,--D,5200,114735,2,0001540652,Common Stock
+A,09/20/2018 00:00:00,Nachman Joseph R,4,A-Award,--D,10500,119935,1,0001540652,Common Stock
+D,09/18/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,319000,3,0001539856,Stock Option (Right to Buy)
+D,09/18/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,2000,6055,2,0001539856,Common Stock
+A,09/18/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,8055,1,0001539856,Common Stock
+D,09/12/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,110,2297310,2,0001541476,Common Stock
+D,09/12/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,12890,2297420,1,0001541476,Common Stock
+D,09/11/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,321000,3,0001539856,Stock Option (Right to Buy)
+D,09/11/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,2000,6055,2,0001539856,Common Stock
+A,09/11/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,8055,1,0001539856,Common Stock
+D,09/04/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,323000,3,0001539856,Stock Option (Right to Buy)
+D,09/04/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,2000,6055,2,0001539856,Common Stock
+A,09/04/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,8055,1,0001539856,Common Stock
+D,09/04/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2310310,1,0001541476,Common Stock
+D,08/30/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2323310,1,0001541476,Common Stock
+D,08/28/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,325000,3,0001539856,Stock Option (Right to Buy)
+D,08/28/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,2000,6055,2,0001539856,Common Stock
+A,08/28/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,8055,1,0001539856,Common Stock
+D,08/22/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2336310,1,0001541476,Common Stock
+D,08/21/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,327000,3,0001539856,Stock Option (Right to Buy)
+D,08/21/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,2000,6055,2,0001539856,Common Stock
+A,08/21/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,8055,1,0001539856,Common Stock
+D,08/20/2018 00:00:00,Baker Charles,4,F-InKind,--D,3920,115605,1,0001321154,Common Stock
+D,08/20/2018 00:00:00,Wilson Laurence,4,F-InKind,--D,5215,180889,1,0001539846,Common Stock
+D,08/20/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,10500,61500,5,0001540652,Stock Option (Right to Buy)
+D,08/20/2018 00:00:00,Nachman Joseph R,4,S-Sale,--D,200,109435,4,0001540652,Common Stock
+D,08/20/2018 00:00:00,Nachman Joseph R,4,S-Sale,--D,10300,109635,3,0001540652,Common Stock
+A,08/20/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,10500,119935,2,0001540652,Common Stock
+D,08/20/2018 00:00:00,Nachman Joseph R,4,F-InKind,--D,5996,109435,1,0001540652,Common Stock
+D,08/20/2018 00:00:00,Ramsay Alan,4,F-InKind,--D,1005,40234,1,0001701399,Common Stock
+D,08/14/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2349310,1,0001541476,Common Stock
+D,08/14/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,329000,3,0001539856,Stock Option (Right to Buy)
+D,08/14/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,2000,6055,2,0001539856,Common Stock
+A,08/14/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,8055,1,0001539856,Common Stock
+D,08/10/2018 00:00:00,Wilson Laurence,4,M-Exempt,--D,5000,130000,3,0001539846,Employee Stock Option (Right to Buy)
+D,08/10/2018 00:00:00,Wilson Laurence,4,D-Return,--D,5000,186104,2,0001539846,Common Stock
+A,08/10/2018 00:00:00,Wilson Laurence,4,A-Award,--D,5000,191104,1,0001539846,Common Stock
+D,08/10/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,9303,72000,3,0001540652,Stock Option (Right to Buy)
+D,08/10/2018 00:00:00,Nachman Joseph R,4,S-Sale,--D,16303,115431,2,0001540652,Common Stock
+A,08/10/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,9303,131734,1,0001540652,Common Stock
+D,08/09/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,331000,3,0001539856,Stock Option (Right to Buy)
+D,08/09/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,6055,2,0001539856,Common Stock
+A,08/09/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+D,08/09/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2362310,1,0001541476,Common Stock
+D,07/26/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,335000,3,0001539856,Stock Option (Right to Buy)
+D,07/26/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,2000,6055,2,0001539856,Common Stock
+A,07/26/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,8055,1,0001539856,Common Stock
+D,07/26/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2375310,1,0001541476,Common Stock
+D,07/26/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,10500,81303,3,0001540652,Stock Option (Right to Buy)
+D,07/26/2018 00:00:00,Nachman Joseph R,4,S-Sale,--D,10500,122431,2,0001540652,Common Stock
+A,07/26/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,10500,132931,1,0001540652,Common Stock
+D,07/19/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2388310,1,0001541476,Common Stock
+D,07/17/2018 00:00:00,Donaker Geoffrey L,4/A,M-Exempt,--D,8000,337000,3,0001539856,Stock Option (Right to Buy)
+D,07/17/2018 00:00:00,Donaker Geoffrey L,4/A,S-Sale,--D,8000,6055,2,0001539856,Common Stock
+A,07/17/2018 00:00:00,Donaker Geoffrey L,4/A,M-Exempt,--D,8000,14055,1,0001539856,Common Stock
+D,07/17/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,8000,0,3,0001539856,Stock Option (Right to Buy)
+D,07/17/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,8000,6055,2,0001539856,Common Stock
+A,07/17/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,8000,14055,1,0001539856,Common Stock
+D,07/12/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2401310,1,0001541476,Common Stock
+D,07/05/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2414310,1,0001541476,Common Stock
+D,06/26/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,0,3,0001539856,Stock Option (Right to Buy)
+D,06/26/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,6055,2,0001539856,Common Stock
+A,06/26/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+D,06/20/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,10500,91803,3,0001540652,Stock Option (Right to Buy)
+D,06/20/2018 00:00:00,Nachman Joseph R,4,S-Sale,--D,10500,121861,2,0001540652,Common Stock
+A,06/20/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,10500,132361,1,0001540652,Common Stock
+D,06/20/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2427310,1,0001541476,Common Stock
+D,06/19/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,345000,5,0001539856,Stock Option (Right to Buy)
+D,06/19/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,4000,4,0001539856,Stock Option (Right to Buy)
+D,06/19/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,6055,3,0001539856,Common Stock
+A,06/19/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,12055,2,0001539856,Common Stock
+A,06/19/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+A,06/14/2018 00:00:00,Ramsay Alan,4,A-Award,--D,8950,8950,2,0001701399,Employee Stock Option (Right to Buy)
+A,06/14/2018 00:00:00,Ramsay Alan,4,A-Award,--D,15790,41239,1,0001701399,Common Stock
+D,06/12/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2440310,1,0001541476,Common Stock
+D,06/12/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,347000,5,0001539856,Stock Option (Right to Buy)
+D,06/12/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,8000,4,0001539856,Stock Option (Right to Buy)
+D,06/12/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,6055,3,0001539856,Common Stock
+A,06/12/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,12055,2,0001539856,Common Stock
+A,06/12/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+D,06/07/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2453310,1,0001541476,Common Stock
+D,06/05/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,349000,5,0001539856,Stock Option (Right to Buy)
+D,06/05/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,12000,4,0001539856,Stock Option (Right to Buy)
+D,06/05/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,6055,3,0001539856,Common Stock
+A,06/05/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,12055,2,0001539856,Common Stock
+A,06/05/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+D,05/29/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,351000,5,0001539856,Stock Option (Right to Buy)
+D,05/29/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,16000,4,0001539856,Stock Option (Right to Buy)
+D,05/29/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,6055,3,0001539856,Common Stock
+A,05/29/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,12055,2,0001539856,Common Stock
+A,05/29/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+D,05/22/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,353000,6,0001539856,Stock Option (Right to Buy)
+D,05/22/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,20000,5,0001539856,Stock Option (Right to Buy)
+D,05/22/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,400,6055,4,0001539856,Common Stock
+D,05/22/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,5600,6455,3,0001539856,Common Stock
+A,05/22/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,12055,2,0001539856,Common Stock
+A,05/22/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+D,05/21/2018 00:00:00,Wilson Laurence,4,F-InKind,--D,3639,186104,1,0001539846,Common Stock
+A,05/21/2018 00:00:00,Ramsay Alan,4,F-InKind,--D,661,25449,1,0001701399,Common Stock
+D,05/21/2018 00:00:00,Baker Charles,4,F-InKind,--D,3155,119525,1,0001321154,Common Stock
+D,05/21/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,10500,102303,4,0001540652,Stock Option (Right to Buy)
+D,05/21/2018 00:00:00,Nachman Joseph R,4,S-Sale,--D,10500,121861,3,0001540652,Common Stock
+A,05/21/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,10500,132361,2,0001540652,Common Stock
+D,05/21/2018 00:00:00,Nachman Joseph R,4,F-InKind,--D,5994,121861,1,0001540652,Common Stock
+D,05/15/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,355000,6,0001539856,Stock Option (Right to Buy)
+D,05/15/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,24000,5,0001539856,Stock Option (Right to Buy)
+D,05/15/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,850,6055,4,0001539856,Common Stock
+D,05/15/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,5150,6905,3,0001539856,Common Stock
+A,05/15/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,12055,2,0001539856,Common Stock
+A,05/15/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+D,05/08/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,6055,3,0001539856,Common Stock
+A,05/08/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,12055,2,0001539856,Common Stock
+A,05/08/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+D,05/01/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,357000,5,0001539856,Stock Option (Right to Buy)
+D,05/01/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,28000,4,0001539856,Stock Option (Right to Buy)
+D,05/01/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,359000,5,0001539856,Stock Option (Right to Buy)
+D,05/01/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,32000,4,0001539856,Stock Option (Right to Buy)
+D,05/01/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,6055,3,0001539856,Common Stock
+A,05/01/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,12055,2,0001539856,Common Stock
+A,05/01/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+D,04/24/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,361000,5,0001539856,Stock Option (Right to Buy)
+D,04/24/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,36000,4,0001539856,Stock Option (Right to Buy)
+D,04/24/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,6055,3,0001539856,Common Stock
+A,04/24/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,12055,2,0001539856,Common Stock
+A,04/24/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+D,04/20/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,14500,112803,3,0001540652,Stock Option (Right to Buy)
+D,04/20/2018 00:00:00,Nachman Joseph R,4,S-Sale,--D,14500,127855,2,0001540652,Common Stock
+A,04/20/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,14500,142355,1,0001540652,Common Stock
+D,04/17/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,363000,5,0001539856,Stock Option (Right to Buy)
+D,04/17/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,40000,4,0001539856,Stock Option (Right to Buy)
+D,04/17/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,6055,3,0001539856,Common Stock
+A,04/17/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,12055,2,0001539856,Common Stock
+A,04/17/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+D,04/10/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,365000,5,0001539856,Stock Option (Right to Buy)
+D,04/10/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,44000,4,0001539856,Stock Option (Right to Buy)
+D,04/10/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,6055,3,0001539856,Common Stock
+A,04/10/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,12055,2,0001539856,Common Stock
+A,04/10/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+D,04/03/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,367000,5,0001539856,Stock Option (Right to Buy)
+D,04/03/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,48000,4,0001539856,Stock Option (Right to Buy)
+D,04/03/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,6055,3,0001539856,Common Stock
+A,04/03/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,12055,2,0001539856,Common Stock
+A,04/03/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+D,03/27/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,369000,5,0001539856,Stock Option (Right to Buy)
+D,03/27/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,52000,4,0001539856,Stock Option (Right to Buy)
+D,03/27/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,6055,3,0001539856,Common Stock
+A,03/27/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,12055,2,0001539856,Common Stock
+A,03/27/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+D,03/20/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,371000,5,0001539856,Stock Option (Right to Buy)
+D,03/20/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,56000,4,0001539856,Stock Option (Right to Buy)
+D,03/20/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,6055,3,0001539856,Common Stock
+A,03/20/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,12055,2,0001539856,Common Stock
+A,03/20/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+D,03/20/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,14500,127303,3,0001540652,Stock Option (Right to Buy)
+D,03/20/2018 00:00:00,Nachman Joseph R,4,S-Sale,--D,14500,127855,2,0001540652,Common Stock
+A,03/20/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,14500,142355,1,0001540652,Common Stock
+D,03/13/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,373000,5,0001539856,Stock Option (Right to Buy)
+D,03/13/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,60000,4,0001539856,Stock Option (Right to Buy)
+D,03/13/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,6055,3,0001539856,Common Stock
+A,03/13/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,12055,2,0001539856,Common Stock
+A,03/13/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+D,03/06/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,375000,5,0001539856,Stock Option (Right to Buy)
+D,03/06/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,64000,4,0001539856,Stock Option (Right to Buy)
+D,03/06/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,6055,3,0001539856,Common Stock
+A,03/06/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,12055,2,0001539856,Common Stock
+A,03/06/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,10055,1,0001539856,Common Stock
+A,03/01/2018 00:00:00,Levine Jeremy S.,4,A-Award,--D,581,100887,1,0001534341,Common Stock
+A,03/01/2018 00:00:00,Naficy Mariam,4,A-Award,--D,523,523,1,0001597584,Common Stock
+A,03/01/2018 00:00:00,IRVINE DIANE M,4,A-Award,--D,1394,14539,1,0001287611,Common Stock
+A,03/01/2018 00:00:00,Gibbs Robert Lane,4,A-Award,--D,674,2871,1,0001551440,Common Stock
+A,03/01/2018 00:00:00,FENTON PETER H,4,A-Award,--D,697,2970,1,0001219230,Common Stock
+A,03/01/2018 00:00:00,Donaker Geoffrey L,4,A-Award,--D,465,6055,1,0001539856,Common Stock
+A,03/01/2018 00:00:00,ANDERSON FRED D,4,A-Award,--D,790,3366,1,0001211665,Common Stock
+D,02/27/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,377000,6,0001539856,Stock Option (Right to Buy)
+D,02/27/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,68000,5,0001539856,Stock Option (Right to Buy)
+D,02/27/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,200,5590,4,0001539856,Common Stock
+D,02/27/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,5800,5790,3,0001539856,Common Stock
+A,02/27/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,02/27/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,02/20/2018 00:00:00,Wilson Laurence,4,F-InKind,--D,3751,189743,1,0001539846,Common Stock
+A,02/20/2018 00:00:00,Ramsay Alan,4,F-InKind,--D,779,26110,1,0001701399,Common Stock
+D,02/20/2018 00:00:00,Baker Charles,4,F-InKind,--D,3262,122680,1,0001321154,Common Stock
+D,02/20/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,14500,141803,5,0001540652,Stock Option (Right to Buy)
+D,02/20/2018 00:00:00,Nachman Joseph R,4,S-Sale,--D,100,127855,4,0001540652,Common Stock
+D,02/20/2018 00:00:00,Nachman Joseph R,4,S-Sale,--D,14400,127955,3,0001540652,Common Stock
+A,02/20/2018 00:00:00,Nachman Joseph R,4,M-Exempt,--D,14500,142355,2,0001540652,Common Stock
+D,02/20/2018 00:00:00,Nachman Joseph R,4,F-InKind,--D,4182,127855,1,0001540652,Common Stock
+D,02/20/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,379000,5,0001539856,Stock Option (Right to Buy)
+D,02/20/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,72000,4,0001539856,Stock Option (Right to Buy)
+D,02/20/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,02/20/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,02/20/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,02/20/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2466310,1,0001541476,Common Stock
+D,02/15/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,1100,2479310,2,0001541476,Common Stock
+D,02/15/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,11900,2480410,1,0001541476,Common Stock
+D,02/14/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,381000,6,0001539856,Stock Option (Right to Buy)
+D,02/14/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,2000,5590,4,0001539856,Common Stock
+A,02/14/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,7590,3,0001539856,Common Stock
+D,02/13/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,76000,5,0001539856,Stock Option (Right to Buy)
+D,02/13/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,02/13/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,02/07/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2492310,1,0001541476,Common Stock
+D,02/06/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,383000,6,0001539856,Stock Option (Right to Buy)
+D,02/06/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,80000,5,0001539856,Stock Option (Right to Buy)
+D,02/06/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,2600,5590,4,0001539856,Common Stock
+D,02/06/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,3400,8190,3,0001539856,Common Stock
+A,02/06/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,02/06/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,01/30/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,385000,5,0001539856,Stock Option (Right to Buy)
+D,01/30/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,84000,4,0001539856,Stock Option (Right to Buy)
+D,01/30/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,01/30/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,01/30/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,01/30/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2505310,1,0001541476,Common Stock
+D,01/25/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2518310,1,0001541476,Common Stock
+D,01/23/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,387000,5,0001539856,Stock Option (Right to Buy)
+D,01/23/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,88000,4,0001539856,Stock Option (Right to Buy)
+D,01/23/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,01/23/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,01/23/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,01/17/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2531310,1,0001541476,Common Stock
+D,01/16/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,389000,5,0001539856,Stock Option (Right to Buy)
+D,01/16/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,92000,4,0001539856,Stock Option (Right to Buy)
+D,01/16/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,01/16/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,01/16/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+A,01/16/2018 00:00:00,Stoppelman Jeremy,4,A-Award,--D,288000,288000,2,0001541476,Employee Stock Option (Right to Buy)
+A,01/16/2018 00:00:00,Baker Charles,4,A-Award,--D,117850,117850,2,0001321154,Employee Stock Option (Right to Buy)
+A,01/16/2018 00:00:00,Baker Charles,4,A-Award,--D,16934,125942,1,0001321154,Common Stock
+A,01/16/2018 00:00:00,Nachman Joseph R,4,A-Award,--D,117850,117850,2,0001540652,Employee Stock Option (Right to Buy)
+A,01/16/2018 00:00:00,Nachman Joseph R,4,A-Award,--D,16934,132037,1,0001540652,Common Stock
+A,01/16/2018 00:00:00,Wilson Laurence,4,A-Award,--D,45850,45850,2,0001539846,Employee Stock Option (Right to Buy)
+D,01/16/2018 00:00:00,Wilson Laurence,4,A-Award,--D,19756,193494,1,0001539846,Common Stock
+A,01/16/2018 00:00:00,Ramsay Alan,4,A-Award,--D,13100,13100,2,0001701399,Employee Stock Option (Right to Buy)
+A,01/16/2018 00:00:00,Ramsay Alan,4,A-Award,--D,5645,26889,1,0001701399,Common Stock
+D,01/09/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2544310,1,0001541476,Common Stock
+D,01/09/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,391000,5,0001539856,Stock Option (Right to Buy)
+D,01/09/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,96000,4,0001539856,Stock Option (Right to Buy)
+D,01/09/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,01/09/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,01/09/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,01/04/2018 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2557310,1,0001541476,Common Stock
+D,01/02/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,393000,5,0001539856,Stock Option (Right to Buy)
+D,01/02/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,100000,4,0001539856,Stock Option (Right to Buy)
+D,01/02/2018 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,01/02/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,01/02/2018 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,12/27/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2570310,1,0001541476,Common Stock
+D,12/26/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,395000,5,0001539856,Stock Option (Right to Buy)
+D,12/26/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,104000,4,0001539856,Stock Option (Right to Buy)
+D,12/26/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,12/26/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,12/26/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,12/19/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,397000,5,0001539856,Stock Option (Right to Buy)
+D,12/19/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,108000,4,0001539856,Stock Option (Right to Buy)
+D,12/19/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,12/19/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,12/19/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,12/19/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2583310,1,0001541476,Common Stock
+D,12/14/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2596310,1,0001541476,Common Stock
+D,12/12/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,399000,5,0001539856,Stock Option (Right to Buy)
+D,12/12/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,112000,4,0001539856,Stock Option (Right to Buy)
+D,12/12/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,12/12/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,12/12/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,12/06/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2609310,1,0001541476,Common Stock
+D,12/05/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,401000,5,0001539856,Stock Option (Right to Buy)
+D,12/05/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,116000,4,0001539856,Stock Option (Right to Buy)
+D,12/05/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,12/05/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,12/05/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,11/28/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,403000,5,0001539856,Stock Option (Right to Buy)
+D,11/28/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,120000,4,0001539856,Stock Option (Right to Buy)
+D,11/28/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,11/28/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,11/28/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,11/28/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2622310,1,0001541476,Common Stock
+D,11/24/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2635310,1,0001541476,Common Stock
+D,11/21/2017 00:00:00,Wilson Laurence,4,S-Sale,--D,4343,173396,1,0001539846,Common Stock
+D,11/21/2017 00:00:00,Nachman Joseph R,4,S-Sale,--D,5260,114414,1,0001540652,Common Stock
+D,11/21/2017 00:00:00,Ramsay Alan,4,S-Sale,--D,592,20048,1,0001701399,Common Stock
+D,11/21/2017 00:00:00,Baker Charles,4,S-Sale,--D,4233,108708,1,0001321154,Common Stock
+D,11/21/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,405000,5,0001539856,Stock Option (Right to Buy)
+D,11/21/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,124000,4,0001539856,Stock Option (Right to Buy)
+D,11/21/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,11/21/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,11/21/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,11/15/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2648310,1,0001541476,Common Stock
+D,11/14/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,407000,5,0001539856,Stock Option (Right to Buy)
+D,11/14/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,128000,4,0001539856,Stock Option (Right to Buy)
+D,11/14/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,11/14/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,11/14/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,11/07/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2661310,1,0001541476,Common Stock
+D,11/07/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,409000,5,0001539856,Stock Option (Right to Buy)
+D,11/07/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,132000,4,0001539856,Stock Option (Right to Buy)
+D,11/07/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,11/07/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,11/07/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,11/02/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,500,2674310,3,0001541476,Common Stock
+D,11/02/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,9000,2674810,2,0001541476,Common Stock
+D,11/02/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,3500,2683810,1,0001541476,Common Stock
+D,10/31/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,411000,5,0001539856,Stock Option (Right to Buy)
+D,10/31/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,136000,4,0001539856,Stock Option (Right to Buy)
+D,10/31/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,10/31/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,10/31/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,10/30/2017 00:00:00,Wilson Laurence,4,M-Exempt,--D,20000,135000,7,0001539846,Employee Stock Option (Right to Buy)
+D,10/30/2017 00:00:00,Wilson Laurence,4,S-Sale,--D,10000,177739,5,0001539846,Common Stock
+D,10/30/2017 00:00:00,Wilson Laurence,4,S-Sale,--D,10000,187739,4,0001539846,Common Stock
+A,10/30/2017 00:00:00,Wilson Laurence,4,M-Exempt,--D,20000,197739,3,0001539846,Common Stock
+D,10/27/2017 00:00:00,Wilson Laurence,4,M-Exempt,--D,10000,155000,6,0001539846,Employee Stock Option (Right to Buy)
+D,10/27/2017 00:00:00,Wilson Laurence,4,S-Sale,--D,10000,177739,2,0001539846,Common Stock
+A,10/27/2017 00:00:00,Wilson Laurence,4,M-Exempt,--D,10000,187739,1,0001539846,Common Stock
+D,10/25/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2687310,1,0001541476,Common Stock
+D,10/25/2017 00:00:00,Wilson Laurence,4,M-Exempt,--D,7129,165000,6,0001539846,Employee Stock Option (Right to Buy)
+D,10/25/2017 00:00:00,Wilson Laurence,4,S-Sale,--D,7129,177739,4,0001539846,Common Stock
+A,10/25/2017 00:00:00,Wilson Laurence,4,M-Exempt,--D,7129,184868,3,0001539846,Common Stock
+D,10/24/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,413000,5,0001539856,Stock Option (Right to Buy)
+D,10/24/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,140000,4,0001539856,Stock Option (Right to Buy)
+D,10/24/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,10/24/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,10/24/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,10/23/2017 00:00:00,Wilson Laurence,4,M-Exempt,--D,17871,172129,5,0001539846,Employee Stock Option (Right to Buy)
+D,10/23/2017 00:00:00,Wilson Laurence,4,S-Sale,--D,17871,177739,2,0001539846,Common Stock
+A,10/23/2017 00:00:00,Wilson Laurence,4,M-Exempt,--D,17871,195610,1,0001539846,Common Stock
+D,10/17/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2700310,1,0001541476,Common Stock
+D,10/17/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,415000,5,0001539856,Stock Option (Right to Buy)
+D,10/17/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,144000,4,0001539856,Stock Option (Right to Buy)
+D,10/17/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,10/17/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,10/17/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,10/12/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2713310,1,0001541476,Common Stock
+D,10/10/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,417000,5,0001539856,Stock Option (Right to Buy)
+D,10/10/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,148000,4,0001539856,Stock Option (Right to Buy)
+D,10/10/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,10/10/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,10/10/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+A,10/06/2017 00:00:00,Ramsay Alan,5,A-Award,-LD,1196,21244,1,0001701399,Common Stock
+D,10/04/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2726310,1,0001541476,Common Stock
+D,10/03/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,419000,5,0001539856,Stock Option (Right to Buy)
+D,10/03/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,152000,4,0001539856,Stock Option (Right to Buy)
+D,10/03/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,10/03/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,10/03/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,09/26/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2739310,1,0001541476,Common Stock
+D,09/26/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,421000,5,0001539856,Stock Option (Right to Buy)
+D,09/26/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,156000,4,0001539856,Stock Option (Right to Buy)
+D,09/26/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,09/26/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,09/26/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,09/21/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2752310,1,0001541476,Common Stock
+D,09/19/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,423000,5,0001539856,Stock Option (Right to Buy)
+D,09/19/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,160000,4,0001539856,Stock Option (Right to Buy)
+D,09/19/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,6000,5590,3,0001539856,Common Stock
+A,09/19/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,2000,11590,2,0001539856,Common Stock
+A,09/19/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,09/13/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2765310,1,0001541476,Common Stock
+D,09/05/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2778310,1,0001541476,Common Stock
+D,09/01/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,3000,2791310,2,0001541476,Common Stock
+D,08/31/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,10000,2794310,1,0001541476,Common Stock
+D,08/23/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2804310,1,0001541476,Common Stock
+D,08/22/2017 00:00:00,Baker Charles,4,S-Sale,--D,3921,112941,1,0001321154,Common Stock
+D,08/22/2017 00:00:00,Ramsay Alan,4,S-Sale,--D,540,20640,1,0001701399,Common Stock
+D,08/22/2017 00:00:00,Wilson Laurence,4,S-Sale,--D,4208,177739,1,0001539846,Common Stock
+D,08/22/2017 00:00:00,Nachman Joseph R,4,S-Sale,--D,4941,119674,1,0001540652,Common Stock
+D,08/15/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2817310,1,0001541476,Common Stock
+D,08/10/2017 00:00:00,Nachman Joseph R,4,S-Sale,--D,6500,124615,1,0001540652,Common Stock
+D,08/10/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2830310,1,0001541476,Common Stock
+D,08/08/2017 00:00:00,Wilson Laurence,4,M-Exempt,--D,10000,0,3,0001539846,Employee Stock Option (Right to Buy)
+D,08/08/2017 00:00:00,Wilson Laurence,4,S-Sale,--D,10000,181947,2,0001539846,Common Stock
+A,08/08/2017 00:00:00,Wilson Laurence,4,M-Exempt,--D,10000,191947,1,0001539846,Common Stock
+D,08/04/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,13000,2843310,1,0001541476,Common Stock
+D,08/04/2017 00:00:00,Nachman Joseph R,4,S-Sale,--D,6500,131115,1,0001540652,Common Stock
+D,08/04/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,42000,164000,3,0001539856,Stock Option (Right to Buy)
+D,08/04/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,42000,5590,2,0001539856,Common Stock
+A,08/04/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,42000,47590,1,0001539856,Common Stock
+D,07/11/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,630,206000,4,0001539856,Employee Stock Option (Right to Buy)
+D,07/11/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,630,5590,2,0001539856,Common Stock
+A,07/11/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,630,6220,1,0001539856,Common Stock
+A,07/10/2017 00:00:00,FENTON PETER H,4,A-Award,--D,10000,10000,1,0001219230,Stock Option (Right to Buy)
+A,07/10/2017 00:00:00,IRVINE DIANE M,4,A-Award,--D,10000,10000,1,0001287611,Stock Option (Right to Buy)
+A,07/10/2017 00:00:00,Gibbs Robert Lane,4,A-Award,--D,10000,10000,1,0001551440,Stock Option (Right to Buy)
+A,07/10/2017 00:00:00,Naficy Mariam,4,A-Award,--D,10000,10000,1,0001597584,Stock Option (Right to Buy)
+A,07/10/2017 00:00:00,ANDERSON FRED D,4,A-Award,--D,10000,10000,1,0001211665,Stock Option (Right to Buy)
+A,07/10/2017 00:00:00,Levine Jeremy S.,4,A-Award,--D,10000,10000,1,0001534341,Stock Option (Right to Buy)
+A,07/10/2017 00:00:00,Donaker Geoffrey L,4,A-Award,--D,10000,10000,3,0001539856,Stock Option (Right to Buy)
+D,07/05/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,206630,3,0001539856,Employee Stock Option (Right to Buy)
+D,07/05/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,07/05/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,06/27/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,210630,3,0001539856,Employee Stock Option (Right to Buy)
+D,06/27/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,06/27/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,06/20/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,214630,3,0001539856,Employee Stock Option (Right to Buy)
+D,06/20/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,06/20/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,06/13/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,218630,3,0001539856,Employee Stock Option (Right to Buy)
+D,06/13/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,06/13/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,06/06/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,222630,3,0001539856,Employee Stock Option (Right to Buy)
+D,06/06/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,06/06/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,05/30/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,226630,3,0001539856,Employee Stock Option (Right to Buy)
+D,05/30/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,05/30/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,05/23/2017 00:00:00,Nachman Joseph R,4,S-Sale,--D,3789,137615,1,0001540652,Common Stock
+D,05/23/2017 00:00:00,Ramsay Alan,4,S-Sale,--D,528,21180,1,0001701399,Common Stock
+D,05/23/2017 00:00:00,Baker Charles,4,S-Sale,--D,12176,116862,1,0001321154,Common Stock
+D,05/23/2017 00:00:00,Wilson Laurence,4,S-Sale,--D,3128,181947,1,0001539846,Common Stock
+D,05/23/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,230630,3,0001539856,Employee Stock Option (Right to Buy)
+D,05/23/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,05/23/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,05/16/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,234630,3,0001539856,Employee Stock Option (Right to Buy)
+D,05/16/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,05/16/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,05/09/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,238630,3,0001539856,Employee Stock Option (Right to Buy)
+D,05/09/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,05/09/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,05/02/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,242630,3,0001539856,Employee Stock Option (Right to Buy)
+D,05/02/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,05/02/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,04/27/2017 00:00:00,Nachman Joseph R,4,S-Sale,--D,3500,141404,1,0001540652,Common Stock
+D,04/25/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,246630,3,0001539856,Employee Stock Option (Right to Buy)
+D,04/25/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,04/25/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,04/18/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,250630,3,0001539856,Employee Stock Option (Right to Buy)
+D,04/18/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,04/18/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,04/11/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,254630,3,0001539856,Employee Stock Option (Right to Buy)
+D,04/11/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,04/11/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,04/04/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,258630,3,0001539856,Employee Stock Option (Right to Buy)
+D,04/04/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,04/04/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,03/28/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,262630,3,0001539856,Employee Stock Option (Right to Buy)
+D,03/28/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,03/28/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,03/21/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,266630,3,0001539856,Employee Stock Option (Right to Buy)
+D,03/21/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,03/21/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,03/15/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,250000,2856310,1,0001541476,Common Stock
+D,03/14/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,270630,3,0001539856,Employee Stock Option (Right to Buy)
+D,03/14/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,03/14/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,03/10/2017 00:00:00,Nachman Joseph R,4,S-Sale,--D,5000,144904,1,0001540652,Common Stock
+D,03/07/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,274630,3,0001539856,Employee Stock Option (Right to Buy)
+D,03/07/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5590,2,0001539856,Common Stock
+A,03/07/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9590,1,0001539856,Common Stock
+D,03/03/2017 00:00:00,Stoppelman Jeremy,4,S-Sale,--I,250000,3106310,1,0001541476,Common Stock
+A,03/01/2017 00:00:00,ANDERSON FRED D,4/A,A-Award,--D,869,2576,1,0001211665,Common Stock
+A,03/01/2017 00:00:00,IRVINE DIANE M,4/A,A-Award,--D,1533,13145,1,0001287611,Common Stock
+A,03/01/2017 00:00:00,Gibbs Robert Lane,4/A,A-Award,--D,741,2197,1,0001551440,Common Stock
+A,03/01/2017 00:00:00,Nachman Joseph R,4,A-Award,--D,83450,83450,2,0001540652,Employee Stock Option (Right to Buy)
+A,03/01/2017 00:00:00,Nachman Joseph R,4,A-Award,--D,38628,149904,1,0001540652,Common Stock
+A,03/01/2017 00:00:00,Wilson Laurence,4,A-Award,--D,20900,20900,2,0001539846,Employee Stock Option (Right to Buy)
+A,03/01/2017 00:00:00,Wilson Laurence,4,A-Award,--D,28971,185075,1,0001539846,Common Stock
+A,03/01/2017 00:00:00,IRVINE DIANE M,4,A-Award,--D,767,12379,1,0001287611,Common Stock
+A,03/01/2017 00:00:00,Gibbs Robert Lane,4,A-Award,--D,639,2095,1,0001551440,Common Stock
+A,03/01/2017 00:00:00,FENTON PETER H,4,A-Award,--D,767,2273,1,0001219230,Common Stock
+A,03/01/2017 00:00:00,Levine Jeremy S.,4,A-Award,--D,639,100306,1,0001534341,Common Stock
+A,03/01/2017 00:00:00,ANDERSON FRED D,4,A-Award,--D,767,2474,1,0001211665,Common Stock
+A,03/01/2017 00:00:00,Stoppelman Jeremy,4,A-Award,--D,305950,305950,2,0001541476,Employee Stock Option (Right to Buy)
+A,03/01/2017 00:00:00,Stoppelman Jeremy,4,A-Award,--D,347650,347650,1,0001541476,Employee Stock Option (Right to Buy)
+A,03/01/2017 00:00:00,Donaker Geoffrey L,4,A-Award,--D,511,5590,3,0001539856,Common Stock
+D,02/28/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,278630,4,0001539856,Employee Stock Option (Right to Buy)
+D,02/28/2017 00:00:00,Donaker Geoffrey L,4,S-Sale,--D,4000,5079,2,0001539856,Common Stock
+A,02/28/2017 00:00:00,Donaker Geoffrey L,4,M-Exempt,--D,4000,9079,1,0001539856,Common Stock
+D,02/22/2017 00:00:00,Nachman Joseph R,4,S-Sale,--D,2896,111276,1,0001540652,Common Stock
+D,02/22/2017 00:00:00,Wilson Laurence,4,S-Sale,--D,2459,156104,1,0001539846,Common Stock

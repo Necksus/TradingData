@@ -1,0 +1,801 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,05/10/2023 00:00:00,Norris Eric,4,P-Purchase,--D,1260,26596,1,0001624621,Common Stock
+A,05/05/2023 00:00:00,Masters J Kent,4,P-Purchase,--D,5470,51466,1,0001396415,Common Stock
+A,05/05/2023 00:00:00,Coleman Kristin M.,4,P-Purchase,--D,1373,1373,1,0001464051,Common Stock
+D,04/19/2023 00:00:00,Masters J Kent,4,M-Exempt,--D,54475,0,3,0001396415,Restricted Stock Units
+D,04/19/2023 00:00:00,Masters J Kent,4,F-InKind,--D,24351,45996,2,0001396415,Common Stock
+A,04/19/2023 00:00:00,Masters J Kent,4,M-Exempt,--D,54475,70347,1,0001396415,Common Stock
+D,03/03/2023 00:00:00,Tozier Scott,4,S-Sale,--D,5700,69503,2,0001511133,Common Stock
+D,03/01/2023 00:00:00,Tozier Scott,4,S-Sale,--D,417,75203,10,0001511133,Common Stock
+A,02/28/2023 00:00:00,Barichivich John Clarence III,4,A-Award,--D,536,536,10,0001792555,Performance Stock Units
+A,02/28/2023 00:00:00,Barichivich John Clarence III,4,A-Award,--D,536,536,9,0001792555,Performance Stock Units
+D,02/28/2023 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,535,535,8,0001792555,Restricted Stock Units
+D,02/28/2023 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,160,4743,7,0001792555,Common Stock
+A,02/28/2023 00:00:00,Barichivich John Clarence III,4,A-Award,--D,536,4903,6,0001792555,Common Stock
+D,02/28/2023 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,160,4367,5,0001792555,Common Stock
+A,02/28/2023 00:00:00,Barichivich John Clarence III,4,A-Award,--D,536,4527,4,0001792555,Common Stock
+D,02/28/2023 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,159,3991,3,0001792555,Common Stock
+A,02/28/2023 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,535,4150,2,0001792555,Common Stock
+A,02/28/2023 00:00:00,Tozier Scott,4,A-Award,--D,3360,3360,14,0001511133,Performance Stock Units
+A,02/28/2023 00:00:00,Tozier Scott,4,A-Award,--D,3360,3360,13,0001511133,Performance Stock Units
+D,02/28/2023 00:00:00,Tozier Scott,4,M-Exempt,--D,1680,1680,12,0001511133,Restricted Stock Unit
+D,02/28/2023 00:00:00,Tozier Scott,4,M-Exempt,--D,12218,0,11,0001511133,Restricted Stock Unit
+D,02/28/2023 00:00:00,Tozier Scott,4,F-InKind,--D,1502,75620,9,0001511133,Common Stock
+A,02/28/2023 00:00:00,Tozier Scott,4,A-Award,--D,3360,77122,8,0001511133,Common Stock
+D,02/28/2023 00:00:00,Tozier Scott,4,F-InKind,--D,1502,73762,7,0001511133,Common Stock
+A,02/28/2023 00:00:00,Tozier Scott,4,A-Award,--D,3360,75264,6,0001511133,Common Stock
+D,02/28/2023 00:00:00,Tozier Scott,4,F-InKind,--D,751,71904,5,0001511133,Common Stock
+A,02/28/2023 00:00:00,Tozier Scott,4,M-Exempt,--D,1680,72655,4,0001511133,Common Stock
+D,02/28/2023 00:00:00,Tozier Scott,4,F-InKind,--D,5462,70975,3,0001511133,Common Stock
+A,02/28/2023 00:00:00,Tozier Scott,4,M-Exempt,--D,12218,76437,2,0001511133,Common Stock
+A,02/28/2023 00:00:00,NARWOLD KAREN G,4,A-Award,--D,3360,3360,10,0001095670,Performance Stock Units
+A,02/28/2023 00:00:00,NARWOLD KAREN G,4,A-Award,--D,3360,3360,9,0001095670,Performance Stock Units
+D,02/28/2023 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1680,1680,8,0001095670,Restricted Stock Units
+D,02/28/2023 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,1502,15013,7,0001095670,Common Stock
+A,02/28/2023 00:00:00,NARWOLD KAREN G,4,A-Award,--D,3360,16515,6,0001095670,Common Stock
+D,02/28/2023 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,1502,13155,5,0001095670,Common Stock
+A,02/28/2023 00:00:00,NARWOLD KAREN G,4,A-Award,--D,3360,14657,4,0001095670,Common Stock
+D,02/28/2023 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,751,11297,3,0001095670,Common Stock
+A,02/28/2023 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1680,12048,2,0001095670,Common Stock
+A,02/28/2023 00:00:00,Johnson Netha N.,4,A-Award,--D,3360,3360,12,0001594784,Performance Stock Units
+A,02/28/2023 00:00:00,Johnson Netha N.,4,A-Award,--D,3360,3360,11,0001594784,Performance Stock Units
+D,02/28/2023 00:00:00,Johnson Netha N.,4,M-Exempt,--D,1680,1680,10,0001594784,Restricted Stock Units
+D,02/28/2023 00:00:00,Johnson Netha N.,4,M-Exempt,--D,9164,0,9,0001594784,Restricted Stock Unit
+D,02/28/2023 00:00:00,Johnson Netha N.,4,F-InKind,--D,1502,23614,8,0001594784,Common Stock
+A,02/28/2023 00:00:00,Johnson Netha N.,4,A-Award,--D,3360,25116,7,0001594784,Common Stock
+D,02/28/2023 00:00:00,Johnson Netha N.,4,F-InKind,--D,1502,21756,6,0001594784,Common Stock
+A,02/28/2023 00:00:00,Johnson Netha N.,4,A-Award,--D,3360,23258,5,0001594784,Common Stock
+D,02/28/2023 00:00:00,Johnson Netha N.,4,F-InKind,--D,751,19898,4,0001594784,Common Stock
+A,02/28/2023 00:00:00,Johnson Netha N.,4,M-Exempt,--D,1680,20649,3,0001594784,Common Stock
+D,02/28/2023 00:00:00,Johnson Netha N.,4,F-InKind,--D,4097,18969,2,0001594784,Common Stock
+A,02/28/2023 00:00:00,Johnson Netha N.,4,M-Exempt,--D,9164,23066,1,0001594784,Common Stock
+A,02/28/2023 00:00:00,Norris Eric,4,A-Award,--D,3360,3360,12,0001624621,Performance Stock Units
+A,02/28/2023 00:00:00,Norris Eric,4,A-Award,--D,3360,3360,11,0001624621,Performance Stock Units
+D,02/28/2023 00:00:00,Norris Eric,4,M-Exempt,--D,1680,1680,10,0001624621,Restricted Stock Units
+D,02/28/2023 00:00:00,Norris Eric,4,M-Exempt,--D,3055,0,9,0001624621,Restricted Stock Units
+D,02/28/2023 00:00:00,Norris Eric,4,F-InKind,--D,1502,25336,8,0001624621,Common Stock
+A,02/28/2023 00:00:00,Norris Eric,4,A-Award,--D,3360,26838,7,0001624621,Common Stock
+D,02/28/2023 00:00:00,Norris Eric,4,F-InKind,--D,1502,23478,6,0001624621,Common Stock
+A,02/28/2023 00:00:00,Norris Eric,4,A-Award,--D,3360,24980,5,0001624621,Common Stock
+D,02/28/2023 00:00:00,Norris Eric,4,F-InKind,--D,751,21620,4,0001624621,Common Stock
+A,02/28/2023 00:00:00,Norris Eric,4,M-Exempt,--D,1680,22371,3,0001624621,Common Stock
+D,02/28/2023 00:00:00,Norris Eric,4,F-InKind,--D,1366,20691,2,0001624621,Common Stock
+A,02/28/2023 00:00:00,Norris Eric,4,M-Exempt,--D,3055,22057,1,0001624621,Common Stock
+A,02/28/2023 00:00:00,Crawford Raphael Goszcz,4,A-Award,--D,3360,3360,12,0001776484,Performance Stock Units
+A,02/28/2023 00:00:00,Crawford Raphael Goszcz,4,A-Award,--D,3360,3360,11,0001776484,Performance Stock Units
+D,02/28/2023 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,1680,1680,10,0001776484,Restricted Stock Units
+D,02/28/2023 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,9164,0,9,0001776484,Restricted Stock Units
+D,02/28/2023 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,1323,22117,8,0001776484,Common Stock
+A,02/28/2023 00:00:00,Crawford Raphael Goszcz,4,A-Award,--D,3360,23440,7,0001776484,Common Stock
+D,02/28/2023 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,1323,20080,6,0001776484,Common Stock
+A,02/28/2023 00:00:00,Crawford Raphael Goszcz,4,A-Award,--D,3360,21403,5,0001776484,Common Stock
+D,02/28/2023 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,662,18043,4,0001776484,Common Stock
+A,02/28/2023 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,1680,18705,3,0001776484,Common Stock
+D,02/28/2023 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,3607,17025,2,0001776484,Common Stock
+A,02/28/2023 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,9164,20632,1,0001776484,Common Stock
+D,02/26/2023 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,413,0,5,0001792555,Restricted Stock Units
+D,02/26/2023 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,123,3615,3,0001792555,Common Stock
+A,02/26/2023 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,413,3738,2,0001792555,Common Stock
+D,02/26/2023 00:00:00,Tozier Scott,4,M-Exempt,--D,1511,0,4,0001511133,Restricted Stock Units
+D,02/26/2023 00:00:00,Tozier Scott,4,F-InKind,--D,676,64219,2,0001511133,Common Stock
+A,02/26/2023 00:00:00,Tozier Scott,4,M-Exempt,--D,1511,64895,1,0001511133,Common Stock
+D,02/26/2023 00:00:00,Norris Eric,4,M-Exempt,--D,1168,0,5,0001624621,Restricted Stock Units
+D,02/26/2023 00:00:00,Norris Eric,4,F-InKind,--D,429,19002,2,0001624621,Common Stock
+A,02/26/2023 00:00:00,Norris Eric,4,M-Exempt,--D,1168,19431,1,0001624621,Common Stock
+D,02/26/2023 00:00:00,Johnson Netha N.,4,M-Exempt,--D,1099,0,5,0001594784,Restricted Stock Units
+D,02/26/2023 00:00:00,Johnson Netha N.,4,F-InKind,--D,368,13902,2,0001594784,Common Stock
+A,02/26/2023 00:00:00,Johnson Netha N.,4,M-Exempt,--D,1099,14270,1,0001594784,Common Stock
+D,02/26/2023 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,1099,0,3,0001776484,Restricted Stock Units
+D,02/26/2023 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,309,11468,2,0001776484,Common Stock
+A,02/26/2023 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,1099,11777,1,0001776484,Common Stock
+D,02/26/2023 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1443,0,4,0001095670,Restricted Stock Units
+D,02/26/2023 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,646,10368,3,0001095670,Common Stock
+A,02/26/2023 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1443,11014,2,0001095670,Common Stock
+A,02/24/2023 00:00:00,Barichivich John Clarence III,4,A-Award,--D,802,802,4,0001792555,Restricted Stock Units
+A,02/24/2023 00:00:00,Anderson Melissa H.,4,A-Award,--D,3168,3168,3,0001631925,Stock Options
+A,02/24/2023 00:00:00,Anderson Melissa H.,4,A-Award,--D,1253,1253,2,0001631925,Restricted Stock Units
+A,02/24/2023 00:00:00,Coleman Kristin M.,4,A-Award,--D,2788,2788,2,0001464051,Stock Options
+A,02/24/2023 00:00:00,Coleman Kristin M.,4,A-Award,--D,1103,1103,1,0001464051,Restricted Stock Units
+A,02/24/2023 00:00:00,Tozier Scott,4,A-Award,--D,4562,4562,6,0001511133,Stock Options
+A,02/24/2023 00:00:00,Tozier Scott,4,A-Award,--D,1804,1804,5,0001511133,Restricted Stock Units
+A,02/24/2023 00:00:00,Norris Eric,4,A-Award,--D,5068,5068,4,0001624621,Stock Options
+A,02/24/2023 00:00:00,Norris Eric,4,A-Award,--D,2004,2004,3,0001624621,Restricted Stock Units
+A,02/24/2023 00:00:00,Johnson Netha N.,4,A-Award,--D,5068,5068,4,0001594784,Stock Options
+A,02/24/2023 00:00:00,Johnson Netha N.,4,A-Award,--D,2004,2004,3,0001594784,Restricted Stock Units
+A,02/24/2023 00:00:00,Masters J Kent,4,A-Award,--D,25340,25340,2,0001396415,Stock Options
+A,02/24/2023 00:00:00,Masters J Kent,4,A-Award,--D,10020,10020,1,0001396415,Restricted Stock Units
+D,01/06/2023 00:00:00,Tozier Scott,4,S-Sale,--D,1719,63384,2,0001511133,Common Stock
+D,01/01/2023 00:00:00,Crawford Raphael Goszcz,4/A,M-Exempt,--D,1465,0,6,0001776484,Performance Stock Units
+D,01/01/2023 00:00:00,Crawford Raphael Goszcz,4/A,M-Exempt,--D,2198,0,5,0001776484,Performance Stock Units
+D,01/01/2023 00:00:00,Crawford Raphael Goszcz,4/A,F-InKind,--D,395,10678,4,0001776484,Common Stock
+A,01/01/2023 00:00:00,Crawford Raphael Goszcz,4/A,M-Exempt,--D,1465,11073,3,0001776484,Common Stock
+D,01/01/2023 00:00:00,Crawford Raphael Goszcz,4/A,F-InKind,--D,536,9608,2,0001776484,Common Stock
+A,01/01/2023 00:00:00,Crawford Raphael Goszcz,4/A,M-Exempt,--D,2198,10144,1,0001776484,Common Stock
+D,01/01/2023 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,1465,0,6,0001776484,Performance Stock Units
+D,01/01/2023 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,2198,0,5,0001776484,Performance Stock Units
+D,01/01/2023 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,395,21428,4,0001776484,Common Stock
+A,01/01/2023 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,1465,21823,3,0001776484,Common Stock
+D,01/01/2023 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,536,20358,2,0001776484,Common Stock
+A,01/01/2023 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,2198,20894,1,0001776484,Common Stock
+D,01/01/2023 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,276,0,7,0001792555,Performance Stock Units
+D,01/01/2023 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,414,0,6,0001792555,Performance Stock Units
+D,01/01/2023 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,97,3325,5,0001792555,Common Stock
+A,01/01/2023 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,276,3422,4,0001792555,Common Stock
+D,01/01/2023 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,145,3146,3,0001792555,Common Stock
+A,01/01/2023 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,414,3291,2,0001792555,Common Stock
+D,01/01/2023 00:00:00,Johnson Netha N.,4,M-Exempt,--D,2198,0,6,0001594784,Performance Stock Units
+D,01/01/2023 00:00:00,Johnson Netha N.,4,M-Exempt,--D,1465,0,5,0001594784,Performance Stock Units
+D,01/01/2023 00:00:00,Johnson Netha N.,4,F-InKind,--D,653,13171,4,0001594784,Common Stock
+A,01/01/2023 00:00:00,Johnson Netha N.,4,M-Exempt,--D,2198,13824,3,0001594784,Common Stock
+D,01/01/2023 00:00:00,Johnson Netha N.,4,F-InKind,--D,473,11626,2,0001594784,Common Stock
+A,01/01/2023 00:00:00,Johnson Netha N.,4,M-Exempt,--D,1465,12099,1,0001594784,Common Stock
+D,01/01/2023 00:00:00,Norris Eric,4,M-Exempt,--D,1557,0,6,0001624621,Performance Stock Units
+D,01/01/2023 00:00:00,Norris Eric,4,M-Exempt,--D,2336,0,5,0001624621,Performance Stock Units
+D,01/01/2023 00:00:00,Norris Eric,4,F-InKind,--D,500,18263,4,0001624621,Common Stock
+A,01/01/2023 00:00:00,Norris Eric,4,M-Exempt,--D,1557,18763,3,0001624621,Common Stock
+D,01/01/2023 00:00:00,Norris Eric,4,F-InKind,--D,694,17206,2,0001624621,Common Stock
+A,01/01/2023 00:00:00,Norris Eric,4,M-Exempt,--D,2336,17900,1,0001624621,Common Stock
+D,01/01/2023 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,2886,0,7,0001095670,Performance Stock Units
+D,01/01/2023 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1924,0,6,0001095670,Performance Stock Units
+D,01/01/2023 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,887,9571,5,0001095670,Common Stock
+A,01/01/2023 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,2886,10458,4,0001095670,Common Stock
+D,01/01/2023 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,609,7572,3,0001095670,Common Stock
+A,01/01/2023 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1924,8181,2,0001095670,Common Stock
+D,01/01/2023 00:00:00,Tozier Scott,4,M-Exempt,--D,2015,0,7,0001511133,Performance Stock Units
+D,01/01/2023 00:00:00,Tozier Scott,4,M-Exempt,--D,3022,0,6,0001511133,Performance Stock Units
+D,01/01/2023 00:00:00,Tozier Scott,4,F-InKind,--D,636,65103,5,0001511133,Common Stock
+A,01/01/2023 00:00:00,Tozier Scott,4,M-Exempt,--D,2015,65739,4,0001511133,Common Stock
+D,01/01/2023 00:00:00,Tozier Scott,4,F-InKind,--D,962,63724,3,0001511133,Common Stock
+A,01/01/2023 00:00:00,Tozier Scott,4,M-Exempt,--D,3022,64686,2,0001511133,Common Stock
+D,12/01/2022 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,2250,6257,2,0001095670,Common Stock
+A,11/28/2022 00:00:00,Coleman Kristin M.,4,A-Award,--D,9395,9395,1,0001464051,Restricted Stock Units
+D,11/11/2022 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,6135,0,4,0001095670,Stock Option
+D,11/11/2022 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,9072,8507,3,0001095670,Common Stock
+A,11/11/2022 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,6135,17579,2,0001095670,Common Stock
+D,11/08/2022 00:00:00,Norris Eric,4,S-Sale,--D,2390,15564,1,0001624621,Common Stock
+D,11/01/2022 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,2250,11444,2,0001095670,Common Stock
+A,10/05/2022 00:00:00,BRLAS LAURIE,4,G-Gift,-EI,6900,6900,2,0001235612,Common Stock
+D,10/05/2022 00:00:00,BRLAS LAURIE,4,G-Gift,-ED,6900,731,1,0001235612,Common Stock
+D,10/03/2022 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,2250,13694,2,0001095670,Common Stock
+D,09/06/2022 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,2250,15944,2,0001095670,Common Stock
+D,08/31/2022 00:00:00,Crawford Raphael Goszcz,4/A,M-Exempt,--D,7218,0,6,0001776484,Stock Option
+D,08/31/2022 00:00:00,Crawford Raphael Goszcz,4/A,S-Sale,--D,7591,7946,5,0001776484,Common Stock
+D,08/31/2022 00:00:00,Crawford Raphael Goszcz,4/A,S-Sale,--D,2839,15537,4,0001776484,Common Stock
+D,08/31/2022 00:00:00,Crawford Raphael Goszcz,4/A,S-Sale,--D,320,18376,3,0001776484,Common Stock
+D,08/31/2022 00:00:00,Crawford Raphael Goszcz,4/A,S-Sale,--D,7218,18696,2,0001776484,Common Stock
+A,08/31/2022 00:00:00,Crawford Raphael Goszcz,4/A,M-Exempt,--D,7218,25914,1,0001776484,Common Stock
+D,08/31/2022 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,7218,0,6,0001776484,Stock Option
+D,08/31/2022 00:00:00,Crawford Raphael Goszcz,4,S-Sale,--D,7591,7946,5,0001776484,Common Stock
+D,08/31/2022 00:00:00,Crawford Raphael Goszcz,4,S-Sale,--D,2839,15537,4,0001776484,Common Stock
+D,08/31/2022 00:00:00,Crawford Raphael Goszcz,4,S-Sale,--D,320,18376,3,0001776484,Common Stock
+D,08/31/2022 00:00:00,Crawford Raphael Goszcz,4,S-Sale,--D,7218,18696,2,0001776484,Common Stock
+A,08/31/2022 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,7218,25914,1,0001776484,Common Stock
+A,07/01/2022 00:00:00,Wolff Alejandro Daniel,4,A-Award,--D,731,9912,1,0001585657,Common Stock
+A,07/01/2022 00:00:00,Van Deursen Holly,4,A-Award,--D,731,3264,1,0001414921,Phantom Stock
+A,07/01/2022 00:00:00,STEINER GERALD A,4,A-Award,--D,731,9307,1,0001143210,Phantom Stock
+A,07/01/2022 00:00:00,Seavers Dean,4,A-Award,--D,731,6749,1,0001403296,Common Stock
+A,07/01/2022 00:00:00,OConnell Diarmuid B.,4,A-Award,--D,731,6681,1,0001730941,Common Stock
+A,07/01/2022 00:00:00,OBRIEN JAMES J /KY,4,A-Award,--D,731,2813,1,0001023582,Common Stock
+A,07/01/2022 00:00:00,MINOR GLENDA J,4,A-Award,--D,731,4106,1,0001254782,Common Stock
+A,07/01/2022 00:00:00,Cramer Ralf Hans,4,A-Award,--D,731,981,1,0001913598,Common Stock
+A,07/01/2022 00:00:00,BRLAS LAURIE,4,A-Award,--D,731,7631,1,0001235612,Common Stock
+D,02/26/2022 00:00:00,Tozier Scott,4,M-Exempt,--D,1511,1511,10,0001511133,Restricted Stock Units
+D,02/26/2022 00:00:00,Tozier Scott,4,F-InKind,--D,676,61664,7,0001511133,Common Stock
+A,02/26/2022 00:00:00,Tozier Scott,4,M-Exempt,--D,1511,62340,6,0001511133,Common Stock
+D,02/26/2022 00:00:00,Norris Eric,4,M-Exempt,--D,1168,1168,9,0001624621,Restricted Stock Units
+D,02/26/2022 00:00:00,Norris Eric,4,F-InKind,--D,523,17954,6,0001624621,Common Stock
+A,02/26/2022 00:00:00,Norris Eric,4,M-Exempt,--D,1168,18477,5,0001624621,Common Stock
+D,02/26/2022 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1443,1443,10,0001095670,Restricted Stock Units
+D,02/26/2022 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,646,18194,7,0001095670,Common Stock
+A,02/26/2022 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1443,18840,6,0001095670,Common Stock
+D,02/26/2022 00:00:00,Johnson Netha N.,4,M-Exempt,--D,1099,1099,9,0001594784,Restricted Stock Units
+D,02/26/2022 00:00:00,Johnson Netha N.,4,F-InKind,--D,327,10634,6,0001594784,Common Stock
+A,02/26/2022 00:00:00,Johnson Netha N.,4,M-Exempt,--D,1099,10961,5,0001594784,Common Stock
+D,02/26/2022 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,1099,1099,9,0001776484,Restricted Stock Units
+D,02/26/2022 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,433,18696,6,0001776484,Common Stock
+A,02/26/2022 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,1099,19129,5,0001776484,Common Stock
+D,02/26/2022 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,413,413,10,0001792555,Restricted Stock Units
+D,02/26/2022 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,123,2877,7,0001792555,Common Stock
+A,02/26/2022 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,413,3000,6,0001792555,Common Stock
+A,02/25/2022 00:00:00,Tozier Scott,4,A-Award,--D,4366,4366,2,0001511133,Stock Options
+A,02/25/2022 00:00:00,Tozier Scott,4,A-Award,--D,1433,1433,1,0001511133,Restricted Stock Units
+A,02/25/2022 00:00:00,Norris Eric,4,A-Award,--D,5358,5358,2,0001624621,Stock Options
+A,02/25/2022 00:00:00,Norris Eric,4,A-Award,--D,1759,1759,1,0001624621,Restricted Stock Units
+A,02/25/2022 00:00:00,NARWOLD KAREN G,4,A-Award,--D,4366,4366,2,0001095670,Stock Options
+A,02/25/2022 00:00:00,NARWOLD KAREN G,4,A-Award,--D,1433,1433,1,0001095670,Restricted Stock Units
+A,02/25/2022 00:00:00,Masters J Kent,4,A-Award,--D,25794,25794,2,0001396415,Stock Options
+A,02/25/2022 00:00:00,Masters J Kent,4,A-Award,--D,8466,8466,1,0001396415,Restricted Stock Units
+A,02/25/2022 00:00:00,Johnson Netha N.,4,A-Award,--D,5358,5358,2,0001594784,Stock Options
+A,02/25/2022 00:00:00,Johnson Netha N.,4,A-Award,--D,1759,1759,1,0001594784,Restricted Stock Units
+A,02/25/2022 00:00:00,Crawford Raphael Goszcz,4,A-Award,--D,4366,4366,2,0001776484,Stock Options
+A,02/25/2022 00:00:00,Crawford Raphael Goszcz,4,A-Award,--D,1433,1433,1,0001776484,Restricted Stock Units
+A,02/25/2022 00:00:00,Barichivich John Clarence III,4,A-Award,--D,521,521,1,0001792555,Restricted Stock Units
+A,02/25/2022 00:00:00,Anderson Melissa H.,4,A-Award,--D,4366,4366,2,0001631925,Stock Options
+A,02/25/2022 00:00:00,Anderson Melissa H.,4,A-Award,--D,1433,1433,1,0001631925,Restricted Stock Units
+D,02/24/2022 00:00:00,Tozier Scott,4,M-Exempt,--D,2015,2015,9,0001511133,Performance Stock Units
+D,02/24/2022 00:00:00,Tozier Scott,4,M-Exempt,--D,3022,3022,8,0001511133,Performance Stock Units
+D,02/24/2022 00:00:00,Tozier Scott,4,F-InKind,--D,901,60829,5,0001511133,Common Stock
+A,02/24/2022 00:00:00,Tozier Scott,4,M-Exempt,--D,2015,61730,4,0001511133,Common Stock
+D,02/24/2022 00:00:00,Tozier Scott,4,F-InKind,--D,1351,59715,3,0001511133,Common Stock
+A,02/24/2022 00:00:00,Tozier Scott,4,M-Exempt,--D,3022,61066,2,0001511133,Common Stock
+D,02/24/2022 00:00:00,Norris Eric,4,M-Exempt,--D,1557,1557,8,0001624621,Performance Stock Units
+D,02/24/2022 00:00:00,Norris Eric,4,M-Exempt,--D,2336,2336,7,0001624621,Performance Stock Units
+D,02/24/2022 00:00:00,Norris Eric,4,F-InKind,--D,521,17309,4,0001624621,Common Stock
+A,02/24/2022 00:00:00,Norris Eric,4,M-Exempt,--D,1557,17830,3,0001624621,Common Stock
+D,02/24/2022 00:00:00,Norris Eric,4,F-InKind,--D,1045,16273,2,0001624621,Common Stock
+A,02/24/2022 00:00:00,Norris Eric,4,M-Exempt,--D,2336,17318,1,0001624621,Common Stock
+D,02/24/2022 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1924,1924,9,0001095670,Performance Stock Units
+D,02/24/2022 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,2886,2886,8,0001095670,Performance Stock Units
+D,02/24/2022 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,861,17397,5,0001095670,Common Stock
+A,02/24/2022 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1924,18258,4,0001095670,Common Stock
+D,02/24/2022 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,1291,16334,3,0001095670,Common Stock
+A,02/24/2022 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,2886,17625,2,0001095670,Common Stock
+D,02/24/2022 00:00:00,Johnson Netha N.,4,M-Exempt,--D,1465,1465,8,0001594784,Performance Stock Units
+D,02/24/2022 00:00:00,Johnson Netha N.,4,M-Exempt,--D,2198,2198,7,0001594784,Performance Stock Units
+D,02/24/2022 00:00:00,Johnson Netha N.,4,F-InKind,--D,451,9862,4,0001594784,Common Stock
+A,02/24/2022 00:00:00,Johnson Netha N.,4,M-Exempt,--D,1465,10313,3,0001594784,Common Stock
+D,02/24/2022 00:00:00,Johnson Netha N.,4,F-InKind,--D,653,8848,2,0001594784,Common Stock
+A,02/24/2022 00:00:00,Johnson Netha N.,4,M-Exempt,--D,2198,9501,1,0001594784,Common Stock
+D,02/24/2022 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,1465,1465,8,0001776484,Performance Stock Units
+D,02/24/2022 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,2198,2198,7,0001776484,Performance Stock Units
+D,02/24/2022 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,541,18030,4,0001776484,Common Stock
+A,02/24/2022 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,1465,18571,3,0001776484,Common Stock
+D,02/24/2022 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,865,17106,2,0001776484,Common Stock
+A,02/24/2022 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,2198,17971,1,0001776484,Common Stock
+D,02/24/2022 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,276,276,9,0001792555,Performance Stock Units
+D,02/24/2022 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,414,414,8,0001792555,Performance Stock Units
+D,02/24/2022 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,82,2587,5,0001792555,Common Stock
+A,02/24/2022 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,276,2669,4,0001792555,Common Stock
+D,02/24/2022 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,123,2393,3,0001792555,Common Stock
+A,02/24/2022 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,414,2516,2,0001792555,Common Stock
+D,02/23/2022 00:00:00,Tozier Scott,4,M-Exempt,--D,1106,0,4,0001511133,Restricted Stock Unit
+D,02/23/2022 00:00:00,Tozier Scott,4,F-InKind,--D,495,58044,3,0001511133,Common Stock
+A,02/23/2022 00:00:00,Tozier Scott,4,M-Exempt,--D,1106,58539,2,0001511133,Common Stock
+D,02/23/2022 00:00:00,Norris Eric,4,M-Exempt,--D,632,0,3,0001624621,Restricted Stock Units
+D,02/23/2022 00:00:00,Norris Eric,4,F-InKind,--D,188,14982,2,0001624621,Common Stock
+A,02/23/2022 00:00:00,Norris Eric,4,M-Exempt,--D,632,15170,1,0001624621,Common Stock
+D,02/23/2022 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1053,0,4,0001095670,Restricted Stock Unit
+D,02/23/2022 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,471,14739,3,0001095670,Common Stock
+A,02/23/2022 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1053,15210,2,0001095670,Common Stock
+D,02/23/2022 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,790,0,3,0001776484,Restricted Stock Units
+D,02/23/2022 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,193,15773,2,0001776484,Common Stock
+A,02/23/2022 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,790,15966,1,0001776484,Common Stock
+D,02/23/2022 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,264,0,4,0001792555,Restricted Stock Unit
+D,02/23/2022 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,77,2102,3,0001792555,Common Stock
+A,02/23/2022 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,264,2179,2,0001792555,Common Stock
+A,02/21/2022 00:00:00,Cramer Ralf Hans,4,A-Award,--D,250,250,1,0001913598,Common Stock
+A,02/18/2022 00:00:00,Masters J Kent,4,P-Purchase,--D,5241,15872,1,0001396415,Common Stock
+A,02/18/2022 00:00:00,Johnson Netha N.,4,P-Purchase,--D,806,7303,2,0001594784,Common Stock
+A,02/18/2022 00:00:00,Johnson Netha N.,4,P-Purchase,--D,254,6497,1,0001594784,Common Stock
+D,01/05/2022 00:00:00,Tozier Scott,4,S-Sale,--D,1527,57433,2,0001511133,Common Stock
+D,01/05/2022 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,2308,14157,2,0001095670,Common Stock
+D,01/01/2022 00:00:00,Tozier Scott,4,M-Exempt,--D,4422,0,4,0001511133,Performance Stock Units
+D,01/01/2022 00:00:00,Tozier Scott,4,F-InKind,--D,1367,58960,3,0001511133,Common Stock
+A,01/01/2022 00:00:00,Tozier Scott,4,M-Exempt,--D,4422,60327,2,0001511133,Common Stock
+D,01/01/2022 00:00:00,Norris Eric,4,M-Exempt,--D,2528,0,3,0001624621,Performance Stock Units
+D,01/01/2022 00:00:00,Norris Eric,4,F-InKind,--D,783,14538,2,0001624621,Common Stock
+A,01/01/2022 00:00:00,Norris Eric,4,M-Exempt,--D,2528,15321,1,0001624621,Common Stock
+D,01/01/2022 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,4212,0,7,0001095670,Performance Stock Units
+D,01/01/2022 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,1283,16465,5,0001095670,Common Stock
+A,01/01/2022 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,4212,17748,4,0001095670,Common Stock
+D,01/01/2022 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,3158,0,3,0001776484,Performance Stock Units
+D,01/01/2022 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,801,15176,2,0001776484,Common Stock
+A,01/01/2022 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,3158,15977,1,0001776484,Common Stock
+D,01/01/2022 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,528,0,4,0001792555,Performance Stock Units
+D,01/01/2022 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,185,1915,3,0001792555,Common Stock
+A,01/01/2022 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,528,2100,2,0001792555,Common Stock
+D,12/31/2021 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,3055,0,6,0001095670,Restricted Stock Units
+D,12/31/2021 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,1366,13536,3,0001095670,Common Stock
+A,12/31/2021 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,3055,14902,2,0001095670,Common Stock
+D,12/08/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,1337,11847,2,0001095670,Common Stock
+D,11/12/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,378,13184,3,0001095670,Common Stock
+D,11/12/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,3297,13562,2,0001095670,Common Stock
+D,11/12/2021 00:00:00,Barichivich John Clarence III,4,S-Sale,--D,540,1572,2,0001792555,Common Stock
+D,11/08/2021 00:00:00,Tozier Scott,4,M-Exempt,--D,22320,0,11,0001511133,Stock Option
+D,11/08/2021 00:00:00,Tozier Scott,4,M-Exempt,--D,14010,0,10,0001511133,Stock Option
+D,11/08/2021 00:00:00,Tozier Scott,4,S-Sale,--D,1800,55905,9,0001511133,Common Stock
+D,11/08/2021 00:00:00,Tozier Scott,4,S-Sale,--D,18960,57705,8,0001511133,Common Stock
+D,11/08/2021 00:00:00,Tozier Scott,4,S-Sale,--D,5381,76665,7,0001511133,Common Stock
+D,11/08/2021 00:00:00,Tozier Scott,4,S-Sale,--D,3090,82046,6,0001511133,Common Stock
+D,11/08/2021 00:00:00,Tozier Scott,4,S-Sale,--D,4001,85136,5,0001511133,Common Stock
+D,11/08/2021 00:00:00,Tozier Scott,4,S-Sale,--D,3098,89137,4,0001511133,Common Stock
+A,11/08/2021 00:00:00,Tozier Scott,4,M-Exempt,--D,22320,92235,3,0001511133,Common Stock
+A,11/08/2021 00:00:00,Tozier Scott,4,M-Exempt,--D,14010,69915,2,0001511133,Common Stock
+D,11/08/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,1337,16859,2,0001095670,Common Stock
+D,10/08/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,1337,18196,2,0001095670,Common Stock
+D,09/08/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,1337,19533,2,0001095670,Common Stock
+D,08/13/2021 00:00:00,Norris Eric,4,M-Exempt,--D,4017,0,3,0001624621,Stock Option
+D,08/13/2021 00:00:00,Norris Eric,4,S-Sale,--D,4017,12793,2,0001624621,Common Stock
+A,08/13/2021 00:00:00,Norris Eric,4,M-Exempt,--D,4017,16810,1,0001624621,Common Stock
+D,08/13/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,3891,20870,4,0001095670,Common Stock
+D,08/13/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,2315,24761,3,0001095670,Common Stock
+D,08/13/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,2605,27076,2,0001095670,Common Stock
+D,08/10/2021 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,5021,0,5,0001776484,Stock Option
+D,08/10/2021 00:00:00,Crawford Raphael Goszcz,4,S-Sale,--D,4500,12819,4,0001776484,Common Stock
+D,08/10/2021 00:00:00,Crawford Raphael Goszcz,4,S-Sale,--D,1801,17319,3,0001776484,Common Stock
+D,08/10/2021 00:00:00,Crawford Raphael Goszcz,4,S-Sale,--D,3220,19120,2,0001776484,Common Stock
+A,08/10/2021 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,5021,22340,1,0001776484,Common Stock
+D,08/09/2021 00:00:00,Johnson Netha N.,4,M-Exempt,--D,3308,0,3,0001594784,Restricted Stock Units
+D,08/09/2021 00:00:00,Johnson Netha N.,4,F-InKind,--D,1220,6243,2,0001594784,Common Stock
+A,08/09/2021 00:00:00,Johnson Netha N.,4,M-Exempt,--D,3308,7463,1,0001594784,Common Stock
+D,08/09/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,1338,29681,5,0001095670,Common Stock
+D,08/06/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,473,31019,4,0001095670,Common Stock
+D,08/06/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,4697,31492,3,0001095670,Common Stock
+D,08/06/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,4830,36189,2,0001095670,Common Stock
+D,07/08/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,1338,41019,2,0001095670,Common Stock
+A,07/01/2021 00:00:00,Wolff Alejandro Daniel,4,A-Award,--D,775,9031,1,0001585657,Common Stock
+A,07/01/2021 00:00:00,Van Deursen Holly,4,A-Award,--D,775,2520,1,0001414921,Phantom Stock
+A,07/01/2021 00:00:00,STEINER GERALD A,4,A-Award,--D,775,6500,1,0001143210,Common Stock
+A,07/01/2021 00:00:00,Seavers Dean,4,A-Award,--D,775,5950,1,0001403296,Common Stock
+A,07/01/2021 00:00:00,OConnell Diarmuid B.,4,A-Award,--D,775,5950,1,0001730941,Common Stock
+A,07/01/2021 00:00:00,OBRIEN JAMES J /KY,4,A-Award,--D,775,15003,1,0001023582,Phantom Stock
+A,07/01/2021 00:00:00,MINOR GLENDA J,4,A-Award,--D,775,775,1,0001254782,Phantom Stock
+A,07/01/2021 00:00:00,BRLAS LAURIE,4,A-Award,--D,775,6900,1,0001235612,Common Stock
+D,06/08/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,1338,42357,2,0001095670,Common Stock
+D,06/03/2021 00:00:00,Barichivich John Clarence III,4,S-Sale,--D,887,2112,3,0001792555,Common Stock
+D,06/03/2021 00:00:00,Barichivich John Clarence III,4,S-Sale,--D,453,2999,2,0001792555,Common Stock
+D,05/27/2021 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,6135,6135,4,0001095670,Stock Option
+D,05/27/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,6135,43695,3,0001095670,Common Stock
+A,05/27/2021 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,6135,49830,2,0001095670,Common Stock
+D,05/25/2021 00:00:00,Norris Eric,4,S-Sale,--D,3090,12793,1,0001624621,Common Stock
+D,05/18/2021 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,6255,0,4,0001776484,Stock Option
+D,05/18/2021 00:00:00,Crawford Raphael Goszcz,4,S-Sale,--D,6255,17319,3,0001776484,Common Stock
+A,05/18/2021 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,6255,23574,2,0001776484,Common Stock
+D,05/18/2021 00:00:00,Crawford Raphael Goszcz,4,S-Sale,--I,41.1168,0,1,0001776484,Common Stock
+D,03/03/2021 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,2766,106505,5,0001266395,Common Stock
+D,03/03/2021 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,3850,109271,4,0001266395,Common Stock
+D,03/03/2021 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,8862,113121,3,0001266395,Common Stock
+D,03/02/2021 00:00:00,Tozier Scott,4,S-Sale,--D,1521,55905,2,0001511133,Common Stock
+D,03/02/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,1478,43695,2,0001095670,Common Stock
+D,03/01/2021 00:00:00,Norris Eric,4,M-Exempt,--D,18228,0,5,0001624621,Restricted Stock Units
+D,03/01/2021 00:00:00,Norris Eric,4,F-InKind,--D,7644,15883,2,0001624621,Common Stock
+A,03/01/2021 00:00:00,Norris Eric,4,M-Exempt,--D,18228,23527,1,0001624621,Common Stock
+D,03/01/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,425,45173,5,0001095670,Common Stock
+D,03/01/2021 00:00:00,Tozier Scott,4,S-Sale,--D,473,57426,5,0001511133,Common Stock
+A,02/26/2021 00:00:00,Tozier Scott,4,A-Award,--D,1750,1750,4,0001511133,Restricted Stock Unit
+A,02/26/2021 00:00:00,Tozier Scott,4,A-Award,--D,5565,5565,3,0001511133,Stock Option
+A,02/26/2021 00:00:00,Norris Eric,4,A-Award,--D,1750,1750,4,0001624621,Restricted Stock Units
+A,02/26/2021 00:00:00,Norris Eric,4,A-Award,--D,5565,5565,3,0001624621,Stock Option
+A,02/26/2021 00:00:00,NARWOLD KAREN G,4,A-Award,--D,1750,1750,4,0001095670,Restricted Stock Units
+A,02/26/2021 00:00:00,NARWOLD KAREN G,4,A-Award,--D,5565,5565,3,0001095670,Stock Option
+A,02/26/2021 00:00:00,Masters J Kent,4,A-Award,--D,8748,8748,2,0001396415,Restricted Stock Units
+A,02/26/2021 00:00:00,Masters J Kent,4,A-Award,--D,27823,27823,1,0001396415,Stock Option
+A,02/26/2021 00:00:00,Johnson Netha N.,4,A-Award,--D,1750,1750,2,0001594784,Restricted Stock Units
+A,02/26/2021 00:00:00,Johnson Netha N.,4,A-Award,--D,5565,5565,1,0001594784,Stock Option
+A,02/26/2021 00:00:00,Crawford Raphael Goszcz,4,A-Award,--D,1750,1750,2,0001776484,Restricted Stock Units
+A,02/26/2021 00:00:00,Crawford Raphael Goszcz,4,A-Award,--D,5565,5565,1,0001776484,Stock Option
+A,02/26/2021 00:00:00,Barichivich John Clarence III,4,A-Award,--D,558,558,1,0001792555,Restricted Stock Units
+A,02/26/2021 00:00:00,Anderson Melissa H.,4,A-Award,--D,1194,1194,2,0001631925,Restricted Stock Units
+A,02/26/2021 00:00:00,Anderson Melissa H.,4,A-Award,--D,3795,3795,1,0001631925,Stock Option
+D,02/26/2021 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,361,45598,4,0001095670,Common Stock
+D,02/26/2021 00:00:00,Tozier Scott,4,S-Sale,--D,381,57899,4,0001511133,Common Stock
+D,02/25/2021 00:00:00,Norris Eric,4,M-Exempt,--D,2528,2528,4,0001624621,Performance Units
+A,02/25/2021 00:00:00,Norris Eric,4,A-Award,--D,5056,5056,3,0001624621,Performance Units
+D,02/25/2021 00:00:00,Norris Eric,4,F-InKind,--D,745,5299,2,0001624621,Common Stock
+A,02/25/2021 00:00:00,Norris Eric,4,M-Exempt,--D,2528,6044,1,0001624621,Common Stock
+D,02/25/2021 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,4212,4212,7,0001095670,Performance Units
+A,02/25/2021 00:00:00,NARWOLD KAREN G,4,A-Award,--D,8424,8424,6,0001095670,Performance Units
+D,02/25/2021 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,1255,45959,3,0001095670,Common Stock
+A,02/25/2021 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,4212,47214,2,0001095670,Common Stock
+D,02/25/2021 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,528,528,5,0001792555,Performance Unit
+A,02/25/2021 00:00:00,Barichivich John Clarence III,4,A-Award,--D,1056,1056,4,0001792555,Performance Unit
+D,02/25/2021 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,155,3452,3,0001792555,Common Stock
+A,02/25/2021 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,528,3607,2,0001792555,Common Stock
+D,02/25/2021 00:00:00,Tozier Scott,4,M-Exempt,--D,4422,4422,7,0001511133,Performance Units
+A,02/25/2021 00:00:00,Tozier Scott,4,A-Award,--D,8844,8844,6,0001511133,Performance Units
+D,02/25/2021 00:00:00,Tozier Scott,4,F-InKind,--D,1379,58280,3,0001511133,Common Stock
+A,02/25/2021 00:00:00,Tozier Scott,4,M-Exempt,--D,4422,59659,2,0001511133,Common Stock
+D,02/25/2021 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,3158,3158,5,0001776484,Performance Units
+A,02/25/2021 00:00:00,Crawford Raphael Goszcz,4,A-Award,--D,6316,6316,4,0001776484,Performance Units
+D,02/25/2021 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,769,17319,3,0001776484,Common Stock
+A,02/25/2021 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,3158,18088,2,0001776484,Common Stock
+D,02/25/2021 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,28074,0,6,0001266395,Performance Units
+A,02/25/2021 00:00:00,KISSAM LUTHER C IV,4,A-Award,--D,28074,28074,5,0001266395,Performance Units
+D,02/25/2021 00:00:00,KISSAM LUTHER C IV,4,F-InKind,--D,12596,121983,4,0001266395,Common Stock
+A,02/25/2021 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,28074,134579,3,0001266395,Common Stock
+D,02/24/2021 00:00:00,Tozier Scott,4,M-Exempt,--D,1346,0,7,0001511133,Restricted Stock Unit
+D,02/24/2021 00:00:00,Tozier Scott,4,F-InKind,--D,400,55237,5,0001511133,Common Stock
+A,02/24/2021 00:00:00,Tozier Scott,4,M-Exempt,--D,1346,55637,4,0001511133,Common Stock
+D,02/24/2021 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1211,0,7,0001095670,Restricted Stock Unit
+D,02/24/2021 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,360,43002,5,0001095670,Common Stock
+A,02/24/2021 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1211,43362,4,0001095670,Common Stock
+D,02/24/2021 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,337,0,7,0001792555,Restricted Stock Unit
+D,02/24/2021 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,118,3079,5,0001792555,Common Stock
+A,02/24/2021 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,337,3197,4,0001792555,Common Stock
+D,02/24/2021 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,942,0,7,0001776484,Restricted Stock Units
+D,02/24/2021 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,230,14930,5,0001776484,Common Stock
+A,02/24/2021 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,942,15160,4,0001776484,Common Stock
+D,02/23/2021 00:00:00,Norris Eric,4,M-Exempt,--D,632,632,3,0001624621,Restricted Stock Units
+D,02/23/2021 00:00:00,Norris Eric,4,F-InKind,--D,206,3516,2,0001624621,Common Stock
+A,02/23/2021 00:00:00,Norris Eric,4,M-Exempt,--D,632,3722,1,0001624621,Common Stock
+D,02/23/2021 00:00:00,Tozier Scott,4,M-Exempt,--D,1106,1106,6,0001511133,Restricted Stock Unit
+D,02/23/2021 00:00:00,Tozier Scott,4,F-InKind,--D,343,54291,3,0001511133,Common Stock
+A,02/23/2021 00:00:00,Tozier Scott,4,M-Exempt,--D,1106,54634,2,0001511133,Common Stock
+D,02/23/2021 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1053,1053,6,0001095670,Restricted Stock Unit
+D,02/23/2021 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,331,42151,3,0001095670,Common Stock
+A,02/23/2021 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1053,42482,2,0001095670,Common Stock
+D,02/23/2021 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,264,264,6,0001792555,Restricted Stock Unit
+D,02/23/2021 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,93,2860,3,0001792555,Common Stock
+A,02/23/2021 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,264,2953,2,0001792555,Common Stock
+D,02/23/2021 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,790,790,6,0001776484,Restricted Stock Units
+D,02/23/2021 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,211,14218,3,0001776484,Common Stock
+A,02/23/2021 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,790,14429,2,0001776484,Common Stock
+A,02/19/2021 00:00:00,Anderson Melissa H.,4,A-Award,--D,3202,3202,1,0001631925,Restricted Stock Units
+A,12/23/2020 00:00:00,KISSAM LUTHER C IV,4,G-Gift,-EI,75000,75000,3,0001266395,Common Stock
+D,12/23/2020 00:00:00,KISSAM LUTHER C IV,4,G-Gift,-ED,75000,106505,2,0001266395,Common Stock
+D,11/23/2020 00:00:00,KISSAM LUTHER C IV,4,G-Gift,-ED,2560,181505,2,0001266395,Common Stock
+D,11/17/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,81801,0,9,0001266395,Stock Options
+D,11/17/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,82390,0,8,0001266395,Stock Options
+D,11/17/2020 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,400,184065,7,0001266395,Common Stock
+D,11/17/2020 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,31233,184465,6,0001266395,Common Stock
+D,11/17/2020 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,65082,215698,5,0001266395,Common Stock
+D,11/17/2020 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,67476,280780,4,0001266395,Common Stock
+A,11/17/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,81801,348256,3,0001266395,Common Stock
+A,11/17/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,82390,266455,2,0001266395,Common Stock
+D,11/11/2020 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,7784,0,10,0001776484,Stock Option
+D,11/11/2020 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,3720,0,9,0001776484,Stock Option
+D,11/11/2020 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,2046,0,8,0001776484,Stock Option
+D,11/11/2020 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,1030,0,7,0001776484,Stock Option
+D,11/11/2020 00:00:00,Crawford Raphael Goszcz,4,S-Sale,--D,14580,13639,6,0001776484,Common Stock
+A,11/11/2020 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,7784,28219,5,0001776484,Common Stock
+A,11/11/2020 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,3720,20435,4,0001776484,Common Stock
+A,11/11/2020 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,2046,16715,3,0001776484,Common Stock
+A,11/11/2020 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,1030,14669,2,0001776484,Common Stock
+D,11/09/2020 00:00:00,Tozier Scott,4/A,M-Exempt,--D,18405,0,1,0001511133,Stock Options
+D,11/09/2020 00:00:00,Tozier Scott,4,A-Award,--D,18405,0,9,0001511133,Stock Options
+D,11/09/2020 00:00:00,Tozier Scott,4,S-Sale,--D,11177,53528,7,0001511133,Common Stock
+D,11/09/2020 00:00:00,Tozier Scott,4,S-Sale,--D,7228,64705,6,0001511133,Common Stock
+A,11/09/2020 00:00:00,Tozier Scott,4,M-Exempt,--D,18405,71933,5,0001511133,Common Stock
+D,11/09/2020 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,12359,0,10,0001095670,Stock Options
+D,11/09/2020 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,12500,0,9,0001095670,Stock Options
+D,11/09/2020 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,1705,41429,8,0001095670,Common Stock
+D,11/09/2020 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,6959,43134,7,0001095670,Common Stock
+D,11/09/2020 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,12292,50093,6,0001095670,Common Stock
+D,11/09/2020 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,2703,62385,5,0001095670,Common Stock
+D,11/09/2020 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,1200,65088,4,0001095670,Common Stock
+A,11/09/2020 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,12359,66288,3,0001095670,Common Stock
+A,11/09/2020 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,12500,53929,2,0001095670,Common Stock
+D,11/06/2020 00:00:00,Tozier Scott,4,M-Exempt,--D,16478,0,8,0001511133,Stock Options
+D,11/06/2020 00:00:00,Tozier Scott,4,S-Sale,--D,6579,53528,4,0001511133,Common Stock
+D,11/06/2020 00:00:00,Tozier Scott,4,S-Sale,--D,9899,60107,3,0001511133,Common Stock
+A,11/06/2020 00:00:00,Tozier Scott,4,M-Exempt,--D,16478,70006,2,0001511133,Common Stock
+D,09/15/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,59000,0,3,0001266395,Stock Option
+D,09/15/2020 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,59000,184065,2,0001266395,Common Stock
+A,09/15/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,59000,243065,1,0001266395,Common Stock
+D,08/26/2020 00:00:00,KISSAM LUTHER C IV,4,G-Gift,-ED,3000,184065,1,0001266395,Common Stock
+D,08/11/2020 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,389,187065,3,0001266395,Common Stock
+D,08/11/2020 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,38358,187454,2,0001266395,Common Stock
+D,08/11/2020 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,111254,225812,1,0001266395,Common Stock
+D,08/09/2020 00:00:00,Johnson Netha N.,4,M-Exempt,--D,3308,3308,3,0001594784,Restricted Stock Units
+D,08/09/2020 00:00:00,Johnson Netha N.,4,F-InKind,--D,1479,4155,2,0001594784,Common Stock
+A,08/09/2020 00:00:00,Johnson Netha N.,4,M-Exempt,--D,3308,5634,1,0001594784,Common Stock
+D,07/01/2020 00:00:00,Masters J Kent,4/A,D-Return,--D,0,10631,1,0001396415,Common Stock
+D,07/01/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,5496,0,11,0001266395,Restricted Stock Unit
+D,07/01/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,6551,0,10,0001266395,Restricted Stock Unit
+D,07/01/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,5381,0,9,0001266395,Restricted Stock Unit
+A,07/01/2020 00:00:00,KISSAM LUTHER C IV,4,A-Award,--D,1725,1725,8,0001266395,Phantom Stock
+D,07/01/2020 00:00:00,KISSAM LUTHER C IV,4,F-InKind,--D,2457,337066,7,0001266395,Common Stock
+A,07/01/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,5496,339523,6,0001266395,Common Stock
+D,07/01/2020 00:00:00,KISSAM LUTHER C IV,4,F-InKind,--D,2929,334027,5,0001266395,Common Stock
+A,07/01/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,6551,336956,4,0001266395,Common Stock
+D,07/01/2020 00:00:00,KISSAM LUTHER C IV,4,F-InKind,--D,2406,330405,3,0001266395,Common Stock
+A,07/01/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,5381,332811,2,0001266395,Common Stock
+A,07/01/2020 00:00:00,BRLAS LAURIE,4,A-Award,--D,1725,6125,1,0001235612,Common Stock
+A,07/01/2020 00:00:00,Wolff Alejandro Daniel,4,A-Award,--D,1725,8256,1,0001585657,Common Stock
+A,07/01/2020 00:00:00,Seavers Dean,4,A-Award,--D,1725,5175,1,0001403296,Common Stock
+A,07/01/2020 00:00:00,OConnell Diarmuid B.,4,A-Award,--D,1725,5175,1,0001730941,Common Stock
+A,07/01/2020 00:00:00,OBRIEN JAMES J /KY,4,A-Award,--D,1725,13999,1,0001023582,Phantom Stock
+A,07/01/2020 00:00:00,STEINER GERALD A,4,A-Award,--D,1725,5725,1,0001143210,Common Stock
+D,07/01/2020 00:00:00,Masters J Kent,4,D-Return,--D,354,16700,1,0001396415,Common Stock
+A,07/01/2020 00:00:00,MINOR GLENDA J,4,A-Award,--D,1725,3375,1,0001254782,Common Stock
+A,07/01/2020 00:00:00,Van Deursen Holly,4,A-Award,--D,1725,1725,1,0001414921,Phantom Stock
+D,05/12/2020 00:00:00,Ryan David Terrence,4,M-Exempt,--D,495,0,3,0001776567,Restricted Stock Unit
+D,05/12/2020 00:00:00,Ryan David Terrence,4,F-InKind,--D,147,3653,2,0001776567,Common Stock
+A,05/12/2020 00:00:00,Ryan David Terrence,4,M-Exempt,--D,495,3800,1,0001776567,Common Stock
+A,05/08/2020 00:00:00,Masters J Kent,4,A-Award,--D,54475,54475,1,0001396415,Restricted Stock Units
+A,02/28/2020 00:00:00,Johnson Netha N.,4/A,A-Award,--D,12421,12421,3,0001594784,Stock Option
+A,02/28/2020 00:00:00,Johnson Netha N.,4/A,A-Award,--D,9164,9164,2,0001594784,Restricted Stock Unit
+A,02/28/2020 00:00:00,Johnson Netha N.,4/A,A-Award,--D,3360,3360,1,0001594784,Restricted Stock Unit
+A,02/28/2020 00:00:00,Marlow DeeAnne J,4/A,A-Award,--D,7340,7340,2,0001641337,Stock Option
+A,02/28/2020 00:00:00,Marlow DeeAnne J,4/A,A-Award,--D,1986,1986,1,0001641337,Restricted Stock Units
+A,02/28/2020 00:00:00,Norris Eric,4,A-Award,--D,12421,12421,3,0001624621,Stock Option
+A,02/28/2020 00:00:00,Norris Eric,4,A-Award,--D,3055,3055,2,0001624621,Restricted Stock Units
+A,02/28/2020 00:00:00,Norris Eric,4,A-Award,--D,3360,3360,1,0001624621,Restricted Stock Units
+A,02/28/2020 00:00:00,Marlow DeeAnne J,4,A-Award,--D,7340,7340,2,0001641337,Stock Option
+A,02/28/2020 00:00:00,Marlow DeeAnne J,4,A-Award,--D,1986,1986,1,0001641337,Restricted Stock Units
+A,02/28/2020 00:00:00,NARWOLD KAREN G,4,A-Award,--D,12421,12421,5,0001095670,Stock Option
+A,02/28/2020 00:00:00,NARWOLD KAREN G,4,A-Award,--D,3055,3055,4,0001095670,Restricted Stock Unit
+A,02/28/2020 00:00:00,NARWOLD KAREN G,4,A-Award,--D,3360,3360,3,0001095670,Restricted Stock Unit
+D,02/28/2020 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,531,41429,2,0001095670,Common Stock
+A,02/28/2020 00:00:00,Johnson Netha N.,4,A-Award,--D,12421,12421,3,0001594784,Stock Option
+A,02/28/2020 00:00:00,Johnson Netha N.,4,A-Award,--D,9164,9164,2,0001594784,Restricted Stock Unit
+A,02/28/2020 00:00:00,Johnson Netha N.,4,A-Award,--D,3360,3360,1,0001594784,Restricted Stock Unit
+A,02/28/2020 00:00:00,Crawford Raphael Goszcz,4,A-Award,--D,12421,12421,3,0001776484,Stock Option
+A,02/28/2020 00:00:00,Crawford Raphael Goszcz,4,A-Award,--D,9164,9164,2,0001776484,Restricted Stock Units
+A,02/28/2020 00:00:00,Crawford Raphael Goszcz,4,A-Award,--D,3360,3360,1,0001776484,Restricted Stock Units
+A,02/28/2020 00:00:00,Barichivich John Clarence III,4,A-Award,--D,1070,1070,1,0001792555,Restricted Stock Unit
+A,02/28/2020 00:00:00,Tozier Scott,4,A-Award,--D,12421,12421,5,0001511133,Stock Option
+A,02/28/2020 00:00:00,Tozier Scott,4,A-Award,--D,12218,12218,4,0001511133,Restricted Stock Unit
+A,02/28/2020 00:00:00,Tozier Scott,4,A-Award,--D,3360,3360,3,0001511133,Restricted Stock Unit
+D,02/28/2020 00:00:00,Tozier Scott,4,S-Sale,--D,630,53528,2,0001511133,Common Stock
+D,02/26/2020 00:00:00,NARWOLD KAREN G,4/A,F-InKind,--D,460,44603,2,0001095670,Common Stock
+D,02/26/2020 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,2495,41960,2,0001095670,Common Stock
+D,02/26/2020 00:00:00,Tozier Scott,4,S-Sale,--D,473,54158,2,0001511133,Common Stock
+D,02/26/2020 00:00:00,Tozier Scott,4,M-Exempt,--D,1990,0,7,0001511133,Restricted Stock Unit
+D,02/26/2020 00:00:00,Tozier Scott,4,F-InKind,--D,730,54631,5,0001511133,Common Stock
+A,02/26/2020 00:00:00,Tozier Scott,4,M-Exempt,--D,1990,55361,4,0001511133,Common Stock
+D,02/26/2020 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,266,0,7,0001792555,Restricted Stock Unit
+D,02/26/2020 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,79,2689,5,0001792555,Common Stock
+A,02/26/2020 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,266,2768,4,0001792555,Common Stock
+D,02/26/2020 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,1106,0,7,0001776484,Restricted Stock Units
+D,02/26/2020 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,270,10113,5,0001776484,Common Stock
+A,02/26/2020 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,1106,10383,4,0001776484,Common Stock
+D,02/26/2020 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1548,0,7,0001095670,Restricted Stock Unit
+D,02/26/2020 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,486,44455,5,0001095670,Common Stock
+A,02/26/2020 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1548,44941,4,0001095670,Common Stock
+D,02/26/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,8841,0,4,0001266395,Restricted Stock Unit
+D,02/26/2020 00:00:00,KISSAM LUTHER C IV,4,F-InKind,--D,3952,327430,3,0001266395,Common Stock
+A,02/26/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,8841,331382,2,0001266395,Common Stock
+D,02/24/2020 00:00:00,NARWOLD KAREN G,4/A,F-InKind,--D,360,43515,1,0001095670,Common Stock
+D,02/24/2020 00:00:00,Tozier Scott,4,M-Exempt,--D,1346,1346,6,0001511133,Restricted Stock Unit
+D,02/24/2020 00:00:00,Tozier Scott,4,F-InKind,--D,400,53371,3,0001511133,Common Stock
+A,02/24/2020 00:00:00,Tozier Scott,4,M-Exempt,--D,1346,53771,2,0001511133,Common Stock
+D,02/24/2020 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,337,337,6,0001792555,Restricted Stock Unit
+D,02/24/2020 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,100,2502,3,0001792555,Common Stock
+A,02/24/2020 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,337,2602,2,0001792555,Common Stock
+D,02/24/2020 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,942,942,6,0001776484,Restricted Stock Units
+D,02/24/2020 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,230,9277,3,0001776484,Common Stock
+A,02/24/2020 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,942,9507,2,0001776484,Common Stock
+D,02/24/2020 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1211,1211,6,0001095670,Restricted Stock Unit
+D,02/24/2020 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,380,43393,3,0001095670,Common Stock
+A,02/24/2020 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1211,43773,2,0001095670,Common Stock
+D,02/24/2020 00:00:00,Ryan David Terrence,4,M-Exempt,--D,404,404,3,0001776567,Restricted Stock Unit
+D,02/24/2020 00:00:00,Ryan David Terrence,4,F-InKind,--D,126,3305,2,0001776567,Common Stock
+A,02/24/2020 00:00:00,Ryan David Terrence,4,M-Exempt,--D,404,3431,1,0001776567,Common Stock
+D,02/24/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,5381,5381,9,0001266395,Restricted Stock Unit
+D,02/24/2020 00:00:00,KISSAM LUTHER C IV,4,F-InKind,--D,2406,322541,7,0001266395,Common Stock
+A,02/24/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,5381,324947,6,0001266395,Common Stock
+D,02/21/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,40000,0,8,0001266395,Stock Option
+D,02/21/2020 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,6606,319566,5,0001266395,Common Stock
+D,02/21/2020 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,31094,326172,4,0001266395,Common Stock
+D,02/21/2020 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,2300,357266,3,0001266395,Common Stock
+A,02/21/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,40000,359566,2,0001266395,Common Stock
+D,01/15/2020 00:00:00,Tozier Scott,4,M-Exempt,--D,14500,0,4,0001511133,Non-qualified Stock Option
+D,01/15/2020 00:00:00,Tozier Scott,4,S-Sale,--D,14500,52425,3,0001511133,Common Stock
+A,01/15/2020 00:00:00,Tozier Scott,4,M-Exempt,--D,14500,66925,2,0001511133,Common Stock
+D,01/07/2020 00:00:00,Tozier Scott,4,S-Sale,--D,2753,52425,2,0001511133,Common Stock
+D,01/01/2020 00:00:00,NARWOLD KAREN G,4/A,F-InKind,--D,1927,42664,1,0001095670,Common Stock
+D,01/01/2020 00:00:00,Crawford Raphael Goszcz,4/A,M-Exempt,--D,4422,0,4,0001776484,Performance Unit
+D,01/01/2020 00:00:00,Crawford Raphael Goszcz,4/A,F-InKind,--D,1165,8565,3,0001776484,Common Stock
+A,01/01/2020 00:00:00,Crawford Raphael Goszcz,4/A,M-Exempt,--D,4422,9730,2,0001776484,Common Stock
+D,01/01/2020 00:00:00,Crawford Raphael Goszcz,4/A,M-Exempt,--D,4422,0,4,0001776484,Performance Unit
+D,01/01/2020 00:00:00,Crawford Raphael Goszcz,4/A,F-InKind,--D,1165,5469,3,0001776484,Common Stock
+A,01/01/2020 00:00:00,Crawford Raphael Goszcz,4/A,M-Exempt,--D,4422,6634,2,0001776484,Common Stock
+D,01/01/2020 00:00:00,NARWOLD KAREN G,4/A,M-Exempt,--D,6190,0,4,0001095670,Performance Unit
+D,01/01/2020 00:00:00,NARWOLD KAREN G,4/A,F-InKind,--D,2029,42562,3,0001095670,Common Stock
+A,01/01/2020 00:00:00,NARWOLD KAREN G,4/A,M-Exempt,--D,6190,44591,2,0001095670,Common Stock
+D,01/01/2020 00:00:00,Tozier Scott,4/A,M-Exempt,--D,7958,0,4,0001511133,Performance Unit
+D,01/01/2020 00:00:00,Tozier Scott,4/A,F-InKind,--D,2452,55178,3,0001511133,Common Stock
+A,01/01/2020 00:00:00,Tozier Scott,4/A,M-Exempt,--D,7958,57630,2,0001511133,Common Stock
+D,01/01/2020 00:00:00,Ryan David Terrence,4/A,M-Exempt,--D,990,0,3,0001776567,Performance Unit
+D,01/01/2020 00:00:00,Ryan David Terrence,4/A,F-InKind,--D,351,3027,2,0001776567,Common Stock
+A,01/01/2020 00:00:00,Ryan David Terrence,4/A,M-Exempt,--D,990,3378,1,0001776567,Common Stock
+D,01/01/2020 00:00:00,KISSAM LUTHER C IV,4/A,M-Exempt,--D,35362,0,4,0001266395,Performance Unit
+D,01/01/2020 00:00:00,KISSAM LUTHER C IV,4/A,F-InKind,--D,13842,319566,3,0001266395,Common Stock
+A,01/01/2020 00:00:00,KISSAM LUTHER C IV,4/A,M-Exempt,--D,35362,333408,2,0001266395,Common Stock
+D,01/01/2020 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,6190,0,4,0001095670,Performance Unit
+D,01/01/2020 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,2029,42562,3,0001095670,Common Stock
+A,01/01/2020 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,6190,44591,2,0001095670,Common Stock
+D,01/01/2020 00:00:00,Tozier Scott,4,M-Exempt,--D,7958,0,4,0001511133,Performance Unit
+D,01/01/2020 00:00:00,Tozier Scott,4,F-InKind,--D,2452,55178,3,0001511133,Common Stock
+A,01/01/2020 00:00:00,Tozier Scott,4,M-Exempt,--D,7958,57630,2,0001511133,Common Stock
+D,01/01/2020 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,4422,0,4,0001776484,Performance Unit
+D,01/01/2020 00:00:00,Crawford Raphael Goszcz,4,F-InKind,--D,1165,5469,3,0001776484,Common Stock
+A,01/01/2020 00:00:00,Crawford Raphael Goszcz,4,M-Exempt,--D,4422,6634,2,0001776484,Common Stock
+D,01/01/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,35362,0,4,0001266395,Performance Unit
+D,01/01/2020 00:00:00,KISSAM LUTHER C IV,4,F-InKind,--D,13842,319566,3,0001266395,Common Stock
+A,01/01/2020 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,35362,333408,2,0001266395,Common Stock
+D,01/01/2020 00:00:00,Ryan David Terrence,4,M-Exempt,--D,990,0,3,0001776567,Performance Unit
+D,01/01/2020 00:00:00,Ryan David Terrence,4,F-InKind,--D,351,3027,2,0001776567,Common Stock
+A,01/01/2020 00:00:00,Ryan David Terrence,4,M-Exempt,--D,990,3378,1,0001776567,Common Stock
+D,01/01/2020 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,532,0,4,0001792555,Performance Unit
+D,01/01/2020 00:00:00,Barichivich John Clarence III,4,F-InKind,--D,158,2265,3,0001792555,Common Stock
+A,01/01/2020 00:00:00,Barichivich John Clarence III,4,M-Exempt,--D,532,2423,2,0001792555,Common Stock
+D,09/13/2019 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,36000,0,4,0001266395,Employee Stock Option (right to buy)
+D,09/13/2019 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,36000,298046,3,0001266395,Common Stock
+A,09/13/2019 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,36000,334046,2,0001266395,Common Stock
+A,08/20/2019 00:00:00,Norris Eric,4,P-Purchase,--D,2926,3090,2,0001624621,Common Stock
+A,08/20/2019 00:00:00,Norris Eric,4,P-Purchase,--D,164,164,1,0001624621,Common Stock
+D,08/09/2019 00:00:00,Johnson Netha N.,4,M-Exempt,--D,3309,6616,3,0001594784,Restricted Stock Unit
+D,08/09/2019 00:00:00,Johnson Netha N.,4,F-InKind,--D,983,2326,2,0001594784,Common Stock
+A,08/09/2019 00:00:00,Johnson Netha N.,4,M-Exempt,--D,3309,3309,1,0001594784,Common Stock
+A,07/23/2019 00:00:00,MINOR GLENDA J,4,A-Award,--D,1650,1650,1,0001254782,Common Stock
+A,07/23/2019 00:00:00,Van Deursen Holly,4,A-Award,--D,1650,1650,1,0001414921,Common Stock
+A,07/01/2019 00:00:00,Masters J Kent,4,A-Award,--D,1850,17054,1,0001396415,Common Stock
+A,07/01/2019 00:00:00,OBRIEN JAMES J /KY,4,A-Award,--D,1850,12063,1,0001023582,Phantom Stock
+A,07/01/2019 00:00:00,OConnell Diarmuid B.,4,A-Award,--D,1850,3450,1,0001730941,Common Stock
+A,07/01/2019 00:00:00,Taggart Harriett Tee,4,A-Award,--D,1850,13686,1,0001388165,Common Stock
+A,07/01/2019 00:00:00,Seavers Dean,4,A-Award,--D,1850,3450,1,0001403296,Common Stock
+A,07/01/2019 00:00:00,Maine Douglas L,4,A-Award,--D,1850,28550,1,0001334320,Common Stock
+A,07/01/2019 00:00:00,Wolff Alejandro Daniel,4,A-Award,--D,1850,3274,1,0001585657,Phantom Stock
+A,07/01/2019 00:00:00,BRLAS LAURIE,4,A-Award,--D,1850,4400,1,0001235612,Common Stock
+A,07/01/2019 00:00:00,STEINER GERALD A,4,A-Award,--D,1850,4000,1,0001143210,Common Stock
+A,07/01/2019 00:00:00,HERNANDEZ WILLIAM H,4,A-Award,--D,1850,1850,1,0001189027,Common Stock
+A,05/13/2019 00:00:00,Marlow DeeAnne J,4,P-Purchase,--D,1000,1000,1,0001641337,Common Stock
+D,05/12/2019 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,6591,0,4,0001095670,Restricted Stock Unit
+D,05/12/2019 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,2947,38401,3,0001095670,Common Stock
+A,05/12/2019 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,6591,41348,2,0001095670,Common Stock
+D,05/12/2019 00:00:00,Ryan David Terrence,4,M-Exempt,--D,2473,0,3,0001776567,Restricted Stock Unit
+D,05/12/2019 00:00:00,Ryan David Terrence,4,F-InKind,--D,736,2388,2,0001776567,Common Stock
+A,05/12/2019 00:00:00,Ryan David Terrence,4,M-Exempt,--D,2473,3124,1,0001776567,Common Stock
+D,03/04/2019 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,1243,34757,1,0001095670,Common Stock
+D,03/04/2019 00:00:00,Tozier Scott,4,S-Sale,--D,2961,49672,1,0001511133,Common Stock
+A,02/26/2019 00:00:00,LaBauve Donald J. Jr.,4,A-Award,--D,1100,1100,9,0001568721,Restricted Stock Unit
+D,02/26/2019 00:00:00,LaBauve Donald J. Jr.,4,M-Exempt,--D,664,0,8,0001568721,Restricted Stock Unit
+D,02/26/2019 00:00:00,LaBauve Donald J. Jr.,4,M-Exempt,--D,1326,1326,7,0001568721,Performance Units
+A,02/26/2019 00:00:00,LaBauve Donald J. Jr.,4,A-Award,--D,2652,2652,6,0001568721,Performance Units
+D,02/26/2019 00:00:00,LaBauve Donald J. Jr.,4,F-InKind,--D,193,7510,5,0001568721,Common Stock
+A,02/26/2019 00:00:00,LaBauve Donald J. Jr.,4,M-Exempt,--D,664,7703,4,0001568721,Common Stock
+D,02/26/2019 00:00:00,LaBauve Donald J. Jr.,4,F-InKind,--D,390,7039,3,0001568721,Common Stock
+A,02/26/2019 00:00:00,LaBauve Donald J. Jr.,4,M-Exempt,--D,1326,7429,2,0001568721,Common Stock
+A,02/26/2019 00:00:00,KISSAM LUTHER C IV,4,A-Award,--D,40600,40600,10,0001266395,Stock Options
+A,02/26/2019 00:00:00,KISSAM LUTHER C IV,4,A-Award,--D,12364,12364,9,0001266395,Restricted Stock Unit
+D,02/26/2019 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,8841,0,8,0001266395,Restricted Stock Unit
+D,02/26/2019 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,35360,30360,7,0001266395,Performance Units
+A,02/26/2019 00:00:00,KISSAM LUTHER C IV,4,A-Award,--D,70720,70720,6,0001266395,Performance Units
+D,02/26/2019 00:00:00,KISSAM LUTHER C IV,4,F-InKind,--D,3952,298046,5,0001266395,Common Stock
+A,02/26/2019 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,8841,301998,4,0001266395,Common Stock
+D,02/26/2019 00:00:00,KISSAM LUTHER C IV,4,F-InKind,--D,15806,293157,3,0001266395,Common Stock
+A,02/26/2019 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,35360,308963,2,0001266395,Common Stock
+A,02/26/2019 00:00:00,NARWOLD KAREN G,4,A-Award,--D,9474,9474,10,0001095670,Stock Options
+A,02/26/2019 00:00:00,NARWOLD KAREN G,4,A-Award,--D,2886,2886,9,0001095670,Restricted Stock Unit
+D,02/26/2019 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1548,0,8,0001095670,Restricted Stock Unit
+D,02/26/2019 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,6188,6188,7,0001095670,Performance Units
+A,02/26/2019 00:00:00,NARWOLD KAREN G,4,A-Award,--D,12376,12376,6,0001095670,Performance Units
+D,02/26/2019 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,2304,36000,5,0001095670,Common Stock
+A,02/26/2019 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,6188,38304,4,0001095670,Common Stock
+D,02/26/2019 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,460,32116,3,0001095670,Common Stock
+A,02/26/2019 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,1548,32576,2,0001095670,Common Stock
+A,02/26/2019 00:00:00,Tozier Scott,4,A-Award,--D,9925,9925,10,0001511133,Stock Option
+D,02/26/2019 00:00:00,Tozier Scott,4,M-Exempt,--D,1990,1990,9,0001511133,Restricted Stock Unit
+A,02/26/2019 00:00:00,Tozier Scott,4,A-Award,--D,3022,0,8,0001511133,Restricted Stock Unit
+D,02/26/2019 00:00:00,Tozier Scott,4,M-Exempt,--D,7956,7956,7,0001511133,Performance Unit
+A,02/26/2019 00:00:00,Tozier Scott,4,A-Award,--D,15912,15912,6,0001511133,Performance Unit
+D,02/26/2019 00:00:00,Tozier Scott,4,F-InKind,--D,3432,52633,5,0001511133,Common Stock
+A,02/26/2019 00:00:00,Tozier Scott,4,M-Exempt,--D,7956,56065,4,0001511133,Common Stock
+D,02/26/2019 00:00:00,Tozier Scott,4,F-InKind,--D,592,48109,3,0001511133,Common Stock
+A,02/26/2019 00:00:00,Tozier Scott,4,M-Exempt,--D,1990,48701,2,0001511133,Common Stock
+D,02/15/2019 00:00:00,Wolff Alejandro Daniel,4,M-Exempt,--D,4353,1410,2,0001585657,Phantom Stock
+A,02/15/2019 00:00:00,Wolff Alejandro Daniel,4,M-Exempt,--D,4353,6356,1,0001585657,Common Stock
+D,01/04/2019 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,1295,31028,1,0001095670,Common Stock
+D,01/04/2019 00:00:00,Tozier Scott,4,S-Sale,--D,3343,46711,1,0001511133,Common Stock
+D,01/01/2019 00:00:00,Tozier Scott,4,M-Exempt,--D,9630,0,4,0001511133,Performance Unit
+D,01/01/2019 00:00:00,Tozier Scott,4,F-InKind,--D,2944,50054,3,0001511133,Common Stock
+A,01/01/2019 00:00:00,Tozier Scott,4,M-Exempt,--D,9630,52998,2,0001511133,Common Stock
+D,01/01/2019 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,42798,0,4,0001266395,Performance Unit
+D,01/01/2019 00:00:00,KISSAM LUTHER C IV,4,F-InKind,--D,17268,273603,3,0001266395,Common Stock
+A,01/01/2019 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,42798,290871,2,0001266395,Common Stock
+D,01/01/2019 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,7490,0,4,0001095670,Performance Unit
+D,01/01/2019 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,2309,32323,3,0001095670,Common Stock
+A,01/01/2019 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,7490,34632,2,0001095670,Common Stock
+D,01/01/2019 00:00:00,LaBauve Donald J. Jr.,4,M-Exempt,--D,1606,0,4,0001568721,Performance Unit
+D,01/01/2019 00:00:00,LaBauve Donald J. Jr.,4,F-InKind,--D,557,6103,3,0001568721,Common Stock
+A,01/01/2019 00:00:00,LaBauve Donald J. Jr.,4,M-Exempt,--D,1606,6660,2,0001568721,Common Stock
+D,11/26/2018 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,3100,27142,2,0001095670,Common Stock
+D,09/04/2018 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,3100,30242,2,0001095670,Common Stock
+A,07/02/2018 00:00:00,OBRIEN JAMES J /KY,4,A-Award,--D,1400,10038,1,0001023582,Phantom Stock
+A,07/02/2018 00:00:00,STEINER GERALD A,4,A-Award,--D,1400,8003,1,0001143210,Phantom Stock
+A,07/02/2018 00:00:00,HERNANDEZ WILLIAM H,4,A-Award,--D,1400,12100,1,0001189027,Phantom Stock
+A,07/02/2018 00:00:00,Wolff Alejandro Daniel,4,A-Award,--D,1400,5711,1,0001585657,Phantom Stock
+A,07/02/2018 00:00:00,Seavers Dean,4,A-Award,--D,1400,1600,1,0001403296,Common Stock
+A,07/02/2018 00:00:00,OConnell Diarmuid B.,4,A-Award,--D,1400,1600,1,0001730941,Common Stock
+A,07/02/2018 00:00:00,BRLAS LAURIE,4,A-Award,--D,1400,2550,1,0001235612,Common Stock
+A,07/02/2018 00:00:00,Taggart Harriett Tee,4,A-Award,--D,1400,11836,1,0001388165,Common Stock
+A,07/02/2018 00:00:00,Maine Douglas L,4,A-Award,--D,1400,26700,1,0001334320,Common Stock
+A,07/02/2018 00:00:00,Masters J Kent,4,A-Award,--D,1400,15204,1,0001396415,Common Stock
+D,05/08/2018 00:00:00,LaBauve Donald J. Jr.,4,M-Exempt,--D,2375,2375,4,0001568721,Restricted Stock Unit
+D,05/08/2018 00:00:00,LaBauve Donald J. Jr.,4,F-InKind,--D,698,5054,3,0001568721,Common Stock
+A,05/08/2018 00:00:00,LaBauve Donald J. Jr.,4,M-Exempt,--D,2375,5752,2,0001568721,Common Stock
+A,05/08/2018 00:00:00,Seavers Dean,4,A-Award,--D,200,200,1,0001403296,Common Stock
+A,05/08/2018 00:00:00,OConnell Diarmuid B.,4,A-Award,--D,200,200,1,0001730941,Common Stock
+A,02/23/2018 00:00:00,Tozier Scott,4,A-Award,--D,7029,7029,7,0001511133,Stock Option
+A,02/23/2018 00:00:00,Tozier Scott,4,A-Award,--D,2212,2212,6,0001511133,Restricted Stock Unit
+D,02/23/2018 00:00:00,Tozier Scott,4,M-Exempt,--D,9630,9630,5,0001511133,Performance Unit
+A,02/23/2018 00:00:00,Tozier Scott,4,A-Award,--D,19260,19260,4,0001511133,Performance Unit
+D,02/23/2018 00:00:00,Tozier Scott,4,F-InKind,--D,4315,43368,3,0001511133,Common Stock
+A,02/23/2018 00:00:00,Tozier Scott,4,M-Exempt,--D,9630,47683,2,0001511133,Common Stock
+A,02/23/2018 00:00:00,NARWOLD KAREN G,4,A-Award,--D,6694,6694,7,0001095670,Stock Option
+A,02/23/2018 00:00:00,NARWOLD KAREN G,4,A-Award,--D,2106,2106,6,0001095670,Restricted Stock Unit
+D,02/23/2018 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,7490,7490,5,0001095670,Performance Unit
+A,02/23/2018 00:00:00,NARWOLD KAREN G,4,A-Award,--D,14980,14980,4,0001095670,Performance Unit
+D,02/23/2018 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,3001,33342,3,0001095670,Common Stock
+A,02/23/2018 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,7490,36343,2,0001095670,Common Stock
+D,02/23/2018 00:00:00,Juneau Matthew,4,M-Exempt,--D,6420,6420,5,0001462366,Performance Unit
+A,02/23/2018 00:00:00,Juneau Matthew,4,A-Award,--D,12840,12840,4,0001462366,Performance Unit
+D,02/23/2018 00:00:00,Juneau Matthew,4,F-InKind,--D,2481,8066,3,0001462366,Common Stock
+A,02/23/2018 00:00:00,Juneau Matthew,4,M-Exempt,--D,6420,10547,2,0001462366,Common Stock
+A,02/23/2018 00:00:00,KISSAM LUTHER C IV,4,A-Award,--D,26774,26774,7,0001266395,Stock Option
+A,02/23/2018 00:00:00,KISSAM LUTHER C IV,4,A-Award,--D,8422,8422,6,0001266395,Restricted Stock Unit
+D,02/23/2018 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,42798,42798,5,0001266395,Performance Unit
+A,02/23/2018 00:00:00,KISSAM LUTHER C IV,4,A-Award,--D,85596,85596,4,0001266395,Performance Unit
+D,02/23/2018 00:00:00,KISSAM LUTHER C IV,4,F-InKind,--D,19228,248073,3,0001266395,Common Stock
+A,02/23/2018 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,42798,267301,2,0001266395,Common Stock
+A,02/23/2018 00:00:00,LaBauve Donald J. Jr.,4,A-Award,--D,844,844,6,0001568721,Restricted Stock Unit
+D,02/23/2018 00:00:00,LaBauve Donald J. Jr.,4,M-Exempt,--D,1606,1606,5,0001568721,Performance Unit
+A,02/23/2018 00:00:00,LaBauve Donald J. Jr.,4,A-Award,--D,3212,3212,4,0001568721,Performance Unit
+D,02/23/2018 00:00:00,LaBauve Donald J. Jr.,4,F-InKind,--D,457,3377,3,0001568721,Common Stock
+A,02/23/2018 00:00:00,LaBauve Donald J. Jr.,4,M-Exempt,--D,1606,3834,2,0001568721,Common Stock
+D,01/01/2018 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,37594,0,4,0001266395,Performance Unit
+D,01/01/2018 00:00:00,KISSAM LUTHER C IV,4,F-InKind,--D,16008,224503,3,0001266395,Common Stock
+A,01/01/2018 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,37594,240511,2,0001266395,Common Stock
+D,01/01/2018 00:00:00,LaBauve Donald J. Jr.,4,M-Exempt,--D,1410,0,4,0001568721,Performance Unit
+D,01/01/2018 00:00:00,LaBauve Donald J. Jr.,4,F-InKind,--D,506,2228,3,0001568721,Common Stock
+A,01/01/2018 00:00:00,LaBauve Donald J. Jr.,4,M-Exempt,--D,1410,2734,2,0001568721,Common Stock
+D,01/01/2018 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,5640,0,4,0001095670,Performance Unit
+D,01/01/2018 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,1907,28853,3,0001095670,Common Stock
+A,01/01/2018 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,5640,30760,2,0001095670,Common Stock
+D,01/01/2018 00:00:00,Tozier Scott,4,M-Exempt,--D,8460,0,4,0001511133,Performance Unit
+D,01/01/2018 00:00:00,Tozier Scott,4,F-InKind,--D,2913,38053,3,0001511133,Common Stock
+A,01/01/2018 00:00:00,Tozier Scott,4,M-Exempt,--D,8460,40966,2,0001511133,Common Stock
+D,01/01/2018 00:00:00,Juneau Matthew,4,M-Exempt,--D,5640,0,4,0001462366,Performance Unit
+D,01/01/2018 00:00:00,Juneau Matthew,4,F-InKind,--D,1873,4127,3,0001462366,Common Stock
+A,01/01/2018 00:00:00,Juneau Matthew,4,M-Exempt,--D,5640,6000,2,0001462366,Common Stock
+D,11/21/2017 00:00:00,Taggart Harriett Tee,4,G-Gift,-ED,2500,10436,1,0001388165,Common Stock
+D,08/24/2017 00:00:00,Juneau Matthew,4,S-Sale,--D,5397,360,2,0001462366,Common Stock
+D,08/23/2017 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,11500,0,4,0001095670,Stock Option
+D,08/23/2017 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,11500,25120,3,0001095670,Common Stock
+A,08/23/2017 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,11500,36620,2,0001095670,Common Stock
+D,07/07/2017 00:00:00,Tozier Scott,4,M-Exempt,--D,25000,0,4,0001511133,Stock Option
+D,07/07/2017 00:00:00,Tozier Scott,4,S-Sale,--D,25000,32506,3,0001511133,Common Stock
+A,07/07/2017 00:00:00,Tozier Scott,4,M-Exempt,--D,25000,57506,2,0001511133,Common Stock
+D,07/07/2017 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,50000,0,4,0001266395,Stock Option
+D,07/07/2017 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,50000,202917,3,0001266395,Common Stock
+A,07/07/2017 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,50000,252917,2,0001266395,Common Stock
+A,07/03/2017 00:00:00,Taggart Harriett Tee,4,A-Award,--D,1150,12936,1,0001388165,Common Stock
+A,07/03/2017 00:00:00,PERRY BARRY W,4,A-Award,--D,1150,12761,1,0001194502,Phantom Stock
+A,07/03/2017 00:00:00,Maine Douglas L,4,A-Award,--D,1150,25300,1,0001334320,Common Stock
+A,07/03/2017 00:00:00,Masters J Kent,4,A-Award,--D,1150,13804,1,0001396415,Common Stock
+A,07/03/2017 00:00:00,Wolff Alejandro Daniel,4,A-Award,--D,1150,1972,1,0001585657,Common Stock
+A,07/03/2017 00:00:00,NOKES JIM W,4,A-Award,--D,1150,16811,1,0001234264,Common Stock
+A,07/03/2017 00:00:00,HERNANDEZ WILLIAM H,4,A-Award,--D,1150,10544,1,0001189027,Phantom Stock
+A,07/03/2017 00:00:00,STEINER GERALD A,4,A-Award,--D,1150,2150,1,0001143210,Common Stock
+A,07/03/2017 00:00:00,OBRIEN JAMES J /KY,4,A-Award,--D,1150,8513,1,0001023582,Phantom Stock
+A,07/03/2017 00:00:00,BRLAS LAURIE,4,A-Award,--D,1150,1150,1,0001235612,Common Stock
+D,06/19/2017 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,20000,0,4,0001095670,Stock Options
+D,06/19/2017 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,20000,25120,3,0001095670,Common Stock
+A,06/19/2017 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,20000,45120,2,0001095670,Common Stock
+D,06/19/2017 00:00:00,Maine Douglas L,4,S-Sale,--D,10000,24150,1,0001334320,Common Stock
+D,03/06/2017 00:00:00,SHERMAN JOHN JR,4,J-Other,--D,5000,5947,1,0001192090,Phantom Stock
+D,03/02/2017 00:00:00,Tozier Scott,4,S-Sale,--D,2783,32506,1,0001511133,Common Stock
+D,03/02/2017 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,945,25120,1,0001095670,Common Stock
+D,03/02/2017 00:00:00,KISSAM LUTHER C IV,4,S-Sale,--D,4929,202917,2,0001266395,Common Stock
+D,03/01/2017 00:00:00,KISSAM LUTHER C IV,4,G-Gift,-ED,2500,207846,1,0001266395,Common Stock
+A,02/24/2017 00:00:00,Juneau Matthew,4,A-Award,--D,5361,5361,7,0001462366,Stock Option
+A,02/24/2017 00:00:00,Juneau Matthew,4,A-Award,--D,1616,1616,6,0001462366,Restricted Stock Unit
+D,02/24/2017 00:00:00,Juneau Matthew,4,M-Exempt,--D,5640,5640,5,0001462366,Performance Unit
+A,02/24/2017 00:00:00,Juneau Matthew,4,A-Award,--D,11280,11280,4,0001462366,Performance Unit
+D,02/24/2017 00:00:00,Juneau Matthew,4,F-InKind,--D,1825,5757,3,0001462366,Common Stock
+A,02/24/2017 00:00:00,Juneau Matthew,4,M-Exempt,--D,5640,7582,2,0001462366,Common Stock
+A,02/24/2017 00:00:00,LaBauve Donald J. Jr.,4,A-Award,--D,808,808,6,0001568721,Restricted Stock Unit
+D,02/24/2017 00:00:00,LaBauve Donald J. Jr.,4,M-Exempt,--D,1410,1410,5,0001568721,Performance Unit
+A,02/24/2017 00:00:00,LaBauve Donald J. Jr.,4,A-Award,--D,2820,2820,4,0001568721,Performance Unit
+D,02/24/2017 00:00:00,LaBauve Donald J. Jr.,4,F-InKind,--D,466,1324,3,0001568721,Common Stock
+A,02/24/2017 00:00:00,LaBauve Donald J. Jr.,4,M-Exempt,--D,1410,1790,2,0001568721,Common Stock
+A,02/24/2017 00:00:00,Tozier Scott,4,A-Award,--D,8935,8935,7,0001511133,Stock Option
+A,02/24/2017 00:00:00,Tozier Scott,4,A-Award,--D,2692,2692,6,0001511133,Restricted Stock Unit
+D,02/24/2017 00:00:00,Tozier Scott,4,M-Exempt,--D,8460,8460,5,0001511133,Performance Unit
+A,02/24/2017 00:00:00,Tozier Scott,4,A-Award,--D,16920,16920,4,0001511133,Performance Unit
+D,02/24/2017 00:00:00,Tozier Scott,4,F-InKind,--D,2893,35289,3,0001511133,Common Stock
+A,02/24/2017 00:00:00,Tozier Scott,4,M-Exempt,--D,8460,38182,2,0001511133,Common Stock
+A,02/24/2017 00:00:00,NARWOLD KAREN G,4,S-Sale,--D,8042,8042,7,0001095670,Stock Option
+A,02/24/2017 00:00:00,NARWOLD KAREN G,4,A-Award,--D,2422,2422,6,0001095670,Restricted Stock Unit
+D,02/24/2017 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,5640,5640,5,0001095670,Performance Unit
+A,02/24/2017 00:00:00,NARWOLD KAREN G,4,A-Award,--D,11280,11280,4,0001095670,Performance Unit
+D,02/24/2017 00:00:00,NARWOLD KAREN G,4,F-InKind,--D,1859,26065,3,0001095670,Common Stock
+A,02/24/2017 00:00:00,NARWOLD KAREN G,4,M-Exempt,--D,5640,27924,2,0001095670,Common Stock
+A,02/24/2017 00:00:00,KISSAM LUTHER C IV,4,A-Award,--D,35740,35740,7,0001266395,Stock Option
+A,02/24/2017 00:00:00,KISSAM LUTHER C IV,4,A-Award,--D,10762,10762,6,0001266395,Restricted Stock Unit
+D,02/24/2017 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,37594,37594,5,0001266395,Performance Unit
+A,02/24/2017 00:00:00,KISSAM LUTHER C IV,4,A-Award,--D,75188,75188,4,0001266395,Performance Unit
+D,02/24/2017 00:00:00,KISSAM LUTHER C IV,4,F-InKind,--D,17876,210346,3,0001266395,Common Stock
+A,02/24/2017 00:00:00,KISSAM LUTHER C IV,4,M-Exempt,--D,37594,228222,2,0001266395,Common Stock

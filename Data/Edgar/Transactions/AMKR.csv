@@ -1,0 +1,961 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/27/2023 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,230001,887622,1,0001158922,Common Stock
+D,06/27/2023 00:00:00,Qualified Annuity Trust under the James J. Kim 2020-1 Annuity Trust Agreement dated 04/01/2020,4,G-Gift,-ED,230001,887622,1,0001845367,Common Stock
+A,06/26/2023 00:00:00,KIM SUSAN Y,4,A-Award,--D,24.1218,8502.1218,13,0001158922,Restricted Stock Units
+A,06/26/2023 00:00:00,WATSON DAVID N,4,A-Award,--D,24.1218,8502.1218,1,0001276908,Restricted Stock Units
+A,06/26/2023 00:00:00,Tily Gil C.,4,A-Award,--D,24.1218,8502.1218,1,0001405591,Restricted Stock Units
+A,06/26/2023 00:00:00,Morse Robert Randolph,4,A-Award,--D,24.1218,8502.1218,1,0001569086,Restricted Stock Units
+A,06/26/2023 00:00:00,McCourt MaryFrances,4,A-Award,--D,24.1218,8502.1218,1,0001730724,Restricted Stock Units
+A,06/26/2023 00:00:00,Liao Daniel JL,4,A-Award,--D,24.1218,8502.1218,1,0001775769,Restricted Stock Units
+A,06/26/2023 00:00:00,CHURCHILL WINSTON J,4,A-Award,--D,24.1218,8502.1218,1,0000923792,Restricted Stock Units
+A,06/26/2023 00:00:00,Carolin Roger Anthony,4,A-Award,--D,24.1218,8502.1218,1,0001351909,Restricted Stock Units
+A,06/26/2023 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,24.1218,8502.1218,2,0001195858,Restricted Stock Units
+A,06/26/2023 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,24.7705,8834.178,1,0001195858,Restricted Stock Units
+D,06/16/2023 00:00:00,Qualified Annuity Trust under the Susan Y. Kim 2020-1 Irrevocable Trust Agreement dated 04/01/2020,4,G-Gift,-ED,340000,1958355,1,0001845366,Common Stock
+D,06/16/2023 00:00:00,Faust Megan,4,M-Exempt,--D,2700,24400,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,06/16/2023 00:00:00,Faust Megan,4,S-Sale,--D,2700,35394,2,0001684564,Common Stock
+A,06/16/2023 00:00:00,Faust Megan,4,M-Exempt,--D,2700,38094,1,0001684564,Common Stock
+D,06/09/2023 00:00:00,Faust Megan,4,M-Exempt,--D,2700,27100,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,06/09/2023 00:00:00,Faust Megan,4,S-Sale,--D,2700,35394,2,0001684564,Common Stock
+A,06/09/2023 00:00:00,Faust Megan,4,M-Exempt,--D,2700,38094,1,0001684564,Common Stock
+D,06/02/2023 00:00:00,Engel Kevin,4,S-Sale,--D,3570,0,1,0001965254,Common Stock
+D,06/01/2023 00:00:00,Shin Sung,4,S-Sale,--D,5000,15418,1,0001851258,Common Stock
+D,05/24/2023 00:00:00,Faust Megan,4,M-Exempt,--D,2700,29800,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,05/24/2023 00:00:00,Faust Megan,4,S-Sale,--D,2700,35394,2,0001684564,Common Stock
+A,05/24/2023 00:00:00,Faust Megan,4,M-Exempt,--D,2700,38094,1,0001684564,Common Stock
+A,05/16/2023 00:00:00,WATSON DAVID N,4,A-Award,--D,8478,8478,3,0001276908,Restricted Stock Units
+D,05/16/2023 00:00:00,WATSON DAVID N,4,M-Exempt,--D,8809.4075,0,2,0001276908,Restricted Stock Units
+A,05/16/2023 00:00:00,WATSON DAVID N,4,M-Exempt,--D,8809,48392,1,0001276908,Common Stock
+A,05/16/2023 00:00:00,Tily Gil C.,4,A-Award,--D,8478,8478,3,0001405591,Restricted Stock Units
+D,05/16/2023 00:00:00,Tily Gil C.,4,M-Exempt,--D,8809.4075,0,2,0001405591,Restricted Stock Units
+A,05/16/2023 00:00:00,Tily Gil C.,4,M-Exempt,--D,8809,138027,1,0001405591,Common Stock
+A,05/16/2023 00:00:00,Morse Robert Randolph,4,A-Award,--D,8478,8478,3,0001569086,Restricted Stock Units
+D,05/16/2023 00:00:00,Morse Robert Randolph,4,M-Exempt,--D,8809.4075,0,2,0001569086,Restricted Stock Unit
+A,05/16/2023 00:00:00,Morse Robert Randolph,4,M-Exempt,--D,8809,78392,1,0001569086,Common Stock
+A,05/16/2023 00:00:00,McCourt MaryFrances,4,A-Award,--D,8478,8478,3,0001730724,Restricted Stock Units
+D,05/16/2023 00:00:00,McCourt MaryFrances,4,M-Exempt,--D,8809.4075,0,2,0001730724,Restricted Stock Units
+A,05/16/2023 00:00:00,McCourt MaryFrances,4,M-Exempt,--D,8809,49901,1,0001730724,Common Stock
+A,05/16/2023 00:00:00,Liao Daniel JL,4,A-Award,--D,8478,8478,3,0001775769,Restricted Stock Units
+D,05/16/2023 00:00:00,Liao Daniel JL,4,M-Exempt,--D,8809.4075,0,2,0001775769,Restricted Stock Units
+A,05/16/2023 00:00:00,Liao Daniel JL,4,M-Exempt,--D,8809,26216,1,0001775769,Common Stock
+A,05/16/2023 00:00:00,KIM SUSAN Y,4,A-Award,--D,8478,8478,14,0001158922,Restricted Stock Units
+D,05/16/2023 00:00:00,KIM SUSAN Y,4,M-Exempt,--D,8809.4075,0,13,0001158922,Restricted Stock Units
+A,05/16/2023 00:00:00,KIM SUSAN Y,4,M-Exempt,--D,8809,6982423,1,0001158922,Common Stock
+A,05/16/2023 00:00:00,CHURCHILL WINSTON J,4,A-Award,--D,8478,8478,3,0000923792,Restricted Stock Units
+D,05/16/2023 00:00:00,CHURCHILL WINSTON J,4,M-Exempt,--D,8809.4075,0,2,0000923792,Restricted Stock Units
+A,05/16/2023 00:00:00,CHURCHILL WINSTON J,4,M-Exempt,--D,8809,23203,1,0000923792,Common Stock
+A,05/16/2023 00:00:00,Carolin Roger Anthony,4,A-Award,--D,8478,8478,3,0001351909,Restricted Stock Units
+D,05/16/2023 00:00:00,Carolin Roger Anthony,4,M-Exempt,--D,8809.4075,0,2,0001351909,Restricted Stock Units
+A,05/16/2023 00:00:00,Carolin Roger Anthony,4,M-Exempt,--D,8809,48392,1,0001351909,Common Stock
+A,05/16/2023 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,8478,8478,1,0001195858,Restricted Stock Units
+D,05/01/2023 00:00:00,KIM AGNES C,4,G-Gift,--I,5117004,66248609,2,0001158840,Common Stock
+D,05/01/2023 00:00:00,KIM AGNES C,4,G-Gift,--D,3278001,0,1,0001158840,Common Stock
+A,05/01/2023 00:00:00,KIM SUSAN Y,4,G-Gift,--I,5117004,5117004,2,0001158922,Common Stock
+A,05/01/2023 00:00:00,KIM SUSAN Y,4,G-Gift,--I,3278001,3278001,1,0001158922,Common Stock
+D,05/01/2023 00:00:00,KIM JAMES J,4,G-Gift,--I,3278001,0,2,0001158839,Common Stock
+D,05/01/2023 00:00:00,KIM JAMES J,4,G-Gift,--D,5117004,39251,1,0001158839,Common Stock
+D,04/25/2023 00:00:00,Qualified Annuity Trust under the John T. Kim 2018 Irrevocable Trust Agreement Dated 2/6/18,4,G-Gift,-ED,255000,498232,1,0001732522,Common Stock
+D,04/20/2023 00:00:00,Faust Megan,4,M-Exempt,--D,6000,32500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,04/20/2023 00:00:00,Faust Megan,4,S-Sale,--D,6000,35394,2,0001684564,Common Stock
+A,04/20/2023 00:00:00,Faust Megan,4,M-Exempt,--D,6000,41394,1,0001684564,Common Stock
+D,04/17/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,102500,5,0001596796,Employee Stock Option (Right-to-Buy)
+D,04/17/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,5000,10265,4,0001596796,Employee Stock Option (Right-to-Buy)
+D,04/17/2023 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,30000,119808,3,0001596796,Common Stock
+A,04/17/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,149808,2,0001596796,Common Stock
+A,04/17/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,5000,139808,1,0001596796,Common Stock
+A,03/20/2023 00:00:00,WATSON DAVID N,4,A-Award,--D,26.1076,8809.4075,1,0001276908,Restricted Stock Units
+A,03/20/2023 00:00:00,Morse Robert Randolph,4,A-Award,--D,26.1076,8809.4075,1,0001569086,Restricted Stock Units
+A,03/20/2023 00:00:00,McCourt MaryFrances,4,A-Award,--D,26.1076,8809.4075,1,0001730724,Restricted Stock Units
+A,03/20/2023 00:00:00,Liao Daniel JL,4,A-Award,--D,26.1076,8809.4075,1,0001775769,Restricted Stock Units
+A,03/20/2023 00:00:00,KIM SUSAN Y,4,A-Award,--D,26.1076,8809.4075,1,0001158922,Restricted Stock Units
+A,03/20/2023 00:00:00,CHURCHILL WINSTON J,4,A-Award,--D,26.1076,8809.4075,1,0000923792,Restricted Stock Units
+A,03/20/2023 00:00:00,Carolin Roger Anthony,4,A-Award,--D,26.1076,8809.4075,1,0001351909,Restricted Stock Units
+A,03/20/2023 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,26.1076,8809.4075,1,0001195858,Restricted Stock Units
+A,03/20/2023 00:00:00,Tily Gil C.,4,A-Award,--D,26.1076,8809.4075,2,0001405591,Restricted Stock Units
+D,03/16/2023 00:00:00,Faust Megan,4,M-Exempt,--D,6000,38500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,03/16/2023 00:00:00,Faust Megan,4,S-Sale,--D,6000,35394,2,0001684564,Common Stock
+A,03/16/2023 00:00:00,Faust Megan,4,M-Exempt,--D,6000,41394,1,0001684564,Common Stock
+D,03/15/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,112500,5,0001596796,Employee Stock Option (Right-to-Buy)
+D,03/15/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,5000,15265,4,0001596796,Employee Stock Option (Right-to-Buy)
+D,03/15/2023 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,30000,134808,3,0001596796,Common Stock
+A,03/15/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,164808,2,0001596796,Common Stock
+A,03/15/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,5000,154808,1,0001596796,Common Stock
+D,02/27/2023 00:00:00,Tily Gil C.,4,M-Exempt,--D,20000,0,3,0001405591,Director Stock Option (Right-to-Buy)
+D,02/27/2023 00:00:00,Tily Gil C.,4,S-Sale,--D,20000,137924,2,0001405591,Common Stock
+A,02/27/2023 00:00:00,Tily Gil C.,4,M-Exempt,--D,20000,157924,1,0001405591,Common Stock
+D,02/24/2023 00:00:00,Rutten Guillaume Marie Jean,4/A,F-InKind,--D,940,149808,2,0001596796,Common Stock
+A,02/24/2023 00:00:00,Rutten Guillaume Marie Jean,4/A,M-Exempt,--D,10748,150748,1,0001596796,Common Stock
+D,02/24/2023 00:00:00,Shin Sung,4,M-Exempt,--D,941,2820,3,0001851258,Restricted Stock Units
+A,02/24/2023 00:00:00,Shin Sung,4,M-Exempt,--D,941,20418,2,0001851258,Common Stock
+A,02/24/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10748,32244,3,0001596796,Restricted Stock Units
+D,02/24/2023 00:00:00,Rutten Guillaume Marie Jean,4,F-InKind,--D,940,179808,2,0001596796,Common Stock
+A,02/24/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10748,180748,1,0001596796,Common Stock
+D,02/24/2023 00:00:00,Haghighi Farshad,4,M-Exempt,--D,1816,5642,5,0001887579,Restricted Stock Units
+D,02/24/2023 00:00:00,Haghighi Farshad,4,F-InKind,--D,792,9911,4,0001887579,Common Stock
+A,02/24/2023 00:00:00,Haghighi Farshad,4,M-Exempt,--D,1816,10703,3,0001887579,Common Stock
+D,02/24/2023 00:00:00,Engel Kevin,4,M-Exempt,--D,941,2820,8,0001965254,Restricted Stock Units
+D,02/24/2023 00:00:00,Engel Kevin,4,F-InKind,--D,392,3570,6,0001965254,Common Stock
+A,02/24/2023 00:00:00,Engel Kevin,4,M-Exempt,--D,941,3962,5,0001965254,Common Stock
+D,02/24/2023 00:00:00,Faust Megan,4,M-Exempt,--D,3493,10479,5,0001684564,Restricted Stock Units
+D,02/24/2023 00:00:00,Faust Megan,4,F-InKind,--D,1497,35394,4,0001684564,Common Stock
+A,02/24/2023 00:00:00,Faust Megan,4,M-Exempt,--D,3493,36891,3,0001684564,Common Stock
+D,02/24/2023 00:00:00,ROGERS MARK N,4,M-Exempt,--D,1881,5642,5,0001201997,Restricted Stock Units
+D,02/24/2023 00:00:00,ROGERS MARK N,4,F-InKind,--D,807,25815,4,0001201997,Common Stock
+A,02/24/2023 00:00:00,ROGERS MARK N,4,M-Exempt,--D,1881,26622,3,0001201997,Common Stock
+D,02/24/2023 00:00:00,KIM JAMES J,4,M-Exempt,--D,2599,8149,18,0001158839,Restricted Stock Units
+D,02/24/2023 00:00:00,KIM JAMES J,4,F-InKind,--D,1053,5156255,9,0001158839,Common Stock
+A,02/24/2023 00:00:00,KIM JAMES J,4,M-Exempt,--D,2599,5157308,8,0001158839,Common Stock
+D,02/24/2023 00:00:00,KIM AGNES C,4,M-Exempt,--I,2599,8149,11,0001158840,Restricted Stock Units
+D,02/24/2023 00:00:00,KIM AGNES C,4,F-InKind,--I,1053,71365613,9,0001158840,Common Stock
+A,02/24/2023 00:00:00,KIM AGNES C,4,M-Exempt,--I,2599,71366666,8,0001158840,Common Stock
+D,02/23/2023 00:00:00,Engel Kevin,4,M-Exempt,--D,6250,0,7,0001965254,Employee Stock Option (Right-to-Buy)
+D,02/23/2023 00:00:00,Engel Kevin,4,S-Sale,--D,14250,3021,4,0001965254,Common Stock
+A,02/23/2023 00:00:00,Engel Kevin,4,M-Exempt,--D,6250,17271,3,0001965254,Common Stock
+A,02/22/2023 00:00:00,Shin Sung,4,A-Award,--D,17843,19477,1,0001851258,Common Stock
+D,02/22/2023 00:00:00,Haghighi Farshad,4,F-InKind,--D,6776,8887,2,0001887579,Common Stock
+A,02/22/2023 00:00:00,Haghighi Farshad,4,A-Award,--D,14869,15663,1,0001887579,Common Stock
+D,02/22/2023 00:00:00,Engel Kevin,4,F-InKind,--D,7804,11021,2,0001965254,Common Stock
+A,02/22/2023 00:00:00,Engel Kevin,4,A-Award,--D,17843,18825,1,0001965254,Common Stock
+D,02/22/2023 00:00:00,Faust Megan,4,F-InKind,--D,17841,33398,2,0001684564,Common Stock
+A,02/22/2023 00:00:00,Faust Megan,4,A-Award,--D,41634,51239,1,0001684564,Common Stock
+D,02/22/2023 00:00:00,ROGERS MARK N,4,F-InKind,--D,15343,24741,2,0001201997,Common Stock
+A,02/22/2023 00:00:00,ROGERS MARK N,4,A-Award,--D,35686,40084,1,0001201997,Common Stock
+D,02/22/2023 00:00:00,KIM JAMES J,4,F-InKind,--D,25267,5154709,7,0001158839,Common Stock
+A,02/22/2023 00:00:00,KIM JAMES J,4,A-Award,--D,59477,5179976,6,0001158839,Common Stock
+A,02/22/2023 00:00:00,KIM JAMES J,4,J-Other,-ED,384000,5120499,5,0001158839,Common Stock
+A,02/22/2023 00:00:00,KIM JAMES J,4,J-Other,-ED,384000,4736499,4,0001158839,Common Stock
+A,02/22/2023 00:00:00,KIM JAMES J,4,J-Other,-ED,384000,4352499,3,0001158839,Common Stock
+A,02/22/2023 00:00:00,KIM JAMES J,4,J-Other,-ED,384000,3968499,2,0001158839,Common Stock
+A,02/22/2023 00:00:00,KIM JAMES J,4,J-Other,-ED,384000,3584499,1,0001158839,Common Stock
+D,02/22/2023 00:00:00,KIM AGNES C,4,F-InKind,--I,25267,71364067,7,0001158840,Common Stock
+A,02/22/2023 00:00:00,KIM AGNES C,4,A-Award,--I,59477,71389334,6,0001158840,Common Stock
+A,02/22/2023 00:00:00,KIM AGNES C,4,J-Other,-EI,384000,71329857,5,0001158840,Common Stock
+A,02/22/2023 00:00:00,KIM AGNES C,4,J-Other,-EI,384000,70945857,4,0001158840,Common Stock
+A,02/22/2023 00:00:00,KIM AGNES C,4,J-Other,-EI,384000,70561857,3,0001158840,Common Stock
+A,02/22/2023 00:00:00,KIM AGNES C,4,J-Other,-EI,384000,70177857,2,0001158840,Common Stock
+A,02/22/2023 00:00:00,KIM AGNES C,4,J-Other,-EI,384000,69793857,1,0001158840,Common Stock
+D,02/22/2023 00:00:00,KIM SUSAN Y,4,S-Sale,--I,384000,7261498,5,0001158922,Common Stock
+D,02/22/2023 00:00:00,KIM SUSAN Y,4,S-Sale,--I,384000,7645498,4,0001158922,Common Stock
+D,02/22/2023 00:00:00,KIM SUSAN Y,4,S-Sale,--I,384000,8029498,3,0001158922,Common Stock
+D,02/22/2023 00:00:00,KIM SUSAN Y,4,S-Sale,--I,384000,8413498,2,0001158922,Common Stock
+D,02/22/2023 00:00:00,KIM SUSAN Y,4,S-Sale,--I,384000,8797498,1,0001158922,Common Stock
+D,02/22/2023 00:00:00,KIM JOHN T,4,S-Sale,--I,384000,11964832,5,0001158926,Common Stock
+D,02/22/2023 00:00:00,KIM JOHN T,4,S-Sale,--I,384000,12348832,4,0001158926,Common Stock
+D,02/22/2023 00:00:00,KIM JOHN T,4,S-Sale,--I,384000,12732832,3,0001158926,Common Stock
+D,02/22/2023 00:00:00,KIM JOHN T,4,S-Sale,--I,384000,13116832,2,0001158926,Common Stock
+D,02/22/2023 00:00:00,KIM JOHN T,4,S-Sale,--I,384000,13500832,1,0001158926,Common Stock
+A,02/16/2023 00:00:00,Shin Sung,4,A-Award,--D,3247,3247,4,0001851258,Restricted Stock Units
+A,02/16/2023 00:00:00,ROGERS MARK N,4,A-Award,--D,7423,7423,1,0001201997,Restricted Stock Units
+A,02/16/2023 00:00:00,Engel Kevin,4,A-Award,--D,5567,5567,1,0001965254,Restricted Stock Units
+A,02/16/2023 00:00:00,KIM AGNES C,4,A-Award,--I,9279,9279,1,0001158840,Restricted Stock Units
+A,02/16/2023 00:00:00,KIM JAMES J,4,A-Award,--D,9279,9279,1,0001158839,Restricted Stock Units
+A,02/16/2023 00:00:00,Rutten Guillaume Marie Jean,4,A-Award,--D,55679,55679,6,0001596796,Restricted Stock Units
+A,02/16/2023 00:00:00,Haghighi Farshad,4,A-Award,--D,7423,7423,4,0001887579,Restricted Stock Units
+A,02/16/2023 00:00:00,Faust Megan,4,A-Award,--D,16703,16703,4,0001684564,Restricted Stock Units
+D,02/16/2023 00:00:00,Faust Megan,4,M-Exempt,--D,6000,44500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,02/16/2023 00:00:00,Faust Megan,4,S-Sale,--D,6000,9605,2,0001684564,Common Stock
+A,02/16/2023 00:00:00,Faust Megan,4,M-Exempt,--D,6000,15605,1,0001684564,Common Stock
+D,02/16/2023 00:00:00,CHURCHILL WINSTON J,4,M-Exempt,--D,20000,0,3,0000923792,Director Stock Option (Right-to-Buy)
+D,02/16/2023 00:00:00,CHURCHILL WINSTON J,4,S-Sale,--D,20000,14394,2,0000923792,Common Stock
+A,02/16/2023 00:00:00,CHURCHILL WINSTON J,4,M-Exempt,--D,20000,34394,1,0000923792,Common Stock
+D,02/15/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,122500,5,0001596796,Employee Stock Option (Right-to-Buy)
+D,02/15/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,5000,20625,4,0001596796,Employee Stock Option (Right-to-Buy)
+D,02/15/2023 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,30000,140000,3,0001596796,Common Stock
+A,02/15/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,170000,2,0001596796,Common Stock
+A,02/15/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,5000,160000,1,0001596796,Common Stock
+D,02/15/2023 00:00:00,Haghighi Farshad,4,M-Exempt,--D,6250,0,3,0001887579,Employee Stock Option (Right-to-Buy)
+D,02/15/2023 00:00:00,Haghighi Farshad,4,S-Sale,--D,6250,794,2,0001887579,Common Stock
+A,02/15/2023 00:00:00,Haghighi Farshad,4,M-Exempt,--D,6250,7044,1,0001887579,Common Stock
+D,02/10/2023 00:00:00,KIM AGNES C,4,M-Exempt,--I,2630,5446,4,0001158840,Restricted Stock Units
+D,02/10/2023 00:00:00,KIM AGNES C,4,F-InKind,--I,1081,69409857,2,0001158840,Common Stock
+A,02/10/2023 00:00:00,KIM AGNES C,4,M-Exempt,--I,2630,69410938,1,0001158840,Common Stock
+D,02/10/2023 00:00:00,ROGERS MARK N,4,M-Exempt,--D,1634,3268,3,0001201997,Restricted Stock Units
+D,02/10/2023 00:00:00,ROGERS MARK N,4,F-InKind,--D,787,4398,2,0001201997,Common Stock
+A,02/10/2023 00:00:00,ROGERS MARK N,4,M-Exempt,--D,1634,5185,1,0001201997,Common Stock
+D,02/10/2023 00:00:00,KIM JAMES J,4,M-Exempt,--D,2630,5446,11,0001158839,Restricted Stock Units
+D,02/10/2023 00:00:00,KIM JAMES J,4,F-InKind,--D,1081,2714899,2,0001158839,Common Stock
+A,02/10/2023 00:00:00,KIM JAMES J,4,M-Exempt,--D,2630,2715980,1,0001158839,Common Stock
+D,02/10/2023 00:00:00,Haghighi Farshad,4,M-Exempt,--D,657,1361,3,0001887579,Restricted Stock Units
+D,02/10/2023 00:00:00,Haghighi Farshad,4,F-InKind,--D,297,794,2,0001887579,Common Stock
+A,02/10/2023 00:00:00,Haghighi Farshad,4,M-Exempt,--D,657,1091,1,0001887579,Common Stock
+D,02/10/2023 00:00:00,Faust Megan,4,M-Exempt,--D,1906,3812,3,0001684564,Restricted Stock Units
+D,02/10/2023 00:00:00,Faust Megan,4,F-InKind,--D,813,9605,2,0001684564,Common Stock
+A,02/10/2023 00:00:00,Faust Megan,4,M-Exempt,--D,1906,10418,1,0001684564,Common Stock
+D,02/10/2023 00:00:00,Engel Kevin,4,M-Exempt,--D,817,1634,3,0001965254,Restricted Stock Units
+D,02/10/2023 00:00:00,Engel Kevin,4,F-InKind,--D,360,982,2,0001965254,Common Stock
+A,02/10/2023 00:00:00,Engel Kevin,4,M-Exempt,--D,817,1342,1,0001965254,Common Stock
+D,02/09/2023 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,667225,2660840,2,0001158922,Common Stock
+D,02/09/2023 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,485600,1867747,1,0001158922,Common Stock
+A,02/09/2023 00:00:00,KIM JAMES J,4,G-Gift,-EI,667225,3278001,1,0001158839,Common Stock
+A,02/09/2023 00:00:00,KIM AGNES C,4,G-Gift,-ED,667225,3278001,1,0001158840,Common Stock
+D,02/09/2023 00:00:00,James J. Kim 2021 Qualified Annuity Trust U/A Dated 12/15/2021,4,G-Gift,-ED,485600,1867747,1,0001906235,Common Stock
+D,02/09/2023 00:00:00,Agnes C. Kim 2020-1 Qualified Annuity Trust Under Agreement Dated 12/16/20,4,G-Gift,-ED,667225,2660840,1,0001837174,Common Stock
+D,01/19/2023 00:00:00,Faust Megan,4,M-Exempt,--D,6000,50500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,01/19/2023 00:00:00,Faust Megan,4,S-Sale,--D,6000,8512,2,0001684564,Common Stock
+A,01/19/2023 00:00:00,Faust Megan,4,M-Exempt,--D,6000,14512,1,0001684564,Common Stock
+D,01/17/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,132500,5,0001596796,Employee Stock Option (Right-to-Buy)
+D,01/17/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,5000,25625,4,0001596796,Employee Stock Option (Right-to-Buy)
+D,01/17/2023 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,30000,155000,3,0001596796,Common Stock
+A,01/17/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,185000,2,0001596796,Common Stock
+A,01/17/2023 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,5000,175000,1,0001596796,Common Stock
+A,12/27/2022 00:00:00,WATSON DAVID N,4,A-Award,--D,26.7602,8783.2999,1,0001276908,Restricted Stock Units
+A,12/27/2022 00:00:00,Tily Gil C.,4,A-Award,--D,26.7602,8783.2999,1,0001405591,Restricted Stock Units
+A,12/27/2022 00:00:00,Morse Robert Randolph,4,A-Award,--D,26.7602,8783.2999,1,0001569086,Restricted Stock Units
+A,12/27/2022 00:00:00,McCourt MaryFrances,4,A-Award,--D,26.7602,8783.2999,1,0001730724,Restricted Stock Units
+A,12/27/2022 00:00:00,Liao Daniel JL,4,A-Award,--D,26.7602,8783.2999,1,0001775769,Restricted Stock Units
+A,12/27/2022 00:00:00,KIM SUSAN Y,4,A-Award,--D,26.7602,8783.2999,1,0001158922,Restricted Stock Units
+A,12/27/2022 00:00:00,CHURCHILL WINSTON J,4,A-Award,--D,26.7602,8783.2999,1,0000923792,Restricted Stock Units
+A,12/27/2022 00:00:00,Carolin Roger Anthony,4,A-Award,--D,26.7602,8783.2999,1,0001351909,Restricted Stock Units
+A,12/27/2022 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,26.7602,8783.2999,1,0001195858,Restricted Stock Units
+D,12/19/2022 00:00:00,KIM JAMES J,4,M-Exempt,--D,88,10660,14,0001158839,Restricted Stock Units
+D,12/19/2022 00:00:00,KIM JAMES J,4,M-Exempt,--D,93,8076,13,0001158839,Restricted Stock Units
+D,12/19/2022 00:00:00,KIM JAMES J,4,F-InKind,--D,88,2713350,4,0001158839,Common Stock
+A,12/19/2022 00:00:00,KIM JAMES J,4,M-Exempt,--D,88,2713438,3,0001158839,Common Stock
+D,12/19/2022 00:00:00,KIM JAMES J,4,F-InKind,--D,93,2713350,2,0001158839,Common Stock
+A,12/19/2022 00:00:00,KIM JAMES J,4,M-Exempt,--D,93,2713443,1,0001158839,Common Stock
+D,12/19/2022 00:00:00,Haghighi Farshad,4,M-Exempt,--D,65,7458,6,0001887579,Restricted Stock Units
+D,12/19/2022 00:00:00,Haghighi Farshad,4,M-Exempt,--D,24,2018,5,0001887579,Restricted Stock Units
+D,12/19/2022 00:00:00,Haghighi Farshad,4,F-InKind,--D,65,434,4,0001887579,Common Stock
+A,12/19/2022 00:00:00,Haghighi Farshad,4,M-Exempt,--D,65,499,3,0001887579,Common Stock
+D,12/19/2022 00:00:00,Haghighi Farshad,4,F-InKind,--D,24,434,2,0001887579,Common Stock
+A,12/19/2022 00:00:00,Haghighi Farshad,4,M-Exempt,--D,24,458,1,0001887579,Common Stock
+D,12/19/2022 00:00:00,KIM AGNES C,4/A,M-Exempt,--I,88,10660,5,0001158840,Restricted Stock Units
+D,12/19/2022 00:00:00,KIM AGNES C,4/A,M-Exempt,--I,93,8076,4,0001158840,Restricted Stock Units
+D,12/19/2022 00:00:00,KIM AGNES C,4/A,F-InKind,--I,88,69408308,2,0001158840,Common Stock
+D,12/19/2022 00:00:00,KIM AGNES C,4/A,F-InKind,--I,93,69408308,1,0001158840,Common Stock
+D,12/19/2022 00:00:00,KIM AGNES C,4,F-InKind,--I,88,69408308,4,0001158840,Common Stock
+A,12/19/2022 00:00:00,KIM AGNES C,4,M-Exempt,--I,88,69408396,3,0001158840,Common Stock
+D,12/19/2022 00:00:00,KIM AGNES C,4,F-InKind,--I,93,69408308,2,0001158840,Common Stock
+A,12/19/2022 00:00:00,KIM AGNES C,4,M-Exempt,--I,93,69408401,1,0001158840,Common Stock
+D,12/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,142500,5,0001596796,Employee Stock Option (Right-to-Buy)
+D,12/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,5000,30625,4,0001596796,Employee Stock Option (Right-to-Buy)
+D,12/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,30000,170000,3,0001596796,Common Stock
+A,12/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,200000,2,0001596796,Common Stock
+A,12/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,5000,190000,1,0001596796,Common Stock
+D,12/15/2022 00:00:00,Faust Megan,4,M-Exempt,--D,6000,56500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,12/15/2022 00:00:00,Faust Megan,4,S-Sale,--D,6000,8512,2,0001684564,Common Stock
+A,12/15/2022 00:00:00,Faust Megan,4,M-Exempt,--D,6000,14512,1,0001684564,Common Stock
+D,12/07/2022 00:00:00,CHURCHILL WINSTON J,4,M-Exempt,--D,20000,0,3,0000923792,Director Stock Option (Right-to-Buy)
+D,12/07/2022 00:00:00,CHURCHILL WINSTON J,4,S-Sale,--D,20000,14394,2,0000923792,Common Stock
+A,12/07/2022 00:00:00,CHURCHILL WINSTON J,4,M-Exempt,--D,20000,34394,1,0000923792,Common Stock
+D,12/06/2022 00:00:00,"Qualified Annuity Trust under the James J. Kim 2019-1 Qualified Annuity Trust Agreement dtd September10,2019",4,G-Gift,-ED,1051880,0,3,0001792394,Common Stock
+D,12/06/2022 00:00:00,"Qualified Annuity Trust under the James J. Kim 2019-1 Qualified Annuity Trust Agreement dtd September10,2019",4,G-Gift,-ED,1051880,1051880,2,0001792394,Common Stock
+D,12/06/2022 00:00:00,KIM AGNES C,4,G-Gift,-EI,1051880,69408308,3,0001158840,Common Stock
+D,12/06/2022 00:00:00,KIM AGNES C,4,G-Gift,-EI,1051880,70460188,2,0001158840,Common Stock
+A,12/06/2022 00:00:00,KIM SUSAN Y,4,G-Gift,-ED,1051880,6973614,4,0001158922,Common Stock
+D,12/06/2022 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,1051880,0,3,0001158922,Common Stock
+D,12/06/2022 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,1051880,1051880,2,0001158922,Common Stock
+D,12/06/2022 00:00:00,KIM JAMES J,4,G-Gift,-EI,1051880,3470970,4,0001158839,Common Stock
+D,12/06/2022 00:00:00,KIM JAMES J,4,G-Gift,-EI,1051880,4522850,3,0001158839,Common Stock
+A,12/06/2022 00:00:00,KIM JOHN T,4,G-Gift,-ED,1051880,4184005,1,0001158926,Common Stock
+D,12/01/2022 00:00:00,"Qualified Annuity Trust under the James J. Kim 2019-1 Qualified Annuity Trust Agreement dtd September10,2019",4,G-Gift,-ED,572151,2103760,1,0001792394,Common Stock
+D,12/01/2022 00:00:00,KIM AGNES C,4,G-Gift,-EI,116500,71512068,1,0001158840,Common Stock
+D,12/01/2022 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,572151,2103760,1,0001158922,Common Stock
+D,12/01/2022 00:00:00,"Qualified Annuity Trust under the Susan Y. Kim 2018-1 Irrevocable Trust Agreement dtd August 29, 2018",4,G-Gift,-ED,116500,1379943,1,0001755764,Common Stock
+D,12/01/2022 00:00:00,KIM JAMES J,4,G-Gift,-EI,116500,1379943,1,0001158839,Common Stock
+D,11/18/2022 00:00:00,Faust Megan,4,M-Exempt,--D,10000,0,8,0001684564,Employee Stock Option (Right-to-Buy)
+D,11/18/2022 00:00:00,Faust Megan,4,M-Exempt,--D,20000,62500,7,0001684564,Employee Stock Option (Right-to-Buy)
+D,11/18/2022 00:00:00,Faust Megan,4,S-Sale,--D,30000,8512,5,0001684564,Common Stock
+A,11/18/2022 00:00:00,Faust Megan,4,M-Exempt,--D,10000,38512,4,0001684564,Common Stock
+A,11/18/2022 00:00:00,Faust Megan,4,M-Exempt,--D,20000,28512,3,0001684564,Common Stock
+D,11/17/2022 00:00:00,Faust Megan,4,M-Exempt,--D,6000,82500,6,0001684564,Employee Stock Option (Right-to-Buy)
+D,11/17/2022 00:00:00,Faust Megan,4,S-Sale,--D,6000,8512,2,0001684564,Common Stock
+A,11/17/2022 00:00:00,Faust Megan,4,M-Exempt,--D,6000,14512,1,0001684564,Common Stock
+D,11/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,152500,6,0001596796,Employee Stock Option (Right-to-Buy)
+D,11/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,5000,35625,5,0001596796,Employee Stock Option (Right-to-Buy)
+D,11/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,12307,185000,4,0001596796,Common Stock
+D,11/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,17693,197307,3,0001596796,Common Stock
+A,11/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,215000,2,0001596796,Common Stock
+A,11/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,5000,205000,1,0001596796,Common Stock
+D,11/15/2022 00:00:00,Haghighi Farshad,4,M-Exempt,--D,6250,6250,4,0001887579,Employee Stock Option (Right-to-Buy)
+D,11/15/2022 00:00:00,Haghighi Farshad,4,S-Sale,--D,1445,434,3,0001887579,Common Stock
+D,11/15/2022 00:00:00,Haghighi Farshad,4,S-Sale,--D,14631,1879,2,0001887579,Common Stock
+A,11/15/2022 00:00:00,Haghighi Farshad,4,M-Exempt,--D,6250,16510,1,0001887579,Common Stock
+D,11/11/2022 00:00:00,Haghighi Farshad,4,M-Exempt,--D,25000,12500,3,0001887579,Employee Stock Option (Right-to-Buy)
+D,11/11/2022 00:00:00,Haghighi Farshad,4,S-Sale,--D,25000,10260,2,0001887579,Common Stock
+A,11/11/2022 00:00:00,Haghighi Farshad,4,M-Exempt,--D,25000,35260,1,0001887579,Common Stock
+D,11/08/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,20000,162500,5,0001596796,Employee Stock Option (Right-to-Buy)
+D,11/08/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,40625,4,0001596796,Employee Stock Option (Right-to-Buy)
+D,11/08/2022 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,60000,200000,3,0001596796,Common Stock
+A,11/08/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,20000,260000,2,0001596796,Common Stock
+A,11/08/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,240000,1,0001596796,Common Stock
+D,10/21/2022 00:00:00,Faust Megan,4,M-Exempt,--D,6000,88500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,10/21/2022 00:00:00,Faust Megan,4,S-Sale,--D,6000,8512,2,0001684564,Common Stock
+A,10/21/2022 00:00:00,Faust Megan,4,M-Exempt,--D,6000,14512,1,0001684564,Common Stock
+D,10/06/2022 00:00:00,Faust Megan,4,M-Exempt,--D,6000,94500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,10/06/2022 00:00:00,Faust Megan,4,S-Sale,--D,6000,8512,2,0001684564,Common Stock
+A,10/06/2022 00:00:00,Faust Megan,4,M-Exempt,--D,6000,14512,1,0001684564,Common Stock
+A,09/26/2022 00:00:00,WATSON DAVID N,4,A-Award,--D,25.9881,8756.5397,1,0001276908,Restricted Stock Units
+A,09/26/2022 00:00:00,Tily Gil C.,4,A-Award,--D,25.9881,8756.5397,1,0001405591,Restricted Stock Units
+A,09/26/2022 00:00:00,Morse Robert Randolph,4,A-Award,--D,25.9881,8756.5397,1,0001569086,Restricted Stock Units
+A,09/26/2022 00:00:00,McCourt MaryFrances,4,A-Award,--D,25.9881,8756.5397,1,0001730724,Restricted Stock Units
+A,09/26/2022 00:00:00,Liao Daniel JL,4,A-Award,--D,25.9881,8756.5397,1,0001775769,Restricted Stock Units
+A,09/26/2022 00:00:00,KIM SUSAN Y,4,A-Award,--D,25.9881,8756.5397,1,0001158922,Restricted Stock Units
+A,09/26/2022 00:00:00,CHURCHILL WINSTON J,4,A-Award,--D,25.9881,8756.5397,1,0000923792,Restricted Stock Units
+A,09/26/2022 00:00:00,Carolin Roger Anthony,4,A-Award,--D,25.9881,8756.5397,1,0001351909,Restricted Stock Units
+A,09/26/2022 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,25.9881,8756.5397,1,0001195858,Restricted Stock Units
+D,09/07/2022 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,283500,1117623,1,0001158922,Common Stock
+D,09/07/2022 00:00:00,Qualified Annuity Trust under the James J. Kim 2020-1 Annuity Trust Agreement dated 04/01/2020,4,G-Gift,-ED,283500,1117623,1,0001845367,Common Stock
+D,08/18/2022 00:00:00,Faust Megan,4,M-Exempt,--D,6000,100500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,08/18/2022 00:00:00,Faust Megan,4,S-Sale,--D,6000,8512,2,0001684564,Common Stock
+A,08/18/2022 00:00:00,Faust Megan,4,M-Exempt,--D,6000,14512,1,0001684564,Common Stock
+D,08/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,182500,5,0001596796,Employee Stock Option (Right-to-Buy)
+D,08/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,5000,50625,4,0001596796,Employee Stock Option (Right-to-Buy)
+D,08/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,30000,230000,3,0001596796,Common Stock
+A,08/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,260000,2,0001596796,Common Stock
+A,08/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,5000,250000,1,0001596796,Common Stock
+D,08/02/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,20000,192500,5,0001596796,Employee Stock Option (Right-to-Buy)
+D,08/02/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,55625,4,0001596796,Employee Stock Option (Right-to-Buy)
+D,08/02/2022 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,60000,245000,3,0001596796,Common Stock
+A,08/02/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,20000,305000,2,0001596796,Common Stock
+A,08/02/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,285000,1,0001596796,Common Stock
+D,07/21/2022 00:00:00,Faust Megan,4,M-Exempt,--D,12000,106500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,07/21/2022 00:00:00,Faust Megan,4,S-Sale,--D,12000,8512,2,0001684564,Common Stock
+A,07/21/2022 00:00:00,Faust Megan,4,M-Exempt,--D,12000,20512,1,0001684564,Common Stock
+D,07/12/2022 00:00:00,KIM JAMES J,4,G-Gift,-EI,429750,2298355,1,0001158839,Common Stock
+D,07/12/2022 00:00:00,KIM AGNES C,4,G-Gift,-EI,429750,71628568,1,0001158840,Common Stock
+D,07/12/2022 00:00:00,Qualified Annuity Trust under the Susan Y. Kim 2020-1 Irrevocable Trust Agreement dated 04/01/2020,4,G-Gift,-ED,429750,2298355,1,0001845366,Common Stock
+A,06/27/2022 00:00:00,WATSON DAVID N,4,A-Award,--D,24.5516,8730.5516,3,0001276908,Restricted Stock Units
+A,06/27/2022 00:00:00,Tily Gil C.,4,A-Award,--D,24.5516,8730.5516,3,0001405591,Restricted Stock Units
+A,06/27/2022 00:00:00,Morse Robert Randolph,4,A-Award,--D,24.5516,8730.5516,1,0001569086,Restricted Stock Units
+A,06/27/2022 00:00:00,McCourt MaryFrances,4,A-Award,--D,24.5516,8730.5516,3,0001730724,Restricted Stock Units
+A,06/27/2022 00:00:00,Liao Daniel JL,4,A-Award,--D,24.5516,8730.5516,3,0001775769,Restricted Stock Units
+A,06/27/2022 00:00:00,KIM SUSAN Y,4,A-Award,--D,24.5516,8730.5516,13,0001158922,Restricted Stock Units
+A,06/27/2022 00:00:00,CHURCHILL WINSTON J,4,A-Award,--D,24.5516,8730.5516,3,0000923792,Restricted Stock Units
+A,06/27/2022 00:00:00,Carolin Roger Anthony,4,A-Award,--D,24.5516,8730.5516,3,0001351909,Restricted Stock Units
+A,06/27/2022 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,24.5516,8730.5516,3,0001195858,Restricted Stock Units
+D,06/23/2022 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,274900,753232,2,0001158922,Common Stock
+D,06/23/2022 00:00:00,Qualified Annuity Trust under the John T. Kim 2018 Irrevocable Trust Agreement Dated 2/6/18,4,G-Gift,-ED,274900,753232,1,0001732522,Common Stock
+D,06/09/2022 00:00:00,Faust Megan,4,M-Exempt,--D,6000,118500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,06/09/2022 00:00:00,Faust Megan,4,S-Sale,--D,6000,8512,2,0001684564,Common Stock
+A,06/09/2022 00:00:00,Faust Megan,4,M-Exempt,--D,6000,14512,1,0001684564,Common Stock
+D,05/24/2022 00:00:00,Morse Robert Randolph,4,M-Exempt,--D,20000,0,2,0001569086,Director Stock Option (Right-to-Buy)
+A,05/24/2022 00:00:00,Morse Robert Randolph,4,M-Exempt,--D,20000,69583,1,0001569086,Common Stock
+A,05/17/2022 00:00:00,WATSON DAVID N,4,A-Award,--D,8706,48289,1,0001276908,Common Stock
+A,05/17/2022 00:00:00,Tily Gil C.,4,A-Award,--D,8706,137924,1,0001405591,Common Stock
+A,05/17/2022 00:00:00,Morse Robert Randolph,4,A-Award,--D,8706,58289,1,0001569086,Common Stock
+A,05/17/2022 00:00:00,McCourt MaryFrances,4,A-Award,--D,8706,49798,1,0001730724,Common Stock
+A,05/17/2022 00:00:00,Liao Daniel JL,4,A-Award,--D,8706,26113,1,0001775769,Common Stock
+A,05/17/2022 00:00:00,Carolin Roger Anthony,4,A-Award,--D,8706,48289,1,0001351909,Common Stock
+A,05/17/2022 00:00:00,KIM SUSAN Y,4,A-Award,--D,8706,5384190,1,0001158922,Common Stock
+A,05/17/2022 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,8706,31798,1,0001195858,Common Stock
+A,05/17/2022 00:00:00,CHURCHILL WINSTON J,4,A-Award,--D,8706,23100,1,0000923792,Common Stock
+A,04/04/2022 00:00:00,KIM AGNES C,4,G-Gift,-ED,755000,2610776,1,0001158840,Common Stock
+D,04/04/2022 00:00:00,Agnes C. Kim 2020-1 Qualified Annuity Trust Under Agreement Dated 12/16/20,4,G-Gift,-ED,755000,3328065,1,0001837174,Common Stock
+D,04/04/2022 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,755000,3328065,1,0001158922,Common Stock
+A,04/04/2022 00:00:00,KIM JAMES J,4,G-Gift,-EI,755000,2610776,1,0001158839,Common Stock
+D,03/16/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,212500,3,0001596796,Employee Stock Option (Right-to-Buy)
+D,03/16/2022 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,25000,317992,2,0001596796,Common Stock
+A,03/16/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,342992,1,0001596796,Common Stock
+D,03/08/2022 00:00:00,KIM JOHN T,4,M-Exempt,--D,20000,0,8,0001158926,Director stock option (right to buy)
+D,03/08/2022 00:00:00,KIM JOHN T,4,M-Exempt,--D,20000,0,7,0001158926,Director stock option (right to buy)
+D,03/08/2022 00:00:00,KIM JOHN T,4,M-Exempt,--D,20000,0,6,0001158926,Director stock option (right to buy)
+D,03/08/2022 00:00:00,KIM JOHN T,4,M-Exempt,--D,20000,0,5,0001158926,Director stock option (right to buy)
+A,03/08/2022 00:00:00,KIM JOHN T,4,M-Exempt,--D,80000,2857225,1,0001158926,Common Stock
+A,02/24/2022 00:00:00,Rutten Guillaume Marie Jean,4,A-Award,--D,42992,332992,1,0001596796,Common Stock
+A,02/24/2022 00:00:00,Faust Megan,4,A-Award,--D,13972,28202,1,0001684564,Common Stock
+A,02/24/2022 00:00:00,Shin Sung,4,A-Award,--D,3761,7029,1,0001851258,Common Stock
+A,02/24/2022 00:00:00,ROGERS MARK N,4,A-Award,--D,7523,15976,1,0001201997,Common Stock
+A,02/24/2022 00:00:00,Haghighi Farshad,4,A-Award,--D,7523,19825,1,0001887579,Common Stock
+A,02/24/2022 00:00:00,KIM JAMES J,4,A-Award,--D,10748,1876616,1,0001158839,Common Stock
+A,02/24/2022 00:00:00,KIM AGNES C,4,A-Award,--I,10748,72077235,1,0001158840,Common Stock
+D,02/17/2022 00:00:00,Faust Megan,4,M-Exempt,--D,5000,124500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,02/17/2022 00:00:00,Faust Megan,4,S-Sale,--D,5000,14230,2,0001684564,Common Stock
+A,02/17/2022 00:00:00,Faust Megan,4,M-Exempt,--D,5000,19230,1,0001684564,Common Stock
+D,02/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,222500,3,0001596796,Employee Stock Option (Right-to-Buy)
+D,02/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,25000,290000,2,0001596796,Common Stock
+A,02/15/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,315000,1,0001596796,Common Stock
+D,02/11/2022 00:00:00,Faust Megan,4,F-InKind,--D,614,14230,1,0001684564,Common Stock
+D,02/11/2022 00:00:00,ROGERS MARK N,4,F-InKind,--D,583,8453,1,0001201997,Common Stock
+D,02/11/2022 00:00:00,Stone John Charles,4,F-InKind,--D,455,31038,1,0001581432,Common Stock
+D,02/11/2022 00:00:00,KIM JAMES J,4,F-InKind,--D,684,1865868,1,0001158839,Common Stock
+D,02/11/2022 00:00:00,Haghighi Farshad,4,F-InKind,--D,227,12302,1,0001887579,Common Stock
+D,02/11/2022 00:00:00,KIM AGNES C,4,F-InKind,--I,684,72066487,1,0001158840,Common Stock
+D,01/20/2022 00:00:00,Faust Megan,4,M-Exempt,--D,5000,129500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,01/20/2022 00:00:00,Faust Megan,4,S-Sale,--D,5000,14844,2,0001684564,Common Stock
+A,01/20/2022 00:00:00,Faust Megan,4,M-Exempt,--D,5000,19844,1,0001684564,Common Stock
+D,01/18/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,232500,3,0001596796,Employee Stock Option (Right-to-Buy)
+D,01/18/2022 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,25000,305000,2,0001596796,Common Stock
+A,01/18/2022 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,330000,1,0001596796,Common Stock
+D,01/18/2022 00:00:00,"Qualified Annuity Trust under the Susan Y. Kim 2018-1 Irrevocable Trust Agreement dtd August 29, 2018",4,G-Gift,-ED,125600,1496443,1,0001755764,Common Stock
+D,01/18/2022 00:00:00,KIM AGNES C,4,G-Gift,-EI,125600,72067171,1,0001158840,Common Stock
+D,01/18/2022 00:00:00,KIM JAMES J,4,G-Gift,-EI,125600,1496443,1,0001158839,Common Stock
+D,12/30/2021 00:00:00,KIM DAVID D,4,S-Sale,--I,1337332,2478325,4,0001158924,Common Stock
+D,12/30/2021 00:00:00,KIM DAVID D,4,S-Sale,--I,1187087,3815657,2,0001158924,Common Stock
+D,12/30/2021 00:00:00,KIM DAVID D,4,S-Sale,--I,1187087,5002744,1,0001158924,Common Stock
+D,12/30/2021 00:00:00,KIM JOHN T,4,S-Sale,--I,1337332,21963134,4,0001158926,Common Stock
+D,12/30/2021 00:00:00,KIM JOHN T,4,S-Sale,--I,1187087,23300466,3,0001158926,Common Stock
+D,12/30/2021 00:00:00,KIM JOHN T,4,S-Sale,--I,1187087,24487553,2,0001158926,Common Stock
+A,12/30/2021 00:00:00,KIM JAMES J,4,P-Purchase,--D,668666,1866552,4,0001158839,Common Stock
+A,12/30/2021 00:00:00,KIM JAMES J,4,P-Purchase,--I,668666,1855776,3,0001158839,Common Stock
+A,12/30/2021 00:00:00,KIM JAMES J,4,P-Purchase,--I,1187087,1187110,2,0001158839,Common Stock
+A,12/30/2021 00:00:00,KIM JAMES J,4,P-Purchase,--D,1187087,1197886,1,0001158839,Common Stock
+A,12/30/2021 00:00:00,KIM AGNES C,4,P-Purchase,--D,668666,1855776,2,0001158840,Common Stock
+A,12/30/2021 00:00:00,KIM AGNES C,4,P-Purchase,--D,1187807,1187110,1,0001158840,Common Stock
+D,12/30/2021 00:00:00,"Sujoda Management, LLC",4,S-Sale,--I,1337332,2478325,3,0001902339,Common Stock
+D,12/30/2021 00:00:00,"Sujoda Management, LLC",4,S-Sale,--I,1187087,3815657,2,0001902339,Common Stock
+D,12/30/2021 00:00:00,"Sujoda Management, LLC",4,S-Sale,--I,1187087,5002744,1,0001902339,Common Stock
+D,12/30/2021 00:00:00,KIM SUSAN Y,4,S-Sale,--I,1337332,21963134,4,0001158922,Common Stock
+D,12/30/2021 00:00:00,KIM SUSAN Y,4,S-Sale,--I,1187087,23300466,3,0001158922,Common Stock
+D,12/30/2021 00:00:00,KIM SUSAN Y,4,S-Sale,--I,1187087,24487553,2,0001158922,Common Stock
+D,12/30/2021 00:00:00,"SUJODA Investments, LP",4,S-Sale,--D,1337332,2478325,3,0001509340,Common Stock
+D,12/30/2021 00:00:00,"SUJODA Investments, LP",4,S-Sale,--D,1187087,3815657,2,0001509340,Common Stock
+D,12/30/2021 00:00:00,"SUJODA Investments, LP",4,S-Sale,--D,1187087,5002744,1,0001509340,Common Stock
+A,12/27/2021 00:00:00,KIM JAMES J,4/A,G-Gift,-EI,164678,12678815,1,0001158839,Common Stock
+A,12/27/2021 00:00:00,"Susan Y. Kim 2012 Generation-Skipping Trust U/A Dated December 11, 2012",4,G-Gift,-EI,164678,164678,1,0001906242,Common Stock
+D,12/27/2021 00:00:00,KIM SUSAN Y,4,G-Gift,-ED,164678,5249884,10,0001158922,Common Stock
+A,12/27/2021 00:00:00,KIM AGNES C,4,G-Gift,-EI,164678,74546118,5,0001158840,Common Stock
+A,12/27/2021 00:00:00,"Susins, LLC",4,G-Gift,-ED,164678,164678,1,0001901981,Common Stock
+A,12/27/2021 00:00:00,KIM JAMES J,4,G-Gift,-EI,164678,164678,4,0001158839,Common Stock
+D,12/21/2021 00:00:00,Stone John Charles,4,F-InKind,--D,59,31493,1,0001581432,Common Stock
+D,12/21/2021 00:00:00,Haghighi Farshad,4,F-InKind,--D,20,12529,1,0001887579,Common Stock
+D,12/21/2021 00:00:00,KIM JAMES J,4,F-InKind,--D,94,460799,1,0001158839,Common Stock
+D,12/16/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,134500,3,0001684564,Employee Stock Option (right-to-Buy)
+D,12/16/2021 00:00:00,Faust Megan,4,S-Sale,--D,5000,14844,2,0001684564,Common Stock
+A,12/16/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,19844,1,0001684564,Common Stock
+D,12/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,242500,3,0001596796,Employee Stock Option (Right-to-Buy)
+D,12/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,25000,320000,2,0001596796,Common Stock
+A,12/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,345000,1,0001596796,Common Stock
+A,12/15/2021 00:00:00,James J. Kim 2021 Qualified Annuity Trust U/A Dated 12/15/2021,4,G-Gift,-ED,596920,2353347,2,0001906235,Common Stock
+A,12/15/2021 00:00:00,James J. Kim 2021 Qualified Annuity Trust U/A Dated 12/15/2021,4,G-Gift,-ED,1756427,1756427,1,0001906235,Common Stock
+A,12/15/2021 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,596920,2353347,9,0001158922,Common Stock
+D,12/15/2021 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,596920,2675911,8,0001158922,Common Stock
+A,12/15/2021 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,1756427,1756427,7,0001158922,Common Stock
+D,12/15/2021 00:00:00,"Qualified Annuity Trust under the James J. Kim 2019-1 Qualified Annuity Trust Agreement dtd September10,2019",4,G-Gift,-ED,596920,2675911,1,0001792394,Common Stock
+D,11/29/2021 00:00:00,CHURCHILL WINSTON J,4,M-Exempt,--D,20000,0,3,0000923792,Director Stock Option (Right-to-Buy)
+D,11/29/2021 00:00:00,CHURCHILL WINSTON J,4,S-Sale,--D,20000,14394,2,0000923792,Common Stock
+A,11/29/2021 00:00:00,CHURCHILL WINSTON J,4,M-Exempt,--D,20000,34394,1,0000923792,Common Stock
+D,11/19/2021 00:00:00,Stone John Charles,4,M-Exempt,--D,9375,46875,4,0001581432,Employee Stock Option (Right-to-Buy)
+D,11/19/2021 00:00:00,Stone John Charles,4,S-Sale,--D,9375,31552,2,0001581432,Common Stock
+A,11/19/2021 00:00:00,Stone John Charles,4,M-Exempt,--D,9375,40927,1,0001581432,Common Stock
+D,11/18/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,139500,3,0001684564,Employee Stock Option (right-to-Buy)
+D,11/18/2021 00:00:00,Faust Megan,4,S-Sale,--D,5000,14844,2,0001684564,Common Stock
+A,11/18/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,19844,1,0001684564,Common Stock
+D,11/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,252500,3,0001596796,Employee Stock Option (Right-to-Buy)
+D,11/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,25000,335000,2,0001596796,Common Stock
+A,11/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,360000,1,0001596796,Common Stock
+D,10/21/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,144500,3,0001684564,Employee Stock Option (right-to-Buy)
+D,10/21/2021 00:00:00,Faust Megan,4,S-Sale,--D,5000,14844,2,0001684564,Common Stock
+A,10/21/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,19844,1,0001684564,Common Stock
+D,10/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,262500,3,0001596796,Employee Stock Option (Right-to-Buy)
+D,10/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,25000,350000,2,0001596796,Common Stock
+A,10/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,375000,1,0001596796,Common Stock
+A,10/04/2021 00:00:00,KIM SUSAN Y,4,G-Gift,-ED,626192,5414562,6,0001158922,Common Stock
+D,10/04/2021 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,626192,0,5,0001158922,Common Stock
+D,10/04/2021 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,626192,626192,4,0001158922,Common Stock
+D,10/04/2021 00:00:00,KIM AGNES C,4,G-Gift,-EI,626192,74381440,3,0001158840,Common Stock
+D,10/04/2021 00:00:00,KIM AGNES C,4,G-Gift,-EI,626192,75007632,2,0001158840,Common Stock
+D,10/04/2021 00:00:00,KIM JAMES J,4,G-Gift,-EI,626192,0,3,0001158839,Common Stock
+D,10/04/2021 00:00:00,KIM JAMES J,4,G-Gift,-EI,626192,626192,2,0001158839,Common Stock
+A,10/04/2021 00:00:00,KIM JOHN T,4,G-Gift,-ED,626192,2777225,1,0001158926,Common Stock
+D,10/04/2021 00:00:00,Qualified Annuity Trust under the James J. Kim 2018-1 Qualified Annuity Trust Agreement dtd 8/30/18,4,G-Gift,-ED,626192,0,3,0001752917,Common Stock
+D,10/04/2021 00:00:00,Qualified Annuity Trust under the James J. Kim 2018-1 Qualified Annuity Trust Agreement dtd 8/30/18,4,G-Gift,-ED,626192,626192,2,0001752917,Common Stock
+D,10/01/2021 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,328350,1252384,3,0001158922,Common Stock
+D,10/01/2021 00:00:00,Qualified Annuity Trust under the James J. Kim 2018-1 Qualified Annuity Trust Agreement dtd 8/30/18,4,G-Gift,-ED,328350,1252384,1,0001752917,Common Stock
+A,09/20/2021 00:00:00,"Dylan Investments, LLC",4,J-Other,-ED,2733334,2733334,1,0001881182,Common Stock
+A,09/20/2021 00:00:00,"Alexandra Investments, LLC",4,J-Other,-ED,2733333,2733333,1,0001881163,Common Stock
+A,09/20/2021 00:00:00,"Jacqueline Investments, LLC",4,J-Other,-ED,2733333,2733333,1,0001881170,Common Stock
+D,09/20/2021 00:00:00,Trust of Kim Susan Y dated 4/16/98 for the benefit of Alexandra Panichello,4,J-Other,-ED,2733333,0,1,0001289907,Common Stock
+D,09/20/2021 00:00:00,Irrevocable Deed of Trust of Susan Y. Kim dated 4/16/98 For the Benefit of Jacqueline Mary Panichello,4,J-Other,-ED,2733333,0,1,0001871193,Common Stock
+D,09/20/2021 00:00:00,Irrevocable Deed of Trust of Susan Y. Kim dated 4/16/98 For the Benefit of Dylan James Panichello,4,J-Other,-ED,2733334,0,1,0001869340,Common Stock
+D,09/16/2021 00:00:00,Faust Megan,4,M-Exempt,--D,500,149500,5,0001684564,Employee Stock Option (right-to-Buy)
+D,09/16/2021 00:00:00,Faust Megan,4,M-Exempt,--D,4500,0,4,0001684564,Employee Stock Option (Right-to-Buy)
+D,09/16/2021 00:00:00,Faust Megan,4,S-Sale,--D,5000,14844,3,0001684564,Common Stock
+A,09/16/2021 00:00:00,Faust Megan,4,M-Exempt,--D,500,19844,2,0001684564,Common Stock
+A,09/16/2021 00:00:00,Faust Megan,4,M-Exempt,--D,4500,19344,1,0001684564,Common Stock
+D,09/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,272500,3,0001596796,Employee Stock Option (Right-to-Buy)
+D,09/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,25000,365000,2,0001596796,Common Stock
+A,09/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,390000,1,0001596796,Common Stock
+D,09/01/2021 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,163200,1401123,2,0001158922,Common Stock
+D,09/01/2021 00:00:00,Qualified Annuity Trust under the James J. Kim 2020-1 Annuity Trust Agreement dated 04/01/2020,4,G-Gift,-ED,163200,1401123,1,0001845367,Common Stock
+D,08/26/2021 00:00:00,Stone John Charles,4,M-Exempt,--D,9375,56250,4,0001581432,Employee Stock Option (Right-to-Buy)
+D,08/26/2021 00:00:00,Stone John Charles,4,S-Sale,--D,9375,31552,2,0001581432,Common Stock
+A,08/26/2021 00:00:00,Stone John Charles,4,M-Exempt,--D,9375,40927,1,0001581432,Common Stock
+D,08/19/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,4500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,08/19/2021 00:00:00,Faust Megan,4,S-Sale,--D,5000,14844,2,0001684564,Common Stock
+A,08/19/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,19844,1,0001684564,Common Stock
+D,08/16/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,282500,3,0001596796,Employee Stock Option (Right-to-Buy)
+D,08/16/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,25000,380000,2,0001596796,Common Stock
+A,08/16/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,405000,1,0001596796,Common Stock
+D,08/05/2021 00:00:00,Carolin Roger Anthony,4,M-Exempt,--D,20000,0,3,0001351909,Director Stock Option (Right-to-Buy)
+D,08/05/2021 00:00:00,Carolin Roger Anthony,4,D-Return,--D,20000,39583,2,0001351909,Common Stock
+A,08/05/2021 00:00:00,Carolin Roger Anthony,4,A-Award,--D,20000,59583,1,0001351909,Common Stock
+D,08/04/2021 00:00:00,McCourt MaryFrances,4,S-Sale,--D,2500,41092,1,0001730724,Common Stock
+A,08/02/2021 00:00:00,McCourt MaryFrances,4,M-Exempt,--D,20000,0,3,0001730724,Director Stock Option (Right-to-Buy)
+D,08/02/2021 00:00:00,McCourt MaryFrances,4,S-Sale,--D,20000,43592,2,0001730724,Common Stock
+A,08/02/2021 00:00:00,McCourt MaryFrances,4,M-Exempt,--D,20000,63592,1,0001730724,Common Stock
+D,07/29/2021 00:00:00,Tily Gil C.,4,S-Sale,--D,15000,129218,1,0001405591,Common Stock
+D,07/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,292500,4,0001596796,Employee Stock Option (Right-to-Buy)
+D,07/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,595,395000,3,0001596796,Common Stock
+D,07/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,24405,395595,2,0001596796,Common Stock
+A,07/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,420000,1,0001596796,Common Stock
+D,07/15/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,9500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,07/15/2021 00:00:00,Faust Megan,4,S-Sale,--D,5000,14844,2,0001684564,Common Stock
+A,07/15/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,19844,1,0001684564,Common Stock
+D,07/14/2021 00:00:00,KIM AGNES C,4,G-Gift,-EI,271895,75633824,1,0001158840,Common Stock
+D,07/14/2021 00:00:00,Qualified Annuity Trust under the Susan Y. Kim 2020-1 Irrevocable Trust Agreement dated 04/01/2020,4,G-Gift,-ED,271895,2728105,1,0001845366,Common Stock
+D,07/14/2021 00:00:00,KIM JAMES J,4,G-Gift,-EI,271895,2728105,1,0001158839,Common Stock
+D,07/01/2021 00:00:00,KIM SUSAN Y,4,G-Gift,-EI,174810,1028132,1,0001158922,Common Stock
+D,07/01/2021 00:00:00,John T. Kim 2018 Irrevocable Trust Agreement Dated 2/6/18,4,G-Gift,-ED,174810,1028132,1,0001732522,Common Stock
+D,06/25/2021 00:00:00,Stone John Charles,4,M-Exempt,--D,9375,65625,4,0001581432,Employee Stock Option (Right-to-Buy)
+D,06/25/2021 00:00:00,Stone John Charles,4,S-Sale,--D,9375,31552,2,0001581432,Common Stock
+A,06/25/2021 00:00:00,Stone John Charles,4,M-Exempt,--D,9375,40927,1,0001581432,Common Stock
+D,06/17/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,14500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,06/17/2021 00:00:00,Faust Megan,4,S-Sale,--D,5000,14844,2,0001684564,Common Stock
+A,06/17/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,19844,1,0001684564,Common Stock
+D,06/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,302500,7,0001596796,Employee Stock Option (Right-to-Buy)
+D,06/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,912,65625,6,0001596796,Employee Stock Option (Right-to-Buy)
+D,06/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,15000,410000,5,0001596796,Common Stock
+D,06/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,10000,425000,4,0001596796,Common Stock
+A,06/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,10000,435000,3,0001596796,Common stock
+D,06/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,912,425000,2,0001596796,Common Stock
+A,06/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,912,425912,1,0001596796,Common Stock
+D,05/25/2021 00:00:00,CHURCHILL WINSTON J,4,M-Exempt,--D,20000,0,4,0000923792,Director Stock Option (Right-to-Buy)
+D,05/25/2021 00:00:00,CHURCHILL WINSTON J,4,S-Sale,--D,20000,14394,3,0000923792,Common Stock
+A,05/25/2021 00:00:00,CHURCHILL WINSTON J,4,M-Exempt,--D,20000,34394,2,0000923792,Common Stock
+D,05/25/2021 00:00:00,CHURCHILL WINSTON J,4,S-Sale,--D,6106,14394,1,0000923792,Common Stock
+D,05/20/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,19500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,05/20/2021 00:00:00,Faust Megan,4,S-Sale,--D,5000,14844,2,0001684564,Common Stock
+A,05/20/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,19844,1,0001684564,Common Stock
+A,05/18/2021 00:00:00,CHURCHILL WINSTON J,4,A-Award,--D,20000,20000,2,0000923792,Director Stock Option (Right-to-Buy)
+A,05/18/2021 00:00:00,CHURCHILL WINSTON J,4,A-Award,--D,3094,20500,1,0000923792,Common Stock
+A,05/18/2021 00:00:00,WATSON DAVID N,4,A-Award,--D,20000,20000,2,0001276908,Director Stock Option (Right to Buy)
+A,05/18/2021 00:00:00,WATSON DAVID N,4,A-Award,--D,3094,39583,1,0001276908,Common Stock
+A,05/18/2021 00:00:00,Tily Gil C.,4,A-Award,--D,20000,20000,2,0001405591,Director Stock Option (Right-to-Buy)
+A,05/18/2021 00:00:00,Tily Gil C.,4,A-Award,--D,3094,144218,1,0001405591,Common Stock
+A,05/18/2021 00:00:00,Morse Robert Randolph,4,A-Award,--D,20000,20000,2,0001569086,Director Stock Option (Right to Buy)
+A,05/18/2021 00:00:00,Morse Robert Randolph,4,A-Award,--D,3094,49583,1,0001569086,Common Stock
+A,05/18/2021 00:00:00,McCourt MaryFrances,4,A-Award,--D,20000,20000,2,0001730724,Director Stock Option (Right-to-Buy)
+A,05/18/2021 00:00:00,McCourt MaryFrances,4,A-Award,--D,3094,43592,1,0001730724,Common Stock
+A,05/18/2021 00:00:00,Liao Daniel JL,4,A-Award,--D,20000,20000,2,0001775769,Director Stock  Option (Right to Buy)
+A,05/18/2021 00:00:00,Liao Daniel JL,4,A-Award,--D,3094,17407,1,0001775769,Common Stock
+A,05/18/2021 00:00:00,KIM SUSAN Y,4,A-Award,--D,20000,20000,4,0001158922,Director Stock Option (Right to Buy)
+A,05/18/2021 00:00:00,KIM SUSAN Y,4,A-Award,--D,3094,4516475,1,0001158922,Common Stock
+A,05/18/2021 00:00:00,Carolin Roger Anthony,4,A-Award,--D,20000,20000,2,0001351909,Director Stock Option (Right-to-Buy)
+A,05/18/2021 00:00:00,Carolin Roger Anthony,4,A-Award,--D,3094,39583,1,0001351909,Common Stock
+A,05/18/2021 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,20000,20000,2,0001195858,Director Stock Option (Right-to-Buy)
+A,05/18/2021 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,3094,23092,1,0001195858,Common Stock
+D,05/17/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,15000,66537,3,0001596796,Employee Stock Option (Right-to-Buy)
+D,05/17/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,15000,425000,2,0001596796,Common Stock
+A,05/17/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,15000,440000,1,0001596796,Common Stock
+D,05/03/2021 00:00:00,KIM JOHN T,4,X-InTheMoney,--D,20000,0,4,0001158926,Stock option (right to buy)
+A,05/03/2021 00:00:00,KIM JOHN T,4,X-InTheMoney,--D,20000,9650224,1,0001158926,Common Stock
+D,04/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,15000,81537,3,0001596796,Employee Stock Option (Right-to-Buy)
+D,04/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,15000,425000,2,0001596796,Common Stock
+A,04/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,15000,440000,1,0001596796,Common Stock
+D,04/15/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,24500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,04/15/2021 00:00:00,Faust Megan,4,S-Sale,--D,5000,14844,2,0001684564,Common Stock
+A,04/15/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,19844,1,0001684564,Common Stock
+D,03/18/2021 00:00:00,Faust Megan,4,M-Exempt,--D,60000,10000,6,0001684564,Employee Stock Option (Right-to-Buy)
+D,03/18/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,29500,5,0001684564,Employee Stock Option (Right-to-Buy)
+D,03/18/2021 00:00:00,Faust Megan,4,S-Sale,--D,60000,14844,4,0001684564,Common Stock
+A,03/18/2021 00:00:00,Faust Megan,4,M-Exempt,--D,60000,74844,3,0001684564,Common Stock
+D,03/18/2021 00:00:00,Faust Megan,4,S-Sale,--D,5000,14844,2,0001684564,Common Stock
+A,03/18/2021 00:00:00,Faust Megan,4,M-Exempt,--D,5000,19844,1,0001684564,Common Stock
+D,03/18/2021 00:00:00,Stone John Charles,4,M-Exempt,--D,9375,0,4,0001581432,Employee Stock Option (Right-to-Buy)
+D,03/18/2021 00:00:00,Stone John Charles,4,S-Sale,--D,9375,31552,2,0001581432,Common Stock
+A,03/18/2021 00:00:00,Stone John Charles,4,M-Exempt,--D,9375,40927,1,0001581432,Common Stock
+D,03/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,5625,96537,6,0001596796,Employee Stock Option (Right-to-Buy)
+D,03/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,9375,0,5,0001596796,Employee Stock Option (Right-to-Buy)
+D,03/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,5625,425000,4,0001596796,Common Stock
+A,03/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,5625,430625,3,0001596796,Common Stock
+D,03/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,9375,425000,2,0001596796,Common Stock
+A,03/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,9375,434375,1,0001596796,Common Stock
+D,03/01/2021 00:00:00,Tily Gil C.,4,M-Exempt,--D,10938,0,3,0001405591,Employee Stock Option (Right-to-Buy)
+D,03/01/2021 00:00:00,Tily Gil C.,4,F-InKind,--D,6365,141124,2,0001405591,Common Stock
+A,03/01/2021 00:00:00,Tily Gil C.,4,M-Exempt,--D,10938,147489,1,0001405591,Common Stock
+D,02/16/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,62500,312500,10,0001596796,Employee Stock Option (Right-to-Buy)
+D,02/16/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,963,102162,9,0001596796,Employee Stock Option (Right-to-Buy)
+D,02/16/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,14037,9375,8,0001596796,Employee Stock Option (Right-to-Buy)
+D,02/16/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,62500,425000,7,0001596796,Common Stock
+A,02/16/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,62500,487500,6,0001596796,Common Stock
+D,02/16/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,963,425000,5,0001596796,Common Stock
+A,02/16/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,963,425963,4,0001596796,Common Stock
+D,02/16/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,14037,425000,3,0001596796,Common Stock
+A,02/16/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,14037,439037,2,0001596796,Common Stock
+D,02/16/2021 00:00:00,Stone John Charles,4,M-Exempt,--D,9375,75000,5,0001581432,Employee Stock Option (Right-to-Buy)
+D,02/16/2021 00:00:00,Stone John Charles,4,S-Sale,--D,9375,31552,3,0001581432,Common Stock
+A,02/16/2021 00:00:00,Stone John Charles,4,M-Exempt,--D,9375,40927,2,0001581432,Common Stock
+D,02/12/2021 00:00:00,CHURCHILL WINSTON J,4,S-Sale,--D,8207,17406,1,0000923792,Common Stock
+D,02/12/2021 00:00:00,ROGERS MARK N,4,M-Exempt,--D,50000,150000,3,0001201997,Employee Stock Option (Right-to-Buy)
+D,02/12/2021 00:00:00,ROGERS MARK N,4,S-Sale,--D,50000,2500,2,0001201997,Common Stock
+A,02/12/2021 00:00:00,ROGERS MARK N,4,M-Exempt,--D,50000,52500,1,0001201997,Common Stock
+A,02/11/2021 00:00:00,Rutten Guillaume Marie Jean,4,A-Award,--D,50000,425000,1,0001596796,Common Stock
+A,02/11/2021 00:00:00,KIM JAMES J,4,A-Award,--D,10893,1725770,1,0001158839,Common Stock
+A,02/11/2021 00:00:00,Stone John Charles,4,A-Award,--D,6536,31552,1,0001581432,Common Stock
+A,02/11/2021 00:00:00,Faust Megan,4,A-Award,--D,7625,14844,1,0001684564,Common Stock
+A,02/11/2021 00:00:00,ROGERS MARK N,4,A-Award,--D,6536,9036,1,0001201997,Common Stock
+D,02/11/2021 00:00:00,Tily Gil C.,4,M-Exempt,--D,20000,0,6,0001405591,Director Stock Option (Right-to-Buy)
+D,02/11/2021 00:00:00,Tily Gil C.,4,M-Exempt,--D,64062,10938,5,0001405591,Employee Stock Option (Right-to-Buy)
+D,02/11/2021 00:00:00,Tily Gil C.,4,F-InKind,--D,6161,136551,4,0001405591,Common Stock
+A,02/11/2021 00:00:00,Tily Gil C.,4,M-Exempt,--D,20000,142712,3,0001405591,Common Stock
+D,02/11/2021 00:00:00,Tily Gil C.,4,F-InKind,--D,38919,122712,2,0001405591,Common Stock
+A,02/11/2021 00:00:00,Tily Gil C.,4,M-Exempt,--D,64062,161631,1,0001405591,Common Stock
+D,02/11/2021 00:00:00,Stone John Charles,4,M-Exempt,--D,18750,9375,7,0001581432,Employee Stock Option (Right-To-Buy)
+D,02/11/2021 00:00:00,Stone John Charles,4,M-Exempt,--D,65625,84375,6,0001581432,Employee Stock Option (Right-to-Buy)
+D,02/11/2021 00:00:00,Stone John Charles,4,S-Sale,--D,18750,25016,4,0001581432,Common Stock
+A,02/11/2021 00:00:00,Stone John Charles,4,M-Exempt,--D,18750,43766,3,0001581432,Common Stock
+D,02/11/2021 00:00:00,Stone John Charles,4,S-Sale,--D,65625,25016,2,0001581432,Common Stock
+A,02/11/2021 00:00:00,Stone John Charles,4,M-Exempt,--D,65625,90641,1,0001581432,Common Stock
+D,02/11/2021 00:00:00,McCourt MaryFrances,4,M-Exempt,--D,20000,0,9,0001730724,Director Stock Option (Right-to-Buy)
+D,02/11/2021 00:00:00,McCourt MaryFrances,4,M-Exempt,--D,2000,0,8,0001730724,Director Stock Option (Right-to-Buy)
+D,02/11/2021 00:00:00,McCourt MaryFrances,4,M-Exempt,--D,4657,0,7,0001730724,Director Stock Option (Right to Buy)
+D,02/11/2021 00:00:00,McCourt MaryFrances,4,S-Sale,--D,20000,40498,6,0001730724,Common Stock
+A,02/11/2021 00:00:00,McCourt MaryFrances,4,M-Exempt,--D,20000,60498,5,0001730724,Common Stock
+D,02/11/2021 00:00:00,McCourt MaryFrances,4,S-Sale,--D,2000,40498,4,0001730724,Common Stock
+A,02/11/2021 00:00:00,McCourt MaryFrances,4,M-Exempt,--D,2000,42498,3,0001730724,Common Stock
+D,02/11/2021 00:00:00,McCourt MaryFrances,4,S-Sale,--D,4657,40498,2,0001730724,Common Stock
+A,02/11/2021 00:00:00,McCourt MaryFrances,4,M-Exempt,--D,4657,45155,1,0001730724,Common Stock
+A,02/11/2021 00:00:00,KIM JAMES J,4/A,A-Award,--D,10893,1275770,1,0001158839,Common Stock
+D,01/21/2021 00:00:00,Faust Megan,4,M-Exempt,--D,4500,34500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,01/21/2021 00:00:00,Faust Megan,4,S-Sale,--D,4500,7219,2,0001684564,Common Stock
+A,01/21/2021 00:00:00,Faust Megan,4,M-Exempt,--D,4500,11719,1,0001684564,Common Stock
+D,01/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,15000,23412,3,0001596796,Employee Stock Option (Right-to-Buy)
+D,01/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,15000,375000,2,0001596796,Common Stock
+A,01/15/2021 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,15000,390000,1,0001596796,Common Stock
+D,01/15/2021 00:00:00,KIM DAVID D,4,S-Sale,--I,6895,2691618,1,0001158924,Common Stock
+D,12/21/2020 00:00:00,KIM JAMES J,5,G-Gift,--I,4083065,23,6,0001158839,Common Stock
+D,12/21/2020 00:00:00,KIM AGNES C,5,G-Gift,--D,4083065,23,5,0001158840,Common Stock
+A,12/21/2020 00:00:00,KIM SUSAN Y,4,G-Gift,--I,4083065,39732127,1,0001158922,Common Stock
+D,12/17/2020 00:00:00,Faust Megan,4,M-Exempt,--D,4500,39000,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,12/17/2020 00:00:00,Faust Megan,4,S-Sale,--D,4500,7219,2,0001684564,Common Stock
+A,12/17/2020 00:00:00,Faust Megan,4,M-Exempt,--D,4500,11719,1,0001684564,Common Stock
+A,12/17/2020 00:00:00,KIM JAMES J,5,S-Sale,--I,1633226,23,5,0001158839,Common Stock
+A,12/17/2020 00:00:00,KIM JAMES J,5,S-Sale,--I,816613,23,4,0001158839,Common Stock
+A,12/17/2020 00:00:00,KIM JAMES J,5,S-Sale,--I,816613,23,3,0001158839,Common Stock
+A,12/17/2020 00:00:00,KIM JAMES J,5,S-Sale,--I,816613,23,2,0001158839,Common Stock
+A,12/17/2020 00:00:00,KIM AGNES C,5,S-Sale,--D,1633226,23,4,0001158840,Common Stock
+A,12/17/2020 00:00:00,KIM AGNES C,5,S-Sale,--D,816613,23,3,0001158840,Common Stock
+A,12/17/2020 00:00:00,KIM AGNES C,5,S-Sale,--D,816613,23,2,0001158840,Common Stock
+A,12/17/2020 00:00:00,KIM AGNES C,5,S-Sale,--D,816613,23,1,0001158840,Common Stock
+D,12/17/2020 00:00:00,James J. Kim 2008 Trust FBO Dylan James Panichello & Descendants,4,S-Sale,--D,816613,546787,1,0001426966,Common Stock
+D,12/17/2020 00:00:00,James J. Kim 2008 Trust FBO Descendants of John T. Kim,4,S-Sale,--D,1633226,1093574,1,0001426970,Common Stock
+D,12/17/2020 00:00:00,James J. Kim 2008 Trust FBO Jacqueline Mary Panichello & Descendants,4,S-Sale,--D,816613,546787,1,0001426968,Common Stock
+D,12/17/2020 00:00:00,James J. Kim 2008 Trust FBO Alexandra Kim Panichello & Descendants,4,S-Sale,--D,816613,546787,1,0001426971,Common Stock
+D,12/17/2020 00:00:00,KIM JOHN T,4,S-Sale,--I,816613,42597108,4,0001158926,Common Stock
+D,12/17/2020 00:00:00,KIM JOHN T,4,S-Sale,--I,816613,43413721,3,0001158926,Common Stock
+D,12/17/2020 00:00:00,KIM JOHN T,4,S-Sale,--I,816613,44230334,2,0001158926,Common Stock
+D,12/17/2020 00:00:00,KIM JOHN T,4,S-Sale,--I,1633226,45046947,1,0001158926,Common Stock
+D,12/17/2020 00:00:00,KIM SUSAN Y,4,S-Sale,--I,816613,35649062,4,0001158922,Common Stock
+D,12/17/2020 00:00:00,KIM SUSAN Y,4,S-Sale,--I,816613,36465675,3,0001158922,Common Stock
+D,12/17/2020 00:00:00,KIM SUSAN Y,4,S-Sale,--I,816613,37282288,2,0001158922,Common Stock
+D,12/17/2020 00:00:00,KIM SUSAN Y,4,S-Sale,--I,1633226,38098901,1,0001158922,Common Stock
+D,12/15/2020 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,15000,38412,3,0001596796,Employee Stock Option (Right-to-Buy)
+D,12/15/2020 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,15000,375000,2,0001596796,Common Stock
+A,12/15/2020 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,15000,390000,1,0001596796,Common Stock
+D,12/15/2020 00:00:00,"Qualified Annuity Trust under the James J. Kim 2019-1 Qualified Annuity Trust Agreement dtd September10,2019",5,G-Gift,--D,727169,3272831,1,0001792394,Common Stock
+D,12/15/2020 00:00:00,KIM SUSAN Y,5,G-Gift,--I,446316,32339816,8,0001158922,Common Stock
+D,12/15/2020 00:00:00,KIM SUSAN Y,5,G-Gift,--I,727169,32339816,7,0001158922,Common Stock
+D,12/15/2020 00:00:00,Qualified Annuity Trust under the James J. Kim 2018-1 Qualified Annuity Trust Agreement dtd 8/31/18,5,G-Gift,--D,446316,1580734,1,0001752917,Common Stock
+D,12/15/2020 00:00:00,"Qualified Annuity Trust under the Susan Y. Kim 2018-1 Irrevocable Trust Agreement dtd August 29, 2018",5,G-Gift,--D,162257,1622043,1,0001755764,Common Stock
+D,12/03/2020 00:00:00,Stone John Charles,4,M-Exempt,--D,28125,28125,4,0001581432,Employee Stock Option (Right-to-Buy)
+D,12/03/2020 00:00:00,Stone John Charles,4,S-Sale,--D,28125,25016,2,0001581432,Common Stock
+A,12/03/2020 00:00:00,Stone John Charles,4,M-Exempt,--D,28125,53141,1,0001581432,Common Stock
+D,12/01/2020 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,46875,103125,3,0001596796,Employee Stock Option (Right-to-Buy)
+D,12/01/2020 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,46875,375000,2,0001596796,Common Stock
+A,12/01/2020 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,46875,421875,1,0001596796,Common Stock
+D,12/01/2020 00:00:00,Carolin Roger Anthony,4,M-Exempt,--D,20000,0,3,0001351909,Director Stock Option (Right-to-Buy)
+D,12/01/2020 00:00:00,Carolin Roger Anthony,4,D-Return,--D,20000,36489,2,0001351909,Common Stock
+A,12/01/2020 00:00:00,Carolin Roger Anthony,4,A-Award,--D,20000,56489,1,0001351909,Common Stock
+D,11/19/2020 00:00:00,Faust Megan,4,M-Exempt,--D,4500,43500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,11/19/2020 00:00:00,Faust Megan,4,S-Sale,--D,4500,7219,2,0001684564,Common Stock
+A,11/19/2020 00:00:00,Faust Megan,4,M-Exempt,--D,4500,11719,1,0001684564,Common Stock
+D,11/16/2020 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,15000,53412,4,0001596796,Employee Stock Option (Right-to-Buy)
+D,11/16/2020 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,12213,375000,3,0001596796,Common Stock
+D,11/16/2020 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,2787,387213,2,0001596796,Common Stock
+A,11/16/2020 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,15000,390000,1,0001596796,Common Stock
+D,10/15/2020 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,15000,68412,3,0001596796,Employee Stock Option (Right-to-Buy)
+D,10/15/2020 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,15000,375000,2,0001596796,Common Stock
+A,10/15/2020 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,15000,390000,1,0001596796,Common Stock
+D,10/15/2020 00:00:00,Faust Megan,4,M-Exempt,--D,4500,48000,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,10/15/2020 00:00:00,Faust Megan,4,S-Sale,--D,4500,7219,2,0001684564,Common Stock
+A,10/15/2020 00:00:00,Faust Megan,4,M-Exempt,--D,4500,11719,1,0001684564,Common Stock
+D,10/09/2020 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,15000,83412,3,0001596796,Employee Stock Option (Right-to-Buy)
+D,10/09/2020 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,15000,375000,2,0001596796,Common Stock
+A,10/09/2020 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,15000,390000,1,0001596796,Common Stock
+D,09/17/2020 00:00:00,Faust Megan,4,M-Exempt,--D,4500,52500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,09/17/2020 00:00:00,Faust Megan,4,S-Sale,--D,4500,7219,2,0001684564,Common Stock
+A,09/17/2020 00:00:00,Faust Megan,4,M-Exempt,--D,4500,11719,1,0001684564,Common Stock
+A,08/21/2020 00:00:00,KIM SUSAN Y,5,G-Gift,--I,561343,32339816,6,0001158922,Common Stock
+D,08/21/2020 00:00:00,KIM SUSAN Y,5,G-Gift,--I,561343,32339816,5,0001158922,Common Stock
+A,08/21/2020 00:00:00,Family Trust Under the Susan Y. Kim 2012 Irrevocable Trust Dated 7/26/12,5,G-Gift,--D,561343,3341120,1,0001728273,Common Stock
+D,08/21/2020 00:00:00,"Susan Y. Kim 2015 Irrevocable Trust U/A Dated March 16, 2015",5,G-Gift,--D,561343,0,2,0001645038,Common Stock
+D,08/20/2020 00:00:00,Faust Megan,4,M-Exempt,--D,4500,57000,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,08/20/2020 00:00:00,Faust Megan,4,S-Sale,--D,4500,7219,2,0001684564,Common Stock
+A,08/20/2020 00:00:00,Faust Megan,4,M-Exempt,--D,4500,11719,1,0001684564,Common Stock
+D,08/19/2020 00:00:00,"Susan Y. Kim 2015 Irrevocable Trust U/A Dated March 16, 2015",5,G-Gift,--D,526500,0,1,0001645038,Common Stock
+D,08/18/2020 00:00:00,KIM JOHN T,4,M-Exempt,--D,54687,0,6,0001158926,Employee Stock Option
+D,08/18/2020 00:00:00,KIM JOHN T,4,M-Exempt,--D,131250,0,5,0001158926,Employee Stock Option
+A,08/18/2020 00:00:00,KIM JOHN T,4,M-Exempt,--D,54687,1956223,2,0001158926,Common Stock
+A,08/18/2020 00:00:00,KIM JOHN T,4,M-Exempt,--D,131250,1901536,1,0001158926,Common Stock
+A,07/30/2020 00:00:00,Rutten Guillaume Marie Jean,4,A-Award,--D,375000,375000,2,0001596796,Employee Stock Option (Right-to-Buy)
+A,07/30/2020 00:00:00,Rutten Guillaume Marie Jean,4,A-Award,--D,375000,375000,1,0001596796,Common Stock
+D,07/28/2020 00:00:00,Faust Megan,4,M-Exempt,--D,50000,70000,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,07/28/2020 00:00:00,Faust Megan,4,S-Sale,--D,50000,7219,2,0001684564,Common Stock
+A,07/28/2020 00:00:00,Faust Megan,4,M-Exempt,--D,50000,57219,1,0001684564,Common Stock
+D,07/23/2020 00:00:00,Faust Megan,4,M-Exempt,--D,4500,61500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,07/23/2020 00:00:00,Faust Megan,4,S-Sale,--D,4500,7219,2,0001684564,Common Stock
+A,07/23/2020 00:00:00,Faust Megan,4,M-Exempt,--D,4500,11719,1,0001684564,Common Stock
+D,07/01/2020 00:00:00,John T. Kim 2018 Irrevocable Trust Agreement Dated 2/6/18,5,G-Gift,--D,278833,1202942,1,0001732522,Common Stock
+D,06/18/2020 00:00:00,Faust Megan,4,M-Exempt,--D,4500,66000,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,06/18/2020 00:00:00,Faust Megan,4,S-Sale,--D,4500,7219,2,0001684564,Common Stock
+A,06/18/2020 00:00:00,Faust Megan,4,M-Exempt,--D,4500,11719,1,0001684564,Common Stock
+D,06/05/2020 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,7838,98412,3,0001596796,Employee Stock Option (Right-to-Buy)
+D,06/05/2020 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,7838,0,2,0001596796,"Amkor Technology, Inc., Common Stock"
+A,06/05/2020 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,7838,7838,1,0001596796,"Amkor Technology, Inc., Common Stock"
+D,06/03/2020 00:00:00,Faust Megan,4,M-Exempt,--D,4500,70500,3,0001684564,Employee Stock Option (Right-to-Buy)
+D,06/03/2020 00:00:00,Faust Megan,4,S-Sale,--D,4500,7219,2,0001684564,Common Stock
+A,06/03/2020 00:00:00,Faust Megan,4,M-Exempt,--D,4500,11719,1,0001684564,Common Stock
+D,05/27/2020 00:00:00,Kelley Stephen Douglas,4,F-InKind,--D,5425,136200,1,0001443674,Common Stock
+A,05/26/2020 00:00:00,KIM SUSAN Y,5,G-Gift,--I,1564323,32339816,4,0001158922,Common Stock
+A,05/19/2020 00:00:00,KIM SUSAN Y,4,A-Award,--D,20000,20000,4,0001158922,Director Stock Option (Right to Buy)
+A,05/19/2020 00:00:00,KIM SUSAN Y,4,A-Award,--D,6106,29598158,1,0001158922,Common Stock
+A,05/19/2020 00:00:00,WATSON DAVID N,4,A-Award,--D,20000,20000,2,0001276908,Director Stock Option (Right to Buy)
+A,05/19/2020 00:00:00,WATSON DAVID N,4,A-Award,--D,6106,36489,1,0001276908,Common Stock
+A,05/19/2020 00:00:00,Tily Gil C.,4,A-Award,--D,20000,20000,2,0001405591,Director Stock Option (Right to Buy)
+A,05/19/2020 00:00:00,Tily Gil C.,4,A-Award,--D,6106,97569,1,0001405591,Common Stock
+A,05/19/2020 00:00:00,Morse Robert Randolph,4,A-Award,--D,20000,20000,2,0001569086,Director Stock Option (Right to Buy)
+A,05/19/2020 00:00:00,Morse Robert Randolph,4,A-Award,--D,6106,46489,1,0001569086,Common Stock
+A,05/19/2020 00:00:00,McCourt MaryFrances,4,A-Award,--D,20000,20000,2,0001730724,Director Stock Option (Right to Buy)
+A,05/19/2020 00:00:00,McCourt MaryFrances,4,A-Award,--D,6106,37998,1,0001730724,Common Stock
+A,05/19/2020 00:00:00,Liao Daniel JL,4,A-Award,--D,20000,20000,2,0001775769,Director Stock  Option (Right to Buy)
+A,05/19/2020 00:00:00,Liao Daniel JL,4,A-Award,--D,6106,14313,1,0001775769,Common Stock
+A,05/19/2020 00:00:00,CHURCHILL WINSTON J,4,A-Award,--D,20000,20000,2,0000923792,Director Stock Option (Right to Buy)
+A,05/19/2020 00:00:00,CHURCHILL WINSTON J,4,A-Award,--D,6106,25613,1,0000923792,Common Stock
+A,05/19/2020 00:00:00,Carolin Roger Anthony,4,A-Award,--D,20000,20000,2,0001351909,Director Stock Option (Right-to-Buy)
+D,05/19/2020 00:00:00,Carolin Roger Anthony,4,A-Award,--D,6106,36489,1,0001351909,Common Stock
+A,05/19/2020 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,20000,20000,2,0001195858,Director Stock Option (Right to Buy)
+A,05/19/2020 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,6106,19998,1,0001195858,Common Stock
+D,04/28/2020 00:00:00,KIM JOHN T,4,M-Exempt,--D,20000,0,4,0001158926,Director Stock Option (Right-to-Buy)
+A,04/28/2020 00:00:00,KIM JOHN T,4,M-Exempt,--D,20000,1491453,1,0001158926,Common Stock
+D,03/16/2020 00:00:00,KIM JAMES J,5,G-Gift,--I,46923,6417888,1,0001158839,Common Stock
+A,03/16/2020 00:00:00,KIM SUSAN Y,5,G-Gift,--D,15641,4638381,3,0001158922,Common Stock
+D,03/16/2020 00:00:00,KIM SUSAN Y,5,G-Gift,--I,15641,32339816,2,0001158922,Common Stock
+A,03/16/2020 00:00:00,KIM JOHN T,5,G-Gift,--D,15641,2056223,1,0001158926,Common Stock
+A,03/16/2020 00:00:00,KIM DAVID D,5,G-Gift,--D,15641,15641,1,0001158924,Common Stock
+D,03/16/2020 00:00:00,James J. Kim 2014 Qualified Annuity Trust,5,G-Gift,--D,46923,0,2,0001631983,Common Stock
+A,03/09/2020 00:00:00,ROGERS MARK N,4,P-Purchase,--D,2500,2500,1,0001201997,Common Stock
+D,03/02/2020 00:00:00,KIM SUSAN Y,5,G-Gift,--I,91392,32339816,1,0001158922,Common Stock
+D,03/02/2020 00:00:00,James J. Kim 2014 Qualified Annuity Trust,5,G-Gift,--D,91392,0,1,0001631983,Common Stock
+D,02/27/2020 00:00:00,Kelley Stephen Douglas,4,F-InKind,--D,5425,141625,1,0001443674,Common Stock
+D,02/21/2020 00:00:00,CHURCHILL WINSTON J,4,S-Sale,--D,4700,19507,1,0000923792,Common Stock
+D,12/16/2019 00:00:00,Qualified Annuity Trust under the James J. Kim 2018-1 Qualified Annuity Trust Agreement dtd 8/31/18,5,J-Other,--D,443100,2027050,1,0001752917,Common Stock
+D,12/16/2019 00:00:00,KIM SUSAN Y,5,J-Other,--I,443100,36720025,8,0001158922,Common Stock
+A,12/16/2019 00:00:00,KIM JAMES J,5,J-Other,--D,443100,51371803,7,0001158839,Common Stock
+D,12/16/2019 00:00:00,KIM JAMES J,5,J-Other,--I,443100,17735697,6,0001158839,Common Stock
+D,11/27/2019 00:00:00,Kelley Stephen Douglas,4,F-InKind,--D,5425,147050,1,0001443674,Common Stock
+D,11/18/2019 00:00:00,Carolin Roger Anthony,4,S-Sale,--I,40400,0,1,0001351909,"Amkor Technology, Inc., Common Stock"
+D,11/08/2019 00:00:00,Carolin Roger Anthony,4,S-Sale,--D,12000,30383,1,0001351909,"Amkor Technology, Inc., Common Stock"
+D,11/04/2019 00:00:00,Tily Gil C.,4,M-Exempt,--D,100000,75000,3,0001405591,Employee Stock Option (Right-to-Buy)
+D,11/04/2019 00:00:00,Tily Gil C.,4,F-InKind,--D,83362,91463,2,0001405591,"Amkor Technology, Inc., Common Stock"
+A,11/04/2019 00:00:00,Tily Gil C.,4,M-Exempt,--D,100000,174825,1,0001405591,"Amkor Technology, Inc., Common Stock"
+D,11/01/2019 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,43750,106250,6,0001596796,Employee Stock Option (Right-to-Buy)
+D,11/01/2019 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,43750,0,4,0001596796,"Amkor Technology, Inc., Common Stock"
+A,11/01/2019 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,43750,43750,3,0001596796,"Amkor Technology, Inc., Common Stock"
+D,11/01/2019 00:00:00,Stone John Charles,4/A,M-Exempt,--D,61104,56250,8,0001581432,Employee Stock Option (Right-to-Buy)
+D,11/01/2019 00:00:00,Stone John Charles,4/A,S-Sale,--D,61104,25016,5,0001581432,"Amkor Technology, Inc., Common Stock"
+A,11/01/2019 00:00:00,Stone John Charles,4/A,M-Exempt,--D,61104,86120,4,0001581432,"Amkor Technology, Inc., Common Stock"
+D,11/01/2019 00:00:00,Carolin Roger Anthony,4,M-Exempt,--D,20000,0,7,0001351909,Director Stock Option (Right-to-Buy)
+D,11/01/2019 00:00:00,Carolin Roger Anthony,4,M-Exempt,--D,20000,0,6,0001351909,Director Stock Option (Right-to-Buy)
+D,11/01/2019 00:00:00,Carolin Roger Anthony,4,S-Sale,--D,20000,42383,4,0001351909,"Amkor Technology, Inc., Common Stock"
+A,11/01/2019 00:00:00,Carolin Roger Anthony,4,M-Exempt,--D,20000,62383,3,0001351909,"Amkor Technology, Inc., Common Stock"
+D,11/01/2019 00:00:00,Carolin Roger Anthony,4,S-Sale,--D,20000,42383,2,0001351909,"Amkor Technology, Inc., Common Stock"
+A,11/01/2019 00:00:00,Carolin Roger Anthony,4,M-Exempt,--D,20000,62383,1,0001351909,"Amkor Technology, Inc., Common Stock"
+D,11/01/2019 00:00:00,McCourt MaryFrances,4,M-Exempt,--D,18000,2000,2,0001730724,Director Stock Option (Right-to-Buy
+A,11/01/2019 00:00:00,McCourt MaryFrances,4,A-Award,--D,18000,31892,1,0001730724,"Amkor Technology, Inc., Common Stock"
+A,11/01/2019 00:00:00,Stone John Charles,4,M-Exempt,--D,61104,56250,8,0001581432,Employee Stock Option (Right-to-Buy)
+D,11/01/2019 00:00:00,Stone John Charles,4,S-Sale,--D,61104,25016,5,0001581432,"Amkor Technology, Inc., Common Stock"
+A,11/01/2019 00:00:00,Stone John Charles,4,M-Exempt,--D,61104,86120,4,0001581432,"Amkor Technology, Inc., Common Stock"
+D,10/31/2019 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,25000,0,5,0001596796,Employee Stock Option (Right-to-Buy)
+D,10/31/2019 00:00:00,Rutten Guillaume Marie Jean,4,S-Sale,--D,25000,0,2,0001596796,"Amkor Technology, Inc., Common Stock"
+A,10/31/2019 00:00:00,Rutten Guillaume Marie Jean,4,M-Exempt,--D,25000,25000,1,0001596796,"Amkor Technology, Inc., Common Stock"
+D,10/31/2019 00:00:00,Stone John Charles,4/A,M-Exempt,--D,32646,117354,7,0001581432,Employee Stock Option (Right-to-Buy)
+D,10/31/2019 00:00:00,Stone John Charles,4/A,S-Sale,--D,4706,25016,3,0001581432,"Amkor Technology, Inc., Common Stock"
+D,10/31/2019 00:00:00,Stone John Charles,4/A,S-Sale,--D,32646,29722,2,0001581432,"Amkor Technology, Inc., Common Stock"
+A,10/31/2019 00:00:00,Stone John Charles,4/A,M-Exempt,--D,32646,62368,1,0001581432,"Amkor Technology, Inc., Common Stock"
+A,10/31/2019 00:00:00,Stone John Charles,4,M-Exempt,--D,32646,117354,7,0001581432,Employee Stock Option (Right-to-Buy)
+D,10/31/2019 00:00:00,Stone John Charles,4,S-Sale,--D,4706,25016,3,0001581432,"Amkor Technology, Inc., Common Stock"
+D,10/31/2019 00:00:00,Stone John Charles,4,S-Sale,--D,32646,29722,2,0001581432,"Amkor Technology, Inc., Common Stock"
+A,10/31/2019 00:00:00,Stone John Charles,4,M-Exempt,--D,32646,62368,1,0001581432,"Amkor Technology, Inc., Common Stock"
+A,10/17/2019 00:00:00,"Qualified Annuity Trust under the James J. Kim 2019-1 Qualified Annuity Trust Agreement dtd September10,2019",5,J-Other,--D,4000000,4000000,1,0001792394,Common Stock
+A,10/17/2019 00:00:00,KIM SUSAN Y,5,J-Other,--I,4000000,36720025,7,0001158922,Common Stock
+A,10/17/2019 00:00:00,KIM JAMES J,5,J-Other,--I,4000000,17735697,5,0001158839,Common Stock
+D,10/17/2019 00:00:00,KIM JAMES J,5,J-Other,--D,4000000,51371803,4,0001158839,Common Stock
+D,10/09/2019 00:00:00,"Qualified Annuity Trust under the Susan Y. Kim 2018-1 Irrevocable Trust Agreement dtd August 29, 2018",5,J-Other,--D,215700,1784300,1,0001755764,Common Stock
+A,10/09/2019 00:00:00,KIM SUSAN Y,5,J-Other,--D,215700,32562517,6,0001158922,Common Stock
+D,10/09/2019 00:00:00,KIM SUSAN Y,5,J-Other,--I,215700,36720025,5,0001158922,Common Stock
+D,10/09/2019 00:00:00,KIM JAMES J,5,J-Other,--I,215700,17735697,3,0001158839,Common Stock
+D,08/27/2019 00:00:00,Kelley Stephen Douglas,4,F-InKind,--D,5425,152475,1,0001443674,Common Stock
+A,08/02/2019 00:00:00,Tily Gil C.,4,M-Exempt,--D,12500,0,3,0001405591,Stock Option (Right-to-Buy)
+D,08/02/2019 00:00:00,Tily Gil C.,4,S-Sale,--D,12500,74825,2,0001405591,"Amkor Technology, Inc., Common Stock"
+A,08/02/2019 00:00:00,Tily Gil C.,4,M-Exempt,--D,12500,87325,1,0001405591,"Amkor Technology, Inc., Common Stock"
+D,07/12/2019 00:00:00,"Susan Y. Kim 2015 Irrevocable Trust U/A Dated March 16, 2015",5,J-Other,--D,800000,1087843,1,0001645038,Common Stock
+D,07/12/2019 00:00:00,KIM JOHN T,5,J-Other,--I,800000,47485506,3,0001158926,Common Stock
+A,07/12/2019 00:00:00,KIM SUSAN Y,5,J-Other,--D,800000,32562517,4,0001158922,Common Stock
+D,07/12/2019 00:00:00,KIM SUSAN Y,5,J-Other,--I,800000,36720025,3,0001158922,Common Stock
+A,06/10/2019 00:00:00,ROGERS MARK N,4,A-Award,--D,200000,200000,1,0001201997,Employee Stock Option (Right-to-Buy)
+A,06/07/2019 00:00:00,Tily Gil C.,4,A-Award,--D,20000,20000,2,0001405591,Director Stock Option (Right to Buy)
+A,06/07/2019 00:00:00,Tily Gil C.,4,A-Award,--D,8486,74825,1,0001405591,Common Stock
+D,05/27/2019 00:00:00,Kelley Stephen Douglas,4,F-InKind,--D,5425,157900,1,0001443674,Common Stock
+A,05/16/2019 00:00:00,McCourt MaryFrances,4,P-Purchase,--D,2500,40498,1,0001730724,Common Stock
+D,05/15/2019 00:00:00,KIM JOHN T,4/A,A-Award,--D,20000,20000,4,0001158926,Director Stock Option (Right to Buy)
+A,05/15/2019 00:00:00,KIM JOHN T,4/A,A-Award,--D,8207,1455812,1,0001158926,Common Stock
+A,05/15/2019 00:00:00,KIM JOHN T,4,A-Award,--D,20000,20000,4,0001158926,Director Stock Option (Right to Buy)
+A,05/15/2019 00:00:00,KIM JOHN T,4,A-Award,--D,8207,1147812,1,0001158926,Common Stock
+A,05/15/2019 00:00:00,Liao Daniel JL,4,A-Award,--D,20000,20000,2,0001775769,Director Stock  Option (Right to Buy)
+A,05/15/2019 00:00:00,Liao Daniel JL,4,A-Award,--D,8207,8207,1,0001775769,Common Stock
+A,05/15/2019 00:00:00,Park Young Kuk,4,A-Award,--D,150000,150000,1,0001772581,Common Stock
+A,05/15/2019 00:00:00,Morse Robert Randolph,4,A-Award,--D,20000,20000,2,0001569086,Director Stock Option (Right to Buy)
+A,05/15/2019 00:00:00,Morse Robert Randolph,4,A-Award,--D,8207,40383,1,0001569086,Common Stock
+A,05/15/2019 00:00:00,KIM SUSAN Y,4,A-Award,--D,20000,20000,4,0001158922,Director Stock Option (Right to Buy)
+A,05/15/2019 00:00:00,KIM SUSAN Y,4,A-Award,--D,8207,5787177,1,0001158922,Common Stock
+A,05/15/2019 00:00:00,CHURCHILL WINSTON J,4,A-Award,--D,20000,20000,2,0000923792,Director Stock Option (Right to Buy)
+A,05/15/2019 00:00:00,CHURCHILL WINSTON J,4,A-Award,--D,8207,24207,1,0000923792,Common Stock
+A,05/15/2019 00:00:00,Carolin Roger Anthony,4,A-Award,--D,20000,20000,3,0001351909,Director Stock Option (Right to Buy)
+A,05/15/2019 00:00:00,Carolin Roger Anthony,4,A-Award,--D,8207,42383,1,0001351909,Common Stock
+A,05/15/2019 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,20000,20000,2,0001195858,Director Stock Option (Right to Buy)
+A,05/15/2019 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,8207,13892,1,0001195858,Common Stock
+A,05/15/2019 00:00:00,WATSON DAVID N,4,A-Award,--D,20000,20000,2,0001276908,Director Stock Option (Right to Buy)
+A,05/15/2019 00:00:00,WATSON DAVID N,4,A-Award,--D,8207,30383,1,0001276908,Common Stock
+A,05/15/2019 00:00:00,McCourt MaryFrances,4,A-Award,--D,20000,20000,2,0001730724,Director Stock Option (Right to Buy)
+A,05/15/2019 00:00:00,McCourt MaryFrances,4,A-Award,--D,8207,13892,1,0001730724,Common Stock
+D,04/29/2019 00:00:00,John T. Kim 2018 Irrevocable Trust Agreement Dated 2/6/18,5,J-Other,--D,308000,1481775,1,0001732522,Common Stock
+A,04/29/2019 00:00:00,KIM JOHN T,5,J-Other,--D,308000,27405452,2,0001158926,Common Stock
+D,04/29/2019 00:00:00,KIM JOHN T,5,J-Other,--I,308000,47485506,1,0001158926,Common Stock
+D,04/29/2019 00:00:00,KIM SUSAN Y,5,J-Other,--I,308000,36720025,2,0001158922,Common Stock
+A,03/15/2019 00:00:00,Stone John Charles,4,M-Exempt,--D,4000,0,7,0001581432,Employee Stock (Right To Buy)
+D,03/15/2019 00:00:00,Stone John Charles,4,S-Sale,--D,4000,29722,4,0001581432,"Amkor Technology Inc., Common Stock"
+A,03/15/2019 00:00:00,Stone John Charles,4,M-Exempt,--D,4000,33722,3,0001581432,"Amkor Technology, Inc., Common Stock"
+A,03/14/2019 00:00:00,Stone John Charles,4,M-Exempt,--D,21000,4000,6,0001581432,Employee Stock Option (Right-to-Buy)
+D,03/14/2019 00:00:00,Stone John Charles,4,S-Sale,--D,21000,29722,2,0001581432,"Amkor Technology, Inc., Common Stock"
+A,03/14/2019 00:00:00,Stone John Charles,4,M-Exempt,--D,21000,50722,1,0001581432,"Amkor Technology, Inc., Common Stock"
+D,02/27/2019 00:00:00,Kelley Stephen Douglas,4,F-InKind,--D,5425,163325,1,0001443674,Common Stock
+D,02/19/2019 00:00:00,CHURCHILL WINSTON J,4,S-Sale,--D,17476,16000,1,0000923792,Common Stock
+A,02/15/2019 00:00:00,Park Yong Chul,4,A-Award,--D,150000,150000,2,0001667197,Employee Stock Option (right-to-Buy)
+A,02/15/2019 00:00:00,Faust Megan,4,A-Award,--D,150000,150000,2,0001684564,Employee Stock Option (Right-to-Buy)
+A,02/15/2019 00:00:00,Stone John Charles,4,A-Award,--D,150000,150000,3,0001581432,Employee Stock Option (Right-to-Buy)
+A,02/15/2019 00:00:00,Rutten Guillaume Marie Jean,4,A-Award,--D,150000,150000,1,0001596796,Employee Stock Option (Right-to-Buy)
+A,02/15/2019 00:00:00,KIM JAMES J,4,A-Award,--D,250000,250000,3,0001158839,Employee Stock Option (Right-to-Buy)
+A,02/15/2019 00:00:00,KIM JOHN T,4,A-Award,--D,175000,175000,3,0001158926,Employee Stock Option (Right-to-Buy)
+D,02/14/2019 00:00:00,Carolin Roger Anthony,4,M-Exempt,--D,20000,0,4,0001351909,Director Stock Option (Right to Buy)
+D,02/14/2019 00:00:00,Carolin Roger Anthony,4,S-Sale,--D,20000,34176,2,0001351909,Common Stock
+A,02/14/2019 00:00:00,Carolin Roger Anthony,4,M-Exempt,--D,20000,54176,1,0001351909,Common Stock
+D,01/30/2019 00:00:00,James J. Kim 2014 Qualified Annuity Trust,5,J-Other,--D,95000,138315,1,0001631983,Common Stock
+D,01/30/2019 00:00:00,KIM SUSAN Y,5,J-Other,--I,95000,36720025,1,0001158922,Common Stock
+A,01/30/2019 00:00:00,KIM JAMES J,5,J-Other,--D,95000,51371803,2,0001158839,Common Stock
+D,01/30/2019 00:00:00,KIM JAMES J,5,J-Other,--I,95000,17735697,1,0001158839,Common Stock
+A,12/11/2018 00:00:00,Kelley Stephen Douglas,4,P-Purchase,--I,50000,150000,2,0001443674,Common Stock
+A,12/10/2018 00:00:00,Kelley Stephen Douglas,4,P-Purchase,--I,100000,100000,1,0001443674,Common Stock
+D,11/27/2018 00:00:00,Kelley Stephen Douglas,4,F-InKind,--D,5425,168750,1,0001443674,Common Stock
+A,10/31/2018 00:00:00,KIM JAMES J,4,J-Other,--D,4085000,54621203,1,0001158839,Common Stock
+A,10/08/2018 00:00:00,"Qualified Annuity Trust under the Susan Y. Kim 2018-1 Irrevocable Trust Agreement dtd August 29, 2018",5,J-Other,--D,2000000,2000000,1,0001755764,Common Stock
+A,10/08/2018 00:00:00,KIM JAMES J,5,J-Other,--I,2000000,14489497,12,0001158839,Common Stock
+A,10/08/2018 00:00:00,KIM SUSAN Y,5,J-Other,--I,2000000,34581825,13,0001158922,Common Stock
+D,10/08/2018 00:00:00,KIM SUSAN Y,5,J-Other,--D,2000000,31453610,12,0001158922,Common Stock
+A,10/05/2018 00:00:00,KIM JOHN T,5/A,J-Other,--D,1139605,26814245,10,0001158926,Common Stock
+D,10/05/2018 00:00:00,"James J. Kim 2013 Qualified Annuity Trust U/A Dated May 17, 2013",5,J-Other,--D,1139605,0,3,0001579612,Common Stock
+D,10/05/2018 00:00:00,"James J. Kim 2013 Qualified Annuity Trust U/A Dated May 17, 2013",5,J-Other,--D,1139605,0,2,0001579612,Common Stock
+D,10/05/2018 00:00:00,KIM JAMES J,5,J-Other,--I,1139605,14489497,11,0001158839,Common Stock
+D,10/05/2018 00:00:00,KIM JAMES J,5,J-Other,--I,1139605,14489497,10,0001158839,Common Stock
+D,10/05/2018 00:00:00,KIM SUSAN Y,5,J-Other,--I,1139605,34581825,11,0001158922,Common Stock
+A,10/05/2018 00:00:00,KIM SUSAN Y,5,J-Other,--D,1139605,31453610,10,0001158922,Common Stock
+D,10/05/2018 00:00:00,KIM SUSAN Y,5,J-Other,--I,1139605,34581825,9,0001158922,Common Stock
+A,10/05/2018 00:00:00,KIM JOHN T,5,J-Other,--D,1139605,25674640,10,0001158926,Common Stock
+D,09/21/2018 00:00:00,"James J. Kim 2013 Qualified Annuity Trust U/A Dated May 17, 2013",5,J-Other,--D,941223,0,1,0001579612,Common Stock
+A,09/21/2018 00:00:00,KIM JAMES J,5,J-Other,--D,941223,54621203,9,0001158839,Common Stock
+D,09/21/2018 00:00:00,KIM JAMES J,5,J-Other,--I,941223,14489497,8,0001158839,Common Stock
+D,09/21/2018 00:00:00,KIM SUSAN Y,5,J-Other,--I,941223,34581825,8,0001158922,Common Stock
+A,09/07/2018 00:00:00,Qualified Annuity Trust under the James J. Kim 2018-1 Qualified Annuity Trust Agreement dtd 8/31/18,5,J-Other,--D,2470150,2470150,1,0001752917,Common Stock
+A,09/07/2018 00:00:00,KIM JAMES J,5,J-Other,--I,2470150,14489497,7,0001158839,Common Stock
+D,09/07/2018 00:00:00,KIM JAMES J,5,J-Other,--D,2470150,54621203,6,0001158839,Common Stock
+A,09/07/2018 00:00:00,KIM SUSAN Y,5,J-Other,--I,2470150,34581825,7,0001158922,Common Stock
+D,08/27/2018 00:00:00,Kelley Stephen Douglas,4,F-InKind,--D,5425,174175,1,0001443674,Common Stock
+D,08/16/2018 00:00:00,KIM JOHN T,5/A,J-Other,--I,560450,48593506,9,0001158926,Common Stock
+D,08/16/2018 00:00:00,"Susan Y. Kim 2015 Irrevocable Trust U/A Dated March 16, 2015",5,J-Other,--D,560450,1887843,1,0001645038,Common Stock
+A,08/16/2018 00:00:00,KIM SUSAN Y,5,J-Other,--D,560450,31453610,6,0001158922,Common Stock
+D,08/16/2018 00:00:00,KIM SUSAN Y,5,J-Other,--I,560450,34581825,5,0001158922,Common Stock
+D,08/16/2018 00:00:00,KIM JOHN T,5,J-Other,--I,560450,48593506,9,0001158926,Common Stock
+A,07/09/2018 00:00:00,KIM JOHN T,5/A,J-Other,--I,7828682,48593506,8,0001158926,Common Stock
+D,07/09/2018 00:00:00,KIM JOHN T,5/A,J-Other,--I,7828682,48593506,7,0001158926,Common Stock
+A,07/09/2018 00:00:00,Family Trust Under the John T. Kim 2012 Irrevocable Trust Agreement Dated 12/11/12,5,J-Other,--D,7828682,7828682,1,0001741864,Common Stock
+D,07/09/2018 00:00:00,John T. Kim 2012 Irrevocable Trust,5,J-Other,--D,7828682,0,2,0001565301,Common Stock
+A,07/09/2018 00:00:00,KIM JAMES J,5,J-Other,--I,7828682,14489497,5,0001158839,Common Stock
+D,07/09/2018 00:00:00,KIM JAMES J,5,J-Other,--I,7828682,14489497,4,0001158839,Common Stock
+A,07/09/2018 00:00:00,KIM JOHN T,5,J-Other,--I,7828682,48593506,8,0001158926,Common Stock
+D,07/09/2018 00:00:00,KIM JOHN T,5,J-Other,--I,7828682,48593506,7,0001158926,Common Stock
+D,05/27/2018 00:00:00,Kelley Stephen Douglas,4,F-InKind,--D,5425,179600,1,0001443674,Common Stock
+A,05/01/2018 00:00:00,KIM SUSAN Y,4,A-Award,--D,20000,20000,4,0001158922,Director Stock Option (Right to Buy)
+A,05/01/2018 00:00:00,KIM SUSAN Y,4,A-Award,--D,4700,6075500,1,0001158922,Common Stock
+A,05/01/2018 00:00:00,CHURCHILL WINSTON J,4,A-Award,--D,20000,0,2,0000923792,Director Stock Option (Right to Buy)
+A,05/01/2018 00:00:00,CHURCHILL WINSTON J,4,A-Award,--D,4700,33476,1,0000923792,Common Stock
+A,05/01/2018 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,20000,20000,2,0001195858,Director Stock Option (Right to Buy)
+A,05/01/2018 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,4700,5685,1,0001195858,Common Stock
+A,05/01/2018 00:00:00,Carolin Roger Anthony,4,A-Award,--D,20000,20000,3,0001351909,Director Stock Option (Right to Buy)
+A,05/01/2018 00:00:00,Carolin Roger Anthony,4,A-Award,--D,4700,34176,1,0001351909,Common Stock
+A,05/01/2018 00:00:00,McCourt MaryFrances,4,A-Award,--D,20000,20000,2,0001730724,Director Stock Option (Right to Buy)
+A,05/01/2018 00:00:00,McCourt MaryFrances,4,A-Award,--D,4700,5685,1,0001730724,Common Stock
+A,05/01/2018 00:00:00,WATSON DAVID N,4,A-Award,--D,20000,20000,2,0001276908,Director Stock Option (Right to Buy)
+A,05/01/2018 00:00:00,WATSON DAVID N,4,A-Award,--D,4700,22176,1,0001276908,Common Stock
+A,05/01/2018 00:00:00,Morse Robert Randolph,4,A-Award,--D,20000,20000,2,0001569086,Director Stock Option (Right to Buy)
+A,05/01/2018 00:00:00,Morse Robert Randolph,4,A-Award,--D,4700,32176,1,0001569086,Common Stock
+A,04/04/2018 00:00:00,KIM JOHN T,5/A,J-Other,--D,2138382,26814245,6,0001158926,Common Stock
+D,04/04/2018 00:00:00,KIM JOHN T,5/A,J-Other,--I,2138382,48593506,5,0001158926,Common Stock
+D,04/04/2018 00:00:00,John T. Kim 2012 Irrevocable Trust,5,J-Other,--D,2138382,0,1,0001565301,Common Stock
+D,04/04/2018 00:00:00,KIM JAMES J,5,J-Other,--I,2138382,14489497,3,0001158839,Common Stock
+A,04/04/2018 00:00:00,KIM JOHN T,5,J-Other,--D,2138382,25674640,6,0001158926,Common Stock
+D,04/04/2018 00:00:00,KIM JOHN T,5,J-Other,--I,2138382,48593506,5,0001158926,Common Stock
+A,03/23/2018 00:00:00,KIM JOHN T,5/A,J-Other,--I,1789775,48593506,4,0001158926,Common Stock
+D,03/23/2018 00:00:00,KIM JOHN T,5/A,J-Other,--D,1789775,26814245,3,0001158926,Common Stock
+A,03/23/2018 00:00:00,John T. Kim 2018 Irrevocable Trust Agreement Dated 2/6/18,5,J-Other,--D,1789775,1789775,1,0001732522,Common Stock
+A,03/23/2018 00:00:00,KIM SUSAN Y,5,J-Other,--I,1789775,34581825,4,0001158922,Common Stock
+A,03/23/2018 00:00:00,KIM JOHN T,5,J-Other,--I,1789775,48593506,4,0001158926,Common Stock
+D,03/23/2018 00:00:00,KIM JOHN T,5,J-Other,--D,1789775,25674640,3,0001158926,Common Stock
+A,03/13/2018 00:00:00,KIM JOHN T,5/A,J-Other,--I,2779777,48593506,2,0001158926,Common Stock
+D,03/13/2018 00:00:00,KIM JOHN T,5/A,J-Other,--I,2779777,48593506,1,0001158926,Common Stock
+D,03/13/2018 00:00:00,Susan Y. Kim 2012 Irrevocable Trust,5,J-Other,--D,2779777,0,1,0001566755,Common Stock
+A,03/13/2018 00:00:00,Family Trust Under the Susan Y. Kim 2012 Irrevocable Trust Dated 7/26/12,5,J-Other,--D,2779777,2779777,1,0001728273,Common Stock
+A,03/13/2018 00:00:00,KIM SUSAN Y,5,J-Other,--I,2779777,34581825,3,0001158922,Common Stock
+D,03/13/2018 00:00:00,KIM SUSAN Y,5,J-Other,--I,2779777,34581825,2,0001158922,Common Stock
+A,03/13/2018 00:00:00,KIM JOHN T,5,J-Other,--I,2779777,48593506,2,0001158926,Common Stock
+D,03/13/2018 00:00:00,KIM JOHN T,5,J-Other,--I,2779777,48593506,1,0001158926,Common Stock
+D,03/09/2018 00:00:00,CHURCHILL WINSTON J,4,I-Discretionary,--D,20000,0,9,0000923792,Director Stock Option (Right to Buy)
+D,03/09/2018 00:00:00,CHURCHILL WINSTON J,4,M-Exempt,--D,20000,0,8,0000923792,Director Stock Opion (Right to Buy)
+D,03/09/2018 00:00:00,CHURCHILL WINSTON J,4,M-Exempt,--D,20000,0,7,0000923792,Director Stock Option (Right to Buy)
+D,03/09/2018 00:00:00,CHURCHILL WINSTON J,4,S-Sale,--D,20000,28776,6,0000923792,"Amkor Technology, Inc. Common Stock"
+A,03/09/2018 00:00:00,CHURCHILL WINSTON J,4,M-Exempt,--D,20000,48776,5,0000923792,"Amkor Technology, Inc. Common Stock"
+D,03/09/2018 00:00:00,CHURCHILL WINSTON J,4,S-Sale,--D,20000,28776,4,0000923792,"Amkor Technology, Inc. Common Stock"
+A,03/09/2018 00:00:00,CHURCHILL WINSTON J,4,M-Exempt,--D,20000,48776,3,0000923792,"Amkor Technology, Inc. Common Stock"
+D,03/09/2018 00:00:00,CHURCHILL WINSTON J,4,S-Sale,--D,20000,28776,2,0000923792,"Amkor Technology, Inc. Common Stock"
+A,03/09/2018 00:00:00,CHURCHILL WINSTON J,4,M-Exempt,--D,20000,48776,1,0000923792,"Amkor Technology, Inc. Common Stock"
+D,02/27/2018 00:00:00,Kelley Stephen Douglas,4,F-InKind,--D,5425,185025,1,0001443674,Common Stock
+A,02/21/2018 00:00:00,KIM JAMES J,5,J-Other,--D,63880,54621203,2,0001158839,Common Stock
+D,02/21/2018 00:00:00,KIM JAMES J,5,J-Other,--I,63880,14489497,1,0001158839,Common Stock
+D,02/21/2018 00:00:00,KIM SUSAN Y,5,J-Other,--I,63880,34581825,1,0001158922,Common Stock
+D,02/21/2018 00:00:00,James J. Kim 2014 Qualified Annuity Trust,5,J-Other,--D,63880,233315,1,0001631983,Common Stock
+A,02/06/2018 00:00:00,McCourt MaryFrances,4,A-Award,--D,4657,4657,2,0001730724,Stock Option (Right to Buy)
+A,02/06/2018 00:00:00,McCourt MaryFrances,4,A-Award,--D,985,985,1,0001730724,Common Stock
+A,02/06/2018 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,4657,4657,2,0001195858,Stock Option (Right to Buy)
+A,02/06/2018 00:00:00,ALEXANDER DOUGLAS A,4,A-Award,--D,985,985,1,0001195858,Common Stock
+D,11/27/2017 00:00:00,Kelley Stephen Douglas,4,F-InKind,--D,5750,190450,1,0001443674,Common Stock
+A,11/15/2017 00:00:00,KIM SUSAN Y,5,J-Other,--D,1661294,31804501,6,0001158922,Common Stock
+D,11/15/2017 00:00:00,KIM SUSAN Y,5,J-Other,--I,1661294,32166663,5,0001158922,Common Stock
+D,11/15/2017 00:00:00,KIM JOHN T,5,J-Other,--I,1661294,49153956,4,0001158926,Common Stock
+D,11/15/2017 00:00:00,Susan Y. Kim 2012 Irrevocable Trust,5,J-Other,--D,1661294,2779777,1,0001566755,Common Stock
+D,11/03/2017 00:00:00,Kelley Stephen Douglas,4,M-Exempt,--D,18164,0,2,0001443674,Director Stock Option (Right to Buy)
+D,09/11/2017 00:00:00,KIM SUSAN Y,5,J-Other,--I,686108,32166663,4,0001158922,Common Stock
+A,09/11/2017 00:00:00,KIM JAMES J,5,J-Other,--D,686108,52301250,5,0001158839,Common Stock
+D,09/11/2017 00:00:00,KIM JAMES J,5,J-Other,--I,686108,15442042,4,0001158839,Common Stock
+D,09/11/2017 00:00:00,"James J. Kim 2013 Qualified Annuity Trust U/A Dated May 17, 2013",5,J-Other,--D,686108,3220433,1,0001579612,Common Stock
+D,08/27/2017 00:00:00,Kelley Stephen Douglas,4,F-InKind,--D,5750,196200,1,0001443674,Common Stock
+A,08/11/2017 00:00:00,KIM SUSAN Y,5,J-Other,--D,480540,31804501,3,0001158922,Common Stock
+D,08/11/2017 00:00:00,KIM SUSAN Y,5,J-Other,--I,480540,32166663,2,0001158922,Common Stock
+D,08/11/2017 00:00:00,"Susan Y. Kim 2015 Irrevocable Trust U/A Dated March 16, 2015",5,J-Other,--D,480540,2448293,1,0001645038,Common Stock
+D,08/11/2017 00:00:00,KIM JOHN T,5,J-Other,--I,480540,49153956,3,0001158926,Common Stock
+D,06/09/2017 00:00:00,Kelley Stephen Douglas,4,S-Sale,--D,32924,201950,3,0001443674,Common Stock
+D,06/08/2017 00:00:00,Kelley Stephen Douglas,4,M-Exempt,--D,75586,18164,4,0001443674,Director Stock Option (Right to Buy)
+D,06/08/2017 00:00:00,Kelley Stephen Douglas,4,S-Sale,--D,75586,234874,2,0001443674,Common Stock
+A,06/08/2017 00:00:00,Kelley Stephen Douglas,4,M-Exempt,--D,75586,310460,1,0001443674,Common Stock
+D,06/08/2017 00:00:00,Carolin Roger Anthony,4,M-Exempt,--D,10000,0,4,0001351909,Director Stock Option (Right to Buy)
+D,06/08/2017 00:00:00,Carolin Roger Anthony,4,S-Sale,--D,10000,29476,2,0001351909,Common Stock
+A,06/08/2017 00:00:00,Carolin Roger Anthony,4,M-Exempt,--D,10000,39476,1,0001351909,Common Stock
+D,05/27/2017 00:00:00,Kelley Stephen Douglas,4,F-InKind,--D,5750,234874,1,0001443674,Common Stock

@@ -1,0 +1,801 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,06/26/2023 00:00:00,Bozeman David P,4,A-Award,--D,128201,142584,2,0001575959,Common Stock
+A,06/26/2023 00:00:00,Bozeman David P,4,A-Award,--D,14383,14383,1,0001575959,Common Stock
+D,05/04/2023 00:00:00,Short Michael John,4,M-Exempt,--D,6364,12728,7,0001643515,Stock Option (right to buy)
+D,05/04/2023 00:00:00,Short Michael John,4,M-Exempt,--D,4044,4044,6,0001643515,Stock Option (right to buy)
+D,05/04/2023 00:00:00,Short Michael John,4,M-Exempt,--D,5638,0,5,0001643515,Stock Option (right to buy)
+D,05/04/2023 00:00:00,Short Michael John,4,S-Sale,--D,16155,75937,4,0001643515,Common Stock
+A,05/04/2023 00:00:00,Short Michael John,4,M-Exempt,--D,6364,91974,3,0001643515,Common Stock
+A,05/04/2023 00:00:00,Short Michael John,4,M-Exempt,--D,4044,85610,2,0001643515,Common Stock
+A,05/04/2023 00:00:00,Short Michael John,4,M-Exempt,--D,5638,81566,1,0001643515,Common Stock
+D,05/04/2023 00:00:00,Freeman Angela K.,4,S-Sale,--D,2000,92373,1,0001563847,Common Stock
+D,05/01/2023 00:00:00,Pinkerton Mac S,4,M-Exempt,--D,7624,0,3,0001763184,Employee Stock Option (right to buy)
+D,05/01/2023 00:00:00,Pinkerton Mac S,4,S-Sale,--D,7624,87001,2,0001763184,Common Stock
+A,05/01/2023 00:00:00,Pinkerton Mac S,4,M-Exempt,--D,7624,94625,1,0001763184,Common Stock
+A,03/31/2023 00:00:00,WINSHIP HENRY WARD IV,4,A-Award,--D,440,1941,3,0001565087,Phantom Stock (Restricted Stock Units)
+A,03/31/2023 00:00:00,Tolliver Paula,4,A-Award,--D,440,10651,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,03/31/2023 00:00:00,STAKE JAMES B,4,A-Award,--D,440,27397,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,03/31/2023 00:00:00,Maier Henry J,4,A-Award,--D,440,1941,2,0001577578,Phantom Stock (Restricted Stock Units)
+A,03/31/2023 00:00:00,Kozlak Jodee A,4,A-Award,--D,440,19853,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,03/31/2023 00:00:00,GUILFOILE MARY,4,A-Award,--D,440,15828,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,03/31/2023 00:00:00,Goodburn Mark A.,4,A-Award,--D,767,2795,2,0001929274,Phantom Stock (Restricted Stock Units)
+A,03/31/2023 00:00:00,Gokey Timothy C,4,A-Award,--D,767,16362,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,03/31/2023 00:00:00,Crawford Kermit R,4,A-Award,--D,440,4178,2,0001341253,Phantom Stock (Restricted Stock Units)
+A,03/31/2023 00:00:00,Barber James J.,4,A-Award,--D,440,523,1,0001571166,Phantom Stock (Restricted Stock Units)
+D,02/23/2023 00:00:00,Short Michael John,4,S-Sale,--D,3496,75928,1,0001643515,Common Stock
+D,02/21/2023 00:00:00,Campbell Ben G,4,G-Gift,-ED,1097,70559,1,0001452489,Common Stock
+D,02/15/2023 00:00:00,Short Michael John,4,F-InKind,--D,1483,79424,1,0001643515,Common Stock
+D,02/15/2023 00:00:00,Pinkerton Mac S,4,F-InKind,--D,793,86883,1,0001763184,Common Stock
+D,02/15/2023 00:00:00,Freeman Angela K.,4,F-InKind,--D,1264,94255,1,0001563847,Common Stock
+D,02/15/2023 00:00:00,Campbell Ben G,4,F-InKind,--D,1265,71656,1,0001452489,Common Stock
+A,02/08/2023 00:00:00,Zechmeister Michael Paul,4,A-Award,--D,3600,66760,3,0001653006,Common Stock
+A,02/08/2023 00:00:00,Zechmeister Michael Paul,4,A-Award,--D,7740,63160,2,0001653006,Common Stock
+A,02/08/2023 00:00:00,Zechmeister Michael Paul,4,A-Award,--D,9670,55420,1,0001653006,Common Stock
+A,02/08/2023 00:00:00,Short Michael John,4,A-Award,--D,2832,80907,3,0001643515,Common Stock
+A,02/08/2023 00:00:00,Short Michael John,4,A-Award,--D,20310,78075,2,0001643515,Common Stock
+A,02/08/2023 00:00:00,Short Michael John,4,A-Award,--D,9670,57765,1,0001643515,Common Stock
+A,02/08/2023 00:00:00,RAJAN ARUN,4,A-Award,--D,5046,112508,2,0001880247,Common Stock
+A,02/08/2023 00:00:00,RAJAN ARUN,4,A-Award,--D,19340,107462,1,0001880247,Common Stock
+A,02/08/2023 00:00:00,Pinkerton Mac S,4,A-Award,--D,3362,87676,3,0001763184,Common Stock
+A,02/08/2023 00:00:00,Pinkerton Mac S,4,A-Award,--D,9670,84314,2,0001763184,Common Stock
+A,02/08/2023 00:00:00,Pinkerton Mac S,4,A-Award,--D,9190,74644,1,0001763184,Common Stock
+A,02/08/2023 00:00:00,OBRIEN CHRIS,4,A-Award,--D,2226,80031,2,0001255475,Common Stock
+A,02/08/2023 00:00:00,OBRIEN CHRIS,4,A-Award,--D,1940,77805,1,0001255475,Common Stock
+A,02/08/2023 00:00:00,Neill Michael W,4,A-Award,--D,1988,46679,3,0001744906,Common Stock
+A,02/08/2023 00:00:00,Neill Michael W,4,A-Award,--D,6290,44691,2,0001744906,Common Stock
+A,02/08/2023 00:00:00,Neill Michael W,4,A-Award,--D,6770,38401,1,0001744906,Common Stock
+A,02/08/2023 00:00:00,Kass Jordan T,4,A-Award,--D,1418,64664,3,0001627920,Common Stock
+A,02/08/2023 00:00:00,Kass Jordan T,4,A-Award,--D,11610,63246,2,0001627920,Common Stock
+A,02/08/2023 00:00:00,Kass Jordan T,4,A-Award,--D,4360,51636,1,0001627920,Common Stock
+A,02/08/2023 00:00:00,Freeman Angela K.,4,A-Award,--D,2394,95519,3,0001563847,Common Stock
+A,02/08/2023 00:00:00,Freeman Angela K.,4,A-Award,--D,29010,93125,2,0001563847,Common Stock
+A,02/08/2023 00:00:00,Freeman Angela K.,4,A-Award,--D,7010,64115,1,0001563847,Common Stock
+A,02/08/2023 00:00:00,Campbell Ben G,4,A-Award,--D,2320,72921,3,0001452489,Common Stock
+A,02/08/2023 00:00:00,Campbell Ben G,4,A-Award,--D,7740,70601,2,0001452489,Common Stock
+A,02/08/2023 00:00:00,Campbell Ben G,4,A-Award,--D,6770,62861,1,0001452489,Common Stock
+A,02/08/2023 00:00:00,Castagnetto Michael D.,4,A-Award,--D,1514,30159,3,0001797376,Common Stock
+A,02/08/2023 00:00:00,Castagnetto Michael D.,4,A-Award,--D,2418,28645,2,0001797376,Common Stock
+A,02/08/2023 00:00:00,Castagnetto Michael D.,4,A-Award,--D,4835,26227,1,0001797376,Common Stock
+A,02/01/2023 00:00:00,Zechmeister Michael Paul,4,A-Award,--D,4426,45750,1,0001653006,Common Stock
+A,02/01/2023 00:00:00,Short Michael John,4,A-Award,--D,2584,48095,1,0001643515,Common Stock
+A,02/01/2023 00:00:00,Pinkerton Mac S,4,A-Award,--D,2755,65454,1,0001763184,Common Stock
+A,02/01/2023 00:00:00,OBRIEN CHRIS,4,A-Award,--D,2735,75865,1,0001255475,Common Stock
+A,02/01/2023 00:00:00,Neill Michael W,4,A-Award,--D,1994,31631,1,0001744906,Common Stock
+A,02/01/2023 00:00:00,Kass Jordan T,4,A-Award,--D,1673,47276,1,0001627920,Common Stock
+A,02/01/2023 00:00:00,Freeman Angela K.,4,A-Award,--D,2584,57105,1,0001563847,Common Stock
+A,02/01/2023 00:00:00,Castagnetto Michael D.,4,A-Award,--D,1331,21392,1,0001797376,Common Stock
+A,02/01/2023 00:00:00,Campbell Ben G,4,A-Award,--D,2584,56091,1,0001452489,Common Stock
+A,01/01/2023 00:00:00,RAJAN ARUN,4,A-Award,--D,38227,88122,1,0001880247,Common Stock
+A,01/01/2023 00:00:00,Anderson Scott P,4,A-Award,--D,27305,27305,1,0001289294,Common Stock
+A,12/30/2022 00:00:00,WINSHIP HENRY WARD IV,4,A-Award,--D,477,1501,3,0001565087,Phantom Stock (Restricted Stock Units)
+A,12/30/2022 00:00:00,Tolliver Paula,4,A-Award,--D,477,10211,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,12/30/2022 00:00:00,STAKE JAMES B,4,A-Award,--D,477,26957,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,12/30/2022 00:00:00,Maier Henry J,4,A-Award,--D,477,1501,2,0001577578,Phantom Stock (Restricted Stock Units)
+A,12/30/2022 00:00:00,Kozlak Jodee A,4,A-Award,--D,477,19413,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,12/30/2022 00:00:00,GUILFOILE MARY,4,A-Award,--D,477,15388,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,12/30/2022 00:00:00,Goodburn Mark A.,4,A-Award,--D,831,2028,2,0001929274,Phantom Stock (Restricted Stock Units)
+A,12/30/2022 00:00:00,Gokey Timothy C,4,A-Award,--D,831,15595,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,12/30/2022 00:00:00,Crawford Kermit R,4,A-Award,--D,477,3738,2,0001341253,Phantom Stock (Restricted Stock Units)
+A,12/30/2022 00:00:00,Barber James J.,4,A-Award,--D,83,83,1,0001571166,Phantom Stock (Restricted Stock Units)
+A,12/30/2022 00:00:00,Anderson Scott P,4,A-Award,--D,477,23672,2,0001289294,Phantom Stock (Restricted Stock Units)
+D,11/29/2022 00:00:00,Kass Jordan T,4,M-Exempt,--D,5276,0,3,0001627920,Stock Option (right to buy)
+D,11/29/2022 00:00:00,Kass Jordan T,4,S-Sale,--D,5276,45603,2,0001627920,Common Stock
+A,11/29/2022 00:00:00,Kass Jordan T,4,M-Exempt,--D,5276,50879,1,0001627920,Common Stock
+A,11/18/2022 00:00:00,Maier Henry J,4,P-Purchase,--D,1000,1922,1,0001577578,Common Stock
+A,09/30/2022 00:00:00,WINSHIP HENRY WARD IV,4,A-Award,--D,454,1024,3,0001565087,Phantom Stock (Restricted Stock Units)
+A,09/30/2022 00:00:00,Tolliver Paula,4,A-Award,--D,454,9734,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,09/30/2022 00:00:00,STAKE JAMES B,4,A-Award,--D,454,26480,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,09/30/2022 00:00:00,Maier Henry J,4,A-Award,--D,454,1024,1,0001577578,Phantom Stock (Restricted Stock Units)
+A,09/30/2022 00:00:00,Kozlak Jodee A,4,A-Award,--D,454,18936,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,09/30/2022 00:00:00,GUILFOILE MARY,4,A-Award,--D,454,14911,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,09/30/2022 00:00:00,Goodburn Mark A.,4,A-Award,--D,772,1197,2,0001929274,Phantom Stock (Restricted Stock Units)
+A,09/30/2022 00:00:00,Gokey Timothy C,4,A-Award,--D,791,14764,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,09/30/2022 00:00:00,Crawford Kermit R,4,A-Award,--D,454,3261,2,0001341253,Phantom Stock (Restricted Stock Units)
+A,09/30/2022 00:00:00,Anderson Scott P,4,A-Award,--D,454,23195,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,09/06/2022 00:00:00,Zechmeister Michael Paul,4,S-Sale,--D,5029,41324,2,0001653006,Common Stock
+D,09/06/2022 00:00:00,Zechmeister Michael Paul,4,F-InKind,--D,1854,46353,1,0001653006,Common Stock
+D,09/01/2022 00:00:00,RAJAN ARUN,4,F-InKind,--D,2825,49895,1,0001880247,Common Stock
+D,08/31/2022 00:00:00,OBRIEN CHRIS,4,M-Exempt,--D,22819,0,5,0001255475,Option (right to buy)
+D,08/31/2022 00:00:00,OBRIEN CHRIS,4,M-Exempt,--D,7676,0,4,0001255475,Option (right to buy)
+D,08/31/2022 00:00:00,OBRIEN CHRIS,4,S-Sale,--D,30495,73129,3,0001255475,Common Stock
+A,08/31/2022 00:00:00,OBRIEN CHRIS,4,M-Exempt,--D,22819,103624,2,0001255475,Common Stock
+A,08/31/2022 00:00:00,OBRIEN CHRIS,4,M-Exempt,--D,7676,80805,1,0001255475,Common Stock
+D,08/25/2022 00:00:00,Castagnetto Michael D.,4,M-Exempt,--D,3046,0,3,0001797376,Stock Option (right to buy)
+D,08/25/2022 00:00:00,Castagnetto Michael D.,4,S-Sale,--D,3046,20060,2,0001797376,Common Stock
+A,08/25/2022 00:00:00,Castagnetto Michael D.,4,M-Exempt,--D,3046,23106,1,0001797376,Common Stock
+D,08/11/2022 00:00:00,Freeman Angela K.,4,M-Exempt,--D,12728,19092,5,0001563847,Stock Option (right to buy(
+D,08/11/2022 00:00:00,Freeman Angela K.,4,M-Exempt,--D,15858,10572,4,0001563847,Stock Option (right to buy)
+D,08/11/2022 00:00:00,Freeman Angela K.,4,S-Sale,--D,28586,54520,3,0001563847,Common Stock
+A,08/11/2022 00:00:00,Freeman Angela K.,4,M-Exempt,--D,12728,83106,2,0001563847,Common Stock
+A,08/11/2022 00:00:00,Freeman Angela K.,4,M-Exempt,--D,15858,70378,1,0001563847,Common Stock
+A,08/04/2022 00:00:00,Maier Henry J,4,P-Purchase,--D,922,922,1,0001577578,Common Stock
+D,08/01/2022 00:00:00,Kass Jordan T,4,S-Sale,--D,1583,45602,1,0001627920,Common Stock
+A,06/30/2022 00:00:00,WINSHIP HENRY WARD IV,4,A-Award,--D,431,570,3,0001565087,Phantom Stock (Restricted Stock Units)
+A,06/30/2022 00:00:00,Tolliver Paula,4,A-Award,--D,431,9280,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,06/30/2022 00:00:00,STAKE JAMES B,4,A-Award,--D,431,26026,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,06/30/2022 00:00:00,SHORT BRIAN,4,A-Award,--D,279,45612,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,06/30/2022 00:00:00,Maier Henry J,4,A-Award,--D,431,570,1,0001577578,Phantom Stock (Restricted Stock Units)
+A,06/30/2022 00:00:00,Kozlak Jodee A,4,A-Award,--D,431,18482,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,06/30/2022 00:00:00,GUILFOILE MARY,4,A-Award,--D,431,14457,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,06/30/2022 00:00:00,Goodburn Mark A.,4,A-Award,--D,425,425,2,0001929274,Phantom Stock (Restricted Stock Units)
+A,06/30/2022 00:00:00,FORTUN WAYNE M,4,A-Award,--D,160,19229,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,06/30/2022 00:00:00,Gokey Timothy C,4,A-Award,--D,751,13973,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,06/30/2022 00:00:00,Crawford Kermit R,4,A-Award,--D,431,2807,2,0001341253,Phantom Stock (Restricted Stock Units)
+A,06/30/2022 00:00:00,Anderson Scott P,4,A-Award,--D,431,22741,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,06/14/2022 00:00:00,Zechmeister Michael Paul,4,S-Sale,--D,2819,48207,1,0001653006,Common Stock
+D,06/14/2022 00:00:00,Campbell Ben G,4,S-Sale,--D,4079,53507,1,0001452489,Common Stock
+D,06/14/2022 00:00:00,Biesterfeld Robert C Jr,4,M-Exempt,--D,10050,20100,5,0001663286,Stock Option (right to buy)
+D,06/14/2022 00:00:00,Biesterfeld Robert C Jr,4,M-Exempt,--D,11644,0,4,0001663286,Stock Option (right to buy)
+D,06/14/2022 00:00:00,Biesterfeld Robert C Jr,4,S-Sale,--D,21694,181610,3,0001663286,Common Stock
+A,06/14/2022 00:00:00,Biesterfeld Robert C Jr,4,M-Exempt,--D,10050,203304,2,0001663286,Common Stock
+A,06/14/2022 00:00:00,Biesterfeld Robert C Jr,4,M-Exempt,--D,11644,193254,1,0001663286,Common Stock
+D,05/31/2022 00:00:00,Biesterfeld Robert C Jr,4,S-Sale,--D,4286,181610,1,0001663286,Common Stock
+D,05/25/2022 00:00:00,Pinkerton Mac S,4,M-Exempt,--D,956,0,5,0001763184,Employee Stock Option (right to buy)
+D,05/25/2022 00:00:00,Pinkerton Mac S,4,M-Exempt,--D,4241,7624,4,0001763184,Employee Stock Option (right to buy)
+D,05/25/2022 00:00:00,Pinkerton Mac S,4,S-Sale,--D,4241,62698,3,0001763184,Common Stock
+A,05/25/2022 00:00:00,Pinkerton Mac S,4,M-Exempt,--D,956,66830,2,0001763184,Common Stock
+A,05/25/2022 00:00:00,Pinkerton Mac S,4,M-Exempt,--D,4241,65874,1,0001763184,Common Stock
+D,05/11/2022 00:00:00,Freeman Angela K.,4,M-Exempt,--D,23430,0,3,0001563847,Stock Option (right to buy)
+D,05/11/2022 00:00:00,Freeman Angela K.,4,S-Sale,--D,23430,54520,2,0001563847,Common Stock
+A,05/11/2022 00:00:00,Freeman Angela K.,4,M-Exempt,--D,23430,77950,1,0001563847,Common Stock
+D,05/10/2022 00:00:00,Castagnetto Michael D.,4,M-Exempt,--D,3747,0,3,0001797376,Stock Option (right to buy)
+D,05/10/2022 00:00:00,Castagnetto Michael D.,4,S-Sale,--D,3747,20060,2,0001797376,Common Stock
+A,05/10/2022 00:00:00,Castagnetto Michael D.,4,M-Exempt,--D,3747,23807,1,0001797376,Common Stock
+D,05/03/2022 00:00:00,Short Michael John,4,M-Exempt,--D,12728,19092,9,0001643515,Stock Option (right to buy)
+D,05/03/2022 00:00:00,Short Michael John,4,M-Exempt,--D,12132,8088,8,0001643515,Stock Option (right to buy)
+D,05/03/2022 00:00:00,Short Michael John,4,M-Exempt,--D,5638,5638,7,0001643515,Stock Option (right to buy)
+D,05/03/2022 00:00:00,Short Michael John,4,M-Exempt,--D,4998,0,6,0001643515,Stock Option (right to buy)
+D,05/03/2022 00:00:00,Short Michael John,4,S-Sale,--D,35496,45510,5,0001643515,Common Stock
+A,05/03/2022 00:00:00,Short Michael John,4,M-Exempt,--D,12728,80897,4,0001643515,Common Stock
+A,05/03/2022 00:00:00,Short Michael John,4,M-Exempt,--D,12132,68169,3,0001643515,Common Stock
+A,05/03/2022 00:00:00,Short Michael John,4,M-Exempt,--D,5638,56037,2,0001643515,Common Stock
+A,05/03/2022 00:00:00,Short Michael John,4,M-Exempt,--D,4998,50399,1,0001643515,Common Stock
+D,05/03/2022 00:00:00,Freeman Angela K.,4,M-Exempt,--D,9800,0,5,0001563847,Stock Option (right to buy(
+D,05/03/2022 00:00:00,Freeman Angela K.,4,M-Exempt,--D,18254,0,4,0001563847,Stock Option (right to buy)
+D,05/03/2022 00:00:00,Freeman Angela K.,4,S-Sale,--D,28054,54520,3,0001563847,Common Stock
+A,05/03/2022 00:00:00,Freeman Angela K.,4,M-Exempt,--D,9800,82465,2,0001563847,Common Stock
+A,05/03/2022 00:00:00,Freeman Angela K.,4,M-Exempt,--D,18254,72665,1,0001563847,Common Stock
+D,05/02/2022 00:00:00,OBRIEN CHRIS,4,S-Sale,--D,3728,73129,1,0001255475,Common Stock
+D,05/02/2022 00:00:00,Castagnetto Michael D.,4,S-Sale,--D,123,20060,1,0001797376,Common Stock
+A,03/31/2022 00:00:00,WINSHIP HENRY WARD IV,4,A-Award,--D,139,139,3,0001565087,Phantom Stock (Restricted Stock Units)
+A,03/31/2022 00:00:00,Tolliver Paula,4,A-Award,--D,406,8849,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,03/31/2022 00:00:00,STAKE JAMES B,4,A-Award,--D,406,25595,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,03/31/2022 00:00:00,SHORT BRIAN,4,A-Award,--D,707,45333,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,03/31/2022 00:00:00,Maier Henry J,4,A-Award,--D,139,139,1,0001577578,Phantom Stock (Restricted Stock Units)
+A,03/31/2022 00:00:00,Kozlak Jodee A,4,A-Award,--D,406,18051,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,03/31/2022 00:00:00,GUILFOILE MARY,4,A-Award,--D,406,14026,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,03/31/2022 00:00:00,Gokey Timothy C,4,A-Award,--D,707,13222,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,03/31/2022 00:00:00,FORTUN WAYNE M,4,A-Award,--D,406,19069,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,03/31/2022 00:00:00,Crawford Kermit R,4,A-Award,--D,406,2376,2,0001341253,Phantom Stock (Restricted Stock Units)
+A,03/31/2022 00:00:00,Anderson Scott P,4,A-Award,--D,406,22310,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,02/15/2022 00:00:00,Short Michael John,4,S-Sale,--D,1229,45401,2,0001643515,Common Stock
+D,02/15/2022 00:00:00,Short Michael John,4,F-InKind,--D,561,46630,1,0001643515,Common Stock
+D,02/15/2022 00:00:00,Pinkerton Mac S,4,F-InKind,--D,892,61633,1,0001763184,Common Stock
+D,02/15/2022 00:00:00,OBRIEN CHRIS,4,F-InKind,--D,1674,76748,1,0001255475,Common Stock
+D,02/15/2022 00:00:00,Neill Michael W,4,F-InKind,--D,390,29527,1,0001744906,Common Stock
+D,02/15/2022 00:00:00,Kass Jordan T,4,F-InKind,--D,670,47076,1,0001627920,Common Stock
+D,02/15/2022 00:00:00,Freeman Angela K.,4,F-InKind,--D,1350,54411,1,0001563847,Common Stock
+D,02/15/2022 00:00:00,Castagnetto Michael D.,4,S-Sale,--D,479,20074,2,0001797376,Common Stock
+D,02/15/2022 00:00:00,Castagnetto Michael D.,4,F-InKind,--D,269,20553,1,0001797376,Common Stock
+D,02/15/2022 00:00:00,Campbell Ben G,4,F-InKind,--D,2135,57586,1,0001452489,Common Stock
+D,02/15/2022 00:00:00,Biesterfeld Robert C Jr,4,F-InKind,--D,731,185787,1,0001663286,Common Stock
+A,02/09/2022 00:00:00,Zechmeister Michael Paul,4,A-Award,--D,1826,50917,2,0001653006,Common Stock
+A,02/09/2022 00:00:00,Zechmeister Michael Paul,4,A-Award,--D,10630,49091,1,0001653006,Common Stock
+A,02/09/2022 00:00:00,Short Michael John,4,A-Award,--D,1246,47191,2,0001643515,Common Stock
+A,02/09/2022 00:00:00,Short Michael John,4,A-Award,--D,9520,45945,1,0001643515,Common Stock
+A,02/09/2022 00:00:00,RAJAN ARUN,4,A-Award,--D,2434,52720,2,0001880247,Common Stock
+A,02/09/2022 00:00:00,RAJAN ARUN,4,A-Award,--D,15670,50286,1,0001880247,Common Stock
+A,02/09/2022 00:00:00,Pinkerton Mac S,4,A-Award,--D,1586,62525,2,0001763184,Common Stock
+A,02/09/2022 00:00:00,Pinkerton Mac S,4,A-Award,--D,10630,60939,1,0001763184,Common Stock
+A,02/09/2022 00:00:00,OBRIEN CHRIS,4,A-Award,--D,1060,78422,2,0001255475,Common Stock
+A,02/09/2022 00:00:00,OBRIEN CHRIS,4,A-Award,--D,7000,77362,1,0001255475,Common Stock
+A,02/09/2022 00:00:00,Kass Jordan T,4,A-Award,--D,674,47746,2,0001627920,Common Stock
+A,02/09/2022 00:00:00,Kass Jordan T,4,A-Award,--D,4480,47072,1,0001627920,Common Stock
+A,02/09/2022 00:00:00,Freeman Angela K.,4,A-Award,--D,1180,55761,2,0001563847,Common Stock
+A,02/09/2022 00:00:00,Freeman Angela K.,4,A-Award,--D,7280,54581,1,0001563847,Common Stock
+A,02/09/2022 00:00:00,Eijsink Jeroen,4,A-Award,--D,360,21790,2,0001653797,Common Stock
+A,02/09/2022 00:00:00,Eijsink Jeroen,4,A-Award,--D,2090,21430,1,0001653797,Common Stock
+A,02/09/2022 00:00:00,Castagnetto Michael D.,4,A-Award,--D,674,20822,2,0001797376,Common Stock
+A,02/09/2022 00:00:00,Castagnetto Michael D.,4,A-Award,--D,5040,20148,1,0001797376,Common Stock
+A,02/09/2022 00:00:00,Campbell Ben G,4,A-Award,--D,1154,59721,2,0001452489,Common Stock
+A,02/09/2022 00:00:00,Campbell Ben G,4,A-Award,--D,7000,58567,1,0001452489,Common Stock
+A,02/09/2022 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,7100,186518,2,0001663286,Common Stock
+A,02/09/2022 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,44760,179418,1,0001663286,Common Stock
+A,02/09/2022 00:00:00,Neill Michael W,4,A-Award,--D,866,29917,2,0001744906,Common Stock
+A,02/09/2022 00:00:00,Neill Michael W,4,A-Award,--D,6720,29051,1,0001744906,Common Stock
+A,02/02/2022 00:00:00,Zechmeister Michael Paul,4,A-Award,--D,17706,38461,1,0001653006,Common Stock
+A,02/02/2022 00:00:00,Short Michael John,4,A-Award,--D,16505,36425,1,0001643515,Common Stock
+A,02/02/2022 00:00:00,Pinkerton Mac S,4,A-Award,--D,14218,50309,1,0001763184,Common Stock
+A,02/02/2022 00:00:00,OBRIEN CHRIS,4,A-Award,--D,17497,70362,1,0001255475,Common Stock
+A,02/02/2022 00:00:00,Neill Michael W,4,A-Award,--D,9999,22331,1,0001744906,Common Stock
+A,02/02/2022 00:00:00,Kass Jordan T,4,A-Award,--D,10535,42592,1,0001627920,Common Stock
+A,02/02/2022 00:00:00,Freeman Angela K.,4,A-Award,--D,16125,47301,1,0001563847,Common Stock
+A,02/02/2022 00:00:00,Eijsink Jeroen,4,A-Award,--D,10551,19340,1,0001653797,Common Stock
+A,02/02/2022 00:00:00,Castagnetto Michael D.,4,A-Award,--D,7357,15108,1,0001797376,Common Stock
+A,02/02/2022 00:00:00,Campbell Ben G,4,A-Award,--D,16125,51567,1,0001452489,Common Stock
+A,02/02/2022 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,67353,134658,1,0001663286,Common Stock
+D,01/04/2022 00:00:00,Campbell Ben G,4,M-Exempt,--D,23750,0,6,0001452489,Stock Option (right to buy)
+D,01/04/2022 00:00:00,Campbell Ben G,4,S-Sale,--D,23750,35442,4,0001452489,Common Stock
+A,01/04/2022 00:00:00,Campbell Ben G,4,M-Exempt,--D,23750,59192,3,0001452489,Common Stock
+D,01/03/2022 00:00:00,Campbell Ben G,4,M-Exempt,--D,750,23750,5,0001452489,Stock Option (right to buy)
+D,01/03/2022 00:00:00,Campbell Ben G,4,S-Sale,--D,750,35442,2,0001452489,Common Stock
+A,01/03/2022 00:00:00,Campbell Ben G,4,M-Exempt,--D,750,36192,1,0001452489,Common Stock
+A,12/31/2021 00:00:00,Tolliver Paula,4,A-Award,--D,348,8443,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,12/31/2021 00:00:00,STAKE JAMES B,4,A-Award,--D,348,25189,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,12/31/2021 00:00:00,SHORT BRIAN,4,A-Award,--D,649,44626,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,12/31/2021 00:00:00,Kozlak Jodee A,4,A-Award,--D,348,17645,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,12/31/2021 00:00:00,GUILFOILE MARY,4,A-Award,--D,348,13620,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,12/31/2021 00:00:00,Gokey Timothy C,4,A-Award,--D,649,12515,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,12/31/2021 00:00:00,FORTUN WAYNE M,4,A-Award,--D,348,18663,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,12/31/2021 00:00:00,Crawford Kermit R,4,A-Award,--D,348,1970,2,0001341253,Phantom Stock (Restricted Stock Units)
+A,12/31/2021 00:00:00,Anderson Scott P,4,A-Award,--D,348,21904,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,12/17/2021 00:00:00,OBRIEN CHRIS,4,S-Sale,--I,9445,0,1,0001255475,Common Stock
+D,12/07/2021 00:00:00,Campbell Ben G,4,M-Exempt,--D,19776,0,3,0001452489,Stock Option (right to buy)
+D,12/07/2021 00:00:00,Campbell Ben G,4,S-Sale,--D,19776,35442,2,0001452489,Common Stock
+A,12/07/2021 00:00:00,Campbell Ben G,4,M-Exempt,--D,19776,55218,1,0001452489,Common Stock
+D,11/24/2021 00:00:00,Short Michael John,4,M-Exempt,--D,16914,11276,3,0001643515,Stock Option (right to buy)
+D,11/24/2021 00:00:00,Short Michael John,4,S-Sale,--D,16914,19920,2,0001643515,Common Stock
+A,11/24/2021 00:00:00,Short Michael John,4,M-Exempt,--D,16914,36834,1,0001643515,Common Stock
+D,11/18/2021 00:00:00,Pinkerton Mac S,4,M-Exempt,--D,4993,0,3,0001763184,Stock Option (right to buy)
+D,11/18/2021 00:00:00,Pinkerton Mac S,4,S-Sale,--D,540,36091,2,0001763184,Common Stock
+A,11/18/2021 00:00:00,Pinkerton Mac S,4,M-Exempt,--D,4993,36631,1,0001763184,Common Stock
+D,11/15/2021 00:00:00,Castagnetto Michael D.,4,S-Sale,--D,177,7751,1,0001797376,Common Stock
+D,11/08/2021 00:00:00,OBRIEN CHRIS,4,S-Sale,--I,9302,9445,4,0001255475,Common Stock
+D,10/29/2021 00:00:00,Kass Jordan T,4,S-Sale,--D,2000,32057,1,0001627920,Common Stock
+A,09/30/2021 00:00:00,Tolliver Paula,4,A-Award,--D,431,8095,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,09/30/2021 00:00:00,STAKE JAMES B,4,A-Award,--D,431,24841,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,09/30/2021 00:00:00,SHORT BRIAN,4,A-Award,--D,804,43977,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,09/30/2021 00:00:00,Kozlak Jodee A,4,A-Award,--D,431,17297,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,09/30/2021 00:00:00,GUILFOILE MARY,4,A-Award,--D,431,13272,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,09/30/2021 00:00:00,Gokey Timothy C,4,A-Award,--D,804,11866,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,09/30/2021 00:00:00,FORTUN WAYNE M,4,A-Award,--D,431,18315,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,09/30/2021 00:00:00,Crawford Kermit R,4,A-Award,--D,431,1622,2,0001341253,Phantom Stock (Restricted Stock Units)
+A,09/30/2021 00:00:00,Anderson Scott P,4,A-Award,--D,431,21556,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,09/27/2021 00:00:00,RAJAN ARUN,4,F-InKind,--D,2354,34616,1,0001880247,Common Stock
+D,09/03/2021 00:00:00,Zechmeister Michael Paul,4,F-InKind,--D,1244,20755,1,0001653006,Common Stock
+A,09/01/2021 00:00:00,RAJAN ARUN,4,A-Award,--D,14920,36970,3,0001880247,Common Stock
+A,09/01/2021 00:00:00,RAJAN ARUN,4,A-Award,--D,14590,22050,2,0001880247,Common Stock
+A,09/01/2021 00:00:00,RAJAN ARUN,4,A-Award,--D,7460,7460,1,0001880247,Common Stock
+D,08/12/2021 00:00:00,Short Michael John,4,S-Sale,--D,2693,19920,1,0001643515,Common Stock
+A,07/12/2021 00:00:00,OBRIEN CHRIS,4,G-Gift,-EI,18747,18747,3,0001255475,Common Stock
+D,07/12/2021 00:00:00,OBRIEN CHRIS,4,G-Gift,-EI,7223,0,2,0001255475,Common Stock
+D,07/12/2021 00:00:00,OBRIEN CHRIS,4,G-Gift,-ED,11524,52865,1,0001255475,Common Stock
+A,07/01/2021 00:00:00,SHORT BRIAN,4,P-Purchase,--D,55.238,21951,1,0001256634,Common Stock
+A,06/30/2021 00:00:00,Tolliver Paula,4,A-Award,--D,400,7664,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,06/30/2021 00:00:00,STAKE JAMES B,4,A-Award,--D,400,24410,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,06/30/2021 00:00:00,SHORT BRIAN,4,A-Award,--D,746,43173,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,06/30/2021 00:00:00,Kozlak Jodee A,4,A-Award,--D,400,16866,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,06/30/2021 00:00:00,GUILFOILE MARY,4,A-Award,--D,400,12841,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,06/30/2021 00:00:00,Gokey Timothy C,4,A-Award,--D,746,11062,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,06/30/2021 00:00:00,FORTUN WAYNE M,4,A-Award,--D,400,17884,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,06/30/2021 00:00:00,Crawford Kermit R,4,A-Award,--D,400,1191,2,0001341253,Phantom Stock (Restricted Stock Units)
+A,06/30/2021 00:00:00,Anderson Scott P,4,A-Award,--D,400,21125,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,06/11/2021 00:00:00,Pinkerton Mac S,4,M-Exempt,--D,6100,11865,7,0001763184,Stock Option (right to buy)
+D,06/11/2021 00:00:00,Pinkerton Mac S,4,M-Exempt,--D,5897,956,6,0001763184,Stock Option (right to buy)
+D,06/11/2021 00:00:00,Pinkerton Mac S,4,M-Exempt,--D,3375,4993,5,0001763184,Stock Option (right to buy)
+D,06/11/2021 00:00:00,Pinkerton Mac S,4,S-Sale,--D,15372,31638,4,0001763184,Common Stock
+A,06/11/2021 00:00:00,Pinkerton Mac S,4,M-Exempt,--D,6100,47010,3,0001763184,Common Stock
+A,06/11/2021 00:00:00,Pinkerton Mac S,4,M-Exempt,--D,5897,40910,2,0001763184,Common Stock
+A,06/11/2021 00:00:00,Pinkerton Mac S,4,M-Exempt,--D,3375,35013,1,0001763184,Common Stock
+D,06/01/2021 00:00:00,Short Michael John,4,F-InKind,--D,2082,22613,1,0001643515,Common Stock
+D,05/14/2021 00:00:00,Campbell Ben G,4,S-Sale,--D,2427,35442,1,0001452489,Common Stock
+A,05/14/2021 00:00:00,Crawford Kermit R,4,P-Purchase,--D,1000,1000,1,0001341253,Common Stock
+D,05/14/2021 00:00:00,Neill Michael W,4,M-Exempt,--D,272,0,6,0001744906,Stock Option (right to buy)
+D,05/14/2021 00:00:00,Neill Michael W,4,M-Exempt,--D,4492,0,5,0001744906,Stock Option (right to buy)
+D,05/14/2021 00:00:00,Neill Michael W,4,S-Sale,--D,4764,12332,3,0001744906,Common Stock
+A,05/14/2021 00:00:00,Neill Michael W,4,M-Exempt,--D,272,17096,2,0001744906,Common Stock
+A,05/14/2021 00:00:00,Neill Michael W,4,M-Exempt,--D,4492,16824,1,0001744906,Common Stock
+D,05/07/2021 00:00:00,Freeman Angela K.,4,S-Sale,--D,3702,31176,1,0001563847,Common Stock
+D,05/05/2021 00:00:00,Neill Michael W,4,S-Sale,--D,2243,12332,1,0001744906,Common Stock
+D,05/03/2021 00:00:00,Short Michael John,4,M-Exempt,--D,9996,4998,5,0001643515,Stock Option (right to buy)
+D,05/03/2021 00:00:00,Short Michael John,4,M-Exempt,--D,6030,0,4,0001643515,Stock Option (right to buy)
+D,05/03/2021 00:00:00,Short Michael John,4,S-Sale,--D,17504,24695,3,0001643515,Common Stock
+A,05/03/2021 00:00:00,Short Michael John,4,M-Exempt,--D,9996,42076,2,0001643515,Common Stock
+A,05/03/2021 00:00:00,Short Michael John,4,M-Exempt,--D,6030,32080,1,0001643515,Common Stock
+A,04/01/2021 00:00:00,SHORT BRIAN,4,P-Purchase,--D,53.016,21896,1,0001256634,Common Stock
+A,03/31/2021 00:00:00,Tolliver Paula,4,A-Award,--D,392,7264,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,03/31/2021 00:00:00,STAKE JAMES B,4,A-Award,--D,392,24010,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,03/31/2021 00:00:00,SHORT BRIAN,4,A-Award,--D,732,42427,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,03/31/2021 00:00:00,Kozlak Jodee A,4,A-Award,--D,392,16466,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,03/31/2021 00:00:00,GUILFOILE MARY,4,A-Award,--D,392,12441,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,03/31/2021 00:00:00,FORTUN WAYNE M,4,A-Award,--D,392,17484,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,03/31/2021 00:00:00,Crawford Kermit R,4,A-Award,--D,392,791,1,0001341253,Phantom Stock (Restricted Stock Units)
+A,03/31/2021 00:00:00,Anderson Scott P,4,A-Award,--D,392,20725,1,0001289294,Phantom Stock (Restricted Stock Units)
+A,03/31/2021 00:00:00,Gokey Timothy C,4,A-Award,--D,732,10316,1,0001296187,Phantom Stock (Restricted Stock Units)
+D,02/26/2021 00:00:00,OBRIEN CHRIS,4,S-Sale,--D,2416,64266,1,0001255475,Common Stock
+D,02/19/2021 00:00:00,OBRIEN CHRIS,4,S-Sale,--D,2415,66682,1,0001255475,Common Stock
+D,02/17/2021 00:00:00,Castagnetto Michael D.,4,S-Sale,--D,550,7805,2,0001797376,Common Stock
+D,02/16/2021 00:00:00,Short Michael John,4,F-InKind,--D,668,26050,1,0001643515,Common Stock
+D,02/16/2021 00:00:00,Pinkerton Mac S,4,F-InKind,--D,1446,31515,1,0001763184,Common Stock
+D,02/16/2021 00:00:00,OBRIEN CHRIS,4,F-InKind,--D,2160,69097,1,0001255475,Common Stock
+D,02/16/2021 00:00:00,Neill Michael W,4,F-InKind,--D,513,14452,1,0001744906,Common Stock
+D,02/16/2021 00:00:00,Kass Jordan T,4,F-InKind,--D,916,33935,1,0001627920,Common Stock
+D,02/16/2021 00:00:00,Freeman Angela K.,4,F-InKind,--D,1678,34755,1,0001563847,Common Stock
+D,02/16/2021 00:00:00,Castagnetto Michael D.,4,F-InKind,--D,309,8355,1,0001797376,Common Stock
+D,02/16/2021 00:00:00,Campbell Ben G,4,F-InKind,--D,1841,37869,1,0001452489,Common Stock
+D,02/16/2021 00:00:00,Biesterfeld Robert C Jr,4,F-InKind,--D,917,67182,1,0001663286,Common Stock
+A,02/03/2021 00:00:00,Zechmeister Michael Paul,4,A-Award,--D,10930,21876,1,0001653006,Common Stock
+A,02/03/2021 00:00:00,Short Michael John,4,A-Award,--D,7480,26718,1,0001643515,Common Stock
+A,02/03/2021 00:00:00,Pinkerton Mac S,4,A-Award,--D,9500,32961,1,0001763184,Common Stock
+A,02/03/2021 00:00:00,OBRIEN CHRIS,4,A-Award,--D,6330,71257,1,0001255475,Common Stock
+A,02/03/2021 00:00:00,Neill Michael W,4,A-Award,--D,5180,14965,1,0001744906,Common Stock
+A,02/03/2021 00:00:00,Kass Jordan T,4,A-Award,--D,4030,34851,1,0001627920,Common Stock
+A,02/03/2021 00:00:00,Freeman Angela K.,4,A-Award,--D,7050,36433,1,0001563847,Common Stock
+A,02/03/2021 00:00:00,Eijsink Jeroen,4,A-Award,--D,2130,8789,1,0001653797,Common Stock
+A,02/03/2021 00:00:00,Castagnetto Michael D.,4,A-Award,--D,4030,8664,1,0001797376,Common Stock
+A,02/03/2021 00:00:00,Campbell Ben G,4,A-Award,--D,6910,39710,1,0001452489,Common Stock
+A,02/03/2021 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,42570,68099,1,0001663286,Common Stock
+A,01/04/2021 00:00:00,SHORT BRIAN,4,P-Purchase,--D,55.13,21843,1,0001256634,Common Stock
+A,12/31/2020 00:00:00,Tolliver Paula,4,A-Award,--D,718,6872,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,12/31/2020 00:00:00,STAKE JAMES B,4,A-Award,--D,582,23618,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,12/31/2020 00:00:00,SHORT BRIAN,4,A-Award,--D,718,41695,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,12/31/2020 00:00:00,Kozlak Jodee A,4,A-Award,--D,399,16074,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,12/31/2020 00:00:00,GUILFOILE MARY,4,A-Award,--D,399,12049,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,12/31/2020 00:00:00,Gokey Timothy C,4,A-Award,--D,718,9584,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,12/31/2020 00:00:00,FORTUN WAYNE M,4,A-Award,--D,399,17092,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,12/31/2020 00:00:00,Crawford Kermit R,4,A-Award,--D,399,399,1,0001341253,Phantom Stock (Restricted Stock Units)
+A,12/31/2020 00:00:00,Anderson Scott P,4,A-Award,--D,399,20333,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,11/09/2020 00:00:00,Short Michael John,4,M-Exempt,--D,9996,14994,5,0001643515,Stock Option (right to buy)
+D,11/09/2020 00:00:00,Short Michael John,4,M-Exempt,--D,12041,6030,4,0001643515,Stock Option (right to buy)
+D,11/09/2020 00:00:00,Short Michael John,4,S-Sale,--D,22037,19238,3,0001643515,Common Stock
+A,11/09/2020 00:00:00,Short Michael John,4,M-Exempt,--D,9996,41275,2,0001643515,Common Stock
+A,11/09/2020 00:00:00,Short Michael John,4,M-Exempt,--D,12041,31279,1,0001643515,Common Stock
+A,09/30/2020 00:00:00,Tolliver Paula,4,A-Award,--D,659,6154,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,09/30/2020 00:00:00,STAKE JAMES B,4,A-Award,--D,534,23036,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,09/30/2020 00:00:00,SHORT BRIAN,4,A-Award,--D,659,40977,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,09/30/2020 00:00:00,SHORT BRIAN,4,P-Purchase,--D,49.647,21788,1,0001256634,Common Stock
+A,09/30/2020 00:00:00,Kozlak Jodee A,4,A-Award,--D,366,15675,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,09/30/2020 00:00:00,GUILFOILE MARY,4,A-Award,--D,366,11650,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,09/30/2020 00:00:00,Gokey Timothy C,4,A-Award,--D,659,8866,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,09/30/2020 00:00:00,FORTUN WAYNE M,4,A-Award,--D,366,16693,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,09/30/2020 00:00:00,Anderson Scott P,4,A-Award,--D,366,19934,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,09/03/2020 00:00:00,Zechmeister Michael Paul,4,F-InKind,--D,1244,10946,1,0001653006,Common Stock
+D,08/31/2020 00:00:00,Pinkerton Mac S,4,S-Sale,--D,500,23461,1,0001763184,Common Stock
+D,08/25/2020 00:00:00,Short Michael John,4,M-Exempt,--D,4458,18071,3,0001643515,Stock Option (right to buy)
+D,08/25/2020 00:00:00,Short Michael John,4,S-Sale,--D,4458,19238,2,0001643515,Common Stock
+A,08/25/2020 00:00:00,Short Michael John,4,M-Exempt,--D,4458,23696,1,0001643515,Common Stock
+D,08/20/2020 00:00:00,OBRIEN CHRIS,4,M-Exempt,--D,3179,7676,14,0001255475,Option (right to buy)
+D,08/20/2020 00:00:00,OBRIEN CHRIS,4,M-Exempt,--D,972,0,13,0001255475,Option (right to buy)
+D,08/20/2020 00:00:00,OBRIEN CHRIS,4,M-Exempt,--D,5151,0,12,0001255475,Option (right to buy)
+A,08/20/2020 00:00:00,OBRIEN CHRIS,4,M-Exempt,--D,3179,69578,7,0001255475,Common Stock
+A,08/20/2020 00:00:00,OBRIEN CHRIS,4,M-Exempt,--D,972,66399,6,0001255475,Common Stock
+A,08/20/2020 00:00:00,OBRIEN CHRIS,4,M-Exempt,--D,5151,65427,5,0001255475,Common Stock
+D,08/19/2020 00:00:00,OBRIEN CHRIS,4,M-Exempt,--D,16625,10855,11,0001255475,Option (right to buy)
+D,08/19/2020 00:00:00,OBRIEN CHRIS,4,M-Exempt,--D,9265,972,10,0001255475,Option (right to buy)
+D,08/19/2020 00:00:00,OBRIEN CHRIS,4,M-Exempt,--D,5309,5151,9,0001255475,Option (right to buy)
+D,08/19/2020 00:00:00,OBRIEN CHRIS,4,S-Sale,--D,31199,60276,4,0001255475,Common Stock
+A,08/19/2020 00:00:00,OBRIEN CHRIS,4,M-Exempt,--D,16625,91475,3,0001255475,Common Stock
+A,08/19/2020 00:00:00,OBRIEN CHRIS,4,M-Exempt,--D,9265,74850,2,0001255475,Common Stock
+A,08/19/2020 00:00:00,OBRIEN CHRIS,4,M-Exempt,--D,5309,65585,1,0001255475,Common Stock
+D,08/07/2020 00:00:00,Kass Jordan T,4,M-Exempt,--D,9131,0,9,0001627920,Employee Stock Option (right to buy)
+D,08/07/2020 00:00:00,Kass Jordan T,4,M-Exempt,--D,3793,0,8,0001627920,Employee Stock Option (right to buy)
+D,08/07/2020 00:00:00,Kass Jordan T,4,M-Exempt,--D,1664,0,7,0001627920,Employee Stock Option (right to buy)
+D,08/07/2020 00:00:00,Kass Jordan T,4,M-Exempt,--D,3234,0,6,0001627920,Employee Stock Option (right to buy)
+D,08/07/2020 00:00:00,Kass Jordan T,4,S-Sale,--D,18866,30821,5,0001627920,Common Stock
+A,08/07/2020 00:00:00,Kass Jordan T,4,M-Exempt,--D,9131,49687,4,0001627920,Common Stock
+A,08/07/2020 00:00:00,Kass Jordan T,4,M-Exempt,--D,3793,40556,3,0001627920,Common Stock
+A,08/07/2020 00:00:00,Kass Jordan T,4,M-Exempt,--D,1664,36763,2,0001627920,Common Stock
+A,08/07/2020 00:00:00,Kass Jordan T,4,M-Exempt,--D,3234,35099,1,0001627920,Common Stock
+D,08/04/2020 00:00:00,Castagnetto Michael D.,4,M-Exempt,--D,1265,0,3,0001797376,Employee Stock Option (right to buy)
+D,08/04/2020 00:00:00,Castagnetto Michael D.,4,S-Sale,--D,1265,4634,2,0001797376,Common Stock
+A,08/04/2020 00:00:00,Castagnetto Michael D.,4,M-Exempt,--D,1265,5899,1,0001797376,Common Stock
+D,08/03/2020 00:00:00,Campbell Ben G,4,S-Sale,--D,1612,32800,2,0001452489,Common Stock
+D,08/03/2020 00:00:00,Campbell Ben G,4,S-Sale,--D,1065,34412,1,0001452489,Common Stock
+D,07/31/2020 00:00:00,Short Michael John,4,M-Exempt,--D,1591,22529,5,0001643515,Stock Option (right to buy)
+D,07/31/2020 00:00:00,Short Michael John,4,M-Exempt,--D,3532,0,4,0001643515,Stock Option (right to buy)
+D,07/31/2020 00:00:00,Short Michael John,4,S-Sale,--D,8484,19238,3,0001643515,Common Stock
+A,07/31/2020 00:00:00,Short Michael John,4,M-Exempt,--D,1591,27722,2,0001643515,Common Stock
+A,07/31/2020 00:00:00,Short Michael John,4,M-Exempt,--D,3532,26131,1,0001643515,Common Stock
+D,07/31/2020 00:00:00,Freeman Angela K.,4,M-Exempt,--D,21140,0,7,0001563847,Stock Option (right to buy)
+D,07/31/2020 00:00:00,Freeman Angela K.,4,M-Exempt,--D,7090,0,6,0001563847,Stock Option (right to buy)
+D,07/31/2020 00:00:00,Freeman Angela K.,4,M-Exempt,--D,7318,0,5,0001563847,Stock Option (right to buy)
+D,07/31/2020 00:00:00,Freeman Angela K.,4,S-Sale,--D,35548,29383,4,0001563847,Common Stock
+A,07/31/2020 00:00:00,Freeman Angela K.,4,M-Exempt,--D,21140,64931,3,0001563847,Common Stock
+A,07/31/2020 00:00:00,Freeman Angela K.,4,M-Exempt,--D,7090,43791,2,0001563847,Common Stock
+A,07/31/2020 00:00:00,Freeman Angela K.,4,M-Exempt,--D,7318,36701,1,0001563847,Common Stock
+A,06/30/2020 00:00:00,Tolliver Paula,4,A-Award,--D,695,5495,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,06/30/2020 00:00:00,STAKE JAMES B,4,A-Award,--D,612,22502,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,06/30/2020 00:00:00,SHORT BRIAN,4,A-Award,--D,695,40318,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,06/30/2020 00:00:00,SHORT BRIAN,4,P-Purchase,--D,66.444,21738,1,0001256634,Common Stock
+A,06/30/2020 00:00:00,Kozlak Jodee A,4,A-Award,--D,474,15309,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,06/30/2020 00:00:00,GUILFOILE MARY,4,A-Award,--D,474,11284,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,06/30/2020 00:00:00,Gokey Timothy C,4,A-Award,--D,695,8207,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,06/30/2020 00:00:00,FORTUN WAYNE M,4,A-Award,--D,474,16327,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,06/30/2020 00:00:00,Anderson Scott P,4,A-Award,--D,474,19568,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,06/01/2020 00:00:00,Short Michael John,4,F-InKind,--D,1468,22589,1,0001643515,Common Stock
+D,05/21/2020 00:00:00,Freeman Angela K.,4,S-Sale,--D,1480,29383,1,0001563847,Common Stock
+D,05/20/2020 00:00:00,Pinkerton Mac S,4,S-Sale,--D,1500,23961,1,0001763184,Common Stock
+D,05/19/2020 00:00:00,Short Michael John,4,S-Sale,--D,269,24057,1,0001643515,Common Stock
+D,05/15/2020 00:00:00,Campbell Ben G,4,S-Sale,--D,2750,35477,1,0001452489,Common Stock
+D,04/14/2020 00:00:00,WIEHOFF JOHN,4,S-Sale,--D,39413,535506,2,0001241113,Common Stock
+D,04/14/2020 00:00:00,WIEHOFF JOHN,4,S-Sale,--D,181854,574919,1,0001241113,Common Stock
+A,03/31/2020 00:00:00,Tolliver Paula,4,A-Award,--D,1019,4800,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,03/31/2020 00:00:00,STAKE JAMES B,4,A-Award,--D,825,21890,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,03/31/2020 00:00:00,SHORT BRIAN,4,A-Award,--D,1019,39623,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,03/31/2020 00:00:00,Kozlak Jodee A,4,A-Award,--D,566,14835,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,03/31/2020 00:00:00,GUILFOILE MARY,4,A-Award,--D,566,10810,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,03/31/2020 00:00:00,Gokey Timothy C,4,A-Award,--D,1019,7512,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,03/31/2020 00:00:00,FORTUN WAYNE M,4,A-Award,--D,566,15853,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,03/31/2020 00:00:00,Anderson Scott P,4,A-Award,--D,566,19094,1,0001289294,Phantom Stock (Restricted Stock Units)
+A,03/27/2020 00:00:00,WIEHOFF JOHN,4,A-Award,--D,3712,756773,1,0001241113,Common Stock
+D,02/18/2020 00:00:00,Neill Michael W,4,F-InKind,--D,213,9613,1,0001744906,Common Stock
+D,02/18/2020 00:00:00,WIEHOFF JOHN,4,F-InKind,--D,4143,753060,1,0001241113,Common Stock
+D,02/18/2020 00:00:00,Pinkerton Mac S,4,F-InKind,--D,690,25284,1,0001763184,Common Stock
+D,02/18/2020 00:00:00,OBRIEN CHRIS,4,F-InKind,--D,972,61362,1,0001255475,Common Stock
+D,02/18/2020 00:00:00,Kass Jordan T,4,F-InKind,--D,301,31688,1,0001627920,Common Stock
+D,02/18/2020 00:00:00,Freeman Angela K.,4,F-InKind,--D,709,30686,1,0001563847,Common Stock
+D,02/18/2020 00:00:00,Castagnetto Michael D.,4,S-Sale,--D,983,4457,2,0001797376,Common Stock
+D,02/18/2020 00:00:00,Castagnetto Michael D.,4,F-InKind,--D,552,5440,1,0001797376,Common Stock
+D,02/18/2020 00:00:00,Campbell Ben G,4,F-InKind,--D,841,38227,1,0001452489,Common Stock
+D,02/18/2020 00:00:00,Biesterfeld Robert C Jr,4,F-InKind,--D,281,25352,1,0001663286,Common Stock
+A,02/05/2020 00:00:00,Zechmeister Michael Paul,4,A-Award,--D,55020,55020,2,0001653006,Stock Option (right to buy)
+A,02/05/2020 00:00:00,Short Michael John,4,A-Award,--D,31820,31820,3,0001643515,Stock Option (right to buy)
+A,02/05/2020 00:00:00,Pinkerton Mac S,4,A-Award,--D,41170,41170,2,0001763184,Stock Option (right to buy)
+A,02/05/2020 00:00:00,OBRIEN CHRIS,4,A-Award,--D,33690,33690,3,0001255475,Stock Option (right to buy)
+A,02/05/2020 00:00:00,Neill Michael W,4,A-Award,--D,26200,26200,3,0001744906,Stock Option (right to buy)
+A,02/05/2020 00:00:00,Kass Jordan T,4,A-Award,--D,20590,20590,2,0001627920,Stock Option (right to buy)
+A,02/05/2020 00:00:00,Freeman Angela K.,4,A-Award,--D,31820,31820,2,0001563847,Stock Option (right to buy)
+A,02/05/2020 00:00:00,Castagnetto Michael D.,4,A-Award,--D,20590,20590,2,0001797376,Stock Option (right to buy)
+A,02/05/2020 00:00:00,Campbell Ben G,4,A-Award,--D,31820,31820,2,0001452489,Stock Option (right to buy)
+A,02/05/2020 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,161820,161820,2,0001663286,Stock Option (right to buy)
+A,02/04/2020 00:00:00,Biesterfeld Robert C Jr,4,P-Purchase,--D,346,25633,1,0001663286,Common Stock
+D,01/03/2020 00:00:00,Short Michael John,4,S-Sale,--I,170,0,1,0001643515,Common Stock
+A,12/31/2019 00:00:00,WIEHOFF JOHN,4,A-Award,--D,3045,757203,1,0001241113,Common Stock
+A,12/31/2019 00:00:00,Tolliver Paula,4,A-Award,--D,830,3781,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,12/31/2019 00:00:00,STAKE JAMES B,4,A-Award,--D,682,21065,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,12/31/2019 00:00:00,SHORT BRIAN,4,A-Award,--D,830,38604,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,12/31/2019 00:00:00,Kozlak Jodee A,4,A-Award,--D,479,14269,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,12/31/2019 00:00:00,GUILFOILE MARY,4,A-Award,--D,479,10244,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,12/31/2019 00:00:00,Gokey Timothy C,4,A-Award,--D,830,6493,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,12/31/2019 00:00:00,FORTUN WAYNE M,4,A-Award,--D,479,15287,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,12/31/2019 00:00:00,Anderson Scott P,4,A-Award,--D,479,18528,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,11/22/2019 00:00:00,Neill Michael W,4,S-Sale,--D,671,9826,1,0001744906,Common Stock
+A,11/01/2019 00:00:00,Biesterfeld Robert C Jr,4,P-Purchase,--D,665,25287,1,0001663286,Common Stock
+A,09/30/2019 00:00:00,WIEHOFF JOHN,4,A-Award,--D,2731,754159,1,0001241113,Common Stock
+A,09/30/2019 00:00:00,Tolliver Paula,4,A-Award,--D,766,2951,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,09/30/2019 00:00:00,STAKE JAMES B,4,A-Award,--D,629,20383,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,09/30/2019 00:00:00,SHORT BRIAN,4,A-Award,--D,766,37774,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,09/30/2019 00:00:00,Kozlak Jodee A,4,A-Award,--D,442,13790,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,09/30/2019 00:00:00,GUILFOILE MARY,4,A-Award,--D,442,9765,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,09/30/2019 00:00:00,Gokey Timothy C,4,A-Award,--D,766,5663,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,09/30/2019 00:00:00,FORTUN WAYNE M,4,A-Award,--D,442,14808,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,09/30/2019 00:00:00,Anderson Scott P,4,A-Award,--D,442,18049,1,0001289294,Phantom Stock (Restricted Stock Units)
+A,09/03/2019 00:00:00,Zechmeister Michael Paul,4,A-Award,--D,41960,41960,2,0001653006,Employee Stock Option (right to buy)
+A,09/03/2019 00:00:00,Zechmeister Michael Paul,4,A-Award,--D,12190,12190,1,0001653006,Common Stock
+D,08/29/2019 00:00:00,Campbell Ben G,4,M-Exempt,--D,8244,0,12,0001452489,Option (right to buy)
+D,08/29/2019 00:00:00,Campbell Ben G,4,M-Exempt,--D,7842,0,11,0001452489,Option (right to buy)
+D,08/29/2019 00:00:00,Campbell Ben G,4,M-Exempt,--D,4339,0,10,0001452489,Option (right to buy)
+D,08/29/2019 00:00:00,Campbell Ben G,4,S-Sale,--D,20425,39068,7,0001452489,Common Stock
+A,08/29/2019 00:00:00,Campbell Ben G,4,M-Exempt,--D,8244,59456,6,0001452489,Common Stock
+A,08/29/2019 00:00:00,Campbell Ben G,4,M-Exempt,--D,7842,51212,5,0001452489,Common Stock
+A,08/29/2019 00:00:00,Campbell Ben G,4,M-Exempt,--D,4339,43370,4,0001452489,Common Stock
+D,08/28/2019 00:00:00,Campbell Ben G,4,M-Exempt,--D,822,7842,9,0001452489,Option (right to buy)
+D,08/28/2019 00:00:00,Campbell Ben G,4,M-Exempt,--D,5072,4339,8,0001452489,Option (right to buy)
+D,08/28/2019 00:00:00,Campbell Ben G,4,F-InKind,--D,4797,39031,3,0001452489,Common Stock
+A,08/28/2019 00:00:00,Campbell Ben G,4,M-Exempt,--D,822,43828,2,0001452489,Common Stock
+A,08/28/2019 00:00:00,Campbell Ben G,4,M-Exempt,--D,5072,43006,1,0001452489,Common Stock
+D,08/19/2019 00:00:00,Freeman Angela K.,4,M-Exempt,--D,14700,9800,3,0001563847,Employee Stock Option (right to buy)
+D,08/19/2019 00:00:00,Freeman Angela K.,4,S-Sale,--D,16356,31250,2,0001563847,Common Stock
+A,08/19/2019 00:00:00,Freeman Angela K.,4,M-Exempt,--D,14700,47594,1,0001563847,Common Stock
+D,08/15/2019 00:00:00,WIEHOFF JOHN,4,G-Gift,-EI,10000,26000,2,0001241113,Common Stock
+D,08/09/2019 00:00:00,Kass Jordan T,4,M-Exempt,--D,7914,5276,7,0001627920,Option (right to buy)
+D,08/09/2019 00:00:00,Kass Jordan T,4,M-Exempt,--D,1661,3793,6,0001627920,Option (right to buy)
+D,08/09/2019 00:00:00,Kass Jordan T,4,M-Exempt,--D,1556,1664,5,0001627920,Option (right to buy)
+D,08/09/2019 00:00:00,Kass Jordan T,4,S-Sale,--D,12228,31850,4,0001627920,Common Stock
+A,08/09/2019 00:00:00,Kass Jordan T,4,M-Exempt,--D,7914,44074,3,0001627920,Common Stock
+A,08/09/2019 00:00:00,Kass Jordan T,4,M-Exempt,--D,1661,36160,2,0001627920,Common Stock
+A,08/09/2019 00:00:00,Kass Jordan T,4,M-Exempt,--D,1556,34499,1,0001627920,Common Stock
+D,08/09/2019 00:00:00,Short Michael John,4,M-Exempt,--D,2412,0,4,0001643515,Stock Option (right to buy)
+D,08/09/2019 00:00:00,Short Michael John,4,S-Sale,--D,2412,24161,2,0001643515,Common Stock
+A,08/09/2019 00:00:00,Short Michael John,4,M-Exempt,--D,2412,26572,1,0001643515,Common Stock
+D,08/08/2019 00:00:00,WIEHOFF JOHN,4,S-Sale,--D,8392,751395,1,0001241113,Common Stock
+A,06/28/2019 00:00:00,WIEHOFF JOHN,4,A-Award,--D,2729,759818,1,0001241113,Common Stock
+A,06/28/2019 00:00:00,Tolliver Paula,4,A-Award,--D,770,2185,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,06/28/2019 00:00:00,STAKE JAMES B,4,A-Award,--D,632,19754,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,06/28/2019 00:00:00,SHORT BRIAN,4,A-Award,--D,770,37008,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,06/28/2019 00:00:00,Kozlak Jodee A,4,A-Award,--D,444,13348,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,06/28/2019 00:00:00,GUILFOILE MARY,4,A-Award,--D,444,9323,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,06/28/2019 00:00:00,Gokey Timothy C,4,A-Award,--D,770,4897,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,06/28/2019 00:00:00,FORTUN WAYNE M,4,A-Award,--D,444,14366,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,06/28/2019 00:00:00,Anderson Scott P,4,A-Award,--D,444,17607,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,05/20/2019 00:00:00,Short Michael John,4,S-Sale,--D,152,24160,1,0001643515,Common Stock
+A,05/09/2019 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,106370,106370,2,0001663286,Stock Option (right to buy)
+A,05/09/2019 00:00:00,Biesterfeld Robert C Jr,4,P-Purchase,--D,1202,24619,1,0001663286,Common Stock
+A,03/29/2019 00:00:00,SHORT BRIAN,4,A-Award,--D,747,36238,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,03/29/2019 00:00:00,WIEHOFF JOHN,4,A-Award,--D,2631,757108,1,0001241113,Common Stock
+A,03/29/2019 00:00:00,Tolliver Paula,4,A-Award,--D,747,1415,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,03/29/2019 00:00:00,STAKE JAMES B,4,A-Award,--D,614,19122,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,03/29/2019 00:00:00,Kozlak Jodee A,4,A-Award,--D,431,12904,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,03/29/2019 00:00:00,GUILFOILE MARY,4,A-Award,--D,431,8879,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,03/29/2019 00:00:00,Gokey Timothy C,4,A-Award,--D,747,4127,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,03/29/2019 00:00:00,FORTUN WAYNE M,4,A-Award,--D,431,13922,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,03/29/2019 00:00:00,Anderson Scott P,4,A-Award,--D,431,17163,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,02/14/2019 00:00:00,Freeman Angela K.,4,S-Sale,--D,2914,32894,1,0001563847,Common Stock
+D,02/06/2019 00:00:00,LEMKE JAMES,4,S-Sale,--D,2399,189257,1,0001241098,Common Stock
+D,02/06/2019 00:00:00,Kass Jordan T,4,S-Sale,--D,1382,32943,1,0001627920,Common Stock
+D,02/05/2019 00:00:00,OBRIEN CHRIS,4,S-Sale,--D,1100,62327,1,0001255475,Common Stock
+D,01/31/2019 00:00:00,WIEHOFF JOHN,4,F-InKind,--D,3884,754477,1,0001241113,Common Stock
+D,01/31/2019 00:00:00,OBRIEN CHRIS,4,F-InKind,--D,989,63427,1,0001255475,Common Stock
+D,01/31/2019 00:00:00,Neill Michael W,4,F-InKind,--D,259,10357,1,0001744906,Common Stock
+D,01/31/2019 00:00:00,LEMKE JAMES,4,F-InKind,--D,1133,191656,1,0001241098,Common Stock
+D,01/31/2019 00:00:00,Kass Jordan T,4,F-InKind,--D,333,34325,1,0001627920,Common Stock
+D,01/31/2019 00:00:00,Freeman Angela K.,4,F-InKind,--D,713,35808,1,0001563847,Common Stock
+D,01/31/2019 00:00:00,Campbell Ben G,4,F-InKind,--D,901,37934,1,0001452489,Common Stock
+D,01/31/2019 00:00:00,Biesterfeld Robert C Jr,4,F-InKind,--D,328,23279,1,0001663286,Common Stock
+D,01/31/2019 00:00:00,Pinkerton Mac S,4,F-InKind,--D,802,25821,1,0001763184,Common Stock
+A,01/29/2019 00:00:00,WIEHOFF JOHN,4,A-Award,--D,51437,106462,4,0001241113,Option (right to buy)
+A,01/29/2019 00:00:00,WIEHOFF JOHN,4,A-Award,--D,36772,126800,3,0001241113,Option (right to buy)
+A,01/29/2019 00:00:00,WIEHOFF JOHN,4,A-Award,--D,67755,758361,1,0001241113,Common Stock
+A,01/29/2019 00:00:00,Short Michael John,4,A-Award,--D,3532,7310,4,0001643515,Option (right to buy)
+A,01/29/2019 00:00:00,Short Michael John,4,A-Award,--D,2412,8317,3,0001643515,Option (right to buy)
+A,01/29/2019 00:00:00,Short Michael John,4,A-Award,--D,9922,24174,1,0001643515,Common Stock
+A,01/29/2019 00:00:00,Pinkerton Mac S,4,A-Award,--D,5593,11576,3,0001763184,Option (right to buy)
+A,01/29/2019 00:00:00,Pinkerton Mac S,4,A-Award,--D,5211,17965,2,0001763184,Option (right to buy)
+A,01/29/2019 00:00:00,Pinkerton Mac S,4,A-Award,--D,7040,21622,1,0001763184,Common Stock
+A,01/29/2019 00:00:00,OBRIEN CHRIS,4,A-Award,--D,11025,22819,4,0001255475,Option (right to buy)
+A,01/29/2019 00:00:00,OBRIEN CHRIS,4,A-Award,--D,7970,27480,3,0001255475,Option (right to buy)
+A,01/29/2019 00:00:00,OBRIEN CHRIS,4,A-Award,--D,13396,64416,1,0001255475,Common Stock
+A,01/29/2019 00:00:00,Neill Michael W,4,A-Award,--D,2237,4630,4,0001744906,Option (right to buy)
+A,01/29/2019 00:00:00,Neill Michael W,4,A-Award,--D,1738,5989,3,0001744906,Option (right to buy)
+A,01/29/2019 00:00:00,Neill Michael W,4,A-Award,--D,3286,10617,1,0001744906,Common Stock
+A,01/29/2019 00:00:00,LEMKE JAMES,4,A-Award,--D,10290,21298,3,0001241098,Option (right to buy)
+A,01/29/2019 00:00:00,LEMKE JAMES,4,A-Award,--D,7970,27480,2,0001241098,Option (right to buy)
+A,01/29/2019 00:00:00,LEMKE JAMES,4,A-Award,--D,12690,192789,1,0001241098,Common Stock
+A,01/29/2019 00:00:00,Kass Jordan T,4,A-Award,--D,4412,9131,3,0001627920,Option (right to buy)
+A,01/29/2019 00:00:00,Kass Jordan T,4,A-Award,--D,3377,11644,2,0001627920,Option (right to buy)
+A,01/29/2019 00:00:00,Kass Jordan T,4,A-Award,--D,6527,34658,1,0001627920,Common Stock
+A,01/29/2019 00:00:00,Freeman Angela K.,4,A-Award,--D,8819,18254,3,0001563847,Option (right to buy)
+A,01/29/2019 00:00:00,Freeman Angela K.,4,A-Award,--D,6131,21140,2,0001563847,Option (right to buy)
+A,01/29/2019 00:00:00,Freeman Angela K.,4,A-Award,--D,11145,36521,1,0001563847,Common Stock
+A,01/29/2019 00:00:00,Eijsink Jeroen,4,A-Award,--D,5276,6659,1,0001653797,Common Stock
+A,01/29/2019 00:00:00,CLARKE ANDREW C,4,A-Award,--D,13235,27393,2,0001182292,Option (right to buy)
+A,01/29/2019 00:00:00,CLARKE ANDREW C,4,A-Award,--D,12212,18312,1,0001182292,Common Stock
+A,01/29/2019 00:00:00,Campbell Ben G,4,A-Award,--D,9555,19776,3,0001452489,Option (right to buy)
+A,01/29/2019 00:00:00,Campbell Ben G,4,A-Award,--D,6742,23250,2,0001452489,Option (right to buy)
+A,01/29/2019 00:00:00,Campbell Ben G,4,A-Award,--D,11474,38835,1,0001452489,Common Stock
+A,01/29/2019 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,4710,9748,3,0001663286,Option (right to buy)
+A,01/29/2019 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,3377,11644,2,0001663286,Option (right to buy)
+A,01/29/2019 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,12810,23607,1,0001663286,Common Stock
+A,01/03/2019 00:00:00,Pinkerton Mac S,4,A-Award,--D,2710,2710,2,0001763184,Stock Option (right to buy)
+A,12/31/2018 00:00:00,WIEHOFF JOHN,4,A-Award,--D,2705,690541,1,0001241113,Common Stock
+A,12/31/2018 00:00:00,Tolliver Paula,4,A-Award,--D,668,668,1,0001756360,Phantom Stock (Restricted Stock Units)
+A,12/31/2018 00:00:00,STAKE JAMES B,4,A-Award,--D,590,18508,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,12/31/2018 00:00:00,SHORT BRIAN,4,A-Award,--D,728,35491,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,12/31/2018 00:00:00,Kozlak Jodee A,4,A-Award,--D,401,12473,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,12/31/2018 00:00:00,GUILFOILE MARY,4,A-Award,--D,401,8448,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,12/31/2018 00:00:00,Gokey Timothy C,4,A-Award,--D,740,3380,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,12/31/2018 00:00:00,Anderson Scott P,4,A-Award,--D,401,16732,1,0001289294,Phantom Stock (Restricted Stock Units)
+A,12/31/2018 00:00:00,FORTUN WAYNE M,4,A-Award,--D,401,13491,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,12/05/2018 00:00:00,WIEHOFF JOHN,4,A-Award,--D,118350,118350,3,0001241113,Stock Option (right to buy)
+A,12/05/2018 00:00:00,Short Michael John,4,A-Award,--D,20220,20220,4,0001643515,Stock Option (right to buy)
+A,12/05/2018 00:00:00,OBRIEN CHRIS,4,A-Award,--D,21410,21410,4,0001255475,Stock Option (right to buy)
+A,12/05/2018 00:00:00,Neill Michael W,4,A-Award,--D,14280,14280,4,0001744906,Stock Option (right to buy)
+A,12/05/2018 00:00:00,Kass Jordan T,4,A-Award,--D,13090,13090,3,0001627920,Stock Option (right to buy)
+A,12/05/2018 00:00:00,Freeman Angela K.,4,A-Award,--D,20220,20220,3,0001563847,Stock Option (right to buy)
+A,12/05/2018 00:00:00,CLARKE ANDREW C,4,A-Award,--D,21410,21410,3,0001182292,Stock Option (right to buy)
+A,12/05/2018 00:00:00,Campbell Ben G,4,A-Award,--D,20220,20220,3,0001452489,Stock Option (right to buy)
+A,12/05/2018 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,37970,37970,3,0001663286,Stock Option (right to buy)
+A,09/28/2018 00:00:00,WIEHOFF JOHN,4,A-Award,--D,2127,687852,1,0001241113,Common Stock
+A,09/28/2018 00:00:00,STAKE JAMES B,4,A-Award,--D,506,17918,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,09/28/2018 00:00:00,SHORT BRIAN,4,A-Award,--D,624,34763,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,09/28/2018 00:00:00,Kozlak Jodee A,4,A-Award,--D,344,12072,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,09/28/2018 00:00:00,GUILFOILE MARY,4,A-Award,--D,344,8047,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,09/28/2018 00:00:00,Gokey Timothy C,4,A-Award,--D,612,2640,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,09/28/2018 00:00:00,FORTUN WAYNE M,4,A-Award,--D,344,13090,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,09/28/2018 00:00:00,EZRILOV ROBERT,4,A-Award,--D,344,13090,2,0001197975,Phantom Stock (Restricted Stock Units)
+A,09/28/2018 00:00:00,Anderson Scott P,4,A-Award,--D,344,16331,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,09/10/2018 00:00:00,Campbell Ben G,4,S-Sale,--D,4000,27902,1,0001452489,Common Stock
+D,08/24/2018 00:00:00,Freeman Angela K.,4,S-Sale,--D,1589,25357,3,0001563847,Common Stock
+D,08/17/2018 00:00:00,Kass Jordan T,4,M-Exempt,--D,6190,2077,13,0001627920,Option (right to buy)
+D,08/17/2018 00:00:00,Kass Jordan T,4,S-Sale,--D,6190,27503,4,0001627920,Common Stock
+A,08/17/2018 00:00:00,Kass Jordan T,4,M-Exempt,--D,6190,33693,3,0001627920,Common Stock
+D,08/17/2018 00:00:00,WIEHOFF JOHN,4,S-Sale,--D,30000,685727,2,0001241113,Common Stock
+D,08/09/2018 00:00:00,WIEHOFF JOHN,4,G-Gift,-EI,10000,36000,3,0001241113,Common Stock
+D,08/08/2018 00:00:00,Neill Michael W,4,S-Sale,--D,452,6959,1,0001744906,Common Stock
+D,08/06/2018 00:00:00,Short Michael John,4,M-Exempt,--D,3778,0,7,0001643515,Stock Option (right to buy)
+D,08/06/2018 00:00:00,Short Michael John,4,M-Exempt,--D,749,0,6,0001643515,Stock Option (right to buy)
+D,08/06/2018 00:00:00,Short Michael John,4,S-Sale,--D,4527,13968,3,0001643515,Common Stock
+A,08/06/2018 00:00:00,Short Michael John,4,M-Exempt,--D,3778,18495,2,0001643515,Common Stock
+A,08/06/2018 00:00:00,Short Michael John,4,M-Exempt,--D,749,14717,1,0001643515,Common Stock
+A,07/30/2018 00:00:00,Kass Jordan T,4,A-Award,--D,3390,3390,3,0001627920,Stock Option (right to buy)
+A,07/30/2018 00:00:00,Neill Michael W,4,A-Award,--D,6770,6770,4,0001744906,Stock Option (right to buy)
+A,06/29/2018 00:00:00,WIEHOFF JOHN,4,A-Award,--D,2476,727180,1,0001241113,Common Stock
+A,06/29/2018 00:00:00,STAKE JAMES B,4,A-Award,--D,594,17412,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,06/29/2018 00:00:00,SHORT BRIAN,4,A-Award,--D,731,34139,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,06/29/2018 00:00:00,Kozlak Jodee A,4,A-Award,--D,403,11728,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,06/29/2018 00:00:00,GUILFOILE MARY,4,A-Award,--D,403,7703,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,06/29/2018 00:00:00,Gokey Timothy C,4,A-Award,--D,731,2028,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,06/29/2018 00:00:00,FORTUN WAYNE M,4,A-Award,--D,403,12746,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,06/29/2018 00:00:00,EZRILOV ROBERT,4,A-Award,--D,403,12746,2,0001197975,Phantom Stock (Restricted Stock Units)
+A,06/29/2018 00:00:00,Anderson Scott P,4,A-Award,--D,403,15987,1,0001289294,Phantom Stock (Restricted Stock Units)
+A,03/30/2018 00:00:00,WIEHOFF JOHN,4,A-Award,--D,2235,724680,1,0001241113,Common Stock
+A,03/30/2018 00:00:00,STAKE JAMES B,4,A-Award,--D,530,16818,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,03/30/2018 00:00:00,SHORT BRIAN,4,A-Award,--D,653,33394,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,03/30/2018 00:00:00,Kozlak Jodee A,4,A-Award,--D,360,11325,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,03/30/2018 00:00:00,GUILFOILE MARY,4,A-Award,--D,360,7300,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,03/30/2018 00:00:00,GUILFOILE MARY,4,A-Award,--D,120,3098,1,0001241724,Common Stock
+A,03/30/2018 00:00:00,Gokey Timothy C,4,A-Award,--D,653,1297,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,03/30/2018 00:00:00,FORTUN WAYNE M,4,A-Award,--D,360,12343,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,03/30/2018 00:00:00,EZRILOV ROBERT,4,A-Award,--D,360,12343,2,0001197975,Phantom Stock (Restricted Stock Units)
+A,03/30/2018 00:00:00,Anderson Scott P,4,A-Award,--D,360,15584,1,0001289294,Phantom Stock (Restricted Stock Units)
+A,03/01/2018 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,20640,20640,3,0001663286,Stock Option (right to buy)
+D,02/27/2018 00:00:00,Campbell Ben G,4,M-Exempt,--D,15006,9640,3,0001452489,Stock Option (right to buy)
+D,02/27/2018 00:00:00,Campbell Ben G,4,S-Sale,--D,15006,30417,2,0001452489,Common Stock
+A,02/27/2018 00:00:00,Campbell Ben G,4,M-Exempt,--D,15006,45423,1,0001452489,Common Stock
+D,02/27/2018 00:00:00,LINDBLOOM CHAD,4,S-Sale,--D,5190,126539,1,0001241107,Common Stock
+D,02/27/2018 00:00:00,Freeman Angela K.,4,S-Sale,--D,1000,21615,1,0001563847,Common Stock
+D,02/26/2018 00:00:00,Biesterfeld Robert C Jr,4,M-Exempt,--D,2897,3844,7,0001663286,Stock Option (right to buy)
+D,02/26/2018 00:00:00,Biesterfeld Robert C Jr,4,M-Exempt,--D,3071,1584,6,0001663286,Stock Option (right to buy)
+D,02/26/2018 00:00:00,Biesterfeld Robert C Jr,4,S-Sale,--D,1079,10347,4,0001663286,Common Stock
+D,02/26/2018 00:00:00,Biesterfeld Robert C Jr,4,S-Sale,--D,5968,11426,3,0001663286,Common Stock
+A,02/26/2018 00:00:00,Biesterfeld Robert C Jr,4,M-Exempt,--D,3071,17394,2,0001663286,Common Stock
+A,02/26/2018 00:00:00,Biesterfeld Robert C Jr,4,M-Exempt,--D,2897,14323,1,0001663286,Common Stock
+D,02/15/2018 00:00:00,LEMKE JAMES,4,S-Sale,--D,4346,175830,1,0001241098,Common Stock
+D,02/13/2018 00:00:00,Kass Jordan T,4,S-Sale,--D,1700,23149,1,0001627920,Common Stock
+D,02/12/2018 00:00:00,OBRIEN CHRIS,4,S-Sale,--D,3909,44921,1,0001255475,Common Stock
+D,02/08/2018 00:00:00,WIEHOFF JOHN,4,S-Sale,--D,13946,712445,1,0001241113,Common Stock
+A,02/02/2018 00:00:00,WIEHOFF JOHN,4,A-Award,--D,10766,55025,10,0001241113,Option (right to buy)
+A,02/02/2018 00:00:00,WIEHOFF JOHN,4,A-Award,--D,11412,90028,8,0001241113,Option (right to buy)
+A,02/02/2018 00:00:00,WIEHOFF JOHN,4,A-Award,--D,1099,47257,6,0001241113,Option (right to buy)
+A,01/31/2018 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,986,5038,8,0001663286,Option (right to buy)
+A,01/31/2018 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,1048,8267,6,0001663286,Option (right to buy)
+A,01/31/2018 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,67,2897,4,0001663286,Option (right to buy)
+A,01/31/2018 00:00:00,OBRIEN CHRIS,4,A-Award,--D,2308,11794,10,0001255475,Option (right to buy)
+A,01/31/2018 00:00:00,OBRIEN CHRIS,4,A-Award,--D,2473,19510,8,0001255475,Option (right to buy)
+A,01/31/2018 00:00:00,OBRIEN CHRIS,4,A-Award,--D,238,10237,6,0001255475,Option (right to buy)
+A,01/31/2018 00:00:00,LEMKE JAMES,4,A-Award,--D,2154,11008,8,0001241098,Option (right to buy)
+A,01/31/2018 00:00:00,LEMKE JAMES,4,A-Award,--D,2473,19510,6,0001241098,Option (right to buy)
+A,01/31/2018 00:00:00,LEMKE JAMES,4,A-Award,--D,238,10237,4,0001241098,Option (right to buy)
+A,01/31/2018 00:00:00,CLARKE ANDREW C,4,A-Award,--D,2770,14158,4,0001182292,Option (right to buy)
+A,01/31/2018 00:00:00,Campbell Ben G,4,A-Award,--D,2000,10221,9,0001452489,Option (right to buy)
+A,01/31/2018 00:00:00,Campbell Ben G,4,A-Award,--D,2093,16508,7,0001452489,Option (right to buy)
+A,01/31/2018 00:00:00,Campbell Ben G,4,A-Award,--D,202,8664,5,0001452489,Option (right to buy)
+A,01/31/2018 00:00:00,Freeman Angela K.,4,A-Award,--D,1846,9435,10,0001563847,Option (right to buy)
+A,01/31/2018 00:00:00,Freeman Angela K.,4,A-Award,--D,1903,15009,8,0001563847,Option (right to buy)
+A,01/31/2018 00:00:00,Freeman Angela K.,4,A-Award,--D,165,7090,6,0001563847,Option (right to buy)
+A,01/31/2018 00:00:00,Kass Jordan T,4,A-Award,--D,923,4719,12,0001627920,Option (right to buy)
+A,01/31/2018 00:00:00,Kass Jordan T,4,A-Award,--D,1048,8267,10,0001627920,Option (right to buy)
+A,01/31/2018 00:00:00,Kass Jordan T,4,A-Award,--D,75,3220,8,0001627920,Option (right to buy)
+A,01/31/2018 00:00:00,Short Michael John,4/A,A-Award,--D,739,3778,4,0001643515,Employee Stock Option (right to buy)
+A,01/31/2018 00:00:00,Short Michael John,4/A,A-Award,--D,749,749,3,0001643515,Employee Stock Option (right to buy)
+A,01/31/2018 00:00:00,Short Michael John,4/A,A-Award,--D,1654,13969,1,0001643515,Common Stock
+A,01/31/2018 00:00:00,WIEHOFF JOHN,4,A-Award,--D,12542,726391,2,0001241113,Common Stock
+D,01/31/2018 00:00:00,WIEHOFF JOHN,4,F-InKind,--D,8807,713849,1,0001241113,Common Stock
+A,01/31/2018 00:00:00,Short Michael John,4,A-Award,--D,1654,15861,1,0001643515,Common Stock
+A,01/31/2018 00:00:00,LINDBLOOM CHAD,4,A-Award,--D,2819,131729,2,0001241107,Common Stock
+D,01/31/2018 00:00:00,LINDBLOOM CHAD,4,F-InKind,--D,2167,128910,1,0001241107,Common Stock
+A,01/31/2018 00:00:00,LEMKE JAMES,4,A-Award,--D,2442,180176,2,0001241098,Common Stock
+D,01/31/2018 00:00:00,LEMKE JAMES,4,F-InKind,--D,1980,177734,1,0001241098,Common Stock
+A,01/31/2018 00:00:00,Kass Jordan T,4,A-Award,--D,1142,24849,2,0001627920,Common Stock
+D,01/31/2018 00:00:00,Kass Jordan T,4,F-InKind,--D,641,23707,1,0001627920,Common Stock
+A,01/31/2018 00:00:00,Freeman Angela K.,4,A-Award,--D,2080,22615,2,0001563847,Common Stock
+D,01/31/2018 00:00:00,Freeman Angela K.,4,F-InKind,--D,1210,20535,1,0001563847,Common Stock
+A,01/31/2018 00:00:00,Eijsink Jeroen,4,A-Award,--D,800,1383,1,0001653797,Common Stock
+A,01/31/2018 00:00:00,CLARKE ANDREW C,4,A-Award,--D,2009,3818,1,0001182292,Common Stock
+A,01/31/2018 00:00:00,Campbell Ben G,4,A-Award,--D,2176,30417,2,0001452489,Common Stock
+D,01/31/2018 00:00:00,Campbell Ben G,4,F-InKind,--D,1596,28241,1,0001452489,Common Stock
+A,01/31/2018 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,1882,11426,2,0001663286,Common Stock
+D,01/31/2018 00:00:00,Biesterfeld Robert C Jr,4,F-InKind,--D,540,9544,1,0001663286,Common Stock
+A,01/31/2018 00:00:00,OBRIEN CHRIS,4,A-Award,--D,2559,48830,2,0001255475,Common Stock
+D,01/31/2018 00:00:00,OBRIEN CHRIS,4,F-InKind,--D,1785,46271,1,0001255475,Common Stock
+A,12/29/2017 00:00:00,WIEHOFF JOHN,4,A-Award,--D,2302,722656,1,0001241113,Common Stock
+A,12/29/2017 00:00:00,STAKE JAMES B,4,A-Award,--D,539,16288,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,12/29/2017 00:00:00,SHORT BRIAN,4,A-Award,--D,644,32741,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,12/29/2017 00:00:00,Kozlak Jodee A,4,A-Award,--D,630,10965,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,12/29/2017 00:00:00,GUILFOILE MARY,4,A-Award,--D,378,6940,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,12/29/2017 00:00:00,GUILFOILE MARY,4,A-Award,--D,112,2978,1,0001241724,Common Stock
+A,12/29/2017 00:00:00,Gokey Timothy C,4,A-Award,--D,644,644,1,0001296187,Phantom Stock (Restricted Stock Units)
+A,12/29/2017 00:00:00,FORTUN WAYNE M,4,A-Award,--D,378,11983,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,12/29/2017 00:00:00,EZRILOV ROBERT,4,A-Award,--D,378,11983,2,0001197975,Phantom Stock (Restricted Stock Units)
+A,12/29/2017 00:00:00,Anderson Scott P,4,A-Award,--D,378,15224,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,12/26/2017 00:00:00,Campbell Ben G,4,G-Gift,-ED,575,27327,2,0001452489,Common Stock
+A,12/06/2017 00:00:00,WIEHOFF JOHN,4,A-Award,--D,167370,167370,3,0001241113,Option (right to buy)
+A,12/06/2017 00:00:00,Short Michael John,4,A-Award,--D,28190,28190,3,0001643515,Stock Option (right to buy)
+A,12/06/2017 00:00:00,LEMKE JAMES,4,A-Award,--D,28190,28190,2,0001241098,Stock Option (right to buy)
+A,12/06/2017 00:00:00,Kass Jordan T,4,A-Award,--D,15860,15860,2,0001627920,Stock Option (right to buy)
+A,12/06/2017 00:00:00,OBRIEN CHRIS,4,A-Award,--D,29960,29960,2,0001255475,Stock Option (right to buy)
+A,12/06/2017 00:00:00,LINDBLOOM CHAD,4,A-Award,--D,31720,31720,3,0001241107,Stock Option (right to buy)
+A,12/06/2017 00:00:00,Freeman Angela K.,4,A-Award,--D,26430,26430,2,0001563847,Stock Option (right to buy)
+A,12/06/2017 00:00:00,CLARKE ANDREW C,4,A-Award,--D,31720,31720,2,0001182292,Stock Option (right to buy)
+A,12/06/2017 00:00:00,Campbell Ben G,4,A-Award,--D,26430,26430,2,0001452489,Stock Option (right to buy)
+A,12/06/2017 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,31720,31720,3,0001663286,Stock Option (right to buy)
+D,11/30/2017 00:00:00,Campbell Ben G,4,S-Sale,--D,4865,29837,1,0001452489,Common Stock
+D,11/28/2017 00:00:00,Freeman Angela K.,4,S-Sale,--D,1300,21745,1,0001563847,Common Stock
+D,11/10/2017 00:00:00,WIEHOFF JOHN,4,G-Gift,-ED,10000,720354,1,0001241113,Common Stock
+D,11/07/2017 00:00:00,LEMKE JAMES,4,S-Sale,--D,15000,179714,1,0001241098,Common Stock
+D,11/07/2017 00:00:00,Short Michael John,4,M-Exempt,--D,6030,24120,8,0001643515,Stock Option (right to buy)
+D,11/07/2017 00:00:00,Short Michael John,4,M-Exempt,--D,5156,0,7,0001643515,Stock Option (right to buy)
+D,11/07/2017 00:00:00,Short Michael John,4,S-Sale,--D,11186,14207,4,0001643515,Common Stock
+A,11/07/2017 00:00:00,Short Michael John,4,M-Exempt,--D,6030,25393,3,0001643515,Common Stock
+A,11/07/2017 00:00:00,Short Michael John,4,M-Exempt,--D,4430,19363,2,0001643515,Common Stock
+A,11/07/2017 00:00:00,Short Michael John,4,M-Exempt,--D,726,14933,1,0001643515,Common Stock
+D,11/06/2017 00:00:00,Kass Jordan T,4,S-Sale,--D,1738,24348,1,0001627920,Common Stock
+A,09/29/2017 00:00:00,WIEHOFF JOHN,4,A-Award,--D,2621,730354,1,0001241113,Common Stock
+A,09/29/2017 00:00:00,STAKE JAMES B,4,A-Award,--D,631,15749,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,09/29/2017 00:00:00,SHORT BRIAN,4,A-Award,--D,755,32097,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,09/29/2017 00:00:00,Kozlak Jodee A,4,A-Award,--D,738,10335,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,09/29/2017 00:00:00,GUILFOILE MARY,4,A-Award,--D,443,6562,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,09/29/2017 00:00:00,GUILFOILE MARY,4,A-Award,--D,131,2866,1,0001241724,Common Stock
+A,09/29/2017 00:00:00,FORTUN WAYNE M,4,A-Award,--D,443,11605,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,09/29/2017 00:00:00,EZRILOV ROBERT,4,A-Award,--D,443,11605,2,0001197975,Phantom Stock (Restricted Stock Units)
+A,09/29/2017 00:00:00,Anderson Scott P,4,A-Award,--D,443,14846,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,08/16/2017 00:00:00,Freeman Angela K.,4,S-Sale,--D,1200,23045,1,0001563847,Common Stock
+A,06/30/2017 00:00:00,WIEHOFF JOHN,4,A-Award,--D,2885,727733,1,0001241113,Common Stock
+A,06/30/2017 00:00:00,STAKE JAMES B,4,A-Award,--D,700,15118,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,06/30/2017 00:00:00,SHORT BRIAN,4,A-Award,--D,836,31342,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,06/30/2017 00:00:00,Kozlak Jodee A,4,A-Award,--D,818,9597,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,06/30/2017 00:00:00,GUILFOILE MARY,4,A-Award,--D,491,6119,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,06/30/2017 00:00:00,GUILFOILE MARY,4,A-Award,--D,145,2735,1,0001241724,Common Stock
+A,06/30/2017 00:00:00,FORTUN WAYNE M,4,A-Award,--D,491,11162,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,06/30/2017 00:00:00,EZRILOV ROBERT,4,A-Award,--D,491,11162,2,0001197975,Phantom Stock (Restricted Stock Units)
+A,06/30/2017 00:00:00,Anderson Scott P,4,A-Award,--D,491,14403,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,04/28/2017 00:00:00,Freeman Angela K.,4,S-Sale,--D,1300,24245,1,0001563847,Common Stock
+A,03/31/2017 00:00:00,WIEHOFF JOHN,4,A-Award,--D,2549,724848,1,0001241113,Common Stock
+A,03/31/2017 00:00:00,SHORT BRIAN,4,A-Award,--D,743,30506,2,0001256634,Phantom Stock (Restricted Stock Units)
+A,03/31/2017 00:00:00,Kozlak Jodee A,4,A-Award,--D,727,8779,1,0001352848,Phantom Stock (Restricted Stock Units)
+A,03/31/2017 00:00:00,GUILFOILE MARY,4,A-Award,--D,436,5628,2,0001241724,Phantom Stock (Restricted Stock Units)
+A,03/31/2017 00:00:00,GUILFOILE MARY,4,A-Award,--D,129,2590,1,0001241724,Common Stock
+A,03/31/2017 00:00:00,EZRILOV ROBERT,4,A-Award,--D,436,10671,2,0001197975,Phantom Stock (Restricted Stock Units)
+A,03/31/2017 00:00:00,FORTUN WAYNE M,4,A-Award,--D,436,10671,2,0001008785,Phantom Stock (Restricted Stock Units)
+A,03/31/2017 00:00:00,STAKE JAMES B,4,A-Award,--D,621,14418,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,03/31/2017 00:00:00,Anderson Scott P,4,A-Award,--D,436,13912,1,0001289294,Phantom Stock (Restricted Stock Units)
+D,02/28/2017 00:00:00,LINDBLOOM CHAD,4,S-Sale,--D,3500,131077,1,0001241107,Common Stock
+D,02/28/2017 00:00:00,Campbell Ben G,4,S-Sale,--D,4865,34702,1,0001452489,Common Stock
+D,02/28/2017 00:00:00,LEMKE JAMES,4,S-Sale,--D,4829,194714,1,0001241098,Common Stock
+D,02/15/2017 00:00:00,Biesterfeld Robert C Jr,4,S-Sale,--D,1079,10084,1,0001663286,Common Stock
+D,02/08/2017 00:00:00,OBRIEN CHRIS,4,S-Sale,--D,2650,48056,1,0001255475,Common Stock
+D,02/06/2017 00:00:00,WIEHOFF JOHN,4,S-Sale,--D,24306,722299,1,0001241113,Common Stock
+A,02/03/2017 00:00:00,WIEHOFF JOHN,4,A-Award,--D,14354,44259,9,0001241113,Option (right to buy)
+A,02/03/2017 00:00:00,WIEHOFF JOHN,4,A-Award,--D,15216,78616,7,0001241113,Option (right to buy)
+A,02/03/2017 00:00:00,WIEHOFF JOHN,4,A-Award,--D,5495,46158,5,0001241113,Option (right to buy)
+A,02/03/2017 00:00:00,WIEHOFF JOHN,4,A-Award,--D,3169,41830,4,0001241113,Option (right to buy)
+A,02/02/2017 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,1314,4052,7,0001663286,Option (right to buy)
+A,02/02/2017 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,1397,7219,5,0001663286,Stock Option (right to buy)
+A,02/02/2017 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,337,2830,3,0001663286,Option (right to buy)
+A,02/02/2017 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,232,3071,2,0001663286,Option (right to buy)
+A,02/02/2017 00:00:00,OBRIEN CHRIS,4,A-Award,--D,3076,9486,9,0001255475,Option (right to buy)
+A,02/02/2017 00:00:00,OBRIEN CHRIS,4,A-Award,--D,3297,17037,7,0001255475,Stock Option (right to buy)
+A,02/02/2017 00:00:00,OBRIEN CHRIS,4,A-Award,--D,1190,9999,5,0001255475,Option (right to buy)
+A,02/02/2017 00:00:00,OBRIEN CHRIS,4,A-Award,--D,792,10460,4,0001255475,Option (right to buy)
+A,02/02/2017 00:00:00,LEMKE JAMES,4,A-Award,--D,2871,8854,7,0001241098,Option (right to buy)
+A,02/02/2017 00:00:00,LEMKE JAMES,4,A-Award,--D,3297,17037,5,0001241098,Stock Option (right to buy)
+A,02/02/2017 00:00:00,LEMKE JAMES,4,A-Award,--D,1190,9999,3,0001241098,Option (right to buy)
+A,02/02/2017 00:00:00,LEMKE JAMES,4,A-Award,--D,911,12025,2,0001241098,Option (right to buy)
+A,02/02/2017 00:00:00,CLARKE ANDREW C,4,A-Award,--D,3693,11388,3,0001182292,Option (right to buy)
+A,02/02/2017 00:00:00,Campbell Ben G,4,A-Award,--D,2666,8221,8,0001452489,Option (right to buy)
+A,02/02/2017 00:00:00,Campbell Ben G,4,A-Award,--D,2790,14415,6,0001452489,Stock Option (right to buy)
+A,02/02/2017 00:00:00,Campbell Ben G,4,A-Award,--D,1007,8462,4,0001452489,Option (right to buy)
+A,02/02/2017 00:00:00,Campbell Ben G,4,A-Award,--D,713,9411,3,0001452489,Option (right to buy)
+A,02/02/2017 00:00:00,Freeman Angela K.,4,A-Award,--D,2461,7589,9,0001563847,Option (right to buy)
+A,02/02/2017 00:00:00,Freeman Angela K.,4,A-Award,--D,2536,13106,7,0001563847,Option (right to buy)
+A,02/02/2017 00:00:00,Freeman Angela K.,4,A-Award,--D,824,6925,5,0001563847,Option (right to buy)
+A,02/02/2017 00:00:00,Freeman Angela K.,4,A-Award,--D,554,7318,4,0001563847,Option (right to buy)
+A,02/02/2017 00:00:00,Kass Jordan T,4,A-Award,--D,1231,3796,11,0001627920,Option (right to buy)
+A,02/02/2017 00:00:00,Kass Jordan T,4,A-Award,--D,1397,7219,9,0001627920,Stock Option (right to buy)
+A,02/02/2017 00:00:00,Kass Jordan T,4,A-Award,--D,374,3145,7,0001627920,Option (right to buy)
+A,02/02/2017 00:00:00,Kass Jordan T,4,A-Award,--D,245,3234,6,0001627920,Option (right to buy)
+A,02/02/2017 00:00:00,Short Michael John,4/A,A-Award,--D,985,3039,4,0001643515,Stock Option (right to buy)
+A,02/02/2017 00:00:00,Short Michael John,4/A,A-Award,--D,1433,12315,1,0001643515,Common Stock
+A,02/02/2017 00:00:00,Short Michael John,4,A-Award,--D,998,5156,6,0001643515,Stock Option (right to buy)
+A,02/02/2017 00:00:00,WIEHOFF JOHN,4,A-Award,--D,14401,746605,2,0001241113,Common Stock
+A,02/02/2017 00:00:00,Short Michael John,4,A-Award,--D,3325,14207,1,0001643515,Common Stock
+A,02/02/2017 00:00:00,OBRIEN CHRIS,4,A-Award,--D,3068,50706,2,0001255475,Common Stock
+A,02/02/2017 00:00:00,LINDBLOOM CHAD,4,A-Award,--D,3451,134577,2,0001241107,Common Stock
+A,02/02/2017 00:00:00,LEMKE JAMES,4,A-Award,--D,2996,199543,2,0001241098,Common Stock
+A,02/02/2017 00:00:00,Kass Jordan T,4,A-Award,--D,1235,26086,2,0001627920,Common Stock
+A,02/02/2017 00:00:00,Freeman Angela K.,4,A-Award,--D,2381,25545,2,0001563847,Common Stock
+A,02/02/2017 00:00:00,Eijsink Jeroen,4,A-Award,--D,583,583,1,0001653797,Common Stock
+A,02/02/2017 00:00:00,CLARKE ANDREW C,4,A-Award,--D,1809,1809,1,0001182292,Common Stock
+A,02/02/2017 00:00:00,Campbell Ben G,4,A-Award,--D,2592,39567,2,0001452489,Common Stock
+A,02/02/2017 00:00:00,Biesterfeld Robert C Jr,4,A-Award,--D,1777,11163,2,0001663286,Common Stock
+D,02/01/2017 00:00:00,WIEHOFF JOHN,4,F-InKind,--D,18958,732204,1,0001241113,Common Stock
+D,02/01/2017 00:00:00,OBRIEN CHRIS,4,F-InKind,--D,2008,47638,1,0001255475,Common Stock
+D,02/01/2017 00:00:00,LINDBLOOM CHAD,4,F-InKind,--D,2518,131126,1,0001241107,Common Stock
+D,02/01/2017 00:00:00,LEMKE JAMES,4,F-InKind,--D,2526,196547,1,0001241098,Common Stock
+D,02/01/2017 00:00:00,Kass Jordan T,4,F-InKind,--D,847,24851,1,0001627920,Common Stock
+D,02/01/2017 00:00:00,Freeman Angela K.,4,F-InKind,--D,1656,23164,1,0001563847,Common Stock
+D,02/01/2017 00:00:00,Campbell Ben G,4,F-InKind,--D,1911,36975,1,0001452489,Common Stock
+D,02/01/2017 00:00:00,Biesterfeld Robert C Jr,4,F-InKind,--D,633,10019,1,0001663286,Common Stock
+A,12/30/2016 00:00:00,WIEHOFF JOHN,4,A-Award,--D,2673,751162,1,0001241113,Common Stock
+A,12/30/2016 00:00:00,STAKE JAMES B,4,A-Award,--D,588,13797,2,0001205398,Phantom Stock (Restricted Stock Units)
+A,12/30/2016 00:00:00,SHORT BRIAN,4,A-Award,--D,750,29763,2,0001256634,Phantom Stock (Restricted Stock Units)

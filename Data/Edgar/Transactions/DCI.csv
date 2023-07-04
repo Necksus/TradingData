@@ -1,0 +1,721 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/08/2023 00:00:00,CEBULLA ANDREW J.,4,F-InKind,--D,348,2554,1,0001801761,Common Stock
+A,04/11/2023 00:00:00,Hilger Christopher M.,4,P-Purchase,--D,3186,7872,1,0001895122,Common Stock
+A,04/07/2023 00:00:00,OBERTON WILLARD D,4,A-Award,--D,61,25930,1,0001036295,Common Stock
+A,04/07/2023 00:00:00,Rautio Trudy A.,4,A-Award,--D,398,22233,1,0001243835,Common Stock
+A,04/07/2023 00:00:00,Owens James,4,A-Award,--D,307,14685,1,0001443909,Common Stock
+A,04/07/2023 00:00:00,Hilger Christopher M.,4,A-Award,--D,307,4686,1,0001895122,Common Stock
+A,04/07/2023 00:00:00,Cruz Pilar,4,A-Award,--D,154,11837,1,0001723127,Common Stock
+D,03/02/2023 00:00:00,Owens James,4,M-Exempt,--D,10800,0,3,0001443909,Common Stock
+D,03/02/2023 00:00:00,Owens James,4,S-Sale,--D,10800,14378,2,0001443909,Common Stock
+A,03/02/2023 00:00:00,Owens James,4,M-Exempt,--D,10800,25178,1,0001443909,Common Stock
+D,03/02/2023 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,8400,0,3,0001036295,Stock Option (right to buy)
+D,03/02/2023 00:00:00,OBERTON WILLARD D,4,S-Sale,--D,8400,25869,2,0001036295,Common Stock
+A,03/02/2023 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,8400,34269,1,0001036295,Common Stock
+D,01/11/2023 00:00:00,SCALF THOMAS R,4,S-Sale,--D,4500,26443,1,0001603888,Common Stock
+D,01/04/2023 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,3000,8400,7,0001036295,Stock Option (right to buy)
+D,01/04/2023 00:00:00,OBERTON WILLARD D,4,S-Sale,--D,200,25783,5,0001036295,Common Stock
+D,01/04/2023 00:00:00,OBERTON WILLARD D,4,S-Sale,--D,2800,25983,4,0001036295,Common Stock
+A,01/04/2023 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,3000,28783,3,0001036295,Common Stock
+A,01/03/2023 00:00:00,Smiley Jacinth C,4,A-Award,--D,4000,4000,2,0001735999,Common Stock
+A,01/03/2023 00:00:00,Smiley Jacinth C,4,A-Award,--D,1300,2516,1,0001735999,Common Stock
+A,01/03/2023 00:00:00,Rautio Trudy A.,4,A-Award,--D,4000,4000,3,0001243835,Common Stock
+A,01/03/2023 00:00:00,Rautio Trudy A.,4,A-Award,--D,1300,21756,2,0001243835,Common Stock
+A,01/03/2023 00:00:00,Rautio Trudy A.,4,A-Award,--D,411,20456,1,0001243835,Common Stock
+A,01/03/2023 00:00:00,Rajendra Ajita G,4,A-Award,--D,4000,4000,2,0001315989,Common Stock
+A,01/03/2023 00:00:00,Rajendra Ajita G,4,A-Award,--D,1300,40212,1,0001315989,Common Stock
+A,01/03/2023 00:00:00,Owens James,4,A-Award,--D,4000,4000,3,0001443909,Common Stock
+A,01/03/2023 00:00:00,Owens James,4,A-Award,--D,1300,14325,2,0001443909,Common Stock
+A,01/03/2023 00:00:00,Owens James,4,A-Award,--D,318,13025,1,0001443909,Common Stock
+A,01/03/2023 00:00:00,Olson Richard M,4,A-Award,--D,4000,4000,2,0001545408,Common Stock
+A,01/03/2023 00:00:00,Olson Richard M,4,A-Award,--D,1300,2516,1,0001545408,Common Stock
+A,01/03/2023 00:00:00,OBERTON WILLARD D,4,A-Award,--D,4000,4000,6,0001036295,Common Stock
+A,01/03/2023 00:00:00,OBERTON WILLARD D,4,A-Award,--D,1300,25783,2,0001036295,Common Stock
+A,01/03/2023 00:00:00,OBERTON WILLARD D,4,A-Award,--D,64,24483,1,0001036295,Common Stock
+A,01/03/2023 00:00:00,Milroy Douglas A.,4,A-Award,--D,4000,4000,3,0001381551,Common Stock
+A,01/03/2023 00:00:00,Milroy Douglas A.,4,A-Award,--D,1300,4024,1,0001381551,Common Stock
+A,01/03/2023 00:00:00,Hilger Christopher M.,4,A-Award,--D,4000,4000,3,0001895122,Employee Stock Option (right to buy)
+A,01/03/2023 00:00:00,Hilger Christopher M.,4,A-Award,--D,1300,4363,2,0001895122,Common Stock
+A,01/03/2023 00:00:00,Hilger Christopher M.,4,A-Award,--D,318,3063,1,0001895122,Common Stock
+A,01/03/2023 00:00:00,Cruz Pilar,4,A-Award,--D,4000,4000,3,0001723127,Stock Option (right to buy)
+A,01/03/2023 00:00:00,Cruz Pilar,4,A-Award,--D,1300,11641,2,0001723127,Common Stock
+A,01/03/2023 00:00:00,Cruz Pilar,4,A-Award,--D,159,10341,1,0001723127,Common Stock
+D,12/13/2022 00:00:00,Rajendra Ajita G,4,M-Exempt,--D,6912,0,3,0001315989,Stock Option (right to buy)
+D,12/13/2022 00:00:00,Rajendra Ajita G,4,S-Sale,--D,6912,38806,2,0001315989,Common Stock
+A,12/13/2022 00:00:00,Rajendra Ajita G,4,M-Exempt,--D,6912,45718,1,0001315989,Common Stock
+D,12/02/2022 00:00:00,SCALF THOMAS R,4,M-Exempt,--D,26000,0,8,0001603888,Employee Stock Option (right to buy)
+D,12/02/2022 00:00:00,SCALF THOMAS R,4,M-Exempt,--D,10500,0,7,0001603888,Employee Stock Option (right to buy)
+D,12/02/2022 00:00:00,SCALF THOMAS R,4,F-InKind,--D,21223,30943,6,0001603888,Common Stock
+A,12/02/2022 00:00:00,SCALF THOMAS R,4,M-Exempt,--D,26000,52166,5,0001603888,Common Stock
+D,12/02/2022 00:00:00,SCALF THOMAS R,4,S-Sale,--D,10500,26166,4,0001603888,Common Stock
+A,12/02/2022 00:00:00,SCALF THOMAS R,4,M-Exempt,--D,10500,36666,3,0001603888,Common Stock
+D,12/02/2022 00:00:00,Rajendra Ajita G,4,M-Exempt,--D,6282,6912,6,0001315989,Stock Option (right to buy)
+D,12/02/2022 00:00:00,Rajendra Ajita G,4,S-Sale,--D,6282,38806,4,0001315989,Common Stock
+A,12/02/2022 00:00:00,Rajendra Ajita G,4,M-Exempt,--D,6282,45088,3,0001315989,Common Stock
+D,12/01/2022 00:00:00,Rajendra Ajita G,4,M-Exempt,--D,1206,13194,5,0001315989,Stock Option (right to buy)
+D,12/01/2022 00:00:00,Rajendra Ajita G,4,S-Sale,--D,1206,38806,2,0001315989,Common Stock
+A,12/01/2022 00:00:00,Rajendra Ajita G,4,M-Exempt,--D,1206,40012,1,0001315989,Common Stock
+D,12/01/2022 00:00:00,Dahlgren Andrew C,4,M-Exempt,--D,3500,0,5,0001952959,Employee Stock Option (right to buy)
+D,12/01/2022 00:00:00,Dahlgren Andrew C,4,S-Sale,--D,2436,2214,4,0001952959,Common Stock
+A,12/01/2022 00:00:00,Dahlgren Andrew C,4,M-Exempt,--D,3500,4650,3,0001952959,Common Stock
+D,12/01/2022 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,23500,0,8,0001441791,Employee Stock Option (right to buy)
+D,12/01/2022 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,24500,0,7,0001441791,Employee Stock Option (right to buy)
+D,12/01/2022 00:00:00,Carpenter Tod E.,4,F-InKind,--D,19807,202178,6,0001441791,Common Stock
+A,12/01/2022 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,23500,221985,5,0001441791,Common Stock
+D,12/01/2022 00:00:00,Carpenter Tod E.,4,F-InKind,--D,18915,198485,4,0001441791,Common Stock
+A,12/01/2022 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,24500,217400,3,0001441791,Common Stock
+D,12/01/2022 00:00:00,Becker Amy C,4,M-Exempt,--D,3500,0,5,0001615216,Employee Stock Option (right to buy)
+D,12/01/2022 00:00:00,Becker Amy C,4,S-Sale,--D,3500,35806,4,0001615216,Common Stock
+A,12/01/2022 00:00:00,Becker Amy C,4,A-Award,--D,3500,39306,3,0001615216,Common Stock
+D,10/13/2022 00:00:00,SCALF THOMAS R,4,M-Exempt,--D,7000,0,5,0001603888,Employee Stock Option (right to buy)
+D,10/13/2022 00:00:00,SCALF THOMAS R,4,S-Sale,--D,7000,26166,4,0001603888,Common Stock
+A,10/13/2022 00:00:00,SCALF THOMAS R,4,M-Exempt,--D,7000,33166,3,0001603888,Common Stock
+A,10/07/2022 00:00:00,WIEHOFF JOHN,4,A-Award,--D,478,63917,1,0001241113,Common Stock
+A,10/07/2022 00:00:00,Rautio Trudy A.,4,A-Award,--D,370,19967,1,0001243835,Common Stock
+A,10/07/2022 00:00:00,Owens James,4,A-Award,--D,370,12658,1,0001443909,Common Stock
+A,10/07/2022 00:00:00,OBERTON WILLARD D,4,A-Award,--D,111,24332,1,0001036295,Common Stock
+A,10/07/2022 00:00:00,Hilger Christopher M.,4,A-Award,--D,370,2734,1,0001895122,Common Stock
+A,10/07/2022 00:00:00,Cruz Pilar,4,A-Award,--D,185,10142,1,0001723127,Common Stock
+D,09/30/2022 00:00:00,Vermeersch Wim,4,S-Sale,--D,10000,4669,3,0001538651,Common Stock
+D,09/30/2022 00:00:00,Vermeersch Wim,4,S-Sale,--D,10000,14669,2,0001538651,Common Stock
+D,09/29/2022 00:00:00,Vermeersch Wim,4,S-Sale,--D,10000,24669,1,0001538651,Common Stock
+D,09/22/2022 00:00:00,Vermeersch Wim,4,F-InKind,--D,988,34669,2,0001538651,Common Stock
+A,09/22/2022 00:00:00,Vermeersch Wim,4,A-Award,--D,1658,35657,1,0001538651,Common Stock
+D,09/22/2022 00:00:00,Spethmann Jeffrey E,4,F-InKind,--D,2268,25828,4,0001671232,Common Stock
+A,09/22/2022 00:00:00,Spethmann Jeffrey E,4,A-Award,--D,5105,28096,3,0001671232,Common Stock
+A,09/22/2022 00:00:00,SCALF THOMAS R,4,A-Award,--D,25800,25800,5,0001603888,Employee Stock Option (right to buy)
+D,09/22/2022 00:00:00,SCALF THOMAS R,4,F-InKind,--D,2510,26166,4,0001603888,Common Stock
+A,09/22/2022 00:00:00,SCALF THOMAS R,4,A-Award,--D,5105,28676,3,0001603888,Common Stock
+A,09/22/2022 00:00:00,Robinson Scott J.,4,A-Award,--D,41900,41900,5,0001660452,Employee Stock Option (right to buy)
+D,09/22/2022 00:00:00,Robinson Scott J.,4,F-InKind,--D,3162,27670,4,0001660452,Common Stock
+A,09/22/2022 00:00:00,Robinson Scott J.,4,A-Award,--D,6431,30832,3,0001660452,Common Stock
+A,09/22/2022 00:00:00,Lewis Richard Brent,4,A-Award,--D,24200,24200,5,0001718260,Employee Stock Option (right to buy)
+D,09/22/2022 00:00:00,Lewis Richard Brent,4,F-InKind,--D,1746,11753,4,0001718260,Common Stock
+A,09/22/2022 00:00:00,Lewis Richard Brent,4,A-Award,--D,3580,13499,3,0001718260,Common Stock
+A,09/22/2022 00:00:00,Kramer Sheila G.,4,A-Award,--D,17700,17700,5,0001655747,Employee Stock Option (right to buy)
+D,09/22/2022 00:00:00,Kramer Sheila G.,4,F-InKind,--D,734,16197,4,0001655747,Common Stock
+A,09/22/2022 00:00:00,Kramer Sheila G.,4,A-Award,--D,2851,16931,3,0001655747,Common Stock
+A,09/22/2022 00:00:00,CEBULLA ANDREW J.,4,A-Award,--D,2000,2000,3,0001801761,Employee Stock Option (right to buy)
+A,09/22/2022 00:00:00,Carpenter Tod E.,4,A-Award,--D,148400,148400,6,0001441791,Employee Stock Option (right to buy)
+D,09/22/2022 00:00:00,Carpenter Tod E.,4,F-InKind,--D,12690,192900,5,0001441791,Common Stock
+A,09/22/2022 00:00:00,Carpenter Tod E.,4,A-Award,--D,25791,205590,4,0001441791,Common Stock
+A,09/22/2022 00:00:00,Becker Amy C,4,A-Award,--D,22600,22600,5,0001615216,Employee Stock Option (right to buy)
+D,09/22/2022 00:00:00,Becker Amy C,4,F-InKind,--D,1762,35806,4,0001615216,Common Stock
+A,09/22/2022 00:00:00,Becker Amy C,4,A-Award,--D,3580,37568,3,0001615216,Common Stock
+D,09/09/2022 00:00:00,Lewis Richard Brent,4,M-Exempt,--D,3500,0,3,0001718260,Employee Stock Option (right to buy)
+D,09/09/2022 00:00:00,Lewis Richard Brent,4,F-InKind,--D,2847,9919,2,0001718260,Common Stock
+A,09/09/2022 00:00:00,Lewis Richard Brent,4,M-Exempt,--D,3500,12766,1,0001718260,Common Stock
+D,09/01/2022 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,7200,0,3,0001036295,Common Stock
+D,09/01/2022 00:00:00,OBERTON WILLARD D,4,S-Sale,--D,7200,24195,2,0001036295,Common Stock
+A,09/01/2022 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,7200,31395,1,0001036295,Common Stock
+A,07/01/2022 00:00:00,WIEHOFF JOHN,4,A-Award,--D,499,63158,1,0001241113,Common Stock
+A,07/01/2022 00:00:00,Rautio Trudy A.,4,A-Award,--D,386,19510,1,0001243835,Common Stock
+A,07/01/2022 00:00:00,Owens James,4,A-Award,--D,386,12233,1,0001443909,Common Stock
+A,07/01/2022 00:00:00,OBERTON WILLARD D,4,A-Award,--D,116,24123,1,0001036295,Common Stock
+A,07/01/2022 00:00:00,Hilger Christopher M.,4,A-Award,--D,386,2354,1,0001895122,Common Stock
+A,07/01/2022 00:00:00,Cruz Pilar,4,A-Award,--D,193,9913,1,0001723127,Common Stock
+A,06/08/2022 00:00:00,CEBULLA ANDREW J.,4,A-Award,--D,2844,2844,1,0001801761,Common Stock
+D,06/02/2022 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,7200,7200,3,0001036295,Common Stock
+D,06/02/2022 00:00:00,OBERTON WILLARD D,4,S-Sale,--D,7200,23903,2,0001036295,Common Stock
+A,06/02/2022 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,7200,31103,1,0001036295,Common Stock
+A,04/01/2022 00:00:00,WIEHOFF JOHN,4,A-Award,--D,458,62363,1,0001241113,Common Stock
+A,04/01/2022 00:00:00,Rautio Trudy A.,4,A-Award,--D,355,19033,1,0001243835,Common Stock
+A,04/01/2022 00:00:00,Owens James,4,A-Award,--D,355,11791,1,0001443909,Common Stock
+A,04/01/2022 00:00:00,OBERTON WILLARD D,4,A-Award,--D,106,23903,1,0001036295,Common Stock
+A,04/01/2022 00:00:00,Hilger Christopher M.,4,A-Award,--D,355,1959,1,0001895122,Common Stock
+A,04/01/2022 00:00:00,Cruz Pilar,4,A-Award,--D,177,9674,1,0001723127,Common Stock
+A,03/03/2022 00:00:00,Smiley Jacinth C,4,A-Award,--D,4700,4700,2,0001735999,Common Stock
+A,03/03/2022 00:00:00,Smiley Jacinth C,4,A-Award,--D,1200,1200,1,0001735999,Common Stock
+A,03/03/2022 00:00:00,Olson Richard M,4,A-Award,--D,4700,4700,2,0001545408,Common Stock
+A,03/03/2022 00:00:00,Olson Richard M,4,A-Award,--D,1200,1200,1,0001545408,Common Stock
+A,03/03/2022 00:00:00,Cruz Pilar,4,A-Award,--D,8,9497,1,0001723127,Common Stock
+A,01/03/2022 00:00:00,WIEHOFF JOHN,4,A-Award,--D,4700,4700,3,0001241113,Common Stock
+A,01/03/2022 00:00:00,WIEHOFF JOHN,4,A-Award,--D,1200,61656,2,0001241113,Common Stock
+A,01/03/2022 00:00:00,WIEHOFF JOHN,4,A-Award,--D,341,60456,1,0001241113,Common Stock
+A,01/03/2022 00:00:00,Rautio Trudy A.,4,A-Award,--D,4700,4700,3,0001243835,Common Stock
+A,01/03/2022 00:00:00,Rautio Trudy A.,4,A-Award,--D,1200,18603,2,0001243835,Common Stock
+A,01/03/2022 00:00:00,Rautio Trudy A.,4,A-Award,--D,320,17403,1,0001243835,Common Stock
+A,01/03/2022 00:00:00,Rajendra Ajita G,4,A-Award,--D,4700,4700,2,0001315989,Common Stock
+A,01/03/2022 00:00:00,Rajendra Ajita G,4,A-Award,--D,1200,38448,1,0001315989,Common Stock
+A,01/03/2022 00:00:00,Owens James,4,A-Award,--D,4700,4700,3,0001443909,Common Stock
+A,01/03/2022 00:00:00,Owens James,4,A-Award,--D,1200,11390,2,0001443909,Common Stock
+A,01/03/2022 00:00:00,Owens James,4,A-Award,--D,290,10190,1,0001443909,Common Stock
+A,01/03/2022 00:00:00,OBERTON WILLARD D,4,A-Award,--D,4700,4700,3,0001036295,Common Stock
+A,01/03/2022 00:00:00,OBERTON WILLARD D,4,A-Award,--D,1200,23710,2,0001036295,Common Stock
+A,01/03/2022 00:00:00,OBERTON WILLARD D,4,A-Award,--D,85,22510,1,0001036295,Common Stock
+A,01/03/2022 00:00:00,Milroy Douglas A.,4,A-Award,--D,4700,4700,3,0001381551,Common Stock
+A,01/03/2022 00:00:00,Milroy Douglas A.,4,A-Award,--D,1200,8403,1,0001381551,Common Stock
+A,01/03/2022 00:00:00,HOFFMAN MICHAEL J,4,A-Award,--D,4700,4700,2,0001167147,Common Stock
+A,01/03/2022 00:00:00,HOFFMAN MICHAEL J,4,A-Award,--D,1200,65543,1,0001167147,Common Stock
+A,01/03/2022 00:00:00,Hilger Christopher M.,4,A-Award,--D,4700,4700,3,0001895122,Common Stock
+A,01/03/2022 00:00:00,Hilger Christopher M.,4,A-Award,--D,1200,1598,2,0001895122,Common Stock
+A,01/03/2022 00:00:00,Hilger Christopher M.,4,A-Award,--D,298,398,1,0001895122,Common Stock
+A,01/03/2022 00:00:00,Cruz Pilar,4,A-Award,--D,4700,4700,3,0001723127,Common Stock
+A,01/03/2022 00:00:00,Cruz Pilar,4,A-Award,--D,1200,9451,2,0001723127,Common Stock
+A,01/03/2022 00:00:00,Cruz Pilar,4,A-Award,--D,149,8251,1,0001723127,Common Stock
+D,12/29/2021 00:00:00,Keller Peter Joseph,4,M-Exempt,--D,667,1333,6,0001755736,Employee Stock Option (right to buy)
+D,12/29/2021 00:00:00,Keller Peter Joseph,4,M-Exempt,--D,1333,667,5,0001755736,Employee Stock Option (right to buy)
+D,12/29/2021 00:00:00,Keller Peter Joseph,4,S-Sale,--D,2000,2000,4,0001755736,Common Stock
+A,12/29/2021 00:00:00,Keller Peter Joseph,4,M-Exempt,--D,667,4000,3,0001755736,Common Stock
+A,12/29/2021 00:00:00,Keller Peter Joseph,4,M-Exempt,--D,1333,3333,2,0001755736,Common Stock
+D,12/28/2021 00:00:00,Rajendra Ajita G,4,M-Exempt,--D,14400,0,3,0001315989,Common Stock
+D,12/28/2021 00:00:00,Rajendra Ajita G,4,S-Sale,--D,8425,37248,2,0001315989,Common Stock
+A,12/28/2021 00:00:00,Rajendra Ajita G,4,M-Exempt,--D,14400,45673,1,0001315989,Common Stock
+D,12/17/2021 00:00:00,SCALF THOMAS R,4,S-Sale,--D,15,23571,1,0001603888,Common Stock
+D,12/03/2021 00:00:00,SCALF THOMAS R,4,M-Exempt,--D,4000,0,5,0001603888,Employee Stock Option (right to buy)
+D,12/03/2021 00:00:00,SCALF THOMAS R,4,S-Sale,--D,4000,23586,4,0001603888,Common Stock
+A,12/03/2021 00:00:00,SCALF THOMAS R,4,M-Exempt,--D,4000,27586,3,0001603888,Common Stock
+D,12/03/2021 00:00:00,Becker Amy C,4,M-Exempt,--D,6000,0,5,0001615216,Employee Stock Option (right to buy)
+D,12/03/2021 00:00:00,Becker Amy C,4,F-InKind,--D,4819,33983,4,0001615216,Common Stock
+A,12/03/2021 00:00:00,Becker Amy C,4,M-Exempt,--D,6000,38802,3,0001615216,Common Stock
+A,12/02/2021 00:00:00,Hilger Christopher M.,4,A-Award,--D,400,400,2,0001895122,Employee Stock Option (right to buy)
+A,12/02/2021 00:00:00,Hilger Christopher M.,4,A-Award,--D,100,100,1,0001895122,Common Stock
+A,10/01/2021 00:00:00,WIEHOFF JOHN,4,A-Award,--D,341,59886,1,0001241113,Common Stock
+A,10/01/2021 00:00:00,Rautio Trudy A.,4,A-Award,--D,320,17017,1,0001243835,Common Stock
+A,10/01/2021 00:00:00,Cruz Pilar,4,A-Award,--D,149,8071,1,0001723127,Common Stock
+A,09/23/2021 00:00:00,Vermeersch Wim,4,A-Award,--D,9700,9700,2,0001538651,Employee Stock Option (right to buy)
+A,09/23/2021 00:00:00,Spethmann Jeffrey E,4,A-Award,--D,26300,26300,4,0001671232,Employee Stock Option (right to buy)
+A,09/23/2021 00:00:00,SCALF THOMAS R,4,A-Award,--D,26300,26300,4,0001603888,Employee Stock Option (right to buy)
+A,09/23/2021 00:00:00,Robinson Scott J.,4,A-Award,--D,38600,38600,4,0001660452,Employee Stock Option (right to buy)
+A,09/23/2021 00:00:00,Lewis Richard Brent,4,A-Award,--D,22800,22800,4,0001718260,Employee Stock Option (right to buy)
+A,09/23/2021 00:00:00,Kramer Sheila G.,4,A-Award,--D,17200,17200,4,0001655747,Employee Stock Option (right to buy)
+A,09/23/2021 00:00:00,Becker Amy C,4,A-Award,--D,20200,20200,4,0001615216,Employee Stock Option (right to buy)
+A,09/23/2021 00:00:00,Keller Peter Joseph,4,A-Award,--D,2000,2000,3,0001755736,Employee Stock Option (right to buy)
+A,09/23/2021 00:00:00,Carpenter Tod E.,4,A-Award,--D,144000,144000,4,0001441791,Employee Stock Option (right to buy)
+D,07/14/2021 00:00:00,Vermeersch Wim,4,M-Exempt,--D,14000,0,3,0001538651,Employee Stock Option (right to buy)
+D,07/14/2021 00:00:00,Vermeersch Wim,4,F-InKind,--D,7145,33999,2,0001538651,Common Stock
+A,07/14/2021 00:00:00,Vermeersch Wim,4,M-Exempt,--D,14000,41144,1,0001538651,Common Stock
+A,07/02/2021 00:00:00,WIEHOFF JOHN,4,A-Award,--D,312,59354,1,0001241113,Common Stock
+A,07/02/2021 00:00:00,Rautio Trudy A.,4,A-Award,--D,292,16643,1,0001243835,Common Stock
+A,07/02/2021 00:00:00,Cruz Pilar,4,A-Award,--D,136,7897,1,0001723127,Common Stock
+D,06/22/2021 00:00:00,WIEHOFF JOHN,4,M-Exempt,--D,14400,0,3,0001241113,Stock Option (right to buy)
+D,06/22/2021 00:00:00,WIEHOFF JOHN,4,S-Sale,--D,14400,58837,2,0001241113,Common Stock
+A,06/22/2021 00:00:00,WIEHOFF JOHN,4,M-Exempt,--D,14400,73237,1,0001241113,Common Stock
+D,06/15/2021 00:00:00,Lewis Richard Brent,4,M-Exempt,--D,4000,0,5,0001718260,Employee Stock Option (right to buy)
+D,06/15/2021 00:00:00,Lewis Richard Brent,4,F-InKind,--D,3114,9266,4,0001718260,Common Stock
+A,06/15/2021 00:00:00,Lewis Richard Brent,4,M-Exempt,--D,4000,12380,3,0001718260,Common Stock
+D,06/04/2021 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,10000,4400,3,0001036295,Stock Option (right to buy)
+D,06/04/2021 00:00:00,OBERTON WILLARD D,4,S-Sale,--D,10000,22211,2,0001036295,Common Stock
+A,06/04/2021 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,10000,32211,1,0001036295,Common Stock
+D,06/03/2021 00:00:00,HOFFMAN MICHAEL J,4,M-Exempt,--D,14400,0,3,0001167147,Stock Option (right to buy)
+D,06/03/2021 00:00:00,HOFFMAN MICHAEL J,4,S-Sale,--D,14400,64015,2,0001167147,Common Stock
+A,06/03/2021 00:00:00,HOFFMAN MICHAEL J,4,M-Exempt,--D,14400,78415,1,0001167147,Common Stock
+A,04/02/2021 00:00:00,WIEHOFF JOHN,4,A-Award,--D,339,58837,1,0001241113,Common Stock
+A,04/02/2021 00:00:00,Rautio Trudy A.,4,A-Award,--D,318,16293,1,0001243835,Common Stock
+A,04/02/2021 00:00:00,Cruz Pilar,4,A-Award,--D,148,7733,1,0001723127,Common Stock
+D,03/15/2021 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,21398,0,5,0001441791,Employee Stock Option (right to buy)
+D,03/15/2021 00:00:00,Carpenter Tod E.,4,S-Sale,--D,21398,179799,4,0001441791,Common Stock
+A,03/15/2021 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,21398,201179,3,0001441791,Common Stock
+D,03/12/2021 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,500,21398,5,0001441791,Employee Stock Option (right to buy)
+D,03/12/2021 00:00:00,Carpenter Tod E.,4,S-Sale,--D,500,179799,4,0001441791,Common Stock
+A,03/12/2021 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,500,180299,3,0001441791,Common Stock
+D,03/11/2021 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,2102,21898,5,0001441791,Employee Stock Option (right to buy)
+D,03/11/2021 00:00:00,Carpenter Tod E.,4,S-Sale,--D,2102,179799,4,0001441791,Common Stock
+A,03/11/2021 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,2102,181901,3,0001441791,Common Stock
+D,03/01/2021 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,4400,10000,3,0001036295,Stock Option (right to buy)
+D,03/01/2021 00:00:00,OBERTON WILLARD D,4,S-Sale,--D,4400,22196,2,0001036295,Common Stock
+A,03/01/2021 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,4400,26596,1,0001036295,Common Stock
+A,01/04/2021 00:00:00,WIEHOFF JOHN,4,A-Award,--D,5600,5600,3,0001241113,Stock Option (right to buy)
+A,01/04/2021 00:00:00,WIEHOFF JOHN,4,A-Award,--D,1300,58292,2,0001241113,Common Stock
+A,01/04/2021 00:00:00,WIEHOFF JOHN,4,A-Award,--D,364,56992,1,0001241113,Common Stock
+A,01/04/2021 00:00:00,Rautio Trudy A.,4,A-Award,--D,5600,5600,3,0001243835,Stock Option (right to buy)
+A,01/04/2021 00:00:00,Rautio Trudy A.,4,A-Award,--D,1300,15918,2,0001243835,Common Stock
+A,01/04/2021 00:00:00,Rautio Trudy A.,4,A-Award,--D,341,14618,1,0001243835,Common Stock
+A,01/04/2021 00:00:00,Rajendra Ajita G,4,A-Award,--D,5600,5600,2,0001315989,Stock Option (right to buy)
+A,01/04/2021 00:00:00,Rajendra Ajita G,4,A-Award,--D,1300,30914,1,0001315989,Common Stock
+A,01/04/2021 00:00:00,Owens James,4,A-Award,--D,5600,5600,2,0001443909,Stock Option (right to buy)
+A,01/04/2021 00:00:00,Owens James,4,A-Award,--D,1300,9761,1,0001443909,Common Stock
+A,01/04/2021 00:00:00,OBERTON WILLARD D,4,A-Award,--D,5600,5600,2,0001036295,Stock Option (right to buy)
+A,01/04/2021 00:00:00,OBERTON WILLARD D,4,A-Award,--D,1300,22140,1,0001036295,Common Stock
+A,01/04/2021 00:00:00,Milroy Douglas A.,4,A-Award,--D,5600,5600,3,0001381551,Stock Option (right to buy)
+A,01/04/2021 00:00:00,Milroy Douglas A.,4,A-Award,--D,1300,7101,2,0001381551,Common Stock
+A,01/04/2021 00:00:00,HOFFMAN MICHAEL J,4,A-Award,--D,5600,5600,2,0001167147,Stock Option (right to buy)
+A,01/04/2021 00:00:00,HOFFMAN MICHAEL J,4,A-Award,--D,1300,63890,1,0001167147,Common Stock
+A,01/04/2021 00:00:00,Cruz Pilar,4,A-Award,--D,5600,5600,3,0001723127,Stock Option (right to buy)
+A,01/04/2021 00:00:00,Cruz Pilar,4,A-Award,--D,1300,7558,2,0001723127,Common Stock
+A,01/04/2021 00:00:00,Cruz Pilar,4,A-Award,--D,159,6258,1,0001723127,Common Stock
+A,01/04/2021 00:00:00,CECERE ANDREW,4,A-Award,--D,5600,5600,2,0001185476,Stock Option (right to buy)
+A,01/04/2021 00:00:00,CECERE ANDREW,4,A-Award,--D,1300,8216,1,0001185476,Common Stock
+D,12/08/2020 00:00:00,Robinson Scott J.,4,F-InKind,--D,3691,24401,3,0001660452,Common Stock
+D,12/04/2020 00:00:00,SCALF THOMAS R,4,M-Exempt,--D,1000,0,5,0001603888,Employee Stock Option (right to buy)
+D,12/04/2020 00:00:00,SCALF THOMAS R,4,S-Sale,--D,1000,23586,4,0001603888,Common Stock
+A,12/04/2020 00:00:00,SCALF THOMAS R,4,M-Exempt,--D,1000,24586,3,0001603888,Common Stock
+D,12/04/2020 00:00:00,Becker Amy C,4,M-Exempt,--D,6000,0,5,0001615216,Employee Stock Option (right to buy)
+D,12/04/2020 00:00:00,Becker Amy C,4,F-InKind,--D,4611,32798,4,0001615216,Common Stock
+A,12/04/2020 00:00:00,Becker Amy C,4,M-Exempt,--D,6000,37409,3,0001615216,Common Stock
+A,12/02/2020 00:00:00,Kramer Sheila G.,4,F-InKind,--D,2453,13651,3,0001655747,Common Stock
+D,10/09/2020 00:00:00,HOFFMAN MICHAEL J,4,M-Exempt,--D,14400,0,2,0001167147,Stock Option (right to buy)
+A,10/09/2020 00:00:00,HOFFMAN MICHAEL J,4,M-Exempt,--D,14400,62465,1,0001167147,Common Stock
+D,10/06/2020 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,15000,0,5,0001441791,Employee Stock Option (right to buy)
+D,10/06/2020 00:00:00,Carpenter Tod E.,4,F-InKind,--D,11770,179799,4,0001441791,Common Stock
+A,10/06/2020 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,15000,191569,3,0001441791,Common Stock
+D,10/02/2020 00:00:00,Rajendra Ajita G,4,M-Exempt,--D,14400,0,4,0001315989,Stock Option (right to buy)
+D,10/02/2020 00:00:00,Rajendra Ajita G,4,S-Sale,--D,8839,29526,3,0001315989,Common Stock
+D,10/02/2020 00:00:00,Rajendra Ajita G,4,S-Sale,--D,22,38365,2,0001315989,Common  Stock
+A,10/02/2020 00:00:00,Rajendra Ajita G,4,M-Exempt,--D,14400,38387,1,0001315989,Common Stock
+D,09/24/2020 00:00:00,Spethmann Jeffrey E,4/A,F-InKind,--D,3383,22980,2,0001671232,Common Stock
+A,09/24/2020 00:00:00,Spethmann Jeffrey E,4/A,A-Award,--D,7228,26363,1,0001671232,Common Stock
+A,09/24/2020 00:00:00,Carpenter Tod E.,4,A-Award,--D,187000,187000,5,0001441791,Employee Stock Option (right to buy)
+D,09/24/2020 00:00:00,Carpenter Tod E.,4,F-InKind,--D,20626,176569,4,0001441791,Common Stock
+A,09/24/2020 00:00:00,Carpenter Tod E.,4,A-Award,--D,41922,197195,3,0001441791,Common Stock
+A,09/24/2020 00:00:00,Becker Amy C,4,A-Award,--D,25800,25800,5,0001615216,Employee Stock Option (right to buy)
+D,09/24/2020 00:00:00,Becker Amy C,4,F-InKind,--D,2812,31409,4,0001615216,Common Stock
+A,09/24/2020 00:00:00,Becker Amy C,4,A-Award,--D,6005,34221,3,0001615216,Common Stock
+A,09/24/2020 00:00:00,Spethmann Jeffrey E,4,A-Award,--D,36900,36900,5,0001671232,Employee Stock Option (right to buy)
+D,09/24/2020 00:00:00,Spethmann Jeffrey E,4,F-InKind,--D,3375,22627,4,0001671232,Common Stock
+A,09/24/2020 00:00:00,Spethmann Jeffrey E,4,A-Award,--D,6867,26002,3,0001671232,Common Stock
+A,09/24/2020 00:00:00,Vermeersch Wim,4,A-Award,--D,11800,11800,3,0001538651,Employee Stock Option (right to buy)
+D,09/24/2020 00:00:00,Vermeersch Wim,4,F-InKind,--D,1591,27138,2,0001538651,Common Stock
+A,09/24/2020 00:00:00,Vermeersch Wim,4,A-Award,--D,2669,28729,1,0001538651,Common Stock
+A,09/24/2020 00:00:00,SCALF THOMAS R,4,A-Award,--D,36900,36900,5,0001603888,Employee Stock Option (right to buy)
+D,09/24/2020 00:00:00,SCALF THOMAS R,4,F-InKind,--D,3555,23586,4,0001603888,Common Stock
+A,09/24/2020 00:00:00,SCALF THOMAS R,4,A-Award,--D,7228,27141,3,0001603888,Common Stock
+A,09/24/2020 00:00:00,Robinson Scott J.,4,A-Award,--D,46800,46800,5,0001660452,Employee Stock Option (right to buy)
+D,09/24/2020 00:00:00,Robinson Scott J.,4,F-InKind,--D,5141,28092,4,0001660452,Common Stock
+A,09/24/2020 00:00:00,Robinson Scott J.,4,A-Award,--D,10453,33233,3,0001660452,Common Stock
+A,09/24/2020 00:00:00,Lewis Richard Brent,4,A-Award,--D,25800,25800,5,0001718260,Employee Stock Option (right to buy)
+D,09/24/2020 00:00:00,Lewis Richard Brent,4,F-InKind,--D,1201,8380,4,0001718260,Common Stock
+A,09/24/2020 00:00:00,Lewis Richard Brent,4,A-Award,--D,2446,9581,3,0001718260,Common Stock
+A,09/24/2020 00:00:00,Kramer Sheila G.,4,A-Award,--D,20900,20900,5,0001655747,Employee Stock Option (right to buy)
+D,09/24/2020 00:00:00,Kramer Sheila G.,4,F-InKind,--D,2077,16104,4,0001655747,Common Stock
+A,09/24/2020 00:00:00,Kramer Sheila G.,4,A-Award,--D,4226,18181,3,0001655747,Common Stock
+A,09/24/2020 00:00:00,Keller Peter Joseph,4,A-Award,--D,2000,2000,3,0001755736,Employee Stock Option (right to buy)
+D,06/08/2020 00:00:00,WIEHOFF JOHN,4,M-Exempt,--D,14400,0,3,0001241113,Stock Option (right to buy)
+D,06/08/2020 00:00:00,WIEHOFF JOHN,4,S-Sale,--D,14400,55937,2,0001241113,Common Stock
+A,06/08/2020 00:00:00,WIEHOFF JOHN,4,M-Exempt,--D,14400,70337,1,0001241113,Common Stock
+D,06/08/2020 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,14400,0,3,0001036295,Stock Option (right to buy)
+D,06/08/2020 00:00:00,OBERTON WILLARD D,4,S-Sale,--D,14400,20611,2,0001036295,Common Stock
+A,06/08/2020 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,14400,35011,1,0001036295,Common Stock
+D,06/08/2020 00:00:00,SCALF THOMAS R,4,S-Sale,--D,1250,19913,3,0001603888,Common Stock
+D,06/08/2020 00:00:00,Carpenter Tod E.,4,S-Sale,--D,10000,155273,3,0001441791,Common Stock
+D,06/08/2020 00:00:00,Becker Amy C,4,S-Sale,--D,2627,28216,3,0001615216,Common Stock
+D,06/04/2020 00:00:00,Lewis Richard Brent,4,M-Exempt,--D,3000,0,5,0001718260,Employee Stock Option (right to buy)
+D,06/04/2020 00:00:00,Lewis Richard Brent,4,F-InKind,--D,2362,7135,4,0001718260,Common Stock
+A,06/04/2020 00:00:00,Lewis Richard Brent,4,M-Exempt,--D,3000,9497,3,0001718260,Common Stock
+D,03/09/2020 00:00:00,Spethmann Jeffrey E,4,S-Sale,--D,3600,19135,3,0001671232,Common Stock
+D,03/09/2020 00:00:00,SCALF THOMAS R,4,S-Sale,--D,2500,21163,3,0001603888,Common Stock
+D,03/09/2020 00:00:00,Robinson Scott J.,4,S-Sale,--D,4000,22880,3,0001660452,Common Stock
+A,01/02/2020 00:00:00,HOFFMAN MICHAEL J,4,A-Award,--D,5600,5600,2,0001167147,Stock Option (right to buy)
+A,01/02/2020 00:00:00,HOFFMAN MICHAEL J,4,A-Award,--D,1200,47614,1,0001167147,Common Stock
+A,01/02/2020 00:00:00,WIEHOFF JOHN,4,A-Award,--D,5600,5600,3,0001241113,Stock Option (right to buy)
+A,01/02/2020 00:00:00,WIEHOFF JOHN,4,A-Award,--D,1200,55673,2,0001241113,Common Stock
+A,01/02/2020 00:00:00,WIEHOFF JOHN,4,A-Award,--D,1380,54473,1,0001241113,Common Stock
+A,01/02/2020 00:00:00,Rautio Trudy A.,4,A-Award,--D,5600,5600,3,0001243835,Stock Option (right to buy)
+A,01/02/2020 00:00:00,Rautio Trudy A.,4,A-Award,--D,1200,14031,2,0001243835,Common Stock
+A,01/02/2020 00:00:00,Rautio Trudy A.,4,A-Award,--D,1294,12831,1,0001243835,Common Stock
+A,01/02/2020 00:00:00,Rajendra Ajita G,4,A-Award,--D,5600,5600,3,0001315989,Stock Option (right to buy)
+A,01/02/2020 00:00:00,Rajendra Ajita G,4,A-Award,--D,1200,23667,2,0001315989,Common Stock
+A,01/02/2020 00:00:00,Rajendra Ajita G,4,A-Award,--D,1173,22467,1,0001315989,Common Stock
+A,01/02/2020 00:00:00,Owens James,4,A-Award,--D,5600,5600,2,0001443909,Stock Option (right to buy)
+A,01/02/2020 00:00:00,Owens James,4,A-Award,--D,1200,8313,1,0001443909,Common Stock
+A,01/02/2020 00:00:00,OBERTON WILLARD D,4,A-Award,--D,5600,5600,3,0001036295,Stock Option (right to buy)
+A,01/02/2020 00:00:00,OBERTON WILLARD D,4,A-Award,--D,1200,20519,2,0001036295,Common Stock
+A,01/02/2020 00:00:00,OBERTON WILLARD D,4,A-Award,--D,345,19319,1,0001036295,Common Stock
+A,01/02/2020 00:00:00,Milroy Douglas A.,4,A-Award,--D,5600,5600,3,0001381551,Stock Option (right to buy)
+A,01/02/2020 00:00:00,Milroy Douglas A.,4,A-Award,--D,1200,5698,2,0001381551,Common Stock
+A,01/02/2020 00:00:00,Cruz Pilar,4,A-Award,--D,5600,5600,3,0001723127,Stock Option (right to buy)
+A,01/02/2020 00:00:00,Cruz Pilar,4,A-Award,--D,1200,5990,2,0001723127,Common Stock
+A,01/02/2020 00:00:00,Cruz Pilar,4,A-Award,--D,404,4790,1,0001723127,Common Stock
+A,01/02/2020 00:00:00,CECERE ANDREW,4,A-Award,--D,5600,5600,2,0001185476,Stock Option (right to buy)
+A,01/02/2020 00:00:00,CECERE ANDREW,4,A-Award,--D,1200,6793,1,0001185476,Common Stock
+D,01/02/2020 00:00:00,Becker Amy C,4,M-Exempt,--D,6000,0,5,0001615216,Employee Stock Option (right to buy)
+D,01/02/2020 00:00:00,Becker Amy C,4,F-InKind,--D,3467,30843,4,0001615216,Common Stock
+A,01/02/2020 00:00:00,Becker Amy C,4,M-Exempt,--D,6000,34310,3,0001615216,Common Stock
+A,12/23/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,29.377,3821,1,0001671232,Common Stock
+A,12/10/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,30.512,3792,1,0001671232,Common Stock
+D,12/06/2019 00:00:00,HOFFMAN MICHAEL J,4,M-Exempt,--D,14400,0,2,0001167147,Stock Option (right to buy)
+A,12/06/2019 00:00:00,HOFFMAN MICHAEL J,4,M-Exempt,--D,14400,46304,1,0001167147,Common Stock
+A,11/26/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,30.677,3761,1,0001671232,Common Stock
+A,11/12/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,31.038,3731,1,0001671232,Common Stock
+A,10/29/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,31.562,3699,1,0001671232,Common Stock
+A,10/16/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,73.172,3668,2,0001671232,Common Stock
+A,10/16/2019 00:00:00,SCALF THOMAS R,4,A-Award,--I,51.585,2820,1,0001603888,Common Stock
+A,10/16/2019 00:00:00,Robinson Scott J.,4,A-Award,--I,59.704,984,1,0001660452,Common Stock
+A,10/16/2019 00:00:00,Carpenter Tod E.,4,A-Award,--I,174.636,10751,2,0001441791,Common Stock
+A,10/16/2019 00:00:00,Becker Amy C,4,A-Award,--I,11.433,1423,1,0001615216,Common Stock
+A,10/11/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,544.545,3595,1,0001671232,Common Stock
+A,10/02/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,33.306,3050,1,0001671232,Common Stock
+D,10/01/2019 00:00:00,Lewis Richard Brent,4,F-InKind,--D,612,6492,3,0001718260,Common Stock
+A,09/26/2019 00:00:00,Vermeersch Wim,4,A-Award,--D,11300,11300,3,0001538651,Employee Stock Option (right to buy)
+D,09/26/2019 00:00:00,Vermeersch Wim,4,F-InKind,--D,2673,26060,2,0001538651,Common Stock
+A,09/26/2019 00:00:00,Vermeersch Wim,4,A-Award,--D,4485,28732,1,0001538651,Common Stock
+A,09/26/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--D,35200,35200,5,0001671232,Employee Stock Option (right to buy)
+D,09/26/2019 00:00:00,Spethmann Jeffrey E,4,F-InKind,--D,4834,22735,4,0001671232,Common Stock
+A,09/26/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--D,15795,27569,3,0001671232,Common Stock
+A,09/26/2019 00:00:00,SCALF THOMAS R,4,A-Award,--D,35200,35200,5,0001603888,Employee Stock Option (right to buy)
+D,09/26/2019 00:00:00,SCALF THOMAS R,4,F-InKind,--D,5788,23663,4,0001603888,Common Stock
+A,09/26/2019 00:00:00,SCALF THOMAS R,4,A-Award,--D,18915,29451,3,0001603888,Common Stock
+A,09/26/2019 00:00:00,Robinson Scott J.,4,A-Award,--D,44600,44600,5,0001660452,Employee Stock Option (right to buy)
+D,09/26/2019 00:00:00,Robinson Scott J.,4,F-InKind,--D,8320,26780,4,0001660452,Common Stock
+A,09/26/2019 00:00:00,Robinson Scott J.,4,A-Award,--D,24570,35100,3,0001660452,Common Stock
+A,09/26/2019 00:00:00,Lewis Richard Brent,4,A-Award,--D,24700,24700,4,0001718260,Employee Stock Option (right to buy)
+A,09/26/2019 00:00:00,Kramer Sheila G.,4,A-Award,--D,20000,20000,5,0001655747,Employee Stock Option (right to buy)
+D,09/26/2019 00:00:00,Kramer Sheila G.,4,F-InKind,--D,2924,13805,4,0001655747,Common Stock
+A,09/26/2019 00:00:00,Kramer Sheila G.,4,A-Award,--D,9555,16729,3,0001655747,Common Stock
+A,09/26/2019 00:00:00,Keller Peter Joseph,4,A-Award,--D,2000,2000,3,0001755736,Employee Stock Option (right to buy)
+A,09/26/2019 00:00:00,Carpenter Tod E.,4,A-Award,--D,178600,178600,5,0001441791,Employee Stock Option (right to buy)
+D,09/26/2019 00:00:00,Carpenter Tod E.,4,F-InKind,--D,47745,165253,4,0001441791,Common Stock
+A,09/26/2019 00:00:00,Carpenter Tod E.,4,A-Award,--D,110955,212998,3,0001441791,Common Stock
+A,09/26/2019 00:00:00,Becker Amy C,4,A-Award,--D,24700,24700,5,0001615216,Employee Stock Option (right to buy)
+D,09/26/2019 00:00:00,Becker Amy C,4,F-InKind,--D,3879,28310,4,0001615216,Common Stock
+A,09/26/2019 00:00:00,Becker Amy C,4,A-Award,--D,12675,32189,3,0001615216,Common Stock
+A,09/17/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,31.579,3017,1,0001671232,Common Stock
+A,09/03/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,33.541,2985,1,0001671232,Common Stock
+A,08/20/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,17.153,2939,1,0001671232,Common Stock
+A,08/06/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,17.896,2922,1,0001671232,Common Stock
+A,07/23/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,20.512,2904,1,0001671232,Common Stock
+A,07/23/2019 00:00:00,SCALF THOMAS R,4,A-Award,--I,3.575,2756,1,0001603888,Common Stock
+A,07/23/2019 00:00:00,Carpenter Tod E.,4,A-Award,--I,151.495,10530,2,0001441791,Common Stock
+A,07/23/2019 00:00:00,Becker Amy C,4,A-Award,--I,6.295,1406,1,0001615216,Common Stock
+D,07/10/2019 00:00:00,Becker Amy C,4,F-InKind,--D,918,19514,3,0001615216,Common Stock
+A,07/09/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,17.209,2883,1,0001671232,Common Stock
+A,06/25/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,17.087,2855,1,0001671232,Common Stock
+A,06/12/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,17.16,2837,1,0001671232,Common Stock
+D,06/06/2019 00:00:00,WIEHOFF JOHN,4,M-Exempt,--D,14400,0,3,0001241113,Stock Option (right to buy)
+D,06/06/2019 00:00:00,WIEHOFF JOHN,4,S-Sale,--D,14400,52460,2,0001241113,Common Stock
+A,06/06/2019 00:00:00,WIEHOFF JOHN,4,M-Exempt,--D,14400,66860,1,0001241113,Common Stock
+A,05/28/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,17.727,2820,1,0001671232,Common Stock
+A,05/14/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,16.666,2803,1,0001671232,Common Stock
+A,04/30/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,15.905,2786,1,0001671232,Common Stock
+A,04/16/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,16.032,2770,1,0001671232,Common Stock
+A,04/03/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,4.543,2754,1,0001671232,Common Stock
+A,04/03/2019 00:00:00,SCALF THOMAS R,4,A-Award,--I,4.753,2741,1,0001603888,Common Stock
+A,04/03/2019 00:00:00,Becker Amy C,4,A-Award,--I,8.372,1393,1,0001615216,Common Stock
+A,04/02/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,16.443,2749,1,0001671232,Common Stock
+D,03/29/2019 00:00:00,Carpenter Tod E.,4,S-Sale,--D,4000,102037,3,0001441791,Common Stock
+D,03/28/2019 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,14400,0,3,0001036295,Employee Stock Option (right to buy)
+D,03/28/2019 00:00:00,OBERTON WILLARD D,4,S-Sale,--D,14400,18772,2,0001036295,Common Stock
+A,03/28/2019 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,14400,33172,1,0001036295,Common Stock
+A,03/19/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,17.077,2733,1,0001671232,Common Stock
+A,03/13/2019 00:00:00,Milroy Douglas A.,4,P-Purchase,--I,560,1710,1,0001381551,Common Stock
+A,03/05/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,16.3,2716,1,0001671232,Common Stock
+A,02/20/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,16.536,2691,1,0001671232,Common Stock
+A,02/12/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,328.65,2674,1,0001671232,Common Stock
+A,02/12/2019 00:00:00,SCALF THOMAS R,4,A-Award,--I,359.979,2728,1,0001603888,Common Stock
+A,02/12/2019 00:00:00,Robinson Scott J.,4,A-Award,--I,418.662,914,1,0001660452,Common Stock
+A,02/12/2019 00:00:00,Lewis Richard Brent,4,A-Award,--I,190.062,749,1,0001718260,Common Stock
+A,02/12/2019 00:00:00,Kramer Sheila G.,4,A-Award,--I,186.526,329,1,0001655747,Common Stock
+A,02/12/2019 00:00:00,Carpenter Tod E.,4,A-Award,--I,1396.926,10303,1,0001441791,Common Stock
+A,02/12/2019 00:00:00,Becker Amy C,4,A-Award,--I,251.186,1381,1,0001615216,Common Stock
+A,02/06/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,17.504,2346,1,0001671232,Common Stock
+A,01/25/2019 00:00:00,WIEHOFF JOHN,4,A-Award,--D,105,52274,1,0001241113,Common Stock
+A,01/25/2019 00:00:00,Rautio Trudy A.,4,A-Award,--D,105,11360,1,0001243835,Common Stock
+A,01/25/2019 00:00:00,Rajendra Ajita G,4,A-Award,--D,105,20969,1,0001315989,Common Stock
+A,01/25/2019 00:00:00,Cruz Pilar,4,A-Award,--D,31,4322,1,0001723127,Common Stock
+A,01/23/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,18.198,2328,1,0001671232,Common Stock
+A,01/08/2019 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,19.122,2310,1,0001671232,Common Stock
+A,01/02/2019 00:00:00,WIEHOFF JOHN,4,A-Award,--D,6800,6800,3,0001241113,Stock Option (right to buy)
+A,01/02/2019 00:00:00,WIEHOFF JOHN,4,A-Award,--D,1600,52169,2,0001241113,Common Stock
+A,01/02/2019 00:00:00,WIEHOFF JOHN,4,A-Award,--D,1743,50569,1,0001241113,Common Stock
+A,01/02/2019 00:00:00,Rautio Trudy A.,4,A-Award,--D,6800,6800,3,0001243835,Stock Option (right to buy)
+A,01/02/2019 00:00:00,Rautio Trudy A.,4,A-Award,--D,1600,11255,2,0001243835,Common Stock
+A,01/02/2019 00:00:00,Rautio Trudy A.,4,A-Award,--D,1627,9655,1,0001243835,Common Stock
+A,01/02/2019 00:00:00,Rajendra Ajita G,4,A-Award,--D,6800,6800,3,0001315989,Stock Option (right to buy)
+A,01/02/2019 00:00:00,Rajendra Ajita G,4,A-Award,--D,1600,20864,2,0001315989,Common Stock
+A,01/02/2019 00:00:00,Rajendra Ajita G,4,A-Award,--D,1627,19264,1,0001315989,Common Stock
+A,01/02/2019 00:00:00,Owens James,4,A-Award,--D,6800,6800,3,0001443909,Stock Option (right to buy)
+A,01/02/2019 00:00:00,Owens James,4,A-Award,--D,1600,7006,2,0001443909,Common Stock
+A,01/02/2019 00:00:00,Owens James,4,A-Award,--D,349,5406,1,0001443909,Common Stock
+A,01/02/2019 00:00:00,OBERTON WILLARD D,4,A-Award,--D,6800,6800,3,0001036295,Stock Option (right to buy)
+A,01/02/2019 00:00:00,OBERTON WILLARD D,4,A-Award,--D,1600,18716,2,0001036295,Common Stock
+A,01/02/2019 00:00:00,OBERTON WILLARD D,4,A-Award,--D,814,17116,1,0001036295,Common Stock
+A,01/02/2019 00:00:00,Milroy Douglas A.,4,A-Award,--D,6800,6800,3,0001381551,Stock Option (right to buy)
+A,01/02/2019 00:00:00,Milroy Douglas A.,4,A-Award,--D,1600,5583,2,0001381551,Common Stock
+A,01/02/2019 00:00:00,Milroy Douglas A.,4,A-Award,--D,349,3983,1,0001381551,Common Stock
+A,01/02/2019 00:00:00,HOFFMAN MICHAEL J,4,A-Award,--D,6800,6800,3,0001167147,Stock Option (right to buy)
+A,01/02/2019 00:00:00,HOFFMAN MICHAEL J,4,A-Award,--D,1600,31519,2,0001167147,Common Stock
+A,01/02/2019 00:00:00,HOFFMAN MICHAEL J,4,A-Award,--D,349,29919,1,0001167147,Common Stock
+A,01/02/2019 00:00:00,Cruz Pilar,4,A-Award,--D,6800,6800,3,0001723127,Stock Option (right to buy)
+A,01/02/2019 00:00:00,Cruz Pilar,4,A-Award,--D,1600,4291,2,0001723127,Common Stock
+A,01/02/2019 00:00:00,Cruz Pilar,4,A-Award,--D,672,2691,1,0001723127,Common Stock
+A,01/02/2019 00:00:00,CECERE ANDREW,4,A-Award,--D,6800,6800,3,0001185476,Stock Option (right to buy)
+A,01/02/2019 00:00:00,CECERE ANDREW,4,A-Award,--D,1600,5511,2,0001185476,Common Stock
+A,01/02/2019 00:00:00,CECERE ANDREW,4,A-Award,--D,349,3911,1,0001185476,Common Stock
+A,12/27/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,55.63,2291,1,0001671232,Common Stock
+A,12/27/2018 00:00:00,SCALF THOMAS R,4,A-Award,--I,16.919,2368,1,0001603888,Common Stock
+A,12/27/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,35.861,8906,1,0001441791,Common Stock
+A,12/27/2018 00:00:00,Becker Amy C,4,A-Award,--I,14.896,1130,1,0001615216,Common Stock
+A,12/17/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,50.063,2226,1,0001671232,Common Stock
+A,12/17/2018 00:00:00,SCALF THOMAS R,4,A-Award,--I,15.226,2341,1,0001603888,Common Stock
+A,12/17/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,32.272,8832,1,0001441791,Common Stock
+A,12/17/2018 00:00:00,Becker Amy C,4,A-Award,--I,13.406,1110,1,0001615216,Common Stock
+A,11/27/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,43.174,2176,1,0001671232,Common Stock
+A,11/27/2018 00:00:00,SCALF THOMAS R,4,A-Award,--I,13.13,2326,1,0001603888,Common Stock
+A,11/27/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,27.831,8799,1,0001441791,Common Stock
+A,11/27/2018 00:00:00,Becker Amy C,4,A-Award,--I,11.56,1097,1,0001615216,Common Stock
+D,11/25/2018 00:00:00,Spethmann Jeffrey E,4,F-InKind,--D,918,11757,3,0001671232,Common Stock
+D,11/25/2018 00:00:00,SCALF THOMAS R,4,F-InKind,--D,918,10535,3,0001603888,Common Stock
+A,11/13/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,42.752,2133,1,0001671232,Common Stock
+A,11/13/2018 00:00:00,SCALF THOMAS R,4,A-Award,--I,13.002,2312,1,0001603888,Common Stock
+A,11/13/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,27.559,8772,1,0001441791,Common Stock
+A,11/13/2018 00:00:00,Becker Amy C,4,A-Award,--I,11.448,1085,1,0001615216,Common Stock
+A,10/30/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,45.875,2090,1,0001671232,Common Stock
+A,10/30/2018 00:00:00,SCALF THOMAS R,4,A-Award,--I,13.952,2299,1,0001603888,Common Stock
+A,10/30/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,29.572,8744,1,0001441791,Common Stock
+A,10/30/2018 00:00:00,Becker Amy C,4,A-Award,--I,12.283,1074,1,0001615216,Common Stock
+A,10/16/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,43.563,2044,1,0001671232,Common Stock
+A,10/16/2018 00:00:00,SCALF THOMAS R,4,A-Award,--I,13.248,2285,1,0001603888,Common Stock
+A,10/16/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,28.081,8714,1,0001441791,Common Stock
+A,10/16/2018 00:00:00,Becker Amy C,4,A-Award,--I,11.664,1061,1,0001615216,Common Stock
+A,10/09/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,974.77,2000,1,0001671232,Common Stock
+A,10/09/2018 00:00:00,SCALF THOMAS R,4,A-Award,--I,294.669,2272,1,0001603888,Common Stock
+A,10/09/2018 00:00:00,Osland Melissa A.,4,A-Award,--I,4.814,40,1,0001540930,Common Stock
+A,10/09/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,1127.569,8686,1,0001441791,Common Stock
+A,10/09/2018 00:00:00,Becker Amy C,4,A-Award,--I,202.255,1050,1,0001615216,Common Stock
+A,10/02/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,36.434,1026,1,0001671232,Common Stock
+A,10/02/2018 00:00:00,SCALF THOMAS R,4,A-Award,--I,11.659,1978,1,0001603888,Common Stock
+A,10/02/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,25.173,7559,1,0001441791,Common Stock
+A,10/02/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.022,847,1,0001615216,Common Stock
+A,09/21/2018 00:00:00,Carpenter Tod E.,4,A-Award,--D,152000,152000,5,0001441791,Employee Stock Option (right to buy)
+D,09/21/2018 00:00:00,Carpenter Tod E.,4,F-InKind,--D,14899,106025,4,0001441791,Common Stock
+A,09/21/2018 00:00:00,Carpenter Tod E.,4,A-Award,--D,32673,120924,3,0001441791,Common Stock
+A,09/21/2018 00:00:00,Vermeersch Wim,4,A-Award,--D,9900,9900,3,0001538651,Employee Stock Option (right to buy)
+D,09/21/2018 00:00:00,Vermeersch Wim,4,F-InKind,--D,638,24247,2,0001538651,Common Stock
+A,09/21/2018 00:00:00,Vermeersch Wim,4,A-Award,--D,1070,24885,1,0001538651,Common Stock
+A,09/21/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--D,30800,30800,4,0001671232,Employee Stock Option (right to buy)
+A,09/21/2018 00:00:00,SCALF THOMAS R,4,A-Award,--D,30800,30800,5,0001603888,Employee Stock Option (right to buy)
+D,09/21/2018 00:00:00,SCALF THOMAS R,4,F-InKind,--D,1860,11453,4,0001603888,Common Stock
+A,09/21/2018 00:00:00,SCALF THOMAS R,4,A-Award,--D,6077,13313,3,0001603888,Common Stock
+A,09/21/2018 00:00:00,Robinson Scott J.,4,A-Award,--D,39000,39000,5,0001660452,Emplyee Stock Option (right to buy)
+D,09/21/2018 00:00:00,Robinson Scott J.,4,F-InKind,--D,1315,10480,4,0001660452,Common Stock
+A,09/21/2018 00:00:00,Robinson Scott J.,4,A-Award,--D,4295,11795,3,0001660452,Common Stock
+A,09/21/2018 00:00:00,Osland Melissa A.,4,A-Award,--D,2000,2000,4,0001540930,Employee Stock Option (right to buy)
+A,09/21/2018 00:00:00,Lewis Richard Brent,4,A-Award,--D,12300,12300,4,0001718260,Employee Stock Option (right to buy)
+A,09/21/2018 00:00:00,Kramer Sheila G.,4,A-Award,--D,17500,17500,5,0001655747,Emplyee Stock Option (right to buy)
+D,09/21/2018 00:00:00,Kramer Sheila G.,4,F-InKind,--D,943,7138,4,0001655747,Common Stock
+A,09/21/2018 00:00:00,Kramer Sheila G.,4,A-Award,--D,3081,8081,3,0001655747,Common Stock
+A,09/21/2018 00:00:00,Becker Amy C,4,A-Award,--D,21600,21600,5,0001615216,Employee Stock Option (right to buy)
+D,09/21/2018 00:00:00,Becker Amy C,4,F-InKind,--D,1159,20410,4,0001615216,Common Stock
+A,09/21/2018 00:00:00,Becker Amy C,4,A-Award,--D,3786,21569,3,0001615216,Common Stock
+A,09/18/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,17.807,989,1,0001671232,Common Stock
+A,09/18/2018 00:00:00,SCALF THOMAS R,4,A-Award,--I,11.564,1966,1,0001603888,Common Stock
+A,09/18/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,24.968,7534,1,0001441791,Common Stock
+A,09/18/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.013,846,1,0001615216,Common Stock
+D,09/17/2018 00:00:00,Vermeersch Wim,4,M-Exempt,--D,16000,0,6,0001538651,Emplyee Stock Option (right to buy)
+D,09/17/2018 00:00:00,Vermeersch Wim,4,M-Exempt,--D,2500,0,5,0001538651,Emplyee Stock Option (right to buy)
+D,09/17/2018 00:00:00,Vermeersch Wim,4,F-InKind,--D,9453,23815,4,0001538651,Common Stock
+A,09/17/2018 00:00:00,Vermeersch Wim,4,M-Exempt,--D,16000,33268,3,0001538651,Common Stock
+D,09/17/2018 00:00:00,Vermeersch Wim,4,F-InKind,--D,1231,17268,2,0001538651,Common Stock
+A,09/17/2018 00:00:00,Vermeersch Wim,4,M-Exempt,--D,2500,18499,1,0001538651,Common Stock
+A,09/17/2018 00:00:00,Carpenter Tod E.,4,A-Award,--D,11065,11065,10,0001441791,Employee Stock Option (right to buy)
+D,09/17/2018 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,18000,0,9,0001441791,Employee Stock Option (right to buy)
+A,09/17/2018 00:00:00,Carpenter Tod E.,4,A-Award,--D,8960,8960,8,0001441791,Employee Stock Option (right to buy)
+D,09/17/2018 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,17600,0,7,0001441791,Employee Stock Option (right to buy)
+D,09/17/2018 00:00:00,Carpenter Tod E.,4,F-InKind,--D,11065,88251,6,0001441791,Common Stock
+A,09/17/2018 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,18000,99316,5,0001441791,Common Stock
+D,09/17/2018 00:00:00,Carpenter Tod E.,4,F-InKind,--D,8960,81316,4,0001441791,Common Stock
+A,09/17/2018 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,17600,90276,3,0001441791,Common Stock
+D,09/14/2018 00:00:00,Lewis Richard Brent,4,M-Exempt,--D,4000,0,8,0001718260,Employee Stock Option (right to buy)
+D,09/14/2018 00:00:00,Lewis Richard Brent,4,M-Exempt,--D,2000,0,7,0001718260,Employee Stock Option (right to buy)
+D,09/14/2018 00:00:00,Lewis Richard Brent,4,S-Sale,--D,2222,4791,6,0001718260,Common Stock
+A,09/14/2018 00:00:00,Lewis Richard Brent,4,M-Exempt,--D,4000,7013,5,0001718260,Common Stock
+D,09/14/2018 00:00:00,Lewis Richard Brent,4,S-Sale,--D,987,3013,4,0001718260,Common Stock
+A,09/14/2018 00:00:00,Lewis Richard Brent,4,M-Exempt,--D,2000,4000,3,0001718260,Common Stock
+D,09/13/2018 00:00:00,Becker Amy C,4,M-Exempt,--D,3000,0,5,0001615216,Employee Stock Option (right to buy)
+D,09/13/2018 00:00:00,Becker Amy C,4,F-InKind,--D,1497,17783,4,0001615216,Common Stock
+A,09/13/2018 00:00:00,Becker Amy C,4,M-Exempt,--D,3000,19280,3,0001615216,Common Stock
+D,09/12/2018 00:00:00,Vermeersch Wim,4,M-Exempt,--D,3000,0,3,0001538651,Emplyee Stock Option (right to buy)
+D,09/12/2018 00:00:00,Vermeersch Wim,4,F-InKind,--D,1112,15999,2,0001538651,Common Stock
+A,09/12/2018 00:00:00,Vermeersch Wim,4,M-Exempt,--D,3000,17111,1,0001538651,Common Stock
+D,09/12/2018 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,14400,0,3,0001036295,Employee Stock Option (right to buy)
+D,09/12/2018 00:00:00,OBERTON WILLARD D,4,S-Sale,--D,14400,16051,2,0001036295,Common Stock
+A,09/12/2018 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,14400,30451,1,0001036295,Common Stock
+A,09/05/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,15.883,971,1,0001671232,Common Stock
+A,09/05/2018 00:00:00,SCALF THOMAS R,4,A-Award,--I,13.439,1954,1,0001603888,Common Stock
+A,09/05/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,29.016,7509,1,0001441791,Common Stock
+A,09/05/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.177,845,1,0001615216,Common Stock
+A,08/21/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,16.25,952,1,0001671232,Common Stock
+A,08/21/2018 00:00:00,SCALF THOMAS R,4,A-Award,--I,10.313,1934,1,0001603888,Common Stock
+A,08/21/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,29.688,7452,1,0001441791,Common Stock
+A,08/21/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.205,841,1,0001615216,Common Stock
+A,08/07/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,16.663,936,1,0001671232,Common Stock
+A,08/07/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,30.442,7422,1,0001441791,Common Stock
+A,08/07/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.235,840,1,0001615216,Common Stock
+A,07/24/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,17.333,919,1,0001671232,Common Stock
+A,07/24/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,31.666,7391,1,0001441791,Common Stock
+A,07/24/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.285,839,1,0001615216,Common Stock
+A,07/13/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,17.429,902,1,0001671232,Common Stock
+A,07/13/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,31.842,7360,1,0001441791,Common Stock
+A,07/13/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.292,837,1,0001615216,Common Stock
+D,07/05/2018 00:00:00,HOFFMAN MICHAEL J,4,M-Exempt,--D,14400,0,3,0001167147,Employee Stock Option (right to buy)
+D,07/05/2018 00:00:00,HOFFMAN MICHAEL J,4,S-Sale,--D,14400,29316,2,0001167147,Common Stock
+A,07/05/2018 00:00:00,HOFFMAN MICHAEL J,4,M-Exempt,--D,14400,43716,1,0001167147,Common Stock
+A,06/28/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,17.747,884,1,0001671232,Common Stock
+A,06/28/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,32.421,7328,1,0001441791,Common Stock
+A,06/28/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.316,836,1,0001615216,Common Stock
+D,06/14/2018 00:00:00,WIEHOFF JOHN,4,M-Exempt,--D,14400,0,3,0001241113,Employee Stock Option (right to buy)
+D,06/14/2018 00:00:00,WIEHOFF JOHN,4,S-Sale,--D,14400,48220,2,0001241113,Common Stock
+A,06/14/2018 00:00:00,WIEHOFF JOHN,4,M-Exempt,--D,14400,62620,1,0001241113,Common Stock
+A,06/13/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,16.698,863,1,0001671232,Common Stock
+A,06/13/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,30.506,7265,1,0001441791,Common Stock
+A,06/13/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.238,831,1,0001615216,Common Stock
+A,05/30/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,16.817,846,1,0001671232,Common Stock
+A,05/30/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,30.724,7235,1,0001441791,Common Stock
+A,05/30/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.247,830,1,0001615216,Common Stock
+A,05/18/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,16.817,829,1,0001671232,Common Stock
+A,05/18/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,30.724,7204,1,0001441791,Common Stock
+A,05/18/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.247,829,1,0001615216,Common Stock
+A,05/02/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,17.977,813,1,0001671232,Common Stock
+A,05/02/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,32.844,7173,1,0001441791,Common Stock
+A,05/02/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.333,828,1,0001615216,Common Stock
+A,04/18/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,17.388,795,1,0001671232,Common Stock
+A,04/18/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,15.047,7140,1,0001441791,Common Stock
+A,04/18/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.289,826,1,0001615216,Common Stock
+A,04/04/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,18.19,777,1,0001671232,Common Stock
+A,04/04/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.349,825,1,0001615216,Common Stock
+A,03/21/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,17.525,759,1,0001671232,Common Stock
+A,03/21/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.299,824,1,0001615216,Common Stock
+A,03/13/2018 00:00:00,Milroy Douglas A.,4,P-Purchase,--D,550,3598,1,0001381551,Common Stock
+A,03/06/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,17.72,742,1,0001671232,Common Stock
+A,03/06/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.314,822,1,0001615216,Common Stock
+A,02/21/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,16.573,721,1,0001671232,Common Stock
+A,02/21/2018 00:00:00,Becker Amy C,4,A-Award,--I,1.229,818,1,0001615216,Common Stock
+A,02/14/2018 00:00:00,Lewis Richard Brent,4,A-Award,--I,156.733,550,1,0001718260,Common Stock
+A,02/07/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,294.101,704,1,0001671232,Common Stock
+A,02/07/2018 00:00:00,SCALF THOMAS R,4,A-Award,--I,376.252,1908,1,0001603888,Common Stock
+A,02/07/2018 00:00:00,Robinson Scott J.,4,A-Award,--I,375.146,488,1,0001660452,Common Stock
+A,02/07/2018 00:00:00,Osland Melissa A.,4,A-Award,--I,35.09,35.09,2,0001540930,Common Stock
+A,02/07/2018 00:00:00,Kramer Sheila G.,4,A-Award,--I,133.647,140,1,0001655747,Common Stock
+A,02/07/2018 00:00:00,Carpenter Tod E.,4,A-Award,--I,1322.827,7097,1,0001441791,Common Stock
+A,02/07/2018 00:00:00,Becker Amy C,4,A-Award,--I,236.75,816,1,0001615216,Common Stock
+A,01/26/2018 00:00:00,OBERTON WILLARD D,4,A-Award,--D,97,15900,1,0001036295,Common Stock
+A,01/26/2018 00:00:00,Cruz Pilar,4,A-Award,--D,48,1987,1,0001723127,Common Stock
+A,01/24/2018 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,31.287,410,1,0001671232,Common Stock
+A,01/24/2018 00:00:00,Becker Amy C,4,A-Award,--I,2.32,580,1,0001615216,Common Stock
+A,01/02/2018 00:00:00,WIEHOFF JOHN,4,A-Award,--D,6600,6600,3,0001241113,Employee Stock Option (right to buy)
+A,01/02/2018 00:00:00,WIEHOFF JOHN,4,A-Award,--D,1400,48035,2,0001241113,Common Stock
+A,01/02/2018 00:00:00,WIEHOFF JOHN,4,A-Award,--D,1532,46635,1,0001241113,Common Stock
+A,01/02/2018 00:00:00,Rautio Trudy A.,4,A-Award,--D,6600,6600,3,0001243835,Employee Stock Option (right to buy)
+A,01/02/2018 00:00:00,Rautio Trudy A.,4,A-Award,--D,1400,7897,2,0001243835,Common Stock
+A,01/02/2018 00:00:00,Rautio Trudy A.,4,A-Award,--D,1430,6497,1,0001243835,Common Stock
+A,01/02/2018 00:00:00,Rajendra Ajita G,4,A-Award,--D,6600,6600,3,0001315989,Employee Stock Option (right to buy)
+A,01/02/2018 00:00:00,Rajendra Ajita G,4,A-Award,--D,1400,17352,2,0001315989,Common Stock
+A,01/02/2018 00:00:00,Rajendra Ajita G,4,A-Award,--D,1430,15952,1,0001315989,Common Stock
+A,01/02/2018 00:00:00,Owens James,4,A-Award,--D,6600,6600,3,0001443909,Employee Stock Option (right to buy)
+A,01/02/2018 00:00:00,Owens James,4,A-Award,--D,1400,4975,2,0001443909,Common Stock
+A,01/02/2018 00:00:00,Owens James,4,A-Award,--D,307,3575,1,0001443909,Common Stock
+A,01/02/2018 00:00:00,OBERTON WILLARD D,4,A-Award,--D,6600,6600,3,0001036295,Employee Stock Option (right to buy)
+A,01/02/2018 00:00:00,OBERTON WILLARD D,4,A-Award,--D,1400,15803,2,0001036295,Common Stock
+A,01/02/2018 00:00:00,OBERTON WILLARD D,4,A-Award,--D,613,14403,1,0001036295,Common Stock
+A,01/02/2018 00:00:00,Milroy Douglas A.,4,A-Award,--D,6600,6600,3,0001381551,Employee Stock Option (right to buy)
+A,01/02/2018 00:00:00,Milroy Douglas A.,4,A-Award,--D,1400,3044,2,0001381551,Common Stock
+A,01/02/2018 00:00:00,Milroy Douglas A.,4,A-Award,--D,307,1644,1,0001381551,Common Stock
+A,01/02/2018 00:00:00,HOFFMAN MICHAEL J,4,A-Award,--D,6600,6600,3,0001167147,Employee Stock Option (right to buy)
+A,01/02/2018 00:00:00,HOFFMAN MICHAEL J,4,A-Award,--D,1400,29088,2,0001167147,Common Stock
+A,01/02/2018 00:00:00,HOFFMAN MICHAEL J,4,A-Award,--D,307,27688,1,0001167147,Common Stock
+A,01/02/2018 00:00:00,Cruz Pilar,4,A-Award,--D,6600,6600,3,0001723127,Employee Stock Option (right to buy)
+A,01/02/2018 00:00:00,Cruz Pilar,4,A-Award,--D,1400,1939,2,0001723127,Common Stock
+A,01/02/2018 00:00:00,Cruz Pilar,4,A-Award,--D,539,539,1,0001723127,Common Stock
+A,01/02/2018 00:00:00,CECERE ANDREW,4,A-Award,--D,6600,6600,3,0001185476,Employee Stock Option (right to buy)
+A,01/02/2018 00:00:00,CECERE ANDREW,4,A-Award,--D,1400,3504,2,0001185476,Common Stock
+A,01/02/2018 00:00:00,CECERE ANDREW,4,A-Award,--D,307,2104,1,0001185476,Common Stock
+A,12/28/2017 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,12.586,379,1,0001671232,Common Stock
+A,12/28/2017 00:00:00,SCALF THOMAS R,4,A-Award,--I,13.844,1531,1,0001603888,Common Stock
+A,12/28/2017 00:00:00,Lewis Richard Brent,4,A-Award,--I,6.902,394,1,0001718260,Common Stock
+A,12/28/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,29.891,5774,1,0001441791,Common Stock
+A,12/28/2017 00:00:00,Becker Amy C,4,A-Award,--I,12.13,577,1,0001615216,Common Stock
+D,12/14/2017 00:00:00,Osland Melissa A.,4,M-Exempt,--D,500,0,10,0001540930,Employee Stock Option (right to buy)
+D,12/14/2017 00:00:00,Osland Melissa A.,4,M-Exempt,--D,1000,0,9,0001540930,Employee Stock Option (right to buy)
+D,12/14/2017 00:00:00,Osland Melissa A.,4,M-Exempt,--D,1000,0,8,0001540930,Employee Stock Option (right to buy)
+D,12/14/2017 00:00:00,Osland Melissa A.,4,S-Sale,--D,286,4221,7,0001540930,Common Stock
+A,12/14/2017 00:00:00,Osland Melissa A.,4,M-Exempt,--D,500,4507,6,0001540930,Common Stock
+D,12/14/2017 00:00:00,Osland Melissa A.,4,S-Sale,--D,556,4007,5,0001540930,Common Stock
+A,12/14/2017 00:00:00,Osland Melissa A.,4,M-Exempt,--D,1000,4563,4,0001540930,Common Stock
+D,12/14/2017 00:00:00,Osland Melissa A.,4,S-Sale,--D,611,3563,3,0001540930,Common Stock
+A,12/14/2017 00:00:00,Osland Melissa A.,4,M-Exempt,--D,1000,4174,2,0001540930,Common Stock
+A,12/13/2017 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,12.572,365,1,0001671232,Common Stock
+A,12/13/2017 00:00:00,SCALF THOMAS R,4,A-Award,--I,12.053,1512,1,0001603888,Common Stock
+A,12/13/2017 00:00:00,Lewis Richard Brent,4,A-Award,--I,6.895,385,1,0001718260,Common Stock
+A,12/13/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,29.858,5723,1,0001441791,Common Stock
+A,12/13/2017 00:00:00,Becker Amy C,4,A-Award,--I,9.954,563,1,0001615216,Common Stock
+A,12/04/2017 00:00:00,Cruz Pilar,4,A-Award,--D,1100,1100,2,0001723127,Employee Stock Option (right to buy)
+A,11/29/2017 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,12.649,353,1,0001671232,Common Stock
+A,11/29/2017 00:00:00,SCALF THOMAS R,4,A-Award,--I,13.914,1500,1,0001603888,Common Stock
+A,11/29/2017 00:00:00,Lewis Richard Brent,4,A-Award,--I,6.938,379,1,0001718260,Common Stock
+A,11/29/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,30.043,5693,1,0001441791,Common Stock
+A,11/29/2017 00:00:00,Becker Amy C,4,A-Award,--I,12.191,553,1,0001615216,Common Stock
+A,11/15/2017 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,13.297,340,1,0001671232,Common Stock
+A,11/15/2017 00:00:00,SCALF THOMAS R,4,A-Award,--I,14.627,1486,1,0001603888,Common Stock
+A,11/15/2017 00:00:00,Lewis Richard Brent,4,A-Award,--I,7.292,372,1,0001718260,Common Stock
+A,11/15/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,31.58,5663,1,0001441791,Common Stock
+A,11/15/2017 00:00:00,Becker Amy C,4,A-Award,--I,12.815,541,1,0001615216,Common Stock
+A,11/01/2017 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,12.914,327,1,0001671232,Common Stock
+A,11/01/2017 00:00:00,SCALF THOMAS R,4,A-Award,--I,14.205,1471,1,0001603888,Common Stock
+A,11/01/2017 00:00:00,Lewis Richard Brent,4,A-Award,--I,7.083,364,1,0001718260,Common Stock
+A,11/01/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,30.67,5632,1,0001441791,Common Stock
+A,11/01/2017 00:00:00,Becker Amy C,4,A-Award,--I,12.446,528,1,0001615216,Common Stock
+A,10/18/2017 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,13.079,314,1,0001671232,Common Stock
+A,10/18/2017 00:00:00,SCALF THOMAS R,4,A-Award,--I,14.387,1457,1,0001603888,Common Stock
+A,10/18/2017 00:00:00,Lewis Richard Brent,4,A-Award,--I,7.173,357,1,0001718260,Common Stock
+A,10/18/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,31.064,5601,1,0001441791,Common Stock
+A,10/18/2017 00:00:00,Becker Amy C,4,A-Award,--I,12.605,516,1,0001615216,Common Stock
+A,10/11/2017 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,285.347,301,1,0001671232,Common Stock
+A,10/11/2017 00:00:00,SCALF THOMAS R,4,A-Award,--I,380.665,1443,1,0001603888,Common Stock
+A,10/11/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,1260.938,5570,1,0001441791,Common Stock
+A,10/11/2017 00:00:00,Becker Amy C,4,A-Award,--I,245.505,503,1,0001615216,Common Stock
+A,10/04/2017 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,13.194,15,1,0001671232,Common Stock
+A,10/04/2017 00:00:00,SCALF THOMAS R,4,A-Award,--I,14.514,1062,1,0001603888,Common Stock
+A,10/04/2017 00:00:00,Lewis Richard Brent,4,A-Award,--I,7.236,350,1,0001718260,Common Stock
+A,10/04/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,31.337,4309,1,0001441791,Common Stock
+A,10/04/2017 00:00:00,Becker Amy C,4,A-Award,--I,0.8,258,1,0001615216,Common Stock
+A,09/22/2017 00:00:00,Lewis Richard Brent,4,A-Award,--D,8600,8600,4,0001718260,Emplyee Stock Option (right to buy)
+A,09/22/2017 00:00:00,Osland Melissa A.,4,A-Award,--D,2000,2000,3,0001540930,Employee Stock Option (right to buy)
+A,09/22/2017 00:00:00,Vermeersch Wim,4,A-Award,--D,9700,9700,2,0001538651,Emplyee Stock Option (right to buy)
+A,09/22/2017 00:00:00,Vermeersch Wim,4,A-Award,--D,509,14111,1,0001538651,Common Stock
+A,09/22/2017 00:00:00,Spethmann Jeffrey E,4,A-Award,--D,25800,25800,4,0001671232,Emplyee Stock Option (right to buy)
+A,09/22/2017 00:00:00,Spethmann Jeffrey E,4,A-Award,--I,2.103,2.103,1,0001671232,Common Stock
+A,09/22/2017 00:00:00,SCALF THOMAS R,4,A-Award,--D,25800,25800,5,0001603888,Emplyee Stock Option (right to buy)
+D,09/22/2017 00:00:00,SCALF THOMAS R,4,F-InKind,--D,424,7230,4,0001603888,Common Stock
+A,09/22/2017 00:00:00,SCALF THOMAS R,4,A-Award,--D,1260,7654,3,0001603888,Common Stock
+A,09/22/2017 00:00:00,SCALF THOMAS R,4,A-Award,--I,14.258,1048,1,0001603888,Common Stock
+A,09/22/2017 00:00:00,Robinson Scott J.,4,A-Award,--D,37600,37600,4,0001660452,Emplyee Stock Option (right to buy)
+A,09/22/2017 00:00:00,Kramer Sheila G.,4,A-Award,--D,15000,15000,4,0001655747,Emplyee Stock Option (right to buy)
+A,09/22/2017 00:00:00,Carpenter Tod E.,4,A-Award,--D,150500,150500,5,0001441791,Emplyee Stock Option (right to buy)
+D,09/22/2017 00:00:00,Carpenter Tod E.,4,F-InKind,--D,995,72627,4,0001441791,Common Stock
+A,09/22/2017 00:00:00,Carpenter Tod E.,4,A-Award,--D,2961,73622,3,0001441791,Common Stock
+A,09/22/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,30.398,4278,1,0001441791,Common Stock
+A,09/22/2017 00:00:00,Becker Amy C,4,A-Award,--D,21500,21500,5,0001615216,Emplyee Stock Option (right to buy)
+D,09/22/2017 00:00:00,Becker Amy C,4,F-InKind,--D,265,16276,4,0001615216,Common Stock
+A,09/22/2017 00:00:00,Becker Amy C,4,A-Award,--D,788,16541,3,0001615216,Common Stock
+D,09/21/2017 00:00:00,Carpenter Tod E.,4,F-InKind,--D,672,70661,3,0001441791,Common Stock
+D,09/20/2017 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,11000,0,5,0001441791,Employee Stock Option (right to buy)
+D,09/20/2017 00:00:00,Carpenter Tod E.,4,F-InKind,--D,7410,71333,4,0001441791,Common Stock
+A,09/20/2017 00:00:00,Carpenter Tod E.,4,M-Exempt,--D,11000,78743,3,0001441791,Common Stock
+D,09/11/2017 00:00:00,NODDLE JEFFREY,4,M-Exempt,--D,14400,0,3,0001180798,Employee Stock Option (right to buy)
+D,09/11/2017 00:00:00,NODDLE JEFFREY,4,F-InKind,--D,7548,106291,2,0001180798,Common Stock
+A,09/11/2017 00:00:00,NODDLE JEFFREY,4,M-Exempt,--D,14400,113839,1,0001180798,Common Stock
+A,09/06/2017 00:00:00,SCALF THOMAS R,4,A-Award,--I,14.03,1033,1,0001603888,Common Stock
+A,09/06/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,29.912,4247,1,0001441791,Common Stock
+A,08/23/2017 00:00:00,SCALF THOMAS R,4,A-Award,--I,5.124,1015,1,0001603888,Common Stock
+A,08/23/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,29.46,4201,1,0001441791,Common Stock
+A,08/10/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,29.739,4172,1,0001441791,Common Stock
+A,07/26/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,29.274,4142,1,0001441791,Common Stock
+A,07/11/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,30.285,4113,1,0001441791,Common Stock
+A,06/28/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,30.436,4083,1,0001441791,Common Stock
+D,06/20/2017 00:00:00,WIEHOFF JOHN,4,M-Exempt,--D,14400,0,3,0001241113,Employee Stock Option (right to buy)
+D,06/20/2017 00:00:00,WIEHOFF JOHN,4,S-Sale,--D,14400,44601,2,0001241113,Common Stock
+A,06/20/2017 00:00:00,WIEHOFF JOHN,4,M-Exempt,--D,14400,59001,1,0001241113,Common Stock
+D,06/19/2017 00:00:00,HOFFMAN MICHAEL J,4,M-Exempt,--D,14400,0,3,0001167147,Employee Stock Option (right to buy)
+D,06/19/2017 00:00:00,HOFFMAN MICHAEL J,4,S-Sale,--D,14400,27073,2,0001167147,Common Stock
+A,06/19/2017 00:00:00,HOFFMAN MICHAEL J,4,M-Exempt,--D,14400,41473,1,0001167147,Common Stock
+D,06/16/2017 00:00:00,Becker Amy C,4,M-Exempt,--D,6000,0,5,0001615216,Emplyee Stock Option (right to buy)
+D,06/16/2017 00:00:00,Becker Amy C,4,F-InKind,--D,3702,15753,4,0001615216,Common Stock
+A,06/16/2017 00:00:00,Becker Amy C,4,M-Exempt,--D,6000,19455,3,0001615216,Common Stock
+D,06/15/2017 00:00:00,Vermeersch Wim,4,M-Exempt,--D,1000,0,6,0001538651,Employee Stock Option (right to buy)
+D,06/15/2017 00:00:00,Vermeersch Wim,4,M-Exempt,--D,2000,0,5,0001538651,Employee Stock Option (right to buy)
+D,06/15/2017 00:00:00,Vermeersch Wim,4,F-InKind,--D,339,13602,4,0001538651,Common Stock
+A,06/15/2017 00:00:00,Vermeersch Wim,4,M-Exempt,--D,1000,13941,3,0001538651,Common Stock
+D,06/15/2017 00:00:00,Vermeersch Wim,4,F-InKind,--D,849,12941,2,0001538651,Common Stock
+A,06/15/2017 00:00:00,Vermeersch Wim,4,M-Exempt,--D,2000,13790,1,0001538651,Common Stock
+A,06/13/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,29.505,4037,1,0001441791,Common Stock
+A,05/31/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,29.163,4007,1,0001441791,Common Stock
+A,05/17/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,30.061,3978,1,0001441791,Common Stock
+A,05/03/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,29.732,3948,1,0001441791,Common Stock
+A,04/19/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,4.041,3918,1,0001441791,Common Stock
+A,03/13/2017 00:00:00,Spethmann Jeffrey E,4,P-Purchase,--D,675,12675,2,0001671232,Common Stock
+D,03/07/2017 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,14400,0,3,0001036295,Employee Stock Option (right to buy)
+D,03/07/2017 00:00:00,OBERTON WILLARD D,4,S-Sale,--D,14400,13657,2,0001036295,Common Stock
+A,03/07/2017 00:00:00,OBERTON WILLARD D,4,M-Exempt,--D,14400,28057,1,0001036295,Common Stock
+A,02/01/2017 00:00:00,Robinson Scott J.,4,A-Award,--I,110.827,110.827,1,0001660452,Common Stock
+A,02/01/2017 00:00:00,Kramer Sheila G.,4,A-Award,--I,6.688,6.688,1,0001655747,Common Stock
+A,02/01/2017 00:00:00,Carpenter Tod E.,4,A-Award,--I,121.298,3899,1,0001441791,Common Stock

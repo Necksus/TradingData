@@ -1,0 +1,481 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/13/2023 00:00:00,Stice Travis D.,4,S-Sale,--I,11600,23400,2,0001559933,Common Stock
+D,06/13/2023 00:00:00,Stice Travis D.,4,G-Gift,--I,35000,35000,1,0001559933,Common Stock
+D,06/13/2023 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,7500,164980,1,0001704666,Common Stock
+D,06/09/2023 00:00:00,Wesson Daniel N,4,S-Sale,--D,3000,65802,1,0001805429,Common Stock
+A,06/08/2023 00:00:00,Plaumann Mark Lawrence,4,A-Award,--I,1527,20165,1,0001290795,Common Stock
+A,06/08/2023 00:00:00,Trent Melanie Montague,4,A-Award,--D,1527,11605,1,0001343137,Common Stock
+A,06/08/2023 00:00:00,WEST STEVEN E,4,A-Award,--D,1527,13100,1,0001190898,Common Stock
+A,06/08/2023 00:00:00,Mains Stephanie K.,4,A-Award,--D,1527,8201,1,0001766980,Common Stock
+A,06/08/2023 00:00:00,KLEIN REBECCA A,4,A-Award,--D,1527,2695,1,0001488085,Common Stock
+A,06/08/2023 00:00:00,Tsuru Frank D.,4,A-Award,--D,1527,2695,1,0001936468,Common Stock
+A,06/08/2023 00:00:00,Houston David L,4,A-Award,--D,1527,19565,1,0001335995,Common Stock
+A,06/08/2023 00:00:00,Brooks Vincent K,4,A-Award,--D,1527,8201,1,0001809046,Common Stock
+D,05/28/2023 00:00:00,Wesson Daniel N,4,F-InKind,--D,2542,68802,1,0001805429,Common Stock
+D,05/28/2023 00:00:00,Zmigrosky Matt,4,F-InKind,--D,204,35998,1,0001767328,Common Stock
+D,05/28/2023 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,10164,172480,1,0001704666,Common Stock
+D,05/28/2023 00:00:00,Stice Travis D.,4,F-InKind,--I,1017,486242,1,0001559933,Common Stock
+D,05/28/2023 00:00:00,Dick Teresa L.,4,F-InKind,--D,570,74719,1,0001559931,Common Stock
+D,03/01/2023 00:00:00,Dick Teresa L.,4,F-InKind,--D,904,75289,6,0001559931,Common Stock
+D,03/01/2023 00:00:00,Dick Teresa L.,4,F-InKind,--D,905,76193,5,0001559931,Common Stock
+D,03/01/2023 00:00:00,Dick Teresa L.,4,F-InKind,--D,1522,77098,4,0001559931,Common Stock
+D,03/01/2023 00:00:00,Dick Teresa L.,4,F-InKind,--D,7556,78620,3,0001559931,Common Stock
+A,03/01/2023 00:00:00,Dick Teresa L.,4,A-Award,--D,17078,86176,2,0001559931,Common Stock
+A,03/01/2023 00:00:00,Dick Teresa L.,4,A-Award,--D,6144,69098,1,0001559931,Common Stock
+D,03/01/2023 00:00:00,Stice Travis D.,4,F-InKind,--I,3543,487259,6,0001559933,Common Stock
+D,03/01/2023 00:00:00,Stice Travis D.,4,F-InKind,--I,3632,490802,5,0001559933,Common Stock
+D,03/01/2023 00:00:00,Stice Travis D.,4,F-InKind,--I,4525,494434,4,0001559933,Common Stock
+D,03/01/2023 00:00:00,Stice Travis D.,4,F-InKind,--I,25202,498959,3,0001559933,Common Stock
+A,03/01/2023 00:00:00,Stice Travis D.,4,A-Award,--I,64045,524161,2,0001559933,Common Stock
+A,03/01/2023 00:00:00,Stice Travis D.,4,A-Award,--I,27006,460116,1,0001559933,Common Stock
+D,03/01/2023 00:00:00,Wesson Daniel N,4,F-InKind,--D,1163,71344,6,0001805429,Common Stock
+D,03/01/2023 00:00:00,Wesson Daniel N,4,F-InKind,--D,908,72507,5,0001805429,Common Stock
+D,03/01/2023 00:00:00,Wesson Daniel N,4,F-InKind,--D,1018,73415,4,0001805429,Common Stock
+D,03/01/2023 00:00:00,Wesson Daniel N,4,F-InKind,--D,5059,74433,3,0001805429,Common Stock
+A,03/01/2023 00:00:00,Wesson Daniel N,4,A-Award,--D,12809,79492,2,0001805429,Common Stock
+A,03/01/2023 00:00:00,Wesson Daniel N,4,A-Award,--D,8859,66683,1,0001805429,Common Stock
+D,03/01/2023 00:00:00,Zmigrosky Matt,4,F-InKind,--D,938,36202,6,0001767328,Common Stock
+D,03/01/2023 00:00:00,Zmigrosky Matt,4,F-InKind,--D,808,37140,5,0001767328,Common Stock
+D,03/01/2023 00:00:00,Zmigrosky Matt,4,F-InKind,--D,1087,37948,4,0001767328,Common Stock
+D,03/01/2023 00:00:00,Zmigrosky Matt,4,F-InKind,--D,5395,39035,3,0001767328,Common Stock
+A,03/01/2023 00:00:00,Zmigrosky Matt,4,A-Award,--D,13663,44430,2,0001767328,Common Stock
+A,03/01/2023 00:00:00,Zmigrosky Matt,4,A-Award,--D,7144,30767,1,0001767328,Common Stock
+D,03/01/2023 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,1594,182644,6,0001704666,Common Stock
+D,03/01/2023 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,1514,184238,5,0001704666,Common Stock
+D,03/01/2023 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,2376,185752,4,0001704666,Common Stock
+D,03/01/2023 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,11774,188128,3,0001704666,Common Stock
+A,03/01/2023 00:00:00,Van't Hof Matthew Kaes,4,A-Award,--D,29888,199902,2,0001704666,Common Stock
+A,03/01/2023 00:00:00,Van't Hof Matthew Kaes,4,A-Award,--D,12145,170014,1,0001704666,Common Stock
+D,12/21/2022 00:00:00,Zmigrosky Matt,4,S-Sale,--D,2012,23623,1,0001767328,Common Stock
+D,11/21/2022 00:00:00,Stice Travis D.,5,G-Gift,--I,6500,433110,2,0001559933,Common Stock
+A,08/24/2022 00:00:00,Soliman Jennifer,4,A-Award,--D,1483,10989,1,0001728310,Common Stock
+A,08/24/2022 00:00:00,Hawkins Thomas F.,5,A-Award,-LD,4939,18734,1,0001704699,Common Stock
+A,08/24/2022 00:00:00,Wesson Daniel N,5,A-Award,-LD,24134,57824,1,0001805429,Common Stock
+A,08/24/2022 00:00:00,Dick Teresa L.,4,A-Award,--D,5646,62954,1,0001559931,Common Stock
+A,08/24/2022 00:00:00,Stice Travis D.,4,A-Award,--I,20113,448610,1,0001559933,Common Stock
+A,08/24/2022 00:00:00,WEST STEVEN E,4,A-Award,--D,4108,11573,1,0001190898,Common Stock
+A,08/24/2022 00:00:00,Van't Hof Matthew Kaes,4,A-Award,--D,97635,158969,1,0001704666,Common Stock
+A,08/24/2022 00:00:00,Zmigrosky Matt,4,A-Award,--D,2315,25635,1,0001767328,Common Stock
+D,08/16/2022 00:00:00,Stice Travis D.,5,G-Gift,--I,9000,439610,1,0001559933,Common Stock
+A,07/11/2022 00:00:00,KLEIN REBECCA A,4,A-Award,--D,1168,1168,1,0001488085,Common Stock
+A,07/11/2022 00:00:00,Tsuru Frank D.,4,A-Award,--D,1168,1168,1,0001936468,Common Stock
+A,06/09/2022 00:00:00,Houston David L,4,A-Award,--D,1274,18038,1,0001335995,Common Stock
+A,06/09/2022 00:00:00,Trent Melanie Montague,4,A-Award,--D,1274,10078,1,0001343137,Common Stock
+A,06/09/2022 00:00:00,Plaumann Mark Lawrence,4,A-Award,--I,1274,18638,1,0001290795,Common Stock
+A,06/09/2022 00:00:00,Mains Stephanie K.,4,A-Award,--D,1274,6674,1,0001766980,Common Stock
+A,06/09/2022 00:00:00,WEST STEVEN E,4,A-Award,--D,1274,7465,1,0001190898,Common Stock
+A,06/09/2022 00:00:00,Brooks Vincent K,4,A-Award,--D,1274,6674,1,0001809046,Common Stock
+A,06/09/2022 00:00:00,Cross Michael P,4,A-Award,--I,1274,13538,1,0001373410,Common Stock
+D,06/07/2022 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,6000,61334,1,0001704666,Common Stock
+D,05/27/2022 00:00:00,Stice Travis D.,4,S-Sale,--I,30000,428497,1,0001559933,Common Stock
+D,05/27/2022 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,6000,67334,1,0001704666,Common Stock
+D,05/27/2022 00:00:00,Dick Teresa L.,4,S-Sale,--D,2500,57308,1,0001559931,Common Stock
+D,04/04/2022 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,6000,73334,1,0001704666,Common Stock
+D,03/21/2022 00:00:00,Van't Hof Matthew Kaes,5,G-Gift,--D,1100,157869,1,0001704666,Common Stock
+D,03/21/2022 00:00:00,Dick Teresa L.,4,S-Sale,--D,2500,59808,1,0001559931,Common Stock
+D,03/07/2022 00:00:00,Soliman Jennifer,4,S-Sale,--D,2100,9506,1,0001728310,Common Stock
+D,03/04/2022 00:00:00,Zmigrosky Matt,4,S-Sale,--D,3000,23320,1,0001767328,Common Stock
+D,03/03/2022 00:00:00,Wesson Daniel N,4,S-Sale,--D,3500,33690,7,0001805429,Common Stock
+D,03/02/2022 00:00:00,Hawkins Thomas F.,4,S-Sale,--D,5516,13795,8,0001704699,Common Stock
+D,03/02/2022 00:00:00,Hawkins Thomas F.,4,S-Sale,--D,2484,19311,7,0001704699,Common Stock
+D,03/01/2022 00:00:00,Soliman Jennifer,4,F-InKind,--D,404,11606,6,0001728310,Common Stock
+D,03/01/2022 00:00:00,Soliman Jennifer,4,F-InKind,--D,510,12010,5,0001728310,Common Stock
+D,03/01/2022 00:00:00,Soliman Jennifer,4,F-InKind,--D,584,12520,4,0001728310,Common Stock
+D,03/01/2022 00:00:00,Soliman Jennifer,4,F-InKind,--D,1068,13104,3,0001728310,Common Stock
+A,03/01/2022 00:00:00,Soliman Jennifer,4,A-Award,--D,2637,14172,2,0001728310,Common Stock
+A,03/01/2022 00:00:00,Soliman Jennifer,4,A-Award,--D,3076,11535,1,0001728310,Common Stock
+D,03/01/2022 00:00:00,Cross Michael P,4,S-Sale,--I,4000,12264,1,0001373410,Common Stock
+D,03/01/2022 00:00:00,Dick Teresa L.,4,F-InKind,--D,905,62308,6,0001559931,Common Stock
+D,03/01/2022 00:00:00,Dick Teresa L.,4,F-InKind,--D,1522,63213,5,0001559931,Common Stock
+D,03/01/2022 00:00:00,Dick Teresa L.,4,F-InKind,--D,1744,64735,4,0001559931,Common Stock
+D,03/01/2022 00:00:00,Dick Teresa L.,4,F-InKind,--D,5841,66479,3,0001559931,Common Stock
+A,03/01/2022 00:00:00,Dick Teresa L.,4,A-Award,--D,6152,72320,2,0001559931,Common Stock
+A,03/01/2022 00:00:00,Dick Teresa L.,4,A-Award,--D,13183,66168,1,0001559931,Common Stock
+D,03/01/2022 00:00:00,Wesson Daniel N,4,F-InKind,--D,908,37190,6,0001805429,Common Stock
+D,03/01/2022 00:00:00,Wesson Daniel N,4,F-InKind,--D,1018,38098,5,0001805429,Common Stock
+D,03/01/2022 00:00:00,Wesson Daniel N,4,F-InKind,--D,1167,39116,4,0001805429,Common Stock
+D,03/01/2022 00:00:00,Wesson Daniel N,4,F-InKind,--D,2361,40283,3,0001805429,Common Stock
+A,03/01/2022 00:00:00,Wesson Daniel N,4,A-Award,--D,5932,42644,2,0001805429,Common Stock
+A,03/01/2022 00:00:00,Wesson Daniel N,4,A-Award,--D,6921,36712,1,0001805429,Common Stock
+D,03/01/2022 00:00:00,Hawkins Thomas F.,4,F-InKind,--D,473,21795,6,0001704699,Common Stock
+D,03/01/2022 00:00:00,Hawkins Thomas F.,4,F-InKind,--D,883,22268,5,0001704699,Common Stock
+D,03/01/2022 00:00:00,Hawkins Thomas F.,4,F-InKind,--D,1011,23151,4,0001704699,Common Stock
+D,03/01/2022 00:00:00,Hawkins Thomas F.,4,F-InKind,--D,2897,24162,3,0001704699,Common Stock
+A,03/01/2022 00:00:00,Hawkins Thomas F.,4,A-Award,--D,3599,27059,2,0001704699,Common Stock
+A,03/01/2022 00:00:00,Hawkins Thomas F.,4,A-Award,--D,8569,23460,1,0001704699,Common Stock
+D,03/01/2022 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,1514,79334,6,0001704666,Common Stock
+D,03/01/2022 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,2376,80848,5,0001704666,Common Stock
+D,03/01/2022 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,2723,83224,4,0001704666,Common Stock
+D,03/01/2022 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,9101,85947,3,0001704666,Common Stock
+A,03/01/2022 00:00:00,Van't Hof Matthew Kaes,4,A-Award,--D,11535,95048,2,0001704666,Common Stock
+A,03/01/2022 00:00:00,Van't Hof Matthew Kaes,4,A-Award,--D,23070,83513,1,0001704666,Common Stock
+D,03/01/2022 00:00:00,Zmigrosky Matt,4,F-InKind,--D,808,26320,6,0001767328,Common Stock
+D,03/01/2022 00:00:00,Zmigrosky Matt,4,F-InKind,--D,1087,27128,5,0001767328,Common Stock
+D,03/01/2022 00:00:00,Zmigrosky Matt,4,F-InKind,--D,1245,28215,4,0001767328,Common Stock
+D,03/01/2022 00:00:00,Zmigrosky Matt,4,F-InKind,--D,4173,29460,3,0001767328,Common Stock
+A,03/01/2022 00:00:00,Zmigrosky Matt,4,A-Award,--D,6152,33633,2,0001767328,Common Stock
+A,03/01/2022 00:00:00,Zmigrosky Matt,4,A-Award,--D,10546,27481,1,0001767328,Common Stock
+D,03/01/2022 00:00:00,Stice Travis D.,4,F-InKind,--I,3632,458497,6,0001559933,Common Stock
+D,03/01/2022 00:00:00,Stice Travis D.,4,F-InKind,--I,4526,462129,5,0001559933,Common Stock
+D,03/01/2022 00:00:00,Stice Travis D.,4,F-InKind,--I,5834,466655,4,0001559933,Common Stock
+D,03/01/2022 00:00:00,Stice Travis D.,4,F-InKind,--I,19453,472489,3,0001559933,Common Stock
+A,03/01/2022 00:00:00,Stice Travis D.,4,A-Award,--I,27683,491942,2,0001559933,Common Stock
+A,03/01/2022 00:00:00,Stice Travis D.,4,A-Award,--I,49436,464259,1,0001559933,Common Stock
+D,12/21/2021 00:00:00,Stice Travis D.,5,G-Gift,--I,3000,414823,1,0001559933,Common Stock
+D,12/08/2021 00:00:00,Zmigrosky Matt,4,S-Sale,--D,1710,16935,1,0001767328,Common Stock
+D,12/07/2021 00:00:00,Pantermuehl Russell,4,S-Sale,--D,10000,123419,1,0001559934,Common Stock
+D,12/01/2021 00:00:00,Wesson Daniel N,4,S-Sale,--D,2400,29791,1,0001805429,Common Stock
+D,11/08/2021 00:00:00,WEST STEVEN E,4,S-Sale,--D,8500,6191,1,0001190898,Common Stock
+D,11/08/2021 00:00:00,Cross Michael P,4,S-Sale,--I,3000,16264,1,0001373410,Common Stock
+D,11/08/2021 00:00:00,Dick Teresa L.,4,S-Sale,--D,2500,52985,3,0001559931,Common Stock
+D,11/08/2021 00:00:00,Dick Teresa L.,4,S-Sale,--D,2500,55485,2,0001559931,Common Stock
+D,11/05/2021 00:00:00,Dick Teresa L.,4,S-Sale,--D,2500,57985,1,0001559931,Common Stock
+D,11/04/2021 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,5500,60443,1,0001704666,Common Stock
+D,07/01/2021 00:00:00,Stice Travis D.,4,S-Sale,--I,40000,417823,1,0001559933,Common Stock
+D,06/08/2021 00:00:00,Dick Teresa L.,4,S-Sale,--D,2500,60485,2,0001559931,Common Stock
+D,06/08/2021 00:00:00,Dick Teresa L.,4,S-Sale,--D,2500,62985,1,0001559931,Common Stock
+D,06/08/2021 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,1100,65943,1,0001704666,Common Stock
+A,06/03/2021 00:00:00,Cross Michael P,4,A-Award,--I,2435,19264,1,0001373410,Common Stock
+A,06/03/2021 00:00:00,Plaumann Mark Lawrence,4,A-Award,--I,2435,17364,1,0001290795,Common Stock
+A,06/03/2021 00:00:00,Mains Stephanie K.,4,A-Award,--D,2435,5400,1,0001766980,Common Stock
+A,06/03/2021 00:00:00,Brooks Vincent K,4,A-Award,--D,2435,5400,1,0001809046,Common Stock
+A,06/03/2021 00:00:00,Trent Melanie Montague,4,A-Award,--D,2435,8804,1,0001343137,Common Stock
+A,06/03/2021 00:00:00,WEST STEVEN E,4,A-Award,--D,2435,14691,1,0001190898,Common Stock
+A,06/03/2021 00:00:00,Houston David L,4,A-Award,--D,2435,16764,1,0001335995,Common Stock
+D,06/01/2021 00:00:00,Stice Travis D.,4,S-Sale,--I,20000,457823,1,0001559933,Common Stock
+D,05/12/2021 00:00:00,Hawkins Thomas F.,4,S-Sale,--D,7500,14891,1,0001704699,Common Stock
+D,05/05/2021 00:00:00,Stice Travis D.,4,S-Sale,--I,20000,477823,1,0001559933,Common Stock
+D,04/29/2021 00:00:00,Stice Travis D.,4,S-Sale,--I,20000,497823,1,0001559933,Common Stock
+D,03/19/2021 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,1900,67043,1,0001704666,Common Stock
+D,03/08/2021 00:00:00,Hawkins Thomas F.,4,S-Sale,--D,10000,22391,1,0001704699,Common Stock
+D,03/05/2021 00:00:00,Cross Michael P,4,S-Sale,--I,3000,16829,1,0001373410,Common Stock
+D,03/01/2021 00:00:00,Wesson Daniel N,4,F-InKind,--D,520,32191,6,0001805429,Common Stock
+D,03/01/2021 00:00:00,Wesson Daniel N,4,F-InKind,--D,1019,32711,5,0001805429,Common Stock
+D,03/01/2021 00:00:00,Wesson Daniel N,4,F-InKind,--D,1167,33730,4,0001805429,Common Stock
+D,03/01/2021 00:00:00,Wesson Daniel N,4,F-InKind,--D,1806,34897,3,0001805429,Common Stock
+A,03/01/2021 00:00:00,Wesson Daniel N,4,A-Award,--D,4462,36703,2,0001805429,Common Stock
+A,03/01/2021 00:00:00,Wesson Daniel N,4,A-Award,--D,7762,32241,1,0001805429,Common Stock
+D,03/01/2021 00:00:00,Zmigrosky Matt,4,F-InKind,--D,964,18645,4,0001767328,Common Stock
+D,03/01/2021 00:00:00,Zmigrosky Matt,4,F-InKind,--D,1087,19609,3,0001767328,Common Stock
+D,03/01/2021 00:00:00,Zmigrosky Matt,4,F-InKind,--D,1245,20696,2,0001767328,Common Stock
+A,03/01/2021 00:00:00,Zmigrosky Matt,4,A-Award,--D,8280,21941,1,0001767328,Common Stock
+D,03/01/2021 00:00:00,Pantermuehl Russell,4,F-InKind,--D,2018,133419,7,0001559934,Common Stock
+D,03/01/2021 00:00:00,Pantermuehl Russell,4,F-InKind,--D,2376,135437,6,0001559934,Common Stock
+D,03/01/2021 00:00:00,Pantermuehl Russell,4,F-InKind,--D,2723,137813,5,0001559934,Common Stock
+D,03/01/2021 00:00:00,Pantermuehl Russell,4,F-InKind,--D,6774,140536,4,0001559934,Common Stock
+D,03/01/2021 00:00:00,Pantermuehl Russell,4,S-Sale,--D,10000,147310,3,0001559934,Common Stock
+A,03/01/2021 00:00:00,Pantermuehl Russell,4,A-Award,--D,17134,157310,2,0001559934,Common Stock
+A,03/01/2021 00:00:00,Pantermuehl Russell,4,A-Award,--D,18112,140176,1,0001559934,Common Stock
+D,03/01/2021 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,2018,68943,6,0001704666,Common Stock
+D,03/01/2021 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,2376,70961,5,0001704666,Common Stock
+D,03/01/2021 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,2675,73337,4,0001704666,Common Stock
+D,03/01/2021 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,2723,76012,3,0001704666,Common Stock
+A,03/01/2021 00:00:00,Van't Hof Matthew Kaes,4,A-Award,--D,6693,78735,2,0001704666,Common Stock
+A,03/01/2021 00:00:00,Van't Hof Matthew Kaes,4,A-Award,--D,18112,72042,1,0001704666,Common Stock
+D,03/01/2021 00:00:00,Stice Travis D.,4,F-InKind,--I,4323,517823,6,0001559933,Common Stock
+D,03/01/2021 00:00:00,Stice Travis D.,4,F-InKind,--I,4526,522146,5,0001559933,Common Stock
+D,03/01/2021 00:00:00,Stice Travis D.,4,F-InKind,--I,5834,526672,4,0001559933,Common Stock
+D,03/01/2021 00:00:00,Stice Travis D.,4,F-InKind,--I,13431,532506,3,0001559933,Common Stock
+A,03/01/2021 00:00:00,Stice Travis D.,4,A-Award,--I,34133,545937,2,0001559933,Common Stock
+A,03/01/2021 00:00:00,Stice Travis D.,4,A-Award,--I,34499,511804,1,0001559933,Common Stock
+D,03/01/2021 00:00:00,Soliman Jennifer,4,F-InKind,--D,262,8459,4,0001728310,Common Stock
+D,03/01/2021 00:00:00,Soliman Jennifer,4,F-InKind,--D,510,8721,3,0001728310,Common Stock
+D,03/01/2021 00:00:00,Soliman Jennifer,4,F-InKind,--D,609,9231,2,0001728310,Common Stock
+A,03/01/2021 00:00:00,Soliman Jennifer,4,A-Award,--D,3881,9840,1,0001728310,Common Stock
+D,03/01/2021 00:00:00,Hawkins Thomas F.,4,F-InKind,--D,750,32391,6,0001704699,Common Stock
+D,03/01/2021 00:00:00,Hawkins Thomas F.,4,F-InKind,--D,883,33141,5,0001704699,Common Stock
+D,03/01/2021 00:00:00,Hawkins Thomas F.,4,F-InKind,--D,1012,34024,4,0001704699,Common Stock
+D,03/01/2021 00:00:00,Hawkins Thomas F.,4,F-InKind,--D,2587,35036,3,0001704699,Common Stock
+A,03/01/2021 00:00:00,Hawkins Thomas F.,4,A-Award,--D,6425,37623,2,0001704699,Common Stock
+A,03/01/2021 00:00:00,Hawkins Thomas F.,4,A-Award,--D,6727,31198,1,0001704699,Common Stock
+D,03/01/2021 00:00:00,Dick Teresa L.,4,F-InKind,--D,1300,65485,6,0001559931,Common Stock
+D,03/01/2021 00:00:00,Dick Teresa L.,4,F-InKind,--D,1531,66785,5,0001559931,Common Stock
+D,03/01/2021 00:00:00,Dick Teresa L.,4,F-InKind,--D,1754,68316,4,0001559931,Common Stock
+D,03/01/2021 00:00:00,Dick Teresa L.,4,F-InKind,--D,4206,70070,3,0001559931,Common Stock
+A,03/01/2021 00:00:00,Dick Teresa L.,4,A-Award,--D,9370,74276,2,0001559931,Common Stock
+A,03/01/2021 00:00:00,Dick Teresa L.,4,A-Award,--D,10350,64906,1,0001559931,Common Stock
+D,02/25/2021 00:00:00,Pantermuehl Russell,4,S-Sale,--D,10000,122064,1,0001559934,Common Stock
+D,09/03/2020 00:00:00,Wesson Daniel N,4,F-InKind,--D,368,24479,1,0001805429,Common Stock
+A,06/19/2020 00:00:00,Van't Hof Matthew Kaes,4,P-Purchase,--D,1800,53930,1,0001704666,Common Stock
+A,06/03/2020 00:00:00,Brooks Vincent K,4,A-Award,--D,2965,2965,1,0001809046,Common Stock
+A,06/03/2020 00:00:00,Mains Stephanie K.,4,A-Award,--D,2965,2965,1,0001766980,Common Stock
+A,06/03/2020 00:00:00,Trent Melanie Montague,4,A-Award,--D,2965,6369,1,0001343137,Common Stock
+A,06/03/2020 00:00:00,Cross Michael P,4,A-Award,--I,2965,19829,1,0001373410,Common Stock
+A,06/03/2020 00:00:00,Houston David L,4,A-Award,--D,2965,14329,1,0001335995,Common Stock
+A,06/03/2020 00:00:00,Plaumann Mark Lawrence,4,A-Award,--I,2965,14929,1,0001290795,Common Stock
+A,06/03/2020 00:00:00,WEST STEVEN E,4,A-Award,--D,2965,12256,1,0001190898,Common Stock
+A,03/19/2020 00:00:00,Van't Hof Matthew Kaes,4,P-Purchase,--D,4750,52130,1,0001704666,Common Stock
+A,03/10/2020 00:00:00,Stice Travis D.,4,P-Purchase,--I,17146,477305,1,0001559933,Common Stock
+D,03/01/2020 00:00:00,Soliman Jennifer,4,F-InKind,--D,261,5959,3,0001728310,Common Stock
+D,03/01/2020 00:00:00,Soliman Jennifer,4,F-InKind,--D,573,6220,2,0001728310,Common Stock
+A,03/01/2020 00:00:00,Soliman Jennifer,4,A-Award,--D,4448,6793,1,0001728310,Common Stock
+D,03/01/2020 00:00:00,Wesson Daniel N,4,F-InKind,--D,391,24847,3,0001805429,Common Stock
+D,03/01/2020 00:00:00,Wesson Daniel N,4,F-InKind,--D,714,25238,2,0001805429,Common Stock
+A,03/01/2020 00:00:00,Wesson Daniel N,4,A-Award,--D,8895,25952,1,0001805429,Common Stock
+D,03/01/2020 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,2018,47380,3,0001704666,Common Stock
+D,03/01/2020 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,2723,49398,2,0001704666,Common Stock
+A,03/01/2020 00:00:00,Van't Hof Matthew Kaes,4,A-Award,--D,20756,52121,1,0001704666,Common Stock
+D,03/01/2020 00:00:00,Dick Teresa L.,4,F-InKind,--D,1300,54556,3,0001559931,Common Stock
+D,03/01/2020 00:00:00,Dick Teresa L.,4,F-InKind,--D,1754,55856,2,0001559931,Common Stock
+A,03/01/2020 00:00:00,Dick Teresa L.,4,A-Award,--D,11860,57610,1,0001559931,Common Stock
+D,03/01/2020 00:00:00,Pantermuehl Russell,4,F-InKind,--D,2018,132064,3,0001559934,Common Stock
+D,03/01/2020 00:00:00,Pantermuehl Russell,4,F-InKind,--D,2723,134082,2,0001559934,Common Stock
+A,03/01/2020 00:00:00,Pantermuehl Russell,4,A-Award,--D,20756,136805,1,0001559934,Common Stock
+D,03/01/2020 00:00:00,Stice Travis D.,4,F-InKind,--I,4323,460159,3,0001559933,Common Stock
+D,03/01/2020 00:00:00,Stice Travis D.,4,F-InKind,--I,5835,464482,2,0001559933,Common Stock
+A,03/01/2020 00:00:00,Stice Travis D.,4,A-Award,--I,44476,470317,1,0001559933,Common Stock
+D,03/01/2020 00:00:00,Hawkins Thomas F.,4,F-InKind,--D,750,24471,3,0001704699,Common Stock
+D,03/01/2020 00:00:00,Hawkins Thomas F.,4,F-InKind,--D,1012,25221,2,0001704699,Common Stock
+A,03/01/2020 00:00:00,Hawkins Thomas F.,4,A-Award,--D,7709,26233,1,0001704699,Common Stock
+D,03/01/2020 00:00:00,Zmigrosky Matt,4,F-InKind,--D,980,13661,3,0001767328,Common Stock
+D,03/01/2020 00:00:00,Zmigrosky Matt,4,F-InKind,--D,1245,14641,2,0001767328,Common Stock
+A,03/01/2020 00:00:00,Zmigrosky Matt,4,A-Award,--D,9488,15886,1,0001767328,Common Stock
+D,02/21/2020 00:00:00,Soliman Jennifer,4,F-InKind,--D,279,2345,1,0001728310,Common Stock
+D,02/21/2020 00:00:00,Hawkins Thomas F.,4,F-InKind,--D,504,18524,3,0001704699,Common Stock
+D,02/21/2020 00:00:00,Hawkins Thomas F.,4,F-InKind,--D,2958,19028,2,0001704699,Common Stock
+A,02/21/2020 00:00:00,Hawkins Thomas F.,4,A-Award,--D,7371,21986,1,0001704699,Common Stock
+D,02/21/2020 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,525,31365,3,0001704666,Common Stock
+D,02/21/2020 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,2946,31890,2,0001704666,Common Stock
+A,02/21/2020 00:00:00,Van't Hof Matthew Kaes,4,A-Award,--D,7371,34836,1,0001704666,Common Stock
+D,02/21/2020 00:00:00,Stice Travis D.,4,F-InKind,--I,2675,425841,3,0001559933,Common Stock
+D,02/21/2020 00:00:00,Stice Travis D.,4,F-InKind,--I,16527,428516,2,0001559933,Common Stock
+A,02/21/2020 00:00:00,Stice Travis D.,4,A-Award,--I,42015,445043,1,0001559933,Common Stock
+D,02/21/2020 00:00:00,Dick Teresa L.,4,F-InKind,--D,828,45750,3,0001559931,Common Stock
+D,02/21/2020 00:00:00,Dick Teresa L.,4,F-InKind,--D,4956,46578,2,0001559931,Common Stock
+A,02/21/2020 00:00:00,Dick Teresa L.,4,A-Award,--D,11057,51534,1,0001559931,Common Stock
+D,02/21/2020 00:00:00,Pantermuehl Russell,4,F-InKind,--D,1343,116049,3,0001559934,Common Stock
+D,02/21/2020 00:00:00,Pantermuehl Russell,4,F-InKind,--D,6828,117392,2,0001559934,Common Stock
+A,02/21/2020 00:00:00,Pantermuehl Russell,4,A-Award,--D,22113,124220,1,0001559934,Common Stock
+D,09/17/2019 00:00:00,Cross Michael P,4,S-Sale,--I,1000,16864,1,0001373410,Common Stock
+D,09/17/2019 00:00:00,Pantermuehl Russell,4,S-Sale,--D,3000,102107,1,0001559934,Common Stock
+D,09/16/2019 00:00:00,Hollis Michael L.,4,S-Sale,--I,2000,138414,1,0001559864,Common Stock
+D,09/16/2019 00:00:00,HOLDER RANDALL J,4,S-Sale,--D,3000,8448,1,0001196107,Common Stock
+D,09/10/2019 00:00:00,Pantermuehl Russell,4,S-Sale,--D,5000,105107,1,0001559934,Common Stock
+D,08/21/2019 00:00:00,Pantermuehl Russell,4,S-Sale,--D,2000,110107,1,0001559934,Common Stock
+D,08/19/2019 00:00:00,HOLDER RANDALL J,4,S-Sale,--D,3000,11448,1,0001196107,Common Stock
+A,08/09/2019 00:00:00,Stice Travis D.,4,P-Purchase,--I,4186,407789,1,0001559933,Common Stock
+D,06/20/2019 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,1500,27465,1,0001704666,Common Stock
+D,06/20/2019 00:00:00,Pantermuehl Russell,4,S-Sale,--D,5000,112107,1,0001559934,Common Stock
+A,06/06/2019 00:00:00,Plaumann Mark Lawrence,4,A-Award,--I,1830,11964,1,0001290795,Common Stock
+A,06/06/2019 00:00:00,Trent Melanie Montague,4,A-Award,--D,1830,3404,1,0001343137,Common Stock
+A,06/06/2019 00:00:00,WEST STEVEN E,4,A-Award,--D,1830,9291,2,0001190898,Common Stock
+A,06/06/2019 00:00:00,Cross Michael P,4,A-Award,--I,1830,17864,1,0001373410,Common Stock
+A,06/06/2019 00:00:00,Houston David L,4,A-Award,--D,1830,11364,1,0001335995,Common Stock
+D,05/21/2019 00:00:00,Pantermuehl Russell,4,S-Sale,--D,5000,117107,1,0001559934,Common Stock
+D,03/18/2019 00:00:00,HOLDER RANDALL J,4,S-Sale,--D,4000,14448,1,0001196107,Common Stock
+D,03/14/2019 00:00:00,Soliman Jennifer,4,S-Sale,--D,350,2624,1,0001728310,Common Stock
+D,03/13/2019 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,1700,28965,1,0001704666,Common Stock
+A,03/08/2019 00:00:00,Hollis Michael L.,4,P-Purchase,--I,5313,140414,1,0001559864,Common Stock
+D,03/05/2019 00:00:00,Stice Travis D.,5,G-Gift,--I,4761,403028,1,0001559933,Common Stock
+D,03/01/2019 00:00:00,Pantermuehl Russell,4,F-InKind,--D,2018,122107,2,0001559934,Common Stock
+A,03/01/2019 00:00:00,Pantermuehl Russell,4,A-Award,--D,15381,124125,1,0001559934,Common Stock
+D,03/01/2019 00:00:00,Soliman Jennifer,4,F-InKind,--D,157,2974,2,0001728310,Common Stock
+A,03/01/2019 00:00:00,Soliman Jennifer,4,A-Award,--D,1758,3131,1,0001728310,Common Stock
+D,03/01/2019 00:00:00,Hollis Michael L.,4,F-InKind,--I,2306,135101,2,0001559864,Common Stock
+A,03/01/2019 00:00:00,Hollis Michael L.,4,A-Award,--I,17577,137407,1,0001559864,Common Stock
+D,03/01/2019 00:00:00,Hawkins Thomas F.,4,F-InKind,--D,464,14615,2,0001704699,Common Stock
+A,03/01/2019 00:00:00,Hawkins Thomas F.,4,A-Award,--D,5715,15079,1,0001704699,Common Stock
+D,03/01/2019 00:00:00,Dick Teresa L.,4,F-InKind,--D,1300,40477,2,0001559931,Common Stock
+A,03/01/2019 00:00:00,Dick Teresa L.,4,A-Award,--D,8790,41777,1,0001559931,Common Stock
+D,03/01/2019 00:00:00,Zmigrosky Matt,4,F-InKind,--D,634,6398,2,0001767328,Common Stock
+A,03/01/2019 00:00:00,Zmigrosky Matt,4,A-Award,--D,7032,7032,1,0001767328,Common Stock
+D,03/01/2019 00:00:00,HOLDER RANDALL J,4,F-InKind,--D,1138,18448,2,0001196107,Common Stock
+A,03/01/2019 00:00:00,HOLDER RANDALL J,4,A-Award,--D,2564,19586,1,0001196107,Common Stock
+D,03/01/2019 00:00:00,Stice Travis D.,4,F-InKind,--I,4323,403603,2,0001559933,Common Stock
+A,03/01/2019 00:00:00,Stice Travis D.,4,A-Award,--I,32958,407926,1,0001559933,Common Stock
+A,03/01/2019 00:00:00,Van't Hof Matthew Kaes,4,A-Award,--D,8790,30665,3,0001704666,Common Stock
+D,03/01/2019 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,1533,21875,2,0001704666,Common Stock
+A,03/01/2019 00:00:00,Van't Hof Matthew Kaes,4,A-Award,--D,15381,23408,1,0001704666,Common Stock
+D,03/01/2019 00:00:00,Molnar Paul,4,F-InKind,--D,1730,63037,2,0001559840,Common Stock
+A,03/01/2019 00:00:00,Molnar Paul,4,A-Award,--D,13184,64767,1,0001559840,Common Stock
+D,02/22/2019 00:00:00,Pantermuehl Russell,4,F-InKind,--D,1343,108744,6,0001559934,Common Stock
+D,02/22/2019 00:00:00,Pantermuehl Russell,4,F-InKind,--D,1535,110087,5,0001559934,Common Stock
+D,02/22/2019 00:00:00,Pantermuehl Russell,4,F-InKind,--D,8018,111622,4,0001559934,Common Stock
+D,02/22/2019 00:00:00,Pantermuehl Russell,4,F-InKind,--D,4604,119640,3,0001559934,Common Stock
+D,02/22/2019 00:00:00,HOLDER RANDALL J,4,F-InKind,--D,573,17022,6,0001196107,Common Stock
+D,02/22/2019 00:00:00,HOLDER RANDALL J,4,F-InKind,--D,828,17595,5,0001196107,Common Stock
+D,02/22/2019 00:00:00,HOLDER RANDALL J,4,F-InKind,--D,1800,18423,4,0001196107,Common Stock
+D,02/22/2019 00:00:00,HOLDER RANDALL J,4,F-InKind,--D,2321,20223,3,0001196107,Common Stock
+D,02/22/2019 00:00:00,Hawkins Thomas F.,4,F-InKind,--D,312,9364,4,0001704699,Common Stock
+D,02/22/2019 00:00:00,Hawkins Thomas F.,4,F-InKind,--D,359,9676,3,0001704699,Common Stock
+D,02/22/2019 00:00:00,Hawkins Thomas F.,4,F-InKind,--D,948,10035,2,0001704699,Common Stock
+D,02/22/2019 00:00:00,Molnar Paul,4,F-InKind,--D,1259,51583,6,0001559840,Common Stock
+D,02/22/2019 00:00:00,Molnar Paul,4,F-InKind,--D,1535,52842,5,0001559840,Common Stock
+D,02/22/2019 00:00:00,Molnar Paul,4,F-InKind,--D,3296,54377,4,0001559840,Common Stock
+D,02/22/2019 00:00:00,Molnar Paul,4,F-InKind,--D,4604,57673,3,0001559840,Common Stock
+D,02/22/2019 00:00:00,Dick Teresa L.,4,F-InKind,--D,828,32987,6,0001559931,Common  Stock
+D,02/22/2019 00:00:00,Dick Teresa L.,4,F-InKind,--D,573,33815,5,0001559931,Common  Stock
+D,02/22/2019 00:00:00,Dick Teresa L.,4,F-InKind,--D,1800,34388,4,0001559931,Common  Stock
+D,02/22/2019 00:00:00,Dick Teresa L.,4,F-InKind,--D,2321,36188,3,0001559931,Common  Stock
+D,02/22/2019 00:00:00,Stice Travis D.,4,F-InKind,--I,2675,374968,6,0001559933,Common  Stock
+D,02/22/2019 00:00:00,Stice Travis D.,4,F-InKind,--I,2916,377643,5,0001559933,Common  Stock
+D,02/22/2019 00:00:00,Stice Travis D.,4,F-InKind,--I,34012,380559,4,0001559933,Common  Stock
+D,02/22/2019 00:00:00,Stice Travis D.,4,F-InKind,--I,8748,414571,3,0001559933,Common  Stock
+D,02/22/2019 00:00:00,Hollis Michael L.,4,F-InKind,--I,1553,119830,6,0001559864,Common  Stock
+D,02/22/2019 00:00:00,Hollis Michael L.,4,F-InKind,--I,1791,121383,5,0001559864,Common  Stock
+D,02/22/2019 00:00:00,Hollis Michael L.,4,F-InKind,--I,10382,123174,4,0001559864,Common  Stock
+D,02/22/2019 00:00:00,Hollis Michael L.,4,F-InKind,--I,5372,133556,3,0001559864,Common  Stock
+D,02/22/2019 00:00:00,Soliman Jennifer,4,F-InKind,--D,185,1373,1,0001728310,Common Stock
+D,02/22/2019 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,325,8027,4,0001704666,Common  Stock
+D,02/22/2019 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,356,8352,3,0001704666,Common  Stock
+D,02/22/2019 00:00:00,Van't Hof Matthew Kaes,4,F-InKind,--D,949,8708,2,0001704666,Common  Stock
+A,02/21/2019 00:00:00,Pantermuehl Russell,4,A-Award,--D,24044,124244,2,0001559934,Common Stock
+A,02/21/2019 00:00:00,Pantermuehl Russell,4,A-Award,--D,11700,100200,1,0001559934,Common Stock
+A,02/21/2019 00:00:00,HOLDER RANDALL J,4,A-Award,--D,6012,22544,2,0001196107,Common Stock
+A,02/21/2019 00:00:00,HOLDER RANDALL J,4,A-Award,--D,5850,16532,1,0001196107,Common Stock
+A,02/21/2019 00:00:00,Hawkins Thomas F.,4,A-Award,--D,3898,10983,1,0001704699,Common Stock
+A,02/21/2019 00:00:00,Molnar Paul,4,A-Award,--D,12022,62277,2,0001559840,Common Stock
+A,02/21/2019 00:00:00,Molnar Paul,4,A-Award,--D,11700,50255,1,0001559840,Common Stock
+A,02/21/2019 00:00:00,Dick Teresa L.,4,A-Award,--D,6012,38509,2,0001559931,Common  Stock
+A,02/21/2019 00:00:00,Dick Teresa L.,4,A-Award,--D,5850,32497,1,0001559931,Common  Stock
+A,02/21/2019 00:00:00,Stice Travis D.,4,A-Award,--I,90168,423319,2,0001559933,Common  Stock
+A,02/21/2019 00:00:00,Stice Travis D.,4,A-Award,--I,22230,333151,1,0001559933,Common  Stock
+A,02/21/2019 00:00:00,Hollis Michael L.,4,A-Award,--I,30056,138928,2,0001559864,Common  Stock
+A,02/21/2019 00:00:00,Hollis Michael L.,4,A-Award,--I,13650,108872,1,0001559864,Common  Stock
+A,02/21/2019 00:00:00,Van't Hof Matthew Kaes,4,A-Award,--D,3900,9657,1,0001704666,Common  Stock
+D,12/20/2018 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,1000,5757,1,0001704666,Common Stock
+D,09/20/2018 00:00:00,Molnar Paul,4,S-Sale,--D,5000,38555,1,0001559840,Common Stock
+D,09/20/2018 00:00:00,Pantermuehl Russell,4,S-Sale,--D,1032,88500,1,0001559934,Common Stock
+D,09/19/2018 00:00:00,Pantermuehl Russell,4,S-Sale,--D,2000,89532,1,0001559934,Common Stock
+D,09/04/2018 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,140,6757,1,0001704666,Common Stock
+D,07/16/2018 00:00:00,Hollis Michael L.,4,S-Sale,--I,5000,95222,1,0001559864,Common Stock
+D,06/20/2018 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,832,6897,1,0001704666,Common Stock
+A,06/07/2018 00:00:00,WEST STEVEN E,4,A-Award,--D,1574,6029,1,0001190898,Common Stock
+A,06/07/2018 00:00:00,Houston David L,4,A-Award,--D,1574,9534,1,0001335995,Common Stock
+A,06/07/2018 00:00:00,Trent Melanie Montague,4,A-Award,--D,1574,1574,1,0001343137,Common Stock
+A,06/07/2018 00:00:00,Cross Michael P,4,A-Award,--I,1574,16034,1,0001373410,Common Stock
+A,06/07/2018 00:00:00,Plaumann Mark Lawrence,4,A-Award,--I,1574,10134,1,0001290795,Common Stock
+D,05/17/2018 00:00:00,Dick Teresa L.,4,S-Sale,--D,2500,26647,1,0001559931,Common Stock
+D,05/17/2018 00:00:00,Pantermuehl Russell,4,S-Sale,--D,2000,91532,1,0001559934,Common Stock
+D,05/11/2018 00:00:00,Houston David L,4,S-Sale,--D,6500,7960,1,0001335995,Common Stock
+D,04/16/2018 00:00:00,Hollis Michael L.,4,S-Sale,--I,3000,100222,1,0001559864,Common Stock
+D,03/05/2018 00:00:00,Molnar Paul,4,S-Sale,--D,10000,43555,1,0001559840,Common Stock
+D,03/05/2018 00:00:00,Dick Teresa L.,4,S-Sale,--D,2500,29147,1,0001559931,Common Stock
+D,02/22/2018 00:00:00,Soliman Jennifer,4,S-Sale,--D,128,1558,1,0001728310,Common Stock
+D,02/22/2018 00:00:00,HOLDER RANDALL J,4,S-Sale,--D,7120,10682,1,0001196107,Common Stock
+D,02/16/2018 00:00:00,Soliman Jennifer,4,S-Sale,--D,183,1686,1,0001728310,Common Stock
+D,02/16/2018 00:00:00,Hawkins Thomas F.,4,S-Sale,--D,655,7085,1,0001704699,Common Stock
+D,02/16/2018 00:00:00,Molnar Paul,4,S-Sale,--D,3900,53555,3,0001559840,Common Stock
+D,02/16/2018 00:00:00,Molnar Paul,4,S-Sale,--D,4324,57455,2,0001559840,Common Stock
+D,02/16/2018 00:00:00,Molnar Paul,4,S-Sale,--D,4425,61779,1,0001559840,Common Stock
+D,02/16/2018 00:00:00,Hollis Michael L.,4,S-Sale,--I,9410,103222,3,0001559864,Common Stock
+D,02/16/2018 00:00:00,Hollis Michael L.,4,S-Sale,--I,9793,112632,2,0001559864,Common Stock
+D,02/16/2018 00:00:00,Hollis Michael L.,4,S-Sale,--I,10542,122425,1,0001559864,Common Stock
+D,02/16/2018 00:00:00,HOLDER RANDALL J,4,S-Sale,--D,2970,17802,3,0001196107,Common Stock
+D,02/16/2018 00:00:00,HOLDER RANDALL J,4,S-Sale,--D,1166,20772,2,0001196107,Common Stock
+D,02/16/2018 00:00:00,HOLDER RANDALL J,4,S-Sale,--D,2587,21938,1,0001196107,Common Stock
+D,02/16/2018 00:00:00,Pantermuehl Russell,4,S-Sale,--D,8128,93532,3,0001559934,Common Stock
+D,02/16/2018 00:00:00,Pantermuehl Russell,4,S-Sale,--D,7811,101660,2,0001559934,Common Stock
+D,02/16/2018 00:00:00,Pantermuehl Russell,4,S-Sale,--D,7821,109471,1,0001559934,Common Stock
+D,02/16/2018 00:00:00,Dick Teresa L.,4,S-Sale,--D,2100,31647,3,0001559931,Common Stock
+D,02/16/2018 00:00:00,Dick Teresa L.,4,S-Sale,--D,2540,33747,2,0001559931,Common Stock
+D,02/16/2018 00:00:00,Dick Teresa L.,4,S-Sale,--D,2093,36287,1,0001559931,Common Stock
+D,02/16/2018 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,664,7729,2,0001704666,Common Stock
+D,02/16/2018 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,1,8393,1,0001704666,Common Stock
+D,02/16/2018 00:00:00,Stice Travis D.,4,S-Sale,--I,28977,310921,3,0001559933,Common Stock
+D,02/16/2018 00:00:00,Stice Travis D.,4,S-Sale,--I,27790,339898,2,0001559933,Common Stock
+D,02/16/2018 00:00:00,Stice Travis D.,4,S-Sale,--I,30383,367688,1,0001559933,Common Stock
+A,02/14/2018 00:00:00,Pantermuehl Russell,4,A-Award,--D,48090,117292,2,0001559934,Common Stock
+A,02/14/2018 00:00:00,Dick Teresa L.,4,A-Award,--D,12022,38380,2,0001559931,Common Stock
+A,02/14/2018 00:00:00,Molnar Paul,4,A-Award,--D,24044,66204,2,0001559840,Common Stock
+A,02/14/2018 00:00:00,Stice Travis D.,4,A-Award,--I,180338,398071,2,0001559933,Common Stock
+A,02/14/2018 00:00:00,HOLDER RANDALL J,4,A-Award,--D,12022,24525,2,0001196107,Common Stock
+A,02/14/2018 00:00:00,Hollis Michael L.,4,A-Award,--I,60112,132967,2,0001559864,Common Stock
+A,02/13/2018 00:00:00,Pantermuehl Russell,4,A-Award,--D,10236,69202,1,0001559934,Common Stock
+A,02/13/2018 00:00:00,Dick Teresa L.,4,A-Award,--D,5598,26358,1,0001559931,Common Stock
+A,02/13/2018 00:00:00,Molnar Paul,4,A-Award,--D,9597,42160,1,0001559840,Common Stock
+A,02/13/2018 00:00:00,Van't Hof Matthew Kaes,4,A-Award,--D,3999,8394,1,0001704666,Common  Stock
+A,02/13/2018 00:00:00,Stice Travis D.,4,A-Award,--I,20391,217733,1,0001559933,Common Stock
+A,02/13/2018 00:00:00,Hawkins Thomas F.,4,A-Award,--D,3840,7740,1,0001704699,Common  Stock
+A,02/13/2018 00:00:00,HOLDER RANDALL J,4,A-Award,--D,5598,12503,1,0001196107,Common Stock
+A,02/13/2018 00:00:00,Hollis Michael L.,4,A-Award,--I,11835,72855,1,0001559864,Common Stock
+A,02/13/2018 00:00:00,Soliman Jennifer,4,A-Award,--D,1869,1869,1,0001728310,Common  Stock
+D,01/16/2018 00:00:00,Hollis Michael L.,4,S-Sale,--I,300,61020,3,0001559864,Common Stock
+D,01/16/2018 00:00:00,Hollis Michael L.,4,S-Sale,--I,1500,61320,2,0001559864,Common Stock
+D,01/16/2018 00:00:00,Hollis Michael L.,4,S-Sale,--I,1200,62820,1,0001559864,Common Stock
+D,01/02/2018 00:00:00,Stice Travis D.,4,S-Sale,--I,35000,197342,1,0001559933,Common Stock
+D,12/22/2017 00:00:00,Hollis Michael L.,4,S-Sale,--I,10000,64020,1,0001559864,Common Stock
+D,12/20/2017 00:00:00,Dick Teresa L.,4,S-Sale,--D,5000,20760,2,0001559931,Common Stock
+D,12/20/2017 00:00:00,Dick Teresa L.,4,S-Sale,--D,5000,25760,1,0001559931,Common Stock
+D,12/20/2017 00:00:00,Molnar Paul,4,S-Sale,--D,5000,32563,1,0001559840,Common Stock
+D,12/20/2017 00:00:00,Pantermuehl Russell,4,S-Sale,--D,1000,58966,1,0001559934,Common Stock
+D,12/13/2017 00:00:00,Dick Teresa L.,4,S-Sale,--D,1000,30760,1,0001559931,Common Stock
+D,12/12/2017 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,400,4395,1,0001704666,Common Stock
+D,12/11/2017 00:00:00,Pantermuehl Russell,4,S-Sale,--D,848,59966,1,0001559934,Common Stock
+D,12/11/2017 00:00:00,Molnar Paul,4,S-Sale,--D,5000,37563,1,0001559840,Common Stock
+D,12/04/2017 00:00:00,Pantermuehl Russell,4,S-Sale,--D,1400,60814,1,0001559934,Common Stock
+D,12/01/2017 00:00:00,Pantermuehl Russell,4,S-Sale,--D,1000,62214,3,0001559934,Common Stock
+D,12/01/2017 00:00:00,Pantermuehl Russell,4,S-Sale,--D,100,63214,2,0001559934,Common Stock
+D,11/30/2017 00:00:00,Pantermuehl Russell,4,S-Sale,--D,900,63314,1,0001559934,Common Stock
+D,11/10/2017 00:00:00,Dick Teresa L.,4,S-Sale,--D,5000,31760,1,0001559931,Common Stock
+D,11/09/2017 00:00:00,Pantermuehl Russell,4,S-Sale,--D,4000,64214,1,0001559934,Common Stock
+D,10/27/2017 00:00:00,Hollis Michael L.,4,S-Sale,--I,2000,74020,1,0001559864,Common Stock
+D,10/16/2017 00:00:00,Hollis Michael L.,4,S-Sale,--I,200,76020,2,0001559864,Common Stock
+D,10/16/2017 00:00:00,Hollis Michael L.,4,S-Sale,--I,1800,76220,1,0001559864,Common Stock
+D,10/02/2017 00:00:00,Hollis Michael L.,4,S-Sale,--I,1000,78020,1,0001559864,Common Stock
+D,09/20/2017 00:00:00,Pantermuehl Russell,4,S-Sale,--D,2000,68214,2,0001559934,Common Stock
+D,09/20/2017 00:00:00,Pantermuehl Russell,4,S-Sale,--D,2000,70214,1,0001559934,Common Stock
+D,09/19/2017 00:00:00,Molnar Paul,4,S-Sale,--D,5000,42563,1,0001559840,Common Stock
+D,09/05/2017 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,155,4795,1,0001704666,Common Stock
+D,08/30/2017 00:00:00,Van't Hof Matthew Kaes,4,S-Sale,--D,650,4950,1,0001704666,Common Stock
+D,07/20/2017 00:00:00,Hollis Michael L.,4,S-Sale,--I,1000,79020,1,0001559864,Common Stock
+A,07/12/2017 00:00:00,Cross Michael P,4,A-Award,--I,2055,14460,1,0001373410,Common Stock
+A,07/12/2017 00:00:00,Plaumann Mark Lawrence,4,A-Award,--I,2055,8560,1,0001290795,Common Stock
+A,07/12/2017 00:00:00,WEST STEVEN E,4,A-Award,--D,2055,4455,1,0001190898,Common Stock
+A,07/12/2017 00:00:00,Houston David L,4,A-Award,--D,2055,14460,1,0001335995,Common Stock
+D,05/23/2017 00:00:00,Plaumann Mark Lawrence,4,S-Sale,--I,1000,6505,1,0001290795,Common Stock
+A,05/17/2017 00:00:00,WEST STEVEN E,4,P-Purchase,--D,2400,2400,1,0001190898,Common Stock
+D,03/17/2017 00:00:00,Dick Teresa L.,4,S-Sale,--D,2000,36760,1,0001559931,Common Stock
+D,03/17/2017 00:00:00,Pantermuehl Russell,4,S-Sale,--D,2000,72214,1,0001559934,Common Stock
+D,03/15/2017 00:00:00,Pantermuehl Russell,4,S-Sale,--D,2000,74214,1,0001559934,Common Stock
+D,03/07/2017 00:00:00,Hollis Michael L.,4,S-Sale,--I,1500,80020,1,0001559864,Common Stock
+D,03/07/2017 00:00:00,Pantermuehl Russell,4,S-Sale,--D,4000,76214,1,0001559934,Common Stock
+D,03/07/2017 00:00:00,Dick Teresa L.,4,S-Sale,--D,1500,38760,1,0001559931,Common Stock
+D,03/02/2017 00:00:00,Pantermuehl Russell,4,S-Sale,--D,3000,80214,2,0001559934,Common Stock
+D,03/01/2017 00:00:00,Pantermuehl Russell,4,S-Sale,--D,2000,83214,1,0001559934,Common Stock
+D,02/21/2017 00:00:00,Stice Travis D.,4,S-Sale,--I,51000,232342,1,0001559933,Common Stock
+D,02/21/2017 00:00:00,Molnar Paul,4,S-Sale,--D,9263,47563,1,0001559840,Common Stock
+D,02/21/2017 00:00:00,Hollis Michael L.,4,S-Sale,--I,14655,81520,1,0001559864,Common Stock
+D,02/21/2017 00:00:00,Dick Teresa L.,4,S-Sale,--D,1100,40260,1,0001559931,Common Stock
+D,02/21/2017 00:00:00,Pantermuehl Russell,4,S-Sale,--D,200,85214,2,0001559934,Common Stock
+D,02/21/2017 00:00:00,Pantermuehl Russell,4,S-Sale,--D,9800,85414,1,0001559934,Common Stock
+D,02/21/2017 00:00:00,HOLDER RANDALL J,4,S-Sale,--D,16563,6905,1,0001196107,Common Stock
+D,02/17/2017 00:00:00,Plaumann Mark Lawrence,4,S-Sale,--I,1900,7505,1,0001290795,Common Stock
+A,02/16/2017 00:00:00,Stice Travis D.,4,A-Award,--I,22230,283342,2,0001559933,Common Stock
+A,02/16/2017 00:00:00,Stice Travis D.,4,A-Award,--I,71666,261112,1,0001559933,Common Stock
+A,02/16/2017 00:00:00,HOLDER RANDALL J,4,A-Award,--D,5850,23468,2,0001196107,Common Stock
+A,02/16/2017 00:00:00,HOLDER RANDALL J,4,A-Award,--D,11666,17618,1,0001196107,Common Stock
+A,02/16/2017 00:00:00,Molnar Paul,4,A-Award,--D,11700,56826,2,0001559840,Common Stock
+A,02/16/2017 00:00:00,Molnar Paul,4,A-Award,--D,14666,45126,1,0001559840,Common Stock
+A,02/16/2017 00:00:00,Hollis Michael L.,4,A-Award,--I,13650,96175,2,0001559864,Common Stock
+A,02/16/2017 00:00:00,Hollis Michael L.,4,A-Award,--I,20000,82525,1,0001559864,Common Stock
+A,02/16/2017 00:00:00,Dick Teresa L.,4,A-Award,--D,5850,41360,2,0001559931,Common Stock
+A,02/16/2017 00:00:00,Dick Teresa L.,4,A-Award,--D,15000,35510,1,0001559931,Common Stock
+A,02/16/2017 00:00:00,Pantermuehl Russell,4,A-Award,--D,11700,95214,2,0001559934,Common Stock
+A,02/16/2017 00:00:00,Pantermuehl Russell,4,A-Award,--D,20000,83514,1,0001559934,Common Stock
+D,12/01/2016 00:00:00,Pantermuehl Russell,4,S-Sale,--D,1000,63514,3,0001559934,Common Stock
+D,12/01/2016 00:00:00,Dick Teresa L.,4,S-Sale,--D,2500,20510,1,0001559931,Common Stock
+D,11/30/2016 00:00:00,Pantermuehl Russell,4,S-Sale,--D,1000,64514,2,0001559934,Common Stock
+D,11/30/2016 00:00:00,Pantermuehl Russell,4,S-Sale,--D,2000,65514,1,0001559934,Common Stock
+D,11/17/2016 00:00:00,Dick Teresa L.,4,S-Sale,--D,2500,23010,1,0001559931,Common Stock
+D,10/10/2016 00:00:00,Hollis Michael L.,4,S-Sale,--I,10000,62525,1,0001559864,Common Stock
+D,09/29/2016 00:00:00,Hollis Michael L.,4,S-Sale,--I,1000,72525,1,0001559864,Common Stock
+D,09/22/2016 00:00:00,Hollis Michael L.,4,S-Sale,--I,200,73525,2,0001559864,Common Stock
+D,09/22/2016 00:00:00,Hollis Michael L.,4,S-Sale,--I,1800,73725,1,0001559864,Common Stock
+D,09/19/2016 00:00:00,Moses Elizabeth,4,S-Sale,--D,2000,11709,1,0001597777,Common Stock
+D,09/08/2016 00:00:00,Dick Teresa L.,4,S-Sale,--D,240,25510,1,0001559931,Common Stock
+A,08/28/2016 00:00:00,Plaumann Mark Lawrence,4,A-Award,--I,1359,9405,1,0001290795,Common Stock
+A,08/28/2016 00:00:00,Cross Michael P,4,A-Award,--I,1359,12405,1,0001373410,Common Stock
+A,08/28/2016 00:00:00,Houston David L,4,A-Award,--D,1359,12405,1,0001335995,Common Stock
+A,08/28/2016 00:00:00,WEST STEVEN E,4,A-Award,--D,1359,1359,1,0001190898,Restricted Stock Units
+D,08/18/2016 00:00:00,Stice Travis D.,4,S-Sale,--I,30000,195946,1,0001559933,Common Stock
+D,08/15/2016 00:00:00,Dick Teresa L.,4,S-Sale,--D,1000,25750,1,0001559931,Common Stock
+D,08/01/2016 00:00:00,Pantermuehl Russell,4,S-Sale,--D,400,67514,2,0001559934,Common Stock
+D,08/01/2016 00:00:00,Pantermuehl Russell,4,S-Sale,--D,1600,67914,1,0001559934,Common Stock
+D,07/01/2016 00:00:00,Hollis Michael L.,4,S-Sale,--I,1000,75525,3,0001559864,Common Stock
+D,07/01/2016 00:00:00,Hollis Michael L.,4,S-Sale,--I,1795,76525,2,0001559864,Common Stock
+D,07/01/2016 00:00:00,Hollis Michael L.,4,S-Sale,--I,1205,78320,1,0001559864,Common Stock
+D,07/01/2016 00:00:00,Pantermuehl Russell,4,S-Sale,--D,500,69514,3,0001559934,Common Stock
+D,07/01/2016 00:00:00,Pantermuehl Russell,4,S-Sale,--D,900,70014,2,0001559934,Common Stock
+D,07/01/2016 00:00:00,Pantermuehl Russell,4,S-Sale,--D,600,70914,1,0001559934,Common Stock
+D,06/30/2016 00:00:00,Stice Travis D.,4,S-Sale,--I,23,225946,3,0001559933,Common Stock

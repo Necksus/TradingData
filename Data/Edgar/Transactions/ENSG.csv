@@ -1,0 +1,801 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/16/2023 00:00:00,Christensen Christopher R.,4,S-Sale,--I,10183,953761,1,0001417555,Common Stock
+D,05/31/2023 00:00:00,Christensen Christopher R.,4,F-InKind,--D,3967,62532,4,0001417555,Common Stock
+D,05/31/2023 00:00:00,Burton Spencer,4,F-InKind,--D,283,52722,4,0001778500,Common Stock
+D,05/31/2023 00:00:00,Keetch Chad,4,F-InKind,--D,2480,86191,4,0001609878,Common Stock
+D,05/31/2023 00:00:00,Port Barry,4,F-InKind,--D,2480,83223,4,0001417552,Common Stock
+D,05/31/2023 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,2975,249014,4,0001470396,Common Stock
+D,05/31/2023 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,1240,39766,4,0001475842,Common Stock
+D,05/30/2023 00:00:00,Christensen Christopher R.,4,F-InKind,--D,794,66499,3,0001417555,Common Stock
+D,05/30/2023 00:00:00,Christensen Christopher R.,4,F-InKind,--D,199,67293,2,0001417555,Common Stock
+D,05/30/2023 00:00:00,Christensen Christopher R.,4,F-InKind,--D,248,67492,1,0001417555,Common Stock
+D,05/30/2023 00:00:00,Burton Spencer,4,F-InKind,--D,531,53005,3,0001778500,Common Stock
+D,05/30/2023 00:00:00,Burton Spencer,4,F-InKind,--D,354,53536,2,0001778500,Common Stock
+D,05/30/2023 00:00:00,Burton Spencer,4,F-InKind,--D,266,53890,1,0001778500,Common Stock
+D,05/30/2023 00:00:00,Keetch Chad,4,F-InKind,--D,397,88671,3,0001609878,Common Stock
+D,05/30/2023 00:00:00,Keetch Chad,4,F-InKind,--D,199,89068,2,0001609878,Common Stock
+D,05/30/2023 00:00:00,Keetch Chad,4,F-InKind,--D,298,89267,1,0001609878,Common Stock
+D,05/30/2023 00:00:00,Port Barry,4,F-InKind,--D,635,85703,3,0001417552,Common Stock
+D,05/30/2023 00:00:00,Port Barry,4,F-InKind,--D,199,86338,2,0001417552,Common Stock
+D,05/30/2023 00:00:00,Port Barry,4,F-InKind,--D,496,86537,1,0001417552,Common Stock
+D,05/30/2023 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,595,251989,3,0001470396,Common Stock
+D,05/30/2023 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,199,252584,2,0001470396,Common Stock
+D,05/30/2023 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,447,252783,1,0001470396,Common Stock
+D,05/30/2023 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,159,41006,3,0001475842,Common Stock
+D,05/30/2023 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,100,41165,2,0001475842,Common Stock
+D,05/30/2023 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,100,41265,1,0001475842,Common Stock
+D,05/26/2023 00:00:00,Burton Spencer,4,F-InKind,--D,283,54156,1,0001778500,Common Stock
+D,05/26/2023 00:00:00,Christensen Christopher R.,4,F-InKind,--D,278,67740,1,0001417555,Common Stock
+D,05/26/2023 00:00:00,Keetch Chad,4,F-InKind,--D,318,89565,1,0001609878,Common Stock
+D,05/26/2023 00:00:00,Port Barry,4,F-InKind,--D,496,87033,1,0001417552,Common Stock
+D,05/26/2023 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,447,253230,1,0001470396,Common Stock
+D,05/26/2023 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,119,41365,1,0001475842,Common Stock
+A,05/18/2023 00:00:00,Keetch Chad,4,A-Award,--D,9500,9500,2,0001609878,Employee Stock Option (right to buy)
+A,05/18/2023 00:00:00,Keetch Chad,4,A-Award,--D,3800,89883,1,0001609878,Common Stock
+A,05/18/2023 00:00:00,Port Barry,4,A-Award,--D,13500,13500,3,0001417552,Employee Stock Option (right to buy)
+A,05/18/2023 00:00:00,Port Barry,4,A-Award,--D,5400,87529,1,0001417552,Common Stock
+A,05/18/2023 00:00:00,Wittekind Beverly B.,4,A-Award,--D,2500,2500,2,0001475842,Employee Stock Option (right to buy)
+A,05/18/2023 00:00:00,Wittekind Beverly B.,4,A-Award,--D,1000,41484,1,0001475842,Common Stock
+A,05/18/2023 00:00:00,Christensen Christopher R.,4,A-Award,--D,7000,7000,5,0001417555,Employee Stock Option (right to buy)
+A,05/18/2023 00:00:00,Christensen Christopher R.,4,A-Award,--D,2800,68018,1,0001417555,Common Stock
+A,05/18/2023 00:00:00,Burton Spencer,4,A-Award,--D,10000,10000,2,0001778500,Employee Stock Option (right to buy)
+A,05/18/2023 00:00:00,Burton Spencer,4,A-Award,--D,4000,54439,1,0001778500,Common Stock
+A,05/18/2023 00:00:00,Snapper Suzanne D.,4,A-Award,--D,12000,12000,3,0001470396,Employee Stock Option (right to buy)
+A,05/18/2023 00:00:00,Snapper Suzanne D.,4,A-Award,--D,4800,253677,1,0001470396,Common Stock
+D,05/16/2023 00:00:00,Shaw Daren,4,S-Sale,--D,750,34750,2,0001548135,Common Stock
+D,05/15/2023 00:00:00,Shaw Daren,4,S-Sale,--D,1250,35500,1,0001548135,Common Stock
+D,04/26/2023 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,60000,0,10,0001470396,Employee Stock Option (right to buy)
+D,04/26/2023 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,33007,248877,6,0001470396,Common Stock
+A,04/26/2023 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,60000,281884,5,0001470396,Common Stock
+D,04/25/2023 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,13305,60000,9,0001470396,Employee Stock Option (right to buy)
+D,04/25/2023 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,13305,221884,4,0001470396,Common Stock
+A,04/25/2023 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,13305,235189,3,0001470396,Common Stock
+D,04/24/2023 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,9404,73305,8,0001470396,Employee Stock Option (right to buy)
+D,04/24/2023 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,9404,221884,2,0001470396,Common Stock
+A,04/24/2023 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,9404,231288,1,0001470396,Common Stock
+A,04/17/2023 00:00:00,Abbott Swati Bargotra,4,A-Award,--D,875,12692,1,0001741453,Common Stock
+A,04/17/2023 00:00:00,Blouin Ann Scott,4,A-Award,--D,875,17302,1,0001764784,Common Stock
+A,04/17/2023 00:00:00,Agwunobi John O,4,A-Award,--D,875,1750,1,0001627893,Common Stock
+A,04/17/2023 00:00:00,SMITH BARRY M,4,A-Award,--D,875,28250,1,0001212067,Common Stock
+A,04/17/2023 00:00:00,Shaw Daren,4,A-Award,--D,875,36750,1,0001548135,Common Stock
+D,04/11/2023 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,35304,82709,4,0001470396,Employee Stock Option (right to buy)
+D,04/11/2023 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,35304,221884,2,0001470396,Common Stock
+A,04/11/2023 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,35304,257188,1,0001470396,Common Stock
+D,03/30/2023 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,34470,118013,4,0001470396,Employee Stock Option (right to buy)
+D,03/30/2023 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,34470,221884,2,0001470396,Common Stock
+A,03/30/2023 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,34470,256354,1,0001470396,Common Stock
+D,02/21/2023 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,82,40484,1,0001475842,Common Stock
+D,02/16/2023 00:00:00,Burton Spencer,4,F-InKind,--D,142,50439,1,0001778500,Common Stock
+D,02/15/2023 00:00:00,Shaw Daren,4,S-Sale,--D,2000,35875,1,0001548135,Common Stock
+A,02/07/2023 00:00:00,Snapper Suzanne D.,4,A-Award,--D,12500,12500,3,0001470396,Employee Stock Option (right to buy)
+A,02/07/2023 00:00:00,Snapper Suzanne D.,4,A-Award,--D,12730,223484,1,0001470396,Common Stock
+A,02/07/2023 00:00:00,Port Barry,4,A-Award,--D,12500,12500,3,0001417552,Employee Stock Option (right to buy)
+A,02/07/2023 00:00:00,Port Barry,4,A-Award,--D,14641,95221,1,0001417552,Common Stock
+A,02/07/2023 00:00:00,Keetch Chad,4,A-Award,--D,12500,12500,2,0001609878,Employee Stock Option (right to buy)
+A,02/07/2023 00:00:00,Keetch Chad,4,A-Award,--D,8416,89006,1,0001609878,Common Stock
+A,02/07/2023 00:00:00,Christensen Christopher R.,4,A-Award,--D,6627,65218,1,0001417555,Common Stock
+A,02/07/2023 00:00:00,Burton Spencer,4,A-Award,--D,12500,12500,2,0001778500,Employee Stock Option (right to buy)
+A,02/07/2023 00:00:00,Burton Spencer,4,A-Award,--D,10204,56883,1,0001778500,Common Stock
+D,02/03/2023 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,137,152483,4,0001470396,Employee Stock Option (right to buy)
+D,02/03/2023 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,137,210754,2,0001470396,Common Stock
+A,02/03/2023 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,137,210891,1,0001470396,Common Stock
+D,01/18/2023 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,3402,152620,7,0001470396,Employee Stock Option (right to buy)
+D,01/18/2023 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,3402,210754,4,0001470396,Common Stock
+A,01/18/2023 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,3402,214156,3,0001470396,Common Stock
+D,01/17/2023 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,16991,156022,6,0001470396,Employee Stock Option (right to buy)
+D,01/17/2023 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,16991,210754,2,0001470396,Common Stock
+A,01/17/2023 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,16991,227745,1,0001470396,Common Stock
+A,01/17/2023 00:00:00,SMITH BARRY M,4,A-Award,--D,875,28375,1,0001212067,Common Stock
+A,01/17/2023 00:00:00,Agwunobi John O,4,A-Award,--D,875,875,1,0001627893,Common Stock
+A,01/17/2023 00:00:00,Shaw Daren,4,A-Award,--D,875,37875,1,0001548135,Common Stock
+A,01/17/2023 00:00:00,Abbott Swati Bargotra,4,A-Award,--D,875,11817,1,0001741453,Common Stock
+D,01/17/2023 00:00:00,Blouin Ann Scott,4,S-Sale,--D,125,16427,2,0001764784,Common Stock
+A,01/17/2023 00:00:00,Blouin Ann Scott,4,A-Award,--D,875,16552,1,0001764784,Common Stock
+D,12/19/2022 00:00:00,Christensen Christopher R.,5,G-Gift,--I,7000,963944,2,0001417555,Common Stock
+D,12/19/2022 00:00:00,Daniels Lee A,4,S-Sale,--D,2000,47504,1,0001303995,Common Stock
+D,12/16/2022 00:00:00,Burton Spencer,5,G-Gift,--D,2102,40377,2,0001778500,Common Stock
+D,12/16/2022 00:00:00,Port Barry,5,G-Gift,--I,7100,108511,3,0001417552,Common Stock
+D,12/12/2022 00:00:00,Snapper Suzanne D.,5,G-Gift,--D,1600,209154,1,0001470396,Common Stock
+D,12/05/2022 00:00:00,SMITH BARRY M,5,G-Gift,--D,1000,26500,1,0001212067,Common Stock
+D,11/15/2022 00:00:00,Shaw Daren,4,S-Sale,--D,2000,37000,1,0001548135,Common Stock
+D,11/10/2022 00:00:00,Shaw Daren,4,M-Exempt,--D,3000,16463,3,0001548135,Stock Option (right to buy)
+D,11/10/2022 00:00:00,Shaw Daren,4,S-Sale,--D,3000,39000,2,0001548135,Common Stock
+A,11/10/2022 00:00:00,Shaw Daren,4,M-Exempt,--D,3000,42000,1,0001548135,Common Stock
+D,11/01/2022 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,2500,40566,4,0001475842,Common Stock
+D,10/26/2022 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,10812,0,5,0001475842,Employee Stock Option (right to buy)
+D,10/26/2022 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,2500,43066,3,0001475842,Common Stock
+D,10/26/2022 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,10812,45566,2,0001475842,Common Stock
+A,10/26/2022 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,10812,56378,1,0001475842,Common Stock
+A,10/17/2022 00:00:00,SMITH BARRY M,4,A-Award,--D,875,27500,1,0001212067,Common Stock
+A,10/17/2022 00:00:00,Daniels Lee A,4,A-Award,--D,875,49504,1,0001303995,Common Stock
+A,10/17/2022 00:00:00,Abbott Swati Bargotra,4,A-Award,--D,875,10942,1,0001741453,Common Stock
+A,10/17/2022 00:00:00,Blouin Ann Scott,4,A-Award,--D,875,15677,1,0001764784,Common Stock
+A,10/17/2022 00:00:00,Shaw Daren,4,A-Award,--D,875,39000,1,0001548135,Common Stock
+D,10/17/2022 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,3311,0,6,0001475842,Employee Stock Option (right to buy)
+D,10/17/2022 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,3311,45566,4,0001475842,Common Stock
+A,10/17/2022 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,3311,48877,3,0001475842,Common Stock
+D,10/14/2022 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,1014,3311,5,0001475842,Employee Stock Option (right to buy)
+D,10/14/2022 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,1014,45566,2,0001475842,Common Stock
+A,10/14/2022 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,1014,46580,1,0001475842,Common Stock
+D,08/23/2022 00:00:00,Christensen Christopher R.,5,G-Gift,--I,10000,970944,1,0001417555,Common Stock
+D,08/18/2022 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,4325,0,4,0001470396,Employee Stock Option (right to buy)
+D,08/18/2022 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,2381,210754,2,0001470396,Common Stock
+A,08/18/2022 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,4325,213135,1,0001470396,Common Stock
+D,08/15/2022 00:00:00,Shaw Daren,4,S-Sale,--D,2000,38125,1,0001548135,Common Stock
+D,08/03/2022 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,10812,0,7,0001470396,Employee Stock Option (right to buy)
+D,08/03/2022 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,5883,208810,4,0001470396,Common Stock
+A,08/03/2022 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,10812,214693,3,0001470396,Common Stock
+D,08/02/2022 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,10812,0,6,0001470396,Employee Stock Option (right to buy)
+D,08/02/2022 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,10812,203881,2,0001470396,Common Stock
+A,08/02/2022 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,10812,214693,1,0001470396,Common Stock
+A,07/15/2022 00:00:00,Shaw Daren,4,A-Award,--D,875,40125,1,0001548135,Common Stock
+A,07/15/2022 00:00:00,SMITH BARRY M,4,A-Award,--D,875,26625,1,0001212067,Common Stock
+A,07/15/2022 00:00:00,Daniels Lee A,4,A-Award,--D,875,48629,1,0001303995,Common Stock
+A,07/15/2022 00:00:00,Blouin Ann Scott,4,A-Award,--D,875,14802,1,0001764784,Common Stock
+A,07/15/2022 00:00:00,Abbott Swati Bargotra,4,A-Award,--D,875,10067,1,0001741453,Common Stock
+D,05/31/2022 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,2975,203881,3,0001470396,Common Stock
+D,05/31/2022 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,595,206856,2,0001470396,Common Stock
+D,05/31/2022 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,199,207451,1,0001470396,Common Stock
+D,05/31/2022 00:00:00,Port Barry,4,F-InKind,--D,2480,80580,3,0001417552,Common Stock
+D,05/31/2022 00:00:00,Port Barry,4,F-InKind,--D,635,83060,2,0001417552,Common Stock
+D,05/31/2022 00:00:00,Port Barry,4,F-InKind,--D,199,83695,1,0001417552,Common Stock
+D,05/31/2022 00:00:00,Burton Spencer,4,F-InKind,--D,284,46679,3,0001778500,Common Stock
+D,05/31/2022 00:00:00,Burton Spencer,4,F-InKind,--D,532,46963,2,0001778500,Common Stock
+D,05/31/2022 00:00:00,Burton Spencer,4,F-InKind,--D,355,47495,1,0001778500,Common Stock
+D,05/31/2022 00:00:00,Keetch Chad,4,F-InKind,--D,2480,80590,3,0001609878,Common Stock
+D,05/31/2022 00:00:00,Keetch Chad,4,F-InKind,--D,397,83070,2,0001609878,Common Stock
+D,05/31/2022 00:00:00,Keetch Chad,4,F-InKind,--D,199,83467,1,0001609878,Common Stock
+D,05/31/2022 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,1240,45566,3,0001475842,Common Stock
+D,05/31/2022 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,159,46806,2,0001475842,Common Stock
+D,05/31/2022 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,100,46965,1,0001475842,Common Stock
+D,05/31/2022 00:00:00,Christensen Christopher R.,4,F-InKind,--D,3967,58591,5,0001417555,Common Stock
+D,05/31/2022 00:00:00,Christensen Christopher R.,4,F-InKind,--D,794,62558,4,0001417555,Common Stock
+D,05/31/2022 00:00:00,Christensen Christopher R.,4,F-InKind,--D,199,63352,3,0001417555,Common Stock
+D,05/27/2022 00:00:00,Christensen Christopher R.,4,F-InKind,--D,248,63551,2,0001417555,Common Stock
+D,05/27/2022 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,100,47065,3,0001475842,Common Stock
+D,05/27/2022 00:00:00,Burton Spencer,4,F-InKind,--D,266,47850,3,0001778500,Common Stock
+D,05/27/2022 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,447,207650,3,0001470396,Common Stock
+D,05/27/2022 00:00:00,Keetch Chad,4,F-InKind,--D,298,83666,3,0001609878,Common Stock
+D,05/27/2022 00:00:00,Port Barry,4,F-InKind,--D,496,83894,3,0001417552,Common Stock
+A,05/26/2022 00:00:00,Christensen Christopher R.,4,A-Award,--D,7000,7000,9,0001417555,Employee Stock Option (right to buy)
+A,05/26/2022 00:00:00,Christensen Christopher R.,4,A-Award,--D,2800,63799,1,0001417555,Common Stock
+A,05/26/2022 00:00:00,Wittekind Beverly B.,4,A-Award,--D,3000,3000,4,0001475842,Employee Stock Option (right to buy)
+A,05/26/2022 00:00:00,Wittekind Beverly B.,4,A-Award,--D,1200,47165,2,0001475842,Common Stock
+A,05/26/2022 00:00:00,Burton Spencer,4,A-Award,--D,8000,8000,4,0001778500,Employee Stock Option (right to buy)
+A,05/26/2022 00:00:00,Burton Spencer,4,A-Award,--D,3200,48116,2,0001778500,Common Stock
+A,05/26/2022 00:00:00,Snapper Suzanne D.,4,A-Award,--D,11250,11250,5,0001470396,Employee Stock Option (right to buy)
+A,05/26/2022 00:00:00,Snapper Suzanne D.,4,A-Award,--D,4500,208097,2,0001470396,Common Stock
+A,05/26/2022 00:00:00,Keetch Chad,4,A-Award,--D,8000,8000,4,0001609878,Employee Stock Option (right to buy)
+A,05/26/2022 00:00:00,Keetch Chad,4,A-Award,--D,3200,83964,2,0001609878,Common Stock
+A,05/26/2022 00:00:00,Port Barry,4,A-Award,--D,12500,12500,5,0001417552,Employee Stock Option (right to buy)
+A,05/26/2022 00:00:00,Port Barry,4,A-Award,--D,5000,84390,2,0001417552,Common Stock
+D,05/25/2022 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,119,45965,1,0001475842,Common Stock
+D,05/25/2022 00:00:00,Burton Spencer,4,F-InKind,--D,142,44916,1,0001778500,Common Stock
+D,05/25/2022 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,278,203597,1,0001470396,Common Stock
+D,05/25/2022 00:00:00,Keetch Chad,4,F-InKind,--D,278,80764,1,0001609878,Common Stock
+D,05/25/2022 00:00:00,Port Barry,4,F-InKind,--D,318,79390,1,0001417552,Common Stock
+A,04/25/2022 00:00:00,Port Barry,5,G-Gift,--I,13092,115611,2,0001417552,Common Stock
+D,04/25/2022 00:00:00,Port Barry,5,G-Gift,--D,13092,67488,1,0001417552,Common Stock
+A,04/18/2022 00:00:00,Shaw Daren,4,A-Award,--D,875,39250,1,0001548135,Common Stock
+A,04/18/2022 00:00:00,Abbott Swati Bargotra,4,A-Award,--D,875,9192,1,0001741453,Common Stock
+A,04/18/2022 00:00:00,SMITH BARRY M,4,A-Award,--D,875,25750,1,0001212067,Common Stock
+A,04/18/2022 00:00:00,Blouin Ann Scott,4,A-Award,--D,875,13927,1,0001764784,Common Stock
+A,04/18/2022 00:00:00,Daniels Lee A,4,A-Award,--D,875,47754,1,0001303995,Common Stock
+D,04/04/2022 00:00:00,Christensen Christopher R.,4,M-Exempt,--D,14158,3539,15,0001417555,Employee Stock Option (right to buy)
+D,04/04/2022 00:00:00,Christensen Christopher R.,4,M-Exempt,--D,5899,0,14,0001417555,Employee Stock Option (right to buy)
+D,04/04/2022 00:00:00,Christensen Christopher R.,4,M-Exempt,--D,10618,0,13,0001417555,Employee Stock Option (right to buy)
+D,04/04/2022 00:00:00,Christensen Christopher R.,4,M-Exempt,--D,90832,0,12,0001417555,Employee Stock Option (right to buy)
+D,04/04/2022 00:00:00,Christensen Christopher R.,4,S-Sale,--D,14158,60999,8,0001417555,Common Stock
+A,04/04/2022 00:00:00,Christensen Christopher R.,4,M-Exempt,--D,14158,75157,7,0001417555,Common Stock
+D,04/04/2022 00:00:00,Christensen Christopher R.,4,S-Sale,--D,5899,60999,6,0001417555,Common Stock
+A,04/04/2022 00:00:00,Christensen Christopher R.,4,M-Exempt,--D,5899,66898,5,0001417555,Common Stock
+D,04/04/2022 00:00:00,Christensen Christopher R.,4,S-Sale,--D,10618,60999,4,0001417555,Common Stock
+A,04/04/2022 00:00:00,Christensen Christopher R.,4,M-Exempt,--D,10618,71617,3,0001417555,Common Stock
+D,04/04/2022 00:00:00,Christensen Christopher R.,4,S-Sale,--D,90832,60999,2,0001417555,Common Stock
+A,04/04/2022 00:00:00,Christensen Christopher R.,4,M-Exempt,--D,90832,151831,1,0001417555,Common Stock
+D,04/01/2022 00:00:00,Keetch Chad,5,G-Gift,--D,2923,77667,1,0001609878,Common Stock
+D,03/31/2022 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,4325,0,3,0001475842,Employee Stock Option (right to buy)
+D,03/31/2022 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,4325,46084,2,0001475842,Common Stock
+A,03/31/2022 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,4325,50409,1,0001475842,Common Stock
+D,03/21/2022 00:00:00,Blouin Ann Scott,4,S-Sale,--D,195,13052,2,0001764784,Common Stock
+D,03/21/2022 00:00:00,Blouin Ann Scott,4,S-Sale,--D,195,13247,1,0001764784,Common Stock
+D,03/08/2022 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,4325,4325,3,0001475842,Employee Stock Option (right to buy)
+D,03/08/2022 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,4325,46084,2,0001475842,Common Stock
+A,03/08/2022 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,4325,50409,1,0001475842,Common Stock
+D,03/07/2022 00:00:00,Burton Spencer,5,G-Gift,--D,4200,42479,1,0001778500,Common Stock
+D,02/22/2022 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,70,46084,1,0001475842,Common Stock
+D,02/16/2022 00:00:00,Burton Spencer,4,F-InKind,--D,111,45058,1,0001778500,Common Stock
+A,02/08/2022 00:00:00,Snapper Suzanne D.,4,A-Award,--D,14167,206325,1,0001470396,Common Stock
+A,02/08/2022 00:00:00,Port Barry,4,A-Award,--D,16011,123033,1,0001417552,Common Stock
+A,02/08/2022 00:00:00,Keetch Chad,4,A-Award,--D,8961,85832,1,0001609878,Common Stock
+A,02/08/2022 00:00:00,Burton Spencer,4,A-Award,--D,11069,45719,1,0001778500,Common Stock
+A,02/08/2022 00:00:00,Christensen Christopher R.,4,A-Award,--D,7313,60999,1,0001417555,Common Stock
+D,01/19/2022 00:00:00,Shaw Daren,4,S-Sale,--D,1250,38375,3,0001548135,Common Stock
+A,01/18/2022 00:00:00,Blouin Ann Scott,4,A-Award,--D,875,13442,1,0001764784,Common Stock
+A,01/18/2022 00:00:00,Daniels Lee A,4,A-Award,--D,875,46879,1,0001303995,Common Stock
+A,01/18/2022 00:00:00,Abbott Swati Bargotra,4,A-Award,--D,875,8500,1,0001741453,Common Stock
+A,01/18/2022 00:00:00,SMITH BARRY M,4,A-Award,--D,875,24875,1,0001212067,Common Stock
+D,01/18/2022 00:00:00,Shaw Daren,4,S-Sale,--D,750,39625,2,0001548135,Common Stock
+A,01/18/2022 00:00:00,Shaw Daren,4,A-Award,--D,875,40375,1,0001548135,Common Stock
+D,01/03/2022 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,4325,8650,3,0001475842,Employee Stock Option (right to buy)
+D,01/03/2022 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,4325,46154,2,0001475842,Common Stock
+A,01/03/2022 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,4325,50479,1,0001475842,Common Stock
+D,12/28/2021 00:00:00,Christensen Christopher R.,5,G-Gift,--I,8646,980944,1,0001417555,Common Stock
+D,12/20/2021 00:00:00,Blouin Ann Scott,4,S-Sale,--D,433,12567,1,0001764784,Common Stock
+D,12/16/2021 00:00:00,Snapper Suzanne D.,5,G-Gift,--D,1200,189708,2,0001470396,Common Stock
+D,12/08/2021 00:00:00,Port Barry,5,G-Gift,--I,6250,102519,3,0001417552,Common Stock
+D,12/02/2021 00:00:00,Burton Spencer,5,G-Gift,--D,265,34100,2,0001778500,Common Stock
+D,11/23/2021 00:00:00,Snapper Suzanne D.,5,G-Gift,--D,1250,190908,1,0001470396,Common Stock
+D,11/19/2021 00:00:00,Abbott Swati Bargotra,5,G-Gift,--D,183,7442,1,0001741453,Common Stock
+D,10/29/2021 00:00:00,Shaw Daren,4,S-Sale,--D,2000,39500,1,0001548135,Common Stock
+A,10/15/2021 00:00:00,SMITH BARRY M,4,A-Award,--D,875,24000,1,0001212067,Common Stock
+A,10/15/2021 00:00:00,Shaw Daren,4,A-Award,--D,875,41500,1,0001548135,Common Stock
+A,10/15/2021 00:00:00,Blouin Ann Scott,4,A-Award,--D,875,13000,1,0001764784,Common Stock
+A,10/15/2021 00:00:00,Abbott Swati Bargotra,4,A-Award,--D,875,7625,1,0001741453,Common Stock
+A,10/15/2021 00:00:00,Daniels Lee A,4,A-Award,--D,875,46004,1,0001303995,Common Stock
+A,09/13/2021 00:00:00,Port Barry,5,G-Gift,--I,23299,108769,2,0001417552,Common Stock
+D,09/13/2021 00:00:00,Port Barry,5,G-Gift,--D,23299,63697,1,0001417552,Common Stock
+D,08/31/2021 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,278,192158,1,0001470396,Common Stock
+D,08/31/2021 00:00:00,Christensen Christopher R.,4,F-InKind,--D,199,53686,1,0001417555,Common Stock
+D,08/31/2021 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,119,46154,1,0001475842,Common Stock
+D,08/31/2021 00:00:00,Keetch Chad,4,F-InKind,--D,278,76871,1,0001609878,Common Stock
+D,08/31/2021 00:00:00,Port Barry,4,F-InKind,--D,199,107022,1,0001417552,Common Stock
+D,08/31/2021 00:00:00,Burton Spencer,4,F-InKind,--D,178,34650,1,0001778500,Common Stock
+D,07/20/2021 00:00:00,Daniels Lee A,4,M-Exempt,--D,982,0,3,0001303995,Stock Option (right to buy)
+D,07/20/2021 00:00:00,Daniels Lee A,4,S-Sale,--D,982,45129,2,0001303995,Common Stock
+A,07/20/2021 00:00:00,Daniels Lee A,4,M-Exempt,--D,982,46111,1,0001303995,Common Stock
+D,07/19/2021 00:00:00,Shaw Daren,4,S-Sale,--D,144,40625,8,0001548135,Common Stock
+D,07/19/2021 00:00:00,Shaw Daren,4,S-Sale,--D,356,40769,7,0001548135,Common Stock
+D,07/16/2021 00:00:00,Shaw Daren,4,S-Sale,--D,200,41125,6,0001548135,Common Stock
+D,07/16/2021 00:00:00,Shaw Daren,4,S-Sale,--D,550,41325,5,0001548135,Common Stock
+D,07/16/2021 00:00:00,Shaw Daren,4,S-Sale,--D,137,41875,4,0001548135,Common Stock
+D,07/16/2021 00:00:00,Shaw Daren,4,S-Sale,--D,238,42012,3,0001548135,Common Stock
+D,07/16/2021 00:00:00,Shaw Daren,4,S-Sale,--D,161,42250,2,0001548135,Common Stock
+D,07/16/2021 00:00:00,Shaw Daren,4,S-Sale,--D,214,42411,1,0001548135,Common Stock
+A,07/15/2021 00:00:00,Shaw Daren,4,A-Award,--D,1125,42625,1,0001548135,Common Stock
+A,07/15/2021 00:00:00,SMITH BARRY M,4,A-Award,--D,1125,23125,1,0001212067,Common Stock
+A,07/15/2021 00:00:00,Blouin Ann Scott,4,A-Award,--D,1125,12125,1,0001764784,Common Stock
+A,07/15/2021 00:00:00,Abbott Swati Bargotra,4,A-Award,--D,1125,6750,1,0001741453,Common Stock
+A,07/15/2021 00:00:00,Daniels Lee A,4,A-Award,--D,1125,45129,1,0001303995,Common Stock
+D,06/21/2021 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,982,3,0001303995,Stock Option (right to buy)
+D,06/21/2021 00:00:00,Daniels Lee A,4,S-Sale,--D,983,44004,2,0001303995,Common Stock
+A,06/21/2021 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,44987,1,0001303995,Common Stock
+D,06/01/2021 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,1240,46273,3,0001475842,Common Stock
+D,06/01/2021 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,159,47513,2,0001475842,Common Stock
+D,06/01/2021 00:00:00,Christensen Christopher R.,4,F-InKind,--D,3967,53885,3,0001417555,Common Stock
+D,06/01/2021 00:00:00,Christensen Christopher R.,4,F-InKind,--D,794,57852,2,0001417555,Common Stock
+D,06/01/2021 00:00:00,Burton Spencer,4,F-InKind,--D,284,34828,3,0001778500,Common Stock
+D,06/01/2021 00:00:00,Burton Spencer,4,F-InKind,--D,532,35112,2,0001778500,Common Stock
+D,06/01/2021 00:00:00,Keetch Chad,4,F-InKind,--D,2479,77149,3,0001609878,Common Stock
+D,06/01/2021 00:00:00,Keetch Chad,4,F-InKind,--D,397,79628,2,0001609878,Common Stock
+D,06/01/2021 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,2975,192436,3,0001470396,Common Stock
+D,06/01/2021 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,595,195411,2,0001470396,Common Stock
+D,06/01/2021 00:00:00,Port Barry,4,F-InKind,--D,2479,107221,3,0001417552,Common Stock
+D,06/01/2021 00:00:00,Port Barry,4,F-InKind,--D,635,109700,2,0001417552,Common Stock
+D,05/28/2021 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,100,47672,1,0001475842,Common Stock
+D,05/28/2021 00:00:00,Christensen Christopher R.,4,F-InKind,--D,199,58646,1,0001417555,Common Stock
+D,05/28/2021 00:00:00,Burton Spencer,4,F-InKind,--D,355,35644,1,0001778500,Common Stock
+D,05/28/2021 00:00:00,Keetch Chad,4,F-InKind,--D,199,80025,1,0001609878,Common Stock
+D,05/28/2021 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,199,196006,1,0001470396,Common Stock
+D,05/28/2021 00:00:00,Port Barry,4,F-InKind,--D,199,110335,1,0001417552,Common Stock
+A,05/27/2021 00:00:00,Port Barry,4,A-Award,--D,12500,12500,4,0001417552,Employee Stock Option (right to buy)
+A,05/27/2021 00:00:00,Port Barry,4,A-Award,--D,5000,110534,2,0001417552,Common Stock
+A,05/27/2021 00:00:00,Keetch Chad,4,A-Award,--D,7500,7500,3,0001609878,Employee Stock Option (right to buy)
+A,05/27/2021 00:00:00,Keetch Chad,4,A-Award,--D,3000,80224,2,0001609878,Common Stock
+A,05/27/2021 00:00:00,Wittekind Beverly B.,4,A-Award,--D,2500,2500,3,0001475842,Employee Stock Option (right to buy)
+A,05/27/2021 00:00:00,Wittekind Beverly B.,4,A-Award,--D,1000,47772,2,0001475842,Common Stock
+A,05/27/2021 00:00:00,Snapper Suzanne D.,4,A-Award,--D,11250,11250,4,0001470396,Employee Stock Option (right to buy)
+A,05/27/2021 00:00:00,Snapper Suzanne D.,4,A-Award,--D,4500,196205,2,0001470396,Common Stock
+A,05/27/2021 00:00:00,Burton Spencer,4,A-Award,--D,7500,7500,4,0001778500,Employee Stock Option (right to buy)
+A,05/27/2021 00:00:00,Burton Spencer,4,A-Award,--D,3000,35999,3,0001778500,Common Stock
+A,05/27/2021 00:00:00,Christensen Christopher R.,4,A-Award,--D,6250,6250,4,0001417555,Employee Stock Option (right to buy)
+A,05/27/2021 00:00:00,Christensen Christopher R.,4,A-Award,--D,2500,174688,1,0001417555,Common Stock
+D,05/26/2021 00:00:00,Burton Spencer,4,F-InKind,--D,178,32999,2,0001778500,Common Stock
+D,05/25/2021 00:00:00,Port Barry,4,F-InKind,--D,318,105534,1,0001417552,Common Stock
+D,05/25/2021 00:00:00,Keetch Chad,4,F-InKind,--D,278,77224,1,0001609878,Common Stock
+D,05/25/2021 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,119,46772,1,0001475842,Common Stock
+D,05/25/2021 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,278,191705,1,0001470396,Common Stock
+D,05/25/2021 00:00:00,Burton Spencer,4,F-InKind,--D,142,33177,1,0001778500,Common Stock
+D,05/20/2021 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,1965,3,0001303995,Stock Option (right to buy)
+D,05/20/2021 00:00:00,Daniels Lee A,4,S-Sale,--D,983,44004,2,0001303995,Common Stock
+A,05/20/2021 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,44987,1,0001303995,Common Stock
+D,04/21/2021 00:00:00,Shaw Daren,4,S-Sale,--D,375,41500,4,0001548135,Common Stock
+D,04/20/2021 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,2948,3,0001303995,Stock Option (right to buy)
+D,04/20/2021 00:00:00,Daniels Lee A,4,S-Sale,--D,983,44004,2,0001303995,Common Stock
+A,04/20/2021 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,44987,1,0001303995,Common Stock
+D,04/19/2021 00:00:00,Shaw Daren,4,S-Sale,--D,146,41875,3,0001548135,Common Stock
+D,04/19/2021 00:00:00,Shaw Daren,4,S-Sale,--D,339,42021,2,0001548135,Common Stock
+D,04/19/2021 00:00:00,Shaw Daren,4,S-Sale,--D,1140,42360,1,0001548135,Common Stock
+A,04/15/2021 00:00:00,Abbott Swati Bargotra,4,A-Award,--D,1125,5625,1,0001741453,Common Stock
+A,04/15/2021 00:00:00,Daniels Lee A,4,A-Award,--D,1125,44004,1,0001303995,Common Stock
+A,04/15/2021 00:00:00,Shaw Daren,4,A-Award,--D,1125,43500,1,0001548135,Common Stock
+A,04/15/2021 00:00:00,SMITH BARRY M,4,A-Award,--D,1125,22000,1,0001212067,Common Stock
+A,04/15/2021 00:00:00,Blouin Ann Scott,4,A-Award,--D,1125,11000,1,0001764784,Common Stock
+D,04/14/2021 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,8000,46891,1,0001475842,Common Stock
+D,03/30/2021 00:00:00,Christensen Roy E,5,G-Gift,--I,3000,906712,1,0001417545,Common Stock
+D,03/29/2021 00:00:00,Keetch Chad,4,M-Exempt,--D,640,0,16,0001609878,Employee Stock Option (right to buy)
+D,03/29/2021 00:00:00,Keetch Chad,4,M-Exempt,--D,4326,0,15,0001609878,Employee Stock Option (right to buy)
+D,03/29/2021 00:00:00,Keetch Chad,4,M-Exempt,--D,1732,0,14,0001609878,Employee Stock Option (right to buy)
+D,03/29/2021 00:00:00,Keetch Chad,4,M-Exempt,--D,4325,0,13,0001609878,Employee Stock Option (right to buy)
+D,03/29/2021 00:00:00,Keetch Chad,4,M-Exempt,--D,4325,0,12,0001609878,Employee Stock Option (right to buy)
+D,03/29/2021 00:00:00,Keetch Chad,4,S-Sale,--D,1322,77502,11,0001609878,Common Stock
+D,03/29/2021 00:00:00,Keetch Chad,4,S-Sale,--D,741,78824,10,0001609878,Common Stock
+D,03/29/2021 00:00:00,Keetch Chad,4,S-Sale,--D,649,79565,9,0001609878,Common Stock
+D,03/29/2021 00:00:00,Keetch Chad,4,S-Sale,--D,1727,80214,8,0001609878,Common Stock
+D,03/29/2021 00:00:00,Keetch Chad,4,S-Sale,--D,2811,81941,7,0001609878,Common Stock
+D,03/29/2021 00:00:00,Keetch Chad,4,S-Sale,--D,8098,84752,6,0001609878,Common Stock
+A,03/29/2021 00:00:00,Keetch Chad,4,M-Exempt,--D,640,92850,5,0001609878,Common Stock
+A,03/29/2021 00:00:00,Keetch Chad,4,M-Exempt,--D,4326,92210,4,0001609878,Common Stock
+A,03/29/2021 00:00:00,Keetch Chad,4,M-Exempt,--D,1732,87884,3,0001609878,Common Stock
+A,03/29/2021 00:00:00,Keetch Chad,4,M-Exempt,--D,4325,86152,2,0001609878,Common Stock
+A,03/29/2021 00:00:00,Keetch Chad,4,M-Exempt,--D,4325,81827,1,0001609878,Common Stock
+D,03/22/2021 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,3931,3,0001303995,Stock Option (right to buy)
+D,03/22/2021 00:00:00,Daniels Lee A,4,S-Sale,--D,983,42879,2,0001303995,Common Stock
+A,03/22/2021 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,43862,1,0001303995,Common Stock
+D,03/15/2021 00:00:00,Burton Spencer,5,G-Gift,--D,285,34365,1,0001778500,Common Stock
+D,02/25/2021 00:00:00,Keetch Chad,5,G-Gift,--D,4790,72081,1,0001609878,Common Stock
+D,02/22/2021 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,4914,3,0001303995,Stock Option (right to buy)
+D,02/22/2021 00:00:00,Daniels Lee A,4,S-Sale,--D,983,42879,2,0001303995,Common Stock
+A,02/22/2021 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,43862,1,0001303995,Common Stock
+A,02/19/2021 00:00:00,Wittekind Beverly B.,4,A-Award,--D,2500,2500,2,0001475842,Employee Stock Option (right to buy)
+A,02/19/2021 00:00:00,Wittekind Beverly B.,4,A-Award,--D,1000,54891,1,0001475842,Common Stock
+A,02/19/2021 00:00:00,Snapper Suzanne D.,4,A-Award,--D,10966,191983,1,0001470396,Common Stock
+A,02/19/2021 00:00:00,Burton Spencer,4,A-Award,--D,8840,33319,1,0001778500,Common Stock
+A,02/19/2021 00:00:00,Christensen Christopher R.,4,A-Award,--D,4700,172188,1,0001417555,Common Stock
+A,02/19/2021 00:00:00,Keetch Chad,4,A-Award,--D,6937,77502,1,0001609878,Common Stock
+A,02/19/2021 00:00:00,Port Barry,4,A-Award,--D,13092,105852,1,0001417552,Common Stock
+D,02/16/2021 00:00:00,Burton Spencer,4,F-InKind,--D,111,24479,1,0001778500,Common Stock
+D,01/29/2021 00:00:00,Shaw Daren,4,S-Sale,--D,625,42375,1,0001548135,Common Stock
+D,01/25/2021 00:00:00,Shaw Daren,4,S-Sale,--D,875,43000,1,0001548135,Common Stock
+D,01/20/2021 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,5897,4,0001303995,Stock Option (right to buy)
+D,01/20/2021 00:00:00,Daniels Lee A,4,S-Sale,--D,983,42879,3,0001303995,Common Stock
+A,01/20/2021 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,43862,2,0001303995,Common Stock
+D,01/20/2021 00:00:00,Shaw Daren,4,S-Sale,--D,500,43875,2,0001548135,Common Stock
+A,01/15/2021 00:00:00,Abbott Swati Bargotra,4,A-Award,--D,1125,4500,1,0001741453,Common Stock
+A,01/15/2021 00:00:00,Daniels Lee A,4,A-Award,--D,1125,42879,1,0001303995,Common Stock
+A,01/15/2021 00:00:00,Shaw Daren,4,A-Award,--D,1125,44375,1,0001548135,Common Stock
+A,01/15/2021 00:00:00,SMITH BARRY M,4,A-Award,--D,1125,28875,1,0001212067,Common Stock
+A,01/15/2021 00:00:00,Blouin Ann Scott,4,A-Award,--D,1125,9875,1,0001764784,Common Stock
+D,01/14/2021 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,8650,0,8,0001470396,Employee Stock Option (right to buy)
+D,01/14/2021 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,8112,0,7,0001470396,Employee Stock Option (right to buy)
+D,01/14/2021 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,600,184190,5,0001470396,Common Stock
+D,01/14/2021 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,12362,184790,4,0001470396,Common Stock
+D,01/14/2021 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,3800,197152,3,0001470396,Common Stock
+A,01/14/2021 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,8650,200952,2,0001470396,Common Stock
+A,01/14/2021 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,8112,192302,1,0001470396,Common Stock
+D,12/21/2020 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,6880,3,0001303995,Stock Option (right to buy)
+D,12/21/2020 00:00:00,Daniels Lee A,4,S-Sale,--D,983,41754,2,0001303995,Common Stock
+A,12/21/2020 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,42737,1,0001303995,Common Stock
+A,12/18/2020 00:00:00,Christensen Christopher R.,5,G-Gift,--I,168400,168400,3,0001417555,Common Stock
+D,12/18/2020 00:00:00,Christensen Christopher R.,5,G-Gift,--I,168400,989590,2,0001417555,Common Stock
+D,12/18/2020 00:00:00,Christensen Christopher R.,5,G-Gift,--I,22100,1157990,1,0001417555,Common Stock
+D,12/04/2020 00:00:00,Christensen Christopher R.,4,S-Sale,--I,1610,1180090,7,0001417555,Common Stock
+D,12/04/2020 00:00:00,Christensen Christopher R.,4,S-Sale,--I,12663,1181700,6,0001417555,Common Stock
+D,12/03/2020 00:00:00,Port Barry,5,G-Gift,--I,7142,65444,1,0001417552,Common Stock
+D,12/03/2020 00:00:00,Christensen Christopher R.,4,S-Sale,--I,16570,1194363,5,0001417555,Common Stock
+D,12/03/2020 00:00:00,Christensen Christopher R.,4,S-Sale,--I,14130,1210933,4,0001417555,Common Stock
+D,12/02/2020 00:00:00,Christensen Christopher R.,4,S-Sale,--I,600,1225063,3,0001417555,Common Stock
+D,12/02/2020 00:00:00,Christensen Christopher R.,4,S-Sale,--I,7366,1225663,2,0001417555,Common Stock
+D,12/02/2020 00:00:00,Christensen Christopher R.,4,S-Sale,--I,22061,1233029,1,0001417555,Common Stock
+D,11/30/2020 00:00:00,Shaw Daren,4,S-Sale,--D,625,43250,1,0001548135,Common Stock
+D,11/25/2020 00:00:00,Snapper Suzanne D.,5,G-Gift,--D,1429,181017,2,0001470396,Common Stock
+D,11/20/2020 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,7863,3,0001303995,Stock Option (right to buy)
+D,11/20/2020 00:00:00,Daniels Lee A,4,S-Sale,--D,983,41754,2,0001303995,Common Stock
+A,11/20/2020 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,42737,1,0001303995,Common Stock
+D,11/16/2020 00:00:00,SMITH BARRY M,5,G-Gift,--D,8000,19750,1,0001212067,Common Stock
+D,11/11/2020 00:00:00,Burton Spencer,4,M-Exempt,--D,5899,0,3,0001778500,Employee Stock Option (right to buy)
+D,11/11/2020 00:00:00,Burton Spencer,4,S-Sale,--D,5899,24590,2,0001778500,Common Stock
+A,11/11/2020 00:00:00,Burton Spencer,4,M-Exempt,--D,5899,30489,1,0001778500,Common Stock
+D,11/11/2020 00:00:00,Port Barry,4,M-Exempt,--D,33133,0,4,0001417552,Employee Stock Option (right to buy)
+D,11/11/2020 00:00:00,Port Barry,4,S-Sale,--D,33133,92760,2,0001417552,Common Stock
+A,11/11/2020 00:00:00,Port Barry,4,M-Exempt,--D,33133,125893,1,0001417552,Common Stock
+D,11/04/2020 00:00:00,Burton Spencer,4,M-Exempt,--D,10812,0,3,0001778500,Employee Stock Option (right to buy)
+D,11/04/2020 00:00:00,Burton Spencer,4,S-Sale,--D,10812,24590,2,0001778500,Common Stock
+A,11/04/2020 00:00:00,Burton Spencer,4,M-Exempt,--D,10812,35402,1,0001778500,Common Stock
+D,11/04/2020 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,3200,0,6,0001475842,Employee Stock Option (right to buy)
+D,11/04/2020 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,3200,53891,4,0001475842,Common Stock
+A,11/04/2020 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,3200,57091,3,0001475842,Common Stock
+D,11/03/2020 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,2200,3200,5,0001475842,Employee Stock Option (right to buy)
+D,11/03/2020 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,2200,53891,2,0001475842,Common Stock
+A,11/03/2020 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,2200,56091,1,0001475842,Common Stock
+D,11/03/2020 00:00:00,Port Barry,4,M-Exempt,--D,25000,33133,7,0001417552,Employee Stock Option (right to buy)
+D,11/03/2020 00:00:00,Port Barry,4,S-Sale,--D,25000,92760,4,0001417552,Common Stock
+A,11/03/2020 00:00:00,Port Barry,4,M-Exempt,--D,25000,117760,3,0001417552,Common Stock
+D,11/02/2020 00:00:00,Port Barry,4,M-Exempt,--D,858,58133,6,0001417552,Employee Stock Option (right to buy)
+D,11/02/2020 00:00:00,Port Barry,4,S-Sale,--D,858,92760,2,0001417552,Common Stock
+A,11/02/2020 00:00:00,Port Barry,4,M-Exempt,--D,858,93618,1,0001417552,Common Stock
+D,10/29/2020 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,159,53891,1,0001475842,Common Stock
+D,10/29/2020 00:00:00,Port Barry,4,M-Exempt,--D,1900,58991,4,0001417552,Employee Stock Option (right to buy)
+D,10/29/2020 00:00:00,Port Barry,4,S-Sale,--D,1900,92760,2,0001417552,Common Stock
+A,10/29/2020 00:00:00,Port Barry,4,M-Exempt,--D,1900,94660,1,0001417552,Common Stock
+D,10/21/2020 00:00:00,Shaw Daren,4,S-Sale,--D,1375,43875,1,0001548135,Common Stock
+D,10/20/2020 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,8846,3,0001303995,Stock Option (right to buy)
+D,10/20/2020 00:00:00,Daniels Lee A,4,S-Sale,--D,983,41754,2,0001303995,Common Stock
+A,10/20/2020 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,42737,1,0001303995,Common Stock
+D,10/15/2020 00:00:00,Snapper Suzanne D.,5,G-Gift,--D,1744,182446,1,0001470396,Common Stock
+A,10/15/2020 00:00:00,Abbott Swati Bargotra,4,A-Award,--D,1125,3375,1,0001741453,Common Stock
+A,10/15/2020 00:00:00,Daniels Lee A,4,A-Award,--D,1125,41754,1,0001303995,Common Stock
+A,10/15/2020 00:00:00,Shaw Daren,4,A-Award,--D,1125,45250,1,0001548135,Common Stock
+A,10/15/2020 00:00:00,SMITH BARRY M,4,A-Award,--D,1125,27750,1,0001212067,Common Stock
+A,10/15/2020 00:00:00,Blouin Ann Scott,4,A-Award,--D,1125,8750,1,0001764784,Common Stock
+D,10/14/2020 00:00:00,Port Barry,4,M-Exempt,--D,22242,60891,9,0001417552,Employee Stock Option (right to buy)
+D,10/14/2020 00:00:00,Port Barry,4,S-Sale,--D,7102,92760,6,0001417552,Common Stock
+D,10/14/2020 00:00:00,Port Barry,4,S-Sale,--D,15140,99862,5,0001417552,Common Stock
+A,10/14/2020 00:00:00,Port Barry,4,M-Exempt,--D,22242,115002,4,0001417552,Common Stock
+D,10/12/2020 00:00:00,Daniels Lee A,4,S-Sale,--D,3536,40629,1,0001303995,Common Stock
+D,10/12/2020 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,2250,5400,3,0001475842,Employee Stock Option (right to buy)
+D,10/12/2020 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,2250,54050,2,0001475842,Common Stock
+A,10/12/2020 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,2250,56300,1,0001475842,Common Stock
+D,10/12/2020 00:00:00,Port Barry,4,M-Exempt,--D,25000,83133,8,0001417552,Employee Stock Option (right to buy)
+D,10/12/2020 00:00:00,Port Barry,4,S-Sale,--D,99,92760,3,0001417552,Common Stock
+D,10/12/2020 00:00:00,Port Barry,4,S-Sale,--D,24901,92859,2,0001417552,Common Stock
+A,10/12/2020 00:00:00,Port Barry,4,M-Exempt,--D,25000,117760,1,0001417552,Common Stock
+D,09/28/2020 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,9829,3,0001303995,Stock Option (right to buy)
+D,09/28/2020 00:00:00,Daniels Lee A,4,S-Sale,--D,983,44165,2,0001303995,Common Stock
+A,09/28/2020 00:00:00,Daniels Lee A,4,M-Exempt,--D,983,45148,1,0001303995,Common Stock
+D,09/18/2020 00:00:00,Burton Spencer,4,S-Sale,--D,830,24590,3,0001778500,Common Stock
+D,09/18/2020 00:00:00,Burton Spencer,4,S-Sale,--D,1300,25420,2,0001778500,Common Stock
+D,09/18/2020 00:00:00,Burton Spencer,4,S-Sale,--D,870,26720,1,0001778500,Common Stock
+D,09/02/2020 00:00:00,Shaw Daren,4,M-Exempt,--D,2163,19463,4,0001548135,Stock Option (right to buy)
+D,09/02/2020 00:00:00,Shaw Daren,4,S-Sale,--D,2163,44125,3,0001548135,Common Stock
+A,09/02/2020 00:00:00,Shaw Daren,4,M-Exempt,--D,2163,46288,2,0001548135,Common Stock
+D,08/31/2020 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,278,184190,1,0001470396,Common Stock
+D,08/31/2020 00:00:00,Burton Spencer,4,F-InKind,--D,178,27590,1,0001778500,Common Stock
+D,08/31/2020 00:00:00,Shaw Daren,4,S-Sale,--D,625,44125,1,0001548135,Common Stock
+D,08/31/2020 00:00:00,Christensen Christopher R.,4,F-InKind,--D,199,167488,1,0001417555,Common Stock
+D,08/31/2020 00:00:00,Keetch Chad,4,F-InKind,--D,278,77378,1,0001609878,Common Stock
+D,08/31/2020 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,119,54050,1,0001475842,Common Stock
+D,08/31/2020 00:00:00,Port Barry,4,F-InKind,--D,199,92760,1,0001417552,Common Stock
+D,08/20/2020 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,1000,7650,3,0001475842,Employee Stock Option (right to buy)
+D,08/20/2020 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,1000,54169,2,0001475842,Common Stock
+A,08/20/2020 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,1000,55169,1,0001475842,Common Stock
+D,07/30/2020 00:00:00,Port Barry,4/A,F-InKind,--D,357,72933,3,0001417552,Common Stock
+D,07/30/2020 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,357,184468,1,0001470396,Common Stock
+D,07/30/2020 00:00:00,Burton Spencer,4,F-InKind,--D,319,27768,1,0001778500,Common Stock
+D,07/30/2020 00:00:00,Christensen Christopher R.,4,F-InKind,--D,357,167687,1,0001417555,Common Stock
+D,07/30/2020 00:00:00,Keetch Chad,4,F-InKind,--D,357,77656,1,0001609878,Common Stock
+D,07/30/2020 00:00:00,Port Barry,4,F-InKind,--D,357,92959,1,0001417552,Common Stock
+A,07/29/2020 00:00:00,Port Barry,4/A,G-Gift,--I,20026,92612,2,0001417552,Common Stock
+D,07/29/2020 00:00:00,Port Barry,4/A,G-Gift,--D,20026,73290,1,0001417552,Common Stock
+D,07/27/2020 00:00:00,Shaw Daren,4,S-Sale,--D,1375,44750,2,0001548135,Common Stock
+D,07/24/2020 00:00:00,Shaw Daren,4,S-Sale,--D,1000,46125,1,0001548135,Common Stock
+D,07/17/2020 00:00:00,Christensen Roy E,5,G-Gift,--I,20000,909712,3,0001417545,Common Stock
+A,07/15/2020 00:00:00,Abbott Swati Bargotra,4,A-Award,--D,1125,2250,1,0001741453,Common Stock
+A,07/15/2020 00:00:00,Daniels Lee A,4,A-Award,--D,1125,44165,1,0001303995,Common Stock
+A,07/15/2020 00:00:00,Shaw Daren,4,A-Award,--D,1125,47125,1,0001548135,Common Stock
+A,07/15/2020 00:00:00,SMITH BARRY M,4,A-Award,--D,1125,26625,1,0001212067,Common Stock
+A,07/15/2020 00:00:00,Blouin Ann Scott,4,A-Award,--D,1125,7625,1,0001764784,Common Stock
+D,06/24/2020 00:00:00,Christensen Roy E,5,G-Gift,--I,3000,929712,2,0001417545,Common Stock
+D,06/03/2020 00:00:00,Shaw Daren,4,S-Sale,--D,500,46000,1,0001548135,Common Stock
+D,06/01/2020 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,2975,184825,2,0001470396,Common Stock
+D,06/01/2020 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,595,187800,1,0001470396,Common Stock
+D,06/01/2020 00:00:00,Burton Spencer,4,F-InKind,--D,284,28087,2,0001778500,Common Stock
+D,06/01/2020 00:00:00,Burton Spencer,4,F-InKind,--D,532,28371,1,0001778500,Common Stock
+D,06/01/2020 00:00:00,Keetch Chad,4,F-InKind,--D,2480,78013,2,0001609878,Common Stock
+D,06/01/2020 00:00:00,Keetch Chad,4,F-InKind,--D,397,80493,1,0001609878,Common Stock
+D,06/01/2020 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,865,54169,2,0001475842,Common Stock
+D,06/01/2020 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,147,55034,1,0001475842,Common Stock
+D,06/01/2020 00:00:00,Port Barry,4,F-InKind,--D,2480,93316,2,0001417552,Common Stock
+D,06/01/2020 00:00:00,Port Barry,4,F-InKind,--D,635,95796,1,0001417552,Common Stock
+D,06/01/2020 00:00:00,Christensen Christopher R.,4,F-InKind,--D,3967,168044,3,0001417555,Common Stock
+D,06/01/2020 00:00:00,Christensen Christopher R.,4,F-InKind,--D,794,172011,2,0001417555,Common Stock
+A,05/28/2020 00:00:00,Christensen Christopher R.,4,A-Award,--D,5000,5000,5,0001417555,Employee Stock Option (right to buy)
+A,05/28/2020 00:00:00,Christensen Christopher R.,4,A-Award,--D,2000,172805,1,0001417555,Common Stock
+A,05/28/2020 00:00:00,Snapper Suzanne D.,4,A-Award,--D,5000,5000,4,0001470396,Employee Stock Option (right to buy)
+A,05/28/2020 00:00:00,Snapper Suzanne D.,4,A-Award,--D,2000,188395,2,0001470396,Common Stock
+A,05/28/2020 00:00:00,Burton Spencer,4,A-Award,--D,10000,10000,4,0001778500,Employee Stock Option (right to buy)
+A,05/28/2020 00:00:00,Burton Spencer,4,A-Award,--D,4000,28903,3,0001778500,Common Stock
+A,05/28/2020 00:00:00,Keetch Chad,4,A-Award,--D,5000,5000,3,0001609878,Employee Stock Option (right to buy)
+A,05/28/2020 00:00:00,Keetch Chad,4,A-Award,--D,2000,80890,2,0001609878,Common Stock
+A,05/28/2020 00:00:00,Wittekind Beverly B.,4,A-Award,--D,2500,2500,3,0001475842,Employee Stock Option (right to buy)
+A,05/28/2020 00:00:00,Wittekind Beverly B.,4,A-Award,--D,1000,55181,2,0001475842,Common Stock
+A,05/28/2020 00:00:00,Port Barry,4,A-Award,--D,5000,5000,4,0001417552,Employee Stock Option (right to buy)
+A,05/28/2020 00:00:00,Port Barry,4,A-Award,--D,2000,96431,2,0001417552,Common Stock
+D,05/27/2020 00:00:00,Keetch Chad,5,G-Gift,--D,6813,70565,1,0001609878,Common Stock
+D,05/26/2020 00:00:00,Snapper Suzanne D.,4,F-InKind,--D,278,186395,1,0001470396,Common Stock
+D,05/26/2020 00:00:00,Burton Spencer,4,F-InKind,--D,178,24903,2,0001778500,Common Stock
+D,05/26/2020 00:00:00,Burton Spencer,4,F-InKind,--D,142,25081,1,0001778500,Common Stock
+D,05/26/2020 00:00:00,Keetch Chad,4,F-InKind,--D,278,78890,1,0001609878,Common Stock
+D,05/26/2020 00:00:00,Wittekind Beverly B.,4,F-InKind,--D,83,54181,1,0001475842,Common Stock
+D,05/26/2020 00:00:00,Port Barry,4,F-InKind,--D,318,94431,1,0001417552,Common Stock
+A,04/15/2020 00:00:00,Abbott Swati Bargotra,4,A-Award,--D,1125,1125,1,0001741453,Common Stock
+A,04/15/2020 00:00:00,Daniels Lee A,4,A-Award,--D,1125,43040,1,0001303995,Common Stock
+A,04/15/2020 00:00:00,Shaw Daren,4,A-Award,--D,1125,46500,1,0001548135,Common Stock
+A,04/15/2020 00:00:00,SMITH BARRY M,4,A-Award,--D,1125,25500,1,0001212067,Common Stock
+A,04/15/2020 00:00:00,Blouin Ann Scott,4,A-Award,--D,1125,6500,1,0001764784,Common Stock
+A,03/13/2020 00:00:00,Snapper Suzanne D.,4,P-Purchase,--D,1650,241188,1,0001470396,Common Stock
+A,03/13/2020 00:00:00,Christensen Christopher R.,4,P-Purchase,--I,9766,1255090,3,0001417555,Common Stock
+A,03/12/2020 00:00:00,Christensen Christopher R.,4,P-Purchase,--I,6437,1245324,2,0001417555,Common Stock
+A,03/12/2020 00:00:00,Christensen Christopher R.,4,P-Purchase,--I,8563,1238887,1,0001417555,Common Stock
+D,03/09/2020 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,2700,8112,2,0001470396,Employee Stock Option (right to buy)
+A,03/09/2020 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,2700,239538,1,0001470396,Common Stock
+A,03/09/2020 00:00:00,Daniels Lee A,4,P-Purchase,--D,1286,41915,1,0001303995,Common Stock
+A,03/04/2020 00:00:00,Daniels Lee A,4,P-Purchase,--D,2250,40629,1,0001303995,Common Stock
+A,03/03/2020 00:00:00,Snapper Suzanne D.,4,A-Award,--D,17998,236838,1,0001470396,Common Stock
+A,03/03/2020 00:00:00,Burton Spencer,4,A-Award,--D,7411,25223,1,0001778500,Common Stock
+A,03/03/2020 00:00:00,Christensen Christopher R.,4,A-Award,--D,18845,170805,1,0001417555,Common Stock
+A,03/03/2020 00:00:00,Keetch Chad,4,A-Award,--D,10375,79168,1,0001609878,Common Stock
+A,03/03/2020 00:00:00,Port Barry,4,A-Award,--D,18845,167335,1,0001417552,Common Stock
+D,02/19/2020 00:00:00,Burton Spencer,4,S-Sale,--D,112,17812,1,0001778500,Common Stock
+D,02/06/2020 00:00:00,Nackel John G.,4,S-Sale,--D,1000,70982,3,0001437214,Common Stock
+D,02/06/2020 00:00:00,Nackel John G.,4,S-Sale,--D,1000,71982,2,0001437214,Common Stock
+D,02/06/2020 00:00:00,Nackel John G.,4,S-Sale,--D,1000,72982,1,0001437214,Common Stock
+D,02/05/2020 00:00:00,Burton Spencer,4,S-Sale,--D,138,18767,1,0001778500,Common Stock
+D,02/03/2020 00:00:00,Christensen Roy E,5,G-Gift,--I,1200,932712,1,0001417545,Common Stock
+A,01/15/2020 00:00:00,SMITH BARRY M,4,A-Award,--D,1125,33375,1,0001212067,Common Stock
+A,01/15/2020 00:00:00,Shaw Daren,4,A-Award,--D,1125,45375,1,0001548135,Common Stock
+A,01/15/2020 00:00:00,Blouin Ann Scott,4,A-Award,--D,1125,5375,1,0001764784,Common Stock
+A,01/15/2020 00:00:00,Daniels Lee A,4,A-Award,--D,1125,38379,1,0001303995,Common Stock
+D,01/08/2020 00:00:00,Nackel John G.,4,S-Sale,--D,1000,73982,1,0001437214,Common Stock
+D,01/02/2020 00:00:00,Nackel John G.,4,S-Sale,--D,1000,74982,1,0001437214,Common Stock
+D,12/31/2019 00:00:00,Christensen Christopher R.,5,G-Gift,--I,3000,1230324,3,0001417555,Common Stock
+D,12/30/2019 00:00:00,Port Barry,5,G-Gift,--D,2350,148490,2,0001417552,Common Stock
+D,12/24/2019 00:00:00,Snapper Suzanne D.,5,G-Gift,--D,2000,218840,2,0001470396,Common Stock
+D,12/23/2019 00:00:00,Christensen Christopher R.,5,G-Gift,--I,4000,1233324,2,0001417555,Common Stock
+A,12/19/2019 00:00:00,Christensen Christopher R.,5,G-Gift,--I,1000,1237324,1,0001417555,Common Stock
+D,12/04/2019 00:00:00,Christensen Roy E,5,G-Gift,--I,5000,933912,3,0001417545,Common Stock
+D,12/04/2019 00:00:00,Christensen Roy E,5,G-Gift,--I,10000,938912,2,0001417545,Common Stock
+D,11/14/2019 00:00:00,SMITH BARRY M,5,G-Gift,--D,9000,23250,1,0001212067,Common Stock
+D,10/31/2019 00:00:00,Burton Spencer,4,S-Sale,--D,115,18905,1,0001778500,Common Stock
+D,10/30/2019 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,113,54264,1,0001475842,Common Stock
+A,10/15/2019 00:00:00,Daniels Lee A,4,A-Award,--D,1125,37254,1,0001303995,Common Stock
+A,10/15/2019 00:00:00,Nackel John G.,4,A-Award,--D,1125,75982,1,0001437214,Common Stock
+A,10/15/2019 00:00:00,SMITH BARRY M,4,A-Award,--D,1125,32250,1,0001212067,Common Stock
+A,10/15/2019 00:00:00,Shaw Daren,4,A-Award,--D,1125,44250,1,0001548135,Common Stock
+A,10/15/2019 00:00:00,Blouin Ann Scott,4,A-Award,--D,1125,4250,1,0001764784,Common Stock
+D,09/04/2019 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,85,54377,1,0001475842,Common Stock
+D,09/04/2019 00:00:00,Christensen Christopher R.,4,S-Sale,--D,199,151960,1,0001417555,Common Stock
+D,09/04/2019 00:00:00,Port Barry,4,S-Sale,--D,199,156090,1,0001417552,Common Stock
+D,09/04/2019 00:00:00,Burton Spencer,4,S-Sale,--D,118,19020,1,0001778500,Common Stock
+D,09/04/2019 00:00:00,Keetch Chad,4,S-Sale,--D,278,71830,1,0001609878,Common Stock
+D,09/04/2019 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,278,222578,1,0001470396,Common Stock
+D,08/01/2019 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,360,222856,1,0001470396,Common Stock
+D,08/01/2019 00:00:00,Burton Spencer,4,S-Sale,--D,213,19138,1,0001778500,Common Stock
+D,08/01/2019 00:00:00,Christensen Christopher R.,4,S-Sale,--D,359,152159,1,0001417555,Common Stock
+D,08/01/2019 00:00:00,Port Barry,4,S-Sale,--D,360,156289,1,0001417552,Common Stock
+D,08/01/2019 00:00:00,Keetch Chad,4,S-Sale,--D,360,72108,1,0001609878,Common Stock
+D,07/29/2019 00:00:00,Port Barry,5,G-Gift,--D,5250,150840,1,0001417552,Common Stock
+D,07/29/2019 00:00:00,Keetch Chad,5,G-Gift,--D,3037,68793,1,0001609878,Common Stock
+D,07/29/2019 00:00:00,Burton Spencer,4,S-Sale,--D,1000,19351,1,0001778500,Common Stock
+A,07/15/2019 00:00:00,SMITH BARRY M,4,A-Award,--D,1125,31125,1,0001212067,Common Stock
+A,07/15/2019 00:00:00,Nackel John G.,4,A-Award,--D,1125,74857,1,0001437214,Common Stock
+A,07/15/2019 00:00:00,Daniels Lee A,4,A-Award,--D,1125,36129,1,0001303995,Common Stock
+A,07/15/2019 00:00:00,Blouin Ann Scott,4,A-Award,--D,1125,3125,1,0001764784,Common Stock
+A,07/15/2019 00:00:00,Shaw Daren,4,A-Award,--D,1125,43125,1,0001548135,Common Stock
+D,06/03/2019 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,2982,223216,1,0001470396,Common Stock
+D,06/03/2019 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,868,54462,1,0001475842,Common Stock
+D,05/31/2019 00:00:00,Burton Spencer,4,F-InKind,--D,188,20351,2,0001778500,Common Stock
+D,05/31/2019 00:00:00,Christensen Christopher R.,4,F-InKind,--D,3967,152518,2,0001417555,Common Stock
+D,05/31/2019 00:00:00,Port Barry,4,F-InKind,--D,2479,156649,3,0001417552,Common Stock
+D,05/31/2019 00:00:00,Keetch Chad,4,F-InKind,--D,2479,72468,3,0001609878,Common Stock
+A,05/30/2019 00:00:00,Burton Spencer,4,A-Award,--D,15000,15000,3,0001778500,Employee Stock Option (right to buy)
+A,05/30/2019 00:00:00,Burton Spencer,4,A-Award,--D,6000,20539,1,0001778500,Common Stock
+A,05/30/2019 00:00:00,Christensen Christopher R.,4,A-Award,--D,20000,20000,4,0001417555,Employee Stock Option (right to buy)
+A,05/30/2019 00:00:00,Christensen Christopher R.,4,A-Award,--D,8000,156485,1,0001417555,Common Stock
+A,05/30/2019 00:00:00,Port Barry,4,A-Award,--D,16000,16000,4,0001417552,Employee Stock Option (right to buy)
+A,05/30/2019 00:00:00,Port Barry,4,A-Award,--D,6400,159128,2,0001417552,Common Stock
+A,05/30/2019 00:00:00,Snapper Suzanne D.,4,A-Award,--D,15000,15000,3,0001470396,Employee Stock Option (right to buy)
+A,05/30/2019 00:00:00,Snapper Suzanne D.,4,A-Award,--D,6000,226198,2,0001470396,Common Stock
+A,05/30/2019 00:00:00,Keetch Chad,4,A-Award,--D,10000,10000,4,0001609878,Employee Stock Option (right to buy)
+A,05/30/2019 00:00:00,Keetch Chad,4,A-Award,--D,4000,74947,2,0001609878,Common Stock
+A,05/30/2019 00:00:00,Wittekind Beverly B.,4,A-Award,--D,4000,4000,3,0001475842,Employee Stock Option (right to buy)
+A,05/30/2019 00:00:00,Wittekind Beverly B.,4,A-Award,--D,1600,55330,2,0001475842,Common Stock
+D,05/29/2019 00:00:00,Port Barry,4,S-Sale,--D,326,152728,1,0001417552,Common Stock
+D,05/29/2019 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,285,220198,1,0001470396,Common Stock
+D,05/29/2019 00:00:00,Keetch Chad,4,S-Sale,--D,285,70947,1,0001609878,Common Stock
+D,05/29/2019 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,86,53730,1,0001475842,Common Stock
+D,05/24/2019 00:00:00,Snapper Suzanne D.,5,G-Gift,--D,1738,220840,1,0001470396,Common Stock
+D,05/10/2019 00:00:00,Christensen Roy E,5,G-Gift,--I,19000,948912,1,0001417545,Common Stock
+A,04/15/2019 00:00:00,Nackel John G.,4,A-Award,--D,1500,73732,1,0001437214,Common Stock
+A,04/15/2019 00:00:00,SMITH BARRY M,4,A-Award,--D,1500,30000,1,0001212067,Common Stock
+A,04/15/2019 00:00:00,Blouin Ann Scott,4,A-Award,--D,1500,2000,1,0001764784,Common Stock
+A,04/15/2019 00:00:00,Daniels Lee A,4,A-Award,--D,1500,35004,1,0001303995,Common Stock
+A,04/15/2019 00:00:00,Shaw Daren,4,A-Award,--D,1500,42000,1,0001548135,Common Stock
+D,04/12/2019 00:00:00,Burton Spencer,5,G-Gift,--D,843,18062,1,0001778500,Common Stock
+A,03/04/2019 00:00:00,Christensen Christopher R.,4,A-Award,--D,20884,148485,1,0001417555,Common Stock
+A,03/04/2019 00:00:00,Keetch Chad,4,A-Award,--D,11289,71232,1,0001609878,Common Stock
+A,03/04/2019 00:00:00,Snapper Suzanne D.,4,A-Award,--D,16119,220483,1,0001470396,Common Stock
+A,03/04/2019 00:00:00,Port Barry,4,A-Award,--D,16539,153054,1,0001417552,Common Stock
+D,02/08/2019 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,36660,0,4,0001470396,Employee Stock Options (right to buy)
+D,02/08/2019 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,100,209314,3,0001470396,Common Stock
+D,02/08/2019 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,19091,209414,2,0001470396,Common Stock
+A,02/08/2019 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,36660,228505,1,0001470396,Common Stock
+A,01/15/2019 00:00:00,Blouin Ann Scott,4,A-Award,--D,500,500,1,0001764784,Common Stock
+A,01/15/2019 00:00:00,Daniels Lee A,4,A-Award,--D,1500,33504,1,0001303995,Common Stock
+A,01/15/2019 00:00:00,SMITH BARRY M,4,A-Award,--D,1500,28500,1,0001212067,Common Stock
+A,01/15/2019 00:00:00,Shaw Daren,4,A-Award,--D,1500,40500,1,0001548135,Common Stock
+A,01/15/2019 00:00:00,Nackel John G.,4,A-Award,--D,1500,72232,1,0001437214,Common Stock
+D,01/10/2019 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,21996,0,3,0001470396,Common Stock
+D,01/10/2019 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,9296,191845,2,0001470396,Common Stock
+A,01/10/2019 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,21996,201141,1,0001470396,Common Stock
+D,12/20/2018 00:00:00,Christensen Roy E,5,G-Gift,--I,5000,967912,6,0001417545,Common Stock
+D,11/29/2018 00:00:00,Port Barry,5,G-Gift,--D,5340,136515,1,0001417552,Common Stock
+D,11/28/2018 00:00:00,Keetch Chad,5,G-Gift,--D,3525,59943,2,0001609878,Common Stock
+D,11/16/2018 00:00:00,Christensen Roy E,5,G-Gift,--I,10000,972912,5,0001417545,Common Stock
+A,11/16/2018 00:00:00,Christensen Christopher R.,5,A-Award,--I,1000,1363442,3,0001417555,Common Stock
+D,11/07/2018 00:00:00,Snapper Suzanne D.,5,G-Gift,--D,2200,174195,2,0001470396,Common Stock
+D,11/05/2018 00:00:00,Keetch Chad,4,M-Exempt,--D,60915,12405,7,0001609878,Common Stock
+D,11/05/2018 00:00:00,Keetch Chad,4,M-Exempt,--D,3124,542,6,0001609878,Common Stock
+D,11/05/2018 00:00:00,Keetch Chad,4,S-Sale,--D,700,67768,5,0001609878,Common Stock
+D,11/05/2018 00:00:00,Keetch Chad,4,S-Sale,--D,15382,68468,4,0001609878,Common Stock
+D,11/05/2018 00:00:00,Keetch Chad,4,S-Sale,--D,47957,83850,3,0001609878,Common Stock
+A,11/05/2018 00:00:00,Keetch Chad,4,M-Exempt,--D,60915,131807,2,0001609878,Common Stock
+A,11/05/2018 00:00:00,Keetch Chad,4,M-Exempt,--D,3124,70892,1,0001609878,Common Stock
+D,11/02/2018 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,2664,0,3,0001475842,Common Stock
+D,11/02/2018 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,2664,53816,2,0001475842,Common Stock
+A,11/02/2018 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,2664,56480,1,0001475842,Common Stock
+D,11/02/2018 00:00:00,Nackel John G.,4,S-Sale,--D,1000,70732,3,0001437214,Common Stock
+D,11/02/2018 00:00:00,Nackel John G.,4,S-Sale,--D,2000,71732,2,0001437214,Common Stock
+D,11/01/2018 00:00:00,Nackel John G.,4,S-Sale,--D,3000,73732,1,0001437214,Common Stock
+D,11/01/2018 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,12000,2664,9,0001475842,Common Stock
+D,11/01/2018 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,5998,0,8,0001475842,Employee Stock Option (right to buy)
+D,11/01/2018 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,5000,53816,7,0001475842,Common Stock
+D,11/01/2018 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,4000,58816,6,0001475842,Common Stock
+D,11/01/2018 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,4998,62816,5,0001475842,Common Stock
+D,11/01/2018 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,4000,67814,4,0001475842,Common Stock
+A,11/01/2018 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,12000,71814,3,0001475842,Common Stock
+A,11/01/2018 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,5998,59814,2,0001475842,Common Stock
+D,10/30/2018 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,168,53816,1,0001475842,Common Stock
+D,10/30/2018 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,80,179145,1,0001470396,Common Stock
+D,10/16/2018 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,3000,5998,6,0001475842,Employee Stock Option (right to buy)
+D,10/16/2018 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,3000,53984,4,0001475842,Common Stock
+A,10/16/2018 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,3000,56984,3,0001475842,Common Stock
+D,10/15/2018 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,2000,8998,5,0001475842,Employee Stock Option (right to buy)
+D,10/15/2018 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,2000,53984,2,0001475842,Common Stock
+A,10/15/2018 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,2000,55984,1,0001475842,Common Stock
+A,10/15/2018 00:00:00,SMITH BARRY M,4,A-Award,--D,1500,27000,1,0001212067,Common Stock
+A,10/15/2018 00:00:00,Daniels Lee A,4,A-Award,--D,1500,32004,1,0001303995,Common Stock
+A,10/15/2018 00:00:00,Nackel John G.,4,A-Award,--D,1500,76732,1,0001437214,Common Stock
+A,10/15/2018 00:00:00,Shaw Daren,4,A-Award,--D,1500,39000,1,0001548135,Common Stock
+D,10/10/2018 00:00:00,Christensen Christopher R.,5,G-Gift,--I,12000,1362442,2,0001417555,Common Stock
+D,10/09/2018 00:00:00,Nackel John G.,4,S-Sale,--D,3000,75232,2,0001437214,Common Stock
+D,10/05/2018 00:00:00,Christensen Roy E,5,G-Gift,--I,2000,982912,4,0001417545,Common Stock
+D,10/05/2018 00:00:00,Christensen Roy E,5,G-Gift,--I,1000,984912,3,0001417545,Common Stock
+D,10/05/2018 00:00:00,Nackel John G.,4,S-Sale,--D,1000,78232,1,0001437214,Common Stock
+D,09/13/2018 00:00:00,Snapper Suzanne D.,5,G-Gift,--D,2750,176395,1,0001470396,Common Stock
+D,09/04/2018 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,283,179225,1,0001470396,Common Stock
+D,09/04/2018 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,85,53984,1,0001475842,Common Stock
+D,09/04/2018 00:00:00,Port Barry,4,S-Sale,--D,203,141855,1,0001417552,Common Stock
+D,09/04/2018 00:00:00,Keetch Chad,4,S-Sale,--D,197,67768,1,0001609878,Common Stock
+D,08/24/2018 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,21996,0,9,0001470396,Employee Stock Option (right to buy)
+D,08/24/2018 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,12226,179508,6,0001470396,Common Stock
+A,08/24/2018 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,21996,191734,5,0001470396,Common Stock
+D,08/24/2018 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,24813,169738,4,0001470396,Common Stock
+A,08/24/2018 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,44990,194551,3,0001470396,Common Stock
+D,08/23/2018 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,44990,0,8,0001470396,Employee Stock Option (right to buy)
+D,08/23/2018 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,10000,44990,7,0001470396,Employee Stock Option (right to buy)
+D,08/23/2018 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,10000,149561,2,0001470396,Common Stock
+A,08/23/2018 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,10000,159561,1,0001470396,Common Stock
+D,08/02/2018 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,201,149561,2,0001470396,Common Stock
+D,07/31/2018 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,358,149762,1,0001470396,Common Stock
+D,07/31/2018 00:00:00,Keetch Chad,4,S-Sale,--D,250,67965,1,0001609878,Common Stock
+D,07/31/2018 00:00:00,Port Barry,4,S-Sale,--D,358,142058,1,0001417552,Common Stock
+D,07/19/2018 00:00:00,Christensen Christopher R.,4,S-Sale,--I,15528,1389442,1,0001417555,Common Stock
+D,07/18/2018 00:00:00,Christensen Christopher R.,4,S-Sale,--I,32217,1404970,3,0001417555,Common Stock
+D,07/17/2018 00:00:00,Christensen Christopher R.,4,S-Sale,--I,31014,1437187,2,0001417555,Common Stock
+D,07/16/2018 00:00:00,Christensen Christopher R.,4,S-Sale,--I,21241,1468201,1,0001417555,Common Stock
+A,07/16/2018 00:00:00,Nackel John G.,4,A-Award,--D,1500,79232,1,0001437214,Common Stock
+A,07/16/2018 00:00:00,Davis Malene,4,A-Award,--D,1500,4500,1,0001722491,Common Stock
+A,07/16/2018 00:00:00,SMITH BARRY M,4,A-Award,--D,1500,25500,1,0001212067,Common Stock
+A,07/16/2018 00:00:00,Shaw Daren,4,A-Award,--D,1500,37500,1,0001548135,Common Stock
+A,07/16/2018 00:00:00,Daniels Lee A,4,A-Award,--D,1500,30504,1,0001303995,Common Stock
+D,06/13/2018 00:00:00,Keetch Chad,4,S-Sale,--D,139,68215,1,0001609878,Common Stock
+D,06/13/2018 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,199,150120,1,0001470396,Common Stock
+A,05/31/2018 00:00:00,Wittekind Beverly B.,4,A-Award,--D,12500,54069,1,0001475842,Common Stock
+A,05/31/2018 00:00:00,Keetch Chad,4,A-Award,--D,25000,68354,1,0001609878,Common Stock
+A,05/31/2018 00:00:00,Port Barry,4,A-Award,--D,25000,142416,1,0001417552,Common Stock
+A,05/31/2018 00:00:00,Snapper Suzanne D.,4,A-Award,--D,30000,150319,1,0001470396,Common Stock
+A,05/31/2018 00:00:00,Christensen Christopher R.,4,A-Award,--I,40000,1489442,1,0001417555,Common Stock
+D,05/29/2018 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,87,41569,1,0001475842,Common Stock
+D,05/29/2018 00:00:00,Port Barry,4,S-Sale,--D,326,117416,1,0001417552,Common Stock
+D,05/29/2018 00:00:00,Keetch Chad,4,S-Sale,--D,200,43354,1,0001609878,Common Stock
+D,05/29/2018 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,285,120319,1,0001470396,Common Stock
+D,05/23/2018 00:00:00,Snapper Suzanne D.,4/A,M-Exempt,--D,6600,0,3,0001470396,Employee Stock Option (right to buy)
+D,05/23/2018 00:00:00,Snapper Suzanne D.,4/A,S-Sale,--D,3659,120604,2,0001470396,Common Stock
+A,05/23/2018 00:00:00,Snapper Suzanne D.,4/A,M-Exempt,--D,6600,124263,1,0001470396,Common Stock
+D,05/23/2018 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,6600,0,3,0001470396,Employee Stock Option (right to buy)
+D,05/23/2018 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,3273,120990,2,0001470396,Common Stock
+A,05/23/2018 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,6600,124263,1,0001470396,Common Stock
+D,05/03/2018 00:00:00,Keetch Chad,5,G-Gift,--D,4300,63468,1,0001609878,Common Stock
+D,05/03/2018 00:00:00,Nackel John G.,4,S-Sale,--D,8000,77732,1,0001437214,Common Stock
+D,04/23/2018 00:00:00,Christensen Roy E,5,G-Gift,--I,20000,985912,2,0001417545,Common Stock
+D,04/18/2018 00:00:00,Christensen Roy E,5,G-Gift,--I,25000,1005912,1,0001417545,Common Stock
+A,04/16/2018 00:00:00,Nackel John G.,4,A-Award,--D,1500,85732,1,0001437214,Common Stock
+A,04/16/2018 00:00:00,Daniels Lee A,4,A-Award,--D,1500,29004,1,0001303995,Common Stock
+A,04/16/2018 00:00:00,SMITH BARRY M,4,A-Award,--D,1500,24000,1,0001212067,Common Stock
+A,04/16/2018 00:00:00,Davis Malene,4,A-Award,--D,1500,3000,1,0001722491,Common Stock
+A,04/16/2018 00:00:00,Shaw Daren,4,A-Award,--D,1500,36000,1,0001548135,Common Stock
+D,03/15/2018 00:00:00,Port Barry,4,S-Sale,--D,4976,117742,1,0001417552,Common Stock
+D,03/12/2018 00:00:00,Christensen Christopher R.,5,G-Gift,--I,15000,1374442,1,0001417555,Common Stock
+A,03/08/2018 00:00:00,Snapper Suzanne D.,4,A-Award,--D,1583,117663,1,0001470396,Common Stock
+A,03/08/2018 00:00:00,Port Barry,4,A-Award,--D,1761,122718,1,0001417552,Common Stock
+A,03/08/2018 00:00:00,Keetch Chad,4,A-Award,--D,1266,43554,1,0001609878,Common Stock
+A,03/08/2018 00:00:00,Christensen Christopher R.,4,A-Award,--D,2130,1449442,1,0001417555,Common Stock
+D,02/27/2018 00:00:00,Nackel John G.,4,S-Sale,--D,7000,84232,1,0001437214,Common Stock
+D,02/20/2018 00:00:00,Nackel John G.,4,S-Sale,--D,5000,91232,1,0001437214,Common Stock
+D,02/16/2018 00:00:00,Port Barry,4,M-Exempt,--D,2885,0,9,0001417552,Employee Stock Option (right to buy)
+D,02/16/2018 00:00:00,Port Barry,4,S-Sale,--D,2885,120957,6,0001417552,Common Stock
+A,02/16/2018 00:00:00,Port Barry,4,M-Exempt,--D,2885,123842,5,0001417552,Common Stock
+D,02/15/2018 00:00:00,Port Barry,4,M-Exempt,--D,15445,2885,8,0001417552,Employee Stock Option (right to buy)
+D,02/15/2018 00:00:00,Port Barry,4,M-Exempt,--D,1510,0,7,0001417552,Employee Stock Option (right to buy)
+D,02/15/2018 00:00:00,Port Barry,4,S-Sale,--D,15445,120957,4,0001417552,Common Stock
+A,02/15/2018 00:00:00,Port Barry,4,M-Exempt,--D,15445,136402,3,0001417552,Common Stock
+D,02/15/2018 00:00:00,Port Barry,4,S-Sale,--D,1510,120957,2,0001417552,Common Stock
+A,02/15/2018 00:00:00,Port Barry,4,M-Exempt,--D,1510,122467,1,0001417552,Common Stock
+D,02/13/2018 00:00:00,Port Barry,4,M-Exempt,--D,5822,1510,6,0001417552,Employee Stock Option (right to buy)
+D,02/12/2018 00:00:00,Nackel John G.,4,S-Sale,--D,3000,96232,2,0001437214,Common Stock
+D,02/09/2018 00:00:00,Nackel John G.,4,S-Sale,--D,2000,99232,1,0001437214,Common Stock
+D,02/09/2018 00:00:00,Port Barry,4,M-Exempt,--D,18330,0,5,0001417552,Employee Stock Option (right to buy)
+D,02/09/2018 00:00:00,Port Barry,4,S-Sale,--D,5822,120957,4,0001417552,Common Stock
+A,02/09/2018 00:00:00,Port Barry,4,M-Exempt,--D,5822,126779,3,0001417552,Common Stock
+D,02/09/2018 00:00:00,Port Barry,4,S-Sale,--D,18330,124684,2,0001417552,Common Stock
+A,02/09/2018 00:00:00,Port Barry,4,M-Exempt,--D,18330,143014,1,0001417552,Common Stock
+D,01/22/2018 00:00:00,Port Barry,4,M-Exempt,--D,16995,0,6,0001417552,Employee Stock Option (right to buy)
+D,01/22/2018 00:00:00,Port Barry,4,M-Exempt,--D,3428,0,5,0001417552,Employee Stock Option (right to buy)
+D,01/22/2018 00:00:00,Port Barry,4,S-Sale,--D,16995,124684,4,0001417552,Common Stock
+A,01/22/2018 00:00:00,Port Barry,4,M-Exempt,--D,16995,141679,3,0001417552,Common Stock
+D,01/22/2018 00:00:00,Port Barry,4,S-Sale,--D,3428,124684,2,0001417552,Common Stock
+A,01/22/2018 00:00:00,Port Barry,4,M-Exempt,--D,3428,128112,1,0001417552,Common Stock
+D,01/16/2018 00:00:00,Port Barry,4,M-Exempt,--D,5001,16995,6,0001417552,Employee Stock Option (right to buy)
+D,01/16/2018 00:00:00,Port Barry,4,M-Exempt,--D,900,3428,5,0001417552,Employee Stock Option (right to buy)
+D,01/16/2018 00:00:00,Port Barry,4,S-Sale,--D,5001,124684,4,0001417552,Common Stock
+A,01/16/2018 00:00:00,Port Barry,4,M-Exempt,--D,5001,129685,3,0001417552,Common Stock
+D,01/16/2018 00:00:00,Port Barry,4,S-Sale,--D,900,124684,2,0001417552,Common Stock
+A,01/16/2018 00:00:00,Port Barry,4,M-Exempt,--D,900,125584,1,0001417552,Common Stock
+A,01/16/2018 00:00:00,Shaw Daren,4,A-Award,--D,1500,34500,1,0001548135,Common Stock
+A,01/16/2018 00:00:00,Nackel John G.,4,A-Award,--D,1500,101232,1,0001437214,Common Stock
+A,01/16/2018 00:00:00,Daniels Lee A,4,A-Award,--D,1500,27504,1,0001303995,Common Stock
+A,01/16/2018 00:00:00,SMITH BARRY M,4,A-Award,--D,1500,22500,1,0001212067,Common Stock
+A,01/16/2018 00:00:00,Davis Malene,4,A-Award,--D,1500,1500,1,0001722491,Common Stock
+D,01/11/2018 00:00:00,Hubenette Antoinette T.,4,M-Exempt,--D,18330,0,3,0001417551,Stock Option (right to buy)
+D,01/11/2018 00:00:00,Hubenette Antoinette T.,4,S-Sale,--D,18330,26126,2,0001417551,Common Stock
+A,01/11/2018 00:00:00,Hubenette Antoinette T.,4,M-Exempt,--D,18330,44456,1,0001417551,Common Stock
+D,01/08/2018 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,9664,0,3,0001475842,Common Stock
+D,01/08/2018 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,9664,41656,2,0001475842,Common Stock
+A,01/08/2018 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,9664,51320,1,0001475842,Common Stock
+D,12/28/2017 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,9800,0,2,0001470396,Employee Stock Option (right to buy)
+A,12/28/2017 00:00:00,Snapper Suzanne D.,4,M-Exempt,--D,9800,120580,1,0001470396,Common Stock
+D,12/18/2017 00:00:00,Snapper Suzanne D.,5,G-Gift,--D,4500,116080,1,0001470396,Common Stock
+D,12/15/2017 00:00:00,Christensen Roy E,5,G-Gift,--I,15000,1028412,4,0001417545,Common Stock
+D,12/11/2017 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,5000,9664,3,0001475842,Common Stock
+D,12/11/2017 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,5000,41656,2,0001475842,Common Stock
+A,12/11/2017 00:00:00,Wittekind Beverly B.,4,M-Exempt,--D,5000,46656,1,0001475842,Common Stock
+D,11/22/2017 00:00:00,Christensen Roy E,5,G-Gift,--I,30000,1043412,3,0001417545,Common Stock
+D,11/20/2017 00:00:00,Port Barry,4,M-Exempt,--D,10000,4328,3,0001417552,Employee Stock Option
+D,11/20/2017 00:00:00,Port Barry,4,S-Sale,--D,10000,124684,2,0001417552,Common Stock
+A,11/20/2017 00:00:00,Port Barry,4,M-Exempt,--D,10000,134684,1,0001417552,Common Stock
+D,11/08/2017 00:00:00,Port Barry,5,G-Gift,--D,3727,120957,1,0001417552,Common Stock
+D,11/02/2017 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,216,41656,1,0001475842,Common Stock
+D,11/01/2017 00:00:00,Keetch Chad,4,S-Sale,--D,190,42988,2,0001609878,Common Stock
+D,11/01/2017 00:00:00,Port Barry,4,S-Sale,--D,156,124684,1,0001417552,Common Stock
+D,11/01/2017 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,145,110780,2,0001470396,Common Stock
+D,10/31/2017 00:00:00,Keetch Chad,4,S-Sale,--D,96,43178,1,0001609878,Common Stock
+D,10/31/2017 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,72,110925,1,0001470396,Common Stock
+D,10/20/2017 00:00:00,Christensen Christopher R.,5,G-Gift,--I,10000,1447312,1,0001417555,Common Stock
+D,10/17/2017 00:00:00,Keetch Chad,5,G-Gift,--D,700,42288,1,0001609878,Common Stock
+A,10/16/2017 00:00:00,SMITH BARRY M,4,A-Award,--D,1500,21000,1,0001212067,Common Stock
+A,10/16/2017 00:00:00,Hubenette Antoinette T.,4,A-Award,--D,1500,26126,1,0001417551,Common Stock
+A,10/16/2017 00:00:00,Shaw Daren,4,A-Award,--D,1500,33000,1,0001548135,Common Stock
+A,10/16/2017 00:00:00,Daniels Lee A,4,A-Award,--D,1500,26004,1,0001303995,Common Stock
+A,10/16/2017 00:00:00,Nackel John G.,4,A-Award,--D,1500,99732,1,0001437214,Common Stock
+D,09/12/2017 00:00:00,Hubenette Antoinette T.,4,S-Sale,--D,2500,24626,1,0001417551,Common Stock
+D,09/06/2017 00:00:00,Port Barry,4,S-Sale,--D,177,124840,1,0001417552,Common Stock
+D,09/05/2017 00:00:00,Keetch Chad,4,S-Sale,--D,332,43274,1,0001609878,Common Stock
+D,09/05/2017 00:00:00,Wittekind Beverly B.,4,S-Sale,--D,110,41872,1,0001475842,Common Stock
+D,09/05/2017 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,250,110997,1,0001470396,Common Stock
+D,08/03/2017 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,154,111247,2,0001470396,Common Stock
+D,08/02/2017 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,322,111401,1,0001470396,Common Stock
+D,08/02/2017 00:00:00,Keetch Chad,4,S-Sale,--D,387,43606,1,0001609878,Common Stock
+D,08/02/2017 00:00:00,Port Barry,4,S-Sale,--D,279,125017,1,0001417552,Common Stock
+D,07/28/2017 00:00:00,Port Barry,4,S-Sale,--D,346,125296,1,0001417552,Common Stock
+D,07/28/2017 00:00:00,Keetch Chad,4,S-Sale,--D,462,43993,1,0001609878,Common Stock
+D,07/24/2017 00:00:00,Port Barry,4,M-Exempt,--D,10000,14328,3,0001417552,Employee Stock Option
+D,07/24/2017 00:00:00,Port Barry,4,S-Sale,--D,10000,125642,2,0001417552,Common Stock
+A,07/24/2017 00:00:00,Port Barry,4,M-Exempt,--D,10000,135642,1,0001417552,Common Stock
+A,07/17/2017 00:00:00,Nackel John G.,4,A-Award,--D,1500,98232,1,0001437214,Common Stock
+A,07/17/2017 00:00:00,SMITH BARRY M,4,A-Award,--D,1500,19500,1,0001212067,Common Stock
+A,07/17/2017 00:00:00,Shaw Daren,4,A-Award,--D,1500,31500,1,0001548135,Common Stock
+A,07/17/2017 00:00:00,Daniels Lee A,4,A-Award,--D,1500,24504,1,0001303995,Common Stock
+A,07/17/2017 00:00:00,Hubenette Antoinette T.,4,A-Award,--D,1500,27126,1,0001417551,Common Stock
+D,06/13/2017 00:00:00,Keetch Chad,4,S-Sale,--D,240,44455,1,0001609878,Common Stock
+D,06/13/2017 00:00:00,Snapper Suzanne D.,4,S-Sale,--D,181,111723,1,0001470396,Common Stock

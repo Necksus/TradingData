@@ -1,0 +1,961 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,06/08/2023 00:00:00,WU Simone,4,A-Award,--D,2837,7819,2,0001429463,Common Stock
+A,06/08/2023 00:00:00,Whall Timothy J.,4,A-Award,--D,2837,6368,1,0001493999,Common Stock
+A,06/08/2023 00:00:00,NEVIN DARIUS G,4,A-Award,--D,2837,22154,1,0001184810,Common Stock
+A,06/08/2023 00:00:00,Evans Stephen C.,4,A-Award,--D,2837,7088,1,0001844301,Common Stock
+A,06/08/2023 00:00:00,Clarke Donald E,4,A-Award,--D,2837,10139,1,0001297831,Common Stock
+A,06/08/2023 00:00:00,McAdam Timothy P,4,A-Award,--D,2837,107802,1,0001498115,Common Stock
+D,06/07/2023 00:00:00,WU Simone,4,S-Sale,--D,868,4982,1,0001429463,Common Stock
+D,05/23/2023 00:00:00,Ramos Daniel,4,S-Sale,--D,2400,45396,2,0001642533,Common Stock
+A,05/22/2023 00:00:00,Valenzuela Steve,4,A-Award,--D,12500,12500,2,0001304655,Employee Stock Option (Right to Buy)
+A,05/22/2023 00:00:00,Valenzuela Steve,4,A-Award,--D,12500,45193,1,0001304655,Common Stock
+A,05/22/2023 00:00:00,Trundle Stephen,4,A-Award,--D,30000,30000,5,0001643898,Employee Stock Option (Right to Buy)
+A,05/22/2023 00:00:00,Trundle Stephen,4,A-Award,--D,25000,242666,1,0001643898,Common Stock
+A,05/22/2023 00:00:00,Ramos Daniel,4,A-Award,--D,14000,14000,3,0001642533,Employee Stock Option (Right to Buy)
+A,05/22/2023 00:00:00,Ramos Daniel,4,A-Award,--D,14000,47796,1,0001642533,Common Stock
+A,05/22/2023 00:00:00,Kerzner Daniel,4,A-Award,--D,40000,40000,3,0001642717,Employee Stock Option (Right to Buy)
+A,05/22/2023 00:00:00,Kerzner Daniel,4,A-Award,--D,17500,17500,2,0001642717,Employee Stock Option (Right to Buy)
+A,05/22/2023 00:00:00,Kerzner Daniel,4,A-Award,--D,17500,75784,1,0001642717,Common Stock
+A,05/22/2023 00:00:00,BEDELL JEFFREY A,4,A-Award,--D,40000,40000,3,0001203474,Employee Stock Option (Right to Buy)
+A,05/22/2023 00:00:00,BEDELL JEFFREY A,4,A-Award,--D,17500,17500,2,0001203474,Employee Stock Option (Right to Buy)
+A,05/22/2023 00:00:00,BEDELL JEFFREY A,4,A-Award,--D,17500,480670,1,0001203474,Common Stock
+D,05/16/2023 00:00:00,Valenzuela Steve,4,S-Sale,--D,1566,32693,1,0001304655,Common Stock
+D,05/16/2023 00:00:00,Trundle Stephen,4,S-Sale,--D,4694,217666,1,0001643898,Common Stock
+D,05/16/2023 00:00:00,Ramos Daniel,4,S-Sale,--D,1660,33796,1,0001642533,Common Stock
+D,05/16/2023 00:00:00,Kerzner Daniel,4,S-Sale,--D,2420,58284,1,0001642717,Common Stock
+D,05/16/2023 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,3051,463170,1,0001203474,Common Stock
+D,04/03/2023 00:00:00,Valenzuela Steve,4,S-Sale,--D,56,34259,2,0001304655,Common Stock
+D,04/03/2023 00:00:00,Valenzuela Steve,4,S-Sale,--D,1516,34315,1,0001304655,Common Stock
+D,04/03/2023 00:00:00,Trundle Stephen,4,S-Sale,--D,169,222360,2,0001643898,Common Stock
+D,04/03/2023 00:00:00,Trundle Stephen,4,S-Sale,--D,4618,222529,1,0001643898,Common Stock
+D,04/03/2023 00:00:00,Ramos Daniel,4,S-Sale,--D,72,35456,2,0001642533,Common Stock
+D,04/03/2023 00:00:00,Ramos Daniel,4,S-Sale,--D,1972,35528,1,0001642533,Common Stock
+D,04/03/2023 00:00:00,Kerzner Daniel,4,S-Sale,--D,95,60704,2,0001642717,Common Stock
+D,04/03/2023 00:00:00,Kerzner Daniel,4,S-Sale,--D,2577,60799,1,0001642717,Common Stock
+D,04/03/2023 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,108,466221,2,0001203474,Common Stock
+D,04/03/2023 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,2953,466329,1,0001203474,Common Stock
+D,03/08/2023 00:00:00,BEDELL JEFFREY A,4,M-Exempt,--D,63787,0,3,0001203474,Employee Stock Option (Right to Buy)
+D,03/08/2023 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,63787,469282,2,0001203474,Common Stock
+A,03/08/2023 00:00:00,BEDELL JEFFREY A,4,M-Exempt,--D,63787,533069,1,0001203474,Common Stock
+D,02/02/2023 00:00:00,Valenzuela Steve,4,S-Sale,--D,478,35831,1,0001304655,Common Stock
+D,09/12/2022 00:00:00,BEDELL JEFFREY A,4,M-Exempt,--D,9769,63787,6,0001203474,Employee Stock Option (Right to Buy)
+D,09/12/2022 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,9769,469282,4,0001203474,Common Stock
+A,09/12/2022 00:00:00,BEDELL JEFFREY A,4,M-Exempt,--D,9769,479051,3,0001203474,Common Stock
+D,09/09/2022 00:00:00,BEDELL JEFFREY A,4,M-Exempt,--D,231,73556,5,0001203474,Employee Stock Option (Right to Buy)
+D,09/09/2022 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,231,469282,2,0001203474,Common Stock
+A,09/09/2022 00:00:00,BEDELL JEFFREY A,4,M-Exempt,--D,231,469513,1,0001203474,Common Stock
+D,08/18/2022 00:00:00,BEDELL JEFFREY A,4,M-Exempt,--D,11106,73787,6,0001203474,Employee Stock Option (Right to Buy)
+D,08/18/2022 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,11106,469282,4,0001203474,Common Stock
+A,08/18/2022 00:00:00,BEDELL JEFFREY A,4,M-Exempt,--D,11106,480388,3,0001203474,Common Stock
+D,08/17/2022 00:00:00,BEDELL JEFFREY A,4,M-Exempt,--D,5107,84893,5,0001203474,Employee Stock Option (Right to Buy)
+D,08/17/2022 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,5107,469282,2,0001203474,Common Stock
+A,08/17/2022 00:00:00,BEDELL JEFFREY A,4,M-Exempt,--D,5107,474389,1,0001203474,Common Stock
+D,08/12/2022 00:00:00,Valenzuela Steve,4,S-Sale,--D,6820,36309,1,0001304655,Common Stock
+D,08/12/2022 00:00:00,Ramos Daniel,4,M-Exempt,--D,1875,6667,5,0001642533,Employee Stock Option (Right to Buy)
+D,08/12/2022 00:00:00,Ramos Daniel,4,M-Exempt,--D,1500,1334,4,0001642533,Employee Stock Option (Right to Buy)
+D,08/12/2022 00:00:00,Ramos Daniel,4,S-Sale,--D,7877,37500,3,0001642533,Common Stock
+A,08/12/2022 00:00:00,Ramos Daniel,4,M-Exempt,--D,1875,45377,2,0001642533,Common Stock
+A,08/12/2022 00:00:00,Ramos Daniel,4,M-Exempt,--D,1500,43502,1,0001642533,Common Stock
+D,06/07/2022 00:00:00,WU Simone,4,S-Sale,--D,697,5850,2,0001429463,Common Stock
+A,06/03/2022 00:00:00,Evans Stephen C.,4,A-Award,--D,2226,4251,1,0001844301,Common Stock
+A,06/03/2022 00:00:00,WU Simone,4,A-Award,--D,2226,6547,1,0001429463,Common Stock
+A,06/03/2022 00:00:00,Whall Timothy J.,4,A-Award,--D,2226,3531,1,0001493999,Common Stock
+A,06/03/2022 00:00:00,NEVIN DARIUS G,4,A-Award,--D,2226,19317,1,0001184810,Common Stock
+A,06/03/2022 00:00:00,Clarke Donald E,4,A-Award,--D,2226,7302,1,0001297831,Common Stock
+A,06/03/2022 00:00:00,McAdam Timothy P,4,A-Award,--D,2226,104965,1,0001498115,Common Stock
+D,05/18/2022 00:00:00,Ramos Daniel,4,M-Exempt,--D,1000,0,3,0001642533,Employee Stock Option (Right to Buy)
+D,05/18/2022 00:00:00,Ramos Daniel,4,S-Sale,--D,4015,42002,2,0001642533,Common Stock
+A,05/18/2022 00:00:00,Ramos Daniel,4,M-Exempt,--D,1000,46017,1,0001642533,Common Stock
+D,05/16/2022 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,360,469282,3,0001203474,Common Stock
+D,05/16/2022 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,1502,469642,2,0001203474,Common Stock
+D,05/16/2022 00:00:00,Kerzner Daniel,4,S-Sale,--D,440,63376,3,0001642717,Common Stock
+D,05/16/2022 00:00:00,Kerzner Daniel,4,S-Sale,--D,1835,63816,2,0001642717,Common Stock
+D,05/16/2022 00:00:00,Ramos Daniel,4,S-Sale,--D,287,45017,3,0001642533,Common Stock
+D,05/16/2022 00:00:00,Ramos Daniel,4,S-Sale,--D,1198,45304,2,0001642533,Common Stock
+D,05/16/2022 00:00:00,Valenzuela Steve,4,S-Sale,--D,169,43129,3,0001304655,Common Stock
+D,05/16/2022 00:00:00,Valenzuela Steve,4,S-Sale,--D,705,43298,2,0001304655,Common Stock
+D,05/16/2022 00:00:00,Trundle Stephen,4,S-Sale,--D,462,227147,3,0001643898,Common Stock
+D,05/16/2022 00:00:00,Trundle Stephen,4,S-Sale,--D,1930,227609,2,0001643898,Common Stock
+A,05/15/2022 00:00:00,BEDELL JEFFREY A,4,A-Award,--D,17500,17500,4,0001203474,Employee Stock Option (Right to Buy)
+A,05/15/2022 00:00:00,BEDELL JEFFREY A,4,A-Award,--D,17500,471144,1,0001203474,Common Stock
+A,05/15/2022 00:00:00,Kerzner Daniel,4,A-Award,--D,17500,17500,4,0001642717,Employee Stock Option (Right to Buy)
+A,05/15/2022 00:00:00,Kerzner Daniel,4,A-Award,--D,17500,65651,1,0001642717,Common Stock
+A,05/15/2022 00:00:00,Ramos Daniel,4,A-Award,--D,14000,14000,4,0001642533,Employee Stock Option (Right to Buy)
+A,05/15/2022 00:00:00,Ramos Daniel,4,A-Award,--D,14000,46502,1,0001642533,Common Stock
+A,05/15/2022 00:00:00,Valenzuela Steve,4,A-Award,--D,12500,12500,4,0001304655,Employee Stock Option (Right to Buy)
+A,05/15/2022 00:00:00,Valenzuela Steve,4,A-Award,--D,12500,44003,1,0001304655,Common Stock
+A,05/15/2022 00:00:00,Trundle Stephen,4,A-Award,--D,30000,30000,7,0001643898,Employee Stock Option (Right to Buy)
+A,05/15/2022 00:00:00,Trundle Stephen,4,A-Award,--D,25000,229539,1,0001643898,Common Stock
+A,05/11/2022 00:00:00,Clarke Donald E,4,G-Gift,-EI,1899,1899,6,0001297831,Common Stock
+A,05/11/2022 00:00:00,Clarke Donald E,4,G-Gift,-EI,1899,1899,5,0001297831,Common Stock
+A,05/11/2022 00:00:00,Clarke Donald E,4,G-Gift,-EI,1899,1899,4,0001297831,Common Stock
+A,05/11/2022 00:00:00,Clarke Donald E,4,G-Gift,-EI,1899,1899,3,0001297831,Common Stock
+A,05/11/2022 00:00:00,Clarke Donald E,4,G-Gift,-EI,1899,1899,2,0001297831,Common Stock
+D,05/11/2022 00:00:00,Clarke Donald E,4,G-Gift,-EI,9495,0,1,0001297831,Common Stock
+D,04/04/2022 00:00:00,Kerzner Daniel,4,S-Sale,--D,2612,48151,1,0001642717,Common Stock
+D,04/04/2022 00:00:00,Ramos Daniel,4,S-Sale,--D,1998,32502,1,0001642533,Common Stock
+D,04/04/2022 00:00:00,Trundle Stephen,4,S-Sale,--D,5305,204539,1,0001643898,Common Stock
+D,04/04/2022 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,1998,453644,1,0001203474,Common Stock
+D,04/04/2022 00:00:00,Valenzuela Steve,4,S-Sale,--D,1536,31503,1,0001304655,Common Stock
+D,03/04/2022 00:00:00,Clarke Donald E,4,G-Gift,-ED,9495,5076,2,0001297831,Common Stock
+D,03/04/2022 00:00:00,Clarke Donald E,4,G-Gift,-ED,7520,14571,1,0001297831,Common Stock
+D,02/02/2022 00:00:00,Valenzuela Steve,4,S-Sale,--D,200,33039,2,0001304655,Common Stock
+D,02/02/2022 00:00:00,Valenzuela Steve,4,S-Sale,--D,687,33239,1,0001304655,Common Stock
+D,01/03/2022 00:00:00,Valenzuela Steve,4,M-Exempt,--D,209,5625,5,0001304655,Employee Stock Option (Right to Buy)
+D,01/03/2022 00:00:00,Valenzuela Steve,4,M-Exempt,--D,209,8125,4,0001304655,Employee Stock Option (Right to Buy)
+D,01/03/2022 00:00:00,Valenzuela Steve,4,S-Sale,--D,418,33926,3,0001304655,Common Stock
+A,01/03/2022 00:00:00,Valenzuela Steve,4,M-Exempt,--D,209,34344,2,0001304655,Common Stock
+A,01/03/2022 00:00:00,Valenzuela Steve,4,M-Exempt,--D,209,34135,1,0001304655,Common Stock
+D,12/28/2021 00:00:00,McAdam Timothy P,5,G-Gift,--D,2000,102739,1,0001498115,Common Stock
+D,12/06/2021 00:00:00,Trundle Stephen,4,M-Exempt,--D,25000,0,8,0001643898,Stock Option (Right to Buy)
+D,12/06/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,1717,209844,4,0001643898,Common Stock
+D,12/06/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,19821,211561,3,0001643898,Common Stock
+D,12/06/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,3462,231382,2,0001643898,Common Stock
+A,12/06/2021 00:00:00,Trundle Stephen,4,M-Exempt,--D,25000,234844,1,0001643898,Common Stock
+D,12/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,5834,6,0001304655,Employee Stock Option (Right to Buy)
+D,12/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,8334,5,0001304655,Employee Stock Option (Right to Buy)
+D,12/01/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,416,33926,4,0001304655,Common Stock
+A,12/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,34342,3,0001304655,Common Stock
+A,12/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,34134,2,0001304655,Common Stock
+D,11/30/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,3832,33926,1,0001304655,Common Stock
+D,11/26/2021 00:00:00,Trundle Stephen,4,G-Gift,-ED,5000,209844,3,0001643898,Common Stock
+D,11/24/2021 00:00:00,Trundle Stephen,4,G-Gift,-EI,252030,1339343,2,0001643898,Common Stock
+D,11/24/2021 00:00:00,Trundle Stephen,4,G-Gift,-ED,32420,214844,1,0001643898,Common Stock
+D,11/22/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,4053,1591373,5,0001643898,Common Stock
+D,11/22/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,9222,1595426,4,0001643898,Common Stock
+D,11/19/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,105,1604648,3,0001643898,Common Stock
+D,11/19/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,2804,1604753,2,0001643898,Common Stock
+D,11/18/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,3410,1607557,1,0001643898,Common Stock
+D,11/17/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,300,1610967,6,0001643898,Common Stock
+D,11/17/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,7581,1611267,5,0001643898,Common Stock
+D,11/16/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,3336,37758,1,0001304655,Common Stock
+D,11/16/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,9158,1618848,4,0001643898,Common Stock
+D,11/16/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,13267,1628006,3,0001643898,Common Stock
+D,11/15/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,10477,247264,2,0001643898,Common Stock
+D,11/15/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,100,1641273,1,0001643898,Common Stock
+D,11/15/2021 00:00:00,Kerzner Daniel,4,S-Sale,--D,5388,50763,1,0001642717,Common Stock
+D,11/12/2021 00:00:00,Trundle Stephen,4,M-Exempt,--D,6778,25000,12,0001643898,Stock Option (Right to Buy)
+D,11/12/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,14653,257741,6,0001643898,Common Stock
+A,11/12/2021 00:00:00,Trundle Stephen,4,M-Exempt,--D,6778,272394,5,0001643898,Common Stock
+D,11/12/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,1590,4834,15,0001642533,Stock Option (Right to Buy)
+D,11/12/2021 00:00:00,Ramos Daniel,4,S-Sale,--D,3568,34444,9,0001642533,Common Stock
+A,11/12/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,1590,38012,8,0001642533,Common Stock
+D,11/11/2021 00:00:00,Trundle Stephen,4,M-Exempt,--D,7222,31778,11,0001643898,Stock Option (Right to Buy)
+D,11/11/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,7222,265616,4,0001643898,Common Stock
+A,11/11/2021 00:00:00,Trundle Stephen,4,M-Exempt,--D,7222,272838,3,0001643898,Common Stock
+D,11/11/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,2376,6424,14,0001642533,Stock Option (Right to Buy)
+D,11/11/2021 00:00:00,Ramos Daniel,4,S-Sale,--D,5678,36422,7,0001642533,Common Stock
+A,11/11/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,2376,42100,6,0001642533,Common Stock
+D,11/09/2021 00:00:00,Trundle Stephen,4,M-Exempt,--D,1000,39000,10,0001643898,Stock Option (Right to Buy)
+D,11/09/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,1000,265616,2,0001643898,Common Stock
+A,11/09/2021 00:00:00,Trundle Stephen,4,M-Exempt,--D,1000,266616,1,0001643898,Common Stock
+D,11/09/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,1200,8800,13,0001642533,Stock Option (Right to Buy)
+D,11/09/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,1042,8542,12,0001642533,Stock Option (Right to Buy)
+D,11/09/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,833,2834,11,0001642533,Stock Option (Right to Buy)
+D,11/09/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,834,1000,10,0001642533,Stock Option (Right to Buy)
+D,11/09/2021 00:00:00,Ramos Daniel,4,S-Sale,--D,5586,39724,5,0001642533,Common Stock
+A,11/09/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,1200,45310,4,0001642533,Common Stock
+A,11/09/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,1042,44110,3,0001642533,Common Stock
+A,11/09/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,833,43068,2,0001642533,Common Stock
+A,11/09/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,834,42235,1,0001642533,Common Stock
+D,11/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,6042,7,0001304655,Employee Stock Option (Right to Buy)
+D,11/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1084,0,6,0001304655,Employee Stock Option (Right to Buy)
+D,11/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,8542,5,0001304655,Employee Stock Option (Right to Buy)
+D,11/01/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,1500,41094,4,0001304655,Common Stock
+A,11/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,42594,3,0001304655,Common Stock
+A,11/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1084,42386,2,0001304655,Common Stock
+A,11/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,41302,1,0001304655,Common Stock
+D,10/11/2021 00:00:00,Trundle Stephen,4,M-Exempt,--D,25000,40000,6,0001643898,Stock Option (Right to Buy)
+D,10/11/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,25000,265616,2,0001643898,Common Stock
+A,10/11/2021 00:00:00,Trundle Stephen,4,M-Exempt,--D,25000,290616,1,0001643898,Common Stock
+D,10/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,209,6250,7,0001304655,Employee Stock Option (Right to Buy)
+D,10/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,1084,6,0001304655,Employee Stock Option (Right to Buy)
+D,10/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,209,8750,5,0001304655,Employee Stock Option (Right to Buy)
+D,10/01/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,1501,41094,4,0001304655,Common Stock
+A,10/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,209,42595,3,0001304655,Common Stock
+A,10/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,42386,2,0001304655,Common Stock
+A,10/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,209,41303,1,0001304655,Common Stock
+D,09/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,6459,10,0001304655,Employee Stock Option (Right to Buy)
+D,09/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,2167,9,0001304655,Employee Stock Option (Right to Buy)
+D,09/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,8959,8,0001304655,Employee Stock Option (Right to Buy)
+D,09/01/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,1499,41094,6,0001304655,Common Stock
+A,09/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,42593,5,0001304655,Common Stock
+A,09/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,42385,4,0001304655,Common Stock
+A,09/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,41302,3,0001304655,Common Stock
+D,08/31/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1667,6667,7,0001304655,Employee Stock Option (Right to Buy)
+D,08/31/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,1667,41094,2,0001304655,Common Stock
+A,08/31/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1667,42761,1,0001304655,Common Stock
+A,08/30/2021 00:00:00,Whall Timothy J.,4,A-Award,--D,1305,1305,1,0001493999,Common Stock
+D,08/19/2021 00:00:00,Trundle Stephen,4,M-Exempt,--D,25000,65000,7,0001643898,Stock Option (Right to Buy)
+D,08/19/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,24400,265616,3,0001643898,Common Stock
+D,08/19/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,600,290016,2,0001643898,Common Stock
+A,08/19/2021 00:00:00,Trundle Stephen,4,M-Exempt,--D,25000,290616,1,0001643898,Common Stock
+D,08/02/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,9167,5,0001304655,Employee Stock Option (Right to Buy)
+D,08/02/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1084,3250,4,0001304655,Employee Stock Option (Right to Buy)
+D,08/02/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,1292,41094,3,0001304655,Common Stock
+A,08/02/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,42386,2,0001304655,Common Stock
+A,08/02/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1084,42178,1,0001304655,Common Stock
+D,07/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,209,9375,5,0001304655,Employee Stock Option (Right to Buy)
+D,07/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,4334,4,0001304655,Employee Stock Option (Right to Buy)
+D,07/01/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,1292,41094,3,0001304655,Common Stock
+A,07/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,209,42386,2,0001304655,Common Stock
+A,07/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,42177,1,0001304655,Common Stock
+D,06/14/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,1250,9584,9,0001642533,Stock Option (Right to Buy)
+D,06/14/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,1000,3667,8,0001642533,Stock Option (Right to Buy)
+D,06/14/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,1000,1834,7,0001642533,Stock Option (Right to Buy)
+D,06/14/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,500,0,6,0001642533,Stock Option (Right to Buy)
+D,06/14/2021 00:00:00,Ramos Daniel,4,S-Sale,--D,6480,41401,5,0001642533,Common Stock
+A,06/14/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,1250,47881,4,0001642533,Common Stock
+A,06/14/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,1000,46631,3,0001642533,Common Stock
+A,06/14/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,1000,45631,2,0001642533,Common Stock
+A,06/14/2021 00:00:00,Ramos Daniel,4,M-Exempt,--D,500,44631,1,0001642533,Common Stock
+A,06/10/2021 00:00:00,McAdam Timothy P,4,A-Award,--D,1787,104739,1,0001498115,Common Stock
+A,06/10/2021 00:00:00,WU Simone,4,A-Award,--D,1787,4321,2,0001429463,Common Stock
+D,06/10/2021 00:00:00,WU Simone,4,S-Sale,--D,1594,2534,1,0001429463,Common Stock
+A,06/10/2021 00:00:00,NEVIN DARIUS G,4,A-Award,--D,1787,17091,1,0001184810,Common Stock
+A,06/10/2021 00:00:00,Clarke Donald E,4,A-Award,--D,1787,22091,1,0001297831,Common Stock
+D,06/07/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,1257,259687,3,0001643898,Common Stock
+D,06/07/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,10318,260944,2,0001643898,Common Stock
+D,06/04/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,8425,271262,1,0001643898,Common Stock
+D,06/02/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,6655,1641373,4,0001643898,Common Stock
+D,06/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,9584,5,0001304655,Employee Stock Option (Right to Buy)
+D,06/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,5417,4,0001304655,Employee Stock Option (Right to Buy)
+D,06/01/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,1291,41094,3,0001304655,Common Stock
+A,06/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,42385,2,0001304655,Common Stock
+A,06/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,42177,1,0001304655,Common Stock
+D,06/01/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,203,1648028,3,0001643898,Common Stock
+D,06/01/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,20860,1648231,2,0001643898,Common Stock
+D,05/28/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,12561,1669091,1,0001643898,Common Stock
+D,05/17/2021 00:00:00,Ramos Daniel,4,S-Sale,--D,1659,44131,2,0001642533,Common Stock
+D,05/17/2021 00:00:00,Kerzner Daniel,4,S-Sale,--D,1900,56151,2,0001642717,Common Stock
+D,05/17/2021 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,1751,455642,2,0001203474,Common Stock
+A,05/15/2021 00:00:00,Valenzuela Steve,4,A-Award,--D,12500,12500,2,0001304655,Employee Stock Option (Right to Buy)
+A,05/15/2021 00:00:00,Valenzuela Steve,4,A-Award,--D,12500,41094,1,0001304655,Common Stock
+A,05/15/2021 00:00:00,Trundle Stephen,4,A-Award,--D,30000,30000,5,0001643898,Employee Stock Option (Right to Buy)
+A,05/15/2021 00:00:00,Trundle Stephen,4,A-Award,--D,25000,265616,2,0001643898,Common Stock
+A,05/15/2021 00:00:00,Ramos Daniel,4,A-Award,--D,12500,12500,3,0001642533,Employee Stock Option (Right to Buy)
+A,05/15/2021 00:00:00,Ramos Daniel,4,A-Award,--D,12500,45790,1,0001642533,Common Stock
+A,05/15/2021 00:00:00,Kerzner Daniel,4,A-Award,--D,15000,15000,3,0001642717,Employee Stock Option (Right to Buy)
+A,05/15/2021 00:00:00,Kerzner Daniel,4,A-Award,--D,15000,58051,1,0001642717,Common Stock
+A,05/15/2021 00:00:00,BEDELL JEFFREY A,4,A-Award,--D,15000,15000,3,0001203474,Employee Stock Option (Right to Buy)
+A,05/15/2021 00:00:00,BEDELL JEFFREY A,4,A-Award,--D,15000,457393,1,0001203474,Common Stock
+D,05/14/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,14087,1681652,1,0001643898,Common Stock
+D,05/11/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,298,1695739,5,0001643898,Common Stock
+D,05/11/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,14953,1696037,4,0001643898,Common Stock
+D,05/07/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,4870,1710990,3,0001643898,Common Stock
+D,05/07/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,12906,1715860,2,0001643898,Common Stock
+D,05/07/2021 00:00:00,Trundle Stephen,4,S-Sale,--I,12607,1728766,1,0001643898,Common Stock
+D,05/03/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,9792,5,0001304655,Employee Stock Option (Right to Buy)
+D,05/03/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1084,6500,4,0001304655,Employee Stock Option (Right to Buy)
+D,05/03/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,1292,28594,3,0001304655,Common Stock
+A,05/03/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,29886,2,0001304655,Common Stock
+A,05/03/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1084,29678,1,0001304655,Common Stock
+D,04/22/2021 00:00:00,Trundle Stephen,4,M-Exempt,--D,20000,90000,8,0001643898,Stock Option (Right to Buy)
+D,04/22/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,1191,240616,4,0001643898,Common Stock
+D,04/22/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,10809,241807,3,0001643898,Common Stock
+D,04/22/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,8000,252616,2,0001643898,Common Stock
+A,04/22/2021 00:00:00,Trundle Stephen,4,M-Exempt,--D,20000,260616,1,0001643898,Common Stock
+D,04/05/2021 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,118,442393,2,0001203474,Common Stock
+D,04/05/2021 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,1943,442511,1,0001203474,Common Stock
+D,04/05/2021 00:00:00,Kerzner Daniel,4,S-Sale,--D,162,43051,2,0001642717,Common Stock
+D,04/05/2021 00:00:00,Kerzner Daniel,4,S-Sale,--D,2675,43213,1,0001642717,Common Stock
+D,04/05/2021 00:00:00,Ramos Daniel,4,S-Sale,--D,118,33290,2,0001642533,Common Stock
+D,04/05/2021 00:00:00,Ramos Daniel,4,S-Sale,--D,1943,33408,1,0001642533,Common Stock
+D,04/05/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,408,240616,2,0001643898,Common Stock
+D,04/05/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,6717,241024,1,0001643898,Common Stock
+D,04/05/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,286,28594,5,0001304655,Common Stock
+D,04/05/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,4714,28880,4,0001304655,Common Stock
+D,04/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,209,10000,7,0001304655,Employee Stock Option (Right to Buy)
+D,04/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,7584,6,0001304655,Employee Stock Option (Right to Buy)
+D,04/01/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,1292,33594,3,0001304655,Common Stock
+A,04/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,209,34886,2,0001304655,Common Stock
+A,04/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,34677,1,0001304655,Common Stock
+D,03/17/2021 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,2902,444454,4,0001203474,Common Stock
+D,03/17/2021 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,6498,447356,3,0001203474,Common Stock
+D,03/17/2021 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,2800,453854,2,0001203474,Common Stock
+D,03/16/2021 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,800,456654,1,0001203474,Common Stock
+D,03/15/2021 00:00:00,Clarke Donald E,4,M-Exempt,--D,6000,0,4,0001297831,Stock Option (Right to Buy)
+D,03/15/2021 00:00:00,Clarke Donald E,4,S-Sale,--D,4846,20304,3,0001297831,Common Stock
+D,03/15/2021 00:00:00,Clarke Donald E,4,S-Sale,--D,8315,25150,2,0001297831,Common Stock
+A,03/15/2021 00:00:00,Clarke Donald E,4,M-Exempt,--D,6000,33465,1,0001297831,Common Stock
+D,03/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,10209,5,0001304655,Employee Stock Option (Right to Buy)
+D,03/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,8667,4,0001304655,Employee Stock Option (Right to Buy)
+D,03/01/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,1291,33594,3,0001304655,Common Stock
+A,03/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,34885,2,0001304655,Common Stock
+A,03/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,34677,1,0001304655,Common Stock
+A,02/04/2021 00:00:00,Evans Stephen C.,4,A-Award,--D,2025,2025,1,0001844301,Common Stock
+D,02/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,10417,5,0001304655,Employee Stock Option (Right to Buy)
+D,02/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1084,9750,4,0001304655,Employee Stock Option (Right to Buy)
+D,02/01/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,1292,33594,3,0001304655,Common Stock
+A,02/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,34886,2,0001304655,Common Stock
+A,02/01/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1084,34678,1,0001304655,Common Stock
+D,01/15/2021 00:00:00,Trundle Stephen,4,M-Exempt,--D,15000,110000,7,0001643898,Stock Option (Right to Buy)
+D,01/15/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,5950,257741,4,0001643898,Common Stock
+D,01/15/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,5100,263691,3,0001643898,Common Stock
+D,01/15/2021 00:00:00,Trundle Stephen,4,S-Sale,--D,3950,268791,2,0001643898,Common Stock
+A,01/15/2021 00:00:00,Trundle Stephen,4,M-Exempt,--D,15000,272741,1,0001643898,Common Stock
+D,01/04/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,209,10625,5,0001304655,Employee Stock Option (Right to Buy)
+D,01/04/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,10834,4,0001304655,Employee Stock Option (Right to Buy)
+D,01/04/2021 00:00:00,Valenzuela Steve,4,S-Sale,--D,1292,33594,3,0001304655,Common Stock
+A,01/04/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,209,34886,2,0001304655,Common Stock
+A,01/04/2021 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,34677,1,0001304655,Common Stock
+A,12/29/2020 00:00:00,Trundle Stephen,5,G-Gift,--I,9862,9862,2,0001643898,Common Stock
+D,12/29/2020 00:00:00,Trundle Stephen,5,G-Gift,--I,9862,1741373,1,0001643898,Common Stock
+D,12/15/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,2250,10000,4,0001642717,Stock Option (Right to Buy)
+D,12/15/2020 00:00:00,Kerzner Daniel,4,S-Sale,--D,100,45888,3,0001642717,Common Stock
+D,12/15/2020 00:00:00,Kerzner Daniel,4,S-Sale,--D,2150,45988,2,0001642717,Common Stock
+A,12/15/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,2250,48138,1,0001642717,Common Stock
+D,12/09/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,2402,12250,9,0001642717,Stock Option (Right to Buy)
+D,12/09/2020 00:00:00,Kerzner Daniel,4,S-Sale,--D,2402,45888,6,0001642717,Common Stock
+A,12/09/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,2402,48290,5,0001642717,Common Stock
+D,12/08/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,8898,14652,8,0001642717,Stock Option (Right to Buy)
+D,12/08/2020 00:00:00,Kerzner Daniel,4,S-Sale,--D,8898,45888,4,0001642717,Common Stock
+A,12/08/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,8898,54786,3,0001642717,Common Stock
+D,12/07/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,2450,23550,7,0001642717,Stock Option (Right to Buy)
+D,12/07/2020 00:00:00,Kerzner Daniel,4,S-Sale,--D,2450,45888,2,0001642717,Common Stock
+A,12/07/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,2450,48338,1,0001642717,Common Stock
+D,12/07/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,1120,10834,12,0001642533,Stock Option (Right to Buy)
+D,12/07/2020 00:00:00,Ramos Daniel,4,S-Sale,--D,1120,35230,7,0001642533,Common Stock
+A,12/07/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,1120,36350,6,0001642533,Common Stock
+D,12/04/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,546,11954,11,0001642533,Stock Option (Right to Buy)
+D,12/04/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,1167,4667,10,0001642533,Stock Option (Right to Buy)
+D,12/04/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,1166,2834,9,0001642533,Stock Option (Right to Buy)
+D,12/04/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,1500,500,8,0001642533,Stock Option (Right to Buy)
+D,12/04/2020 00:00:00,Ramos Daniel,4,S-Sale,--D,4691,35230,5,0001642533,Common Stock
+A,12/04/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,546,39921,4,0001642533,Common Stock
+A,12/04/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,1167,39375,3,0001642533,Common Stock
+A,12/04/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,1166,38208,2,0001642533,Common Stock
+A,12/04/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,1500,37042,1,0001642533,Common Stock
+D,12/02/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,2166,8334,11,0001304655,Employee Stock Option (Right to Buy)
+D,12/02/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,2166,33594,7,0001304655,Common Stock
+A,12/02/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,2166,35760,6,0001304655,Common Stock
+D,12/01/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,10834,10,0001304655,Employee Stock Option (Right to Buy)
+D,12/01/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,11917,9,0001304655,Employee Stock Option (Right to Buy)
+D,12/01/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,2000,10500,8,0001304655,Employee Stock Option (Right to Buy)
+D,12/01/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,1291,33594,5,0001304655,Common Stock
+D,12/01/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,2000,34885,4,0001304655,Common Stock
+A,12/01/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,36885,3,0001304655,Common Stock
+A,12/01/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,36677,2,0001304655,Common Stock
+A,12/01/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,2000,35594,1,0001304655,Common Stock
+D,11/25/2020 00:00:00,Clarke Donald E,4,M-Exempt,--D,30000,0,3,0001297831,Stock Option (Right to Buy)
+D,11/25/2020 00:00:00,Clarke Donald E,4,S-Sale,--D,15000,27465,2,0001297831,Common Stock
+A,11/25/2020 00:00:00,Clarke Donald E,4,M-Exempt,--D,30000,42465,1,0001297831,Common Stock
+D,11/25/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,9500,26000,3,0001642717,Stock Option (Right to Buy)
+D,11/25/2020 00:00:00,Kerzner Daniel,4,S-Sale,--D,9500,45888,2,0001642717,Common Stock
+A,11/25/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,9500,55388,1,0001642717,Common Stock
+D,11/19/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,500,35500,3,0001642717,Stock Option (Right to Buy)
+D,11/19/2020 00:00:00,Kerzner Daniel,4,S-Sale,--D,500,45888,2,0001642717,Common Stock
+A,11/19/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,500,46388,1,0001642717,Common Stock
+D,11/18/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,5926,1751235,2,0001643898,Common Stock
+D,11/18/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,17435,1757161,1,0001643898,Common Stock
+D,11/17/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,7618,33594,2,0001304655,Common Stock
+D,11/17/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,626,1774596,5,0001643898,Common Stock
+D,11/17/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,28513,1775222,4,0001643898,Common Stock
+D,11/16/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,6719,41212,1,0001304655,Common Stock
+D,11/16/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,14221,1803735,3,0001643898,Common Stock
+D,11/13/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,237,1817956,2,0001643898,Common Stock
+D,11/13/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,34348,1818193,1,0001643898,Common Stock
+D,11/12/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,4724,1852541,9,0001643898,Common Stock
+D,11/11/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,200,1857265,8,0001643898,Common Stock
+D,11/11/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,9934,1857465,7,0001643898,Common Stock
+D,11/11/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,38988,1867399,6,0001643898,Common Stock
+D,11/10/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,4848,1906387,5,0001643898,Common Stock
+D,11/10/2020 00:00:00,PANERO HUGH,4,S-Sale,--D,400,2593,2,0001268617,Common Stock
+D,11/10/2020 00:00:00,PANERO HUGH,4,S-Sale,--D,7146,2993,1,0001268617,Common Stock
+D,11/09/2020 00:00:00,Trundle Stephen,4,M-Exempt,--D,15000,125000,11,0001643898,Stock Option (Right to Buy)
+D,11/09/2020 00:00:00,Trundle Stephen,4,S-Sale,--D,2700,257741,4,0001643898,Common Stock
+D,11/09/2020 00:00:00,Trundle Stephen,4,S-Sale,--D,1700,260441,3,0001643898,Common Stock
+D,11/09/2020 00:00:00,Trundle Stephen,4,S-Sale,--D,10600,262141,2,0001643898,Common Stock
+A,11/09/2020 00:00:00,Trundle Stephen,4,M-Exempt,--D,15000,272741,1,0001643898,Common Stock
+D,11/02/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,11042,5,0001304655,Employee Stock Option (Right to Buy)
+D,11/02/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1084,13000,4,0001304655,Employee Stock Option (Right to Buy)
+D,11/02/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,1292,47931,3,0001304655,Common Stock
+A,11/02/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,208,49223,2,0001304655,Common Stock
+A,11/02/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1084,49015,1,0001304655,Common Stock
+D,10/21/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,417,11250,8,0001304655,Employee Stock Option (Right to Buy)
+D,10/21/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,666,14084,7,0001304655,Employee Stock Option (Right to Buy)
+D,10/21/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,1083,47931,5,0001304655,Common Stock
+A,10/21/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,417,49014,4,0001304655,Common Stock
+A,10/21/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,666,48597,3,0001304655,Common Stock
+D,10/20/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1500,14750,6,0001304655,Employee Stock Option (Right to Buy)
+D,10/20/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,1500,47931,2,0001304655,Common Stock
+A,10/20/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1500,49431,1,0001304655,Common Stock
+D,09/30/2020 00:00:00,SHATTUCK MAYO A III,4,S-Sale,--D,11150,56200,4,0001087426,Common Stock
+D,09/28/2020 00:00:00,SHATTUCK MAYO A III,4,M-Exempt,--D,6000,0,6,0001087426,Stock Option (Right to Buy)
+D,09/28/2020 00:00:00,SHATTUCK MAYO A III,4,M-Exempt,--D,30000,0,5,0001087426,Stock Option (Right to Buy)
+D,09/28/2020 00:00:00,SHATTUCK MAYO A III,4,S-Sale,--D,5967,67350,3,0001087426,Common Stock
+A,09/28/2020 00:00:00,SHATTUCK MAYO A III,4,M-Exempt,--D,6000,73317,2,0001087426,Common Stock
+A,09/28/2020 00:00:00,SHATTUCK MAYO A III,4,M-Exempt,--D,30000,67317,1,0001087426,Common Stock
+D,08/27/2020 00:00:00,McAdam Timothy P,4,S-Sale,--I,9872,0,1,0001498115,Common Stock
+D,08/25/2020 00:00:00,Trundle Stephen,4,M-Exempt,--D,15000,140000,9,0001643898,Stock Option (Right to Buy)
+D,08/25/2020 00:00:00,Trundle Stephen,4,S-Sale,--D,3314,257741,5,0001643898,Common Stock
+D,08/25/2020 00:00:00,Trundle Stephen,4,S-Sale,--D,11686,261055,4,0001643898,Common Stock
+A,08/25/2020 00:00:00,Trundle Stephen,4,M-Exempt,--D,15000,272741,3,0001643898,Common Stock
+D,08/24/2020 00:00:00,Trundle Stephen,4,M-Exempt,--D,10000,155000,8,0001643898,Stock Option (Right to Buy)
+D,08/24/2020 00:00:00,Trundle Stephen,4,S-Sale,--D,10000,257741,2,0001643898,Common Stock
+A,08/24/2020 00:00:00,Trundle Stephen,4,M-Exempt,--D,10000,267741,1,0001643898,Common Stock
+D,08/11/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,417,11667,5,0001304655,Employee Stock Option (Right to Buy)
+D,08/11/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,2167,16250,4,0001304655,Employee Stock Option (Right to Buy)
+D,08/11/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,2584,47931,3,0001304655,Common Stock
+A,08/11/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,417,50515,2,0001304655,Common Stock
+A,08/11/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,2167,50098,1,0001304655,Common Stock
+D,07/28/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,1704,1911235,6,0001643898,Commo Stock
+D,07/28/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,39457,1912939,5,0001643898,Common Stock
+D,07/28/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,57076,1952396,4,0001643898,Common Stock
+D,07/27/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,23638,2009472,3,0001643898,Common Stock
+D,07/27/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,45908,2033110,2,0001643898,Common Stock
+D,07/27/2020 00:00:00,Trundle Stephen,4,S-Sale,--I,32217,2079018,1,0001643898,Common Stock
+D,07/02/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,2833,5834,4,0001642533,Employee Stock Option (Right to Buy)
+D,07/02/2020 00:00:00,Ramos Daniel,4,S-Sale,--D,2833,35542,3,0001642533,Common Stock
+A,07/02/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,2833,38375,2,0001642533,Common Stock
+D,07/01/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,10000,0,7,0001642717,Stock Option (Right to Buy)
+D,07/01/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,20000,36000,6,0001642717,Stock Option (Right to Buy)
+D,07/01/2020 00:00:00,Kerzner Daniel,4,S-Sale,--D,7600,45888,5,0001642717,Common Stock
+D,07/01/2020 00:00:00,Kerzner Daniel,4,S-Sale,--D,8749,53488,4,0001642717,Common Stock
+D,07/01/2020 00:00:00,Kerzner Daniel,4,S-Sale,--D,18124,62237,3,0001642717,Common Stock
+A,07/01/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,10000,80361,2,0001642717,Common Stock
+A,07/01/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,20000,70361,1,0001642717,Common Stock
+D,06/30/2020 00:00:00,Ramos Daniel,4,S-Sale,--D,1393,35542,1,0001642533,Common Stock
+D,06/17/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,2834,4000,3,0001642533,Stock Option (Right to Buy)
+D,06/17/2020 00:00:00,Ramos Daniel,4,S-Sale,--D,2834,36935,2,0001642533,Common Stock
+A,06/17/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,2834,39769,1,0001642533,Common Stock
+D,06/09/2020 00:00:00,PANERO HUGH,4,M-Exempt,--D,20000,0,3,0001268617,Stock Option (Right to Buy)
+D,06/09/2020 00:00:00,PANERO HUGH,4,S-Sale,--D,20000,10139,2,0001268617,Common Stock
+A,06/09/2020 00:00:00,PANERO HUGH,4,M-Exempt,--D,20000,30139,1,0001268617,Common Stock
+D,06/05/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,6000,56000,3,0001642717,Stock Option (Right to Buy)
+D,06/05/2020 00:00:00,Kerzner Daniel,4,S-Sale,--D,6000,50361,2,0001642717,Common Stock
+A,06/05/2020 00:00:00,Kerzner Daniel,4,M-Exempt,--D,6000,56361,1,0001642717,Common Stock
+D,06/05/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,250,2000,6,0001642533,Stock Option (Right to Buy)
+D,06/05/2020 00:00:00,Ramos Daniel,4,S-Sale,--D,4819,36935,4,0001642533,Common Stock
+A,06/05/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,250,41754,3,0001642533,Common Stock
+A,06/04/2020 00:00:00,McAdam Timothy P,4,A-Award,--D,2593,102952,1,0001498115,Common Stock
+A,06/04/2020 00:00:00,SHATTUCK MAYO A III,4,A-Award,--D,2593,37317,1,0001087426,Common Stock
+A,06/04/2020 00:00:00,NEVIN DARIUS G,4,A-Award,--D,2593,15304,1,0001184810,Common Stock
+A,06/04/2020 00:00:00,PANERO HUGH,4,A-Award,--D,2593,10139,1,0001268617,Common Stock
+A,06/04/2020 00:00:00,Clarke Donald E,4,A-Award,--D,2593,12465,1,0001297831,Common Stock
+D,06/03/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,4250,2250,5,0001642533,Stock Option (Right to Buy)
+D,06/03/2020 00:00:00,Ramos Daniel,4,S-Sale,--D,4250,41504,2,0001642533,Common Stock
+A,06/03/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,4250,45754,1,0001642533,Common Stock
+D,06/03/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,416,12084,8,0001304655,Employee Stock Option (Right to Buy)
+D,06/03/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,3500,18417,7,0001304655,Employee Stock Option (Right to Buy)
+D,06/03/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,3916,47931,5,0001304655,Common Stock
+A,06/03/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,416,51847,4,0001304655,Common Stock
+A,06/03/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,3500,51431,3,0001304655,Common Stock
+D,06/02/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,2000,21917,6,0001304655,Employee Stock Option (Right to Buy)
+D,06/02/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,2000,47931,2,0001304655,Common Stock
+A,06/02/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,2000,49931,1,0001304655,Common Stock
+D,05/28/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,2500,23917,6,0001304655,Employee Stock Option (Right to Buy)
+D,05/28/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,2500,47931,4,0001304655,Common Stock
+A,05/28/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,2500,50431,3,0001304655,Common Stock
+D,05/27/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,5000,26417,5,0001304655,Employee Stock Option (Right to Buy)
+D,05/27/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,5000,47931,2,0001304655,Common Stock
+A,05/27/2020 00:00:00,Valenzuela Steve,4,M-Exempt,--D,5000,52931,1,0001304655,Common Stock
+D,05/22/2020 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,34737,0,3,0001467001,Common Stock
+D,05/22/2020 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,1907898,0,2,0001467001,Common Stock
+D,05/22/2020 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,3673816,0,1,0001467001,Common Stock
+D,05/14/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,207,47931,1,0001304655,Common Stock
+D,05/13/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,649,48138,3,0001304655,Common Stock
+D,05/12/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,1000,48787,2,0001304655,Common Stock
+D,05/11/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,1000,49787,1,0001304655,Common Stock
+D,05/11/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,2040,0,3,0001642533,Stock Option (Right to Buy)
+D,05/11/2020 00:00:00,Ramos Daniel,4,S-Sale,--D,2040,41504,2,0001642533,Common Stock
+A,05/11/2020 00:00:00,Ramos Daniel,4,M-Exempt,--D,2040,43544,1,0001642533,Common Stock
+D,04/08/2020 00:00:00,Trundle Stephen,4,M-Exempt,--D,35000,165000,6,0001643898,Stock Option (Right to Buy)
+D,04/08/2020 00:00:00,Trundle Stephen,4,S-Sale,--D,5000,257741,3,0001643898,Common Stock
+D,04/08/2020 00:00:00,Trundle Stephen,4,S-Sale,--D,30000,262741,2,0001643898,Common Stock
+A,04/08/2020 00:00:00,Trundle Stephen,4,M-Exempt,--D,35000,292741,1,0001643898,Common Stock
+D,04/02/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,793,50787,2,0001304655,Common Stock
+D,04/02/2020 00:00:00,Trundle Stephen,4,S-Sale,--D,4752,267741,2,0001643898,Common Stock
+D,04/02/2020 00:00:00,Ramos Daniel,4,S-Sale,--D,1270,41504,2,0001642533,Common Stock
+D,04/02/2020 00:00:00,Kerzner Daniel,4,S-Sale,--D,1745,50361,2,0001642717,Common Stock
+D,04/02/2020 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,1270,457454,2,0001203474,Common Stock
+A,04/01/2020 00:00:00,Valenzuela Steve,4,A-Award,--D,12500,12500,3,0001304655,Stock Option (Right to Buy)
+A,04/01/2020 00:00:00,Valenzuela Steve,4,A-Award,--D,12500,51580,1,0001304655,Common Stock
+A,04/01/2020 00:00:00,Trundle Stephen,4,A-Award,--D,30000,30000,6,0001643898,Stock Option (Right to Buy)
+A,04/01/2020 00:00:00,Trundle Stephen,4,A-Award,--D,25000,272493,1,0001643898,Common Stock
+A,04/01/2020 00:00:00,Ramos Daniel,4,A-Award,--D,12500,12500,3,0001642533,Stock Option (Right to Buy)
+A,04/01/2020 00:00:00,Ramos Daniel,4,A-Award,--D,12500,42774,1,0001642533,Common Stock
+A,04/01/2020 00:00:00,Kerzner Daniel,4,A-Award,--D,15000,15000,3,0001642717,Stock Option (Right to Buy)
+A,04/01/2020 00:00:00,Kerzner Daniel,4,A-Award,--D,15000,52106,1,0001642717,Common Stock
+A,04/01/2020 00:00:00,BEDELL JEFFREY A,4,A-Award,--D,12500,12500,3,0001203474,Stock Option (Right to Buy)
+A,04/01/2020 00:00:00,BEDELL JEFFREY A,4,A-Award,--D,12500,458724,1,0001203474,Common Stock
+D,03/16/2020 00:00:00,Marshall Christopher P,4,S-Sale,--I,25000,35223,1,0001440008,Common Stock
+D,03/06/2020 00:00:00,REYNOLDS JON Q JR,4,G-Gift,--I,42790,0,4,0001188444,Common Stock
+D,03/06/2020 00:00:00,REYNOLDS JON Q JR,4,S-Sale,--I,12902,129299,3,0001188444,Common Stock
+D,03/05/2020 00:00:00,REYNOLDS JON Q JR,4,S-Sale,--I,72000,142201,2,0001188444,Common Stock
+D,03/05/2020 00:00:00,REYNOLDS JON Q JR,4,S-Sale,--I,25510,0,1,0001188444,Common Stock
+D,03/04/2020 00:00:00,TCV VII LP,4,S-Sale,--I,10300,0,19,0001420295,Common Stock
+D,03/04/2020 00:00:00,TCV VII LP,4,S-Sale,--I,12404,10300,18,0001420295,Common Stock
+D,03/04/2020 00:00:00,TCV VII LP,4,S-Sale,--I,46281,46004,17,0001420295,Common Stock
+D,03/04/2020 00:00:00,TCV VII LP,4,S-Sale,--I,6762,0,16,0001420295,Common Stock
+A,03/03/2020 00:00:00,McAdam Timothy P,4,J-Other,--I,25536,100359,2,0001498115,Common Stock
+A,03/03/2020 00:00:00,McAdam Timothy P,4,J-Other,--I,25510,25510,1,0001498115,Common Stock
+A,03/03/2020 00:00:00,TCV VII LP,4,J-Other,--I,333,1264,15,0001420295,Common Stock
+A,03/03/2020 00:00:00,TCV VII LP,4,J-Other,--I,26481,60223,14,0001420295,Common Stock
+A,03/03/2020 00:00:00,TCV VII LP,4,J-Other,--I,68985,68985,13,0001420295,Common Stock
+A,03/03/2020 00:00:00,TCV VII LP,4,J-Other,--I,26195,26195,12,0001420295,Common Stock
+A,03/03/2020 00:00:00,TCV VII LP,4,J-Other,--I,42790,42790,11,0001420295,Common Stock
+A,03/03/2020 00:00:00,TCV VII LP,4,J-Other,--I,71401,214201,10,0001420295,Common Stock
+A,03/03/2020 00:00:00,TCV VII LP,4,J-Other,--I,80787,371292,9,0001420295,Common Stock
+A,03/03/2020 00:00:00,TCV VII LP,4,J-Other,--I,58454,268649,8,0001420295,Common Stock
+A,03/03/2020 00:00:00,TCV VII LP,4,J-Other,--I,58454,268649,7,0001420295,Common Stock
+D,03/03/2020 00:00:00,TCV VII LP,4,J-Other,--I,623693,6762,6,0001420295,Common Stock
+A,03/03/2020 00:00:00,TCV VII LP,4,J-Other,--I,630455,630455,5,0001420295,Common Stock
+D,03/03/2020 00:00:00,TCV VII LP,4,J-Other,--I,15462,34737,3,0001420295,Common Stock
+D,03/03/2020 00:00:00,TCV VII LP,4,J-Other,--I,849246,1907898,2,0001420295,Common Stock
+D,03/03/2020 00:00:00,TCV VII LP,4,J-Other,--I,1635292,3673816,1,0001420295,Common Stock
+D,03/03/2020 00:00:00,Trundle Stephen,4,G-Gift,-ED,10000,257741,3,0001643898,Common Stock
+D,03/03/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,500,39080,1,0001304655,Common Stock
+A,02/21/2020 00:00:00,WU Simone,4,A-Award,--D,4128,4128,1,0001429463,Common Stock
+D,02/03/2020 00:00:00,Valenzuela Steve,4,S-Sale,--D,969,39580,1,0001304655,Common Stock
+D,01/13/2020 00:00:00,Trundle Stephen,4,M-Exempt,--D,20000,200000,5,0001643898,Stock Option (Right to Buy)
+D,01/13/2020 00:00:00,Trundle Stephen,4,S-Sale,--D,20000,247493,2,0001643898,Common Stock
+A,01/13/2020 00:00:00,Trundle Stephen,4,M-Exempt,--D,20000,267493,1,0001643898,Common Stock
+D,11/15/2019 00:00:00,Trundle Stephen,4,M-Exempt,--D,5000,220000,8,0001643898,Stock Option (Right to Buy)
+D,11/15/2019 00:00:00,Trundle Stephen,4,S-Sale,--D,5000,247493,4,0001643898,Common Stock
+A,11/15/2019 00:00:00,Trundle Stephen,4,M-Exempt,--D,5000,252493,3,0001643898,Common Stock
+D,11/14/2019 00:00:00,Trundle Stephen,4,M-Exempt,--D,10000,225000,7,0001643898,Stock Option (Right to Buy)
+D,11/14/2019 00:00:00,Trundle Stephen,4,S-Sale,--D,10000,247493,2,0001643898,Common Stock
+A,11/14/2019 00:00:00,Trundle Stephen,4,M-Exempt,--D,10000,257493,1,0001643898,Common Stock
+A,08/21/2019 00:00:00,Trundle Stephen,4,G-Gift,-EI,159569,279687,4,0001643898,Common Stock
+A,08/21/2019 00:00:00,Trundle Stephen,4,G-Gift,-ED,25050,247493,3,0001643898,Common Stock
+D,08/19/2019 00:00:00,Trundle Stephen,4,M-Exempt,--D,20000,235000,6,0001643898,Stock Option (Right to Buy)
+D,08/19/2019 00:00:00,Trundle Stephen,4,S-Sale,--D,20000,222443,2,0001643898,Common Stock
+A,08/19/2019 00:00:00,Trundle Stephen,4,M-Exempt,--D,20000,242443,1,0001643898,Common Stock
+D,06/13/2019 00:00:00,Martin Jean-Paul,4,J-Other,--D,60252,86197,1,0001642950,Common Stock
+A,06/06/2019 00:00:00,McAdam Timothy P,4,A-Award,--I,2711,9872,1,0001498115,Common Stock
+A,06/06/2019 00:00:00,NEVIN DARIUS G,4,A-Award,--D,2711,12711,1,0001184810,Common Stock
+A,06/06/2019 00:00:00,Lee Michelle K.,4,A-Award,--D,2711,7815,1,0001728889,Common Stock
+A,06/06/2019 00:00:00,SHATTUCK MAYO A III,4,A-Award,--D,2711,34724,1,0001087426,Common Stock
+A,06/06/2019 00:00:00,Clarke Donald E,4,A-Award,--D,2711,9872,1,0001297831,Common Stock
+A,06/06/2019 00:00:00,PANERO HUGH,4,A-Award,--D,2711,7546,1,0001268617,Common Stock
+D,06/03/2019 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,31417,3,0001304655,Employee Stock Option (Right to Buy)
+D,06/03/2019 00:00:00,Valenzuela Steve,4,S-Sale,--D,1083,40549,2,0001304655,Common Stock
+A,06/03/2019 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,41632,1,0001304655,Common Stock
+D,05/24/2019 00:00:00,Trundle Stephen,5,G-Gift,-LD,10000,247741,3,0001643898,Common Stock
+D,05/16/2019 00:00:00,Martin Jean-Paul,4,S-Sale,--D,9,146449,2,0001642950,Common Stock
+D,05/16/2019 00:00:00,Martin Jean-Paul,4,S-Sale,--D,943,146458,1,0001642950,Common Stock
+D,05/16/2019 00:00:00,Ramos Daniel,4,S-Sale,--D,12,29848,2,0001642533,Common Stock
+D,05/16/2019 00:00:00,Ramos Daniel,4,S-Sale,--D,1257,29860,1,0001642533,Common Stock
+D,05/16/2019 00:00:00,Kerzner Daniel,4,S-Sale,--D,12,37106,2,0001642717,Common Stock
+D,05/16/2019 00:00:00,Kerzner Daniel,4,S-Sale,--D,1257,37118,1,0001642717,Common Stock
+D,05/16/2019 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,12,446224,2,0001203474,Common Stock
+D,05/16/2019 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,1257,446236,1,0001203474,Common Stock
+D,05/01/2019 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1084,32500,3,0001304655,Employee Stock Option (Right to Buy)
+D,05/01/2019 00:00:00,Valenzuela Steve,4,S-Sale,--D,1084,40549,2,0001304655,Common Stock
+A,05/01/2019 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1084,41633,1,0001304655,Common Stock
+D,04/22/2019 00:00:00,Trundle Stephen,4,M-Exempt,--D,20000,255000,6,0001643898,Stock Option (Right to Buy)
+D,04/22/2019 00:00:00,Trundle Stephen,4,S-Sale,--D,20000,222443,2,0001643898,Common Stock
+A,04/22/2019 00:00:00,Trundle Stephen,4,M-Exempt,--D,20000,242443,1,0001643898,Common Stock
+D,04/08/2019 00:00:00,Trundle Stephen,4,M-Exempt,--D,15000,275000,6,0001643898,Stock Option (Right to Buy)
+D,04/08/2019 00:00:00,Trundle Stephen,4,S-Sale,--D,15000,222443,2,0001643898,Common Stock
+A,04/08/2019 00:00:00,Trundle Stephen,4,M-Exempt,--D,15000,237443,1,0001643898,Common Stock
+D,04/02/2019 00:00:00,Trundle Stephen,4,S-Sale,--D,2271,222443,2,0001643898,Common Stock
+D,04/02/2019 00:00:00,Ramos Daniel,4,S-Sale,--D,607,31117,2,0001642533,Common Stock
+D,04/02/2019 00:00:00,Martin Jean-Paul,4,S-Sale,--D,603,147401,2,0001642950,Common Stock
+D,04/02/2019 00:00:00,Kerzner Daniel,4,S-Sale,--D,758,38375,2,0001642717,Common Stock
+D,04/02/2019 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,607,447493,2,0001203474,Common Stock
+A,04/01/2019 00:00:00,Valenzuela Steve,4,A-Award,--D,12500,12500,5,0001304655,Employee Stock Option (Right to Buy)
+D,04/01/2019 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,33584,4,0001304655,Employee Stock Option (Right to Buy)
+A,04/01/2019 00:00:00,Valenzuela Steve,4,A-Award,--D,12500,40549,3,0001304655,Common Stock
+D,04/01/2019 00:00:00,Valenzuela Steve,4,S-Sale,--D,1083,28049,2,0001304655,Common Stock
+A,04/01/2019 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,29132,1,0001304655,Common Stock
+A,04/01/2019 00:00:00,Trundle Stephen,4,A-Award,--D,30000,30000,6,0001643898,Stock Option (Right to Buy)
+A,04/01/2019 00:00:00,Trundle Stephen,4,A-Award,--D,25000,224714,1,0001643898,Common Stock
+A,04/01/2019 00:00:00,Ramos Daniel,4,A-Award,--D,10000,10000,3,0001642533,Employee Stock Option (Right to Buy)
+A,04/01/2019 00:00:00,Ramos Daniel,4,A-Award,--D,10000,31724,1,0001642533,Common Stock
+A,04/01/2019 00:00:00,Martin Jean-Paul,4,A-Award,--D,10000,10000,3,0001642950,Employee Stock Option (Right to Buy)
+A,04/01/2019 00:00:00,Martin Jean-Paul,4,A-Award,--D,10000,148004,1,0001642950,Common Stock
+A,04/01/2019 00:00:00,Kerzner Daniel,4,A-Award,--D,15000,15000,3,0001642717,Employee Stock Option (Right to Buy)
+A,04/01/2019 00:00:00,Kerzner Daniel,4,A-Award,--D,15000,39133,1,0001642717,Common Stock
+A,04/01/2019 00:00:00,Hutz David,4,A-Award,--D,15000,15000,2,0001642898,Employee Stock Option (Right to Buy)
+A,04/01/2019 00:00:00,Hutz David,4,A-Award,--D,15000,107522,1,0001642898,Common Stock
+A,04/01/2019 00:00:00,BEDELL JEFFREY A,4,A-Award,--D,10000,10000,3,0001203474,Employee Stock Option (Right to Buy)
+A,04/01/2019 00:00:00,BEDELL JEFFREY A,4,A-Award,--D,10000,448100,1,0001203474,Common Stock
+D,03/01/2019 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,34667,3,0001304655,Employee Stock Option (Right to Buy)
+D,03/01/2019 00:00:00,Valenzuela Steve,4,S-Sale,--D,1083,28049,2,0001304655,Common Stock
+A,03/01/2019 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,29132,1,0001304655,Common Stock
+D,02/01/2019 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1084,35750,3,0001304655,Employee Stock Option (Right to Buy)
+D,02/01/2019 00:00:00,Valenzuela Steve,4,S-Sale,--D,1084,28049,2,0001304655,Common Stock
+A,02/01/2019 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1084,29133,1,0001304655,Common Stock
+D,01/16/2019 00:00:00,Trundle Stephen,4,M-Exempt,--D,1200,290000,13,0001643898,Stock Option (Right to Buy)
+D,01/16/2019 00:00:00,Trundle Stephen,4,S-Sale,--D,1200,199714,7,0001643898,Common Stock
+A,01/16/2019 00:00:00,Trundle Stephen,4,M-Exempt,--D,1200,200914,6,0001643898,Common Stock
+D,01/15/2019 00:00:00,Trundle Stephen,4,M-Exempt,--D,10000,291200,12,0001643898,Stock Option (Right to Buy)
+D,01/15/2019 00:00:00,Trundle Stephen,4,S-Sale,--D,5000,199714,5,0001643898,Common Stock
+D,01/15/2019 00:00:00,Trundle Stephen,4,S-Sale,--D,5000,204714,4,0001643898,Common Stock
+A,01/15/2019 00:00:00,Trundle Stephen,4,M-Exempt,--D,10000,209714,3,0001643898,Common Stock
+D,01/14/2019 00:00:00,Trundle Stephen,4,M-Exempt,--D,18800,301200,11,0001643898,Stock Option (Right to Buy)
+D,01/14/2019 00:00:00,Trundle Stephen,4,S-Sale,--D,18800,199714,2,0001643898,Common Stock
+A,01/14/2019 00:00:00,Trundle Stephen,4,M-Exempt,--D,18800,218514,1,0001643898,Common Stock
+D,01/02/2019 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,36834,3,0001304655,Employee Stock Option (Right to Buy)
+D,01/02/2019 00:00:00,Valenzuela Steve,4,S-Sale,--D,1083,28049,2,0001304655,Common Stock
+A,01/02/2019 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,29132,1,0001304655,Common Stock
+D,12/10/2018 00:00:00,Trundle Stephen,4,S-Sale,--I,10000,120118,1,0001643898,Common Stock
+D,12/04/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,500,8667,11,0001642533,Employee Stock Option (Right to Buy)
+D,12/04/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,500,6834,10,0001642533,Employee Stock Option (Right to Buy)
+D,12/04/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,750,6500,9,0001642533,Employee Stock Option (Right to Buy)
+D,12/04/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,360,2040,8,0001642533,Employee Stock Option (Right to Buy)
+D,12/04/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,750,0,7,0001642533,Employee Stock Option (Right to Buy)
+D,12/04/2018 00:00:00,Ramos Daniel,4,S-Sale,--D,5446,21566,6,0001642533,Common Stock
+A,12/04/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,500,27012,5,0001642533,Common Stock
+A,12/04/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,500,26512,4,0001642533,Common Stock
+A,12/04/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,750,26012,3,0001642533,Common Stock
+A,12/04/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,360,25262,2,0001642533,Common Stock
+A,12/04/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,750,24902,1,0001642533,Common Stock
+D,12/04/2018 00:00:00,Valenzuela Steve,4,S-Sale,--D,6725,28049,4,0001304655,Common Stock
+D,12/04/2018 00:00:00,Valenzuela Steve,4,S-Sale,--D,3000,34774,3,0001304655,Common Stock
+D,12/03/2018 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,37917,5,0001304655,Employee Stock Option (Right to Buy)
+D,12/03/2018 00:00:00,Valenzuela Steve,4,S-Sale,--D,1083,37774,2,0001304655,Common Stock
+A,12/03/2018 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1083,38857,1,0001304655,Common Stock
+D,11/28/2018 00:00:00,Valenzuela Steve,4,S-Sale,--D,5000,37774,1,0001304655,Common Stock
+D,11/15/2018 00:00:00,McAdam Timothy P,4,S-Sale,--I,22500,33742,4,0001498115,Common Stock
+D,11/15/2018 00:00:00,Trundle Stephen,4,M-Exempt,--D,15000,0,7,0001643898,Stock Option (Right to Buy)
+D,11/15/2018 00:00:00,Trundle Stephen,4,S-Sale,--D,15000,209714,4,0001643898,Common Stock
+A,11/15/2018 00:00:00,Trundle Stephen,4,M-Exempt,--D,15000,224714,3,0001643898,Common Stock
+D,11/14/2018 00:00:00,Trundle Stephen,4,S-Sale,--I,15000,2111235,2,0001643898,Common Stock
+D,11/13/2018 00:00:00,Trundle Stephen,4,S-Sale,--I,15000,2126235,1,0001643898,Common Stock
+D,11/13/2018 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1000,39000,10,0001304655,Employee Stock Option (Right to Buy)
+D,11/13/2018 00:00:00,Valenzuela Steve,4,S-Sale,--D,1000,42774,7,0001304655,Common Stock
+A,11/13/2018 00:00:00,Valenzuela Steve,4,M-Exempt,--D,1000,43774,6,0001304655,Common Stock
+D,11/12/2018 00:00:00,Valenzuela Steve,4,M-Exempt,--D,5000,40000,9,0001304655,Employee Stock Option (Right to Buy)
+D,11/12/2018 00:00:00,Valenzuela Steve,4,S-Sale,--D,4000,42774,5,0001304655,Common Stock
+D,11/12/2018 00:00:00,Valenzuela Steve,4,S-Sale,--D,1000,46774,4,0001304655,Common Stock
+A,11/12/2018 00:00:00,Valenzuela Steve,4,M-Exempt,--D,5000,47774,3,0001304655,Common Stock
+D,11/09/2018 00:00:00,Valenzuela Steve,4,M-Exempt,--D,5000,45000,8,0001304655,Employee Stock Option (Right to Buy)
+D,11/09/2018 00:00:00,Valenzuela Steve,4,S-Sale,--D,5000,42774,2,0001304655,Common Stock
+A,11/09/2018 00:00:00,Valenzuela Steve,4,M-Exempt,--D,5000,47774,1,0001304655,Common Stock
+D,11/08/2018 00:00:00,Valenzuela Steve,4,M-Exempt,--D,5000,50000,9,0001304655,Employee Stock Option (Right to Buy)
+D,11/08/2018 00:00:00,Valenzuela Steve,4,S-Sale,--D,5000,42774,6,0001304655,Common Stock
+A,11/08/2018 00:00:00,Valenzuela Steve,4,M-Exempt,--D,5000,47774,5,0001304655,Common Stock
+D,11/07/2018 00:00:00,Valenzuela Steve,4,M-Exempt,--D,5000,55000,8,0001304655,Employee Stock Option (Right to Buy)
+D,11/07/2018 00:00:00,Valenzuela Steve,4,S-Sale,--D,5000,42774,4,0001304655,Common Stock
+A,11/07/2018 00:00:00,Valenzuela Steve,4,M-Exempt,--D,5000,47774,3,0001304655,Common Stock
+D,11/06/2018 00:00:00,Valenzuela Steve,4,M-Exempt,--D,5000,60000,7,0001304655,Employee Stock Option (Right to Buy)
+D,11/06/2018 00:00:00,Valenzuela Steve,4,S-Sale,--D,5000,42774,2,0001304655,Common Stock
+A,11/06/2018 00:00:00,Valenzuela Steve,4,M-Exempt,--D,5000,47774,1,0001304655,Common Stock
+D,09/14/2018 00:00:00,PANERO HUGH,4,S-Sale,--D,1115,4835,1,0001268617,Common Stock
+D,09/14/2018 00:00:00,Kerzner Daniel,4,M-Exempt,--D,17500,10000,4,0001642717,Employee Stock Option (Right to Buy)
+D,09/14/2018 00:00:00,Kerzner Daniel,4,S-Sale,--D,10420,24133,3,0001642717,Common Stock
+D,09/14/2018 00:00:00,Kerzner Daniel,4,S-Sale,--D,7080,34553,2,0001642717,Common Stock
+A,09/14/2018 00:00:00,Kerzner Daniel,4,M-Exempt,--D,17500,41633,1,0001642717,Common Stock
+D,09/14/2018 00:00:00,BEDELL JEFFREY A,4,S-Sale,--D,400,438100,1,0001203474,Common Stock
+D,09/12/2018 00:00:00,Ramos Daniel,4,S-Sale,--D,19178,24152,9,0001642533,Common Stock
+D,09/11/2018 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,10000,5000,3,0001642950,Employee Stock Option (Right to Buy)
+D,09/11/2018 00:00:00,Martin Jean-Paul,4,S-Sale,--D,10000,138004,2,0001642950,Common Stock
+A,09/11/2018 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,10000,148004,1,0001642950,Common Stock
+D,09/11/2018 00:00:00,Ramos Daniel,4,S-Sale,--D,722,43330,8,0001642533,Common Stock
+D,09/10/2018 00:00:00,Trundle Stephen,4,G-Gift,-ED,10000,199714,2,0001643898,Common Stock
+D,09/10/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,833,9167,14,0001642533,Employee Stock Option (Right to Buy)
+D,09/10/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,2666,7334,13,0001642533,Employee Stock Option (Right to Buy)
+D,09/10/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,7750,7250,12,0001642533,Employee Stock Option (Right to Buy)
+D,09/10/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,4800,2400,11,0001642533,Employee Stock Option (Right to Buy)
+D,09/10/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,14250,750,10,0001642533,Employee Stock Option (Right to Buy)
+D,09/10/2018 00:00:00,Ramos Daniel,4,G-Gift,-ED,1000,44052,7,0001642533,Common Stock
+D,09/10/2018 00:00:00,Ramos Daniel,4,S-Sale,--D,50399,45052,6,0001642533,Common Stock
+A,09/10/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,833,95451,5,0001642533,Common Stock
+A,09/10/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,2666,94618,4,0001642533,Common Stock
+A,09/10/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,7750,91952,3,0001642533,Common Stock
+A,09/10/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,4800,84202,2,0001642533,Common Stock
+A,09/10/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,14250,79402,1,0001642533,Common Stock
+D,09/07/2018 00:00:00,McAdam Timothy P,4,S-Sale,--I,17600,10611,2,0001498115,Common Stock
+D,09/07/2018 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,5891,0,26,0001467001,Common Stock
+D,09/07/2018 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,25543,5891,25,0001467001,Common Stock
+D,09/07/2018 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,9623,0,24,0001467001,Common Stock
+D,09/07/2018 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,41725,9623,23,0001467001,Common Stock
+D,09/07/2018 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,3600,0,22,0001467001,Common Stock
+D,09/07/2018 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,1400,3600,21,0001467001,Common Stock
+D,09/06/2018 00:00:00,McAdam Timothy P,4,G-Gift,--I,22500,56242,3,0001498115,Common Stock
+D,09/06/2018 00:00:00,McAdam Timothy P,4,G-Gift,--I,10611,0,2,0001498115,Common Stock
+D,09/06/2018 00:00:00,McAdam Timothy P,4,G-Gift,--I,2000,74823,1,0001498115,Common Stock
+D,09/06/2018 00:00:00,McAdam Timothy P,4,S-Sale,--I,2500,76823,7,0001498115,Common Stock
+D,09/06/2018 00:00:00,McAdam Timothy P,4,S-Sale,--I,1300,79323,6,0001498115,Common Stock
+D,09/06/2018 00:00:00,McAdam Timothy P,4,S-Sale,--I,2837,80623,5,0001498115,Common Stock
+D,09/06/2018 00:00:00,McAdam Timothy P,4,S-Sale,--I,1599,83460,4,0001498115,Common Stock
+D,09/06/2018 00:00:00,McAdam Timothy P,4,S-Sale,--I,1764,85059,3,0001498115,Common Stock
+D,09/06/2018 00:00:00,McAdam Timothy P,4,S-Sale,--I,2400,28211,1,0001498115,Common Stock
+D,09/06/2018 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,17781,5000,20,0001467001,Common Stock
+D,09/06/2018 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,30600,22781,19,0001467001,Common Stock
+D,09/06/2018 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,23600,53381,18,0001467001,Common Stock
+D,09/06/2018 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,4879,76981,17,0001467001,Common Stock
+D,09/06/2018 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,921,81860,16,0001467001,Common Stock
+D,09/06/2018 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,155,0,15,0001467001,Common Stock
+D,09/06/2018 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,3061,155,14,0001467001,Common Stock
+D,09/06/2018 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,1084,3216,13,0001467001,Common Stock
+D,09/06/2018 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,1704,4300,12,0001467001,Common Stock
+D,09/06/2018 00:00:00,"Technology Crossover Management VII, L.P.",4,S-Sale,--I,465,6004,11,0001467001,Common Stock
+A,09/05/2018 00:00:00,McAdam Timothy P,4,J-Other,--I,30642,86823,2,0001498115,Common Stock
+A,09/05/2018 00:00:00,McAdam Timothy P,4,J-Other,--I,30611,30611,1,0001498115,Common Stock
+A,09/05/2018 00:00:00,TCV VII LP,4,J-Other,--I,399,931,15,0001420295,Common Stock
+A,09/05/2018 00:00:00,TCV VII LP,4,J-Other,--I,31777,78742,14,0001420295,Common Stock
+A,09/05/2018 00:00:00,TCV VII LP,4,J-Other,--I,82781,82781,13,0001420295,Common Stock
+A,09/05/2018 00:00:00,TCV VII LP,4,J-Other,--I,31434,31434,12,0001420295,Common Stock
+A,09/05/2018 00:00:00,TCV VII LP,4,J-Other,--I,51348,51348,11,0001420295,Common Stock
+A,09/05/2018 00:00:00,TCV VII LP,4,J-Other,--I,85680,142800,10,0001420295,Common Stock
+A,09/05/2018 00:00:00,TCV VII LP,4,J-Other,--I,96944,290505,9,0001420295,Common Stock
+A,09/05/2018 00:00:00,TCV VII LP,4,J-Other,--I,70144,210195,8,0001420295,Common Stock
+A,09/05/2018 00:00:00,TCV VII LP,4,J-Other,--I,70144,210195,7,0001420295,Common Stock
+D,09/05/2018 00:00:00,TCV VII LP,4,J-Other,--I,750073,6469,6,0001420295,Common Stock
+A,09/05/2018 00:00:00,TCV VII LP,4,J-Other,--I,756542,756542,5,0001420295,Common Stock
+D,09/05/2018 00:00:00,TCV VII LP,4,J-Other,--I,18554,50199,3,0001420295,Common Stock
+D,09/05/2018 00:00:00,TCV VII LP,4,J-Other,--I,1019094,2757144,2,0001420295,Common Stock
+D,09/05/2018 00:00:00,TCV VII LP,4,J-Other,--I,1962352,5309108,1,0001420295,Common Stock
+D,08/17/2018 00:00:00,Kerzner Daniel,4,M-Exempt,--D,10000,27500,3,0001642717,Employee Stock Option (Right to Buy)
+D,08/17/2018 00:00:00,Kerzner Daniel,4,S-Sale,--D,10000,23969,2,0001642717,Common Stock
+A,08/17/2018 00:00:00,Kerzner Daniel,4,M-Exempt,--D,10000,33969,1,0001642717,Common Stock
+D,08/15/2018 00:00:00,Trundle Stephen,4,M-Exempt,--D,15000,15000,6,0001643898,Stock Option (Right to Buy)
+D,08/15/2018 00:00:00,Trundle Stephen,4,S-Sale,--D,15000,209714,2,0001643898,Common Stock
+A,08/15/2018 00:00:00,Trundle Stephen,4,M-Exempt,--D,15000,224714,1,0001643898,Common Stock
+D,08/08/2018 00:00:00,Kerzner Daniel,4,M-Exempt,--D,10000,37500,3,0001642717,Employee Stock Option (Right to Buy)
+D,08/08/2018 00:00:00,Kerzner Daniel,4,S-Sale,--D,10000,23969,2,0001642717,Common Stock
+A,08/08/2018 00:00:00,Kerzner Daniel,4,M-Exempt,--D,10000,33969,1,0001642717,Common Stock
+D,06/18/2018 00:00:00,Trundle Stephen,4,M-Exempt,--D,7193,30000,9,0001643898,Stock Option (Right to Buy)
+D,06/18/2018 00:00:00,Trundle Stephen,4,S-Sale,--D,7193,189691,4,0001643898,Common Stock
+A,06/18/2018 00:00:00,Trundle Stephen,4,M-Exempt,--D,7193,196884,3,0001643898,Common Stock
+D,06/15/2018 00:00:00,Trundle Stephen,4,M-Exempt,--D,15000,37193,8,0001643898,Stock Option (Right to Buy)
+D,06/15/2018 00:00:00,Trundle Stephen,4,S-Sale,--D,15000,189691,2,0001643898,Common Stock
+A,06/15/2018 00:00:00,Trundle Stephen,4,M-Exempt,--D,15000,204691,1,0001643898,Common Stock
+D,06/14/2018 00:00:00,PANERO HUGH,4,S-Sale,--D,10000,5950,1,0001268617,Common Stock
+D,06/13/2018 00:00:00,McAdam Timothy P,4,S-Sale,--I,20407,0,3,0001498115,Common Stock
+D,06/13/2018 00:00:00,TCV VII LP,4,S-Sale,--I,43295,0,25,0001420295,Common Stock
+D,06/12/2018 00:00:00,TCV VII LP,4,S-Sale,--I,930,0,24,0001420295,Common Stock
+D,06/12/2018 00:00:00,TCV VII LP,4,S-Sale,--I,33302,930,23,0001420295,Common Stock
+D,06/12/2018 00:00:00,TCV VII LP,4,S-Sale,--I,570,0,22,0001420295,Common Stock
+D,06/12/2018 00:00:00,TCV VII LP,4,S-Sale,--I,20386,570,21,0001420295,Common Stock
+D,06/12/2018 00:00:00,TCV VII LP,4,S-Sale,--I,11892,43295,20,0001420295,Common Stock
+D,06/12/2018 00:00:00,TCV VII LP,4,G-Gift,--I,4000,46965,19,0001420295,Common Stock
+D,06/12/2018 00:00:00,TCV VII LP,4,S-Sale,--I,439,0,18,0001420295,Common Stock
+D,06/12/2018 00:00:00,TCV VII LP,4,S-Sale,--I,1778,439,17,0001420295,Common Stock
+D,06/12/2018 00:00:00,TCV VII LP,4,S-Sale,--I,2095,2217,16,0001420295,Common Stock
+A,06/11/2018 00:00:00,McAdam Timothy P,4,J-Other,--I,20428,56181,2,0001498115,Common Stock
+A,06/11/2018 00:00:00,McAdam Timothy P,4,J-Other,--I,20407,20407,1,0001498115,Common Stock
+A,06/11/2018 00:00:00,TCV VII LP,4,J-Other,--I,266,532,15,0001420295,Common Stock
+A,06/11/2018 00:00:00,TCV VII LP,4,J-Other,--I,21185,50965,14,0001420295,Common Stock
+A,06/11/2018 00:00:00,TCV VII LP,4,J-Other,--I,55187,55187,13,0001420295,Common Stock
+A,06/11/2018 00:00:00,TCV VII LP,4,J-Other,--I,20956,20956,12,0001420295,Common Stock
+A,06/11/2018 00:00:00,TCV VII LP,4,J-Other,--I,34232,34232,11,0001420295,Common Stock
+A,06/11/2018 00:00:00,TCV VII LP,4,J-Other,--I,57120,57120,10,0001420295,Common Stock
+A,06/11/2018 00:00:00,TCV VII LP,4,J-Other,--I,64630,193561,9,0001420295,Common Stock
+A,06/11/2018 00:00:00,TCV VII LP,4,J-Other,--I,46763,140051,8,0001420295,Common Stock
+A,06/11/2018 00:00:00,TCV VII LP,4,J-Other,--I,46763,140051,7,0001420295,Common Stock
+D,06/11/2018 00:00:00,TCV VII LP,4,J-Other,--I,500049,4312,6,0001420295,Common Stock
+A,06/11/2018 00:00:00,TCV VII LP,4,J-Other,--I,504361,504361,5,0001420295,Common Stock
+D,06/11/2018 00:00:00,TCV VII LP,4,J-Other,--I,12370,68753,3,0001420295,Common Stock
+D,06/11/2018 00:00:00,TCV VII LP,4,J-Other,--I,679396,3776238,2,0001420295,Common Stock
+D,06/11/2018 00:00:00,TCV VII LP,4,J-Other,--I,1308234,7271460,1,0001420295,Common Stock
+A,06/08/2018 00:00:00,McAdam Timothy P,4,A-Award,--I,3193,7161,1,0001498115,Common Stock
+A,06/08/2018 00:00:00,SHATTUCK MAYO A III,4,A-Award,--D,3193,32013,1,0001087426,Common Stock
+A,06/08/2018 00:00:00,PANERO HUGH,4,A-Award,--D,3193,15950,1,0001268617,Common Stock
+A,06/08/2018 00:00:00,Clarke Donald E,4,A-Award,--D,3193,7161,1,0001297831,Common Stock
+D,06/08/2018 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,27000,3000,5,0001642950,Employee Stock Option (Right to Buy)
+D,06/08/2018 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,18350,0,4,0001642950,Employee Stock Option (Right to Buy)
+D,06/08/2018 00:00:00,Martin Jean-Paul,4,S-Sale,--D,45350,138004,3,0001642950,Common Stock
+A,06/08/2018 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,27000,183354,2,0001642950,Common Stock
+A,06/08/2018 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,18350,156354,1,0001642950,Common Stock
+D,06/07/2018 00:00:00,Hutz David,4,M-Exempt,--D,21000,3500,7,0001642898,Employee Stock Option (Right to Buy)
+D,06/07/2018 00:00:00,Hutz David,4,M-Exempt,--D,9664,0,6,0001642898,Employee Stock Option (Right to Buy)
+D,06/07/2018 00:00:00,Hutz David,4,M-Exempt,--D,4500,0,5,0001642898,Employee Stock Option (Right to Buy)
+D,06/07/2018 00:00:00,Hutz David,4,S-Sale,--D,35164,92522,4,0001642898,Common Stock
+A,06/07/2018 00:00:00,Hutz David,4,M-Exempt,--D,21000,127686,3,0001642898,Common Stock
+A,06/07/2018 00:00:00,Hutz David,4,M-Exempt,--D,9664,106686,2,0001642898,Common Stock
+A,06/07/2018 00:00:00,Hutz David,4,M-Exempt,--D,4500,97022,1,0001642898,Common Stock
+D,06/05/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,18223,0,10,0001642533,Employee Stock Option (Right to Buy)
+D,06/05/2018 00:00:00,Ramos Daniel,4,S-Sale,--D,18223,65000,7,0001642533,Common Stock
+A,06/05/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,18223,83223,6,0001642533,Common Stock
+D,06/04/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,15828,18223,9,0001642533,Employee Stock Option (Right to Buy)
+D,06/04/2018 00:00:00,Ramos Daniel,4,S-Sale,--D,15828,65000,5,0001642533,Common Stock
+A,06/04/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,15828,80828,4,0001642533,Common Stock
+D,06/01/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,4172,34051,8,0001642533,Employee Stock Option (Right to Buy)
+D,06/01/2018 00:00:00,Ramos Daniel,4,G-Gift,-ED,2528,65000,3,0001642533,Common Stock
+D,06/01/2018 00:00:00,Ramos Daniel,4,S-Sale,--D,4172,67528,2,0001642533,Common Stock
+A,06/01/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,4172,71700,1,0001642533,Common Stock
+D,05/24/2018 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,50000,18350,3,0001642950,Stock Option (Right to Buy)
+D,05/24/2018 00:00:00,Martin Jean-Paul,4,S-Sale,--D,50000,138004,2,0001642950,Common Stock
+A,05/24/2018 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,50000,188004,1,0001642950,Common Stock
+D,05/18/2018 00:00:00,PANERO HUGH,4,S-Sale,--D,5000,12757,3,0001268617,Common Stock
+D,05/17/2018 00:00:00,PANERO HUGH,4,S-Sale,--D,20000,17757,2,0001268617,Common Stock
+D,05/16/2018 00:00:00,PANERO HUGH,4,S-Sale,--D,20000,37757,1,0001268617,Common Stock
+D,05/14/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,44514,0,6,0001642533,Stock Option (Right to Buy)
+D,05/14/2018 00:00:00,Ramos Daniel,4,S-Sale,--D,44514,67528,4,0001642533,Common Stock
+A,05/14/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,44514,112042,3,0001642533,Common Stock
+D,05/11/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,15155,44514,5,0001642533,Stock Option (Right to Buy)
+D,05/11/2018 00:00:00,Ramos Daniel,4,S-Sale,--D,15155,67528,2,0001642533,Common Stock
+A,05/11/2018 00:00:00,Ramos Daniel,4,M-Exempt,--D,15155,82683,1,0001642533,Common Stock
+D,05/10/2018 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,50000,68350,3,0001642950,Stock Option (Right to Buy)
+D,05/10/2018 00:00:00,Martin Jean-Paul,4,S-Sale,--D,50000,138004,2,0001642950,Common Stock
+A,05/10/2018 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,50000,188004,1,0001642950,Common Stock
+A,04/01/2018 00:00:00,Trundle Stephen,4,A-Award,--D,30000,30000,5,0001643898,Stock Option (Right to Buy)
+A,04/01/2018 00:00:00,Trundle Stephen,4,A-Award,--D,25000,189691,1,0001643898,Common Stock
+A,04/01/2018 00:00:00,Ramos Daniel,4,A-Award,--D,10000,10000,2,0001642533,Employee Stock Option (Right to Buy)
+A,04/01/2018 00:00:00,Ramos Daniel,4,A-Award,--D,10000,67528,1,0001642533,Common Stock
+A,04/01/2018 00:00:00,Martin Jean-Paul,4,A-Award,--D,10000,10000,2,0001642950,Employee Stock Option (Right to Buy)
+A,04/01/2018 00:00:00,Martin Jean-Paul,4,A-Award,--D,10000,138004,1,0001642950,Common Stock
+A,04/01/2018 00:00:00,Kerzner Daniel,4,A-Award,--D,12500,12500,2,0001642717,Employee Stock Option (Right to Buy)
+A,04/01/2018 00:00:00,Kerzner Daniel,4,A-Award,--D,12500,23969,1,0001642717,Common Stock
+A,04/01/2018 00:00:00,Hutz David,4,A-Award,--D,12500,12500,2,0001642898,Employee Stock Option (Right to Buy)
+A,04/01/2018 00:00:00,Hutz David,4,A-Award,--D,12500,92522,1,0001642898,Common Stock
+A,04/01/2018 00:00:00,BEDELL JEFFREY A,4,A-Award,--D,10000,10000,2,0001203474,Employee Stock Option (Right to Buy)
+A,04/01/2018 00:00:00,BEDELL JEFFREY A,4,A-Award,--D,10000,438500,1,0001203474,Common Stock
+D,03/16/2018 00:00:00,Trundle Stephen,4,M-Exempt,--D,20000,52193,11,0001643898,Stock Option (Right to Buy)
+D,03/16/2018 00:00:00,Trundle Stephen,4,S-Sale,--D,20000,164691,5,0001643898,Common Stock
+A,03/16/2018 00:00:00,Trundle Stephen,4,M-Exempt,--D,20000,184691,4,0001643898,Common Stock
+D,03/15/2018 00:00:00,Trundle Stephen,4,M-Exempt,--D,2500,47500,10,0001643898,Stock Option (Right to Buy)
+D,03/15/2018 00:00:00,Trundle Stephen,4,M-Exempt,--D,5000,72193,9,0001643898,Stock Option (Right to Buy)
+A,03/15/2018 00:00:00,Trundle Stephen,4,M-Exempt,--D,2500,164691,3,0001643898,Common Stock
+D,03/15/2018 00:00:00,Trundle Stephen,4,S-Sale,--D,5000,162191,2,0001643898,Common Stock
+A,03/15/2018 00:00:00,Trundle Stephen,4,M-Exempt,--D,5000,167191,1,0001643898,Common Stock
+A,03/02/2018 00:00:00,NEVIN DARIUS G,4,P-Purchase,--D,10000,10000,1,0001184810,Common Stock
+A,02/01/2018 00:00:00,Lee Michelle K.,4,A-Award,--D,5104,5104,1,0001728889,Common Stock
+A,02/01/2018 00:00:00,Valenzuela Steve,4,A-Award,--D,6544,42386,1,0001304655,Common Stock
+A,12/20/2017 00:00:00,McAdam Timothy P,4,A-Award,--I,3968,3968,1,0001498115,Common Stock
+A,12/20/2017 00:00:00,Clarke Donald E,4,A-Award,--D,3968,3968,1,0001297831,Common Stock
+A,12/20/2017 00:00:00,SHATTUCK MAYO A III,4,A-Award,--D,3968,28820,1,0001087426,Common Stock
+A,12/20/2017 00:00:00,PANERO HUGH,4,A-Award,--D,1642,57757,1,0001268617,Common Stock
+D,12/14/2017 00:00:00,PANERO HUGH,4,S-Sale,--D,2500,56115,2,0001268617,Common Stock
+D,12/13/2017 00:00:00,PANERO HUGH,4,S-Sale,--D,16114,58615,1,0001268617,Common Stock
+D,12/12/2017 00:00:00,McAdam Timothy P,4,S-Sale,--I,20407,0,4,0001498115,Common Stock
+D,12/08/2017 00:00:00,McAdam Timothy P,4,G-Gift,--I,3000,29780,3,0001498115,Common Stock
+D,12/08/2017 00:00:00,McAdam Timothy P,4,G-Gift,--I,113952,0,2,0001498115,Common Stock
+D,12/08/2017 00:00:00,McAdam Timothy P,4,G-Gift,--I,5000,35753,1,0001498115,Common Stock
+D,11/29/2017 00:00:00,TCV VII LP,4,S-Sale,--I,3004,0,25,0001420295,Common Stock
+D,11/29/2017 00:00:00,TCV VII LP,4,S-Sale,--I,17952,3004,24,0001420295,Common Stock
+D,11/29/2017 00:00:00,TCV VII LP,4,S-Sale,--I,4900,0,23,0001420295,Common Stock
+D,11/29/2017 00:00:00,TCV VII LP,4,S-Sale,--I,29332,4900,22,0001420295,Common Stock
+D,11/28/2017 00:00:00,McAdam Timothy P,4,S-Sale,--I,8521,0,6,0001498115,Common Stock
+D,11/28/2017 00:00:00,McAdam Timothy P,4,S-Sale,--I,8000,8521,5,0001498115,Common Stock
+D,11/28/2017 00:00:00,TCV VII LP,4,S-Sale,--I,266,266,21,0001420295,Common Stock
+D,11/28/2017 00:00:00,TCV VII LP,4,S-Sale,--I,7234,32780,20,0001420295,Common Stock
+D,11/28/2017 00:00:00,TCV VII LP,4,S-Sale,--I,55187,0,19,0001420295,Common Stock
+D,11/28/2017 00:00:00,TCV VII LP,4,S-Sale,--I,67,0,18,0001420295,Common Stock
+D,11/28/2017 00:00:00,TCV VII LP,4,S-Sale,--I,3943,67,17,0001420295,Common Stock
+A,11/27/2017 00:00:00,McAdam Timothy P,4,J-Other,--I,20428,40753,4,0001498115,Common Stock
+A,11/27/2017 00:00:00,McAdam Timothy P,4,J-Other,--I,16521,16521,3,0001498115,Common Stock
+A,11/27/2017 00:00:00,McAdam Timothy P,4,J-Other,--I,20407,20407,2,0001498115,Common Stock
+A,11/27/2017 00:00:00,TCV VII LP,4,J-Other,--I,266,532,16,0001420295,Common Stock
+A,11/27/2017 00:00:00,TCV VII LP,4,J-Other,--I,21185,40014,15,0001420295,Common Stock
+A,11/27/2017 00:00:00,TCV VII LP,4,J-Other,--I,55187,55187,14,0001420295,Common Stock
+A,11/27/2017 00:00:00,TCV VII LP,4,J-Other,--I,20956,20956,13,0001420295,Common Stock
+A,11/27/2017 00:00:00,TCV VII LP,4,J-Other,--I,34232,34232,12,0001420295,Common Stock
+A,11/27/2017 00:00:00,TCV VII LP,4,J-Other,--I,57120,113952,11,0001420295,Common Stock
+A,11/27/2017 00:00:00,TCV VII LP,4,J-Other,--I,64629,128931,10,0001420295,Common Stock
+A,11/27/2017 00:00:00,TCV VII LP,4,J-Other,--I,46763,93288,9,0001420295,Common Stock
+A,11/27/2017 00:00:00,TCV VII LP,4,J-Other,--I,46763,93288,8,0001420295,Common Stock
+D,11/27/2017 00:00:00,TCV VII LP,4,J-Other,--I,500351,4010,7,0001420295,Common Stock
+A,11/27/2017 00:00:00,TCV VII LP,4,J-Other,--I,504361,504361,6,0001420295,Common Stock
+D,11/27/2017 00:00:00,TCV VII LP,4,J-Other,--I,12370,81123,5,0001420295,Common Stock
+D,11/27/2017 00:00:00,TCV VII LP,4,J-Other,--I,679396,4455634,4,0001420295,Common Stock
+D,11/27/2017 00:00:00,TCV VII LP,4,J-Other,--I,1308234,8579694,3,0001420295,Common Stock
+D,11/21/2017 00:00:00,Martin Jean-Paul,5,G-Gift,-LD,2400,128004,1,0001642950,Common Stock
+D,11/21/2017 00:00:00,Trundle Stephen,5,G-Gift,--D,10000,162191,1,0001643898,Common Stock
+D,11/21/2017 00:00:00,Kerzner Daniel,4,M-Exempt,--D,15000,47500,3,0001642717,Employee Stock Option (Right to Buy)
+D,11/21/2017 00:00:00,Kerzner Daniel,4,S-Sale,--D,15000,11313,2,0001642717,Common Stock
+A,11/21/2017 00:00:00,Kerzner Daniel,4,M-Exempt,--D,15000,26065,1,0001642717,Common Stock
+D,11/20/2017 00:00:00,Trundle Stephen,4,S-Sale,--D,12332,172191,6,0001643898,Common Stock
+D,11/17/2017 00:00:00,Trundle Stephen,4,S-Sale,--D,7668,184523,5,0001643898,Common Stock
+D,11/16/2017 00:00:00,Trundle Stephen,4,S-Sale,--I,5440,130118,4,0001643898,Common Stock
+D,11/16/2017 00:00:00,Trundle Stephen,4,S-Sale,--I,4560,135558,3,0001643898,Common Stock
+D,11/16/2017 00:00:00,Trundle Stephen,4,S-Sale,--D,30000,192191,2,0001643898,Common Stock
+D,11/06/2017 00:00:00,Ramos Daniel,4,S-Sale,--D,10063,57127,1,0001642533,Common Stock
+D,10/31/2017 00:00:00,Ramos Daniel,4,S-Sale,--D,28,67190,1,0001642533,Common Stock
+D,10/30/2017 00:00:00,Ramos Daniel,4,S-Sale,--D,2832,67218,3,0001642533,Common Stock
+D,10/27/2017 00:00:00,Ramos Daniel,4,S-Sale,--D,12277,70050,2,0001642533,Common Stock
+D,10/26/2017 00:00:00,Ramos Daniel,4,S-Sale,--D,4800,82327,1,0001642533,Common Stock
+D,10/10/2017 00:00:00,Hutz David,4,S-Sale,--D,3500,83522,1,0001642898,Common Stock
+D,09/26/2017 00:00:00,Hutz David,4,S-Sale,--D,3500,87022,1,0001642898,Common Stock
+D,09/15/2017 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,29314,0,9,0001642950,Stock Option (Right to Buy)
+D,09/15/2017 00:00:00,Martin Jean-Paul,4,S-Sale,--D,29314,130404,6,0001642950,Common Stock
+A,09/15/2017 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,29314,159718,5,0001642950,Common Stock
+D,09/14/2017 00:00:00,McAdam Timothy P,4,G-Gift,--I,20304,0,1,0001498115,Common Stock
+D,09/12/2017 00:00:00,Hutz David,5,S-Sale,-LD,1500,80022,2,0001642898,Common Stock
+D,09/12/2017 00:00:00,Hutz David,5,S-Sale,-LD,2000,81522,1,0001642898,Common Stock
+D,09/11/2017 00:00:00,DREW JOHN,4,S-Sale,--I,16438,0,2,0001188456,Common Stock
+D,09/11/2017 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,450,29314,8,0001642950,Stock Option (Right to Buy)
+D,09/11/2017 00:00:00,Martin Jean-Paul,4,S-Sale,--D,450,130404,4,0001642950,Common Stock
+A,09/11/2017 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,450,130854,3,0001642950,Common Stock
+D,09/08/2017 00:00:00,TCV VII LP,4,G-Gift,--I,34060,0,2,0001420295,Common Stock
+D,09/08/2017 00:00:00,DREW JOHN,4,S-Sale,--I,20850,0,1,0001188456,Common Stock
+D,09/07/2017 00:00:00,TCV VII LP,4,G-Gift,--I,2248,18829,1,0001420295,Common Stock
+D,09/06/2017 00:00:00,TCV VII LP,4,S-Sale,--I,54909,0,17,0001420295,Common Stock
+D,09/06/2017 00:00:00,TCV VII LP,4,S-Sale,--I,2689,0,16,0001420295,Common Stock
+D,09/06/2017 00:00:00,TCV VII LP,4,S-Sale,--I,1300,2689,15,0001420295,Common Stock
+A,09/05/2017 00:00:00,McAdam Timothy P,4,J-Other,--I,20325,20325,3,0001498115,Common Stock
+A,09/05/2017 00:00:00,McAdam Timothy P,4,J-Other,--I,20304,20304,2,0001498115,Common Stock
+A,09/05/2017 00:00:00,McAdam Timothy P,4,J-Other,--I,16438,16438,1,0001498115,Common Stock
+A,09/05/2017 00:00:00,TCV VII LP,4,J-Other,--I,266,266,14,0001420295,Common Stock
+A,09/05/2017 00:00:00,TCV VII LP,4,J-Other,--I,21077,21077,13,0001420295,Common Stock
+A,09/05/2017 00:00:00,TCV VII LP,4,J-Other,--I,54909,54909,12,0001420295,Common Stock
+A,09/05/2017 00:00:00,TCV VII LP,4,J-Other,--I,20850,20850,11,0001420295,Common Stock
+A,09/05/2017 00:00:00,TCV VII LP,4,J-Other,--I,34060,34060,10,0001420295,Common Stock
+A,09/05/2017 00:00:00,TCV VII LP,4,J-Other,--I,56832,56832,9,0001420295,Common Stock
+A,09/05/2017 00:00:00,TCV VII LP,4,J-Other,--I,64302,64302,8,0001420295,Common Stock
+A,09/05/2017 00:00:00,TCV VII LP,4,J-Other,--I,46525,46525,7,0001420295,Common Stock
+A,09/05/2017 00:00:00,TCV VII LP,4,J-Other,--I,46525,46525,6,0001420295,Common Stock
+D,09/05/2017 00:00:00,TCV VII LP,4,J-Other,--I,497779,3989,5,0001420295,Common Stock
+A,09/05/2017 00:00:00,TCV VII LP,4,J-Other,--I,501768,501768,4,0001420295,Common Stock
+D,09/05/2017 00:00:00,TCV VII LP,4,J-Other,--I,12370,93493,3,0001420295,Common Stock
+D,09/05/2017 00:00:00,TCV VII LP,4,J-Other,--I,679396,5135030,2,0001420295,Common Stock
+D,09/05/2017 00:00:00,TCV VII LP,4,J-Other,--I,1308234,9887928,1,0001420295,Common Stock
+D,09/05/2017 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,10000,29764,7,0001642950,Stock Option (Right to Buy)
+D,09/05/2017 00:00:00,Martin Jean-Paul,4,S-Sale,--D,10000,130404,2,0001642950,Common Stock
+A,09/05/2017 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,10000,140404,1,0001642950,Common Stock
+D,08/31/2017 00:00:00,Trundle Stephen,4,S-Sale,--D,10850,232191,4,0001643898,Common Stock
+A,08/30/2017 00:00:00,SHATTUCK MAYO A III,4,J-Other,--D,1748,24852,1,0001087426,Common Stock
+D,08/30/2017 00:00:00,Trundle Stephen,4,S-Sale,--D,29100,243041,3,0001643898,Common Stock
+D,08/29/2017 00:00:00,Trundle Stephen,4,M-Exempt,--D,38592,0,8,0001643898,Employee Stock Option (Right to Buy)
+D,08/29/2017 00:00:00,Trundle Stephen,4,S-Sale,--D,38592,272141,2,0001643898,Common Stock
+A,08/29/2017 00:00:00,Trundle Stephen,4,M-Exempt,--D,38592,310733,1,0001643898,Common Stock
+A,08/22/2017 00:00:00,SHATTUCK MAYO A III,4,J-Other,--D,1748,23104,1,0001087426,Common Stock
+D,08/22/2017 00:00:00,Hutz David,4,S-Sale,--D,3500,90522,1,0001642898,Common Stock
+D,08/22/2017 00:00:00,Ramos Daniel,4,S-Sale,--D,13000,87127,4,0001642533,Common Stock
+D,08/21/2017 00:00:00,Ramos Daniel,4,S-Sale,--D,10515,100127,3,0001642533,Common Stock
+D,08/18/2017 00:00:00,Ramos Daniel,4,S-Sale,--D,16485,110642,2,0001642533,Common Stock
+D,08/18/2017 00:00:00,Ramos Daniel,4,G-Gift,-ED,500,127127,1,0001642533,Common Stock
+D,08/11/2017 00:00:00,Trundle Stephen,4,G-Gift,-EI,140118,0,5,0001643898,Common Stock
+D,08/11/2017 00:00:00,Hutz David,4,S-Sale,--D,30000,94022,1,0001642898,Common Stock
+D,08/09/2017 00:00:00,Kerzner Daniel,4,M-Exempt,--D,13914,62500,6,0001642717,Employee Stock Option (Right to Buy)
+D,08/09/2017 00:00:00,Kerzner Daniel,4,S-Sale,--D,13914,11065,4,0001642717,Common Stock
+A,08/09/2017 00:00:00,Kerzner Daniel,4,M-Exempt,--D,13914,24979,3,0001642717,Common Stock
+A,08/08/2017 00:00:00,SHATTUCK MAYO A III,4,J-Other,--D,2123,21356,1,0001087426,Common Stock
+D,08/08/2017 00:00:00,Kerzner Daniel,4,M-Exempt,--D,6086,76414,5,0001642717,Employee Stock Option (Right to Buy)
+D,08/08/2017 00:00:00,Kerzner Daniel,4,S-Sale,--D,6086,11065,2,0001642717,Common Stock
+A,08/08/2017 00:00:00,Kerzner Daniel,4,M-Exempt,--D,6086,17151,1,0001642717,Common Stock
+D,08/08/2017 00:00:00,Hutz David,4,S-Sale,--D,3500,124022,1,0001642898,Common Stock
+D,08/07/2017 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,20000,39764,3,0001642950,Stock Option (Right to Buy)
+D,08/07/2017 00:00:00,Martin Jean-Paul,4,S-Sale,--D,20000,130404,2,0001642950,Common Stock
+A,08/07/2017 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,20000,150404,1,0001642950,Common Stock
+D,07/26/2017 00:00:00,Kerzner Daniel,4,S-Sale,--D,18500,11065,1,0001642717,Common Stock
+D,07/25/2017 00:00:00,Hutz David,4,S-Sale,--D,3500,127522,1,0001642898,Common Stock
+D,07/11/2017 00:00:00,Hutz David,4,S-Sale,--D,3500,131022,1,0001642898,Common Stock
+D,07/05/2017 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,20000,59764,3,0001642950,Stock Option (Right to Buy)
+D,07/05/2017 00:00:00,Martin Jean-Paul,4,S-Sale,--D,20000,130404,2,0001642950,Common Stock
+A,07/05/2017 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,20000,150404,1,0001642950,Common Stock
+D,06/20/2017 00:00:00,Hutz David,4,S-Sale,--D,3500,134522,1,0001642898,Common Stock
+D,06/13/2017 00:00:00,Ramos Daniel,4,S-Sale,--D,25171,127627,2,0001642533,Common Stock
+D,06/09/2017 00:00:00,Ramos Daniel,4,S-Sale,--D,9606,152798,1,0001642533,Common Stock
+D,06/06/2017 00:00:00,Hutz David,4,S-Sale,--D,3500,138022,1,0001642898,Common Stock
+D,06/06/2017 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,20000,79764,3,0001642950,Stock Option (Right to Buy)
+D,06/06/2017 00:00:00,Martin Jean-Paul,4,S-Sale,--D,20000,130404,2,0001642950,Common Stock
+A,06/06/2017 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,20000,150404,1,0001642950,Common Stock
+D,06/02/2017 00:00:00,Trundle Stephen,4,G-Gift,-ED,10000,222191,1,0001643898,Common Stock
+D,05/31/2017 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,20000,99764,3,0001642950,Stock Option (Right to Buy)
+D,05/31/2017 00:00:00,Martin Jean-Paul,4,S-Sale,--D,20000,130404,2,0001642950,Common Stock
+A,05/31/2017 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,20000,150404,1,0001642950,Common Stock
+D,05/25/2017 00:00:00,Ramos Daniel,4,S-Sale,--D,40000,162404,1,0001642533,Common Stock
+D,05/23/2017 00:00:00,Hutz David,4,S-Sale,--D,3500,141522,1,0001642898,Common Stock
+A,05/15/2017 00:00:00,BEDELL JEFFREY A,4,A-Award,--D,10000,10000,2,0001203474,Employee Stock Option (Right to Buy)
+A,05/15/2017 00:00:00,BEDELL JEFFREY A,4,A-Award,--D,10000,428500,1,0001203474,Common Stock
+A,05/15/2017 00:00:00,Hutz David,4,A-Award,--D,10000,10000,2,0001642898,Employee Stock Option (Right to Buy)
+A,05/15/2017 00:00:00,Hutz David,4,A-Award,--D,10000,145022,1,0001642898,Common Stock
+A,05/15/2017 00:00:00,Martin Jean-Paul,4,A-Award,--D,7500,7500,2,0001642950,Employee Stock Option (Right to Buy)
+A,05/15/2017 00:00:00,Martin Jean-Paul,4,A-Award,--D,7500,130404,1,0001642950,Common Stock
+A,05/15/2017 00:00:00,Ramos Daniel,4,A-Award,--D,10000,10000,2,0001642533,Employee Stock Option (Right to Buy)
+A,05/15/2017 00:00:00,Ramos Daniel,4,A-Award,--D,10000,202404,1,0001642533,Common Stock
+A,05/15/2017 00:00:00,Kerzner Daniel,4,A-Award,--D,10000,10000,2,0001642717,Employee Stock Option (Right to Buy)
+A,05/15/2017 00:00:00,Kerzner Daniel,4,A-Award,--D,10000,29565,1,0001642717,Common Stock
+A,05/15/2017 00:00:00,Trundle Stephen,4,A-Award,--D,50000,50000,1,0001643898,Employee Stock Option (Right to Buy)
+D,05/09/2017 00:00:00,Hutz David,4,S-Sale,--D,3500,135022,1,0001642898,Common Stock
+A,05/08/2017 00:00:00,SHATTUCK MAYO A III,4,J-Other,--D,3497,19233,1,0001087426,Common Stock
+D,05/08/2017 00:00:00,ABS Capital Partners V Trust,4,J-Other,--D,2000000,3337646,1,0001666625,Common Stock
+D,05/03/2017 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,30000,119764,3,0001642950,Stock Option (Right to Buy)
+D,05/03/2017 00:00:00,Martin Jean-Paul,4,S-Sale,--D,30000,122904,2,0001642950,Common Stock
+A,05/03/2017 00:00:00,Martin Jean-Paul,4,M-Exempt,--D,30000,152904,1,0001642950,Common Stock

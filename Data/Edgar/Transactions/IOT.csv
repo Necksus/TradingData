@@ -1,0 +1,753 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/29/2023 00:00:00,WAGNER SUSAN,4,C-Conversion,--D,268026,0,5,0001059235,Class B Common Stock
+D,06/29/2023 00:00:00,WAGNER SUSAN,4,C-Conversion,--D,146983,0,4,0001059235,Class B Common Stock
+A,06/29/2023 00:00:00,WAGNER SUSAN,4,C-Conversion,--D,268026,439063,3,0001059235,Class A Common Stock
+A,06/29/2023 00:00:00,WAGNER SUSAN,4,C-Conversion,--D,146983,171037,2,0001059235,Class A Common Stock
+A,06/29/2023 00:00:00,WAGNER SUSAN,4,A-Award,--D,7233,24054,1,0001059235,Class A Common Stock
+A,06/29/2023 00:00:00,LIVERMORE ANN M,4,A-Award,--D,7233,24054,1,0001207622,Class A Common Stock
+A,06/29/2023 00:00:00,Chadwick Jonathan,4,A-Award,--D,7233,472631,1,0001375800,Class A Common Stock
+A,06/29/2023 00:00:00,BOSTROM SUSAN L,4,A-Award,--D,7233,264054,1,0001181469,Class A Common Stock
+D,06/27/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,200,853919,2,0001895111,Class A Common Stock
+D,06/27/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,89600,854119,1,0001895111,Class A Common Stock
+D,06/27/2023 00:00:00,Bicket John,4,S-Sale,--I,200,826559,2,0001895106,Class A Common Stock
+D,06/27/2023 00:00:00,Bicket John,4,S-Sale,--I,90095,826759,1,0001895106,Class A Common Stock
+D,06/22/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,14276,943719,4,0001895111,Class A Common Stock
+D,06/22/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,14501,957995,3,0001895111,Class A Common Stock
+D,06/21/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,7201,972496,2,0001895111,Class A Common Stock
+D,06/21/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,91725,979697,1,0001895111,Class A Common Stock
+D,06/21/2023 00:00:00,Bicket John,4,S-Sale,--I,7437,916854,2,0001895106,Class A Common Stock
+D,06/21/2023 00:00:00,Bicket John,4,S-Sale,--I,76824,924291,1,0001895106,Class A Common Stock
+D,06/20/2023 00:00:00,Munk James Andrew,4,S-Sale,--D,2880,348822,3,0001794991,Class A Common Stock
+D,06/16/2023 00:00:00,Chadwick Jonathan,4,S-Sale,--D,4289,465398,2,0001375800,Class A Common Stock
+D,06/16/2023 00:00:00,Chadwick Jonathan,4,S-Sale,--D,7917,469687,1,0001375800,Class A Common Stock
+A,06/15/2023 00:00:00,WAGNER SUSAN,4,M-Exempt,--D,25938,268026,2,0001059235,Class B Common Stock
+D,06/15/2023 00:00:00,WAGNER SUSAN,4,M-Exempt,--D,25938,146983,1,0001059235,Class B Common Stock
+D,06/15/2023 00:00:00,Phillips Dominic,4,S-Sale,--D,1089,2281248,3,0001895148,Class A Common Stock
+D,06/15/2023 00:00:00,Phillips Dominic,4,S-Sale,--D,119394,2282337,2,0001895148,Class A Common Stock
+D,06/15/2023 00:00:00,Munk James Andrew,4,S-Sale,--D,100,351702,2,0001794991,Class A Common Stock
+D,06/15/2023 00:00:00,Munk James Andrew,4,S-Sale,--D,10431,351802,1,0001794991,Class A Common Stock
+A,06/15/2023 00:00:00,LIVERMORE ANN M,4,M-Exempt,--D,12500,99999,2,0001207622,Class B Common Stock
+D,06/15/2023 00:00:00,LIVERMORE ANN M,4,M-Exempt,--D,12500,100001,1,0001207622,Class B Common Stock
+D,06/15/2023 00:00:00,Eltoukhy Adam,4,S-Sale,--D,549,833124,2,0001895101,Class A Common Stock
+D,06/15/2023 00:00:00,Eltoukhy Adam,4,S-Sale,--D,29477,833673,1,0001895101,Class A Common Stock
+D,06/15/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--D,126628,126628,7,0001895111,Class B Common Stock
+A,06/15/2023 00:00:00,Biswas Sanjit,4,M-Exempt,--D,126628,253256,6,0001895111,Class B Common Stock
+D,06/15/2023 00:00:00,Biswas Sanjit,4,M-Exempt,--D,126628,675350,5,0001895111,Class B Common Stock
+D,06/15/2023 00:00:00,Biswas Sanjit,4,S-Sale,--D,2208,1701974,3,0001895111,Class A Common Stock
+D,06/15/2023 00:00:00,Biswas Sanjit,4,S-Sale,--D,135675,1704182,2,0001895111,Class A Common Stock
+A,06/15/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--D,126628,1839857,1,0001895111,Class A Common Stock
+D,06/15/2023 00:00:00,Bicket John,4,C-Conversion,--D,152564,152564,7,0001895106,Class B Common Stock
+A,06/15/2023 00:00:00,Bicket John,4,M-Exempt,--D,152564,305128,6,0001895106,Class B Common Stock
+D,06/15/2023 00:00:00,Bicket John,4,M-Exempt,--D,152564,813675,5,0001895106,Class B Common Stock
+D,06/15/2023 00:00:00,Bicket John,4,S-Sale,--D,3600,417188,3,0001895106,Class A Common Stock
+D,06/15/2023 00:00:00,Bicket John,4,S-Sale,--D,87348,420788,2,0001895106,Class A Common Stock
+A,06/15/2023 00:00:00,Bicket John,4,C-Conversion,--D,152564,508136,1,0001895106,Class A Common Stock
+D,06/12/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,30057,943719,2,0001895111,Class A Common Stock
+D,06/12/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,59743,973776,1,0001895111,Class A Common Stock
+D,06/12/2023 00:00:00,Bicket John,4,S-Sale,--I,30511,916854,2,0001895106,Class A Common Stock
+D,06/12/2023 00:00:00,Bicket John,4,S-Sale,--I,59784,947365,1,0001895106,Class A Common Stock
+A,06/09/2023 00:00:00,Phillips Dominic,4,A-Award,-ED,1826,2401731,1,0001895148,Class A Common Stock
+D,06/08/2023 00:00:00,Andreessen Marc L,4,C-Conversion,--I,331545,12868754,8,0001160077,Class B Common Stock
+D,06/08/2023 00:00:00,Andreessen Marc L,4,C-Conversion,--I,36038,5597842,7,0001160077,Class B Common Stock
+D,06/08/2023 00:00:00,Andreessen Marc L,4,S-Sale,--I,331545,0,4,0001160077,Class A Common Stock
+A,06/08/2023 00:00:00,Andreessen Marc L,4,C-Conversion,--I,331545,331545,3,0001160077,Class A Common Stock
+D,06/08/2023 00:00:00,Andreessen Marc L,4,S-Sale,--I,36038,0,2,0001160077,Class A Common Stock
+A,06/08/2023 00:00:00,Andreessen Marc L,4,C-Conversion,--I,36038,36038,1,0001160077,Class A Common Stock
+D,06/08/2023 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,331545,12868754,8,0001889367,Class B Common Stock
+D,06/08/2023 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,36038,5597842,7,0001889367,Class B Common Stock
+D,06/08/2023 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,S-Sale,--I,331545,0,4,0001889367,Class A Common Stock
+A,06/08/2023 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,331545,331545,3,0001889367,Class A Common Stock
+D,06/08/2023 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,S-Sale,--I,36038,0,2,0001889367,Class A Common Stock
+A,06/08/2023 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,36038,36038,1,0001889367,Class A Common Stock
+D,06/08/2023 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,331545,12868754,8,0001603197,Class B Common Stock
+D,06/08/2023 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,36038,5597842,7,0001603197,Class B Common Stock
+D,06/08/2023 00:00:00,"AH Parallel Fund IV, L.P.",4,S-Sale,--I,331545,0,4,0001603197,Class A Common Stock
+A,06/08/2023 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,331545,331545,3,0001603197,Class A Common Stock
+D,06/08/2023 00:00:00,"AH Parallel Fund IV, L.P.",4,S-Sale,--I,36038,0,2,0001603197,Class A Common Stock
+A,06/08/2023 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,36038,36038,1,0001603197,Class A Common Stock
+D,06/08/2023 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,331545,12868754,8,0001603198,Class B Common Stock
+D,06/08/2023 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,36038,5597842,7,0001603198,Class B Common Stock
+D,06/08/2023 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,S-Sale,--I,331545,0,4,0001603198,Class A Common Stock
+A,06/08/2023 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,331545,331545,3,0001603198,Class A Common Stock
+D,06/08/2023 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,S-Sale,--I,36038,0,2,0001603198,Class A Common Stock
+A,06/08/2023 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,36038,36038,1,0001603198,Class A Common Stock
+D,06/06/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,790,1033519,3,0001895111,Class A Common Stock
+D,06/06/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,68111,1034309,2,0001895111,Class A Common Stock
+D,06/06/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,20899,1102420,1,0001895111,Class A Common Stock
+D,06/06/2023 00:00:00,Bicket John,4,S-Sale,--I,790,1007149,3,0001895106,Class A Common Stock
+D,06/06/2023 00:00:00,Bicket John,4,S-Sale,--I,68270,1007939,2,0001895106,Class A Common Stock
+D,06/06/2023 00:00:00,Bicket John,4,S-Sale,--I,21235,1076209,1,0001895106,Class A Common Stock
+D,06/05/2023 00:00:00,Eltoukhy Adam,4,S-Sale,--D,2175,863150,4,0001895101,Class A Common Stock
+D,06/05/2023 00:00:00,Eltoukhy Adam,4,S-Sale,--D,12167,865325,3,0001895101,Class A Common Stock
+D,06/05/2023 00:00:00,Eltoukhy Adam,4,S-Sale,--D,2326,877492,2,0001895101,Class A Common Stock
+D,06/02/2023 00:00:00,Eltoukhy Adam,4,S-Sale,--D,10000,879818,1,0001895101,Class A Common Stock
+A,05/31/2023 00:00:00,Caimi Lara,4,A-Award,--D,1181911,1181911,1,0001868796,Class A Common Stock
+D,05/30/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,200,1123319,2,0001895111,Class A Common Stock
+D,05/30/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,89600,1123519,1,0001895111,Class A Common Stock
+D,05/30/2023 00:00:00,Bicket John,4,S-Sale,--I,400,1097444,2,0001895106,Class A Common Stock
+D,05/30/2023 00:00:00,Bicket John,4,S-Sale,--I,89895,1097844,1,0001895106,Class A Common Stock
+D,05/24/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,32323,1213119,3,0001895111,Class A Common Stock
+D,05/24/2023 00:00:00,Bicket John,4,S-Sale,--I,32884,1187739,3,0001895106,Class A Common Stock
+D,05/23/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,1211481,85586381,5,0001895111,Class B Common Stock
+D,05/23/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,57477,1245442,2,0001895111,Class A Common Stock
+A,05/23/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,1211481,1302919,1,0001895111,Class A Common Stock
+D,05/23/2023 00:00:00,Bicket John,4,C-Conversion,--I,1250227,84391693,5,0001895106,Class B Common Stock
+D,05/23/2023 00:00:00,Bicket John,4,S-Sale,--I,57411,1220623,2,0001895106,Class A Common Stock
+A,05/23/2023 00:00:00,Bicket John,4,C-Conversion,--I,1250227,1278034,1,0001895106,Class A Common Stock
+D,05/17/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,31671,86797862,7,0001895111,Class B Common Stock
+D,05/17/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,31671,91438,4,0001895111,Class A Common Stock
+A,05/17/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,31671,123109,3,0001895111,Class A Common Stock
+D,05/17/2023 00:00:00,Bicket John,4,C-Conversion,--I,32164,85641920,7,0001895106,Class B Common Stock
+D,05/17/2023 00:00:00,Bicket John,4,S-Sale,--I,32164,27807,4,0001895106,Class A Common Stock
+A,05/17/2023 00:00:00,Bicket John,4,C-Conversion,--I,32164,59971,3,0001895106,Class A Common Stock
+D,05/16/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,58129,86829533,6,0001895111,Class B Common Stock
+D,05/16/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,58129,91438,2,0001895111,Class A Common Stock
+A,05/16/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,58129,149567,1,0001895111,Class A Common Stock
+D,05/16/2023 00:00:00,Bicket John,4,C-Conversion,--I,58131,85674084,6,0001895106,Class B Common Stock
+D,05/16/2023 00:00:00,Bicket John,4,S-Sale,--I,58131,27807,2,0001895106,Class A Common Stock
+A,05/16/2023 00:00:00,Bicket John,4,C-Conversion,--I,58131,85938,1,0001895106,Class A Common Stock
+D,05/15/2023 00:00:00,Eltoukhy Adam,4,S-Sale,--D,3333,889818,1,0001895101,Class A Common Stock
+D,05/10/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,34229,86887662,7,0001895111,Class B Common Stock
+D,05/10/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,34229,91438,4,0001895111,Class A Common Stock
+A,05/10/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,34229,125667,3,0001895111,Class A Common Stock
+D,05/10/2023 00:00:00,Bicket John,4,C-Conversion,--I,34867,85732215,7,0001895106,Class B Common Stock
+D,05/10/2023 00:00:00,Bicket John,4,S-Sale,--I,34867,27807,4,0001895106,Class A Common Stock
+A,05/10/2023 00:00:00,Bicket John,4,C-Conversion,--I,34867,62674,3,0001895106,Class A Common Stock
+D,05/09/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,55571,86921891,6,0001895111,Class B Common Stock
+D,05/09/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,55571,91438,2,0001895111,Class A Common Stock
+A,05/09/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,55571,147009,1,0001895111,Class A Common Stock
+D,05/09/2023 00:00:00,Bicket John,4,C-Conversion,--I,55428,85767082,6,0001895106,Class B Common Stock
+D,05/09/2023 00:00:00,Bicket John,4,S-Sale,--I,55428,27807,2,0001895106,Class A Common Stock
+A,05/09/2023 00:00:00,Bicket John,4,C-Conversion,--I,55428,83235,1,0001895106,Class A Common Stock
+D,05/02/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,89800,86977462,4,0001895111,Class B Common Stock
+D,05/02/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,89800,91438,2,0001895111,Class A Common Stock
+A,05/02/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,89800,181238,1,0001895111,Class A Common Stock
+D,05/02/2023 00:00:00,Bicket John,4,C-Conversion,--I,90295,85822510,4,0001895106,Class B Common Stock
+D,05/02/2023 00:00:00,Bicket John,4,S-Sale,--I,90295,27807,2,0001895106,Class A Common Stock
+A,05/02/2023 00:00:00,Bicket John,4,C-Conversion,--I,90295,118102,1,0001895106,Class A Common Stock
+D,04/25/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,89800,87067262,5,0001895111,Class B Common Stock
+D,04/25/2023 00:00:00,Biswas Sanjit,4,S-Sale,--D,20864,91438,3,0001895111,Class A Common Stock
+D,04/25/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,68936,112302,2,0001895111,Class A Common Stock
+A,04/25/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,89800,181238,1,0001895111,Class A Common Stock
+D,04/25/2023 00:00:00,Bicket John,4,C-Conversion,--I,90295,85912805,5,0001895106,Class B Common Stock
+D,04/25/2023 00:00:00,Bicket John,4,S-Sale,--D,20896,27807,3,0001895106,Class A Common Stock
+D,04/25/2023 00:00:00,Bicket John,4,S-Sale,--I,69399,48703,2,0001895106,Class A Common Stock
+A,04/25/2023 00:00:00,Bicket John,4,C-Conversion,--I,90295,118102,1,0001895106,Class A Common Stock
+D,04/18/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,89800,87157062,4,0001895111,Class B Common Stock
+D,04/18/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,89800,91438,2,0001895111,Class A Common Stock
+A,04/18/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,89800,181238,1,0001895111,Class A Common Stock
+D,04/18/2023 00:00:00,Bicket John,4,C-Conversion,--I,90295,86003100,4,0001895106,Class B Common Stock
+D,04/18/2023 00:00:00,Bicket John,4,S-Sale,--I,90295,27807,2,0001895106,Class A Common Stock
+A,04/18/2023 00:00:00,Bicket John,4,C-Conversion,--I,90295,118102,1,0001895106,Class A Common Stock
+D,04/12/2023 00:00:00,Eltoukhy Adam,4,S-Sale,--D,3333,893151,1,0001895101,Class A Common Stock
+D,04/12/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,36121,87246862,7,0001895111,Class B Common Stock
+D,04/12/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,36121,91438,4,0001895111,Class A Common Stock
+A,04/12/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,36121,127559,3,0001895111,Class A Common Stock
+D,04/12/2023 00:00:00,Bicket John,4,C-Conversion,--I,36671,86093395,7,0001895106,Class B Common Stock
+D,04/12/2023 00:00:00,Bicket John,4,S-Sale,--I,36671,27807,4,0001895106,Class A Common Stock
+A,04/12/2023 00:00:00,Bicket John,4,C-Conversion,--I,36671,64478,3,0001895106,Class A Common Stock
+D,04/11/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,53679,87282983,6,0001895111,Class B Common Stock
+D,04/11/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,53679,91438,2,0001895111,Class A Common Stock
+A,04/11/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,53679,145117,1,0001895111,Class A Common Stock
+D,04/11/2023 00:00:00,Bicket John,4,C-Conversion,--I,53624,86130066,6,0001895106,Class B Common Stock
+D,04/11/2023 00:00:00,Bicket John,4,S-Sale,--I,53624,27807,2,0001895106,Class A Common Stock
+A,04/11/2023 00:00:00,Bicket John,4,C-Conversion,--I,53624,81431,1,0001895106,Class A Common Stock
+D,04/05/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,5988,87336662,7,0001895111,Class B Common Stock
+D,04/05/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,5988,91438,4,0001895111,Class A Common Stock
+A,04/05/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,5988,97426,3,0001895111,Class A Common Stock
+D,04/05/2023 00:00:00,Bicket John,4,C-Conversion,--I,6401,86183690,7,0001895106,Class B Common Stock
+D,04/05/2023 00:00:00,Bicket John,4,S-Sale,--I,6401,27807,4,0001895106,Class A Common Stock
+A,04/05/2023 00:00:00,Bicket John,4,C-Conversion,--I,6401,34208,3,0001895106,Class A Common Stock
+D,04/04/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,83812,87342650,6,0001895111,Class B Common Stock
+D,04/04/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,83812,91438,2,0001895111,Class A Common Stock
+A,04/04/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,83812,175250,1,0001895111,Class A Common Stock
+D,04/04/2023 00:00:00,Bicket John,4,C-Conversion,--I,83894,86190091,6,0001895106,Class B Common Stock
+D,04/04/2023 00:00:00,Bicket John,4,S-Sale,--I,83894,27807,2,0001895106,Class A Common Stock
+A,04/04/2023 00:00:00,Bicket John,4,C-Conversion,--I,83894,111701,1,0001895106,Class A Common Stock
+D,03/28/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,89800,86142476,5,0001895111,Class B Common Stock
+D,03/28/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,100,91438,3,0001895111,Class A Common Stock
+D,03/28/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,89700,91538,2,0001895111,Class A Common Stock
+A,03/28/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,89800,181238,1,0001895111,Class A Common Stock
+D,03/28/2023 00:00:00,Bicket John,4,C-Conversion,--I,90295,86273985,5,0001895106,Class B Common Stock
+D,03/28/2023 00:00:00,Bicket John,4,S-Sale,--I,100,27807,3,0001895106,Class A Common Stock
+D,03/28/2023 00:00:00,Bicket John,4,S-Sale,--I,90195,27907,2,0001895106,Class A Common Stock
+A,03/28/2023 00:00:00,Bicket John,4,C-Conversion,--I,90295,118102,1,0001895106,Class A Common Stock
+D,03/21/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,11995,91438,2,0001895111,Class A Common Stock
+D,03/21/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,80778,103433,1,0001895111,Class A Common Stock
+D,03/21/2023 00:00:00,Bicket John,4,S-Sale,--I,9068,27807,2,0001895106,Class A Common Stock
+D,03/21/2023 00:00:00,Bicket John,4,S-Sale,--I,80784,36875,1,0001895106,Class A Common Stock
+D,03/20/2023 00:00:00,"General Catalyst Group VIII Supplemental, L.P.",4,J-Other,--I,339435,0,6,0001663855,Class A Common Stock
+A,03/20/2023 00:00:00,"General Catalyst Group VIII Supplemental, L.P.",4,J-Other,--I,339435,339435,5,0001663855,Class A Common Stock
+D,03/20/2023 00:00:00,"General Catalyst Group VIII Supplemental, L.P.",4,J-Other,--I,2242473,0,4,0001663855,Class A Common Stock
+D,03/20/2023 00:00:00,Taneja Hemant,4,J-Other,--I,339435,0,6,0001545563,Class A Common Stock
+A,03/20/2023 00:00:00,Taneja Hemant,4,J-Other,--I,339435,339435,5,0001545563,Class A Common Stock
+D,03/20/2023 00:00:00,Taneja Hemant,4,J-Other,--I,2242473,0,4,0001545563,Class A Common Stock
+D,03/17/2023 00:00:00,Munk James Andrew,4,S-Sale,--D,3129,362233,2,0001794991,Class A Common Stock
+D,03/16/2023 00:00:00,Chadwick Jonathan,4,S-Sale,--D,9154,477604,1,0001375800,Class A Common Stock
+A,03/16/2023 00:00:00,"General Catalyst Group VIII Supplemental, L.P.",4,J-Other,--I,2242473,2242473,3,0001663855,Class A Common Stock
+D,03/16/2023 00:00:00,"General Catalyst Group VIII Supplemental, L.P.",4,J-Other,--D,11000000,0,2,0001663855,Class A Common Stock
+A,03/16/2023 00:00:00,Taneja Hemant,4,J-Other,--I,2242473,2242473,3,0001545563,Class A Common Stock
+D,03/16/2023 00:00:00,Taneja Hemant,4,J-Other,--I,11000000,0,2,0001545563,Class A Common Stock
+A,03/15/2023 00:00:00,WAGNER SUSAN,4,M-Exempt,--D,25938,242088,2,0001059235,Class B Common Stock
+D,03/15/2023 00:00:00,WAGNER SUSAN,4,M-Exempt,--D,25938,172921,1,0001059235,Class B Common Stock
+D,03/15/2023 00:00:00,Phillips Dominic,4,S-Sale,--D,91873,2399905,1,0001895148,Class A Common Stock
+A,03/15/2023 00:00:00,LIVERMORE ANN M,4,M-Exempt,--D,12500,87499,2,0001207622,Class B Common Stock
+D,03/15/2023 00:00:00,LIVERMORE ANN M,4,M-Exempt,--D,12500,112501,1,0001207622,Class B Common Stock
+D,03/15/2023 00:00:00,Munk James Andrew,4,S-Sale,--D,7316,365362,1,0001794991,Class A Common Stock
+D,03/15/2023 00:00:00,Eltoukhy Adam,4,S-Sale,--D,11584,896484,1,0001895101,Class A Common Stock
+D,03/15/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--D,126628,126628,6,0001895111,Class B Common Stock
+A,03/15/2023 00:00:00,Biswas Sanjit,4,M-Exempt,--D,126628,253256,5,0001895111,Class B Common Stock
+D,03/15/2023 00:00:00,Biswas Sanjit,4,M-Exempt,--D,126628,801978,4,0001895111,Class B Common Stock
+D,03/15/2023 00:00:00,Biswas Sanjit,4,S-Sale,--D,79574,1806002,2,0001895111,Class A Common Stock
+A,03/15/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--D,126628,1885576,1,0001895111,Class A Common Stock
+D,03/15/2023 00:00:00,Bicket John,4,C-Conversion,--D,152564,152564,6,0001895106,Class B Common Stock
+A,03/15/2023 00:00:00,Bicket John,4,M-Exempt,--D,152564,305128,5,0001895106,Class B Common Stock
+D,03/15/2023 00:00:00,Bicket John,4,M-Exempt,--D,152564,966239,4,0001895106,Class B Common Stock
+D,03/15/2023 00:00:00,Bicket John,4,S-Sale,--D,76616,445424,2,0001895106,Class A Common Stock
+A,03/15/2023 00:00:00,Bicket John,4,C-Conversion,--D,152564,522040,1,0001895106,Class A Common Stock
+D,03/15/2023 00:00:00,"General Catalyst Group VIII Supplemental, L.P.",4,C-Conversion,--D,11000000,3187815,8,0001663855,Class B Common Stock
+A,03/15/2023 00:00:00,"General Catalyst Group VIII Supplemental, L.P.",4,C-Conversion,--D,11000000,11000000,1,0001663855,Class A Common Stock
+D,03/15/2023 00:00:00,Taneja Hemant,4,C-Conversion,--I,11000000,3187815,11,0001545563,Class B Common Stock
+A,03/15/2023 00:00:00,Taneja Hemant,4,C-Conversion,--I,11000000,11000000,1,0001545563,Class A Common Stock
+D,03/13/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,89800,86232276,4,0001895111,Class B Common Stock
+D,03/13/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,89800,91438,2,0001895111,Class A Common Stock
+A,03/13/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,89800,181238,1,0001895111,Class A Common Stock
+D,03/13/2023 00:00:00,Bicket John,4,C-Conversion,--I,90295,86364280,4,0001895106,Class B Common Stock
+D,03/13/2023 00:00:00,Bicket John,4,S-Sale,--I,90295,27807,2,0001895106,Class A Common Stock
+A,03/13/2023 00:00:00,Bicket John,4,C-Conversion,--I,90295,118102,1,0001895106,Class A Common Stock
+D,03/13/2023 00:00:00,Taneja Hemant,4,C-Conversion,--I,3000000,11187815,4,0001545563,Class B Common Stock
+D,03/13/2023 00:00:00,Taneja Hemant,4,S-Sale,--D,3000000,0,2,0001545563,Class A Common Stock
+A,03/13/2023 00:00:00,Taneja Hemant,4,C-Conversion,--I,3000000,3000000,1,0001545563,Class A Common Stock
+D,03/13/2023 00:00:00,"General Catalyst Group VIII, L.P.",4,C-Conversion,--I,3000000,11187815,4,0001663852,Class B Common Stock
+D,03/13/2023 00:00:00,"General Catalyst Group VIII, L.P.",4,S-Sale,--D,3000000,0,2,0001663852,Class A Common Stock
+A,03/13/2023 00:00:00,"General Catalyst Group VIII, L.P.",4,C-Conversion,--I,3000000,3000000,1,0001663852,Class A Common Stock
+D,03/08/2023 00:00:00,Andreessen Marc L,4,C-Conversion,--I,360983,13200299,5,0001160077,Class B Common Stock
+D,03/08/2023 00:00:00,Andreessen Marc L,4,S-Sale,--I,360983,0,2,0001160077,Class A Common Stock
+A,03/08/2023 00:00:00,Andreessen Marc L,4,C-Conversion,--I,360983,360983,1,0001160077,Class A Common Stock
+D,03/08/2023 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,360983,13200299,5,0001889367,Class B Common Stock
+D,03/08/2023 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,S-Sale,--I,360983,0,2,0001889367,Class A Common Stock
+A,03/08/2023 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,360983,360983,1,0001889367,Class A Common Stock
+D,03/08/2023 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,360983,13200299,5,0001603197,Class B Common Stock
+D,03/08/2023 00:00:00,"AH Parallel Fund IV, L.P.",4,S-Sale,--I,360983,0,2,0001603197,Class A Common Stock
+A,03/08/2023 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,360983,360983,1,0001603197,Class A Common Stock
+D,03/08/2023 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,360983,13200299,5,0001603198,Class B Common Stock
+D,03/08/2023 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,S-Sale,--I,360983,0,2,0001603198,Class A Common Stock
+A,03/08/2023 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,360983,360983,1,0001603198,Class A Common Stock
+D,03/07/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,89800,86322076,5,0001895111,Class B Common Stock
+D,03/07/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,58151,91438,3,0001895111,Class A Common Stock
+D,03/07/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,31649,149589,2,0001895111,Class A Common Stock
+A,03/07/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,89800,181238,1,0001895111,Class A Common Stock
+D,03/07/2023 00:00:00,Bicket John,4,C-Conversion,--I,90295,86454575,5,0001895106,Class B Common Stock
+D,03/07/2023 00:00:00,Bicket John,4,S-Sale,--I,58939,27807,3,0001895106,Class A Common Stock
+D,03/07/2023 00:00:00,Bicket John,4,S-Sale,--I,31356,86746,2,0001895106,Class A Common Stock
+A,03/07/2023 00:00:00,Bicket John,4,C-Conversion,--I,90295,118102,1,0001895106,Class A Common Stock
+D,03/06/2023 00:00:00,Eltoukhy Adam,4,S-Sale,--D,3334,908068,1,0001895101,Class A Common Stock
+D,03/03/2023 00:00:00,Eltoukhy Adam,4,S-Sale,--D,10000,911402,2,0001895101,Class A Common Stock
+A,03/01/2023 00:00:00,Sekar Kiren,4,A-Award,--D,174825,518606,1,0001895134,Class A Common Stock
+A,03/01/2023 00:00:00,Phillips Dominic,4,A-Award,--D,419580,2491778,1,0001895148,Class A Common Stock
+A,03/01/2023 00:00:00,Munk James Andrew,4,A-Award,--D,73426,372678,1,0001794991,Class A Common Stock
+A,03/01/2023 00:00:00,McCall Andy,4,A-Award,--D,314685,783519,1,0001895104,Class A Common Stock
+A,03/01/2023 00:00:00,Eltoukhy Adam,4,A-Award,--D,349650,921402,1,0001895101,Class A Common Stock
+A,03/01/2023 00:00:00,Calderon Benjamin,4,A-Award,--D,174825,753140,1,0001895105,Class A Common Stock
+D,03/01/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,35944,86411876,7,0001895111,Class B Common Stock
+A,03/01/2023 00:00:00,Biswas Sanjit,4,A-Award,--D,1118881,1758948,5,0001895111,Class A Common Stock
+D,03/01/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,35944,91438,4,0001895111,Class A Common Stock
+A,03/01/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,35944,127382,3,0001895111,Class A Common Stock
+D,03/01/2023 00:00:00,Bicket John,4,C-Conversion,--I,35505,86544870,7,0001895106,Class B Common Stock
+A,03/01/2023 00:00:00,Bicket John,4,A-Award,--D,174825,369476,5,0001895106,Class A Common Stock
+D,03/01/2023 00:00:00,Bicket John,4,S-Sale,--I,35505,27807,4,0001895106,Class A Common Stock
+A,03/01/2023 00:00:00,Bicket John,4,C-Conversion,--I,35505,63312,3,0001895106,Class A Common Stock
+D,02/28/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,53856,86447820,6,0001895111,Class B Common Stock
+D,02/28/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,53856,91438,2,0001895111,Class A Common Stock
+A,02/28/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,53856,145294,1,0001895111,Class A Common Stock
+D,02/28/2023 00:00:00,Bicket John,4,C-Conversion,--I,54790,86580375,6,0001895106,Class B Common Stock
+D,02/28/2023 00:00:00,Bicket John,4,S-Sale,--I,54790,27807,2,0001895106,Class A Common Stock
+A,02/28/2023 00:00:00,Bicket John,4,C-Conversion,--I,54790,82597,1,0001895106,Class A Common Stock
+D,02/22/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,16772,86501676,7,0001895111,Class B Common Stock
+D,02/22/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,16772,91438,4,0001895111,Class A Common Stock
+A,02/22/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,16772,108210,3,0001895111,Class A Common Stock
+D,02/22/2023 00:00:00,Bicket John,4,C-Conversion,--I,17209,86635165,7,0001895106,Class B Common Stock
+D,02/22/2023 00:00:00,Bicket John,4,S-Sale,--I,17209,27807,4,0001895106,Class A Common Stock
+A,02/22/2023 00:00:00,Bicket John,4,C-Conversion,--I,17209,45016,3,0001895106,Class A Common Stock
+D,02/21/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,73028,86518448,6,0001895111,Class B Common Stock
+D,02/21/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,73028,91438,2,0001895111,Class A Common Stock
+A,02/21/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,73028,164466,1,0001895111,Class A Common Stock
+D,02/21/2023 00:00:00,Bicket John,4,C-Conversion,--I,73086,86652374,6,0001895106,Class B Common Stock
+D,02/21/2023 00:00:00,Bicket John,4,S-Sale,--I,73086,27807,2,0001895106,Class A Common Stock
+A,02/21/2023 00:00:00,Bicket John,4,C-Conversion,--I,73086,100893,1,0001895106,Class A Common Stock
+D,02/15/2023 00:00:00,Calderon Benjamin,4,C-Conversion,--D,19655,8791909,3,0001895105,Class B Common Stock
+D,02/15/2023 00:00:00,Calderon Benjamin,4,S-Sale,--D,19655,578315,2,0001895105,Class A Common Stock
+A,02/15/2023 00:00:00,Calderon Benjamin,4,C-Conversion,--D,19655,597970,1,0001895105,Class A Common Stock
+D,02/15/2023 00:00:00,Sekar Kiren,4,C-Conversion,--I,10000,1280000,4,0001895134,Class B Common Stock
+D,02/15/2023 00:00:00,Sekar Kiren,4,S-Sale,--I,10000,0,2,0001895134,Class A Common Stock
+A,02/15/2023 00:00:00,Sekar Kiren,4,C-Conversion,--I,10000,10000,1,0001895134,Class A Common Stock
+D,02/15/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,49189,86591476,7,0001895111,Class B Common Stock
+D,02/15/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,49189,91438,4,0001895111,Class A Common Stock
+A,02/15/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,49189,140627,3,0001895111,Class A Common Stock
+D,02/15/2023 00:00:00,Bicket John,4,C-Conversion,--I,49638,86725460,7,0001895106,Class B Common Stock
+D,02/15/2023 00:00:00,Bicket John,4,S-Sale,--I,49638,27807,4,0001895106,Class A Common Stock
+A,02/15/2023 00:00:00,Bicket John,4,C-Conversion,--I,49638,77445,3,0001895106,Class A Common Stock
+D,02/15/2023 00:00:00,Phillips Dominic,4,S-Sale,--D,123294,2072198,2,0001895148,Class A Common Stock
+D,02/14/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,40611,86640665,6,0001895111,Class B Common Stock
+D,02/14/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,40611,91438,2,0001895111,Class A Common Stock
+A,02/14/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,40611,132049,1,0001895111,Class A Common Stock
+D,02/14/2023 00:00:00,Bicket John,4,C-Conversion,--I,40657,86775098,6,0001895106,Class B Common Stock
+D,02/14/2023 00:00:00,Bicket John,4,S-Sale,--I,40657,27807,2,0001895106,Class A Common Stock
+A,02/14/2023 00:00:00,Bicket John,4,C-Conversion,--I,40657,68464,1,0001895106,Class A Common Stock
+D,02/13/2023 00:00:00,Phillips Dominic,4,S-Sale,--D,600,2195492,1,0001895148,Class A Common Stock
+D,02/09/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,10502,86681276,10,0001895111,Class B Common Stock
+D,02/09/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,10502,91438,6,0001895111,Class A Common Stock
+A,02/09/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,10502,101940,5,0001895111,Class A Common Stock
+D,02/09/2023 00:00:00,Bicket John,4,C-Conversion,--I,10943,86815755,10,0001895106,Class B Common Stock
+D,02/09/2023 00:00:00,Bicket John,4,S-Sale,--I,10943,27807,6,0001895106,Class A Common Stock
+A,02/09/2023 00:00:00,Bicket John,4,C-Conversion,--I,10943,38750,5,0001895106,Class A Common Stock
+D,02/08/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,31480,86691778,9,0001895111,Class B Common Stock
+D,02/08/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,31480,91438,4,0001895111,Class A Common Stock
+A,02/08/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,31480,122918,3,0001895111,Class A Common Stock
+D,02/08/2023 00:00:00,Bicket John,4,C-Conversion,--I,31484,86826698,9,0001895106,Class B Common Stock
+D,02/08/2023 00:00:00,Bicket John,4,S-Sale,--I,31484,27807,4,0001895106,Class A Common Stock
+A,02/08/2023 00:00:00,Bicket John,4,C-Conversion,--I,31484,59291,3,0001895106,Class A Common Stock
+D,02/07/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,47818,86723258,8,0001895111,Class B Common Stock
+D,02/07/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,47818,91438,2,0001895111,Class A Common Stock
+A,02/07/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,47818,139256,1,0001895111,Class A Common Stock
+D,02/07/2023 00:00:00,Bicket John,4,C-Conversion,--I,47868,86858182,8,0001895106,Class B Common Stock
+D,02/07/2023 00:00:00,Bicket John,4,S-Sale,--I,47868,27807,2,0001895106,Class A Common Stock
+A,02/07/2023 00:00:00,Bicket John,4,C-Conversion,--I,47868,75675,1,0001895106,Class A Common Stock
+D,02/02/2023 00:00:00,Bicket John,4,C-Conversion,--I,26897,86906050,10,0001895106,Class B Common Stock
+D,02/02/2023 00:00:00,Bicket John,4,S-Sale,--I,26897,27807,6,0001895106,Class A Common Stock
+A,02/02/2023 00:00:00,Bicket John,4,C-Conversion,--I,26897,54704,5,0001895106,Class A Common Stock
+D,02/02/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,26418,86771076,10,0001895111,Class B Common Stock
+D,02/02/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,26418,91438,6,0001895111,Class A Common Stock
+A,02/02/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,26418,117856,5,0001895111,Class A Common Stock
+D,02/01/2023 00:00:00,Calderon Benjamin,4,C-Conversion,--D,120000,8811564,3,0001895105,Class B Common Stock
+D,02/01/2023 00:00:00,Calderon Benjamin,4,S-Sale,--D,120000,578315,2,0001895105,Class A Common Stock
+A,02/01/2023 00:00:00,Calderon Benjamin,4,C-Conversion,--D,120000,698315,1,0001895105,Class A Common Stock
+D,02/01/2023 00:00:00,Bicket John,4,C-Conversion,--I,48379,86932947,9,0001895106,Class B Common Stock
+D,02/01/2023 00:00:00,Bicket John,4,S-Sale,--I,48379,27807,4,0001895106,Class A Common Stock
+A,02/01/2023 00:00:00,Bicket John,4,C-Conversion,--I,48379,76186,3,0001895106,Class A Common Stock
+D,02/01/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,48347,86797494,9,0001895111,Class B Common Stock
+D,02/01/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,48347,91438,4,0001895111,Class A Common Stock
+A,02/01/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,48347,139785,3,0001895111,Class A Common Stock
+D,01/31/2023 00:00:00,Bicket John,4,C-Conversion,--I,15019,86981326,8,0001895106,Class B Common Stock
+D,01/31/2023 00:00:00,Bicket John,4,S-Sale,--I,15019,27807,2,0001895106,Class A Common Stock
+A,01/31/2023 00:00:00,Bicket John,4,C-Conversion,--I,15019,42826,1,0001895106,Class A Common Stock
+D,01/31/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,15035,86845841,8,0001895111,Class B Common Stock
+D,01/31/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,15035,91438,2,0001895111,Class A Common Stock
+A,01/31/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,15035,106473,1,0001895111,Class A Common Stock
+D,01/26/2023 00:00:00,Sekar Kiren,4,C-Conversion,--D,53472,481250,9,0001895134,Class B Common Stock
+D,01/26/2023 00:00:00,Sekar Kiren,4,S-Sale,--D,53472,343781,6,0001895134,Class A Common Stock
+A,01/26/2023 00:00:00,Sekar Kiren,4,C-Conversion,--D,53472,397253,5,0001895134,Class A Common Stock
+D,01/26/2023 00:00:00,Bicket John,4,C-Conversion,--I,17150,86996345,10,0001895106,Class B Common Stock
+D,01/26/2023 00:00:00,Bicket John,4,S-Sale,--I,17150,27807,6,0001895106,Class A Common Stock
+A,01/26/2023 00:00:00,Bicket John,4,C-Conversion,--I,17150,44957,5,0001895106,Class A Common Stock
+D,01/26/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,16754,86860876,10,0001895111,Class B Common Stock
+D,01/26/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,16754,91438,6,0001895111,Class A Common Stock
+A,01/26/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,16754,108192,5,0001895111,Class A Common Stock
+D,01/25/2023 00:00:00,Sekar Kiren,4,C-Conversion,--D,53472,534722,8,0001895134,Class B Common Stock
+D,01/25/2023 00:00:00,Sekar Kiren,4,S-Sale,--D,53472,343781,4,0001895134,Class A Common Stock
+A,01/25/2023 00:00:00,Sekar Kiren,4,C-Conversion,--D,53472,397253,3,0001895134,Class A Common Stock
+D,01/25/2023 00:00:00,Bicket John,4,C-Conversion,--I,32446,87013495,9,0001895106,Class B Common Stock
+D,01/25/2023 00:00:00,Bicket John,4,S-Sale,--I,32446,27807,4,0001895106,Class A Common Stock
+A,01/25/2023 00:00:00,Bicket John,4,C-Conversion,--I,32446,60253,3,0001895106,Class A Common Stock
+D,01/25/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,32413,86877630,9,0001895111,Class B Common Stock
+D,01/25/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,32413,91438,4,0001895111,Class A Common Stock
+A,01/25/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,32413,123851,3,0001895111,Class A Common Stock
+D,01/24/2023 00:00:00,Sekar Kiren,4,C-Conversion,--D,53472,588194,7,0001895134,Class B Common Stock
+D,01/24/2023 00:00:00,Sekar Kiren,4,S-Sale,--D,53472,343781,2,0001895134,Class A Common Stock
+A,01/24/2023 00:00:00,Sekar Kiren,4,C-Conversion,--D,53472,397253,1,0001895134,Class A Common Stock
+D,01/24/2023 00:00:00,Bicket John,4,C-Conversion,--I,40699,87045941,8,0001895106,Class B Common Stock
+D,01/24/2023 00:00:00,Bicket John,4,S-Sale,--I,40699,27807,2,0001895106,Class A Common Stock
+A,01/24/2023 00:00:00,Bicket John,4,C-Conversion,--I,40699,68506,1,0001895106,Class A Common Stock
+D,01/24/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,40633,86910043,8,0001895111,Class B Common Stock
+D,01/24/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,40633,91438,2,0001895111,Class A Common Stock
+A,01/24/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,40633,132071,1,0001895111,Class A Common Stock
+D,01/19/2023 00:00:00,Bicket John,4,C-Conversion,--I,18447,87086640,12,0001895106,Class B Common Stock
+D,01/19/2023 00:00:00,Bicket John,4,S-Sale,--I,18447,27807,8,0001895106,Class A Common Stock
+A,01/19/2023 00:00:00,Bicket John,4,C-Conversion,--I,18447,46254,7,0001895106,Class A Common Stock
+D,01/19/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,17336,86950676,12,0001895111,Class B Common Stock
+D,01/19/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,17336,91438,8,0001895111,Class A Common Stock
+A,01/19/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,17336,108774,7,0001895111,Class A Common Stock
+D,01/18/2023 00:00:00,Bicket John,4,C-Conversion,--I,44501,87105087,11,0001895106,Class B Common Stock
+D,01/18/2023 00:00:00,Bicket John,4,S-Sale,--I,44501,27807,6,0001895106,Class A Common Stock
+A,01/18/2023 00:00:00,Bicket John,4,C-Conversion,--I,44501,72308,5,0001895106,Class A Common Stock
+D,01/18/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,44588,86968012,11,0001895111,Class B Common Stock
+D,01/18/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,44588,91438,6,0001895111,Class A Common Stock
+A,01/18/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,44588,136026,5,0001895111,Class A Common Stock
+D,01/17/2023 00:00:00,Bicket John,4,C-Conversion,--I,48976,87149588,10,0001895106,Class B Common Stock
+D,01/17/2023 00:00:00,Bicket John,4,S-Sale,--I,15810,27807,4,0001895106,Class A Common Stock
+A,01/17/2023 00:00:00,Bicket John,4,C-Conversion,--I,15810,43617,3,0001895106,Class A Common Stock
+D,01/17/2023 00:00:00,Bicket John,4,S-Sale,--I,33166,27807,2,0001895106,Class A Common Stock
+A,01/17/2023 00:00:00,Bicket John,4,C-Conversion,--I,33166,60973,1,0001895106,Class A Common Stock
+D,01/17/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,48923,87012600,10,0001895111,Class B Common Stock
+D,01/17/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,15871,91438,4,0001895111,Class A Common Stock
+A,01/17/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,15871,107309,3,0001895111,Class A Common Stock
+D,01/17/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,33052,91438,2,0001895111,Class A Common Stock
+A,01/17/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,33052,124490,1,0001895111,Class A Common Stock
+D,01/17/2023 00:00:00,Sekar Kiren,4,C-Conversion,--I,10000,1290000,5,0001895134,Class B Common Stock
+D,01/17/2023 00:00:00,Sekar Kiren,4,S-Sale,--I,800,0,3,0001895134,Class A Common Stock
+D,01/17/2023 00:00:00,Sekar Kiren,4,S-Sale,--I,9200,800,2,0001895134,Class A Common Stock
+A,01/17/2023 00:00:00,Sekar Kiren,4,C-Conversion,--I,10000,10000,1,0001895134,Class A Common Stock
+D,01/12/2023 00:00:00,Bicket John,4,C-Conversion,--I,23002,87198564,10,0001895106,Class B Common Stock
+D,01/12/2023 00:00:00,Bicket John,4,S-Sale,--I,23002,27807,6,0001895106,Class A Common Stock
+A,01/12/2023 00:00:00,Bicket John,4,C-Conversion,--I,23002,50809,5,0001895106,Class A Common Stock
+D,01/12/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,23095,87061523,10,0001895111,Class B Common Stock
+D,01/12/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,23095,91438,6,0001895111,Class A Common Stock
+A,01/12/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,23095,114533,5,0001895111,Class A Common Stock
+D,01/11/2023 00:00:00,Bicket John,4,C-Conversion,--I,21787,87221566,9,0001895106,Class B Common Stock
+D,01/11/2023 00:00:00,Bicket John,4,S-Sale,--I,21787,27807,4,0001895106,Class A Common Stock
+A,01/11/2023 00:00:00,Bicket John,4,C-Conversion,--I,21787,49594,3,0001895106,Class A Common Stock
+D,01/11/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,21792,87084618,9,0001895111,Class B Common Stock
+D,01/11/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,21792,91438,4,0001895111,Class A Common Stock
+A,01/11/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,21792,113230,3,0001895111,Class A Common Stock
+D,01/10/2023 00:00:00,Bicket John,4,C-Conversion,--I,23877,87243353,8,0001895106,Class B Common Stock
+D,01/10/2023 00:00:00,Bicket John,4,S-Sale,--I,23877,27807,2,0001895106,Class A Common Stock
+A,01/10/2023 00:00:00,Bicket John,4,C-Conversion,--I,23877,51684,1,0001895106,Class A Common Stock
+D,01/10/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,23866,87106410,8,0001895111,Class B Common Stock
+D,01/10/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,23866,91438,2,0001895111,Class A Common Stock
+A,01/10/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,23866,115304,1,0001895111,Class A Common Stock
+D,01/09/2023 00:00:00,Calderon Benjamin,4,C-Conversion,--D,150000,8931564,4,0001895105,Class B Common Stock
+D,01/09/2023 00:00:00,Calderon Benjamin,4,C-Conversion,--D,320833,9081564,3,0001895105,Class B Common Stock
+A,01/09/2023 00:00:00,Calderon Benjamin,4,C-Conversion,--D,150000,578315,2,0001895105,Class A Common Stock
+A,01/09/2023 00:00:00,Calderon Benjamin,4,C-Conversion,--D,320833,428315,1,0001895105,Class A Common Stock
+D,01/04/2023 00:00:00,Bicket John,4,C-Conversion,--I,39588,87267230,7,0001895106,Class B Common Stock
+D,01/04/2023 00:00:00,Bicket John,4,S-Sale,--I,39588,27807,4,0001895106,Class A Common Stock
+A,01/04/2023 00:00:00,Bicket John,4,C-Conversion,--I,39588,67395,3,0001895106,Class A Common Stock
+D,01/04/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,39003,87130276,7,0001895111,Class B Common Stock
+D,01/04/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,39003,91438,4,0001895111,Class A Common Stock
+A,01/04/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,39003,130441,3,0001895111,Class A Common Stock
+D,01/03/2023 00:00:00,Bicket John,4,C-Conversion,--I,50707,87306818,6,0001895106,Class B Common Stock
+D,01/03/2023 00:00:00,Bicket John,4,S-Sale,--I,50707,27807,2,0001895106,Class A Common Stock
+A,01/03/2023 00:00:00,Bicket John,4,C-Conversion,--I,50707,78514,1,0001895106,Class A Common Stock
+D,01/03/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,50797,87169279,6,0001895111,Class B Common Stock
+D,01/03/2023 00:00:00,Biswas Sanjit,4,S-Sale,--I,50797,91438,2,0001895111,Class A Common Stock
+A,01/03/2023 00:00:00,Biswas Sanjit,4,C-Conversion,--I,50797,142235,1,0001895111,Class A Common Stock
+D,01/03/2023 00:00:00,Calderon Benjamin,4,C-Conversion,--D,139606,9402397,3,0001895105,Class B Common Stock
+D,01/03/2023 00:00:00,Calderon Benjamin,4,S-Sale,--D,139606,107482,2,0001895105,Class A Common Stock
+A,01/03/2023 00:00:00,Calderon Benjamin,4,C-Conversion,--D,139606,247088,1,0001895105,Class A Common Stock
+D,12/28/2022 00:00:00,Phillips Dominic,4,S-Sale,--D,177066,2196092,1,0001895148,Class A Common Stock
+D,12/23/2022 00:00:00,Calderon Benjamin,4,C-Conversion,--D,7000,9542003,3,0001895105,Class B Common Stock
+D,12/23/2022 00:00:00,Calderon Benjamin,4,G-Gift,-ED,7000,107482,2,0001895105,Class A Common Stock
+A,12/23/2022 00:00:00,Calderon Benjamin,4,C-Conversion,--D,7000,114482,1,0001895105,Class A Common Stock
+D,12/20/2022 00:00:00,Sekar Kiren,4,S-Sale,--D,66387,343781,1,0001895134,Class A Common Stock
+D,12/19/2022 00:00:00,Munk James Andrew,4,S-Sale,--D,3088,299252,1,0001794991,Class A Common Stock
+D,12/19/2022 00:00:00,Calderon Benjamin,4,S-Sale,--D,35226,107482,1,0001895105,Class A Common Stock
+D,12/19/2022 00:00:00,Sekar Kiren,4,C-Conversion,--I,183651,4012263,8,0001895134,Class B Common Stock
+D,12/19/2022 00:00:00,Sekar Kiren,4,G-Gift,-EI,183651,0,4,0001895134,Class A Common Stock
+A,12/19/2022 00:00:00,Sekar Kiren,4,C-Conversion,--I,183651,183651,3,0001895134,Class A Common Stock
+D,12/16/2022 00:00:00,Chadwick Jonathan,4,S-Sale,--D,6103,486758,2,0001375800,Class A Common Stock
+A,12/15/2022 00:00:00,WAGNER SUSAN,4,M-Exempt,--D,25938,216150,2,0001059235,Class B Common Stock
+D,12/15/2022 00:00:00,WAGNER SUSAN,4,M-Exempt,--D,25938,198859,1,0001059235,Class B Common Stock
+D,12/15/2022 00:00:00,BOSTROM SUSAN L,4,C-Conversion,--D,150000,0,2,0001181469,Class B Common Stock
+A,12/15/2022 00:00:00,BOSTROM SUSAN L,4,C-Conversion,--D,150000,256821,1,0001181469,Class A Common Stock
+D,12/15/2022 00:00:00,Sekar Kiren,4,C-Conversion,--D,137500,641666,7,0001895134,Class B Common Stock
+A,12/15/2022 00:00:00,Sekar Kiren,4,M-Exempt,--D,137500,779166,6,0001895134,Class B Common Stock
+D,12/15/2022 00:00:00,Sekar Kiren,4,M-Exempt,--D,137500,1008334,5,0001895134,Class B Common Stock
+D,12/15/2022 00:00:00,Sekar Kiren,4,S-Sale,--D,78590,410168,2,0001895134,Class A Common Stock
+A,12/15/2022 00:00:00,Sekar Kiren,4,C-Conversion,--D,137500,488758,1,0001895134,Class A Common Stock
+D,12/15/2022 00:00:00,Phillips Dominic,4,S-Sale,--D,106841,2373158,1,0001895148,Class A Common Stock
+A,12/15/2022 00:00:00,Biswas Sanjit,4,M-Exempt,--D,126628,126628,4,0001895111,Class B Common Stock
+D,12/15/2022 00:00:00,Biswas Sanjit,4,M-Exempt,--D,126628,928606,3,0001895111,Class B Common Stock
+A,12/15/2022 00:00:00,Bicket John,4,M-Exempt,--D,152564,152564,4,0001895106,Class B Common Stock
+D,12/15/2022 00:00:00,Bicket John,4,M-Exempt,--D,152564,1118803,3,0001895106,Class B Common Stock
+D,12/15/2022 00:00:00,Munk James Andrew,4,S-Sale,--D,7480,302340,1,0001794991,Class A Common Stock
+D,12/15/2022 00:00:00,McCall Andy,4,C-Conversion,--D,106250,1735372,5,0001895104,Class B Common Stock
+A,12/15/2022 00:00:00,McCall Andy,4,M-Exempt,--D,106250,1841622,4,0001895104,Class B Common Stock
+D,12/15/2022 00:00:00,McCall Andy,4,M-Exempt,--D,106250,779167,3,0001895104,Class B Common Stock
+D,12/15/2022 00:00:00,McCall Andy,4,S-Sale,--D,67013,468834,2,0001895104,Class A Common Stock
+A,12/15/2022 00:00:00,McCall Andy,4,C-Conversion,--D,106250,535847,1,0001895104,Class A Common Stock
+A,12/15/2022 00:00:00,LIVERMORE ANN M,4,M-Exempt,--D,12500,74999,2,0001207622,Class B Common Stock
+D,12/15/2022 00:00:00,LIVERMORE ANN M,4,M-Exempt,--D,12500,125001,1,0001207622,Class B Common Stock
+D,12/15/2022 00:00:00,Eltoukhy Adam,4,S-Sale,--D,21461,571752,1,0001895101,Class A Common Stock
+D,12/15/2022 00:00:00,Chadwick Jonathan,4,C-Conversion,--D,244123,0,3,0001375800,Class B Common Stock
+A,12/15/2022 00:00:00,Chadwick Jonathan,4,C-Conversion,--D,244123,492861,1,0001375800,Class A Common Stock
+D,12/15/2022 00:00:00,Calderon Benjamin,4,C-Conversion,--D,68750,9549003,5,0001895105,Class B Common Stock
+A,12/15/2022 00:00:00,Calderon Benjamin,4,M-Exempt,--D,68750,9617753,4,0001895105,Class B Common Stock
+D,12/15/2022 00:00:00,Calderon Benjamin,4,M-Exempt,--D,68750,504167,3,0001895105,Class B Common Stock
+D,12/15/2022 00:00:00,Calderon Benjamin,4,S-Sale,--D,41625,142708,2,0001895105,Class A Common Stock
+A,12/15/2022 00:00:00,Calderon Benjamin,4,C-Conversion,--D,68750,184333,1,0001895105,Class A Common Stock
+D,12/09/2022 00:00:00,Eltoukhy Adam,4,S-Sale,--D,31000,593213,1,0001895101,Class A Common Stock
+D,11/22/2022 00:00:00,Chadwick Jonathan,4,C-Conversion,--D,152576,0,2,0001375800,Class B Common Stock
+A,11/22/2022 00:00:00,Chadwick Jonathan,4,C-Conversion,--D,152576,248738,1,0001375800,Class A Common Stock
+D,11/03/2022 00:00:00,Calderon Benjamin,4,C-Conversion,--D,98048,9549003,10,0001895105,Class B Common Stock
+D,11/03/2022 00:00:00,Calderon Benjamin,4,S-Sale,--D,98048,115583,7,0001895105,Class A Common Stock
+A,11/03/2022 00:00:00,Calderon Benjamin,4,C-Conversion,--D,98048,213631,6,0001895105,Class A Common Stock
+D,11/02/2022 00:00:00,Calderon Benjamin,4,C-Conversion,--D,208000,9647051,9,0001895105,Class B Common Stock
+D,11/02/2022 00:00:00,Calderon Benjamin,4,S-Sale,--D,5227,115583,5,0001895105,Class A Common Stock
+D,11/02/2022 00:00:00,Calderon Benjamin,4,S-Sale,--D,202773,120810,4,0001895105,Class A Common Stock
+A,11/02/2022 00:00:00,Calderon Benjamin,4,C-Conversion,--D,208000,323583,3,0001895105,Class A Common Stock
+D,11/01/2022 00:00:00,Calderon Benjamin,4,C-Conversion,--D,164785,9855051,8,0001895105,Class B Common Stock
+D,11/01/2022 00:00:00,Calderon Benjamin,4,S-Sale,--D,164785,115583,2,0001895105,Class A Common Stock
+A,11/01/2022 00:00:00,Calderon Benjamin,4,C-Conversion,--D,164785,280368,1,0001895105,Class A Common Stock
+D,09/23/2022 00:00:00,Sekar Kiren,4,C-Conversion,--D,27537,641666,4,0001895134,Class B Common Stock
+A,09/23/2022 00:00:00,Sekar Kiren,4,M-Exempt,--D,27537,669203,3,0001895134,Class B Common Stock
+D,09/23/2022 00:00:00,Sekar Kiren,4,M-Exempt,--D,27537,0,2,0001895134,Stock Option (right to buy)
+A,09/23/2022 00:00:00,Sekar Kiren,4,C-Conversion,--D,27537,351258,1,0001895134,Class A Common Stock
+D,09/19/2022 00:00:00,Calderon Benjamin,4,S-Sale,--D,35519,115583,1,0001895105,Class A Common Stock
+D,09/16/2022 00:00:00,Chadwick Jonathan,4,S-Sale,--D,6103,96162,2,0001375800,Class A Common Stock
+A,09/15/2022 00:00:00,WAGNER SUSAN,4,M-Exempt,--D,25938,190212,2,0001059235,Class B Common Stock
+D,09/15/2022 00:00:00,WAGNER SUSAN,4,M-Exempt,--D,25938,224797,1,0001059235,Class B Common Stock
+D,09/15/2022 00:00:00,Sekar Kiren,4,C-Conversion,--D,137500,641666,6,0001895134,Class B Common Stock
+A,09/15/2022 00:00:00,Sekar Kiren,4,M-Exempt,--D,137500,779166,5,0001895134,Class B Common Stock
+D,09/15/2022 00:00:00,Sekar Kiren,4,M-Exempt,--D,137500,1145834,4,0001895134,Class B Common Stock
+D,09/15/2022 00:00:00,Sekar Kiren,4,S-Sale,--D,20830,323721,3,0001895134,Class A Common Stock
+D,09/15/2022 00:00:00,Sekar Kiren,4,S-Sale,--D,56994,344551,2,0001895134,Class A Common Stock
+A,09/15/2022 00:00:00,Sekar Kiren,4,C-Conversion,--D,137500,401545,1,0001895134,Class A Common Stock
+D,09/15/2022 00:00:00,Phillips Dominic,4,S-Sale,--D,25083,2479999,2,0001895148,Class A Common Stock
+D,09/15/2022 00:00:00,Phillips Dominic,4,S-Sale,--D,80877,2505082,1,0001895148,Class A Common Stock
+D,09/15/2022 00:00:00,Munk James Andrew,4,S-Sale,--D,2471,309820,2,0001794991,Class A Common Stock
+D,09/15/2022 00:00:00,Munk James Andrew,4,S-Sale,--D,5025,312291,1,0001794991,Class A Common Stock
+D,09/15/2022 00:00:00,McCall Andy,4,C-Conversion,--D,106250,1735372,6,0001895104,Class B Common Stock
+A,09/15/2022 00:00:00,McCall Andy,4,M-Exempt,--D,106250,1841622,5,0001895104,Class B Common Stock
+D,09/15/2022 00:00:00,McCall Andy,4,M-Exempt,--D,106250,885417,4,0001895104,Class B Common Stock
+D,09/15/2022 00:00:00,McCall Andy,4,S-Sale,--D,12963,429597,3,0001895104,Class A Common Stock
+D,09/15/2022 00:00:00,McCall Andy,4,S-Sale,--D,53539,442560,2,0001895104,Class A Common Stock
+A,09/15/2022 00:00:00,McCall Andy,4,C-Conversion,--D,106250,496099,1,0001895104,Class A Common Stock
+A,09/15/2022 00:00:00,LIVERMORE ANN M,4,M-Exempt,--D,12499,62499,2,0001207622,Class B Common Stock
+D,09/15/2022 00:00:00,LIVERMORE ANN M,4,M-Exempt,--D,12499,137501,1,0001207622,Class B Common Stock
+D,09/15/2022 00:00:00,Eltoukhy Adam,4,S-Sale,--D,8510,624213,2,0001895101,Class A Common Stock
+D,09/15/2022 00:00:00,Eltoukhy Adam,4,S-Sale,--D,12384,632723,1,0001895101,Class A Common Stock
+D,09/15/2022 00:00:00,Chadwick Jonathan,4,C-Conversion,--D,30516,152576,5,0001375800,Class B Common Stock
+A,09/15/2022 00:00:00,Chadwick Jonathan,4,M-Exempt,--D,30516,183092,4,0001375800,Class B Common Stock
+D,09/15/2022 00:00:00,Chadwick Jonathan,4,M-Exempt,--D,30516,244123,3,0001375800,Class B Common Stock
+A,09/15/2022 00:00:00,Chadwick Jonathan,4,C-Conversion,--D,30516,102265,1,0001375800,Class A Common Stock
+D,09/15/2022 00:00:00,Calderon Benjamin,4,C-Conversion,--D,68750,10019836,6,0001895105,Class B Common Stock
+A,09/15/2022 00:00:00,Calderon Benjamin,4,M-Exempt,--D,68750,10088586,5,0001895105,Class B Common Stock
+D,09/15/2022 00:00:00,Calderon Benjamin,4,M-Exempt,--D,68750,572917,4,0001895105,Class B Common Stock
+D,09/15/2022 00:00:00,Calderon Benjamin,4,S-Sale,--D,10236,151102,3,0001895105,Class A Common Stock
+D,09/15/2022 00:00:00,Calderon Benjamin,4,S-Sale,--D,31096,161338,2,0001895105,Class A Common Stock
+A,09/15/2022 00:00:00,Calderon Benjamin,4,C-Conversion,--D,68750,192434,1,0001895105,Class A Common Stock
+D,09/15/2022 00:00:00,BOSTROM SUSAN L,4,C-Conversion,--D,15000,0,4,0001181469,Class B Common Stock
+A,09/15/2022 00:00:00,BOSTROM SUSAN L,4,M-Exempt,--D,15000,15000,3,0001181469,Class B Common Stock
+D,09/15/2022 00:00:00,BOSTROM SUSAN L,4,M-Exempt,--D,15000,150000,2,0001181469,Class B Common Stock
+A,09/15/2022 00:00:00,BOSTROM SUSAN L,4,C-Conversion,--D,15000,106821,1,0001181469,Class A Common Stock
+A,09/15/2022 00:00:00,Bicket John,4,M-Exempt,--D,152564,2456254,2,0001895106,Class B Common Stock
+D,09/15/2022 00:00:00,Bicket John,4,M-Exempt,--D,152564,1271367,1,0001895106,Class B Common Stock
+A,09/15/2022 00:00:00,Biswas Sanjit,4,M-Exempt,--D,126628,2257412,2,0001895111,Class B Common Stock
+D,09/15/2022 00:00:00,Biswas Sanjit,4,M-Exempt,--D,126628,1055234,1,0001895111,Class B Common Stock
+D,09/07/2022 00:00:00,Andreessen Marc L,4,S-Sale,--I,242,0,5,0001160077,Class A Common Stock
+D,09/07/2022 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,S-Sale,--I,242,0,5,0001889367,Class A Common Stock
+D,09/07/2022 00:00:00,"AH Parallel Fund IV, L.P.",4,S-Sale,--I,242,0,5,0001603197,Class A Common Stock
+D,09/07/2022 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,S-Sale,--I,242,0,5,0001603198,Class A Common Stock
+D,09/06/2022 00:00:00,Andreessen Marc L,4,C-Conversion,--I,3271524,54745078,7,0001160077,Class B Common Stock
+A,09/06/2022 00:00:00,Andreessen Marc L,4,J-Other,--I,242,242,4,0001160077,Class A Common Stock
+A,09/06/2022 00:00:00,Andreessen Marc L,4,J-Other,--I,47973,47973,3,0001160077,Class A Common Stock
+D,09/06/2022 00:00:00,Andreessen Marc L,4,J-Other,--I,3271524,0,2,0001160077,Class A Common Stock
+A,09/06/2022 00:00:00,Andreessen Marc L,4,C-Conversion,--I,3271524,3271524,1,0001160077,Class A Common Stock
+D,09/06/2022 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,3271524,54745078,7,0001889367,Class B Common Stock
+A,09/06/2022 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,J-Other,--I,242,242,4,0001889367,Class A Common Stock
+A,09/06/2022 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,J-Other,--I,29797,29797,3,0001889367,Class A Common Stock
+D,09/06/2022 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,J-Other,--I,3271524,0,2,0001889367,Class A Common Stock
+A,09/06/2022 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,3271524,3271524,1,0001889367,Class A Common Stock
+D,09/06/2022 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,3271524,54745078,7,0001603197,Class B Common Stock
+A,09/06/2022 00:00:00,"AH Parallel Fund IV, L.P.",4,J-Other,--I,242,242,4,0001603197,Class A Common Stock
+A,09/06/2022 00:00:00,"AH Parallel Fund IV, L.P.",4,J-Other,--I,29797,29797,3,0001603197,Class A Common Stock
+D,09/06/2022 00:00:00,"AH Parallel Fund IV, L.P.",4,J-Other,--I,3271524,0,2,0001603197,Class A Common Stock
+A,09/06/2022 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,3271524,3271524,1,0001603197,Class A Common Stock
+D,09/06/2022 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,3271524,54745078,7,0001603198,Class B Common Stock
+A,09/06/2022 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,J-Other,--I,242,242,4,0001603198,Class A Common Stock
+A,09/06/2022 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,J-Other,--I,29797,29797,3,0001603198,Class A Common Stock
+D,09/06/2022 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,J-Other,--I,3271524,0,2,0001603198,Class A Common Stock
+A,09/06/2022 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,3271524,3271524,1,0001603198,Class A Common Stock
+D,09/02/2022 00:00:00,Chadwick Jonathan,4,S-Sale,--D,6103,71749,1,0001375800,Class A Common Stock
+D,09/02/2022 00:00:00,Calderon Benjamin,4,S-Sale,--D,43566,123684,1,0001895105,Class A Common Stock
+A,08/29/2022 00:00:00,Eltoukhy Adam,4,A-Award,--D,26229,645107,1,0001895101,Class A Common Stock
+A,08/29/2022 00:00:00,Munk James Andrew,4,A-Award,--D,317316,317316,1,0001794991,Class A Common Stock
+D,07/07/2022 00:00:00,Calderon Benjamin,4,S-Sale,--D,39715,167250,1,0001895105,Class A Common Stock
+A,06/22/2022 00:00:00,LIVERMORE ANN M,4,A-Award,--D,16821,16821,1,0001207622,Class A Common Stock
+A,06/22/2022 00:00:00,BOSTROM SUSAN L,4,A-Award,--D,16821,91821,1,0001181469,Class A Common Stock
+A,06/22/2022 00:00:00,WAGNER SUSAN,4,A-Award,--D,16821,16821,1,0001059235,Class A Common Stock
+A,06/22/2022 00:00:00,Chadwick Jonathan,4,A-Award,--D,16821,77852,1,0001375800,Class A Common Stock
+A,06/15/2022 00:00:00,Biswas Sanjit,4,M-Exempt,--D,126628,2130824,2,0001895111,Class B Common Stock
+D,06/15/2022 00:00:00,Biswas Sanjit,4,M-Exempt,--D,126628,1181862,1,0001895111,Class B Common Stock
+A,06/15/2022 00:00:00,Bicket John,4,M-Exempt,--D,152564,2303690,2,0001895106,Class B Common Stock
+D,06/15/2022 00:00:00,Bicket John,4,M-Exempt,--D,152564,1423931,1,0001895106,Class B Common Stock
+A,06/15/2022 00:00:00,WAGNER SUSAN,4,M-Exempt,--D,25938,164274,2,0001059235,Class B Common Stock
+D,06/15/2022 00:00:00,WAGNER SUSAN,4,M-Exempt,--D,25938,250735,1,0001059235,Class B Common Stock
+D,06/15/2022 00:00:00,Sekar Kiren,4,C-Conversion,--D,137500,641666,5,0001895134,Class B Common Stock
+A,06/15/2022 00:00:00,Sekar Kiren,4,M-Exempt,--D,137500,779166,4,0001895134,Class B Common Stock
+D,06/15/2022 00:00:00,Sekar Kiren,4,M-Exempt,--D,137500,1283334,3,0001895134,Class B Common Stock
+D,06/15/2022 00:00:00,Sekar Kiren,4,S-Sale,--D,70062,264045,2,0001895134,Class A Common Stock
+A,06/15/2022 00:00:00,Sekar Kiren,4,C-Conversion,--D,137500,334107,1,0001895134,Class A Common Stock
+D,06/15/2022 00:00:00,Phillips Dominic,4,S-Sale,--D,95219,2585959,2,0001895148,Class A Common Stock
+D,06/15/2022 00:00:00,McCall Andy,4,C-Conversion,--D,106250,1735372,6,0001895104,Class B Common Stock
+A,06/15/2022 00:00:00,McCall Andy,4,M-Exempt,--D,106250,1841622,5,0001895104,Class B Common Stock
+D,06/15/2022 00:00:00,McCall Andy,4,M-Exempt,--D,106250,991667,4,0001895104,Class B Common Stock
+D,06/15/2022 00:00:00,McCall Andy,4,S-Sale,--D,59773,389849,3,0001895104,Class A Common Stock
+A,06/15/2022 00:00:00,McCall Andy,4,C-Conversion,--D,106250,449622,2,0001895104,Class A Common Stock
+A,06/15/2022 00:00:00,LIVERMORE ANN M,4,M-Exempt,--D,50000,50000,2,0001207622,Class B Common Stock
+D,06/15/2022 00:00:00,LIVERMORE ANN M,4,M-Exempt,--D,50000,150000,1,0001207622,Class B Common Stock
+D,06/15/2022 00:00:00,Eltoukhy Adam,4,S-Sale,--D,13527,618878,2,0001895101,Class A Common Stock
+D,06/15/2022 00:00:00,Chadwick Jonathan,4,C-Conversion,--D,30515,152576,4,0001375800,Class B Common Stock
+A,06/15/2022 00:00:00,Chadwick Jonathan,4,M-Exempt,--D,30515,183091,3,0001375800,Class B Common Stock
+D,06/15/2022 00:00:00,Chadwick Jonathan,4,M-Exempt,--D,30515,274639,2,0001375800,Class B Common Stock
+A,06/15/2022 00:00:00,Chadwick Jonathan,4,C-Conversion,--D,30515,61031,1,0001375800,Class A Common Stock
+D,06/15/2022 00:00:00,Calderon Benjamin,4,C-Conversion,--D,68750,10019836,6,0001895105,Class B Common Stock
+A,06/15/2022 00:00:00,Calderon Benjamin,4,M-Exempt,--D,68750,10088586,5,0001895105,Class B Common Stock
+D,06/15/2022 00:00:00,Calderon Benjamin,4,M-Exempt,--D,68750,641667,4,0001895105,Class B Common Stock
+D,06/15/2022 00:00:00,Calderon Benjamin,4,S-Sale,--D,37135,206965,3,0001895105,Class A Common Stock
+A,06/15/2022 00:00:00,Calderon Benjamin,4,C-Conversion,--D,68750,244100,2,0001895105,Class A Common Stock
+D,06/15/2022 00:00:00,BOSTROM SUSAN L,4,C-Conversion,--D,15000,0,4,0001181469,Class B Common Stock
+A,06/15/2022 00:00:00,BOSTROM SUSAN L,4,M-Exempt,--D,15000,15000,3,0001181469,Class B Common Stock
+D,06/15/2022 00:00:00,BOSTROM SUSAN L,4,M-Exempt,--D,15000,165000,2,0001181469,Class B Common Stock
+A,06/15/2022 00:00:00,BOSTROM SUSAN L,4,C-Conversion,--D,15000,75000,1,0001181469,Class A Common Stock
+A,06/10/2022 00:00:00,Phillips Dominic,4,A-Award,-ED,2173,2681178,1,0001895148,Class A Common Stock
+A,06/10/2022 00:00:00,McCall Andy,4,A-Award,-ED,2173,343372,1,0001895104,Class A Common Stock
+A,06/10/2022 00:00:00,Eltoukhy Adam,4,A-Award,-ED,2173,632405,1,0001895101,Class A Common Stock
+A,06/10/2022 00:00:00,Calderon Benjamin,4,A-Award,-ED,2173,175350,1,0001895105,Class A Common Stock
+D,03/15/2022 00:00:00,Sekar Kiren,4,C-Conversion,--D,137500,641666,10,0001895134,Class B Common Stock
+A,03/15/2022 00:00:00,Sekar Kiren,4,M-Exempt,--D,779166,779166,9,0001895134,Class B Common Stock
+D,03/15/2022 00:00:00,Sekar Kiren,4,M-Exempt,--D,779166,1420834,8,0001895134,Class B Common Stock
+D,03/15/2022 00:00:00,Sekar Kiren,4,S-Sale,--D,16938,196607,6,0001895134,Class A Common Stock
+D,03/15/2022 00:00:00,Sekar Kiren,4,S-Sale,--D,43596,213545,5,0001895134,Class A Common Stock
+A,03/15/2022 00:00:00,Sekar Kiren,4,A-Award,--D,119641,257141,4,0001895134,Class A Common Stock
+A,03/15/2022 00:00:00,Sekar Kiren,4,C-Conversion,--D,137500,137500,3,0001895134,Class A Common Stock
+A,03/15/2022 00:00:00,WAGNER SUSAN,4,M-Exempt,--D,138336,138336,2,0001059235,Class B Common Stock
+D,03/15/2022 00:00:00,WAGNER SUSAN,4,M-Exempt,--D,138336,276673,1,0001059235,Class B Common Stock
+D,03/15/2022 00:00:00,Phillips Dominic,4,S-Sale,--D,23818,2679005,3,0001895148,Class A Common Stock
+D,03/15/2022 00:00:00,Phillips Dominic,4,S-Sale,--D,56153,2702823,2,0001895148,Class A Common Stock
+A,03/15/2022 00:00:00,Phillips Dominic,4,A-Award,--D,348953,2758976,1,0001895148,Class A Common Stock
+D,03/15/2022 00:00:00,McCall Andy,4,C-Conversion,--D,106250,1735372,7,0001895104,Class B Common Stock
+A,03/15/2022 00:00:00,McCall Andy,4,M-Exempt,--D,602083,1841622,6,0001895104,Class B Common Stock
+D,03/15/2022 00:00:00,McCall Andy,4,M-Exempt,--D,602083,1097917,5,0001895104,Class B Common Stock
+D,03/15/2022 00:00:00,McCall Andy,4,S-Sale,--D,15111,341199,4,0001895104,Class A Common Stock
+D,03/15/2022 00:00:00,McCall Andy,4,S-Sale,--D,29103,356310,3,0001895104,Class A Common Stock
+A,03/15/2022 00:00:00,McCall Andy,4,A-Award,--D,279163,385413,2,0001895104,Class A Common Stock
+A,03/15/2022 00:00:00,McCall Andy,4,C-Conversion,--D,106250,106250,1,0001895104,Class A Common Stock
+D,03/15/2022 00:00:00,Eltoukhy Adam,4,S-Sale,--D,3800,630232,3,0001895101,Class A Common Stock
+D,03/15/2022 00:00:00,Eltoukhy Adam,4,S-Sale,--D,8267,634032,2,0001895101,Class A Common Stock
+A,03/15/2022 00:00:00,Eltoukhy Adam,4,A-Award,--D,124625,642299,1,0001895101,Class A Common Stock
+D,03/15/2022 00:00:00,Chadwick Jonathan,4,C-Conversion,--D,30516,152576,4,0001375800,Class B Common Stock
+A,03/15/2022 00:00:00,Chadwick Jonathan,4,M-Exempt,--D,183092,183092,3,0001375800,Class B Common Stock
+D,03/15/2022 00:00:00,Chadwick Jonathan,4,M-Exempt,--D,183092,305154,2,0001375800,Class B Common Stock
+A,03/15/2022 00:00:00,Chadwick Jonathan,4,C-Conversion,--D,30516,30516,1,0001375800,Class A Common Stock
+D,03/15/2022 00:00:00,Calderon Benjamin,4,C-Conversion,--D,68750,10019836,7,0001895105,Class B Common Stock
+A,03/15/2022 00:00:00,Calderon Benjamin,4,M-Exempt,--D,389583,10088586,6,0001895105,Class B Common Stock
+D,03/15/2022 00:00:00,Calderon Benjamin,4,M-Exempt,--D,389583,710417,5,0001895105,Class B Common Stock
+D,03/15/2022 00:00:00,Calderon Benjamin,4,S-Sale,--D,7100,173177,4,0001895105,Class A Common Stock
+D,03/15/2022 00:00:00,Calderon Benjamin,4,S-Sale,--D,18084,180277,3,0001895105,Class A Common Stock
+A,03/15/2022 00:00:00,Calderon Benjamin,4,A-Award,--D,129611,198361,2,0001895105,Class A Common Stock
+A,03/15/2022 00:00:00,Calderon Benjamin,4,C-Conversion,--D,68750,68750,1,0001895105,Class A Common Stock
+D,03/15/2022 00:00:00,BOSTROM SUSAN L,4,C-Conversion,--D,60000,0,4,0001181469,Class B Common Stock
+A,03/15/2022 00:00:00,BOSTROM SUSAN L,4,M-Exempt,--D,60000,60000,3,0001181469,Class B Common Stock
+D,03/15/2022 00:00:00,BOSTROM SUSAN L,4,M-Exempt,--D,60000,180000,2,0001181469,Class B Common Stock
+A,03/15/2022 00:00:00,BOSTROM SUSAN L,4,C-Conversion,--D,60000,60000,1,0001181469,Class A Common Stock
+A,03/15/2022 00:00:00,Biswas Sanjit,4,M-Exempt,--D,717559,2004196,3,0001895111,Class B Common Stock
+D,03/15/2022 00:00:00,Biswas Sanjit,4,M-Exempt,--D,717559,1308490,2,0001895111,Class B Common Stock
+A,03/15/2022 00:00:00,Biswas Sanjit,4,A-Award,--D,731505,731505,1,0001895111,Class A Common Stock
+A,03/15/2022 00:00:00,Bicket John,4,M-Exempt,--D,864529,2151126,3,0001895106,Class B Common Stock
+D,03/15/2022 00:00:00,Bicket John,4,M-Exempt,--D,864529,1576495,2,0001895106,Class B Common Stock
+A,03/15/2022 00:00:00,Bicket John,4,A-Award,--D,222458,222458,1,0001895106,Class A Common Stock
+D,12/22/2021 00:00:00,Sekar Kiren,4,C-Conversion,--I,180000,4195914,7,0001895134,Class B Common Stock
+D,12/22/2021 00:00:00,Sekar Kiren,4,G-Gift,--I,180000,0,2,0001895134,Class A Common Stock
+A,12/22/2021 00:00:00,Sekar Kiren,4,C-Conversion,--I,180000,180000,1,0001895134,Class A Common Stock
+A,12/17/2021 00:00:00,"General Catalyst Group VIII Supplemental, L.P.",4,C-Conversion,--I,13561283,13561283,9,0001663855,Class B Common Stock
+D,12/17/2021 00:00:00,"General Catalyst Group VIII Supplemental, L.P.",4,C-Conversion,--I,13561283,0,8,0001663855,Series F Preferred Stock
+A,12/17/2021 00:00:00,"General Catalyst Group VIII Supplemental, L.P.",4,C-Conversion,--I,5633880,5633880,7,0001663855,Class B Common Stock
+D,12/17/2021 00:00:00,"General Catalyst Group VIII Supplemental, L.P.",4,C-Conversion,--I,5633880,0,6,0001663855,Series E Preferred Stock
+A,12/17/2021 00:00:00,"General Catalyst Group VIII Supplemental, L.P.",4,C-Conversion,--I,5001080,5001080,5,0001663855,Class B Common Stock
+D,12/17/2021 00:00:00,"General Catalyst Group VIII Supplemental, L.P.",4,C-Conversion,--I,5001080,0,4,0001663855,Series D Preferred Stock
+A,12/17/2021 00:00:00,"General Catalyst Group VIII Supplemental, L.P.",4,C-Conversion,--I,21232344,21232344,3,0001663855,Class B Common Stock
+D,12/17/2021 00:00:00,"General Catalyst Group VIII Supplemental, L.P.",4,C-Conversion,--I,21232344,0,2,0001663855,Series C Preferred Stock
+A,12/17/2021 00:00:00,"General Catalyst Group VIII Supplemental, L.P.",4,P-Purchase,--I,2000000,2000000,1,0001663855,Class A Common Stock
+A,12/17/2021 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,13561282,13561282,15,0001889367,Class B Common Stock
+D,12/17/2021 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,13561282,0,14,0001889367,Series F Preferred Stock
+A,12/17/2021 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,5633880,5633880,13,0001889367,Class B Common Stock
+D,12/17/2021 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,5633880,0,12,0001889367,Series E Preferred Stock
+A,12/17/2021 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,4974501,4974501,11,0001889367,Class B Common Stock
+D,12/17/2021 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,4974501,0,10,0001889367,Series D Preferred Stock
+A,12/17/2021 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,4313218,58016602,9,0001889367,Class B Common Stock
+D,12/17/2021 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,4313218,0,8,0001889367,Series D Preferred Stock
+A,12/17/2021 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,3951276,53703384,7,0001889367,Class B Common Stock
+D,12/17/2021 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,3951276,0,6,0001889367,Series C Preferred Stock
+A,12/17/2021 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,9259278,49752108,5,0001889367,Class B Common Stock
+D,12/17/2021 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,9259278,0,4,0001889367,Series B Preferred Stock
+A,12/17/2021 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,40492830,40492830,3,0001889367,Class B Common Stock
+D,12/17/2021 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,C-Conversion,--I,40492830,0,2,0001889367,Series A Preferred Stock
+A,12/17/2021 00:00:00,"Andreessen Horowitz LSV Fund III, L.P.",4,P-Purchase,--I,3995652,3995652,1,0001889367,Class A Common Stock
+A,12/17/2021 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,13561282,13561282,15,0001603197,Class B Common Stock
+D,12/17/2021 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,13561282,0,14,0001603197,Series F Preferred Stock
+A,12/17/2021 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,5633880,5633880,13,0001603197,Class B Common Stock
+D,12/17/2021 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,5633880,0,12,0001603197,Series E Preferred Stock
+A,12/17/2021 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,4974501,4974501,11,0001603197,Class B Common Stock
+D,12/17/2021 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,4974501,0,10,0001603197,Series D Preferred Stock
+A,12/17/2021 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,4313218,58016602,9,0001603197,Class B Common Stock
+D,12/17/2021 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,4313218,0,8,0001603197,Series D Preferred Stock
+A,12/17/2021 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,3951276,53703384,7,0001603197,Class B Common Stock
+D,12/17/2021 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,3951276,0,6,0001603197,Series C Preferred Stock
+A,12/17/2021 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,9259278,49752108,5,0001603197,Class B Common Stock
+D,12/17/2021 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,9259278,0,4,0001603197,Series B Preferred Stock
+A,12/17/2021 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,40492830,40492830,3,0001603197,Class B Common Stock
+D,12/17/2021 00:00:00,"AH Parallel Fund IV, L.P.",4,C-Conversion,--I,40492830,0,2,0001603197,Series A Preferred Stock
+A,12/17/2021 00:00:00,"AH Parallel Fund IV, L.P.",4,P-Purchase,--I,3995652,3995652,1,0001603197,Class A Common Stock
+A,12/17/2021 00:00:00,Taneja Hemant,4,C-Conversion,--I,13561283,13561283,9,0001545563,Class B Common Stock
+D,12/17/2021 00:00:00,Taneja Hemant,4,C-Conversion,--I,13561283,0,8,0001545563,Series F Preferred Stock
+A,12/17/2021 00:00:00,Taneja Hemant,4,C-Conversion,--I,5633880,5633880,7,0001545563,Class B Common Stock
+D,12/17/2021 00:00:00,Taneja Hemant,4,C-Conversion,--I,5633880,0,6,0001545563,Series E Preferred Stock
+A,12/17/2021 00:00:00,Taneja Hemant,4,C-Conversion,--I,5001080,5001080,5,0001545563,Class B Common Stock
+D,12/17/2021 00:00:00,Taneja Hemant,4,C-Conversion,--I,5001080,0,4,0001545563,Series D Preferred Stock
+A,12/17/2021 00:00:00,Taneja Hemant,4,C-Conversion,--I,21232344,21232344,3,0001545563,Class B Common Stock
+D,12/17/2021 00:00:00,Taneja Hemant,4,C-Conversion,--I,21232344,0,2,0001545563,Series C Preferred Stock
+A,12/17/2021 00:00:00,Taneja Hemant,4,P-Purchase,--I,2000000,2000000,1,0001545563,Class A Common Stock
+A,12/17/2021 00:00:00,Calderon Benjamin,4,C-Conversion,--D,271761,9699003,2,0001895105,Class B Common Stock
+D,12/17/2021 00:00:00,Calderon Benjamin,4,C-Conversion,--D,271761,0,1,0001895105,Series A Preferred Stock
+A,12/17/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,13561282,13561282,15,0001160077,Class B Common Stock
+D,12/17/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,13561282,0,14,0001160077,Series F Preferred Stock
+A,12/17/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,5633880,5633880,13,0001160077,Class B Common Stock
+D,12/17/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,5633880,0,12,0001160077,Series E Preferred Stock
+A,12/17/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,4974501,4974501,11,0001160077,Class B Common Stock
+D,12/17/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,4974501,0,10,0001160077,Series D Preferred Stock
+A,12/17/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,4313218,58016602,9,0001160077,Class B Common Stock
+D,12/17/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,4313218,0,8,0001160077,Series D Preferred Stock
+A,12/17/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,3951276,53703384,7,0001160077,Class B Common Stock
+D,12/17/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,3951276,0,6,0001160077,Series C Preferred Stock
+A,12/17/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,9259278,49752108,5,0001160077,Class B Common Stock
+D,12/17/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,9259278,0,4,0001160077,Series B Preferred Stock
+A,12/17/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,40492830,40492830,3,0001160077,Class B Common Stock
+D,12/17/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,40492830,0,2,0001160077,Series A Preferred Stock
+A,12/17/2021 00:00:00,Andreessen Marc L,4,P-Purchase,--I,3995652,3995652,1,0001160077,Class A Common Stock
+A,12/17/2021 00:00:00,McCall Andy,4,C-Conversion,--D,1323000,1350537,2,0001895104,Class B Common Stock
+D,12/17/2021 00:00:00,McCall Andy,4,C-Conversion,--D,1323000,0,1,0001895104,Series B Preferred Stock
+A,12/17/2021 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,13561282,13561282,15,0001603198,Class B Common Stock
+D,12/17/2021 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,13561282,0,14,0001603198,Series F Preferred Stock
+A,12/17/2021 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,5633880,5633880,13,0001603198,Class B Common Stock
+D,12/17/2021 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,5633880,0,12,0001603198,Series E Preferred Stock
+A,12/17/2021 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,4974501,4974501,11,0001603198,Class B Common Stock
+D,12/17/2021 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,4974501,0,10,0001603198,Series D Preferred Stock
+A,12/17/2021 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,4313218,58016602,9,0001603198,Class B Common Stock
+D,12/17/2021 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,4313218,0,8,0001603198,Series D Preferred Stock
+A,12/17/2021 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,3951276,53703384,7,0001603198,Class B Common Stock
+D,12/17/2021 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,3951276,0,6,0001603198,Series C Preferred Stock
+A,12/17/2021 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,9259278,49752108,5,0001603198,Class B Common Stock
+D,12/17/2021 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,9259278,0,4,0001603198,Series B Preferred Stock
+A,12/17/2021 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,40492830,40492830,3,0001603198,Class B Common Stock
+D,12/17/2021 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,C-Conversion,--I,40492830,0,2,0001603198,Series A Preferred Stock
+A,12/17/2021 00:00:00,"Andreessen Horowitz Fund IV, L.P.",4,P-Purchase,--I,3995652,3995652,1,0001603198,Class A Common Stock
+A,12/17/2021 00:00:00,Biswas Sanjit,4,C-Conversion,--I,1351441,84962664,6,0001895111,Class B Common Stock
+D,12/17/2021 00:00:00,Biswas Sanjit,4,C-Conversion,--I,1351441,0,5,0001895111,Series C Preferred Stock
+A,12/17/2021 00:00:00,Biswas Sanjit,4,C-Conversion,--I,4629639,83611223,4,0001895111,Class B Common Stock
+D,12/17/2021 00:00:00,Biswas Sanjit,4,C-Conversion,--I,4629639,0,3,0001895111,Series B Preferred Stock
+A,12/17/2021 00:00:00,Biswas Sanjit,4,C-Conversion,--I,12386955,78981584,2,0001895111,Class B Common Stock
+D,12/17/2021 00:00:00,Biswas Sanjit,4,C-Conversion,--D,12386955,0,1,0001895111,Series A Preferred Stock
+A,12/17/2021 00:00:00,Bicket John,4,C-Conversion,--I,1351441,84901271,6,0001895106,Class B Common Stock
+D,12/17/2021 00:00:00,Bicket John,4,C-Conversion,--I,1351441,0,5,0001895106,Series C Preferred Stock
+A,12/17/2021 00:00:00,Bicket John,4,C-Conversion,--I,4629639,83549830,4,0001895106,Class B Common Stock
+D,12/17/2021 00:00:00,Bicket John,4,C-Conversion,--I,4629639,0,3,0001895106,Series B Preferred Stock
+A,12/17/2021 00:00:00,Bicket John,4,C-Conversion,--I,12386955,78920191,2,0001895106,Class B Common Stock
+D,12/17/2021 00:00:00,Bicket John,4,C-Conversion,--I,12386955,0,1,0001895106,Series A Preferred Stock
+A,12/14/2021 00:00:00,WAGNER SUSAN,4,A-Award,--D,415009,415009,1,0001059235,Class B Common Stock
+A,12/14/2021 00:00:00,LIVERMORE ANN M,4,A-Award,--D,200000,200000,1,0001207622,Class B Common Stock
+A,12/14/2021 00:00:00,Chadwick Jonathan,4,A-Award,--D,488246,488246,1,0001375800,Class B Common Stock
+D,12/14/2021 00:00:00,Eltoukhy Adam,4,C-Conversion,--D,517674,0,3,0001895101,Class B Common Stock
+A,12/14/2021 00:00:00,Eltoukhy Adam,4,A-Award,--D,517674,517674,2,0001895101,Class B Common Stock
+A,12/14/2021 00:00:00,Eltoukhy Adam,4,C-Conversion,--D,517674,517674,1,0001895101,Class A Common Stock
+A,12/14/2021 00:00:00,BOSTROM SUSAN L,4,A-Award,--D,240000,240000,1,0001181469,Class B Common Stock
+D,12/14/2021 00:00:00,McCall Andy,4,F-InKind,--D,110998,1589002,2,0001895104,Class B Common Stock
+A,12/14/2021 00:00:00,McCall Andy,4,A-Award,--D,1700000,1700000,1,0001895104,Class B Common Stock
+D,12/14/2021 00:00:00,Phillips Dominic,4,C-Conversion,--D,2410023,0,4,0001895148,Class B Common Stock
+D,12/14/2021 00:00:00,Phillips Dominic,4,F-InKind,--D,394345,2410023,3,0001895148,Class B Common Stock
+A,12/14/2021 00:00:00,Phillips Dominic,4,A-Award,--D,2804368,2804368,2,0001895148,Class B Common Stock
+A,12/14/2021 00:00:00,Phillips Dominic,4,C-Conversion,--D,2410023,2410023,1,0001895148,Class A Common Stock
+A,12/14/2021 00:00:00,Bicket John,4,A-Award,--D,2441024,2441024,1,0001895106,Class B Common Stock
+A,12/14/2021 00:00:00,Calderon Benjamin,4,A-Award,--D,1100000,1100000,1,0001895105,Class B Common Stock
+A,12/14/2021 00:00:00,Biswas Sanjit,4,A-Award,--D,2026049,2026049,1,0001895111,Class B Common Stock
+A,12/14/2021 00:00:00,Sekar Kiren,4,A-Award,--D,2200000,2200000,1,0001895134,Class B Common Stock

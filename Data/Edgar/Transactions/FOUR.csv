@@ -1,0 +1,431 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/22/2023 00:00:00,Isaacman Jared,4,G-Gift,--I,22677,1587451,3,0001805608,Class C Common Stock
+D,06/22/2023 00:00:00,Isaacman Jared,4,G-Gift,--I,308756,1610128,2,0001805608,Class C Common Stock
+A,06/09/2023 00:00:00,Cruz Christopher Nestor,4,A-Award,--D,2997,5545,1,0001814178,Class A Common Stock
+A,06/09/2023 00:00:00,Bakhshandehpour Sam,4,A-Award,--D,2997,4548,1,0001598283,Class A Common Stock
+A,06/09/2023 00:00:00,Davis Karen Roter,4,A-Award,--D,2997,6592,1,0001878982,Class A Common Stock
+A,06/09/2023 00:00:00,Halkyard Jonathan S,4,A-Award,--D,2997,11397,1,0001371536,Class A Common Stock
+A,06/09/2023 00:00:00,Isaacman Donald,4,A-Award,--D,2997,19989,1,0001805579,Class A Common Stock
+A,06/09/2023 00:00:00,Goldsmith-Grover Sarah,4,A-Award,--D,2997,8717,1,0001811990,Class A Common Stock
+D,06/08/2023 00:00:00,Lauber David Taylor,4,S-Sale,--D,3650,212192,3,0001805630,Class A Common Stock
+D,06/08/2023 00:00:00,Lauber David Taylor,4,S-Sale,--D,6350,215842,2,0001805630,Class A Common Stock
+D,06/08/2023 00:00:00,Lauber David Taylor,4,F-InKind,--D,21716,222192,1,0001805630,Class A Common Stock
+A,06/08/2023 00:00:00,Frankel Jordan,4,F-InKind,--D,34150,230218,1,0001805622,Class A Common Stock
+D,03/09/2023 00:00:00,Disman Nancy,4,S-Sale,--D,1500,375165,1,0001621493,Class A Common Stock
+D,03/09/2023 00:00:00,Lauber David Taylor,4,F-InKind,--D,4849,243908,1,0001805630,Class A Common Stock
+D,03/09/2023 00:00:00,Frankel Jordan,4,F-InKind,--D,3385,264368,2,0001805622,Class A Common Stock
+D,03/09/2023 00:00:00,Frankel Jordan,4,S-Sale,--D,7000,267753,1,0001805622,Class A Common Stock
+D,03/03/2023 00:00:00,Isaacman Jared,4,F-InKind,--D,49578,434597,2,0001805608,Class A Common Stock
+D,03/03/2023 00:00:00,Goldsmith-Grover Sarah,4,S-Sale,--D,1000,5720,1,0001811990,Class A Common Stock
+A,03/02/2023 00:00:00,Isaacman Jared,4,A-Award,--D,121705,484175,1,0001805608,Class A Common Stock
+A,03/02/2023 00:00:00,Disman Nancy,4,A-Award,--D,33847,376665,1,0001621493,Class A Common Stock
+A,03/02/2023 00:00:00,Lauber David Taylor,4,A-Award,--D,86994,248757,1,0001805630,Class A Common Stock
+A,03/02/2023 00:00:00,Frankel Jordan,4,A-Award,--D,33847,274753,1,0001805622,Class A Common Stock
+D,02/27/2023 00:00:00,Isaacman Jared,4,C-Conversion,--I,2000000,23829016,5,0001805608,LLC Interests
+D,02/27/2023 00:00:00,Isaacman Jared,4,J-Other,--I,2000000,0,4,0001805608,Forward Contract Sale (obligation to sell)
+D,02/27/2023 00:00:00,Isaacman Jared,4,J-Other,--I,2000000,0,3,0001805608,Class A Common Stock
+D,02/27/2023 00:00:00,Isaacman Jared,4,J-Other,--I,2000000,23829016,2,0001805608,Class B Common Stock
+A,02/27/2023 00:00:00,Isaacman Jared,4,C-Conversion,--I,2000000,2000000,1,0001805608,Class A Common Stock
+D,01/17/2023 00:00:00,Isaacman Jared,4,G-Gift,--I,799105,1918884,1,0001805608,Class C Common Stock
+D,12/16/2022 00:00:00,Disman Nancy,4,S-Sale,--D,1500,342818,1,0001621493,Class A Common Stock
+D,12/15/2022 00:00:00,Goldsmith-Grover Sarah,4,S-Sale,--D,1200,6720,1,0001811990,Class A Common Stock
+D,12/13/2022 00:00:00,Isaacman Jared,5,G-Gift,--I,21221,2717989,9,0001805608,Class C Common Stock
+D,12/12/2022 00:00:00,Lauber David Taylor,4,G-Gift,--D,2063,161763,2,0001805630,Class A Common Stock
+D,12/08/2022 00:00:00,Frankel Jordan,4,F-InKind,--D,1664,240906,1,0001805622,Class A Common Stock
+D,12/08/2022 00:00:00,Lauber David Taylor,4,F-InKind,--D,2163,163826,1,0001805630,Class A Common Stock
+D,11/18/2022 00:00:00,Goldsmith-Grover Sarah,4,S-Sale,--D,480,7920,1,0001811990,Class A Common Stock
+D,11/15/2022 00:00:00,Lauber David Taylor,4,S-Sale,--D,10000,165989,1,0001805630,Class A Common Stock
+A,10/04/2022 00:00:00,Bakhshandehpour Sam,4,A-Award,--D,1551,1551,1,0001598283,Class A Common Stock
+D,09/30/2022 00:00:00,Isaacman Jared,5,G-Gift,--I,5604,2739210,8,0001805608,Class C Common Stock
+D,09/30/2022 00:00:00,Isaacman Jared,5,G-Gift,--I,12507,2744814,7,0001805608,Class C Common Stock
+D,08/31/2022 00:00:00,Isaacman Jared,5,G-Gift,--I,5520,2757321,6,0001805608,Class C Common Stock
+A,08/05/2022 00:00:00,Disman Nancy,4/A,A-Award,--D,338466,344318,1,0001621493,Class A Common Stock
+A,08/05/2022 00:00:00,Disman Nancy,4,A-Award,--D,169233,177633,1,0001621493,Class A Common Stock
+D,06/30/2022 00:00:00,Isaacman Jared,5,G-Gift,--I,715717,2762841,5,0001805608,Class C Common Stock
+A,06/16/2022 00:00:00,Isaacman Jared,4,P-Purchase,--D,27728,362470,1,0001805608,Class A Common Stock
+A,06/10/2022 00:00:00,Halkyard Jonathan S,4,A-Award,--D,2548,8400,1,0001371536,Class A Common Stock
+A,06/10/2022 00:00:00,Cruz Christopher Nestor,4,A-Award,--D,2548,2548,1,0001814178,Class A Common Stock
+A,06/10/2022 00:00:00,Disman Nancy,4,A-Award,--D,2548,8400,1,0001621493,Class A Common Stock
+A,06/10/2022 00:00:00,Isaacman Donald,4,A-Award,--D,2548,16992,1,0001805579,Class A Common Stock
+A,06/10/2022 00:00:00,Goldsmith-Grover Sarah,4,A-Award,--D,2548,8400,1,0001811990,Class A Common Stock
+A,06/10/2022 00:00:00,Davis Karen Roter,4,A-Award,--D,2548,3595,1,0001878982,Class A Common Stock
+D,06/08/2022 00:00:00,Frankel Jordan,4,F-InKind,--D,31410,242570,1,0001805622,Class A Common Stock
+D,06/08/2022 00:00:00,Lauber David Taylor,4,F-InKind,--D,19431,175989,1,0001805630,Class A Common Stock
+D,06/08/2022 00:00:00,Herring Bradley,4,F-InKind,--D,1876,60722,1,0001813901,Class A Common Stock
+D,06/05/2022 00:00:00,Isaacman Jared,5,G-Gift,--I,20517,3478558,4,0001805608,Class C Common Stock
+D,05/02/2022 00:00:00,Isaacman Jared,5,G-Gift,--I,117216,3499075,3,0001805608,Class C Common Stock
+A,03/14/2022 00:00:00,Isaacman Jared,4,P-Purchase,--D,3830,334742,3,0001805608,Class A Common Stock
+A,03/14/2022 00:00:00,Isaacman Jared,4,P-Purchase,--D,16401,330912,2,0001805608,Class A Common Stock
+A,03/14/2022 00:00:00,Isaacman Jared,4,P-Purchase,--D,15727,314511,1,0001805608,Class A Common Stock
+A,03/10/2022 00:00:00,Isaacman Jared,4,P-Purchase,--D,14094,204887,3,0001805608,Class A Common Stock
+A,03/10/2022 00:00:00,Isaacman Jared,4,P-Purchase,--D,41263,190793,2,0001805608,Class A Common Stock
+A,03/10/2022 00:00:00,Isaacman Jared,4,P-Purchase,--D,26643,149530,1,0001805608,Class A Common Stock
+D,03/09/2022 00:00:00,Isaacman Jared,4,F-InKind,--D,63433,298784,2,0001805608,Class A Common Stock
+A,03/09/2022 00:00:00,Isaacman Jared,4,A-Award,--D,157330,362217,1,0001805608,Class A Common Stock
+A,03/09/2022 00:00:00,Lauber David Taylor,4,A-Award,--D,32181,195420,2,0001805630,Class A Common Stock
+D,03/09/2022 00:00:00,Lauber David Taylor,4,F-InKind,--D,864,163239,1,0001805630,Class A Common Stock
+A,03/09/2022 00:00:00,Frankel Jordan,4,A-Award,--D,32181,273980,2,0001805622,Class A Common Stock
+D,03/09/2022 00:00:00,Frankel Jordan,4,F-InKind,--D,864,241799,1,0001805622,Class A Common Stock
+A,03/09/2022 00:00:00,Herring Bradley,4,A-Award,--D,28605,62598,2,0001813901,Class A Common Stock
+D,03/09/2022 00:00:00,Herring Bradley,4,F-InKind,--D,1097,33993,1,0001813901,Class A Common Stock
+A,03/09/2022 00:00:00,Isaacman Jared,4,P-Purchase,--D,48500,122887,3,0001805608,Class A Common Stock
+A,03/09/2022 00:00:00,Isaacman Jared,4,P-Purchase,--D,31774,74387,2,0001805608,Class A Common Stock
+A,03/09/2022 00:00:00,Isaacman Jared,4,P-Purchase,--D,39726,42613,1,0001805608,Class A Common Stock
+D,01/31/2022 00:00:00,Isaacman Jared,5,G-Gift,--I,209293,3616291,2,0001805608,Class C Common Stock
+D,01/31/2022 00:00:00,Isaacman Jared,5,G-Gift,--I,523231,3825584,1,0001805608,Class C Common Stock
+A,12/27/2021 00:00:00,Isaacman Donald,4,G-Gift,--D,8592,14444,1,0001805579,Class A Common Stock
+A,12/23/2021 00:00:00,Isaacman Jared,5,G-Gift,--I,85911,85911,5,0001805608,Class C Common Stock
+A,12/23/2021 00:00:00,Isaacman Jared,5,G-Gift,--I,85911,85911,4,0001805608,Class C Common Stock
+D,12/23/2021 00:00:00,Isaacman Jared,5,G-Gift,--D,42958,3442,3,0001805608,Class A Common Stock
+D,12/23/2021 00:00:00,Isaacman Jared,5,G-Gift,--D,171822,0,2,0001805608,Class C Common Stock
+A,12/17/2021 00:00:00,Herring Bradley,4,A-Award,--D,6924,35090,1,0001813901,Class A Common Stock
+A,12/17/2021 00:00:00,Frankel Jordan,4,A-Award,--D,6924,242663,1,0001805622,Class A Common Stock
+A,12/17/2021 00:00:00,Lauber David Taylor,4,A-Award,--D,6924,164103,1,0001805630,Class A Common Stock
+D,12/13/2021 00:00:00,Frankel Jordan,4,S-Sale,--D,1322,235739,2,0001805622,Class A Common Stock
+D,12/10/2021 00:00:00,Frankel Jordan,4,S-Sale,--D,2261,237061,1,0001805622,Class A Common Stock
+D,12/08/2021 00:00:00,Herring Bradley,4,F-InKind,--D,621,28166,2,0001813901,Class A Common Stock
+D,12/08/2021 00:00:00,Herring Bradley,4,F-InKind,--D,62,28787,1,0001813901,Class A Common Stock
+D,12/08/2021 00:00:00,Frankel Jordan,4,F-InKind,--D,756,239322,2,0001805622,Class A Common Stock
+D,12/08/2021 00:00:00,Frankel Jordan,4,F-InKind,--D,714,240078,1,0001805622,Class A Common Stock
+D,12/08/2021 00:00:00,Lauber David Taylor,4,F-InKind,--D,756,157179,2,0001805630,Class A Common Stock
+D,12/08/2021 00:00:00,Lauber David Taylor,4,F-InKind,--D,207,157935,1,0001805630,Class A Common Stock
+D,12/01/2021 00:00:00,Isaacman Jared,5,G-Gift,--I,96117,4529229,1,0001805608,Class C Common Stock
+A,09/07/2021 00:00:00,Isaacman Jared,4,J-Other,--I,2259247,2259247,2,0001805608,Forward Sale Contract (obligation to sell)
+A,09/07/2021 00:00:00,Isaacman Jared,4,J-Other,--I,2178984,2178984,1,0001805608,Forward Sale Contract (obligation to sell)
+A,08/16/2021 00:00:00,Davis Karen Roter,4,A-Award,--D,1047,1047,1,0001878982,Class A Common Stock
+D,08/09/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,1967750,443638,6,0001735631,LLC Interests
+D,08/09/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,4250000,0,5,0001735631,Class A Common Stock
+A,08/09/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,2282250,4250000,4,0001735631,Class A Common Stock
+D,08/09/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,2282250,514544,3,0001735631,Class C Common Stock
+D,08/09/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,1967750,443638,2,0001735631,Class B Common Stock
+A,08/09/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,1967750,1967750,1,0001735631,Class A Common Stock
+D,08/09/2021 00:00:00,Herring Bradley,4,S-Sale,--D,2000,28849,1,0001813901,Class A Common Stock
+D,07/15/2021 00:00:00,Frankel Jordan,4,S-Sale,--D,765,240792,3,0001805622,Class A Common Stock
+D,07/15/2021 00:00:00,Frankel Jordan,4,S-Sale,--D,1235,241557,2,0001805622,Class A Common Stock
+D,07/15/2021 00:00:00,Frankel Jordan,4,S-Sale,--D,3000,242792,1,0001805622,Class A Common Stock
+D,06/22/2021 00:00:00,Lauber David Taylor,4,S-Sale,--D,302,158142,6,0001805630,Class A Common Stock
+D,06/22/2021 00:00:00,Lauber David Taylor,4,S-Sale,--D,4625,158444,5,0001805630,Class A Common Stock
+D,06/22/2021 00:00:00,Lauber David Taylor,4,S-Sale,--D,2102,163069,4,0001805630,Class A Common Stock
+D,06/22/2021 00:00:00,Lauber David Taylor,4,S-Sale,--D,1470,165171,3,0001805630,Class A Common Stock
+D,06/22/2021 00:00:00,Lauber David Taylor,4,S-Sale,--D,1400,166641,2,0001805630,Class A Common Stock
+D,06/22/2021 00:00:00,Lauber David Taylor,4,S-Sale,--D,5101,168041,1,0001805630,Class A Common Stock
+A,06/10/2021 00:00:00,Halkyard Jonathan S,4,A-Award,--D,1143,5852,1,0001371536,Class A Common Stock
+A,06/10/2021 00:00:00,Goldsmith-Grover Sarah,4,A-Award,--D,1143,5852,1,0001811990,Class A Common Stock
+D,06/10/2021 00:00:00,Herring Bradley,4,S-Sale,--D,5940,30849,1,0001813901,Class A Common Stock
+A,06/10/2021 00:00:00,Disman Nancy,4,A-Award,--D,1143,5852,1,0001621493,Class A Common Stock
+A,06/10/2021 00:00:00,Isaacman Donald,4,A-Award,--D,1143,5852,1,0001805579,Class A Common Stock
+A,06/10/2021 00:00:00,Frey Andrew,4,A-Award,--D,1143,5852,1,0001681489,Class A Common Stock
+A,06/10/2021 00:00:00,Cruz Christopher Nestor,4,A-Award,--D,1143,5852,1,0001814178,Class A Common Stock
+D,06/08/2021 00:00:00,Frankel Jordan,4,F-InKind,--D,32711,245792,1,0001805622,Class A Common Stock
+D,06/08/2021 00:00:00,Herring Bradley,4,F-InKind,--D,2064,36789,2,0001813901,Class A Common Stock
+D,06/08/2021 00:00:00,Herring Bradley,4,F-InKind,--D,2132,38853,1,0001813901,Class A Common Stock
+D,06/08/2021 00:00:00,Lauber David Taylor,4,F-InKind,--D,17109,173142,2,0001805630,Class A Common Stock
+D,06/08/2021 00:00:00,Lauber David Taylor,4,F-InKind,--D,26342,190251,1,0001805630,Class A Common Stock
+D,06/08/2021 00:00:00,Cronic Kevin J.,4,F-InKind,--D,33818,59681,1,0001805627,Class A Common Stock
+D,06/08/2021 00:00:00,Sommers Steven M.,4,F-InKind,--D,33817,59682,1,0001805672,Class A Common Stock
+D,05/25/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,292560,2411388,9,0001735631,LLC Interests
+D,05/25/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,7313,0,8,0001735631,Class A Common Stock
+D,05/25/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,19828,7313,7,0001735631,Class A Common Stock
+D,05/25/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,32737,27141,6,0001735631,Class A Common Stock
+D,05/25/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,572000,59878,5,0001735631,Class A Common Stock
+A,05/25/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,339318,631878,4,0001735631,Class A Common Stock
+D,05/25/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,339318,2796794,3,0001735631,Class C Common Stock
+D,05/25/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,292560,2411388,2,0001735631,Class B Common Stock
+A,05/25/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,292560,292560,1,0001735631,Class A Common Stock
+D,05/24/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,20646,2703948,20,0001735631,LLC Interests
+D,05/24/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,13992,0,18,0001735631,Class A Common Stock
+D,05/24/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,6249,13992,17,0001735631,Class A Common Stock
+D,05/24/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,15766,20241,16,0001735631,Class A Common Stock
+D,05/24/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,8585,36007,15,0001735631,Class A Common Stock
+A,05/24/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,23946,44592,14,0001735631,Class A Common Stock
+D,05/24/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,23946,3136112,13,0001735631,Class C Common Stock
+D,05/24/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,20646,2703948,12,0001735631,Class B Common Stock
+A,05/24/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,20646,20646,11,0001735631,Class A Common Stock
+D,05/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,82839,2724594,19,0001735631,LLC Interests
+D,05/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,400,0,10,0001735631,Class A Common Stock
+D,05/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,15040,400,9,0001735631,Class A Common Stock
+D,05/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,12725,15440,8,0001735631,Class A Common Stock
+D,05/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,36745,28165,7,0001735631,Class A Common Stock
+D,05/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,55500,64910,6,0001735631,Class A Common Stock
+D,05/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,58507,120410,5,0001735631,Class A Common Stock
+A,05/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,96078,178917,4,0001735631,Class A Common Stock
+D,05/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,96078,3160058,3,0001735631,Class C Common Stock
+D,05/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,82839,2724594,2,0001735631,Class B Common Stock
+A,05/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,82839,82839,1,0001735631,Class A Common Stock
+D,05/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,42196,2807433,29,0001735631,LLC Interests
+D,05/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,34226,0,26,0001735631,Class A Common Stock
+D,05/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,31066,34226,25,0001735631,Class A Common Stock
+D,05/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,25843,65292,24,0001735631,Class A Common Stock
+A,05/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,48939,91135,23,0001735631,Class A Common Stock
+D,05/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,48939,3256136,22,0001735631,Class C Common Stock
+D,05/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,42196,2807433,21,0001735631,Class B Common Stock
+A,05/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,42196,42196,20,0001735631,Class A Common Stock
+D,05/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,32708,2849629,28,0001735631,LLC Interests
+D,05/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,14773,0,19,0001735631,Class A Common Stock
+D,05/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,14434,14773,18,0001735631,Class A Common Stock
+D,05/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,39372,29207,17,0001735631,Class A Common Stock
+D,05/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,2064,68579,16,0001735631,Class A Common Stock
+A,05/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,37935,70643,15,0001735631,Class A Common Stock
+D,05/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,37935,3305075,14,0001735631,Class C Common Stock
+D,05/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,32708,2849629,13,0001735631,Class B Common Stock
+A,05/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,32708,32708,12,0001735631,Class A Common Stock
+D,05/18/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,34520,2882337,27,0001735631,LLC Interests
+D,05/18/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,1502,0,11,0001735631,Class A Common Stock
+D,05/18/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,7400,1502,10,0001735631,Class A Common Stock
+D,05/18/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,12800,8902,9,0001735631,Class A Common Stock
+D,05/18/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,17776,21702,8,0001735631,Class A Common Stock
+D,05/18/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,30778,39478,7,0001735631,Class A Common Stock
+D,05/18/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,1101,70256,6,0001735631,Class A Common Stock
+D,05/18/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,3200,71357,5,0001735631,Class A Common Stock
+A,05/18/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,40037,74557,4,0001735631,Class A Common Stock
+D,05/18/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,40037,3343010,3,0001735631,Class C Common Stock
+D,05/18/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,34520,2882337,2,0001735631,Class B Common Stock
+A,05/18/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,34520,34520,1,0001735631,Class A Common Stock
+D,05/17/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,46300,2916857,9,0001735631,LLC Interests
+D,05/17/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,5000,0,8,0001735631,Class A Common Stock
+D,05/17/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,35839,5000,7,0001735631,Class A Common Stock
+D,05/17/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,57860,40839,6,0001735631,Class A Common Stock
+D,05/17/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,1301,98699,5,0001735631,Class A Common Stock
+A,05/17/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,53700,100000,4,0001735631,Class A Common Stock
+D,05/17/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,53700,3383047,3,0001735631,Class C Common Stock
+D,05/17/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,46300,2916857,2,0001735631,Class B Common Stock
+A,05/17/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,46300,46300,1,0001735631,Class A Common Stock
+D,05/14/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,10138,0,13,0001735631,Class A Common Stock
+D,05/14/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,101695,10138,12,0001735631,Class A Common Stock
+D,05/14/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,88167,111833,11,0001735631,Class A Common Stock
+A,05/14/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,107400,200000,10,0001735631,Class A Common Stock
+D,05/14/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,107400,3436747,9,0001735631,Class C Common Stock
+D,05/14/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,92600,2963157,8,0001735631,Class B Common Stock
+A,05/14/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,92600,92600,7,0001735631,Class A Common Stock
+D,05/13/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,92600,2963157,15,0001735631,LLC Interests
+D,05/13/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,7573,3055757,14,0001735631,LLC Interests
+D,05/13/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,3050,0,6,0001735631,Class A Common Stock
+D,05/13/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,13307,3050,5,0001735631,Class A Common Stock
+A,05/13/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,8784,16357,4,0001735631,Class A Common Stock
+D,05/13/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,8784,3544147,3,0001735631,Class C Common Stock
+D,05/13/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,7573,3055757,2,0001735631,Class B Common Stock
+A,05/13/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,7573,7573,1,0001735631,Class A Common Stock
+D,05/12/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,20461,3063330,17,0001735631,LLC Interests
+D,05/12/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,831,0,15,0001735631,Class A Common Stock
+D,05/12/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,8797,831,14,0001735631,Class A Common Stock
+D,05/12/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,4175,9628,13,0001735631,Class A Common Stock
+D,05/12/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,30389,13803,12,0001735631,Class A Common Stock
+A,05/12/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,23731,44192,11,0001735631,Class A Common Stock
+D,05/12/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,23731,3552931,10,0001735631,Class C Common Stock
+D,05/12/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,20461,3063330,9,0001735631,Class B Common Stock
+A,05/12/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,20461,20461,8,0001735631,Class A Common Stock
+D,05/11/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,34725,3083791,16,0001735631,LLC Interests
+D,05/11/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,100,0,7,0001735631,Class A Common Stock
+D,05/11/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,7215,100,6,0001735631,Class A Common Stock
+D,05/11/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,67685,7315,5,0001735631,Class A Common Stock
+A,05/11/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,40275,75000,4,0001735631,Class A Common Stock
+D,05/11/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,40275,3576662,3,0001735631,Class C Common Stock
+D,05/11/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,34725,3083791,2,0001735631,Class B Common Stock
+A,05/11/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,34725,34725,1,0001735631,Class A Common Stock
+D,05/10/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,6806,3118516,16,0001735631,LLC Interests
+D,05/10/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,800,0,14,0001735631,Class A Common Stock
+D,05/10/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,13900,800,13,0001735631,Class A Common Stock
+A,05/10/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,7894,14700,12,0001735631,Class A Common Stock
+D,05/10/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,7894,3616937,11,0001735631,Class C Common Stock
+D,05/10/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,6806,3118516,10,0001735631,Class B Common Stock
+A,05/10/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,6806,6806,9,0001735631,Class A Common Stock
+D,05/07/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,97709,3125322,15,0001735631,LLC Interests
+D,05/07/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,3663,0,8,0001735631,Class A Common Stock
+D,05/07/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,54523,3663,7,0001735631,Class A Common Stock
+D,05/07/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,130305,58186,6,0001735631,Class A Common Stock
+D,05/07/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,22543,188491,5,0001735631,Class A Common Stock
+A,05/07/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,113325,211034,4,0001735631,Class A Common Stock
+D,05/07/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,113325,3624831,3,0001735631,Class C Common Stock
+D,05/07/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,97709,3125322,2,0001735631,Class B Common Stock
+A,05/07/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,97709,97709,1,0001735631,Class A Common Stock
+D,05/06/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,26733,3223031,17,0001735631,LLC Interests
+D,05/06/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,1300,0,15,0001735631,Class A Common Stock
+D,05/06/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,1000,1300,14,0001735631,Class A Common Stock
+D,05/06/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,7000,2300,13,0001735631,Class A Common Stock
+D,05/06/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,48438,9300,12,0001735631,Class A Common Stock
+A,05/06/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,31005,57738,11,0001735631,Class A Common Stock
+D,05/06/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,31005,3738156,10,0001735631,Class C Common Stock
+D,05/06/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,26733,3223031,9,0001735631,Class B Common Stock
+A,05/06/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,26733,26733,8,0001735631,Class A Common Stock
+D,05/05/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,38407,3249764,16,0001735631,LLC Interests
+D,05/05/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,11050,0,7,0001735631,Class A Common Stock
+D,05/05/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,57210,11050,6,0001735631,Class A Common Stock
+D,05/05/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,14693,68260,5,0001735631,Class A Common Stock
+A,05/05/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,44546,82953,4,0001735631,Class A Common Stock
+D,05/05/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,44546,3769161,3,0001735631,Class C Common Stock
+D,05/05/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,38407,3249764,2,0001735631,Class B Common Stock
+A,05/05/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,38407,38407,1,0001735631,Class A Common Stock
+D,05/04/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,49007,3288171,18,0001735631,LLC Interests
+D,05/04/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,800,0,16,0001735631,Class A Common Stock
+D,05/04/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,4506,800,15,0001735631,Class A Common Stock
+D,05/04/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,14912,5306,14,0001735631,Class A Common Stock
+D,05/04/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,77564,20218,13,0001735631,Class A Common Stock
+D,05/04/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,8065,97782,12,0001735631,Class A Common Stock
+A,05/04/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,56840,105847,11,0001735631,Class A Common Stock
+D,05/04/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,56840,3813707,10,0001735631,Class C Common Stock
+D,05/04/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,49007,3288171,9,0001735631,Class B Common Stock
+A,05/04/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,49007,49007,8,0001735631,Class A Common Stock
+D,05/03/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,47503,3337178,17,0001735631,LLC Interests
+D,05/03/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,12450,0,7,0001735631,Class A Common Stock
+D,05/03/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,44153,12450,6,0001735631,Class A Common Stock
+D,05/03/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,45996,56603,5,0001735631,Class A Common Stock
+A,05/03/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,55096,102599,4,0001735631,Class A Common Stock
+D,05/03/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,55096,3870547,3,0001735631,Class C Common Stock
+D,05/03/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,47503,3337178,2,0001735631,Class B Common Stock
+A,05/03/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,47503,47503,1,0001735631,Class A Common Stock
+D,04/30/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,41727,3384681,20,0001735631,LLC Interests
+D,04/30/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,820,0,18,0001735631,Class A Common Stock
+D,04/30/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,52330,820,17,0001735631,Class A Common Stock
+D,04/30/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,24728,53150,16,0001735631,Class A Common Stock
+D,04/30/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,4330,77878,15,0001735631,Class A Common Stock
+D,04/30/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,7915,82208,14,0001735631,Class A Common Stock
+A,04/30/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,48396,90123,13,0001735631,Class A Common Stock
+D,04/30/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,48396,3925643,12,0001735631,Class C Common Stock
+D,04/30/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,41727,3384681,11,0001735631,Class B Common Stock
+A,04/30/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,41727,41727,10,0001735631,Class A Common Stock
+D,04/29/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,54248,3426408,19,0001735631,LLC Interests
+D,04/29/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,4010,0,9,0001735631,Class A Common Stock
+D,04/29/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,34542,4010,8,0001735631,Class A Common Stock
+D,04/29/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,40370,38552,7,0001735631,Class A Common Stock
+D,04/29/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,31798,78922,6,0001735631,Class A Common Stock
+D,04/29/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,6446,110720,5,0001735631,Class A Common Stock
+A,04/29/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,62918,117166,4,0001735631,Class A Common Stock
+D,04/29/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,62918,3974039,3,0001735631,Class C Common Stock
+D,04/29/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,54248,3426408,2,0001735631,Class B Common Stock
+A,04/29/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,54248,54248,1,0001735631,Class A Common Stock
+D,04/28/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,53066,3480656,21,0001735631,LLC Interests
+D,04/28/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,125,0,19,0001735631,Class A Common Stock
+D,04/28/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,33722,125,18,0001735631,Class A Common Stock
+D,04/28/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,52560,33847,17,0001735631,Class A Common Stock
+D,04/28/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,28207,86407,16,0001735631,Class A Common Stock
+A,04/28/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,61548,114614,15,0001735631,Class A Common Stock
+D,04/28/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,61548,4036957,14,0001735631,Class C Common Stock
+D,04/28/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,53066,3480656,13,0001735631,Class B Common Stock
+A,04/28/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,53066,53066,12,0001735631,Class A Common Stock
+D,04/27/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,74709,3533722,20,0001735631,LLC Interests
+D,04/27/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,100,0,11,0001735631,Class A Common Stock
+D,04/27/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,10778,100,10,0001735631,Class A Common Stock
+D,04/27/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,17501,10878,9,0001735631,Class A Common Stock
+D,04/27/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,15907,28379,8,0001735631,Class A Common Stock
+D,04/27/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,17253,44286,7,0001735631,Class A Common Stock
+D,04/27/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,20719,61539,6,0001735631,Class A Common Stock
+D,04/27/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,79100,82258,5,0001735631,Class A Common Stock
+A,04/27/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,86649,161358,4,0001735631,Class A Common Stock
+D,04/27/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,86649,4098505,3,0001735631,Class C Common Stock
+D,04/27/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,74709,3533722,2,0001735631,Class B Common Stock
+A,04/27/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,74709,74709,1,0001735631,Class A Common Stock
+D,04/26/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,53543,3608431,17,0001735631,LLC Interests
+D,04/26/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,1000,0,15,0001735631,Class A Common Stock
+D,04/26/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,21780,1000,14,0001735631,Class A Common Stock
+D,04/26/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,33963,22780,13,0001735631,Class A Common Stock
+D,04/26/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,58902,56743,12,0001735631,Class A Common Stock
+A,04/26/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,62102,115645,11,0001735631,Class A Common Stock
+D,04/26/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,62102,4185154,10,0001735631,Class C Common Stock
+D,04/26/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,53543,3608431,9,0001735631,Class B Common Stock
+A,04/26/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,53543,53543,8,0001735631,Class A Common Stock
+D,04/23/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,35307,3661974,16,0001735631,LLC Interests
+D,04/23/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,5171,0,7,0001735631,Class A Common Stock
+D,04/23/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,25256,5171,6,0001735631,Class A Common Stock
+D,04/23/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,45830,30427,5,0001735631,Class A Common Stock
+A,04/23/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,40950,76257,4,0001735631,Class A Common Stock
+D,04/23/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,40950,4247256,3,0001735631,Class C Common Stock
+D,04/23/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,35307,3661974,2,0001735631,Class B Common Stock
+A,04/23/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,35307,35307,1,0001735631,Class A Common Stock
+D,04/22/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,60781,3697281,21,0001735631,LLC Interests
+D,04/22/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,1400,0,19,0001735631,Class A Common Stock
+D,04/22/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,39417,1400,18,0001735631,Class A Common Stock
+D,04/22/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,58902,40817,17,0001735631,Class A Common Stock
+D,04/22/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,31558,99719,16,0001735631,Class A Common Stock
+A,04/22/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,70496,131277,15,0001735631,Class A Common Stock
+D,04/22/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,70496,4288206,14,0001735631,Class C Common Stock
+D,04/22/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,60781,3697281,13,0001735631,Class B Common Stock
+A,04/22/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,60781,60781,12,0001735631,Class A Common Stock
+D,04/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,59515,3758062,20,0001735631,LLC Interests
+D,04/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,9006,0,11,0001735631,Class A Common Stock
+D,04/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,71943,9006,10,0001735631,Class A Common Stock
+D,04/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,28024,80949,9,0001735631,Class A Common Stock
+D,04/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,5425,108973,8,0001735631,Class A Common Stock
+D,04/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,7500,114398,7,0001735631,Class A Common Stock
+D,04/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,883,121898,6,0001735631,Class A Common Stock
+D,04/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,5762,122781,5,0001735631,Class A Common Stock
+A,04/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,69028,128543,4,0001735631,Class A Common Stock
+D,04/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,69028,4358702,3,0001735631,Class C Common Stock
+D,04/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,59515,3758062,2,0001735631,Class B Common Stock
+A,04/21/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,59515,59515,1,0001735631,Class A Common Stock
+D,04/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,26780,3817577,18,0001735631,LLC Interests
+D,04/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,5923,0,16,0001735631,Class A Common Stock
+D,04/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,20549,5923,15,0001735631,Class A Common Stock
+D,04/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,20949,26472,14,0001735631,Class A Common Stock
+D,04/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,10419,47421,13,0001735631,Class A Common Stock
+A,04/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,31060,57840,12,0001735631,Class A Common Stock
+D,04/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,31060,4427730,11,0001735631,Class C Common Stock
+D,04/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,26780,3817577,10,0001735631,Class B Common Stock
+A,04/20/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,26780,26780,9,0001735631,Class A Common Stock
+D,04/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,26484,3844357,17,0001735631,LLC Interests
+D,04/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,100,0,8,0001735631,Class A Common Stock
+D,04/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,12038,100,7,0001735631,Class A Common Stock
+D,04/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,18562,12138,6,0001735631,Class A Common Stock
+D,04/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,26500,30700,5,0001735631,Class A Common Stock
+A,04/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,30716,57200,4,0001735631,Class A Common Stock
+D,04/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,30716,4458790,3,0001735631,Class C Common Stock
+D,04/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,26484,3844357,2,0001735631,Class B Common Stock
+A,04/19/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,26484,26484,1,0001735631,Class A Common Stock
+D,03/16/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,926000,3870841,6,0001735631,LLC Interests
+D,03/16/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,2000000,0,5,0001735631,Class A Common Stock
+A,03/16/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,1074000,2000000,4,0001735631,Class A Common Stock
+D,03/16/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,1074000,4489506,3,0001735631,Class C Common Stock
+D,03/16/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,926000,3870841,2,0001735631,Class B Common Stock
+A,03/16/2021 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,926000,926000,1,0001735631,Class A Common Stock
+A,03/16/2021 00:00:00,Isaacman Jared,4,J-Other,--I,2000000,2000000,1,0001805608,Forward Sale Contract (obligation to sell)
+A,03/09/2021 00:00:00,Lauber David Taylor,4,A-Award,--D,8741,216593,1,0001805630,Class A Common Stock
+D,03/09/2021 00:00:00,Isaacman Jared,4,F-InKind,--D,30926,46400,2,0001805608,Class A Common Stock
+A,03/09/2021 00:00:00,Isaacman Jared,4,A-Award,--D,77326,77326,1,0001805608,Class A Common Stock
+A,03/09/2021 00:00:00,Herring Bradley,4,A-Award,--D,8741,40985,1,0001813901,Class A Common Stock
+A,03/09/2021 00:00:00,Frankel Jordan,4,A-Award,--D,8741,278503,1,0001805622,Class A Common Stock
+A,12/08/2020 00:00:00,Sommers Steven M.,4,A-Award,--D,1647,93499,2,0001805672,Class A Common Stock
+D,12/08/2020 00:00:00,Sommers Steven M.,4,F-InKind,--D,279,91852,1,0001805672,Class A Common Stock
+A,12/08/2020 00:00:00,Cronic Kevin J.,4,A-Award,--D,1647,93499,2,0001805627,Class A Common Stock
+D,12/08/2020 00:00:00,Cronic Kevin J.,4,F-InKind,--D,279,91852,1,0001805627,Class A Common Stock
+A,12/08/2020 00:00:00,Lauber David Taylor,4,A-Award,--D,5758,207852,2,0001805630,Class A Common Stock
+D,12/08/2020 00:00:00,Lauber David Taylor,4,F-InKind,--D,190,202094,1,0001805630,Class A Common Stock
+A,12/08/2020 00:00:00,Frankel Jordan,4,A-Award,--D,5758,269762,2,0001805622,Class A Common Stock
+D,12/08/2020 00:00:00,Frankel Jordan,4,F-InKind,--D,490,264004,1,0001805622,Class A Common Stock
+A,12/08/2020 00:00:00,Herring Bradley,4,A-Award,--D,5758,32244,2,0001813901,Class A Common Stock
+D,12/08/2020 00:00:00,Herring Bradley,4,F-InKind,--D,57,26486,1,0001813901,Class A Common Stock
+D,12/07/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,9200000,0,5,0001735631,Class A Common Stock
+D,12/04/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,4259600,4796841,6,0001735631,LLC Interests
+A,12/04/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,4940400,9200000,4,0001735631,Class A Common Stock
+D,12/04/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,4940400,5563506,3,0001735631,Class C Common Stock
+D,12/04/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,4259600,4796841,2,0001735631,Class B Common Stock
+A,12/04/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,4259600,4259600,1,0001735631,Class A Common Stock
+D,10/06/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,1473070,0,5,0001735631,Class A Common Stock
+D,10/05/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,682031,9056441,6,0001735631,LLC Interests
+A,10/05/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,791039,1473070,4,0001735631,Class A Common Stock
+D,10/05/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,791039,10503906,3,0001735631,Class C Common Stock
+D,10/05/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,682031,9056441,2,0001735631,Class B Common Stock
+A,10/05/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,682031,682031,1,0001735631,Class A Common Stock
+D,09/15/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,S-Sale,--I,7856373,0,5,0001735631,Class A Common Stock
+D,09/14/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,3637501,9738472,6,0001735631,LLC Interests
+A,09/14/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,4218872,7856373,4,0001735631,Class A Common Stock
+D,09/14/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,4218872,11294945,3,0001735631,Class C Common Stock
+D,09/14/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,J-Other,--I,3637501,9738472,2,0001735631,Class B Common Stock
+A,09/14/2020 00:00:00,"Searchlight Capital Partners II GP, LLC",4,C-Conversion,--I,3637501,3637501,1,0001735631,Class A Common Stock
+A,06/09/2020 00:00:00,Isaacman Jared,4,A-Award,--I,4625346,4625346,1,0001805608,Class C Common Stock
+A,06/08/2020 00:00:00,Halkyard Jonathan S,4,A-Award,--D,4709,4709,1,0001371536,Class A Common Stock
+A,06/08/2020 00:00:00,Goldsmith-Grover Sarah,4,A-Award,--D,4709,4709,1,0001811990,Class A Common Stock
+A,06/08/2020 00:00:00,Disman Nancy,4,A-Award,--D,4709,4709,1,0001621493,Class A Common Stock
+A,06/08/2020 00:00:00,Cruz Christopher Nestor,4,A-Award,--D,4709,4709,1,0001814178,Class A Common Stock
+A,06/08/2020 00:00:00,Isaacman Donald,4,A-Award,--D,4709,4709,1,0001805579,Class A Common Stock
+A,06/08/2020 00:00:00,Frey Andrew,4,A-Award,--D,4709,4709,1,0001681489,Class A Common Stock
+A,06/08/2020 00:00:00,Cronic Kevin J.,4,A-Award,--D,89842,92131,2,0001805627,Class A Common Stock
+A,06/08/2020 00:00:00,Cronic Kevin J.,4,A-Award,--D,2289,2289,1,0001805627,Class A Common Stock
+A,06/08/2020 00:00:00,Frankel Jordan,4,A-Award,--D,260870,264494,2,0001805622,Class A Common Stock
+A,06/08/2020 00:00:00,Frankel Jordan,4,A-Award,--D,3624,3624,1,0001805622,Class A Common Stock
+A,06/08/2020 00:00:00,Lauber David Taylor,4,A-Award,--D,130435,202284,3,0001805630,Class A Common Stock
+A,06/08/2020 00:00:00,Lauber David Taylor,4,A-Award,--D,70802,71849,2,0001805630,Class A Common Stock
+A,06/08/2020 00:00:00,Lauber David Taylor,4,A-Award,--D,1047,1047,1,0001805630,Class A Common Stock
+A,06/08/2020 00:00:00,Sommers Steven M.,4,A-Award,--D,89842,92131,2,0001805672,Class A Common Stock
+A,06/08/2020 00:00:00,Sommers Steven M.,4,A-Award,--D,2289,2289,1,0001805672,Class A Common Stock
+A,06/08/2020 00:00:00,Herring Bradley,4,A-Award,--D,17392,26543,3,0001813901,Class A Common Stock
+A,06/08/2020 00:00:00,Herring Bradley,4,A-Award,--D,8774,9151,2,0001813901,Class A Common Stock
+A,06/08/2020 00:00:00,Herring Bradley,4,A-Award,--D,377,377,1,0001813901,Class A Common Stock

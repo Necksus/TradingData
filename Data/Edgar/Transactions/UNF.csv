@@ -1,0 +1,641 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,04/03/2023 00:00:00,CAMILLI KATHLEEN M,4,S-Sale,--D,94,2859,1,0001235360,Common Stock
+D,02/03/2023 00:00:00,Croatti Matthew,4,S-Sale,--D,1568,9698,1,0001724534,Common Stock
+D,02/02/2023 00:00:00,Croatti Matthew,4,S-Sale,--D,1724,11266,2,0001724534,Common Stock
+D,02/02/2023 00:00:00,Croatti Matthew,4,S-Sale,--D,6000,12990,1,0001724534,Common Stock
+D,01/16/2023 00:00:00,Cohen Phillip L,4,M-Exempt,--D,975,0,3,0001303645,Stock Appreciation Right
+D,01/16/2023 00:00:00,Cohen Phillip L,4,D-Return,--D,583,15323,2,0001303645,Common Stock
+A,01/16/2023 00:00:00,Cohen Phillip L,4,M-Exempt,--D,975,15906,1,0001303645,Common Stock
+D,01/05/2023 00:00:00,Ross William Masters,4,S-Sale,--D,1231,4335,1,0001688445,Common Stock
+D,01/05/2023 00:00:00,Croatti Michael A,4,M-Exempt,--D,4000,0,5,0001656304,Stock Appreciation Right
+D,01/05/2023 00:00:00,Croatti Michael A,4,S-Sale,--D,890,6275,3,0001656304,Common Stock
+D,01/05/2023 00:00:00,Croatti Michael A,4,F-InKind,--D,3110,7165,2,0001656304,Common Stock
+A,01/05/2023 00:00:00,Croatti Michael A,4,M-Exempt,--D,4000,10275,1,0001656304,Common Stock
+D,01/02/2023 00:00:00,O'Connor Shane,4,F-InKind,--D,102,5338,1,0001370639,Common Stock
+D,12/20/2022 00:00:00,Ross William Masters,4,F-InKind,--D,89,5477,1,0001688445,Common Stock
+D,12/20/2022 00:00:00,Katz David Martin,4,F-InKind,--D,89,4981,1,0001459610,Common Stock
+D,12/20/2022 00:00:00,DIFILLIPPO DAVID A,4,F-InKind,--D,89,15030,1,0001261137,Common Stock
+D,12/20/2022 00:00:00,Croatti Michael A,4,F-InKind,--D,89,6186,1,0001656304,Common Stock
+D,12/14/2022 00:00:00,Sintros Steven S,4,F-InKind,--D,269,22648,1,0001453910,Common Stock
+A,11/28/2022 00:00:00,Zemlin Raymond C.,4,A-Award,--D,858,858,1,0001691916,Stock Appreciation Right
+A,11/28/2022 00:00:00,Sintros Steven S,4,A-Award,--D,5588,5588,3,0001453910,Stock Appreciation Right
+A,11/28/2022 00:00:00,Sintros Steven S,4,A-Award,--D,3937,22917,2,0001453910,Common Stock
+A,11/28/2022 00:00:00,Ross William Masters,4,A-Award,--D,1397,1397,3,0001688445,Stock Appreciation Right
+A,11/28/2022 00:00:00,Ross William Masters,4,A-Award,--D,1378,5566,1,0001688445,Common Stock
+A,11/28/2022 00:00:00,Pupkin Sergio A,4,A-Award,--D,858,858,2,0001813056,Stock Appreciation Right
+A,11/28/2022 00:00:00,Pupkin Sergio A,4,A-Award,--D,525,525,1,0001813056,Common Stock
+A,11/28/2022 00:00:00,Postek Thomas,4,A-Award,--D,858,858,2,0001336375,Stock Appreciation Right
+A,11/28/2022 00:00:00,Postek Thomas,4,A-Award,--D,525,34086,1,0001336375,Common Stock
+A,11/28/2022 00:00:00,O'Connor Shane,4,A-Award,--D,1996,1996,2,0001370639,Stock Appreciation Right
+A,11/28/2022 00:00:00,O'Connor Shane,4,A-Award,--D,1969,5440,1,0001370639,Common Stock
+A,11/28/2022 00:00:00,NOWICKI JOSEPH M,4,A-Award,--D,858,858,2,0001238633,Stock Appreciation Right
+A,11/28/2022 00:00:00,NOWICKI JOSEPH M,4,A-Award,--D,525,754,1,0001238633,Common Stock
+A,11/28/2022 00:00:00,Katz David Martin,4,A-Award,--D,1796,1796,2,0001459610,Stock Appreciation Right
+A,11/28/2022 00:00:00,Katz David Martin,4,A-Award,--D,1772,5070,1,0001459610,Common Stock
+A,11/28/2022 00:00:00,Iandoli Michael,4,A-Award,--D,858,858,1,0001385748,Stock Appreciation Right
+A,11/28/2022 00:00:00,DIFILLIPPO DAVID A,4,A-Award,--D,1397,1397,2,0001261137,Stock Appreciation Right
+A,11/28/2022 00:00:00,DIFILLIPPO DAVID A,4,A-Award,--D,1378,15119,1,0001261137,Common Stock
+A,11/28/2022 00:00:00,Croatti Michael A,4,A-Award,--D,1397,1397,3,0001656304,Stock Appreciation Right
+A,11/28/2022 00:00:00,Croatti Michael A,4,A-Award,--D,1378,6275,1,0001656304,Common Stock
+A,11/28/2022 00:00:00,Croatti Matthew,4,A-Award,--D,599,599,2,0001724534,Stock Appreciation Right
+A,11/28/2022 00:00:00,Croatti Matthew,4,A-Award,--D,591,18990,1,0001724534,Common Stock
+A,11/28/2022 00:00:00,CROATTI CYNTHIA,4,A-Award,--D,858,858,1,0001260756,Stock Appreciation Right
+A,11/28/2022 00:00:00,Cohen Phillip L,4,A-Award,--D,858,858,1,0001303645,Stock Appreciation Right
+A,11/28/2022 00:00:00,CAMILLI KATHLEEN M,4,A-Award,--D,858,858,1,0001235360,Stock Appreciation Right
+D,11/27/2022 00:00:00,Sintros Steven S,4,F-InKind,--D,380,18980,1,0001453910,Common Stock
+D,11/19/2022 00:00:00,Sintros Steven S,4,F-InKind,--D,286,19360,1,0001453910,Common Stock
+D,10/31/2022 00:00:00,Sintros Steven S,4,F-InKind,--D,331,19646,1,0001453910,Common Stock
+D,10/31/2022 00:00:00,Croatti Michael A,4,F-InKind,--D,383,4897,1,0001656304,Common Stock
+D,10/31/2022 00:00:00,Croatti Matthew,4,F-InKind,--D,155,18399,1,0001724534,Common Stock
+D,10/31/2022 00:00:00,Ross William Masters,4,F-InKind,--D,383,4188,1,0001688445,Common Stock
+D,10/31/2022 00:00:00,O'Connor Shane,4,F-InKind,--D,430,3471,1,0001370639,Common Stock
+D,10/31/2022 00:00:00,Katz David Martin,4,F-InKind,--D,415,3298,1,0001459610,Common Stock
+D,10/31/2022 00:00:00,DIFILLIPPO DAVID A,4,F-InKind,--D,383,13741,1,0001261137,Common Stock
+D,10/29/2022 00:00:00,Sintros Steven S,4,F-InKind,--D,295,19977,4,0001453910,Common Stock
+D,10/28/2022 00:00:00,Sintros Steven S,4,M-Exempt,--D,4000,0,5,0001453910,Stock Appreciation Right
+D,10/28/2022 00:00:00,Sintros Steven S,4,S-Sale,--D,1567,20272,3,0001453910,Common Stock
+D,10/28/2022 00:00:00,Sintros Steven S,4,D-Return,--D,3220,21839,2,0001453910,Common Stock
+A,10/28/2022 00:00:00,Sintros Steven S,4,M-Exempt,--D,4000,25059,1,0001453910,Common Stock
+D,10/28/2022 00:00:00,O'Connor Shane,4,S-Sale,--D,1233,3901,1,0001370639,Common Stock
+D,10/28/2022 00:00:00,Postek Thomas,4,M-Exempt,--D,975,0,3,0001336375,Stock Appreciation Right
+D,10/28/2022 00:00:00,Postek Thomas,4,D-Return,--D,656,33561,2,0001336375,Common Stock
+A,10/28/2022 00:00:00,Postek Thomas,4,M-Exempt,--D,975,34217,1,0001336375,Common Stock
+D,10/25/2022 00:00:00,Sintros Steven S,4,F-InKind,--D,791,21059,2,0001453910,Common Stock
+A,10/25/2022 00:00:00,Sintros Steven S,4,A-Award,--D,1866,21850,1,0001453910,Common Stock
+D,10/19/2022 00:00:00,Sintros Steven S,4,M-Exempt,--D,4000,0,4,0001453910,Stock Appreciation Right
+D,10/19/2022 00:00:00,Sintros Steven S,4,S-Sale,--D,178,19984,3,0001453910,Common Stock
+D,10/19/2022 00:00:00,Sintros Steven S,4,D-Return,--D,3035,20162,2,0001453910,Common Stock
+A,10/19/2022 00:00:00,Sintros Steven S,4,M-Exempt,--D,4000,23197,1,0001453910,Common Stock
+D,07/29/2022 00:00:00,Katz David Martin,4,S-Sale,--D,1265,3713,1,0001459610,Common Stock
+D,07/15/2022 00:00:00,Croatti Carol,4,S-Sale,--I,35714,1110095,1,0001724908,Class B Common Stock
+A,04/05/2022 00:00:00,NOWICKI JOSEPH M,4,A-Award,--D,750,750,2,0001238633,Stock Appreciation Right
+A,04/05/2022 00:00:00,NOWICKI JOSEPH M,4,A-Award,--D,229,229,1,0001238633,Common Stock
+D,03/14/2022 00:00:00,Croatti Matthew,4,M-Exempt,--D,250,0,4,0001724534,Stock Appreciation Right
+D,03/14/2022 00:00:00,Croatti Matthew,4,S-Sale,--D,69,18554,3,0001724534,Common Stock
+D,03/14/2022 00:00:00,Croatti Matthew,4,D-Return,--D,181,18623,2,0001724534,Common Stock
+A,03/14/2022 00:00:00,Croatti Matthew,4,M-Exempt,--D,250,18804,1,0001724534,Common Stock
+D,02/18/2022 00:00:00,Croatti Matthew,4,C-Conversion,--D,17000,53000,2,0001724534,Class B Common Stock
+A,02/18/2022 00:00:00,Croatti Matthew,4,C-Conversion,--D,17000,18554,1,0001724534,Common Stock
+D,02/15/2022 00:00:00,Croatti Matthew,4,M-Exempt,--D,250,250,4,0001724534,Stock Appreciation Right
+D,02/15/2022 00:00:00,Croatti Matthew,4,S-Sale,--D,74,1554,3,0001724534,Common Stock
+D,02/15/2022 00:00:00,Croatti Matthew,4,D-Return,--D,176,1628,2,0001724534,Common Stock
+A,02/15/2022 00:00:00,Croatti Matthew,4,M-Exempt,--D,250,1804,1,0001724534,Common Stock
+D,02/15/2022 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,2000,0,5,0001260756,Stock Appreciation Right
+D,02/15/2022 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,374,2035,3,0001260756,Common Stock
+D,02/15/2022 00:00:00,CROATTI CYNTHIA,4,D-Return,--D,1626,2409,2,0001260756,Common Stock
+A,02/15/2022 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,2000,4035,1,0001260756,Common Stock
+D,02/11/2022 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,1000,2035,2,0001260756,Common Stock
+D,02/10/2022 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,1000,3035,1,0001260756,Common Stock
+D,02/04/2022 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,1919,0,10,0001260756,Stock Appreciation Right
+D,02/04/2022 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,1634,0,9,0001260756,Stock Appreciation Right
+D,02/04/2022 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,1574,0,8,0001260756,Stock Appreciation Right
+D,02/04/2022 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,2000,0,7,0001260756,Stock Appreciation Right
+D,02/04/2022 00:00:00,CROATTI CYNTHIA,4,D-Return,--D,6244,4035,5,0001260756,Common Stock
+A,02/04/2022 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,1919,10279,4,0001260756,Common Stock
+A,02/04/2022 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,1634,8360,3,0001260756,Common Stock
+A,02/04/2022 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,1574,6726,2,0001260756,Common Stock
+A,02/04/2022 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,2000,5152,1,0001260756,Common Stock
+D,02/01/2022 00:00:00,CROATTI CYNTHIA,4,F-InKind,--D,1156,3152,2,0001260756,Common Stock
+D,01/31/2022 00:00:00,Ross William Masters,4,F-InKind,--D,962,4571,1,0001688445,Common Stock
+D,01/31/2022 00:00:00,O'Connor Shane,4,F-InKind,--D,965,5134,1,0001370639,Common Stock
+D,01/31/2022 00:00:00,Katz David Martin,4,F-InKind,--D,928,4978,1,0001459610,Common Stock
+D,01/31/2022 00:00:00,DIFILLIPPO DAVID A,4,F-InKind,--D,962,14124,1,0001261137,Common Stock
+D,01/31/2022 00:00:00,Croatti Michael A,4,F-InKind,--D,962,5280,1,0001656304,Common Stock
+D,01/31/2022 00:00:00,Croatti Matthew,4,F-InKind,--D,262,1554,1,0001724534,Common Stock
+D,01/31/2022 00:00:00,CROATTI CYNTHIA,4,F-InKind,--D,1165,4308,1,0001260756,Common Stock
+D,01/13/2022 00:00:00,Cohen Phillip L,4,M-Exempt,--D,940,0,3,0001303645,Stock Appreciation Right
+D,01/13/2022 00:00:00,Cohen Phillip L,4,D-Return,--D,544,14931,2,0001303645,Common Stock
+A,01/13/2022 00:00:00,Cohen Phillip L,4,M-Exempt,--D,940,15475,1,0001303645,Common Stock
+D,01/13/2022 00:00:00,Croatti Matthew,4,M-Exempt,--D,250,500,4,0001724534,Stock Appreciation Right
+D,01/13/2022 00:00:00,Croatti Matthew,4,S-Sale,--D,73,1816,3,0001724534,Common Stock
+D,01/13/2022 00:00:00,Croatti Matthew,4,D-Return,--D,177,1889,2,0001724534,Common Stock
+A,01/13/2022 00:00:00,Croatti Matthew,4,M-Exempt,--D,250,2066,1,0001724534,Common Stock
+D,01/13/2022 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,2000,2000,5,0001260756,Stock Appreciation Right
+D,01/13/2022 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,504,5473,3,0001260756,Common Stock
+D,01/13/2022 00:00:00,CROATTI CYNTHIA,4,D-Return,--D,1496,5977,2,0001260756,Common Stock
+A,01/13/2022 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,2000,7473,1,0001260756,Common Stock
+D,01/04/2022 00:00:00,Katz David Martin,4,M-Exempt,--D,1333,2667,4,0001459610,Stock Appreciation Right
+D,01/04/2022 00:00:00,Katz David Martin,4,S-Sale,--D,379,5906,3,0001459610,Common Stock
+D,01/04/2022 00:00:00,Katz David Martin,4,D-Return,--D,954,6285,2,0001459610,Common Stock
+A,01/04/2022 00:00:00,Katz David Martin,4,M-Exempt,--D,1333,7239,1,0001459610,Common Stock
+A,12/24/2021 00:00:00,DIFILLIPPO DAVID A,4,W-Will,--D,2417,15086,1,0001261137,Common Stock
+D,12/14/2021 00:00:00,Sintros Steven S,4,F-InKind,--D,269,19197,1,0001453910,Common Stock
+D,12/13/2021 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,2000,4000,5,0001260756,Stock Appreciation Right
+D,12/13/2021 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,588,5473,3,0001260756,Common Stock
+D,12/13/2021 00:00:00,CROATTI CYNTHIA,4,D-Return,--D,1412,6061,2,0001260756,Common Stock
+A,12/13/2021 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,2000,7473,1,0001260756,Common Stock
+D,12/13/2021 00:00:00,Croatti Matthew,4,M-Exempt,--D,250,750,4,0001724534,Stock Appreciation Right
+D,12/13/2021 00:00:00,Croatti Matthew,4,S-Sale,--D,85,1816,3,0001724534,Common Stock
+D,12/13/2021 00:00:00,Croatti Matthew,4,D-Return,--D,165,1901,2,0001724534,Common Stock
+A,12/13/2021 00:00:00,Croatti Matthew,4,M-Exempt,--D,250,2066,1,0001724534,Common Stock
+D,11/27/2021 00:00:00,Sintros Steven S,4,F-InKind,--D,380,19466,1,0001453910,Common Stock
+D,11/19/2021 00:00:00,Sintros Steven S,4,F-InKind,--D,286,19846,1,0001453910,Common Stock
+A,11/17/2021 00:00:00,Sintros Steven S,4,A-Award,--D,6407,6407,2,0001453910,Stock Appreciation Right
+A,11/17/2021 00:00:00,Sintros Steven S,4,A-Award,--D,3731,20132,1,0001453910,Common Stock
+A,11/17/2021 00:00:00,Croatti Michael A,4,A-Award,--D,1373,1373,3,0001656304,Stock Appreciation Right
+A,11/17/2021 00:00:00,Croatti Michael A,4,A-Award,--D,1120,6242,1,0001656304,Common Stock
+A,11/17/2021 00:00:00,CROATTI CYNTHIA,4,A-Award,--D,1500,1500,3,0001260756,Stock Appreciation Right
+A,11/17/2021 00:00:00,Croatti Matthew,4,A-Award,--D,573,573,2,0001724534,Stock Appreciation Right
+A,11/17/2021 00:00:00,Croatti Matthew,4,A-Award,--D,467,1816,1,0001724534,Common Stock
+A,11/17/2021 00:00:00,O'Connor Shane,4,A-Award,--D,2060,2060,2,0001370639,Stock Appreciation Right
+A,11/17/2021 00:00:00,O'Connor Shane,4,A-Award,--D,1679,6099,1,0001370639,Common Stock
+A,11/17/2021 00:00:00,DIFILLIPPO DAVID A,4,A-Award,--D,1373,1373,2,0001261137,Stock Appreciation Right
+A,11/17/2021 00:00:00,DIFILLIPPO DAVID A,4,A-Award,--D,1120,12669,1,0001261137,Common Stock
+A,11/17/2021 00:00:00,Katz David Martin,4,A-Award,--D,1831,1831,2,0001459610,Stock Appreciation Right
+A,11/17/2021 00:00:00,Katz David Martin,4,A-Award,--D,1493,5906,1,0001459610,Common Stock
+A,11/17/2021 00:00:00,Ross William Masters,4,A-Award,--D,1373,1373,3,0001688445,Stock Appreciation Right
+A,11/17/2021 00:00:00,Ross William Masters,4,A-Award,--D,1120,5533,1,0001688445,Common Stock
+A,11/17/2021 00:00:00,Iandoli Michael,4,A-Award,--D,1500,1500,1,0001385748,Stock Appreciation Right
+A,11/17/2021 00:00:00,CAMILLI KATHLEEN M,4,A-Award,--D,1500,1500,1,0001235360,Stock Appreciation Right
+A,11/17/2021 00:00:00,Cohen Phillip L,4,A-Award,--D,1500,1500,1,0001303645,Stock Appreciation Right
+A,11/17/2021 00:00:00,Zemlin Raymond C.,4,A-Award,--D,1500,1500,2,0001691916,Stock Appreciation Right
+A,11/17/2021 00:00:00,Zemlin Raymond C.,4,A-Award,--D,398,2398,1,0001691916,Common Stock
+A,11/17/2021 00:00:00,Postek Thomas,4,A-Award,--D,1500,1500,2,0001336375,Stock Appreciation Right
+A,11/17/2021 00:00:00,Postek Thomas,4,A-Award,--D,398,33242,1,0001336375,Common Stock
+D,11/10/2021 00:00:00,Postek Thomas,4,M-Exempt,--D,940,0,3,0001336375,Stock Appreciation Right
+D,11/10/2021 00:00:00,Postek Thomas,4,D-Return,--D,512,32844,2,0001336375,Common Stock
+A,11/10/2021 00:00:00,Postek Thomas,4,M-Exempt,--D,940,33356,1,0001336375,Common Stock
+D,10/29/2021 00:00:00,Sintros Steven S,4,F-InKind,--D,309,16401,1,0001453910,Common Stock
+D,10/26/2021 00:00:00,Sintros Steven S,4,F-InKind,--D,1407,16710,2,0001453910,Common Stock
+A,10/26/2021 00:00:00,Sintros Steven S,4,A-Award,--D,3197,18117,1,0001453910,Common Stock
+D,09/27/2021 00:00:00,Ross William Masters,4,S-Sale,--I,64,65,1,0001688445,Common Stock
+D,08/19/2021 00:00:00,Ross William Masters,4,S-Sale,--I,63,129,1,0001688445,Common Stock
+A,08/09/2021 00:00:00,CAMILLI KATHLEEN M,4,P-Purchase,--D,465,2953,1,0001235360,Common Stock
+D,05/13/2021 00:00:00,CAMILLI KATHLEEN M,4,M-Exempt,--D,500,0,4,0001235360,Stock Appreciation Rights
+D,05/13/2021 00:00:00,CAMILLI KATHLEEN M,4,S-Sale,--D,179,2488,3,0001235360,Common Stock
+D,05/13/2021 00:00:00,CAMILLI KATHLEEN M,4,D-Return,--D,321,2667,2,0001235360,Common Stock
+A,05/13/2021 00:00:00,CAMILLI KATHLEEN M,4,M-Exempt,--D,500,2988,1,0001235360,Common Stock
+D,05/10/2021 00:00:00,Iandoli Michael,4,S-Sale,--D,500,4740,1,0001385748,Common Stock
+D,05/03/2021 00:00:00,Sintros Steven S,4,M-Exempt,--D,2667,0,4,0001453910,Stock Appreciation Rights
+D,05/03/2021 00:00:00,Sintros Steven S,4,S-Sale,--D,984,14920,3,0001453910,Common Stock
+D,05/03/2021 00:00:00,Sintros Steven S,4,D-Return,--D,1683,15904,2,0001453910,Common Stock
+A,05/03/2021 00:00:00,Sintros Steven S,4,M-Exempt,--D,2667,17587,1,0001453910,Common Stock
+D,05/03/2021 00:00:00,Katz David Martin,4,M-Exempt,--D,1334,0,4,0001459610,Stock Appreciation Rights
+D,05/03/2021 00:00:00,Katz David Martin,4,S-Sale,--D,502,4413,3,0001459610,Common Stock
+D,05/03/2021 00:00:00,Katz David Martin,4,D-Return,--D,832,4915,2,0001459610,Common Stock
+A,05/03/2021 00:00:00,Katz David Martin,4,M-Exempt,--D,1334,5747,1,0001459610,Common Stock
+D,05/03/2021 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2667,0,4,0001261137,Stock Appreciation Rights
+D,05/03/2021 00:00:00,DIFILLIPPO DAVID A,4,S-Sale,--D,984,11549,3,0001261137,Common Stock
+D,05/03/2021 00:00:00,DIFILLIPPO DAVID A,4,D-Return,--D,1683,12533,2,0001261137,Common Stock
+A,05/03/2021 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2667,14216,1,0001261137,Common Stock
+D,04/01/2021 00:00:00,Sintros Steven S,4,M-Exempt,--D,2667,0,4,0001453910,Stock Appreciation Rights
+D,04/01/2021 00:00:00,Sintros Steven S,4,S-Sale,--D,982,14920,3,0001453910,Common Stock
+D,04/01/2021 00:00:00,Sintros Steven S,4,D-Return,--D,1685,15902,2,0001453910,Common Stock
+A,04/01/2021 00:00:00,Sintros Steven S,4,M-Exempt,--D,2667,17587,1,0001453910,Common Stock
+D,04/01/2021 00:00:00,Katz David Martin,4,M-Exempt,--D,1333,0,4,0001459610,Stock Appreciation Rights
+D,04/01/2021 00:00:00,Katz David Martin,4,S-Sale,--D,500,4413,3,0001459610,Common Stock
+D,04/01/2021 00:00:00,Katz David Martin,4,D-Return,--D,833,4913,2,0001459610,Common Stock
+A,04/01/2021 00:00:00,Katz David Martin,4,M-Exempt,--D,1333,5746,1,0001459610,Common Stock
+D,04/01/2021 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2667,0,4,0001261137,Stock Appreciation Rights
+D,04/01/2021 00:00:00,DIFILLIPPO DAVID A,4,S-Sale,--D,771,11549,3,0001261137,Common Stock
+D,04/01/2021 00:00:00,DIFILLIPPO DAVID A,4,D-Return,--D,1896,12320,2,0001261137,Common Stock
+A,04/01/2021 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2667,14216,1,0001261137,Common Stock
+D,03/01/2021 00:00:00,Sintros Steven S,4,M-Exempt,--D,2666,0,4,0001453910,Stock Appreciation Rights
+D,03/01/2021 00:00:00,Sintros Steven S,4,S-Sale,--D,819,14920,3,0001453910,Common Stock
+D,03/01/2021 00:00:00,Sintros Steven S,4,D-Return,--D,1847,15739,2,0001453910,Common Stock
+A,03/01/2021 00:00:00,Sintros Steven S,4,M-Exempt,--D,2666,17586,1,0001453910,Common Stock
+D,03/01/2021 00:00:00,Katz David Martin,4,M-Exempt,--D,1333,0,4,0001459610,Stock Appreciation Rights
+D,03/01/2021 00:00:00,Katz David Martin,4,S-Sale,--D,518,4413,3,0001459610,Common Stock
+D,03/01/2021 00:00:00,Katz David Martin,4,D-Return,--D,815,4931,2,0001459610,Common Stock
+A,03/01/2021 00:00:00,Katz David Martin,4,M-Exempt,--D,1333,5746,1,0001459610,Common Stock
+D,03/01/2021 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2666,0,4,0001261137,Stock Appreciation Rights
+D,03/01/2021 00:00:00,DIFILLIPPO DAVID A,4,S-Sale,--D,809,11549,3,0001261137,Common Stock
+D,03/01/2021 00:00:00,DIFILLIPPO DAVID A,4,D-Return,--D,1857,12358,2,0001261137,Common Stock
+A,03/01/2021 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2666,14215,1,0001261137,Common Stock
+D,02/22/2021 00:00:00,Ross William Masters,4,M-Exempt,--D,250,0,5,0001688445,Stock Appreciation Rights
+D,02/22/2021 00:00:00,Ross William Masters,4,S-Sale,--D,90,4413,3,0001688445,Common Stock
+D,02/22/2021 00:00:00,Ross William Masters,4,D-Return,--D,160,4503,2,0001688445,Common Stock
+A,02/22/2021 00:00:00,Ross William Masters,4,M-Exempt,--D,250,4663,1,0001688445,Common Stock
+D,01/27/2021 00:00:00,CAMILLI KATHLEEN M,4,S-Sale,--D,95,2488,1,0001235360,Common Stock
+D,01/21/2021 00:00:00,Ross William Masters,4,M-Exempt,--D,250,250,5,0001688445,Stock Appreciation Rights
+D,01/21/2021 00:00:00,Ross William Masters,4,S-Sale,--D,84,4413,3,0001688445,Common Stock
+D,01/21/2021 00:00:00,Ross William Masters,4,D-Return,--D,166,4497,2,0001688445,Common Stock
+A,01/21/2021 00:00:00,Ross William Masters,4,M-Exempt,--D,250,4663,1,0001688445,Common Stock
+D,01/20/2021 00:00:00,CAMILLI KATHLEEN M,4,M-Exempt,--D,500,500,3,0001235360,Stock Appreciation Rights
+D,01/20/2021 00:00:00,CAMILLI KATHLEEN M,4,D-Return,--D,311,2583,2,0001235360,Common Stock
+A,01/20/2021 00:00:00,CAMILLI KATHLEEN M,4,M-Exempt,--D,500,2894,1,0001235360,Common Stock
+D,01/15/2021 00:00:00,Iandoli Michael,4,S-Sale,--D,736,5240,1,0001385748,Common Stock
+D,01/15/2021 00:00:00,Cohen Phillip L,4,S-Sale,--D,818,14535,1,0001303645,Common Stock
+D,01/12/2021 00:00:00,Iandoli Michael,4,M-Exempt,--D,1000,0,6,0001385748,Stock Appreciation Rights
+D,01/12/2021 00:00:00,Iandoli Michael,4,M-Exempt,--D,988,0,5,0001385748,Stock Appreciation Rights
+D,01/12/2021 00:00:00,Iandoli Michael,4,D-Return,--D,641,5976,4,0001385748,Common Stock
+A,01/12/2021 00:00:00,Iandoli Michael,4,M-Exempt,--D,1000,6617,3,0001385748,Common Stock
+D,01/12/2021 00:00:00,Iandoli Michael,4,D-Return,--D,611,5617,2,0001385748,Common Stock
+A,01/12/2021 00:00:00,Iandoli Michael,4,M-Exempt,--D,988,6228,1,0001385748,Common Stock
+D,01/11/2021 00:00:00,Postek Thomas,4,M-Exempt,--D,1314,0,3,0001336375,Stock Appreciation Rights
+D,01/11/2021 00:00:00,Postek Thomas,4,D-Return,--D,496,32416,2,0001336375,Common Stock
+A,01/11/2021 00:00:00,Postek Thomas,4,M-Exempt,--D,1314,32912,1,0001336375,Common Stock
+D,01/11/2021 00:00:00,Cohen Phillip L,4,M-Exempt,--D,1314,0,3,0001303645,Stock Appreciation Rights
+D,01/11/2021 00:00:00,Cohen Phillip L,4,D-Return,--D,496,15353,2,0001303645,Common Stock
+A,01/11/2021 00:00:00,Cohen Phillip L,4,M-Exempt,--D,1314,15849,1,0001303645,Common Stock
+D,12/21/2020 00:00:00,Ross William Masters,4,M-Exempt,--D,250,500,5,0001688445,Stock Appreciation Right
+D,12/21/2020 00:00:00,Ross William Masters,4,S-Sale,--D,87,4413,3,0001688445,Common Stock
+D,12/21/2020 00:00:00,Ross William Masters,4,D-Return,--D,163,4500,2,0001688445,Common Stock
+A,12/21/2020 00:00:00,Ross William Masters,4,M-Exempt,--D,250,4663,1,0001688445,Common Stock
+D,12/14/2020 00:00:00,Sintros Steven S,4,F-InKind,--D,269,14920,2,0001453910,Common Stock
+D,11/30/2020 00:00:00,Croatti Michael A,4,M-Exempt,--D,4000,0,5,0001656304,Stock Appreciation Right
+D,11/30/2020 00:00:00,Croatti Michael A,4,S-Sale,--D,1286,5122,3,0001656304,Common Stock
+D,11/30/2020 00:00:00,Croatti Michael A,4,D-Return,--D,2714,6408,2,0001656304,Common Stock
+A,11/30/2020 00:00:00,Croatti Michael A,4,M-Exempt,--D,4000,9122,1,0001656304,Common Stock
+D,11/30/2020 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,4000,2000,5,0001260756,Stock Appreciation Right
+D,11/30/2020 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,1216,5473,3,0001260756,Common Stock
+D,11/30/2020 00:00:00,CROATTI CYNTHIA,4,D-Return,--D,2784,6689,2,0001260756,Common Stock
+A,11/30/2020 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,4000,9473,1,0001260756,Common Stock
+D,11/27/2020 00:00:00,Sintros Steven S,4,F-InKind,--D,380,15189,1,0001453910,Common Stock
+A,11/19/2020 00:00:00,Sintros Steven S,4,A-Award,--D,7132,7132,2,0001453910,Stock Appreciation Rights
+A,11/19/2020 00:00:00,Sintros Steven S,4,A-Award,--D,3222,15569,1,0001453910,Common Stock
+D,11/06/2020 00:00:00,The Ronald D Croatti Trust - 1993,5,W-Will,--I,63036,1035734,1,0001724901,Class B Common Stock
+A,11/06/2020 00:00:00,Croatti Michael A,5,G-Gift,--I,7004,7004,3,0001656304,Class B Common Stock
+A,11/06/2020 00:00:00,Croatti Michael A,5,G-Gift,--I,7004,7004,2,0001656304,Class B Common Stock
+A,11/06/2020 00:00:00,Croatti Matthew,5,G-Gift,--I,7004,7004,3,0001724534,Class B Common Stock
+A,11/06/2020 00:00:00,Croatti Matthew,5,G-Gift,--I,7004,7004,2,0001724534,Class B Common Stock
+D,11/06/2020 00:00:00,Croatti Carol,5,G-Gift,--D,7004,0,9,0001724908,Class B Common Stock
+D,11/06/2020 00:00:00,Croatti Carol,5,G-Gift,--D,7004,0,8,0001724908,Class B Common Stock
+D,11/06/2020 00:00:00,Croatti Carol,5,G-Gift,--D,7004,0,7,0001724908,Class B Common Stock
+D,11/06/2020 00:00:00,Croatti Carol,5,G-Gift,--D,7004,0,6,0001724908,Class B Common Stock
+D,11/06/2020 00:00:00,Croatti Carol,5,G-Gift,--D,7004,0,5,0001724908,Class B Common Stock
+D,11/06/2020 00:00:00,Croatti Carol,5,G-Gift,--D,7004,0,4,0001724908,Class B Common Stock
+D,11/06/2020 00:00:00,Croatti Carol,5,G-Gift,--D,7004,0,3,0001724908,Class B Common Stock
+D,11/06/2020 00:00:00,Croatti Carol,5,G-Gift,--D,7004,0,2,0001724908,Class B Common Stock
+D,11/06/2020 00:00:00,Croatti Carol,5,G-Gift,--D,7004,0,1,0001724908,Class B Common Stock
+D,10/29/2020 00:00:00,Sintros Steven S,4,F-InKind,--D,309,12347,4,0001453910,Common Stock
+D,10/29/2020 00:00:00,Croatti Michael A,4,M-Exempt,--D,4000,4000,5,0001656304,Stock Appreciation Right
+D,10/29/2020 00:00:00,Croatti Michael A,4,S-Sale,--D,997,5122,3,0001656304,Common Stock
+D,10/29/2020 00:00:00,Croatti Michael A,4,D-Return,--D,3003,6119,2,0001656304,Common Stock
+A,10/29/2020 00:00:00,Croatti Michael A,4,M-Exempt,--D,4000,9122,1,0001656304,Common Stock
+D,10/29/2020 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,4000,0,5,0001260756,Stock Appreciation Right
+D,10/29/2020 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,997,5473,3,0001260756,Common Stock
+D,10/29/2020 00:00:00,CROATTI CYNTHIA,4,D-Return,--D,3003,6470,2,0001260756,Common Stock
+A,10/29/2020 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,4000,9473,1,0001260756,Common Stock
+D,10/26/2020 00:00:00,Sintros Steven S,4,F-InKind,--D,258,12656,3,0001453910,Common Stock
+A,10/26/2020 00:00:00,Sintros Steven S,4,A-Award,--D,622,12914,2,0001453910,Common Stock
+A,10/26/2020 00:00:00,Katz David Martin,4,A-Award,--D,1584,1584,2,0001459610,Stock Appreciation Right
+A,10/26/2020 00:00:00,Katz David Martin,4,A-Award,--D,1169,4413,1,0001459610,Common Stock
+D,10/26/2020 00:00:00,DIFILLIPPO DAVID A,4,A-Award,--D,1584,1584,2,0001261137,Stock Appreciation Right
+A,10/26/2020 00:00:00,DIFILLIPPO DAVID A,4,A-Award,--D,1169,11549,1,0001261137,Common Stock
+A,10/26/2020 00:00:00,CROATTI CYNTHIA,4,A-Award,--D,1919,1919,2,0001260756,Stock Appreciation Right
+A,10/26/2020 00:00:00,CROATTI CYNTHIA,4,A-Award,--D,1416,5473,1,0001260756,Common Stock
+A,10/26/2020 00:00:00,Ross William Masters,4,A-Award,--D,1584,1584,3,0001688445,Stock Appreciation Right
+A,10/26/2020 00:00:00,Ross William Masters,4,A-Award,--D,1169,4413,1,0001688445,Common Stock
+A,10/26/2020 00:00:00,O'Connor Shane,4,A-Award,--D,1584,1584,2,0001370639,Stock Appreciation Right
+A,10/26/2020 00:00:00,O'Connor Shane,4,A-Award,--D,1169,4420,1,0001370639,Common Stock
+A,10/26/2020 00:00:00,Croatti Matthew,4,A-Award,--D,634,634,2,0001724534,Stock Appreciation Right
+A,10/26/2020 00:00:00,Croatti Matthew,4,A-Award,--D,468,1349,1,0001724534,Common Stock
+A,10/26/2020 00:00:00,Postek Thomas,4,A-Award,--D,1000,1000,1,0001336375,Stock Appreciation Right
+A,10/26/2020 00:00:00,Zemlin Raymond C.,4,A-Award,--D,1000,1000,1,0001691916,Stock Appreciation Right
+D,10/26/2020 00:00:00,Iandoli Michael,4,A-Award,--D,1000,1000,2,0001385748,Stock Appreciation Right
+A,10/26/2020 00:00:00,Iandoli Michael,4,A-Award,--D,240,5240,1,0001385748,Common Stock
+A,10/26/2020 00:00:00,CAMILLI KATHLEEN M,4,A-Award,--D,1000,1000,1,0001235360,Stock Appreciation Right
+A,10/26/2020 00:00:00,Cohen Phillip L,4,A-Award,--D,1000,1000,1,0001303645,Stock Appreciation Right
+D,10/26/2020 00:00:00,Croatti Michael A,4,A-Award,--D,1584,1584,3,0001656304,Stock Appreciation Right
+A,10/26/2020 00:00:00,Croatti Michael A,4,A-Award,--D,1169,5122,1,0001656304,Common Stock
+D,10/22/2020 00:00:00,Sintros Steven S,4,F-InKind,--D,148,12292,1,0001453910,Common Stock
+D,09/30/2020 00:00:00,Croatti Michael A,4,S-Sale,--D,9,3953,4,0001656304,Common Stock
+D,09/30/2020 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,9,4057,4,0001260756,Common Stock
+D,09/28/2020 00:00:00,Croatti Michael A,4,M-Exempt,--D,4000,4000,8,0001656304,Stock Appreciation Right
+D,09/28/2020 00:00:00,Croatti Michael A,4,S-Sale,--D,1286,3962,3,0001656304,Common Stock
+D,09/28/2020 00:00:00,Croatti Michael A,4,D-Return,--D,2705,5248,2,0001656304,Common Stock
+A,09/28/2020 00:00:00,Croatti Michael A,4,M-Exempt,--D,4000,7953,1,0001656304,Common Stock
+D,09/28/2020 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,4000,4000,6,0001260756,Stock Appreciation Right
+D,09/28/2020 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,1200,4066,3,0001260756,Common Stock
+D,09/28/2020 00:00:00,CROATTI CYNTHIA,4,D-Return,--D,2791,5266,2,0001260756,Common Stock
+A,09/28/2020 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,4000,8057,1,0001260756,Common Stock
+D,08/17/2020 00:00:00,Ross William Masters,4,S-Sale,--D,108,3244,1,0001688445,Common Stock
+D,08/11/2020 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2667,0,6,0001261137,Stock Appreciation Right
+D,08/11/2020 00:00:00,DIFILLIPPO DAVID A,4,D-Return,--D,1751,10380,2,0001261137,Common Stock
+A,08/11/2020 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2667,12131,1,0001261137,Common Stock
+D,08/10/2020 00:00:00,Ross William Masters,4,M-Exempt,--D,334,0,4,0001688445,Stock Appreciation Right
+D,08/10/2020 00:00:00,Ross William Masters,4,D-Return,--D,226,3352,2,0001688445,Common Stock
+A,08/10/2020 00:00:00,Ross William Masters,4,M-Exempt,--D,334,3578,1,0001688445,Common Stock
+D,07/15/2020 00:00:00,Iandoli Michael,4,M-Exempt,--D,975,0,7,0001385748,Stock Appreciation Right
+D,07/15/2020 00:00:00,Iandoli Michael,4,M-Exempt,--D,940,0,6,0001385748,Stock Appreciation Right
+D,07/15/2020 00:00:00,Iandoli Michael,4,S-Sale,--D,672,5000,5,0001385748,Common Stock
+D,07/15/2020 00:00:00,Iandoli Michael,4,D-Return,--D,652,5672,4,0001385748,Common Stock
+A,07/15/2020 00:00:00,Iandoli Michael,4,M-Exempt,--D,975,6324,3,0001385748,Common Stock
+D,07/15/2020 00:00:00,Iandoli Michael,4,D-Return,--D,591,5349,2,0001385748,Common Stock
+A,07/15/2020 00:00:00,Iandoli Michael,4,M-Exempt,--D,940,5940,1,0001385748,Common Stock
+D,07/15/2020 00:00:00,Cohen Phillip L,4,S-Sale,--D,1209,14535,1,0001303645,Common Stock
+D,06/04/2020 00:00:00,Sintros Steven S,4,S-Sale,--D,643,12440,3,0001453910,Common Stock
+D,06/03/2020 00:00:00,Sintros Steven S,4,M-Exempt,--D,2667,0,4,0001453910,Stock Appreciation Right
+D,06/03/2020 00:00:00,Sintros Steven S,4,D-Return,--D,2024,13083,2,0001453910,Common Stock
+A,06/03/2020 00:00:00,Sintros Steven S,4,M-Exempt,--D,2667,15107,1,0001453910,Common Stock
+D,03/02/2020 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,4000,8000,5,0001260756,Stock Appreciation Right
+D,03/02/2020 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,935,4057,3,0001260756,Common stock
+D,03/02/2020 00:00:00,CROATTI CYNTHIA,4,D-Return,--D,3065,4992,2,0001260756,Common stock
+A,03/02/2020 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,4000,8057,1,0001260756,Common stock
+D,02/20/2020 00:00:00,Katz David Martin,4,M-Exempt,--D,2666,0,4,0001459610,Stock Appreciation Right
+D,02/20/2020 00:00:00,Katz David Martin,4,S-Sale,--D,725,3244,3,0001459610,Common stock
+D,02/20/2020 00:00:00,Katz David Martin,4,D-Return,--D,1941,3969,2,0001459610,Common stock
+A,02/20/2020 00:00:00,Katz David Martin,4,M-Exempt,--D,2666,5910,1,0001459610,Common stock
+D,02/11/2020 00:00:00,DIFILLIPPO DAVID A,4,S-Sale,--D,752,9464,3,0001261137,Common Stock
+D,02/11/2020 00:00:00,Sintros Steven S,4,S-Sale,--D,726,12440,3,0001453910,Common Stock
+D,02/10/2020 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2667,2667,7,0001261137,Stock Appreciation Right
+D,02/10/2020 00:00:00,DIFILLIPPO DAVID A,4,D-Return,--D,1915,10216,2,0001261137,Common Stock
+A,02/10/2020 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2667,12131,1,0001261137,Common Stock
+D,02/10/2020 00:00:00,Sintros Steven S,4,M-Exempt,--D,2667,2667,4,0001453910,Stock Appreciation Right
+D,02/10/2020 00:00:00,Sintros Steven S,4,D-Return,--D,1941,13166,2,0001453910,Common Stock
+A,02/10/2020 00:00:00,Sintros Steven S,4,M-Exempt,--D,2667,15107,1,0001453910,Common Stock
+D,02/04/2020 00:00:00,Ross William Masters,4,S-Sale,--D,102,3244,3,0001688445,Common Stock
+D,02/03/2020 00:00:00,Ross William Masters,4,M-Exempt,--D,333,334,5,0001688445,Stock Appreciation Right
+D,02/03/2020 00:00:00,Ross William Masters,4,D-Return,--D,231,3346,2,0001688445,Common Stock
+A,02/03/2020 00:00:00,Ross William Masters,4,M-Exempt,--D,333,3577,1,0001688445,Common Stock
+D,01/21/2020 00:00:00,Katz David Martin,4,M-Exempt,--D,2667,2666,4,0001459610,Stock Appreciation Right
+D,01/21/2020 00:00:00,Katz David Martin,4,S-Sale,--D,732,3244,3,0001459610,Common stock
+D,01/21/2020 00:00:00,Katz David Martin,4,D-Return,--D,1935,3976,2,0001459610,Common stock
+A,01/21/2020 00:00:00,Katz David Martin,4,M-Exempt,--D,2667,5911,1,0001459610,Common stock
+A,01/17/2020 00:00:00,Cohen Phillip L,4,A-Award,--D,1000,1000,1,0001303645,Stock Appreciation Right
+A,01/17/2020 00:00:00,Postek Thomas,4,A-Award,--D,1000,1000,1,0001336375,Stock Appreciation Right
+A,01/17/2020 00:00:00,Zemlin Raymond C.,4,A-Award,--D,1000,1000,1,0001691916,Stock Appreciation Right
+A,01/17/2020 00:00:00,Iandoli Michael,4,A-Award,--D,1000,1000,1,0001385748,Stock Appreciation Right
+A,01/17/2020 00:00:00,CAMILLI KATHLEEN M,4,A-Award,--D,1000,1000,1,0001235360,Stock Appreciation Right
+D,01/16/2020 00:00:00,CAMILLI KATHLEEN M,4,S-Sale,--D,351,2394,1,0001235360,Common Stock
+D,01/13/2020 00:00:00,DIFILLIPPO DAVID A,4,S-Sale,--D,776,9464,3,0001261137,Common Stock
+D,01/13/2020 00:00:00,Sintros Steven S,4,S-Sale,--D,750,12440,3,0001453910,Common Stock
+D,01/10/2020 00:00:00,Cohen Phillip L,4,M-Exempt,--D,1724,0,3,0001303645,Stock Appreciation Right
+D,01/10/2020 00:00:00,Cohen Phillip L,4,D-Return,--D,1209,15050,2,0001303645,Common Stock
+A,01/10/2020 00:00:00,Cohen Phillip L,4,M-Exempt,--D,1724,16259,1,0001303645,Common Stock
+D,01/10/2020 00:00:00,Postek Thomas,4,M-Exempt,--D,1724,0,3,0001336375,Stock Appreciation Right
+D,01/10/2020 00:00:00,Postek Thomas,4,D-Return,--D,1209,31598,2,0001336375,Common Stock
+A,01/10/2020 00:00:00,Postek Thomas,4,M-Exempt,--D,1724,32807,1,0001336375,Common Stock
+D,01/09/2020 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2666,5334,7,0001261137,Stock Appreciation Right
+D,01/09/2020 00:00:00,DIFILLIPPO DAVID A,4,D-Return,--D,1890,10240,2,0001261137,Common Stock
+A,01/09/2020 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2666,12130,1,0001261137,Common Stock
+D,01/09/2020 00:00:00,Sintros Steven S,4,M-Exempt,--D,2666,5334,4,0001453910,Stock Appreciation Right
+D,01/09/2020 00:00:00,Sintros Steven S,4,D-Return,--D,1916,13190,2,0001453910,Common Stock
+A,01/09/2020 00:00:00,Sintros Steven S,4,M-Exempt,--D,2666,15106,1,0001453910,Common Stock
+D,01/08/2020 00:00:00,Ross William Masters,4,S-Sale,--D,101,3244,1,0001688445,Common Stock
+D,01/02/2020 00:00:00,Ross William Masters,4,M-Exempt,--D,333,667,4,0001688445,Stock Appreciation Right
+D,01/02/2020 00:00:00,Ross William Masters,4,D-Return,--D,232,3345,2,0001688445,Common Stock
+A,01/02/2020 00:00:00,Ross William Masters,4,M-Exempt,--D,333,3577,1,0001688445,Common Stock
+D,12/23/2019 00:00:00,Katz David Martin,4,M-Exempt,--D,2667,5333,4,0001459610,Stock Appreciation Right
+D,12/23/2019 00:00:00,Katz David Martin,4,S-Sale,--D,684,3244,3,0001459610,Common stock
+D,12/23/2019 00:00:00,Katz David Martin,4,D-Return,--D,1983,3928,2,0001459610,Common stock
+A,12/23/2019 00:00:00,Katz David Martin,4,M-Exempt,--D,2667,5911,1,0001459610,Common stock
+D,12/14/2019 00:00:00,Sintros Steven S,4,F-InKind,--D,269,12440,1,0001453910,Common Stock
+D,12/02/2019 00:00:00,CAMILLI KATHLEEN M,4,M-Exempt,--D,988,0,3,0001235360,Stock Appreciation Right
+D,12/02/2019 00:00:00,CAMILLI KATHLEEN M,4,D-Return,--D,637,2745,2,0001235360,Common Stock
+A,12/02/2019 00:00:00,CAMILLI KATHLEEN M,4,M-Exempt,--D,988,3382,1,0001235360,Common Stock
+D,11/27/2019 00:00:00,Sintros Steven S,4,F-InKind,--D,380,12709,1,0001453910,Common Stock
+A,10/29/2019 00:00:00,Ross William Masters,4/A,A-Award,--D,1377,1377,3,0001688445,Stock Appreciation Right
+A,10/29/2019 00:00:00,Ross William Masters,4/A,A-Award,--D,969,3244,1,0001688445,Common Stock
+A,10/29/2019 00:00:00,Katz David Martin,4/A,A-Award,--D,1377,1377,2,0001459610,Stock Appreciation Right(
+A,10/29/2019 00:00:00,Katz David Martin,4/A,A-Award,--D,969,3244,1,0001459610,Common Stock
+A,10/29/2019 00:00:00,DIFILLIPPO DAVID A,4/A,A-Award,--D,1377,1377,5,0001261137,Stock Appreciation Right(
+A,10/29/2019 00:00:00,DIFILLIPPO DAVID A,4/A,A-Award,--D,969,9464,1,0001261137,Common Stock
+A,10/29/2019 00:00:00,Croatti Michael A,4/A,A-Award,--D,1377,1377,5,0001656304,Stock Appreciation Right(
+A,10/29/2019 00:00:00,Croatti Michael A,4/A,A-Award,--D,969,3953,1,0001656304,Common Stock
+A,10/29/2019 00:00:00,CROATTI CYNTHIA,4/A,A-Award,--D,1669,1669,3,0001260756,Stock Appreciation Right
+A,10/29/2019 00:00:00,CROATTI CYNTHIA,4/A,A-Award,--D,1174,4057,1,0001260756,Common Stock
+A,10/29/2019 00:00:00,O'Connor Shane,4/A,A-Award,--D,1377,1377,2,0001370639,Stock Appreciation Right
+A,10/29/2019 00:00:00,O'Connor Shane,4/A,A-Award,--D,969,3251,1,0001370639,Common Stock
+A,10/29/2019 00:00:00,Sintros Steven S,4/A,A-Award,--D,7414,7414,2,0001453910,Stock Appreciation Right
+A,10/29/2019 00:00:00,Sintros Steven S,4,A-Award,--D,7808,7808,5,0001453910,Stock Appreciation Right
+A,10/29/2019 00:00:00,Sintros Steven S,4,A-Award,--D,3479,13089,4,0001453910,Common Stock
+D,10/29/2019 00:00:00,Sintros Steven S,4,F-InKind,--D,1218,9610,3,0001453910,Common Stock
+A,10/29/2019 00:00:00,Sintros Steven S,4,A-Award,--D,2737,10828,2,0001453910,Common Stock
+A,10/29/2019 00:00:00,CROATTI CYNTHIA,4,A-Award,--D,1757,1757,3,0001260756,Stock Appreciation Right
+A,10/29/2019 00:00:00,CROATTI CYNTHIA,4,A-Award,--D,1174,4057,1,0001260756,Common Stock
+A,10/29/2019 00:00:00,Katz David Martin,4,A-Award,--D,1450,1450,2,0001459610,Stock Appreciation Right
+A,10/29/2019 00:00:00,Katz David Martin,4,A-Award,--D,969,3244,1,0001459610,Common Stock
+A,10/29/2019 00:00:00,DIFILLIPPO DAVID A,4,A-Award,--D,1450,1450,5,0001261137,Stock Appreciation Right
+A,10/29/2019 00:00:00,DIFILLIPPO DAVID A,4,A-Award,--D,969,9464,1,0001261137,Common Stock
+A,10/29/2019 00:00:00,O'Connor Shane,4,A-Award,--D,1450,1450,2,0001370639,Stock Appreciation Right
+A,10/29/2019 00:00:00,O'Connor Shane,4,A-Award,--D,969,3251,1,0001370639,Common Stock
+A,10/29/2019 00:00:00,Croatti Michael A,4,A-Award,--D,1450,1450,5,0001656304,Stock Appreciation Right
+A,10/29/2019 00:00:00,Croatti Michael A,4,A-Award,--D,969,3953,1,0001656304,Common Stock
+A,10/29/2019 00:00:00,Ross William Masters,4,A-Award,--D,1450,1450,3,0001688445,Stock Appreciation Right
+A,10/29/2019 00:00:00,Ross William Masters,4,A-Award,--D,969,3244,1,0001688445,Common Stock
+D,10/22/2019 00:00:00,Sintros Steven S,4,F-InKind,--D,226,8091,1,0001453910,Common Stock
+D,08/26/2019 00:00:00,Levenstein Cecelia,4,S-Sale,--D,2092,98558,2,0001366783,Common Stock
+D,08/23/2019 00:00:00,Levenstein Cecelia,4,S-Sale,--D,9500,100650,1,0001366783,Common Stock
+D,08/21/2019 00:00:00,Levenstein Cecelia,4,S-Sale,--D,5000,110150,6,0001366783,Common Stock
+D,08/21/2019 00:00:00,Levenstein Cecelia,4,S-Sale,--D,168,115150,5,0001366783,Common Stock
+D,08/21/2019 00:00:00,Levenstein Cecelia,4,S-Sale,--D,1000,115318,4,0001366783,Common Stock
+D,08/21/2019 00:00:00,Levenstein Cecelia,4,S-Sale,--D,1240,116318,3,0001366783,Common Stock
+D,08/21/2019 00:00:00,Levenstein Cecelia,4,S-Sale,--D,1000,117558,2,0001366783,Common Stock
+D,07/09/2019 00:00:00,Levenstein Cecelia,4,G-Gift,-ED,250,118558,1,0001366783,Common Stock
+D,06/10/2019 00:00:00,Ross William Masters,4,S-Sale,--D,84,2275,1,0001688445,Common Stock
+D,06/05/2019 00:00:00,Ross William Masters,4,M-Exempt,--D,334,0,4,0001688445,Stock Appreciation Right
+D,06/05/2019 00:00:00,Ross William Masters,4,D-Return,--D,250,2359,2,0001688445,Common Stock
+A,06/05/2019 00:00:00,Ross William Masters,4,M-Exempt,--D,334,2609,1,0001688445,Common Stock
+D,05/30/2019 00:00:00,DIFILLIPPO DAVID A,4,S-Sale,--D,883,8495,3,0001261137,Common Stock
+D,05/29/2019 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2667,0,7,0001261137,Stock Appreciation Right
+D,05/29/2019 00:00:00,DIFILLIPPO DAVID A,4,D-Return,--D,1784,9378,2,0001261137,Common Stock
+A,05/29/2019 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2667,11162,1,0001261137,Common Stock
+D,05/07/2019 00:00:00,Ross William Masters,4,S-Sale,--D,87,2275,1,0001688445,Common Stock
+D,05/02/2019 00:00:00,Ross William Masters,4,M-Exempt,--D,333,334,4,0001688445,Stock Appreciation Right
+D,05/02/2019 00:00:00,Ross William Masters,4,D-Return,--D,246,2362,2,0001688445,Common Stock
+A,05/02/2019 00:00:00,Ross William Masters,4,M-Exempt,--D,333,2608,1,0001688445,Common Stock
+D,05/01/2019 00:00:00,Ross William Masters,4,S-Sale,--D,78,2275,1,0001688445,Common Stock
+D,04/30/2019 00:00:00,DIFILLIPPO DAVID A,4,S-Sale,--D,874,8495,3,0001261137,Common Stock
+D,04/29/2019 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2667,2667,7,0001261137,Stock Appreciation Right
+D,04/29/2019 00:00:00,DIFILLIPPO DAVID A,4,D-Return,--D,1793,9369,2,0001261137,Common Stock
+A,04/29/2019 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2667,11162,1,0001261137,Common Stock
+D,04/15/2019 00:00:00,The Ronald D Croatti Trust - 1993,4,S-Sale,--D,5583,0,1,0001724901,Common Stock
+D,04/12/2019 00:00:00,Iandoli Michael,4,S-Sale,--D,544,5000,1,0001385748,Common Stock
+D,04/08/2019 00:00:00,Levenstein Cecelia,4,S-Sale,--I,19495,98041,4,0001366783,Class B Common Stock
+D,04/08/2019 00:00:00,CROATTI CYNTHIA,4,S-Sale,--I,19495,146779,3,0001260756,Class B Common Stock
+D,04/08/2019 00:00:00,Ross William Masters,4,M-Exempt,--D,333,667,4,0001688445,Stock Appreciation Right
+D,04/08/2019 00:00:00,Ross William Masters,4,D-Return,--D,255,2353,2,0001688445,Common Stock
+A,04/08/2019 00:00:00,Ross William Masters,4,M-Exempt,--D,333,2608,1,0001688445,Common Stock
+D,04/03/2019 00:00:00,Croatti Michael A,4,S-Sale,--D,532,2984,3,0001656304,Common Stock
+D,04/02/2019 00:00:00,Croatti Michael A,4,M-Exempt,--D,2667,0,7,0001656304,Stock Appreciation Right
+D,04/02/2019 00:00:00,Croatti Michael A,4,D-Return,--D,2135,3516,2,0001656304,Common Stock
+A,04/02/2019 00:00:00,Croatti Michael A,4,M-Exempt,--D,2667,5651,1,0001656304,Common Stock
+D,03/29/2019 00:00:00,DIFILLIPPO DAVID A,4,S-Sale,--D,840,8495,5,0001261137,Common Stock
+D,03/28/2019 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2666,5334,9,0001261137,Stock Appreciation Right
+D,03/28/2019 00:00:00,DIFILLIPPO DAVID A,4,D-Return,--D,1826,9335,4,0001261137,Common Stock
+A,03/28/2019 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2666,11161,3,0001261137,Common Stock
+D,03/13/2019 00:00:00,The Ronald D Croatti Trust - 1993,4,S-Sale,--D,5583,5583,1,0001724901,Common Stock
+D,03/04/2019 00:00:00,Croatti Michael A,4,S-Sale,--D,424,2984,3,0001656304,Common Stock
+D,03/01/2019 00:00:00,Croatti Michael A,4,M-Exempt,--D,2667,2667,6,0001656304,Stock Appreciation Right
+D,03/01/2019 00:00:00,Croatti Michael A,4,D-Return,--D,2243,3408,2,0001656304,Common Stock
+A,03/01/2019 00:00:00,Croatti Michael A,4,M-Exempt,--D,2667,5651,1,0001656304,Common Stock
+D,02/25/2019 00:00:00,Katz David Martin,4,S-Sale,--D,1326,2275,5,0001459610,Common Stock
+D,02/19/2019 00:00:00,Katz David Martin,4,M-Exempt,--D,2666,0,7,0001459610,Stock Appreciation Right
+D,02/19/2019 00:00:00,Katz David Martin,4,D-Return,--D,2240,3601,4,0001459610,Common Stock
+A,02/19/2019 00:00:00,Katz David Martin,4,M-Exempt,--D,2666,5841,3,0001459610,Common Stock
+D,02/19/2019 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,1297,2883,3,0001260756,Common Stock
+D,02/15/2019 00:00:00,Katz David Martin,4,M-Exempt,--D,5334,2666,6,0001459610,Stock Appreciation Right
+D,02/15/2019 00:00:00,Katz David Martin,4,D-Return,--D,4434,3175,2,0001459610,Common Stock
+A,02/15/2019 00:00:00,Katz David Martin,4,M-Exempt,--D,5334,7609,1,0001459610,Common Stock
+D,02/15/2019 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,8000,0,5,0001260756,Stock Appreciation Right
+D,02/15/2019 00:00:00,CROATTI CYNTHIA,4,D-Return,--D,6703,4180,2,0001260756,Common Stock
+A,02/15/2019 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,8000,10883,1,0001260756,Common Stock
+D,02/11/2019 00:00:00,The Ronald D Croatti Trust - 1993,4,S-Sale,--D,5584,11166,1,0001724901,Common Stock
+D,01/30/2019 00:00:00,Croatti Michael A,4,S-Sale,--D,323,2984,3,0001656304,Common Stock
+D,01/29/2019 00:00:00,Croatti Michael A,4,M-Exempt,--D,2666,5334,7,0001656304,Stock Appreciation Right
+D,01/29/2019 00:00:00,Croatti Michael A,4,D-Return,--D,2343,3307,2,0001656304,Common Stock
+A,01/29/2019 00:00:00,Croatti Michael A,4,M-Exempt,--D,2666,5650,1,0001656304,Common Stock
+A,01/17/2019 00:00:00,DIFILLIPPO DAVID A,4,W-Will,--D,1639,8495,2,0001261137,Common Stock
+D,01/15/2019 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,1625,2883,4,0001260756,Common Stock
+D,01/14/2019 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,4000,8000,7,0001260756,Stock Appreciation Right
+D,01/14/2019 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,4000,0,6,0001260756,Stock Appreciation Right
+D,01/14/2019 00:00:00,CROATTI CYNTHIA,4,D-Return,--D,6375,4508,3,0001260756,Common Stock
+A,01/14/2019 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,4000,10883,2,0001260756,Common Stock
+A,01/14/2019 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,4000,6883,1,0001260756,Common Stock
+A,01/11/2019 00:00:00,Zemlin Raymond C.,4,A-Award,--D,1000,1000,1,0001691916,Stock Appreciation Right
+A,01/11/2019 00:00:00,Cohen Phillip L,4,A-Award,--D,1000,1000,1,0001303645,Stock Appreciation Right
+A,01/11/2019 00:00:00,Postek Thomas,4,A-Award,--D,1000,1000,1,0001336375,Stock Appreciation Right
+A,01/11/2019 00:00:00,CAMILLI KATHLEEN M,4,A-Award,--D,1000,1000,1,0001235360,Stock Appreciation Right
+A,01/11/2019 00:00:00,Iandoli Michael,4,A-Award,--D,1000,1000,2,0001385748,Stock Appreciation Right
+A,01/11/2019 00:00:00,Iandoli Michael,4,A-Award,--D,291,5544,1,0001385748,Common Stock
+D,01/10/2019 00:00:00,The Ronald D Croatti Trust - 1993,4,S-Sale,--D,5584,16750,1,0001724901,Common Stock
+D,01/08/2019 00:00:00,Cohen Phillip L,4,M-Exempt,--D,2500,0,3,0001303645,Stock Appreciation Right
+D,01/08/2019 00:00:00,Cohen Phillip L,4,D-Return,--D,1016,14535,2,0001303645,Common Stock
+A,01/08/2019 00:00:00,Cohen Phillip L,4,M-Exempt,--D,2500,15551,1,0001303645,Common Stock
+D,01/08/2019 00:00:00,Postek Thomas,4,M-Exempt,--D,2500,0,3,0001336375,Stock Appreciation Right
+D,01/08/2019 00:00:00,Postek Thomas,4,D-Return,--D,1016,31083,2,0001336375,Common Stock
+A,01/08/2019 00:00:00,Postek Thomas,4,M-Exempt,--D,2500,32099,1,0001336375,Common Stock
+D,12/17/2018 00:00:00,The Ronald D Croatti Trust - 1993,4,S-Sale,--D,2200,22334,1,0001724901,Common Stock
+D,12/14/2018 00:00:00,Sintros Steven S,4,F-InKind,--D,269,8317,1,0001453910,Common Stock
+D,12/14/2018 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,2288,2883,3,0001260756,Common Stock
+D,12/13/2018 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,8000,4000,5,0001260756,Stock Appreciation Right
+D,12/13/2018 00:00:00,CROATTI CYNTHIA,4,D-Return,--D,5712,5171,2,0001260756,Common Stock
+A,12/13/2018 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,8000,10883,1,0001260756,Common Stock
+A,12/07/2018 00:00:00,DIFILLIPPO DAVID A,4,W-Will,--D,1224,6856,1,0001261137,Common Stock
+A,11/27/2018 00:00:00,Sintros Steven S,4,A-Award,--D,7538,7538,2,0001453910,Stock Appreciation Right
+A,11/27/2018 00:00:00,Sintros Steven S,4,A-Award,--D,4276,8586,1,0001453910,Common Stock
+D,11/19/2018 00:00:00,The Ronald D Croatti Trust - 1993,4,S-Sale,--D,2200,24534,1,0001724901,Common Stock
+A,10/22/2018 00:00:00,Croatti Michael A,4,A-Award,--D,1297,1297,5,0001656304,Stock Appreciation Right
+A,10/22/2018 00:00:00,Croatti Michael A,4,A-Award,--D,1231,2984,1,0001656304,Common Stock
+A,10/22/2018 00:00:00,Ross William Masters,4,A-Award,--D,1297,1297,3,0001688445,Stock Appreciation Right
+A,10/22/2018 00:00:00,Ross William Masters,4,A-Award,--D,1231,2275,1,0001688445,Common Stock
+A,10/22/2018 00:00:00,DIFILLIPPO DAVID A,4,A-Award,--D,1297,1297,5,0001261137,Stock Appreciation Right
+A,10/22/2018 00:00:00,DIFILLIPPO DAVID A,4,A-Award,--D,1231,5632,1,0001261137,Common Stock
+A,10/22/2018 00:00:00,O'Connor Shane,4,A-Award,--D,1297,1297,2,0001370639,Stock Appreciation Right
+A,10/22/2018 00:00:00,O'Connor Shane,4,A-Award,--D,1231,2282,1,0001370639,Common Stock
+A,10/22/2018 00:00:00,CROATTI CYNTHIA,4,A-Award,--D,1634,1634,3,0001260756,Stock Appreciation Right
+A,10/22/2018 00:00:00,CROATTI CYNTHIA,4,A-Award,--D,1551,2883,1,0001260756,Common Stock
+A,10/22/2018 00:00:00,Katz David Martin,4,A-Award,--D,1297,1297,2,0001459610,Stock Appreciation Right
+A,10/22/2018 00:00:00,Katz David Martin,4,A-Award,--D,1231,2275,1,0001459610,Common Stock
+D,10/22/2018 00:00:00,Sintros Steven S,4,F-InKind,--D,225,4310,2,0001453910,Common Stock
+A,10/22/2018 00:00:00,Sintros Steven S,4,A-Award,--D,1512,4535,1,0001453910,Common Stock
+D,10/17/2018 00:00:00,The Ronald D Croatti Trust - 1993,4,S-Sale,--D,2200,26734,1,0001724901,Common Stock
+D,09/17/2018 00:00:00,The Ronald D Croatti Trust - 1993,4,S-Sale,--D,2200,28934,1,0001724901,Common Stock
+D,07/31/2018 00:00:00,Iandoli Michael,4,S-Sale,--D,479,5253,1,0001385748,Common Stock
+D,07/30/2018 00:00:00,CAMILLI KATHLEEN M,4,S-Sale,--D,380,2394,1,0001235360,Common Stock
+D,07/25/2018 00:00:00,CAMILLI KATHLEEN M,4,M-Exempt,--D,940,0,3,0001235360,Stock Appreciation Right
+D,07/25/2018 00:00:00,CAMILLI KATHLEEN M,4,D-Return,--D,560,2774,2,0001235360,Common Stock
+A,07/25/2018 00:00:00,CAMILLI KATHLEEN M,4,M-Exempt,--D,940,3334,1,0001235360,Common Stock
+D,07/24/2018 00:00:00,Sintros Steven S,4,S-Sale,--D,935,3023,3,0001453910,Common Stock
+D,07/23/2018 00:00:00,Sintros Steven S,4,M-Exempt,--D,2667,0,4,0001453910,Stock Appreciation Right
+D,07/23/2018 00:00:00,Sintros Steven S,4,D-Return,--D,1732,3958,2,0001453910,Common Stock
+A,07/23/2018 00:00:00,Sintros Steven S,4,M-Exempt,--D,2667,5690,1,0001453910,Common Stock
+D,07/23/2018 00:00:00,Levenstein Cecelia,4,S-Sale,--D,500,118808,1,0001366783,Common Stock
+D,07/20/2018 00:00:00,Levenstein Cecelia,4,S-Sale,--D,2000,119308,1,0001366783,Common Stock
+D,07/20/2018 00:00:00,Iandoli Michael,4,S-Sale,--D,594,5732,1,0001385748,Common Stock
+D,07/19/2018 00:00:00,Levenstein Cecelia,4,S-Sale,--D,2500,121308,1,0001366783,Common Stock
+D,07/18/2018 00:00:00,Iandoli Michael,4,M-Exempt,--D,1335,0,3,0001385748,Stock Appreciation Right
+D,07/18/2018 00:00:00,Iandoli Michael,4,D-Return,--D,741,6326,2,0001385748,Common Stock
+A,07/18/2018 00:00:00,Iandoli Michael,4,M-Exempt,--D,1335,7067,1,0001385748,Common Stock
+D,07/18/2018 00:00:00,Levenstein Cecelia,4,S-Sale,--D,1800,123808,1,0001366783,Common Stock
+D,07/17/2018 00:00:00,Levenstein Cecelia,4,S-Sale,--D,3000,125608,2,0001366783,Common Stock
+D,07/16/2018 00:00:00,Levenstein Cecelia,4,S-Sale,--D,417,128608,1,0001366783,Common Stock
+D,07/11/2018 00:00:00,Levenstein Cecelia,4,S-Sale,--D,4783,129025,1,0001366783,Common Stock
+D,06/25/2018 00:00:00,Sintros Steven S,4,S-Sale,--D,919,3023,3,0001453910,Common Stock
+D,06/22/2018 00:00:00,Sintros Steven S,4,M-Exempt,--D,2667,2667,4,0001453910,Stock Appreciation Right
+D,06/22/2018 00:00:00,Sintros Steven S,4,D-Return,--D,1748,3942,2,0001453910,Common Stock
+A,06/22/2018 00:00:00,Sintros Steven S,4,M-Exempt,--D,2667,5690,1,0001453910,Common Stock
+D,05/23/2018 00:00:00,Sintros Steven S,4,S-Sale,--D,902,3023,3,0001453910,Common Stock
+D,05/22/2018 00:00:00,Sintros Steven S,4,M-Exempt,--D,2666,5334,4,0001453910,Stock Appreciation Right
+D,05/22/2018 00:00:00,Sintros Steven S,4,D-Return,--D,1764,3925,2,0001453910,Common Stock
+A,05/22/2018 00:00:00,Sintros Steven S,4,M-Exempt,--D,2666,5689,1,0001453910,Common Stock
+D,04/24/2018 00:00:00,DIFILLIPPO DAVID A,4,S-Sale,--D,1046,4401,3,0001261137,Common Stock
+D,04/23/2018 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2667,0,7,0001261137,Stock Appreciation Right
+D,04/23/2018 00:00:00,DIFILLIPPO DAVID A,4,D-Return,--D,1621,5447,2,0001261137,Common Stock
+A,04/23/2018 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2667,7068,1,0001261137,Common Stock
+D,03/28/2018 00:00:00,DIFILLIPPO DAVID A,4,S-Sale,--D,993,4401,1,0001261137,Common Stock
+D,03/27/2018 00:00:00,Queue Limited Partnership,4,S-Sale,--D,1062211,672974,1,0001366137,Class B Common Stock
+D,03/27/2018 00:00:00,CROATTI CYNTHIA,4,D-Return,--I,1062211,1688694,4,0001260756,Class B Common Stock
+D,03/27/2018 00:00:00,The Ronald D Croatti Trust - 1993,4,S-Sale,--I,1062211,1688694,3,0001724901,Class B Common Stock
+D,03/27/2018 00:00:00,Levenstein Cecelia,4,S-Sale,--I,1062211,672974,2,0001366783,Class B Common Stock
+D,03/27/2018 00:00:00,Croatti Carol,4,S-Sale,--I,1062211,1688694,3,0001724908,Class B Common Stock
+D,03/27/2018 00:00:00,Croatti Matthew,4,S-Sale,--I,1062211,1688694,3,0001724534,Class B Common Stock
+D,03/26/2018 00:00:00,DIFILLIPPO DAVID A,4,S-Sale,--D,21,5394,3,0001261137,Common Stock
+D,03/23/2018 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2667,2667,7,0001261137,Stock Appreciation Right
+D,03/23/2018 00:00:00,DIFILLIPPO DAVID A,4,D-Return,--D,1653,5415,2,0001261137,Common Stock
+A,03/23/2018 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2667,7068,1,0001261137,Common Stock
+D,03/07/2018 00:00:00,Ross William Masters,4,S-Sale,--D,131,1044,3,0001688445,Common Stock
+D,03/05/2018 00:00:00,Ross William Masters,4,M-Exempt,--D,334,0,5,0001688445,Stock Appreciation Right
+D,03/05/2018 00:00:00,Ross William Masters,4,D-Return,--D,203,1175,2,0001688445,Common Stock
+A,03/05/2018 00:00:00,Ross William Masters,4,M-Exempt,--D,334,1378,1,0001688445,Common Stock
+D,02/26/2018 00:00:00,DIFILLIPPO DAVID A,4,S-Sale,--D,1266,4401,3,0001261137,Common Stock
+D,02/23/2018 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2666,5334,7,0001261137,Stock Appreciation Right
+D,02/23/2018 00:00:00,DIFILLIPPO DAVID A,4,D-Return,--D,1400,5667,2,0001261137,Common Stock
+A,02/23/2018 00:00:00,DIFILLIPPO DAVID A,4,M-Exempt,--D,2666,7067,1,0001261137,Common Stock
+D,02/20/2018 00:00:00,Croatti Michael A,4,S-Sale,--D,1152,1753,4,0001656304,Common Stock
+D,02/20/2018 00:00:00,Katz David Martin,4,M-Exempt,--D,2666,0,4,0001459610,Stock Appreciation Right
+D,02/20/2018 00:00:00,Katz David Martin,4,S-Sale,--D,1003,1044,3,0001459610,Common Stock
+D,02/20/2018 00:00:00,Katz David Martin,4,D-Return,--D,1663,2047,2,0001459610,Common Stock
+A,02/20/2018 00:00:00,Katz David Martin,4,M-Exempt,--D,2666,3710,1,0001459610,Common Stock
+D,02/16/2018 00:00:00,Croatti Michael A,4,M-Exempt,--D,334,0,9,0001656304,Stock Appreciation Right
+D,02/16/2018 00:00:00,Croatti Michael A,4,M-Exempt,--D,2667,0,8,0001656304,Stock Appreciation Right
+D,02/16/2018 00:00:00,Croatti Michael A,4,D-Return,--D,1849,2905,3,0001656304,Common Stock
+A,02/16/2018 00:00:00,Croatti Michael A,4,M-Exempt,--D,334,4754,2,0001656304,Common Stock
+A,02/16/2018 00:00:00,Croatti Michael A,4,M-Exempt,--D,2667,4420,1,0001656304,Common Stock
+D,02/07/2018 00:00:00,Ross William Masters,4,S-Sale,--D,119,1044,3,0001688445,Common Stock
+D,02/05/2018 00:00:00,Ross William Masters,4,M-Exempt,--D,333,334,5,0001688445,Stock Appreciation Right
+D,02/05/2018 00:00:00,Ross William Masters,4,D-Return,--D,214,1163,2,0001688445,Common Stock
+A,02/05/2018 00:00:00,Ross William Masters,4,M-Exempt,--D,333,1377,1,0001688445,Common Stock
+D,01/18/2018 00:00:00,Katz David Martin,4,M-Exempt,--D,2667,2666,4,0001459610,Stock Appreciation Right
+D,01/18/2018 00:00:00,Katz David Martin,4,S-Sale,--D,1045,1044,3,0001459610,Common Stock
+D,01/18/2018 00:00:00,Katz David Martin,4,D-Return,--D,1622,2089,2,0001459610,Common Stock
+A,01/18/2018 00:00:00,Katz David Martin,4,M-Exempt,--D,2667,3711,1,0001459610,Common Stock
+D,01/17/2018 00:00:00,Croatti Michael A,4,S-Sale,--D,1202,1753,4,0001656304,Common Stock
+D,01/16/2018 00:00:00,Croatti Michael A,4,M-Exempt,--D,333,334,9,0001656304,Stock Appreciation Right
+D,01/16/2018 00:00:00,Croatti Michael A,4,M-Exempt,--D,2667,2667,8,0001656304,Stock Appreciation Right
+D,01/16/2018 00:00:00,Croatti Michael A,4,D-Return,--D,1798,2955,3,0001656304,Common Stock
+A,01/16/2018 00:00:00,Croatti Michael A,4,M-Exempt,--D,333,4753,2,0001656304,Common Stock
+A,01/16/2018 00:00:00,Croatti Michael A,4,M-Exempt,--D,2667,4420,1,0001656304,Common Stock
+A,01/12/2018 00:00:00,CAMILLI KATHLEEN M,4,A-Award,--D,1000,1000,1,0001235360,Stock Appreciation Right
+A,01/12/2018 00:00:00,Cohen Phillip L,4,A-Award,--D,1000,1000,1,0001303645,Stock Appreciation Right
+A,01/12/2018 00:00:00,Iandoli Michael,4,A-Award,--D,1000,1000,2,0001385748,Stock Appreciation Right
+A,01/12/2018 00:00:00,Iandoli Michael,4,A-Award,--D,234,5732,1,0001385748,Common Stock
+A,01/12/2018 00:00:00,Postek Thomas,4,A-Award,--D,1000,1000,1,0001336375,Stock Appreciation Right
+A,01/12/2018 00:00:00,Zemlin Raymond C.,4,A-Award,--D,1000,1000,1,0001691916,Stock Appreciation Right
+D,01/09/2018 00:00:00,Postek Thomas,4,M-Exempt,--D,1500,0,2,0001336375,Common Stock Option (right to buy)
+A,01/09/2018 00:00:00,Postek Thomas,4,M-Exempt,--D,1500,29599,1,0001336375,Common Stock
+D,01/09/2018 00:00:00,Cohen Phillip L,4,M-Exempt,--D,1500,0,2,0001303645,Common Stock Option (right to buy)
+A,01/09/2018 00:00:00,Cohen Phillip L,4,M-Exempt,--D,1500,13051,1,0001303645,Common Stock
+D,01/08/2018 00:00:00,Ross William Masters,4,S-Sale,--D,125,1044,3,0001688445,Common Stock
+D,01/05/2018 00:00:00,Ross William Masters,4,M-Exempt,--D,333,667,5,0001688445,Stock Appreciation Right
+D,01/05/2018 00:00:00,Ross William Masters,4,D-Return,--D,208,1169,2,0001688445,Common Stock
+A,01/05/2018 00:00:00,Ross William Masters,4,M-Exempt,--D,333,1377,1,0001688445,Common Stock
+A,12/20/2017 00:00:00,CROATTI CYNTHIA,4,A-Award,--D,1332,1332,1,0001260756,Common Stock
+A,12/20/2017 00:00:00,DIFILLIPPO DAVID A,4,A-Award,--D,1044,4401,1,0001261137,Common Stock
+A,12/20/2017 00:00:00,Ross William Masters,4,A-Award,--D,1044,1044,1,0001688445,Common Stock
+A,12/20/2017 00:00:00,Katz David Martin,4,A-Award,--D,1044,1044,1,0001459610,Common Stock
+A,12/20/2017 00:00:00,Croatti Michael A,4,A-Award,--D,1044,1753,1,0001656304,Common Stock
+D,12/18/2017 00:00:00,Katz David Martin,4,M-Exempt,--D,2667,5333,4,0001459610,Stock Appreciation Right
+D,12/18/2017 00:00:00,Katz David Martin,4,S-Sale,--D,1060,0,3,0001459610,Common Stock
+D,12/18/2017 00:00:00,Katz David Martin,4,D-Return,--D,1607,1060,2,0001459610,Common Stock
+A,12/18/2017 00:00:00,Katz David Martin,4,M-Exempt,--D,2667,2667,1,0001459610,Common Stock
+D,12/15/2017 00:00:00,Croatti Michael A,4,S-Sale,--D,1216,709,4,0001656304,Common Stock
+A,12/14/2017 00:00:00,Sintros Steven S,4,A-Award,--D,5152,5152,2,0001453910,Stock Appreciation Right
+A,12/14/2017 00:00:00,Sintros Steven S,4,A-Award,--D,3023,3023,1,0001453910,Restricted Stock Unit
+D,12/14/2017 00:00:00,Croatti Michael A,4,M-Exempt,--D,333,667,9,0001656304,Stock Appreciation Right
+D,12/14/2017 00:00:00,Croatti Michael A,4,M-Exempt,--D,2666,5334,8,0001656304,Stock Appreciation Right
+D,12/14/2017 00:00:00,Croatti Michael A,4,D-Return,--D,1783,1925,3,0001656304,Common Stock
+A,12/14/2017 00:00:00,Croatti Michael A,4,M-Exempt,--D,333,3708,2,0001656304,Common Stock
+A,12/14/2017 00:00:00,Croatti Michael A,4,M-Exempt,--D,2666,3375,1,0001656304,Common Stock
+A,12/05/2017 00:00:00,The Ronald D Croatti Trust - 1993,4,W-Will,-ED,1098770,1098770,2,0001724901,Class B Common Stock
+A,12/05/2017 00:00:00,The Ronald D Croatti Trust - 1993,4,W-Will,-ED,31134,31134,1,0001724901,Common Stock
+A,12/05/2017 00:00:00,Croatti Carol,4,W-Will,-EI,1098770,1098770,2,0001724908,Class B Common Stock
+A,12/05/2017 00:00:00,Croatti Carol,4,W-Will,-EI,31134,31134,1,0001724908,Common Stock
+A,12/05/2017 00:00:00,Croatti Matthew,4,W-Will,-EI,1098770,1098770,2,0001724534,Class B Common Stock
+A,12/05/2017 00:00:00,Croatti Matthew,4,W-Will,-EI,31134,31134,1,0001724534,Common Stock
+A,10/23/2017 00:00:00,Croatti Michael A,4,A-Award,--D,6000,6000,1,0001656304,Stock Appreciation Right
+A,10/23/2017 00:00:00,Katz David Martin,4,A-Award,--D,6000,6000,1,0001459610,Stock Appreciation Right
+A,10/23/2017 00:00:00,DIFILLIPPO DAVID A,4,A-Award,--D,6000,6000,1,0001261137,Stock Appreciation Right
+A,10/23/2017 00:00:00,Ross William Masters,4,A-Award,--D,6000,6000,1,0001688445,Stock Appreciation Right
+A,10/23/2017 00:00:00,CROATTI CYNTHIA,4,A-Award,--D,8000,8000,1,0001260756,Stock Appreciation Right
+D,04/28/2017 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,1755,0,3,0001260756,Common Stock
+D,04/27/2017 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,4000,0,9,0001260756,Stock Appreciation Right
+D,04/27/2017 00:00:00,CROATTI CYNTHIA,4,D-Return,--D,2245,1755,2,0001260756,Common Stock
+A,04/27/2017 00:00:00,CROATTI CYNTHIA,4,M-Exempt,--D,4000,4000,1,0001260756,Common Stock
+D,04/11/2017 00:00:00,Cohen Phillip L,4,S-Sale,--D,1500,11551,1,0001303645,Common Stock
+D,03/28/2017 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,100,0,7,0001260756,Common Stock
+D,03/28/2017 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,1338,100,6,0001260756,Common Stock
+D,03/28/2017 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,70,1438,5,0001260756,Common Stock
+D,03/28/2017 00:00:00,CROATTI CYNTHIA,4,S-Sale,--D,100,1508,4,0001260756,Common Stock

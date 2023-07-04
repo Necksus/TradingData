@@ -1,0 +1,81 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,12/31/2017 00:00:00,Korteweg Pieter,4,J-Other,--D,5705,5705,1,0001310433,Restricted Stock Units
+A,12/31/2017 00:00:00,Gradon Michael,4,J-Other,--D,3394,3394,1,0001494540,Restricted Stock Units
+A,12/31/2017 00:00:00,Warden Robert G,4,J-Other,--D,2253,2253,1,0001307062,Restricted Stock Units
+A,12/31/2017 00:00:00,Jonkhart Marius,4,J-Other,--D,3394,3394,1,0001450291,Restricted Stock Units
+A,12/31/2017 00:00:00,CHAPMAN JAMES N,4,J-Other,--D,3965,3965,1,0001264228,Restricted Stock Units
+A,12/31/2017 00:00:00,Al Noaimi Salem Rashed Abdulla Ali,4,J-Other,--D,2253,2253,1,0001525552,Restricted Stock Units
+A,12/31/2017 00:00:00,DACIER PAUL T,4,J-Other,--D,2938,2938,1,0001189870,Restricted Stock Units
+A,12/31/2017 00:00:00,LAWRENCE JAMES A,4,J-Other,--D,3394,3394,1,0001220006,Restrictred Stock Units
+A,12/31/2017 00:00:00,Walsh Michael George,4,J-Other,--D,2253,2253,1,0001715240,Restricted Stock Units
+A,12/11/2017 00:00:00,Scruggs Philip Gene,4,J-Other,--D,320000,320000,1,0001607897,Restricted Stock Units
+A,08/24/2017 00:00:00,Walsh Michael George,4,P-Purchase,--D,500,500,1,0001715240,Ordinary Shares
+A,08/09/2017 00:00:00,LAWRENCE JAMES A,4,P-Purchase,--D,46720,100000,2,0001220006,Ordinary Shares
+A,08/07/2017 00:00:00,LAWRENCE JAMES A,4,P-Purchase,--D,53280,53280,1,0001220006,Ordinary Shares
+D,08/07/2017 00:00:00,Gradon Michael,4,S-Sale,--D,742,3380,1,0001494540,Ordinary Shares
+D,08/04/2017 00:00:00,Kelly Aengus,4,S-Sale,--D,100000,2231875,1,0001450289,Ordinary Shares
+D,05/30/2017 00:00:00,den Dikken Wouter Marinus,4,S-Sale,--D,50000,205808,1,0001450295,Ordinary Shares
+D,05/11/2017 00:00:00,CHAPMAN JAMES N,4,S-Sale,--D,4000,11261,1,0001264228,Ordinary Shares
+D,05/11/2017 00:00:00,den Dikken Wouter Marinus,4,H-ExpireLong,--D,100000,0,2,0001450295,Ordinary Share Options (Right to Buy)
+A,05/11/2017 00:00:00,den Dikken Wouter Marinus,4,J-Other,--D,52389,255808,1,0001450295,Ordinary Shares
+D,05/05/2017 00:00:00,Jonkhart Marius,4,C-Conversion,--D,3761,0,2,0001450291,Restricted Stock Units
+A,05/05/2017 00:00:00,Jonkhart Marius,4,A-Award,--D,2069,16605,1,0001450291,Ordinary Shares
+D,05/05/2017 00:00:00,CHAPMAN JAMES N,4,C-Conversion,--D,4393,0,2,0001264228,Restricted Stock Units
+A,05/05/2017 00:00:00,CHAPMAN JAMES N,4,A-Award,--D,2653,15261,1,0001264228,Ordinary Shares
+D,05/05/2017 00:00:00,Al Noaimi Salem Rashed Abdulla Ali,4,C-Conversion,--D,2497,0,2,0001525552,Restricted Stock Units
+A,05/05/2017 00:00:00,Al Noaimi Salem Rashed Abdulla Ali,4,A-Award,--D,1298,3335,1,0001525552,Ordinary Shares
+A,03/27/2017 00:00:00,Helming Keith A,4,J-Other,--D,17886,17886,1,0001450290,Restricted Stock Units
+A,03/27/2017 00:00:00,Kelly Aengus,4,J-Other,--I,19358,19358,1,0001450289,Restricted Stock
+A,03/27/2017 00:00:00,Scruggs Philip Gene,4,J-Other,--D,10681,10681,1,0001607897,Restricted Stock Units
+A,03/27/2017 00:00:00,den Dikken Wouter Marinus,4,J-Other,--D,5007,5007,1,0001450295,Restricted Stock Units
+D,03/13/2017 00:00:00,den Dikken Wouter Marinus,4,S-Sale,--D,75000,203419,1,0001450295,Ordinary Shares
+D,02/13/2017 00:00:00,den Dikken Wouter Marinus,4,C-Conversion,--D,5763,0,2,0001450295,Restricted Stock Unit
+A,02/13/2017 00:00:00,den Dikken Wouter Marinus,4,A-Award,--D,2870,278419,1,0001450295,Ordinary Shares
+A,12/31/2016 00:00:00,Korteweg Pieter,4,J-Other,--D,6320,6320,1,0001310433,Restricted Stock Units
+A,12/31/2016 00:00:00,Gradon Michael,4,J-Other,--D,3761,3761,1,0001494540,Restricted Stock Units
+A,12/31/2016 00:00:00,Warden Robert G,4,J-Other,--D,2497,2497,1,0001307062,Restricted Stock Units
+A,12/31/2016 00:00:00,McLallen Walter Field,4,J-Other,--D,2497,2497,1,0001666150,Restricted Stock Units
+A,12/31/2016 00:00:00,Jonkhart Marius,4,J-Other,--D,3761,3761,1,0001450291,Restricted Stock Units
+A,12/31/2016 00:00:00,DACIER PAUL T,4,J-Other,--D,3255,3255,1,0001189870,Restricted Stock Units
+A,12/31/2016 00:00:00,CHAPMAN JAMES N,4,J-Other,--D,4393,4393,1,0001264228,Restricted Stock Units
+A,12/31/2016 00:00:00,Al Noaimi Salem Rashed Abdulla Ali,4,J-Other,--D,2497,2497,1,0001525552,Restricted Stock Units
+D,12/15/2016 00:00:00,den Dikken Wouter Marinus,4,H-ExpireLong,--D,187500,0,2,0001450295,Ordinary Share Options (Right to Buy)
+A,12/15/2016 00:00:00,den Dikken Wouter Marinus,4,J-Other,--D,46502,275549,1,0001450295,Ordinary Shares
+D,12/12/2016 00:00:00,Kelly Aengus,4,S-Sale,--D,100000,2331875,1,0001450289,Ordinary Shares
+D,11/21/2016 00:00:00,Gradon Michael,4,S-Sale,--D,1091,4122,1,0001494540,Ordinary Shares
+D,09/06/2016 00:00:00,Gradon Michael,4,S-Sale,--D,592,5213,1,0001494540,Ordinary Shares
+A,09/02/2016 00:00:00,Gradon Michael,4,C-Conversion,--D,1803,0,2,0001494540,Ordinary Share Options (Right to Buy)
+A,09/02/2016 00:00:00,Gradon Michael,4,C-Conversion,--D,1191,5805,1,0001494540,Ordinary Shares
+D,08/31/2016 00:00:00,Korteweg Pieter,4,S-Sale,--D,2337,25557,1,0001310433,Ordinary Shares
+D,08/29/2016 00:00:00,Korteweg Pieter,4,C-Conversion,--D,3606,0,2,0001310433,Ordinary Share Options (Right to Buy)
+A,08/29/2016 00:00:00,Korteweg Pieter,4,C-Conversion,--D,2337,27894,1,0001310433,Ordinary Shares
+A,03/24/2016 00:00:00,den Dikken Wouter Marinus,4,J-Other,--D,5276,5276,1,0001450295,Restricted Stock Unit
+A,02/26/2016 00:00:00,Jonkhart Marius,4,P-Purchase,--D,1500,14536,2,0001450291,Ordinary Shares
+A,02/25/2016 00:00:00,Jonkhart Marius,4,P-Purchase,--D,3500,13036,1,0001450291,Ordinary Shares
+D,02/14/2016 00:00:00,den Dikken Wouter Marinus,4,C-Conversion,--D,10144,0,2,0001450295,Restricted Stock Unit
+A,02/14/2016 00:00:00,den Dikken Wouter Marinus,4,A-Award,--D,4869,229047,1,0001450295,Ordinary Shares
+D,01/18/2016 00:00:00,Kelly Aengus,4,J-Other,--D,792227,0,2,0001450289,Restricted Stock Unit
+A,01/18/2016 00:00:00,Kelly Aengus,4,J-Other,--D,531750,2431875,1,0001450289,Ordinary Shares
+A,12/31/2015 00:00:00,Warden Robert G,4,J-Other,--D,2147,3520,1,0001307062,Ordinary Shares
+A,12/31/2015 00:00:00,Korteweg Pieter,4,J-Other,--D,3646,25557,1,0001310433,Ordinary Shares
+A,12/31/2015 00:00:00,Jonkhart Marius,4,J-Other,--D,2128,9536,1,0001450291,Ordinary Shares
+A,12/31/2015 00:00:00,Gradon Michael,4,J-Other,--D,2823,4614,1,0001494540,Ordinary Shares
+A,12/31/2015 00:00:00,DACIER PAUL T,4,J-Other,--D,2818,14597,1,0001189870,Ordinary Shares
+A,12/31/2015 00:00:00,CHAPMAN JAMES N,4,J-Other,--D,3772,12608,1,0001264228,Ordinary Shares
+A,12/31/2015 00:00:00,Al Noaimi Salem Rashed Abdulla Ali,4,J-Other,--D,1240,2037,1,0001525552,Ordinary Shares
+D,12/14/2015 00:00:00,Warden Robert G,4,J-Other,--D,1593,0,2,0001307062,Restricted Stock Units
+A,12/14/2015 00:00:00,Warden Robert G,4,J-Other,--D,1373,1373,1,0001307062,Ordinary Shares
+D,12/14/2015 00:00:00,Kelly Aengus,4,J-Other,--D,1983143,792227,3,0001450289,Restricted Stock Units
+A,12/14/2015 00:00:00,Kelly Aengus,4,J-Other,--D,20347,1900125,2,0001450289,Ordinary Shares
+A,12/14/2015 00:00:00,Kelly Aengus,4,J-Other,--D,1307766,1879778,1,0001450289,Ordinary Shares
+D,12/14/2015 00:00:00,Jonkhart Marius,4,J-Other,--D,1593,0,2,0001450291,Restricted Stock Units
+A,12/14/2015 00:00:00,Jonkhart Marius,4,J-Other,--D,908,7408,1,0001450291,Ordinary Shares
+D,12/14/2015 00:00:00,Helming Keith A,4,J-Other,--D,617329,0,3,0001450290,Restricted Stock Units
+A,12/14/2015 00:00:00,Helming Keith A,4,J-Other,--D,13724,884248,2,0001450290,Ordinary Shares
+A,12/14/2015 00:00:00,Helming Keith A,4,J-Other,--D,447574,870524,1,0001450290,Ordinary Shares
+D,12/14/2015 00:00:00,DACIER PAUL T,4,J-Other,--D,1927,0,2,0001189870,Restricted Stock Units
+A,12/14/2015 00:00:00,DACIER PAUL T,4,J-Other,--D,1670,11779,1,0001189870,Ordinary Shares
+A,12/14/2015 00:00:00,Gradon Michael,4,J-Other,--D,1593,0,2,0001494540,Restricted Stock Units
+A,12/14/2015 00:00:00,Gradon Michael,4,J-Other,--D,1199,1791,1,0001494540,Ordinary Shares
+D,12/14/2015 00:00:00,CHAPMAN JAMES N,4,J-Other,--D,1593,0,2,0001264228,Restricted Stock Units
+A,12/14/2015 00:00:00,CHAPMAN JAMES N,4,J-Other,--D,1378,8836,1,0001264228,Ordinary Shares

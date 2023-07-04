@@ -1,0 +1,742 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,06/28/2023 00:00:00,SPRINGER TIMOTHY A,4,J-Other,--I,429,2768893,2,0001055624,Common Stock
+A,06/28/2023 00:00:00,SPRINGER TIMOTHY A,4,J-Other,--D,429,4608052,1,0001055624,Common Stock
+D,06/28/2023 00:00:00,Nashat Amir,4,J-Other,--I,6538,130153,5,0001575843,Common Stock
+A,06/28/2023 00:00:00,Nashat Amir,4,J-Other,--D,145,145,4,0001575843,Common Stock
+D,06/28/2023 00:00:00,Nashat Amir,4,J-Other,--I,935,0,3,0001575843,Common Stock
+A,06/28/2023 00:00:00,Nashat Amir,4,J-Other,--I,935,935,2,0001575843,Common Stock
+D,06/28/2023 00:00:00,Nashat Amir,4,J-Other,--I,93462,1860498,1,0001575843,Common Stock
+D,06/21/2023 00:00:00,Rogers Bruce,4,G-Gift,--D,5000,128055,1,0001780273,Common Stock
+D,06/12/2023 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,840,368337,3,0001779978,Stock Option (right to buy Common Stock)
+D,06/12/2023 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,840,13936,2,0001779978,Common Stock
+A,06/12/2023 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,840,14776,1,0001779978,Common Stock
+D,06/07/2023 00:00:00,DeVaul William,4,S-Sale,--D,7756,13338,1,0001780270,Common Stock
+A,06/01/2023 00:00:00,Edwards Martin,4,A-Award,--D,12535,12535,1,0001640073,Director Stock Option (Right to Buy)
+A,06/01/2023 00:00:00,BISCHOFBERGER NORBERT W,4,A-Award,--D,12535,12535,1,0001190273,Director Stock Option (Right to Buy)
+A,06/01/2023 00:00:00,Christensen Gustav,4,A-Award,--D,12535,12535,1,0001397709,Director Stock Option (Right to Buy)
+A,06/01/2023 00:00:00,GRAY SUSANNAH,4,A-Award,--D,12535,12535,1,0001833453,Director Stock Option (Right to Buy)
+A,06/01/2023 00:00:00,Nanda Nisha,4,A-Award,--D,12535,12535,1,0001762683,Director Stock Option (Right to Buy)
+A,06/01/2023 00:00:00,Nashat Amir,4,A-Award,--D,12535,12535,1,0001575843,Director Stock Option (Right to Buy)
+A,06/01/2023 00:00:00,SLATTERY JOSEPH P,4,A-Award,--D,12535,12535,1,0001246530,Director Stock Option (Right to Buy)
+A,06/01/2023 00:00:00,SPRINGER TIMOTHY A,4,A-Award,--D,12535,12535,1,0001055624,Director Stock Option (Right to Buy)
+D,06/01/2023 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,3597,369177,4,0001779978,Stock Option (right to buy Common Stock)
+D,06/01/2023 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,1609,13936,3,0001779978,Common Stock
+D,06/01/2023 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,1988,15545,2,0001779978,Common Stock
+A,06/01/2023 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,3597,17533,1,0001779978,Common Stock
+D,05/24/2023 00:00:00,DeVaul William,4,S-Sale,--D,100,21094,2,0001780270,Common Stock
+D,05/23/2023 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,10000,8786,3,0001592280,Stock Option (right to buy Common Stock)
+D,05/23/2023 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,10000,23708,2,0001592280,Common Stock
+A,05/23/2023 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,10000,33708,1,0001592280,Common Stock
+D,05/23/2023 00:00:00,DeVaul William,4,S-Sale,--D,3802,21194,1,0001780270,Common Stock
+D,05/08/2023 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,11486,18786,2,0001592280,Stock Option (right to buy Common Stock)
+A,05/08/2023 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,11486,23708,1,0001592280,Common Stock
+D,05/05/2023 00:00:00,Rogers Bruce,4,M-Exempt,--D,16000,82114,2,0001780273,Stock Option (right to buy Common Stock
+A,05/05/2023 00:00:00,Rogers Bruce,4,M-Exempt,--D,16000,133055,1,0001780273,Common Stock
+D,05/03/2023 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,3597,372774,3,0001779978,Stock Option (right to buy Common Stock)
+D,05/03/2023 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,3597,13936,2,0001779978,Common Stock
+A,05/03/2023 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,3597,17533,1,0001779978,Common Stock
+A,05/03/2023 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,1050000,2768464,1,0001055624,Common Stock
+D,04/25/2023 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,10000,30272,3,0001592280,Stock Option (right to buy Common Stock)
+D,04/25/2023 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,10000,12222,2,0001592280,Common Stock
+A,04/25/2023 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,10000,22222,1,0001592280,Common Stock
+D,04/25/2023 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,25179,376371,3,0001779978,Stock Option (right to buy Common Stock)
+D,04/25/2023 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,25179,13936,2,0001779978,Common Stock
+A,04/25/2023 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,25179,39115,1,0001779978,Common Stock
+D,04/25/2023 00:00:00,SCHEGERIN MARC,4,M-Exempt,--D,50000,77268,3,0001773184,Stock Option (right to buy Common Stock)
+D,04/25/2023 00:00:00,SCHEGERIN MARC,4,S-Sale,--D,50000,24136,2,0001773184,Common Stock
+A,04/25/2023 00:00:00,SCHEGERIN MARC,4,M-Exempt,--D,50000,74136,1,0001773184,Common Stock
+D,04/25/2023 00:00:00,Rogers Bruce,4,M-Exempt,--D,30000,98114,3,0001780273,Stock Option (right to buy Common Stock)
+D,04/25/2023 00:00:00,Rogers Bruce,4,S-Sale,--D,30000,117055,2,0001780273,Common Stock
+A,04/25/2023 00:00:00,Rogers Bruce,4,M-Exempt,--D,30000,147055,1,0001780273,Common Stock
+D,04/20/2023 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,10000,40272,3,0001592280,Stock Option (right to buy Common Stock)
+D,04/20/2023 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,10000,12222,2,0001592280,Common Stock
+A,04/20/2023 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,10000,22222,1,0001592280,Common Stock
+D,04/19/2023 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,10000,50270,4,0001592280,Stock Option (right to buy Common Stock)
+A,04/19/2023 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,10000,12222,3,0001592280,Common Stock
+D,04/17/2023 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,10000,2222,2,0001592280,Common Stock
+D,04/17/2023 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,10000,12222,1,0001592280,Common Stock
+D,04/17/2023 00:00:00,Rogers Bruce,4,M-Exempt,--D,10000,128114,3,0001780273,Stock Option (right to buy Common Stock)
+D,04/17/2023 00:00:00,Rogers Bruce,4,S-Sale,--D,10000,117055,2,0001780273,Common Stock
+A,04/17/2023 00:00:00,Rogers Bruce,4,M-Exempt,--D,10000,127055,1,0001780273,Common Stock
+D,03/09/2023 00:00:00,SCHEGERIN MARC,4,M-Exempt,--D,6666,127268,5,0001773184,Stock Option (right to buy Common Stock)
+A,03/09/2023 00:00:00,SCHEGERIN MARC,4,M-Exempt,--D,6666,23740,3,0001773184,Common Stock
+D,03/07/2023 00:00:00,SCHEGERIN MARC,4,M-Exempt,--D,50000,133934,4,0001773184,Stock Option (right to buy Common Stock)
+D,03/07/2023 00:00:00,SCHEGERIN MARC,4,S-Sale,--D,50000,17074,2,0001773184,Common Stock
+A,03/07/2023 00:00:00,SCHEGERIN MARC,4,M-Exempt,--D,50000,67074,1,0001773184,Common Stock
+D,02/14/2023 00:00:00,Rogers Bruce,4,M-Exempt,--D,10000,138114,3,0001780273,Stock Option (right to buy Common Stock)
+D,02/14/2023 00:00:00,Rogers Bruce,4,S-Sale,--D,10000,116192,2,0001780273,Common Stock
+A,02/14/2023 00:00:00,Rogers Bruce,4,M-Exempt,--D,10000,126192,1,0001780273,Common Stock
+A,02/13/2023 00:00:00,SPRINGER TIMOTHY A,4,A-Award,--I,806223,1718464,2,0001055624,Common Stock
+A,02/13/2023 00:00:00,SPRINGER TIMOTHY A,4,A-Award,--D,42432,4607623,1,0001055624,Common Stock
+A,01/14/2023 00:00:00,DeVaul William,4,M-Exempt,--D,3250,9750,5,0001780270,Restricted Stock Unit
+D,01/14/2023 00:00:00,DeVaul William,4,S-Sale,--D,1169,23739,2,0001780270,Common Stock
+A,01/14/2023 00:00:00,DeVaul William,4,M-Exempt,--D,3250,24908,1,0001780270,Common Stock
+A,01/14/2023 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,3470,10410,5,0001592280,Restricted Stock Unit
+D,01/14/2023 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,1248,22222,2,0001592280,Common Stock
+A,01/14/2023 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,3470,23470,1,0001592280,Common Stock
+A,01/14/2023 00:00:00,Rogers Bruce,4,M-Exempt,--D,5070,15210,5,0001780273,Restricted Stock Unit
+D,01/14/2023 00:00:00,Rogers Bruce,4,S-Sale,--D,1778,116192,2,0001780273,Common Stock
+A,01/14/2023 00:00:00,Rogers Bruce,4,M-Exempt,--D,5070,117970,1,0001780273,Common Stock
+A,01/14/2023 00:00:00,SCHEGERIN MARC,4,M-Exempt,--D,4690,14070,5,0001773184,Restricted Stock Unit
+D,01/14/2023 00:00:00,SCHEGERIN MARC,4,S-Sale,--D,1670,16212,2,0001773184,Common Stock
+A,01/14/2023 00:00:00,SCHEGERIN MARC,4,M-Exempt,--D,4690,17882,1,0001773184,Common Stock
+A,01/14/2023 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,12500,37500,5,0001779978,Restricted Stock Unit
+D,01/14/2023 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,4027,12679,2,0001779978,Common Stock
+A,01/14/2023 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,12500,16706,1,0001779978,Common Stock
+A,01/13/2023 00:00:00,DeVaul William,4,A-Award,--D,43800,43800,4,0001780270,Restricted Stock Unit
+A,01/13/2023 00:00:00,DeVaul William,4,A-Award,--D,62160,62160,3,0001780270,Stock Option (right to buy Common Stock)
+A,01/13/2023 00:00:00,Farrell Robert E Jr,4,A-Award,--D,50700,50700,4,0001592280,Restricted Stock Unit
+A,01/13/2023 00:00:00,Farrell Robert E Jr,4,A-Award,--D,76320,76320,3,0001592280,Stock Option (right to buy Common Stock)
+A,01/13/2023 00:00:00,Rogers Bruce,4,A-Award,--D,60900,60900,4,0001780273,Restricted Stock Unit
+A,01/13/2023 00:00:00,Rogers Bruce,4,A-Award,--D,89760,89760,3,0001780273,Stock Option (right to buy Common Stock)
+A,01/13/2023 00:00:00,SCHEGERIN MARC,4,A-Award,--D,58700,58700,4,0001773184,Restricted Stock Unit
+A,01/13/2023 00:00:00,SCHEGERIN MARC,4,A-Award,--D,86544,86544,3,0001773184,Stock Option (right to buy Common Stock)
+A,01/13/2023 00:00:00,Tipirneni Praveen P.,4,A-Award,--D,118000,118000,4,0001779978,Restricted Stock Unit
+A,01/13/2023 00:00:00,Tipirneni Praveen P.,4,A-Award,--D,177024,177024,3,0001779978,Stock Option (right to buy Common Stock)
+A,06/08/2022 00:00:00,GRAY SUSANNAH,4,A-Award,--D,17550,17550,1,0001833453,Director Stock Option (Right to Buy)
+A,06/08/2022 00:00:00,SLATTERY JOSEPH P,4,A-Award,--D,17550,17550,1,0001246530,Director Stock Option (Right to Buy)
+A,06/08/2022 00:00:00,Nashat Amir,4,A-Award,--D,17550,17550,1,0001575843,Director Stock Option (Right to Buy)
+A,06/08/2022 00:00:00,SPRINGER TIMOTHY A,4,A-Award,--D,17550,17550,1,0001055624,Director Stock Option (Right to Buy)
+A,06/08/2022 00:00:00,Nanda Nisha,4,A-Award,--D,17550,17550,1,0001762683,Director Stock Option (Right to Buy)
+A,06/08/2022 00:00:00,Edwards Martin,4,A-Award,--D,17550,17550,1,0001640073,Director Stock Option (Right to Buy)
+A,06/08/2022 00:00:00,BISCHOFBERGER NORBERT W,4,A-Award,--D,17550,17550,1,0001190273,Director Stock Option (Right to Buy)
+A,06/08/2022 00:00:00,Christensen Gustav,4,A-Award,--D,17550,17550,1,0001397709,Director Stock Option (Right to Buy)
+D,06/06/2022 00:00:00,Rogers Bruce,4,M-Exempt,--D,9600,148113,2,0001780273,Stock Option (right to buy Common Stock)
+A,06/06/2022 00:00:00,Rogers Bruce,4,M-Exempt,--D,9600,112900,1,0001780273,Common Stock
+A,05/16/2022 00:00:00,Rogers Bruce,4,A-Award,--D,31500,31500,1,0001780273,Stock Option (Right to buy Common Stock)
+D,04/01/2022 00:00:00,Rogers Bruce,4,M-Exempt,--D,10000,157713,4,0001780273,Stock Option (right to buy Common Stock)
+D,04/01/2022 00:00:00,Rogers Bruce,4,S-Sale,--D,2625,102905,3,0001780273,Common Stock
+D,04/01/2022 00:00:00,Rogers Bruce,4,S-Sale,--D,7375,105530,2,0001780273,Common Stock
+A,04/01/2022 00:00:00,Rogers Bruce,4,M-Exempt,--D,10000,112905,1,0001780273,Common Stock
+A,01/14/2022 00:00:00,Tipirneni Praveen P.,4,A-Award,--D,50000,50000,3,0001779978,Restricted Stock Units (RSU)
+A,01/14/2022 00:00:00,Tipirneni Praveen P.,4,A-Award,--D,224016,224016,2,0001779978,Stock Option (right to buy Common Stock)
+A,01/14/2022 00:00:00,SCHEGERIN MARC,4,A-Award,--D,18760,18760,2,0001773184,Restricted Stock Units (RSU)
+A,01/14/2022 00:00:00,SCHEGERIN MARC,4,A-Award,--D,85632,85632,1,0001773184,Stock Option (right to buy Common Stock)
+A,01/14/2022 00:00:00,Rogers Bruce,4,A-Award,--D,20280,20280,2,0001780273,Restricted Stock Units (RSU)
+A,01/14/2022 00:00:00,Rogers Bruce,4,A-Award,--D,92640,92640,1,0001780273,Stock Option (right to buy Common Stock)
+A,01/14/2022 00:00:00,Farrell Robert E Jr,4,A-Award,--D,13880,13880,2,0001592280,Restricted Stock Units (RSU)
+A,01/14/2022 00:00:00,Farrell Robert E Jr,4,A-Award,--D,60288,60288,1,0001592280,Stock Option (right to buy Common Stock)
+A,01/14/2022 00:00:00,DeVaul William,4,A-Award,--D,13000,13000,2,0001780270,Restricted Stock Units (RSU)
+A,01/14/2022 00:00:00,DeVaul William,4,A-Award,--D,57792,57792,1,0001780270,Stock Option (right to buy Common Stock)
+D,12/29/2021 00:00:00,DeVaul William,4,M-Exempt,--D,17452,15508,2,0001780270,Stock Option (right to buy Common Stock)
+A,12/29/2021 00:00:00,DeVaul William,4,M-Exempt,--D,17452,21658,1,0001780270,Common Stock
+D,11/03/2021 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,10000,60270,2,0001592280,Stock Option (right to buy Common Stock)
+A,11/03/2021 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,10000,20000,1,0001592280,Common Stock
+A,11/02/2021 00:00:00,SCHEGERIN MARC,4/A,M-Exempt,--D,6666,13192,1,0001773184,Common Stock
+D,11/02/2021 00:00:00,SCHEGERIN MARC,4,D-Return,--D,6666,183934,5,0001773184,Stock Option (right to buy Common Stock)
+D,11/02/2021 00:00:00,SCHEGERIN MARC,4,M-Exempt,--D,6666,13192,3,0001773184,Common Stock
+D,11/01/2021 00:00:00,SCHEGERIN MARC,4,D-Return,--D,5477,190600,4,0001773184,Stock Option (right to buy Common Stock)
+D,11/01/2021 00:00:00,SCHEGERIN MARC,4,S-Sale,--D,5477,6526,2,0001773184,Common Stock
+A,11/01/2021 00:00:00,SCHEGERIN MARC,4,M-Exempt,--D,5477,12003,1,0001773184,Common Stock
+D,10/26/2021 00:00:00,SCHEGERIN MARC,4,D-Return,--D,37,196077,3,0001773184,Stock Option (right to buy Common Stock)
+D,10/26/2021 00:00:00,SCHEGERIN MARC,4,S-Sale,--D,37,6526,2,0001773184,Common Stock
+A,10/26/2021 00:00:00,SCHEGERIN MARC,4,M-Exempt,--D,37,6563,1,0001773184,Common Stock
+D,10/19/2021 00:00:00,Rogers Bruce,4,M-Exempt,--D,13000,167713,2,0001780273,Stock Option (right to buy Common Stock)
+A,10/19/2021 00:00:00,Rogers Bruce,4,M-Exempt,--D,13000,102905,1,0001780273,Common Stock
+D,10/15/2021 00:00:00,SCHEGERIN MARC,4,D-Return,--D,3338,196114,9,0001773184,Stock Option (right to buy Common Stock)
+D,10/15/2021 00:00:00,SCHEGERIN MARC,4,S-Sale,--D,3338,6526,6,0001773184,Common Stock
+A,10/15/2021 00:00:00,SCHEGERIN MARC,4,M-Exempt,--D,3338,9864,5,0001773184,Common Stock
+D,10/14/2021 00:00:00,SCHEGERIN MARC,4,D-Return,--D,24184,199452,8,0001773184,Stock Option (right to buy Common Stock)
+D,10/14/2021 00:00:00,SCHEGERIN MARC,4,S-Sale,--D,24184,6526,4,0001773184,Common Stock
+A,10/14/2021 00:00:00,SCHEGERIN MARC,4,M-Exempt,--D,24184,30710,3,0001773184,Common Stock
+D,10/13/2021 00:00:00,SCHEGERIN MARC,4,D-Return,--D,1964,223636,7,0001773184,Stock Option (right to buy Common Stock)
+D,10/13/2021 00:00:00,SCHEGERIN MARC,4,S-Sale,--D,1964,6526,2,0001773184,Common Stock
+A,10/13/2021 00:00:00,SCHEGERIN MARC,4,M-Exempt,--D,1964,8490,1,0001773184,Common Stock
+D,09/16/2021 00:00:00,Linde Peter,4,M-Exempt,--D,10378,0,5,0001805908,Restricted Stock Unit (RSU
+D,09/16/2021 00:00:00,Linde Peter,4,S-Sale,--D,624,11272,4,0001805908,Common Stock
+D,09/16/2021 00:00:00,Linde Peter,4,S-Sale,--D,3276,11896,3,0001805908,Common Stock
+D,09/16/2021 00:00:00,Linde Peter,4,S-Sale,--D,100,15172,2,0001805908,Common Stock
+A,09/16/2021 00:00:00,Linde Peter,4,M-Exempt,--D,10378,15272,1,0001805908,Common Stock
+D,09/13/2021 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,3049,10000,3,0001592280,Common Stock
+D,09/13/2021 00:00:00,Rogers Bruce,4,M-Exempt,--D,1721,180713,11,0001780273,Stock Option (right to buy Common Stock)
+D,09/13/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,1721,89905,8,0001780273,Common Stock
+A,09/13/2021 00:00:00,Rogers Bruce,4,M-Exempt,--D,1721,91626,7,0001780273,Common Stock
+D,09/10/2021 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,4974,70270,4,0001592280,Stock Option (right to buy Common Stock)
+D,09/10/2021 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,9859,13049,2,0001592280,Common Stock
+A,09/10/2021 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,4974,22908,1,0001592280,Common Stock
+D,09/10/2021 00:00:00,Rogers Bruce,4,M-Exempt,--D,8279,182434,10,0001780273,Stock Option (right to buy Common Stock)
+D,09/10/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,8279,89905,6,0001780273,Common Stock
+A,09/10/2021 00:00:00,Rogers Bruce,4,M-Exempt,--D,8279,98184,5,0001780273,Common Stock
+D,09/09/2021 00:00:00,Rogers Bruce,4,M-Exempt,--D,30000,190713,9,0001780273,Stock Option (right to buy Common Stock)
+D,09/09/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,6086,89905,4,0001780273,Common Stock
+D,09/09/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,22213,95991,3,0001780273,Common Stock
+D,09/09/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,1701,118204,2,0001780273,Common Stock
+A,09/09/2021 00:00:00,Rogers Bruce,4,M-Exempt,--D,30000,119905,1,0001780273,Common Stock
+A,08/20/2021 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,11511,912241,7,0001055624,Common Stock
+A,08/20/2021 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,109,900730,6,0001055624,Common Stock
+A,08/19/2021 00:00:00,Nanda Nisha,4/A,A-Award,--D,18177,18177,1,0001762683,Stock Option (right to buy Common Stock)
+A,08/19/2021 00:00:00,Nanda Nisha,4,A-Award,--D,24000,24000,1,0001762683,Stock Option (right to buy Common Stock)
+A,08/19/2021 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,13874,900621,5,0001055624,Common Stock
+A,08/19/2021 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,18916,886747,4,0001055624,Common Stock
+A,08/19/2021 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,210,867831,3,0001055624,Common Stock
+A,08/18/2021 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,9208,867621,2,0001055624,Common Stock
+A,08/18/2021 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,21099,858413,1,0001055624,Common Stock
+D,06/18/2021 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,200,75244,6,0001592280,Stock Option (right to buy Common Stock)
+D,06/18/2021 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,200,17934,4,0001592280,Common Stock
+A,06/18/2021 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,200,18134,3,0001592280,Common Stock
+A,06/16/2021 00:00:00,SPRINGER TIMOTHY A,4/A,A-Award,--D,9996,9996,1,0001055624,Director Stock Option (right to buy)
+A,06/16/2021 00:00:00,SLATTERY JOSEPH P,4/A,A-Award,--D,9615,9615,1,0001246530,Director Stock Option (right to buy)
+A,06/16/2021 00:00:00,Nashat Amir,4/A,A-Award,--D,9910,9910,1,0001575843,Director Stock Option (right to buy)
+A,06/16/2021 00:00:00,GRAY SUSANNAH,4/A,A-Award,--D,0,0,1,0001833453,Director Stock Option (right to buy)
+A,06/16/2021 00:00:00,Edwards Martin,4/A,A-Award,--D,9996,9996,1,0001640073,Director Stock Option (right to buy)
+A,06/16/2021 00:00:00,Christensen Gustav,4/A,A-Award,--D,9150,9150,1,0001397709,Director Stock Option (right to buy)
+A,06/16/2021 00:00:00,BISCHOFBERGER NORBERT W,4/A,A-Award,--D,9888,9888,1,0001190273,Director Stock Option (right to buy)
+D,06/16/2021 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,300,75444,5,0001592280,Stock Option (right to buy Common Stock)
+D,06/16/2021 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,300,17934,2,0001592280,Common Stock
+A,06/16/2021 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,300,18234,1,0001592280,Common Stock
+A,06/16/2021 00:00:00,SPRINGER TIMOTHY A,4,A-Award,--D,12000,12000,1,0001055624,Director Stock Option (right to buy)
+A,06/16/2021 00:00:00,SLATTERY JOSEPH P,4,A-Award,--D,12000,12000,1,0001246530,Director Stock Option (right to buy)
+A,06/16/2021 00:00:00,Nashat Amir,4,A-Award,--D,12000,12000,1,0001575843,Director Stock Option (right to buy)
+A,06/16/2021 00:00:00,GRAY SUSANNAH,4,A-Award,--D,12000,12000,1,0001833453,Director Stock Option (right to buy)
+A,06/16/2021 00:00:00,Edwards Martin,4,A-Award,--D,12000,12000,1,0001640073,Director Stock Option (right to buy)
+A,06/16/2021 00:00:00,Christensen Gustav,4,A-Award,--D,12000,12000,1,0001397709,Director Stock Option (right to buy)
+A,06/16/2021 00:00:00,BISCHOFBERGER NORBERT W,4,A-Award,--D,12000,12000,1,0001190273,Director Stock Option (right to buy)
+D,06/14/2021 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,3526,75744,6,0001592280,Stock Option (right to buy Common Stock)
+D,06/14/2021 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,3526,17934,4,0001592280,Common Stock
+A,06/14/2021 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,3526,21460,3,0001592280,Common Stock
+D,06/10/2021 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,16000,79270,5,0001592280,Stock Option (right to buy Common Stock)
+D,06/10/2021 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,16000,17934,2,0001592280,Common Stock
+A,06/10/2021 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,16000,33934,1,0001592280,Common Stock
+D,06/01/2021 00:00:00,Linde Peter,4,S-Sale,--D,1352,4600,2,0001805908,Common Stock
+D,06/01/2021 00:00:00,Linde Peter,4,S-Sale,--D,4648,5952,1,0001805908,Common Stock
+A,05/26/2021 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,2413,837314,7,0001055624,Common Stock
+A,05/26/2021 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,22587,834901,6,0001055624,Common Stock
+A,05/25/2021 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,8441,812314,5,0001055624,Common Stock
+A,05/25/2021 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,56559,803873,4,0001055624,Common Stock
+A,05/24/2021 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,7550,747314,3,0001055624,Common Stock
+A,05/24/2021 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,27426,739764,2,0001055624,Common Stock
+A,05/24/2021 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,5024,712338,1,0001055624,Common Stock
+A,05/21/2021 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,232295,707314,1,0001055624,Common Stock
+D,05/21/2021 00:00:00,Nashat Amir,4,S-Sale,--I,15188,136691,2,0001575843,Common Stock
+D,05/21/2021 00:00:00,Nashat Amir,4,S-Sale,--I,217107,1953960,1,0001575843,Common Stock
+D,04/30/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2855,2068913,6,0001641354,Common Stock
+D,04/30/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5274,2071768,5,0001641354,Common Stock
+D,04/30/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1358,2077042,4,0001641354,Common Stock
+D,04/29/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1114,2078400,3,0001641354,Common Stock
+D,04/29/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2731,2079514,2,0001641354,Common Stock
+D,04/29/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3826,2082245,1,0001641354,Common Stock
+D,04/28/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1990,2086071,5,0001641354,Common Stock
+D,04/28/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1376,2088061,4,0001641354,Common Stock
+A,04/27/2021 00:00:00,GRAY SUSANNAH,4/A,A-Award,--D,18111,18111,1,0001833453,Stock Option (right to buy Common Stock)
+A,04/27/2021 00:00:00,GRAY SUSANNAH,4,A-Award,--D,24000,24000,1,0001833453,Stock Option (right to buy Common Stock)
+D,04/27/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,332,2089437,3,0001641354,Common Stock
+D,04/27/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4417,2089769,2,0001641354,Common Stock
+D,04/27/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2589,2094186,1,0001641354,Common Stock
+D,04/26/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1273,2096775,7,0001641354,Common Stock
+D,04/26/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2538,2098048,6,0001641354,Common Stock
+D,04/26/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1335,2100586,5,0001641354,Common Stock
+D,04/23/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1,2101921,4,0001641354,Common Stock
+D,04/23/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1701,2101922,3,0001641354,Common Stock
+D,04/23/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3838,2103623,2,0001641354,Common Stock
+D,04/23/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3132,2107461,1,0001641354,Common Stock
+D,04/22/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,363,2110593,9,0001641354,Common Stock
+D,04/22/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2326,2110956,8,0001641354,Common Stock
+D,04/22/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1640,2113282,7,0001641354,Common Stock
+D,04/22/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5329,2114922,6,0001641354,Common Stock
+D,04/22/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2577,2120251,5,0001641354,Common Stock
+D,04/21/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3523,2122828,4,0001641354,Common Stock
+D,04/21/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1991,2126351,3,0001641354,Common Stock
+D,04/21/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,109,2128342,2,0001641354,Common Stock
+D,04/21/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1929,2128451,1,0001641354,Common Stock
+D,04/20/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,76,2130380,5,0001641354,Common Stock
+D,04/20/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4374,2130456,4,0001641354,Common Stock
+D,04/20/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5343,2134830,3,0001641354,Common Stock
+D,04/19/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,809,2140173,2,0001641354,Common Stock
+D,04/19/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,7272,2140982,1,0001641354,Common Stock
+D,04/16/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2719,2148254,6,0001641354,Common Stock
+D,04/16/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3846,2150973,5,0001641354,Common Stock
+D,04/15/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,355,2154819,4,0001641354,Common Stock
+D,04/15/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2828,2155174,3,0001641354,Common Stock
+D,04/15/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4331,2158002,2,0001641354,Common Stock
+D,04/15/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3667,2162333,1,0001641354,Common Stock
+D,04/14/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4064,2166000,7,0001641354,Common Stock
+D,04/14/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3716,2170064,6,0001641354,Common Stock
+D,04/14/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2055,2173780,5,0001641354,Common Stock
+D,04/14/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4097,2175835,4,0001641354,Common Stock
+D,04/13/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,367,2179932,3,0001641354,Common Stock
+D,04/13/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4879,2180299,2,0001641354,Common Stock
+D,04/13/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1758,2185178,1,0001641354,Common Stock
+D,04/12/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,708,2186936,7,0001641354,Common Stock
+D,04/12/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,7735,2187644,6,0001641354,Common Stock
+D,04/12/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,6149,2195379,5,0001641354,Common Stock
+D,04/09/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,35,2201528,4,0001641354,Common Stock
+D,04/09/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1830,2201563,3,0001641354,Common Stock
+D,04/09/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5229,2203393,2,0001641354,Common Stock
+D,04/09/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3126,2208622,1,0001641354,Common Stock
+D,04/08/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,10491,2211748,4,0001641354,Common Stock
+D,04/08/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4745,2222239,3,0001641354,Common Stock
+D,04/07/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5172,2226984,2,0001641354,Common Stock
+D,04/07/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,6277,2232156,1,0001641354,Common Stock
+D,04/06/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,65,2238433,7,0001641354,Common Stock
+D,04/06/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3543,2238498,6,0001641354,Common Stock
+D,04/06/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,7273,2242041,5,0001641354,Common Stock
+D,04/05/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1192,2249314,4,0001641354,Common Stock
+D,04/05/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1354,2250506,3,0001641354,Common Stock
+D,04/05/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3918,2251860,2,0001641354,Common Stock
+D,04/05/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3079,2255778,1,0001641354,Common Stock
+D,04/01/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1312,2258857,7,0001641354,Common Stock
+D,04/01/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,9303,2260169,6,0001641354,Common Stock
+D,04/01/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2064,2269472,5,0001641354,Common Stock
+D,04/01/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,942,2271536,4,0001641354,Common Stock
+D,03/31/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,112,2272478,3,0001641354,Common Stock
+D,03/31/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,11560,2272590,2,0001641354,Common Stock
+D,03/31/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5112,2284150,1,0001641354,Common Stock
+D,03/30/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,382,2289262,10,0001641354,Common Stock
+D,03/30/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5691,2289644,9,0001641354,Common Stock
+D,03/30/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,9413,2295335,8,0001641354,Common Stock
+D,03/30/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1433,2304748,7,0001641354,Common Stock
+D,03/30/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,581,2306181,6,0001641354,Common Stock
+D,03/30/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2408,2306762,5,0001641354,Common Stock
+D,03/29/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,8,2309170,4,0001641354,Common Stock
+D,03/29/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2814,2309178,3,0001641354,Common Stock
+D,03/29/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5551,2311992,2,0001641354,Common Stock
+D,03/29/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,7795,2317543,1,0001641354,Common Stock
+D,03/26/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1406,2325338,9,0001641354,Common Stock
+D,03/26/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4572,2326744,8,0001641354,Common Stock
+D,03/26/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,7003,2331316,7,0001641354,Common Stock
+D,03/25/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,416,2338319,6,0001641354,Common Stock
+D,03/25/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,6372,2338735,5,0001641354,Common Stock
+D,03/25/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4087,2345107,4,0001641354,Common Stock
+D,03/25/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,11257,2349194,3,0001641354,Common Stock
+D,03/25/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,8820,2360451,2,0001641354,Common Stock
+D,03/25/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4004,2369271,1,0001641354,Common Stock
+D,03/24/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4368,2373275,10,0001641354,Common Stock
+D,03/24/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5043,2377643,9,0001641354,Common Stock
+D,03/24/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4289,2382686,8,0001641354,Common Stock
+D,03/24/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4736,2386975,7,0001641354,Common Stock
+D,03/24/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,8280,2391711,6,0001641354,Common Stock
+D,03/24/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,6255,2399991,5,0001641354,Common Stock
+D,03/23/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1444,2406246,4,0001641354,Common Stock
+D,03/23/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,6912,2407690,3,0001641354,Common Stock
+D,03/23/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,9236,2414602,2,0001641354,Common Stock
+D,03/23/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1751,2423838,1,0001641354,Common Stock
+D,03/22/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1406,2425589,7,0001641354,Common Stock
+D,03/22/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5996,2426995,6,0001641354,Common Stock
+D,03/22/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1751,2432991,5,0001641354,Common Stock
+D,03/19/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2848,2434742,4,0001641354,Common Stock
+D,03/19/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5836,2437590,3,0001641354,Common Stock
+D,03/19/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5026,2443426,2,0001641354,Common Stock
+D,03/19/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2919,2448452,1,0001641354,Common Stock
+D,03/18/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1083,2451371,6,0001641354,Common Stock
+D,03/18/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,15154,2452454,5,0001641354,Common Stock
+D,03/18/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3235,2467608,4,0001641354,Common Stock
+D,03/17/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,993,2470843,3,0001641354,Common Stock
+D,03/17/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,8087,2471776,2,0001641354,Common Stock
+D,03/17/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,7301,2479863,1,0001641354,Common Stock
+D,03/16/2021 00:00:00,Linde Peter,4,M-Exempt,--D,10378,10378,8,0001805908,Restricted Stock Unit (RSU)
+D,03/16/2021 00:00:00,Linde Peter,4,M-Exempt,--D,11365,34095,7,0001805908,Restricted Stock Unit (RSU)
+D,03/16/2021 00:00:00,Linde Peter,4,S-Sale,--D,500,10600,6,0001805908,Common Stock
+D,03/16/2021 00:00:00,Linde Peter,4,S-Sale,--D,381,11100,5,0001805908,Common Stock
+D,03/16/2021 00:00:00,Linde Peter,4,S-Sale,--D,1561,11481,4,0001805908,Common Stock
+D,03/16/2021 00:00:00,Linde Peter,4,S-Sale,--D,9558,13042,3,0001805908,Common Stock
+A,03/16/2021 00:00:00,Linde Peter,4,M-Exempt,--D,10378,22600,2,0001805908,Common Stock
+A,03/16/2021 00:00:00,Linde Peter,4,M-Exempt,--D,11365,12222,1,0001805908,Common Stock
+D,03/16/2021 00:00:00,DeVaul William,4,M-Exempt,--D,14027,113854,14,0001780270,Stock Option (right to buy Common Stock)
+D,03/16/2021 00:00:00,DeVaul William,4,S-Sale,--D,600,4206,12,0001780270,Common Stock
+D,03/16/2021 00:00:00,DeVaul William,4,S-Sale,--D,500,4806,11,0001780270,Common Stock
+D,03/16/2021 00:00:00,DeVaul William,4,S-Sale,--D,3498,5306,10,0001780270,Common Stock
+D,03/16/2021 00:00:00,DeVaul William,4,S-Sale,--D,9429,8804,9,0001780270,Common Stock
+A,03/16/2021 00:00:00,DeVaul William,4,M-Exempt,--D,14027,18233,8,0001780270,Common Stock
+D,03/16/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1394,2487164,12,0001641354,Common Stock
+D,03/16/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,197,2488558,11,0001641354,Common Stock
+D,03/16/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,692,2488755,10,0001641354,Common Stock
+D,03/16/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,6483,2489447,9,0001641354,Common Stock
+D,03/16/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,14777,2495930,8,0001641354,Common Stock
+D,03/16/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4316,2510707,7,0001641354,Common Stock
+D,03/15/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,200,89849,6,0001780273,Common Stock
+D,03/15/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,1030,90049,5,0001780273,Common Stock
+D,03/15/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,1693,91079,4,0001780273,Common Stock
+D,03/15/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,1341,92772,3,0001780273,Common Stock
+D,03/15/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,1345,94113,2,0001780273,Common Stock
+D,03/15/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,2900,95458,1,0001780273,Common Stock
+D,03/15/2021 00:00:00,DeVaul William,4,M-Exempt,--D,45973,127881,13,0001780270,Stock Option (right to buy Common Stock)
+D,03/15/2021 00:00:00,DeVaul William,4,S-Sale,--D,1509,4206,7,0001780270,Common Stock
+D,03/15/2021 00:00:00,DeVaul William,4,S-Sale,--D,3410,5715,6,0001780270,Common Stock
+D,03/15/2021 00:00:00,DeVaul William,4,S-Sale,--D,15068,9125,5,0001780270,Common Stock
+D,03/15/2021 00:00:00,DeVaul William,4,S-Sale,--D,7916,24193,4,0001780270,Common Stock
+D,03/15/2021 00:00:00,DeVaul William,4,S-Sale,--D,5396,32109,3,0001780270,Common Stock
+D,03/15/2021 00:00:00,DeVaul William,4,S-Sale,--D,12674,37505,2,0001780270,Common Stock
+A,03/15/2021 00:00:00,DeVaul William,4,M-Exempt,--D,45973,50179,1,0001780270,Common Stock
+D,03/15/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2112,2515023,6,0001641354,Common Stock
+D,03/15/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2630,2517125,5,0001641354,Common Stock
+D,03/15/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,10825,2519765,4,0001641354,Common Stock
+D,03/15/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,6620,2530590,3,0001641354,Common Stock
+D,03/15/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4004,2537210,2,0001641354,Common Stock
+D,03/15/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,10341,2541214,1,0001641354,Common Stock
+A,03/08/2021 00:00:00,SCHEGERIN MARC,4,P-Purchase,--D,3000,6379,1,0001773184,Common Stock
+A,03/05/2021 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,100000,475019,1,0001055624,Common Stock
+A,03/05/2021 00:00:00,Goyal Vikas,4,P-Purchase,--D,1000,1000,1,0001721017,Common Stock
+D,03/01/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,600,2551555,10,0001641354,Common Stock
+D,03/01/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2692,2552155,9,0001641354,Common Stock
+D,03/01/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3772,2554847,8,0001641354,Common Stock
+D,02/26/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3604,2558619,7,0001641354,Common Stock
+D,02/26/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,7808,2562223,6,0001641354,Common Stock
+D,02/26/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5458,2570031,5,0001641354,Common Stock
+D,02/26/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2376,2575489,4,0001641354,Common Stock
+D,02/25/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,242,2577865,3,0001641354,Common Stock
+D,02/25/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2013,2578107,2,0001641354,Common Stock
+D,02/25/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,7424,2580120,1,0001641354,Common Stock
+D,02/24/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2431,2587544,4,0001641354,Common Stock
+D,02/24/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,567,2589975,3,0001641354,Common Stock
+D,02/23/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2052,2590542,2,0001641354,Common Stock
+D,02/23/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5498,2592594,1,0001641354,Common Stock
+D,02/22/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,785,2598092,5,0001641354,Common Stock
+D,02/22/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5638,2598877,4,0001641354,Common Stock
+D,02/19/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,540,2604515,3,0001641354,Common Stock
+D,02/19/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1871,2605055,2,0001641354,Common Stock
+D,02/19/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2025,2606926,1,0001641354,Common Stock
+D,02/18/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,928,2608951,3,0001641354,Common Stock
+D,02/18/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,7966,2609879,2,0001641354,Common Stock
+D,02/17/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,7262,2617845,1,0001641354,Common Stock
+D,02/16/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1162,2625107,4,0001641354,Common Stock
+D,02/16/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4863,2626269,3,0001641354,Common Stock
+D,02/12/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,776,2631132,2,0001641354,Common Stock
+D,02/12/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1588,2631908,1,0001641354,Common Stock
+D,02/11/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,17,2633496,4,0001641354,Common Stock
+D,02/11/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3988,2633513,3,0001641354,Common Stock
+D,02/10/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1046,2637501,2,0001641354,Common Stock
+D,02/10/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5022,2638547,1,0001641354,Common Stock
+D,02/09/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,6837,97614,2,0001780273,Common Stock
+D,02/09/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1148,2643569,4,0001641354,Common Stock
+D,02/09/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4313,2644717,3,0001641354,Common Stock
+D,02/08/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,4654,104451,1,0001780273,Common Stock
+D,02/08/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,12554,2649030,2,0001641354,Common Stock
+D,02/08/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4068,2661584,1,0001641354,Common Stock
+D,02/05/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,147,2673902,4,0001641354,Common Stock
+D,02/05/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5734,2674049,3,0001641354,Common Stock
+D,02/04/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4963,2679783,2,0001641354,Common Stock
+D,02/04/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4574,2684746,1,0001641354,Common Stock
+D,02/03/2021 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,15000,95270,7,0001592280,Stock Option (right to buy Common Stock)
+D,02/03/2021 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,2954,17934,6,0001592280,Common Stock
+D,02/03/2021 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,12046,20888,5,0001592280,Common Stock
+A,02/03/2021 00:00:00,Farrell Robert E Jr,4,M-Exempt,--D,15000,32934,4,0001592280,Common Stock
+D,02/03/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,8586,2689320,5,0001641354,Common Stock
+D,02/03/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,17572,2697906,4,0001641354,Common Stock
+D,02/02/2021 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,11932,401785,13,0001779978,Stock Option (right to buy Common Stock)
+D,02/02/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,100,614474,11,0001779978,Common Stock
+D,02/02/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,2772,614574,10,0001779978,Common Stock
+D,02/02/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,5128,617346,9,0001779978,Common Stock
+D,02/02/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,4203,3286,8,0001779978,Common Stock
+D,02/02/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,7729,7489,7,0001779978,Common Stock
+A,02/02/2021 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,11932,15218,6,0001779978,Common Stock
+D,02/02/2021 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,399,17934,3,0001592280,Common Stock
+D,02/02/2021 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,3683,18333,2,0001592280,Common Stock
+D,02/02/2021 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,5918,22016,1,0001592280,Common Stock
+D,02/02/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,669,2715478,3,0001641354,Common Stock
+D,02/02/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,7362,2716147,2,0001641354,Common Stock
+D,02/02/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,19935,2723509,1,0001641354,Common Stock
+D,02/01/2021 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,4000,413717,12,0001779978,Stock Option (right to buy Common Stock)
+D,02/01/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,1900,622474,5,0001779978,Common Stock
+D,02/01/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,2100,624374,4,0001779978,Common Stock
+D,02/01/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,1799,3286,3,0001779978,Common Stock
+D,02/01/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,2201,5085,2,0001779978,Common Stock
+A,02/01/2021 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,4000,7286,1,0001779978,Common Stock
+D,02/01/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1160,2743444,5,0001641354,Common Stock
+D,02/01/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5166,2744604,4,0001641354,Common Stock
+D,02/01/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3883,2749770,3,0001641354,Common Stock
+D,01/29/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,449,2753653,2,0001641354,Common Stock
+D,01/29/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,9885,2754102,1,0001641354,Common Stock
+D,01/28/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,6987,2763987,4,0001641354,Common Stock
+D,01/28/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,4274,2770974,3,0001641354,Common Stock
+D,01/27/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2941,2775248,2,0001641354,Common Stock
+D,01/27/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,6534,2778189,1,0001641354,Common Stock
+D,01/26/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2438,2784723,4,0001641354,Common Stock
+D,01/26/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,6848,2787263,3,0001641354,Common Stock
+D,01/25/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1504,2794111,2,0001641354,Common Stock
+D,01/25/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5119,2795615,1,0001641354,Common Stock
+D,01/22/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2438,2800734,3,0001641354,Common Stock
+D,01/22/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,7303,2803172,2,0001641354,Common Stock
+D,01/21/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,264,2810475,1,0001641354,Common Stock
+D,01/19/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,6506,2810739,2,0001641354,Common Stock
+D,01/19/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,10732,2817245,1,0001641354,Common Stock
+A,01/15/2021 00:00:00,Tipirneni Praveen P.,4,A-Award,--D,205000,205000,1,0001779978,Stock Option (right to buy Common Stock)
+A,01/15/2021 00:00:00,SCHEGERIN MARC,4,A-Award,--D,83000,83000,1,0001773184,Stock Option (right to buy Common Stock)
+A,01/15/2021 00:00:00,Rogers Bruce,4,A-Award,--D,83000,83000,1,0001780273,Stock Option (right to buy Common Stock)
+A,01/15/2021 00:00:00,Linde Peter,4,A-Award,--D,83000,83000,1,0001805908,Stock Option (right to buy Common Stock)
+A,01/15/2021 00:00:00,Farrell Robert E Jr,4,A-Award,--D,75000,75000,1,0001592280,Stock Option (right to buy Common Stock)
+A,01/15/2021 00:00:00,DeVaul William,4,A-Award,--D,75000,75000,1,0001780270,Stock Option (right to buy Common Stock)
+D,01/15/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,14289,2827977,3,0001641354,Common Stock
+D,01/14/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3904,2842266,2,0001641354,Common Stock
+D,01/14/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5337,2848170,1,0001641354,Common Stock
+D,01/13/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,6740,2851507,2,0001641354,Common Stock
+D,01/12/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,5758,2858247,1,0001641354,Common Stock
+D,01/11/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3382,2864005,2,0001641354,Common Stock
+D,01/08/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,9027,2867387,1,0001641354,Common Stock
+D,01/07/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,2359,109105,1,0001780273,Common Stock
+D,01/07/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,16141,2876414,3,0001641354,Common Stock
+D,01/06/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,400,111464,9,0001780273,Common Stock
+D,01/06/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,10840,111864,8,0001780273,Common Stock
+D,01/06/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,95,2892555,2,0001641354,Common Stock
+D,01/06/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,11929,2892650,1,0001641354,Common Stock
+D,01/05/2021 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,1653,417717,12,0001779978,Stock Option (right to buy Common Stock)
+D,01/05/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,300,626474,10,0001779978,Common Stock
+D,01/05/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,1304,626774,9,0001779978,Common Stock
+D,01/05/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,300,3813,8,0001779978,Common Stock
+D,01/05/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,1353,4113,7,0001779978,Common Stock
+A,01/05/2021 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,1653,5466,6,0001779978,Common Stock
+D,01/05/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,318,122704,7,0001780273,Common Stock
+D,01/05/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,1801,123022,6,0001780273,Common Stock
+D,01/05/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,12332,124823,5,0001780273,Common Stock
+D,01/05/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,139,2904579,5,0001641354,Common Stock
+D,01/05/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2017,2904718,4,0001641354,Common Stock
+D,01/05/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,11168,2906735,3,0001641354,Common Stock
+D,01/04/2021 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,2347,419370,11,0001779978,Stock Option (right to buy Common Stock)
+D,01/04/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,600,628078,5,0001779978,Common Stock
+D,01/04/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,1796,628678,4,0001779978,Common Stock
+D,01/04/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,400,3813,3,0001779978,Common Stock
+D,01/04/2021 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,1947,4213,2,0001779978,Common Stock
+A,01/04/2021 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,2347,6160,1,0001779978,Common Stock
+D,01/04/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,2,137155,4,0001780273,Common Stock
+D,01/04/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,2640,137157,3,0001780273,Common Stock
+D,01/04/2021 00:00:00,Rogers Bruce,4,S-Sale,--D,9308,139797,2,0001780273,Common Stock
+D,01/04/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,1655,2917903,2,0001641354,Common Stock
+D,01/04/2021 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,10463,2919558,1,0001641354,Common Stock
+D,12/31/2020 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,151,2930021,5,0001641354,Common Stock
+D,12/31/2020 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3756,2930172,4,0001641354,Common Stock
+D,12/30/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,7364,27934,3,0001592280,Common Stock
+D,12/30/2020 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,486,2933928,3,0001641354,Common Stock
+D,12/30/2020 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,3769,2934414,2,0001641354,Common Stock
+D,12/30/2020 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,7730,2938183,1,0001641354,Common Stock
+D,12/29/2020 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,54,2945913,4,0001641354,Common Stock
+D,12/29/2020 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,10374,2945967,3,0001641354,Common Stock
+D,12/28/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,405,35298,2,0001592280,Common Stock
+D,12/28/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,12231,35703,1,0001592280,Common Stock
+D,12/28/2020 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,149,2956341,2,0001641354,Common Stock
+D,12/28/2020 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,9317,2956490,1,0001641354,Common Stock
+D,12/24/2020 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,753,2965807,5,0001641354,Common Stock
+D,12/24/2020 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,2130,2966560,4,0001641354,Common Stock
+D,12/23/2020 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,137,2968690,3,0001641354,Common Stock
+D,12/23/2020 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,313,2968827,2,0001641354,Common Stock
+D,12/23/2020 00:00:00,"Omega Fund V, L.P.",4,S-Sale,--D,8692,2969140,1,0001641354,Common Stock
+D,12/22/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,2268,421717,8,0001779978,Stock Option (right to buy Common Stock)
+D,12/22/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,2268,3813,6,0001779978,Common Stock
+A,12/22/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,2268,6081,5,0001779978,Common Stock
+D,12/22/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,74,630474,4,0001779978,Common Stock
+D,12/21/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,200,423985,7,0001779978,Stock Option (right to buy Common Stock)
+D,12/21/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,240,630548,3,0001779978,Common Stock
+D,12/21/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,200,3813,2,0001779978,Common Stock
+A,12/21/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,200,4013,1,0001779978,Common Stock
+D,12/16/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,1000,424185,4,0001779978,Stock Option (right to buy Common Stock)
+D,12/16/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,1259,630788,3,0001779978,Common Stock
+D,12/16/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,1000,3813,2,0001779978,Common Stock
+A,12/16/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,1000,4813,1,0001779978,Common Stock
+D,12/10/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,600,425185,4,0001779978,Stock Option (right to buy Common Stock)
+D,12/10/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,6427,632047,3,0001779978,Common Stock
+D,12/10/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,600,3813,2,0001779978,Common Stock
+A,12/10/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,600,4413,1,0001779978,Common Stock
+A,12/01/2020 00:00:00,Edwards Martin,4,A-Award,--D,24000,24000,1,0001640073,Stock Option (right to buy Common Stock)
+D,12/01/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,4000,425785,4,0001779978,Stock Option (right to buy Common Stock)
+D,12/01/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,4000,638474,3,0001779978,Common Stock
+D,12/01/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,4000,3813,2,0001779978,Common Stock
+A,12/01/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,4000,7813,1,0001779978,Common Stock
+D,11/27/2020 00:00:00,Rogers Bruce,4,G-Gift,-ED,5000,149195,1,0001780273,Common Stock
+D,11/18/2020 00:00:00,Tipirneni Praveen P.,4/A,S-Sale,--D,327,3286,4,0001779978,Common Stock
+A,11/18/2020 00:00:00,Tipirneni Praveen P.,4/A,M-Exempt,--D,327,3613,3,0001779978,Common Stock
+D,11/18/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,327,429458,8,0001779978,Stock Option (right to buy Common Stock)
+D,11/18/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,342,642474,6,0001779978,Common Stock
+D,11/18/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,327,3486,5,0001779978,Common Stock
+A,11/18/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,327,3813,4,0001779978,Common Stock
+D,11/17/2020 00:00:00,Tipirneni Praveen P.,4/A,S-Sale,--D,2713,3286,2,0001779978,Common Stock
+A,11/17/2020 00:00:00,Tipirneni Praveen P.,4/A,M-Exempt,--D,2713,5999,1,0001779978,Common Stock
+D,11/17/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,2713,429785,7,0001779978,Stock Option (right to buy Common Stock)
+D,11/17/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,2717,642816,3,0001779978,Common Stock
+D,11/17/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,2713,3486,2,0001779978,Common Stock
+A,11/17/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,2713,6199,1,0001779978,Common Stock
+D,11/17/2020 00:00:00,DeVaul William,4,M-Exempt,--D,4275,173854,3,0001780270,Stock Option (right to buy Common Stock)
+D,11/17/2020 00:00:00,DeVaul William,4,S-Sale,--D,4275,3286,2,0001780270,Common Stock
+A,11/17/2020 00:00:00,DeVaul William,4,M-Exempt,--D,4275,7561,1,0001780270,Common Stock
+D,11/16/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,200,432498,12,0001779978,Stock Option (right to buy Common Stock)
+D,11/16/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,200,645533,9,0001779978,Common Stock
+D,11/16/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,200,3286,8,0001779978,Common Stock
+A,11/16/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,200,3486,7,0001779978,Common Stock
+D,11/16/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,300,3286,5,0001779978,Common Stock
+D,11/16/2020 00:00:00,DeVaul William,4,M-Exempt,--D,500,178129,9,0001780270,Stock Option (right to buy Common Stock)
+D,11/16/2020 00:00:00,DeVaul William,4,S-Sale,--D,500,3286,6,0001780270,Common Stock
+A,11/16/2020 00:00:00,DeVaul William,4,M-Exempt,--D,500,3786,5,0001780270,Common Stock
+D,11/13/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,300,432698,11,0001779978,Stock Option (right to buy Common Stock)
+D,11/13/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,341,645733,6,0001779978,Common Stock
+A,11/13/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,300,3586,4,0001779978,Common Stock
+D,11/13/2020 00:00:00,DeVaul William,4,M-Exempt,--D,530,178629,8,0001780270,Stock Option (right to buy Common Stock)
+D,11/13/2020 00:00:00,DeVaul William,4,S-Sale,--D,530,3286,4,0001780270,Common Stock
+A,11/13/2020 00:00:00,DeVaul William,4,M-Exempt,--D,530,3816,3,0001780270,Common Stock
+D,11/12/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,460,432998,10,0001779978,Stock Option (right to buy Common Stock)
+D,11/12/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,400,646074,3,0001779978,Common Stock
+D,11/12/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,460,3286,2,0001779978,Common Stock
+A,11/12/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,460,3746,1,0001779978,Common Stock
+D,11/12/2020 00:00:00,DeVaul William,4,M-Exempt,--D,390,179159,7,0001780270,Stock Option (right to buy Common Stock)
+D,11/12/2020 00:00:00,DeVaul William,4,S-Sale,--D,390,3286,2,0001780270,Common Stock
+A,11/12/2020 00:00:00,DeVaul William,4,M-Exempt,--D,390,3676,1,0001780270,Common Stock
+D,11/10/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,5315,85248,2,0001779976,Common Stock
+D,11/10/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,5040,47934,2,0001592280,Common Stock
+D,11/09/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,900,90563,1,0001779976,Common Stock
+D,11/09/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,800,52974,1,0001592280,Common Stock
+D,11/09/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,2508,433458,12,0001779978,Stock Option (right to buy Common Stock)
+D,11/09/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,2595,646474,9,0001779978,Common Stock
+D,11/09/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,2508,3286,8,0001779978,Common Stock
+A,11/09/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,2508,5794,7,0001779978,Common Stock
+D,11/06/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,4367,435966,11,0001779978,Stock Option (right to buy Common Stock)
+D,11/06/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,4331,649069,6,0001779978,Common Stock
+D,11/06/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,4367,3286,5,0001779978,Common Stock
+A,11/06/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,4367,7653,4,0001779978,Common Stock
+D,11/05/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,6643,440333,10,0001779978,Stock Option (right to buy Common Stock)
+D,11/05/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,6525,653400,3,0001779978,Common Stock
+D,11/05/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,6643,3286,2,0001779978,Common Stock
+A,11/05/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,6643,9929,1,0001779978,Common Stock
+D,11/04/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,6100,446976,16,0001779978,Stock Option (right to buy Common Stock)
+D,11/04/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,6238,659925,13,0001779978,Common Stock
+D,11/04/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,6100,3286,12,0001779978,Common Stock
+A,11/04/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,6100,9386,11,0001779978,Common Stock
+D,11/03/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,2605,453076,15,0001779978,Stock Option (right to buy Common Stock)
+D,11/03/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,200,666163,10,0001779978,Common Stock
+D,11/03/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,2375,666363,9,0001779978,Common Stock
+D,11/03/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,905,3286,8,0001779978,Common Stock
+D,11/03/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,1700,4191,7,0001779978,Common Stock
+A,11/03/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,2605,5891,6,0001779978,Common Stock
+D,11/02/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,7777,455681,14,0001779978,Stock Option (right to buy Common Stock)
+D,11/02/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,800,668738,5,0001779978,Common Stock
+D,11/02/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--I,6936,669538,4,0001779978,Common Stock
+D,11/02/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,932,3286,3,0001779978,Common Stock
+D,11/02/2020 00:00:00,Tipirneni Praveen P.,4,S-Sale,--D,6845,4218,2,0001779978,Common Stock
+A,11/02/2020 00:00:00,Tipirneni Praveen P.,4,M-Exempt,--D,7777,11063,1,0001779978,Common Stock
+D,10/26/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,100,91463,3,0001779976,Common Stock
+D,10/26/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,1267,91563,2,0001779976,Common Stock
+D,10/26/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,100,53774,3,0001592280,Common Stock
+D,10/26/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,1660,53874,2,0001592280,Common Stock
+D,10/23/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,2318,92830,1,0001779976,Common Stock
+D,10/23/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,2300,55534,1,0001592280,Common Stock
+D,10/19/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,100,95148,1,0001779976,Common Stock
+D,10/19/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,100,57834,1,0001592280,Common Stock
+D,10/12/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,718,95248,2,0001779976,Common Stock
+D,10/12/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,1149,57934,2,0001592280,Common Stock
+D,10/09/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,1000,95966,1,0001779976,Common Stock
+D,10/09/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,1916,59083,1,0001592280,Common Stock
+D,10/08/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,405,96966,6,0001779976,Common Stock
+D,10/08/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,500,97371,5,0001779976,Common Stock
+D,10/08/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,1915,60999,5,0001592280,Common Stock
+D,10/07/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,1013,97871,4,0001779976,Common Stock
+D,10/07/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,2200,98884,3,0001779976,Common Stock
+D,10/07/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,2558,62914,4,0001592280,Common Stock
+D,10/07/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,4026,65472,3,0001592280,Common Stock
+D,10/06/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,100,101084,2,0001779976,Common Stock
+D,10/06/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,537,101184,1,0001779976,Common Stock
+D,10/06/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,100,69498,2,0001592280,Common Stock
+D,10/06/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,1215,69598,1,0001592280,Common Stock
+D,10/05/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,1000,101721,4,0001779976,Common Stock
+D,10/05/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,2000,70813,4,0001592280,Common Stock
+D,10/02/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,300,102721,3,0001779976,Common Stock
+D,10/02/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,600,103021,2,0001779976,Common Stock
+D,10/02/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,813,72813,3,0001592280,Common Stock
+D,10/02/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,1029,73626,2,0001592280,Common Stock
+D,10/01/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,1627,103621,1,0001779976,Common Stock
+D,10/01/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,3279,74655,1,0001592280,Common Stock
+D,08/14/2020 00:00:00,DeVaul William,4,M-Exempt,--D,1201,179549,6,0001780270,Stock Option (right to buy Common Stock)
+D,08/14/2020 00:00:00,DeVaul William,4,S-Sale,--D,1201,2500,4,0001780270,Common Stock
+A,08/14/2020 00:00:00,DeVaul William,4,M-Exempt,--D,1201,3701,3,0001780270,Common Stock
+D,08/13/2020 00:00:00,DeVaul William,4,M-Exempt,--D,1104,180750,5,0001780270,Stock Option (right to buy Common Stock)
+D,08/13/2020 00:00:00,DeVaul William,4,S-Sale,--D,1104,2500,2,0001780270,Common Stock
+A,08/13/2020 00:00:00,DeVaul William,4,M-Exempt,--D,1104,3604,1,0001780270,Common Stock
+D,07/09/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,513,105248,5,0001779976,Common Stock
+D,07/08/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,200,105761,4,0001779976,Common Stock
+D,07/08/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,3430,105961,3,0001779976,Common Stock
+D,07/08/2020 00:00:00,DeVaul William,4,M-Exempt,--D,856,181854,8,0001780270,Stock Option (right to buy Common Stock)
+D,07/08/2020 00:00:00,DeVaul William,4,S-Sale,--D,62,2500,6,0001780270,Common Stock
+D,07/08/2020 00:00:00,DeVaul William,4,S-Sale,--D,794,2562,5,0001780270,Common Stock
+A,07/08/2020 00:00:00,DeVaul William,4,M-Exempt,--D,856,3356,4,0001780270,Common Stock
+D,07/07/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,605,109391,2,0001779976,Common Stock
+D,07/07/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,4396,109996,1,0001779976,Common Stock
+D,07/07/2020 00:00:00,DeVaul William,4,M-Exempt,--D,1261,182710,7,0001780270,Stock Option (right to buy Common Stock)
+D,07/07/2020 00:00:00,DeVaul William,4,S-Sale,--D,100,2500,3,0001780270,Common Stock
+D,07/07/2020 00:00:00,DeVaul William,4,S-Sale,--D,1161,2600,2,0001780270,Common Stock
+A,07/07/2020 00:00:00,DeVaul William,4,M-Exempt,--D,1261,3761,1,0001780270,Common Stock
+D,07/06/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,4304,114392,5,0001779976,Common Stock
+D,07/06/2020 00:00:00,DeVaul William,4,M-Exempt,--D,2200,183971,10,0001780270,Stock Option (right to buy Common Stock)
+D,07/06/2020 00:00:00,DeVaul William,4,S-Sale,--D,2200,2500,7,0001780270,Common Stock
+A,07/06/2020 00:00:00,DeVaul William,4,M-Exempt,--D,2200,4700,6,0001780270,Common Stock
+D,07/02/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,100,118696,4,0001779976,Common Stock
+D,07/02/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,9939,118796,3,0001779976,Common Stock
+D,07/02/2020 00:00:00,DeVaul William,4,M-Exempt,--D,5400,186171,9,0001780270,Stock Option (right to buy Common Stock)
+D,07/02/2020 00:00:00,DeVaul William,4,S-Sale,--D,5400,2500,5,0001780270,Common Stock
+A,07/02/2020 00:00:00,DeVaul William,4,M-Exempt,--D,5400,7900,4,0001780270,Common Stock
+D,07/01/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,1706,128735,2,0001779976,Common Stock
+D,07/01/2020 00:00:00,Lugovskoy Alexey,4,S-Sale,--D,2807,130441,1,0001779976,Common Stock
+D,07/01/2020 00:00:00,DeVaul William,4,M-Exempt,--D,2283,191571,8,0001780270,Stock Option (right to buy Common Stock)
+D,07/01/2020 00:00:00,DeVaul William,4,S-Sale,--D,835,2500,3,0001780270,Common Stock
+D,07/01/2020 00:00:00,DeVaul William,4,S-Sale,--D,1448,3335,2,0001780270,Common Stock
+A,07/01/2020 00:00:00,DeVaul William,4,M-Exempt,--D,2283,4783,1,0001780270,Common Stock
+A,06/18/2020 00:00:00,Goyal Vikas,4,A-Award,--D,12000,12000,1,0001721017,Director Stock Option (right to buy)
+A,06/18/2020 00:00:00,SLATTERY JOSEPH P,4,A-Award,--D,12000,12000,1,0001246530,Director Stock Option (right to buy)
+A,06/18/2020 00:00:00,Nashat Amir,4,A-Award,--D,12000,12000,1,0001575843,Director Stock Option (right to buy)
+A,06/18/2020 00:00:00,SPRINGER TIMOTHY A,4,A-Award,--D,12000,12000,1,0001055624,Director Stock Option (right to buy)
+A,06/18/2020 00:00:00,Stampacchia Otello,4,A-Award,--D,12000,12000,1,0001361712,Director Stock Option (right to buy)
+A,06/18/2020 00:00:00,BISCHOFBERGER NORBERT W,4,A-Award,--D,12000,12000,1,0001190273,Director Stock Option (right to buy)
+A,06/18/2020 00:00:00,Christensen Gustav,4,A-Award,--D,12000,12000,1,0001397709,Director Stock Option (right to buy)
+D,06/10/2020 00:00:00,Rogers Bruce,4,S-Sale,--D,3699,153319,2,0001780273,Common Stock
+D,06/10/2020 00:00:00,Rogers Bruce,4,S-Sale,--D,21301,157018,1,0001780273,Common Stock
+D,06/01/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,6681,77934,2,0001592280,Common Stock
+D,05/29/2020 00:00:00,Farrell Robert E Jr,4,S-Sale,--D,13319,84615,1,0001592280,Common Stock
+D,05/28/2020 00:00:00,Rogers Bruce,4,S-Sale,--D,9500,178319,2,0001780273,Common Stock
+D,05/28/2020 00:00:00,Rogers Bruce,4,S-Sale,--D,10500,187819,1,0001780273,Common Stock
+A,04/06/2020 00:00:00,SCHEGERIN MARC,4,A-Award,--D,225600,225600,1,0001773184,Stock Option (right to buy Common Stock)
+A,03/16/2020 00:00:00,Linde Peter,4,A-Award,--D,20756,20756,3,0001805908,Restricted Stock Unit (RSU)
+A,03/16/2020 00:00:00,Linde Peter,4,A-Award,--D,45460,45460,2,0001805908,Restricted Stock Unit (RSU)
+A,03/16/2020 00:00:00,Linde Peter,4,A-Award,--D,181840,181840,1,0001805908,Stock Option (right to buy Common Stock)
+A,02/18/2020 00:00:00,Tipirneni Praveen P.,4,A-Award,--D,273350,273350,1,0001779978,Stock Option (right to buy Common Stock)
+A,02/18/2020 00:00:00,Rogers Bruce,4,A-Award,--D,101900,101900,1,0001780273,Stock Option (right to buy Common Stock)
+A,02/18/2020 00:00:00,Lugovskoy Alexey,4,A-Award,--D,58550,58550,1,0001779976,Stock Option (right to buy Common Stock)
+A,02/18/2020 00:00:00,Farrell Robert E Jr,4,A-Award,--D,87500,87500,1,0001592280,Stock Option (right to buy Common Stock)
+A,02/18/2020 00:00:00,DeVaul William,4,A-Award,--D,74700,74700,1,0001780270,Stock Option (right to buy Common Stock)
+A,12/05/2019 00:00:00,SPRINGER TIMOTHY A,4,A-Award,--D,90000,90000,1,0001055624,Stock Option (right to buy Common Stock)
+A,08/01/2019 00:00:00,Goyal Vikas,4,A-Award,--D,24000,24000,1,0001721017,Stock Option (right to buy Common Stock)
+A,07/01/2019 00:00:00,SLATTERY JOSEPH P,4,P-Purchase,--D,6667,6667,1,0001246530,Common Stock
+D,07/01/2019 00:00:00,Stampacchia Otello,4,C-Conversion,--I,1978779,0,5,0001361712,Series B Preferred Stock
+D,07/01/2019 00:00:00,Stampacchia Otello,4,C-Conversion,--I,857470,0,4,0001361712,Series A Preferred Stock
+A,07/01/2019 00:00:00,Stampacchia Otello,4,P-Purchase,--I,133333,2969582,3,0001361712,Common Stock
+A,07/01/2019 00:00:00,Stampacchia Otello,4,C-Conversion,--I,1978779,2836249,2,0001361712,Common Stock
+A,07/01/2019 00:00:00,Stampacchia Otello,4,C-Conversion,--I,857470,857470,1,0001361712,Common Stock
+D,07/01/2019 00:00:00,"Omega Fund V, L.P.",4,C-Conversion,--D,1978779,0,5,0001641354,Series B Preferred Stock
+D,07/01/2019 00:00:00,"Omega Fund V, L.P.",4,C-Conversion,--D,857470,0,4,0001641354,Series A Preferred Stock
+A,07/01/2019 00:00:00,"Omega Fund V, L.P.",4,P-Purchase,--D,133333,2969582,3,0001641354,Common Stock
+A,07/01/2019 00:00:00,"Omega Fund V, L.P.",4,C-Conversion,--D,1978779,2836249,2,0001641354,Common Stock
+A,07/01/2019 00:00:00,"Omega Fund V, L.P.",4,C-Conversion,--D,857470,857470,1,0001641354,Common Stock
+D,07/01/2019 00:00:00,Goyal Vikas,4,C-Conversion,--I,830489,0,5,0001721017,Series B Preferred Stock
+D,07/01/2019 00:00:00,Goyal Vikas,4,C-Conversion,--I,1469950,0,4,0001721017,Series A Preferred Stock
+A,07/01/2019 00:00:00,Goyal Vikas,4,P-Purchase,--I,333333,2633772,3,0001721017,Common Stock
+A,07/01/2019 00:00:00,Goyal Vikas,4,C-Conversion,--I,830489,2300439,2,0001721017,Common Stock
+A,07/01/2019 00:00:00,Goyal Vikas,4,C-Conversion,--I,1469950,1469950,1,0001721017,Common Stock
+D,07/01/2019 00:00:00,SPRINGER TIMOTHY A,4,C-Conversion,--I,341686,0,11,0001055624,Series Seed Preferred Stock
+D,07/01/2019 00:00:00,SPRINGER TIMOTHY A,4,C-Conversion,--D,1345569,0,10,0001055624,Series B Preferred Stock
+D,07/01/2019 00:00:00,SPRINGER TIMOTHY A,4,C-Conversion,--D,2286588,0,9,0001055624,Series A Preferred Stock
+D,07/01/2019 00:00:00,SPRINGER TIMOTHY A,4,C-Conversion,--D,332805,0,8,0001055624,Series Seed Preferred Stock
+A,07/01/2019 00:00:00,SPRINGER TIMOTHY A,4,P-Purchase,--I,33333,375019,5,0001055624,Common Stock
+A,07/01/2019 00:00:00,SPRINGER TIMOTHY A,4,C-Conversion,--I,341686,341686,4,0001055624,Common Stock
+A,07/01/2019 00:00:00,SPRINGER TIMOTHY A,4,C-Conversion,--D,1345569,4565191,3,0001055624,Common Stock
+A,07/01/2019 00:00:00,SPRINGER TIMOTHY A,4,C-Conversion,--D,2286588,3219622,2,0001055624,Common Stock
+A,07/01/2019 00:00:00,SPRINGER TIMOTHY A,4,C-Conversion,--D,332805,933034,1,0001055624,Common Stock
+D,07/01/2019 00:00:00,Nashat Amir,4,C-Conversion,--I,24111,0,14,0001575843,Series B Preferred Stock
+D,07/01/2019 00:00:00,Nashat Amir,4,C-Conversion,--I,86487,0,13,0001575843,Series A Preferred Stock
+D,07/01/2019 00:00:00,Nashat Amir,4,C-Conversion,--I,33108,0,12,0001575843,Series Seed Preferred Stock
+D,07/01/2019 00:00:00,Nashat Amir,4,C-Conversion,--I,344662,0,11,0001575843,Series B Preferred Stock
+D,07/01/2019 00:00:00,Nashat Amir,4,C-Conversion,--I,1236302,0,10,0001575843,Series A Preferred Stock
+D,07/01/2019 00:00:00,Nashat Amir,4,C-Conversion,--I,473276,0,9,0001575843,Series Seed Preferred Stock
+A,07/01/2019 00:00:00,Nashat Amir,4,P-Purchase,--I,8173,151879,8,0001575843,Common Stock
+A,07/01/2019 00:00:00,Nashat Amir,4,P-Purchase,--I,116827,2171067,7,0001575843,Common Stock
+A,07/01/2019 00:00:00,Nashat Amir,4,C-Conversion,--I,24111,143706,6,0001575843,Common Stock
+A,07/01/2019 00:00:00,Nashat Amir,4,C-Conversion,--I,86487,119595,5,0001575843,Common Stock
+A,07/01/2019 00:00:00,Nashat Amir,4,C-Conversion,--I,33108,33108,4,0001575843,Common Stock
+A,07/01/2019 00:00:00,Nashat Amir,4,C-Conversion,--I,344662,2054240,3,0001575843,Common Stock
+A,07/01/2019 00:00:00,Nashat Amir,4,C-Conversion,--I,1236302,1709578,2,0001575843,Common Stock
+A,07/01/2019 00:00:00,Nashat Amir,4,C-Conversion,--I,473276,473276,1,0001575843,Common Stock
+D,07/01/2019 00:00:00,Tipirneni Praveen P.,4,C-Conversion,--I,45558,0,2,0001779978,Series Seed Preferred Stock
+A,07/01/2019 00:00:00,Tipirneni Praveen P.,4,C-Conversion,--I,45558,676474,1,0001779978,Common Stock
+D,07/01/2019 00:00:00,Christensen Gustav,4,C-Conversion,--D,32665,0,4,0001397709,Series A Preferred Stock
+D,07/01/2019 00:00:00,Christensen Gustav,4,C-Conversion,--D,45558,0,3,0001397709,Series Seed Preferred Stock
+A,07/01/2019 00:00:00,Christensen Gustav,4,C-Conversion,--D,32665,100517,2,0001397709,Common Stock
+A,07/01/2019 00:00:00,Christensen Gustav,4,C-Conversion,--D,45558,67852,1,0001397709,Common Stock
+D,07/01/2019 00:00:00,GLAXOSMITHKLINE PLC,4,C-Conversion,--I,830489,0,5,0001131399,Series B preferred stock
+D,07/01/2019 00:00:00,GLAXOSMITHKLINE PLC,4,C-Conversion,--I,1469950,0,4,0001131399,Series A preferred stock
+A,07/01/2019 00:00:00,GLAXOSMITHKLINE PLC,4,P-Purchase,--I,333333,2633772,3,0001131399,Common Stock
+A,07/01/2019 00:00:00,GLAXOSMITHKLINE PLC,4,C-Conversion,--I,830489,2300439,2,0001131399,Common Stock
+A,07/01/2019 00:00:00,GLAXOSMITHKLINE PLC,4,C-Conversion,--I,1469950,1469950,1,0001131399,Common Stock
+D,06/28/2019 00:00:00,Novo Holdings A/S,4,C-Conversion,--D,1978779,0,3,0001388325,SERIES B CONVERTIBLE PREFERRED STOCK
+A,06/28/2019 00:00:00,Novo Holdings A/S,4,P-Purchase,--D,666667,2645446,2,0001388325,COMMON STOCK
+A,06/28/2019 00:00:00,Novo Holdings A/S,4,C-Conversion,--D,1978779,1978779,1,0001388325,COMMON STOCK

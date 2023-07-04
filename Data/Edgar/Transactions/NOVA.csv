@@ -1,0 +1,701 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,05/19/2023 00:00:00,Mohamed Akbar,4,P-Purchase,--D,10000,83689,1,0001837701,Common Stock
+D,05/18/2023 00:00:00,MORGAN MICHAEL C,4,M-Exempt,--D,7255,7566,6,0001250209,Restricted Stock Units
+A,05/18/2023 00:00:00,MORGAN MICHAEL C,4,M-Exempt,--D,7255,7255,1,0001250209,Common Stock
+D,05/18/2023 00:00:00,Yang Mary,4,M-Exempt,--D,7255,7566,3,0001809044,Restricted Stock Units
+A,05/18/2023 00:00:00,Yang Mary,4,M-Exempt,--D,7255,10291,1,0001809044,Common Stock
+D,05/18/2023 00:00:00,Mohamed Akbar,4,M-Exempt,--D,4232,12294,6,0001837701,Restricted Stock Units
+D,05/18/2023 00:00:00,Mohamed Akbar,4,M-Exempt,--D,7255,16526,5,0001837701,Restricted Stock Units
+A,05/18/2023 00:00:00,Mohamed Akbar,4,M-Exempt,--D,4232,73689,2,0001837701,Common Stock
+A,05/18/2023 00:00:00,Mohamed Akbar,4,M-Exempt,--D,7255,69457,1,0001837701,Common Stock
+D,05/18/2023 00:00:00,Brownell Nora Mead,4,M-Exempt,--D,4081,12610,6,0001395079,Restricted Stock Units
+D,05/18/2023 00:00:00,Brownell Nora Mead,4,M-Exempt,--D,7255,16691,5,0001395079,Restricted Stock Units
+A,05/18/2023 00:00:00,Brownell Nora Mead,4,M-Exempt,--D,4081,22689,2,0001395079,Common Stock
+A,05/18/2023 00:00:00,Brownell Nora Mead,4,M-Exempt,--D,7255,18608,1,0001395079,Common Stock
+D,05/18/2023 00:00:00,Andrew Anne S,4,M-Exempt,--D,4383,12948,7,0001791282,Restricted Stock Units
+D,05/18/2023 00:00:00,Andrew Anne S,4,M-Exempt,--D,7255,17331,6,0001791282,Restricted Stock Units
+A,05/18/2023 00:00:00,Andrew Anne S,4,M-Exempt,--D,4383,11638,2,0001791282,Common Stock
+A,05/18/2023 00:00:00,Andrew Anne S,4,M-Exempt,--D,7255,7255,1,0001791282,Common Stock
+D,05/18/2023 00:00:00,SHAPER C PARK,4,M-Exempt,--D,7255,7566,4,0001228688,Restricted Stock Units
+A,05/18/2023 00:00:00,SHAPER C PARK,4,M-Exempt,--D,7255,11560,1,0001228688,Common Stock
+A,05/17/2023 00:00:00,MORGAN MICHAEL C,4,A-Award,--D,7566,14821,5,0001250209,Restricted Stock Units
+A,05/17/2023 00:00:00,Yang Mary,4,A-Award,--D,7566,14821,2,0001809044,Restricted Stock Units
+A,05/17/2023 00:00:00,Mohamed Akbar,4,A-Award,--D,4728,23781,4,0001837701,Restricted Stock Units
+A,05/17/2023 00:00:00,Mohamed Akbar,4,A-Award,--D,7566,19053,3,0001837701,Restricted Stock Units
+A,05/17/2023 00:00:00,Brownell Nora Mead,4,A-Award,--D,5044,23946,4,0001395079,Restricted Stock Units
+A,05/17/2023 00:00:00,Brownell Nora Mead,4,A-Award,--D,7566,18902,3,0001395079,Restricted Stock Units
+A,05/17/2023 00:00:00,Andrew Anne S,4,A-Award,--D,5382,24586,5,0001791282,Restricted Stock Units
+A,05/17/2023 00:00:00,Andrew Anne S,4,A-Award,--D,7566,19204,4,0001791282,Restricted Stock Units
+A,05/17/2023 00:00:00,SHAPER C PARK,4,A-Award,--D,7566,14821,3,0001228688,Restricted Stock Units
+A,05/01/2023 00:00:00,Lynch Jack O. III,4,A-Award,--D,9279,9279,3,0001574064,Non-Qualified Stock Option (Right to Buy)
+A,05/01/2023 00:00:00,Lynch Jack O. III,4,A-Award,--D,9021,9021,2,0001574064,Non-Qualified Stock Option (Right to Buy)
+A,05/01/2023 00:00:00,Lynch Jack O. III,4,A-Award,--D,11687,11687,1,0001574064,Restricted Stock Units
+A,04/21/2023 00:00:00,Mathews Paul S,4,A-Award,--D,24845,24845,3,0001964170,Non-Qualified Stock Option (Right to Buy)
+A,04/21/2023 00:00:00,Mathews Paul S,4,A-Award,--D,24141,24141,2,0001964170,Non-Qualified Stock Option (Right to Buy)
+A,04/21/2023 00:00:00,Mathews Paul S,4,A-Award,--D,31180,31180,1,0001964170,Restricted Stock Units
+A,04/21/2023 00:00:00,Searle David,4,A-Award,--D,24845,24845,3,0001964359,Non-Qualified Stock Option (Right to Buy)
+A,04/21/2023 00:00:00,Searle David,4,A-Award,--D,24141,24141,2,0001964359,Non-Qualified Stock Option (Right to Buy)
+A,04/21/2023 00:00:00,Searle David,4,A-Award,--D,31180,31180,1,0001964359,Restricted Stock Units
+A,03/31/2023 00:00:00,Berger William J,4,P-Purchase,--D,600,293325,1,0001782991,Common Stock
+D,03/29/2023 00:00:00,Santo Salvo John T,4,S-Sale,--D,12679,75079,1,0001783166,Common Stock
+A,03/28/2023 00:00:00,Berger William J,4,P-Purchase,--D,400,292725,1,0001782991,Common Stock
+D,03/23/2023 00:00:00,Hultberg Kelsey,4,S-Sale,--D,680,19294,2,0001861636,Common Stock
+D,03/23/2023 00:00:00,Nutting Meghan,4,S-Sale,--D,2485,46004,2,0001783159,Common Stock
+D,03/23/2023 00:00:00,Hayden Chris,4,S-Sale,--D,981,16693,2,0001861630,Common Stock
+D,03/23/2023 00:00:00,Grasso Michael P,4,S-Sale,--D,5375,52027,2,0001783160,Common Stock
+D,03/23/2023 00:00:00,Hillstrand Kris W,4,S-Sale,--D,4714,92448,2,0001783182,Common Stock
+D,03/23/2023 00:00:00,LANE ROBERT LAWRENCE,4,S-Sale,--D,4815,120183,2,0001675877,Common Stock
+A,03/22/2023 00:00:00,Hultberg Kelsey,4,A-Award,--D,14531,14531,6,0001861636,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2023 00:00:00,Hultberg Kelsey,4,A-Award,--D,14112,14112,5,0001861636,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2023 00:00:00,Hultberg Kelsey,4,A-Award,--D,18107,18107,4,0001861636,Restricted Stock Units
+D,03/22/2023 00:00:00,Hultberg Kelsey,4,S-Sale,--D,2400,19974,1,0001861636,Common Stock
+A,03/22/2023 00:00:00,Nutting Meghan,4,A-Award,--D,14531,14531,5,0001783159,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2023 00:00:00,Nutting Meghan,4,A-Award,--D,14112,14112,4,0001783159,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2023 00:00:00,Nutting Meghan,4,A-Award,--D,18107,18107,3,0001783159,Restricted Stock Units
+D,03/22/2023 00:00:00,Nutting Meghan,4,S-Sale,--D,7328,48489,1,0001783159,Common Stock
+A,03/22/2023 00:00:00,Hayden Chris,4,A-Award,--D,14827,14827,5,0001861630,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2023 00:00:00,Hayden Chris,4,A-Award,--D,14400,14400,4,0001861630,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2023 00:00:00,Hayden Chris,4,A-Award,--D,18477,18477,3,0001861630,Restricted Stock Units
+D,03/22/2023 00:00:00,Hayden Chris,4,S-Sale,--D,3532,17674,1,0001861630,Common Stock
+A,03/22/2023 00:00:00,Santo Salvo John T,4,A-Award,--D,31138,31138,5,0001783166,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2023 00:00:00,Santo Salvo John T,4,A-Award,--D,30241,30241,4,0001783166,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2023 00:00:00,Santo Salvo John T,4,A-Award,--D,38802,38802,3,0001783166,Restricted Stock Units
+D,03/22/2023 00:00:00,Santo Salvo John T,4,S-Sale,--D,9310,87758,1,0001783166,Common Stock
+A,03/22/2023 00:00:00,Grasso Michael P,4,A-Award,--D,31138,31138,5,0001783160,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2023 00:00:00,Grasso Michael P,4,A-Award,--D,30241,30241,4,0001783160,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2023 00:00:00,Grasso Michael P,4,A-Award,--D,38802,38802,3,0001783160,Restricted Stock Units
+D,03/22/2023 00:00:00,Grasso Michael P,4,S-Sale,--D,13934,57402,1,0001783160,Common Stock
+A,03/22/2023 00:00:00,Hillstrand Kris W,4,A-Award,--D,31138,31138,5,0001783182,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2023 00:00:00,Hillstrand Kris W,4,A-Award,--D,30241,30241,4,0001783182,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2023 00:00:00,Hillstrand Kris W,4,A-Award,--D,38802,38802,3,0001783182,Restricted Stock Units
+D,03/22/2023 00:00:00,Hillstrand Kris W,4,S-Sale,--D,13125,97162,1,0001783182,Common Stock
+A,03/22/2023 00:00:00,LANE ROBERT LAWRENCE,4,A-Award,--D,41518,41518,6,0001675877,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2023 00:00:00,LANE ROBERT LAWRENCE,4,A-Award,--D,40322,40322,5,0001675877,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2023 00:00:00,LANE ROBERT LAWRENCE,4,A-Award,--D,51736,51736,4,0001675877,Restricted Stock Units
+D,03/22/2023 00:00:00,LANE ROBERT LAWRENCE,4,S-Sale,--D,14015,124998,1,0001675877,Common Stock
+A,03/22/2023 00:00:00,Berger William J,4,A-Award,--D,161812,161812,6,0001782991,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2023 00:00:00,Berger William J,4,A-Award,--D,158165,158165,5,0001782991,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2023 00:00:00,Berger William J,4,A-Award,--D,153609,153609,4,0001782991,Non-Qualified Stock Option (Right to Buy)
+D,03/22/2023 00:00:00,Berger William J,4,S-Sale,--D,10385,292325,1,0001782991,Common Stock
+D,03/12/2023 00:00:00,Hultberg Kelsey,4,M-Exempt,--D,1855,0,4,0001861636,Restricted Stock Units
+A,03/12/2023 00:00:00,Hultberg Kelsey,4,M-Exempt,--D,1855,22374,2,0001861636,Common Stock
+D,03/12/2023 00:00:00,Nutting Meghan,4,M-Exempt,--D,11594,0,3,0001783159,Restricted Stock Units
+A,03/12/2023 00:00:00,Nutting Meghan,4,M-Exempt,--D,11594,55817,2,0001783159,Common Stock
+D,03/12/2023 00:00:00,Hayden Chris,4,M-Exempt,--D,2862,0,3,0001861630,Restricted Stock Units
+A,03/12/2023 00:00:00,Hayden Chris,4,M-Exempt,--D,2862,21206,2,0001861630,Common Stock
+D,03/12/2023 00:00:00,Santo Salvo John T,4,M-Exempt,--D,17391,0,4,0001783166,Restricted Stock Units
+A,03/12/2023 00:00:00,Santo Salvo John T,4,M-Exempt,--D,17391,97068,2,0001783166,Common Stock
+D,03/12/2023 00:00:00,Grasso Michael P,4,M-Exempt,--D,18262,0,3,0001783160,Restricted Stock Units
+A,03/12/2023 00:00:00,Grasso Michael P,4,M-Exempt,--D,18262,71336,2,0001783160,Common Stock
+D,03/12/2023 00:00:00,Baker Walter A,4,M-Exempt,--D,25507,0,3,0001512864,Restricted Stock Units
+A,03/12/2023 00:00:00,Baker Walter A,4,M-Exempt,--D,25507,165081,2,0001512864,Common Stock
+D,03/12/2023 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,25907,0,3,0001783182,Restricted Stock Units
+A,03/12/2023 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,25907,110287,2,0001783182,Common Stock
+D,03/12/2023 00:00:00,LANE ROBERT LAWRENCE,4,M-Exempt,--D,27899,0,4,0001675877,Restricted Stock Units
+A,03/12/2023 00:00:00,LANE ROBERT LAWRENCE,4,M-Exempt,--D,27899,139013,2,0001675877,Common Stock
+A,03/10/2023 00:00:00,Hultberg Kelsey,4,A-Award,--D,5026,20519,1,0001861636,Common Stock
+A,03/10/2023 00:00:00,Nutting Meghan,4,A-Award,--D,5533,44223,1,0001783159,Common Stock
+A,03/10/2023 00:00:00,Hayden Chris,4,A-Award,--D,5646,18344,1,0001861630,Common Stock
+A,03/10/2023 00:00:00,Santo Salvo John T,4,A-Award,--D,6456,79677,1,0001783166,Common Stock
+A,03/10/2023 00:00:00,Grasso Michael P,4,A-Award,--D,7905,53074,1,0001783160,Common Stock
+A,03/10/2023 00:00:00,Baker Walter A,4,A-Award,--D,7905,139574,1,0001512864,Common Stock
+A,03/10/2023 00:00:00,Hillstrand Kris W,4,A-Award,--D,7905,84380,1,0001783182,Common Stock
+A,03/10/2023 00:00:00,LANE ROBERT LAWRENCE,4,A-Award,--D,8206,111114,1,0001675877,Common Stock
+A,03/10/2023 00:00:00,Berger William J,4,A-Award,--D,22568,302710,1,0001782991,Common Stock
+A,02/21/2023 00:00:00,Searle David,4,A-Award,--D,17709,17709,1,0001964359,Restricted Stock Units
+A,01/31/2023 00:00:00,Mathews Paul S,4,A-Award,--D,5133,5133,1,0001964170,Restricted Stock Units
+D,10/13/2022 00:00:00,Yang Mary,4,M-Exempt,--D,3036,0,2,0001809044,Restricted Stock Units
+A,10/13/2022 00:00:00,Yang Mary,4,M-Exempt,--D,3036,3036,1,0001809044,Common Stock
+D,09/28/2022 00:00:00,DuBose Arthur,4,S-Sale,--D,327,2146,2,0001883845,Common Stock
+D,09/27/2022 00:00:00,DuBose Arthur,4,M-Exempt,--D,1340,2680,3,0001883845,Restricted Stock Units
+A,09/27/2022 00:00:00,DuBose Arthur,4,M-Exempt,--D,1340,2473,1,0001883845,Common Stock
+D,08/11/2022 00:00:00,Berger William J,5,G-Gift,--D,500,280142,3,0001782991,Common Stock
+D,08/08/2022 00:00:00,Berger William J,4,S-Sale,--D,150000,301142,1,0001782991,Common Stock
+D,08/05/2022 00:00:00,Hultberg Kelsey,4,M-Exempt,--D,2000,2286,4,0001861636,Non-Qualified Stock Option (Right to Buy)
+D,08/05/2022 00:00:00,Hultberg Kelsey,4,S-Sale,--D,2000,15493,2,0001861636,Common Stock
+A,08/05/2022 00:00:00,Hultberg Kelsey,4,M-Exempt,--D,2000,17493,1,0001861636,Common Stock
+D,08/01/2022 00:00:00,Nutting Meghan,4,S-Sale,--D,245,38690,3,0001783159,Common Stock
+D,08/01/2022 00:00:00,Nutting Meghan,4,S-Sale,--D,2754,38935,2,0001783159,Common Stock
+D,08/01/2022 00:00:00,Santo Salvo John T,4,S-Sale,--D,4301,73221,2,0001783166,Common Stock
+D,08/01/2022 00:00:00,Grasso Michael P,4,S-Sale,--D,6950,45169,2,0001783160,Common Stock
+D,08/01/2022 00:00:00,Baker Walter A,4,S-Sale,--D,7525,131669,2,0001512864,Common Stock
+D,08/01/2022 00:00:00,Hillstrand Kris W,4,S-Sale,--D,8890,76475,2,0001783182,Common Stock
+D,08/01/2022 00:00:00,LANE ROBERT LAWRENCE,4,S-Sale,--D,8690,102908,2,0001675877,Common Stock
+D,08/01/2022 00:00:00,Berger William J,4,S-Sale,--D,1,451142,4,0001782991,Common Stock
+D,08/01/2022 00:00:00,Berger William J,4,S-Sale,--D,1405,451143,3,0001782991,Common Stock
+D,08/01/2022 00:00:00,Berger William J,4,S-Sale,--D,48250,452548,2,0001782991,Common Stock
+D,07/29/2022 00:00:00,Nutting Meghan,4,M-Exempt,--D,9722,0,4,0001783159,Restricted Stock Units
+A,07/29/2022 00:00:00,Nutting Meghan,4,M-Exempt,--D,9722,41689,1,0001783159,Common Stock
+D,07/29/2022 00:00:00,Santo Salvo John T,4,M-Exempt,--D,12500,0,4,0001783166,Restricted Stock Units
+A,07/29/2022 00:00:00,Santo Salvo John T,4,M-Exempt,--D,12500,77522,1,0001783166,Common Stock
+D,07/29/2022 00:00:00,Grasso Michael P,4,M-Exempt,--D,12500,0,3,0001783160,Restricted Stock Units
+A,07/29/2022 00:00:00,Grasso Michael P,4,M-Exempt,--D,12500,52119,1,0001783160,Common Stock
+D,07/29/2022 00:00:00,Baker Walter A,4,M-Exempt,--D,18056,0,3,0001512864,Restricted Stock Units
+A,07/29/2022 00:00:00,Baker Walter A,4,M-Exempt,--D,18056,139194,1,0001512864,Common Stock
+D,07/29/2022 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,18056,0,3,0001783182,Restricted Stock Units
+A,07/29/2022 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,18056,85365,1,0001783182,Common Stock
+D,07/29/2022 00:00:00,LANE ROBERT LAWRENCE,4,M-Exempt,--D,20834,0,4,0001675877,Restricted Stock Units
+A,07/29/2022 00:00:00,LANE ROBERT LAWRENCE,4,M-Exempt,--D,20834,111598,1,0001675877,Common Stock
+D,07/29/2022 00:00:00,Berger William J,4,M-Exempt,--D,119047,476192,9,0001782991,Restricted Stock Units
+A,07/29/2022 00:00:00,Berger William J,4,M-Exempt,--D,119047,500798,1,0001782991,Common Stock
+D,07/11/2022 00:00:00,Berger William J,5,G-Gift,--D,500,280642,2,0001782991,Common Stock
+D,06/29/2022 00:00:00,Berger William J,5,G-Gift,--D,20000,281142,1,0001782991,Common Stock
+D,05/19/2022 00:00:00,SHAPER C PARK,4,M-Exempt,--D,4305,0,4,0001228688,Restricted Stock Units
+A,05/19/2022 00:00:00,SHAPER C PARK,4,M-Exempt,--D,4305,4305,1,0001228688,Common Stock
+D,05/19/2022 00:00:00,MORGAN MICHAEL C,4,M-Exempt,--D,4305,0,6,0001250209,Restricted Stock Units
+A,05/19/2022 00:00:00,MORGAN MICHAEL C,4,M-Exempt,--D,4305,4305,1,0001250209,Common Stock
+D,05/19/2022 00:00:00,Mohamed Akbar,4,M-Exempt,--D,2511,0,6,0001837701,Restricted Stock Units
+D,05/19/2022 00:00:00,Mohamed Akbar,4,M-Exempt,--D,4305,0,5,0001837701,Restricted Stock Units
+A,05/19/2022 00:00:00,Mohamed Akbar,4,M-Exempt,--D,2511,62202,2,0001837701,Common Stock
+A,05/19/2022 00:00:00,Mohamed Akbar,4,M-Exempt,--D,4305,59691,1,0001837701,Common Stock
+D,05/19/2022 00:00:00,Brownell Nora Mead,4,M-Exempt,--D,2421,0,6,0001395079,Restricted Stock Units
+D,05/19/2022 00:00:00,Brownell Nora Mead,4,M-Exempt,--D,4305,0,5,0001395079,Restricted Stock Units
+A,05/19/2022 00:00:00,Brownell Nora Mead,4,M-Exempt,--D,2421,11353,2,0001395079,Common Stock
+A,05/19/2022 00:00:00,Brownell Nora Mead,4,M-Exempt,--D,4305,8932,1,0001395079,Common Stock
+D,05/19/2022 00:00:00,Andrew Anne S,4,M-Exempt,--D,2601,0,7,0001791282,Restricted Stock Units
+D,05/19/2022 00:00:00,Andrew Anne S,4,M-Exempt,--D,4305,0,6,0001791282,Restricted Stock Units
+A,05/19/2022 00:00:00,Andrew Anne S,4,M-Exempt,--D,2601,6906,2,0001791282,Common Stock
+A,05/19/2022 00:00:00,Andrew Anne S,4,M-Exempt,--D,4305,4305,1,0001791282,Common Stock
+A,05/18/2022 00:00:00,Yang Mary,4,A-Award,--D,7255,7255,1,0001809044,Restricted Stock Units
+A,05/18/2022 00:00:00,SHAPER C PARK,4,A-Award,--D,7255,7255,3,0001228688,Restricted Stock Units
+A,05/18/2022 00:00:00,MORGAN MICHAEL C,4,A-Award,--D,7255,7255,5,0001250209,Restricted Stock Units
+A,05/18/2022 00:00:00,Mohamed Akbar,4,A-Award,--D,4232,4232,4,0001837701,Restricted Stock Units
+A,05/18/2022 00:00:00,Mohamed Akbar,4,A-Award,--D,7255,7255,3,0001837701,Restricted Stock Units
+A,05/18/2022 00:00:00,Brownell Nora Mead,4,A-Award,--D,4081,4081,4,0001395079,Restricted Stock Units
+A,05/18/2022 00:00:00,Brownell Nora Mead,4,A-Award,--D,7255,7255,3,0001395079,Restricted Stock Units
+A,05/18/2022 00:00:00,Andrew Anne S,4,A-Award,--D,4383,4383,5,0001791282,Restricted Stock Units
+A,05/18/2022 00:00:00,Andrew Anne S,4,A-Award,--D,7255,7255,4,0001791282,Restricted Stock Units
+D,04/01/2022 00:00:00,Hultberg Kelsey,4,M-Exempt,--D,895,0,4,0001861636,Restricted Stock Units
+D,04/01/2022 00:00:00,Hultberg Kelsey,4,F-InKind,--D,287,15493,2,0001861636,Common Stock
+A,04/01/2022 00:00:00,Hultberg Kelsey,4,M-Exempt,--D,895,15780,1,0001861636,Common Stock
+D,04/01/2022 00:00:00,Hayden Chris,4,M-Exempt,--D,336,0,3,0001861630,Restricted Stock Units
+D,04/01/2022 00:00:00,Hayden Chris,4,F-InKind,--D,118,12698,2,0001861630,Common Stock
+A,04/01/2022 00:00:00,Hayden Chris,4,M-Exempt,--D,336,12816,1,0001861630,Common Stock
+D,03/23/2022 00:00:00,Hayden Chris,4,S-Sale,--D,342,12480,2,0001861630,Common Stock
+D,03/23/2022 00:00:00,Hultberg Kelsey,4,S-Sale,--D,290,14885,2,0001861636,Common Stock
+D,03/23/2022 00:00:00,Nutting Meghan,4,S-Sale,--D,775,31967,2,0001783159,Common Stock
+D,03/23/2022 00:00:00,Santo Salvo John T,4,S-Sale,--D,1325,65022,2,0001783166,Common Stock
+D,03/23/2022 00:00:00,Grasso Michael P,4,S-Sale,--D,2515,39619,2,0001783160,Common Stock
+D,03/23/2022 00:00:00,Hillstrand Kris W,4,S-Sale,--D,2070,67309,2,0001783182,Common Stock
+D,03/23/2022 00:00:00,Baker Walter A,4,S-Sale,--D,1400,121138,2,0001512864,Common Stock
+D,03/23/2022 00:00:00,LANE ROBERT LAWRENCE,4,S-Sale,--D,1850,90764,2,0001675877,Common Stock
+D,03/22/2022 00:00:00,Hayden Chris,4,M-Exempt,--D,893,1788,6,0001861630,Restricted Stock Units
+A,03/22/2022 00:00:00,Hayden Chris,4,A-Award,--D,8790,8790,5,0001861630,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,Hayden Chris,4,A-Award,--D,8463,8463,4,0001861630,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,Hayden Chris,4,A-Award,--D,9754,9754,3,0001861630,Restricted Stock Units
+A,03/22/2022 00:00:00,Hayden Chris,4,M-Exempt,--D,893,12822,1,0001861630,Common Stock
+D,03/22/2022 00:00:00,Hultberg Kelsey,4,M-Exempt,--D,792,1584,7,0001861636,Restricted Stock Units
+A,03/22/2022 00:00:00,Hultberg Kelsey,4,A-Award,--D,8614,8614,6,0001861636,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,Hultberg Kelsey,4,A-Award,--D,8293,8293,5,0001861636,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,Hultberg Kelsey,4,A-Award,--D,9559,9559,4,0001861636,Restricted Stock Units
+A,03/22/2022 00:00:00,Hultberg Kelsey,4,M-Exempt,--D,792,15175,1,0001861636,Common Stock
+D,03/22/2022 00:00:00,Nutting Meghan,4,M-Exempt,--D,2036,6111,6,0001783159,Restricted Stock Units
+A,03/22/2022 00:00:00,Nutting Meghan,4,A-Award,--D,8614,8614,5,0001783159,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,Nutting Meghan,4,A-Award,--D,8293,8293,4,0001783159,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,Nutting Meghan,4,A-Award,--D,9559,9559,3,0001783159,Restricted Stock Units
+A,03/22/2022 00:00:00,Nutting Meghan,4,M-Exempt,--D,2036,32742,1,0001783159,Common Stock
+A,03/22/2022 00:00:00,DuBose Arthur,4,A-Award,--D,9669,9669,3,0001883845,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,DuBose Arthur,4,A-Award,--D,9309,9309,2,0001883845,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,DuBose Arthur,4,A-Award,--D,10729,10729,1,0001883845,Restricted Stock Units
+D,03/22/2022 00:00:00,Santo Salvo John T,4,M-Exempt,--D,4551,13654,7,0001783166,Restricted Stock Units
+A,03/22/2022 00:00:00,Santo Salvo John T,4,A-Award,--D,17580,17580,6,0001783166,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,Santo Salvo John T,4,A-Award,--D,16926,16926,5,0001783166,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,Santo Salvo John T,4,A-Award,--D,19508,19508,4,0001783166,Restricted Stock Units
+A,03/22/2022 00:00:00,Santo Salvo John T,4,M-Exempt,--D,4551,66347,1,0001783166,Common Stock
+D,03/22/2022 00:00:00,Grasso Michael P,4,M-Exempt,--D,4551,13654,6,0001783160,Restricted Stock Units
+A,03/22/2022 00:00:00,Grasso Michael P,4,A-Award,--D,17580,17580,5,0001783160,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,Grasso Michael P,4,A-Award,--D,16926,16926,4,0001783160,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,Grasso Michael P,4,A-Award,--D,19508,19508,3,0001783160,Restricted Stock Units
+A,03/22/2022 00:00:00,Grasso Michael P,4,M-Exempt,--D,4551,42134,1,0001783160,Common Stock
+D,03/22/2022 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,4551,13654,6,0001783182,Restricted Stock Units
+A,03/22/2022 00:00:00,Hillstrand Kris W,4,A-Award,--D,17580,17580,5,0001783182,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,Hillstrand Kris W,4,A-Award,--D,16926,16926,4,0001783182,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,Hillstrand Kris W,4,A-Award,--D,19508,19508,3,0001783182,Restricted Stock Units
+A,03/22/2022 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,4551,69379,1,0001783182,Common Stock
+D,03/22/2022 00:00:00,Baker Walter A,4,M-Exempt,--D,4551,13654,6,0001512864,Restricted Stock Units
+A,03/22/2022 00:00:00,Baker Walter A,4,A-Award,--D,17580,17580,5,0001512864,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,Baker Walter A,4,A-Award,--D,16926,16926,4,0001512864,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,Baker Walter A,4,A-Award,--D,19508,19508,3,0001512864,Restricted Stock Units
+A,03/22/2022 00:00:00,Baker Walter A,4,M-Exempt,--D,4551,122538,1,0001512864,Common Stock
+D,03/22/2022 00:00:00,LANE ROBERT LAWRENCE,4,M-Exempt,--D,4901,14704,7,0001675877,Restricted Stock Units
+A,03/22/2022 00:00:00,LANE ROBERT LAWRENCE,4,A-Award,--D,25492,25492,6,0001675877,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,LANE ROBERT LAWRENCE,4,A-Award,--D,24542,24542,5,0001675877,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,LANE ROBERT LAWRENCE,4,A-Award,--D,28287,28287,4,0001675877,Restricted Stock Units
+A,03/22/2022 00:00:00,LANE ROBERT LAWRENCE,4,M-Exempt,--D,4901,92614,1,0001675877,Common Stock
+A,03/22/2022 00:00:00,Berger William J,4,A-Award,--D,96618,96618,3,0001782991,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,Berger William J,4,A-Award,--D,93764,93764,2,0001782991,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2022 00:00:00,Berger William J,4,A-Award,--D,90273,90273,1,0001782991,Non-Qualified Stock Option (Right to Buy)
+D,03/16/2022 00:00:00,Hayden Chris,4,S-Sale,--D,41,11929,2,0001861630,Common Stock
+D,03/16/2022 00:00:00,Hayden Chris,4,S-Sale,--D,104,11970,1,0001861630,Common Stock
+D,03/16/2022 00:00:00,Hultberg Kelsey,4,S-Sale,--D,101,14383,1,0001861636,Common Stock
+D,03/16/2022 00:00:00,Nutting Meghan,4,S-Sale,--D,260,30706,1,0001783159,Common Stock
+D,03/16/2022 00:00:00,Hillstrand Kris W,4,S-Sale,--D,3807,64828,1,0001783182,Common Stock
+D,03/16/2022 00:00:00,Grasso Michael P,4,S-Sale,--D,2703,37583,1,0001783160,Common Stock
+D,03/16/2022 00:00:00,Baker Walter A,4,S-Sale,--D,3695,117987,1,0001512864,Common Stock
+D,03/16/2022 00:00:00,LANE ROBERT LAWRENCE,4,S-Sale,--D,4051,87713,1,0001675877,Common Stock
+D,03/14/2022 00:00:00,Hayden Chris,4,S-Sale,--D,325,12074,6,0001861630,Common Stock
+D,03/14/2022 00:00:00,Hayden Chris,4,S-Sale,--D,987,11255,4,0001861630,Common Stock
+D,03/14/2022 00:00:00,Hayden Chris,4,S-Sale,--D,2468,9380,2,0001861630,Common Stock
+D,03/14/2022 00:00:00,DuBose Arthur,4,S-Sale,--D,550,1133,2,0001883845,Common Stock
+D,03/14/2022 00:00:00,Hultberg Kelsey,4,S-Sale,--D,503,14484,4,0001861636,Common Stock
+D,03/14/2022 00:00:00,Hultberg Kelsey,4,S-Sale,--D,2171,13132,2,0001861636,Common Stock
+D,03/14/2022 00:00:00,Nutting Meghan,4,S-Sale,--D,4024,30966,4,0001783159,Common Stock
+D,03/14/2022 00:00:00,Nutting Meghan,4,S-Sale,--D,2715,23396,2,0001783159,Common Stock
+D,03/14/2022 00:00:00,Santo Salvo John T,4,S-Sale,--D,5441,61796,5,0001783166,Common Stock
+D,03/14/2022 00:00:00,Santo Salvo John T,4,S-Sale,--D,100,49846,3,0001783166,Common Stock
+D,03/14/2022 00:00:00,Santo Salvo John T,4,S-Sale,--D,2306,49946,2,0001783166,Common Stock
+D,03/14/2022 00:00:00,Grasso Michael P,4,S-Sale,--D,7749,40286,5,0001783160,Common Stock
+D,03/14/2022 00:00:00,Grasso Michael P,4,S-Sale,--D,100,29775,3,0001783160,Common Stock
+D,03/14/2022 00:00:00,Grasso Michael P,4,S-Sale,--D,4651,29875,2,0001783160,Common Stock
+D,03/14/2022 00:00:00,Hillstrand Kris W,4,S-Sale,--D,8270,68635,4,0001783182,Common Stock
+D,03/14/2022 00:00:00,Hillstrand Kris W,4,S-Sale,--D,3900,51000,2,0001783182,Common Stock
+D,03/14/2022 00:00:00,Baker Walter A,4,S-Sale,--D,6790,121682,5,0001512864,Common Stock
+D,03/14/2022 00:00:00,Baker Walter A,4,S-Sale,--D,100,102965,3,0001512864,Common Stock
+D,03/14/2022 00:00:00,Baker Walter A,4,S-Sale,--D,3530,103065,2,0001512864,Common Stock
+D,03/14/2022 00:00:00,LANE ROBERT LAWRENCE,4,S-Sale,--D,7507,91764,5,0001675877,Common Stock
+D,03/14/2022 00:00:00,LANE ROBERT LAWRENCE,4,S-Sale,--D,100,74373,3,0001675877,Common Stock
+D,03/14/2022 00:00:00,LANE ROBERT LAWRENCE,4,S-Sale,--D,4263,74473,2,0001675877,Common Stock
+D,03/14/2022 00:00:00,Berger William J,4,S-Sale,--D,100,383738,3,0001782991,Common Stock
+D,03/14/2022 00:00:00,Berger William J,4,S-Sale,--D,9200,383838,2,0001782991,Common Stock
+D,03/12/2022 00:00:00,Hayden Chris,4,M-Exempt,--D,1144,1146,8,0001861630,Restricted Stock Units
+D,03/12/2022 00:00:00,Hayden Chris,4,M-Exempt,--D,2862,2862,7,0001861630,Restricted Stock Units
+A,03/12/2022 00:00:00,Hayden Chris,4,M-Exempt,--D,1144,12399,5,0001861630,Common Stock
+A,03/12/2022 00:00:00,Hayden Chris,4,M-Exempt,--D,2862,12242,3,0001861630,Common Stock
+D,03/12/2022 00:00:00,Hultberg Kelsey,4,M-Exempt,--D,1855,1855,6,0001861636,Restricted Stock Units
+A,03/12/2022 00:00:00,Hultberg Kelsey,4,M-Exempt,--D,1855,14987,3,0001861636,Common Stock
+D,03/12/2022 00:00:00,Nutting Meghan,4,M-Exempt,--D,11594,11594,5,0001783159,Restricted Stock Units
+A,03/12/2022 00:00:00,Nutting Meghan,4,M-Exempt,--D,11594,34990,3,0001783159,Common Stock
+D,03/12/2022 00:00:00,Santo Salvo John T,4,M-Exempt,--D,17391,17391,7,0001783166,Restricted Stock Units
+A,03/12/2022 00:00:00,Santo Salvo John T,4,M-Exempt,--D,17391,67237,4,0001783166,Common Stock
+D,03/12/2022 00:00:00,Grasso Michael P,4,M-Exempt,--D,18260,18262,6,0001783160,Restricted Stock Units
+A,03/12/2022 00:00:00,Grasso Michael P,4,M-Exempt,--D,18260,48035,4,0001783160,Common Stock
+D,03/12/2022 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,25905,25907,5,0001783182,Restricted Stock Units
+A,03/12/2022 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,25905,76905,3,0001783182,Common Stock
+D,03/12/2022 00:00:00,Baker Walter A,4,M-Exempt,--D,25507,25507,6,0001512864,Restricted Stock Units
+A,03/12/2022 00:00:00,Baker Walter A,4,M-Exempt,--D,25507,128472,4,0001512864,Common Stock
+D,03/12/2022 00:00:00,LANE ROBERT LAWRENCE,4,M-Exempt,--D,27898,27899,7,0001675877,Restricted Stock Units
+A,03/12/2022 00:00:00,LANE ROBERT LAWRENCE,4,M-Exempt,--D,27898,102271,4,0001675877,Common Stock
+A,03/11/2022 00:00:00,Hayden Chris,4,A-Award,--D,5818,11848,1,0001861630,Common Stock
+A,03/11/2022 00:00:00,DuBose Arthur,4,A-Award,--D,1683,1683,1,0001883845,Common Stock
+A,03/11/2022 00:00:00,Hultberg Kelsey,4,A-Award,--D,5701,15303,1,0001861636,Common Stock
+A,03/11/2022 00:00:00,Nutting Meghan,4,A-Award,--D,6098,26111,1,0001783159,Common Stock
+A,03/11/2022 00:00:00,Santo Salvo John T,4,A-Award,--D,7563,52252,1,0001783166,Common Stock
+A,03/11/2022 00:00:00,Grasso Michael P,4,A-Award,--D,8089,34526,1,0001783160,Common Stock
+A,03/11/2022 00:00:00,Hillstrand Kris W,4,A-Award,--D,7563,54900,1,0001783182,Common Stock
+A,03/11/2022 00:00:00,Baker Walter A,4,A-Award,--D,8089,106595,1,0001512864,Common Stock
+A,03/11/2022 00:00:00,LANE ROBERT LAWRENCE,4,A-Award,--D,9941,78736,1,0001675877,Common Stock
+A,03/11/2022 00:00:00,Berger William J,4,A-Award,--D,21598,393038,1,0001782991,Common Stock
+A,03/03/2022 00:00:00,Mohamed Akbar,4,P-Purchase,--D,10000,55386,1,0001837701,Common Stock
+A,12/28/2021 00:00:00,Mohamed Akbar,4,P-Purchase,--D,20000,45386,2,0001837701,Common Stock
+D,12/23/2021 00:00:00,Mohamed Akbar,4,M-Exempt,--D,2553,0,3,0001837701,Restricted Stock Units
+A,12/23/2021 00:00:00,Mohamed Akbar,4,M-Exempt,--D,2553,25386,1,0001837701,Common Stock
+D,11/11/2021 00:00:00,Hultberg Kelsey,4,S-Sale,--D,910,9602,1,0001861636,Common Stock
+D,11/01/2021 00:00:00,"ECP ControlCo, LLC",4,S-Sale,--I,6000000,10911664,1,0001707921,Common Stock
+D,11/01/2021 00:00:00,"ECP Sunnova Holdings, LP",4,S-Sale,--I,6000000,10911664,1,0001835499,Common Stock
+D,10/28/2021 00:00:00,MORGAN MICHAEL C,4,S-Sale,--I,30000,356750,1,0001250209,Common Stock
+D,10/26/2021 00:00:00,Brownell Nora Mead,4,M-Exempt,--D,4627,0,2,0001395079,Restricted Stock Units
+A,10/26/2021 00:00:00,Brownell Nora Mead,4,M-Exempt,--D,4627,4627,1,0001395079,Common Stock
+D,10/20/2021 00:00:00,MORGAN MICHAEL C,4,S-Sale,--I,2100,386750,3,0001250209,Common Stock
+D,10/20/2021 00:00:00,MORGAN MICHAEL C,4,S-Sale,--I,27900,388850,2,0001250209,Common Stock
+D,10/20/2021 00:00:00,MORGAN MICHAEL C,4,S-Sale,--I,1868,0,1,0001250209,Common Stock
+A,10/13/2021 00:00:00,Yang Mary,4,A-Award,--D,3036,3036,1,0001809044,Restricted Stock Units
+A,09/27/2021 00:00:00,DuBose Arthur,4,A-Award,--D,4020,4020,1,0001883845,Restricted Stock Units
+D,08/04/2021 00:00:00,Grasso Michael P,4,S-Sale,--D,5500,26437,1,0001783160,Common Stock
+D,08/02/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,3328,47337,3,0001783182,Common Stock
+D,08/02/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,4789,50665,2,0001783182,Common Stock
+D,08/02/2021 00:00:00,Nutting Meghan,4,S-Sale,--D,1775,20013,3,0001783159,Common Stock
+D,08/02/2021 00:00:00,Nutting Meghan,4,S-Sale,--D,2554,21788,2,0001783159,Common Stock
+D,08/02/2021 00:00:00,Baker Walter A,4,S-Sale,--D,2949,98506,3,0001512864,Common Stock
+D,08/02/2021 00:00:00,Baker Walter A,4,S-Sale,--D,4244,101455,2,0001512864,Common Stock
+D,08/02/2021 00:00:00,Santo Salvo John T,4,S-Sale,--D,2042,44689,3,0001783166,Common Stock
+D,08/02/2021 00:00:00,Santo Salvo John T,4,S-Sale,--D,2938,46731,2,0001783166,Common Stock
+D,08/02/2021 00:00:00,LANE ROBERT LAWRENCE,4,S-Sale,--D,3403,68795,3,0001675877,Common Stock
+D,08/02/2021 00:00:00,LANE ROBERT LAWRENCE,4,S-Sale,--D,4897,72198,2,0001675877,Common Stock
+D,08/02/2021 00:00:00,Berger William J,4,S-Sale,--D,19447,238569,3,0001782991,Common Stock
+D,08/02/2021 00:00:00,Berger William J,4,S-Sale,--D,27985,258016,2,0001782991,Common Stock
+D,08/02/2021 00:00:00,Grasso Michael P,4,S-Sale,--D,2573,31937,3,0001783160,Common Stock
+D,08/02/2021 00:00:00,Grasso Michael P,4,S-Sale,--D,3702,34510,2,0001783160,Common Stock
+D,07/29/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,18055,18056,4,0001783182,Restricted Stock Units
+A,07/29/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,18055,55454,1,0001783182,Common Stock
+D,07/29/2021 00:00:00,Nutting Meghan,4,M-Exempt,--D,9722,9722,4,0001783159,Restricted Stock Units
+A,07/29/2021 00:00:00,Nutting Meghan,4,M-Exempt,--D,9722,24342,1,0001783159,Common Stock
+D,07/29/2021 00:00:00,Allen Stuart D,4,M-Exempt,--D,12500,12500,2,0001604841,Restricted Stock Units
+A,07/29/2021 00:00:00,Allen Stuart D,4,M-Exempt,--D,12500,84203,1,0001604841,Common Stock
+D,07/29/2021 00:00:00,Baker Walter A,4,M-Exempt,--D,18055,18056,4,0001512864,Restricted Stock Units
+A,07/29/2021 00:00:00,Baker Walter A,4,M-Exempt,--D,18055,105699,1,0001512864,Common Stock
+D,07/29/2021 00:00:00,Santo Salvo John T,4,M-Exempt,--D,12500,12500,5,0001783166,Restricted Stock Units
+A,07/29/2021 00:00:00,Santo Salvo John T,4,M-Exempt,--D,12500,49669,1,0001783166,Common Stock
+D,07/29/2021 00:00:00,LANE ROBERT LAWRENCE,4,M-Exempt,--D,20833,20834,4,0001675877,Restricted Stock Units
+A,07/29/2021 00:00:00,LANE ROBERT LAWRENCE,4,M-Exempt,--D,20833,77095,1,0001675877,Common Stock
+D,07/29/2021 00:00:00,Berger William J,4,M-Exempt,--D,119047,595239,6,0001782991,Restricted Stock Units
+A,07/29/2021 00:00:00,Berger William J,4,M-Exempt,--D,119047,286001,1,0001782991,Common Stock
+D,07/29/2021 00:00:00,Grasso Michael P,4,M-Exempt,--D,12500,12500,4,0001783160,Restricted Stock Units
+A,07/29/2021 00:00:00,Grasso Michael P,4,M-Exempt,--D,12500,38212,1,0001783160,Common Stock
+D,05/21/2021 00:00:00,Nutting Meghan,4,S-Sale,--D,5000,14620,1,0001783159,Common Stock
+D,05/20/2021 00:00:00,Andrew Anne S,4,M-Exempt,--D,8173,0,5,0001791282,Restricted Stock Units
+A,05/20/2021 00:00:00,Andrew Anne S,4,M-Exempt,--D,8173,8173,1,0001791282,Common Stock
+A,05/19/2021 00:00:00,SHAPER C PARK,4,A-Award,--D,4305,4305,1,0001228688,Restricted Stock Units
+A,05/19/2021 00:00:00,Mohamed Akbar,4,A-Award,--D,2511,2511,2,0001837701,Restricted Stock Units
+A,05/19/2021 00:00:00,Mohamed Akbar,4,A-Award,--D,4305,4305,1,0001837701,Restricted Stock Units
+A,05/19/2021 00:00:00,MORGAN MICHAEL C,4,A-Award,--D,4305,4305,1,0001250209,Restricted Stock Units
+A,05/19/2021 00:00:00,Andrew Anne S,4,A-Award,--D,2601,2601,4,0001791282,Restricted Stock Units
+A,05/19/2021 00:00:00,Andrew Anne S,4,A-Award,--D,4305,4305,3,0001791282,Restricted Stock Units
+A,05/19/2021 00:00:00,Brownell Nora Mead,4,A-Award,--D,2421,2421,2,0001395079,Restricted Stock Units
+A,05/19/2021 00:00:00,Brownell Nora Mead,4,A-Award,--D,4305,4305,1,0001395079,Restricted Stock Units
+A,05/06/2021 00:00:00,Berger William J,4,P-Purchase,--D,100,166954,2,0001782991,Common Stock
+A,05/06/2021 00:00:00,Berger William J,4,P-Purchase,--D,500,166854,1,0001782991,Common Stock
+D,04/23/2021 00:00:00,Andrew Anne S,4,M-Exempt,--D,2439,0,3,0001791282,Restricted Stock Units
+A,04/23/2021 00:00:00,Andrew Anne S,4,M-Exempt,--D,2439,2439,1,0001791282,Common Stock
+A,03/22/2021 00:00:00,Grasso Michael P,4,A-Award,--D,12176,12176,2,0001783160,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2021 00:00:00,Grasso Michael P,4,A-Award,--D,18205,18205,1,0001783160,Restricted Stock Units
+A,03/22/2021 00:00:00,Nutting Meghan,4,A-Award,--D,5449,5449,2,0001783159,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2021 00:00:00,Nutting Meghan,4,A-Award,--D,8147,8147,1,0001783159,Restricted Stock Units
+A,03/22/2021 00:00:00,Baker Walter A,4,A-Award,--D,12176,12176,2,0001512864,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2021 00:00:00,Baker Walter A,4,A-Award,--D,18205,18205,1,0001512864,Restricted Stock Units
+A,03/22/2021 00:00:00,LANE ROBERT LAWRENCE,4,A-Award,--D,13113,13113,2,0001675877,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2021 00:00:00,LANE ROBERT LAWRENCE,4,A-Award,--D,19605,19605,1,0001675877,Restricted Stock Units
+A,03/22/2021 00:00:00,Hillstrand Kris W,4,A-Award,--D,12176,12176,2,0001783182,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2021 00:00:00,Hillstrand Kris W,4,A-Award,--D,18205,18205,1,0001783182,Restricted Stock Units
+A,03/22/2021 00:00:00,Santo Salvo John T,4,A-Award,--D,12176,12176,2,0001783166,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2021 00:00:00,Santo Salvo John T,4,A-Award,--D,18205,18205,1,0001783166,Restricted Stock Units
+A,03/22/2021 00:00:00,Allen Stuart D,4,A-Award,--D,7765,7765,2,0001604841,Non-Qualified Stock Option (Right to Buy)
+A,03/22/2021 00:00:00,Allen Stuart D,4,A-Award,--D,11610,11610,1,0001604841,Restricted Stock Units
+D,03/18/2021 00:00:00,Berger William J,5,G-Gift,--I,5500,167096,1,0001782991,Common Stock
+D,03/16/2021 00:00:00,Grasso Michael P,4,S-Sale,--D,4878,25712,1,0001783160,Common Stock
+D,03/15/2021 00:00:00,Baker Walter A,4,S-Sale,--D,4395,87644,7,0001512864,Common Stock
+D,03/12/2021 00:00:00,Santo Salvo John T,4,M-Exempt,--D,17391,34782,12,0001783166,Restricted Stock Units
+D,03/12/2021 00:00:00,Santo Salvo John T,4,M-Exempt,--D,10565,0,11,0001783166,Restricted Stock Units
+D,03/12/2021 00:00:00,Santo Salvo John T,4,M-Exempt,--D,8695,0,10,0001783166,Restricted Stock Units
+D,03/12/2021 00:00:00,Santo Salvo John T,4,F-InKind,--D,6844,37169,8,0001783166,Common Stock
+A,03/12/2021 00:00:00,Santo Salvo John T,4,M-Exempt,--D,17391,44013,7,0001783166,Common Stock
+D,03/12/2021 00:00:00,Santo Salvo John T,4,F-InKind,--D,3910,26622,6,0001783166,Common Stock
+A,03/12/2021 00:00:00,Santo Salvo John T,4,M-Exempt,--D,10565,30532,5,0001783166,Common Stock
+D,03/12/2021 00:00:00,Santo Salvo John T,4,F-InKind,--D,3218,19967,4,0001783166,Common Stock
+A,03/12/2021 00:00:00,Santo Salvo John T,4,M-Exempt,--D,8695,23185,3,0001783166,Common Stock
+D,03/12/2021 00:00:00,Allen Stuart D,4,M-Exempt,--D,16521,33044,7,0001604841,Restricted Stock Units
+D,03/12/2021 00:00:00,Allen Stuart D,4,M-Exempt,--D,10036,0,6,0001604841,Restricted Stock Units
+D,03/12/2021 00:00:00,Allen Stuart D,4,F-InKind,--D,389,71703,5,0001604841,Common Stock
+A,03/12/2021 00:00:00,Allen Stuart D,4,M-Exempt,--D,16521,72092,4,0001604841,Common Stock
+A,03/12/2021 00:00:00,Allen Stuart D,4,M-Exempt,--D,10036,55571,3,0001604841,Common Stock
+D,03/12/2021 00:00:00,Nutting Meghan,4,M-Exempt,--D,11594,23188,8,0001783159,Restricted Stock Units
+D,03/12/2021 00:00:00,Nutting Meghan,4,M-Exempt,--D,7043,0,7,0001783159,Restricted Stock Units
+D,03/12/2021 00:00:00,Nutting Meghan,4,F-InKind,--D,4541,19620,6,0001783159,Common Stock
+A,03/12/2021 00:00:00,Nutting Meghan,4,M-Exempt,--D,11594,24161,5,0001783159,Common Stock
+D,03/12/2021 00:00:00,Nutting Meghan,4,F-InKind,--D,2580,12567,4,0001783159,Common Stock
+A,03/12/2021 00:00:00,Nutting Meghan,4,M-Exempt,--D,7043,15147,3,0001783159,Common Stock
+D,03/12/2021 00:00:00,Grasso Michael P,4,M-Exempt,--D,18260,36522,8,0001783160,Restricted Stock Units
+D,03/12/2021 00:00:00,Grasso Michael P,4,M-Exempt,--D,9244,0,7,0001783160,Restricted Stock Units
+D,03/12/2021 00:00:00,Grasso Michael P,4,F-InKind,--D,9054,30590,6,0001783160,Common Stock
+A,03/12/2021 00:00:00,Grasso Michael P,4,M-Exempt,--D,18260,39644,5,0001783160,Common Stock
+D,03/12/2021 00:00:00,Grasso Michael P,4,F-InKind,--D,4366,21384,4,0001783160,Common Stock
+A,03/12/2021 00:00:00,Grasso Michael P,4,M-Exempt,--D,9244,25750,3,0001783160,Common Stock
+D,03/12/2021 00:00:00,Baker Walter A,4,M-Exempt,--D,25507,51014,9,0001512864,Restricted Stock Units
+D,03/12/2021 00:00:00,Baker Walter A,4,M-Exempt,--D,11269,0,8,0001512864,Restricted Stock Units
+D,03/12/2021 00:00:00,Baker Walter A,4,F-InKind,--D,10038,92039,6,0001512864,Common Stock
+A,03/12/2021 00:00:00,Baker Walter A,4,M-Exempt,--D,25507,102077,5,0001512864,Common Stock
+D,03/12/2021 00:00:00,Baker Walter A,4,F-InKind,--D,4170,76570,4,0001512864,Common Stock
+A,03/12/2021 00:00:00,Baker Walter A,4,M-Exempt,--D,11269,80740,3,0001512864,Common Stock
+D,03/12/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,25905,51812,8,0001783182,Restricted Stock Units
+D,03/12/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,13661,0,7,0001783182,Restricted Stock Units
+D,03/12/2021 00:00:00,Hillstrand Kris W,4,F-InKind,--D,11502,37399,6,0001783182,Common Stock
+A,03/12/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,25905,48901,5,0001783182,Common Stock
+D,03/12/2021 00:00:00,Hillstrand Kris W,4,F-InKind,--D,5745,22996,4,0001783182,Common Stock
+A,03/12/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,13661,28741,3,0001783182,Common Stock
+D,03/12/2021 00:00:00,LANE ROBERT LAWRENCE,4,M-Exempt,--D,27898,55797,8,0001675877,Restricted Stock Units
+D,03/12/2021 00:00:00,LANE ROBERT LAWRENCE,4,M-Exempt,--D,7564,0,7,0001675877,Restricted Stock Units
+D,03/12/2021 00:00:00,LANE ROBERT LAWRENCE,4,F-InKind,--D,10978,56262,6,0001675877,Common Stock
+A,03/12/2021 00:00:00,LANE ROBERT LAWRENCE,4,M-Exempt,--D,27898,67240,5,0001675877,Common Stock
+D,03/12/2021 00:00:00,LANE ROBERT LAWRENCE,4,F-InKind,--D,2799,39342,4,0001675877,Common Stock
+A,03/12/2021 00:00:00,LANE ROBERT LAWRENCE,4,M-Exempt,--D,7564,42141,3,0001675877,Common Stock
+D,03/12/2021 00:00:00,Berger William J,4,M-Exempt,--D,33544,0,7,0001782991,Restricted Stock Units
+D,03/12/2021 00:00:00,Berger William J,4,F-InKind,--D,12412,166354,4,0001782991,Common Stock
+A,03/12/2021 00:00:00,Berger William J,4,M-Exempt,--D,33544,178766,3,0001782991,Common Stock
+D,03/11/2021 00:00:00,Santo Salvo John T,4,F-InKind,--D,2861,14490,2,0001783166,Common Stock
+A,03/11/2021 00:00:00,Santo Salvo John T,4,A-Award,--D,7270,17351,1,0001783166,Common Stock
+D,03/11/2021 00:00:00,Allen Stuart D,4,F-InKind,--D,182,45535,2,0001604841,Common Stock
+A,03/11/2021 00:00:00,Allen Stuart D,4,A-Award,--D,6375,45717,1,0001604841,Common Stock
+D,03/11/2021 00:00:00,Nutting Meghan,4,F-InKind,--D,1816,8104,2,0001783159,Common Stock
+A,03/11/2021 00:00:00,Nutting Meghan,4,A-Award,--D,4474,9920,1,0001783159,Common Stock
+D,03/11/2021 00:00:00,Grasso Michael P,4,F-InKind,--D,3620,16506,2,0001783160,Common Stock
+A,03/11/2021 00:00:00,Grasso Michael P,4,A-Award,--D,7270,20126,1,0001783160,Common Stock
+D,03/11/2021 00:00:00,Baker Walter A,4,F-InKind,--D,2875,69471,2,0001512864,Common Stock
+A,03/11/2021 00:00:00,Baker Walter A,4,A-Award,--D,7270,72346,1,0001512864,Common Stock
+D,03/11/2021 00:00:00,Hillstrand Kris W,4,F-InKind,--D,3228,15080,2,0001783182,Common Stock
+A,03/11/2021 00:00:00,Hillstrand Kris W,4,A-Award,--D,7270,18308,1,0001783182,Common Stock
+D,03/11/2021 00:00:00,LANE ROBERT LAWRENCE,4,F-InKind,--D,2583,34577,2,0001675877,Common Stock
+A,03/11/2021 00:00:00,LANE ROBERT LAWRENCE,4,A-Award,--D,6525,37160,1,0001675877,Common Stock
+D,03/11/2021 00:00:00,Berger William J,4,F-InKind,--D,7923,145222,2,0001782991,Common Stock
+A,03/11/2021 00:00:00,Berger William J,4,A-Award,--D,20134,153145,1,0001782991,Common Stock
+D,02/23/2021 00:00:00,Newlight Partners LP,4,C-Conversion,--D,0,0,4,0001782866,9.75% Convertible Senior Notes
+A,02/23/2021 00:00:00,Newlight Partners LP,4,C-Conversion,--D,5962,6505811,2,0001782866,Common Shares
+D,02/19/2021 00:00:00,Newlight Partners LP,4,C-Conversion,--D,0,80000,3,0001782866,9.75% Convertible Senior Notes
+A,02/19/2021 00:00:00,Newlight Partners LP,4,C-Conversion,--D,1911942,6499849,1,0001782866,Common Shares
+D,02/10/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,7876,0,6,0001783182,Non-Qualified Stock Option (Right to Buy)
+D,02/10/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,50104,0,5,0001783182,Non-Qualified Stock Option (Right to Buy)
+D,02/10/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,7876,11038,4,0001783182,Common Stock
+A,02/10/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,7876,18914,3,0001783182,Common Stock
+D,02/10/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,50104,11038,2,0001783182,Common Stock
+A,02/10/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,50104,61142,1,0001783182,Common Stock
+D,02/09/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,2839,7876,12,0001783182,Non-Qualified Stock Option (Right to Buy)
+D,02/09/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,2044,50104,11,0001783182,Non-Qualified Stock Option (Right to Buy)
+D,02/09/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,2839,11038,8,0001783182,Common Stock
+A,02/09/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,2839,13877,7,0001783182,Common Stock
+D,02/09/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,2044,11038,6,0001783182,Common Stock
+A,02/09/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,2044,13082,5,0001783182,Common Stock
+D,02/05/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,31289,0,10,0001783182,Non-Qualified Stock Option (Right to Buy)
+D,02/05/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,52148,52148,9,0001783182,Non-Qualified Stock Option (Right to Buy)
+D,02/05/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,31289,11038,4,0001783182,Common Stock
+A,02/05/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,31289,42327,3,0001783182,Common Stock
+D,02/05/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,52148,11038,2,0001783182,Common Stock
+A,02/05/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,52148,63186,1,0001783182,Common Stock
+D,02/02/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,36342,31289,29,0001783182,Non-Qualified Stock Option (Right to Buy)
+D,02/02/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,33866,104296,28,0001783182,Non-Qualified Stock Option (Right to Buy)
+D,02/02/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,7374,11038,22,0001783182,Common Stock
+D,02/02/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,28968,18412,21,0001783182,Common Stock
+A,02/02/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,36342,47380,20,0001783182,Common Stock
+D,02/02/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,4234,11038,19,0001783182,Common Stock
+D,02/02/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,29632,15272,18,0001783182,Common Stock
+A,02/02/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,33866,44904,17,0001783182,Common Stock
+D,02/01/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,34766,138162,27,0001783182,Non-Qualified Stock Option (Right to Buy)
+D,02/01/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,10716,10715,26,0001783182,Non-Qualified Stock Option (Right to Buy)
+D,02/01/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,6429,0,25,0001783182,Non-Qualified Stock Option (Right to Buy)
+D,02/01/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,900,172928,24,0001783182,Non-Qualified Stock Option (Right to Buy)
+D,02/01/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,1900,67630,23,0001783182,Non-Qualified Stock Option (Right to Buy)
+D,02/01/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,10491,11038,16,0001783182,Common Stock
+D,02/01/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,6443,21529,15,0001783182,Common Stock
+D,02/01/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,17832,27972,14,0001783182,Common Stock
+A,02/01/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,34766,45804,13,0001783182,Common Stock
+D,02/01/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,3875,11038,12,0001783182,Common Stock
+D,02/01/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,1400,14913,11,0001783182,Common Stock
+D,02/01/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,5441,16313,10,0001783182,Common Stock
+A,02/01/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,10716,21754,9,0001783182,Common Stock
+D,02/01/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,1659,11038,8,0001783182,Common Stock
+D,02/01/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,1600,12697,7,0001783182,Common Stock
+D,02/01/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,3170,14297,6,0001783182,Common Stock
+A,02/01/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,6429,17467,5,0001783182,Common Stock
+D,02/01/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,900,11038,4,0001783182,Common Stock
+A,02/01/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,900,11938,3,0001783182,Common Stock
+D,02/01/2021 00:00:00,Hillstrand Kris W,4,S-Sale,--D,1900,11038,2,0001783182,Common Stock
+A,02/01/2021 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,1900,12938,1,0001783182,Common Stock
+D,01/25/2021 00:00:00,Newlight Partners LP,4,C-Conversion,--D,0,25766000,4,0001782866,9.75% Convertible Senior Notes
+A,01/25/2021 00:00:00,Newlight Partners LP,4,C-Conversion,--D,1002067,4587907,2,0001782866,Common Shares
+D,01/21/2021 00:00:00,Newlight Partners LP,4,C-Conversion,--D,0,39000000,3,0001782866,9.75% Convertible Senior Notes
+A,01/21/2021 00:00:00,Newlight Partners LP,4,C-Conversion,--D,75679,3585840,1,0001782866,Common Shares
+D,01/06/2021 00:00:00,Santo Salvo John T,4,M-Exempt,--D,69531,0,7,0001783166,Non-Qualified Stock Option (Right to Buy)
+D,01/06/2021 00:00:00,Santo Salvo John T,4,M-Exempt,--D,107158,0,6,0001783166,Non-Qualified Stock Option (Right to Buy)
+D,01/06/2021 00:00:00,Santo Salvo John T,4,S-Sale,--D,69531,10081,4,0001783166,Common Stock
+A,01/06/2021 00:00:00,Santo Salvo John T,4,M-Exempt,--D,69531,79612,3,0001783166,Common Stock
+D,01/06/2021 00:00:00,Santo Salvo John T,4,S-Sale,--D,107158,10081,2,0001783166,Common Stock
+A,01/06/2021 00:00:00,Santo Salvo John T,4,M-Exempt,--D,107158,117239,1,0001783166,Common Stock
+D,12/29/2020 00:00:00,Berger William J,4,G-Gift,--I,12000,0,6,0001782991,Common Stock
+A,12/23/2020 00:00:00,Mohamed Akbar,4,A-Award,--D,2553,2553,1,0001837701,Restricted Stock Units
+D,12/22/2020 00:00:00,Santo Salvo John T,4,M-Exempt,--D,25717,0,13,0001783166,Non-Qualified Stock Option (Right to Buy)
+D,12/22/2020 00:00:00,Santo Salvo John T,4,M-Exempt,--D,6429,0,12,0001783166,Non-Qualified Stock Option (Right to Buy)
+D,12/22/2020 00:00:00,Santo Salvo John T,4,S-Sale,--D,25717,10081,8,0001783166,Common Stock
+A,12/22/2020 00:00:00,Santo Salvo John T,4,M-Exempt,--D,25717,35798,7,0001783166,Common Stock
+D,12/22/2020 00:00:00,Santo Salvo John T,4,S-Sale,--D,6429,10081,6,0001783166,Common Stock
+A,12/22/2020 00:00:00,Santo Salvo John T,4,M-Exempt,--D,6429,16510,5,0001783166,Common Stock
+D,12/18/2020 00:00:00,Santo Salvo John T,4,M-Exempt,--D,841,0,11,0001783166,Non-Qualified Stock Option (Right to Buy)
+D,12/18/2020 00:00:00,Santo Salvo John T,4,M-Exempt,--D,16303,0,10,0001783166,Non-Qualified Stock Option (Right to Buy)
+D,12/18/2020 00:00:00,Santo Salvo John T,4,S-Sale,--D,841,10081,4,0001783166,Common Stock
+A,12/18/2020 00:00:00,Santo Salvo John T,4,M-Exempt,--D,841,10922,3,0001783166,Common Stock
+D,12/18/2020 00:00:00,Santo Salvo John T,4,S-Sale,--D,16303,10081,2,0001783166,Common Stock
+A,12/18/2020 00:00:00,Santo Salvo John T,4,M-Exempt,--D,16303,26384,1,0001783166,Common Stock
+D,12/15/2020 00:00:00,Santo Salvo John T,4,M-Exempt,--D,9412,0,7,0001783166,Non-Qualified Stock Option (Right to Buy)
+D,12/15/2020 00:00:00,Santo Salvo John T,4,M-Exempt,--D,23532,0,6,0001783166,Non-Qualified Stock Option (Right to Buy)
+D,12/15/2020 00:00:00,Santo Salvo John T,4,S-Sale,--D,9412,10081,4,0001783166,Common Stock
+A,12/15/2020 00:00:00,Santo Salvo John T,4,M-Exempt,--D,9412,19493,3,0001783166,Common Stock
+D,12/15/2020 00:00:00,Santo Salvo John T,4,S-Sale,--D,23532,10081,2,0001783166,Common Stock
+A,12/15/2020 00:00:00,Santo Salvo John T,4,M-Exempt,--D,23532,33613,1,0001783166,Common Stock
+D,12/15/2020 00:00:00,"ECP ControlCo, LLC",4,S-Sale,--I,3000000,16911664,1,0001707921,Common Stock
+D,12/15/2020 00:00:00,"ECP Sunnova Holdings, LP",4,S-Sale,--I,3000000,16911664,1,0001835499,Common Stock
+D,12/08/2020 00:00:00,Baker Walter A,4,M-Exempt,--D,27365,0,6,0001512864,Non-Qualified Stock Option (Right to Buy)
+D,12/08/2020 00:00:00,Baker Walter A,4,S-Sale,--D,21235,65076,4,0001512864,Common Stock
+A,12/08/2020 00:00:00,Baker Walter A,4,M-Exempt,--D,27365,86311,3,0001512864,Common Stock
+D,12/07/2020 00:00:00,Baker Walter A,4,M-Exempt,--D,36929,27365,5,0001512864,Non-Qualified Stock Option (Right to Buy)
+D,12/07/2020 00:00:00,Baker Walter A,4,S-Sale,--D,28656,58946,2,0001512864,Common Stock
+A,12/07/2020 00:00:00,Baker Walter A,4,M-Exempt,--D,36929,87602,1,0001512864,Common Stock
+D,12/07/2020 00:00:00,MORGAN MICHAEL C,4,S-Sale,--I,1900,1868,4,0001250209,Common Stock
+D,12/07/2020 00:00:00,MORGAN MICHAEL C,4,S-Sale,--I,23100,3768,3,0001250209,Common Stock
+D,12/07/2020 00:00:00,MORGAN MICHAEL C,4,S-Sale,--I,5200,416750,2,0001250209,Common Stock
+D,12/07/2020 00:00:00,MORGAN MICHAEL C,4,S-Sale,--I,69800,421950,1,0001250209,Common Stock
+D,12/01/2020 00:00:00,Newlight Partners LP,4,S-Sale,--D,4025000,3510161,1,0001782866,Common Stock
+D,11/23/2020 00:00:00,Allen Stuart D,4,M-Exempt,--D,14910,0,3,0001604841,Non-Qualified Stock Option (Right to Buy)
+D,11/23/2020 00:00:00,Allen Stuart D,4,S-Sale,--D,12700,39342,2,0001604841,Common Stock
+A,11/23/2020 00:00:00,Allen Stuart D,4,M-Exempt,--D,14910,52042,1,0001604841,Common Stock
+D,11/18/2020 00:00:00,Allen Stuart D,4,M-Exempt,--D,1775,14910,3,0001604841,Non-Qualified Stock Option (Right to Buy)
+D,11/18/2020 00:00:00,Allen Stuart D,4,S-Sale,--D,1512,37132,2,0001604841,Common Stock
+A,11/18/2020 00:00:00,Allen Stuart D,4,M-Exempt,--D,1775,38644,1,0001604841,Common Stock
+D,11/09/2020 00:00:00,Allen Stuart D,4,M-Exempt,--D,26178,16685,3,0001604841,Non-Qualified Stock Option (Right to Buy)
+D,11/09/2020 00:00:00,Allen Stuart D,4,S-Sale,--D,22299,36869,2,0001604841,Common Stock
+A,11/09/2020 00:00:00,Allen Stuart D,4,M-Exempt,--D,26178,59168,1,0001604841,Common Stock
+D,11/09/2020 00:00:00,Grasso Michael P,4,M-Exempt,--D,20000,90021,9,0001783160,Non-Qualified Stock Option (Right to Buy)
+D,11/09/2020 00:00:00,Grasso Michael P,4,S-Sale,--D,13413,12856,6,0001783160,Common Stock
+A,11/09/2020 00:00:00,Grasso Michael P,4,M-Exempt,--D,20000,26269,5,0001783160,Common Stock
+D,11/06/2020 00:00:00,Grasso Michael P,4,M-Exempt,--D,17235,110021,8,0001783160,Non-Qualified Stock Option (Right to Buy)
+D,11/06/2020 00:00:00,Grasso Michael P,4,S-Sale,--D,11831,6269,4,0001783160,Common Stock
+A,11/06/2020 00:00:00,Grasso Michael P,4,M-Exempt,--D,17235,18100,3,0001783160,Common Stock
+D,11/05/2020 00:00:00,Berger William J,4,G-Gift,--I,129,0,5,0001782991,Common Stock
+D,11/05/2020 00:00:00,Grasso Michael P,4,M-Exempt,--D,2621,127256,7,0001783160,Non-Qualified Stock Option (Right to Buy)
+D,11/05/2020 00:00:00,Grasso Michael P,4,S-Sale,--D,1800,865,2,0001783160,Common Stock
+A,11/05/2020 00:00:00,Grasso Michael P,4,M-Exempt,--D,2621,2665,1,0001783160,Common Stock
+D,11/04/2020 00:00:00,Berger William J,5,G-Gift,--I,4057,172596,1,0001782991,Common Stock
+A,10/26/2020 00:00:00,Brownell Nora Mead,4,A-Award,--D,4627,4627,1,0001395079,Restricted Stock Units
+D,10/16/2020 00:00:00,Andrew Anne S,4,M-Exempt,--D,11241,0,3,0001791282,Restricted Stock Units
+A,10/16/2020 00:00:00,Andrew Anne S,4,M-Exempt,--D,11241,11241,1,0001791282,Common Stock
+D,10/02/2020 00:00:00,Grasso Michael P,4,M-Exempt,--D,144,129877,7,0001783160,Non-Qualified Stock Option (Right to Buy)
+D,10/02/2020 00:00:00,Grasso Michael P,4,M-Exempt,--D,20000,130020,6,0001783160,Non-Qualified Stock Option (Right to Buy)
+D,10/02/2020 00:00:00,Grasso Michael P,4,S-Sale,--D,6302,44,5,0001783160,Common Stock
+D,10/02/2020 00:00:00,Grasso Michael P,4,S-Sale,--D,100,6346,4,0001783160,Common Stock
+A,10/02/2020 00:00:00,Grasso Michael P,4,M-Exempt,--D,144,6446,3,0001783160,Common Stock
+D,10/02/2020 00:00:00,Grasso Michael P,4,S-Sale,--D,20000,6302,2,0001783160,Common Stock
+A,10/02/2020 00:00:00,Grasso Michael P,4,M-Exempt,--D,20000,26302,1,0001783160,Common Stock
+A,10/02/2020 00:00:00,Berger William J,4,P-Purchase,--D,500,133011,1,0001782991,Common Stock
+D,10/02/2020 00:00:00,"ECP ControlCo, LLC",4,S-Sale,--I,5000000,19911664,1,0001707921,Common Stock
+D,09/30/2020 00:00:00,SHAPER C PARK,4,S-Sale,--I,158467,1278067,5,0001228688,Common Stock
+D,09/30/2020 00:00:00,SHAPER C PARK,4,S-Sale,--I,24711,1436534,4,0001228688,Common Stock
+D,09/30/2020 00:00:00,SHAPER C PARK,4,S-Sale,--I,34539,1461245,3,0001228688,Common Stock
+A,09/29/2020 00:00:00,Berger William J,4,P-Purchase,--D,500,132511,1,0001782991,Common Stock
+D,09/28/2020 00:00:00,SHAPER C PARK,4,S-Sale,--I,11444,1495784,2,0001228688,Common Stock
+D,09/28/2020 00:00:00,SHAPER C PARK,4,S-Sale,--I,70839,1507228,1,0001228688,Common Stock
+D,09/25/2020 00:00:00,SHAPER C PARK,4,S-Sale,--I,44208,1578067,6,0001228688,Common Stock
+D,09/25/2020 00:00:00,SHAPER C PARK,4,S-Sale,--I,9631,1622275,5,0001228688,Common Stock
+D,09/24/2020 00:00:00,SHAPER C PARK,4,S-Sale,--I,9933,1631906,4,0001228688,Common Stock
+D,09/24/2020 00:00:00,SHAPER C PARK,4,S-Sale,--I,64514,1641839,3,0001228688,Common Stock
+D,09/23/2020 00:00:00,SHAPER C PARK,4,S-Sale,--I,22441,1706353,2,0001228688,Common Stock
+D,09/23/2020 00:00:00,SHAPER C PARK,4,S-Sale,--I,49273,1728794,1,0001228688,Common Stock
+D,08/18/2020 00:00:00,"ECP ControlCo, LLC",4,S-Sale,--I,7229760,24911664,1,0001707921,Common Stock
+D,08/04/2020 00:00:00,Newlight Partners LP,4,S-Sale,--D,2100000,7535161,1,0001782866,Common Stock
+D,07/29/2020 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,18055,36111,3,0001783182,Restricted Stock Units
+D,07/29/2020 00:00:00,Hillstrand Kris W,4,F-InKind,--D,8017,11038,2,0001783182,Common Stock
+A,07/29/2020 00:00:00,Hillstrand Kris W,4,M-Exempt,--D,18055,19055,1,0001783182,Common Stock
+D,07/29/2020 00:00:00,Santo Salvo John T,4,M-Exempt,--D,12500,25000,4,0001783166,Restricted Stock Units
+D,07/29/2020 00:00:00,Santo Salvo John T,4,F-InKind,--D,3419,10081,2,0001783166,Common Stock
+A,07/29/2020 00:00:00,Santo Salvo John T,4,M-Exempt,--D,12500,13500,1,0001783166,Common Stock
+D,07/29/2020 00:00:00,Nutting Meghan,4,M-Exempt,--D,9722,19444,3,0001783159,Restricted Stock Units
+D,07/29/2020 00:00:00,Nutting Meghan,4,F-InKind,--D,4276,5446,2,0001783159,Common Stock
+A,07/29/2020 00:00:00,Nutting Meghan,4,M-Exempt,--D,9722,9722,1,0001783159,Common Stock
+D,07/29/2020 00:00:00,Grasso Michael P,4,M-Exempt,--D,12500,25000,3,0001783160,Restricted Stock Units
+D,07/29/2020 00:00:00,Grasso Michael P,4,F-InKind,--D,6198,6302,2,0001783160,Common Stock
+A,07/29/2020 00:00:00,Grasso Michael P,4,M-Exempt,--D,12500,12500,1,0001783160,Common Stock
+D,07/29/2020 00:00:00,Allen Stuart D,4,M-Exempt,--D,12500,25000,6,0001604841,Restricted Stock Units
+D,07/29/2020 00:00:00,Allen Stuart D,4,M-Exempt,--D,38577,0,5,0001604841,Non-Qualified Stock Option (Right to Buy)
+D,07/29/2020 00:00:00,Allen Stuart D,4,F-InKind,--D,4919,32990,4,0001604841,Common Stock
+A,07/29/2020 00:00:00,Allen Stuart D,4,M-Exempt,--D,12500,37909,3,0001604841,Common Stock
+D,07/29/2020 00:00:00,Allen Stuart D,4,S-Sale,--D,28600,25409,2,0001604841,Common Stock
+A,07/29/2020 00:00:00,Allen Stuart D,4,M-Exempt,--D,38577,54009,1,0001604841,Common Stock
+D,07/29/2020 00:00:00,Baker Walter A,4,M-Exempt,--D,18055,36111,6,0001512864,Restricted Stock Units
+D,07/29/2020 00:00:00,Baker Walter A,4,M-Exempt,--D,45007,0,5,0001512864,Non-Qualified Stock Option (Right to Buy)
+D,07/29/2020 00:00:00,Baker Walter A,4,F-InKind,--D,7105,50673,4,0001512864,Common Stock
+A,07/29/2020 00:00:00,Baker Walter A,4,M-Exempt,--D,18055,57778,3,0001512864,Common Stock
+D,07/29/2020 00:00:00,Baker Walter A,4,S-Sale,--D,32055,39723,2,0001512864,Common Stock
+A,07/29/2020 00:00:00,Baker Walter A,4,M-Exempt,--D,45007,71778,1,0001512864,Common Stock
+D,07/29/2020 00:00:00,LANE ROBERT LAWRENCE,4,M-Exempt,--D,20833,41667,3,0001675877,Restricted Stock Units
+D,07/29/2020 00:00:00,LANE ROBERT LAWRENCE,4,F-InKind,--D,8198,30635,2,0001675877,Common Stock
+A,07/29/2020 00:00:00,LANE ROBERT LAWRENCE,4,M-Exempt,--D,20833,38833,1,0001675877,Common Stock
+D,07/29/2020 00:00:00,Berger William J,4,M-Exempt,--D,119047,714286,5,0001782991,Restricted Stock Units
+D,07/29/2020 00:00:00,Berger William J,4,F-InKind,--D,45600,132011,2,0001782991,Common Stock
+A,07/29/2020 00:00:00,Berger William J,4,M-Exempt,--D,119047,177611,1,0001782991,Common Stock
+D,07/13/2020 00:00:00,Allen Stuart D,4,S-Sale,--D,9780,15432,1,0001604841,Common Stock
+D,07/09/2020 00:00:00,Allen Stuart D,4,M-Exempt,--D,90012,38577,3,0001604841,Non-Qualified Stock Option (Right to Buy)
+D,07/09/2020 00:00:00,Allen Stuart D,4,S-Sale,--D,64800,25212,2,0001604841,Common Stock
+A,07/09/2020 00:00:00,Allen Stuart D,4,M-Exempt,--D,90012,90012,1,0001604841,Common Stock
+D,07/08/2020 00:00:00,Baker Walter A,4,M-Exempt,--D,105014,45007,4,0001512864,Non-Qualified Stock Option (Right to Buy)
+D,07/08/2020 00:00:00,Baker Walter A,4,S-Sale,--D,19740,26771,3,0001512864,Common Stock
+D,07/08/2020 00:00:00,Baker Walter A,4,S-Sale,--D,58503,46511,2,0001512864,Common Stock
+A,07/08/2020 00:00:00,Baker Walter A,4,M-Exempt,--D,105014,105014,1,0001512864,Common Stock
+A,07/06/2020 00:00:00,LANE ROBERT LAWRENCE,4,P-Purchase,--D,3000,18000,1,0001675877,Common Stock
+D,07/06/2020 00:00:00,"ECP ControlCo, LLC",4,S-Sale,--I,6211533,32141424,1,0001707921,Common Stock
+A,06/12/2020 00:00:00,Newlight Partners LP,4,X-InTheMoney,--D,0,40000000,1,0001782866,9.75% Convertible Senior Notes
+D,06/09/2020 00:00:00,Newlight Partners LP,4,X-InTheMoney,--D,0,0,2,0001782866,Option (right to buy) 9.75% Convertible Senior Notes
+A,06/02/2020 00:00:00,Berger William J,4,P-Purchase,--D,1000,58564,1,0001782991,Common Stock
+A,05/27/2020 00:00:00,Berger William J,4,P-Purchase,--D,500,57564,1,0001782991,Common Stock
+A,05/22/2020 00:00:00,Andrew Anne S,4,P-Purchase,--I,650,18650,2,0001791282,Common Stock
+A,05/22/2020 00:00:00,Andrew Anne S,4,P-Purchase,--I,3000,18000,1,0001791282,Common Stock
+A,05/22/2020 00:00:00,Berger William J,4,P-Purchase,--D,1000,57064,3,0001782991,Common Stock
+A,05/22/2020 00:00:00,Berger William J,4,P-Purchase,--D,500,56064,2,0001782991,Common Stock
+A,05/22/2020 00:00:00,Berger William J,4,P-Purchase,--D,500,55564,1,0001782991,Common Stock
+A,05/21/2020 00:00:00,Berger William J,4,P-Purchase,--D,500,55064,1,0001782991,Common Stock
+A,05/20/2020 00:00:00,Andrew Anne S,4,A-Award,--D,8173,8173,1,0001791282,Restricted Stock Units
+D,05/19/2020 00:00:00,MORGAN MICHAEL C,4,J-Other,--I,98110,0,2,0001250209,Common Stock
+D,05/19/2020 00:00:00,MORGAN MICHAEL C,4,J-Other,--I,1345780,0,1,0001250209,Common Stock
+A,05/19/2020 00:00:00,SHAPER C PARK,4,J-Other,--I,24868,1778067,1,0001228688,Common Stock
+A,05/14/2020 00:00:00,Newlight Partners LP,4,A-Award,--D,0,10000000,2,0001782866,Option (right to buy) 9.75% Convertible Senior Notes
+A,05/14/2020 00:00:00,Newlight Partners LP,4,A-Award,--D,0,30000000,1,0001782866,9.75% Convertible Senior Notes
+A,04/23/2020 00:00:00,Andrew Anne S,4,A-Award,--D,2439,2439,1,0001791282,Restricted Stock Units
+A,04/06/2020 00:00:00,Berger William J,4,P-Purchase,--D,1000,54564,1,0001782991,Common Stock
+A,04/03/2020 00:00:00,Berger William J,4,P-Purchase,--D,1000,53564,1,0001782991,Common Stock
+A,03/27/2020 00:00:00,Berger William J,4,P-Purchase,--D,1000,52564,1,0001782991,Common Stock
+A,03/20/2020 00:00:00,Berger William J,4,P-Purchase,--D,1000,51564,1,0001782991,Common Stock
+A,03/18/2020 00:00:00,Berger William J,4,P-Purchase,--D,7000,50564,1,0001782991,Common Stock
+A,03/17/2020 00:00:00,Berger William J,4,P-Purchase,--D,12000,43564,1,0001782991,Common Stock
+A,03/12/2020 00:00:00,Nutting Meghan,4,A-Award,--D,34782,34782,2,0001783159,Restricted Stock Units
+A,03/12/2020 00:00:00,Nutting Meghan,4,A-Award,--D,7043,7043,1,0001783159,Restricted Stock Units
+A,03/12/2020 00:00:00,Allen Stuart D,4,A-Award,--D,49565,49565,2,0001604841,Restricted Stock Units
+A,03/12/2020 00:00:00,Allen Stuart D,4,A-Award,--D,10036,10036,1,0001604841,Restricted Stock Units
+A,03/12/2020 00:00:00,Santo Salvo John T,4,A-Award,--D,8695,8695,3,0001783166,Restricted Stock Units
+A,03/12/2020 00:00:00,Santo Salvo John T,4,A-Award,--D,52173,52173,2,0001783166,Restricted Stock Units
+A,03/12/2020 00:00:00,Santo Salvo John T,4,A-Award,--D,10565,10565,1,0001783166,Restricted Stock Units
+A,03/12/2020 00:00:00,Grasso Michael P,4,A-Award,--D,54782,54782,2,0001783160,Restricted Stock Units
+A,03/12/2020 00:00:00,Grasso Michael P,4,A-Award,--D,9244,9244,1,0001783160,Restricted Stock Units
+A,03/12/2020 00:00:00,Baker Walter A,4,A-Award,--D,76521,76521,2,0001512864,Restricted Stock Units
+A,03/12/2020 00:00:00,Baker Walter A,4,A-Award,--D,11269,11269,1,0001512864,Restricted Stock Units
+A,03/12/2020 00:00:00,Hillstrand Kris W,4,A-Award,--D,77717,77717,2,0001783182,Restricted Stock Units
+A,03/12/2020 00:00:00,Hillstrand Kris W,4,A-Award,--D,13661,13661,1,0001783182,Restricted Stock Units
+A,03/12/2020 00:00:00,LANE ROBERT LAWRENCE,4,A-Award,--D,83695,83695,2,0001675877,Restricted Stock Units
+A,03/12/2020 00:00:00,LANE ROBERT LAWRENCE,4,A-Award,--D,7564,7564,1,0001675877,Restricted Stock Units
+A,03/12/2020 00:00:00,Berger William J,4,A-Award,--D,33544,33544,1,0001782991,Restricted Stock Units
+A,11/13/2019 00:00:00,Andrew Anne S,4,P-Purchase,--D,15000,15000,1,0001791282,Common Stock
+A,10/16/2019 00:00:00,Andrew Anne S,4,A-Award,--D,11241,11241,1,0001791282,Restricted Stock Units
+A,08/29/2019 00:00:00,LANE ROBERT LAWRENCE,4,P-Purchase,--D,10000,15000,1,0001675877,Common Stock
+A,08/26/2019 00:00:00,MORGAN MICHAEL C,4,P-Purchase,--I,25000,25000,1,0001250209,Common Stock
+A,07/29/2019 00:00:00,Newlight Partners LP,4,A-Award,--D,9635161,9635161,1,0001782866,Common Stock
+A,07/29/2019 00:00:00,Santo Salvo John T,4,J-Other,--D,37500,37500,11,0001783166,Restricted Stock Units
+A,07/29/2019 00:00:00,Santo Salvo John T,4,A-Award,--D,6428,6428,10,0001783166,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Santo Salvo John T,4,A-Award,--D,25717,25717,9,0001783166,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Santo Salvo John T,4,A-Award,--D,69531,69531,8,0001783166,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Santo Salvo John T,4,A-Award,--D,107157,107157,7,0001783166,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Santo Salvo John T,4,A-Award,--D,840,840,6,0001783166,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Santo Salvo John T,4,A-Award,--D,16303,16303,5,0001783166,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Santo Salvo John T,4,A-Award,--D,9412,9412,4,0001783166,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Santo Salvo John T,4,A-Award,--D,23531,23531,3,0001783166,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Santo Salvo John T,4,P-Purchase,--I,6,6,2,0001783166,Common Stock
+A,07/29/2019 00:00:00,Santo Salvo John T,4,P-Purchase,--D,1000,1000,1,0001783166,Common Stock
+A,07/29/2019 00:00:00,MORGAN MICHAEL C,4,J-Other,--I,94118,94118,3,0001250209,Common Stock
+A,07/29/2019 00:00:00,MORGAN MICHAEL C,4,J-Other,--I,104998,104998,2,0001250209,Common Stock
+A,07/29/2019 00:00:00,MORGAN MICHAEL C,4,J-Other,--I,1747759,1747759,1,0001250209,Common Stock
+A,07/29/2019 00:00:00,Allen Stuart D,4,A-Award,--D,37500,37500,3,0001604841,Restricted Stock Units
+A,07/29/2019 00:00:00,Allen Stuart D,4,A-Award,--D,42862,42862,2,0001604841,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Allen Stuart D,4,A-Award,--D,128588,128588,1,0001604841,Non-Qualified Stock Option (Right to Buy)
+D,07/29/2019 00:00:00,Sunnova Energy Corp,4,D-Return,--D,100000,0,1,0001608828,Common Stock
+A,07/29/2019 00:00:00,SHAPER C PARK,4,J-Other,--I,1753199,1753199,1,0001228688,Common Stock
+A,07/29/2019 00:00:00,LANE ROBERT LAWRENCE,4,A-Award,--D,62500,62500,2,0001675877,Restricted Stock Units
+A,07/29/2019 00:00:00,LANE ROBERT LAWRENCE,4,P-Purchase,--D,5000,5000,1,0001675877,Common Stock
+A,07/29/2019 00:00:00,Nutting Meghan,4,A-Award,--D,29166,29166,5,0001783159,Restricted Stock Units
+A,07/29/2019 00:00:00,Nutting Meghan,4,A-Award,--D,34290,34290,4,0001783159,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Nutting Meghan,4,A-Award,--D,102870,102870,3,0001783159,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Nutting Meghan,4,A-Award,--D,4285,4285,2,0001783159,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Nutting Meghan,4,A-Award,--D,4032,4032,1,0001783159,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Hillstrand Kris W,4,A-Award,--D,54166,54166,6,0001783182,Restricted Stock Units
+A,07/29/2019 00:00:00,Hillstrand Kris W,4,A-Award,--D,6428,6428,5,0001783182,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Hillstrand Kris W,4,A-Award,--D,21430,21430,4,0001783182,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Hillstrand Kris W,4,A-Award,--D,69530,69530,3,0001783182,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Hillstrand Kris W,4,A-Award,--D,173828,173828,2,0001783182,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Hillstrand Kris W,4,P-Purchase,--D,1000,1000,1,0001783182,Common Stock
+A,07/29/2019 00:00:00,Grasso Michael P,4,A-Award,--D,37500,37500,3,0001783160,Restricted Stock Units
+A,07/29/2019 00:00:00,Grasso Michael P,4,A-Award,--D,64293,64293,2,0001783160,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Grasso Michael P,4,A-Award,--D,150020,150020,1,0001783160,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Baker Walter A,4,A-Award,--D,54166,54166,3,0001512864,Restricted Stock Units
+A,07/29/2019 00:00:00,Baker Walter A,4,A-Award,--D,64293,64293,2,0001512864,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Baker Walter A,4,A-Award,--D,150020,150020,1,0001512864,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Berger William J,4,A-Award,--D,833333,833333,8,0001782991,Restricted Stock Units
+A,07/29/2019 00:00:00,Berger William J,4,A-Award,--D,40720,40720,7,0001782991,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Berger William J,4,A-Award,--D,143162,143162,6,0001782991,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Berger William J,4,A-Award,--D,470520,470520,5,0001782991,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Berger William J,4,A-Award,--D,1176303,1176303,4,0001782991,Non-Qualified Stock Option (Right to Buy)
+A,07/29/2019 00:00:00,Berger William J,4,J-Other,--I,7471,7471,3,0001782991,Common Stock
+A,07/29/2019 00:00:00,Berger William J,4,J-Other,--I,176653,176653,2,0001782991,Common Stock
+A,07/29/2019 00:00:00,Berger William J,4,J-Other,--D,31564,31564,1,0001782991,Common Stock
+D,07/29/2019 00:00:00,"ECP ControlCo, LLC",4,C-Conversion,--I,927109,0,3,0001707921,Series C Convertible Preferred Stock
+D,07/29/2019 00:00:00,"ECP ControlCo, LLC",4,C-Conversion,--I,88550351,0,2,0001707921,Series A Convertible Preferred Stock
+A,07/29/2019 00:00:00,"ECP ControlCo, LLC",4,C-Conversion,--I,38352957,38352957,1,0001707921,Common Stock

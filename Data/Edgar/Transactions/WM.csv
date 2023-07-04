@@ -1,0 +1,721 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,05/08/2023 00:00:00,MAZZARELLA KATHLEEN M,4,A-Award,--I,111,12963,1,0001273233,Common Stock
+A,03/07/2023 00:00:00,Carroll John A.,4,A-Award,--D,1402,1402,2,0001967811,Stock Option (Right to Buy)
+A,03/07/2023 00:00:00,Carroll John A.,4,A-Award,--D,303,5565.5841,1,0001967811,Common Stock
+A,03/07/2023 00:00:00,Nagy Leslie K,4,A-Award,--D,1402,1402,3,0001604561,Stock Option (Right to Buy)
+A,03/07/2023 00:00:00,Nagy Leslie K,4,A-Award,--D,303,5512.79,1,0001604561,Common Stock
+A,03/07/2023 00:00:00,Rooney Kelly C.,4,A-Award,--D,7008,7008,1,0001943720,Stock Option (Right to Buy)
+A,03/07/2023 00:00:00,Watson Michael J.,4,A-Award,--D,8653,8653,1,0001753639,Stock Option (Right to Buy)
+A,03/07/2023 00:00:00,Boettcher Charles C,4,A-Award,--D,10360,10360,1,0001410141,Stock Option (Right to Buy)
+A,03/07/2023 00:00:00,Hemmer Tara J.,4,A-Award,--D,10969,10969,1,0001727026,Stock Option (Right to Buy)
+A,03/07/2023 00:00:00,Carrasco Rafael,4,A-Award,--D,12188,12188,1,0001870418,Stock Option (Right to Buy)
+A,03/07/2023 00:00:00,Smith Donald J,4,A-Award,--D,12188,12188,1,0001957534,Stock Option (Right to Buy)
+A,03/07/2023 00:00:00,Rankin Devina A,4,A-Award,--D,14016,14016,1,0001557267,Stock Option (Right to Buy)
+A,03/07/2023 00:00:00,Morris John J,4,A-Award,--D,16453,16453,1,0001544705,Stock Option (Right to Buy)
+A,03/07/2023 00:00:00,Fish James C Jr,4,A-Award,--D,59415,59415,1,0001523568,Stock Option (Right to Buy)
+D,02/24/2023 00:00:00,Nagy Leslie K,4,S-Sale,--D,800,5209.79,1,0001604561,Common Stock
+D,02/21/2023 00:00:00,Smith Donald J,4,S-Sale,--D,49,4236,2,0001957534,Common Stock
+D,02/21/2023 00:00:00,Rooney Kelly C.,4,S-Sale,--D,15,1651,2,0001943720,Common Stock
+D,02/21/2023 00:00:00,Carrasco Rafael,4,S-Sale,--D,55,12100.1177,2,0001870418,Common Stock
+D,02/21/2023 00:00:00,Nagy Leslie K,4,S-Sale,--D,60,6009.79,2,0001604561,Common Stock
+D,02/19/2023 00:00:00,Smith Donald J,4,F-InKind,--D,72,4285,1,0001957534,Common Stock
+D,02/19/2023 00:00:00,Rooney Kelly C.,4,F-InKind,--D,23,1666,1,0001943720,Common Stock
+D,02/19/2023 00:00:00,Carrasco Rafael,4,F-InKind,--D,85,12155.1177,1,0001870418,Common Stock
+D,02/19/2023 00:00:00,Nagy Leslie K,4,F-InKind,--D,93,6069.79,1,0001604561,Common Stock
+D,02/17/2023 00:00:00,Rankin Devina A,4,S-Sale,--D,6800,57517,1,0001557267,Common Stock
+D,02/17/2023 00:00:00,Morris John J,4,S-Sale,--D,15204,95461,1,0001544705,Common Stock
+D,02/17/2023 00:00:00,Hemmer Tara J.,4,S-Sale,--D,7515,46541.5789,1,0001727026,Common Stock
+D,02/13/2023 00:00:00,Rankin Devina A,4,S-Sale,--D,200,64317,1,0001557267,Common Stock
+D,02/13/2023 00:00:00,Morris John J,4,S-Sale,--D,200,110665,1,0001544705,Common Stock
+D,02/13/2023 00:00:00,Hemmer Tara J.,4,S-Sale,--D,100,54056.5789,1,0001727026,Common Stock
+A,02/10/2023 00:00:00,Chinn Bruce E.,4/A,A-Award,--I,461,461,1,0001965724,Common Stock
+A,02/10/2023 00:00:00,Chinn Bruce E.,4,A-Award,--I,461,461,1,0001965724,Common Stock
+D,02/02/2023 00:00:00,Watson Michael J.,4,S-Sale,--D,1005,39198.2949,3,0001753639,Common Stock
+D,02/02/2023 00:00:00,Rooney Kelly C.,4,S-Sale,--D,73,1690,3,0001943720,Common Stock
+D,02/02/2023 00:00:00,Rankin Devina A,4,S-Sale,--D,1005,64517,3,0001557267,Common Stock
+D,02/02/2023 00:00:00,Nagy Leslie K,4,S-Sale,--D,302,6163.79,3,0001604561,Common Stock
+D,02/02/2023 00:00:00,Morris John J,4,S-Sale,--D,1006,110865,3,0001544705,Common Stock
+D,02/02/2023 00:00:00,Hemmer Tara J.,4,S-Sale,--D,1006,54156.5789,3,0001727026,Common Stock
+D,02/02/2023 00:00:00,Carrasco Rafael,4,S-Sale,--D,200,12240.1177,4,0001870418,Common Stock
+D,02/02/2023 00:00:00,Carrasco Rafael,4,S-Sale,--D,79,12440.1177,3,0001870418,Common Stock
+D,02/02/2023 00:00:00,Boettcher Charles C,4,S-Sale,--D,1007,40300.3814,3,0001410141,Common Stock
+D,02/01/2023 00:00:00,Watson Michael J.,4/A,F-InKind,--D,3602,40202.2949,1,0001753639,Common Stock
+D,02/01/2023 00:00:00,Rooney Kelly C.,4/A,F-InKind,--D,128,1762,1,0001943720,Common Stock
+D,02/01/2023 00:00:00,Rankin Devina A,4/A,F-InKind,--D,8151,65521,1,0001557267,Common Stock
+D,02/01/2023 00:00:00,Nagy Leslie K,4/A,F-InKind,--D,526,6464.79,1,0001604561,Common Stock
+D,02/01/2023 00:00:00,Fish James C Jr,4/A,F-InKind,--D,35463,180648,1,0001523568,Common Stock
+D,02/01/2023 00:00:00,Boettcher Charles C,4/A,F-InKind,--D,4965,41306.3814,1,0001410141,Common Stock
+D,02/01/2023 00:00:00,Watson Michael J.,4,F-InKind,--D,3601,40203.2949,2,0001753639,Common Stock
+A,02/01/2023 00:00:00,Watson Michael J.,4,M-Exempt,--D,11578,43804.2949,1,0001753639,Common Stock
+A,02/01/2023 00:00:00,Smith Donald J,4,M-Exempt,--D,1692,4357,1,0001957534,Common Stock
+D,02/01/2023 00:00:00,Rooney Kelly C.,4,F-InKind,--D,127,1763,2,0001943720,Common Stock
+A,02/01/2023 00:00:00,Rooney Kelly C.,4,M-Exempt,--D,476,1890,1,0001943720,Common Stock
+D,02/01/2023 00:00:00,Rankin Devina A,4,F-InKind,--D,8150,65522,2,0001557267,Common Stock
+A,02/01/2023 00:00:00,Rankin Devina A,4,M-Exempt,--D,23156,73672,1,0001557267,Common Stock
+D,02/01/2023 00:00:00,Nagy Leslie K,4,F-InKind,--D,525,6465.79,2,0001604561,Common Stock
+A,02/01/2023 00:00:00,Nagy Leslie K,4,M-Exempt,--D,1996,6990.79,1,0001604561,Common Stock
+D,02/01/2023 00:00:00,Morris John J,4,F-InKind,--D,9061,111871,2,0001544705,Common Stock
+A,02/01/2023 00:00:00,Morris John J,4,M-Exempt,--D,25471,120932,1,0001544705,Common Stock
+D,02/01/2023 00:00:00,Fish James C Jr,4,F-InKind,--D,35462,180649,2,0001523568,Common Stock
+A,02/01/2023 00:00:00,Fish James C Jr,4,M-Exempt,--D,92617,216111,1,0001523568,Common Stock
+D,02/01/2023 00:00:00,Hemmer Tara J.,4,F-InKind,--D,6560,55162.5789,2,0001727026,Common Stock
+A,02/01/2023 00:00:00,Hemmer Tara J.,4,M-Exempt,--D,19104,61722.5789,1,0001727026,Common Stock
+D,02/01/2023 00:00:00,Carrasco Rafael,4,F-InKind,--D,475,12519.1177,2,0001870418,Common Stock
+A,02/01/2023 00:00:00,Carrasco Rafael,4,M-Exempt,--D,1825,12994.1177,1,0001870418,Common Stock
+D,02/01/2023 00:00:00,Boettcher Charles C,4,F-InKind,--D,4964,41307.3814,2,0001410141,Common Stock
+A,02/01/2023 00:00:00,Boettcher Charles C,4,M-Exempt,--D,15052,46271.3814,1,0001410141,Common Stock
+D,01/17/2023 00:00:00,POPE JOHN C,4,S-Sale,--D,218,55809,2,0001192499,Common Stock
+A,01/15/2023 00:00:00,PLUMMER WILLIAM B,4,A-Award,--I,588,588,1,0001254896,Common Stock
+A,01/15/2023 00:00:00,WEIDEMEYER THOMAS H,4,A-Award,--I,915,37161,1,0001227740,Common Stock
+A,01/15/2023 00:00:00,Sylvester Maryrose,4,A-Award,--D,588,2732,1,0001680767,Common Stock
+A,01/15/2023 00:00:00,POPE JOHN C,4,A-Award,--D,588,56027,1,0001192499,Common Stock
+A,01/15/2023 00:00:00,MENKE SEAN E,4,A-Award,--D,588,2732,1,0001251876,Common Stock
+A,01/15/2023 00:00:00,MAZZARELLA KATHLEEN M,4,A-Award,--I,588,12852,1,0001273233,Common Stock
+A,01/15/2023 00:00:00,HOLT VICTORIA M,4,A-Award,--D,588,20438,1,0001181629,Common Stock
+A,01/15/2023 00:00:00,Gluski Andres,4,A-Award,--D,588,14940,1,0001348876,Common Stock
+D,01/09/2023 00:00:00,Rooney Kelly C.,4,S-Sale,--D,66,1414,2,0001943720,Common Stock
+D,01/07/2023 00:00:00,Rooney Kelly C.,4,F-InKind,--D,132,1480,1,0001943720,Common Stock
+A,12/21/2022 00:00:00,Fish James C Jr,4,G-Gift,--I,200,1046,3,0001523568,Common Stock
+A,12/21/2022 00:00:00,Fish James C Jr,4,G-Gift,--I,200,1046,2,0001523568,Common Stock
+D,12/21/2022 00:00:00,Fish James C Jr,4,G-Gift,--D,400,123494,1,0001523568,Common Stock
+A,09/21/2022 00:00:00,Nagy Leslie K,4,P-Purchase,--D,2,4949.5436,6,0001604561,Common Stock
+A,09/06/2022 00:00:00,Rooney Kelly C.,4,A-Award,--D,296,1612,1,0001943720,Common Stock
+D,08/17/2022 00:00:00,Fish James C Jr,4,M-Exempt,--D,50569,50569,8,0001523568,Stock Option (Right to Buy)
+D,08/17/2022 00:00:00,Fish James C Jr,4,F-InKind,--D,41982,123894,2,0001523568,Common Stock
+A,08/17/2022 00:00:00,Fish James C Jr,4,M-Exempt,--D,50569,165876,1,0001523568,Common Stock
+D,08/16/2022 00:00:00,Rankin Devina A,4,M-Exempt,--D,16367,0,3,0001557267,Stock Option (Right to Buy)
+D,08/16/2022 00:00:00,Rankin Devina A,4,S-Sale,--D,22082,50516,2,0001557267,Common Stock
+A,08/16/2022 00:00:00,Rankin Devina A,4,M-Exempt,--D,16367,72598,1,0001557267,Common Stock
+D,08/11/2022 00:00:00,Watson Michael J.,4,M-Exempt,--D,5443,0,6,0001753639,Stock Option (Right to Buy)
+D,08/11/2022 00:00:00,Watson Michael J.,4,M-Exempt,--D,3528,0,5,0001753639,Stock Option (Right to Buy)
+D,08/11/2022 00:00:00,Watson Michael J.,4,S-Sale,--D,8971,32220.9634,3,0001753639,Common Stock
+A,08/11/2022 00:00:00,Watson Michael J.,4,M-Exempt,--D,3528,41191.9634,2,0001753639,Common Stock
+A,08/11/2022 00:00:00,Watson Michael J.,4,M-Exempt,--D,5443,37663.9634,1,0001753639,Common Stock
+D,08/09/2022 00:00:00,Morris John J,4,M-Exempt,--D,8889,17778,6,0001544705,Stock Option (Right to Buy)
+D,08/09/2022 00:00:00,Morris John J,4,M-Exempt,--D,13906,13907,5,0001544705,Stock Option (Right to Buy)
+D,08/09/2022 00:00:00,Morris John J,4,S-Sale,--D,22795,95461,3,0001544705,Common Stock
+A,08/09/2022 00:00:00,Morris John J,4,M-Exempt,--D,8889,118256,2,0001544705,Common Stock
+A,08/09/2022 00:00:00,Morris John J,4,M-Exempt,--D,13906,109367,1,0001544705,Common Stock
+D,08/05/2022 00:00:00,Boettcher Charles C,4,S-Sale,--D,5000,31219.3814,1,0001410141,Common Stock
+D,07/29/2022 00:00:00,Fish James C Jr,4,M-Exempt,--D,32851,65700,10,0001523568,Stock Option (Right to Buy)
+D,07/29/2022 00:00:00,Fish James C Jr,4,M-Exempt,--D,57283,0,9,0001523568,Stock Option (Right to Buy)
+D,07/29/2022 00:00:00,Fish James C Jr,4,F-InKind,--D,69671,115307,3,0001523568,Common Stock
+A,07/29/2022 00:00:00,Fish James C Jr,4,M-Exempt,--D,32851,184978,2,0001523568,Common Stock
+A,07/29/2022 00:00:00,Fish James C Jr,4,M-Exempt,--D,57283,152127,1,0001523568,Common Stock
+D,07/18/2022 00:00:00,POPE JOHN C,4,S-Sale,--D,219,55439,2,0001192499,Common Stock
+A,07/15/2022 00:00:00,WEIDEMEYER THOMAS H,4,A-Award,--I,922,36246,1,0001227740,Common Stock
+A,07/15/2022 00:00:00,Sylvester Maryrose,4,A-Award,--D,593,2144,1,0001680767,Common Stock
+A,07/15/2022 00:00:00,POPE JOHN C,4,A-Award,--D,593,55658,1,0001192499,Common Stock
+A,07/15/2022 00:00:00,PLUMMER WILLIAM B,4,A-Award,--D,593,4369,1,0001254896,Common Stock
+A,07/15/2022 00:00:00,MENKE SEAN E,4,A-Award,--D,593,2144,1,0001251876,Common Stock
+A,07/15/2022 00:00:00,MAZZARELLA KATHLEEN M,4,A-Award,--I,593,12264,1,0001273233,Common Stock
+A,07/15/2022 00:00:00,HOLT VICTORIA M,4,A-Award,--D,593,19850,1,0001181629,Common Stock
+A,07/15/2022 00:00:00,Gluski Andres,4,A-Award,--D,593,14352,1,0001348876,Common Stock
+D,04/29/2022 00:00:00,Fish James C Jr,4,G-Gift,--D,15000,94844,1,0001523568,Common Stock
+D,04/28/2022 00:00:00,Sjoqvist Nikolaj H,4,S-Sale,--D,10311,38769.001,1,0001720066,Common Stock
+D,04/28/2022 00:00:00,Morris John J,4,M-Exempt,--D,27006,0,4,0001544705,Stock Option (Right to Buy)
+D,04/28/2022 00:00:00,Morris John J,4,S-Sale,--D,47006,95461,2,0001544705,Common Stock
+A,04/28/2022 00:00:00,Morris John J,4,M-Exempt,--D,27006,142467,1,0001544705,Common Stock
+D,04/28/2022 00:00:00,Nagy Leslie K,4,M-Exempt,--D,1882,0,4,0001604561,Stock Option (Right to Buy)
+D,04/28/2022 00:00:00,Nagy Leslie K,4,S-Sale,--D,2668,4879.7907,2,0001604561,Common Stock
+A,04/28/2022 00:00:00,Nagy Leslie K,4,M-Exempt,--D,1882,7547.7907,1,0001604561,Common Stock
+A,04/05/2022 00:00:00,Oates-Forney Tamla,4,A-Award,--D,3268,20495,1,0001761129,Common Stock
+D,03/29/2022 00:00:00,Fish James C Jr,4,S-Sale,--D,6748,109844,2,0001523568,Common Stock
+D,03/28/2022 00:00:00,Fish James C Jr,4,S-Sale,--D,28976,116592,1,0001523568,Common Stock
+D,03/07/2022 00:00:00,Fish James C Jr,4,S-Sale,--D,24659,145568,2,0001523568,Common Stock
+D,03/04/2022 00:00:00,Fish James C Jr,4,S-Sale,--D,6413,170227,1,0001523568,Common Stock
+A,03/01/2022 00:00:00,Watson Michael J.,4,A-Award,--D,8321,8321,3,0001753639,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Watson Michael J.,4,A-Award,--D,5102,32072.4434,1,0001753639,Common Stock
+A,03/01/2022 00:00:00,Sjoqvist Nikolaj H,4,A-Award,--D,7564,7564,3,0001720066,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Sjoqvist Nikolaj H,4,A-Award,--D,6803,49080.001,1,0001720066,Common Stock
+A,03/01/2022 00:00:00,Rankin Devina A,4,A-Award,--D,16641,16641,2,0001557267,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Rankin Devina A,4,A-Award,--D,6803,56231,1,0001557267,Common Stock
+A,03/01/2022 00:00:00,Nagy Leslie K,4,A-Award,--D,1740,1740,3,0001604561,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Nagy Leslie K,4,A-Award,--D,313,5665.7907,1,0001604561,Common Stock
+A,03/01/2022 00:00:00,Oates-Forney Tamla,4,A-Award,--D,7564,7564,2,0001761129,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Oates-Forney Tamla,4,A-Award,--D,6803,17227,1,0001761129,Common Stock
+A,03/01/2022 00:00:00,Morris John J,4,A-Award,--D,19667,19667,3,0001544705,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Morris John J,4,A-Award,--D,10204,115461,1,0001544705,Common Stock
+A,03/01/2022 00:00:00,Hemmer Tara J.,4,A-Award,--D,12859,12859,2,0001727026,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Hemmer Tara J.,4,A-Award,--D,5102,42618.5789,1,0001727026,Common Stock
+A,03/01/2022 00:00:00,Fish James C Jr,4,A-Award,--D,66188,66188,1,0001523568,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Carrasco Rafael,4,A-Award,--D,12859,12859,2,0001870418,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Carrasco Rafael,4,A-Award,--D,3061,11013.522,1,0001870418,Common Stock
+A,03/01/2022 00:00:00,Boettcher Charles C,4,A-Award,--D,12859,12859,1,0001410141,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Batchelor Steve,4,A-Award,--D,12859,12859,3,0001761525,Stock Option (Right to Buy)
+A,03/01/2022 00:00:00,Batchelor Steve,4,A-Award,--D,5102,42246.0629,1,0001761525,Common Stock
+A,02/25/2022 00:00:00,Nagy Leslie K,4,P-Purchase,--D,2,5363.7907,5,0001604561,Common Stock
+A,02/24/2022 00:00:00,Nagy Leslie K,4,P-Purchase,--D,2,5361.7907,4,0001604561,Common Stock
+A,02/22/2022 00:00:00,Nagy Leslie K,4,P-Purchase,--D,2,5435.7907,3,0001604561,Common Stock
+D,02/22/2022 00:00:00,Carrasco Rafael,4,S-Sale,--D,66,7952.522,2,0001870418,Common Stock
+D,02/22/2022 00:00:00,Nagy Leslie K,4,S-Sale,--D,76,5352.7907,2,0001604561,Common Stock
+D,02/19/2022 00:00:00,Carrasco Rafael,4,F-InKind,--D,103,8018.522,1,0001870418,Common Stock
+D,02/19/2022 00:00:00,Nagy Leslie K,4,F-InKind,--D,118,5428.7907,1,0001604561,Common Stock
+A,02/17/2022 00:00:00,Nagy Leslie K,4,P-Purchase,--D,3,5551.7907,2,0001604561,Common Stock
+D,02/17/2022 00:00:00,Hemmer Tara J.,4,S-Sale,--D,10910,37516.5789,1,0001727026,Common Stock
+A,02/16/2022 00:00:00,Nagy Leslie K,4,P-Purchase,--D,2,5960.7907,1,0001604561,Common Stock
+D,02/16/2022 00:00:00,Watson Michael J.,4,S-Sale,--D,1080,26970.4434,3,0001753639,Common Stock
+D,02/16/2022 00:00:00,Sjoqvist Nikolaj H,4,S-Sale,--D,1080,42277.001,3,0001720066,Common Stock
+D,02/16/2022 00:00:00,Rankin Devina A,4,S-Sale,--D,1080,49428,3,0001557267,Common Stock
+D,02/16/2022 00:00:00,Nagy Leslie K,4,S-Sale,--D,412,5546.7907,3,0001604561,Common Stock
+D,02/16/2022 00:00:00,Morris John J,4,S-Sale,--D,1080,105257,3,0001544705,Common Stock
+D,02/16/2022 00:00:00,Hemmer Tara J.,4,S-Sale,--D,1080,48426.5789,3,0001727026,Common Stock
+D,02/16/2022 00:00:00,Carrasco Rafael,4,S-Sale,--D,358,8121.522,3,0001870418,Common Stock
+D,02/16/2022 00:00:00,Boettcher Charles C,4,S-Sale,--D,1080,36065.7622,3,0001410141,Common Stock
+D,02/16/2022 00:00:00,Batchelor Steve,4,S-Sale,--D,1080,37144.0629,3,0001761525,Common Stock
+D,02/15/2022 00:00:00,Watson Michael J.,4,F-InKind,--D,5065,28050.4434,2,0001753639,Common Stock
+A,02/15/2022 00:00:00,Watson Michael J.,4,A-Award,--D,15487,33115.4434,1,0001753639,Common Stock
+D,02/15/2022 00:00:00,Sjoqvist Nikolaj H,4,F-InKind,--D,5067,43357.001,2,0001720066,Common Stock
+A,02/15/2022 00:00:00,Sjoqvist Nikolaj H,4,A-Award,--D,15487,48424.001,1,0001720066,Common Stock
+D,02/15/2022 00:00:00,Rankin Devina A,4,F-InKind,--D,11148,50508,2,0001557267,Common Stock
+A,02/15/2022 00:00:00,Rankin Devina A,4,A-Award,--D,30971,61656,1,0001557267,Common Stock
+D,02/15/2022 00:00:00,Oates-Forney Tamla,4,F-InKind,--D,5063,10424,2,0001761129,Common Stock
+A,02/15/2022 00:00:00,Oates-Forney Tamla,4,A-Award,--D,15487,15487,1,0001761129,Common Stock
+D,02/15/2022 00:00:00,Nagy Leslie K,4,F-InKind,--D,683,5958.7907,2,0001604561,Common Stock
+A,02/15/2022 00:00:00,Nagy Leslie K,4,A-Award,--D,2670,6641.7907,1,0001604561,Common Stock
+D,02/15/2022 00:00:00,Morris John J,4,F-InKind,--D,12365,106337,2,0001544705,Common Stock
+A,02/15/2022 00:00:00,Morris John J,4,A-Award,--D,34067,118702,1,0001544705,Common Stock
+D,02/15/2022 00:00:00,Hemmer Tara J.,4,F-InKind,--D,9021,49506.5789,2,0001727026,Common Stock
+A,02/15/2022 00:00:00,Hemmer Tara J.,4,A-Award,--D,25550,58527.5789,1,0001727026,Common Stock
+D,02/15/2022 00:00:00,Fish James C Jr,4,F-InKind,--D,41603,176640,2,0001523568,Common Stock
+A,02/15/2022 00:00:00,Fish James C Jr,4,A-Award,--D,108399,218243,1,0001523568,Common Stock
+D,02/15/2022 00:00:00,Carrasco Rafael,4,F-InKind,--D,587,8479.522,2,0001870418,Common Stock
+A,02/15/2022 00:00:00,Carrasco Rafael,4,A-Award,--D,2324,9066.522,1,0001870418,Common Stock
+D,02/15/2022 00:00:00,Boettcher Charles C,4,F-InKind,--D,6885,37145.7622,2,0001410141,Common Stock
+A,02/15/2022 00:00:00,Boettcher Charles C,4,A-Award,--D,20132,44030.7622,1,0001410141,Common Stock
+D,02/15/2022 00:00:00,Batchelor Steve,4,F-InKind,--D,9020,38224.0629,2,0001761525,Common Stock
+A,02/15/2022 00:00:00,Batchelor Steve,4,A-Award,--D,25550,47244.0629,1,0001761525,Common Stock
+D,01/18/2022 00:00:00,POPE JOHN C,4,S-Sale,--D,195,55065,2,0001192499,Common Stock
+A,01/15/2022 00:00:00,Sylvester Maryrose,4,A-Award,--D,528,1551,1,0001680767,Common Stock
+A,01/15/2022 00:00:00,WEIDEMEYER THOMAS H,4,A-Award,--I,848,35324,1,0001227740,Common Stock
+A,01/15/2022 00:00:00,POPE JOHN C,4,A-Award,--D,528,55260,1,0001192499,Common Stock
+A,01/15/2022 00:00:00,PLUMMER WILLIAM B,4,A-Award,--D,528,3776,1,0001254896,Common Stock
+A,01/15/2022 00:00:00,MENKE SEAN E,4,A-Award,--D,528,1551,1,0001251876,Common Stock
+A,01/15/2022 00:00:00,MAZZARELLA KATHLEEN M,4,A-Award,--I,528,11671,1,0001273233,Common Stock
+A,01/15/2022 00:00:00,HOLT VICTORIA M,4,A-Award,--D,528,19257,1,0001181629,Common Stock
+A,01/15/2022 00:00:00,Gluski Andres,4,A-Award,--D,528,13759,1,0001348876,Common Stock
+D,12/30/2021 00:00:00,Rankin Devina A,4,G-Gift,--D,6000,30685,1,0001557267,Common Stock
+A,12/14/2021 00:00:00,Nagy Leslie K,5,A-Award,--D,460,3971.7907,1,0001604561,Common Stock
+D,10/01/2021 00:00:00,Hemmer Tara J.,4,M-Exempt,--D,16447,0,3,0001727026,Stock Option (Right to Buy)
+D,10/01/2021 00:00:00,Hemmer Tara J.,4,S-Sale,--D,12186,32977.5789,2,0001727026,Common Stock
+A,10/01/2021 00:00:00,Hemmer Tara J.,4,M-Exempt,--D,16447,45163.5789,1,0001727026,Common Stock
+D,08/31/2021 00:00:00,Rankin Devina A,4,M-Exempt,--D,27961,0,5,0001557267,Stock Option (Right to Buy)
+D,08/31/2021 00:00:00,Rankin Devina A,4,M-Exempt,--D,16366,16367,4,0001557267,Stock Option (Right to Buy)
+D,08/31/2021 00:00:00,Rankin Devina A,4,S-Sale,--D,33115,36685,3,0001557267,Common Stock
+A,08/31/2021 00:00:00,Rankin Devina A,4,M-Exempt,--D,16366,69800,2,0001557267,Common Stock
+A,08/31/2021 00:00:00,Rankin Devina A,4,M-Exempt,--D,27961,53434,1,0001557267,Common Stock
+D,08/12/2021 00:00:00,Boettcher Charles C,4,M-Exempt,--D,18421,0,3,0001410141,Stock Option (Right to Buy)
+D,08/12/2021 00:00:00,Boettcher Charles C,4,S-Sale,--D,13613,23898.7622,2,0001410141,Common Stock
+A,08/12/2021 00:00:00,Boettcher Charles C,4,M-Exempt,--D,18421,37511.7622,1,0001410141,Common Stock
+D,08/02/2021 00:00:00,HOLT VICTORIA M,4,S-Sale,--D,604,18729,1,0001181629,Common Stock
+D,07/27/2021 00:00:00,Boettcher Charles C,4,M-Exempt,--D,28097,0,6,0001410141,Stock Option (Right to Buy)
+D,07/27/2021 00:00:00,Boettcher Charles C,4,S-Sale,--D,28097,19090.7622,4,0001410141,Common Stock
+A,07/27/2021 00:00:00,Boettcher Charles C,4,M-Exempt,--D,28097,47187.7622,3,0001410141,Common Stock
+D,07/26/2021 00:00:00,Boettcher Charles C,4,M-Exempt,--D,400,28097,5,0001410141,Stock Option (Right to Buy)
+D,07/26/2021 00:00:00,Boettcher Charles C,4,S-Sale,--D,400,19090.7622,2,0001410141,Common Stock
+A,07/26/2021 00:00:00,Boettcher Charles C,4,M-Exempt,--D,400,19490.7622,1,0001410141,Common Stock
+D,07/16/2021 00:00:00,POPE JOHN C,4,S-Sale,--D,211,54732,2,0001192499,Common Stock
+D,07/15/2021 00:00:00,Boettcher Charles C,4,S-Sale,--D,3500,19090.7622,1,0001410141,Common Stock
+A,07/15/2021 00:00:00,WEIDEMEYER THOMAS H,4,A-Award,--I,917,34476,1,0001227740,Common Stock
+A,07/15/2021 00:00:00,Sylvester Maryrose,4,A-Award,--D,571,1023,1,0001680767,Common Stock
+A,07/15/2021 00:00:00,POPE JOHN C,4,A-Award,--D,571,54943,1,0001192499,Common Stock
+A,07/15/2021 00:00:00,PLUMMER WILLIAM B,4,A-Award,--D,571,3248,1,0001254896,Common Stock
+A,07/15/2021 00:00:00,MENKE SEAN E,4,A-Award,--D,571,1023,1,0001251876,Common Stock
+A,07/15/2021 00:00:00,MAZZARELLA KATHLEEN M,4,A-Award,--I,571,11143,1,0001273233,Common Stock
+A,07/15/2021 00:00:00,HOLT VICTORIA M,4,A-Award,--D,571,19333,1,0001181629,Common Stock
+A,07/15/2021 00:00:00,Gluski Andres,4,A-Award,--D,571,13231,1,0001348876,Common Stock
+D,07/09/2021 00:00:00,Fish James C Jr,4,G-Gift,--D,15000,109844,1,0001523568,Common Stock
+D,07/01/2021 00:00:00,Nagy Leslie K,4,S-Sale,--D,269,3442.441,1,0001604561,Common Stock
+D,06/28/2021 00:00:00,Nagy Leslie K,4,M-Exempt,--D,1604,0,6,0001604561,Stock Option (Right to Buy)
+D,06/28/2021 00:00:00,Nagy Leslie K,4,M-Exempt,--D,941,1882,5,0001604561,Stock Option (Right to Buy)
+D,06/28/2021 00:00:00,Nagy Leslie K,4,S-Sale,--D,2006,3711.441,3,0001604561,Common Stock
+A,06/28/2021 00:00:00,Nagy Leslie K,4,M-Exempt,--D,941,5717.441,2,0001604561,Common Stock
+A,06/28/2021 00:00:00,Nagy Leslie K,4,M-Exempt,--D,1604,4776.441,1,0001604561,Common Stock
+A,06/09/2021 00:00:00,Fish James C Jr,4,G-Gift,--I,38442,46942,3,0001523568,Common Stock
+A,06/09/2021 00:00:00,Fish James C Jr,4,G-Gift,--I,38443,46943,2,0001523568,Common Stock
+D,06/09/2021 00:00:00,Fish James C Jr,4,G-Gift,--D,76885,124844,1,0001523568,Common Stock
+D,06/02/2021 00:00:00,Rankin Devina A,4,S-Sale,--D,0.457,25473,1,0001557267,Common Stock
+D,06/01/2021 00:00:00,Fish James C Jr,4,M-Exempt,--D,49342,0,10,0001523568,Stock Option (Right to Buy)
+D,06/01/2021 00:00:00,Fish James C Jr,4,M-Exempt,--D,57283,57283,9,0001523568,Stock Option (Right to Buy)
+D,06/01/2021 00:00:00,Fish James C Jr,4,S-Sale,--D,131625,201729,3,0001523568,Common Stock
+A,06/01/2021 00:00:00,Fish James C Jr,4,M-Exempt,--D,49342,333354,2,0001523568,Common Stock
+A,06/01/2021 00:00:00,Fish James C Jr,4,M-Exempt,--D,57283,284012,1,0001523568,Common Stock
+D,05/17/2021 00:00:00,Fish James C Jr,4,S-Sale,--D,0.6487,226729,1,0001523568,Common Stock
+D,05/04/2021 00:00:00,Watson Michael J.,4,M-Exempt,--D,4430,0,4,0001753639,Stock Option (Right to Buy)
+D,05/04/2021 00:00:00,Watson Michael J.,4,S-Sale,--D,4430,17416.6647,2,0001753639,Common Stock
+A,05/04/2021 00:00:00,Watson Michael J.,4,M-Exempt,--D,4430,21846.6647,1,0001753639,Common Stock
+D,03/30/2021 00:00:00,Batchelor Steve,4,G-Gift,--D,970,21476.3598,1,0001761525,Common Stock
+D,03/29/2021 00:00:00,Boettcher Charles C,4,S-Sale,--D,2891,22373.0591,1,0001410141,Common Stock
+D,03/24/2021 00:00:00,Boettcher Charles C,4,S-Sale,--D,2891,25264.0591,1,0001410141,Common Stock
+A,03/19/2021 00:00:00,Sylvester Maryrose,4,A-Award,--D,452,452,1,0001680767,Common Stock
+A,03/19/2021 00:00:00,MENKE SEAN E,4,A-Award,--D,452,452,1,0001251876,Common Stock
+D,03/08/2021 00:00:00,Boettcher Charles C,4,S-Sale,--D,2891,28155.0591,1,0001410141,Common Stock
+D,03/04/2021 00:00:00,Rankin Devina A,4,S-Sale,--D,17603,25473.457,1,0001557267,Common Stock
+A,02/23/2021 00:00:00,Nagy Leslie K,4/A,A-Award,--D,404,3341.441,1,0001604561,Common Stock
+A,02/23/2021 00:00:00,Watson Michael J.,4,A-Award,--D,11594,11594,1,0001753639,Stock Option (Right to Buy)
+A,02/23/2021 00:00:00,Sjoqvist Nikolaj H,4,A-Award,--D,11594,11594,1,0001720066,Stock Option (Right to Buy)
+A,02/23/2021 00:00:00,Rankin Devina A,4,A-Award,--D,24348,24348,1,0001557267,Stock Option (Right to Buy)
+A,02/23/2021 00:00:00,Oates-Forney Tamla,4,A-Award,--D,11594,11594,1,0001761129,Stock Option (Right to Buy)
+A,02/23/2021 00:00:00,Morris John J,4,A-Award,--D,26667,26667,1,0001544705,Stock Option (Right to Buy)
+A,02/23/2021 00:00:00,Hmmer Tara J.,4,A-Award,--D,19710,19710,1,0001727026,Stock Option (Right to Buy)
+A,02/23/2021 00:00:00,Fish James C Jr,4,A-Award,--D,98551,98551,1,0001523568,Stock Option (Right to Buy)
+A,02/23/2021 00:00:00,Batchelor Steve,4,A-Award,--D,19710,19710,1,0001761525,Stock Option (Right to Buy)
+A,02/23/2021 00:00:00,Nagy Leslie K,4,A-Award,--D,2667,2667,3,0001604561,Stock Option (Right to Buy)
+A,02/23/2021 00:00:00,Nagy Leslie K,4,A-Award,--D,404,3341.441,1,0001604561,Common Stock
+A,02/23/2021 00:00:00,Boettcher Charles C,4,A-Award,--D,15072,15072,2,0001410141,Stock Option (Right to Buy)
+A,02/23/2021 00:00:00,Boettcher Charles C,4,A-Award,--D,4386,31046.0591,1,0001410141,Common Stock
+D,02/23/2021 00:00:00,Nagy Leslie K,4,S-Sale,--D,169,2768.441,3,0001604561,Common Stock
+D,02/22/2021 00:00:00,Fish James C Jr,4,S-Sale,--D,62324,226729.6487,1,0001523568,Common Stock
+D,02/22/2021 00:00:00,Morris John J,4,M-Exempt,--D,14803,0,5,0001544705,Stock Option (Right to Buy)
+D,02/22/2021 00:00:00,Morris John J,4,S-Sale,--D,26019,84635,3,0001544705,Common Stock
+D,02/22/2021 00:00:00,Morris John J,4,S-Sale,--D,7430,110654,2,0001544705,Common Stock
+A,02/22/2021 00:00:00,Morris John J,4,M-Exempt,--D,14803,118084,1,0001544705,Common Stock
+D,02/22/2021 00:00:00,Hmmer Tara J.,4,S-Sale,--D,6810,28498.8758,1,0001727026,Common Stock
+D,02/22/2021 00:00:00,Watson Michael J.,4,S-Sale,--D,78,17416.6647,1,0001753639,Common Stock
+D,02/22/2021 00:00:00,Nagy Leslie K,4,S-Sale,--D,731,2937.441,2,0001604561,Common Stock
+D,02/22/2021 00:00:00,Nagy Leslie K,4,S-Sale,--D,71,3668.441,1,0001604561,Common Stock
+D,02/22/2021 00:00:00,Batchelor Steve,4,S-Sale,--D,82,22446.3598,1,0001761525,Common Stock
+D,02/20/2021 00:00:00,Watson Michael J.,4,F-InKind,--D,121,17494.6647,4,0001753639,Common Stock
+D,02/20/2021 00:00:00,Batchelor Steve,4,F-InKind,--D,114,22528.3598,4,0001761525,Common Stock
+D,02/20/2021 00:00:00,Nagy Leslie K,4,F-InKind,--D,110,3739.441,4,0001604561,Common Stock
+D,02/19/2021 00:00:00,Watson Michael J.,4,S-Sale,--D,432,17615.6647,3,0001753639,Common Stock
+D,02/19/2021 00:00:00,Batchelor Steve,4,S-Sale,--D,450,22642.3598,3,0001761525,Common Stock
+D,02/19/2021 00:00:00,Sjoqvist Nikolaj H,4,S-Sale,--D,1391,32937.001,3,0001720066,Common Stock
+D,02/19/2021 00:00:00,Rankin Devina A,4,S-Sale,--D,1391,43076.457,3,0001557267,Common Stock
+D,02/19/2021 00:00:00,Nagy Leslie K,4,S-Sale,--D,392,3849.441,3,0001604561,Common Stock
+D,02/19/2021 00:00:00,Morris John J,4,S-Sale,--D,1391,103281,3,0001544705,Common Stock
+D,02/19/2021 00:00:00,Fish James C Jr,4,S-Sale,--D,1391,289053.6487,3,0001523568,Common Stock
+D,02/19/2021 00:00:00,Boettcher Charles C,4,S-Sale,--D,1391,26660.0591,3,0001410141,Common Stock
+D,02/19/2021 00:00:00,Hmmer Tara J.,4,S-Sale,--D,1391,35308.8758,3,0001727026,Common Stock
+D,02/18/2021 00:00:00,Watson Michael J.,4,F-InKind,--D,700,18047.6647,2,0001753639,Common Stock
+A,02/18/2021 00:00:00,Watson Michael J.,4,A-Award,--D,2759,18747.6647,1,0001753639,Common Stock
+D,02/18/2021 00:00:00,Batchelor Steve,4,F-InKind,--D,722,23092.3598,2,0001761525,Common Stock
+A,02/18/2021 00:00:00,Batchelor Steve,4,A-Award,--D,2878,23814.3598,1,0001761525,Common Stock
+D,02/18/2021 00:00:00,Sjoqvist Nikolaj H,4,F-InKind,--D,5441,34328.001,2,0001720066,Common Stock
+A,02/18/2021 00:00:00,Sjoqvist Nikolaj H,4,A-Award,--D,17143,39769.001,1,0001720066,Common Stock
+D,02/18/2021 00:00:00,Rankin Devina A,4,F-InKind,--D,10147,44467.457,2,0001557267,Common Stock
+A,02/18/2021 00:00:00,Rankin Devina A,4,A-Award,--D,29141,54614.457,1,0001557267,Common Stock
+D,02/18/2021 00:00:00,Nagy Leslie K,4,F-InKind,--D,650,4241.441,2,0001604561,Common Stock
+A,02/18/2021 00:00:00,Nagy Leslie K,4,A-Award,--D,2505,4891.441,1,0001604561,Common Stock
+D,02/18/2021 00:00:00,Morris John J,4,F-InKind,--D,10819,104672,2,0001544705,Common Stock
+A,02/18/2021 00:00:00,Morris John J,4,A-Award,--D,30856,115491,1,0001544705,Common Stock
+D,02/18/2021 00:00:00,Fish James C Jr,4,F-InKind,--D,39137,290444.6487,2,0001523568,Common Stock
+A,02/18/2021 00:00:00,Fish James C Jr,4,A-Award,--D,102852,329581.6487,1,0001523568,Common Stock
+D,02/18/2021 00:00:00,Boettcher Charles C,4,F-InKind,--D,6238,28051.0591,2,0001410141,Common Stock
+A,02/18/2021 00:00:00,Boettcher Charles C,4,A-Award,--D,19198,34289.0591,1,0001410141,Common Stock
+D,02/18/2021 00:00:00,Hmmer Tara J.,4,F-InKind,--D,5433,36699.8758,2,0001727026,Common Stock
+A,02/18/2021 00:00:00,Hmmer Tara J.,4,A-Award,--D,17143,42132.8758,1,0001727026,Common Stock
+D,01/21/2021 00:00:00,CLARK FRANK M,4,S-Sale,--D,301,33004,1,0001184016,Common Stock
+D,01/19/2021 00:00:00,POPE JOHN C,4,S-Sale,--D,301,54372,2,0001192499,Common Stock
+A,01/15/2021 00:00:00,PLUMMER WILLIAM B,4,A-Award,--D,719,2677,1,0001254896,Common Stock
+A,01/15/2021 00:00:00,WEIDEMEYER THOMAS H,4,A-Award,--I,1154,33559,1,0001227740,Common Stock
+A,01/15/2021 00:00:00,POPE JOHN C,4,A-Award,--D,719,54673,1,0001192499,Common Stock
+A,01/15/2021 00:00:00,MAZZARELLA KATHLEEN M,4,A-Award,--I,719,10572,1,0001273233,Common Stock
+A,01/15/2021 00:00:00,HOLT VICTORIA M,4,A-Award,--D,719,18762,1,0001181629,Common Stock
+A,01/15/2021 00:00:00,Gluski Andres,4,A-Award,--D,719,12660,1,0001348876,Common Stock
+A,01/15/2021 00:00:00,CLARK FRANK M,4,A-Award,--D,719,33305,1,0001184016,Common Stock
+A,12/30/2020 00:00:00,Fish James C Jr,4,G-Gift,--I,8500,8500,3,0001523568,Common Stock
+A,12/30/2020 00:00:00,Fish James C Jr,4,G-Gift,--I,8500,8500,2,0001523568,Common Stock
+D,12/30/2020 00:00:00,Fish James C Jr,4,G-Gift,--D,17000,226729.6487,1,0001523568,Common Stock
+D,12/22/2020 00:00:00,Fish James C Jr,4,G-Gift,--D,15000,243729.6487,1,0001523568,Common Stock
+A,12/17/2020 00:00:00,Fish James C Jr,4,G-Gift,--I,258,846,3,0001523568,Common Stock
+A,12/17/2020 00:00:00,Fish James C Jr,4,G-Gift,--I,258,846,2,0001523568,Common Stock
+D,12/17/2020 00:00:00,Fish James C Jr,4,G-Gift,--D,516,258729.6487,1,0001523568,Common Stock
+D,12/10/2020 00:00:00,Nagy Leslie K,4,S-Sale,--D,1037,2313.6771,1,0001604561,Common Stock
+D,12/07/2020 00:00:00,Nagy Leslie K,4,S-Sale,--D,414,3350.6771,2,0001604561,Common Stock
+D,12/05/2020 00:00:00,Nagy Leslie K,4,F-InKind,--D,669,3764.6771,1,0001604561,Common Stock
+D,12/01/2020 00:00:00,Rankin Devina A,4,M-Exempt,--D,25907,0,5,0001557267,Stock Option (Right to Buy)
+D,12/01/2020 00:00:00,Rankin Devina A,4,M-Exempt,--D,6386,0,4,0001557267,Stock Option (Right to Buy)
+D,12/01/2020 00:00:00,Rankin Devina A,4,S-Sale,--D,32293,25473.457,3,0001557267,Common Stock
+A,12/01/2020 00:00:00,Rankin Devina A,4,M-Exempt,--D,6386,57766.457,2,0001557267,Common Stock
+A,12/01/2020 00:00:00,Rankin Devina A,4,M-Exempt,--D,25907,51380.457,1,0001557267,Common Stock
+D,11/10/2020 00:00:00,Fish James C Jr,4,M-Exempt,--D,24671,49342,6,0001523568,Stock Option (Right to Buy)
+D,11/10/2020 00:00:00,Fish James C Jr,4,S-Sale,--D,24671,259245.6487,2,0001523568,Common Stock
+A,11/10/2020 00:00:00,Fish James C Jr,4,M-Exempt,--D,24671,283916.6487,1,0001523568,Common Stock
+D,11/09/2020 00:00:00,Hmmer Tara J.,4,M-Exempt,--D,5938,0,5,0001727026,Stock Option (Right to Buy)
+D,11/09/2020 00:00:00,Hmmer Tara J.,4,M-Exempt,--D,6530,0,4,0001727026,Stock Option (Right to Buy)
+D,11/09/2020 00:00:00,Hmmer Tara J.,4,S-Sale,--D,8852,24989.8758,3,0001727026,Common Stock
+A,11/09/2020 00:00:00,Hmmer Tara J.,4,M-Exempt,--D,5938,33841.8758,2,0001727026,Common Stock
+A,11/09/2020 00:00:00,Hmmer Tara J.,4,M-Exempt,--D,6530,27903.8758,1,0001727026,Common Stock
+D,11/07/2020 00:00:00,Sjoqvist Nikolaj H,4,F-InKind,--D,748,22626.001,1,0001720066,Common Stock
+D,11/06/2020 00:00:00,Boettcher Charles C,4,S-Sale,--D,2558,15038.7247,1,0001410141,Common Stock
+D,11/04/2020 00:00:00,Watson Michael J.,4,M-Exempt,--D,2100,4430,6,0001753639,Stock Option (Right to Buy)
+D,11/04/2020 00:00:00,Watson Michael J.,4,M-Exempt,--D,7342,0,5,0001753639,Stock Option (Right to Buy)
+D,11/04/2020 00:00:00,Watson Michael J.,4,S-Sale,--D,9442,15953.7744,3,0001753639,Common Stock
+A,11/04/2020 00:00:00,Watson Michael J.,4,M-Exempt,--D,2100,25395.7744,2,0001753639,Common Stock
+A,11/04/2020 00:00:00,Watson Michael J.,4,M-Exempt,--D,7342,23295.7744,1,0001753639,Common Stock
+D,11/04/2020 00:00:00,Morris John J,4,M-Exempt,--D,14802,14803,6,0001544705,Stock Option (Right to Buy)
+D,11/04/2020 00:00:00,Morris John J,4,M-Exempt,--D,9001,27006,5,0001544705,Stock Option (Right to Buy)
+D,11/04/2020 00:00:00,Morris John J,4,S-Sale,--D,23803,84635,3,0001544705,Common Stock
+A,11/04/2020 00:00:00,Morris John J,4,M-Exempt,--D,9001,108438,2,0001544705,Common Stock
+A,11/04/2020 00:00:00,Morris John J,4,M-Exempt,--D,14802,99437,1,0001544705,Common Stock
+D,08/04/2020 00:00:00,Sjoqvist Nikolaj H,4,M-Exempt,--D,4234,0,12,0001720066,Stock Option (Right to Buy)
+D,08/04/2020 00:00:00,Sjoqvist Nikolaj H,4,M-Exempt,--D,6860,0,11,0001720066,Stock Option (Right to Buy)
+D,08/04/2020 00:00:00,Sjoqvist Nikolaj H,4,M-Exempt,--D,5443,0,10,0001720066,Stock Option (Right to Buy)
+D,08/04/2020 00:00:00,Sjoqvist Nikolaj H,4,M-Exempt,--D,6530,0,9,0001720066,Stock Option (Right to Buy)
+D,08/04/2020 00:00:00,Sjoqvist Nikolaj H,4,M-Exempt,--D,8009,0,8,0001720066,Stock Option (Right to Buy)
+D,08/04/2020 00:00:00,Sjoqvist Nikolaj H,4,S-Sale,--D,31076,23369.158,6,0001720066,Common Stock
+A,08/04/2020 00:00:00,Sjoqvist Nikolaj H,4,M-Exempt,--D,4234,54445.158,5,0001720066,Common Stock
+A,08/04/2020 00:00:00,Sjoqvist Nikolaj H,4,M-Exempt,--D,5443,50211.158,4,0001720066,Common Stock
+A,08/04/2020 00:00:00,Sjoqvist Nikolaj H,4,M-Exempt,--D,6530,44768.158,3,0001720066,Common Stock
+A,08/04/2020 00:00:00,Sjoqvist Nikolaj H,4,M-Exempt,--D,6860,38238.158,2,0001720066,Common Stock
+A,08/04/2020 00:00:00,Sjoqvist Nikolaj H,4,M-Exempt,--D,8009,31378.158,1,0001720066,Common Stock
+D,07/20/2020 00:00:00,CLARK FRANK M,4,S-Sale,--D,315,32586,1,0001184016,Common Stock
+D,07/16/2020 00:00:00,POPE JOHN C,4,S-Sale,--D,315,53954,2,0001192499,Common Stock
+A,07/15/2020 00:00:00,WEIDEMEYER THOMAS H,4,A-Award,--I,1240,32405,1,0001227740,Common Stock
+A,07/15/2020 00:00:00,POPE JOHN C,4,A-Award,--D,772,54269,1,0001192499,Common Stock
+A,07/15/2020 00:00:00,PLUMMER WILLIAM B,4,A-Award,--D,772,1958,1,0001254896,Common Stock
+A,07/15/2020 00:00:00,MAZZARELLA KATHLEEN M,4,A-Award,--I,772,9853,1,0001273233,Common Stock
+A,07/15/2020 00:00:00,HOLT VICTORIA M,4,A-Award,--D,772,18043,1,0001181629,Common Stock
+A,07/15/2020 00:00:00,Gluski Andres,4,A-Award,--D,772,11941,1,0001348876,Common Stock
+A,07/15/2020 00:00:00,CLARK FRANK M,4,A-Award,--D,772,32901,1,0001184016,Common Stock
+D,05/02/2020 00:00:00,Hmmer Tara J.,4,F-InKind,--D,270,21155,1,0001727026,Common Stock
+D,03/04/2020 00:00:00,Fish James C Jr,4,M-Exempt,--D,64767,0,6,0001523568,Stock Option (Right to Buy)
+D,03/04/2020 00:00:00,Fish James C Jr,4,S-Sale,--D,50320,259245.6487,2,0001523568,Common Stock
+A,03/04/2020 00:00:00,Fish James C Jr,4,M-Exempt,--D,64767,309565.6487,1,0001523568,Common Stock
+D,03/02/2020 00:00:00,Morris John J,4,M-Exempt,--D,19430,0,5,0001544705,Stock Option (Right to Buy)
+D,03/02/2020 00:00:00,Morris John J,4,S-Sale,--D,16100,84635,3,0001544705,Common Stock
+D,03/02/2020 00:00:00,Morris John J,4,S-Sale,--D,3330,100735,2,0001544705,Common Stock
+A,03/02/2020 00:00:00,Morris John J,4,M-Exempt,--D,19430,104065,1,0001544705,Common Stock
+D,03/02/2020 00:00:00,Watson Michael J.,4,S-Sale,--D,88,15767,2,0001753639,Common Stock
+D,03/02/2020 00:00:00,Sjoqvist Nikolaj H,4,S-Sale,--D,87,23369.158,2,0001720066,Common Stock
+D,03/02/2020 00:00:00,Hmmer Tara J.,4,S-Sale,--D,52,21425,2,0001727026,Common Stock
+D,03/02/2020 00:00:00,Batchelor Steve,4,S-Sale,--D,88,20717.484,2,0001761525,Common Stock
+D,02/28/2020 00:00:00,Watson Michael J.,4,F-InKind,--D,145,15855,1,0001753639,Common Stock
+D,02/28/2020 00:00:00,Sjoqvist Nikolaj H,4,F-InKind,--D,145,23456.158,1,0001720066,Common Stock
+D,02/28/2020 00:00:00,Hmmer Tara J.,4,F-InKind,--D,158,21477,1,0001727026,Common Stock
+D,02/28/2020 00:00:00,Batchelor Steve,4,F-InKind,--D,220,20805.484,1,0001761525,Common Stock
+D,02/25/2020 00:00:00,Rankin Devina A,4,S-Sale,--D,8000,25473.457,1,0001557267,Common Stock
+D,02/25/2020 00:00:00,Nagy Leslie K,4,M-Exempt,--D,941,2823,5,0001604561,Stock Option (Right to Buy)
+D,02/25/2020 00:00:00,Nagy Leslie K,4,S-Sale,--D,840,4363,3,0001604561,Common Stock
+D,02/25/2020 00:00:00,Nagy Leslie K,4,S-Sale,--D,50,5203,2,0001604561,Common Stock
+A,02/25/2020 00:00:00,Nagy Leslie K,4,M-Exempt,--D,941,5253,1,0001604561,Common Stock
+D,02/21/2020 00:00:00,Nagy Leslie K,4,M-Exempt,--D,1603,1604,5,0001604561,Stock Option (Right to Buy)
+D,02/21/2020 00:00:00,Nagy Leslie K,4,S-Sale,--D,1312,4312,3,0001604561,Common Stock
+D,02/21/2020 00:00:00,Nagy Leslie K,4,S-Sale,--D,145,5624,2,0001604561,Common Stock
+A,02/21/2020 00:00:00,Nagy Leslie K,4,M-Exempt,--D,1603,5769,1,0001604561,Common Stock
+D,02/20/2020 00:00:00,Batchelor Steve,4/A,M-Exempt,--D,6530,0,2,0001761525,Stock Option (Right to Buy)
+A,02/20/2020 00:00:00,Batchelor Steve,4/A,M-Exempt,--D,6530,62488.484,1,0001761525,Common Stock
+A,02/20/2020 00:00:00,Boettcher Charles C,4,A-Award,--D,16435,16435,1,0001410141,Stock Option (Right to Buy)
+D,02/20/2020 00:00:00,Batchelor Steve,4,M-Exempt,--D,8003,0,13,0001761525,Stock Option (Right to Buy)
+D,02/20/2020 00:00:00,Batchelor Steve,4,M-Exempt,--D,10442,0,12,0001761525,Stock Option (Right to Buy)
+D,02/20/2020 00:00:00,Batchelor Steve,4,M-Exempt,--D,9146,0,11,0001761525,Stock Option (Right to Buy)
+D,02/20/2020 00:00:00,Batchelor Steve,4,M-Exempt,--D,6350,180,10,0001761525,Stock Option (Right to Buy)
+D,02/20/2020 00:00:00,Batchelor Steve,4,M-Exempt,--D,7342,0,9,0001761525,Stock Option (Right to Buy)
+D,02/20/2020 00:00:00,Batchelor Steve,4,S-Sale,--D,41463,20845.484,6,0001761525,Common Stock
+A,02/20/2020 00:00:00,Batchelor Steve,4,M-Exempt,--D,6350,62308.484,5,0001761525,Common Stock
+A,02/20/2020 00:00:00,Batchelor Steve,4,M-Exempt,--D,7342,55958.484,4,0001761525,Common Stock
+A,02/20/2020 00:00:00,Batchelor Steve,4,M-Exempt,--D,8003,48616.484,3,0001761525,Common Stock
+A,02/20/2020 00:00:00,Batchelor Steve,4,M-Exempt,--D,9146,40613.484,2,0001761525,Common Stock
+A,02/20/2020 00:00:00,Batchelor Steve,4,M-Exempt,--D,10442,31467.484,1,0001761525,Common Stock
+A,02/19/2020 00:00:00,Fish James C Jr,4/A,A-Award,--D,101138,101138,1,0001523568,Stock Option (Right to Buy)
+A,02/19/2020 00:00:00,Nagy Leslie K,4,A-Award,--D,2908,2908,3,0001604561,Stock Option (Right to Buy)
+A,02/19/2020 00:00:00,Nagy Leslie K,4,A-Award,--D,380,4166,1,0001604561,Common Stock
+A,02/19/2020 00:00:00,Watson Michael J.,4,A-Award,--D,12642,12642,1,0001753639,Stock Option (Right to Buy)
+A,02/19/2020 00:00:00,Sjoqvist Nikolaj H,4,A-Award,--D,12642,12642,1,0001720066,Stock Option (Right to Buy)
+A,02/19/2020 00:00:00,Rankin Devina A,4,A-Award,--D,25284,25284,1,0001557267,Stock Option (Right to Buy)
+A,02/19/2020 00:00:00,Oates-Forney Tamla,4,A-Award,--D,12642,12642,1,0001761129,Stock Option (Right to Buy)
+A,02/19/2020 00:00:00,Morris John J,4,A-Award,--D,27813,27813,1,0001544705,Stock Option (Right to Buy)
+A,02/19/2020 00:00:00,Hmmer Tara J.,4,A-Award,--D,20860,20860,1,0001727026,Stock Option (Right to Buy)
+A,02/19/2020 00:00:00,Fish James C Jr,4,A-Award,--D,94817,94817,1,0001523568,Stock Option (Right to Buy)
+A,02/19/2020 00:00:00,Batchelor Steve,4,A-Award,--D,20860,20860,8,0001761525,Stock Option (Right to Buy)
+D,02/18/2020 00:00:00,Morris John J,4,S-Sale,--D,13535,84635,4,0001544705,Common Stock
+D,02/18/2020 00:00:00,Fish James C Jr,4,S-Sale,--D,67425,244798.6487,4,0001523568,Common Stock
+D,02/18/2020 00:00:00,Hmmer Tara J.,4,S-Sale,--D,1684,21635,4,0001727026,Common Stock
+D,02/14/2020 00:00:00,Watson Michael J.,4,S-Sale,--D,529,16000,3,0001753639,Common Stock
+D,02/14/2020 00:00:00,Sjoqvist Nikolaj H,4,S-Sale,--D,529,23601.158,3,0001720066,Common Stock
+D,02/14/2020 00:00:00,Rankin Devina A,4,S-Sale,--D,1216,33473.457,3,0001557267,Common Stock
+D,02/14/2020 00:00:00,Boettcher Charles C,4,S-Sale,--D,1217,17426,3,0001410141,Common Stock
+D,02/14/2020 00:00:00,Batchelor Steve,4,S-Sale,--D,530,21025.484,3,0001761525,Common Stock
+D,02/14/2020 00:00:00,Morris John J,4,S-Sale,--D,1216,98170,3,0001544705,Common Stock
+D,02/14/2020 00:00:00,Fish James C Jr,4,S-Sale,--D,1217,312223.6487,3,0001523568,Common Stock
+D,02/14/2020 00:00:00,Hmmer Tara J.,4,S-Sale,--D,309,23319,3,0001727026,Common Stock
+D,02/13/2020 00:00:00,Watson Michael J.,4,F-InKind,--D,887,16529,2,0001753639,Common Stock
+A,02/13/2020 00:00:00,Watson Michael J.,4,A-Award,--D,3505,17416,1,0001753639,Common Stock
+D,02/13/2020 00:00:00,Sjoqvist Nikolaj H,4,F-InKind,--D,886,24130.158,2,0001720066,Common Stock
+A,02/13/2020 00:00:00,Sjoqvist Nikolaj H,4,A-Award,--D,3505,25016.158,1,0001720066,Common Stock
+D,02/13/2020 00:00:00,Rankin Devina A,4,F-InKind,--D,7565,34689.457,2,0001557267,Common Stock
+A,02/13/2020 00:00:00,Rankin Devina A,4,A-Award,--D,22237,42254.457,1,0001557267,Common Stock
+D,02/13/2020 00:00:00,Boettcher Charles C,4,F-InKind,--D,8443,18643,2,0001410141,Common Stock
+A,02/13/2020 00:00:00,Boettcher Charles C,4,A-Award,--D,24460,27086,1,0001410141,Common Stock
+D,02/13/2020 00:00:00,Batchelor Steve,4,F-InKind,--D,882,21555.484,2,0001761525,Common Stock
+A,02/13/2020 00:00:00,Batchelor Steve,4,A-Award,--D,3505,22437.484,1,0001761525,Common Stock
+D,02/13/2020 00:00:00,Morris John J,4,F-InKind,--D,11937,99386,2,0001544705,Common Stock
+A,02/13/2020 00:00:00,Morris John J,4,A-Award,--D,33356,111323,1,0001544705,Common Stock
+D,02/13/2020 00:00:00,Fish James C Jr,4,F-InKind,--D,42541,313440.6487,2,0001523568,Common Stock
+A,02/13/2020 00:00:00,Fish James C Jr,4,A-Award,--D,111183,355981.6487,1,0001523568,Common Stock
+D,02/13/2020 00:00:00,Hmmer Tara J.,4,F-InKind,--D,959,23628,2,0001727026,Common Stock
+A,02/13/2020 00:00:00,Hmmer Tara J.,4,A-Award,--D,3821,24587,1,0001727026,Common Stock
+D,01/17/2020 00:00:00,CLARK FRANK M,4,S-Sale,--D,267,32129,2,0001184016,Common Stock
+D,01/17/2020 00:00:00,GROSS PATRICK W,4,S-Sale,--D,288,24942,2,0001184343,Common Stock
+D,01/16/2020 00:00:00,POPE JOHN C,4,S-Sale,--D,267,53497,2,0001192499,Common Stock
+A,01/15/2020 00:00:00,CLARK FRANK M,4,A-Award,--D,654,32396,1,0001184016,Common Stock
+A,01/15/2020 00:00:00,WEIDEMEYER THOMAS H,4,A-Award,--I,1076,31165,1,0001227740,Common Stock
+A,01/15/2020 00:00:00,POPE JOHN C,4,A-Award,--D,654,53764,1,0001192499,Common Stock
+A,01/15/2020 00:00:00,PLUMMER WILLIAM B,4,A-Award,--D,654,1186,1,0001254896,Common Stock
+A,01/15/2020 00:00:00,MAZZARELLA KATHLEEN M,4,A-Award,--I,654,9081,1,0001273233,Common Stock
+A,01/15/2020 00:00:00,HOLT VICTORIA M,4,A-Award,--D,654,17271,1,0001181629,Common Stock
+A,01/15/2020 00:00:00,GROSS PATRICK W,4,A-Award,--D,654,25230,1,0001184343,Common Stock
+A,01/15/2020 00:00:00,Gluski Andres,4,A-Award,--D,654,11169,1,0001348876,Common Stock
+A,12/05/2019 00:00:00,Fish James C Jr,4,G-Gift,--I,265,588,3,0001523568,Common Stock
+A,12/05/2019 00:00:00,Fish James C Jr,4,G-Gift,--I,265,588,2,0001523568,Common Stock
+D,12/05/2019 00:00:00,Fish James C Jr,4,G-Gift,--D,530,244798.6487,1,0001523568,Common Stock
+D,11/26/2019 00:00:00,Hmmer Tara J.,4,M-Exempt,--D,6674,0,3,0001727026,Stock Option (Right to Buy)
+D,11/26/2019 00:00:00,Hmmer Tara J.,4,S-Sale,--D,4639,20766,2,0001727026,Common Stock
+A,11/26/2019 00:00:00,Hmmer Tara J.,4,M-Exempt,--D,6674,25405,1,0001727026,Common Stock
+D,11/21/2019 00:00:00,Watson Michael J.,4,S-Sale,--D,1000,13857,1,0001753639,Common Stock
+D,11/14/2019 00:00:00,Batchelor Steve,4,G-Gift,--D,1350,18932.484,1,0001761525,Common Stock
+D,11/14/2019 00:00:00,Fish James C Jr,4,S-Sale,--D,3158,245328.6487,1,0001523568,Common Stock
+D,11/11/2019 00:00:00,Fish James C Jr,4,F-InKind,--D,2050,248486.6487,1,0001523568,Common Stock
+D,10/07/2019 00:00:00,Boettcher Charles C,4,S-Sale,--D,589,2558,2,0001410141,Common Stock
+D,10/04/2019 00:00:00,Boettcher Charles C,4,F-InKind,--D,952,3147,1,0001410141,Common Stock
+D,09/09/2019 00:00:00,Hmmer Tara J.,4,M-Exempt,--D,7865,0,3,0001727026,Stock Option (Right to Buy)
+D,09/09/2019 00:00:00,Hmmer Tara J.,4,S-Sale,--D,4739,18731,2,0001727026,Common Stock
+A,09/09/2019 00:00:00,Hmmer Tara J.,4,M-Exempt,--D,7865,23470,1,0001727026,Common Stock
+D,09/03/2019 00:00:00,Watson Michael J.,4,M-Exempt,--D,727,0,8,0001753639,Stock Option (Right to Buy)
+D,09/03/2019 00:00:00,Watson Michael J.,4,M-Exempt,--D,4895,0,7,0001753639,Stock Option (Right to Buy)
+D,09/03/2019 00:00:00,Watson Michael J.,4,M-Exempt,--D,7865,0,6,0001753639,Stock Option (Right to Buy)
+D,09/03/2019 00:00:00,Watson Michael J.,4,S-Sale,--D,8019,14857,4,0001753639,Common Stock
+A,09/03/2019 00:00:00,Watson Michael J.,4,M-Exempt,--D,727,22876,3,0001753639,Common Stock
+A,09/03/2019 00:00:00,Watson Michael J.,4,M-Exempt,--D,4895,22149,2,0001753639,Common Stock
+A,09/03/2019 00:00:00,Watson Michael J.,4,M-Exempt,--D,7865,17254,1,0001753639,Common Stock
+A,08/27/2019 00:00:00,PLUMMER WILLIAM B,4,A-Award,--D,532,532,1,0001254896,Common Stock
+D,07/17/2019 00:00:00,GROSS PATRICK W,4,S-Sale,--D,289,24576,2,0001184343,Common Stock
+D,07/16/2019 00:00:00,CLARK FRANK M,4,S-Sale,--D,268,31742,2,0001184016,Common Stock
+D,07/16/2019 00:00:00,POPE JOHN C,4,S-Sale,--D,268,53110,2,0001192499,Common Stock
+A,07/15/2019 00:00:00,CLARK FRANK M,4,A-Award,--D,658,32010,1,0001184016,Common Stock
+A,07/15/2019 00:00:00,GROSS PATRICK W,4,A-Award,--D,658,24865,1,0001184343,Common Stock
+A,07/15/2019 00:00:00,WEIDEMEYER THOMAS H,4,A-Award,--I,1082,30089,1,0001227740,Common Stock
+A,07/15/2019 00:00:00,POPE JOHN C,4,A-Award,--D,658,53378,1,0001192499,Common Stock
+A,07/15/2019 00:00:00,MAZZARELLA KATHLEEN M,4,A-Award,--I,658,8427,1,0001273233,Common Stock
+A,07/15/2019 00:00:00,HOLT VICTORIA M,4,A-Award,--D,658,16617,1,0001181629,Common Stock
+A,07/15/2019 00:00:00,Gluski Andres,4,A-Award,--D,658,10515,1,0001348876,Common Stock
+D,07/08/2019 00:00:00,Fish James C Jr,4,M-Exempt,--D,32384,64767,10,0001523568,Stock Option (Right to Buy)
+D,07/08/2019 00:00:00,Fish James C Jr,4,M-Exempt,--D,27259,0,9,0001523568,Stock Option (Right to Buy)
+D,07/08/2019 00:00:00,Fish James C Jr,4,M-Exempt,--D,24671,74013,8,0001523568,Stock Option (Right to Buy)
+D,07/08/2019 00:00:00,Fish James C Jr,4,S-Sale,--D,84314,250536.6487,4,0001523568,Common Stock
+A,07/08/2019 00:00:00,Fish James C Jr,4,M-Exempt,--D,24671,334850.6487,3,0001523568,Common Stock
+A,07/08/2019 00:00:00,Fish James C Jr,4,M-Exempt,--D,27259,310179.6487,2,0001523568,Common Stock
+A,07/08/2019 00:00:00,Fish James C Jr,4,M-Exempt,--D,32384,282920.6487,1,0001523568,Common Stock
+D,05/07/2019 00:00:00,Watson Michael J.,4,S-Sale,--D,400,9118,2,0001753639,Common Stock
+D,05/07/2019 00:00:00,Watson Michael J.,4,S-Sale,--D,300,9518,1,0001753639,Common Stock
+D,05/01/2019 00:00:00,Batchelor Steve,5/A,C-Conversion,--D,636.629,4950.4002,1,0001761525,Phantom Stock Units
+D,05/01/2019 00:00:00,Batchelor Steve,5,C-Conversion,--D,636.629,4950.4003,3,0001761525,Phantom Stock Units
+D,04/29/2019 00:00:00,Morris John J,4,M-Exempt,--D,19430,19430,6,0001544705,Stock Option (Right to Buy)
+D,04/29/2019 00:00:00,Morris John J,4,M-Exempt,--D,23365,0,5,0001544705,Stock Option (Right to Buy)
+D,04/29/2019 00:00:00,Morris John J,4,S-Sale,--D,42795,77967,3,0001544705,Common Stock
+A,04/29/2019 00:00:00,Morris John J,4,M-Exempt,--D,19430,120762,2,0001544705,Common Stock
+A,04/29/2019 00:00:00,Morris John J,4,M-Exempt,--D,23365,101332,1,0001544705,Common Stock
+D,02/27/2019 00:00:00,Watson Michael J.,4,S-Sale,--D,119,9818,2,0001753639,Common Stock
+D,02/27/2019 00:00:00,Sjoqvist Nikolaj H,4,S-Sale,--D,119,21230.158,2,0001720066,Common Stock
+D,02/27/2019 00:00:00,Rankin Devina A,4,S-Sale,--D,117,20017.457,2,0001557267,Common Stock
+D,02/27/2019 00:00:00,Hmmer Tara J.,4,S-Sale,--D,80,15324,2,0001727026,Common Stock
+D,02/27/2019 00:00:00,Batchelor Steve,4,S-Sale,--D,119,20001.484,2,0001761525,Common Stock
+D,02/26/2019 00:00:00,Watson Michael J.,4,F-InKind,--D,189,9937,1,0001753639,Common Stock
+D,02/26/2019 00:00:00,Sjoqvist Nikolaj H,4,F-InKind,--D,189,21349.158,1,0001720066,Common Stock
+D,02/26/2019 00:00:00,Rankin Devina A,4,F-InKind,--D,185,20134.457,1,0001557267,Common Stock
+D,02/26/2019 00:00:00,Hmmer Tara J.,4,F-InKind,--D,189,15404,1,0001727026,Common Stock
+D,02/26/2019 00:00:00,Batchelor Steve,4,F-InKind,--D,172,20120.484,1,0001761525,Common Stock
+A,02/19/2019 00:00:00,Morris John J,4,A-Award,--D,36007,36007,1,0001544705,Stock Option (Right to Buy)
+A,02/19/2019 00:00:00,Oates-Forney Tamla,4,A-Award,--D,16367,16367,1,0001761129,Stock Option (Right to Buy)
+A,02/19/2019 00:00:00,Hmmer Tara J.,4,A-Award,--D,27005,27005,1,0001727026,Stock Option (Right to Buy)
+A,02/19/2019 00:00:00,Fish James C Jr,4,A-Award,--D,114566,114566,1,0001523568,Stock Option (Right to Buy)
+A,02/19/2019 00:00:00,Boettcher Charles C,4,A-Award,--D,21277,21277,1,0001410141,Stock Option (Right to Buy)
+A,02/19/2019 00:00:00,Watson Michael J.,4,A-Award,--D,16367,16367,1,0001753639,Stock Option (Right to Buy)
+A,02/19/2019 00:00:00,Sjoqvist Nikolaj H,4,A-Award,--D,16367,16367,1,0001720066,Stock Option (Right to Buy)
+A,02/19/2019 00:00:00,Rankin Devina A,4,A-Award,--D,32733,32733,1,0001557267,Stock Option (Right to Buy)
+A,02/19/2019 00:00:00,Nagy Leslie K,4,A-Award,--D,3764,3764,3,0001604561,Stock Option (Right to Buy)
+A,02/19/2019 00:00:00,Nagy Leslie K,4,A-Award,--D,484,3716,1,0001604561,Common Stock
+A,02/19/2019 00:00:00,Batchelor Steve,4,A-Award,--D,27005,27005,1,0001761525,Stock Option (Right to Buy)
+D,02/15/2019 00:00:00,Watson Michael J.,4,S-Sale,--D,707,10126,3,0001753639,Common Stock
+D,02/15/2019 00:00:00,Sjoqvist Nikolaj H,4,S-Sale,--D,707,21538.158,3,0001720066,Common Stock
+D,02/15/2019 00:00:00,Rankin Devina A,4,S-Sale,--D,692,20319.457,3,0001557267,Common Stock
+D,02/15/2019 00:00:00,Morris John J,4,S-Sale,--D,1540,77955,3,0001544705,Common Stock
+D,02/15/2019 00:00:00,Hmmer Tara J.,4,S-Sale,--D,472,15593,3,0001727026,Common Stock
+D,02/15/2019 00:00:00,Batchelor Steve,4,S-Sale,--D,707,20292.484,3,0001761525,Common Stock
+D,02/14/2019 00:00:00,Morris John J,4/A,F-InKind,--D,16320,79507,1,0001544705,Common Stock
+A,02/14/2019 00:00:00,Fish James C Jr,4,A-Award,--D,51852,250536.6487,1,0001523568,Common Stock
+D,02/14/2019 00:00:00,Watson Michael J.,4,F-InKind,--D,1130,10833,2,0001753639,Common Stock
+A,02/14/2019 00:00:00,Watson Michael J.,4,A-Award,--D,4656,11963,1,0001753639,Common Stock
+D,02/14/2019 00:00:00,Sjoqvist Nikolaj H,4,F-InKind,--D,1150,22245.158,2,0001720066,Common Stock
+A,02/14/2019 00:00:00,Sjoqvist Nikolaj H,4,A-Award,--D,4656,23395.158,1,0001720066,Common Stock
+D,02/14/2019 00:00:00,Rankin Devina A,4,F-InKind,--D,1117,21011.457,2,0001557267,Common Stock
+A,02/14/2019 00:00:00,Rankin Devina A,4,A-Award,--D,4556,22128.457,1,0001557267,Common Stock
+D,02/14/2019 00:00:00,Morris John J,4,F-InKind,--D,16332,79495,2,0001544705,Common Stock
+A,02/14/2019 00:00:00,Morris John J,4,A-Award,--D,44444,95827,1,0001544705,Common Stock
+D,02/14/2019 00:00:00,Hmmer Tara J.,4,F-InKind,--D,1143,16065,2,0001727026,Common Stock
+A,02/14/2019 00:00:00,Hmmer Tara J.,4,A-Award,--D,4656,17208,1,0001727026,Common Stock
+D,02/14/2019 00:00:00,Batchelor Steve,4,F-InKind,--D,1143,20999.484,2,0001761525,Common Stock
+A,02/14/2019 00:00:00,Batchelor Steve,4,A-Award,--D,4656,22142.484,1,0001761525,Common Stock
+D,01/17/2019 00:00:00,CLARK FRANK M,4,S-Sale,--D,338,31352,2,0001184016,Common Stock
+D,01/17/2019 00:00:00,GROSS PATRICK W,4,S-Sale,--D,365,24207,2,0001184343,Common Stock
+D,01/16/2019 00:00:00,POPE JOHN C,4,S-Sale,--D,338,52720,2,0001192499,Common Stock
+A,01/15/2019 00:00:00,CLARK FRANK M,4,A-Award,--D,829,31690,1,0001184016,Common Stock
+A,01/15/2019 00:00:00,GROSS PATRICK W,4,A-Award,--D,829,24572,1,0001184343,Common Stock
+A,01/15/2019 00:00:00,WEIDEMEYER THOMAS H,4,A-Award,--I,1363,29007,1,0001227740,Common Stock
+A,01/15/2019 00:00:00,POPE JOHN C,4,A-Award,--D,829,53058,1,0001192499,Common Stock
+A,01/15/2019 00:00:00,MAZZARELLA KATHLEEN M,4,A-Award,--I,829,7769,1,0001273233,Common Stock
+A,01/15/2019 00:00:00,HOLT VICTORIA M,4,A-Award,--D,829,15959,1,0001181629,Common Stock
+A,01/15/2019 00:00:00,Gluski Andres,4,A-Award,--D,829,9857,1,0001348876,Common Stock
+D,12/31/2018 00:00:00,POPE JOHN C,4,G-Gift,--I,290,0,1,0001192499,Common Stock
+A,12/07/2018 00:00:00,Fish James C Jr,4,G-Gift,--I,323,323,3,0001523568,Common Stock
+A,12/07/2018 00:00:00,Fish James C Jr,4,G-Gift,--I,323,323,2,0001523568,Common Stock
+D,12/07/2018 00:00:00,Fish James C Jr,4,G-Gift,--D,646,198684.6487,1,0001523568,Common Stock
+D,12/04/2018 00:00:00,Rankin Devina A,4,M-Exempt,--D,2,0,7,0001557267,Stock Option (Right to Buy)
+D,12/04/2018 00:00:00,Rankin Devina A,4,M-Exempt,--D,4159,0,6,0001557267,Stock Option (Right to Buy)
+D,12/04/2018 00:00:00,Rankin Devina A,4,M-Exempt,--D,7180,0,5,0001557267,Stock Option (Right to Buy)
+D,12/04/2018 00:00:00,Rankin Devina A,4,S-Sale,--D,8107,17427.457,4,0001557267,Common Stock
+A,12/04/2018 00:00:00,Rankin Devina A,4,M-Exempt,--D,2,25534.457,3,0001557267,Common Stock
+A,12/04/2018 00:00:00,Rankin Devina A,4,M-Exempt,--D,4159,25532.457,2,0001557267,Common Stock
+A,12/04/2018 00:00:00,Rankin Devina A,4,M-Exempt,--D,7180,21373.457,1,0001557267,Common Stock
+D,11/26/2018 00:00:00,POPE JOHN C,4,G-Gift,--I,145,290,2,0001192499,Common Stock
+A,11/26/2018 00:00:00,POPE JOHN C,4,G-Gift,--D,145,52229,1,0001192499,Common Stock
+D,11/12/2018 00:00:00,Fish James C Jr,4,F-InKind,--D,2050,199330.6487,1,0001523568,Common Stock
+D,11/08/2018 00:00:00,Harris Jeff M,4,S-Sale,--I,24500,51490,1,0001358267,Common Stock
+A,11/02/2018 00:00:00,Harris Jeff M,4,G-Gift,--I,63354,75990,2,0001358267,Common Stock
+D,11/02/2018 00:00:00,Harris Jeff M,4,G-Gift,--D,63354,0,1,0001358267,Common Stock
+D,10/31/2018 00:00:00,Fish James C Jr,4,M-Exempt,--D,32383,97151,8,0001523568,Stock Option (Right to Buy)
+D,10/31/2018 00:00:00,Fish James C Jr,4,M-Exempt,--D,13629,27259,7,0001523568,Stock Option (Right to Buy)
+D,10/31/2018 00:00:00,Fish James C Jr,4,M-Exempt,--D,30210,0,6,0001523568,Stock Option (Right to Buy)
+D,10/31/2018 00:00:00,Fish James C Jr,4,F-InKind,--D,62283,201380.6487,4,0001523568,Common Stock
+A,10/31/2018 00:00:00,Fish James C Jr,4,M-Exempt,--D,13629,263663.6487,3,0001523568,Common Stock
+A,10/31/2018 00:00:00,Fish James C Jr,4,M-Exempt,--D,30210,250034.6487,2,0001523568,Common Stock
+A,10/31/2018 00:00:00,Fish James C Jr,4,M-Exempt,--D,32383,219824.6487,1,0001523568,Common Stock
+D,09/07/2018 00:00:00,Morris John J,4,M-Exempt,--D,11682,23365,4,0001544705,Stock Option (Right to Buy)
+D,09/07/2018 00:00:00,Morris John J,4,F-InKind,--D,8927,51406,2,0001544705,Common Stock
+A,09/07/2018 00:00:00,Morris John J,4,M-Exempt,--D,11682,60333,1,0001544705,Common Stock
+D,07/18/2018 00:00:00,GROSS PATRICK W,4,S-Sale,--D,406,23743,2,0001184343,Common Stock
+D,07/17/2018 00:00:00,POPE JOHN C,4,S-Sale,--D,300,52084,3,0001192499,Common Stock
+D,07/17/2018 00:00:00,POPE JOHN C,4,S-Sale,--D,76,52384,2,0001192499,Common Stock
+D,07/17/2018 00:00:00,CLARK FRANK M,4,S-Sale,--D,376,30861,2,0001184016,Common Stock
+A,07/16/2018 00:00:00,MAZZARELLA KATHLEEN M,4,A-Award,--I,922,6940,1,0001273233,Common Stock
+A,07/16/2018 00:00:00,WEIDEMEYER THOMAS H,4,A-Award,--I,1518,27644,1,0001227740,Common Stock
+A,07/16/2018 00:00:00,POPE JOHN C,4,A-Award,--D,922,52460,1,0001192499,Common Stock
+A,07/16/2018 00:00:00,HOLT VICTORIA M,4,A-Award,--D,922,15130,1,0001181629,Common Stock
+A,07/16/2018 00:00:00,Gluski Andres,4,A-Award,--D,922,9028,1,0001348876,Common Stock
+A,07/16/2018 00:00:00,CLARK FRANK M,4,A-Award,--D,922,31237,1,0001184016,Common Stock
+A,07/16/2018 00:00:00,GROSS PATRICK W,4,A-Award,--D,922,24149,1,0001184343,Common Stock
+A,05/14/2018 00:00:00,WEIDEMEYER THOMAS H,4,A-Award,--I,201,26126,1,0001227740,Common Stock
+D,05/04/2018 00:00:00,CALDWELL BARRY H,4,S-Sale,--D,10844,20602.7859,2,0001197028,Common Stock
+D,05/04/2018 00:00:00,CALDWELL BARRY H,4,G-Gift,--D,1190,31446.7859,1,0001197028,Common Stock
+D,04/09/2018 00:00:00,Sjoqvist Nikolaj H,4,S-Sale,--D,307,18448.74,2,0001720066,Common Stock
+D,04/07/2018 00:00:00,Sjoqvist Nikolaj H,4,F-InKind,--D,776,18755.74,1,0001720066,Common Stock
+D,02/28/2018 00:00:00,Morris John J,4,M-Exempt,--D,25220,0,4,0001544705,Stock Option (Right to Buy)
+D,02/28/2018 00:00:00,Morris John J,4,S-Sale,--D,22363,48651,2,0001544705,Common Stock
+A,02/28/2018 00:00:00,Morris John J,4,M-Exempt,--D,25220,71014,1,0001544705,Common Stock
+D,02/28/2018 00:00:00,Harris Jeff M,4,M-Exempt,--D,9715,29145,10,0001358267,Stock Option (Right to Buy)
+D,02/28/2018 00:00:00,Harris Jeff M,4,S-Sale,--D,8820,63354,6,0001358267,Common Stock
+A,02/28/2018 00:00:00,Harris Jeff M,4,M-Exempt,--D,9715,72174,5,0001358267,Common Stock
+D,02/27/2018 00:00:00,CALDWELL BARRY H,4,C-Conversion,--D,7147.71,0,2,0001197028,Phantom Stock Units
+D,02/27/2018 00:00:00,CALDWELL BARRY H,4,G-Gift,--D,1200,32636.7859,1,0001197028,Common Stock
+D,02/26/2018 00:00:00,Harris Jeff M,4,M-Exempt,--D,11682,23365,9,0001358267,Stock Option (Right to Buy)
+D,02/26/2018 00:00:00,Harris Jeff M,4,M-Exempt,--D,25220,0,8,0001358267,Stock Option (Right to Buy)
+D,02/26/2018 00:00:00,Harris Jeff M,4,S-Sale,--I,21842,12636,7,0001358267,Common Stock
+D,02/26/2018 00:00:00,Harris Jeff M,4,S-Sale,--D,20027,62459,4,0001358267,Common Stock
+D,02/26/2018 00:00:00,Harris Jeff M,4,S-Sale,--D,9399,82486,3,0001358267,Common Stock
+A,02/26/2018 00:00:00,Harris Jeff M,4,M-Exempt,--D,11682,91885,2,0001358267,Common Stock
+A,02/26/2018 00:00:00,Harris Jeff M,4,M-Exempt,--D,25220,80203,1,0001358267,Common Stock
+D,02/26/2018 00:00:00,Sjoqvist Nikolaj H,4,F-InKind,--D,211,19531.74,2,0001720066,Common Stock
+D,02/26/2018 00:00:00,Sjoqvist Nikolaj H,4,S-Sale,--D,133,19742.74,1,0001720066,Common Stock
+D,02/26/2018 00:00:00,Rankin Devina A,4,F-InKind,--D,189,14041.457,2,0001557267,Common Stock
+D,02/26/2018 00:00:00,Rankin Devina A,4,S-Sale,--D,140,14230.457,1,0001557267,Common Stock
+D,02/26/2018 00:00:00,Hmmer Tara J.,4,F-InKind,--D,176,12260,2,0001727026,Common Stock
+D,02/26/2018 00:00:00,Hmmer Tara J.,4,S-Sale,--D,111,12436,1,0001727026,Common Stock
+D,02/23/2018 00:00:00,CALDWELL BARRY H,4,S-Sale,--D,13614,33836.7859,1,0001197028,Common Stock
+D,02/22/2018 00:00:00,Morris John J,4,S-Sale,--D,10544,45794,2,0001544705,Common Stock
+D,02/21/2018 00:00:00,Morris John J,4,S-Sale,--D,7710,56338,1,0001544705,Common Stock
+A,02/20/2018 00:00:00,Harris Jeff M,4,A-Award,--D,29605,29605,1,0001358267,Stock Option (Right to Buy)
+A,02/20/2018 00:00:00,TREVATHAN JAMES E JR,4,A-Award,--D,36513,36513,1,0001197041,Stock Option (Right to Buy)
+A,02/20/2018 00:00:00,Sjoqvist Nikolaj H,4,A-Award,--D,16447,16447,1,0001720066,Stock Option (Right to Buy)
+A,02/20/2018 00:00:00,Rankin Devina A,4,A-Award,--D,27961,27961,1,0001557267,Stock Option (Right to Buy)
+A,02/20/2018 00:00:00,Nagy Leslie K,4,A-Award,--D,3207,3207,2,0001604561,Stock Option (Right to Buy)
+A,02/20/2018 00:00:00,Nagy Leslie K,4,A-Award,--D,448,3192,1,0001604561,Common Stock
+A,02/20/2018 00:00:00,Hmmer Tara J.,4,A-Award,--D,16447,16447,1,0001727026,Stock Option (Right to Buy)
+A,02/20/2018 00:00:00,Fish James C Jr,4,A-Award,--D,98684,98684,1,0001523568,Stock Option (Right to Buy)
+A,02/20/2018 00:00:00,Boettcher Charles C,4,A-Award,--D,18421,18421,1,0001410141,Stock Option (Right to Buy)
+A,02/20/2018 00:00:00,Morris John J,4,A-Award,--D,29605,29605,4,0001544705,Stock Option (Right to Buy)
+D,02/16/2018 00:00:00,Sjoqvist Nikolaj H,4,S-Sale,--D,814,19875.74,3,0001720066,Common Stock
+D,02/16/2018 00:00:00,Rankin Devina A,4,S-Sale,--D,856,14370.457,3,0001557267,Common Stock
+D,02/16/2018 00:00:00,Morris John J,4,S-Sale,--D,1840,64048,3,0001544705,Common Stock
+D,02/16/2018 00:00:00,Hmmer Tara J.,4,S-Sale,--D,679,12547,3,0001727026,Common Stock
+D,02/16/2018 00:00:00,Harris Jeff M,4,S-Sale,--D,1840,54983,3,0001358267,Common Stock
+D,02/16/2018 00:00:00,Fish James C Jr,4,S-Sale,--D,2159,187441.6487,3,0001523568,Common Stock
+D,02/16/2018 00:00:00,CALDWELL BARRY H,4,S-Sale,--D,1840,47450.7859,3,0001197028,Common Stock
+A,02/15/2018 00:00:00,TREVATHAN JAMES E JR,4,A-Award,--D,52076,398038,1,0001197041,Common Stock
+D,02/15/2018 00:00:00,Sjoqvist Nikolaj H,4,F-InKind,--D,1303,20689.74,2,0001720066,Common Stock
+A,02/15/2018 00:00:00,Sjoqvist Nikolaj H,4,A-Award,--D,5176,21992.74,1,0001720066,Common Stock
+D,02/15/2018 00:00:00,Rankin Devina A,4,F-InKind,--D,1167,15226.457,2,0001557267,Common Stock
+A,02/15/2018 00:00:00,Rankin Devina A,4,A-Award,--D,4640,16393.457,1,0001557267,Common Stock
+D,02/15/2018 00:00:00,Morris John J,4,F-InKind,--D,15378,65888,2,0001544705,Common Stock
+A,02/15/2018 00:00:00,Morris John J,4,A-Award,--D,43472,81266,1,0001544705,Common Stock
+D,02/15/2018 00:00:00,Hmmer Tara J.,4,F-InKind,--D,1094,13226,2,0001727026,Common Stock
+A,02/15/2018 00:00:00,Hmmer Tara J.,4,A-Award,--D,4316,14320,1,0001727026,Common Stock
+D,02/15/2018 00:00:00,Harris Jeff M,4,F-InKind,--D,17220,56823,2,0001358267,Common Stock
+A,02/15/2018 00:00:00,Harris Jeff M,4,A-Award,--D,43472,74043,1,0001358267,Common Stock
+D,02/15/2018 00:00:00,Fish James C Jr,4,F-InKind,--D,18733,189600.6487,2,0001523568,Common Stock
+A,02/15/2018 00:00:00,Fish James C Jr,4,A-Award,--D,52076,208333.6487,1,0001523568,Common Stock
+D,02/15/2018 00:00:00,CALDWELL BARRY H,4,F-InKind,--D,7186,49290.7859,2,0001197028,Common Stock
+A,02/15/2018 00:00:00,CALDWELL BARRY H,4,A-Award,--D,22640,56476.7859,1,0001197028,Common Stock
+D,01/17/2018 00:00:00,GROSS PATRICK W,4,S-Sale,--D,387,23227,2,0001184343,Common Stock
+D,01/16/2018 00:00:00,POPE JOHN C,4,S-Sale,--D,358,51538,2,0001192499,Common Stock
+D,01/16/2018 00:00:00,CLARK FRANK M,4,S-Sale,--D,358,30315,2,0001184016,Common Stock
+A,01/15/2018 00:00:00,GROSS PATRICK W,4,A-Award,--D,879,23614,1,0001184343,Common Stock
+A,01/15/2018 00:00:00,WEIDEMEYER THOMAS H,4,A-Award,--I,879,25925,1,0001227740,Common Stock
+A,01/15/2018 00:00:00,POPE JOHN C,4,A-Award,--D,879,51896,1,0001192499,Common Stock
+A,01/15/2018 00:00:00,MAZZARELLA KATHLEEN M,4,A-Award,--I,879,6018,1,0001273233,Common Stock
+A,01/15/2018 00:00:00,HOLT VICTORIA M,4,A-Award,--D,879,14208,1,0001181629,Common Stock
+A,01/15/2018 00:00:00,Gluski Andres,4,A-Award,--D,879,8106,1,0001348876,Common Stock
+A,01/15/2018 00:00:00,CLARK FRANK M,4,A-Award,--D,879,30673,1,0001184016,Common Stock
+A,01/15/2018 00:00:00,ANDERSON BRADBURY H,4,A-Award,--D,1446,23218,1,0001188050,Common Stock
+A,12/05/2017 00:00:00,Nagy Leslie K,4,A-Award,--D,2744,2744,1,0001604561,Common Stock
+D,11/28/2017 00:00:00,CALDWELL BARRY H,4,G-Gift,--D,2500,33836.7859,2,0001197028,Common Stock
+D,11/28/2017 00:00:00,CALDWELL BARRY H,4,S-Sale,--D,1650,36336.7859,1,0001197028,Common Stock
+D,11/11/2017 00:00:00,Fish James C Jr,4,F-InKind,--D,2186,156257.6487,1,0001523568,Common Stock
+A,11/07/2017 00:00:00,Sjoqvist Nikolaj H,4,A-Award,--D,1899,16742.74,1,0001720066,Common Stock
+D,10/26/2017 00:00:00,Fish James C Jr,4,M-Exempt,--D,13629,40888,4,0001523568,Stock Option (Right to Buy)
+D,10/26/2017 00:00:00,Fish James C Jr,4,F-InKind,--D,11278,158443.6487,2,0001523568,Common Stock
+A,10/26/2017 00:00:00,Fish James C Jr,4,M-Exempt,--D,13629,169721.6487,1,0001523568,Common Stock
+D,07/26/2017 00:00:00,Fish James C Jr,4,M-Exempt,--D,30210,30210,4,0001523568,Stock Option (Right to Buy)
+D,07/26/2017 00:00:00,Fish James C Jr,4,F-InKind,--D,25279,156092.6487,2,0001523568,Common Stock
+A,07/26/2017 00:00:00,Fish James C Jr,4,M-Exempt,--D,30210,181371.6487,1,0001523568,Common Stock
+D,07/19/2017 00:00:00,CALDWELL BARRY H,4,M-Exempt,--D,13134,13136,3,0001197028,Stock Option (Right to Buy)
+D,07/19/2017 00:00:00,CALDWELL BARRY H,4,F-InKind,--D,11063,37986.7859,2,0001197028,Common Stock
+A,07/19/2017 00:00:00,CALDWELL BARRY H,4,M-Exempt,--D,13134,49049.7859,1,0001197028,Common Stock
+D,07/18/2017 00:00:00,WEIDEMEYER THOMAS H,4,S-Sale,--D,477,25046,2,0001227740,Common Stock
+D,07/18/2017 00:00:00,CLARK FRANK M,4,S-Sale,--D,453,29794,2,0001184016,Common Stock
+D,07/18/2017 00:00:00,GROSS PATRICK W,4,S-Sale,--D,487,22735,2,0001184343,Common Stock
+D,07/17/2017 00:00:00,POPE JOHN C,4,S-Sale,--D,300,51017,3,0001192499,Common Stock
+D,07/17/2017 00:00:00,POPE JOHN C,4,S-Sale,--D,153,51317,2,0001192499,Common Stock
+A,07/15/2017 00:00:00,WEIDEMEYER THOMAS H,4,A-Award,--D,1045,25523,1,0001227740,Common Stock
+A,07/15/2017 00:00:00,CLARK FRANK M,4,A-Award,--D,1045,30247,1,0001184016,Common Stock
+A,07/15/2017 00:00:00,GROSS PATRICK W,4,A-Award,--D,1045,23222,1,0001184343,Common Stock
+A,07/15/2017 00:00:00,POPE JOHN C,4,A-Award,--D,1045,51470,1,0001192499,Common Stock
+A,07/15/2017 00:00:00,MAZZARELLA KATHLEEN M,4,A-Award,--I,1045,5139,1,0001273233,Common Stock
+A,07/15/2017 00:00:00,HOLT VICTORIA M,4,A-Award,--D,1045,13329,1,0001181629,Common Stock
+A,07/15/2017 00:00:00,Gluski Andres,4,A-Award,--D,1045,7227,1,0001348876,Common Stock
+A,07/15/2017 00:00:00,ANDERSON BRADBURY H,4,A-Award,--D,1713,21772,1,0001188050,Common Stock
+D,05/30/2017 00:00:00,Fish James C Jr,4,S-Sale,--D,3500,151161.6487,1,0001523568,Common Stock
+D,05/15/2017 00:00:00,Fish James C Jr,4,S-Sale,--D,3500,154661.6487,1,0001523568,Common Stock
+D,04/21/2017 00:00:00,CALDWELL BARRY H,4,S-Sale,--D,8142,35915.7859,1,0001197028,Common Stock
+D,04/13/2017 00:00:00,CALDWELL BARRY H,4,G-Gift,--D,2055,44057.7859,1,0001197028,Common Stock
+D,04/07/2017 00:00:00,CALDWELL BARRY H,4,S-Sale,--D,2700,46112.7859,2,0001197028,Common Stock
+D,04/07/2017 00:00:00,CALDWELL BARRY H,4,S-Sale,--D,400,48812.7859,1,0001197028,Common Stock
+D,03/08/2017 00:00:00,Rankin Devina A,4,S-Sale,--D,131,11447.457,2,0001557267,Common Stock
+D,03/07/2017 00:00:00,CALDWELL BARRY H,4,M-Exempt,--D,9462,0,4,0001197028,Stock Option (Right to Buy)
+D,03/07/2017 00:00:00,CALDWELL BARRY H,4,S-Sale,--D,4114,49212.7859,3,0001197028,Common Stock
+D,03/07/2017 00:00:00,CALDWELL BARRY H,4,S-Sale,--D,2980,53326.7859,2,0001197028,Common Stock
+A,03/07/2017 00:00:00,CALDWELL BARRY H,4,M-Exempt,--D,9462,56306.7859,1,0001197028,Common Stock
+D,03/07/2017 00:00:00,Harris Jeff M,4,M-Exempt,--D,26967,0,4,0001358267,Stock Option (Right to Buy)
+D,03/07/2017 00:00:00,Harris Jeff M,4,S-Sale,--D,20704,30571,2,0001358267,Common Stock
+A,03/07/2017 00:00:00,Harris Jeff M,4,M-Exempt,--D,26967,51275,1,0001358267,Common Stock
+D,03/07/2017 00:00:00,Fish James C Jr,4,M-Exempt,--D,33708,0,4,0001523568,Stock Option (Right to Buy)
+D,03/07/2017 00:00:00,Fish James C Jr,4,S-Sale,--D,25260,158161.6487,2,0001523568,Common Stock
+A,03/07/2017 00:00:00,Fish James C Jr,4,M-Exempt,--D,33708,183421.6487,1,0001523568,Common Stock
+D,03/07/2017 00:00:00,Morris John J,4,M-Exempt,--D,26967,0,4,0001544705,Stock Option (Right to Buy)
+D,03/07/2017 00:00:00,Morris John J,4,S-Sale,--D,20206,37771,2,0001544705,Common Stock
+A,03/07/2017 00:00:00,Morris John J,4,M-Exempt,--D,26967,57977,1,0001544705,Common Stock
+D,03/07/2017 00:00:00,Rankin Devina A,4,F-InKind,--D,236,11578.457,1,0001557267,Common Stock
+D,03/06/2017 00:00:00,TREVATHAN JAMES E JR,4,M-Exempt,--D,4114,33708,9,0001197041,Stock Option (Right to Buy)
+D,03/06/2017 00:00:00,TREVATHAN JAMES E JR,4,S-Sale,--D,3087,345962,6,0001197041,Common Stock
+A,03/06/2017 00:00:00,TREVATHAN JAMES E JR,4,M-Exempt,--D,4114,349049,5,0001197041,Common Stock
+D,03/03/2017 00:00:00,TREVATHAN JAMES E JR,4,M-Exempt,--D,29457,0,8,0001197041,Stock Option (Right to Buy)

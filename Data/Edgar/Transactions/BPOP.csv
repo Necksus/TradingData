@@ -1,0 +1,961 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,05/16/2023 00:00:00,Sanchez Alejandro M,4,P-Purchase,--D,9,2171,1,0001952247,Common Stock Par Value $0.01 per share
+A,05/11/2023 00:00:00,UNANUE CARLOS,4,A-Award,--D,3679,19156,3,0001482899,Restricted Stock Units
+D,05/11/2023 00:00:00,Sanchez Alejandro M,4,F-InKind,--D,138,2162,2,0001952247,Common Stock Par Value $0.01 per share
+A,05/11/2023 00:00:00,Sanchez Alejandro M,4,A-Award,--D,2300,2300,1,0001952247,Common Stock Par Value $0.01 per share
+A,05/11/2023 00:00:00,Soto Myrna,4,A-Award,--D,2300,16775,2,0001631411,Restricted Stock Units
+A,05/11/2023 00:00:00,Rodriguez Jose Ramon,4,A-Award,--D,3679,8773,1,0001859182,Restricted Stock Units
+A,05/11/2023 00:00:00,GOODWIN C KIM,4,A-Award,--D,2300,11982,2,0001278731,Restricted Stock Units
+A,05/11/2023 00:00:00,Ferre Maria Luisa,4,A-Award,--D,2300,11982,3,0001289698,Restricted Stock Units
+A,05/11/2023 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,4691,23464,2,0001244131,Restricted Stock Units
+A,05/11/2023 00:00:00,DeVita Betty K,4,A-Award,--D,2300,5487,1,0001675795,Restricted Stock Units
+A,05/11/2023 00:00:00,CARRION RICHARD L,4,A-Award,--D,2300,11615,3,0001187725,Restricted Stock Units
+A,05/11/2023 00:00:00,CARRADY ROBERT,4,A-Award,--D,3679,19156,3,0001763503,Restricted Stock Units
+A,05/11/2023 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,2300,11982,4,0001482780,Restricted Stock Units
+A,05/11/2023 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,2300,11982,2,0001576078,Restricted Stock Units
+D,04/27/2023 00:00:00,Coleman-Tio Jose R.,4,F-InKind,--D,326,10425.157,1,0001898924,Common Stock Par Value $0.01 per share
+A,04/03/2023 00:00:00,DeVita Betty K,4,A-Award,--D,31,3187,1,0001675795,Restricted Stock Units
+A,04/03/2023 00:00:00,CARRION RICHARD L,4,A-Award,--D,89,9315,3,0001187725,Restricted Stock Units
+A,04/03/2023 00:00:00,CARRADY ROBERT,4,A-Award,--D,149,15477,3,0001763503,Restricted Stock Units
+A,04/03/2023 00:00:00,Soto Myrna,4,A-Award,--D,139,14475,2,0001631411,Restricted Stock Units
+A,04/03/2023 00:00:00,UNANUE CARLOS,4,A-Award,--D,149,15477,3,0001482899,Restricted Stock Units
+A,04/03/2023 00:00:00,GOODWIN C KIM,4,A-Award,--D,93,9682,2,0001278731,Restricted Stock Units
+A,04/03/2023 00:00:00,Ferre Maria Luisa,4,A-Award,--D,93,9682,3,0001289698,Restricted Stock Units
+A,04/03/2023 00:00:00,Rodriguez Jose Ramon,4,A-Award,--D,49,5094,1,0001859182,Restricted Stock Units
+A,04/03/2023 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,181,18773,2,0001244131,Restricted Stock Units
+A,04/03/2023 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,93,9682,4,0001482780,Restricted Stock Units
+A,04/03/2023 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,93,9682,2,0001576078,Restricted Stock Units
+D,02/27/2023 00:00:00,CHINEA MANUEL,4,F-InKind,--D,1825,32905.95,4,0001662985,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,CHINEA MANUEL,4,A-Award,--D,4449,34730.95,3,0001662985,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,CHINEA MANUEL,4,F-InKind,--D,1371,30281.95,2,0001662985,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,CHINEA MANUEL,4,A-Award,--D,3401,31652.95,1,0001662985,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,9008,234786.955,4,0001495232,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,ALVAREZ IGNACIO,4,A-Award,--D,25479,243794.955,3,0001495232,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,668,218315.955,2,0001495232,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,ALVAREZ IGNACIO,4,A-Award,--D,21318,218983.955,1,0001495232,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,Castellvi Beatriz,4,F-InKind,--D,892,23649.545,4,0001738504,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,Castellvi Beatriz,4,A-Award,--D,3059,24541.545,3,0001738504,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,Castellvi Beatriz,4,F-InKind,--D,88,21482.545,2,0001738504,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,Castellvi Beatriz,4,A-Award,--D,2795,21570.545,1,0001738504,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,838,25906.992,3,0001711255,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,CESTERO LUIS E.,4,A-Award,--D,3059,26744.992,2,0001711255,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,CESTERO LUIS E.,4,A-Award,--D,2795,23685.992,1,0001711255,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,Burckhart Camille,4,F-InKind,--D,1066,44090.301,3,0001647743,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,Burckhart Camille,4,A-Award,--D,3893,45156.301,2,0001647743,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,Burckhart Camille,4,A-Award,--D,4193,41263.301,1,0001647743,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,1229,44807.008,4,0001485577,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,SEPULVEDA ELI,4,A-Award,--D,4340,46036.008,3,0001485577,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,97,41696.008,2,0001485577,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,SEPULVEDA ELI,4,A-Award,--D,3077,41793.008,1,0001485577,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,1525,65943.154,4,0001621853,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,FERRER JAVIER D.,4,A-Award,--D,5561,67468.154,3,0001621853,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,296,61907.154,2,0001621853,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,FERRER JAVIER D.,4,A-Award,--D,9433,62203.154,1,0001621853,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,MONZON GILBERTO,4,F-InKind,--D,1066,51104.199,4,0001503166,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,MONZON GILBERTO,4,A-Award,--D,3708,52170.199,3,0001503166,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,MONZON GILBERTO,4,F-InKind,--D,84,48462.199,2,0001503166,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,MONZON GILBERTO,4,A-Award,--D,2656,48546.199,1,0001503166,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,1786,126382.42,4,0001217333,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,VAZQUEZ CARLOS J,4,A-Award,--D,6509,128168.42,3,0001217333,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,146,121659.42,2,0001217333,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,VAZQUEZ CARLOS J,4,A-Award,--D,4632,121805.42,1,0001217333,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,1206,44976.753,4,0001413241,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,NEGRON EDUARDO J.,4,A-Award,--D,4255,46182.753,3,0001413241,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,97,41927.753,2,0001413241,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,NEGRON EDUARDO J.,4,A-Award,--D,3077,42024.753,1,0001413241,Common Stock Par Value $0.01 per share
+D,02/27/2023 00:00:00,Soriano Lidio,4,F-InKind,--D,1320,98249.383,3,0001337297,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,Soriano Lidio,4,A-Award,--D,4822,99569.383,2,0001337297,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,Soriano Lidio,4,A-Award,--D,3563,94747.383,1,0001337297,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,GONZALEZ-NOGUERA MARIA CRISTINA,4,A-Award,--D,2786,7634.431,1,0001854566,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,Garcia Jorge J.,4,A-Award,--D,1911,10751.137,1,0001543970,Common Stock Par Value $0.01 per share
+A,02/27/2023 00:00:00,Coleman-Tio Jose R.,4,A-Award,--D,2935,10656.614,1,0001898924,Common Stock Par Value $0.01 per share
+D,02/23/2023 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,1150,117173.42,1,0001217333,Common Stock Par Value $0.01 per share
+D,02/23/2023 00:00:00,Soriano Lidio,4,F-InKind,--D,995,91184.383,1,0001337297,Common Stock Par Value $0.01 per share
+D,02/23/2023 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,767,38716.008,1,0001485577,Common Stock Par Value $0.01 per share
+D,02/23/2023 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,723,38947.753,1,0001413241,Common Stock Par Value $0.01 per share
+D,02/23/2023 00:00:00,MONZON GILBERTO,4,F-InKind,--D,626,45890.199,1,0001503166,Common Stock Par Value $0.01 per share
+D,02/23/2023 00:00:00,GONZALEZ-NOGUERA MARIA CRISTINA,4,F-InKind,--D,413,4848.431,1,0001854566,Common Stock Par Value $0.01 per share
+D,02/23/2023 00:00:00,Garcia Jorge J.,4,F-InKind,--D,588,8840.137,1,0001543970,Common Stock Par Value $0.01 per share
+D,02/23/2023 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,1145,52770.154,1,0001621853,Common Stock Par Value $0.01 per share
+D,02/23/2023 00:00:00,Coleman-Tio Jose R.,4,F-InKind,--D,128,7721.614,1,0001898924,Common Stock Par Value $0.01 per share
+D,02/23/2023 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,692,20890.992,1,0001711255,Common Stock Par Value $0.01 per share
+D,02/23/2023 00:00:00,Castellvi Beatriz,4,F-InKind,--D,565,18775.545,1,0001738504,Common Stock Par Value $0.01 per share
+D,02/23/2023 00:00:00,Burckhart Camille,4,F-InKind,--D,980,37070.301,1,0001647743,Common Stock Par Value $0.01 per share
+D,02/23/2023 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,6524,197665.955,1,0001495232,Common Stock Par Value $0.01 per share
+D,01/29/2023 00:00:00,GUERRERO JUAN,4,J-Other,--D,11875,37335.141,1,0001513383,Common Stock Par Value $0.01 per share
+A,01/03/2023 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,82,9589,2,0001576078,Restricted Stock Units
+A,01/03/2023 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,82,9589,4,0001482780,Restricted Stock Units
+A,01/03/2023 00:00:00,DeVita Betty K,4,A-Award,--D,27,3156,1,0001675795,Restricted Stock Units
+A,01/03/2023 00:00:00,Rodriguez Jose Ramon,4,A-Award,--D,43,5045,1,0001859182,Restricted Stock Units
+A,01/03/2023 00:00:00,Soto Myrna,4,A-Award,--D,122,14336,2,0001631411,Restricted Stock Units
+A,01/03/2023 00:00:00,UNANUE CARLOS,4,A-Award,--D,131,15328,3,0001482899,Restricted Stock Units
+A,01/03/2023 00:00:00,Ferre Maria Luisa,4,A-Award,--D,82,9589,3,0001289698,Restricted Stock Units
+A,01/03/2023 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,158,18592,2,0001244131,Restricted Stock Units
+A,01/03/2023 00:00:00,GOODWIN C KIM,4,A-Award,--D,82,9589,2,0001278731,Restricted Stock Units
+A,01/03/2023 00:00:00,CARRADY ROBERT,4,A-Award,--D,131,15328,3,0001763503,Restricted Stock Units
+A,01/03/2023 00:00:00,CARRION RICHARD L,4,A-Award,--D,79,9226,3,0001187725,Restricted Stock Units
+A,12/31/2022 00:00:00,Garcia Jorge J.,5,J-Other,--D,60.791,9359.645,1,0001543970,Common Stock Par Value $6 per share
+A,12/31/2022 00:00:00,CHINEA MANUEL,5,J-Other,--D,90.037,3125.83,3,0001662985,Phantom Stock
+A,12/31/2022 00:00:00,CHINEA MANUEL,5,J-Other,--D,0.561,28027.554,2,0001662985,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,CHINEA MANUEL,5,J-Other,--D,544.998,28026.993,1,0001662985,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,GUERRERO JUAN,5,J-Other,--D,0.391,49095.21,2,0001513383,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,GUERRERO JUAN,5,J-Other,--D,285.103,49094.819,1,0001513383,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,Burckhart Camille,5,J-Other,--D,0.163,37924.94,2,0001647743,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,Burckhart Camille,5,J-Other,--D,308.804,37924.777,1,0001647743,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,MONZON GILBERTO,5,J-Other,--D,4.291,46343.745,2,0001503166,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,MONZON GILBERTO,5,J-Other,--D,424.962,46339.454,1,0001503166,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,SEPULVEDA ELI,5,J-Other,--D,0.577,39362.307,2,0001485577,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,SEPULVEDA ELI,5,J-Other,--D,106.921,39361.73,1,0001485577,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,ALVAREZ IGNACIO,5,J-Other,--I,145.876,7789.317,2,0001495232,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,ALVAREZ IGNACIO,5,J-Other,--D,1497.27,203582.116,1,0001495232,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,CESTERO LUIS E.,5,J-Other,--I,10.78,575.591,3,0001711255,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,CESTERO LUIS E.,5,J-Other,--D,42.047,21451.773,2,0001711255,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,CESTERO LUIS E.,5,J-Other,--D,313.91,21409.726,1,0001711255,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,Castellvi Beatriz,5,J-Other,--D,95.791,19233.089,1,0001738504,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,NEGRON EDUARDO J.,5,J-Other,--D,737.332,39371.423,1,0001413241,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,Soriano Lidio,5,J-Other,--D,1671.554,91483.855,1,0001337297,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,VAZQUEZ CARLOS J,5,J-Other,--D,145.696,118160.927,1,0001217333,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,Coleman-Tio Jose R.,5,J-Other,--D,100.967,7790.385,1,0001898924,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,FERRER JAVIER D.,5,J-Other,--D,381.028,53762.623,1,0001621853,Common Stock Par Value $0.01 per share
+A,12/31/2022 00:00:00,GONZALEZ-NOGUERA MARIA CRISTINA,5,J-Other,--D,95.587,5220.901,1,0001854566,Common Stock Par Value $0.01 per share
+A,10/03/2022 00:00:00,GOODWIN C KIM,4,A-Award,--D,73,9507,2,0001278731,Restricted Stock Units
+A,10/03/2022 00:00:00,UNANUE CARLOS,4,A-Award,--D,115,15197,3,0001482899,Restricted Stock Units
+A,10/03/2022 00:00:00,Soto Myrna,4,A-Award,--D,108,14214,2,0001631411,Restricted Stock Units
+A,10/03/2022 00:00:00,Rodriguez Jose Ramon,4,A-Award,--D,38,5002,1,0001859182,Restricted Stock Units
+A,10/03/2022 00:00:00,Ferre Maria Luisa,4,A-Award,--D,73,9507,3,0001289698,Restricted Stock Units
+A,10/03/2022 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,139,18434,2,0001244131,Restricted Stock Units
+A,10/03/2022 00:00:00,DeVita Betty K,4,A-Award,--D,25,3129,1,0001675795,Restricted Stock Units
+A,10/03/2022 00:00:00,CARRION RICHARD L,4,A-Award,--D,71,9147,3,0001187725,Restricted Stock Units
+A,10/03/2022 00:00:00,CARRADY ROBERT,4,A-Award,--D,115,15197,3,0001763503,Restricted Stock Units
+A,10/03/2022 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,73,9507,2,0001576078,Restricted Stock Units
+A,10/03/2022 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,73,9507,4,0001482780,Restricted Stock Units
+D,08/26/2022 00:00:00,Garcia Jorge J.,4,S-Sale,--D,1383,9298.854,1,0001543970,Common Stock Par Value $0.01 per share
+D,08/26/2022 00:00:00,VAZQUEZ CARLOS J,4,S-Sale,--D,9635,118015.231,1,0001217333,Common Stock Par Value $0.01 per share
+D,08/17/2022 00:00:00,SEPULVEDA ELI,4,S-Sale,--D,5000,39254.809,1,0001485577,Common Stock Par Value $0.01 per share
+D,08/05/2022 00:00:00,SEPULVEDA ELI,4,S-Sale,--D,5000,44254.809,1,0001485577,Common Stock Par Value $0.01 per share
+D,07/30/2022 00:00:00,Castellvi Beatriz,4,F-InKind,--D,324,19137.298,1,0001738504,Common Stock Par Value $0.01 per share
+A,07/01/2022 00:00:00,GOODWIN C KIM,4,A-Award,--D,68,9434,2,0001278731,Restricted Stock Units
+A,07/01/2022 00:00:00,UNANUE CARLOS,4,A-Award,--D,108,15082,3,0001482899,Restricted Stock Units
+A,07/01/2022 00:00:00,Soto Myrna,4,A-Award,--D,101,14106,2,0001631411,Restricted Stock Units
+A,07/01/2022 00:00:00,Rodriguez Jose Ramon,4,A-Award,--D,36,4964,1,0001859182,Restricted Stock Units
+A,07/01/2022 00:00:00,Ferre Maria Luisa,4,A-Award,--D,68,9434,3,0001289698,Restricted Stock Units
+A,07/01/2022 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,131,18295,2,0001244131,Restricted Stock Units
+A,07/01/2022 00:00:00,DeVita Betty K,4,A-Award,--D,23,3104,1,0001675795,Restricted Stock Units
+A,07/01/2022 00:00:00,CARRION RICHARD L,4,A-Award,--D,66,9076,3,0001187725,Restricted Stock Units
+A,07/01/2022 00:00:00,CARRADY ROBERT,4,A-Award,--D,108,15082,3,0001763503,Restricted Stock Units
+A,07/01/2022 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,68,9434,4,0001482780,Restricted Stock Units
+A,07/01/2022 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,68,9434,2,0001576078,Restricted Stock Units
+D,05/17/2022 00:00:00,Castellvi Beatriz,4,S-Sale,--D,2000,19371.786,1,0001738504,Common Stock Par Value $0.01 per share
+A,05/12/2022 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,1616,9366,4,0001482780,Restricted Stock Units
+A,05/12/2022 00:00:00,DeVita Betty K,4,A-Award,--D,1616,3081,1,0001675795,Restricted Stock Units
+A,05/12/2022 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,1616,9366,2,0001576078,Restricted Stock Units
+A,05/12/2022 00:00:00,UNANUE CARLOS,4,A-Award,--D,2585,14974,3,0001482899,Restricted Stock Units
+A,05/12/2022 00:00:00,Soto Myrna,4,A-Award,--D,1616,14005,2,0001631411,Restricted Stock Units
+A,05/12/2022 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,3296,18164,2,0001244131,Restricted Stock Units
+A,05/12/2022 00:00:00,GOODWIN C KIM,4,A-Award,--D,1616,9366,2,0001278731,Restricted Stock Units
+A,05/12/2022 00:00:00,Rodriguez Jose Ramon,4,A-Award,--D,2585,4928,1,0001859182,Restricted Stock Units
+A,05/12/2022 00:00:00,Ferre Maria Luisa,4,A-Award,--D,1616,9366,3,0001289698,Restricted Stock Units
+A,05/12/2022 00:00:00,CARRION RICHARD L,4,A-Award,--D,1616,9010,3,0001187725,Restricted Stock Units
+A,05/12/2022 00:00:00,CARRADY ROBERT,4,A-Award,--D,2585,14974,3,0001763503,Restricted Stock Units
+D,05/11/2022 00:00:00,GOODWIN C KIM,4,S-Sale,--D,8154,39274.824,2,0001278731,Common Stock Par Value $0.01 per share
+D,05/10/2022 00:00:00,GOODWIN C KIM,4,G-Gift,-ED,2418,47428.824,1,0001278731,Common Stock Par Value $0.01 per share
+D,04/27/2022 00:00:00,Castellvi Beatriz,4,F-InKind,--D,87,21371.786,1,0001738504,Common Stock Par Value $0.01 per share
+D,04/27/2022 00:00:00,Coleman-Tio Jose R.,4,F-InKind,--D,412,7689.418,1,0001898924,Common Stock Par Value $0.01 per share
+D,04/27/2022 00:00:00,Garcia Jorge J.,4,F-InKind,--D,130,10626.343,1,0001543970,Common Stock Par Value $0.01 per share
+A,04/01/2022 00:00:00,UNANUE CARLOS,4,A-Award,--D,85,12389,3,0001482899,Restricted Stock Units
+A,04/01/2022 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,53,7750,4,0001482780,Restricted Stock Units
+A,04/01/2022 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,53,7750,2,0001576078,Restricted Stock Units
+A,04/01/2022 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,103,14868,2,0001244131,Restricted Stock Units
+A,04/01/2022 00:00:00,GOODWIN C KIM,4,A-Award,--D,53,7750,2,0001278731,Restricted Stock Units
+A,04/01/2022 00:00:00,Ferre Maria Luisa,4,A-Award,--D,53,7750,3,0001289698,Restricted Stock Units
+A,04/01/2022 00:00:00,Soto Myrna,4,A-Award,--D,85,12389,2,0001631411,Restricted Stock Units
+A,04/01/2022 00:00:00,CARRADY ROBERT,4,A-Award,--D,85,12389,3,0001763503,Restricted Stock Units
+A,04/01/2022 00:00:00,CARRION RICHARD L,4,A-Award,--D,51,7394,3,0001187725,Restricted Stock Units
+A,04/01/2022 00:00:00,Rodriguez Jose Ramon,4,A-Award,--D,16,2343,1,0001859182,Restricted Stock Units
+A,04/01/2022 00:00:00,DeVita Betty K,4,A-Award,--D,10,1465,1,0001675795,Restricted Stock Units
+D,02/23/2022 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,661,21095.816,1,0001711255,Common Stock Par Value $0.01 per share
+D,02/23/2022 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,809,49064.946,1,0001485577,Common Stock Par Value $0.01 per share
+D,02/23/2022 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,1013,53381.595,1,0001621853,Common Stock Par Value $0.01 per share
+D,02/23/2022 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,6436,202084.846,1,0001495232,Common Stock Par Value $0.01 per share
+D,02/23/2022 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,782,38634.091,1,0001413241,Common Stock Par Value $0.01 per share
+D,02/23/2022 00:00:00,MONZON GILBERTO,4,F-InKind,--D,684,45914.492,1,0001503166,Common Stock Par Value $0.01 per share
+D,02/23/2022 00:00:00,Soriano Lidio,4,F-InKind,--D,1015,89812.301,1,0001337297,Common Stock Par Value $0.01 per share
+D,02/23/2022 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,1212,127389.95,1,0001217333,Common Stock Par Value $0.01 per share
+D,02/23/2022 00:00:00,GUERRERO JUAN,4,F-InKind,--D,720,48809.716,1,0001513383,Common Stock Par Value $0.01 per share
+D,02/23/2022 00:00:00,GONZALEZ-NOGUERA MARIA CRISTINA,4,F-InKind,--D,232,5125.314,1,0001854566,Common Stock Par Value $0.01 per share
+D,02/23/2022 00:00:00,Garcia Jorge J.,4,F-InKind,--D,454,10701.616,1,0001543970,Common Stock Par Value $0.01 per share
+D,02/23/2022 00:00:00,Castellvi Beatriz,4,F-InKind,--D,505,21372.291,1,0001738504,Common Stock Par Value $0.01 per share
+D,02/23/2022 00:00:00,Burckhart Camille,4,F-InKind,--D,917,37615.973,1,0001647743,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,SEPULVEDA ELI,4/A,F-InKind,--D,84,49873.946,4,0001485577,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,SEPULVEDA ELI,4/A,A-Award,--D,2656,49957.946,3,0001485577,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,SEPULVEDA ELI,4/A,F-InKind,--D,1510,47301.946,2,0001485577,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,SEPULVEDA ELI,4/A,A-Award,--D,5514,48811.946,1,0001485577,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,CESTERO LUIS E.,4/A,A-Award,--D,1957,21756.816,3,0001711255,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,CESTERO LUIS E.,4/A,F-InKind,--D,1006,19799.816,2,0001711255,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,CESTERO LUIS E.,4/A,A-Award,--D,3677,20805.816,1,0001711255,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,CARRION RICHARD L,4,F-InKind,--D,5054,217968,2,0001187725,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,CARRION RICHARD L,4,A-Award,--D,15310,223022,1,0001187725,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,126,128601.95,4,0001217333,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,VAZQUEZ CARLOS J,4,A-Award,--D,3998,128727.95,3,0001217333,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,2262,124729.95,2,0001217333,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,VAZQUEZ CARLOS J,4,A-Award,--D,8266,126991.95,1,0001217333,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,CHINEA MANUEL,4,F-InKind,--D,1287,27481.995,4,0001662985,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,CHINEA MANUEL,4,A-Award,--D,2326,28768.995,3,0001662985,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,CHINEA MANUEL,4,F-InKind,--D,2178,26442.995,2,0001662985,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,CHINEA MANUEL,4,A-Award,--D,5404,28620.995,1,0001662985,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,GONZALEZ-NOGUERA MARIA CRISTINA,4,A-Award,--D,1924,5357.314,1,0001854566,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,Castellvi Beatriz,4,A-Award,--D,1957,21877.291,3,0001738504,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,Castellvi Beatriz,4,F-InKind,--D,987,19920.291,2,0001738504,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,Castellvi Beatriz,4,A-Award,--D,3605,20907.291,1,0001738504,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,Coleman-Tio Jose R.,4,A-Award,--D,1566,8054.082,1,0001898924,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,Garcia Jorge J.,4,A-Award,--D,1348,11155.616,1,0001543970,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,67,39416.091,4,0001413241,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,NEGRON EDUARDO J.,4,A-Award,--D,2125,39483.091,3,0001413241,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,1478,37358.091,2,0001413241,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,NEGRON EDUARDO J.,4,A-Award,--D,5404,38836.091,1,0001413241,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,Soriano Lidio,4,A-Award,--D,3076,90827.301,3,0001337297,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,Soriano Lidio,4,F-InKind,--D,1676,87751.301,2,0001337297,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,Soriano Lidio,4,A-Award,--D,6125,89427.301,1,0001337297,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,198,54394.595,4,0001621853,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,FERRER JAVIER D.,4,A-Award,--D,6290,54592.595,3,0001621853,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,1844,48302.595,2,0001621853,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,FERRER JAVIER D.,4,A-Award,--D,6736,50146.595,1,0001621853,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,GUERRERO JUAN,4,F-InKind,--D,60,49529.716,4,0001513383,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,GUERRERO JUAN,4,A-Award,--D,1901,49589.716,3,0001513383,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,GUERRERO JUAN,4,F-InKind,--D,1341,47688.716,2,0001513383,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,GUERRERO JUAN,4,A-Award,--D,4901,49029.716,1,0001513383,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,CESTERO LUIS E.,4,A-Award,--D,1957,21756.816,3,0001711255,"Preferred Stock, 2003 Series A"
+D,02/22/2022 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,1006,19799.816,2,0001711255,"Preferred Stock, 2003 Series A"
+A,02/22/2022 00:00:00,CESTERO LUIS E.,4,A-Award,--D,3677,20805.816,1,0001711255,"Preferred Stock, 2003 Series A"
+A,02/22/2022 00:00:00,Burckhart Camille,4,A-Award,--D,3020,38532.973,3,0001647743,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,Burckhart Camille,4,F-InKind,--D,1314,35512.973,2,0001647743,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,Burckhart Camille,4,A-Award,--D,4804,36826.973,1,0001647743,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,84,49873.946,4,0001485577,Common Stock Par Value $6 per share
+A,02/22/2022 00:00:00,SEPULVEDA ELI,4,A-Award,--D,2656,49957.946,3,0001485577,Common Stock Par Value $6 per share
+D,02/22/2022 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,1510,47301.946,2,0001485577,Common Stock Par Value $6 per share
+A,02/22/2022 00:00:00,SEPULVEDA ELI,4,A-Award,--D,5514,48811.946,1,0001485577,Common Stock Par Value $6 per share
+D,02/22/2022 00:00:00,MONZON GILBERTO,4,F-InKind,--D,58,46598.492,4,0001503166,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,MONZON GILBERTO,4,A-Award,--D,1834,46656.492,3,0001503166,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,MONZON GILBERTO,4,F-InKind,--D,1258,44822.492,2,0001503166,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,MONZON GILBERTO,4,A-Award,--D,4594,46080.492,1,0001503166,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,521,208520.846,4,0001495232,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,ALVAREZ IGNACIO,4,A-Award,--D,16606,209041.846,3,0001495232,Common Stock Par Value $0.01 per share
+D,02/22/2022 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,11672,192435.846,2,0001495232,Common Stock Par Value $0.01 per share
+A,02/22/2022 00:00:00,ALVAREZ IGNACIO,4,A-Award,--D,33016,204107.846,1,0001495232,Common Stock Par Value $0.01 per share
+A,01/03/2022 00:00:00,Rodriguez Jose Ramon,4,A-Award,--D,13,2327,2,0001859182,Restricted Stock Units
+A,01/03/2022 00:00:00,DeVita Betty K,4,A-Award,--D,8,1455,2,0001675795,Restricted Stock Units
+A,01/03/2022 00:00:00,UNANUE CARLOS,4,A-Award,--D,68,12304,3,0001482899,Restricted Stock Units
+A,01/03/2022 00:00:00,Soto Myrna,4,A-Award,--D,68,12304,2,0001631411,Restricted Stock Units
+A,01/03/2022 00:00:00,GOODWIN C KIM,4,A-Award,--D,43,7697,2,0001278731,Restricted Stock Units
+A,01/03/2022 00:00:00,Ferre Maria Luisa,4,A-Award,--D,43,7697,3,0001289698,Restricted Stock Units
+A,01/03/2022 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,82,14765,2,0001244131,Restricted Stock Units
+A,01/03/2022 00:00:00,CARRADY ROBERT,4,A-Award,--D,68,12304,3,0001763503,Restricted Stock Units
+A,01/03/2022 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,43,7697,4,0001482780,Restricted Stock Units
+A,01/03/2022 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,43,7697,2,0001576078,Restricted Stock Units
+A,01/03/2022 00:00:00,CARRION RICHARD L,4,A-Award,--D,41,7343,4,0001187725,Restricted Stock Units
+A,12/31/2021 00:00:00,Garcia Jorge J.,5,J-Other,--D,0.188,9761.438,1,0001543970,Common Stock Par Value $0.01 per share
+A,12/31/2021 00:00:00,CHINEA MANUEL,5,J-Other,--D,68.854,3035.793,2,0001662985,Phantom Stock
+A,12/31/2021 00:00:00,CHINEA MANUEL,5,J-Other,--D,109.416,23116.657,1,0001662985,Common Stock Par Value $0.01 per share
+A,12/31/2021 00:00:00,SEPULVEDA ELI,5,J-Other,--D,0.028,43218.319,2,0001485577,Common Stock Par Value $0.01 per share
+A,12/31/2021 00:00:00,SEPULVEDA ELI,5,J-Other,--D,248.66,43218.291,1,0001485577,Common Stock Par Value $0.01 per share
+A,12/31/2021 00:00:00,Castellvi Beatriz,5,J-Other,--D,73.526,17233.233,1,0001738504,Common Stock Par Value $0.01 per share
+A,12/31/2021 00:00:00,MONZON GILBERTO,5,J-Other,--D,4.176,41377.652,1,0001503166,Common Stock Par Value $0.01 per share
+A,12/31/2021 00:00:00,GUERRERO JUAN,5,J-Other,--D,0.38,44050.825,1,0001513383,Common Stock Par Value $0.01 per share
+A,12/31/2021 00:00:00,Soriano Lidio,5,J-Other,--D,1234.22,82893.508,1,0001337297,Common Stock Par Value $0.01 per share
+A,12/31/2021 00:00:00,Burckhart Camille,5,J-Other,--D,170.463,31942.172,1,0001647743,Common Stock Par Value $0.01 per share
+A,12/31/2021 00:00:00,CESTERO LUIS E.,5,J-Other,--D,3.254,17048.908,2,0001711255,Common Stock Par Value $0.01 per share
+A,12/31/2021 00:00:00,CESTERO LUIS E.,5,J-Other,--D,2.445,17045.654,1,0001711255,Common Stock Par Value $0.01 per share
+A,12/31/2021 00:00:00,NEGRON EDUARDO J.,5,J-Other,--D,345.353,33268.028,1,0001413241,Common Stock Par Value $0.01 per share
+A,12/31/2021 00:00:00,GONZALEZ-NOGUERA MARIA CRISTINA,5,J-Other,--D,35.466,3416.466,1,0001854566,Common Stock Par Value $0.01 per share
+A,12/31/2021 00:00:00,ALVAREZ IGNACIO,5,J-Other,--I,39.138,7605.932,2,0001495232,Common Stock Par Value $0.01 per share
+A,12/31/2021 00:00:00,ALVAREZ IGNACIO,5,J-Other,--D,419.181,170690.113,1,0001495232,Common Stock Par Value $0.01 per share
+D,12/29/2021 00:00:00,FERRER JAVIER D.,4,W-Will,--D,684,43318.383,1,0001621853,Common Stock Par Value $0.01 per share
+D,11/16/2021 00:00:00,MONZON GILBERTO,4,S-Sale,--D,5000,41373.476,1,0001503166,Common Stock Par Value $0.01 per share
+D,11/12/2021 00:00:00,Garcia Jorge J.,4,S-Sale,--D,2820,9761.459,1,0001543970,Common Stock Par Value $0.01 per share
+D,11/11/2021 00:00:00,CESTERO LUIS E.,4,S-Sale,--D,4200,17043.209,1,0001711255,Common Stock Par Value $0.01 per share
+D,11/03/2021 00:00:00,VAZQUEZ CARLOS J,4,S-Sale,--D,11000,118615.761,1,0001217333,Common Stock Par Value $0.01 per share
+D,11/03/2021 00:00:00,GUERRERO JUAN,4,S-Sale,--D,10000,44050.445,1,0001513383,Common Stock Par Value $0.01 per share
+D,10/26/2021 00:00:00,CARRION RICHARD L,4,S-Sale,--D,25286,207712,1,0001187725,Common Stock Par Value $0.01 per share
+D,10/18/2021 00:00:00,CARRION RICHARD L,4,W-Will,-EI,218.027,0,3,0001187725,Common Stock Par Value $0.01 per share
+A,10/01/2021 00:00:00,Soto Myrna,4,A-Award,--D,71,12236,2,0001631411,Restricted Stock Units
+A,10/01/2021 00:00:00,Rodriguez Jose Ramon,4,A-Award,--D,14,2314,1,0001859182,Restricted Stock Units
+A,10/01/2021 00:00:00,DeVita Betty K,4,A-Award,--D,9,1447,1,0001675795,Restricted Stock Units
+A,10/01/2021 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,85,14683,2,0001244131,Restricted Stock Units
+A,10/01/2021 00:00:00,Ferre Maria Luisa,4,A-Award,--D,46,7654,3,0001289698,Restricted Stock Units
+A,10/01/2021 00:00:00,GOODWIN C KIM,4,A-Award,--D,46,7654,2,0001278731,Restricted Stock Units
+A,10/01/2021 00:00:00,UNANUE CARLOS,4,A-Award,--D,71,12236,3,0001482899,Restricted Stock Units
+A,10/01/2021 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,46,7654,4,0001482780,Restricted Stock Units
+A,10/01/2021 00:00:00,CARRADY ROBERT,4,A-Award,--D,71,12236,3,0001763503,Restricted Stock Units
+A,10/01/2021 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,46,7654,2,0001576078,Restricted Stock Units
+A,10/01/2021 00:00:00,CARRION RICHARD L,4,A-Award,--D,44,7302,4,0001187725,Restricted Stock Units
+D,08/27/2021 00:00:00,UNANUE CARLOS,4,S-Sale,--I,6681,0,1,0001482899,Common Stock Par Value $0.01 per share
+D,08/26/2021 00:00:00,FERRER JAVIER D.,4,S-Sale,--D,9500,43905.668,1,0001621853,Common Stock Par Value $0.01 per share
+D,08/26/2021 00:00:00,ALVAREZ IGNACIO,4,S-Sale,--D,15000,170270.932,1,0001495232,Common Stock Par Value $0.01 per share
+D,08/18/2021 00:00:00,Ferre Maria Luisa,4,S-Sale,--D,2171,34593.742,1,0001289698,Common Stock Par Value $0.01 per share
+D,08/12/2021 00:00:00,Castellvi Beatriz,4,S-Sale,--D,5000,17159.707,1,0001738504,Common Stock Par Value $0.01 per share
+D,08/11/2021 00:00:00,CHINEA MANUEL,4,S-Sale,--D,8000,23007.241,1,0001662985,Common Stock Par Value $0.01 per share
+A,07/01/2021 00:00:00,Soto Myrna,4,A-Award,--D,72,12165,2,0001631411,Restricted Stock Units
+A,07/01/2021 00:00:00,UNANUE CARLOS,4,A-Award,--D,72,12165,4,0001482899,Restricted Stock Units
+A,07/01/2021 00:00:00,GOODWIN C KIM,4,A-Award,--D,46,7608,2,0001278731,Restricted Stock Units
+A,07/01/2021 00:00:00,Ferre Maria Luisa,4,A-Award,--D,46,7608,3,0001289698,Restricted Stock Units
+A,07/01/2021 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,87,14598,2,0001244131,Restricted Stock Units
+A,07/01/2021 00:00:00,CARRION RICHARD L,4,A-Award,--D,44,7258,4,0001187725,Restricted Stock Units
+A,07/01/2021 00:00:00,CARRADY ROBERT,4,A-Award,--D,72,12165,3,0001763503,Restricted Stock Units
+A,07/01/2021 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,46,7608,4,0001482780,Restricted Stock Units
+A,07/01/2021 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,46,7608,2,0001576078,Restricted Stock Units
+A,06/30/2021 00:00:00,Rodriguez Jose Ramon,4,A-Award,--D,2300,2300,1,0001859182,Restricted Stock Units
+A,06/30/2021 00:00:00,DeVita Betty K,4,A-Award,--D,1438,1438,1,0001675795,Restricted Stock Units
+A,05/06/2021 00:00:00,UNANUE CARLOS,4,A-Award,--D,2531,12093,4,0001482899,Restricted Stock Units
+A,05/06/2021 00:00:00,Soto Myrna,4,A-Award,--D,2531,12093,2,0001631411,Restricted Stock Units
+A,05/06/2021 00:00:00,GOODWIN C KIM,4,A-Award,--D,1582,7562,2,0001278731,Restricted Stock Units
+A,05/06/2021 00:00:00,Ferre Maria Luisa,4,A-Award,--D,1582,7562,3,0001289698,Restricted Stock Units
+A,05/06/2021 00:00:00,CARRION RICHARD L,4,A-Award,--D,1582,7214,4,0001187725,Common Stock Par Value $0.01 per share
+A,05/06/2021 00:00:00,CARRADY ROBERT,4,A-Award,--D,2531,12093,3,0001763503,Restricted Stock Units
+A,05/06/2021 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,3100,14511,2,0001244131,Restricted Stock Units
+A,05/06/2021 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,1582,7562,2,0001576078,Restricted Stock Units
+A,05/06/2021 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,1582,7562,4,0001482780,Restricted Stock Units
+D,05/06/2021 00:00:00,Burckhart Camille,4,S-Sale,--D,7000,31771.709,1,0001647743,Common Stock Par Value $0.01 per share
+D,05/04/2021 00:00:00,VAZQUEZ CARLOS J,4,S-Sale,--I,32.54,0,1,0001217333,Common Stock Par Value$0.01 per share
+D,05/04/2021 00:00:00,NEGRON EDUARDO J.,4,S-Sale,--D,10000,32922.675,1,0001413241,Common Stock Par Value $0.01 per share
+A,04/30/2021 00:00:00,GONZALEZ-NOGUERA MARIA CRISTINA,4,A-Award,--D,3381,3381,1,0001854566,Common Stock Par Value $0.01 per share
+D,04/27/2021 00:00:00,Garcia Jorge J.,4,F-InKind,--D,262,12484.304,1,0001543970,Common Stock Par Value $0.01 per share
+D,04/27/2021 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,107,21065.128,1,0001711255,Common Stock Par Value $0.01 per share
+D,04/27/2021 00:00:00,Castellvi Beatriz,4,F-InKind,--D,175,22084.819,1,0001738504,Common Stock Par Value $0.01 per share
+A,04/01/2021 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,34,5980,4,0001482780,Restricted Stock Units
+A,04/01/2021 00:00:00,CARRION RICHARD L,4,A-Award,--D,32,5632,4,0001187725,Restricted Stock Units
+A,04/01/2021 00:00:00,CARRADY ROBERT,4,A-Award,--D,54,9562,3,0001763503,Restricted Stock Units
+A,04/01/2021 00:00:00,Soto Myrna,4,A-Award,--D,54,9562,2,0001631411,Restricted Stock Units
+A,04/01/2021 00:00:00,Ferre Maria Luisa,4,A-Award,--D,34,5980,3,0001289698,Restricted Stock Units
+A,04/01/2021 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,64,11411,2,0001244131,Restricted Stock Units
+A,04/01/2021 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,34,5980,2,0001576078,Restricted Stock Units
+A,04/01/2021 00:00:00,GOODWIN C KIM,4,A-Award,--D,34,5980,2,0001278731,Restricted Stock Units
+A,04/01/2021 00:00:00,UNANUE CARLOS,4,A-Award,--D,54,9562,4,0001482899,Restricted Stock Units
+D,02/25/2021 00:00:00,CHINEA MANUEL,4,F-InKind,--D,1513,30648.731,4,0001662985,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,CHINEA MANUEL,4,A-Award,--D,2842,32161.731,3,0001662985,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,CHINEA MANUEL,4,F-InKind,--D,3057,29319.731,2,0001662985,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,CHINEA MANUEL,4,A-Award,--D,6112,32376.731,1,0001662985,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,CESTERO LUIS E.,4,A-Award,--D,2443,21063.685,3,0001711255,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,1254,18620.685,2,0001711255,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,CESTERO LUIS E.,4,A-Award,--D,4584,19874.685,1,0001711255,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,Garcia Jorge J.,4,A-Award,--D,1749,12694.53,1,0001543970,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,Castellvi Beatriz,4,A-Award,--D,2443,22185.054,1,0001738504,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,MONZON GILBERTO,4,F-InKind,--D,75,46023.492,4,0001503166,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,MONZON GILBERTO,4,A-Award,--D,2369,46098.492,3,0001503166,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,MONZON GILBERTO,4,F-InKind,--D,1568,43729.492,2,0001503166,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,MONZON GILBERTO,4,A-Award,--D,5732,45297.492,1,0001503166,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,FERRER JAVIER D.,4,A-Award,--D,3553,53211.554,3,0001621853,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,2300,49658.554,2,0001621853,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,FERRER JAVIER D.,4,A-Award,--D,8404,51958.554,1,0001621853,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,613,184436.116,4,0001495232,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,ALVAREZ IGNACIO,4,A-Award,--D,19539,185049.116,3,0001495232,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,11240,165510.116,2,0001495232,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,ALVAREZ IGNACIO,4,A-Award,--D,31794,176750.116,1,0001495232,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,Burckhart Camille,4,A-Award,--D,3109,38689.412,3,0001647743,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,Burckhart Camille,4,F-InKind,--D,1464,35580.412,2,0001647743,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,Burckhart Camille,4,A-Award,--D,5350,37044.412,1,0001647743,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,86,42705.26,4,0001413241,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,NEGRON EDUARDO J.,4,A-Award,--D,2718,42791.26,3,0001413241,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,1736,40073.26,2,0001413241,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,NEGRON EDUARDO J.,4,A-Award,--D,6342,41809.26,1,0001413241,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,131,129268.241,4,0001217333,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,VAZQUEZ CARLOS J,4,A-Award,--D,4158,129399.241,3,0001217333,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,2822,125241.241,2,0001217333,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,VAZQUEZ CARLOS J,4,A-Award,--D,10312,128063.241,1,0001217333,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,87,42969.631,4,0001485577,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,SEPULVEDA ELI,4,A-Award,--D,2772,43056.631,3,0001485577,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,1882,40284.631,2,0001485577,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,SEPULVEDA ELI,4,A-Award,--D,6876,42166.631,1,0001485577,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,GUERRERO JUAN,4,F-InKind,--D,78,53806.38,4,0001513383,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,GUERRERO JUAN,4,A-Award,--D,2464,53884.38,3,0001513383,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,GUERRERO JUAN,4,F-InKind,--D,1672,51420.38,2,0001513383,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,GUERRERO JUAN,4,A-Award,--D,6112,53092.38,1,0001513383,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,Soriano Lidio,4,A-Award,--D,3080,87659.288,3,0001337297,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,Soriano Lidio,4,F-InKind,--D,2090,84579.288,2,0001337297,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,Soriano Lidio,4,A-Award,--D,7640,86669.288,1,0001337297,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,Soriano Lidio,4,S-Sale,--D,6000,81659.288,1,0001337297,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,CARRION RICHARD L,4,J-Other,--I,773,74467,3,0001187725,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,CARRION RICHARD L,4,F-InKind,--D,6428,232998,2,0001187725,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,CARRION RICHARD L,4,A-Award,--D,19474,239426,1,0001187725,Common Stock Par Value $0.01 per share
+A,02/25/2021 00:00:00,ALVAREZ IGNACIO,4,G-Gift,-EI,4000,7482.161,2,0001495232,Common Stock Par Value $0.01 per share
+D,02/25/2021 00:00:00,ALVAREZ IGNACIO,4,G-Gift,-ED,16000,144956.116,1,0001495232,Common Stock Par Value $0.01 per share
+D,02/24/2021 00:00:00,Soriano Lidio,4,F-InKind,--D,216,79029.288,2,0001337297,Common Stock Par Value $0.01 per share
+D,02/24/2021 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,238,43554.554,2,0001621853,Common Stock Par Value $0.01 per share
+D,02/24/2021 00:00:00,Burckhart Camille,4,F-InKind,--D,130,31694.412,2,0001647743,Common Stock Par Value $0.01 per share
+D,02/24/2021 00:00:00,GUERRERO JUAN,4,F-InKind,--D,153,46980.38,2,0001513383,Common Stock Par Value $0.01 per share
+D,02/24/2021 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,258,117751.241,2,0001217333,Common Stock Par Value $0.01 per share
+D,02/24/2021 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,159,35467.26,2,0001413241,Common Stock Par Value $0.01 per share
+D,02/24/2021 00:00:00,MONZON GILBERTO,4,F-InKind,--D,144,39565.492,2,0001503166,Common Stock Par Value $0.01 per share
+D,02/24/2021 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,172,35290.631,2,0001485577,Common Stock Par Value $0.01 per share
+D,02/24/2021 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,452,160956.116,2,0001495232,Common Stock Par Value $0.01 per share
+D,02/24/2021 00:00:00,CESTERO LUIS E.,4,S-Sale,--D,1700,15783.685,1,0001711255,Common Stock Par Value $0.01 per share
+D,02/23/2021 00:00:00,Soriano Lidio,4,F-InKind,--D,804,79245.288,1,0001337297,Common Stock Par Value $0.01 per share
+D,02/23/2021 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,900,43792.554,1,0001621853,Common Stock Par Value $0.01 per share
+D,02/23/2021 00:00:00,Burckhart Camille,4,F-InKind,--D,704,31824.412,1,0001647743,Common Stock Par Value $0.01 per share
+D,02/23/2021 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,493,15290.685,1,0001711255,Common Stock Par Value $0.01 per share
+D,02/23/2021 00:00:00,Garcia Jorge J.,4,F-InKind,--D,299,10945.53,1,0001543970,Common Stock Par Value $0.01 per share
+D,02/23/2021 00:00:00,Castellvi Beatriz,4,F-InKind,--D,337,19742.054,1,0001738504,Common Stock Par Value $0.01 per share
+D,02/23/2021 00:00:00,GUERRERO JUAN,4,F-InKind,--D,570,47133.38,1,0001513383,Common Stock Par Value $0.01 per share
+D,02/23/2021 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,960,118009.241,1,0001217333,Common Stock Par Value $0.01 per share
+D,02/23/2021 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,616,35626.26,1,0001413241,Common Stock Par Value $0.01 per share
+D,02/23/2021 00:00:00,MONZON GILBERTO,4,F-InKind,--D,540,39709.492,1,0001503166,Common Stock Par Value $0.01 per share
+D,02/23/2021 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,640,35462.631,1,0001485577,Common Stock Par Value $0.01 per share
+D,02/23/2021 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,4874,161408.116,1,0001495232,Common Stock Par Value $0.01 per share
+D,02/22/2021 00:00:00,MONZON GILBERTO,4,S-Sale,--D,5000,40249.492,1,0001503166,Common Stock Par Value $0.01 per share
+D,02/22/2021 00:00:00,SEPULVEDA ELI,4,S-Sale,--D,7000,36102.631,1,0001485577,Common Stock Par Value $0.01 per share
+D,02/04/2021 00:00:00,GUERRERO JUAN,4,S-Sale,--D,7000,47698.406,1,0001513383,Common Stock Par Value $0.01 per share
+D,01/14/2021 00:00:00,CHINEA MANUEL,4,F-InKind,--D,4780,26222.021,1,0001662985,Common Stock Par Value $0.01 per share
+A,01/04/2021 00:00:00,UNANUE CARLOS,4,A-Award,--D,69,9508,4,0001482899,Restricted Stock Units
+A,01/04/2021 00:00:00,Soto Myrna,4,A-Award,--D,69,9508,2,0001631411,Restricted Stock Units
+A,01/04/2021 00:00:00,CARRION RICHARD L,4,A-Award,--D,42,5600,4,0001187725,Restricted Stock Units
+A,01/04/2021 00:00:00,Ferre Maria Luisa,4,A-Award,--D,44,5946,3,0001289698,Restricted Stock Units
+A,01/04/2021 00:00:00,GOODWIN C KIM,4,A-Award,--D,44,5946,2,0001278731,Restricted Stock Units
+A,01/04/2021 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,83,11347,2,0001244131,Restricted Stock Units
+A,01/04/2021 00:00:00,CARRADY ROBERT,4,A-Award,--D,69,9508,3,0001763503,Restricted Stock Units
+A,01/04/2021 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,44,5946,2,0001576078,Restricted Stock Units
+A,01/04/2021 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,44,5946,4,0001482780,Restricted Stock Units
+A,12/31/2020 00:00:00,Soriano Lidio,5,J-Other,--D,2182.87,79541.74,1,0001337297,Common Stock Par Value $0.01 per share
+A,12/31/2020 00:00:00,Garcia Jorge J.,5,J-Other,--D,0.395,11185.164,2,0001543970,Common Stock Par Value $0.01 per share
+A,12/31/2020 00:00:00,Garcia Jorge J.,5,J-Other,--D,181.015,11184.771,1,0001543970,Common Stock Par Value $0.01 per share
+A,12/31/2020 00:00:00,CESTERO LUIS E.,5,J-Other,--I,10.748,549.879,3,0001711255,Common Stock Par Value $0.01 per share
+A,12/31/2020 00:00:00,CESTERO LUIS E.,5,J-Other,--D,18.154,17363.723,2,0001711255,Common Stock Par Value $0.01 per share
+A,12/31/2020 00:00:00,CESTERO LUIS E.,5,J-Other,--D,347.214,17345.569,1,0001711255,Common Stock Par Value $0.01 per share
+A,12/31/2020 00:00:00,Burckhart Camille,5,J-Other,--D,0.332,32426.359,2,0001647743,Common Stock Par Value $0.01 per share
+A,12/31/2020 00:00:00,Burckhart Camille,5,J-Other,--D,472.764,32426.027,1,0001647743,Common Stock Par Value $0.01 per share
+A,12/31/2020 00:00:00,Castellvi Beatriz,5,J-Other,--D,2.671,19993.672,2,0001738504,Common Stock Par Value $0.01 per share
+A,12/31/2020 00:00:00,Castellvi Beatriz,5,J-Other,--D,258.972,19991.001,1,0001738504,Common Stock Par Value $0.01 per share
+A,12/31/2020 00:00:00,FERRER JAVIER D.,5,J-Other,--D,590.883,44569.406,1,0001621853,Common Stock Par Value $0.01 per share
+A,12/31/2020 00:00:00,CHINEA MANUEL,5,J-Other,--D,81.578,2966.939,3,0001662985,Phantom Stock
+A,12/31/2020 00:00:00,CHINEA MANUEL,5,J-Other,--D,1.147,30805.855,2,0001662985,Common Stock Par Value $0.01 per share
+A,12/31/2020 00:00:00,CHINEA MANUEL,5,J-Other,--D,812.879,30804.708,1,0001662985,Common Stock Par Value $0.01 per share
+D,11/30/2020 00:00:00,GUERRERO JUAN,4,F-InKind,--D,438,54601.135,1,0001513383,Common Stock Par Value $0.01 per share
+D,11/30/2020 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,486,42998.237,1,0001485577,Common Stock Par Value $0.01 per share
+D,11/30/2020 00:00:00,MONZON GILBERTO,4,F-InKind,--D,408,45103.577,1,0001503166,Common Stock Par Value $0.01 per share
+D,11/30/2020 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,2293,165791.29,1,0001495232,Common Stock Par Value $0.01 per share
+D,11/30/2020 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,464,36012.468,1,0001413241,Common Stock Par Value $0.01 per share
+D,11/30/2020 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,753,118799.005,1,0001217333,Common Stock Par Value $0.01 per share
+A,10/01/2020 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,65,5902,4,0001482780,Restricted Stock Units
+A,10/01/2020 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,65,5902,2,0001576078,Restricted Stock Units
+A,10/01/2020 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,124,11264,2,0001244131,Restricted Stock Units
+A,10/01/2020 00:00:00,Soto Myrna,4,A-Award,--D,104,9439,2,0001631411,Restricted Stock Units
+A,10/01/2020 00:00:00,CARRADY ROBERT,4,A-Award,--D,104,9439,3,0001763503,Restricted Stock Units
+A,10/01/2020 00:00:00,CARRION RICHARD L,4,A-Award,--D,62,5558,4,0001187725,Restricted Stock Units
+A,10/01/2020 00:00:00,UNANUE CARLOS,4,A-Award,--D,104,9439,4,0001482899,Restricted Stock Units
+A,10/01/2020 00:00:00,GOODWIN C KIM,4,A-Award,--D,65,5902,2,0001278731,Restricted Stock Units
+A,10/01/2020 00:00:00,Ferre Maria Luisa,4,A-Award,--D,65,5902,3,0001289698,Restricted Stock Units
+A,09/16/2020 00:00:00,BALLESTER ALEJANDRO M,4/A,W-Will,-ED,32360.57,56156.656,1,0001482780,Common Stock Par Value $0.01 per share
+A,09/16/2020 00:00:00,BALLESTER ALEJANDRO M,4,W-Will,-ED,32376.5,56172.586,1,0001482780,Common Stock Par Value $0.01 per share
+A,07/01/2020 00:00:00,UNANUE CARLOS,4,A-Award,--D,103,9335,4,0001482899,Restricted Stock Units
+A,07/01/2020 00:00:00,CARRADY ROBERT,4,A-Award,--D,103,9335,3,0001763503,Restricted Stock Units
+A,07/01/2020 00:00:00,Ferre Maria Luisa,4,A-Award,--D,65,5837,3,0001289698,Restricted Stock Units
+A,07/01/2020 00:00:00,Soto Myrna,4,A-Award,--D,103,9335,2,0001631411,Restricted Stock Units
+A,07/01/2020 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,65,5837,2,0001576078,Restricted Stock Units
+A,07/01/2020 00:00:00,GOODWIN C KIM,4,A-Award,--D,65,5837,2,0001278731,Restricted Stock Units
+A,07/01/2020 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,65,5837,4,0001482780,Restricted Stock Units
+A,07/01/2020 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,123,11140,2,0001244131,Restricted Stock Units
+A,07/01/2020 00:00:00,CARRION RICHARD L,4,A-Award,--D,61,5496,4,0001187725,Restricted Stock Units
+A,05/12/2020 00:00:00,CARRADY ROBERT,4,A-Award,--D,5668,9232,3,0001763503,Restricted Stock Units
+A,05/12/2020 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,6943,11017,2,0001244131,Restricted Stock Units
+A,05/12/2020 00:00:00,CARRION RICHARD L,4,A-Award,--D,3543,5435,5,0001187725,Restricted Stock Units
+A,05/12/2020 00:00:00,Soto Myrna,4,A-Award,--D,5668,9232,2,0001631411,Restricted Stock Units
+A,05/12/2020 00:00:00,Ferre Maria Luisa,4,A-Award,--D,3543,5772,3,0001289698,Restricted Stock Units
+A,05/12/2020 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,3543,5772,2,0001576078,Restricted Stock Units
+A,05/12/2020 00:00:00,UNANUE CARLOS,4,A-Award,--D,5668,9232,4,0001482899,Restricted Stock Units
+A,05/12/2020 00:00:00,GOODWIN C KIM,4,A-Award,--D,3543,5772,2,0001278731,Restricted Stock Units
+A,05/12/2020 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,3543,5772,4,0001482780,Restricted Stock Units
+D,05/03/2020 00:00:00,CHINEA MANUEL,4,F-InKind,--D,319,29991.829,1,0001662985,Common Stock Par Value $0.01 per share
+D,05/03/2020 00:00:00,Garcia Jorge J.,4,F-InKind,--D,205,11003.756,1,0001543970,Common Stock Par Value $0.01 per share
+D,05/03/2020 00:00:00,Castellvi Beatriz,4,F-InKind,--D,125,19732.029,1,0001738504,Common Stock Par Value $0.01 per share
+D,05/03/2020 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,164,16998.355,1,0001711255,Common Stock Par Value $0.01 per share
+D,04/27/2020 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,107,17162.355,1,0001711255,Common Stock Par Value $0.01 per share
+D,04/27/2020 00:00:00,Garcia Jorge J.,4,F-InKind,--D,262,11208.756,1,0001543970,Common Stock Par Value $0.01 per share
+D,04/27/2020 00:00:00,Castellvi Beatriz,4,F-InKind,--D,176,19857.029,1,0001738504,Common Stock Par Value $0.01 per share
+A,04/01/2020 00:00:00,Ferre Maria Luisa,4,A-Award,--D,27,2229,3,0001289698,Restricted Stock Units
+A,04/01/2020 00:00:00,CARRADY ROBERT,4,A-Award,--D,43,3564,3,0001763503,Restricted Stock Units
+A,04/01/2020 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,27,2229,2,0001576078,Restricted Stock Units
+A,04/01/2020 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,27,2229,4,0001482780,Restricted Stock Units
+A,04/01/2020 00:00:00,UNANUE CARLOS,4,A-Award,--D,43,3564,4,0001482899,Restricted Stock Units
+A,04/01/2020 00:00:00,Soto Myrna,4,A-Award,--D,43,3564,2,0001631411,Restricted Stock Units
+A,04/01/2020 00:00:00,GOODWIN C KIM,4,A-Award,--D,27,2229,2,0001278731,Restricted Stock Units
+A,04/01/2020 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,49,4074,2,0001244131,Restricted Stock Units
+A,04/01/2020 00:00:00,CARRION RICHARD L,4,A-Award,--D,23,1892,5,0001187725,Restricted Stock Units
+D,02/27/2020 00:00:00,CARRION RICHARD L,4,F-InKind,--D,13454,219952,2,0001187725,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,CARRION RICHARD L,4,A-Award,--D,40766,233406,1,0001187725,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,FERRER JAVIER D.,4,A-Award,--D,6172,43979.506,3,0001621853,Common Stock Par Value $0.01 per share
+D,02/27/2020 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,2192,37807.506,2,0001621853,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,FERRER JAVIER D.,4,A-Award,--D,8009,39999.506,1,0001621853,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,CHINEA MANUEL,4,A-Award,--D,4938,29922.593,3,0001662985,Common Stock Par Value $0.01 per share
+D,02/27/2020 00:00:00,CHINEA MANUEL,4,F-InKind,--D,2246,24984.593,2,0001662985,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,CHINEA MANUEL,4,A-Award,--D,5826,27230.593,1,0001662985,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,CESTERO LUIS E.,4,A-Award,--D,3395,17038.672,1,0001711255,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,Soriano Lidio,4,A-Award,--D,5351,77525.956,3,0001337297,Common Stock Par Value $0.01 per share
+D,02/27/2020 00:00:00,Soriano Lidio,4,F-InKind,--D,1992,72174.956,2,0001337297,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,Soriano Lidio,4,A-Award,--D,7281,74166.956,1,0001337297,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,GUERRERO JUAN,4,A-Award,--D,4281,54552.247,3,0001513383,Common Stock Par Value $0.01 per share
+D,02/27/2020 00:00:00,GUERRERO JUAN,4,F-InKind,--D,1594,50271.247,2,0001513383,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,GUERRERO JUAN,4,A-Award,--D,5826,51865.247,1,0001513383,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,Garcia Jorge J.,4,A-Award,--D,2431,11359.85,1,0001543970,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,ALVAREZ IGNACIO,4,A-Award,--D,31681,165740.862,3,0001495232,Common Stock Par Value $0.01 per share
+D,02/27/2020 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,4602,134059.862,2,0001495232,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,ALVAREZ IGNACIO,4,A-Award,--D,13014,138661.862,1,0001495232,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,MONZON GILBERTO,4,A-Award,--D,4115,44824.135,3,0001503166,Common Stock Par Value $0.01 per share
+D,02/27/2020 00:00:00,MONZON GILBERTO,4,F-InKind,--D,1494,40709.135,2,0001503166,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,MONZON GILBERTO,4,A-Award,--D,5462,42203.135,1,0001503166,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,SEPULVEDA ELI,4,A-Award,--D,4816,42985.869,3,0001485577,Common Stock Par Value $0.01 per share
+D,02/27/2020 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,1792,38169.869,2,0001485577,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,SEPULVEDA ELI,4,A-Award,--D,6552,39961.869,1,0001485577,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,NEGRON EDUARDO J.,4,A-Award,--D,4722,35397.368,3,0001413241,Common Stock Par Value $0.01 per share
+D,02/27/2020 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,1654,30675.368,2,0001413241,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,NEGRON EDUARDO J.,4,A-Award,--D,6043,32329.368,1,0001413241,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,VAZQUEZ CARLOS J,4,A-Award,--D,7224,118740.471,3,0001217333,Common Stock Par Value $0.01 per share
+D,02/27/2020 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,2688,111516.471,2,0001217333,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,VAZQUEZ CARLOS J,4,A-Award,--D,9828,114204.471,1,0001217333,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,Burckhart Camille,4,A-Award,--D,5185,31953.263,3,0001647743,Common Stock Par Value $0.01 per share
+D,02/27/2020 00:00:00,Burckhart Camille,4,F-InKind,--D,1196,26768.263,2,0001647743,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,Burckhart Camille,4,A-Award,--D,4369,27964.263,1,0001647743,Common Stock Par Value $0.01 per share
+A,02/27/2020 00:00:00,Castellvi Beatriz,4,A-Award,--D,3395,19887.954,1,0001738504,Common Stock Par Value $0.01 per share
+A,02/25/2020 00:00:00,CARRADY ROBERT,4,P-Purchase,--D,1000,3072.992,1,0001763503,Common Stock Par Value $0.01 per share
+D,02/24/2020 00:00:00,Ferre Maria Luisa,4,J-Other,--I,4175,0,1,0001289698,8.25% Non-Cumulative Monthly Income Preferred Stock Series B
+D,02/24/2020 00:00:00,Burckhart Camille,4,F-InKind,--D,126,23595.263,2,0001647743,Common Stock Par Value $0.01 per share
+D,02/24/2020 00:00:00,GUERRERO JUAN,4,F-InKind,--D,167,46039.247,2,0001513383,Common Stock Par Value $0.01 per share
+D,02/24/2020 00:00:00,CHINEA MANUEL,4,F-InKind,--D,238,21404.593,2,0001662985,Common Stock Par Value $0.01 per share
+D,02/24/2020 00:00:00,Soriano Lidio,4,F-InKind,--D,214,66885.956,2,0001337297,Common Stock Par Value $0.01 per share
+D,02/24/2020 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,238,31990.506,2,0001621853,Common Stock Par Value $0.01 per share
+D,02/24/2020 00:00:00,MONZON GILBERTO,4,F-InKind,--D,157,36741.135,2,0001503166,Common Stock Par Value $0.01 per share
+D,02/24/2020 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,292,104376.471,2,0001217333,Common Stock Par Value $0.01 per share
+D,02/24/2020 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,500,125647.862,2,0001495232,Common Stock Par Value $0.01 per share
+D,02/24/2020 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,174,26286.368,2,0001413241,Common Stock Par Value $0.01 per share
+D,02/24/2020 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,189,33409.869,2,0001485577,Common Stock Par Value $0.01 per share
+D,02/23/2020 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,366,13643.672,1,0001711255,Common Stock Par Value $0.01 per share
+D,02/23/2020 00:00:00,Garcia Jorge J.,4,F-InKind,--D,139,8928.85,1,0001543970,Common Stock Par Value $0.01 per share
+D,02/23/2020 00:00:00,Burckhart Camille,4,F-InKind,--D,486,23721.263,1,0001647743,Common Stock Par Value $0.01 per share
+D,02/23/2020 00:00:00,GUERRERO JUAN,4,F-InKind,--D,475,46206.247,1,0001513383,Common Stock Par Value $0.01 per share
+D,02/23/2020 00:00:00,CHINEA MANUEL,4,F-InKind,--D,656,21642.593,1,0001662985,Common Stock Par Value $0.01 per share
+D,02/23/2020 00:00:00,Soriano Lidio,4,F-InKind,--D,556,67099.956,1,0001337297,Common Stock Par Value $0.01 per share
+D,02/23/2020 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,592,32228.506,1,0001621853,Common Stock Par Value $0.01 per share
+D,02/23/2020 00:00:00,MONZON GILBERTO,4,F-InKind,--D,453,36898.135,1,0001503166,Common Stock Par Value $0.01 per share
+D,02/23/2020 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,704,104668.471,1,0001217333,Common Stock Par Value $0.01 per share
+D,02/23/2020 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,3145,126147.862,1,0001495232,Common Stock Par Value $0.01 per share
+D,02/23/2020 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,495,26460.368,1,0001413241,Common Stock Par Value $0.01 per share
+D,02/23/2020 00:00:00,Castellvi Beatriz,4,F-InKind,--D,180,16492.954,1,0001738504,Common Stock Par Value $0.01 per share
+D,02/23/2020 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,515,33598.869,1,0001485577,Common Stock Par Value $0.01 per share
+D,01/27/2020 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,689,32820.506,1,0001621853,Common Stock Par Value $0.01 per share
+D,01/27/2020 00:00:00,MONZON GILBERTO,4,F-InKind,--D,465,37351.135,1,0001503166,Common Stock Par Value $0.01 per share
+D,01/27/2020 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,558,34113.869,1,0001485577,Common Stock Par Value $0.01 per share
+D,01/27/2020 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,511,26955.368,1,0001413241,Common Stock Par Value $0.01 per share
+D,01/27/2020 00:00:00,Burckhart Camille,4,F-InKind,--D,365,24207.263,1,0001647743,Common Stock Par Value $0.01 per share
+D,01/27/2020 00:00:00,Soriano Lidio,4,F-InKind,--D,642,67655.956,1,0001337297,Common Stock Par Value $0.01 per share
+D,01/27/2020 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,1323,129292.862,1,0001495232,Common Stock Par Value $0.01 per share
+D,01/27/2020 00:00:00,GUERRERO JUAN,4,F-InKind,--D,498,46681.247,1,0001513383,Common Stock Par Value $0.01 per share
+D,01/27/2020 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,817,105372.471,1,0001217333,Common Stock Par Value $0.01 per share
+A,01/14/2020 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,152,4025,2,0001244131,Restricted Stock Units
+A,01/02/2020 00:00:00,CARRION RICHARD L,4,A-Award,--D,10,1869,5,0001187725,Restricted Stock Units
+A,01/02/2020 00:00:00,UNANUE CARLOS,4,A-Award,--D,18,3521,4,0001482899,Restricted Stock Units
+A,01/02/2020 00:00:00,Soto Myrna,4,A-Award,--D,18,3521,2,0001631411,Restricted Stock Units
+A,01/02/2020 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,20,3873,2,0001244131,Restricted Stock Units
+A,01/02/2020 00:00:00,CARRADY ROBERT,4,A-Award,--D,18,3521,3,0001763503,Restricted Stock Units
+A,01/02/2020 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,12,2202,4,0001482780,Restricted Stock Units
+A,01/02/2020 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,12,2202,2,0001576078,Restricted Stock Units
+A,01/02/2020 00:00:00,GOODWIN C KIM,4,A-Award,--D,12,2202,2,0001278731,Restricted Stock Units
+A,01/02/2020 00:00:00,Ferre Maria Luisa,4,A-Award,--D,12,2202,4,0001289698,Restricted Stock Units
+A,12/31/2019 00:00:00,CHINEA MANUEL,5,J-Other,--D,46.708,2839.58,2,0001662985,Phantom Stock
+A,12/31/2019 00:00:00,CHINEA MANUEL,5,J-Other,--D,187.219,22236.105,1,0001662985,Common Stock Par Value $0.01 per share
+A,12/31/2019 00:00:00,Soriano Lidio,5,J-Other,--D,275.828,68214.409,1,0001337297,Common Stock Par Value $0.01 per share
+A,12/31/2019 00:00:00,GUERRERO JUAN,5,J-Other,--D,230.477,47109.457,1,0001513383,Common Stock Par Value $0.01 per share
+A,12/31/2019 00:00:00,VAZQUEZ CARLOS J,5,J-Other,--D,386.212,106072.489,1,0001217333,Common Stock Par Value $0.01 per share
+A,12/31/2019 00:00:00,ALVAREZ IGNACIO,5,J-Other,--I,58.784,3318.508,2,0001495232,Common Stock Par Value $0.01 per share
+A,12/31/2019 00:00:00,ALVAREZ IGNACIO,5,J-Other,--D,888.024,130346.883,1,0001495232,Common Stock Par Value $0.01 per share
+A,12/31/2019 00:00:00,Castellvi Beatriz,5,J-Other,--D,111.126,16621.86,1,0001738504,Common Stock Par Value $0.01 per share
+A,12/31/2019 00:00:00,Burckhart Camille,5,J-Other,--D,133.075,24511.052,1,0001647743,Common Stock Par Value $0.01 per share
+D,11/27/2019 00:00:00,FERRER JAVIER D.,4,S-Sale,--D,6500,33347.344,1,0001621853,Common Stock Par Value $0.01 per share
+D,11/14/2019 00:00:00,Garcia Jorge J.,4,S-Sale,--D,3262,9028.678,1,0001543970,Common Stock Par Value $0.01 per share
+D,11/12/2019 00:00:00,MONZON GILBERTO,4,S-Sale,--D,4000,37716.207,1,0001503166,Common Stock Par Value $0.01 per share
+D,11/11/2019 00:00:00,SEPULVEDA ELI,4,S-Sale,--D,5000,34601.893,1,0001485577,Common Stock Par Value $0.01 per share
+D,11/06/2019 00:00:00,NEGRON EDUARDO J.,4,S-Sale,--D,1370.699,27339.693,3,0001413241,Common Stock Par Value $0.01 per share
+D,11/05/2019 00:00:00,NEGRON EDUARDO J.,4,S-Sale,--D,11509,28710.392,2,0001413241,Common Stock Par Value $0.01 per share
+D,11/05/2019 00:00:00,NEGRON EDUARDO J.,4,S-Sale,--D,120,40219.392,1,0001413241,Common Stock Par Value $0.01 per share
+D,11/05/2019 00:00:00,Ferre Maria Luisa,4,S-Sale,--I,9100,12139,1,0001289698,Common Stock Par Value $0.01 per share
+D,11/04/2019 00:00:00,CESTERO LUIS E.,4,S-Sale,--D,1728,13937.386,1,0001711255,Common Stock Par Value $0.01 per share
+D,11/01/2019 00:00:00,BACARDI III JOAQUIN E,4,S-Sale,--D,7000,29722.325,1,0001576078,Common Stock Par Value $0.01 per share
+A,10/01/2019 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,13,2190,4,0001482780,Restricted Stock Units
+A,10/01/2019 00:00:00,GOODWIN C KIM,4,A-Award,--D,13,2190,2,0001278731,Restricted Stock Units
+A,10/01/2019 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,13,2190,2,0001576078,Restricted Stock Units
+A,10/01/2019 00:00:00,Ferre Maria Luisa,4,A-Award,--D,13,2190,4,0001289698,Restricted Stock Units
+A,10/01/2019 00:00:00,CARRADY ROBERT,4,A-Award,--D,20,3503,3,0001763503,Restricted Stock Units
+A,10/01/2019 00:00:00,CARRION RICHARD L,4,A-Award,--D,11,1859,5,0001187725,Restricted Stock Units
+A,10/01/2019 00:00:00,TEUBER WILLIAM J JR,4,A-Award,--D,15,2628,2,0001189196,Restricted Stock Units
+A,10/01/2019 00:00:00,Soto Myrna,4,A-Award,--D,20,3503,2,0001631411,Restricted Stock Units
+A,10/01/2019 00:00:00,UNANUE CARLOS,4,A-Award,--D,20,3503,4,0001482899,Restricted Stock Units
+A,10/01/2019 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,22,3853,2,0001244131,Restricted Stock Units
+A,07/12/2019 00:00:00,CARRION RICHARD L,4,A-Award,--D,1848,1848,5,0001187725,Restricted Stock Units
+A,07/01/2019 00:00:00,UNANUE CARLOS,4,A-Award,--D,19,3483,4,0001482899,Restricted Stock Units
+A,07/01/2019 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,12,2177,4,0001482780,Restricted Stock Units
+A,07/01/2019 00:00:00,Ferre Maria Luisa,4,A-Award,--D,12,2177,4,0001289698,Restricted Stock Units
+A,07/01/2019 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,12,2177,2,0001576078,Restricted Stock Units
+A,07/01/2019 00:00:00,TEUBER WILLIAM J JR,4,A-Award,--D,15,2613,2,0001189196,Restricted Stock Units
+A,07/01/2019 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,21,3831,2,0001244131,Restricted Stock Units
+A,07/01/2019 00:00:00,CARRADY ROBERT,4,A-Award,--D,19,3483,3,0001763503,Restricted Stock Units
+A,07/01/2019 00:00:00,Soto Myrna,4,A-Award,--D,19,3483,2,0001631411,Restricted Stock Units
+A,07/01/2019 00:00:00,GOODWIN C KIM,4,A-Award,--D,12,2177,2,0001278731,Restricted Stock Units
+D,06/30/2019 00:00:00,CARRION RICHARD L,4,F-InKind,--D,24079,191869.793,1,0001187725,Common Stock Par Value $0.01 per share
+A,05/07/2019 00:00:00,UNANUE CARLOS,4,A-Award,--D,3464,3464,4,0001482899,Restricted Stock Units
+A,05/07/2019 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,2165,2165,2,0001576078,Restricted Stock Units
+A,05/07/2019 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,2165,2165,4,0001482780,Restricted Stock Units
+A,05/07/2019 00:00:00,CARRADY ROBERT,4,A-Award,--D,3464,3464,3,0001763503,Restricted Stock Units
+A,05/07/2019 00:00:00,Soto Myrna,4,A-Award,--D,3464,3464,2,0001631411,Restricted Stock Units
+A,05/07/2019 00:00:00,Ferre Maria Luisa,4,A-Award,--D,2165,2165,4,0001289698,Restricted Stock Units
+A,05/07/2019 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,3810,3810,2,0001244131,Restricted Stock Units
+A,05/07/2019 00:00:00,TEUBER WILLIAM J JR,4,A-Award,--D,2598,2598,2,0001189196,Restricted Stock Units
+A,05/07/2019 00:00:00,GOODWIN C KIM,4,A-Award,--D,2165,2165,2,0001278731,Restricted Stock Units
+D,05/03/2019 00:00:00,CHINEA MANUEL,4,F-InKind,--D,372,22048.886,1,0001662985,Common Stock Par Value $0.01 per share
+D,05/03/2019 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,164,15494.468,1,0001711255,Common Stock Par Value $0.01 per share
+D,05/03/2019 00:00:00,Castellvi Beatriz,4,F-InKind,--D,125,16510.734,1,0001738504,Common Stock Par Value $0.01 per share
+D,05/03/2019 00:00:00,Garcia Jorge J.,4,F-InKind,--D,205,12208.957,1,0001543970,Common Stock Par Value $0.01 per share
+D,04/29/2019 00:00:00,CHINEA MANUEL,4,F-InKind,--D,258,22420.886,1,0001662985,Common Stock Par Value $0.01 per share
+D,04/29/2019 00:00:00,Garcia Jorge J.,4,F-InKind,--D,168,12413.957,3,0001543970,Common Stock Par Value $0.01 per share
+D,04/29/2019 00:00:00,Burckhart Camille,4,F-InKind,--D,100,24377.159,1,0001647743,Common Stock Par Value $0.01 per share
+D,04/29/2019 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,128,15658.468,2,0001711255,Common Stock Par Value $0.01 per share
+D,04/29/2019 00:00:00,Castellvi Beatriz,4,F-InKind,--D,117,16635.734,3,0001738504,Common Stock Par Value $0.01 per share
+D,04/27/2019 00:00:00,Garcia Jorge J.,4,F-InKind,--D,132,12581.957,2,0001543970,Common Stock Par Value $0.01 per share
+D,04/27/2019 00:00:00,Garcia Jorge J.,4,F-InKind,--D,130,12713.957,1,0001543970,Common Stock Par Value $0.01 per share
+D,04/27/2019 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,107,15786.468,1,0001711255,Common Stock Par Value $0.01 per share
+D,04/27/2019 00:00:00,Castellvi Beatriz,4,F-InKind,--D,89,16752.734,2,0001738504,Common Stock Par Value $0.01 per share
+D,04/27/2019 00:00:00,Castellvi Beatriz,4,F-InKind,--D,87,16841.734,1,0001738504,Common Stock Par Value $0.01 per share
+A,03/07/2019 00:00:00,CHINEA MANUEL,4,J-Other,--D,15.866,2792.872,2,0001662985,Phantom Stock
+D,02/27/2019 00:00:00,Soriano Lidio,4,F-InKind,--D,492,67938.581,1,0001337297,Common Stock Par Value $0.01 per share
+D,02/27/2019 00:00:00,GUERRERO JUAN,4,F-InKind,--D,369,46879.542,1,0001513383,Common Stock Par Value $0.01 per share
+D,02/27/2019 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,1137,129462.241,1,0001495232,Common Stock Par Value $0.01 per share
+D,02/27/2019 00:00:00,CARRION RICHARD L,4,F-InKind,--D,3560,213829.792,1,0001187725,Common Stock Par Value $0.01 per share
+D,02/27/2019 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,541,39246.33,1,0001621853,Common Stock Par Value $0.01 per share
+D,02/27/2019 00:00:00,MONZON GILBERTO,4,F-InKind,--D,345,41386.272,1,0001503166,Common Stock Par Value $0.01 per share
+D,02/27/2019 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,413,39367.22,1,0001485577,Common Stock Par Value $0.01 per share
+D,02/27/2019 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,379,39728.89,1,0001413241,Common Stock Par Value $0.01 per share
+D,02/27/2019 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,664,105687.687,2,0001217333,Common Stock Par Value $0.01 per share
+D,02/27/2019 00:00:00,VAZQUEZ CARLOS J,4,S-Sale,--D,4000,106351.687,1,0001217333,Common Stock Par Value $0.01 per share
+D,02/24/2019 00:00:00,GUERRERO JUAN,4,F-InKind,--D,173,47248.542,2,0001513383,Common Stock Par Value $0.01 per share
+D,02/24/2019 00:00:00,MONZON GILBERTO,4,F-InKind,--D,162,41731.272,2,0001503166,Common Stock Par Value $0.01 per share
+D,02/24/2019 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,180,40107.89,2,0001413241,Common Stock Par Value $0.01 per share
+D,02/24/2019 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,195,39780.22,2,0001485577,Common Stock Par Value $0.01 per share
+D,02/24/2019 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,500,130599.241,2,0001495232,Common Stock Par Value $0.01 per share
+D,02/24/2019 00:00:00,Soriano Lidio,4,F-InKind,--D,216,68430.581,2,0001337297,Common Stock Par Value $0.01 per share
+D,02/24/2019 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,292,110351.687,2,0001217333,Common Stock Par Value $0.01 per share
+D,02/24/2019 00:00:00,CHINEA MANUEL,4,F-InKind,--D,256,22545.536,2,0001662985,Common Stock Par Value $0.01 per share
+D,02/24/2019 00:00:00,CARRION RICHARD L,4,F-InKind,--D,1563,217389.792,2,0001187725,Common Stock Par Value $0.01 per share
+D,02/24/2019 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,238,39787.33,2,0001621853,Common Stock Par Value $0.01 per share
+D,02/24/2019 00:00:00,Burckhart Camille,4,F-InKind,--D,130,24406.222,2,0001647743,Common Stock Par Value $0.01 per share
+D,02/23/2019 00:00:00,GUERRERO JUAN,4,F-InKind,--D,205,47421.542,1,0001513383,Common Stock Par Value $0.01 per share
+D,02/23/2019 00:00:00,MONZON GILBERTO,4,F-InKind,--D,192,41893.272,1,0001503166,Common Stock Par Value $0.01 per share
+D,02/23/2019 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,154,15764.668,1,0001711255,Common Stock Par Value $0.01 per share
+D,02/23/2019 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,212,40287.89,1,0001413241,Common Stock Par Value $0.01 per share
+D,02/23/2019 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,230,39975.22,1,0001485577,Common Stock Par Value $0.01 per share
+D,02/23/2019 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,1372,131099.241,1,0001495232,Common Stock Par Value $0.01 per share
+D,02/23/2019 00:00:00,Soriano Lidio,4,F-InKind,--D,255,68646.581,1,0001337297,Common Stock Par Value $0.01 per share
+D,02/23/2019 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,345,110643.687,1,0001217333,Common Stock Par Value $0.01 per share
+D,02/23/2019 00:00:00,CHINEA MANUEL,4,F-InKind,--D,302,22801.536,1,0001662985,Common Stock Par Value $0.01 per share
+D,02/23/2019 00:00:00,CARRION RICHARD L,4,F-InKind,--D,840,218952.792,1,0001187725,Common Stock Par Value $0.01 per share
+D,02/23/2019 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,281,40025.33,1,0001621853,Common Stock Par Value $0.01 per share
+D,02/23/2019 00:00:00,Burckhart Camille,4,F-InKind,--D,179,24536.222,1,0001647743,Common Stock Par Value $0.01 per share
+D,02/21/2019 00:00:00,Ferre Maria Luisa,4,S-Sale,--D,3046,34223.928,1,0001289698,Common Stock Par Value $0.01 per share
+A,02/14/2019 00:00:00,Garcia Jorge J.,4,A-Award,--D,2118,12785.06,1,0001543970,Common Stock Par Value $0.01 per share
+A,02/14/2019 00:00:00,CHINEA MANUEL,4,A-Award,--D,4115,23103.536,1,0001662985,Common Stock Par Value $0.01 per share
+A,02/14/2019 00:00:00,Castellvi Beatriz,4,A-Award,--D,2743,16863.023,1,0001738504,Common Stock Par Value $0.01 per share
+A,02/14/2019 00:00:00,CESTERO LUIS E.,4,A-Award,--D,2798,15918.668,1,0001711255,Common Stock Par Value $0.01 per share
+A,02/14/2019 00:00:00,SEPULVEDA ELI,4,A-Award,--D,4197,40205.22,1,0001485577,Common Stock Par Value $0.01 per share
+A,02/14/2019 00:00:00,FERRER JAVIER D.,4,A-Award,--D,5129,40306.33,1,0001621853,Common Stock Par Value $0.01 per share
+A,02/14/2019 00:00:00,Soriano Lidio,4,A-Award,--D,4663,68901.581,1,0001337297,Common Stock Par Value $0.01 per share
+A,02/14/2019 00:00:00,MONZON GILBERTO,4,A-Award,--D,3497,42085.272,1,0001503166,Common Stock Par Value $0.01 per share
+A,02/14/2019 00:00:00,GUERRERO JUAN,4,A-Award,--D,3731,47626.542,1,0001513383,Common Stock Par Value $0.01 per share
+A,02/14/2019 00:00:00,NEGRON EDUARDO J.,4,A-Award,--D,4115,40499.89,1,0001413241,Common Stock Par Value $0.01 per share
+A,02/14/2019 00:00:00,CARRION RICHARD L,4,A-Award,--D,11658,219792.792,1,0001187725,Common Stock Par Value $0.01 per share
+A,02/14/2019 00:00:00,VAZQUEZ CARLOS J,4,A-Award,--D,6295,110988.687,1,0001217333,Common Stock Par Value $0.01 per share
+A,02/14/2019 00:00:00,Burckhart Camille,4,A-Award,--D,4389,24715.222,1,0001647743,Common Stock Par Value $0.01 per share
+A,02/14/2019 00:00:00,ALVAREZ IGNACIO,4,A-Award,--D,25142,132471.241,1,0001495232,Common Stock Par Value $0.01 per share
+D,02/06/2019 00:00:00,MONZON GILBERTO,4,S-Sale,--D,4000,38588.272,1,0001503166,Common Stock Par Value $0.01 per share
+D,01/30/2019 00:00:00,SEPULVEDA ELI,4,S-Sale,--D,5000,36008.22,1,0001485577,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,Soriano Lidio,4,M-Exempt,--D,6531,0,5,0001337297,Restricted Stock Units
+D,01/27/2019 00:00:00,Soriano Lidio,4,F-InKind,--D,508,64238.581,3,0001337297,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,Soriano Lidio,4,F-InKind,--D,1787,64746.581,2,0001337297,Common Stock Par Value $0.01 per share
+A,01/27/2019 00:00:00,Soriano Lidio,4,M-Exempt,--D,6531,66533.581,1,0001337297,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,SEPULVEDA ELI,4,M-Exempt,--D,5486,0,5,0001485577,Restricted Stock Units
+D,01/27/2019 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,427,41008.22,3,0001485577,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,1501,41435.22,2,0001485577,Common Stock Par Value $0.01 per share
+A,01/27/2019 00:00:00,SEPULVEDA ELI,4,M-Exempt,--D,5486,42936.22,1,0001485577,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,CARRION RICHARD L,4,M-Exempt,--D,36572,0,8,0001187725,Restricted Stock Units
+D,01/27/2019 00:00:00,CARRION RICHARD L,4,F-InKind,--D,3755,208134.792,3,0001187725,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,CARRION RICHARD L,4,F-InKind,--D,12929,211889.792,2,0001187725,Common Stock Par Value $0.01 per share
+A,01/27/2019 00:00:00,CARRION RICHARD L,4,M-Exempt,--D,36572,224818.792,1,0001187725,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,VAZQUEZ CARLOS J,4,M-Exempt,--D,8817,0,6,0001217333,Restricted Stock Units
+D,01/27/2019 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,686,104693.687,3,0001217333,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,2412,105379.687,2,0001217333,Common Stock Par Value $0.01 per share
+A,01/27/2019 00:00:00,VAZQUEZ CARLOS J,4,M-Exempt,--D,8817,107791.687,1,0001217333,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,FERRER JAVIER D.,4,M-Exempt,--D,7185,0,6,0001621853,Restricted Stock Units
+D,01/27/2019 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,559,35177.33,3,0001621853,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,1966,35736.33,2,0001621853,Common Stock Par Value $0.01 per share
+A,01/27/2019 00:00:00,FERRER JAVIER D.,4,M-Exempt,--D,7185,37702.33,1,0001621853,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,Burckhart Camille,4,M-Exempt,--D,3592,0,5,0001647743,Restricted Stock Units
+D,01/27/2019 00:00:00,Burckhart Camille,4,F-InKind,--D,280,20326.222,3,0001647743,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,Burckhart Camille,4,F-InKind,--D,983,20606.222,2,0001647743,Common Stock Par Value $0.01 per share
+A,01/27/2019 00:00:00,Burckhart Camille,4,M-Exempt,--D,3592,21589.222,1,0001647743,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,NEGRON EDUARDO J.,4,M-Exempt,--D,5029,0,5,0001413241,Restricted Stock Units
+D,01/27/2019 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,392,36384.89,3,0001413241,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,1376,36776.89,2,0001413241,Common Stock Par Value $0.01 per share
+A,01/27/2019 00:00:00,NEGRON EDUARDO J.,4,M-Exempt,--D,5029,38152.89,1,0001413241,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,ALVAREZ IGNACIO,4,M-Exempt,--D,11674,0,6,0001495232,Restricted Stock Units
+D,01/27/2019 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,1199,107329.241,3,0001495232,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,4127,108528.241,2,0001495232,Common Stock Par Value $0.01 per share
+A,01/27/2019 00:00:00,ALVAREZ IGNACIO,4,M-Exempt,--D,11674,112655.241,1,0001495232,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,GUERRERO JUAN,4,M-Exempt,--D,4898,0,6,0001513383,Restricted Stock Units
+D,01/27/2019 00:00:00,GUERRERO JUAN,4,F-InKind,--D,381,43895.542,3,0001513383,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,GUERRERO JUAN,4,F-InKind,--D,1340,44276.542,2,0001513383,Common Stock Par Value $0.01 per share
+A,01/27/2019 00:00:00,GUERRERO JUAN,4,M-Exempt,--D,4898,45616.542,1,0001513383,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,MONZON GILBERTO,4,M-Exempt,--D,4572,0,5,0001503166,Restricted Stock Units
+D,01/27/2019 00:00:00,MONZON GILBERTO,4,F-InKind,--D,356,42588.272,3,0001503166,Common Stock Par Value $0.01 per share
+D,01/27/2019 00:00:00,MONZON GILBERTO,4,F-InKind,--D,1251,42944.272,2,0001503166,Common Stock Par Value $0.01 per share
+A,01/27/2019 00:00:00,MONZON GILBERTO,4,M-Exempt,--D,4572,44195.272,1,0001503166,Common Stock Par Value $0.01 per share
+A,01/25/2019 00:00:00,Soriano Lidio,4,A-Award,--D,6531,6531,4,0001337297,Restricted Stock Units
+A,01/25/2019 00:00:00,SEPULVEDA ELI,4,A-Award,--D,5486,5486,4,0001485577,Restricted Stock Units
+A,01/25/2019 00:00:00,CARRION RICHARD L,4,A-Award,--D,36572,36572,7,0001187725,Restricted Stock Units
+A,01/25/2019 00:00:00,VAZQUEZ CARLOS J,4,A-Award,--D,8817,8817,5,0001217333,Restricted Stock Units
+A,01/25/2019 00:00:00,FERRER JAVIER D.,4,A-Award,--D,7185,7185,5,0001621853,Restricted Stock Units
+A,01/25/2019 00:00:00,Burckhart Camille,4,A-Award,--D,3592,3592,4,0001647743,Restricted Stock Units
+A,01/25/2019 00:00:00,NEGRON EDUARDO J.,4,A-Award,--D,5029,5029,4,0001413241,Restricted Stock Units
+A,01/25/2019 00:00:00,ALVAREZ IGNACIO,4,A-Award,--D,11674,11674,5,0001495232,Restricted Stock Units
+A,01/25/2019 00:00:00,GUERRERO JUAN,4,A-Award,--D,4898,4898,5,0001513383,Restricted Stock Units
+A,01/25/2019 00:00:00,MONZON GILBERTO,4,A-Award,--D,4572,4572,4,0001503166,Restricted Stock Units
+A,01/14/2019 00:00:00,CARRADY ROBERT,4,A-Award,--D,1052,2052,1,0001763503,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,CHINEA MANUEL,5,J-Other,--D,41.156,2777.006,4,0001662985,Phantom Stock
+A,12/31/2018 00:00:00,CHINEA MANUEL,5,A-Award,--D,91.228,18873.158,3,0001662985,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,CHINEA MANUEL,5,J-Other,--D,45.789,18781.93,2,0001662985,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,CHINEA MANUEL,5,J-Other,--D,159.809,18736.141,1,0001662985,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,CESTERO LUIS E.,5,J-Other,--I,2.239,520.657,3,0001711255,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,CESTERO LUIS E.,5,J-Other,--D,2.808,13054,2,0001711255,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,CESTERO LUIS E.,5,J-Other,--D,65.406,13051.192,1,0001711255,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,Garcia Jorge J.,5,J-Other,--D,36.922,10623.1,1,0001543970,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,CARRION RICHARD L,5,J-Other,--D,830.877,178958.646,1,0001187725,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,Castellvi Beatriz,5,J-Other,--D,62.054,14050.372,1,0001738504,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,BALLESTER ALEJANDRO M,5,J-Other,--I,1.297,301.648,3,0001482780,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,BALLESTER ALEJANDRO M,5,J-Other,--I,2.128,493.737,2,0001482780,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,BALLESTER ALEJANDRO M,5,J-Other,--D,97.864,22757.119,1,0001482780,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,GOODWIN C KIM,5,J-Other,--D,316.14,46519.482,1,0001278731,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,UNANUE CARLOS,5,J-Other,--D,337.128,50675.507,1,0001482899,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,BACARDI III JOAQUIN E,5,J-Other,--D,183.239,36281.827,1,0001576078,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,DIERCKSEN JOHN W,5,J-Other,--D,180.373,21637.913,1,0001244131,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,Ferre Maria Luisa,5,J-Other,--D,160.268,37269.928,1,0001289698,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,Soto Myrna,5,J-Other,--D,25.368,2790.368,1,0001631411,Common Stock Par Value $0.01 per share
+A,12/31/2018 00:00:00,TEUBER WILLIAM J JR,5,J-Other,--D,476.715,63832.934,1,0001189196,Common Stock Par Value $0.01 per share
+D,11/05/2018 00:00:00,GUERRERO JUAN,4,S-Sale,--D,6000,40643.692,1,0001513383,Common Stock Par Value $0.01 per share
+D,08/13/2018 00:00:00,ALVAREZ IGNACIO,4,S-Sale,--D,6000,100572.32,1,0001495232,Common Stock Par Value $0.01 per share
+D,08/10/2018 00:00:00,Ferre Maria Luisa,4,S-Sale,--I,22500,21239,2,0001289698,Common Stock Par Value $0.01 per share
+D,08/10/2018 00:00:00,Ferre Maria Luisa,4,S-Sale,--I,297,0,1,0001289698,Common Stock Par Value $0.01 per share
+D,08/03/2018 00:00:00,BALLESTER ALEJANDRO M,4,S-Sale,--I,536.182,0,2,0001482780,Common Stock Par Value $0.01 per share
+D,08/03/2018 00:00:00,BALLESTER ALEJANDRO M,4,S-Sale,--D,2000,22659.255,1,0001482780,Common Stock Par Value $0.01 per share
+D,08/03/2018 00:00:00,Castellvi Beatriz,4,S-Sale,--D,4672,13988.318,1,0001738504,Common Stock Par Value $0.01 per share
+D,07/31/2018 00:00:00,Garcia Jorge J.,4,S-Sale,--D,3000,10586.178,1,0001543970,Common Stock Par Value $0.01 per share
+D,07/26/2018 00:00:00,CARRION RICHARD L,4,S-Sale,--D,93849,178976.331,2,0001187725,Common Stock Par Value $0.01 per share
+D,07/25/2018 00:00:00,CESTERO LUIS E.,4,S-Sale,--D,4008,12985.786,1,0001711255,Common Stock Par Value $0.01 per share
+D,07/25/2018 00:00:00,NEGRON EDUARDO J.,4,S-Sale,--D,15000,32821.697,1,0001413241,Common Stock Par Value $0.01 per share
+D,07/25/2018 00:00:00,CARRION RICHARD L,4,S-Sale,--D,106151,272825.331,1,0001187725,Common Stock Par Value $0.01 per share
+D,07/25/2018 00:00:00,SEPULVEDA ELI,4,S-Sale,--D,5000,37287.748,1,0001485577,Common Stock Par Value $0.01 per share
+D,07/25/2018 00:00:00,MONZON GILBERTO,4,S-Sale,--D,5000,39423.95,1,0001503166,Common Stock Par Value $0.01 per share
+A,05/08/2018 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,3199,36098.588,1,0001576078,Common Stock Par Value $0.01 per share
+A,05/08/2018 00:00:00,Ferre Maria Luisa,4,A-Award,--D,2133,36940.224,1,0001289698,Common Stock Par Value $0.01 per share
+A,05/08/2018 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,2133,24559.816,1,0001482780,Common Stock Par Value $0.01 per share
+A,05/08/2018 00:00:00,UNANUE CARLOS,4,A-Award,--D,3199,50338.379,1,0001482899,Common Stock Par Value $0.01 per share
+A,05/08/2018 00:00:00,TEUBER WILLIAM J JR,4,A-Award,--D,2559,63356.219,1,0001189196,Common Stock Par Value $0.01 per share
+A,05/08/2018 00:00:00,GOODWIN C KIM,4,A-Award,--D,3519,46203.342,1,0001278731,Common Stock Par Value $0.01 per share
+A,05/08/2018 00:00:00,GOEL DAVID E.,4,A-Award,--D,2133,12828.433,1,0001548144,Common Stock Par Value $0.01 per share
+A,05/08/2018 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,3519,21457.54,1,0001244131,Common Stock Par Value $0.01 per share
+D,05/03/2018 00:00:00,CHINEA MANUEL,4,F-InKind,--D,343,18576.332,1,0001662985,Common Stock Par Value $0.01 per share
+D,05/03/2018 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,164,16904.43,1,0001711255,Common Stock Par Value $0.01 per share
+D,05/03/2018 00:00:00,Castellvi Beatriz,4,F-InKind,--D,125,18568.061,1,0001738504,Common Stock Par Value $0.01 per share
+D,05/03/2018 00:00:00,Garcia Jorge J.,4,F-InKind,--D,205,13544.611,1,0001543970,Common Stock Par Value $0.01 per share
+D,04/30/2018 00:00:00,Burckhart Camille,4,F-InKind,--D,68,17838.668,2,0001647743,Common Stock Par Value $0.01 per share
+D,04/30/2018 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,100,17068.43,1,0001711255,Common Stock Par Value $0.01 per share
+D,04/29/2018 00:00:00,CHINEA MANUEL,4,F-InKind,--D,238,18919.332,1,0001662985,Common Stock Par Value $0.01 per share
+D,04/29/2018 00:00:00,Burckhart Camille,4,F-InKind,--D,100,17906.668,1,0001647743,Common Stock Par Value $0.01 per share
+D,04/29/2018 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,128,17168.43,2,0001711255,Common Stock Par Value $0.01 per share
+D,04/29/2018 00:00:00,Garcia Jorge J.,4,F-InKind,--D,168,13749.611,2,0001543970,Common Stock Par Value $0.01 per share
+D,04/27/2018 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,107,17296.43,1,0001711255,Common Stock Par Value $0.01 per share
+D,04/27/2018 00:00:00,Garcia Jorge J.,4,F-InKind,--D,132,13917.611,1,0001543970,Common Stock Par Value $0.01 per share
+A,04/26/2018 00:00:00,Garcia Jorge J.,4,A-Award,--D,2365,14049.611,1,0001543970,Common Stock Par Value $0.01 per share
+D,04/25/2018 00:00:00,Burckhart Camille,4/A,F-InKind,--D,92,18006.668,1,0001647743,Common Stock Par Value $0.01 per share
+D,04/25/2018 00:00:00,CESTERO LUIS E.,4,F-InKind,--D,118,17403.43,1,0001711255,Common Stock Par Value $0.01 per share
+D,04/25/2018 00:00:00,Burckhart Camille,4,F-InKind,--D,92,18006.668,1,0001647743,Common Stock Par Value $0.01 per share
+A,04/23/2018 00:00:00,CHINEA MANUEL,4,J-Other,--D,15.291,2735.85,2,0001662985,Phantom Stock
+D,02/27/2018 00:00:00,Soriano Lidio,4,M-Exempt,--D,1864,0,4,0001337297,Restricted Stock Units
+D,02/27/2018 00:00:00,Soriano Lidio,4,F-InKind,--D,492,58865.122,3,0001337297,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,Soriano Lidio,4,F-InKind,--D,510,59357.122,2,0001337297,Common Stock Par Value $0.01 per share
+A,02/27/2018 00:00:00,Soriano Lidio,4,M-Exempt,--D,1864,59867.122,1,0001337297,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,VAZQUEZ CARLOS J,4,M-Exempt,--D,2515,0,5,0001217333,Restricted Stock Units
+D,02/27/2018 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,665,98468.68,3,0001217333,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,688,99133.68,2,0001217333,Common Stock Par Value $0.01 per share
+A,02/27/2018 00:00:00,VAZQUEZ CARLOS J,4,M-Exempt,--D,2515,99821.68,1,0001217333,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,ALVAREZ IGNACIO,4,M-Exempt,--D,3330,0,5,0001495232,Restricted Stock Units
+D,02/27/2018 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,880,106119.661,3,0001495232,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,911,106999.661,2,0001495232,Common Stock Par Value $0.01 per share
+A,02/27/2018 00:00:00,ALVAREZ IGNACIO,4,M-Exempt,--D,3330,107910.661,1,0001495232,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,CARRION RICHARD L,4,M-Exempt,--D,10429,0,7,0001187725,Restricted Stock Units
+D,02/27/2018 00:00:00,CARRION RICHARD L,4,F-InKind,--D,3560,375279.817,3,0001187725,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,CARRION RICHARD L,4,F-InKind,--D,3687,378839.817,2,0001187725,Common Stock Par Value $0.01 per share
+A,02/27/2018 00:00:00,CARRION RICHARD L,4,M-Exempt,--D,10429,382526.817,1,0001187725,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,GUERRERO JUAN,4,M-Exempt,--D,1398,0,5,0001513383,Restricted Stock Units
+D,02/27/2018 00:00:00,GUERRERO JUAN,4,F-InKind,--D,369,46420.448,3,0001513383,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,GUERRERO JUAN,4,F-InKind,--D,383,46789.448,2,0001513383,Common Stock Par Value $0.01 per share
+A,02/27/2018 00:00:00,GUERRERO JUAN,4,M-Exempt,--D,1398,47172.448,1,0001513383,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,MONZON GILBERTO,4,M-Exempt,--D,1305,0,4,0001503166,Restricted Stock Units
+D,02/27/2018 00:00:00,MONZON GILBERTO,4,F-InKind,--D,345,44202.797,3,0001503166,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,MONZON GILBERTO,4,F-InKind,--D,357,44547.797,2,0001503166,Common Stock Par Value $0.01 per share
+A,02/27/2018 00:00:00,MONZON GILBERTO,4,M-Exempt,--D,1305,44904.797,1,0001503166,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,SEPULVEDA ELI,4,M-Exempt,--D,1565,0,4,0001485577,Restricted Stock Units
+D,02/27/2018 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,414,42127.817,3,0001485577,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,429,42541.817,2,0001485577,Common Stock Par Value $0.01 per share
+A,02/27/2018 00:00:00,SEPULVEDA ELI,4,M-Exempt,--D,1565,42970.817,1,0001485577,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,NEGRON EDUARDO J.,4,M-Exempt,--D,1435,0,4,0001413241,Restricted Stock Units
+D,02/27/2018 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,379,47334.736,3,0001413241,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,393,47713.736,2,0001413241,Common Stock Par Value $0.01 per share
+A,02/27/2018 00:00:00,NEGRON EDUARDO J.,4,M-Exempt,--D,1435,48106.736,1,0001413241,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,FERRER JAVIER D.,4,M-Exempt,--D,2049,0,5,0001621853,Restricted Stock Units
+D,02/27/2018 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,541,29932.802,3,0001621853,Common Stock Par Value $0.01 per share
+D,02/27/2018 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,561,30473.802,2,0001621853,Common Stock Par Value $0.01 per share
+A,02/27/2018 00:00:00,FERRER JAVIER D.,4,M-Exempt,--D,2049,31034.802,1,0001621853,Common Stock Par Value $0.01 per share
+D,02/24/2018 00:00:00,CARRION RICHARD L,4,F-InKind,--D,1563,372097.817,3,0001187725,Common Stock Par Value $0.01 per share
+D,02/24/2018 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,387,104580.661,4,0001495232,Common Stock Par Value $0.01 per share
+D,02/24/2018 00:00:00,MONZON GILBERTO,4,F-InKind,--D,162,43599.797,3,0001503166,Common Stock Par Value $0.01 per share
+D,02/24/2018 00:00:00,CHINEA MANUEL,4,F-InKind,--D,261,19054.204,2,0001662985,Common Stock Par Value $0.01 per share
+D,02/24/2018 00:00:00,Burckhart Camille,4,F-InKind,--D,130,18033.551,3,0001647743,Common Stock Par Value $0.01 per share
+D,02/24/2018 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,180,46671.736,3,0001413241,Common Stock Par Value $0.01 per share
+D,02/24/2018 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,292,97306.68,3,0001217333,Common Stock Par Value $0.01 per share
+D,02/24/2018 00:00:00,GUERRERO JUAN,4,F-InKind,--D,173,45774.448,3,0001513383,Common Stock Par Value $0.01 per share
+D,02/24/2018 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,195,41405.817,3,0001485577,Common Stock Par Value $0.01 per share
+D,02/24/2018 00:00:00,Soriano Lidio,4,F-InKind,--D,217,58003.122,3,0001337297,Common Stock Par Value $0.01 per share
+D,02/24/2018 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,238,28985.802,3,0001621853,Common Stock Par Value $0.01 per share
+A,02/23/2018 00:00:00,CARRION RICHARD L,4,A-Award,--D,11880,373660.817,2,0001187725,Common Stock Par Value $0.01 per share
+A,02/23/2018 00:00:00,ALVAREZ IGNACIO,4,A-Award,--D,19393,104967.661,3,0001495232,Common Stock Par Value $0.01 per share
+A,02/23/2018 00:00:00,MONZON GILBERTO,4,A-Award,--D,3495,43761.797,2,0001503166,Common Stock Par Value $0.01 per share
+A,02/23/2018 00:00:00,CESTERO LUIS E.,4,A-Award,--D,2796,17388.985,1,0001711255,Common Stock Par Value $0.01 per share
+A,02/23/2018 00:00:00,CHINEA MANUEL,4,A-Award,--D,3727,19315.204,1,0001662985,Common Stock Par Value $0.01 per share
+A,02/23/2018 00:00:00,Burckhart Camille,4,A-Award,--D,3262,18163.551,2,0001647743,Common Stock Par Value $0.01 per share
+A,02/23/2018 00:00:00,NEGRON EDUARDO J.,4,A-Award,--D,3867,46851.736,2,0001413241,Common Stock Par Value $0.01 per share
+A,02/23/2018 00:00:00,VAZQUEZ CARLOS J,4,A-Award,--D,6290,97598.68,2,0001217333,Common Stock Par Value $0.01 per share
+A,02/23/2018 00:00:00,GUERRERO JUAN,4,A-Award,--D,3727,45947.448,2,0001513383,Common Stock Par Value $0.01 per share
+A,02/23/2018 00:00:00,SEPULVEDA ELI,4,A-Award,--D,4193,41600.817,2,0001485577,Common Stock Par Value $0.01 per share
+A,02/23/2018 00:00:00,Soriano Lidio,4,A-Award,--D,4659,58220.122,2,0001337297,Common Stock Par Value $0.01 per share
+A,02/23/2018 00:00:00,FERRER JAVIER D.,4,A-Award,--D,5125,29223.802,2,0001621853,Common Stock Par Value $0.01 per share
+D,01/27/2018 00:00:00,CARRION RICHARD L,4,F-InKind,--D,4022,361780.817,1,0001187725,Common Stock Par Value $0.01 per share
+D,01/27/2018 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,994,85574.661,2,0001495232,Common Stock Par Value $0.01 per share
+D,01/27/2018 00:00:00,MONZON GILBERTO,4,F-InKind,--D,389,40266.797,1,0001503166,Common Stock Par Value $0.01 per share
+D,01/27/2018 00:00:00,Burckhart Camille,4,F-InKind,--D,306,14901.551,1,0001647743,Common Stock Par Value $0.01 per share
+D,01/27/2018 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,428,42984.736,1,0001413241,Common Stock Par Value $0.01 per share
+D,01/27/2018 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,751,91308.68,1,0001217333,Common Stock Par Value $0.01 per share
+D,01/27/2018 00:00:00,GUERRERO JUAN,4,F-InKind,--D,417,42220.448,1,0001513383,Common Stock Par Value $0.01 per share
+D,01/27/2018 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,467,37407.817,1,0001485577,Common Stock Par Value $0.01 per share
+D,01/27/2018 00:00:00,Soriano Lidio,4,F-InKind,--D,556,53561.122,1,0001337297,Common Stock Par Value $0.01 per share
+D,01/27/2018 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,612,24098.802,1,0001621853,Common Stock Par Value $0.01 per share
+A,01/26/2018 00:00:00,CARRION RICHARD L,4,A-Award,--D,10429,10429,5,0001187725,Restricted Stock Units
+A,01/26/2018 00:00:00,NEGRON EDUARDO J.,4,A-Award,--D,1435,1435,2,0001413241,Restricted Stock Units
+A,01/26/2018 00:00:00,MONZON GILBERTO,4,A-Award,--D,1305,1305,2,0001503166,Restricted Stock Units
+A,01/26/2018 00:00:00,Soriano Lidio,4,A-Award,--D,1864,1864,2,0001337297,Restricted Stock Units
+A,01/26/2018 00:00:00,SEPULVEDA ELI,4,A-Award,--D,1565,1565,2,0001485577,Restricted Stock Units
+A,01/26/2018 00:00:00,FERRER JAVIER D.,4,A-Award,--D,2049,2049,3,0001621853,Restricted Stock Units
+A,01/26/2018 00:00:00,ALVAREZ IGNACIO,4,A-Award,--D,3330,3330,3,0001495232,Restricted Stock Units
+A,01/26/2018 00:00:00,VAZQUEZ CARLOS J,4,A-Award,--D,2515,2515,3,0001217333,Restricted Stock Units
+A,01/26/2018 00:00:00,GUERRERO JUAN,4,A-Award,--D,1398,1398,3,0001513383,Restricted Stock Units
+D,01/01/2018 00:00:00,ALVAREZ IGNACIO,4/A,F-InKind,--D,3338,86393.051,1,0001495232,Common Stock Par Value $0.01 per share
+D,01/01/2018 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,3338,86568.661,1,0001495232,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,BALLESTER ALEJANDRO M,5/A,J-Other,--I,5.53,484.716,1,0001482780,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,CHINEA MANUEL,5,J-Other,--D,53.248,2720.559,3,0001662985,Phantom Stock
+A,12/31/2017 00:00:00,CHINEA MANUEL,5,J-Other,--D,87.03,15494.824,2,0001662985,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,CHINEA MANUEL,5,J-Other,--D,194.302,15407.794,1,0001662985,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,CESTERO LUIS E.,5,J-Other,--D,12.843,14491.06,2,0001711255,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,CESTERO LUIS E.,5,J-Other,--D,87.043,14478.217,1,0001711255,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,TEUBER WILLIAM J JR,5,J-Other,--D,570.438,60216.628,1,0001189196,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,DIERCKSEN JOHN W,5,J-Other,--D,202.339,17732.599,1,0001244131,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,BALLESTER ALEJANDRO M,5,J-Other,--I,3.372,295.465,4,0001482780,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,BALLESTER ALEJANDRO M,5,J-Other,--I,4.407,483.593,3,0001482780,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,BALLESTER ALEJANDRO M,5,J-Other,--I,6.019,527.457,2,0001482780,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,BALLESTER ALEJANDRO M,5,J-Other,--D,230.41,22192.303,1,0001482780,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,BACARDI III JOAQUIN E,5,J-Other,--D,207.544,32688.349,1,0001576078,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,GOEL DAVID E.,5,J-Other,--D,120.643,10572.643,1,0001548144,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,Ferre Maria Luisa,5,J-Other,--D,392.603,34407.635,1,0001289698,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,UNANUE CARLOS,5,J-Other,--D,396.058,46736.272,1,0001482899,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,GOODWIN C KIM,5,J-Other,--D,368.655,42309.125,1,0001278731,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,Burckhart Camille,5,J-Other,--D,118.648,15142.934,1,0001647743,Common Stock Par Value $0.01 per share
+A,12/31/2017 00:00:00,Garcia Jorge J.,5,J-Other,--D,90.006,11592.091,1,0001543970,Common Stock Par Value $0.01 per share
+A,06/22/2017 00:00:00,ALVAREZ IGNACIO,4,A-Award,--D,12202,89153.278,1,0001495232,Common Stock Par Value $0.01 per share
+A,05/23/2017 00:00:00,TEUBER WILLIAM J JR,4,A-Award,--D,4334,59646.19,1,0001189196,Common Stock Par Value $0.01 per share
+A,05/23/2017 00:00:00,Ferre Maria Luisa,4,A-Award,--D,2343,34015.032,1,0001289698,Common Stock Par Value $0.01 per share
+A,05/23/2017 00:00:00,DIERCKSEN JOHN W,4,A-Award,--D,3514,17530.26,1,0001244131,Common Stock Par Value $0.01 per share
+A,05/23/2017 00:00:00,GOEL DAVID E.,4,A-Award,--D,2343,10452,1,0001548144,Common Stock Par Value $0.01 per share
+A,05/23/2017 00:00:00,UNANUE CARLOS,4,A-Award,--D,3514,46340.214,1,0001482899,Common Stock Par Value $0.01 per share
+A,05/23/2017 00:00:00,GOODWIN C KIM,4,A-Award,--D,3866,41940.47,1,0001278731,Common Stock Par Value $0.01 per share
+A,05/23/2017 00:00:00,BALLESTER ALEJANDRO M,4,A-Award,--D,2343,21961.893,1,0001482780,Common Stock Par Value $0.01 per share
+A,05/23/2017 00:00:00,BACARDI III JOAQUIN E,4,A-Award,--D,3514,32480.805,1,0001576078,Common Stock Par Value $0.01 per share
+D,05/17/2017 00:00:00,Garcia Jorge J.,4,S-Sale,--D,4000,11502.085,1,0001543970,Common Stock Par Value $0.01 per share
+D,05/16/2017 00:00:00,NEGRON EDUARDO J.,4,S-Sale,--D,2500,42650.251,1,0001413241,Common Stock Par Value $0.01 per share
+D,05/12/2017 00:00:00,CHINEA MANUEL,4,F-InKind,--D,370,15213.492,2,0001662985,Common Stock Par Value $0.01 per share
+D,05/12/2017 00:00:00,CHINEA MANUEL,4,F-InKind,--D,256,15583.492,1,0001662985,Common Stock Par Value $0.01 per share
+D,05/12/2017 00:00:00,Burckhart Camille,4,F-InKind,--D,68,15024.286,4,0001647743,Common Stock Par Value $0.01 per share
+D,05/12/2017 00:00:00,Burckhart Camille,4,F-InKind,--D,100,15092.286,3,0001647743,Common Stock Par Value $0.01 per share
+D,05/12/2017 00:00:00,Burckhart Camille,4,F-InKind,--D,92,15192.286,2,0001647743,Common Stock Par Value $0.01 per share
+D,05/12/2017 00:00:00,Burckhart Camille,4,F-InKind,--D,99,15284.286,1,0001647743,Common Stock Par Value $0.01 per share
+D,05/12/2017 00:00:00,Garcia Jorge J.,4,F-InKind,--D,242,15502.085,2,0001543970,Common Stock Par Value $0.01 per share
+D,05/12/2017 00:00:00,Garcia Jorge J.,4,F-InKind,--D,199,15744.085,1,0001543970,Common Stock Par Value $0.01 per share
+D,05/03/2017 00:00:00,SEPULVEDA ELI,4,S-Sale,--D,1993.516,37606.405,1,0001485577,Common Stock Par Value $0.01 per share
+D,05/02/2017 00:00:00,NESTOR O. RIVERA,4,S-Sale,--D,11311.976,15846.007,1,0001513130,Common Stock Par Value $0.01 per share
+D,05/01/2017 00:00:00,BALLESTER ALEJANDRO M,4,S-Sale,--D,3000,19618.893,1,0001482780,Common Stock Par Value $0.01 per share
+A,04/27/2017 00:00:00,Garcia Jorge J.,4,A-Award,--D,2400,15943.085,1,0001543970,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,664,91435.183,2,0001217333,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,VAZQUEZ CARLOS J,4,F-InKind,--D,751,92099.183,1,0001217333,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,Soriano Lidio,4,F-InKind,--D,492,52885.797,2,0001337297,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,Soriano Lidio,4,F-InKind,--D,556,53377.797,1,0001337297,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,379,44891.702,2,0001413241,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,NEGRON EDUARDO J.,4,F-InKind,--D,429,45270.702,1,0001413241,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,NESTOR O. RIVERA,4,F-InKind,--D,369,26919.472,2,0001513130,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,NESTOR O. RIVERA,4,F-InKind,--D,417,27336.472,1,0001513130,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,CARRION RICHARD L,4,F-InKind,--D,3560,358946.32,2,0001187725,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,CARRION RICHARD L,4,F-InKind,--D,4023,362506.32,1,0001187725,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,541,24135.288,2,0001621853,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,FERRER JAVIER D.,4,F-InKind,--D,612,24676.288,1,0001621853,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,880,76731.033,2,0001495232,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,ALVAREZ IGNACIO,4,F-InKind,--D,994,77611.033,1,0001495232,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,413,39481.297,2,0001485577,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,SEPULVEDA ELI,4,F-InKind,--D,467,39894.297,1,0001485577,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,GUERRERO JUAN,4,F-InKind,--D,369,42274.985,2,0001513383,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,GUERRERO JUAN,4,F-InKind,--D,417,42643.985,1,0001513383,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,MONZON GILBERTO,4,F-InKind,--D,345,40223.566,2,0001503166,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,MONZON GILBERTO,4,F-InKind,--D,389,40568.566,1,0001503166,Common Stock Par Value $0.01 per share
+D,03/17/2017 00:00:00,Burckhart Camille,4,F-InKind,--D,306,15312.022,1,0001647743,Common Stock Par Value $0.01 per share
+A,03/15/2017 00:00:00,CHINEA MANUEL,4,J-Other,--D,16.339,2667.311,3,0001662985,Phantom Stock
+A,02/24/2017 00:00:00,Soriano Lidio,4,A-Award,--D,3946,53933.797,1,0001337297,Common Stock Par Value $0.01 per share
+A,02/24/2017 00:00:00,CARRION RICHARD L,4,A-Award,--D,22097,366529.32,1,0001187725,Common Stock Par Value $0.01 per share
+A,02/24/2017 00:00:00,CHINEA MANUEL,4,A-Award,--D,3157,15752.23,1,0001662985,Common Stock Par Value $0.01 per share
+A,02/24/2017 00:00:00,NESTOR O. RIVERA,4,A-Award,--D,3236,27705.472,1,0001513130,Common Stock Par Value $0.01 per share
+A,02/24/2017 00:00:00,SEPULVEDA ELI,4,A-Award,--D,3552,40361.297,1,0001485577,Common Stock Par Value $0.01 per share
+A,02/24/2017 00:00:00,NEGRON EDUARDO J.,4,A-Award,--D,3276,45699.702,1,0001413241,Common Stock Par Value $0.01 per share
+A,02/24/2017 00:00:00,GUERRERO JUAN,4,A-Award,--D,3157,43060.985,1,0001513383,Common Stock Par Value $0.01 per share
+A,02/24/2017 00:00:00,MONZON GILBERTO,4,A-Award,--D,2960,40957.566,1,0001503166,Common Stock Par Value $0.01 per share
+A,02/24/2017 00:00:00,Burckhart Camille,4,A-Award,--D,2368,15618.022,1,0001647743,Common Stock Par Value $0.01 per share
+A,02/24/2017 00:00:00,FERRER JAVIER D.,4,A-Award,--D,4341,25288.288,1,0001621853,Common Stock Par Value $0.01 per share
+A,02/24/2017 00:00:00,VAZQUEZ CARLOS J,4,A-Award,--D,5327,92850.183,1,0001217333,Common Stock Par Value $0.01 per share
+A,02/24/2017 00:00:00,ALVAREZ IGNACIO,4,A-Award,--D,7062,78605.033,1,0001495232,Common Stock Par Value $0.01 per share
+D,02/23/2017 00:00:00,ALVAREZ IGNACIO,4,S-Sale,--D,10000,71543.033,1,0001495232,Common Stock Par Value $0.01 per share
+D,02/17/2017 00:00:00,ALVAREZ IGNACIO,4,W-Will,-ED,12403.24,81543.033,2,0001495232,Common Stock Par Value $0.01 per share
+A,02/17/2017 00:00:00,ALVAREZ IGNACIO,4,W-Will,-EI,3097.81,3097.81,1,0001495232,Common Stock Par Value $0.01 per share
+D,02/17/2017 00:00:00,NESTOR O. RIVERA,4,S-Sale,--D,7176.185,24454.782,1,0001513130,Common Stock Par Value $0.01 per share
+D,02/06/2017 00:00:00,VAZQUEZ CARLOS J,4,S-Sale,--I,18292,468,1,0001217333,Common Stock Par Value $0.01 per share
+A,12/31/2016 00:00:00,CHINEA MANUEL,5,J-Other,--D,31.94,2650.972,3,0001662985,Phantom Stock
+A,12/31/2016 00:00:00,CHINEA MANUEL,5,J-Other,--D,108.183,12528.003,1,0001662985,Common Stock Par Value $0.01 per share
+A,12/31/2016 00:00:00,TEUBER WILLIAM J JR,5,J-Other,--D,188.812,54923.344,1,0001189196,Common Stock Par Value $0.01 per share
+A,12/31/2016 00:00:00,Burckhart Camille,5,J-Other,--D,138.924,13218.924,2,0001647743,Common Stock Par Value $0.01 per share
+A,12/31/2016 00:00:00,BALLESTER ALEJANDRO M,5,J-Other,--I,2.384,289.574,4,0001482780,Common Stock Par Value $0.01 per share
+A,12/31/2016 00:00:00,BALLESTER ALEJANDRO M,5,J-Other,--I,3.913,516.94,3,0001482780,Common Stock Par Value $0.01 per share
+A,12/31/2016 00:00:00,BALLESTER ALEJANDRO M,5,J-Other,--I,4.257,475.053,2,0001482780,Common Stock Par Value $0.01 per share
+A,12/31/2016 00:00:00,BALLESTER ALEJANDRO M,5,J-Other,--D,143.841,22466.94,1,0001482780,Common Stock Par Value $0.01 per share
+A,12/31/2016 00:00:00,BACARDI III JOAQUIN E,5,J-Other,--D,138.585,28820.192,1,0001576078,Common Stock Par Value $0.01 per share
+A,12/31/2016 00:00:00,UNANUE CARLOS,5,J-Other,--D,133.15,42560.59,1,0001482899,Common Stock Par Value $0.01 per share
+A,12/31/2016 00:00:00,NESTOR O. RIVERA,5,J-Other,--I,14.4,1314.31,2,0001513130,Common Stock Par Value $0.01 per share
+A,12/31/2016 00:00:00,NESTOR O. RIVERA,5,J-Other,--D,167.932,31567.546,1,0001513130,Common Stock Par Value $0.01 per share
+A,12/31/2016 00:00:00,FERRER JAVIER D.,5,J-Other,--D,269.81,20883.81,1,0001621853,Common Stock Par Value $0.01 per share
+A,12/31/2016 00:00:00,GOEL DAVID E.,5,J-Other,--D,66.202,8039.064,1,0001548144,Common Stock Par Value $0.01 per share
+A,12/31/2016 00:00:00,DIERCKSEN JOHN W,5,J-Other,--D,114.426,13895.378,1,0001244131,Common Stock Par Value $0.01 per share
+A,12/31/2016 00:00:00,Ferre Maria Luisa,5,J-Other,--D,263.888,31398.887,1,0001289698,Common Stock Par Value $0.01 per share
+A,12/31/2016 00:00:00,GOODWIN C KIM,5,J-Other,--D,125.808,37832.352,1,0001278731,Common Stock Par Value $0.01 per share

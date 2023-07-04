@@ -1,0 +1,721 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+A,06/01/2023 00:00:00,GOMEZ SADES TABATA LORENA,4,A-Award,--D,261,1058,1,0001927799,"Common Shares, Par value $0.10 per share"
+A,06/01/2023 00:00:00,Otero Elena,4,A-Award,--D,261,1058,1,0001926991,"Common Shares, Par value $0.10 per share"
+A,06/01/2023 00:00:00,Berry Krista,4,A-Award,--D,261,3840,1,0001702796,"Common Shares, Par value $0.10 per share"
+A,06/01/2023 00:00:00,Meeker Timothy F,4,A-Award,--D,261,6733,1,0001302118,"Common Shares, Par value $0.10 per share"
+A,06/01/2023 00:00:00,Woody Darren G,4,A-Award,--D,261,7433,1,0001302116,"Common Shares, Par value $0.10 per share"
+A,06/01/2023 00:00:00,CASE THURMAN K,4,A-Award,--D,261,4018,1,0001270350,"Common Shares, Par value $0.10 per share"
+A,06/01/2023 00:00:00,RAFF BERYL,4,A-Award,--D,261,6153,1,0001228172,"Common Shares, Par value $0.10 per share"
+A,06/01/2023 00:00:00,CARSON VINCENT D,4,A-Award,--D,261,13137,1,0001223872,"Common Shares, Par value $0.10 per share"
+D,05/19/2023 00:00:00,JUDGE TESSA,4,F-InKind,--D,4,12234.0884,1,0001916417,"Common Shares, Par value $0.10 per share"
+D,05/19/2023 00:00:00,Mininberg Julien,4,F-InKind,--D,5,102275.871,1,0001597885,"Common Shares, Par value $0.10 per share"
+D,05/15/2023 00:00:00,Geoffroy Noel,4,F-InKind,--D,934,7779,1,0001926842,"Common Shares, Par value $0.10 per share"
+D,05/15/2023 00:00:00,JUDGE TESSA,4,F-InKind,--D,607,12238.0884,1,0001916417,"Common Shares, Par value $0.10 per share"
+D,05/15/2023 00:00:00,Grass Brian,4,F-InKind,--D,3050,32785,1,0001606522,"Common Shares, Par value $0.10 per share"
+D,05/15/2023 00:00:00,Mininberg Julien,4,F-InKind,--D,14767,102280.871,1,0001597885,"Common Shares, Par value $0.10 per share"
+D,05/11/2023 00:00:00,Grass Brian,4,S-Sale,--D,183,0,3,0001606522,Put Option (Right to Sell)
+A,05/11/2023 00:00:00,Grass Brian,4,P-Purchase,--D,3500,35835,2,0001606522,"Common Shares, Par value $0.10 per share"
+A,05/11/2023 00:00:00,Grass Brian,4,P-Purchase,--D,1500,32335,1,0001606522,"Common Shares, Par value $0.10 per share"
+A,04/11/2023 00:00:00,JUDGE TESSA,4,A-Award,--D,1542,12845.0884,1,0001916417,"Common Shares, Par value $0.10 per share"
+A,04/11/2023 00:00:00,Osberg Matthew J,4,A-Award,--D,882,9102.3758,1,0001894061,"Common Shares, Par value $0.10 per share"
+A,04/11/2023 00:00:00,Mininberg Julien,4,A-Award,--D,30540,112605.6006,1,0001597885,"Common Stock, Par Value $0.10 per share"
+A,03/01/2023 00:00:00,GOMEZ SADES TABATA LORENA,4,A-Award,--D,222,797,1,0001927799,"Common Shares, Par value $0.10 per share"
+A,03/01/2023 00:00:00,Otero Elena,4,A-Award,--D,222,797,1,0001926991,"Common Shares, Par value $0.10 per share"
+A,03/01/2023 00:00:00,Geoffroy Noel,4,A-Award,--D,3608,8713,1,0001926842,"Common Shares, Par value $0.10 per share"
+A,03/01/2023 00:00:00,JUDGE TESSA,4,A-Award,--D,4285,11074.242,3,0001916417,"Common Shares, Par value $0.10 per share"
+D,03/01/2023 00:00:00,JUDGE TESSA,4,F-InKind,--D,106,6789.242,2,0001916417,"Common Shares, Par value $0.10 per share"
+D,03/01/2023 00:00:00,JUDGE TESSA,4,F-InKind,--D,115,6895.242,1,0001916417,"Common Shares, Par value $0.10 per share"
+A,03/01/2023 00:00:00,Osberg Matthew J,4,A-Award,--D,4961,8040.215,3,0001894061,"Common Shares, Par value $0.10 per share"
+D,03/01/2023 00:00:00,Osberg Matthew J,4,F-InKind,--D,53,3079.215,2,0001894061,"Common Shares, Par value $0.10 per share"
+D,03/01/2023 00:00:00,Osberg Matthew J,4,F-InKind,--D,53,3132.215,1,0001894061,"Common Shares, Par value $0.10 per share"
+A,03/01/2023 00:00:00,Berry Krista,4,A-Award,--D,222,3579,1,0001702796,"Common Shares, Par value $0.10 per share"
+A,03/01/2023 00:00:00,Meeker Timothy F,4,A-Award,--D,222,6472,1,0001302118,"Common Stock, Par Value $0.10 per share"
+A,03/01/2023 00:00:00,Woody Darren G,4,A-Award,--D,222,7172,1,0001302116,"Common Shares, Par value $0.10 per share"
+A,03/01/2023 00:00:00,RAFF BERYL,4,A-Award,--D,222,5892,1,0001228172,"Common Shares, Par value $0.10 per share"
+A,03/01/2023 00:00:00,CARSON VINCENT D,4,A-Award,--D,222,12876,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,03/01/2023 00:00:00,CASE THURMAN K,4,A-Award,--D,222,3757,1,0001270350,"Common Shares, Par value $0.10 per share"
+A,12/01/2022 00:00:00,GOMEZ SADES TABATA LORENA,4,A-Award,--D,242,575,1,0001927799,"Common Shares, Par value $0.10 per share"
+A,12/01/2022 00:00:00,Otero Elena,4,A-Award,--D,242,575,1,0001926991,"Common Shares, Par value $0.10 per share"
+A,12/01/2022 00:00:00,Meeker Timothy F,4,A-Award,--D,242,6250,1,0001302118,"Common Stock, Par Value $0.10 per share"
+A,12/01/2022 00:00:00,Woody Darren G,4,A-Award,--D,242,6950,1,0001302116,"Common Shares, Par value $0.10 per share"
+A,12/01/2022 00:00:00,CASE THURMAN K,4,A-Award,--D,242,3535,1,0001270350,"Common Shares, Par value $0.10 per share"
+A,12/01/2022 00:00:00,RAFF BERYL,4,A-Award,--D,242,5670,1,0001228172,"Common Shares, Par value $0.10 per share"
+A,12/01/2022 00:00:00,CARSON VINCENT D,4,A-Award,--D,242,12654,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,12/01/2022 00:00:00,Berry Krista,4,A-Award,--D,242,3357,1,0001702796,"Common Shares, Par value $0.10 per share"
+A,09/01/2022 00:00:00,GOMEZ SADES TABATA LORENA,4,A-Award,--D,196,333,1,0001927799,"Common Shares, Par value $0.10 per share"
+A,09/01/2022 00:00:00,Otero Elena,4,A-Award,--D,196,333,1,0001926991,"Common Shares, Par value $0.10 per share"
+A,09/01/2022 00:00:00,Meeker Timothy F,4,A-Award,--D,196,6008,1,0001302118,"Common Stock, Par Value $0.10 per share"
+A,09/01/2022 00:00:00,Woody Darren G,4,A-Award,--D,196,6708,1,0001302116,"Common Shares, Par value $0.10 per share"
+A,09/01/2022 00:00:00,CASE THURMAN K,4,A-Award,--D,196,3293,1,0001270350,"Common Shares, Par value $0.10 per share"
+A,09/01/2022 00:00:00,RAFF BERYL,4,A-Award,--D,196,5428,1,0001228172,"Common Shares, Par value $0.10 per share"
+A,09/01/2022 00:00:00,CARSON VINCENT D,4,A-Award,--D,196,12412,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,09/01/2022 00:00:00,Berry Krista,4,A-Award,--D,196,3115,1,0001702796,"Common Shares, Par value $0.10 per share"
+A,06/01/2022 00:00:00,GOMEZ SADES TABATA LORENA,4,A-Award,--D,127,127,1,0001927799,"Common Shares, Par value $0.10 per share"
+A,06/01/2022 00:00:00,Otero Elena,4,A-Award,--D,127,127,1,0001926991,"Common Shares, Par value $0.10 per share"
+A,06/01/2022 00:00:00,Meeker Timothy F,4,A-Award,--D,127,5802,1,0001302118,"Common Stock, Par Value $0.10 per share"
+A,06/01/2022 00:00:00,Woody Darren G,4,A-Award,--D,127,6502,1,0001302116,"Common Shares, Par value $0.10 per share"
+A,06/01/2022 00:00:00,CASE THURMAN K,4,A-Award,--D,127,3087,1,0001270350,"Common Shares, Par value $0.10 per share"
+A,06/01/2022 00:00:00,RAFF BERYL,4,A-Award,--D,127,5222,1,0001228172,"Common Shares, Par value $0.10 per share"
+A,06/01/2022 00:00:00,CARSON VINCENT D,4,A-Award,--D,127,12206,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,06/01/2022 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,127,6174,1,0001223858,"Common Shares, Par value $0.10 per share"
+A,06/01/2022 00:00:00,Berry Krista,4,A-Award,--D,127,2909,1,0001702796,"Common Shares, Par value $0.10 per share"
+D,05/20/2022 00:00:00,JUDGE TESSA,4,F-InKind,--D,4,7010.242,1,0001916417,"Common Shares, Par value $0.10 per share"
+D,05/20/2022 00:00:00,Osberg Matthew J,4,F-InKind,--D,4,2983,1,0001894061,"Common Shares, Par value $0.10 per share"
+D,05/20/2022 00:00:00,Mininberg Julien,4,F-InKind,--D,5,81833.7399,1,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/13/2022 00:00:00,JUDGE TESSA,4,F-InKind,--D,233,7014.242,3,0001916417,"Common Shares, Par value $0.10 per share"
+D,05/13/2022 00:00:00,JUDGE TESSA,4,F-InKind,--D,466,7247.242,2,0001916417,"Common Shares, Par value $0.10 per share"
+D,05/13/2022 00:00:00,JUDGE TESSA,4,F-InKind,--D,101,7713.242,1,0001916417,"Common Shares, Par value $0.10 per share"
+D,05/13/2022 00:00:00,Osberg Matthew J,4,F-InKind,--D,210,2987,3,0001894061,"Common Shares, Par value $0.10 per share"
+D,05/13/2022 00:00:00,Osberg Matthew J,4,F-InKind,--D,260,3197,2,0001894061,"Common Shares, Par value $0.10 per share"
+D,05/13/2022 00:00:00,Osberg Matthew J,4,F-InKind,--D,57,3457,1,0001894061,"Common Shares, Par value $0.10 per share"
+D,05/13/2022 00:00:00,Mininberg Julien,4,F-InKind,--D,10403,81838.7399,3,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/13/2022 00:00:00,Mininberg Julien,4,F-InKind,--D,20805,92241.7399,2,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/13/2022 00:00:00,Mininberg Julien,4,F-InKind,--D,4546,113046.7399,1,0001597885,"Common Stock, Par Value $0.10 per share"
+A,05/09/2022 00:00:00,Geoffroy Noel,4,A-Award,--D,3875,5105,2,0001926842,"Common Shares, Par value $0.10 per share"
+A,05/09/2022 00:00:00,Geoffroy Noel,4,A-Award,--D,1230,1230,1,0001926842,"Common Shares, Par value $0.10 per share"
+D,05/05/2022 00:00:00,ABROMOVITZ GARY B,4,S-Sale,--D,1038,6047,1,0001223858,"Common Shares, Par value $0.10 per share"
+A,04/12/2022 00:00:00,JUDGE TESSA,4,A-Award,--D,592,7814.242,3,0001916417,"Common Shares, Par value $0.10 per share"
+A,04/12/2022 00:00:00,JUDGE TESSA,4,A-Award,--D,1184,7222.242,2,0001916417,"Common Shares, Par value $0.10 per share"
+A,04/12/2022 00:00:00,JUDGE TESSA,4,A-Award,--D,258,6038.242,1,0001916417,"Common Shares, Par value $0.10 per share"
+A,04/12/2022 00:00:00,Osberg Matthew J,4,A-Award,--D,532,3514,3,0001894061,"Common Shares, Par value $0.10 per share"
+A,04/12/2022 00:00:00,Osberg Matthew J,4,A-Award,--D,1066,2982,2,0001894061,"Common Shares, Par value $0.10 per share"
+A,04/12/2022 00:00:00,Osberg Matthew J,4,A-Award,--D,232,1916,1,0001894061,"Common Shares, Par value $0.10 per share"
+A,04/12/2022 00:00:00,Mininberg Julien,4,A-Award,--D,23456,117592.7399,3,0001597885,"Common Stock, Par Value $0.10 per share"
+A,04/12/2022 00:00:00,Mininberg Julien,4,A-Award,--D,46910,94021.2059,2,0001597885,"Common Stock, Par Value $0.10 per share"
+A,04/12/2022 00:00:00,Mininberg Julien,4,A-Award,--D,10249,47111.2059,1,0001597885,"Common Stock, Par Value $0.10 per share"
+A,03/01/2022 00:00:00,JUDGE TESSA,4,A-Award,--D,972,5780.242,1,0001916417,"Common Shares, Par value $0.10 per share"
+A,03/01/2022 00:00:00,Osberg Matthew J,4,A-Award,--D,972,1684,3,0001894061,"Common Shares, Par value $0.10 per share"
+D,03/01/2022 00:00:00,Osberg Matthew J,4,F-InKind,--D,37,712,2,0001894061,"Common Shares, Par value $0.10 per share"
+D,03/01/2022 00:00:00,Osberg Matthew J,4,F-InKind,--D,53,749,1,0001894061,"Common Shares, Par value $0.10 per share"
+A,03/01/2022 00:00:00,Meeker Timothy F,4,A-Award,--D,121,5675,1,0001302118,"Common Stock, Par Value $0.10 per share"
+A,03/01/2022 00:00:00,Woody Darren G,4,A-Award,--D,121,6375,1,0001302116,"Common Shares, Par value $0.10 per share"
+A,03/01/2022 00:00:00,CASE THURMAN K,4,A-Award,--D,121,2960,1,0001270350,"Common Shares, Par value $0.10 per share"
+A,03/01/2022 00:00:00,RAFF BERYL,4,A-Award,--D,121,5095,1,0001228172,"Common Shares, Par value $0.10 per share"
+A,03/01/2022 00:00:00,CARSON VINCENT D,4,A-Award,--D,121,12079,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,03/01/2022 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,121,7085,1,0001223858,"Common Shares, Par value $0.10 per share"
+A,03/01/2022 00:00:00,Berry Krista,4,A-Award,--D,121,2782,1,0001702796,"Common Shares, Par value $0.10 per share"
+A,12/01/2021 00:00:00,Meeker Timothy F,4,A-Award,--D,97,5554,1,0001302118,"Common Stock, Par Value $0.10 per share"
+A,12/01/2021 00:00:00,Woody Darren G,4,A-Award,--D,97,6254,1,0001302116,"Common Shares, Par value $0.10 per share"
+A,12/01/2021 00:00:00,CASE THURMAN K,4,A-Award,--D,97,2839,1,0001270350,"Common Shares, Par value $0.10 per share"
+A,12/01/2021 00:00:00,RAFF BERYL,4,A-Award,--D,97,4974,1,0001228172,"Common Shares, Par value $0.10 per share"
+A,12/01/2021 00:00:00,CARSON VINCENT D,4,A-Award,--D,97,11958,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,12/01/2021 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,97,6964,1,0001223858,"Common Shares, Par value $0.10 per share"
+A,12/01/2021 00:00:00,Berry Krista,4,A-Award,--D,97,2661,1,0001702796,"Common Shares, Par value $0.10 per share"
+D,11/12/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,2966,76169,4,0001597885,"Common Shares, Par value $0.10 per share"
+D,11/12/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,30,770,3,0001597885,"Common Shares, Par value $0.10 per share"
+D,11/12/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,3612,79135,2,0001597885,"Common Shares, Par value $0.10 per share"
+D,11/12/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,36,800,1,0001597885,"Common Shares, Par value $0.10 per share"
+D,10/13/2021 00:00:00,Grass Brian,4,M-Exempt,--D,506,0,13,0001606522,Employee Stock Option (Right to Buy)
+D,10/13/2021 00:00:00,Grass Brian,4,M-Exempt,--D,5706,0,12,0001606522,Employee Stock Option (Right to Buy)
+D,10/13/2021 00:00:00,Grass Brian,4,M-Exempt,--D,1926,0,11,0001606522,Employee Stock Option (Right to Buy)
+D,10/13/2021 00:00:00,Grass Brian,4,M-Exempt,--D,1794,0,10,0001606522,Employee Stock Option (Right to Buy)
+D,10/13/2021 00:00:00,Grass Brian,4,S-Sale,--D,2000,45543.284,9,0001606522,"Common Stock, Par Value $0.10 per share"
+D,10/13/2021 00:00:00,Grass Brian,4,F-InKind,--D,248,47543.284,8,0001606522,"Common Stock, Par Value $0.10 per share"
+A,10/13/2021 00:00:00,Grass Brian,4,M-Exempt,--D,506,47791.284,7,0001606522,"Common Stock, Par Value $0.10 per share"
+D,10/13/2021 00:00:00,Grass Brian,4,F-InKind,--D,3250,47285.284,6,0001606522,"Common Stock, Par Value $0.10 per share"
+A,10/13/2021 00:00:00,Grass Brian,4,M-Exempt,--D,5706,50535.284,5,0001606522,"Common Stock, Par Value $0.10 per share"
+D,10/13/2021 00:00:00,Grass Brian,4,F-InKind,--D,949,44829.284,4,0001606522,"Common Stock, Par Value $0.10 per share"
+A,10/13/2021 00:00:00,Grass Brian,4,M-Exempt,--D,1926,45778.284,3,0001606522,"Common Stock, Par Value $0.10 per share"
+D,10/13/2021 00:00:00,Grass Brian,4,F-InKind,--D,521,43852.284,2,0001606522,"Common Stock, Par Value $0.10 per share"
+A,10/13/2021 00:00:00,Grass Brian,4,M-Exempt,--D,1794,44373.284,1,0001606522,"Common Stock, Par Value $0.10 per share"
+D,09/20/2021 00:00:00,Grass Brian,4,F-InKind,--D,5,42579.284,1,0001606522,"Common Stock, Par Value $0.10 per share"
+D,09/20/2021 00:00:00,Mininberg Julien,4,F-InKind,--D,8,36862.2059,1,0001597885,"Common Stock, Par Value $0.10 per share"
+A,09/01/2021 00:00:00,Meeker Timothy F,4,A-Award,-ED,97,5457,1,0001302118,"Common Stock, Par Value $0.10 per share"
+A,09/01/2021 00:00:00,Woody Darren G,4,A-Award,-ED,97,6157,1,0001302116,"Common Shares, Par value $0.10 per share"
+A,09/01/2021 00:00:00,CASE THURMAN K,4,A-Award,-ED,97,2742,1,0001270350,"Common Shares, Par value $0.10 per share"
+A,09/01/2021 00:00:00,RAFF BERYL,4,A-Award,-ED,97,4877,1,0001228172,"Common Shares, Par value $0.10 per share"
+A,09/01/2021 00:00:00,CARSON VINCENT D,4,A-Award,-ED,97,11861,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,09/01/2021 00:00:00,ABROMOVITZ GARY B,4,A-Award,-ED,97,6867,1,0001223858,"Common Shares, Par value $0.10 per share"
+A,09/01/2021 00:00:00,Berry Krista,4,A-Award,-ED,97,2564,1,0001702796,"Common Shares, Par value $0.10 per share"
+D,08/11/2021 00:00:00,CARSON VINCENT D,4,S-Sale,--D,2525,10314,2,0001223872,"Common Stock, Par Value $0.10 per share"
+D,08/11/2021 00:00:00,CARSON VINCENT D,4,G-Gift,--D,634,12839,1,0001223872,"Common Stock, Par Value $0.10 per share"
+D,08/10/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,203,82747,4,0001597885,"Common Shares, Par value $0.10 per share"
+D,08/10/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,2,836,3,0001597885,"Common Shares, Par value $0.10 per share"
+D,08/10/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,1855,82950,2,0001597885,"Common Shares, Par value $0.10 per share"
+D,08/10/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,19,838,1,0001597885,"Common Shares, Par value $0.10 per share"
+D,07/07/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,99,84805,8,0001597885,"Common Shares, Par value $0.10 per share"
+D,07/07/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,1,857,7,0001597885,"Common Shares, Par value $0.10 per share"
+D,07/07/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,198,84904,6,0001597885,"Common Shares, Par value $0.10 per share"
+D,07/07/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,2,858,5,0001597885,"Common Shares, Par value $0.10 per share"
+D,07/06/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,740,85102,4,0001597885,"Common Shares, Par value $0.10 per share"
+D,07/06/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,7,860,3,0001597885,"Common Shares, Par value $0.10 per share"
+D,07/06/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,3483,85842,2,0001597885,"Common Shares, Par value $0.10 per share"
+D,07/06/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,35,867,1,0001597885,"Common Shares, Par value $0.10 per share"
+D,06/11/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,308,89325,8,0001597885,"Common Shares, Par value $0.10 per share"
+D,06/11/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,3,902,7,0001597885,"Common Shares, Par value $0.10 per share"
+D,06/11/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,1319,89633,6,0001597885,"Common Shares, Par value $0.10 per share"
+D,06/11/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,13,905,5,0001597885,"Common Shares, Par value $0.10 per share"
+D,06/11/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,2278,90952,4,0001597885,"Common Shares, Par value $0.10 per share"
+D,06/11/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,23,918,3,0001597885,"Common Shares, Par value $0.10 per share"
+D,06/11/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,1386,93230,2,0001597885,"Common Shares, Par value $0.10 per share"
+D,06/11/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,14,941,1,0001597885,"Common Shares, Par value $0.10 per share"
+D,06/09/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,13,955,2,0001597885,"Common Shares, Par value $0.10 per share"
+D,06/09/2021 00:00:00,Mininberg Julien,4,S-Sale,--I,1287,94616,1,0001597885,"Common Shares, Par value $0.10 per share"
+A,06/01/2021 00:00:00,Meeker Timothy F,4,A-Award,--D,106,5360,1,0001302118,"Common Stock, Par Value $0.10 per share"
+A,06/01/2021 00:00:00,Woody Darren G,4,A-Award,--D,106,6060,1,0001302116,"Common Shares, Par value $0.10 per share"
+A,06/01/2021 00:00:00,CASE THURMAN K,4,A-Award,--D,106,2645,1,0001270350,"Common Shares, Par value $0.10 per share"
+A,06/01/2021 00:00:00,RAFF BERYL,4,A-Award,--D,106,4780,1,0001228172,"Common Shares, Par value $0.10 per share"
+A,06/01/2021 00:00:00,CARSON VINCENT D,4,A-Award,--D,106,13473,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,06/01/2021 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,106,6770,1,0001223858,"Common Shares, Par value $0.10 per share"
+A,06/01/2021 00:00:00,Berry Krista,4,A-Award,--D,106,2467,1,0001702796,"Common Shares, Par value $0.10 per share"
+A,05/19/2021 00:00:00,Grass Brian,4,A-Award,--D,30,42584.284,1,0001606522,"Common Stock, Par Value $0.10 per share"
+A,05/19/2021 00:00:00,Mininberg Julien,4,A-Award,--D,30,43648.2059,1,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/14/2021 00:00:00,Grass Brian,4,F-InKind,--D,122,42554.284,6,0001606522,"Common Stock, Par Value $0.10 per share"
+D,05/14/2021 00:00:00,Grass Brian,4,F-InKind,--D,1199,42676.284,5,0001606522,"Common Stock, Par Value $0.10 per share"
+D,05/14/2021 00:00:00,Grass Brian,4,F-InKind,--D,243,43875.284,4,0001606522,"Common Stock, Par Value $0.10 per share"
+D,05/14/2021 00:00:00,Grass Brian,4,F-InKind,--D,2397,44118.284,3,0001606522,"Common Stock, Par Value $0.10 per share"
+D,05/14/2021 00:00:00,Grass Brian,4,F-InKind,--D,121,46515.284,2,0001606522,"Common Stock, Par Value $0.10 per share"
+D,05/14/2021 00:00:00,Grass Brian,4,F-InKind,--D,1198,46636.284,1,0001606522,"Common Stock, Par Value $0.10 per share"
+D,05/14/2021 00:00:00,Mininberg Julien,4,F-InKind,--D,6175,43618.2059,3,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/14/2021 00:00:00,Mininberg Julien,4,F-InKind,--D,12348,49793.2059,2,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/14/2021 00:00:00,Mininberg Julien,4,F-InKind,--D,6174,62141.2059,1,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/14/2021 00:00:00,CARSON VINCENT D,4,F-InKind,--D,913,13367,6,0001223872,"Common Stock, Par Value $0.10 per share"
+D,05/14/2021 00:00:00,CARSON VINCENT D,4,F-InKind,--D,1825,12104,4,0001223872,"Common Stock, Par Value $0.10 per share"
+D,05/14/2021 00:00:00,CARSON VINCENT D,4,F-InKind,--D,911,9579,2,0001223872,"Common Stock, Par Value $0.10 per share"
+A,04/14/2021 00:00:00,Grass Brian,4,A-Award,--D,3046,47834.284,6,0001606522,"Common Stock, Par Value $0.10 per share"
+A,04/14/2021 00:00:00,Grass Brian,4,A-Award,--D,6090,44788.284,5,0001606522,"Common Stock, Par Value $0.10 per share"
+A,04/14/2021 00:00:00,Grass Brian,4,A-Award,--D,3044,38698.284,4,0001606522,"Common Stock, Par Value $0.10 per share"
+A,04/14/2021 00:00:00,Grass Brian,4,A-Award,--D,308,35654.284,3,0001606522,"Common Stock, Par Value $0.10 per share"
+A,04/14/2021 00:00:00,Grass Brian,4,A-Award,--D,616,35346.284,2,0001606522,"Common Stock, Par Value $0.10 per share"
+A,04/14/2021 00:00:00,Grass Brian,4,A-Award,--D,306,34730.284,1,0001606522,"Common Stock, Par Value $0.10 per share"
+A,04/14/2021 00:00:00,Mininberg Julien,4,A-Award,--D,13922,67981.2,3,0001597885,"Common Stock, Par Value $0.10 per share"
+A,04/14/2021 00:00:00,Mininberg Julien,4,A-Award,--D,27842,54059.2,2,0001597885,"Common Stock, Par Value $0.10 per share"
+A,04/14/2021 00:00:00,Mininberg Julien,4,A-Award,--D,13920,26217.2,1,0001597885,"Common Stock, Par Value $0.10 per share"
+A,04/14/2021 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,2176,14280,5,0001223872,"Common Stock, Par Value $0.10 per share"
+A,04/14/2021 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,4350,13929,3,0001223872,"Common Stock, Par Value $0.10 per share"
+A,04/14/2021 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,2174,10490,1,0001223872,"Common Stock, Par Value $0.10 per share"
+D,03/01/2021 00:00:00,Mininberg Julien,4,F-InKind,--D,927,12297.2,1,0001597885,"Common Stock, Par Value $0.10 per share"
+A,03/01/2021 00:00:00,CARSON VINCENT D,4,A-Award,--D,104,8316,2,0001223872,"Common Stock, Par Value $0.10 per share"
+D,03/01/2021 00:00:00,CARSON VINCENT D,4,F-InKind,--D,338,8212,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,03/01/2021 00:00:00,Grass Brian,4,A-Award,--D,1769,34424.284,4,0001606522,"Common Stock, Par Value $0.10 per share"
+D,03/01/2021 00:00:00,Grass Brian,4,F-InKind,--D,226,32535.08,3,0001606522,"Common Stock, Par Value $0.10 per share"
+D,03/01/2021 00:00:00,Grass Brian,4,F-InKind,--D,25,32761.08,2,0001606522,"Common Stock, Par Value $0.10 per share"
+D,03/01/2021 00:00:00,Grass Brian,4,F-InKind,--D,248,32786.08,1,0001606522,"Common Stock, Par Value $0.10 per share"
+A,03/01/2021 00:00:00,CASE THURMAN K,4,A-Award,--D,104,2539,1,0001270350,"Common Shares, Par value $0.10 per share"
+A,03/01/2021 00:00:00,RAFF BERYL,4,A-Award,--D,104,4674,1,0001228172,"Common Shares, Par value $0.10 per share"
+A,03/01/2021 00:00:00,Meeker Timothy F,4,A-Award,--D,104,5254,1,0001302118,"Common Stock, Par Value $0.10 per share"
+A,03/01/2021 00:00:00,Berry Krista,4,A-Award,--D,104,2361,1,0001702796,"Common Shares, Par value $0.10 per share"
+A,03/01/2021 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,104,6664,1,0001223858,"Common Shares, Par value $0.10 per share"
+A,03/01/2021 00:00:00,Woody Darren G,4,A-Award,--D,104,5954,1,0001302116,"Common Shares, Par value $0.10 per share"
+D,02/24/2021 00:00:00,Grass Brian,4,F-InKind,--D,64,33034.08,2,0001606522,"Common Stock, Par Value $0.10 per share"
+A,02/24/2021 00:00:00,Grass Brian,4,M-Exempt,--D,217,33098.08,1,0001606522,"Common Stock, Par Value $0.10 per share"
+A,12/31/2020 00:00:00,Mininberg Julien,4,G-Gift,-EI,47952,95903,4,0001597885,"Common Shares, Par value $0.10 per share"
+D,12/31/2020 00:00:00,Mininberg Julien,4,G-Gift,-EI,47952,968,3,0001597885,"Common Shares, Par value $0.10 per share"
+A,12/31/2020 00:00:00,Mininberg Julien,4,G-Gift,-EI,47951,47951,2,0001597885,"Common Shares, Par value $0.10 per share"
+D,12/31/2020 00:00:00,Mininberg Julien,4,G-Gift,-EI,47951,48920,1,0001597885,"Common Shares, Par value $0.10 per share"
+A,12/18/2020 00:00:00,Mininberg Julien,4,G-Gift,-EI,48436,48436,2,0001597885,"Common Shares, Par value $0.10 per share"
+D,12/18/2020 00:00:00,Mininberg Julien,4,G-Gift,-EI,48436,48435,1,0001597885,"Common Shares, Par value $0.10 per share"
+A,12/01/2020 00:00:00,RAFF BERYL,4,A-Award,--D,111,4570,1,0001228172,"Common Shares, Par value $0.10 per share"
+A,12/01/2020 00:00:00,Berry Krista,4,A-Award,--D,111,2257,1,0001702796,"Common Shares, Par value $0.10 per share"
+A,12/01/2020 00:00:00,Meeker Timothy F,4,A-Award,--D,111,5150,1,0001302118,"Common Stock, Par Value $0.10 per share"
+A,12/01/2020 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,111,6560,1,0001223858,"Common Shares, Par value $0.10 per share"
+A,12/01/2020 00:00:00,Woody Darren G,4,A-Award,--D,111,5850,1,0001302116,"Common Shares, Par value $0.10 per share"
+A,12/01/2020 00:00:00,CARSON VINCENT D,4,A-Award,--D,111,8550,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,12/01/2020 00:00:00,CASE THURMAN K,4,A-Award,--D,111,2435,1,0001270350,"Common Shares, Par value $0.10 per share"
+D,10/27/2020 00:00:00,CARSON VINCENT D,4,G-Gift,-ED,970,8439,1,0001223872,"Common Stock, Par Value $0.10 per share"
+D,09/18/2020 00:00:00,Grass Brian,4,F-InKind,--D,7,33009.08,1,0001606522,"Common Stock, Par Value $0.10 per share"
+D,09/18/2020 00:00:00,Mininberg Julien,4,F-InKind,--D,8,109975.3507,1,0001597885,"Common Stock, Par Value $0.10 per share"
+A,09/03/2020 00:00:00,Berry Krista,4,A-Award,--D,110,2146,1,0001702796,"Common Shares, Par value $0.10 per share"
+A,09/03/2020 00:00:00,Meeker Timothy F,4,A-Award,--D,110,5039,1,0001302118,"Common Stock, Par Value $0.10 per share"
+A,09/03/2020 00:00:00,Woody Darren G,4,A-Award,--D,110,5739,1,0001302116,"Common Shares, Par value $0.10 per share"
+A,09/03/2020 00:00:00,RAFF BERYL,4,A-Award,--D,110,4459,1,0001228172,"Common Shares, Par value $0.10 per share"
+A,09/03/2020 00:00:00,CARSON VINCENT D,4,A-Award,--D,110,9409,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,09/03/2020 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,110,6449,1,0001223858,"Common Shares, Par value $0.10 per share"
+A,09/03/2020 00:00:00,CASE THURMAN K,4,A-Award,--D,110,2324,1,0001270350,"Common Shares, Par value $0.10 per share"
+D,08/17/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,980,109983.3507,3,0001597885,"Common Stock, Par Value $0.10 per share"
+D,08/17/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,2227,110963.3507,2,0001597885,"Common Stock, Par Value $0.10 per share"
+D,08/14/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,200,113190.3507,1,0001597885,"Common Stock, Par Value $0.10 per share"
+D,08/12/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,960,113390.3507,5,0001597885,"Common Stock, Par Value $0.10 per share"
+D,08/12/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,1668,114350.3507,4,0001597885,"Common Stock, Par Value $0.10 per share"
+D,08/11/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,24,116018.3507,3,0001597885,"Common Stock, Par Value $0.10 per share"
+D,08/11/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,206,116042.3507,2,0001597885,"Common Stock, Par Value $0.10 per share"
+D,08/11/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,172,116248.3507,1,0001597885,"Common Stock, Par Value $0.10 per share"
+D,08/10/2020 00:00:00,CARSON VINCENT D,4,S-Sale,--D,3590,9299,1,0001223872,"Common Stock, Par Value $0.10 per share"
+D,07/13/2020 00:00:00,Grass Brian,4,S-Sale,--D,4310,33014.2931,1,0001606522,"Common Stock, Par Value $0.10 per share"
+D,07/13/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,50,116420.3507,2,0001597885,"Common Stock, Par Value $0.10 per share"
+D,07/13/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,149,116470.3507,1,0001597885,"Common Stock, Par Value $0.10 per share"
+D,07/13/2020 00:00:00,Meeker Timothy F,4,S-Sale,--D,92,4929,4,0001302118,"Common Stock, Par Value $0.10 per share"
+D,07/13/2020 00:00:00,Meeker Timothy F,4,S-Sale,--D,958,5021,3,0001302118,"Common Stock, Par Value $0.10 per share"
+D,07/13/2020 00:00:00,Meeker Timothy F,4,S-Sale,--D,720,5979,2,0001302118,"Common Stock, Par Value $0.10 per share"
+D,07/13/2020 00:00:00,Meeker Timothy F,4,S-Sale,--D,230,6699,1,0001302118,"Common Stock, Par Value $0.10 per share"
+D,07/13/2020 00:00:00,ABROMOVITZ GARY B,4,S-Sale,--D,2000,6339,1,0001223858,"Common Shares, Par value $0.10 per share"
+D,07/09/2020 00:00:00,Mininberg Julien,4/A,S-Sale,--D,1462,130814.3507,1,0001597885,"Common Stock, Par Value $0.10 per share"
+D,07/09/2020 00:00:00,Mininberg Julien,4/A,S-Sale,--D,1121,137592.3507,1,0001597885,"Common Stock, Par Value $0.10 per share"
+D,07/09/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,122,121061.3507,7,0001597885,"Common Stock, Par Value $0.10 per share"
+D,07/09/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,1121,121183.3507,6,0001597885,"Common Stock, Par Value $0.10 per share"
+D,07/09/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,156,122304.3507,5,0001597885,"Common Stock, Par Value $0.10 per share"
+D,07/09/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,7554,122460.3507,4,0001597885,"Common Stock, Par Value $0.10 per share"
+D,07/09/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,1272,130014.3507,3,0001597885,"Common Stock, Par Value $0.10 per share"
+D,07/09/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,1269,131286.3507,2,0001597885,"Common Stock, Par Value $0.10 per share"
+D,07/08/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,6158,132555.3507,1,0001597885,"Common Stock, Par Value $0.10 per share"
+A,06/01/2020 00:00:00,Berry Krista,4,A-Award,--D,126,2036,1,0001702796,"Common Shares, Par value $0.10 per share"
+A,06/01/2020 00:00:00,Susetka William,4,A-Award,--D,126,5896,1,0001471047,"Common Stock, Par Value $0.10 per share"
+A,06/01/2020 00:00:00,Meeker Timothy F,4,A-Award,--D,126,6929,1,0001302118,"Common Stock, Par Value $0.10 per share"
+A,06/01/2020 00:00:00,Woody Darren G,4,A-Award,--D,126,5629,1,0001302116,"Common Shares, Par value $0.10 per share"
+A,06/01/2020 00:00:00,RAFF BERYL,4,A-Award,--D,126,4349,1,0001228172,"Common Shares, Par value $0.10 per share"
+A,06/01/2020 00:00:00,CARSON VINCENT D,4,A-Award,--D,126,12889,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,06/01/2020 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,126,8339,1,0001223858,"Common Shares, Par value $0.10 per share"
+A,06/01/2020 00:00:00,CASE THURMAN K,4,A-Award,--D,126,2214,1,0001270350,"Common Shares, Par value $0.10 per share"
+D,05/18/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,1727,138713.3507,12,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/18/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,2299,140440.3507,11,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/18/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,1400,142739.3507,10,0001597885,"Common Stock, Par Value $0.10 per share"
+A,05/15/2020 00:00:00,Grass Brian,4,A-Award,--D,0,37324.2931,13,0001606522,"Common Stock, Par Value $0.10 per share"
+D,05/15/2020 00:00:00,Grass Brian,4,F-InKind,--D,311,37163.3538,12,0001606522,"Common Stock, Par Value $0.10 per share"
+A,05/15/2020 00:00:00,Grass Brian,4,A-Award,--D,788,37474.3538,11,0001606522,"Common Stock, Par Value $0.10 per share"
+D,05/15/2020 00:00:00,Grass Brian,4,F-InKind,--D,750,36686.3538,10,0001606522,"Common Stock, Par Value $0.10 per share"
+A,05/15/2020 00:00:00,Grass Brian,4,A-Award,--D,1904,37436.3538,9,0001606522,"Common Stock, Par Value $0.10 per share"
+D,05/15/2020 00:00:00,Grass Brian,4,F-InKind,--D,621,35532.3538,8,0001606522,"Common Stock, Par Value $0.10 per share"
+A,05/15/2020 00:00:00,Grass Brian,4,A-Award,--D,1576,36153.3538,7,0001606522,"Common Stock, Par Value $0.10 per share"
+D,05/15/2020 00:00:00,Grass Brian,4,F-InKind,--D,1500,34577.3538,6,0001606522,"Common Stock, Par Value $0.10 per share"
+A,05/15/2020 00:00:00,Grass Brian,4,A-Award,--D,3810,36077.3538,5,0001606522,"Common Stock, Par Value $0.10 per share"
+D,05/15/2020 00:00:00,Grass Brian,4,F-InKind,--D,310,32267.3538,4,0001606522,"Common Stock, Par Value $0.10 per share"
+A,05/15/2020 00:00:00,Grass Brian,4,A-Award,--D,786,32577.3538,3,0001606522,"Common Stock, Par Value $0.10 per share"
+D,05/15/2020 00:00:00,Grass Brian,4,F-InKind,--D,750,31791.3538,2,0001606522,"Common Stock, Par Value $0.10 per share"
+A,05/15/2020 00:00:00,Grass Brian,4,A-Award,--D,1904,32541.3538,1,0001606522,"Common Stock, Par Value $0.10 per share"
+D,05/15/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,80,144139.3507,9,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/15/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,509,144219.3507,8,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/15/2020 00:00:00,Mininberg Julien,4,S-Sale,--D,143,144565.4955,7,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/15/2020 00:00:00,CARSON VINCENT D,4,F-InKind,--D,750,12763,6,0001223872,"Common Stock, Par Value $0.10 per share"
+A,05/15/2020 00:00:00,CARSON VINCENT D,4,A-Award,--D,1904,13513,5,0001223872,"Common Stock, Par Value $0.10 per share"
+D,05/15/2020 00:00:00,CARSON VINCENT D,4,F-InKind,--D,1500,11609,4,0001223872,"Common Stock, Par Value $0.10 per share"
+A,05/15/2020 00:00:00,CARSON VINCENT D,4,A-Award,--D,3810,13109,3,0001223872,"Common Stock, Par Value $0.10 per share"
+D,05/15/2020 00:00:00,CARSON VINCENT D,4,F-InKind,--D,750,9299,2,0001223872,"Common Stock, Par Value $0.10 per share"
+A,05/15/2020 00:00:00,CARSON VINCENT D,4,A-Award,--D,1904,10049,1,0001223872,"Common Stock, Par Value $0.10 per share"
+D,05/13/2020 00:00:00,Mininberg Julien,4,F-InKind,--D,5407,144708.4955,6,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/13/2020 00:00:00,Mininberg Julien,4,F-InKind,--D,10812,137925.4955,4,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/13/2020 00:00:00,Mininberg Julien,4,F-InKind,--D,5406,124359.4955,2,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/01/2020 00:00:00,CARSON VINCENT D,4,G-Gift,-ED,456,8145,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,04/16/2020 00:00:00,Grass Brian,4/A,A-Award,--D,0,37324.2931,13,0001606522,"Common Stock, Par Value $0.10 per share"
+D,04/16/2020 00:00:00,Grass Brian,4/A,F-InKind,--D,311,37163.3538,12,0001606522,"Common Stock, Par Value $0.10 per share"
+A,04/16/2020 00:00:00,Grass Brian,4/A,A-Award,--D,788,37474.3538,11,0001606522,"Common Stock, Par Value $0.10 per share"
+D,04/16/2020 00:00:00,Grass Brian,4/A,F-InKind,--D,750,36686.3538,10,0001606522,"Common Stock, Par Value $0.10 per share"
+A,04/16/2020 00:00:00,Grass Brian,4/A,A-Award,--D,1904,37436.3538,9,0001606522,"Common Stock, Par Value $0.10 per share"
+D,04/16/2020 00:00:00,Grass Brian,4/A,F-InKind,--D,621,35532.3538,8,0001606522,"Common Stock, Par Value $0.10 per share"
+A,04/16/2020 00:00:00,Grass Brian,4/A,A-Award,--D,1576,36153.3538,7,0001606522,"Common Stock, Par Value $0.10 per share"
+D,04/16/2020 00:00:00,Grass Brian,4/A,F-InKind,--D,1500,34577.3538,6,0001606522,"Common Stock, Par Value $0.10 per share"
+A,04/16/2020 00:00:00,Grass Brian,4/A,A-Award,--D,3810,36077.3538,5,0001606522,"Common Stock, Par Value $0.10 per share"
+D,04/16/2020 00:00:00,Grass Brian,4/A,F-InKind,--D,310,32267.3538,4,0001606522,"Common Stock, Par Value $0.10 per share"
+A,04/16/2020 00:00:00,Grass Brian,4/A,A-Award,--D,786,32577.3538,3,0001606522,"Common Stock, Par Value $0.10 per share"
+D,04/16/2020 00:00:00,Grass Brian,4/A,F-InKind,--D,750,31791.3538,2,0001606522,"Common Stock, Par Value $0.10 per share"
+A,04/16/2020 00:00:00,Grass Brian,4/A,A-Award,--D,1904,32541.3538,1,0001606522,"Common Stock, Par Value $0.10 per share"
+A,04/16/2020 00:00:00,Mininberg Julien,4,A-Award,--D,12190,150115.4955,5,0001597885,"Common Stock, Par Value $0.10 per share"
+A,04/16/2020 00:00:00,Mininberg Julien,4,A-Award,--D,24378,148737.4955,3,0001597885,"Common Stock, Par Value $0.10 per share"
+A,04/16/2020 00:00:00,Mininberg Julien,4,A-Award,--D,12188,129765.4955,1,0001597885,"Common Stock, Par Value $0.10 per share"
+D,04/16/2020 00:00:00,CARSON VINCENT D,4/A,F-InKind,--D,750,12763,6,0001223872,"Common Stock, Par Value $0.10 per share"
+A,04/16/2020 00:00:00,CARSON VINCENT D,4/A,A-Award,--D,1904,13513,5,0001223872,"Common Stock, Par Value $0.10 per share"
+D,04/16/2020 00:00:00,CARSON VINCENT D,4/A,F-InKind,--D,1500,11609,4,0001223872,"Common Stock, Par Value $0.10 per share"
+A,04/16/2020 00:00:00,CARSON VINCENT D,4/A,A-Award,--D,3810,13109,3,0001223872,"Common Stock, Par Value $0.10 per share"
+D,04/16/2020 00:00:00,CARSON VINCENT D,4/A,F-InKind,--D,750,9299,2,0001223872,"Common Stock, Par Value $0.10 per share"
+A,04/16/2020 00:00:00,CARSON VINCENT D,4/A,A-Award,--D,1904,10049,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,03/03/2020 00:00:00,Grass Brian,4,A-Award,--D,2246,31130.3538,1,0001606522,"Common Stock, Par Value $0.10 per share"
+A,03/02/2020 00:00:00,Berry Krista,4,A-Award,--D,133,1910,1,0001702796,"Common Shares, Par value $0.10 per share"
+D,03/02/2020 00:00:00,Grass Brian,4,F-InKind,--D,26,30637.3538,4,0001606522,"Common Stock, Par Value $0.10 per share"
+D,03/02/2020 00:00:00,Grass Brian,4,F-InKind,--D,248,30663.3538,3,0001606522,"Common Stock, Par Value $0.10 per share"
+D,03/02/2020 00:00:00,Grass Brian,4,F-InKind,--D,64,30911.3538,2,0001606522,"Common Stock, Par Value $0.10 per share"
+D,03/02/2020 00:00:00,Grass Brian,4,F-InKind,--D,155,30975.3538,1,0001606522,"Common Stock, Par Value $0.10 per share"
+D,03/02/2020 00:00:00,Mininberg Julien,4,F-InKind,--D,1358,117414.6403,2,0001597885,"Common Stock, Par Value $0.10 per share"
+D,03/02/2020 00:00:00,Mininberg Julien,4,F-InKind,--D,811,118772.6403,1,0001597885,"Common Stock, Par Value $0.10 per share"
+A,03/02/2020 00:00:00,Susetka William,4,A-Award,--D,133,5770,1,0001471047,"Common Stock, Par Value $0.10 per share"
+A,03/02/2020 00:00:00,Meeker Timothy F,4,A-Award,--D,133,6803,1,0001302118,"Common Stock, Par Value $0.10 per share"
+A,03/02/2020 00:00:00,Woody Darren G,4,A-Award,--D,133,5503,1,0001302116,"Common Shares, Par value $0.10 per share"
+D,03/02/2020 00:00:00,CARSON VINCENT D,4,F-InKind,--D,293,8601,2,0001223872,"Common Stock, Par Value $0.10 per share"
+D,03/02/2020 00:00:00,CARSON VINCENT D,4,F-InKind,--D,284,8894,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,03/02/2020 00:00:00,CARSON VINCENT D,4,A-Award,--D,133,9178,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,03/02/2020 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,133,8213,1,0001223858,"Common Shares, Par value $0.10 per share"
+A,03/02/2020 00:00:00,CASE THURMAN K,4,A-Award,--D,133,2088,1,0001270350,"Common Shares, Par value $0.10 per share"
+A,03/02/2020 00:00:00,RAFF BERYL,4,A-Award,--D,133,4223,1,0001228172,"Common Shares, Par value $0.10 per share"
+D,01/21/2020 00:00:00,CARSON VINCENT D,4,G-Gift,-ED,408,9045,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,12/05/2019 00:00:00,Berry Krista,4,A-Award,--D,141,1777,1,0001702796,"Common Shares, Par value $0.10 per share"
+A,12/05/2019 00:00:00,Susetka William,4,A-Award,--D,141,5637,1,0001471047,"Common Stock, Par Value $0.10 per share"
+A,12/05/2019 00:00:00,Meeker Timothy F,4,A-Award,--D,141,6670,1,0001302118,"Common Stock, Par Value $0.10 per share"
+A,12/05/2019 00:00:00,Woody Darren G,4,A-Award,--D,141,5370,1,0001302116,"Common Shares, Par value $0.10 per share"
+A,12/05/2019 00:00:00,CASE THURMAN K,4,A-Award,--D,141,1955,1,0001270350,"Common Shares, Par value $0.10 per share"
+A,12/05/2019 00:00:00,RAFF BERYL,4,A-Award,--D,141,4090,1,0001228172,"Common Shares, Par value $0.10 per share"
+A,12/05/2019 00:00:00,CARSON VINCENT D,4,A-Award,--D,141,9453,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,12/05/2019 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,141,8080,1,0001223858,"Common Shares, Par value $0.10 per share"
+D,09/18/2019 00:00:00,Mininberg Julien,4,S-Sale,--D,8,119583.6403,1,0001597885,"Common Stock, Par Value $0.10 per share"
+D,09/18/2019 00:00:00,Grass Brian,4,S-Sale,--D,7,28562.4752,1,0001606522,"Common Stock, Par Value $0.10 per share"
+A,09/03/2019 00:00:00,Susetka William,4,A-Award,--D,113,5496,1,0001471047,"Common Stock, Par Value $0.10 per share"
+A,09/03/2019 00:00:00,CARSON VINCENT D,4,A-Award,--D,113,9312,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,09/03/2019 00:00:00,RAFF BERYL,4,A-Award,--D,113,3949,1,0001228172,"Common Shares, Par value $0.10 per share"
+A,09/03/2019 00:00:00,CASE THURMAN K,4,A-Award,--D,113,1814,1,0001270350,"Common Shares, Par value $0.10 per share"
+A,09/03/2019 00:00:00,Woody Darren G,4,A-Award,--D,113,5229,1,0001302116,"Common Shares, Par value $0.10 per share"
+A,09/03/2019 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,113,7939,1,0001223858,"Common Shares, Par value $0.10 per share"
+A,09/03/2019 00:00:00,Meeker Timothy F,4,A-Award,--D,113,6529,1,0001302118,"Common Stock, Par Value $0.10 per share"
+A,09/03/2019 00:00:00,Berry Krista,4,A-Award,--D,113,1636,1,0001702796,"Common Shares, Par value $0.10 per share"
+D,07/12/2019 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,1500,0,7,0001223872,"Common Shares, Par value $0.10 per share"
+D,07/12/2019 00:00:00,CARSON VINCENT D,4,S-Sale,--D,1500,9199,6,0001223872,"Common Stock, Par Value $0.10 per share"
+A,07/12/2019 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,1500,10699,5,0001223872,"Common Stock, Par Value $0.10 per share"
+D,07/12/2019 00:00:00,CARSON VINCENT D,4,S-Sale,--D,2810,9199,4,0001223872,"Common Stock, Par Value $0.10 per share"
+D,07/12/2019 00:00:00,CARSON VINCENT D,4,S-Sale,--D,4800,12009,3,0001223872,"Common Stock, Par Value $0.10 per share"
+D,07/12/2019 00:00:00,CARSON VINCENT D,4,S-Sale,--D,3597,16809,2,0001223872,"Common Stock, Par Value $0.10 per share"
+D,07/12/2019 00:00:00,CARSON VINCENT D,4,S-Sale,--D,708,20406,1,0001223872,"Common Stock, Par Value $0.10 per share"
+D,06/03/2019 00:00:00,Berry Krista,4,X-InTheMoney,--D,0,0,3,0001702796,Common share tax-offset right
+A,06/03/2019 00:00:00,Berry Krista,4,A-Award,--D,0,0,2,0001702796,Common share tax-offset right
+A,06/03/2019 00:00:00,Berry Krista,4,A-Award,--D,131,1523,1,0001702796,"Common Shares, Par value $0.10 per share"
+D,06/03/2019 00:00:00,CASE THURMAN K,4,X-InTheMoney,--D,0,0,3,0001270350,Common share tax-offset right
+A,06/03/2019 00:00:00,CASE THURMAN K,4,A-Award,--D,0,0,2,0001270350,Common share tax-offset right
+A,06/03/2019 00:00:00,CASE THURMAN K,4,A-Award,--D,131,1701,1,0001270350,"Common Shares, Par value $0.10 per share"
+D,06/03/2019 00:00:00,Meeker Timothy F,4,X-InTheMoney,--D,0,0,3,0001302118,"Common Shares, Par value $0.10 per share"
+A,06/03/2019 00:00:00,Meeker Timothy F,4,A-Award,--D,0,0,2,0001302118,"Common Shares, Par value $0.10 per share"
+A,06/03/2019 00:00:00,Meeker Timothy F,4,A-Award,--D,131,6416,1,0001302118,"Common Stock, Par Value $0.10 per share"
+D,06/03/2019 00:00:00,CARSON VINCENT D,4,X-InTheMoney,--D,0,0,3,0001223872,"Common Shares, Par value $0.10 per share"
+A,06/03/2019 00:00:00,CARSON VINCENT D,4,A-Award,--D,0,0,2,0001223872,"Common Shares, Par value $0.10 per share"
+A,06/03/2019 00:00:00,CARSON VINCENT D,4,A-Award,--D,131,21064,1,0001223872,"Common Stock, Par Value $0.10 per share"
+D,06/03/2019 00:00:00,RAFF BERYL,4,X-InTheMoney,--D,0,0,3,0001228172,Common share tax-offset right
+A,06/03/2019 00:00:00,RAFF BERYL,4,A-Award,--D,0,0,2,0001228172,Common share tax-offset right
+A,06/03/2019 00:00:00,RAFF BERYL,4,A-Award,--D,131,3836,1,0001228172,"Common Shares, Par value $0.10 per share"
+D,06/03/2019 00:00:00,Susetka William,4,X-InTheMoney,--D,0,0,3,0001471047,"Common Shares, Par value $0.10 per share"
+A,06/03/2019 00:00:00,Susetka William,4,A-Award,--D,0,0,2,0001471047,"Common Shares, Par value $0.10 per share"
+A,06/03/2019 00:00:00,Susetka William,4,A-Award,--D,131,5383,1,0001471047,"Common Stock, Par Value $0.10 per share"
+D,06/03/2019 00:00:00,ABROMOVITZ GARY B,4,X-InTheMoney,--D,0,0,3,0001223858,Common share tax-offset right
+A,06/03/2019 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,0,0,2,0001223858,Common share tax-offset right
+A,06/03/2019 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,131,7826,1,0001223858,"Common Shares, Par value $0.10 per share"
+D,06/03/2019 00:00:00,Woody Darren G,4,X-InTheMoney,--D,0,0,3,0001302116,Common share tax-offset right
+A,06/03/2019 00:00:00,Woody Darren G,4,A-Award,--D,0,0,2,0001302116,Common share tax-offset right
+A,06/03/2019 00:00:00,Woody Darren G,4,A-Award,--D,131,5116,1,0001302116,"Common Shares, Par value $0.10 per share"
+D,05/15/2019 00:00:00,Grass Brian,4,F-InKind,--D,656,28569.4752,6,0001606522,"Common Stock, par value $0.10 per share"
+A,05/15/2019 00:00:00,Grass Brian,4,A-Award,--D,1563,29225.4752,5,0001606522,"Common Stock, par value $0.10 per share"
+D,05/15/2019 00:00:00,Grass Brian,4,F-InKind,--D,1641,27662.4752,4,0001606522,"Common Stock, par value $0.10 per share"
+A,05/15/2019 00:00:00,Grass Brian,4,A-Award,--D,3910,29303.4752,3,0001606522,"Common Stock, par value $0.10 per share"
+D,05/15/2019 00:00:00,Grass Brian,4,F-InKind,--D,820,25393.4752,2,0001606522,"Common Stock, par value $0.10 per share"
+A,05/15/2019 00:00:00,Grass Brian,4,A-Award,--D,1954,26213.4752,1,0001606522,"Common Stock, par value $0.10 per share"
+D,05/15/2019 00:00:00,Mininberg Julien,4,F-InKind,--D,4479,119591.6403,6,0001597885,"Common Stock, par value $0.10 per share"
+A,05/15/2019 00:00:00,Mininberg Julien,4,A-Award,--D,10008,124070.6403,5,0001597885,"Common Stock, par value $0.10 per share"
+D,05/15/2019 00:00:00,Mininberg Julien,4,F-InKind,--D,11197,114062.6403,4,0001597885,"Common Stock, par value $0.10 per share"
+A,05/15/2019 00:00:00,Mininberg Julien,4,A-Award,--D,25020,125259.6403,3,0001597885,"Common Stock, par value $0.10 per share"
+D,05/15/2019 00:00:00,Mininberg Julien,4,F-InKind,--D,5599,100239.6403,2,0001597885,"Common Stock, par value $0.10 per share"
+A,05/15/2019 00:00:00,Mininberg Julien,4,A-Award,--D,12510,105838.6403,1,0001597885,"Common Stock, par value $0.10 per share"
+D,05/15/2019 00:00:00,CARSON VINCENT D,4,F-InKind,--D,656,20933,6,0001223872,"Common Stock, par value $0.10 per share"
+A,05/15/2019 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,1563,21589,5,0001223872,"Common Stock, par value $0.10 per share"
+D,05/15/2019 00:00:00,CARSON VINCENT D,4,F-InKind,--D,1641,20026,4,0001223872,"Common Stock, par value $0.10 per share"
+A,05/15/2019 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,3910,21667,3,0001223872,"Common Stock, par value $0.10 per share"
+D,05/15/2019 00:00:00,CARSON VINCENT D,4,F-InKind,--D,817,17757,2,0001223872,"Common Stock, par value $0.10 per share"
+A,05/15/2019 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,1954,18574,1,0001223872,"Common Stock, par value $0.10 per share"
+D,05/01/2019 00:00:00,Grass Brian,4,M-Exempt,--D,5574,0,9,0001606522,Employee Stock Option (Right to Buy)
+D,05/01/2019 00:00:00,Grass Brian,4,M-Exempt,--D,4494,0,8,0001606522,Employee Stock Option (Right to Buy)
+D,05/01/2019 00:00:00,Grass Brian,4,M-Exempt,--D,3750,0,7,0001606522,Employee Stock Option (Right to Buy)
+D,05/01/2019 00:00:00,Grass Brian,4,F-InKind,--D,1425,24259.4752,6,0001606522,"Common Stock, par value $.10 per share"
+A,05/01/2019 00:00:00,Grass Brian,4,M-Exempt,--D,5574,25684.4752,5,0001606522,"Common Stock, par value $.10 per share"
+D,05/01/2019 00:00:00,Grass Brian,4,F-InKind,--D,1107,20110.4752,4,0001606522,"Common Stock, par value $.10 per share"
+A,05/01/2019 00:00:00,Grass Brian,4,M-Exempt,--D,4494,21217.4752,3,0001606522,"Common Stock, par value $.10 per share"
+D,05/01/2019 00:00:00,Grass Brian,4,F-InKind,--D,875,16723.4752,2,0001606522,"Common Stock, par value $.10 per share"
+A,05/01/2019 00:00:00,Grass Brian,4,M-Exempt,--D,3750,17598.4752,1,0001606522,"Common Stock, par value $.10 per share"
+D,04/30/2019 00:00:00,Susetka William,4,S-Sale,--D,2000,5252,1,0001471047,"Common Stock, par value $0.10 per share"
+D,04/30/2019 00:00:00,Meeker Timothy F,4,S-Sale,--D,2400,6285,1,0001302118,"Common Stock, par value $0.10 per share"
+D,04/09/2019 00:00:00,Grass Brian,4/A,F-InKind,--D,656,28569.4752,6,0001606522,"Common Stock, Par Value $0.10 per share"
+A,04/09/2019 00:00:00,Grass Brian,4/A,A-Award,--D,1563,29225.4752,5,0001606522,"Common Stock, Par Value $0.10 per share"
+D,04/09/2019 00:00:00,Grass Brian,4/A,F-InKind,--D,1641,27662.4752,4,0001606522,"Common Stock, Par Value $0.10 per share"
+A,04/09/2019 00:00:00,Grass Brian,4/A,A-Award,--D,3910,29303.4752,3,0001606522,"Common Stock, Par Value $0.10 per share"
+D,04/09/2019 00:00:00,Grass Brian,4/A,F-InKind,--D,820,25393.4752,2,0001606522,"Common Stock, Par Value $0.10 per share"
+A,04/09/2019 00:00:00,Grass Brian,4/A,A-Award,--D,1954,26213.4752,1,0001606522,"Common Stock, Par Value $0.10 per share"
+D,04/09/2019 00:00:00,Mininberg Julien,4/A,F-InKind,--D,4479,119591.6403,6,0001597885,"Common Stock, Par Value $0.10 per share"
+A,04/09/2019 00:00:00,Mininberg Julien,4/A,A-Award,--D,10008,124070.6403,5,0001597885,"Common Stock, Par Value $0.10 per share"
+D,04/09/2019 00:00:00,Mininberg Julien,4/A,F-InKind,--D,11197,114062.6403,4,0001597885,"Common Stock, Par Value $0.10 per share"
+A,04/09/2019 00:00:00,Mininberg Julien,4/A,A-Award,--D,25020,125259.6403,3,0001597885,"Common Stock, Par Value $0.10 per share"
+D,04/09/2019 00:00:00,Mininberg Julien,4/A,F-InKind,--D,5599,100239.6403,2,0001597885,"Common Stock, Par Value $0.10 per share"
+A,04/09/2019 00:00:00,Mininberg Julien,4/A,A-Award,--D,12510,105838.6403,1,0001597885,"Common Stock, Par Value $0.10 per share"
+D,04/09/2019 00:00:00,CARSON VINCENT D,4/A,F-InKind,--D,656,20933,6,0001223872,"Common Stock, Par Value $0.10 per share"
+A,04/09/2019 00:00:00,CARSON VINCENT D,4/A,M-Exempt,--D,1563,21589,5,0001223872,"Common Stock, Par Value $0.10 per share"
+D,04/09/2019 00:00:00,CARSON VINCENT D,4/A,F-InKind,--D,1641,20026,4,0001223872,"Common Stock, Par Value $0.10 per share"
+A,04/09/2019 00:00:00,CARSON VINCENT D,4/A,M-Exempt,--D,3910,21667,3,0001223872,"Common Stock, Par Value $0.10 per share"
+D,04/09/2019 00:00:00,CARSON VINCENT D,4/A,F-InKind,--D,817,17757,2,0001223872,"Common Stock, Par Value $0.10 per share"
+A,04/09/2019 00:00:00,CARSON VINCENT D,4/A,M-Exempt,--D,1954,18574,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,03/05/2019 00:00:00,Grass Brian,4,A-Award,--D,1849,13848.4752,1,0001606522,"Common Stock, par value $.10 per share"
+D,03/04/2019 00:00:00,Mininberg Julien,4,F-InKind,--D,3854,36870.2059,2,0001597885,"Common Stock, Par Value $0.10 per share"
+D,03/04/2019 00:00:00,CARSON VINCENT D,4/A,F-InKind,--D,295,16702,2,0001223872,"Common Stock, par value $0.10 per share"
+D,03/04/2019 00:00:00,CARSON VINCENT D,4/A,F-InKind,--D,308,16997,1,0001223872,"Common Stock, par value $0.10 per share"
+D,03/01/2019 00:00:00,Woody Darren G,4,X-InTheMoney,--D,0,0,3,0001302116,Common share tax-offset right
+A,03/01/2019 00:00:00,Woody Darren G,4,A-Award,--D,0,0,2,0001302116,Common share tax-offset right
+A,03/01/2019 00:00:00,Woody Darren G,4,A-Award,--D,157,4985,1,0001302116,"Common Shares, Par value $0.10 per share"
+D,03/01/2019 00:00:00,Susetka William,4,X-InTheMoney,--D,0,0,3,0001471047,Common share tax-offset right
+A,03/01/2019 00:00:00,Susetka William,4,A-Award,--D,0,0,2,0001471047,Common share tax-offset right
+A,03/01/2019 00:00:00,Susetka William,4,A-Award,--D,157,7252,1,0001471047,"Common Shares, par value $0.10 per share"
+D,03/01/2019 00:00:00,RAFF BERYL,4,X-InTheMoney,--D,0,0,3,0001228172,Common share tax-offset right
+A,03/01/2019 00:00:00,RAFF BERYL,4,A-Award,--D,0,0,2,0001228172,Common share tax-offset right
+A,03/01/2019 00:00:00,RAFF BERYL,4,A-Award,--D,157,3705,1,0001228172,"Common Shares, par value $0.10 per share"
+A,03/01/2019 00:00:00,CASE THURMAN K,4,X-InTheMoney,--D,0,0,3,0001270350,Common share tax-offset right
+A,03/01/2019 00:00:00,CASE THURMAN K,4,A-Award,--D,0,0,2,0001270350,Common share tax-offset right
+A,03/01/2019 00:00:00,CASE THURMAN K,4,A-Award,--D,157,1570,1,0001270350,"Common Shares, par value $0.10 per share"
+A,03/01/2019 00:00:00,Berry Krista,4,X-InTheMoney,--D,0,0,3,0001702796,Common share tax-offset right
+A,03/01/2019 00:00:00,Berry Krista,4,A-Award,--D,0,0,2,0001702796,Common share tax-offset right
+A,03/01/2019 00:00:00,Berry Krista,4,A-Award,--D,157,1392,1,0001702796,"Common Shares, par value $0.10 per share"
+A,03/01/2019 00:00:00,CARSON VINCENT D,4,X-InTheMoney,--D,0,0,3,0001223872,Common share tax-offset right
+A,03/01/2019 00:00:00,CARSON VINCENT D,4,A-Award,--D,0,0,2,0001223872,Common share tax-offset right
+A,03/01/2019 00:00:00,CARSON VINCENT D,4,A-Award,--D,157,13853,1,0001223872,"Common Shares, par value $0.10 per share"
+D,03/01/2019 00:00:00,Meeker Timothy F,4,X-InTheMoney,--D,0,0,3,0001302118,Common share tax-offset right
+A,03/01/2019 00:00:00,Meeker Timothy F,4,A-Award,--D,0,0,2,0001302118,Common share tax-offset right
+A,03/01/2019 00:00:00,Meeker Timothy F,4,A-Award,--D,157,8685,1,0001302118,"Common Shares, par value $0.10 per share"
+A,03/01/2019 00:00:00,ABROMOVITZ GARY B,4,X-InTheMoney,--D,0,0,3,0001223858,Common share tax-offset right
+A,03/01/2019 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,0,0,2,0001223858,Common share tax-offset right
+A,03/01/2019 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,157,7695,1,0001223858,"Common Shares, par value $0.10 per share"
+D,12/03/2018 00:00:00,Woody Darren G,4,X-InTheMoney,--D,0,0,3,0001302116,Common share tax-offset right
+A,12/03/2018 00:00:00,Woody Darren G,4,A-Award,--D,0,0,2,0001302116,Common share tax-offset right
+A,12/03/2018 00:00:00,Woody Darren G,4,A-Award,--D,121,4828,1,0001302116,"Common Shares, Par value $0.10 per share"
+D,12/03/2018 00:00:00,Susetka William,4,X-InTheMoney,--D,0,0,3,0001471047,Common share tax-offset right
+A,12/03/2018 00:00:00,Susetka William,4,A-Award,--D,0,0,2,0001471047,Common share tax-offset right
+A,12/03/2018 00:00:00,Susetka William,4,A-Award,--D,121,7095,1,0001471047,"Common Shares, par value $0.10 per share"
+D,12/03/2018 00:00:00,RAFF BERYL,4,X-InTheMoney,--D,0,0,3,0001228172,Common share tax-offset right
+A,12/03/2018 00:00:00,RAFF BERYL,4,A-Award,--D,0,0,2,0001228172,Common share tax-offset right
+A,12/03/2018 00:00:00,RAFF BERYL,4,A-Award,--D,121,3548,1,0001228172,"Common Shares, par value $0.10 per share"
+D,12/03/2018 00:00:00,Meeker Timothy F,4,X-InTheMoney,--D,0,0,3,0001302118,Common share tax-offset right
+A,12/03/2018 00:00:00,Meeker Timothy F,4,A-Award,--D,0,0,2,0001302118,Common share tax-offset right
+A,12/03/2018 00:00:00,Meeker Timothy F,4,A-Award,--D,121,8528,1,0001302118,"Common Shares, par value $0.10 per share"
+A,12/03/2018 00:00:00,Berry Krista,4,X-InTheMoney,--D,0,0,3,0001702796,Common share tax-offset right
+A,12/03/2018 00:00:00,Berry Krista,4,A-Award,--D,0,0,2,0001702796,Common share tax-offset right
+A,12/03/2018 00:00:00,Berry Krista,4,A-Award,--D,121,1235,1,0001702796,"Common Shares, par value $0.10 per share"
+A,12/03/2018 00:00:00,CASE THURMAN K,4,X-InTheMoney,--D,0,0,3,0001270350,Common share tax-offset right
+A,12/03/2018 00:00:00,CASE THURMAN K,4,A-Award,--D,0,0,2,0001270350,Common share tax-offset right
+A,12/03/2018 00:00:00,CASE THURMAN K,4,A-Award,--D,121,1413,1,0001270350,"Common Shares, par value $0.10 per share"
+A,12/03/2018 00:00:00,CARSON VINCENT D,4,X-InTheMoney,--D,0,0,3,0001223872,Common share tax-offset right
+A,12/03/2018 00:00:00,CARSON VINCENT D,4,A-Award,--D,0,0,2,0001223872,Common share tax-offset right
+A,12/03/2018 00:00:00,CARSON VINCENT D,4,A-Award,--D,121,13696,1,0001223872,"Common Shares, par value $0.10 per share"
+A,12/03/2018 00:00:00,ABROMOVITZ GARY B,4,X-InTheMoney,--D,0,0,3,0001223858,Common share tax-offset right
+A,12/03/2018 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,0,0,2,0001223858,Common share tax-offset right
+A,12/03/2018 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,121,7538,1,0001223858,"Common Shares, par value $0.10 per share"
+D,11/01/2018 00:00:00,ABROMOVITZ GARY B,4,S-Sale,--D,500,7417,1,0001223858,Common Stock
+D,10/23/2018 00:00:00,ABROMOVITZ GARY B,4,S-Sale,--D,640,7917,1,0001223858,Common Stock
+A,09/18/2018 00:00:00,Mininberg Julien,4,A-Award,--D,50,93328.6403,1,0001597885,"Common Stock, Par Value $0.10 per share"
+A,09/18/2018 00:00:00,Grass Brian,4,A-Award,--D,50,11789.5984,1,0001606522,"Common Stock, par value $.10 per share"
+A,09/01/2018 00:00:00,CARSON VINCENT D,4,X-InTheMoney,--D,0,0,3,0001223872,Common share tax-offset right
+A,09/01/2018 00:00:00,CARSON VINCENT D,4,A-Award,--D,0,0,2,0001223872,Common share tax-offset right
+A,09/01/2018 00:00:00,CARSON VINCENT D,4,A-Award,--D,145,13575,1,0001223872,"Common Shares, par value $0.10 per share"
+D,09/01/2018 00:00:00,Woody Darren G,4,X-InTheMoney,--D,0,0,3,0001302116,Common share tax-offset right
+A,09/01/2018 00:00:00,Woody Darren G,4,A-Award,--D,0,0,2,0001302116,Common share tax-offset right
+A,09/01/2018 00:00:00,Woody Darren G,4,A-Award,--D,145,4707,1,0001302116,"Common Shares, Par value $0.10 per share"
+D,09/01/2018 00:00:00,Susetka William,4,X-InTheMoney,--D,0,0,3,0001471047,Common share tax-offset right
+A,09/01/2018 00:00:00,Susetka William,4,A-Award,--D,0,0,2,0001471047,Common share tax-offset right
+A,09/01/2018 00:00:00,Susetka William,4,A-Award,--D,145,6974,1,0001471047,"Common Shares, par value $0.10 per share"
+D,09/01/2018 00:00:00,RAFF BERYL,4,X-InTheMoney,--D,0,0,3,0001228172,Common share tax-offset right
+A,09/01/2018 00:00:00,RAFF BERYL,4,A-Award,--D,0,0,2,0001228172,Common share tax-offset right
+A,09/01/2018 00:00:00,RAFF BERYL,4,A-Award,--D,145,3427,1,0001228172,"Common Shares, par value $0.10 per share"
+D,09/01/2018 00:00:00,Meeker Timothy F,4,X-InTheMoney,--D,0,0,3,0001302118,Common share tax-offset right
+A,09/01/2018 00:00:00,Meeker Timothy F,4,A-Award,--D,0,0,2,0001302118,Common share tax-offset right
+A,09/01/2018 00:00:00,Meeker Timothy F,4,A-Award,--D,145,8407,1,0001302118,"Common Shares, par value $0.10 per share"
+A,09/01/2018 00:00:00,CASE THURMAN K,4,X-InTheMoney,--D,0,0,3,0001270350,Common share tax-offset right
+A,09/01/2018 00:00:00,CASE THURMAN K,4,A-Award,--D,0,0,2,0001270350,Common share tax-offset right
+A,09/01/2018 00:00:00,CASE THURMAN K,4,A-Award,--D,145,1292,1,0001270350,"Common Shares, par value $0.10 per share"
+A,09/01/2018 00:00:00,Berry Krista,4,X-InTheMoney,--D,0,0,3,0001702796,Common share tax-offset right
+A,09/01/2018 00:00:00,Berry Krista,4,A-Award,--D,0,0,2,0001702796,Common share tax-offset right
+A,09/01/2018 00:00:00,Berry Krista,4,A-Award,--D,145,1114,1,0001702796,"Common Shares, par value $0.10 per share"
+A,09/01/2018 00:00:00,ABROMOVITZ GARY B,4,X-InTheMoney,--D,0,0,3,0001223858,Common share tax-offset right
+A,09/01/2018 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,0,0,2,0001223858,Common share tax-offset right
+A,09/01/2018 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,145,8557,1,0001223858,"Common Shares, par value $0.10 per share"
+D,07/12/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,1206,1500,3,0001223872,Employee Stock Option (Right to Buy)
+D,07/12/2018 00:00:00,CARSON VINCENT D,4,S-Sale,--D,6531,13430,2,0001223872,"Common Stock, Par Value $0.10 per share"
+A,07/12/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,1206,19961,1,0001223872,"Common Stock, Par Value $0.10 per share"
+D,06/04/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,294,2706,11,0001223872,Employee Stock Option (Right to Buy)
+D,06/04/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,3045,3000,10,0001223872,Employee Stock Option (Right to Buy)
+D,06/04/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,4747,6045,9,0001223872,Employee Stock Option (Right to Buy)
+D,06/04/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,7194,10792,8,0001223872,Employee Stock Option (Right to Buy)
+D,06/04/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,5000,17986,7,0001223872,Employee Stock Option (Right to Buy)
+D,06/04/2018 00:00:00,CARSON VINCENT D,4,F-InKind,--D,6850,18755,6,0001223872,"Common Stock, Par Value $0.10 per share"
+A,06/04/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,294,25605,5,0001223872,"Common Stock, Par Value $0.10 per share"
+A,06/04/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,3045,25311,4,0001223872,"Common Stock, Par Value $0.10 per share"
+A,06/04/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,4747,22266,3,0001223872,"Common Stock, Par Value $0.10 per share"
+A,06/04/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,7194,17519,2,0001223872,"Common Stock, Par Value $0.10 per share"
+A,06/04/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,5000,10325,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,06/01/2018 00:00:00,Berry Krista,4,X-InTheMoney,--D,0,0,3,0001702796,Common share tax-offset right
+A,06/01/2018 00:00:00,Berry Krista,4,A-Award,--D,0,0,2,0001702796,Common share tax-offset right
+A,06/01/2018 00:00:00,Berry Krista,4,A-Award,--D,194,969,1,0001702796,"Common Shares, par value $0.10 per share"
+D,06/01/2018 00:00:00,RAFF BERYL,4,X-InTheMoney,--D,0,0,3,0001228172,Common share tax-offset right
+A,06/01/2018 00:00:00,RAFF BERYL,4,A-Award,--D,0,0,2,0001228172,Common share tax-offset right
+A,06/01/2018 00:00:00,RAFF BERYL,4,A-Award,--D,194,3282,1,0001228172,"Common Shares, par value $0.10 per share"
+A,06/01/2018 00:00:00,CASE THURMAN K,4,X-InTheMoney,--D,0,0,3,0001270350,Common share tax-offset right
+A,06/01/2018 00:00:00,CASE THURMAN K,4,A-Award,--D,0,0,2,0001270350,Common share tax-offset right
+A,06/01/2018 00:00:00,CASE THURMAN K,4,A-Award,--D,194,1147,1,0001270350,"Common Shares, par value $0.10 per share"
+D,06/01/2018 00:00:00,Woody Darren G,4,X-InTheMoney,--D,0,0,3,0001302116,Common share tax-offset right
+A,06/01/2018 00:00:00,Woody Darren G,4,A-Award,--D,0,0,2,0001302116,Common share tax-offset right
+A,06/01/2018 00:00:00,Woody Darren G,4,A-Award,--D,194,4562,1,0001302116,"Common Shares, Par value $0.10 per share"
+D,06/01/2018 00:00:00,Susetka William,4,X-InTheMoney,--D,0,0,3,0001471047,Common share tax-offset right
+A,06/01/2018 00:00:00,Susetka William,4,A-Award,--D,0,0,2,0001471047,Common share tax-offset right
+A,06/01/2018 00:00:00,Susetka William,4,A-Award,--D,194,6829,1,0001471047,"Common Shares, par value $0.10 per share"
+D,06/01/2018 00:00:00,Meeker Timothy F,4,X-InTheMoney,--D,0,0,3,0001302118,Common share tax-offset right
+A,06/01/2018 00:00:00,Meeker Timothy F,4,A-Award,--D,0,0,2,0001302118,Common share tax-offset right
+A,06/01/2018 00:00:00,Meeker Timothy F,4,A-Award,--D,194,8262,1,0001302118,"Common Shares, par value $0.10 per share"
+A,06/01/2018 00:00:00,ABROMOVITZ GARY B,4,X-InTheMoney,--D,0,0,3,0001223858,Common share tax-offset right
+A,06/01/2018 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,0,0,2,0001223858,Common share tax-offset right
+A,06/01/2018 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,194,8412,1,0001223858,"Common Shares, par value $0.10 per share"
+D,05/15/2018 00:00:00,Grass Brian,4,F-InKind,--D,540,15115,6,0001606522,"Common Stock, Par Value $0.10 per share"
+A,05/15/2018 00:00:00,Grass Brian,4,A-Award,--D,1286,15655,5,0001606522,"Common Stock, Par Value $0.10 per share"
+D,05/15/2018 00:00:00,Grass Brian,4,F-InKind,--D,1437,14369,4,0001606522,"Common Stock, Par Value $0.10 per share"
+A,05/15/2018 00:00:00,Grass Brian,4,A-Award,--D,3424,15806,3,0001606522,"Common Stock, Par Value $0.10 per share"
+D,05/15/2018 00:00:00,Grass Brian,4,F-InKind,--D,720,12382,2,0001606522,"Common Stock, Par Value $0.10 per share"
+A,05/15/2018 00:00:00,Grass Brian,4,A-Award,--D,1714,13102,1,0001606522,"Common Stock, Par Value $0.10 per share"
+A,05/15/2018 00:00:00,Mininberg Julien,4,F-InKind,--D,3286,93244.62,6,0001597885,"Common Stock, Par Value $0.10 per share"
+A,05/15/2018 00:00:00,Mininberg Julien,4,A-Award,--D,7341,96530.62,5,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/15/2018 00:00:00,Mininberg Julien,4,F-InKind,--D,8762,89189.62,4,0001597885,"Common Stock, Par Value $0.10 per share"
+A,05/15/2018 00:00:00,Mininberg Julien,4,A-Award,--D,19578,97951.62,3,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/15/2018 00:00:00,Mininberg Julien,4,F-InKind,--D,4381,78373.62,2,0001597885,"Common Stock, Par Value $0.10 per share"
+A,05/15/2018 00:00:00,Mininberg Julien,4,A-Award,--D,9788,82754.62,1,0001597885,"Common Stock, Par Value $0.10 per share"
+D,05/15/2018 00:00:00,CARSON VINCENT D,4,F-InKind,--D,771,5325,6,0001223872,"Common Stock, Par Value $0.10 per share"
+A,05/15/2018 00:00:00,CARSON VINCENT D,4,A-Award,--D,1836,6096,5,0001223872,"Common Stock, Par Value $0.10 per share"
+D,05/15/2018 00:00:00,CARSON VINCENT D,4,F-InKind,--D,2053,4260,4,0001223872,"Common Stock, Par Value $0.10 per share"
+A,05/15/2018 00:00:00,CARSON VINCENT D,4,A-Award,--D,4892,6313,3,0001223872,"Common Stock, Par Value $0.10 per share"
+D,05/15/2018 00:00:00,CARSON VINCENT D,4,F-InKind,--D,1027,1421,2,0001223872,"Common Stock, Par Value $0.10 per share"
+A,05/15/2018 00:00:00,CARSON VINCENT D,4,A-Award,--D,2448,2448,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,05/08/2018 00:00:00,Grass Brian,4/A,A-Award,--D,205,11388,1,0001606522,"Common Stock, par value $0.10 per share"
+A,05/08/2018 00:00:00,Grass Brian,4,A-Award,--D,205,11388,1,0001606522,"Common Stock, par value $0.10 per share"
+D,05/02/2018 00:00:00,Grass Brian,4,M-Exempt,--D,1200,23750,6,0001606522,Employee Stock Option (Right to Buy)
+D,05/02/2018 00:00:00,Grass Brian,4,M-Exempt,--D,1200,24950,5,0001606522,Employee Stock Option (Right to Buy)
+D,05/02/2018 00:00:00,Grass Brian,4,S-Sale,--D,1200,11183,4,0001606522,"Common Stock, par value $0.10 per share"
+A,05/02/2018 00:00:00,Grass Brian,4,M-Exempt,--D,1200,12383,3,0001606522,"Common Stock, par value $0.10 per share"
+D,05/02/2018 00:00:00,Grass Brian,4,S-Sale,--D,1200,11183,2,0001606522,"Common Stock, par value $0.10 per share"
+A,05/02/2018 00:00:00,Grass Brian,4,M-Exempt,--D,1200,12383,1,0001606522,"Common Stock, par value $0.10 per share"
+D,05/02/2018 00:00:00,ABROMOVITZ GARY B,4,S-Sale,--D,1000,8218,1,0001223858,"Common Shares, par value $0.10 per share"
+D,05/01/2018 00:00:00,CARSON VINCENT D,4/A,S-Sale,--D,9429,11764,1,0001223872,"Common Stock, Par Value $0.10 per share"
+D,05/01/2018 00:00:00,CARSON VINCENT D,4/A,S-Sale,--D,12014,3452,6,0001223872,"Common Stock, par value $0.10 per share"
+A,05/01/2018 00:00:00,CARSON VINCENT D,4/A,M-Exempt,--D,2753,15466,5,0001223872,"Common Stock, par value $0.10 per share"
+A,05/01/2018 00:00:00,CARSON VINCENT D,4/A,M-Exempt,--D,4500,12713,4,0001223872,"Common Stock, par value $0.10 per share"
+A,05/01/2018 00:00:00,CARSON VINCENT D,4/A,M-Exempt,--D,4455,8213,3,0001223872,"Common Stock, par value $0.10 per share"
+A,05/01/2018 00:00:00,CARSON VINCENT D,4/A,M-Exempt,--D,306,3758,2,0001223872,"Common Stock, par value $0.10 per share"
+D,05/01/2018 00:00:00,CARSON VINCENT D,4/A,S-Sale,--D,10879,3452,1,0001223872,"Common Stock, par value $0.10 per share"
+D,05/01/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,2753,22986,10,0001223872,Employee Stock Option (Right to Buy)
+D,05/01/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,4500,25739,9,0001223872,Employee Stock Option (Right to Buy)
+D,05/01/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,4455,30239,8,0001223872,Employee Stock Option (Right to Buy)
+D,05/01/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,306,34694,7,0001223872,Employee Stock Option (Right to Buy)
+D,05/01/2018 00:00:00,CARSON VINCENT D,4,S-Sale,--D,12014,0,6,0001223872,"Common Stock, par value $0.10 per share"
+A,05/01/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,2753,12014,5,0001223872,"Common Stock, par value $0.10 per share"
+A,05/01/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,4500,9261,4,0001223872,"Common Stock, par value $0.10 per share"
+A,05/01/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,4455,4761,3,0001223872,"Common Stock, par value $0.10 per share"
+A,05/01/2018 00:00:00,CARSON VINCENT D,4,M-Exempt,--D,306,306,2,0001223872,"Common Stock, par value $0.10 per share"
+D,05/01/2018 00:00:00,CARSON VINCENT D,4,S-Sale,--D,10879,0,1,0001223872,"Common Stock, par value $0.10 per share"
+D,03/07/2018 00:00:00,CARSON VINCENT D,4/A,F-InKind,--D,640,14331,2,0001223872,"Common Stock, par value $0.10 per share"
+A,03/07/2018 00:00:00,CARSON VINCENT D,4/A,A-Award,--D,1450,14971,1,0001223872,"Common Stock, par value $0.10 per share"
+A,03/07/2018 00:00:00,CARSON VINCENT D,4,A-Award,--D,1450,15469,1,0001223872,"Common Stock, Par Value $0.10 per share"
+A,03/07/2018 00:00:00,Grass Brian,4,A-Award,--D,2030,11183,1,0001606522,"Common Stock, Par value $0.10 per share"
+A,03/07/2018 00:00:00,Mininberg Julien,4,A-Award,--D,9280,72966.62,1,0001597885,"Common Stock, Par value $0.10 per share"
+D,03/02/2018 00:00:00,Mininberg Julien,4,F-InKind,--D,2583,40724.2059,1,0001597885,"Common Stock, Par Value $0.10 per share"
+D,03/01/2018 00:00:00,Susetka William,4,X-InTheMoney,--D,0,0,3,0001471047,Common share tax-offset right
+A,03/01/2018 00:00:00,Susetka William,4,A-Award,--D,0,0,2,0001471047,Common share tax-offset right
+A,03/01/2018 00:00:00,Susetka William,4,A-Award,--D,197,7375,1,0001471047,"Common Shares, par value $0.10 per share"
+D,03/01/2018 00:00:00,Woody Darren G,4,X-InTheMoney,--D,0,0,3,0001302116,Common share tax-offset right
+A,03/01/2018 00:00:00,Woody Darren G,4,A-Award,--D,0,0,2,0001302116,Common share tax-offset right
+A,03/01/2018 00:00:00,Woody Darren G,4,A-Award,--D,197,4368,1,0001302116,"Common Shares, Par value $0.10 per share"
+D,03/01/2018 00:00:00,RAFF BERYL,4,X-InTheMoney,--D,0,0,3,0001228172,Common share tax-offset right
+A,03/01/2018 00:00:00,RAFF BERYL,4,A-Award,--D,0,0,2,0001228172,Common share tax-offset right
+A,03/01/2018 00:00:00,RAFF BERYL,4,A-Award,--D,197,3088,1,0001228172,"Common Shares, par value $0.10 per share"
+D,03/01/2018 00:00:00,Meeker Timothy F,4,X-InTheMoney,--D,0,0,3,0001302118,Common share tax-offset right
+A,03/01/2018 00:00:00,Meeker Timothy F,4,A-Award,--D,0,0,2,0001302118,Common share tax-offset right
+A,03/01/2018 00:00:00,Meeker Timothy F,4,A-Award,--D,197,8068,1,0001302118,"Common Shares, par value $0.10 per share"
+A,03/01/2018 00:00:00,CASE THURMAN K,4,X-InTheMoney,--D,0,0,3,0001270350,Common share tax-offset right
+A,03/01/2018 00:00:00,CASE THURMAN K,4,A-Award,--D,0,0,2,0001270350,Common share tax-offset right
+A,03/01/2018 00:00:00,CASE THURMAN K,4,A-Award,--D,197,953,1,0001270350,"Common Shares, par value $0.10 per share"
+A,03/01/2018 00:00:00,Berry Krista,4,X-InTheMoney,--D,0,0,3,0001702796,Common share tax-offset right
+A,03/01/2018 00:00:00,Berry Krista,4,A-Award,--D,0,0,2,0001702796,Common share tax-offset right
+A,03/01/2018 00:00:00,Berry Krista,4,A-Award,--D,197,775,1,0001702796,"Common Shares, par value $0.10 per share"
+A,03/01/2018 00:00:00,ABROMOVITZ GARY B,4,X-InTheMoney,--D,0,0,3,0001223858,Common share tax-offset right
+A,03/01/2018 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,0,0,2,0001223858,Common share tax-offset right
+A,03/01/2018 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,197,9218,1,0001223858,"Common Shares, par value $0.10 per share"
+D,12/01/2017 00:00:00,Woody Darren G,4,X-InTheMoney,--D,0,0,3,0001302116,Common share tax-offset right
+A,12/01/2017 00:00:00,Woody Darren G,4,A-Award,--D,0,0,2,0001302116,Common share tax-offset right
+A,12/01/2017 00:00:00,Woody Darren G,4,A-Award,--D,197,4171,1,0001302116,"Common Shares, Par value $0.10 per share"
+D,12/01/2017 00:00:00,Susetka William,4,X-InTheMoney,--D,0,0,3,0001471047,Common share tax-offset right
+A,12/01/2017 00:00:00,Susetka William,4,A-Award,--D,0,0,2,0001471047,Common share tax-offset right
+A,12/01/2017 00:00:00,Susetka William,4,A-Award,--D,197,7178,1,0001471047,"Common Shares, par value $0.10 per share"
+A,12/01/2017 00:00:00,CASE THURMAN K,4,X-InTheMoney,--D,0,0,3,0001270350,Common share tax-offset right
+A,12/01/2017 00:00:00,CASE THURMAN K,4,A-Award,--D,0,0,2,0001270350,Common share tax-offset right
+A,12/01/2017 00:00:00,CASE THURMAN K,4,A-Award,--D,197,756,1,0001270350,"Common Shares, par value $0.10 per share"
+A,12/01/2017 00:00:00,Berry Krista,4,X-InTheMoney,--D,0,0,3,0001702796,Common share tax-offset right
+A,12/01/2017 00:00:00,Berry Krista,4,A-Award,--D,0,0,2,0001702796,Common share tax-offset right
+A,12/01/2017 00:00:00,Berry Krista,4,A-Award,--D,197,578,1,0001702796,"Common Shares, par value $0.10 per share"
+D,12/01/2017 00:00:00,RAFF BERYL,4,X-InTheMoney,--D,0,0,3,0001228172,Common share tax-offset right
+A,12/01/2017 00:00:00,RAFF BERYL,4,A-Award,--D,0,0,2,0001228172,Common share tax-offset right
+A,12/01/2017 00:00:00,RAFF BERYL,4,A-Award,--D,197,2891,1,0001228172,"Common Shares, par value $0.10 per share"
+D,12/01/2017 00:00:00,Meeker Timothy F,4,X-InTheMoney,--D,0,0,3,0001302118,Common share tax-offset right
+A,12/01/2017 00:00:00,Meeker Timothy F,4,A-Award,--D,0,0,2,0001302118,Common share tax-offset right
+A,12/01/2017 00:00:00,Meeker Timothy F,4,A-Award,--D,197,7871,1,0001302118,"Common Shares, par value $0.10 per share"
+A,12/01/2017 00:00:00,ABROMOVITZ GARY B,4,X-InTheMoney,--D,0,0,3,0001223858,Common share tax-offset right
+A,12/01/2017 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,0,0,2,0001223858,Common share tax-offset right
+A,12/01/2017 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,197,9021,1,0001223858,"Common Shares, par value $0.10 per share"
+D,10/23/2017 00:00:00,Meeker Timothy F,4,S-Sale,--D,2500,7674,1,0001302118,"Common stock, par value $0.10 per shar"
+A,09/01/2017 00:00:00,Berry Krista,4,X-InTheMoney,--D,0,0,3,0001702796,Common share tax-offset right
+A,09/01/2017 00:00:00,Berry Krista,4,A-Award,--D,0,0,2,0001702796,Common share tax-offset right
+A,09/01/2017 00:00:00,Berry Krista,4,A-Award,--D,193,381,1,0001702796,"Common Shares, par value $0.10 per share"
+A,09/01/2017 00:00:00,CASE THURMAN K,4,X-InTheMoney,--D,0,0,3,0001270350,Common share tax-offset right
+A,09/01/2017 00:00:00,CASE THURMAN K,4,A-Award,--D,0,0,2,0001270350,Common share tax-offset right
+A,09/01/2017 00:00:00,CASE THURMAN K,4,A-Award,--D,193,559,1,0001270350,"Common Shares, par value $0.10 per share"
+D,09/01/2017 00:00:00,Susetka William,4,X-InTheMoney,--D,0,0,3,0001471047,Common share tax-offset right
+A,09/01/2017 00:00:00,Susetka William,4,A-Award,--D,0,0,2,0001471047,Common share tax-offset right
+A,09/01/2017 00:00:00,Susetka William,4,A-Award,--D,193,6981,1,0001471047,"Common Shares, par value $0.10 per share"
+D,09/01/2017 00:00:00,Woody Darren G,4,X-InTheMoney,--D,0,0,3,0001302116,Common share tax-offset right
+A,09/01/2017 00:00:00,Woody Darren G,4,A-Award,--D,0,0,2,0001302116,Common share tax-offset right
+A,09/01/2017 00:00:00,Woody Darren G,4,A-Award,--D,193,3974,1,0001302116,"Common Shares, Par value $0.10 per share"
+D,09/01/2017 00:00:00,RAFF BERYL,4,X-InTheMoney,--D,0,0,3,0001228172,Common share tax-offset right
+A,09/01/2017 00:00:00,RAFF BERYL,4,A-Award,--D,0,0,2,0001228172,Common share tax-offset right
+A,09/01/2017 00:00:00,RAFF BERYL,4,A-Award,--D,193,2694,1,0001228172,"Common Shares, par value $0.10 per share"
+D,09/01/2017 00:00:00,Meeker Timothy F,4,X-InTheMoney,--D,0,0,3,0001302118,Common share tax-offset right
+A,09/01/2017 00:00:00,Meeker Timothy F,4,A-Award,--D,0,0,2,0001302118,Common share tax-offset right
+A,09/01/2017 00:00:00,Meeker Timothy F,4,A-Award,--D,193,10174,1,0001302118,"Common Shares, par value $0.10 per share"
+A,09/01/2017 00:00:00,ABROMOVITZ GARY B,4,X-InTheMoney,--D,0,0,3,0001223858,Common share tax-offset right
+A,09/01/2017 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,0,0,2,0001223858,Common share tax-offset right
+A,09/01/2017 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,193,8824,1,0001223858,"Common Shares, par value $0.10 per share"
+A,06/01/2017 00:00:00,Berry Krista,4,X-InTheMoney,--D,0,0,3,0001702796,Common share tax-offset right
+A,06/01/2017 00:00:00,Berry Krista,4,A-Award,--D,0,0,2,0001702796,Common share tax-offset right
+A,06/01/2017 00:00:00,Berry Krista,4,A-Award,--D,188,188,1,0001702796,"Common Shares, par value $0.10 per share"
+D,06/01/2017 00:00:00,Woody Darren G,4,X-InTheMoney,--D,0,0,3,0001302116,Common share tax-offset right
+A,06/01/2017 00:00:00,Woody Darren G,4,A-Award,--D,0,0,2,0001302116,Common share tax-offset right
+A,06/01/2017 00:00:00,Woody Darren G,4,A-Award,--D,188,3781,1,0001302116,"Common Shares, Par value $0.10 per share"
+D,06/01/2017 00:00:00,Susetka William,4,X-InTheMoney,--D,0,0,3,0001471047,Common share tax-offset right
+A,06/01/2017 00:00:00,Susetka William,4,A-Award,--D,0,0,2,0001471047,Common share tax-offset right
+A,06/01/2017 00:00:00,Susetka William,4,A-Award,--D,188,6981,1,0001471047,"Common Shares, par value $0.10 per share"
+A,06/01/2017 00:00:00,CASE THURMAN K,4,X-InTheMoney,--D,0,0,3,0001270350,Common share tax-offset right
+A,06/01/2017 00:00:00,CASE THURMAN K,4,A-Award,--D,0,0,2,0001270350,Common share tax-offset right
+A,06/01/2017 00:00:00,CASE THURMAN K,4,A-Award,--D,188,366,1,0001270350,"Common Shares, par value $0.10 per share"
+D,06/01/2017 00:00:00,RAFF BERYL,4,X-InTheMoney,--D,0,0,3,0001228172,Common share tax-offset right
+A,06/01/2017 00:00:00,RAFF BERYL,4,A-Award,--D,0,0,2,0001228172,Common share tax-offset right
+D,06/01/2017 00:00:00,Meeker Timothy F,4,X-InTheMoney,--D,0,0,3,0001302118,Common share tax-offset right
+A,06/01/2017 00:00:00,Meeker Timothy F,4,A-Award,--D,0,0,2,0001302118,Common share tax-offset right
+A,06/01/2017 00:00:00,Meeker Timothy F,4,A-Award,--D,188,9981,1,0001302118,"Common Shares, par value $0.10 per share"
+D,06/01/2017 00:00:00,BUTTERWORTH JOHN B,4,X-InTheMoney,--D,0,0,3,0001223860,Common share tax-offset right
+A,06/01/2017 00:00:00,BUTTERWORTH JOHN B,4,A-Award,--D,0,0,2,0001223860,Common share tax-offset right
+A,06/01/2017 00:00:00,BUTTERWORTH JOHN B,4,A-Award,--D,188,7631,1,0001223860,"Common Stock, par value $0.10 per share"
+A,06/01/2017 00:00:00,ABROMOVITZ GARY B,4,X-InTheMoney,--D,0,0,3,0001223858,Common share tax-offset right
+A,06/01/2017 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,0,0,2,0001223858,Common share tax-offset right
+A,06/01/2017 00:00:00,ABROMOVITZ GARY B,4,A-Award,--D,188,8631,1,0001223858,"Common Shares, par value $0.10 per share"
+A,05/16/2017 00:00:00,OPPENHEIM RICHARD J,4,S-Sale,--D,1058,756,1,0001261305,"Common Stock, par value $0.10 per share"
+D,05/15/2017 00:00:00,CARSON VINCENT D,4,F-InKind,--D,1198,14019,6,0001223872,"Common Stock, par value $0.10 per share"
+A,05/15/2017 00:00:00,CARSON VINCENT D,4,A-Award,--D,2854,15217,5,0001223872,"Common Stock, par value $0.10 per share"
+D,05/15/2017 00:00:00,CARSON VINCENT D,4,F-InKind,--D,2396,12363,4,0001223872,"Common Stock, par value $0.10 per share"
+A,05/15/2017 00:00:00,CARSON VINCENT D,4,A-Award,--D,5710,14759,3,0001223872,"Common Stock, par value $0.10 per share"
+D,05/15/2017 00:00:00,CARSON VINCENT D,4,F-InKind,--D,1198,9049,2,0001223872,"Common Stock, par value $0.10 per share"
+A,05/15/2017 00:00:00,CARSON VINCENT D,4,A-Award,--D,2854,10247,1,0001223872,"Common Stock, par value $0.10 per share"
+D,05/15/2017 00:00:00,OPPENHEIM RICHARD J,4,F-InKind,--D,100,1814,6,0001261305,"Common Stock, par value $0.10 per share"
+A,05/15/2017 00:00:00,OPPENHEIM RICHARD J,4,A-Award,--D,364,1914,5,0001261305,"Common Stock, par value $0.10 per share"
+D,05/15/2017 00:00:00,OPPENHEIM RICHARD J,4,F-InKind,--D,197,1550,4,0001261305,"Common Stock, par value $0.10 per share"
+A,05/15/2017 00:00:00,OPPENHEIM RICHARD J,4,A-Award,--D,724,1747,3,0001261305,"Common Stock, par value $0.10 per share"
+D,05/15/2017 00:00:00,OPPENHEIM RICHARD J,4,F-InKind,--D,97,1023,2,0001261305,"Common Stock, par value $0.10 per share"
+A,05/15/2017 00:00:00,OPPENHEIM RICHARD J,4,A-Award,--D,346,1120,1,0001261305,"Common Stock, par value $0.10 per share"
+D,05/15/2017 00:00:00,Grass Brian,4,F-InKind,--D,766,8757,6,0001606522,"Common Stock, par value $0.10 per share"
+A,05/15/2017 00:00:00,Grass Brian,4,A-Award,--D,1824,9523,5,0001606522,"Common Stock, par value $0.10 per share"
+D,05/15/2017 00:00:00,Grass Brian,4,F-InKind,--D,1532,7699,4,0001606522,"Common Stock, par value $0.10 per share"
+A,05/15/2017 00:00:00,Grass Brian,4,A-Award,--D,3650,9231,3,0001606522,"Common Stock, par value $0.10 per share"
+D,05/15/2017 00:00:00,Grass Brian,4,F-InKind,--D,766,5581,2,0001606522,"Common Stock, par value $0.10 per share"
+A,05/15/2017 00:00:00,Grass Brian,4,A-Award,--D,1824,6347,1,0001606522,"Common Stock, Par value $0.10 per share"
+D,05/15/2017 00:00:00,Mininberg Julien,4,F-InKind,--D,6172,63686.62,6,0001597885,"Common Stock, par value $0.10 per share"
+A,05/15/2017 00:00:00,Mininberg Julien,4,A-Award,--D,13034,69858.62,5,0001597885,"Common Stock, par value $0.10 per share"
+D,05/15/2017 00:00:00,Mininberg Julien,4,F-InKind,--D,12344,56824.62,4,0001597885,"Common Stock, par value $0.10 per share"
+A,05/15/2017 00:00:00,Mininberg Julien,4,A-Award,--D,26068,69168.62,3,0001597885,"Common Stock, par value $0.10 per share"
+D,05/15/2017 00:00:00,Mininberg Julien,4,F-InKind,--D,6172,43100.62,2,0001597885,"Common Stock, par value $0.10 par value"
+A,05/15/2017 00:00:00,Mininberg Julien,4,A-Award,--D,13034,49272.62,1,0001597885,"Common Stock, par value $0.10 per share"
+A,05/10/2017 00:00:00,OPPENHEIM RICHARD J,4,A-Award,--D,190,418,1,0001261305,"Common Stock, par value $0.10 per share"
+A,05/10/2017 00:00:00,Grass Brian,4,A-Award,--D,525,4523,1,0001606522,"Common Stock, Par value $0.10 per share"
+D,05/09/2017 00:00:00,ABROMOVITZ GARY B,4,S-Sale,--D,300,8443,2,0001223858,"Common Shares, par value $0.10 per share"
+D,05/09/2017 00:00:00,ABROMOVITZ GARY B,4,S-Sale,--D,2700,8743,1,0001223858,"Common Shares, par value $0.10 per share"
+A,05/08/2017 00:00:00,OPPENHEIM RICHARD J,4,M-Exempt,--D,500,1750,9,0001261305,Employee Stock Option (Right to Buy)
+A,05/08/2017 00:00:00,OPPENHEIM RICHARD J,4,M-Exempt,--D,625,2250,8,0001261305,Employee Stock Option (Right To Buy)
+A,05/08/2017 00:00:00,OPPENHEIM RICHARD J,4,M-Exempt,--D,900,2875,7,0001261305,Employee Stock Option (Right To Buy)
+D,05/08/2017 00:00:00,OPPENHEIM RICHARD J,4,S-Sale,--D,500,228,6,0001261305,"Common Stock, par value $0.10 per share"
+A,05/08/2017 00:00:00,OPPENHEIM RICHARD J,4,M-Exempt,--D,500,728,5,0001261305,"Common Stock, par value $0.10 per share"
+D,05/08/2017 00:00:00,OPPENHEIM RICHARD J,4,S-Sale,--D,625,228,4,0001261305,"Common Stock, par value $0.10 per share"
+A,05/08/2017 00:00:00,OPPENHEIM RICHARD J,4,M-Exempt,--D,625,853,3,0001261305,"Common Stock, par value $0.10 per share"
+D,05/08/2017 00:00:00,OPPENHEIM RICHARD J,4,S-Sale,--D,900,228,2,0001261305,"Common Stock, par value $0.10 per share"
+A,05/08/2017 00:00:00,OPPENHEIM RICHARD J,4,M-Exempt,--D,900,1128,1,0001261305,"Common Stock, par value $0.10 per share"
+A,03/01/2017 00:00:00,CARSON VINCENT D,4/A,A-Award,--D,1269,6895,1,0001223872,"Common Stock, par value $0.10 per share"
+A,03/01/2017 00:00:00,RAFF BERYL,4,A-Award,--D,188,2501,1,0001228172,"Common Shares, par value $0.10 per share"
+A,03/01/2017 00:00:00,Mininberg Julien,4,A-Award,--D,8125,36238.62,2,0001597885,"Common Stock, par value $0.10 par value"
+D,03/01/2017 00:00:00,Mininberg Julien,4,F-InKind,--D,761,28113.62,1,0001597885,"Common Stock, par value $0.10 per share"
+A,03/01/2017 00:00:00,CARSON VINCENT D,4,A-Award,--D,1767,7393,2,0001223872,"Common Stock, par value $0.10 per share"
+D,03/01/2017 00:00:00,CARSON VINCENT D,4,F-InKind,--D,505,5626,1,0001223872,"Common Stock, par value $0.10 per share"
+D,03/01/2017 00:00:00,OPPENHEIM RICHARD J,4,F-InKind,--D,73,485,1,0001261305,"Common Stock, par value $0.10 per share"
+A,03/01/2017 00:00:00,Grass Brian,4,A-Award,--D,1269,4919,2,0001606522,"Common Stock, par value $0.10 per share"

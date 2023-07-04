@@ -1,0 +1,721 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/12/2023 00:00:00,HINSON JEFFREY T.,4,S-Sale,--D,1000,60975,2,0001248251,Common Stock
+A,06/09/2023 00:00:00,Carter Maverick,4,A-Award,--D,2444,15898,1,0001762031,Common Stock
+A,06/09/2023 00:00:00,Fu Ping,4,A-Award,--D,2444,18214,1,0001742720,Common Stock
+A,06/09/2023 00:00:00,HINSON JEFFREY T.,4,A-Award,--D,2444,61975,1,0001248251,Common Stock
+A,06/09/2023 00:00:00,Hollingsworth Chad,4,A-Award,--D,2444,10266,1,0001634652,Common Stock
+A,06/09/2023 00:00:00,Iovine Jimmy,4,A-Award,--D,2444,35236,1,0001626781,Common Stock
+A,06/09/2023 00:00:00,KAHAN JAMES S,4,A-Award,--D,2444,10387,1,0001183261,Common Stock
+A,06/09/2023 00:00:00,MAFFEI GREGORY B,4,A-Award,--D,4644,107583,1,0001099636,Common Stock
+A,06/09/2023 00:00:00,Paul Richard A.,4,A-Award,--D,2444,2813,1,0001869726,Common Stock
+A,06/09/2023 00:00:00,Watkins Latriece,4,A-Award,--D,2444,5285,1,0001886367,Common Stock
+A,06/09/2023 00:00:00,MAYS RANDALL THOMAS,4,A-Award,--D,2444,107107,1,0001212885,Common Stock
+D,05/08/2023 00:00:00,Rowles Michael,4,M-Exempt,--D,100000,0,3,0001356771,Stock Option (buy)
+D,05/08/2023 00:00:00,Rowles Michael,4,S-Sale,--D,100000,157786,2,0001356771,Common Stock
+A,05/08/2023 00:00:00,Rowles Michael,4,M-Exempt,--D,100000,257786,1,0001356771,Common Stock
+A,04/11/2023 00:00:00,Paul Richard A.,4,A-Award,--D,369,369,1,0001869726,Common Stock
+D,03/31/2023 00:00:00,Rowles Michael,4,F-InKind,--D,1474,157786,1,0001356771,Common Stock
+D,03/31/2023 00:00:00,Berchtold Joe,4,F-InKind,--D,12728,442107,1,0001552281,Common Stock
+D,03/31/2023 00:00:00,Hopmans John,4,F-InKind,--D,2086,45936,1,0001870543,Common Stock
+D,03/31/2023 00:00:00,Rapino Michael,4,F-InKind,--D,22204,3464442,1,0001337041,Common Stock
+D,03/31/2023 00:00:00,Capo Brian,4,F-InKind,--D,394,10588,1,0001439115,Common Stock
+A,03/20/2023 00:00:00,Hopmans John,4,A-Award,--D,14798,48022,1,0001870543,Common Stock
+A,03/20/2023 00:00:00,Capo Brian,4,A-Award,--D,2242,10982,1,0001439115,Common Stock
+D,02/26/2023 00:00:00,Rowles Michael,4,F-InKind,--D,346,159260,2,0001356771,Common Stock
+D,02/26/2023 00:00:00,Capo Brian,4,F-InKind,--D,224,8740,2,0001439115,Common Stock
+D,02/25/2023 00:00:00,Rowles Michael,4,F-InKind,--D,327,159606,1,0001356771,Common Stock
+D,02/25/2023 00:00:00,Hopmans John,4,F-InKind,--D,2191,33224,1,0001870543,Common Stock
+D,02/25/2023 00:00:00,Capo Brian,4,F-InKind,--D,168,8964,1,0001439115,Common Stock
+D,12/31/2022 00:00:00,Rapino Michael,4,F-InKind,--D,652737,3486646,1,0001337041,Common Stock
+D,12/31/2022 00:00:00,Berchtold Joe,4,F-InKind,--D,394875,454835,1,0001552281,Common Stock
+A,12/21/2022 00:00:00,Rowles Michael,4,A-Award,--D,74469,74469,2,0001356771,Performance Share Award
+A,12/21/2022 00:00:00,Berchtold Joe,4,A-Award,--D,744691,744691,2,0001552281,Performance Share Award
+D,12/13/2022 00:00:00,Rapino Michael,4,G-Gift,-ED,33966,4139383,1,0001337041,Common Stock
+D,12/09/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,900000,0,3,0001337041,Stock Option (buy)
+D,12/09/2022 00:00:00,Rapino Michael,4,F-InKind,--D,525924,4173349,2,0001337041,Common Stock
+A,12/09/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,900000,4699273,1,0001337041,Common Stock
+A,12/01/2022 00:00:00,Iovine Jimmy,4,P-Purchase,--I,13740,13740,1,0001626781,Common Stock
+D,09/23/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,900000,18,0001337041,Stock Option (buy)
+D,09/23/2022 00:00:00,Rapino Michael,4,S-Sale,--D,2802,3799273,15,0001337041,Common Stock
+D,09/23/2022 00:00:00,Rapino Michael,4,S-Sale,--D,30343,3802075,14,0001337041,Common Stock
+D,09/23/2022 00:00:00,Rapino Michael,4,S-Sale,--D,44855,3832418,13,0001337041,Common Stock
+A,09/23/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3877273,12,0001337041,Common Stock
+D,09/22/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,1000000,17,0001337041,Stock Option (buy)
+D,09/22/2022 00:00:00,Rapino Michael,4,S-Sale,--D,1600,3777273,11,0001337041,Common Stock
+D,09/22/2022 00:00:00,Rapino Michael,4,S-Sale,--D,2670,3778873,10,0001337041,Common Stock
+D,09/22/2022 00:00:00,Rapino Michael,4,S-Sale,--D,14813,3781543,9,0001337041,Common Stock
+D,09/22/2022 00:00:00,Rapino Michael,4,S-Sale,--D,58917,3796356,8,0001337041,Common Stock
+A,09/22/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3855273,7,0001337041,Common Stock
+D,09/21/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,1100000,16,0001337041,Stock Option (buy)
+D,09/21/2022 00:00:00,Rapino Michael,4,S-Sale,--D,100,3755273,6,0001337041,Common Stock
+D,09/21/2022 00:00:00,Rapino Michael,4,S-Sale,--D,7500,3755373,5,0001337041,Common Stock
+D,09/21/2022 00:00:00,Rapino Michael,4,S-Sale,--D,41026,3762873,4,0001337041,Common Stock
+D,09/21/2022 00:00:00,Rapino Michael,4,S-Sale,--D,13132,3803899,3,0001337041,Common Stock
+D,09/21/2022 00:00:00,Rapino Michael,4,S-Sale,--D,16242,3817031,2,0001337041,Common Stock
+A,09/21/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3833273,1,0001337041,Common Stock
+D,09/16/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,1200000,16,0001337041,Stock Option (buy)
+D,09/16/2022 00:00:00,Rapino Michael,4,S-Sale,--D,15240,3733273,13,0001337041,Common Stock
+D,09/16/2022 00:00:00,Rapino Michael,4,S-Sale,--D,15822,3748513,12,0001337041,Common Stock
+D,09/16/2022 00:00:00,Rapino Michael,4,S-Sale,--D,46938,3764335,11,0001337041,Common Stock
+A,09/16/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3811273,10,0001337041,Common Stock
+D,09/15/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,1300000,15,0001337041,Stock Option (buy)
+D,09/15/2022 00:00:00,Rapino Michael,4,S-Sale,--D,9297,3711273,9,0001337041,Common Stock
+D,09/15/2022 00:00:00,Rapino Michael,4,S-Sale,--D,26831,3720570,8,0001337041,Common Stock
+D,09/15/2022 00:00:00,Rapino Michael,4,S-Sale,--D,41872,3747401,7,0001337041,Common Stock
+A,09/15/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3789273,6,0001337041,Common Stock
+D,09/14/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,1400000,14,0001337041,Stock Option (buy)
+D,09/14/2022 00:00:00,Rapino Michael,4,S-Sale,--D,15320,3689273,5,0001337041,Common Stock
+D,09/14/2022 00:00:00,Rapino Michael,4,S-Sale,--D,39890,3704593,4,0001337041,Common Stock
+D,09/14/2022 00:00:00,Rapino Michael,4,S-Sale,--D,7690,3744483,3,0001337041,Common Stock
+D,09/14/2022 00:00:00,Rapino Michael,4,S-Sale,--D,15100,3752173,2,0001337041,Common Stock
+A,09/14/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3767273,1,0001337041,Common Stock
+D,09/09/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,1500000,13,0001337041,Stock Option (buy)
+D,09/09/2022 00:00:00,Rapino Michael,4,S-Sale,--D,34302,3667273,10,0001337041,Common Stock
+D,09/09/2022 00:00:00,Rapino Michael,4,S-Sale,--D,43698,3701575,9,0001337041,Common Stock
+A,09/09/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3745273,8,0001337041,Common Stock
+D,09/08/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,1600000,12,0001337041,Stock Option (buy)
+D,09/08/2022 00:00:00,Rapino Michael,4,S-Sale,--D,64177,3645273,7,0001337041,Common Stock
+D,09/08/2022 00:00:00,Rapino Michael,4,S-Sale,--D,13823,3709450,6,0001337041,Common Stock
+A,09/08/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3723273,5,0001337041,Common Stock
+D,09/07/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,1700000,11,0001337041,Stock Option (buy)
+D,09/07/2022 00:00:00,Rapino Michael,4,S-Sale,--D,24916,3623273,4,0001337041,Common Stock
+D,09/07/2022 00:00:00,Rapino Michael,4,S-Sale,--D,20104,3648189,3,0001337041,Common Stock
+D,09/07/2022 00:00:00,Rapino Michael,4,S-Sale,--D,32980,3668293,2,0001337041,Common Stock
+A,09/07/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3701273,1,0001337041,Common Stock
+D,08/16/2022 00:00:00,Berchtold Joe,4,F-InKind,--D,5865,849710,1,0001552281,Common Stock
+D,08/16/2022 00:00:00,Rowles Michael,4,F-InKind,--D,2549,159933,1,0001356771,Common Stock
+D,08/16/2022 00:00:00,Rapino Michael,4,F-InKind,--D,26206,3601273,1,0001337041,Common Stock
+D,08/16/2022 00:00:00,HINSON JEFFREY T.,4,G-Gift,--D,1000,59531,2,0001248251,Common Stock
+D,08/16/2022 00:00:00,HINSON JEFFREY T.,4,S-Sale,--D,500,60531,1,0001248251,Common Stock
+D,08/16/2022 00:00:00,Hopmans John,4,F-InKind,--D,5821,35415,1,0001870543,Common Stock
+D,07/26/2022 00:00:00,Rapino Michael,4,F-InKind,--D,6266,3627479,1,0001337041,Common Stock
+A,07/01/2022 00:00:00,Rapino Michael,4,A-Award,--D,1117037,1117037,2,0001337041,Performance Share Award
+A,07/01/2022 00:00:00,Rapino Michael,4,A-Award,--D,333751,3633745,1,0001337041,Common Stock
+A,06/16/2022 00:00:00,HINSON JEFFREY T.,4,A-Award,--D,1640,61031,1,0001248251,Common Stock
+A,06/16/2022 00:00:00,MAFFEI GREGORY B,4,A-Award,--D,3215,102939,1,0001099636,Common Stock
+A,06/16/2022 00:00:00,Fu Ping,4,A-Award,--D,1640,15770,1,0001742720,Common Stock
+A,06/16/2022 00:00:00,Carter Maverick,4,A-Award,--D,1640,13454,1,0001762031,Common Stock
+A,06/16/2022 00:00:00,Iovine Jimmy,4,A-Award,--D,1640,32792,1,0001626781,Common Stock
+A,06/16/2022 00:00:00,Watkins Latriece,4,A-Award,--D,1640,2841,1,0001886367,Common Stock
+A,06/16/2022 00:00:00,Hollingsworth Chad,4,A-Award,--D,1640,7822,1,0001634652,Common Stock
+A,06/16/2022 00:00:00,Walden Dana,4,A-Award,--D,1640,13539,1,0001742733,Common Stock
+A,06/16/2022 00:00:00,KAHAN JAMES S,4,A-Award,--D,1640,7943,1,0001183261,Common Stock
+A,06/16/2022 00:00:00,MAYS RANDALL THOMAS,4,A-Award,--D,1640,104663,1,0001212885,Common Stock
+D,05/30/2022 00:00:00,Rapino Michael,4,F-InKind,--D,6634,3299994,1,0001337041,Common Stock
+D,05/24/2022 00:00:00,Rapino Michael,4,F-InKind,--D,5529,3306628,1,0001337041,Common Stock
+D,05/10/2022 00:00:00,Hopmans John,4,F-InKind,--D,5821,41236,1,0001870543,Common Stock
+D,05/10/2022 00:00:00,Rowles Michael,4,F-InKind,--D,2550,162482,1,0001356771,Common Stock
+D,05/10/2022 00:00:00,Berchtold Joe,4,F-InKind,--D,5866,855575,1,0001552281,Common Stock
+D,05/10/2022 00:00:00,Rapino Michael,4,F-InKind,--D,24363,3312157,1,0001337041,Common Stock
+D,05/06/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,1800000,30,0001337041,Stock Option (buy)
+D,05/06/2022 00:00:00,Rapino Michael,4,S-Sale,--D,1836,3336520,27,0001337041,Common Stock
+D,05/06/2022 00:00:00,Rapino Michael,4,S-Sale,--D,13079,3338356,26,0001337041,Common Stock
+D,05/06/2022 00:00:00,Rapino Michael,4,S-Sale,--D,9980,3351435,25,0001337041,Common Stock
+D,05/06/2022 00:00:00,Rapino Michael,4,S-Sale,--D,8368,3361415,24,0001337041,Common Stock
+D,05/06/2022 00:00:00,Rapino Michael,4,S-Sale,--D,26355,3369783,23,0001337041,Common Stock
+D,05/06/2022 00:00:00,Rapino Michael,4,S-Sale,--D,7499,3396138,22,0001337041,Common Stock
+D,05/06/2022 00:00:00,Rapino Michael,4,S-Sale,--D,2373,3403637,21,0001337041,Common Stock
+D,05/06/2022 00:00:00,Rapino Michael,4,S-Sale,--D,3594,3406010,20,0001337041,Common Stock
+D,05/06/2022 00:00:00,Rapino Michael,4,S-Sale,--D,1633,3409604,19,0001337041,Common Stock
+D,05/06/2022 00:00:00,Rapino Michael,4,S-Sale,--D,1058,3411237,18,0001337041,Common Stock
+D,05/06/2022 00:00:00,Rapino Michael,4,S-Sale,--D,2225,3412295,17,0001337041,Common Stock
+A,05/06/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3414520,16,0001337041,Common Stock
+D,05/05/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,1900000,29,0001337041,Stock Option (buy)
+D,05/05/2022 00:00:00,Rapino Michael,4,S-Sale,--D,929,3314520,15,0001337041,Common Stock
+D,05/05/2022 00:00:00,Rapino Michael,4,S-Sale,--D,3211,3315449,14,0001337041,Common Stock
+D,05/05/2022 00:00:00,Rapino Michael,4,S-Sale,--D,5344,3318660,13,0001337041,Common Stock
+D,05/05/2022 00:00:00,Rapino Michael,4,S-Sale,--D,6116,3324004,12,0001337041,Common Stock
+D,05/05/2022 00:00:00,Rapino Michael,4,S-Sale,--D,26168,3330120,11,0001337041,Common Stock
+D,05/05/2022 00:00:00,Rapino Michael,4,S-Sale,--D,36232,3356288,10,0001337041,Common Stock
+A,05/05/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3392520,9,0001337041,Common Stock
+D,05/04/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,2000000,28,0001337041,Stock Option (buy)
+D,05/04/2022 00:00:00,Rapino Michael,4,S-Sale,--D,16583,3292520,8,0001337041,Common Stock
+D,05/04/2022 00:00:00,Rapino Michael,4,S-Sale,--D,8868,3309103,7,0001337041,Common Stock
+D,05/04/2022 00:00:00,Rapino Michael,4,S-Sale,--D,6821,3317971,6,0001337041,Common Stock
+D,05/04/2022 00:00:00,Rapino Michael,4,S-Sale,--D,13204,3324792,5,0001337041,Common Stock
+D,05/04/2022 00:00:00,Rapino Michael,4,S-Sale,--D,17921,3337996,4,0001337041,Common Stock
+D,05/04/2022 00:00:00,Rapino Michael,4,S-Sale,--D,7133,3355917,3,0001337041,Common Stock
+D,05/04/2022 00:00:00,Rapino Michael,4,S-Sale,--D,7470,3363050,2,0001337041,Common Stock
+A,05/04/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3370520,1,0001337041,Common Stock
+D,04/29/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,2100000,21,0001337041,Stock Option (buy)
+D,04/29/2022 00:00:00,Rapino Michael,4,S-Sale,--D,278,3270520,18,0001337041,Common Stock
+D,04/29/2022 00:00:00,Rapino Michael,4,S-Sale,--D,9503,3270798,17,0001337041,Common Stock
+D,04/29/2022 00:00:00,Rapino Michael,4,S-Sale,--D,18561,3280301,16,0001337041,Common Stock
+D,04/29/2022 00:00:00,Rapino Michael,4,S-Sale,--D,37363,3298862,15,0001337041,Common Stock
+D,04/29/2022 00:00:00,Rapino Michael,4,S-Sale,--D,12295,3336225,14,0001337041,Common Stock
+A,04/29/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3348520,13,0001337041,Common Stock
+D,04/28/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,2200000,20,0001337041,Stock Option (buy)
+D,04/28/2022 00:00:00,Rapino Michael,4,S-Sale,--D,8826,3248520,12,0001337041,Common Stock
+D,04/28/2022 00:00:00,Rapino Michael,4,S-Sale,--D,31792,3257346,11,0001337041,Common Stock
+D,04/28/2022 00:00:00,Rapino Michael,4,S-Sale,--D,7204,3289138,10,0001337041,Common Stock
+D,04/28/2022 00:00:00,Rapino Michael,4,S-Sale,--D,9707,3296342,9,0001337041,Common Stock
+D,04/28/2022 00:00:00,Rapino Michael,4,S-Sale,--D,20471,3306049,8,0001337041,Common Stock
+A,04/28/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3326520,7,0001337041,Common Stock
+D,04/27/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,2300000,19,0001337041,Stock Option (buy)
+D,04/27/2022 00:00:00,Rapino Michael,4,S-Sale,--D,4088,3226520,6,0001337041,Common Stock
+D,04/27/2022 00:00:00,Rapino Michael,4,S-Sale,--D,36396,3230608,5,0001337041,Common Stock
+D,04/27/2022 00:00:00,Rapino Michael,4,S-Sale,--D,22423,3267004,4,0001337041,Common Stock
+D,04/27/2022 00:00:00,Rapino Michael,4,S-Sale,--D,7379,3289427,3,0001337041,Common Stock
+D,04/27/2022 00:00:00,Rapino Michael,4,S-Sale,--D,7714,3296806,2,0001337041,Common Stock
+A,04/27/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3304520,1,0001337041,Common Stock
+D,04/22/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,2400000,20,0001337041,Stock Option (buy)
+D,04/22/2022 00:00:00,Rapino Michael,4,S-Sale,--D,7413,3204520,17,0001337041,Common Stock
+D,04/22/2022 00:00:00,Rapino Michael,4,S-Sale,--D,34029,3211933,16,0001337041,Common Stock
+D,04/22/2022 00:00:00,Rapino Michael,4,S-Sale,--D,36558,3245962,15,0001337041,Common Stock
+A,04/22/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3282520,14,0001337041,Common Stock
+D,04/21/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,2500000,19,0001337041,Stock Option (buy)
+D,04/21/2022 00:00:00,Rapino Michael,4,S-Sale,--D,1484,3182520,13,0001337041,Common Stock
+D,04/21/2022 00:00:00,Rapino Michael,4,S-Sale,--D,3611,3184004,12,0001337041,Common Stock
+D,04/21/2022 00:00:00,Rapino Michael,4,S-Sale,--D,6223,3187615,11,0001337041,Common Stock
+D,04/21/2022 00:00:00,Rapino Michael,4,S-Sale,--D,7723,3193838,10,0001337041,Common Stock
+D,04/21/2022 00:00:00,Rapino Michael,4,S-Sale,--D,5831,3201561,9,0001337041,Common Stock
+D,04/21/2022 00:00:00,Rapino Michael,4,S-Sale,--D,10577,3207392,8,0001337041,Common Stock
+D,04/21/2022 00:00:00,Rapino Michael,4,S-Sale,--D,15919,3217969,7,0001337041,Common Stock
+D,04/21/2022 00:00:00,Rapino Michael,4,S-Sale,--D,26632,3233888,6,0001337041,Common Stock
+A,04/21/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3260520,5,0001337041,Common Stock
+D,04/20/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,2600000,18,0001337041,Stock Option (buy)
+D,04/20/2022 00:00:00,Rapino Michael,4,S-Sale,--D,19266,3160520,4,0001337041,Common Stock
+D,04/20/2022 00:00:00,Rapino Michael,4,S-Sale,--D,34779,3179786,3,0001337041,Common Stock
+D,04/20/2022 00:00:00,Rapino Michael,4,S-Sale,--D,23955,3214565,2,0001337041,Common Stock
+A,04/20/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3238520,1,0001337041,Common Stock
+D,04/14/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,2700000,13,0001337041,Stock Option (buy)
+D,04/14/2022 00:00:00,Rapino Michael,4,S-Sale,--D,1041,3138520,11,0001337041,Common Stock
+D,04/14/2022 00:00:00,Rapino Michael,4,S-Sale,--D,10042,3139561,10,0001337041,Common Stock
+D,04/14/2022 00:00:00,Rapino Michael,4,S-Sale,--D,29181,3149603,9,0001337041,Common Stock
+D,04/14/2022 00:00:00,Rapino Michael,4,S-Sale,--D,37736,3178784,8,0001337041,Common Stock
+A,04/14/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3216520,7,0001337041,Common Stock
+D,04/13/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,2800000,12,0001337041,Stock Option (buy)
+D,04/13/2022 00:00:00,Rapino Michael,4,S-Sale,--D,19799,3116520,6,0001337041,Common Stock
+D,04/13/2022 00:00:00,Rapino Michael,4,S-Sale,--D,35727,3136319,5,0001337041,Common Stock
+D,04/13/2022 00:00:00,Rapino Michael,4,S-Sale,--D,15606,3172046,4,0001337041,Common Stock
+D,04/13/2022 00:00:00,Rapino Michael,4,S-Sale,--D,5809,3187652,3,0001337041,Common Stock
+D,04/13/2022 00:00:00,Rapino Michael,4,S-Sale,--D,1059,3193461,2,0001337041,Common Stock
+A,04/13/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3194520,1,0001337041,Common Stock
+D,04/08/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,2900000,17,0001337041,Stock Option (buy)
+D,04/08/2022 00:00:00,Rapino Michael,4,S-Sale,--D,9784,3094520,14,0001337041,Common Stock
+D,04/08/2022 00:00:00,Rapino Michael,4,S-Sale,--D,41631,3104304,13,0001337041,Common Stock
+D,04/08/2022 00:00:00,Rapino Michael,4,S-Sale,--D,26585,3145935,12,0001337041,Common Stock
+A,04/08/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3172520,11,0001337041,Common Stock
+D,04/07/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3000000,16,0001337041,Stock Option (buy)
+D,04/07/2022 00:00:00,Rapino Michael,4,S-Sale,--D,9853,3072520,10,0001337041,Common Stock
+D,04/07/2022 00:00:00,Rapino Michael,4,S-Sale,--D,29358,3082373,9,0001337041,Common Stock
+D,04/07/2022 00:00:00,Rapino Michael,4,S-Sale,--D,17193,3111731,8,0001337041,Common Stock
+D,04/07/2022 00:00:00,Rapino Michael,4,S-Sale,--D,21596,3128924,7,0001337041,Common Stock
+A,04/07/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3150520,6,0001337041,Common Stock
+D,04/06/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3100000,15,0001337041,Stock Option (buy)
+D,04/06/2022 00:00:00,Rapino Michael,4,S-Sale,--D,5899,3050520,5,0001337041,Common Stock
+D,04/06/2022 00:00:00,Rapino Michael,4,S-Sale,--D,15060,3056419,4,0001337041,Common Stock
+D,04/06/2022 00:00:00,Rapino Michael,4,S-Sale,--D,42849,3071479,3,0001337041,Common Stock
+D,04/06/2022 00:00:00,Rapino Michael,4,S-Sale,--D,14192,3114328,2,0001337041,Common Stock
+A,04/06/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3128520,1,0001337041,Common Stock
+D,04/01/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3200000,18,0001337041,Stock Option (buy)
+D,04/01/2022 00:00:00,Rapino Michael,4,S-Sale,--D,1025,3028520,15,0001337041,Common Stock
+D,04/01/2022 00:00:00,Rapino Michael,4,S-Sale,--D,15650,3029545,14,0001337041,Common Stock
+D,04/01/2022 00:00:00,Rapino Michael,4,S-Sale,--D,17340,3045195,13,0001337041,Common Stock
+D,04/01/2022 00:00:00,Rapino Michael,4,S-Sale,--D,21563,3062535,12,0001337041,Common Stock
+D,04/01/2022 00:00:00,Rapino Michael,4,S-Sale,--D,22422,3084098,11,0001337041,Common Stock
+A,04/01/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3106520,10,0001337041,Common Stock
+D,03/31/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3300000,17,0001337041,Stock Option (buy)
+D,03/31/2022 00:00:00,Rapino Michael,4,F-InKind,--D,29721,3006520,9,0001337041,Common Stock
+D,03/31/2022 00:00:00,Rapino Michael,4,S-Sale,--D,22025,3036241,8,0001337041,Common Stock
+D,03/31/2022 00:00:00,Rapino Michael,4,S-Sale,--D,48604,3058266,7,0001337041,Common Stock
+D,03/31/2022 00:00:00,Rapino Michael,4,S-Sale,--D,7371,3106870,6,0001337041,Common Stock
+A,03/31/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3114241,5,0001337041,Common Stock
+D,03/31/2022 00:00:00,Rowles Michael,4,F-InKind,--D,695,165032,1,0001356771,Common Stock
+D,03/31/2022 00:00:00,Capo Brian,4,F-InKind,--D,244,9132,1,0001439115,Common Stock
+D,03/31/2022 00:00:00,Berchtold Joe,4,F-InKind,--D,10583,861441,1,0001552281,Common Stock
+D,03/30/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3400000,16,0001337041,Stock Option (buy)
+D,03/30/2022 00:00:00,Rapino Michael,4,S-Sale,--D,3612,3014241,4,0001337041,Common Stock
+D,03/30/2022 00:00:00,Rapino Michael,4,S-Sale,--D,21923,3017853,3,0001337041,Common Stock
+D,03/30/2022 00:00:00,Rapino Michael,4,S-Sale,--D,52465,3039776,2,0001337041,Common Stock
+A,03/30/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3092241,1,0001337041,Common Stock
+D,03/25/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3500000,18,0001337041,Stock Option (buy)
+D,03/25/2022 00:00:00,Rapino Michael,4,S-Sale,--D,3979,2992241,15,0001337041,Common Stock
+D,03/25/2022 00:00:00,Rapino Michael,4,S-Sale,--D,7695,2996220,14,0001337041,Common Stock
+D,03/25/2022 00:00:00,Rapino Michael,4,S-Sale,--D,39823,3003915,13,0001337041,Common Stock
+D,03/25/2022 00:00:00,Rapino Michael,4,S-Sale,--D,26503,3043738,12,0001337041,Common Stock
+A,03/25/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3070241,11,0001337041,Common Stock
+D,03/24/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,0,17,0001337041,Stock Option (buy)
+D,03/24/2022 00:00:00,Rapino Michael,4,S-Sale,--D,33768,2970241,10,0001337041,Common Stock
+D,03/24/2022 00:00:00,Rapino Michael,4,S-Sale,--D,36545,3004009,9,0001337041,Common Stock
+D,03/24/2022 00:00:00,Rapino Michael,4,S-Sale,--D,5215,3040554,8,0001337041,Common Stock
+D,03/24/2022 00:00:00,Rapino Michael,4,S-Sale,--D,2472,3045769,7,0001337041,Common Stock
+A,03/24/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3048241,6,0001337041,Common Stock
+D,03/23/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,100000,16,0001337041,Stock Option (buy)
+D,03/23/2022 00:00:00,Rapino Michael,4,S-Sale,--D,180,2948241,5,0001337041,Common Stock
+D,03/23/2022 00:00:00,Rapino Michael,4,S-Sale,--D,3871,2948421,4,0001337041,Common Stock
+D,03/23/2022 00:00:00,Rapino Michael,4,S-Sale,--D,32032,2952292,3,0001337041,Common Stock
+D,03/23/2022 00:00:00,Rapino Michael,4,S-Sale,--D,41917,2984324,2,0001337041,Common Stock
+A,03/23/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3026241,1,0001337041,Common Stock
+D,03/19/2022 00:00:00,Capo Brian,4,F-InKind,--D,88,9376,1,0001439115,Common Stock
+D,03/18/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,200000,23,0001337041,Stock Option (buy)
+D,03/18/2022 00:00:00,Rapino Michael,4,S-Sale,--D,3910,2926241,20,0001337041,Common Stock
+D,03/18/2022 00:00:00,Rapino Michael,4,S-Sale,--D,21237,2930151,19,0001337041,Common Stock
+D,03/18/2022 00:00:00,Rapino Michael,4,S-Sale,--D,27408,2951388,18,0001337041,Common Stock
+D,03/18/2022 00:00:00,Rapino Michael,4,S-Sale,--D,25445,2978796,17,0001337041,Common Stock
+A,03/18/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,3004241,16,0001337041,Common Stock
+D,03/17/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,300000,22,0001337041,Stock Option (buy)
+D,03/17/2022 00:00:00,Rapino Michael,4,S-Sale,--D,1902,2904241,15,0001337041,Common Stock
+D,03/17/2022 00:00:00,Rapino Michael,4,S-Sale,--D,26799,2906143,14,0001337041,Common Stock
+D,03/17/2022 00:00:00,Rapino Michael,4,S-Sale,--D,18345,2932942,13,0001337041,Common Stock
+D,03/17/2022 00:00:00,Rapino Michael,4,S-Sale,--D,17864,2951287,12,0001337041,Common Stock
+D,03/17/2022 00:00:00,Rapino Michael,4,S-Sale,--D,13090,2969151,11,0001337041,Common Stock
+A,03/17/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,2982241,10,0001337041,Common Stock
+D,03/16/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,400000,21,0001337041,Stock Option (buy)
+D,03/16/2022 00:00:00,Rapino Michael,4,S-Sale,--D,154,2882241,9,0001337041,Common Stock
+D,03/16/2022 00:00:00,Rapino Michael,4,S-Sale,--D,4100,2882395,8,0001337041,Common Stock
+D,03/16/2022 00:00:00,Rapino Michael,4,S-Sale,--D,9320,2886495,7,0001337041,Common Stock
+D,03/16/2022 00:00:00,Rapino Michael,4,S-Sale,--D,19742,2895815,6,0001337041,Common Stock
+D,03/16/2022 00:00:00,Rapino Michael,4,S-Sale,--D,22473,2915557,5,0001337041,Common Stock
+D,03/16/2022 00:00:00,Rapino Michael,4,S-Sale,--D,14401,2938030,4,0001337041,Common Stock
+D,03/16/2022 00:00:00,Rapino Michael,4,S-Sale,--D,4629,2952431,3,0001337041,Common Stock
+D,03/16/2022 00:00:00,Rapino Michael,4,S-Sale,--D,3181,2957060,2,0001337041,Common Stock
+A,03/16/2022 00:00:00,Rapino Michael,4,M-Exempt,--D,100000,2960241,1,0001337041,Common Stock
+D,03/09/2022 00:00:00,Capo Brian,4,S-Sale,--D,1900,9464,1,0001439115,Common Stock
+A,03/08/2022 00:00:00,KAHAN JAMES S,4,P-Purchase,--I,500,500,3,0001183261,Common Stock
+A,03/08/2022 00:00:00,KAHAN JAMES S,4,P-Purchase,--I,100,1400,2,0001183261,Common Stock
+A,03/08/2022 00:00:00,KAHAN JAMES S,4,P-Purchase,--I,2000,4000,1,0001183261,Common Stock
+A,03/03/2022 00:00:00,Berchtold Joe,4,A-Award,--D,11140,872024,3,0001552281,Common Stock
+A,03/03/2022 00:00:00,Berchtold Joe,4,A-Award,--D,22279,860884,2,0001552281,Common Stock
+A,03/03/2022 00:00:00,Rapino Michael,4,A-Award,--D,25707,2860241,2,0001337041,Common Stock
+A,03/03/2022 00:00:00,Rapino Michael,4,A-Award,--D,92545,2834534,1,0001337041,Common Stock
+A,03/03/2022 00:00:00,Rowles Michael,4,A-Award,--D,3856,165727,2,0001356771,Common Stock
+A,03/03/2022 00:00:00,Rowles Michael,4,A-Award,--D,10283,161871,1,0001356771,Common Stock
+A,03/03/2022 00:00:00,Hopmans John,4,A-Award,--D,8412,47057,2,0001870543,Common Stock
+A,03/03/2022 00:00:00,Hopmans John,4,A-Award,--D,23479,38645,1,0001870543,Common Stock
+D,03/01/2022 00:00:00,Berchtold Joe,4,G-Gift,-ED,10000,838605,1,0001552281,Common Stock
+D,02/28/2022 00:00:00,Hopmans John,4,M-Exempt,--D,36198,0,8,0001870543,Stock Option (buy)
+D,02/28/2022 00:00:00,Hopmans John,4,S-Sale,--D,36198,15166,6,0001870543,Common Stock
+A,02/28/2022 00:00:00,Hopmans John,4,M-Exempt,--D,36198,51364,5,0001870543,Common Stock
+D,02/26/2022 00:00:00,Rowles Michael,4,F-InKind,--D,496,151588,8,0001356771,Common Stock
+D,02/26/2022 00:00:00,Capo Brian,4,F-InKind,--D,125,11364,2,0001439115,Common Stock
+D,02/25/2022 00:00:00,Rowles Michael,4,M-Exempt,--D,46673,0,9,0001356771,Stock Option (buy)
+D,02/25/2022 00:00:00,Rowles Michael,4,S-Sale,--D,2462,152084,7,0001356771,Common Stock
+D,02/25/2022 00:00:00,Rowles Michael,4,S-Sale,--D,11652,154546,6,0001356771,Common Stock
+D,02/25/2022 00:00:00,Rowles Michael,4,S-Sale,--D,21924,166198,5,0001356771,Common Stock
+D,02/25/2022 00:00:00,Rowles Michael,4,S-Sale,--D,6438,188122,4,0001356771,Common Stock
+D,02/25/2022 00:00:00,Rowles Michael,4,S-Sale,--D,4197,194560,3,0001356771,Common Stock
+A,02/25/2022 00:00:00,Rowles Michael,4,M-Exempt,--D,46673,198757,2,0001356771,Common Stock
+D,02/25/2022 00:00:00,Rowles Michael,4,F-InKind,--D,447,152084,1,0001356771,Common Stock
+D,02/25/2022 00:00:00,Hopmans John,4,M-Exempt,--D,74802,36198,7,0001870543,Stock Option (buy)
+D,02/25/2022 00:00:00,Hopmans John,4,S-Sale,--D,4802,15166,4,0001870543,Common Stock
+D,02/25/2022 00:00:00,Hopmans John,4,S-Sale,--D,70000,19968,3,0001870543,Common Stock
+A,02/25/2022 00:00:00,Hopmans John,4,M-Exempt,--D,74802,89968,2,0001870543,Common Stock
+D,02/25/2022 00:00:00,Hopmans John,4,F-InKind,--D,3099,15166,1,0001870543,Common Stock
+D,02/25/2022 00:00:00,Capo Brian,4,F-InKind,--D,112,11489,1,0001439115,Common Stock
+D,02/18/2022 00:00:00,Rowles Michael,4,F-InKind,--D,518,152531,1,0001356771,Common Stock
+D,02/18/2022 00:00:00,Capo Brian,4,F-InKind,--D,104,11601,1,0001439115,Common Stock
+D,02/18/2022 00:00:00,Hopmans John,4,F-InKind,--D,623,18265,1,0001870543,Common Stock
+D,02/18/2022 00:00:00,Berchtold Joe,4,F-InKind,--D,1249,848605,1,0001552281,Common Stock
+D,02/13/2022 00:00:00,Rapino Michael,4,F-InKind,--D,20271,2741989,1,0001337041,Common Stock
+A,02/04/2022 00:00:00,KAHAN JAMES S,4,G-Gift,--I,544,70033,2,0001183261,Common Stock
+D,02/04/2022 00:00:00,KAHAN JAMES S,4,G-Gift,--I,544,14788,1,0001183261,Common Stock
+D,01/13/2022 00:00:00,Rapino Michael,4,F-InKind,--D,29489,2762260,1,0001337041,Common Stock
+D,12/19/2021 00:00:00,Rowles Michael,4,F-InKind,--D,3099,153049,1,0001356771,Common Stock
+D,12/19/2021 00:00:00,Berchtold Joe,4,F-InKind,--D,13163,849854,1,0001552281,Common Stock
+D,12/13/2021 00:00:00,HINSON JEFFREY T.,4,G-Gift,--D,446,59391,1,0001248251,Common Stock
+A,11/30/2021 00:00:00,Liberty Media Corp,4,C-Conversion,--D,0,0,3,0001560385,2.25% Exch. Sr. Debentures due 2048 (obligation to sell)
+A,11/29/2021 00:00:00,Liberty Media Corp,4,C-Conversion,--D,0,108448000,2,0001560385,2.25% Exch. Sr. Debentures due 2048 (obligation to sell)
+A,11/26/2021 00:00:00,Liberty Media Corp,4,C-Conversion,--D,0,338361000,1,0001560385,2.25% Exch. Sr. Debentures due 2048 (obligation to sell)
+A,11/24/2021 00:00:00,Liberty Media Corp,4,C-Conversion,--D,0,338632000,2,0001560385,2.25% Exch. Sr. Debentures due 2048 (obligation to sell)
+A,11/23/2021 00:00:00,Liberty Media Corp,4,C-Conversion,--D,0,359751000,1,0001560385,2.25% Exch. Sr. Debentures due 2048 (obligation to sell)
+A,10/04/2021 00:00:00,Watkins Latriece,4,A-Award,--D,1201,1201,1,0001886367,Common Stock
+A,08/18/2021 00:00:00,Hopmans John,4,A-Award,--D,1800,18888,1,0001870543,Common Stock
+A,08/18/2021 00:00:00,Capo Brian,4,A-Award,--D,350,11705,1,0001439115,Common Stock
+A,08/18/2021 00:00:00,Berchtold Joe,4,A-Award,--D,2400,863017,1,0001552281,Common Stock
+A,08/18/2021 00:00:00,Rapino Michael,4,A-Award,--D,5500,2791749,1,0001337041,Common Stock
+A,08/18/2021 00:00:00,Rowles Michael,4,A-Award,--D,1450,156148,1,0001356771,Common Stock
+D,06/30/2021 00:00:00,Rapino Michael,4,M-Exempt,--D,452600,0,3,0001337041,Stock Option (buy)
+D,06/30/2021 00:00:00,Rapino Michael,4,F-InKind,--D,266285,2786249,2,0001337041,Common Stock
+A,06/30/2021 00:00:00,Rapino Michael,4,M-Exempt,--D,452600,3052534,1,0001337041,Common Stock
+A,06/10/2021 00:00:00,KAHAN JAMES S,4,A-Award,--D,1701,6303,1,0001183261,Common Stock
+A,06/10/2021 00:00:00,Walden Dana,4,A-Award,--D,1701,11899,1,0001742733,Common Stock
+A,06/10/2021 00:00:00,HINSON JEFFREY T.,4,A-Award,--D,1701,59837,1,0001248251,Common Stock
+A,06/10/2021 00:00:00,Hollingsworth Chad,4,A-Award,--D,1701,6182,1,0001634652,Common Stock
+A,06/10/2021 00:00:00,Carter Maverick,4,A-Award,--D,1701,11814,1,0001762031,Common Stock
+A,06/10/2021 00:00:00,Fu Ping,4,A-Award,--D,1701,14130,1,0001742720,Common Stock
+A,06/10/2021 00:00:00,MAYS RANDALL THOMAS,4,A-Award,--D,1701,103023,1,0001212885,Common Stock
+A,06/10/2021 00:00:00,Iovine Jimmy,4,A-Award,--D,1701,31152,1,0001626781,Common Stock
+A,06/10/2021 00:00:00,MAFFEI GREGORY B,4,A-Award,--D,3334,99724,1,0001099636,Common Stock
+A,06/10/2021 00:00:00,SHAPIRO MARK S,4,A-Award,--D,1701,45492,1,0001345978,Common Stock
+A,04/30/2021 00:00:00,KAHAN JAMES S,4,G-Gift,--I,57168,69489,2,0001183261,Common Stock
+D,04/30/2021 00:00:00,KAHAN JAMES S,4,G-Gift,--I,57168,15332,1,0001183261,Common Stock
+D,03/31/2021 00:00:00,Berchtold Joe,4,D-Return,--D,10352,860617,1,0001552281,Common Stock
+D,03/31/2021 00:00:00,Rapino Michael,4,D-Return,--D,47778,2599934,1,0001337041,Common Stock
+D,03/31/2021 00:00:00,Willard Elizabeth Kathleen,4,F-InKind,--D,3369,253048,2,0001345871,Common Stock
+D,03/31/2021 00:00:00,Willard Elizabeth Kathleen,4,D-Return,--D,30260,256417,1,0001345871,Common Stock
+D,03/19/2021 00:00:00,Capo Brian,4,F-InKind,--D,91,11355,1,0001439115,Common Stock
+D,03/16/2021 00:00:00,Capo Brian,4,F-InKind,--D,153,11446,1,0001439115,Common Stock
+D,03/12/2021 00:00:00,Willard Elizabeth Kathleen,4,M-Exempt,--D,81500,0,4,0001345871,Stock Option (buy)
+D,03/12/2021 00:00:00,Willard Elizabeth Kathleen,4,S-Sale,--D,43003,286677,3,0001345871,Common Stock
+D,03/12/2021 00:00:00,Willard Elizabeth Kathleen,4,S-Sale,--D,38497,329680,2,0001345871,Common Stock
+A,03/12/2021 00:00:00,Willard Elizabeth Kathleen,4,M-Exempt,--D,81500,368177,1,0001345871,Common Stock
+D,03/12/2021 00:00:00,Berchtold Joe,4,M-Exempt,--D,85000,357300,12,0001552281,Stock Option (buy)
+D,03/12/2021 00:00:00,Berchtold Joe,4,S-Sale,--D,2089,870969,9,0001552281,Common Stock
+D,03/12/2021 00:00:00,Berchtold Joe,4,S-Sale,--D,45417,873058,8,0001552281,Common Stock
+D,03/12/2021 00:00:00,Berchtold Joe,4,S-Sale,--D,37494,918475,7,0001552281,Common Stock
+A,03/12/2021 00:00:00,Berchtold Joe,4,M-Exempt,--D,85000,955969,6,0001552281,Common Stock
+D,03/11/2021 00:00:00,Berchtold Joe,4,M-Exempt,--D,85000,442300,11,0001552281,Stock Option (buy)
+D,03/11/2021 00:00:00,Berchtold Joe,4,S-Sale,--D,24220,870969,5,0001552281,Common Stock
+D,03/11/2021 00:00:00,Berchtold Joe,4,S-Sale,--D,60780,895189,4,0001552281,Common Stock
+A,03/11/2021 00:00:00,Berchtold Joe,4,M-Exempt,--D,85000,955969,3,0001552281,Common Stock
+D,03/10/2021 00:00:00,Berchtold Joe,4,M-Exempt,--D,85000,527300,10,0001552281,Stock Option (buy)
+D,03/10/2021 00:00:00,Berchtold Joe,4,S-Sale,--D,85000,870969,2,0001552281,Common Stock
+A,03/10/2021 00:00:00,Berchtold Joe,4,M-Exempt,--D,85000,955969,1,0001552281,Common Stock
+A,03/05/2021 00:00:00,Capo Brian,4,A-Award,--D,2000,11599,1,0001439115,Common Stock
+A,03/05/2021 00:00:00,Rapino Michael,4,A-Award,--D,112900,2647712,1,0001337041,Common Stock
+A,03/05/2021 00:00:00,Berchtold Joe,4,A-Award,--D,40200,870969,1,0001552281,Common Stock
+A,03/05/2021 00:00:00,Willard Elizabeth Kathleen,4,A-Award,--D,34900,286677,1,0001345871,Common Stock
+A,03/05/2021 00:00:00,Rowles Michael,4,A-Award,--D,2800,154698,1,0001356771,Common Stock
+D,03/05/2021 00:00:00,Berchtold Joe,4,M-Exempt,--D,85000,612300,18,0001552281,Stock Option (buy)
+D,03/05/2021 00:00:00,Berchtold Joe,4,S-Sale,--D,2383,830769,14,0001552281,Common Stock
+D,03/05/2021 00:00:00,Berchtold Joe,4,S-Sale,--D,11504,833152,13,0001552281,Common Stock
+D,03/05/2021 00:00:00,Berchtold Joe,4,S-Sale,--D,33388,844656,12,0001552281,Common Stock
+D,03/05/2021 00:00:00,Berchtold Joe,4,S-Sale,--D,37725,878044,11,0001552281,Common Stock
+A,03/05/2021 00:00:00,Berchtold Joe,4,M-Exempt,--D,85000,915769,10,0001552281,Common Stock
+D,03/04/2021 00:00:00,HINSON JEFFREY T.,4,S-Sale,--D,10000,58136,1,0001248251,Common Stock
+D,03/04/2021 00:00:00,Berchtold Joe,4,M-Exempt,--D,52700,697300,17,0001552281,Stock Option (buy)
+D,03/04/2021 00:00:00,Berchtold Joe,4,M-Exempt,--D,32300,0,16,0001552281,Stock Option (buy)
+D,03/04/2021 00:00:00,Berchtold Joe,4,S-Sale,--D,13684,830769,9,0001552281,Common Stock
+D,03/04/2021 00:00:00,Berchtold Joe,4,S-Sale,--D,16015,844453,8,0001552281,Common Stock
+D,03/04/2021 00:00:00,Berchtold Joe,4,S-Sale,--D,32643,860468,7,0001552281,Common Stock
+D,03/04/2021 00:00:00,Berchtold Joe,4,S-Sale,--D,22658,893111,6,0001552281,Common Stock
+A,03/04/2021 00:00:00,Berchtold Joe,4,M-Exempt,--D,52700,915769,5,0001552281,Common Stock
+A,03/04/2021 00:00:00,Berchtold Joe,4,M-Exempt,--D,32300,863069,4,0001552281,Common Stock
+D,03/03/2021 00:00:00,Rowles Michael,4,M-Exempt,--D,37300,0,5,0001356771,Stock Option (buy)
+D,03/03/2021 00:00:00,Rowles Michael,4,S-Sale,--D,6100,151898,4,0001356771,Common Stock
+D,03/03/2021 00:00:00,Rowles Michael,4,S-Sale,--D,24138,157998,3,0001356771,Common Stock
+D,03/03/2021 00:00:00,Rowles Michael,4,S-Sale,--D,43631,182136,2,0001356771,Common Stock
+A,03/03/2021 00:00:00,Rowles Michael,4,M-Exempt,--D,37300,225767,1,0001356771,Common Stock
+D,03/03/2021 00:00:00,Berchtold Joe,4,M-Exempt,--D,85000,32300,15,0001552281,Stock Option (buy)
+D,03/03/2021 00:00:00,Berchtold Joe,4,S-Sale,--D,5275,830769,3,0001552281,Common Stock
+D,03/03/2021 00:00:00,Berchtold Joe,4,S-Sale,--D,79725,836044,2,0001552281,Common Stock
+A,03/03/2021 00:00:00,Berchtold Joe,4,M-Exempt,--D,85000,915769,1,0001552281,Common Stock
+D,02/26/2021 00:00:00,Capo Brian,4,F-InKind,--D,149,9599,2,0001439115,Common Stock
+D,02/26/2021 00:00:00,Rowles Michael,4,F-InKind,--D,350,188467,2,0001356771,Common Stock
+D,02/25/2021 00:00:00,Capo Brian,4,F-InKind,--D,112,9748,1,0001439115,Common Stock
+D,02/25/2021 00:00:00,Rowles Michael,4,F-InKind,--D,370,188817,1,0001356771,Common Stock
+D,12/19/2020 00:00:00,Berchtold Joe,4,F-InKind,--D,13163,830769,1,0001552281,Common Stock
+D,12/19/2020 00:00:00,Willard Elizabeth Kathleen,4,F-InKind,--D,6582,251777,1,0001345871,Common Stock
+D,12/19/2020 00:00:00,Rowles Michael,4,F-InKind,--D,3099,189187,1,0001356771,Common Stock
+A,12/14/2020 00:00:00,HINSON JEFFREY T.,4,G-Gift,-EI,200,200,2,0001248251,Common Stock
+D,12/14/2020 00:00:00,HINSON JEFFREY T.,4,G-Gift,-ED,200,68136,1,0001248251,Common Stock
+A,12/11/2020 00:00:00,KAHAN JAMES S,4,G-Gift,-EI,72500,72500,2,0001183261,Common Stock
+D,12/11/2020 00:00:00,KAHAN JAMES S,4,G-Gift,-EI,72500,12321,1,0001183261,Common Stock
+D,11/17/2020 00:00:00,Liberty Media Corp,4,S-Sale,--D,0,920000000,1,0001560385,0.50% Exch. Sr. Debentures due 2050 (obligation to sell)
+D,11/12/2020 00:00:00,Liberty Media Corp,4,S-Sale,--D,0,800000000,1,0001560385,0.50% Exch. Sr. Debentures due 2050 (obligation to sell)
+D,11/01/2020 00:00:00,Rapino Michael,4,F-InKind,--D,38106,2534812,1,0001337041,Common Stock
+D,06/05/2020 00:00:00,HINSON JEFFREY T.,4,S-Sale,--D,3000,68336,1,0001248251,Common Stock
+D,06/05/2020 00:00:00,Rapino Michael,4,M-Exempt,--D,400000,0,3,0001337041,Stock Option (buy)
+D,06/05/2020 00:00:00,Rapino Michael,4,F-InKind,--D,247211,2572918,2,0001337041,Common Stock
+A,06/05/2020 00:00:00,Rapino Michael,4,M-Exempt,--D,400000,2820129,1,0001337041,Common Stock
+D,06/04/2020 00:00:00,Willard Elizabeth Kathleen,4,M-Exempt,--D,68040,0,3,0001345871,Stock Option (buy)
+D,06/04/2020 00:00:00,Willard Elizabeth Kathleen,4,S-Sale,--D,68040,258359,2,0001345871,Common Stock
+A,06/04/2020 00:00:00,Willard Elizabeth Kathleen,4,M-Exempt,--D,68040,326399,1,0001345871,Common Stock
+A,06/03/2020 00:00:00,KAHAN JAMES S,4,A-Award,--D,4602,89423,1,0001183261,Common Stock
+A,06/03/2020 00:00:00,SHAPIRO MARK S,4,A-Award,--D,4646,43791,1,0001345978,Common Stock
+A,06/03/2020 00:00:00,Fu Ping,4,A-Award,--D,4602,12429,1,0001742720,Common Stock
+A,06/03/2020 00:00:00,Emanuel Ariel,4,A-Award,--D,4470,6850,1,0001320234,Common Stock
+A,06/03/2020 00:00:00,MAFFEI GREGORY B,4,A-Award,--D,7299,96390,1,0001099636,Common Stock
+A,06/03/2020 00:00:00,Hollingsworth Chad,4,A-Award,--D,4481,4481,1,0001634652,Common Stock
+A,06/03/2020 00:00:00,Iovine Jimmy,4,A-Award,--D,4536,29451,1,0001626781,Common Stock
+A,06/03/2020 00:00:00,Carter Maverick,4,A-Award,--D,4437,10113,1,0001762031,Common Stock
+A,06/03/2020 00:00:00,MAYS RANDALL THOMAS,4,A-Award,--D,4569,101322,1,0001212885,Common Stock
+A,06/03/2020 00:00:00,HINSON JEFFREY T.,4,A-Award,--D,4800,71336,1,0001248251,Common Stock
+A,06/03/2020 00:00:00,Walden Dana,4,A-Award,--D,4371,10198,1,0001742733,Common Stock
+D,03/31/2020 00:00:00,Willard Elizabeth Kathleen,4,F-InKind,--D,6152,258359,1,0001345871,Common Stock
+D,03/31/2020 00:00:00,Rowles Michael,4,F-InKind,--D,770,192286,1,0001356771,Common Stock
+D,03/19/2020 00:00:00,Capo Brian,4,F-InKind,--D,112,9860,1,0001439115,Common Stock
+D,03/16/2020 00:00:00,Capo Brian,4,F-InKind,--D,186,9972,1,0001439115,Common Stock
+A,03/13/2020 00:00:00,Fu Ping,4,P-Purchase,--D,2000,7827,1,0001742720,Common Stock
+A,03/12/2020 00:00:00,Rapino Michael,4,P-Purchase,--D,25650,2420129,1,0001337041,Common Stock
+A,03/12/2020 00:00:00,Rowles Michael,4,P-Purchase,--D,2650,193056,1,0001356771,Common Stock
+A,03/11/2020 00:00:00,KAHAN JAMES S,4,P-Purchase,--I,300,1300,3,0001183261,Common Stock
+A,03/11/2020 00:00:00,KAHAN JAMES S,4,P-Purchase,--I,300,1300,2,0001183261,Common Stock
+A,03/11/2020 00:00:00,KAHAN JAMES S,4,P-Purchase,--D,2000,84821,1,0001183261,Common Stock
+D,03/04/2020 00:00:00,Emanuel Ariel,4,S-Sale,--D,71394,2380,1,0001320234,Common Stock
+A,02/26/2020 00:00:00,Rapino Michael,4,A-Award,--D,47778,2394479,1,0001337041,Common Stock
+A,02/26/2020 00:00:00,Willard Elizabeth Kathleen,4,A-Award,--D,30260,264511,1,0001345871,Common Stock
+A,02/26/2020 00:00:00,Capo Brian,4,A-Award,--D,2000,10158,1,0001439115,Common Stock
+A,02/26/2020 00:00:00,Berchtold Joe,4,A-Award,--D,10352,843932,1,0001552281,Common Stock
+A,02/26/2020 00:00:00,Rowles Michael,4,A-Award,--D,4000,190406,1,0001356771,Common Stock
+D,02/25/2020 00:00:00,Rowles Michael,4,F-InKind,--D,346,186406,1,0001356771,Common Stock
+D,02/25/2020 00:00:00,Capo Brian,4,F-InKind,--D,112,8158,1,0001439115,Common Stock
+D,02/13/2020 00:00:00,Rapino Michael,4,F-InKind,--D,20380,2346701,1,0001337041,Common Stock
+D,01/14/2020 00:00:00,Berchtold Joe,4,M-Exempt,--D,240000,0,2,0001552281,Performance Share Award
+A,01/14/2020 00:00:00,Berchtold Joe,4,M-Exempt,--D,240000,833580,1,0001552281,Common Stock
+D,01/14/2020 00:00:00,Rapino Michael,4,M-Exempt,--D,560000,0,2,0001337041,Performance Share Award
+A,01/14/2020 00:00:00,Rapino Michael,4,M-Exempt,--D,560000,2367081,1,0001337041,Common Stock
+D,12/19/2019 00:00:00,Rowles Michael,4,F-InKind,--D,3099,186752,1,0001356771,Common Stock
+D,12/19/2019 00:00:00,Berchtold Joe,4,F-InKind,--D,13163,593580,1,0001552281,Common Stock
+D,12/19/2019 00:00:00,Willard Elizabeth Kathleen,4,F-InKind,--D,6582,234251,1,0001345871,Common Stock
+A,11/06/2019 00:00:00,KAHAN JAMES S,4,P-Purchase,--I,1000,1000,5,0001183261,Common Stock
+A,11/06/2019 00:00:00,KAHAN JAMES S,4,P-Purchase,--I,250,250,4,0001183261,Common Stock
+A,11/06/2019 00:00:00,KAHAN JAMES S,4,P-Purchase,--I,250,250,3,0001183261,Common Stock
+A,11/06/2019 00:00:00,KAHAN JAMES S,4,P-Purchase,--I,1000,1000,2,0001183261,Common Stock
+A,11/06/2019 00:00:00,KAHAN JAMES S,4,P-Purchase,--I,2000,2000,1,0001183261,Common Stock
+D,11/01/2019 00:00:00,Rapino Michael,4,F-InKind,--D,38106,1807081,1,0001337041,Common Stock
+D,09/23/2019 00:00:00,Rapino Michael,4,M-Exempt,--D,140000,700000,2,0001337041,Performance Share Award
+A,09/23/2019 00:00:00,Rapino Michael,4,M-Exempt,--D,140000,1845187,1,0001337041,Common Stock
+D,09/23/2019 00:00:00,Berchtold Joe,4,M-Exempt,--D,60000,300000,2,0001552281,Performance Share Award
+A,09/23/2019 00:00:00,Berchtold Joe,4,M-Exempt,--D,60000,606743,1,0001552281,Common Stock
+D,09/18/2019 00:00:00,Rapino Michael,4,F-InKind,--D,1843,1705187,1,0001337041,Common Stock
+D,08/21/2019 00:00:00,Rowles Michael,4,M-Exempt,--D,67840,0,3,0001356771,Stock Option (buy)
+D,08/21/2019 00:00:00,Rowles Michael,4,S-Sale,--D,67840,189851,2,0001356771,Common Stock
+A,08/21/2019 00:00:00,Rowles Michael,4,M-Exempt,--D,67840,257691,1,0001356771,Common Stock
+D,07/29/2019 00:00:00,Rapino Michael,4,M-Exempt,--D,119000,700000,2,0001337041,Performance Share Award
+A,07/29/2019 00:00:00,Rapino Michael,4,M-Exempt,--D,119000,1707030,1,0001337041,Common Stock
+D,07/29/2019 00:00:00,Berchtold Joe,4,M-Exempt,--D,51000,300000,2,0001552281,Performance Share Award
+A,07/29/2019 00:00:00,Berchtold Joe,4,M-Exempt,--D,51000,546743,1,0001552281,Common Stock
+D,06/28/2019 00:00:00,Rapino Michael,4,M-Exempt,--D,126000,700000,4,0001337041,Performance Share Award
+D,06/28/2019 00:00:00,Rapino Michael,4,M-Exempt,--D,105000,700000,3,0001337041,Performance Share Award
+A,06/28/2019 00:00:00,Rapino Michael,4,M-Exempt,--D,126000,1588030,2,0001337041,Common Stock
+A,06/28/2019 00:00:00,Rapino Michael,4,M-Exempt,--D,105000,1462030,1,0001337041,Common Stock
+D,06/28/2019 00:00:00,Berchtold Joe,4,M-Exempt,--D,99000,300000,2,0001552281,Performance Share Award
+A,06/28/2019 00:00:00,Berchtold Joe,4,M-Exempt,--D,99000,495743,1,0001552281,Common Stock
+D,06/12/2019 00:00:00,Rowles Michael,4,M-Exempt,--D,67840,67840,3,0001356771,Stock Option (buy)
+D,06/12/2019 00:00:00,Rowles Michael,4,S-Sale,--D,67840,189851,2,0001356771,Common Stock
+A,06/12/2019 00:00:00,Rowles Michael,4,M-Exempt,--D,67840,257691,1,0001356771,Common Stock
+D,06/07/2019 00:00:00,ENLOE ROBERT TED III,4,S-Sale,--D,5447,12441,2,0000914763,Common Stock
+A,06/06/2019 00:00:00,Fu Ping,4,A-Award,--D,2380,5827,1,0001742720,Common Stock
+A,06/06/2019 00:00:00,MAYS RANDALL THOMAS,4,A-Award,--D,2380,96753,1,0001212885,Common Stock
+A,06/06/2019 00:00:00,ENLOE ROBERT TED III,4,A-Award,--D,2380,17888,1,0000914763,Common Stock
+A,06/06/2019 00:00:00,Iovine Jimmy,4,A-Award,--D,2380,24915,1,0001626781,Common Stock
+A,06/06/2019 00:00:00,Walden Dana,4,A-Award,--D,2380,5827,1,0001742733,Common Stock
+A,06/06/2019 00:00:00,Emanuel Ariel,4,A-Award,--D,2380,73774,1,0001320234,Common Stock
+D,06/06/2019 00:00:00,HINSON JEFFREY T.,4,S-Sale,--D,1350,66536,2,0001248251,Common Stock
+A,06/06/2019 00:00:00,HINSON JEFFREY T.,4,A-Award,--D,2380,67886,1,0001248251,Common Stock
+A,06/06/2019 00:00:00,Carleton Mark D,4,A-Award,--D,2380,49250,1,0001434339,Common Stock
+A,06/06/2019 00:00:00,Carter Maverick,4,A-Award,--D,2380,5676,1,0001762031,Common Stock
+A,06/06/2019 00:00:00,MAFFEI GREGORY B,4,A-Award,--D,4665,89091,1,0001099636,Common Stock
+A,06/06/2019 00:00:00,KAHAN JAMES S,4,A-Award,--D,2380,82821,1,0001183261,Common Stock
+A,06/06/2019 00:00:00,SHAPIRO MARK S,4,A-Award,--D,2380,39145,1,0001345978,Common Stock
+D,05/16/2019 00:00:00,SHAPIRO MARK S,4,S-Sale,--D,8000,36765,1,0001345978,Common Stock
+D,05/07/2019 00:00:00,Emanuel Ariel,4,S-Sale,--D,7790,71394,1,0001320234,Common Stock
+D,05/02/2019 00:00:00,Rapino Michael,4,M-Exempt,--D,175000,700000,2,0001337041,Performance Share Award
+A,05/02/2019 00:00:00,Rapino Michael,4,M-Exempt,--D,175000,1357030,1,0001337041,Common Stock
+D,05/02/2019 00:00:00,Berchtold Joe,4,M-Exempt,--D,75000,300000,2,0001552281,Performance Share Award
+A,05/02/2019 00:00:00,Berchtold Joe,4,M-Exempt,--D,75000,396743,1,0001552281,Common Stock
+D,03/31/2019 00:00:00,Berchtold Joe,4,F-InKind,--D,2503,321743,1,0001552281,Common Stock
+D,03/31/2019 00:00:00,Willard Elizabeth Kathleen,4,F-InKind,--D,4717,240833,1,0001345871,Common Stock
+D,03/31/2019 00:00:00,Rowles Michael,4,F-InKind,--D,1887,189851,1,0001356771,Common Stock
+D,03/19/2019 00:00:00,Capo Brian,4,F-InKind,--D,88,8270,2,0001439115,Common Stock
+D,03/16/2019 00:00:00,Capo Brian,4,F-InKind,--D,183,8358,1,0001439115,Common Stock
+A,02/25/2019 00:00:00,Rowles Michael,4,A-Award,--D,11000,11000,2,0001356771,Stock Option (buy)
+A,02/25/2019 00:00:00,Rowles Michael,4,A-Award,--D,3600,191738,1,0001356771,Common Stock
+A,02/25/2019 00:00:00,Capo Brian,4,A-Award,--D,1500,8541,1,0001439115,Common Stock
+A,02/25/2019 00:00:00,Willard Elizabeth Kathleen,4,A-Award,--D,13775,13775,2,0001345871,Stock Option (buy)
+A,02/25/2019 00:00:00,Willard Elizabeth Kathleen,4,A-Award,--D,12794,245550,1,0001345871,Common Stock
+D,02/13/2019 00:00:00,Rapino Michael,4,M-Exempt,--D,385000,700000,2,0001337041,Performance Share Award
+A,02/13/2019 00:00:00,Rapino Michael,4,M-Exempt,--D,385000,1182030,1,0001337041,Common Stock
+D,02/13/2019 00:00:00,Berchtold Joe,4,M-Exempt,--D,165000,300000,2,0001552281,Performance Share Award
+A,02/13/2019 00:00:00,Berchtold Joe,4,M-Exempt,--D,165000,324246,1,0001552281,Common Stock
+D,01/22/2019 00:00:00,Capo Brian,4,F-InKind,--D,149,7041,1,0001439115,Common Stock
+D,01/02/2019 00:00:00,Rapino Michael,4,S-Sale,--D,85000,797030,1,0001337041,Common Stock
+D,12/21/2018 00:00:00,Rapino Michael,4,S-Sale,--D,85000,882030,3,0001337041,Common Stock
+D,12/20/2018 00:00:00,Rapino Michael,4,S-Sale,--D,85000,967030,2,0001337041,Common Stock
+D,12/19/2018 00:00:00,Berchtold Joe,4,F-InKind,--D,13163,159246,1,0001552281,Common Stock
+D,12/19/2018 00:00:00,Rapino Michael,4,S-Sale,--D,85000,1052030,1,0001337041,Common Stock
+D,12/19/2018 00:00:00,Willard Elizabeth Kathleen,4,F-InKind,--D,6582,232756,1,0001345871,Common Stock
+D,12/19/2018 00:00:00,Rowles Michael,4,F-InKind,--D,3099,188138,1,0001356771,Common Stock
+A,12/18/2018 00:00:00,Carter Maverick,4,A-Award,--D,1296,3296,1,0001762031,Common Stock
+D,12/14/2018 00:00:00,Rapino Michael,4,M-Exempt,--D,1580000,0,3,0001337041,Stock Option (buy)
+D,12/14/2018 00:00:00,Rapino Michael,4,F-InKind,--D,870041,1137030,2,0001337041,Common Stock
+A,12/14/2018 00:00:00,Rapino Michael,4,M-Exempt,--D,1580000,2007071,1,0001337041,Common Stock
+D,12/10/2018 00:00:00,Liberty Media Corp,4,S-Sale,--D,0,385000000,1,0001560385,2.25% Exchangeable Senior Debentures due 2048
+D,12/03/2018 00:00:00,Liberty Media Corp,4,S-Sale,--D,0,350000000,1,0001560385,2.25% Exchangeable Senior Debentures due 2048
+D,11/27/2018 00:00:00,Rapino Michael,4,M-Exempt,--D,35000,700000,2,0001337041,Performance Share Award
+A,11/27/2018 00:00:00,Rapino Michael,4,M-Exempt,--D,35000,427071,1,0001337041,Common Stock
+D,11/27/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,15000,300000,2,0001552281,Performance Share Award
+A,11/27/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,15000,172409,1,0001552281,Common Stock
+D,11/09/2018 00:00:00,Rowles Michael,4,S-Sale,--D,25000,191237,1,0001356771,Common Stock
+D,11/07/2018 00:00:00,Berchtold Joe,4,G-Gift,-ED,1000,157409,1,0001552281,Common Stock
+D,11/01/2018 00:00:00,Rapino Michael,4,F-InKind,--D,35885,392071,1,0001337041,Common Stock
+D,09/18/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,15000,300000,2,0001552281,Performance Share Award
+A,09/18/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,15000,158409,1,0001552281,Common Stock
+D,09/18/2018 00:00:00,Rapino Michael,4,M-Exempt,--D,35000,700000,2,0001337041,Performance Share Award
+A,09/18/2018 00:00:00,Rapino Michael,4,M-Exempt,--D,35000,427956,1,0001337041,Common Stock
+D,09/14/2018 00:00:00,ENLOE ROBERT TED III,4,S-Sale,--D,2000,15508,2,0000914763,Common Stock
+D,09/13/2018 00:00:00,ENLOE ROBERT TED III,4,S-Sale,--D,5000,17508,1,0000914763,Common Stock
+D,08/30/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,13900,117300,8,0001552281,Stock Option (buy)
+D,08/30/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,6100,0,7,0001552281,Stock Option (buy)
+D,08/30/2018 00:00:00,Berchtold Joe,4,S-Sale,--D,20000,143409,5,0001552281,Common Stock
+A,08/30/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,13900,163409,4,0001552281,Common Stock
+A,08/30/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,6100,149509,3,0001552281,Common Stock
+D,08/30/2018 00:00:00,Willard Elizabeth Kathleen,4,M-Exempt,--D,20000,68040,6,0001345871,Stock Option (buy)
+D,08/30/2018 00:00:00,Willard Elizabeth Kathleen,4,S-Sale,--D,20000,239338,4,0001345871,Common Stock
+A,08/30/2018 00:00:00,Willard Elizabeth Kathleen,4,M-Exempt,--D,20000,259338,3,0001345871,Common Stock
+D,08/29/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,20000,6100,6,0001552281,Stock Option (buy)
+D,08/29/2018 00:00:00,Berchtold Joe,4,S-Sale,--D,20000,143409,2,0001552281,Common Stock
+A,08/29/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,20000,163409,1,0001552281,Common Stock
+D,08/29/2018 00:00:00,Willard Elizabeth Kathleen,4,M-Exempt,--D,20000,88040,5,0001345871,Stock Option (buy)
+D,08/29/2018 00:00:00,Willard Elizabeth Kathleen,4,S-Sale,--D,20000,239338,2,0001345871,Common Stock
+A,08/29/2018 00:00:00,Willard Elizabeth Kathleen,4,M-Exempt,--D,20000,259338,1,0001345871,Common Stock
+D,08/23/2018 00:00:00,Willard Elizabeth Kathleen,4,M-Exempt,--D,20000,108040,6,0001345871,Stock Option (buy)
+D,08/23/2018 00:00:00,Willard Elizabeth Kathleen,4,S-Sale,--D,20000,239338,4,0001345871,Common Stock
+A,08/23/2018 00:00:00,Willard Elizabeth Kathleen,4,M-Exempt,--D,20000,259338,3,0001345871,Common Stock
+D,08/23/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,20000,26100,6,0001552281,Stock Option (buy)
+D,08/23/2018 00:00:00,Berchtold Joe,4,S-Sale,--D,20000,143409,4,0001552281,Common Stock
+A,08/23/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,20000,163409,3,0001552281,Common Stock
+D,08/22/2018 00:00:00,Willard Elizabeth Kathleen,4,M-Exempt,--D,20000,128040,5,0001345871,Stock Option (buy)
+D,08/22/2018 00:00:00,Willard Elizabeth Kathleen,4,S-Sale,--D,20000,239338,2,0001345871,Common Stock
+A,08/22/2018 00:00:00,Willard Elizabeth Kathleen,4,M-Exempt,--D,20000,259338,1,0001345871,Common Stock
+D,08/22/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,20000,46100,5,0001552281,Stock Option (buy)
+D,08/22/2018 00:00:00,Berchtold Joe,4,S-Sale,--D,20000,143409,2,0001552281,Common Stock
+A,08/22/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,20000,163409,1,0001552281,Common Stock
+D,08/16/2018 00:00:00,Willard Elizabeth Kathleen,4,S-Sale,--D,20000,239338,2,0001345871,Common Stock
+D,08/16/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,15000,300000,8,0001552281,Performance Share Award
+D,08/16/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,20000,66100,7,0001552281,Stock Option (buy)
+A,08/16/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,15000,143409,5,0001552281,Common Stock
+D,08/16/2018 00:00:00,Berchtold Joe,4,S-Sale,--D,20000,128409,4,0001552281,Common Stock
+A,08/16/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,20000,148409,3,0001552281,Common Stock
+D,08/16/2018 00:00:00,Rapino Michael,4,M-Exempt,--D,35000,700000,2,0001337041,Performance Share Award
+A,08/16/2018 00:00:00,Rapino Michael,4,M-Exempt,--D,35000,392956,1,0001337041,Common Stock
+D,08/15/2018 00:00:00,Willard Elizabeth Kathleen,4,S-Sale,--D,20000,259338,1,0001345871,Common Stock
+D,08/15/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,20000,86100,6,0001552281,Stock Option (buy)
+D,08/15/2018 00:00:00,Berchtold Joe,4,S-Sale,--D,20000,128409,2,0001552281,Common Stock
+A,08/15/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,20000,148409,1,0001552281,Common Stock
+D,08/09/2018 00:00:00,Willard Elizabeth Kathleen,4,S-Sale,--D,20000,279338,2,0001345871,Common Stock
+D,08/09/2018 00:00:00,Berchtold Joe,4,S-Sale,--D,20000,128409,2,0001552281,Common Stock
+D,08/08/2018 00:00:00,Willard Elizabeth Kathleen,4,S-Sale,--D,20000,299338,1,0001345871,Common Stock
+D,08/08/2018 00:00:00,Berchtold Joe,4,S-Sale,--D,20000,148409,1,0001552281,Common Stock
+D,06/07/2018 00:00:00,HINSON JEFFREY T.,4,S-Sale,--D,2200,65506,2,0001248251,Common Stock
+D,06/07/2018 00:00:00,ENLOE ROBERT TED III,4,S-Sale,--D,4389,22508,2,0000914763,Common Stock
+A,06/06/2018 00:00:00,Iovine Jimmy,4,A-Award,--D,3447,22535,1,0001626781,Common Stock
+A,06/06/2018 00:00:00,SHAPIRO MARK S,4,A-Award,--D,3447,44765,1,0001345978,Common Stock
+A,06/06/2018 00:00:00,HINSON JEFFREY T.,4,A-Award,--D,3447,67706,1,0001248251,Common Stock
+A,06/06/2018 00:00:00,Fu Ping,4,A-Award,--D,3447,3447,1,0001742720,Common Stock
+A,06/06/2018 00:00:00,Walden Dana,4,A-Award,--D,3447,3447,1,0001742733,Common Stock
+A,06/06/2018 00:00:00,ENLOE ROBERT TED III,4,A-Award,--D,3447,26897,1,0000914763,Common Stock
+A,06/06/2018 00:00:00,MAFFEI GREGORY B,4,A-Award,--D,6757,84426,1,0001099636,Common Stock
+A,06/06/2018 00:00:00,Emanuel Ariel,4,A-Award,--D,3447,79184,1,0001320234,Common Stock
+A,06/06/2018 00:00:00,Carleton Mark D,4,A-Award,--D,3447,46870,1,0001434339,Common Stock
+A,06/06/2018 00:00:00,KAHAN JAMES S,4,A-Award,--D,3447,80441,1,0001183261,Common Stock
+A,06/06/2018 00:00:00,MAYS RANDALL THOMAS,4,A-Award,--D,3447,94373,1,0001212885,Common Stock
+D,03/31/2018 00:00:00,Willard Elizabeth Kathleen,4,F-InKind,--D,4360,319338,1,0001345871,Common Stock
+D,03/31/2018 00:00:00,Berchtold Joe,4,F-InKind,--D,5879,168409,1,0001552281,Common Stock
+D,03/31/2018 00:00:00,Rowles Michael,4,F-InKind,--D,2796,216237,1,0001356771,Common Stock
+D,03/31/2018 00:00:00,Rapino Michael,4,F-InKind,--D,11826,357956,1,0001337041,Common Stock
+A,03/19/2018 00:00:00,Rowles Michael,4,A-Award,--D,14375,14375,2,0001356771,Stock Option (buy)
+A,03/19/2018 00:00:00,Rowles Michael,4,A-Award,--D,4450,219033,1,0001356771,Common Stock
+A,03/19/2018 00:00:00,Capo Brian,4,A-Award,--D,1500,7190,1,0001439115,Common Stock
+A,03/19/2018 00:00:00,Willard Elizabeth Kathleen,4,A-Award,--D,34140,34140,2,0001345871,Stock Option (buy)
+A,03/19/2018 00:00:00,Willard Elizabeth Kathleen,4,A-Award,--D,10570,323698,1,0001345871,Common Stock
+D,03/12/2018 00:00:00,Rapino Michael,4,M-Exempt,--D,35000,700000,2,0001337041,Performance Share Award
+A,03/12/2018 00:00:00,Rapino Michael,4,M-Exempt,--D,35000,369782,1,0001337041,Common Stock
+D,03/12/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,15000,300000,2,0001552281,Performance Share Award
+A,03/12/2018 00:00:00,Berchtold Joe,4,M-Exempt,--D,15000,174288,1,0001552281,Common Stock
+D,01/22/2018 00:00:00,Capo Brian,4,F-InKind,--D,164,5690,1,0001439115,Common Stock
+D,01/15/2018 00:00:00,Willard Elizabeth Kathleen,4,F-InKind,--D,3088,313128,1,0001345871,Common Stock
+D,01/15/2018 00:00:00,Rowles Michael,4,F-InKind,--D,2471,214583,1,0001356771,Common Stock
+D,01/15/2018 00:00:00,Berchtold Joe,4,F-InKind,--D,18630,159288,1,0001552281,Common Stock
+A,12/19/2017 00:00:00,Rowles Michael,4,A-Award,--D,25000,217054,1,0001356771,Common Stock
+A,12/19/2017 00:00:00,Berchtold Joe,4,A-Award,--D,300000,300000,2,0001552281,Performance Share Award
+A,12/19/2017 00:00:00,Berchtold Joe,4,A-Award,--D,100000,177918,1,0001552281,Common Stock
+A,12/19/2017 00:00:00,Willard Elizabeth Kathleen,4,A-Award,--D,50000,50000,2,0001345871,Stock Option (buy)
+A,12/19/2017 00:00:00,Willard Elizabeth Kathleen,4,A-Award,--D,50000,316216,1,0001345871,Common Stock
+A,12/15/2017 00:00:00,Rapino Michael,4,A-Award,--D,700000,700000,2,0001337041,Performance Share Award
+A,12/15/2017 00:00:00,Rapino Michael,4,A-Award,--D,289505,334782,1,0001337041,Common Stock
+D,12/08/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,70000,1580000,9,0001337041,Stock Option (buy)
+D,12/08/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,45277,6,0001337041,Common Stock
+A,12/08/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,70000,115277,5,0001337041,Common Stock
+D,12/07/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,70000,1650000,8,0001337041,Stock Option (buy)
+D,12/07/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,45277,4,0001337041,Common Stock
+A,12/07/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,70000,115277,3,0001337041,Common Stock
+D,12/06/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,70000,1720000,7,0001337041,Stock Option (buy)
+D,12/06/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,45277,2,0001337041,Common Stock
+A,12/06/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,70000,115277,1,0001337041,Common Stock
+D,12/06/2017 00:00:00,Berchtold Joe,4,M-Exempt,--D,20000,106100,3,0001552281,Stock Option (buy)
+D,12/06/2017 00:00:00,Berchtold Joe,4,S-Sale,--D,20000,77918,2,0001552281,Common Stock
+A,12/06/2017 00:00:00,Berchtold Joe,4,M-Exempt,--D,20000,97918,1,0001552281,Common Stock
+D,12/01/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,70000,1790000,9,0001337041,Stock Option (buy)
+D,12/01/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,45277,6,0001337041,Common Stock
+A,12/01/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,70000,115277,5,0001337041,Common Stock
+D,11/30/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,70000,1860000,8,0001337041,Stock Option (buy)
+D,11/30/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,45277,4,0001337041,Common Stock
+A,11/30/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,70000,115277,3,0001337041,Common Stock
+D,11/29/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,70000,1930000,7,0001337041,Stock Option (buy)
+D,11/29/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,45277,2,0001337041,Common Stock
+A,11/29/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,70000,115277,1,0001337041,Common Stock
+D,11/29/2017 00:00:00,Berchtold Joe,4,S-Sale,--D,20000,77918,1,0001552281,Common Stock
+D,11/17/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,45277,3,0001337041,Common Stock
+D,11/16/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,115277,2,0001337041,Common Stock
+D,11/15/2017 00:00:00,Berchtold Joe,4,S-Sale,--D,20000,97918,1,0001552281,Common Stock
+D,11/15/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,185277,1,0001337041,Common Stock
+D,11/10/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,255277,3,0001337041,Common Stock
+D,11/09/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,325277,2,0001337041,Common Stock
+D,11/08/2017 00:00:00,Berchtold Joe,4,S-Sale,--D,20000,117918,1,0001552281,Common Stock
+D,11/08/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,395277,1,0001337041,Common Stock
+D,11/06/2017 00:00:00,Rowles Michael,4,S-Sale,--D,46511,192054,1,0001356771,Common Stock
+D,09/14/2017 00:00:00,Emanuel Ariel,4,M-Exempt,--D,10000,0,3,0001320234,Stock Option (buy)
+D,09/14/2017 00:00:00,Emanuel Ariel,4,S-Sale,--D,10000,75737,2,0001320234,Common Stock
+A,09/14/2017 00:00:00,Emanuel Ariel,4,M-Exempt,--D,10000,85737,1,0001320234,Common Stock
+D,09/08/2017 00:00:00,Capo Brian,4,M-Exempt,--D,7500,0,3,0001439115,Stock Option (buy)
+D,09/08/2017 00:00:00,Capo Brian,4,S-Sale,--D,7500,5854,2,0001439115,Common Stock
+A,09/08/2017 00:00:00,Capo Brian,4,M-Exempt,--D,7500,13354,1,0001439115,Common Stock
+D,08/18/2017 00:00:00,MAYS RANDALL THOMAS,4,G-Gift,-ED,25621,90926,1,0001212885,Common Stock
+D,08/15/2017 00:00:00,Berchtold Joe,4,G-Gift,-ED,1500,137918,1,0001552281,Common Stock
+D,06/15/2017 00:00:00,HINSON JEFFREY T.,4,S-Sale,--D,3160,64259,1,0001248251,Common Stock
+D,06/15/2017 00:00:00,ENLOE ROBERT TED III,4,S-Sale,--D,6337,23450,1,0000914763,Common Stock
+D,06/13/2017 00:00:00,Rowles Michael,4,F-InKind,--D,1678,238565,1,0001356771,Common Stock
+A,06/06/2017 00:00:00,Dolgen Jonathan L,4,A-Award,--D,4389,19233,1,0001306337,Common Stock
+A,06/06/2017 00:00:00,ENLOE ROBERT TED III,4,A-Award,--D,4389,29787,1,0000914763,Common Stock
+A,06/06/2017 00:00:00,KAHAN JAMES S,4,A-Award,--D,4389,76994,1,0001183261,Common Stock
+A,06/06/2017 00:00:00,Iovine Jimmy,4,A-Award,--D,4389,19088,1,0001626781,Common Stock
+A,06/06/2017 00:00:00,Emanuel Ariel,4,A-Award,--D,4389,75737,1,0001320234,Common Stock
+A,06/06/2017 00:00:00,MAFFEI GREGORY B,4,A-Award,--D,8603,77669,1,0001099636,Common Stock
+D,06/06/2017 00:00:00,Willard Elizabeth Kathleen,4,M-Exempt,--D,20000,0,3,0001345871,Stock Option (buy)
+D,06/06/2017 00:00:00,Willard Elizabeth Kathleen,4,S-Sale,--D,20000,266216,2,0001345871,Common Stock
+A,06/06/2017 00:00:00,Willard Elizabeth Kathleen,4,M-Exempt,--D,20000,286216,1,0001345871,Common Stock
+A,06/06/2017 00:00:00,HINSON JEFFREY T.,4,A-Award,--D,4389,67419,1,0001248251,Common Stock
+A,06/06/2017 00:00:00,SHAPIRO MARK S,4,A-Award,--D,4389,41318,1,0001345978,Common Stock
+A,06/06/2017 00:00:00,MAYS RANDALL THOMAS,4,A-Award,--D,4389,116547,1,0001212885,Common Stock
+A,06/06/2017 00:00:00,Johnson Margaret L,4,A-Award,--D,4389,10726,1,0001320483,Common Stock
+A,06/06/2017 00:00:00,Carleton Mark D,4,A-Award,--D,4389,43423,1,0001434339,Common Stock
+D,05/08/2017 00:00:00,KAHAN JAMES S,4,M-Exempt,--D,10000,0,3,0001183261,Stock Option (buy)
+D,05/08/2017 00:00:00,KAHAN JAMES S,4,S-Sale,--D,10000,72605,2,0001183261,Common Stock
+A,05/08/2017 00:00:00,KAHAN JAMES S,4,M-Exempt,--D,10000,82605,1,0001183261,Common Stock
+D,03/31/2017 00:00:00,Willard Elizabeth Kathleen,4,F-InKind,--D,3624,266216,1,0001345871,Common Stock
+D,03/31/2017 00:00:00,Berchtold Joe,4,F-InKind,--D,5141,139418,1,0001552281,Common Stock
+D,03/31/2017 00:00:00,Rowles Michael,4,F-InKind,--D,1820,240243,1,0001356771,Common Stock
+D,03/31/2017 00:00:00,Rapino Michael,4,F-InKind,--D,20795,465277,1,0001337041,Common Stock
+A,03/16/2017 00:00:00,Rapino Michael,4,A-Award,--D,195578,195578,2,0001337041,Stock Option (buy)
+A,03/16/2017 00:00:00,Rapino Michael,4,A-Award,--D,19876,486072,1,0001337041,Common Stock
+A,03/16/2017 00:00:00,Rowles Michael,4,A-Award,--D,63776,63776,2,0001356771,Stock Option (buy)
+A,03/16/2017 00:00:00,Rowles Michael,4,A-Award,--D,6481,242063,1,0001356771,Common Stock
+A,03/16/2017 00:00:00,Capo Brian,4,A-Award,--D,2500,5854,1,0001439115,Common Stock
+A,03/16/2017 00:00:00,Berchtold Joe,4,A-Award,--D,93537,93537,2,0001552281,Stock Option (buy)
+A,03/16/2017 00:00:00,Berchtold Joe,4,A-Award,--D,9506,144559,1,0001552281,Common Stock
+A,03/16/2017 00:00:00,Willard Elizabeth Kathleen,4,A-Award,--D,72279,72279,2,0001345871,Stock Option (buy)
+A,03/16/2017 00:00:00,Willard Elizabeth Kathleen,4,A-Award,--D,7345,269840,1,0001345871,Common Stock
+D,03/13/2017 00:00:00,Johnson Margaret L,4,S-Sale,--I,9000,11152,1,0001320483,Common Stock
+D,02/10/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,466196,3,0001337041,Common Stock
+D,02/09/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,536196,2,0001337041,Common Stock
+D,02/08/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,606196,1,0001337041,Common Stock
+D,02/03/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,676196,5,0001337041,Common Stock
+D,02/02/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,50000,0,7,0001337041,Stock Option (buy)
+D,02/02/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,746196,4,0001337041,Common Stock
+A,02/02/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,50000,816196,3,0001337041,Common Stock
+D,02/01/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,70000,50000,6,0001337041,Stock Option (buy)
+D,02/01/2017 00:00:00,Rapino Michael,4,S-Sale,--D,70000,766196,2,0001337041,Common Stock
+A,02/01/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,70000,836196,1,0001337041,Common Stock
+D,01/27/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,40000,120000,9,0001337041,Stock Option (buy)
+D,01/27/2017 00:00:00,Rapino Michael,4,S-Sale,--D,40000,766196,6,0001337041,Common Stock
+A,01/27/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,40000,806196,5,0001337041,Common Stock
+D,01/26/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,50000,160000,8,0001337041,Stock Option (buy)
+D,01/26/2017 00:00:00,Rapino Michael,4,S-Sale,--D,50000,766196,4,0001337041,Common Stock
+A,01/26/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,50000,816196,3,0001337041,Common Stock
+D,01/25/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,50000,210000,7,0001337041,Stock Option (buy)
+D,01/25/2017 00:00:00,Rapino Michael,4,S-Sale,--D,50000,766196,2,0001337041,Common Stock
+A,01/25/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,50000,816196,1,0001337041,Common Stock
+D,01/22/2017 00:00:00,Capo Brian,4,F-InKind,--D,164,3354,1,0001439115,Common Stock
+D,01/20/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,40000,260000,9,0001337041,Stock Option (buy)
+D,01/20/2017 00:00:00,Rapino Michael,4,S-Sale,--D,40000,766196,6,0001337041,Common Stock
+A,01/20/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,40000,806196,5,0001337041,Common Stock
+D,01/19/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,50000,300000,8,0001337041,Stock Option (buy)
+D,01/19/2017 00:00:00,Rapino Michael,4,S-Sale,--D,50000,766196,4,0001337041,Common Stock
+A,01/19/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,50000,816196,3,0001337041,Common Stock
+D,01/18/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,50000,350000,7,0001337041,Stock Option (buy)
+D,01/18/2017 00:00:00,Rapino Michael,4,S-Sale,--D,50000,766196,2,0001337041,Common Stock
+A,01/18/2017 00:00:00,Rapino Michael,4,M-Exempt,--D,50000,816196,1,0001337041,Common Stock
+D,01/15/2017 00:00:00,Rowles Michael,4,F-InKind,--D,2578,235582,1,0001356771,Common Stock

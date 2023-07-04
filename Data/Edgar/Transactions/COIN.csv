@@ -1,0 +1,1623 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/27/2023 00:00:00,Jones Jennifer N.,4,C-Conversion,--D,74375,0,5,0001851432,Class B Common Stock
+A,06/27/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,74375,74375,4,0001851432,Class B Common Stock
+D,06/27/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,74375,0,3,0001851432,Employee Stock Option (right to buy)
+D,06/27/2023 00:00:00,Jones Jennifer N.,4,S-Sale,--D,74375,34752,2,0001851432,Class A Common Stock
+A,06/27/2023 00:00:00,Jones Jennifer N.,4,C-Conversion,--D,74375,109127,1,0001851432,Class A Common Stock
+D,06/20/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29730,25996183,7,0001851492,Class B Common Stock
+D,06/20/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,600,0,6,0001851492,Class A Common Stock
+D,06/20/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,9095,600,5,0001851492,Class A Common Stock
+D,06/20/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,7636,9695,4,0001851492,Class A Common Stock
+D,06/20/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,8880,17331,3,0001851492,Class A Common Stock
+D,06/20/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,3519,26211,2,0001851492,Class A Common Stock
+A,06/20/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29730,29730,1,0001851492,Class A Common Stock
+A,06/16/2023 00:00:00,Rajaram Gokul,4,A-Award,--D,5934,5934,1,0001589043,Class A Common Stock
+A,06/16/2023 00:00:00,Kramer Kelly A.,4,A-Award,--D,6294,6294,1,0001629885,Class A Common Stock
+A,06/16/2023 00:00:00,Haun Kathryn,4,A-Award,--D,5845,5845,1,0001851425,Class A Common Stock
+A,06/16/2023 00:00:00,Ehrsam Frederick Ernest III,4,A-Award,--D,5755,5755,1,0001851442,Class A Common Stock
+A,06/16/2023 00:00:00,Lutke Tobias,4,A-Award,--D,5396,5396,1,0001666546,Class A Common Stock
+D,06/05/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29730,26025913,10,0001851492,Class B Common Stock
+D,06/05/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,788,0,9,0001851492,Class A Common Stock
+D,06/05/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,3500,788,8,0001851492,Class A Common Stock
+D,06/05/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,7702,4288,7,0001851492,Class A Common Stock
+D,06/05/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,1750,11990,6,0001851492,Class A Common Stock
+D,06/05/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,1000,13740,5,0001851492,Class A Common Stock
+D,06/05/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,2992,14740,4,0001851492,Class A Common Stock
+D,06/05/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,8598,17732,3,0001851492,Class A Common Stock
+D,06/05/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,3400,26330,2,0001851492,Class A Common Stock
+A,06/05/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29730,29730,1,0001851492,Class A Common Stock
+D,06/02/2023 00:00:00,Jones Jennifer N.,4,S-Sale,--D,1704,34752,1,0001851432,Class A Common Stock
+D,06/02/2023 00:00:00,Rajaram Gokul,4,S-Sale,--D,1145,24298,2,0001589043,Class A Common Stock
+D,06/01/2023 00:00:00,Ehrsam Frederick Ernest III,4,M-Exempt,--D,4662,0,5,0001851442,Restricted Stock Units
+A,06/01/2023 00:00:00,Ehrsam Frederick Ernest III,4,M-Exempt,--D,4662,4662,1,0001851442,Class A Common Stock
+D,06/01/2023 00:00:00,Haun Kathryn,4,M-Exempt,--D,4953,0,3,0001851425,Restricted Stock Units
+A,06/01/2023 00:00:00,Haun Kathryn,4,M-Exempt,--D,4953,117593,1,0001851425,Class A Common Stock
+D,06/01/2023 00:00:00,Kramer Kelly A.,4,M-Exempt,--D,5199,0,2,0001629885,Restricted Stock Units
+A,06/01/2023 00:00:00,Kramer Kelly A.,4,M-Exempt,--D,5199,25810,1,0001629885,Class A Common Stock
+D,06/01/2023 00:00:00,Lutke Tobias,4,M-Exempt,--D,4371,0,3,0001666546,Restricted Stock Units
+A,06/01/2023 00:00:00,Lutke Tobias,4,M-Exempt,--D,4371,5515,1,0001666546,Class A Common Stock
+D,06/01/2023 00:00:00,Rajaram Gokul,4,M-Exempt,--D,4908,0,3,0001589043,Restricted Stock Units
+A,06/01/2023 00:00:00,Rajaram Gokul,4,M-Exempt,--D,4908,25443,1,0001589043,Class A Common Stock
+D,05/25/2023 00:00:00,Grewal Paul,4,S-Sale,--D,180,70600,3,0001851414,Class A Common Stock
+D,05/25/2023 00:00:00,Grewal Paul,4,S-Sale,--D,320,70780,2,0001851414,Class A Common Stock
+D,05/25/2023 00:00:00,Grewal Paul,4,S-Sale,--D,1318,71100,1,0001851414,Class A Common Stock
+D,05/24/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29730,26055643,5,0001851492,Class B Common Stock
+D,05/24/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,666,0,4,0001851492,Class A Common Stock
+D,05/24/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,17218,666,3,0001851492,Class A Common Stock
+D,05/24/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,11846,17884,2,0001851492,Class A Common Stock
+A,05/24/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29730,29730,1,0001851492,Class A Common Stock
+D,05/24/2023 00:00:00,Brock Lawrence J,4,S-Sale,--D,14207,14757,1,0001963975,Class A Common Stock
+D,05/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,628,6281,9,0001851432,Restricted Stock Units
+D,05/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1256,12562,8,0001851432,Restricted Stock Units
+D,05/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,777,1553,7,0001851432,Restricted Stock Units
+D,05/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,723,4339,6,0001851432,Restricted Stock Units
+D,05/20/2023 00:00:00,Jones Jennifer N.,4,F-InKind,--D,1680,36456,5,0001851432,Class A Common Stock
+A,05/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,628,38136,4,0001851432,Class A Common Stock
+A,05/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1256,37508,3,0001851432,Class A Common Stock
+A,05/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,777,36252,2,0001851432,Class A Common Stock
+A,05/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,723,35475,1,0001851432,Class A Common Stock
+D,05/20/2023 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,2143,12857,6,0001668711,Restricted Stock Units
+D,05/20/2023 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,10361,20723,5,0001668711,Restricted Stock Units
+D,05/20/2023 00:00:00,HAAS ALESIA J,4,F-InKind,--D,6200,268176,3,0001668711,Class A Common Stock
+A,05/20/2023 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,2143,274376,2,0001668711,Class A Common Stock
+A,05/20/2023 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,10361,272233,1,0001668711,Class A Common Stock
+D,05/20/2023 00:00:00,Grewal Paul,4,M-Exempt,--D,3350,33498,7,0001851414,Restricted Stock Units
+D,05/20/2023 00:00:00,Grewal Paul,4,M-Exempt,--D,1286,7714,6,0001851414,Restricted Stock Units
+D,05/20/2023 00:00:00,Grewal Paul,4,M-Exempt,--D,14424,86539,5,0001851414,Restricted Stock Units
+D,05/20/2023 00:00:00,Grewal Paul,4,F-InKind,--D,9451,72418,4,0001851414,Class A Common Stock
+A,05/20/2023 00:00:00,Grewal Paul,4,M-Exempt,--D,3350,81869,3,0001851414,Class A Common Stock
+A,05/20/2023 00:00:00,Grewal Paul,4,M-Exempt,--D,1286,78519,2,0001851414,Class A Common Stock
+A,05/20/2023 00:00:00,Grewal Paul,4,M-Exempt,--D,14424,77233,1,0001851414,Class A Common Stock
+D,05/20/2023 00:00:00,Choi Emilie,4,M-Exempt,--D,11166,111662,10,0001851658,Restricted Stock Units
+D,05/20/2023 00:00:00,Choi Emilie,4,M-Exempt,--D,4285,25715,9,0001851658,Restricted Stock Units
+D,05/20/2023 00:00:00,Choi Emilie,4,M-Exempt,--D,23025,46050,8,0001851658,Restricted Stock Units
+D,05/20/2023 00:00:00,Choi Emilie,4,F-InKind,--D,19078,175795,4,0001851658,Class A Common Stock
+A,05/20/2023 00:00:00,Choi Emilie,4,M-Exempt,--D,11166,194873,3,0001851658,Class A Common Stock
+A,05/20/2023 00:00:00,Choi Emilie,4,M-Exempt,--D,4285,183707,2,0001851658,Class A Common Stock
+A,05/20/2023 00:00:00,Choi Emilie,4,M-Exempt,--D,23025,179422,1,0001851658,Class A Common Stock
+D,05/20/2023 00:00:00,Brock Lawrence J,4,M-Exempt,--D,3350,33498,7,0001963975,Restricted Stock Units
+D,05/20/2023 00:00:00,Brock Lawrence J,4,M-Exempt,--D,1286,7714,6,0001963975,Restricted Stock Units
+D,05/20/2023 00:00:00,Brock Lawrence J,4,M-Exempt,--D,24177,145058,5,0001963975,Restricted Stock Units
+D,05/20/2023 00:00:00,Brock Lawrence J,4,F-InKind,--D,12737,28964,4,0001963975,Class A Common Stock
+A,05/20/2023 00:00:00,Brock Lawrence J,4,M-Exempt,--D,3350,41701,3,0001963975,Class A Common Stock
+A,05/20/2023 00:00:00,Brock Lawrence J,4,M-Exempt,--D,1286,38351,2,0001963975,Class A Common Stock
+A,05/20/2023 00:00:00,Brock Lawrence J,4,M-Exempt,--D,24177,37065,1,0001963975,Class A Common Stock
+A,05/10/2023 00:00:00,Ehrsam Frederick Ernest III,4,P-Purchase,--I,51382,1931844,6,0001851442,Class A Common Stock
+A,05/10/2023 00:00:00,Ehrsam Frederick Ernest III,4,P-Purchase,--I,425216,1880462,5,0001851442,Class A Common Stock
+A,05/10/2023 00:00:00,Ehrsam Frederick Ernest III,4,P-Purchase,--I,168202,1455246,4,0001851442,Class A Common Stock
+A,05/10/2023 00:00:00,Ehrsam Frederick Ernest III,4,P-Purchase,--I,65200,1287044,3,0001851442,Class A Common Stock
+A,05/09/2023 00:00:00,Ehrsam Frederick Ernest III,4,P-Purchase,--I,40000,1221844,2,0001851442,Class A Common Stock
+A,05/09/2023 00:00:00,Ehrsam Frederick Ernest III,4,P-Purchase,--I,60000,1181844,1,0001851442,Class A Common Stock
+D,05/08/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29730,26085373,6,0001851492,Class B Common Stock
+D,05/08/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,6002,0,5,0001851492,Class A Common Stock
+D,05/08/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,9128,6002,4,0001851492,Class A Common Stock
+D,05/08/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,4639,15130,3,0001851492,Class A Common Stock
+D,05/08/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,9961,19769,2,0001851492,Class A Common Stock
+A,05/08/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29730,29730,1,0001851492,Class A Common Stock
+D,04/24/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29730,26115103,7,0001851492,Class B Common Stock
+D,04/24/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,1000,0,6,0001851492,Class A Common Stock
+D,04/24/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,4927,1000,5,0001851492,Class A Common Stock
+D,04/24/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,1654,5927,4,0001851492,Class A Common Stock
+D,04/24/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,3210,7581,3,0001851492,Class A Common Stock
+D,04/24/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,18939,10791,2,0001851492,Class A Common Stock
+A,04/24/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29730,29730,1,0001851492,Class A Common Stock
+D,04/10/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29730,26144833,8,0001851492,Class B Common Stock
+D,04/10/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,2435,0,7,0001851492,Class A Common Stock
+D,04/10/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,4221,2435,6,0001851492,Class A Common Stock
+D,04/10/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,4657,6656,5,0001851492,Class A Common Stock
+D,04/10/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,5415,11313,4,0001851492,Class A Common Stock
+D,04/10/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,5251,16728,3,0001851492,Class A Common Stock
+D,04/10/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,7751,21979,2,0001851492,Class A Common Stock
+A,04/10/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29730,29730,1,0001851492,Class A Common Stock
+D,03/27/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29730,26174563,8,0001851492,Class B Common Stock
+D,03/27/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,350,0,7,0001851492,Class A Common Stock
+D,03/27/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,4343,350,6,0001851492,Class A Common Stock
+D,03/27/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,3448,4693,5,0001851492,Class A Common Stock
+D,03/27/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,4164,8141,4,0001851492,Class A Common Stock
+D,03/27/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,10034,12305,3,0001851492,Class A Common Stock
+D,03/27/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,7391,22339,2,0001851492,Class A Common Stock
+A,03/27/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29730,29730,1,0001851492,Class A Common Stock
+D,03/21/2023 00:00:00,Grewal Paul,4,S-Sale,--D,840,62410,2,0001851414,Class A Common Stock
+D,03/20/2023 00:00:00,Grewal Paul,4,S-Sale,--D,1485,63250,1,0001851414,Class A Common Stock
+D,03/20/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,1706,26204293,8,0001851492,Class B Common Stock
+D,03/20/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,100,0,6,0001851492,Class A Common Stock
+D,03/20/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,1606,100,5,0001851492,Class A Common Stock
+A,03/20/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,1706,1706,4,0001851492,Class A Common Stock
+D,03/17/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,28026,26205999,7,0001851492,Class B Common Stock
+D,03/17/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,5140,0,3,0001851492,Class A Common Stock
+D,03/17/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,22886,5140,2,0001851492,Class A Common Stock
+A,03/17/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,28026,28026,1,0001851492,Class A Common Stock
+D,03/13/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29732,26234025,12,0001851492,Class B Common Stock
+D,03/13/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,1301,0,11,0001851492,Class A Common Stock
+D,03/13/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,5725,1301,10,0001851492,Class A Common Stock
+D,03/13/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,8372,7026,9,0001851492,Class A Common Stock
+D,03/13/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,2300,15398,8,0001851492,Class A Common Stock
+D,03/13/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,3500,17698,7,0001851492,Class A Common Stock
+D,03/13/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,2800,21198,6,0001851492,Class A Common Stock
+D,03/13/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,2734,23998,5,0001851492,Class A Common Stock
+D,03/13/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,700,26732,4,0001851492,Class A Common Stock
+D,03/13/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,900,27432,3,0001851492,Class A Common Stock
+D,03/13/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,1400,28332,2,0001851492,Class A Common Stock
+A,03/13/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29732,29732,1,0001851492,Class A Common Stock
+D,03/01/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29732,26263757,6,0001851492,Class B Common Stock
+D,03/01/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,400,0,5,0001851492,Class A Common Stock
+D,03/01/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,3200,400,4,0001851492,Class A Common Stock
+D,03/01/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,14717,3600,3,0001851492,Class A Common Stock
+D,03/01/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,11415,18317,2,0001851492,Class A Common Stock
+A,03/01/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29732,29732,1,0001851492,Class A Common Stock
+D,02/27/2023 00:00:00,Grewal Paul,4,S-Sale,--D,76,64735,3,0001851414,Class A Common Stock
+D,02/27/2023 00:00:00,Grewal Paul,4,S-Sale,--D,811,64811,2,0001851414,Class A Common Stock
+D,02/27/2023 00:00:00,Grewal Paul,4,S-Sale,--D,1438,65622,1,0001851414,Class A Common Stock
+D,02/23/2023 00:00:00,Jones Jennifer N.,4,S-Sale,--D,1055,34752,4,0001851432,Class A Common Stock
+D,02/23/2023 00:00:00,Jones Jennifer N.,4,S-Sale,--D,3115,35807,3,0001851432,Class A Common Stock
+D,02/23/2023 00:00:00,Jones Jennifer N.,4,S-Sale,--D,2427,38922,2,0001851432,Class A Common Stock
+D,02/23/2023 00:00:00,Jones Jennifer N.,4,S-Sale,--D,1600,41349,1,0001851432,Class A Common Stock
+D,02/22/2023 00:00:00,Brock Lawrence J,4,S-Sale,--D,16215,12808,1,0001963975,Class A Common Stock
+D,02/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1256,13818,11,0001851432,Restricted Stock Units
+D,02/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,6375,0,10,0001851432,Restricted Stock Units
+D,02/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,777,2330,9,0001851432,Restricted Stock Units
+D,02/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,723,5062,8,0001851432,Restricted Stock Units
+D,02/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,11397,0,7,0001851432,Restricted Stock Units
+D,02/20/2023 00:00:00,Jones Jennifer N.,4,F-InKind,--D,8210,42949,6,0001851432,Class A Common Stock
+A,02/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1256,51159,5,0001851432,Class A Common Stock
+A,02/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,6375,49903,4,0001851432,Class A Common Stock
+A,02/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,777,43528,3,0001851432,Class A Common Stock
+A,02/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,723,42751,2,0001851432,Class A Common Stock
+A,02/20/2023 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,11397,42028,1,0001851432,Class A Common Stock
+D,02/20/2023 00:00:00,Haun Kathryn,4,M-Exempt,--D,2418,0,5,0001851425,Restricted Stock Units
+A,02/20/2023 00:00:00,Haun Kathryn,4,M-Exempt,--D,2418,112640,3,0001851425,Class A Common Stock
+D,02/20/2023 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,2143,15000,6,0001668711,Restricted Stock Units
+D,02/20/2023 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,10361,31084,5,0001668711,Restricted Stock Units
+D,02/20/2023 00:00:00,HAAS ALESIA J,4,F-InKind,--D,6200,261872,3,0001668711,Class A Common Stock
+A,02/20/2023 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,2143,268072,2,0001668711,Class A Common Stock
+A,02/20/2023 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,10361,265929,1,0001668711,Class A Common Stock
+D,02/20/2023 00:00:00,Grewal Paul,4,M-Exempt,--D,3350,36848,7,0001851414,Restricted Stock Units
+D,02/20/2023 00:00:00,Grewal Paul,4,M-Exempt,--D,1285,9000,6,0001851414,Restricted Stock Units
+D,02/20/2023 00:00:00,Grewal Paul,4,M-Exempt,--D,14423,100963,5,0001851414,Restricted Stock Units
+D,02/20/2023 00:00:00,Grewal Paul,4,F-InKind,--D,7422,67060,4,0001851414,Class A Common Stock
+A,02/20/2023 00:00:00,Grewal Paul,4,M-Exempt,--D,3350,74482,3,0001851414,Class A Common Stock
+A,02/20/2023 00:00:00,Grewal Paul,4,M-Exempt,--D,1285,71132,2,0001851414,Class A Common Stock
+A,02/20/2023 00:00:00,Grewal Paul,4,M-Exempt,--D,14423,69847,1,0001851414,Class A Common Stock
+D,02/20/2023 00:00:00,Brock Lawrence J,4,M-Exempt,--D,3350,36848,7,0001963975,Restricted Stock Units
+D,02/20/2023 00:00:00,Brock Lawrence J,4,M-Exempt,--D,1285,9000,6,0001963975,Restricted Stock Units
+D,02/20/2023 00:00:00,Brock Lawrence J,4,M-Exempt,--D,24176,169235,5,0001963975,Restricted Stock Units
+D,02/20/2023 00:00:00,Brock Lawrence J,4,F-InKind,--D,10727,29023,4,0001963975,Class A Common Stock
+A,02/20/2023 00:00:00,Brock Lawrence J,4,M-Exempt,--D,3350,39750,3,0001963975,Class A Common Stock
+A,02/20/2023 00:00:00,Brock Lawrence J,4,M-Exempt,--D,1285,36400,2,0001963975,Class A Common Stock
+A,02/20/2023 00:00:00,Brock Lawrence J,4,M-Exempt,--D,24176,35115,1,0001963975,Class A Common Stock
+D,02/20/2023 00:00:00,Choi Emilie,4,M-Exempt,--D,11166,122828,10,0001851658,Restricted Stock Units
+D,02/20/2023 00:00:00,Choi Emilie,4,M-Exempt,--D,4286,30000,9,0001851658,Restricted Stock Units
+D,02/20/2023 00:00:00,Choi Emilie,4,M-Exempt,--D,23026,69075,8,0001851658,Restricted Stock Units
+D,02/20/2023 00:00:00,Choi Emilie,4,F-InKind,--D,17086,128444,4,0001851658,Class A Common Stock
+A,02/20/2023 00:00:00,Choi Emilie,4,M-Exempt,--D,11166,145530,3,0001851658,Class A Common Stock
+A,02/20/2023 00:00:00,Choi Emilie,4,M-Exempt,--D,4286,134364,2,0001851658,Class A Common Stock
+A,02/20/2023 00:00:00,Choi Emilie,4,M-Exempt,--D,23026,130078,1,0001851658,Class A Common Stock
+D,02/20/2023 00:00:00,Lutke Tobias,4,M-Exempt,--D,622,1245,3,0001666546,Restricted Stock Units
+A,02/20/2023 00:00:00,Lutke Tobias,4,M-Exempt,--D,622,1144,1,0001666546,Class A Common Stock
+D,02/20/2023 00:00:00,Kramer Kelly A.,4,M-Exempt,--D,9670,0,2,0001629885,Restricted Stock Units
+A,02/20/2023 00:00:00,Kramer Kelly A.,4,M-Exempt,--D,9670,20611,1,0001629885,Class A Common Stock
+D,02/14/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29732,26293489,8,0001851492,Class B Common Stock
+D,02/14/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,1600,0,7,0001851492,Class A Common Stock
+D,02/14/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,3208,1600,6,0001851492,Class A Common Stock
+D,02/14/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,7381,4808,5,0001851492,Class A Common Stock
+D,02/14/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,8211,12189,4,0001851492,Class A Common Stock
+D,02/14/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,6932,20400,3,0001851492,Class A Common Stock
+D,02/14/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,2400,27332,2,0001851492,Class A Common Stock
+A,02/14/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29732,29732,1,0001851492,Class A Common Stock
+A,02/10/2023 00:00:00,Haun Kathryn,4,G-Gift,-ED,77772,110222,2,0001851425,Class A Common Stock
+D,02/10/2023 00:00:00,Haun Kathryn,4,G-Gift,-EI,128508,0,1,0001851425,Class A Common Stock
+A,02/07/2023 00:00:00,Lutke Tobias,4,P-Purchase,--I,4960,208830,1,0001666546,Class A Common Stock
+A,02/05/2023 00:00:00,Brock Lawrence J,4,A-Award,--D,55617,55617,2,0001963975,Employee Stock Option (right to buy)
+A,02/05/2023 00:00:00,Brock Lawrence J,4,A-Award,--D,40198,40198,1,0001963975,Restricted Stock Units
+A,02/05/2023 00:00:00,Grewal Paul,4,A-Award,--D,55617,55617,2,0001851414,Employee Stock Option (right to buy)
+A,02/05/2023 00:00:00,Grewal Paul,4,A-Award,--D,40198,40198,1,0001851414,Restricted Stock Units
+A,02/05/2023 00:00:00,Choi Emilie,4,A-Award,--D,185391,185391,2,0001851658,Employee Stock Option (right to buy)
+A,02/05/2023 00:00:00,Choi Emilie,4,A-Award,--D,133994,133994,1,0001851658,Restricted Stock Units
+A,02/05/2023 00:00:00,Jones Jennifer N.,4,A-Award,--D,3186,3186,4,0001851432,Employee Stock Option (right to buy)
+A,02/05/2023 00:00:00,Jones Jennifer N.,4,A-Award,--D,6952,6952,3,0001851432,Employee Stock Option (right to buy)
+A,02/05/2023 00:00:00,Jones Jennifer N.,4,A-Award,--D,6909,6909,2,0001851432,Restricted Stock Units
+A,02/05/2023 00:00:00,Jones Jennifer N.,4,A-Award,--D,15074,15074,1,0001851432,Restricted Stock Units
+D,02/02/2023 00:00:00,Grewal Paul,4,S-Sale,--D,1818,55424,1,0001851414,Class A Common Stock
+D,02/02/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,44598,26323221,12,0001851492,Class B Common Stock
+D,02/02/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,300,0,11,0001851492,Class A Common Stock
+D,02/02/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,883,300,10,0001851492,Class A Common Stock
+D,02/02/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,700,1183,9,0001851492,Class A Common Stock
+D,02/02/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,5451,1883,8,0001851492,Class A Common Stock
+D,02/02/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,4768,7334,7,0001851492,Class A Common Stock
+D,02/02/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,10605,12102,6,0001851492,Class A Common Stock
+D,02/02/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,9690,22707,5,0001851492,Class A Common Stock
+D,02/02/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,8001,32397,4,0001851492,Class A Common Stock
+D,02/02/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,1200,40398,3,0001851492,Class A Common Stock
+D,02/02/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,3000,41598,2,0001851492,Class A Common Stock
+A,02/02/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,44598,44598,1,0001851492,Class A Common Stock
+A,01/31/2023 00:00:00,Lutke Tobias,4,P-Purchase,--I,6588,203870,1,0001666546,Class A Common Stock
+D,01/30/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29732,26367819,8,0001851492,Class B Common Stock
+D,01/30/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,1523,0,7,0001851492,Class A Common Stock
+D,01/30/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,4842,1523,6,0001851492,Class A Common Stock
+D,01/30/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,5264,6365,5,0001851492,Class A Common Stock
+D,01/30/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,10026,11629,4,0001851492,Class A Common Stock
+D,01/30/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,6421,21655,3,0001851492,Class A Common Stock
+D,01/30/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,1656,28076,2,0001851492,Class A Common Stock
+A,01/30/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,29732,29732,1,0001851492,Class A Common Stock
+A,01/24/2023 00:00:00,Lutke Tobias,4,P-Purchase,--I,6612,197282,1,0001666546,Class A Common Stock
+A,01/18/2023 00:00:00,Lutke Tobias,4,P-Purchase,--I,6834,190670,1,0001666546,Class A Common Stock
+D,01/17/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,31143,26397551,10,0001851492,Class B Common Stock
+D,01/17/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,200,0,8,0001851492,Class A Common Stock
+D,01/17/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,6540,200,7,0001851492,Class A Common Stock
+D,01/17/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,7343,6740,6,0001851492,Class A Common Stock
+D,01/17/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,12610,14083,5,0001851492,Class A Common Stock
+D,01/17/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,4450,26693,4,0001851492,Class A Common Stock
+A,01/17/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,31143,31143,3,0001851492,Class A Common Stock
+D,01/13/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,58053,26428694,9,0001851492,Class B Common Stock
+D,01/13/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,58053,0,2,0001851492,Class A Common Stock
+A,01/13/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,58053,58053,1,0001851492,Class A Common Stock
+D,01/10/2023 00:00:00,HAAS ALESIA J,4,C-Conversion,--D,150000,0,8,0001668711,Class B Common Stock
+A,01/10/2023 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,150000,150000,7,0001668711,Class B Common Stock
+D,01/10/2023 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,150000,617668,6,0001668711,Employee Stock Option (right to buy)
+D,01/10/2023 00:00:00,HAAS ALESIA J,4,S-Sale,--D,6731,255568,4,0001668711,Class A Common Stock
+D,01/10/2023 00:00:00,HAAS ALESIA J,4,S-Sale,--D,31039,262299,3,0001668711,Class A Common Stock
+D,01/10/2023 00:00:00,HAAS ALESIA J,4,S-Sale,--D,50230,293338,2,0001668711,Class A Common Stock
+A,01/10/2023 00:00:00,HAAS ALESIA J,4,C-Conversion,--D,150000,343568,1,0001668711,Class A Common Stock
+A,01/10/2023 00:00:00,Lutke Tobias,4,P-Purchase,--I,9668,183836,1,0001666546,Class A Common Stock
+D,01/04/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,14866,26486747,6,0001851492,Class B Common Stock
+D,01/04/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,4704,0,5,0001851492,Class A Common Stock
+D,01/04/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,4850,4704,4,0001851492,Class A Common Stock
+D,01/04/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,2612,9554,3,0001851492,Class A Common Stock
+D,01/04/2023 00:00:00,Armstrong Brian,4,S-Sale,--I,2700,12166,2,0001851492,Class A Common Stock
+A,01/04/2023 00:00:00,Armstrong Brian,4,C-Conversion,--I,14866,14866,1,0001851492,Class A Common Stock
+A,01/04/2023 00:00:00,Lutke Tobias,4,P-Purchase,--I,11012,174168,1,0001666546,Class A Common Stock
+A,12/28/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,11332,163156,1,0001666546,Class A Common Stock
+D,12/27/2022 00:00:00,HAAS ALESIA J,4,C-Conversion,--D,150000,0,7,0001668711,Class B Common Stock
+A,12/27/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,150000,150000,6,0001668711,Class B Common Stock
+D,12/27/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,150000,767668,5,0001668711,Employee Stock Option (right to buy)
+D,12/27/2022 00:00:00,HAAS ALESIA J,4,S-Sale,--D,30931,193568,3,0001668711,Class A Common Stock
+D,12/27/2022 00:00:00,HAAS ALESIA J,4,S-Sale,--D,63069,224499,2,0001668711,Class A Common Stock
+A,12/27/2022 00:00:00,HAAS ALESIA J,4,C-Conversion,--D,150000,287568,1,0001668711,Class A Common Stock
+D,12/20/2022 00:00:00,Armstrong Brian,4,C-Conversion,--I,14866,26501613,5,0001851492,Class B Common Stock
+D,12/20/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,500,0,4,0001851492,Class A Common Stock
+D,12/20/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,4250,500,3,0001851492,Class A Common Stock
+D,12/20/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,10116,4750,2,0001851492,Class A Common Stock
+A,12/20/2022 00:00:00,Armstrong Brian,4,C-Conversion,--I,14866,14866,1,0001851492,Class A Common Stock
+A,12/20/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,10520,151824,1,0001666546,Class A Common Stock
+A,12/14/2022 00:00:00,Choi Emilie,5,G-Gift,--I,893,51046,2,0001851658,Class A Common Stock
+D,12/14/2022 00:00:00,Choi Emilie,5,G-Gift,--D,893,107052,1,0001851658,Class A Common Stock
+A,12/13/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,8685,141304,1,0001666546,Class A Common Stock
+D,12/13/2022 00:00:00,HAAS ALESIA J,4,C-Conversion,--D,150000,0,8,0001668711,Class B Common Stock
+A,12/13/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,150000,150000,7,0001668711,Class B Common Stock
+D,12/13/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,150000,917668,6,0001668711,Employee Stock Option (right to buy)
+D,12/13/2022 00:00:00,HAAS ALESIA J,4,S-Sale,--D,30300,137568,4,0001668711,Class A Common Stock
+D,12/13/2022 00:00:00,HAAS ALESIA J,4,S-Sale,--D,24162,167868,3,0001668711,Class A Common Stock
+D,12/13/2022 00:00:00,HAAS ALESIA J,4,S-Sale,--D,37538,192030,2,0001668711,Class A Common Stock
+A,12/13/2022 00:00:00,HAAS ALESIA J,4,C-Conversion,--D,150000,229568,1,0001668711,Class A Common Stock
+A,12/06/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,8043,132619,2,0001666546,Class A Common Stock
+D,12/05/2022 00:00:00,Armstrong Brian,4,C-Conversion,--I,14866,26516479,6,0001851492,Class B Common Stock
+D,12/05/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,600,0,5,0001851492,Class A Common Stock
+D,12/05/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,1900,600,4,0001851492,Class A Common Stock
+D,12/05/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,5347,2500,3,0001851492,Class A Common Stock
+D,12/05/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,7019,7847,2,0001851492,Class A Common Stock
+A,12/05/2022 00:00:00,Armstrong Brian,4,C-Conversion,--I,14866,14866,1,0001851492,Class A Common Stock
+A,11/29/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,8704,124576,1,0001666546,Class A Common Stock
+D,11/25/2022 00:00:00,Grewal Paul,4,S-Sale,--D,1818,57242,1,0001851414,Class A Common Stock
+D,11/23/2022 00:00:00,Jones Jennifer N.,4,S-Sale,--D,2175,30631,1,0001851432,Class A Common Stock
+D,11/22/2022 00:00:00,HAAS ALESIA J,4,S-Sale,--D,12749,79568,1,0001668711,Class A Common Stock
+A,11/22/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,8974,115872,1,0001666546,Class A Common Stock
+D,11/22/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,143023,78433,14,0001668711,Employee Stock Option (right to buy)
+D,11/22/2022 00:00:00,HAAS ALESIA J,4,C-Conversion,--D,26832,0,13,0001668711,Class B Common Stock
+A,11/22/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,26832,26832,12,0001668711,Class B Common Stock
+D,11/22/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,26832,1067668,11,0001668711,Employee Stock Option (right to buy)
+D,11/22/2022 00:00:00,HAAS ALESIA J,4,S-Sale,--D,11200,92317,7,0001668711,Class A Common Stock
+D,11/22/2022 00:00:00,HAAS ALESIA J,4,S-Sale,--D,92659,103517,6,0001668711,Class A Common Stock
+A,11/22/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,143023,196176,5,0001668711,Class A Common Stock
+A,11/22/2022 00:00:00,HAAS ALESIA J,4,C-Conversion,--D,26832,53153,4,0001668711,Class A Common Stock
+D,11/21/2022 00:00:00,Armstrong Brian,4,C-Conversion,--I,14866,26531345,6,0001851492,Class B Common Stock
+D,11/21/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,1990,0,5,0001851492,Class A Common Stock
+D,11/21/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,1300,1990,4,0001851492,Class A Common Stock
+D,11/21/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,4201,3290,3,0001851492,Class A Common Stock
+D,11/21/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,7375,7491,2,0001851492,Class A Common Stock
+A,11/21/2022 00:00:00,Armstrong Brian,4,C-Conversion,--I,14866,14866,1,0001851492,Class A Common Stock
+D,11/20/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,2142,17143,10,0001668711,Restricted Stock Units
+D,11/20/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,10362,41445,9,0001668711,Restricted Stock Units
+D,11/20/2022 00:00:00,HAAS ALESIA J,4,F-InKind,--D,6201,26321,3,0001668711,Class A Common Stock
+A,11/20/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,2142,32522,2,0001668711,Class A Common Stock
+A,11/20/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,10362,30380,1,0001668711,Class A Common Stock
+D,11/20/2022 00:00:00,Grewal Paul,4,M-Exempt,--D,1286,10285,5,0001851414,Restricted Stock Units
+D,11/20/2022 00:00:00,Grewal Paul,4,M-Exempt,--D,14423,115386,4,0001851414,Restricted Stock Units
+D,11/20/2022 00:00:00,Grewal Paul,4,F-InKind,--D,7789,59060,3,0001851414,Class A Common Stock
+A,11/20/2022 00:00:00,Grewal Paul,4,M-Exempt,--D,1286,66849,2,0001851414,Class A Common Stock
+A,11/20/2022 00:00:00,Grewal Paul,4,M-Exempt,--D,14423,65563,1,0001851414,Class A Common Stock
+D,11/20/2022 00:00:00,Choi Emilie,4,M-Exempt,--D,4286,34286,8,0001851658,Restricted Stock Units
+D,11/20/2022 00:00:00,Choi Emilie,4,M-Exempt,--D,23025,92101,7,0001851658,Restricted Stock Units
+D,11/20/2022 00:00:00,Choi Emilie,4,F-InKind,--D,13541,107945,3,0001851658,Class A Common Stock
+A,11/20/2022 00:00:00,Choi Emilie,4,M-Exempt,--D,4286,121486,2,0001851658,Class A Common Stock
+A,11/20/2022 00:00:00,Choi Emilie,4,M-Exempt,--D,23025,117200,1,0001851658,Class A Common Stock
+D,11/20/2022 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,2142,17143,4,0001851558,Restricted Stock Units
+D,11/20/2022 00:00:00,Chatterjee Surojit,4,F-InKind,--D,1063,4488,2,0001851558,Class A Common Stock
+A,11/20/2022 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,2142,5551,1,0001851558,Class A Common Stock
+D,11/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,6375,6375,11,0001851432,Restricted Stock Units
+D,11/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1553,3107,10,0001851432,Restricted Stock Units
+D,11/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,723,5785,9,0001851432,Restricted Stock Units
+D,11/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,783,0,8,0001851432,Restricted Stock Units
+D,11/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1259,0,7,0001851432,Restricted Stock Units
+D,11/20/2022 00:00:00,Jones Jennifer N.,4,F-InKind,--D,5304,32806,6,0001851432,Class A Common Stock
+A,11/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,6375,38110,5,0001851432,Class A Common Stock
+A,11/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1553,31735,4,0001851432,Class A Common Stock
+A,11/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,723,30182,3,0001851432,Class A Common Stock
+A,11/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,783,29459,2,0001851432,Class A Common Stock
+A,11/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1259,28676,1,0001851432,Class A Common Stock
+D,11/20/2022 00:00:00,Haun Kathryn,4,M-Exempt,--D,2417,2418,5,0001851425,Restricted Stock Units
+A,11/20/2022 00:00:00,Haun Kathryn,4,M-Exempt,--D,2417,32450,3,0001851425,Class A Common Stock
+A,11/15/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,6952,106898,1,0001666546,Class A Common Stock
+A,11/11/2022 00:00:00,Ehrsam Frederick Ernest III,5,G-Gift,--I,537851,6410558,2,0001851442,Class B Common Stock
+D,11/11/2022 00:00:00,Ehrsam Frederick Ernest III,5,G-Gift,--I,537851,2389492,1,0001851442,Class B Common Stock
+D,11/11/2022 00:00:00,Armstrong Brian,4,C-Conversion,--I,17,26546211,16,0001851492,Class B Common Stock
+A,11/11/2022 00:00:00,Armstrong Brian,4,G-Gift,--I,1386462,26546228,15,0001851492,Class B Common Stock
+D,11/11/2022 00:00:00,Armstrong Brian,4,G-Gift,--I,1386462,6159583,14,0001851492,Class B Common Stock
+D,11/11/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,500,0,13,0001851492,Class A Common Stock
+D,11/11/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,2755,500,12,0001851492,Class A Common Stock
+D,11/11/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,6990,3255,11,0001851492,Class A Common Stock
+D,11/11/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,5204,10245,10,0001851492,Class A Common Stock
+D,11/11/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,3700,15449,9,0001851492,Class A Common Stock
+D,11/11/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,4310,19149,8,0001851492,Class A Common Stock
+D,11/11/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,2090,23459,7,0001851492,Class A Common Stock
+D,11/11/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,1600,25549,6,0001851492,Class A Common Stock
+D,11/11/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,1083,27149,5,0001851492,Class A Common Stock
+D,11/11/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,500,28232,4,0001851492,Class A Common Stock
+D,11/11/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,700,28732,3,0001851492,Class A Common Stock
+D,11/11/2022 00:00:00,Armstrong Brian,4,S-Sale,--I,300,29432,2,0001851492,Class A Common Stock
+A,11/11/2022 00:00:00,Armstrong Brian,4,C-Conversion,--I,17,29732,1,0001851492,Class A Common Stock
+A,11/08/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,6495,99946,1,0001666546,Class A Common Stock
+A,11/04/2022 00:00:00,Jones Jennifer N.,4,A-Award,--D,12750,12750,1,0001851432,Restricted Stock Units
+A,11/01/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,5585,93451,1,0001666546,Class A Common Stock
+A,10/31/2022 00:00:00,Haun Kathryn,4,G-Gift,-EI,2144,128508,2,0001851425,Class A Common Stock
+D,10/31/2022 00:00:00,Haun Kathryn,4,G-Gift,-ED,2144,30033,1,0001851425,Class A Common Stock
+A,10/25/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,5573,87866,1,0001666546,Class A Common Stock
+A,10/18/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,5349,82293,1,0001666546,Class A Common Stock
+A,10/11/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,5519,76944,1,0001666546,Class A Common Stock
+A,10/04/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,5610,71425,1,0001666546,Class A Common Stock
+A,09/27/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,5941,65815,1,0001666546,Class A Common Stock
+A,09/20/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,5291,59874,1,0001666546,Class A Common Stock
+A,09/13/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,4482,54583,1,0001666546,Class A Common Stock
+A,09/07/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,5894,50101,1,0001666546,Class A Common Stock
+A,08/30/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,5577,44207,1,0001666546,Class A Common Stock
+D,08/24/2022 00:00:00,Jones Jennifer N.,4,S-Sale,--D,2177,27417,1,0001851432,Class A Common Stock
+A,08/23/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,5177,38630,1,0001666546,Class A Common Stock
+D,08/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1553,4660,9,0001851432,Restricted Stock Units
+D,08/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,724,6508,8,0001851432,Restricted Stock Units
+D,08/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,784,783,7,0001851432,Restricted Stock Units
+D,08/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1259,1259,6,0001851432,Restricted Stock Units
+D,08/20/2022 00:00:00,Jones Jennifer N.,4,F-InKind,--D,2143,29594,5,0001851432,Class A Common Stock
+A,08/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1553,31737,4,0001851432,Class A Common Stock
+A,08/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,724,30184,3,0001851432,Class A Common Stock
+A,08/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,784,29460,2,0001851432,Class A Common Stock
+A,08/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1259,28676,1,0001851432,Class A Common Stock
+D,08/20/2022 00:00:00,Choi Emilie,4,M-Exempt,--D,4285,38572,9,0001851658,Restricted Stock Units
+D,08/20/2022 00:00:00,Choi Emilie,4,M-Exempt,--D,23025,115126,8,0001851658,Restricted Stock Units
+D,08/20/2022 00:00:00,Choi Emilie,4,F-InKind,--D,13541,94097,5,0001851658,Class A Common Stock
+A,08/20/2022 00:00:00,Choi Emilie,4,M-Exempt,--D,4285,107638,4,0001851658,Class A Common Stock
+A,08/20/2022 00:00:00,Choi Emilie,4,M-Exempt,--D,23025,103353,3,0001851658,Class A Common Stock
+D,08/20/2022 00:00:00,Grewal Paul,4,M-Exempt,--D,1286,11571,5,0001851414,Restricted Stock Units
+D,08/20/2022 00:00:00,Grewal Paul,4,M-Exempt,--D,14423,129809,4,0001851414,Restricted Stock Units
+D,08/20/2022 00:00:00,Grewal Paul,4,F-InKind,--D,7789,51140,3,0001851414,Class A Common Stock
+A,08/20/2022 00:00:00,Grewal Paul,4,M-Exempt,--D,1286,58929,2,0001851414,Class A Common Stock
+A,08/20/2022 00:00:00,Grewal Paul,4,M-Exempt,--D,14423,57643,1,0001851414,Class A Common Stock
+D,08/20/2022 00:00:00,Rajaram Gokul,4,M-Exempt,--D,9670,0,2,0001589043,Restricted Stock Units
+A,08/20/2022 00:00:00,Rajaram Gokul,4,M-Exempt,--D,9670,20535,1,0001589043,Class A Common Stock
+D,08/20/2022 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,2143,19285,4,0001851558,Restricted Stock Units
+D,08/20/2022 00:00:00,Chatterjee Surojit,4,F-InKind,--D,1063,3409,2,0001851558,Class A Common Stock
+A,08/20/2022 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,2143,4472,1,0001851558,Class A Common Stock
+D,08/20/2022 00:00:00,Haun Kathryn,4,M-Exempt,--D,2418,4835,4,0001851425,Restricted Stock Units
+A,08/20/2022 00:00:00,Haun Kathryn,4,M-Exempt,--D,2418,32177,1,0001851425,Class A Common Stock
+D,08/20/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,2143,19285,6,0001668711,Restricted Stock Units
+D,08/20/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,10361,51807,5,0001668711,Restricted Stock Units
+D,08/20/2022 00:00:00,HAAS ALESIA J,4,F-InKind,--D,6200,20018,3,0001668711,Class A Common Stock
+A,08/20/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,2143,26218,2,0001668711,Class A Common Stock
+A,08/20/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,10361,24075,1,0001668711,Class A Common Stock
+A,08/16/2022 00:00:00,Choi Emilie,4,G-Gift,-EI,21726,21726,2,0001851658,Class A Common Stock
+D,08/16/2022 00:00:00,Choi Emilie,4,G-Gift,-EI,21726,0,1,0001851658,Class A Common Stock
+A,08/16/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,4023,33453,1,0001666546,Class A Common Stock
+D,08/11/2022 00:00:00,Jones Jennifer N.,4,S-Sale,--D,4512,27417,1,0001851432,Class A Common Stock
+A,08/11/2022 00:00:00,Lutke Tobias,4,P-Purchase,--I,3930,29430,1,0001666546,Class A Common Stock
+A,06/30/2022 00:00:00,Kramer Kelly A.,4,A-Award,--D,319,5199,1,0001629885,Restricted Stock Units
+A,06/30/2022 00:00:00,Rajaram Gokul,4,A-Award,--D,319,4908,1,0001589043,Restricted Stock Units
+A,06/01/2022 00:00:00,Rajaram Gokul,4,A-Award,--D,4589,4589,1,0001589043,Restricted Stock Units
+A,06/01/2022 00:00:00,Kramer Kelly A.,4,A-Award,--D,4880,4880,1,0001629885,Restricted Stock Units
+A,06/01/2022 00:00:00,Haun Kathryn,4,A-Award,--D,4953,4953,1,0001851425,Restricted Stock Units
+A,06/01/2022 00:00:00,Ehrsam Frederick Ernest III,4,A-Award,--D,4662,4662,1,0001851442,Restricted Stock Units
+D,06/01/2022 00:00:00,Lutke Tobias,4,M-Exempt,--D,522,0,4,0001666546,Restricted Stock Units
+A,06/01/2022 00:00:00,Lutke Tobias,4,A-Award,--D,4371,4371,3,0001666546,Restricted Stock Units
+A,06/01/2022 00:00:00,Lutke Tobias,4,M-Exempt,--D,522,522,1,0001666546,Class A Common Stock
+A,05/24/2022 00:00:00,Ehrsam Frederick Ernest III,4,P-Purchase,--I,30030,1121844,1,0001851442,Class A Common Stock
+D,05/23/2022 00:00:00,Chatterjee Surojit,4,F-InKind,--D,1063,2329,2,0001851558,Class A Common Stock
+D,05/23/2022 00:00:00,Grewal Paul,4,S-Sale,--D,1090,43220,4,0001851414,Class A Common Stock
+D,05/23/2022 00:00:00,Grewal Paul,4,F-InKind,--D,7790,44310,3,0001851414,Class A Common Stock
+D,05/23/2022 00:00:00,HAAS ALESIA J,4,F-InKind,--D,6200,13714,3,0001668711,Class A Common Stock
+D,05/23/2022 00:00:00,Choi Emilie,4,F-InKind,--D,13541,80328,7,0001851658,Class A Common Stock
+D,05/23/2022 00:00:00,Jones Jennifer N.,4,F-InKind,--D,4444,31929,6,0001851432,Class A Common Stock
+D,05/20/2022 00:00:00,Rajaram Gokul,4,M-Exempt,--D,1194,0,2,0001589043,Restricted Stock Units
+A,05/20/2022 00:00:00,Rajaram Gokul,4,M-Exempt,--D,1194,10865,1,0001589043,Class A Common Stock
+D,05/20/2022 00:00:00,Haun Kathryn,4,M-Exempt,--D,1288,0,9,0001851425,Restricted Stock Units
+D,05/20/2022 00:00:00,Haun Kathryn,4,M-Exempt,--D,2417,7253,8,0001851425,Restricted Stock Units
+A,05/20/2022 00:00:00,Haun Kathryn,4,M-Exempt,--D,1288,29759,6,0001851425,Class A Common Stock
+A,05/20/2022 00:00:00,Haun Kathryn,4,M-Exempt,--D,2417,28471,5,0001851425,Class A Common Stock
+D,05/20/2022 00:00:00,Kramer Kelly A.,4,M-Exempt,--D,1270,0,2,0001629885,Restricted Stock Units
+A,05/20/2022 00:00:00,Kramer Kelly A.,4,M-Exempt,--D,1270,10941,1,0001629885,Class A Common Stock
+D,05/20/2022 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,2143,21428,4,0001851558,Restricted Stock Units
+A,05/20/2022 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,2143,3392,1,0001851558,Class A Common Stock
+D,05/20/2022 00:00:00,Ehrsam Frederick Ernest III,4,M-Exempt,--D,1213,0,5,0001851442,Restricted Stock Units
+A,05/20/2022 00:00:00,Ehrsam Frederick Ernest III,4,M-Exempt,--D,1213,1213,1,0001851442,Class A Common Stock
+D,05/20/2022 00:00:00,Grewal Paul,4,M-Exempt,--D,1285,12857,6,0001851414,Restricted Stock Units
+D,05/20/2022 00:00:00,Grewal Paul,4,M-Exempt,--D,14424,144232,5,0001851414,Restricted Stock Units
+A,05/20/2022 00:00:00,Grewal Paul,4,M-Exempt,--D,1285,52100,2,0001851414,Class A Common Stock
+A,05/20/2022 00:00:00,Grewal Paul,4,M-Exempt,--D,14424,50815,1,0001851414,Class A Common Stock
+D,05/20/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,2143,21428,6,0001668711,Restricted Stock Units
+D,05/20/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,10361,62168,5,0001668711,Restricted Stock Units
+A,05/20/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,2143,19914,2,0001668711,Class A Common Stock
+A,05/20/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,10361,17771,1,0001668711,Class A Common Stock
+D,05/20/2022 00:00:00,Choi Emilie,4,M-Exempt,--D,4286,42857,11,0001851658,Restricted Stock Units
+D,05/20/2022 00:00:00,Choi Emilie,4,M-Exempt,--D,23025,138151,10,0001851658,Restricted Stock Units
+A,05/20/2022 00:00:00,Choi Emilie,4,M-Exempt,--D,4286,93869,6,0001851658,Class A Common Stock
+A,05/20/2022 00:00:00,Choi Emilie,4,M-Exempt,--D,23025,89583,5,0001851658,Class A Common Stock
+D,05/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,3084,0,12,0001851432,Restricted Stock Units
+D,05/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,3107,6213,11,0001851432,Restricted Stock Units
+D,05/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,723,7232,10,0001851432,Restricted Stock Units
+D,05/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,783,1567,9,0001851432,Restricted Stock Units
+D,05/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1259,2518,8,0001851432,Restricted Stock Units
+A,05/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,3084,36373,5,0001851432,Class A Common Stock
+A,05/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,3107,33289,4,0001851432,Class A Common Stock
+A,05/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,723,30182,3,0001851432,Class A Common Stock
+A,05/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,783,29459,2,0001851432,Class A Common Stock
+A,05/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1259,28676,1,0001851432,Class A Common Stock
+A,05/17/2022 00:00:00,Ehrsam Frederick Ernest III,4,P-Purchase,--I,5536,1091814,4,0001851442,Class A Common Stock
+A,05/17/2022 00:00:00,Ehrsam Frederick Ernest III,4,P-Purchase,--I,92858,1086278,3,0001851442,Class A Common Stock
+A,05/17/2022 00:00:00,Ehrsam Frederick Ernest III,4,P-Purchase,--I,206128,993420,2,0001851442,Class A Common Stock
+A,05/17/2022 00:00:00,Ehrsam Frederick Ernest III,4,P-Purchase,--I,80738,787292,1,0001851442,Class A Common Stock
+A,05/16/2022 00:00:00,Jones Jennifer N.,4,A-Award,--D,3084,3084,1,0001851432,Restricted Stock Units
+A,05/13/2022 00:00:00,Ehrsam Frederick Ernest III,4,P-Purchase,--I,192261,706554,4,0001851442,Class A Common Stock
+A,05/13/2022 00:00:00,Ehrsam Frederick Ernest III,4,P-Purchase,--I,69025,514293,3,0001851442,Class A Common Stock
+A,05/13/2022 00:00:00,Ehrsam Frederick Ernest III,4,P-Purchase,--I,135663,445268,2,0001851442,Class A Common Stock
+A,05/13/2022 00:00:00,Ehrsam Frederick Ernest III,4,P-Purchase,--I,309605,309605,1,0001851442,Class A Common Stock
+D,05/10/2022 00:00:00,Ehrsam Frederick Ernest III,4,G-Gift,-EI,370000,2719574,7,0001851442,Class B Common Stock
+A,04/14/2022 00:00:00,Choi Emilie,4,G-Gift,-ED,55,66512,4,0001851658,Class A Common Stock
+D,04/14/2022 00:00:00,Choi Emilie,4,G-Gift,-EI,55,50153,3,0001851658,Class A Common Stock
+A,04/08/2022 00:00:00,Jones Jennifer N.,4,A-Award,--D,9320,9320,7,0001851432,Restricted Stock Units
+A,03/30/2022 00:00:00,Haun Kathryn,4,G-Gift,-ED,8,26054,4,0001851425,Class A Common Stock
+D,03/30/2022 00:00:00,Haun Kathryn,4,G-Gift,-EI,8,126364,3,0001851425,Class A Common Stock
+A,03/09/2022 00:00:00,Haun Kathryn,4,G-Gift,-ED,23628,26046,2,0001851425,Class A Common Stock
+D,03/09/2022 00:00:00,Haun Kathryn,4,G-Gift,-EI,23628,126372,1,0001851425,Class A Common Stock
+A,03/09/2022 00:00:00,Ehrsam Frederick Ernest III,4,A-Award,--I,38997,2583752,1,0001851442,Class A Common Stock
+A,03/04/2022 00:00:00,Choi Emilie,4,G-Gift,-ED,9792,66457,2,0001851658,Class A Common Stock
+D,03/04/2022 00:00:00,Choi Emilie,4,G-Gift,-EI,9792,50208,1,0001851658,Class A Common Stock
+D,02/25/2022 00:00:00,Grewal Paul,4,S-Sale,--D,1207,36306,1,0001851414,Class A Common Stock
+D,02/20/2022 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,2143,23571,4,0001851558,Restricted Stock Units
+D,02/20/2022 00:00:00,Chatterjee Surojit,4,F-InKind,--D,1063,1164,2,0001851558,Class A Common Stock
+A,02/20/2022 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,2143,2227,1,0001851558,Class A Common Stock
+D,02/20/2022 00:00:00,Choi Emilie,4,M-Exempt,--D,4286,47143,8,0001851658,Restricted Stock Units
+D,02/20/2022 00:00:00,Choi Emilie,4,M-Exempt,--D,23025,161176,7,0001851658,Restricted Stock Units
+D,02/20/2022 00:00:00,Choi Emilie,4,F-InKind,--D,12122,56665,3,0001851658,Class A Common Stock
+A,02/20/2022 00:00:00,Choi Emilie,4,M-Exempt,--D,4286,68787,2,0001851658,Class A Common Stock
+A,02/20/2022 00:00:00,Choi Emilie,4,M-Exempt,--D,23025,64501,1,0001851658,Class A Common Stock
+D,02/20/2022 00:00:00,Grewal Paul,4,M-Exempt,--D,1286,14142,5,0001851414,Restricted Stock Units
+D,02/20/2022 00:00:00,Grewal Paul,4,M-Exempt,--D,14423,158656,4,0001851414,Restricted Stock Units
+D,02/20/2022 00:00:00,Grewal Paul,4,F-InKind,--D,6813,37513,3,0001851414,Class A Common Stock
+A,02/20/2022 00:00:00,Grewal Paul,4,M-Exempt,--D,1286,44326,2,0001851414,Class A Common Stock
+A,02/20/2022 00:00:00,Grewal Paul,4,M-Exempt,--D,14423,43040,1,0001851414,Class A Common Stock
+D,02/20/2022 00:00:00,Haun Kathryn,4,M-Exempt,--D,2418,9670,4,0001851425,Restricted Stock Units
+A,02/20/2022 00:00:00,Haun Kathryn,4,M-Exempt,--D,2418,2418,1,0001851425,Class A Common Stock
+D,02/20/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,2143,23571,6,0001668711,Restricted Stock Units
+D,02/20/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,10362,72529,5,0001668711,Restricted Stock Units
+D,02/20/2022 00:00:00,HAAS ALESIA J,4,F-InKind,--D,5095,7410,3,0001668711,Class A Common Stock
+A,02/20/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,2143,12505,2,0001668711,Class A Common Stock
+A,02/20/2022 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,10362,10362,1,0001668711,Class A Common Stock
+D,02/20/2022 00:00:00,Kramer Kelly A.,4,M-Exempt,--D,9671,9670,2,0001629885,Restricted Stock Units
+A,02/20/2022 00:00:00,Kramer Kelly A.,4,M-Exempt,--D,9671,9671,1,0001629885,Class A Common Stock
+D,02/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,723,7955,9,0001851432,Restricted Stock Units
+D,02/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1259,3777,8,0001851432,Restricted Stock Units
+D,02/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,784,2350,7,0001851432,Restricted Stock Units
+D,02/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,11397,11397,6,0001851432,Restricted Stock Units
+D,02/20/2022 00:00:00,Jones Jennifer N.,4,F-InKind,--D,6281,27417,5,0001851432,Class A Common Stock
+A,02/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,723,33698,4,0001851432,Class A Common Stock
+A,02/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1259,32975,3,0001851432,Class A Common Stock
+A,02/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,784,31716,2,0001851432,Class A Common Stock
+A,02/20/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,11397,30932,1,0001851432,Class A Common Stock
+A,02/09/2022 00:00:00,Choi Emilie,4,A-Award,--D,133539,133539,2,0001851658,Employee Stock Option (right to buy)
+A,02/09/2022 00:00:00,Choi Emilie,4,A-Award,--D,51429,51429,1,0001851658,Restricted Stock Units
+A,02/09/2022 00:00:00,HAAS ALESIA J,4,A-Award,--D,66769,66769,2,0001668711,Employee Stock Option (right to buy)
+A,02/09/2022 00:00:00,HAAS ALESIA J,4,A-Award,--D,25714,25714,1,0001668711,Restricted Stock Units
+A,02/09/2022 00:00:00,Chatterjee Surojit,4,A-Award,--D,66769,66769,2,0001851558,Employee Stock Option (right to buy)
+A,02/09/2022 00:00:00,Chatterjee Surojit,4,A-Award,--D,25714,25714,1,0001851558,Restricted Stock Units
+A,02/09/2022 00:00:00,Grewal Paul,4,A-Award,--D,40061,40061,2,0001851414,Employee Stock Option (right to buy)
+A,02/09/2022 00:00:00,Grewal Paul,4,A-Award,--D,15428,15428,1,0001851414,Restricted Stock Units
+A,02/09/2022 00:00:00,Jones Jennifer N.,4,A-Award,--D,7511,7511,2,0001851432,Employee Stock Option (right to buy)
+A,02/09/2022 00:00:00,Jones Jennifer N.,4,A-Award,--D,8678,8678,1,0001851432,Restricted Stock Units
+A,02/02/2022 00:00:00,Lutke Tobias,4,A-Award,--D,522,522,2,0001666546,Restricted Stock Units
+A,02/02/2022 00:00:00,Lutke Tobias,4,A-Award,--D,1867,1867,1,0001666546,Restricted Stock Units
+D,01/04/2022 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,10000,1676692,4,0001851558,Employee Stock Option (right to buy)
+D,01/04/2022 00:00:00,Chatterjee Surojit,4,S-Sale,--D,10000,84,2,0001851558,Class A Common Stock
+A,01/04/2022 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,10000,10084,1,0001851558,Class A Common Stock
+D,01/03/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,450,13499,5,0001851432,Employee Stock Option (right to buy)
+D,01/03/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,346,13820,4,0001851432,Employee Stock Option (right to buy)
+D,01/03/2022 00:00:00,Jones Jennifer N.,4,S-Sale,--D,796,19535,3,0001851432,Class A Common Stock
+A,01/03/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,450,20331,2,0001851432,Class A Common Stock
+A,01/03/2022 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,346,19881,1,0001851432,Class A Common Stock
+D,12/23/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,300,1133465,2,0001851442,Class A Common Stock
+D,12/23/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,23328,1133765,1,0001851442,Class A Common Stock
+D,12/20/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,890493,0,8,0001160077,Class B Common Stock
+D,12/20/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,10761104,0,7,0001160077,Class B Common Stock
+A,12/20/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,890493,890493,2,0001160077,Class A Common Stock
+A,12/20/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,10761104,10864179,1,0001160077,Class A Common Stock
+A,12/15/2021 00:00:00,HAAS ALESIA J,5,G-Gift,--I,20896,20896,2,0001668711,Class A Common Stock
+D,12/15/2021 00:00:00,HAAS ALESIA J,5,G-Gift,--D,20896,0,1,0001668711,Class A Common Stock
+D,12/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,200,1157093,11,0001851442,Class A Common Stock
+D,12/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,700,1157293,10,0001851442,Class A Common Stock
+D,12/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,400,1157993,9,0001851442,Class A Common Stock
+D,12/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1798,1158393,8,0001851442,Class A Common Stock
+D,12/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1000,1160191,7,0001851442,Class A Common Stock
+D,12/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,700,1161191,6,0001851442,Class A Common Stock
+D,12/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,808,1161891,5,0001851442,Class A Common Stock
+D,12/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,700,1162699,4,0001851442,Class A Common Stock
+D,12/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1253,1163399,3,0001851442,Class A Common Stock
+D,12/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1129,1164652,2,0001851442,Class A Common Stock
+D,12/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1624,1165781,1,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,200,1167405,16,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,100,1167605,15,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,106,1167705,14,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,386,1167811,13,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,400,1168197,12,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,300,1168597,11,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,200,1168897,10,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,200,1169097,9,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,100,1169297,8,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,865,1169397,7,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1100,1170262,6,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,908,1171362,5,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1050,1172270,4,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,340,1173320,3,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,649,1173660,2,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,474,1174309,1,0001851442,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,30000,1686692,20,0001851558,Employee Stock Option (right to buy)
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,200,84,19,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,100,284,18,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,500,384,17,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,800,884,16,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,400,1684,15,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,400,2084,14,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,1610,2484,13,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,9043,4094,12,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,747,13137,11,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,100,13884,10,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,2000,13984,9,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,2715,15984,8,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,2201,18699,7,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,2501,20900,6,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,1282,23401,5,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,2777,24683,4,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,1269,27460,3,0001851558,Class A Common Stock
+D,12/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,1355,28729,2,0001851558,Class A Common Stock
+A,12/02/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,30000,30084,1,0001851558,Class A Common Stock
+D,12/01/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,450,13949,5,0001851432,Employee Stock Option (right to buy)
+D,12/01/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,346,14166,4,0001851432,Employee Stock Option (right to buy)
+D,12/01/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,796,19535,3,0001851432,Class A Common Stock
+A,12/01/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,450,20331,2,0001851432,Class A Common Stock
+A,12/01/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,346,19881,1,0001851432,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,295,1174783,29,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1355,1175078,28,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2157,1176433,27,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3923,1178590,26,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,5745,1182513,25,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,5649,1188258,24,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,5577,1193907,23,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,9522,1199484,22,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2144,1209006,21,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1660,1211150,20,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2719,1212810,19,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3605,1215529,18,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1676,1219134,17,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,187,1220810,16,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2429,1220997,15,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2100,1223426,14,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4810,1225526,13,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2119,1230336,12,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1100,1232455,11,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,715,1233555,10,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,585,1234270,9,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,843,1234855,8,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,600,1235698,7,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,701,1236298,6,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,484,1236999,5,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,312,1237483,4,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,837,1237795,3,0001851442,Class A Common Stock
+D,12/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,863,1238632,2,0001851442,Class A Common Stock
+D,11/30/2021 00:00:00,Ehrsam Frederick Ernest III,4,G-Gift,-EI,15560,1239495,1,0001851442,Class A Common Stock
+D,11/30/2021 00:00:00,Armstrong Brian,4,G-Gift,-EI,271000,29358,1,0001851492,Class A Common Stock
+D,11/30/2021 00:00:00,Choi Emilie,4,S-Sale,--D,5804,41476,1,0001851658,Class A Common Stock
+D,11/23/2021 00:00:00,Haun Kathryn,4,S-Sale,--D,2418,0,2,0001851425,Class A Common Stock
+D,11/22/2021 00:00:00,WILSON FREDERICK R,5,G-Gift,--D,38000,241973,1,0001227688,Class A Common Stock
+D,11/22/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,1028,19535,5,0001851432,Class A Common Stock
+D,11/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,100,28617,16,0001851414,Class A Common Stock
+D,11/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,314,28717,15,0001851414,Class A Common Stock
+D,11/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,100,29031,14,0001851414,Class A Common Stock
+D,11/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,206,29131,13,0001851414,Class A Common Stock
+D,11/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,500,29337,12,0001851414,Class A Common Stock
+D,11/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,100,29837,11,0001851414,Class A Common Stock
+D,11/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,100,29937,10,0001851414,Class A Common Stock
+D,11/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,248,30037,9,0001851414,Class A Common Stock
+D,11/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,500,30285,8,0001851414,Class A Common Stock
+D,11/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,629,30785,7,0001851414,Class A Common Stock
+D,11/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,500,31414,6,0001851414,Class A Common Stock
+D,11/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,440,31914,5,0001851414,Class A Common Stock
+D,11/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,362,32354,4,0001851414,Class A Common Stock
+D,11/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,264,32716,3,0001851414,Class A Common Stock
+D,11/20/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1045,0,8,0001851432,Restricted Stock Units
+D,11/20/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,783,3134,7,0001851432,Restricted Stock Units
+D,11/20/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1259,5036,6,0001851432,Restricted Stock Units
+D,11/20/2021 00:00:00,Jones Jennifer N.,4,F-InKind,--D,1533,20563,4,0001851432,Class A Common Stock
+A,11/20/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1045,22096,3,0001851432,Class A Common Stock
+A,11/20/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,783,21051,2,0001851432,Class A Common Stock
+A,11/20/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1259,20268,1,0001851432,Class A Common Stock
+D,11/20/2021 00:00:00,Haun Kathryn,4,M-Exempt,--D,2418,12088,7,0001851425,Restricted Stock Units
+A,11/20/2021 00:00:00,Haun Kathryn,4,M-Exempt,--D,2418,2418,1,0001851425,Class A Common Stock
+D,11/20/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,57693,173079,17,0001851414,Restricted Stock Units
+D,11/20/2021 00:00:00,Grewal Paul,4,F-InKind,--D,28605,32980,2,0001851414,Class A Common Stock
+A,11/20/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,57693,61585,1,0001851414,Class A Common Stock
+D,11/20/2021 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,10361,82891,3,0001668711,Restricted Stock Units
+D,11/20/2021 00:00:00,HAAS ALESIA J,4,F-InKind,--D,5137,20896,2,0001668711,Class A Common Stock
+A,11/20/2021 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,10361,26033,1,0001668711,Class A Common Stock
+D,11/20/2021 00:00:00,Choi Emilie,4,M-Exempt,--D,23025,184201,6,0001851658,Restricted Stock Units
+D,11/20/2021 00:00:00,Choi Emilie,4,F-InKind,--D,11416,47280,2,0001851658,Class A Common Stock
+A,11/20/2021 00:00:00,Choi Emilie,4,M-Exempt,--D,23025,58696,1,0001851658,Class A Common Stock
+A,11/18/2021 00:00:00,Ehrsam Frederick Ernest III,4,G-Gift,-EI,70118,5872707,33,0001851442,Class B Common Stock
+D,11/18/2021 00:00:00,Ehrsam Frederick Ernest III,4,G-Gift,-EI,70118,2927343,32,0001851442,Class B Common Stock
+A,11/18/2021 00:00:00,Ehrsam Frederick Ernest III,4,G-Gift,-EI,2145532,2145532,31,0001851442,Class B Common Stock
+A,11/18/2021 00:00:00,Armstrong Brian,4,G-Gift,-EI,250637,25159766,4,0001851492,Class B Common Stock
+D,11/18/2021 00:00:00,Armstrong Brian,4,G-Gift,-EI,180747,7546045,3,0001851492,Class B Common Stock
+D,11/18/2021 00:00:00,Armstrong Brian,4,G-Gift,-EI,2215422,0,2,0001851492,Class B Common Stock
+D,11/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,912,1255055,15,0001851442,Class A Common Stock
+D,11/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4585,1255967,14,0001851442,Class A Common Stock
+D,11/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2569,1260552,13,0001851442,Class A Common Stock
+D,11/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4437,1263121,12,0001851442,Class A Common Stock
+D,11/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,5633,1267558,11,0001851442,Class A Common Stock
+D,11/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,8802,1273191,10,0001851442,Class A Common Stock
+D,11/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,5897,1281993,9,0001851442,Class A Common Stock
+D,11/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,9327,1287890,8,0001851442,Class A Common Stock
+D,11/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,22848,1297217,7,0001851442,Class A Common Stock
+D,11/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,21002,1320065,6,0001851442,Class A Common Stock
+D,11/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6426,1341067,5,0001851442,Class A Common Stock
+D,11/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6341,1347493,4,0001851442,Class A Common Stock
+D,11/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4475,1353834,3,0001851442,Class A Common Stock
+D,11/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2666,1358309,2,0001851442,Class A Common Stock
+D,11/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2670,1360975,1,0001851442,Class A Common Stock
+D,11/08/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,20000,1716692,4,0001851558,Employee Stock Option (right to buy)
+D,11/08/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,20000,84,2,0001851558,Class A Common Stock
+A,11/08/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,20000,20084,1,0001851558,Class A Common Stock
+D,11/08/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,10900,185304,3,0001851414,Employee Stock Option (right to buy)
+D,11/08/2021 00:00:00,Grewal Paul,4,S-Sale,--D,10900,3892,2,0001851414,Class A Common Stock
+A,11/08/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,10900,14792,1,0001851414,Class A Common Stock
+D,11/08/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,100,1363645,17,0001851442,Class A Common Stock
+D,11/08/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,101,1363745,16,0001851442,Class A Common Stock
+D,11/08/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,444,1363846,15,0001851442,Class A Common Stock
+D,11/08/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1534,1364290,14,0001851442,Class A Common Stock
+D,11/08/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1300,1365824,13,0001851442,Class A Common Stock
+D,11/08/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,498,1367124,12,0001851442,Class A Common Stock
+D,11/08/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,696,1367622,11,0001851442,Class A Common Stock
+D,11/08/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1751,1368318,10,0001851442,Class A Common Stock
+D,11/08/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2982,1370069,9,0001851442,Class A Common Stock
+D,11/08/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2033,1373051,8,0001851442,Class A Common Stock
+D,11/08/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,890,1375084,7,0001851442,Class A Common Stock
+D,11/08/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,360,1375974,6,0001851442,Class A Common Stock
+D,11/08/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1055,1376334,5,0001851442,Class A Common Stock
+D,11/08/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1250,1377389,4,0001851442,Class A Common Stock
+D,11/08/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2219,1378639,3,0001851442,Class A Common Stock
+D,11/08/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,300,1380858,2,0001851442,Class A Common Stock
+D,11/05/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2306,1381158,1,0001851442,Class A Common Stock
+D,11/04/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4740,1383464,3,0001851442,Class A Common Stock
+D,11/04/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,182977,1388204,2,0001851442,Class A Common Stock
+D,11/03/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,5992,1571181,1,0001851442,Class A Common Stock
+D,11/02/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,40000,1736692,15,0001851558,Employee Stock Option (right to buy)
+D,11/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,200,84,13,0001851558,Class A Common Stock
+D,11/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,700,284,12,0001851558,Class A Common Stock
+D,11/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,400,984,11,0001851558,Class A Common Stock
+D,11/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,1761,1384,10,0001851558,Class A Common Stock
+D,11/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,3301,3145,9,0001851558,Class A Common Stock
+D,11/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,5207,6446,8,0001851558,Class A Common Stock
+D,11/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,3587,11653,7,0001851558,Class A Common Stock
+D,11/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,6450,15240,6,0001851558,Class A Common Stock
+D,11/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,8492,21690,5,0001851558,Class A Common Stock
+D,11/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,4220,30182,4,0001851558,Class A Common Stock
+D,11/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,2655,34402,3,0001851558,Class A Common Stock
+D,11/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,3027,37057,2,0001851558,Class A Common Stock
+A,11/02/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,40000,40084,1,0001851558,Class A Common Stock
+D,11/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,5472,1577173,14,0001851442,Class A Common Stock
+D,11/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,400,1582645,13,0001851442,Class A Common Stock
+D,11/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1734,1583045,12,0001851442,Class A Common Stock
+D,11/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6302,1584779,11,0001851442,Class A Common Stock
+D,11/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,9683,1591081,10,0001851442,Class A Common Stock
+D,11/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,7463,1600764,9,0001851442,Class A Common Stock
+D,11/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,10926,1608227,8,0001851442,Class A Common Stock
+D,11/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6351,1619153,7,0001851442,Class A Common Stock
+D,11/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4763,1625504,6,0001851442,Class A Common Stock
+D,11/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,8696,1630267,5,0001851442,Class A Common Stock
+D,11/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,8229,1638963,4,0001851442,Class A Common Stock
+D,11/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4852,1647192,3,0001851442,Class A Common Stock
+D,11/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2007,1652044,2,0001851442,Class A Common Stock
+D,11/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,684,1654051,1,0001851442,Class A Common Stock
+D,11/01/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,450,14399,5,0001851432,Employee Stock Option (right to buy)
+D,11/01/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,346,14512,4,0001851432,Employee Stock Option (right to buy)
+D,11/01/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,796,19009,3,0001851432,Class A Common Stock
+A,11/01/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,450,19805,2,0001851432,Class A Common Stock
+A,11/01/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,346,19355,1,0001851432,Class A Common Stock
+D,10/25/2021 00:00:00,Choi Emilie,4,S-Sale,--I,12500,49643,2,0001851658,Class A Common Stock
+D,10/25/2021 00:00:00,Choi Emilie,4,S-Sale,--D,17414,35656,1,0001851658,Class A Common Stock
+D,10/25/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,11191,74375,3,0001851432,Employee Stock Option (right to buy)
+D,10/25/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,11191,19009,2,0001851432,Class A Common Stock
+A,10/25/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,11191,30200,1,0001851432,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,24936,490295,31,0001851414,Employee Stock Option (right to buy)
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,100,3808,29,0001851414,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,600,3908,28,0001851414,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,150,4508,27,0001851414,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,1000,4658,26,0001851414,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,300,5658,25,0001851414,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,900,5958,24,0001851414,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,1800,6858,23,0001851414,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,1700,8658,22,0001851414,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,675,10358,21,0001851414,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,1280,11033,20,0001851414,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,2220,12313,19,0001851414,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,2194,14533,18,0001851414,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,1300,16727,17,0001851414,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,2247,18027,16,0001851414,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,3109,20274,15,0001851414,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,4262,23383,14,0001851414,Class A Common Stock
+D,10/21/2021 00:00:00,Grewal Paul,4,S-Sale,--D,1099,27645,13,0001851414,Class A Common Stock
+A,10/21/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,24936,28744,12,0001851414,Class A Common Stock
+D,10/20/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,24937,515231,30,0001851414,Employee Stock Option (right to buy)
+D,10/20/2021 00:00:00,Grewal Paul,4,S-Sale,--D,672,3808,11,0001851414,Class A Common Stock
+D,10/20/2021 00:00:00,Grewal Paul,4,S-Sale,--D,2383,4480,10,0001851414,Class A Common Stock
+D,10/20/2021 00:00:00,Grewal Paul,4,S-Sale,--D,4491,6863,9,0001851414,Class A Common Stock
+D,10/20/2021 00:00:00,Grewal Paul,4,S-Sale,--D,6085,11354,8,0001851414,Class A Common Stock
+D,10/20/2021 00:00:00,Grewal Paul,4,S-Sale,--D,5271,17439,7,0001851414,Class A Common Stock
+D,10/20/2021 00:00:00,Grewal Paul,4,S-Sale,--D,3300,22710,6,0001851414,Class A Common Stock
+D,10/20/2021 00:00:00,Grewal Paul,4,S-Sale,--D,616,26010,5,0001851414,Class A Common Stock
+D,10/20/2021 00:00:00,Grewal Paul,4,S-Sale,--D,842,26626,4,0001851414,Class A Common Stock
+D,10/20/2021 00:00:00,Grewal Paul,4,S-Sale,--D,657,27468,3,0001851414,Class A Common Stock
+D,10/20/2021 00:00:00,Grewal Paul,4,S-Sale,--D,620,28125,2,0001851414,Class A Common Stock
+A,10/20/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,24937,28745,1,0001851414,Class A Common Stock
+D,10/20/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,10000,1776692,4,0001851558,Employee Stock Option (right to buy)
+D,10/20/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,10000,0,2,0001851558,Class A Common Stock
+A,10/20/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,10000,10000,1,0001851558,Class A Common Stock
+D,10/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4863,1654735,13,0001851442,Class A Common Stock
+D,10/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6065,1659598,12,0001851442,Class A Common Stock
+D,10/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,13134,1665663,11,0001851442,Class A Common Stock
+D,10/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,21358,1678797,10,0001851442,Class A Common Stock
+D,10/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,27070,1700155,9,0001851442,Class A Common Stock
+D,10/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,15902,1727225,8,0001851442,Class A Common Stock
+D,10/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6034,1743127,7,0001851442,Class A Common Stock
+D,10/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2198,1749161,6,0001851442,Class A Common Stock
+D,10/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3036,1751359,5,0001851442,Class A Common Stock
+D,10/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1435,1754395,4,0001851442,Class A Common Stock
+D,10/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2500,1755830,3,0001851442,Class A Common Stock
+D,10/19/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4860,1758330,2,0001851442,Class A Common Stock
+D,10/19/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,71545,1763190,1,0001851442,Class A Common Stock
+D,10/18/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,10000,1786692,4,0001851558,Employee Stock Option (right to buy)
+D,10/18/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,10000,0,2,0001851558,Class A Common Stock
+A,10/18/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,10000,10000,1,0001851558,Class A Common Stock
+D,10/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2700,1834735,14,0001851442,Class A Common Stock
+D,10/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6757,1837435,13,0001851442,Class A Common Stock
+D,10/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3862,1844192,12,0001851442,Class A Common Stock
+D,10/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,8926,1848054,11,0001851442,Class A Common Stock
+D,10/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6757,1856980,10,0001851442,Class A Common Stock
+D,10/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,5030,1863737,9,0001851442,Class A Common Stock
+D,10/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3691,1868767,8,0001851442,Class A Common Stock
+D,10/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6636,1872458,7,0001851442,Class A Common Stock
+D,10/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3613,1879094,6,0001851442,Class A Common Stock
+D,10/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6594,1882707,5,0001851442,Class A Common Stock
+D,10/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,5960,1889301,4,0001851442,Class A Common Stock
+D,10/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,7990,1895261,3,0001851442,Class A Common Stock
+D,10/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,16007,1903251,2,0001851442,Class A Common Stock
+D,10/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3126,1919258,1,0001851442,Class A Common Stock
+D,10/11/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,10000,1796692,4,0001851558,Employee Stock Option (right to buy)
+D,10/11/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,10000,0,2,0001851558,Class A Common Stock
+A,10/11/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,10000,10000,1,0001851558,Class A Common Stock
+D,10/06/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1174,1922384,3,0001851442,Class A Common Stock
+D,10/06/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,10709,1923558,2,0001851442,Class A Common Stock
+D,10/06/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,8741,1934267,1,0001851442,Class A Common Stock
+D,10/06/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,346,14858,6,0001851432,Employee Stock Option (right to buy)
+D,10/06/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,346,19009,4,0001851432,Class A Common Stock
+A,10/06/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,346,19355,3,0001851432,Class A Common Stock
+D,10/05/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,450,14849,5,0001851432,Employee Stock Option (right to buy)
+D,10/05/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,450,19009,2,0001851432,Class A Common Stock
+A,10/05/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,450,19459,1,0001851432,Class A Common Stock
+D,10/05/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,10000,1806692,4,0001851558,Employee Stock Option (right to buy)
+D,10/05/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,10000,0,2,0001851558,Class A Common Stock
+A,10/05/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,10000,10000,1,0001851558,Class A Common Stock
+D,09/23/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,24937,540168,21,0001851414,Employee Stock Option (right to buy)
+D,09/23/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,16350,196204,20,0001851414,Employee Stock Option (right to buy)
+D,09/23/2021 00:00:00,Grewal Paul,4,S-Sale,--D,1495,3808,17,0001851414,Class A Common Stock
+D,09/23/2021 00:00:00,Grewal Paul,4,S-Sale,--D,1000,5303,16,0001851414,Class A Common Stock
+D,09/23/2021 00:00:00,Grewal Paul,4,S-Sale,--D,1700,6303,15,0001851414,Class A Common Stock
+D,09/23/2021 00:00:00,Grewal Paul,4,S-Sale,--D,1500,8003,14,0001851414,Class A Common Stock
+D,09/23/2021 00:00:00,Grewal Paul,4,S-Sale,--D,2500,9503,13,0001851414,Class A Common Stock
+D,09/23/2021 00:00:00,Grewal Paul,4,S-Sale,--D,2596,12003,12,0001851414,Class A Common Stock
+D,09/23/2021 00:00:00,Grewal Paul,4,S-Sale,--D,16555,14599,11,0001851414,Class A Common Stock
+D,09/23/2021 00:00:00,Grewal Paul,4,S-Sale,--D,13941,31154,10,0001851414,Class A Common Stock
+A,09/23/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,24937,45095,9,0001851414,Class A Common Stock
+A,09/23/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,16350,20158,8,0001851414,Class A Common Stock
+D,09/22/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,24938,565105,19,0001851414,Employee Stock Option (right to buy)
+D,09/22/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,16350,212554,18,0001851414,Employee Stock Option (right to buy)
+D,09/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,1000,3808,7,0001851414,Class A Common Stock
+D,09/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,15330,4808,6,0001851414,Class A Common Stock
+D,09/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,14275,20138,5,0001851414,Class A Common Stock
+D,09/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,10283,34413,4,0001851414,Class A Common Stock
+D,09/22/2021 00:00:00,Grewal Paul,4,S-Sale,--D,400,44696,3,0001851414,Class A Common Stock
+A,09/22/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,24938,45096,2,0001851414,Class A Common Stock
+A,09/22/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,16350,20158,1,0001851414,Class A Common Stock
+D,09/03/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,235,1943008,15,0001851442,Class A Common Stock
+D,09/03/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,600,1943243,14,0001851442,Class A Common Stock
+D,09/03/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,300,1943843,13,0001851442,Class A Common Stock
+D,09/03/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,200,1944143,12,0001851442,Class A Common Stock
+D,09/03/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,400,1944343,11,0001851442,Class A Common Stock
+D,09/03/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,100,1944743,10,0001851442,Class A Common Stock
+D,09/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,100,1944843,9,0001851442,Class A Common Stock
+D,09/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1390,1944943,8,0001851442,Class A Common Stock
+D,09/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2184,1946333,7,0001851442,Class A Common Stock
+D,09/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2472,1948517,6,0001851442,Class A Common Stock
+D,09/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1790,1950989,5,0001851442,Class A Common Stock
+D,09/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,440,1952779,4,0001851442,Class A Common Stock
+D,09/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3098,1953219,3,0001851442,Class A Common Stock
+D,09/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6014,1956317,2,0001851442,Class A Common Stock
+D,09/02/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,387,1962331,1,0001851442,Class A Common Stock
+D,09/02/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,20000,1816692,11,0001851558,Employee Stock Option (right to buy)
+D,09/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,5000,0,9,0001851558,Class A Common Stock
+D,09/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,4061,5000,8,0001851558,Class A Common Stock
+D,09/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,2779,9061,7,0001851558,Class A Common Stock
+D,09/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,800,11840,6,0001851558,Class A Common Stock
+D,09/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,300,12640,5,0001851558,Class A Common Stock
+D,09/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,1500,12940,4,0001851558,Class A Common Stock
+D,09/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,4360,14440,3,0001851558,Class A Common Stock
+D,09/02/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,1200,18800,2,0001851558,Class A Common Stock
+A,09/02/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,20000,20000,1,0001851558,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4739,1962718,18,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,9667,1967457,17,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6174,1977124,16,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,11268,1983298,15,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,350,1994566,14,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,800,1994916,13,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,700,1995716,12,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1208,1996416,11,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,755,1997624,10,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1603,1998379,9,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2496,1999982,8,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,900,2002478,7,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,200,2003378,6,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,100,2003578,5,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,500,2003678,4,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,300,2004178,3,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,300,2004478,2,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,100,2004778,1,0001851442,Class A Common Stock
+D,09/01/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,29937,590043,25,0001851414,Employee Stock Option (right to buy)
+D,09/01/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,16350,228904,24,0001851414,Employee Stock Option (right to buy)
+D,09/01/2021 00:00:00,Grewal Paul,4,S-Sale,--D,1784,3808,21,0001851414,Class A Common Stock
+D,09/01/2021 00:00:00,Grewal Paul,4,S-Sale,--D,3502,5592,20,0001851414,Class A Common Stock
+D,09/01/2021 00:00:00,Grewal Paul,4,S-Sale,--D,3909,9094,19,0001851414,Class A Common Stock
+D,09/01/2021 00:00:00,Grewal Paul,4,S-Sale,--D,4462,13003,18,0001851414,Class A Common Stock
+D,09/01/2021 00:00:00,Grewal Paul,4,S-Sale,--D,3503,17465,17,0001851414,Class A Common Stock
+D,09/01/2021 00:00:00,Grewal Paul,4,S-Sale,--D,8321,20968,16,0001851414,Class A Common Stock
+D,09/01/2021 00:00:00,Grewal Paul,4,S-Sale,--D,13548,29289,15,0001851414,Class A Common Stock
+D,09/01/2021 00:00:00,Grewal Paul,4,S-Sale,--D,3991,42837,14,0001851414,Class A Common Stock
+D,09/01/2021 00:00:00,Grewal Paul,4,S-Sale,--D,466,46828,13,0001851414,Class A Common Stock
+D,09/01/2021 00:00:00,Grewal Paul,4,S-Sale,--D,1501,47294,12,0001851414,Class A Common Stock
+D,09/01/2021 00:00:00,Grewal Paul,4,S-Sale,--D,1300,48795,11,0001851414,Class A Common Stock
+A,09/01/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,29937,50095,10,0001851414,Class A Common Stock
+A,09/01/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,16350,20158,9,0001851414,Class A Common Stock
+D,09/01/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,450,15299,5,0001851432,Employee Stock Option (right to buy)
+D,09/01/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,346,15204,4,0001851432,Employee Stock Option (right to buy)
+D,09/01/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,796,19009,3,0001851432,Class A Common Stock
+A,09/01/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,450,19805,2,0001851432,Class A Common Stock
+A,09/01/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,346,19355,1,0001851432,Class A Common Stock
+D,08/31/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,16351,245254,23,0001851414,Employee Stock Option (right to buy)
+D,08/31/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,29938,619980,22,0001851414,Employee Stock Option (right to buy)
+D,08/31/2021 00:00:00,Grewal Paul,4,S-Sale,--D,500,3808,8,0001851414,Class A Common Stock
+D,08/31/2021 00:00:00,Grewal Paul,4,S-Sale,--D,2300,4308,7,0001851414,Class A Common Stock
+D,08/31/2021 00:00:00,Grewal Paul,4,S-Sale,--D,2495,6608,6,0001851414,Class A Common Stock
+D,08/31/2021 00:00:00,Grewal Paul,4,S-Sale,--D,2876,9103,5,0001851414,Class A Common Stock
+D,08/31/2021 00:00:00,Grewal Paul,4,S-Sale,--D,17856,11979,4,0001851414,Class A Common Stock
+D,08/31/2021 00:00:00,Grewal Paul,4,S-Sale,--D,20262,29835,3,0001851414,Class A Common Stock
+A,08/31/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,16351,50097,2,0001851414,Class A Common Stock
+A,08/31/2021 00:00:00,Grewal Paul,4,M-Exempt,--D,29938,33746,1,0001851414,Class A Common Stock
+D,08/24/2021 00:00:00,Choi Emilie,4,F-InKind,--D,11417,53070,5,0001851658,Class A Common Stock
+D,08/24/2021 00:00:00,Jones Jennifer N.,4,F-InKind,--D,519,20038,6,0001851432,Class A Common Stock
+D,08/24/2021 00:00:00,Jones Jennifer N.,4,F-InKind,--D,389,20557,5,0001851432,Class A Common Stock
+D,08/24/2021 00:00:00,Jones Jennifer N.,4,F-InKind,--D,625,20946,4,0001851432,Class A Common Stock
+D,08/24/2021 00:00:00,HAAS ALESIA J,4,F-InKind,--D,5137,15672,2,0001668711,Class A Common Stock
+D,08/23/2021 00:00:00,WILSON FREDERICK R,4,G-Gift,-ED,19772,279973,1,0001227688,Class A Common Stock
+D,08/23/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,1029,19009,1,0001851432,Class A Common Stock
+D,08/23/2021 00:00:00,Haun Kathryn,4,S-Sale,--D,2417,0,2,0001851425,Class A Common Stock
+D,08/20/2021 00:00:00,Choi Emilie,4,M-Exempt,--D,23026,207226,7,0001851658,Restricted Stock Units
+A,08/20/2021 00:00:00,Choi Emilie,4,M-Exempt,--D,23026,64487,4,0001851658,Class A Common Stock
+D,08/20/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1045,1045,10,0001851432,Restricted Stock Units
+D,08/20/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,784,3917,9,0001851432,Restricted Stock Units
+D,08/20/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1259,6295,8,0001851432,Restricted Stock Units
+A,08/20/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1045,21571,3,0001851432,Class A Common Stock
+A,08/20/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,784,20526,2,0001851432,Class A Common Stock
+A,08/20/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1259,19742,1,0001851432,Class A Common Stock
+D,08/20/2021 00:00:00,Haun Kathryn,4,M-Exempt,--D,2417,14506,7,0001851425,Restricted Stock Units
+A,08/20/2021 00:00:00,Haun Kathryn,4,M-Exempt,--D,2417,2417,1,0001851425,Class A Common Stock
+D,08/20/2021 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,10361,93252,3,0001668711,Restricted Stock Units
+A,08/20/2021 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,10361,20809,1,0001668711,Class A Common Stock
+D,08/20/2021 00:00:00,Rajaram Gokul,4,M-Exempt,--D,9671,9670,2,0001589043,Restricted Stock Units
+A,08/20/2021 00:00:00,Rajaram Gokul,4,M-Exempt,--D,9671,9671,1,0001589043,Class A Common
+D,08/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,100,2004878,10,0001851442,Class A Common Stock
+D,08/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,500,2004978,9,0001851442,Class A Common Stock
+D,08/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,500,2005478,8,0001851442,Class A Common Stock
+D,08/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,500,2005978,7,0001851442,Class A Common Stock
+D,08/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1811,2006478,6,0001851442,Class A Common Stock
+D,08/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1798,2008289,5,0001851442,Class A Common Stock
+D,08/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2716,2010087,4,0001851442,Class A Common Stock
+D,08/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1129,2012803,3,0001851442,Class A Common Stock
+D,08/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1058,2013932,2,0001851442,Class A Common Stock
+D,08/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,200,2014990,1,0001851442,Class A Common Stock
+D,08/12/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,946,211643,12,0001160077,Class A Common Stock
+D,08/12/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,42078,212589,11,0001160077,Class A Common Stock
+D,08/12/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,26863,254667,10,0001160077,Class A Common Stock
+D,08/12/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,14678,281530,9,0001160077,Class A Common Stock
+D,08/12/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,26555,296208,8,0001160077,Class A Common Stock
+D,08/12/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,45786,322763,7,0001160077,Class A Common Stock
+D,08/12/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,45859,368549,6,0001160077,Class A Common Stock
+D,08/12/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,114507,414408,5,0001160077,Class A Common Stock
+D,08/12/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,44310,528915,4,0001160077,Class A Common Stock
+D,08/12/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,120974,573225,3,0001160077,Class A Common Stock
+D,08/12/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,134339,694199,2,0001160077,Class A Common Stock
+D,08/12/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,109592,828538,1,0001160077,Class A Common Stock
+D,08/12/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,500,91000,10,0001851425,Class A Common Stock
+D,08/12/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,800,91500,9,0001851425,Class A Common Stock
+D,08/12/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,1000,92300,8,0001851425,Class A Common Stock
+D,08/12/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,1271,93300,7,0001851425,Class A Common Stock
+D,08/12/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,1400,94571,6,0001851425,Class A Common Stock
+D,08/12/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,2000,95971,5,0001851425,Class A Common Stock
+D,08/12/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,3520,97971,4,0001851425,Class A Common Stock
+D,08/12/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,3148,101491,3,0001851425,Class A Common Stock
+D,08/12/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,2790,104639,2,0001851425,Class A Common Stock
+D,08/12/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,2571,107429,1,0001851425,Class A Common Stock
+D,08/12/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1800,15749,12,0001851432,Employee Stock Option (right to buy)
+D,08/12/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1059,15500,11,0001851432,Employee Stock Option (right to buy)
+D,08/12/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,200,18483,10,0001851432,Class A Common Stock
+D,08/12/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,500,18683,9,0001851432,Class A Common Stock
+D,08/12/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,300,19183,8,0001851432,Class A Common Stock
+D,08/12/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,400,19483,7,0001851432,Class A Common Stock
+D,08/12/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,800,19883,6,0001851432,Class A Common Stock
+D,08/12/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,1100,20683,5,0001851432,Class A Common Stock
+D,08/12/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,777,21783,4,0001851432,Class A Common Stock
+D,08/12/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,841,22560,3,0001851432,Class A Common Stock
+A,08/12/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1800,23401,2,0001851432,Class A Common Stock
+A,08/12/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1059,21601,1,0001851432,Class A Common Stock
+A,08/11/2021 00:00:00,Jones Jennifer N.,4,A-Award,--D,2090,2090,7,0001851432,Restricted Stock Units
+A,07/28/2021 00:00:00,Ehrsam Frederick Ernest III,4,A-Award,--D,1213,1213,1,0001851442,Restricted Stock Units
+A,07/28/2021 00:00:00,Rajaram Gokul,4,A-Award,--D,1194,1194,1,0001589043,Restricted Stock Units
+A,07/28/2021 00:00:00,Kramer Kelly A.,4,A-Award,--D,1270,1270,1,0001629885,Restricted Stock Units
+A,07/28/2021 00:00:00,Haun Kathryn,4,A-Award,--D,1288,1288,1,0001851425,Restricted Stock Units
+A,06/17/2021 00:00:00,Choi Emilie,4,G-Gift,-EI,21726,21726,3,0001851658,Class A Common Stock
+D,06/17/2021 00:00:00,Choi Emilie,4,G-Gift,-ED,21726,41461,2,0001851658,Class A Common Stock
+D,05/24/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,478,57376,4,0001851425,Class A Common Stock
+D,05/24/2021 00:00:00,Haun Kathryn,4,S-Sale,--D,9522,0,3,0001851425,Class A Common Stock
+D,05/24/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,100,0,17,0001160077,Class A Common Stock
+D,05/24/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,200,100,16,0001160077,Class A Common Stock
+D,05/24/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,1600,300,15,0001160077,Class A Common Stock
+D,05/24/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,1201,1900,14,0001160077,Class A Common Stock
+D,05/24/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,5799,3101,13,0001160077,Class A Common Stock
+D,05/24/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,7700,8900,12,0001160077,Class A Common Stock
+D,05/24/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,873,16600,11,0001160077,Class A Common Stock
+D,05/24/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,100,0,17,0001772284,Class A Common Stock
+D,05/24/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,200,100,16,0001772284,Class A Common Stock
+D,05/24/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,1600,300,15,0001772284,Class A Common Stock
+D,05/24/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,1201,1900,14,0001772284,Class A Common Stock
+D,05/24/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,5799,3101,13,0001772284,Class A Common Stock
+D,05/24/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,7700,8900,12,0001772284,Class A Common Stock
+D,05/24/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,873,16600,11,0001772284,Class A Common Stock
+D,05/24/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,100,0,17,0001775245,Class A Common Stock
+D,05/24/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,200,100,16,0001775245,Class A Common Stock
+D,05/24/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,1600,300,15,0001775245,Class A Common Stock
+D,05/24/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,1201,1900,14,0001775245,Class A Common Stock
+D,05/24/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,5799,3101,13,0001775245,Class A Common Stock
+D,05/24/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,7700,8900,12,0001775245,Class A Common Stock
+D,05/24/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,873,16600,11,0001775245,Class A Common Stock
+D,05/24/2021 00:00:00,Jones Jennifer N.,4,F-InKind,--D,2026,20542,3,0001851432,Class A Common Stock
+D,05/24/2021 00:00:00,HAAS ALESIA J,4,F-InKind,--D,10275,10448,2,0001668711,Class A Common Stock
+D,05/24/2021 00:00:00,Choi Emilie,4,F-InKind,--D,22832,63187,2,0001851658,Class A Common Stock
+A,05/21/2021 00:00:00,Haun Kathryn,4,J-Other,--D,176,9522,2,0001851425,Class A Common Stock
+D,05/21/2021 00:00:00,Haun Kathryn,4,J-Other,--I,1154711,2263232,1,0001851425,Class A Common Stock
+D,05/21/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,322110,0,20,0001160077,Class B Common Stock
+D,05/21/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,454334,890493,19,0001160077,Class B Common Stock
+D,05/21/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,5220839,10761104,18,0001160077,Class B Common Stock
+A,05/21/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,451808,938130,10,0001160077,Class A Common Stock
+A,05/21/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,17473,17473,9,0001160077,Class A Common Stock
+D,05/21/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,1154711,2263232,8,0001160077,Class A Common Stock
+D,05/21/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,454334,0,7,0001160077,Class A Common Stock
+D,05/21/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,5542949,103075,6,0001160077,Class A Common Stock
+A,05/21/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,425185,5646024,5,0001160077,Class A Common Stock
+D,05/21/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,425185,0,4,0001160077,Class A Common Stock
+A,05/21/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,322110,425185,3,0001160077,Class A Common Stock
+A,05/21/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,454334,454334,2,0001160077,Class A Common Stock
+A,05/21/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,5220839,5220839,1,0001160077,Class A Common Stock
+D,05/21/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,322110,0,20,0001772284,Class B Common Stock
+D,05/21/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,454334,890493,19,0001772284,Class B Common Stock
+D,05/21/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,5220839,10761104,18,0001772284,Class B Common Stock
+A,05/21/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,J-Other,--I,424072,842687,10,0001772284,Class A Common Stock
+A,05/21/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,J-Other,--I,17473,17473,9,0001772284,Class A Common Stock
+D,05/21/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,J-Other,--I,1154711,2263232,8,0001772284,Class A Common Stock
+D,05/21/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,J-Other,--I,454334,0,7,0001772284,Class A Common Stock
+D,05/21/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,J-Other,--I,5542949,103075,6,0001772284,Class A Common Stock
+A,05/21/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,J-Other,--I,425185,5646024,5,0001772284,Class A Common Stock
+D,05/21/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,J-Other,--I,425185,0,4,0001772284,Class A Common Stock
+A,05/21/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,322110,425185,3,0001772284,Class A Common Stock
+A,05/21/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,454334,454334,2,0001772284,Class A Common Stock
+A,05/21/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,5220839,5220839,1,0001772284,Class A Common Stock
+D,05/21/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,322110,0,20,0001775245,Class B Common Stock
+D,05/21/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,454334,890493,19,0001775245,Class B Common Stock
+D,05/21/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,5220839,10761104,18,0001775245,Class B Common Stock
+A,05/21/2021 00:00:00,"a16z Seed-III, LLC",4,J-Other,--I,424072,842687,10,0001775245,Class A Common Stock
+A,05/21/2021 00:00:00,"a16z Seed-III, LLC",4,J-Other,--I,17473,17473,9,0001775245,Class A Common Stock
+D,05/21/2021 00:00:00,"a16z Seed-III, LLC",4,J-Other,--I,1154711,2263232,8,0001775245,Class A Common Stock
+D,05/21/2021 00:00:00,"a16z Seed-III, LLC",4,J-Other,--I,454334,0,7,0001775245,Class A Common Stock
+D,05/21/2021 00:00:00,"a16z Seed-III, LLC",4,J-Other,--I,5542949,103075,6,0001775245,Class A Common Stock
+A,05/21/2021 00:00:00,"a16z Seed-III, LLC",4,J-Other,--I,425185,5646024,5,0001775245,Class A Common Stock
+D,05/21/2021 00:00:00,"a16z Seed-III, LLC",4,J-Other,--I,425185,0,4,0001775245,Class A Common Stock
+A,05/21/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,322110,425185,3,0001775245,Class A Common Stock
+A,05/21/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,454334,454334,2,0001775245,Class A Common Stock
+A,05/21/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,5220839,5220839,1,0001775245,Class A Common Stock
+A,05/20/2021 00:00:00,WILSON FREDERICK R,4,G-Gift,-ED,58069,299745,2,0001227688,Class A Common Stock
+D,05/20/2021 00:00:00,WILSON FREDERICK R,4,G-Gift,-EI,58069,0,1,0001227688,Class A Common Stock
+D,05/20/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1567,4701,5,0001851432,Restricted Stock Units
+D,05/20/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,2518,7554,4,0001851432,Restricted Stock Units
+A,05/20/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,1567,22568,2,0001851432,Class A Common Stock
+A,05/20/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,2518,21001,1,0001851432,Class A Common Stock
+D,05/20/2021 00:00:00,Haun Kathryn,4,M-Exempt,--D,2418,16923,5,0001851425,Restricted Stock Units
+A,05/20/2021 00:00:00,Haun Kathryn,4,M-Exempt,--D,2418,9346,1,0001851425,Class A Common Stock
+D,05/20/2021 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,20723,103613,3,0001668711,Restricted Stock Units
+A,05/20/2021 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,20723,20723,1,0001668711,Class A Common Stock
+D,05/20/2021 00:00:00,Choi Emilie,4,M-Exempt,--D,46050,230252,5,0001851658,Restricted Stock Units
+A,05/20/2021 00:00:00,Choi Emilie,4,M-Exempt,--D,46050,86019,1,0001851658,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,200,2015190,17,0001851442,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,300,2015390,16,0001851442,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1804,2015690,15,0001851442,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2375,2017494,14,0001851442,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,7016,2019869,13,0001851442,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,200,2026885,12,0001851442,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,671,2027085,11,0001851442,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2947,2027756,10,0001851442,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2254,2030703,9,0001851442,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,5979,2032957,8,0001851442,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,13870,2038936,7,0001851442,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,13018,2052806,6,0001851442,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,5761,2065824,5,0001851442,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,7700,2071585,4,0001851442,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4252,2079285,3,0001851442,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1938,2083537,2,0001851442,Class A Common Stock
+D,04/22/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,400,2085475,1,0001851442,Class A Common Stock
+A,04/22/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,1162,486322,1,0001160077,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,803,2085875,30,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3452,2086678,29,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2237,2090130,28,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,501,2092367,27,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,645,2092868,26,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2600,2093513,25,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2640,2096113,24,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3655,2098753,23,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6305,2102408,22,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4978,2108713,21,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2880,2113691,20,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2436,2116571,19,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6699,2119007,18,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,10033,2125706,17,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6385,2135739,16,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4550,2142124,15,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1801,2146674,14,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1100,2148475,13,0001851442,Class A Common Stock
+D,04/21/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1300,2149575,12,0001851442,Class A Common Stock
+D,04/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,619,2150875,11,0001851442,Class A Common Stock
+D,04/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1804,2151494,10,0001851442,Class A Common Stock
+D,04/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,18729,2153298,9,0001851442,Class A Common Stock
+D,04/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,34057,2172027,8,0001851442,Class A Common Stock
+D,04/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2623,2206084,7,0001851442,Class A Common Stock
+D,04/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2492,2208707,6,0001851442,Class A Common Stock
+D,04/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2663,2211199,5,0001851442,Class A Common Stock
+D,04/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1164,2213862,4,0001851442,Class A Common Stock
+D,04/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3807,2215026,3,0001851442,Class A Common Stock
+D,04/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1548,2218833,2,0001851442,Class A Common Stock
+D,04/20/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,494,2220381,1,0001851442,Class A Common Stock
+D,04/19/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,101,2220875,2,0001851442,Class A Common Stock
+D,04/19/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,669,2220976,1,0001851442,Class A Common Stock
+D,04/19/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1599,2221645,30,0001851442,Class A Common Stock
+D,04/19/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1911,2223244,29,0001851442,Class A Common Stock
+D,04/19/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2300,2225155,28,0001851442,Class A Common Stock
+D,04/19/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4344,2227455,27,0001851442,Class A Common Stock
+D,04/19/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4477,2231799,26,0001851442,Class A Common Stock
+D,04/19/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,12458,2236276,25,0001851442,Class A Common Stock
+D,04/19/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,11936,2248734,24,0001851442,Class A Common Stock
+D,04/19/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,9715,2260670,23,0001851442,Class A Common Stock
+D,04/19/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6008,2270385,22,0001851442,Class A Common Stock
+D,04/19/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2967,2276393,21,0001851442,Class A Common Stock
+D,04/19/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1515,2279360,20,0001851442,Class A Common Stock
+A,04/16/2021 00:00:00,WILSON FREDERICK R,4,J-Other,--I,19772,58069,5,0001227688,Class A Common Stock
+A,04/16/2021 00:00:00,WILSON FREDERICK R,4,J-Other,--I,195539,195539,4,0001227688,Class A Common Stock
+A,04/16/2021 00:00:00,WILSON FREDERICK R,4,J-Other,--D,241676,241676,3,0001227688,Class A Common Stock
+D,04/16/2021 00:00:00,WILSON FREDERICK R,4,J-Other,--I,65908,0,2,0001227688,Class A Common Stock
+D,04/16/2021 00:00:00,WILSON FREDERICK R,4,J-Other,--I,391079,0,1,0001227688,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,8300,2280875,19,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,540,2289175,18,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,5768,2289715,17,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3221,2295483,16,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4716,2298704,15,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,11495,2303420,14,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6723,2314915,13,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4285,2321638,12,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1445,2325923,11,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4735,2327368,10,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1826,2332103,9,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1172,2333929,8,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3129,2335101,7,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2763,2338230,6,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2254,2340993,5,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1451,2343247,4,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3142,2344698,3,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1735,2347840,2,0001851442,Class A Common Stock
+D,04/16/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,800,2349575,1,0001851442,Class A Common Stock
+A,04/16/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,2519,485160,27,0001160077,Class A Common Stock
+D,04/16/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,2165,0,26,0001160077,Class A Common Stock
+A,04/16/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,2165,2165,25,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Choi Emilie,4,S-Sale,--I,12012,62143,1,0001851658,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,394,103075,24,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,195,0,23,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,200,195,22,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,100,395,21,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,263,495,20,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,337,758,19,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,300,1095,18,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,800,1395,17,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,400,2195,16,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,600,2595,15,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,1900,3195,14,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,2700,5095,13,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,1537,7795,12,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,1463,9332,11,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,700,10795,10,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,200,11495,9,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,400,11695,8,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,539,12095,7,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,1400,12634,6,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,2593,14034,5,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,828,16627,4,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,700,17455,3,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,400,18155,2,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,300,18555,1,0001160077,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,394,103075,24,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,195,0,23,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,200,195,22,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,100,395,21,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,263,495,20,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,337,758,19,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,300,1095,18,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,800,1395,17,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,400,2195,16,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,600,2595,15,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,1900,3195,14,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,2700,5095,13,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,1537,7795,12,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,1463,9332,11,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,700,10795,10,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,200,11495,9,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,400,11695,8,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,539,12095,7,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,1400,12634,6,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,2593,14034,5,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,828,16627,4,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,700,17455,3,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,400,18155,2,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,300,18555,1,0001540359,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,394,103075,24,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,195,0,23,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,200,195,22,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,100,395,21,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,263,495,20,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,337,758,19,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,300,1095,18,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,800,1395,17,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,400,2195,16,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,600,2595,15,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,1900,3195,14,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,2700,5095,13,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,1537,7795,12,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,1463,9332,11,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,700,10795,10,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,200,11495,9,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,400,11695,8,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,539,12095,7,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,1400,12634,6,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,2593,14034,5,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,828,16627,4,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,700,17455,3,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,400,18155,2,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,300,18555,1,0001772284,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,394,103075,24,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,195,0,23,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,200,195,22,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,100,395,21,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,263,495,20,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,337,758,19,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,300,1095,18,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,800,1395,17,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,400,2195,16,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,600,2595,15,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,1900,3195,14,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,2700,5095,13,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,1537,7795,12,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,1463,9332,11,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,700,10795,10,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,200,11495,9,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,400,11695,8,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,539,12095,7,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,1400,12634,6,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,2593,14034,5,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,828,16627,4,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,700,17455,3,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,400,18155,2,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,300,18555,1,0001775245,Class A Common Stock
+D,04/15/2021 00:00:00,WILSON FREDERICK R,4,S-Sale,--I,1313,0,16,0001227688,Class A Common Stock
+D,04/15/2021 00:00:00,WILSON FREDERICK R,4,S-Sale,--I,25749,0,15,0001227688,Class A Common Stock
+D,04/15/2021 00:00:00,WILSON FREDERICK R,4,S-Sale,--I,6526,0,14,0001227688,Class A Common Stock
+D,04/15/2021 00:00:00,WILSON FREDERICK R,4,S-Sale,--I,168736,0,13,0001227688,Class A Common Stock
+D,04/15/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,S-Sale,--I,1313,0,12,0001532179,Class A Common Stock
+D,04/15/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,S-Sale,--I,25749,0,11,0001532179,Class A Common Stock
+D,04/15/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,S-Sale,--I,6526,0,10,0001532179,Class A Common Stock
+D,04/15/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,S-Sale,--D,168736,0,9,0001532179,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,100,2350375,22,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1177,2350475,21,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,200,2351652,20,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1590,2351852,19,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,300,2353442,18,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1348,2353742,17,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1739,2355090,16,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,22127,2356829,15,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1010,2378956,14,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1400,2379966,13,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3937,2381366,12,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6125,2385303,11,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4337,2391428,10,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3896,2395765,9,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1100,2399661,8,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,815,2400761,7,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,600,2401576,6,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,500,2402176,5,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,809,2402676,4,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4815,2403485,3,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1515,2408300,2,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1557,2409815,1,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1646,2411372,17,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1588,2413018,16,0001851442,Class A Common Stock
+D,04/15/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,500,2414606,15,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Chatterjee Surojit,4/A,M-Exempt,--D,160000,1836692,6,0001851558,Employee Stock Option (right to buy)
+D,04/14/2021 00:00:00,Chatterjee Surojit,4/A,S-Sale,--I,25000,5344,5,0001851558,Class A Common
+D,04/14/2021 00:00:00,Chatterjee Surojit,4/A,S-Sale,--I,135000,30344,4,0001851558,Class A Common
+A,04/14/2021 00:00:00,Chatterjee Surojit,4/A,G-Gift,-EI,165344,165344,3,0001851558,Class A Common
+D,04/14/2021 00:00:00,Chatterjee Surojit,4/A,G-Gift,-ED,165344,0,2,0001851558,Class A Common Stock
+A,04/14/2021 00:00:00,Chatterjee Surojit,4/A,M-Exempt,--D,160000,165344,1,0001851558,Class A Common Stock
+A,04/14/2021 00:00:00,WILSON FREDERICK R,4/A,J-Other,--I,65908,65908,1,0001227688,Class A Common Stock
+A,04/14/2021 00:00:00,WILSON FREDERICK R,4,J-Other,--I,2416,2416,12,0001227688,Class A Common Stock
+A,04/14/2021 00:00:00,WILSON FREDERICK R,4,J-Other,--I,34286,34286,11,0001227688,Class A Common Stock
+A,04/14/2021 00:00:00,WILSON FREDERICK R,4,J-Other,--I,391079,391079,10,0001227688,Class A Common Stock
+A,04/14/2021 00:00:00,WILSON FREDERICK R,4,J-Other,--I,38297,38297,9,0001227688,Class A Common Stock
+D,04/14/2021 00:00:00,WILSON FREDERICK R,4,S-Sale,--I,29028,1313,8,0001227688,Class A Common Stock
+D,04/14/2021 00:00:00,WILSON FREDERICK R,4,S-Sale,--I,570372,25749,7,0001227688,Class A Common Stock
+D,04/14/2021 00:00:00,WILSON FREDERICK R,4,S-Sale,--I,145277,6526,6,0001227688,Class A Common Stock
+D,04/14/2021 00:00:00,WILSON FREDERICK R,4,S-Sale,--I,3755323,168736,5,0001227688,Class A Common Stock
+D,04/14/2021 00:00:00,WILSON FREDERICK R,4,J-Other,--I,58114,30341,4,0001227688,Class A Common Stock
+D,04/14/2021 00:00:00,WILSON FREDERICK R,4,J-Other,--I,1141886,596121,3,0001227688,Class A Common Stock
+D,04/14/2021 00:00:00,WILSON FREDERICK R,4,J-Other,--I,297959,151803,2,0001227688,Class A Common Stock
+D,04/14/2021 00:00:00,WILSON FREDERICK R,4,J-Other,--I,7702041,3924059,1,0001227688,Class A Common Stock
+D,04/14/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,S-Sale,--I,29028,1313,8,0001532179,Class A Common Stock
+D,04/14/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,S-Sale,--I,570372,25749,7,0001532179,Class A Common Stock
+D,04/14/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,S-Sale,--I,145277,6526,6,0001532179,Class A Common Stock
+D,04/14/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,S-Sale,--D,3755323,168736,5,0001532179,Class A Common Stock
+D,04/14/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,J-Other,--I,58114,30341,4,0001532179,Class A Common Stock
+D,04/14/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,J-Other,--I,1141886,596121,3,0001532179,Class A Common Stock
+D,04/14/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,J-Other,--I,297959,151803,2,0001532179,Class A Common Stock
+D,04/14/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,J-Other,--D,7702041,3924059,1,0001532179,Class A Common Stock
+D,04/14/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,4049,17549,7,0001851432,Employee Stock Option (right to buy)
+D,04/14/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,105951,85566,6,0001851432,Employee Stock Option (right to buy)
+D,04/14/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,25000,18483,5,0001851432,Class A Common Stock
+D,04/14/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,25000,43483,4,0001851432,Class A Common Stock
+D,04/14/2021 00:00:00,Jones Jennifer N.,4,S-Sale,--D,60000,68483,3,0001851432,Class A Common Stock
+A,04/14/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,4049,128483,2,0001851432,Class A Common Stock
+A,04/14/2021 00:00:00,Jones Jennifer N.,4,M-Exempt,--D,105951,124434,1,0001851432,Class A Common Stock
+D,04/14/2021 00:00:00,Haun Kathryn,4,J-Other,--I,860868,0,9,0001851425,Class A Common Stock
+D,04/14/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,8697,860868,8,0001851425,Class A Common Stock
+D,04/14/2021 00:00:00,Haun Kathryn,4,J-Other,--I,1154711,3417943,7,0001851425,Class A Common Stock
+D,04/14/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,46188,4572654,6,0001851425,Class A Common Stock
+D,04/14/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,24800,57854,5,0001851425,Class A Common Stock
+D,04/14/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,35200,82654,4,0001851425,Class A Common Stock
+D,04/14/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,16428,110000,3,0001851425,Class A Common Stock
+D,04/14/2021 00:00:00,Haun Kathryn,4,S-Sale,--I,73572,126428,2,0001851425,Class A Common Stock
+A,04/14/2021 00:00:00,Haun Kathryn,4,J-Other,--D,6928,6928,1,0001851425,Class A Common Stock
+D,04/14/2021 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,255500,1094500,9,0001668711,Employee Stock Option (right to buy)
+D,04/14/2021 00:00:00,HAAS ALESIA J,4,S-Sale,--D,62,0,8,0001668711,Class A Common Stock
+D,04/14/2021 00:00:00,HAAS ALESIA J,4,S-Sale,--D,4553,62,7,0001668711,Class A Common Stock
+D,04/14/2021 00:00:00,HAAS ALESIA J,4,S-Sale,--D,6683,4615,6,0001668711,Class A Common Stock
+D,04/14/2021 00:00:00,HAAS ALESIA J,4,S-Sale,--D,5189,11298,5,0001668711,Class A Common Stock
+D,04/14/2021 00:00:00,HAAS ALESIA J,4,S-Sale,--D,8513,16487,4,0001668711,Class A Common Stock
+D,04/14/2021 00:00:00,HAAS ALESIA J,4,S-Sale,--D,50000,25000,3,0001668711,Class A Common Stock
+D,04/14/2021 00:00:00,HAAS ALESIA J,4,S-Sale,--D,180500,75000,2,0001668711,Class A Common Stock
+A,04/14/2021 00:00:00,HAAS ALESIA J,4,M-Exempt,--D,255500,255500,1,0001668711,Class A Common Stock
+A,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,J-Other,--I,218,2415106,14,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,628,2544755,13,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,829,2545383,12,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,469,2546212,11,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,9301,2546681,10,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1625,2555982,9,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,12852,2557607,8,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2672,2414888,7,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3571,2417560,6,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2123,2421131,5,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,39686,2423254,4,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,6943,2462940,3,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,100,2469883,2,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2400,2469983,1,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,200,2472383,30,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,200,2472583,29,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,100,2472783,28,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,616,2472883,27,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1117,2473499,26,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1254,2474616,25,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,110090,2475870,24,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,200,2585960,23,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2300,2586160,22,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2380,2588460,21,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,600,2590840,20,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,909,2591440,19,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,200,2592349,18,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,300,2592549,17,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,400,2592849,16,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4715,2593249,15,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2500,2597964,14,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,600,2600464,13,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,3400,2601064,12,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2501,2604464,11,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4782,2606965,10,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,500,2611747,9,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,565,2612247,8,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,2300,2612812,7,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,200,2615112,6,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,400,2615312,5,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1800,2615712,4,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,500,2617512,3,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,1158,2618012,2,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Ehrsam Frederick Ernest III,4,S-Sale,--I,4072,2619170,1,0001851442,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--I,200,74155,10,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--I,200,74355,9,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--I,129,74555,8,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--I,50000,74684,7,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,80000,39969,6,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,125000,119969,5,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,1184,244969,4,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,5666,246153,3,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,9843,251819,2,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,27026,261662,1,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,M-Exempt,--D,501080,1308513,32,0001851658,Employee Stock Option (right to buy)
+D,04/14/2021 00:00:00,Choi Emilie,4,M-Exempt,--D,50549,110000,31,0001851658,Employee Stock Option (right to buy)
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,100,288688,30,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,100,288788,29,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,810,288888,28,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,600,289698,27,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,1300,290298,26,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,300,291598,25,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,1206,291898,24,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,1700,293104,23,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,3050,294804,22,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,1628,297854,21,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,3974,299482,20,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,2711,303456,19,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,9800,306167,18,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,12300,315967,17,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,7600,328267,16,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,9826,335867,15,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,22629,345693,14,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,20942,368322,13,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,50113,389264,12,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,71145,439377,11,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,9304,510522,10,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,25158,519826,9,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,6120,544984,8,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,9991,551104,7,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,28402,561095,6,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,300,589497,5,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,1800,589797,4,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Choi Emilie,4,S-Sale,--D,1,591597,3,0001851658,Class A Common Stock
+A,04/14/2021 00:00:00,Choi Emilie,4,M-Exempt,--D,501080,591598,2,0001851658,Class A Common Stock
+A,04/14/2021 00:00:00,Choi Emilie,4,M-Exempt,--D,50549,90518,1,0001851658,Class A Common Stock
+D,04/14/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,160000,1836692,4,0001851558,Employee Stock Option (right to buy)
+D,04/14/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,25000,5344,3,0001851558,Class A Common Stock
+D,04/14/2021 00:00:00,Chatterjee Surojit,4,S-Sale,--D,135000,30344,2,0001851558,Class A Common Stock
+A,04/14/2021 00:00:00,Chatterjee Surojit,4,M-Exempt,--D,160000,165344,1,0001851558,Class A Common Stock
+A,04/14/2021 00:00:00,Armstrong Brian,4,J-Other,--I,357,300358,4,0001851492,Class A Common Stock
+D,04/14/2021 00:00:00,Armstrong Brian,4,S-Sale,--I,466665,300001,3,0001851492,Class A Common Stock
+D,04/14/2021 00:00:00,Armstrong Brian,4,S-Sale,--I,116667,766666,2,0001851492,Class A Common Stock
+D,04/14/2021 00:00:00,Armstrong Brian,4,S-Sale,--I,166667,883333,1,0001851492,Class A Common Stock
+D,04/14/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,18173,1344827,18,0001160077,Class B Common Stock
+D,04/14/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,324792,15981943,17,0001160077,Class B Common Stock
+A,04/14/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,18855,18855,16,0001160077,Class A Common Stock
+A,04/14/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,482641,482641,15,0001160077,Class A Common Stock
+D,04/14/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,1037,0,14,0001160077,Class A Common Stock
+A,04/14/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,1037,1037,13,0001160077,Class A Common Stock
+D,04/14/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,5542949,0,12,0001160077,Class A Common Stock
+D,04/14/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,454334,0,11,0001160077,Class A Common Stock
+D,04/14/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,1154711,3417943,10,0001160077,Class A Common Stock
+D,04/14/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,860868,0,9,0001160077,Class A Common Stock
+A,04/14/2021 00:00:00,Andreessen Marc L,4,J-Other,--I,394,103469,8,0001160077,Class A Common Stock
+D,04/14/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,4295,103075,7,0001160077,Class A Common Stock
+D,04/14/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,8697,860868,6,0001160077,Class A Common Stock
+D,04/14/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,46188,4572654,5,0001160077,Class A Common Stock
+D,04/14/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,217422,5542949,4,0001160077,Class A Common Stock
+D,04/14/2021 00:00:00,Andreessen Marc L,4,S-Sale,--I,18173,454334,3,0001160077,Class A Common Stock
+A,04/14/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,18173,472507,2,0001160077,Class A Common Stock
+A,04/14/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,324792,5760371,1,0001160077,Class A Common Stock
+D,04/14/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,18173,1344827,16,0001540359,Class B Common Stock
+D,04/14/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,324792,15981943,15,0001540359,Class B Common Stock
+A,04/14/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,J-Other,--I,18855,18855,14,0001540359,Class A Common Stock
+A,04/14/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,J-Other,--I,418615,418615,13,0001540359,Class A Common Stock
+D,04/14/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,J-Other,--I,5542949,0,12,0001540359,Class A Common Stock
+D,04/14/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,J-Other,--I,454334,0,11,0001540359,Class A Common Stock
+D,04/14/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,J-Other,--I,1154711,3417943,10,0001540359,Class A Common Stock
+D,04/14/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,J-Other,--I,860868,0,9,0001540359,Class A Common Stock
+A,04/14/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,J-Other,--I,394,103469,8,0001540359,Class A Common Stock
+D,04/14/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,4295,103075,7,0001540359,Class A Common Stock
+D,04/14/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,8697,860868,6,0001540359,Class A Common Stock
+D,04/14/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,46188,4572654,5,0001540359,Class A Common Stock
+D,04/14/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,217422,5542949,4,0001540359,Class A Common Stock
+D,04/14/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,S-Sale,--I,18173,454334,3,0001540359,Class A Common Stock
+A,04/14/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,18173,472507,2,0001540359,Class A Common Stock
+A,04/14/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,324792,5760371,1,0001540359,Class A Common Stock
+D,04/14/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,18173,1344827,16,0001772284,Class B Common Stock
+D,04/14/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,324792,15981943,15,0001772284,Class B Common Stock
+A,04/14/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,J-Other,--I,18855,18855,14,0001772284,Class A Common Stock
+A,04/14/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,J-Other,--I,418615,418615,13,0001772284,Class A Common Stock
+D,04/14/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,J-Other,--I,5542949,0,12,0001772284,Class A Common Stock
+D,04/14/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,J-Other,--I,454334,0,11,0001772284,Class A Common Stock
+D,04/14/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,J-Other,--I,1154711,3417943,10,0001772284,Class A Common Stock
+D,04/14/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,J-Other,--I,860868,0,9,0001772284,Class A Common Stock
+A,04/14/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,J-Other,--I,394,103469,8,0001772284,Class A Common Stock
+D,04/14/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,4295,103075,7,0001772284,Class A Common Stock
+D,04/14/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,8697,860868,6,0001772284,Class A Common Stock
+D,04/14/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,46188,4572654,5,0001772284,Class A Common Stock
+D,04/14/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,217422,5542949,4,0001772284,Class A Common Stock
+D,04/14/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,S-Sale,--I,18173,454334,3,0001772284,Class A Common Stock
+A,04/14/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,18173,472507,2,0001772284,Class A Common Stock
+A,04/14/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,324792,5760371,1,0001772284,Class A Common Stock
+D,04/14/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,18173,1344827,16,0001775245,Class B Common Stock
+D,04/14/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,324792,15981943,15,0001775245,Class B Common Stock
+A,04/14/2021 00:00:00,"a16z Seed-III, LLC",4,J-Other,--I,18855,18855,14,0001775245,Class A Common Stock
+A,04/14/2021 00:00:00,"a16z Seed-III, LLC",4,J-Other,--I,418615,418615,13,0001775245,Class A Common Stock
+D,04/14/2021 00:00:00,"a16z Seed-III, LLC",4,J-Other,--I,5542949,0,12,0001775245,Class A Common Stock
+D,04/14/2021 00:00:00,"a16z Seed-III, LLC",4,J-Other,--I,454334,0,11,0001775245,Class A Common Stock
+D,04/14/2021 00:00:00,"a16z Seed-III, LLC",4,J-Other,--I,1154711,3417943,10,0001775245,Class A Common Stock
+D,04/14/2021 00:00:00,"a16z Seed-III, LLC",4,J-Other,--I,860868,0,9,0001775245,Class A Common Stock
+A,04/14/2021 00:00:00,"a16z Seed-III, LLC",4,J-Other,--I,394,103469,8,0001775245,Class A Common Stock
+D,04/14/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,4295,103075,7,0001775245,Class A Common Stock
+D,04/14/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,8697,860868,6,0001775245,Class A Common Stock
+D,04/14/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,46188,4572654,5,0001775245,Class A Common Stock
+D,04/14/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,217422,5542949,4,0001775245,Class A Common Stock
+D,04/14/2021 00:00:00,"a16z Seed-III, LLC",4,S-Sale,--I,18173,454334,3,0001775245,Class A Common Stock
+A,04/14/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,18173,472507,2,0001775245,Class A Common Stock
+A,04/14/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,324792,5760371,1,0001775245,Class A Common Stock
+D,04/01/2021 00:00:00,Armstrong Brian,4/A,C-Conversion,--I,5738772,0,4,0001851492,Series FF Preferred Stock
+D,04/01/2021 00:00:00,Armstrong Brian,4/A,C-Conversion,--I,1050000,24909129,3,0001851492,Class B Common Stock
+A,04/01/2021 00:00:00,Armstrong Brian,4/A,C-Conversion,--I,5738772,25959129,2,0001851492,Class B Common Stock
+A,04/01/2021 00:00:00,Armstrong Brian,4/A,C-Conversion,--I,1050000,1050000,1,0001851492,Class A Common Stock
+D,04/01/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,27630,0,17,0001160077,Series E Preferred Stock
+D,04/01/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,1817334,0,16,0001160077,Series D Preferred Stock
+D,04/01/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,2531760,0,15,0001160077,Series C Preferred Stock
+D,04/01/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,19182924,0,14,0001160077,Series B Preferred Stock
+D,04/01/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,257688,0,13,0001160077,Series A Preferred Stock
+D,04/01/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,5407949,16306735,12,0001160077,Class B Common Stock
+D,04/01/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,454334,1363000,11,0001160077,Class B Common Stock
+D,04/01/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,107370,322110,10,0001160077,Class B Common Stock
+A,04/01/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,1817334,1817334,9,0001160077,Class B Common Stock
+A,04/01/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,21714684,21714684,8,0001160077,Class B Common Stock
+A,04/01/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,257688,429480,7,0001160077,Class B Common Stock
+A,04/01/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,454334,454334,4,0001160077,Class A Common Stock
+A,04/01/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,107370,107370,3,0001160077,Class A Common Stock
+A,04/01/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,5407949,5435579,2,0001160077,Class A Common Stock
+A,04/01/2021 00:00:00,Andreessen Marc L,4,C-Conversion,--I,27630,27630,1,0001160077,Class A Common Stock
+D,04/01/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,27630,0,17,0001540359,Series E Preferred Stock
+D,04/01/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,1817334,0,16,0001540359,Series D Preferred Stock
+D,04/01/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,2531760,0,15,0001540359,Series C Preferred Stock
+D,04/01/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,19182924,0,14,0001540359,Series B Preferred Stock
+D,04/01/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,257688,0,13,0001540359,Series A Preferred Stock
+D,04/01/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,5407949,16306735,12,0001540359,Class B Common Stock
+D,04/01/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,454334,1363000,11,0001540359,Class B Common Stock
+D,04/01/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,107370,322110,10,0001540359,Class B Common Stock
+A,04/01/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,1817334,1817334,9,0001540359,Class B Common Stock
+A,04/01/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,21714684,21714684,8,0001540359,Class B Common Stock
+A,04/01/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,257688,429480,7,0001540359,Class B Common Stock
+A,04/01/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,454334,454334,4,0001540359,Class A Common Stock
+A,04/01/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,107370,107370,3,0001540359,Class A Common Stock
+A,04/01/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,5407949,5435579,2,0001540359,Class A Common Stock
+A,04/01/2021 00:00:00,"AH Equity Partners III (Parallel), L.L.C.",4,C-Conversion,--I,27630,27630,1,0001540359,Class A Common Stock
+D,04/01/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,27630,0,17,0001772284,Series E Preferred Stock
+D,04/01/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,1817334,0,16,0001772284,Series D Preferred Stock
+D,04/01/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,2531760,0,15,0001772284,Series C Preferred Stock
+D,04/01/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,19182924,0,14,0001772284,Series B Preferred Stock
+D,04/01/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,257688,0,13,0001772284,Series A Preferred Stock
+D,04/01/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,5407949,16306735,12,0001772284,Class B Common Stock
+D,04/01/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,454334,1363000,11,0001772284,Class B Common Stock
+D,04/01/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,107370,322110,10,0001772284,Class B Common Stock
+A,04/01/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,1817334,1817334,9,0001772284,Class B Common Stock
+A,04/01/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,21714684,21714684,8,0001772284,Class B Common Stock
+A,04/01/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,257688,429480,7,0001772284,Class B Common Stock
+A,04/01/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,454334,454334,4,0001772284,Class A Common Stock
+A,04/01/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,107370,107370,3,0001772284,Class A Common Stock
+A,04/01/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,5407949,5435579,2,0001772284,Class A Common Stock
+A,04/01/2021 00:00:00,"Andreessen Horowitz LSV Fund I, L.P.",4,C-Conversion,--I,27630,27630,1,0001772284,Class A Common Stock
+D,04/01/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,27630,0,17,0001775245,Series E Preferred Stock
+D,04/01/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,1817334,0,16,0001775245,Series D Preferred Stock
+D,04/01/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,2531760,0,15,0001775245,Series C Preferred Stock
+D,04/01/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,19182924,0,14,0001775245,Series B Preferred Stock
+D,04/01/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,257688,0,13,0001775245,Series A Preferred Stock
+D,04/01/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,5407949,16306735,12,0001775245,Class B Common Stock
+D,04/01/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,454334,1363000,11,0001775245,Class B Common Stock
+D,04/01/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,107370,322110,10,0001775245,Class B Common Stock
+A,04/01/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,1817334,1817334,9,0001775245,Class B Common Stock
+A,04/01/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,21714684,21714684,8,0001775245,Class B Common Stock
+A,04/01/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,257688,429480,7,0001775245,Class B Common Stock
+A,04/01/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,454334,454334,4,0001775245,Class A Common Stock
+A,04/01/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,107370,107370,3,0001775245,Class A Common Stock
+A,04/01/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,5407949,5435579,2,0001775245,Class A Common Stock
+A,04/01/2021 00:00:00,"a16z Seed-III, LLC",4,C-Conversion,--I,27630,27630,1,0001775245,Class A Common Stock
+D,04/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,C-Conversion,--I,2623242,5802589,3,0001851442,Class B Common Stock
+A,04/01/2021 00:00:00,Ehrsam Frederick Ernest III,4,C-Conversion,--I,2623242,2623242,1,0001851442,Class A Common Stock
+D,04/01/2021 00:00:00,Choi Emilie,4,C-Conversion,--I,60000,0,6,0001851658,Class B Common Stock
+D,04/01/2021 00:00:00,Choi Emilie,4,C-Conversion,--I,119340,0,5,0001851658,Class B Common Stock
+D,04/01/2021 00:00:00,Choi Emilie,4,C-Conversion,--D,39969,0,4,0001851658,Class B Common Stock
+A,04/01/2021 00:00:00,Choi Emilie,4,C-Conversion,--I,60000,60000,3,0001851658,Class A Common Stock
+A,04/01/2021 00:00:00,Choi Emilie,4,C-Conversion,--I,119340,124684,2,0001851658,Class A Common Stock
+A,04/01/2021 00:00:00,Choi Emilie,4,C-Conversion,--D,39969,39969,1,0001851658,Class A Common Stock
+D,04/01/2021 00:00:00,Armstrong Brian,4,C-Conversion,--I,5738772,0,4,0001851492,Series FF Preferred Stock
+D,04/01/2021 00:00:00,Armstrong Brian,4,C-Conversion,--I,1050000,24909129,3,0001851492,Class B Common Stock
+A,04/01/2021 00:00:00,Armstrong Brian,4,C-Conversion,--I,5738772,25959129,2,0001851492,Class B Common Stock
+A,04/01/2021 00:00:00,Armstrong Brian,4,C-Conversion,--I,1050000,1050000,1,0001851492,Class A Common Stock
+D,04/01/2021 00:00:00,Jones Jennifer N.,4,C-Conversion,--D,18483,0,2,0001851432,Class B Common Stock
+A,04/01/2021 00:00:00,Jones Jennifer N.,4,C-Conversion,--D,18483,18483,1,0001851432,Class A Common Stock
+D,04/01/2021 00:00:00,Haun Kathryn,4,C-Conversion,--I,117854,0,8,0001851425,Class B Common Stock
+D,04/01/2021 00:00:00,Haun Kathryn,4,C-Conversion,--I,150000,0,7,0001851425,Class B Common Stock
+D,04/01/2021 00:00:00,Haun Kathryn,4,C-Conversion,--I,19000,0,6,0001851425,Class B Common Stock
+A,04/01/2021 00:00:00,Haun Kathryn,4,C-Conversion,--I,117854,117854,3,0001851425,Class A Common Stock
+A,04/01/2021 00:00:00,Haun Kathryn,4,C-Conversion,--I,150000,150000,2,0001851425,Class A Common Stock
+A,04/01/2021 00:00:00,Haun Kathryn,4,C-Conversion,--I,19000,200000,1,0001851425,Class A Common Stock
+D,04/01/2021 00:00:00,WILSON FREDERICK R,4,C-Conversion,--I,88455,0,16,0001227688,Series C Preferred Stock
+D,04/01/2021 00:00:00,WILSON FREDERICK R,4,C-Conversion,--I,1738007,0,15,0001227688,Series C Preferred Stock
+D,04/01/2021 00:00:00,WILSON FREDERICK R,4,C-Conversion,--I,436274,0,14,0001227688,Series A Preferred Stock
+D,04/01/2021 00:00:00,WILSON FREDERICK R,4,C-Conversion,--I,11277506,0,13,0001227688,Series A Preferred Stock
+D,04/01/2021 00:00:00,WILSON FREDERICK R,4,C-Conversion,--I,88455,0,12,0001227688,Class B Common Stock
+D,04/01/2021 00:00:00,WILSON FREDERICK R,4,C-Conversion,--I,1738007,0,11,0001227688,Class B Common Stock
+D,04/01/2021 00:00:00,WILSON FREDERICK R,4,C-Conversion,--I,449762,0,10,0001227688,Class B Common Stock
+D,04/01/2021 00:00:00,WILSON FREDERICK R,4,C-Conversion,--I,11626100,0,9,0001227688,Class B Common Stock
+A,04/01/2021 00:00:00,WILSON FREDERICK R,4,C-Conversion,--I,88455,88455,8,0001227688,Class B Common Stock
+A,04/01/2021 00:00:00,WILSON FREDERICK R,4,C-Conversion,--I,1738007,1738007,7,0001227688,Class B Common Stock
+A,04/01/2021 00:00:00,WILSON FREDERICK R,4,C-Conversion,--I,436274,449762,6,0001227688,Class B Common Stock
+A,04/01/2021 00:00:00,WILSON FREDERICK R,4,C-Conversion,--I,11277506,11626100,5,0001227688,Class B Common Stock
+A,04/01/2021 00:00:00,WILSON FREDERICK R,4,C-Conversion,--I,88455,88455,4,0001227688,Class A Common Stock
+A,04/01/2021 00:00:00,WILSON FREDERICK R,4,C-Conversion,--I,1738007,1738007,3,0001227688,Class A Common Stock
+A,04/01/2021 00:00:00,WILSON FREDERICK R,4,C-Conversion,--I,449762,449762,2,0001227688,Class A Common Stock
+A,04/01/2021 00:00:00,WILSON FREDERICK R,4,C-Conversion,--I,11626100,11626100,1,0001227688,Class A Common Stock
+D,04/01/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,C-Conversion,--I,88455,0,16,0001532179,Series C Preferred Stock
+D,04/01/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,C-Conversion,--I,1738007,0,15,0001532179,Series C Preferred Stock
+D,04/01/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,C-Conversion,--I,436274,0,14,0001532179,Series A Preferred Stock
+D,04/01/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,C-Conversion,--D,11277506,0,13,0001532179,Series A Preferred Stock
+D,04/01/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,C-Conversion,--I,88455,0,12,0001532179,Class B Common Stock
+D,04/01/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,C-Conversion,--I,1738007,0,11,0001532179,Class B Common Stock
+D,04/01/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,C-Conversion,--I,449762,0,10,0001532179,Class B Common Stock
+D,04/01/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,C-Conversion,--D,11626100,0,9,0001532179,Class B Common Stock
+A,04/01/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,C-Conversion,--I,88455,88455,8,0001532179,Class B Common Stock
+A,04/01/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,C-Conversion,--I,1738007,1738007,7,0001532179,Class B Common Stock
+A,04/01/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,C-Conversion,--I,436274,449762,6,0001532179,Class B Common Stock
+A,04/01/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,C-Conversion,--D,11277506,11626100,5,0001532179,Class B Common Stock
+A,04/01/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,C-Conversion,--I,88455,88455,4,0001532179,Class A Common Stock
+A,04/01/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,C-Conversion,--I,1738007,1738007,3,0001532179,Class A Common Stock
+A,04/01/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,C-Conversion,--I,449762,449762,2,0001532179,Class A Common Stock
+A,04/01/2021 00:00:00,"Union Square Ventures 2012 Fund, L.P.",4,C-Conversion,--D,11626100,11626100,1,0001532179,Class A Common Stock

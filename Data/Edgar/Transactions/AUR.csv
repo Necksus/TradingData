@@ -1,0 +1,104 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/29/2023 00:00:00,Anderson Sterling,4,C-Conversion,--D,200000,49749751,9,0001878943,Class B Common Stock
+D,06/29/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,200000,92899,6,0001878943,Class A Common Stock
+A,06/29/2023 00:00:00,Anderson Sterling,4,C-Conversion,--D,200000,292899,5,0001878943,Class A Common Stock
+D,06/28/2023 00:00:00,Anderson Sterling,4,C-Conversion,--D,200000,49949751,8,0001878943,Class B Common Stock
+D,06/28/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,200000,92899,4,0001878943,Class A Common Stock
+A,06/28/2023 00:00:00,Anderson Sterling,4,C-Conversion,--D,200000,292899,3,0001878943,Class A Common Stock
+D,06/27/2023 00:00:00,Anderson Sterling,4,C-Conversion,--D,200000,50149751,7,0001878943,Class B Common Stock
+D,06/27/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,200000,92899,2,0001878943,Class A Common Stock
+A,06/27/2023 00:00:00,Anderson Sterling,4,C-Conversion,--D,200000,292899,1,0001878943,Class A Common Stock
+D,06/26/2023 00:00:00,Anderson Sterling,4,C-Conversion,--D,103568,50349751,6,0001878943,Class B Common Stock
+D,06/26/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,103568,92899,4,0001878943,Class A Common Stock
+A,06/26/2023 00:00:00,Anderson Sterling,4,C-Conversion,--D,103568,196467,3,0001878943,Class A Common Stock
+D,06/23/2023 00:00:00,Anderson Sterling,4,C-Conversion,--D,91812,50453319,5,0001878943,Class B Common Stock
+D,06/23/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,200000,92899,2,0001878943,Class A Common Stock
+A,06/23/2023 00:00:00,Anderson Sterling,4,C-Conversion,--D,91812,292899,1,0001878943,Class A Common Stock
+D,06/22/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,200000,201087,1,0001878943,Class A Common Stock
+D,06/21/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,200000,401087,2,0001878943,Class A Common Stock
+D,06/20/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,200000,601087,1,0001878943,Class A Common Stock
+D,06/16/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,200000,801087,3,0001878943,Class A Common Stock
+D,06/15/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,200000,1001087,2,0001878943,Class A Common Stock
+D,06/14/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,200000,1201087,1,0001878943,Class A Common Stock
+A,06/14/2023 00:00:00,Maday David,4,A-Award,--D,125000,125000,4,0001978942,Stock Options (Right to Buy)
+A,06/14/2023 00:00:00,Maday David,4,A-Award,--D,500000,500000,3,0001978942,Stock Options (Right to Buy)
+A,06/14/2023 00:00:00,Maday David,4,A-Award,--D,125000,125000,2,0001978942,Stock Options (Right to Buy)
+A,06/14/2023 00:00:00,Maday David,4,A-Award,--D,750000,1103396,1,0001978942,Class A Common Stock
+D,06/13/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,200000,1401087,2,0001878943,Class A Common Stock
+D,06/12/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,200000,1601087,1,0001878943,Class A Common Stock
+D,06/09/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,200000,1801087,2,0001878943,Class A Common Stock
+D,06/08/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,200000,2001087,1,0001878943,Class A Common Stock
+A,05/26/2023 00:00:00,Hoffman Reid,4,A-Award,--D,159180,212172,1,0001519339,Class A Common Stock
+A,05/26/2023 00:00:00,Boyland Gloria R.,4,A-Award,--D,159180,300572,1,0001691284,Class A Common Stock
+A,05/26/2023 00:00:00,Johnson Claire D'Oyly-Hughes,4,A-Award,--D,159180,254609,1,0001874135,Class A Common Stock
+A,05/26/2023 00:00:00,Bagley Brittany,4,A-Award,--D,159180,342422,1,0001743490,Class A Common Stock
+D,05/22/2023 00:00:00,Tame Richard,4,F-InKind,--D,3562,337658,1,0001869011,Class A Common Stock
+D,05/22/2023 00:00:00,Shenai Nolan,4,F-InKind,--D,5944,181165,1,0001953472,Class A Common Stock
+D,05/22/2023 00:00:00,Anderson Sterling,4,F-InKind,--D,15511,2201087,1,0001878943,Class A Common Stock
+D,05/22/2023 00:00:00,Urmson Christopher,4,F-InKind,--D,35837,595289,1,0001869013,Class A Common Stock
+A,03/13/2023 00:00:00,Boyland Gloria R.,4,A-Award,--D,138292,141392,1,0001691284,Class A Common Stock
+A,03/08/2023 00:00:00,Fisher Ossa,4,A-Award,--D,2000000,2000000,2,0001609637,Stock Options (Right to Buy)
+A,03/08/2023 00:00:00,Fisher Ossa,4,A-Award,--D,2000000,2000000,1,0001609637,Class A Common Stock
+A,03/08/2023 00:00:00,Shenai Nolan,4,A-Award,--D,80000,433016,2,0001953472,Stock Options (Right to Buy)
+A,03/08/2023 00:00:00,Shenai Nolan,4,A-Award,--D,80000,187109,1,0001953472,Class A Common Stock
+A,03/08/2023 00:00:00,Tame Richard,4,A-Award,--D,100000,860304,2,0001869011,Stock Options (Right to Buy)
+A,03/08/2023 00:00:00,Tame Richard,4,A-Award,--D,100000,341220,1,0001869011,Class A Common Stock
+D,02/20/2023 00:00:00,Shenai Nolan,4,F-InKind,--D,1218,107109,1,0001953472,Class A Common Stock
+D,02/20/2023 00:00:00,Anderson Sterling,4,F-InKind,--D,27637,2216598,1,0001878943,Class A Common Stock
+D,02/20/2023 00:00:00,Urmson Christopher,4,F-InKind,--D,43294,631126,1,0001869013,Class A Common Stock
+D,02/03/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,93304,2244235,3,0001878943,Class A Common Stock
+D,02/02/2023 00:00:00,Anderson Sterling,4,C-Conversion,--D,2084042,50545131,4,0001878943,Class B Common Stock
+A,02/02/2023 00:00:00,Anderson Sterling,4,C-Conversion,--D,2084042,2337539,2,0001878943,Class A Common Stock
+D,02/02/2023 00:00:00,Anderson Sterling,4,S-Sale,--D,49563,253497,1,0001878943,Class A Common Stock
+D,11/20/2022 00:00:00,Shenai Nolan,4,F-InKind,--D,1029,108327,1,0001953472,Class A Common Stock
+D,11/20/2022 00:00:00,Anderson Sterling,4,F-InKind,--D,17134,303060,1,0001878943,Class A Common Stock
+D,11/20/2022 00:00:00,Urmson Christopher,4,F-InKind,--D,57339,674420,1,0001869013,Class A Common Stock
+D,08/20/2022 00:00:00,Anderson Sterling,4,F-InKind,--D,17134,320194,1,0001878943,Class A Common Stock
+D,08/20/2022 00:00:00,Urmson Christopher,4,F-InKind,--D,55618,731759,1,0001869013,Class A Common Stock
+A,08/09/2022 00:00:00,Tame Richard,4,A-Award,--D,109052,760304,2,0001869011,Stock Options (Right to Buy)
+A,08/09/2022 00:00:00,Tame Richard,4,A-Award,--D,109052,241220,1,0001869011,Class A Common Stock
+D,05/20/2022 00:00:00,Mouat William,4,F-InKind,--D,13033,3545904,1,0001868487,Class A Common Stock
+D,05/20/2022 00:00:00,Urmson Christopher,4,F-InKind,--D,79982,787377,1,0001869013,Class A Common Stock
+D,05/20/2022 00:00:00,Anderson Sterling,4,F-InKind,--D,34266,337328,1,0001878943,Class A Common Stock
+A,05/20/2022 00:00:00,Johnson Claire D'Oyly-Hughes,4,A-Award,--D,52992,95429,1,0001874135,Class A Common Stock
+A,05/20/2022 00:00:00,Bagley Brittany,4,A-Award,--D,52992,183242,1,0001743490,Class A Common Stock
+A,05/20/2022 00:00:00,Hoffman Reid,4,A-Award,--D,52992,52992,1,0001519339,Class A Common Stock
+A,05/20/2022 00:00:00,Eschenbach Carl M.,4,A-Award,--D,52992,52992,1,0001409324,Class A Common Stock
+D,04/04/2022 00:00:00,Mouat William,4,F-InKind,--D,4570,3558937,1,0001868487,Class A Common Stock
+A,03/15/2022 00:00:00,Tame Richard,4,A-Award,--D,132168,132168,1,0001869011,Class A Common Stock
+A,03/15/2022 00:00:00,Mouat William,4,A-Award,--D,132168,3563507,1,0001868487,Class A Common Stock
+A,03/15/2022 00:00:00,Anderson Sterling,4,A-Award,--D,371594,371594,1,0001878943,Class A Common Stock
+A,03/15/2022 00:00:00,Urmson Christopher,4,A-Award,--D,867359,867359,1,0001869013,Class A Common Stock
+A,03/11/2022 00:00:00,Johnson Claire D'Oyly-Hughes,4,A-Award,--D,42437,42437,1,0001874135,Class A Common Stock
+D,11/22/2021 00:00:00,Mouat William,4,F-InKind,--D,4692,3431339,1,0001868487,Class A Common Stock
+D,11/03/2021 00:00:00,Francis Karen C,4,M-Exempt,--D,30000,0,2,0001607429,Class B Ordinary Shares
+A,11/03/2021 00:00:00,Francis Karen C,4,M-Exempt,--D,30000,30000,1,0001607429,Class A Common Stock
+A,11/03/2021 00:00:00,Thompson Michael N. Jr.,4,A-Award,--I,1174642,1174642,2,0001824755,Class B Common Stock
+A,11/03/2021 00:00:00,Thompson Michael N. Jr.,4,A-Award,--D,430000,430000,1,0001824755,Class A Common Stock
+D,11/03/2021 00:00:00,Borchert Katharina,4,M-Exempt,--D,30000,0,2,0001850040,Class B Ordinary Shares
+A,11/03/2021 00:00:00,Borchert Katharina,4,M-Exempt,--D,30000,30000,1,0001850040,Class A Common Stock
+D,11/03/2021 00:00:00,Slaughter Anne-Marie,4,M-Exempt,--D,30000,0,2,0001290665,Class B Ordinary Shares
+A,11/03/2021 00:00:00,Slaughter Anne-Marie,4,M-Exempt,--D,30000,30000,1,0001290665,Class A Common Stock
+D,11/03/2021 00:00:00,McCreary Colleen,4,M-Exempt,--D,30000,0,2,0001850045,Class B Ordinary Shares
+A,11/03/2021 00:00:00,McCreary Colleen,4,M-Exempt,--D,30000,30000,1,0001850045,Class A Common Stock
+A,11/03/2021 00:00:00,Reinvent Sponsor Y LLC,4,J-Other,--D,8900000,8900000,4,0001828106,Private Placement Warrants
+D,11/03/2021 00:00:00,Reinvent Sponsor Y LLC,4,C-Conversion,--D,6883086,0,3,0001828106,Class B Ordinary Shares
+D,11/03/2021 00:00:00,Reinvent Sponsor Y LLC,4,J-Other,--D,17434414,6883086,2,0001828106,Class B Ordinary Shares
+A,11/03/2021 00:00:00,Reinvent Sponsor Y LLC,4,C-Conversion,--D,6883086,6883086,1,0001828106,Class A Common Stock
+A,11/03/2021 00:00:00,Hoffman Reid,4,A-Award,--I,1409699,1409699,10,0001519339,Class B Common Stock
+A,11/03/2021 00:00:00,Hoffman Reid,4,A-Award,--I,1409699,1409699,9,0001519339,Class B Common Stock
+A,11/03/2021 00:00:00,Hoffman Reid,4,A-Award,--I,25374548,25374548,8,0001519339,Class B Common Stock
+A,11/03/2021 00:00:00,Hoffman Reid,4,A-Award,--I,782088,782088,7,0001519339,Class B Common Stock
+A,11/03/2021 00:00:00,Hoffman Reid,4,J-Other,--I,8900000,8900000,6,0001519339,Private Placement Warrants
+D,11/03/2021 00:00:00,Hoffman Reid,4,M-Exempt,--I,6883086,0,5,0001519339,Class B Ordinary Shares
+D,11/03/2021 00:00:00,Hoffman Reid,4,D-Return,--I,17434414,6883086,4,0001519339,Class B Ordinary Shares
+A,11/03/2021 00:00:00,Hoffman Reid,4,A-Award,--I,674719,674719,3,0001519339,Class A Common Stock
+A,11/03/2021 00:00:00,Hoffman Reid,4,M-Exempt,--I,6883086,6883086,2,0001519339,Class A Common Stock
+A,11/03/2021 00:00:00,Hoffman Reid,4,A-Award,--I,1000000,1000000,1,0001519339,Class A Common Stock
+A,11/03/2021 00:00:00,PINCUS MARK J,4,A-Award,--I,1174642,1174642,7,0001134069,Class B Common Stock
+A,11/03/2021 00:00:00,PINCUS MARK J,4,A-Award,--I,8900000,8900000,6,0001134069,Private Placement Warrants
+D,11/03/2021 00:00:00,PINCUS MARK J,4,M-Exempt,--I,6883086,0,5,0001134069,Class B Ordinary Shares
+D,11/03/2021 00:00:00,PINCUS MARK J,4,D-Return,--I,17434414,6883086,4,0001134069,Class B Ordinary Shares
+A,11/03/2021 00:00:00,PINCUS MARK J,4,M-Exempt,--I,6883086,6883086,3,0001134069,Class A Common Stock
+A,11/03/2021 00:00:00,PINCUS MARK J,4,A-Award,--I,400000,400000,2,0001134069,Class A Common Stock
+A,11/03/2021 00:00:00,PINCUS MARK J,4,A-Award,--I,600000,600000,1,0001134069,Class A Common Stock

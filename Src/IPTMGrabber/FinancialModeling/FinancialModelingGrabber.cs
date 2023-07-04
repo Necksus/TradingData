@@ -1,4 +1,5 @@
 ﻿using System.Net;
+using IPTMGrabber.Utils;
 
 namespace IPTMGrabber.FinancialModeling
 {
@@ -32,7 +33,7 @@ namespace IPTMGrabber.FinancialModeling
                 Timeout = TimeSpan.FromSeconds(5)
 
             };
-            foreach (var ticker in Zacks.Zacks.GetTickers(dataroot))
+            foreach (var ticker in Enumerators.GetTickers(dataroot))
             {
                 if (File.Exists(GetFilename(dataroot, ticker)))
                     continue;

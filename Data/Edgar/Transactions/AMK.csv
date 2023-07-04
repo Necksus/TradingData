@@ -1,0 +1,437 @@
+MoveType,Date,ReportingOwner,Form,TransactionType,DirectOrIndirect,NumberOfSecuritiesTransacted,NumberOfSecuritiesOwned,LineNumber,OwnerCIK,SecurityName
+D,06/14/2023 00:00:00,Angus Ted F.,4,S-Sale,--D,7265,123445,1,0001782568,Common Stock
+D,06/09/2023 00:00:00,Zyla Gary G.,4,S-Sale,--D,855,100581,3,0001782589,Common Stock
+D,06/09/2023 00:00:00,Kim Michael,4,S-Sale,--D,1348,334308,3,0001782762,Common Stock
+D,06/09/2023 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,1348,430734,3,0001782587,Common Stock
+D,06/09/2023 00:00:00,Hansen Carrie E.,4,S-Sale,--D,855,156693,3,0001782584,Common Stock
+D,06/09/2023 00:00:00,Mehta Mukesh,4,S-Sale,--D,855,313671,3,0001782585,Common Stock
+D,06/09/2023 00:00:00,Angus Ted F.,4,S-Sale,--D,855,130710,3,0001782568,Common Stock
+D,06/09/2023 00:00:00,McNatt Joel David JR,4,S-Sale,--D,300,60319,3,0001884460,Common Stock
+D,06/09/2023 00:00:00,Minta-Jacobs Esi,4,S-Sale,--D,300,69295,3,0001806039,Common Stock
+A,06/08/2023 00:00:00,Zyla Gary G.,4,A-Award,--D,49052,49052,5,0001782589,Stock Appreciation Right
+A,06/08/2023 00:00:00,Zyla Gary G.,4,A-Award,--D,15905,15905,4,0001782589,Stock Appreciation Right
+D,06/08/2023 00:00:00,Zyla Gary G.,4,S-Sale,--D,3318,101436,2,0001782589,Common Stock
+A,06/08/2023 00:00:00,Zyla Gary G.,4,A-Award,--D,15157,104754,1,0001782589,Common Stock
+A,06/08/2023 00:00:00,Kim Michael,4,A-Award,--D,37955,37955,7,0001782762,Stock Appreciation Right
+A,06/08/2023 00:00:00,Kim Michael,4,A-Award,--D,117057,117057,6,0001782762,Stock Appreciation Right
+D,06/08/2023 00:00:00,Kim Michael,4,S-Sale,--D,4979,335656,2,0001782762,Common Stock
+A,06/08/2023 00:00:00,Kim Michael,4,A-Award,--D,18085,340635,1,0001782762,Common Stock
+A,06/08/2023 00:00:00,Wolfsen Natalie Grace,4,A-Award,--D,56029,56029,5,0001782587,Stock Appreciation Right
+A,06/08/2023 00:00:00,Wolfsen Natalie Grace,4,A-Award,--D,172798,172798,4,0001782587,Stock Appreciation Right
+D,06/08/2023 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,7186,432082,2,0001782587,Common Stock
+A,06/08/2023 00:00:00,Wolfsen Natalie Grace,4,A-Award,--D,26697,439268,1,0001782587,Common Stock
+D,06/08/2023 00:00:00,Hansen Carrie E.,4,S-Sale,--D,3318,157548,2,0001782584,Common Stock
+A,06/08/2023 00:00:00,Hansen Carrie E.,4,A-Award,--D,37892,160866,1,0001782584,Common Stock
+D,06/08/2023 00:00:00,Mehta Mukesh,4,S-Sale,--D,3318,314526,2,0001782585,Common Stock
+A,06/08/2023 00:00:00,Mehta Mukesh,4,A-Award,--D,37892,317844,1,0001782585,Common Stock
+D,06/08/2023 00:00:00,Angus Ted F.,4,S-Sale,--D,3318,131565,2,0001782568,Common Stock
+A,06/08/2023 00:00:00,Angus Ted F.,4,A-Award,--D,37892,134883,1,0001782568,Common Stock
+D,06/08/2023 00:00:00,McNatt Joel David JR,4,S-Sale,--D,1456,60619,2,0001884460,Common Stock
+A,06/08/2023 00:00:00,McNatt Joel David JR,4,A-Award,--D,29280,62075,1,0001884460,Common Stock
+D,06/08/2023 00:00:00,Minta-Jacobs Esi,4,S-Sale,--D,1057,69595,2,0001806039,Common Stock
+A,06/08/2023 00:00:00,Minta-Jacobs Esi,4,A-Award,--D,12056,70652,1,0001806039,Common Stock
+A,06/08/2023 00:00:00,VELLI JOSEPH M,4,A-Award,--D,4478,20616,1,0001209494,Common Stock
+A,06/08/2023 00:00:00,Guinn Patricia Lynn,4,A-Award,--D,4478,26525,1,0001477854,Common Stock
+A,06/08/2023 00:00:00,Bhagat Rohit,4,A-Award,--D,4478,68221,1,0001497047,Common Stock
+D,05/17/2023 00:00:00,Angus Ted F.,4,S-Sale,--D,5637,96991,1,0001782568,Common Stock
+D,05/17/2023 00:00:00,Minta-Jacobs Esi,4,S-Sale,--D,6000,58596,1,0001806039,Common Stock
+D,05/08/2023 00:00:00,Zyla Gary G.,4,S-Sale,--D,8958,89597,1,0001782589,Common Stock
+D,03/17/2023 00:00:00,Kim Michael,4,G-Gift,--I,250000,41390,2,0001782762,Common Stock
+A,03/17/2023 00:00:00,Kim Michael,4,G-Gift,--D,250000,322550,1,0001782762,Common Stock
+D,03/06/2023 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,5545,412571,1,0001782587,Common Stock
+D,03/06/2023 00:00:00,Kim Michael,4,S-Sale,--D,4044,72550,1,0001782762,Common Stock
+A,01/03/2023 00:00:00,Kim Michael,4,G-Gift,--I,1100,1930,10,0001782762,Common Stock
+D,01/03/2023 00:00:00,Kim Michael,4,G-Gift,--I,3300,291390,9,0001782762,Common Stock
+A,12/28/2022 00:00:00,Kim Michael,4,G-Gift,--I,294664,294690,8,0001782762,Common Stock
+D,12/28/2022 00:00:00,Kim Michael,4,G-Gift,--D,294664,76594,7,0001782762,Common Stock
+A,07/15/2022 00:00:00,Kim Michael,4,G-Gift,--D,290000,371258,6,0001782762,Common Stock
+D,07/15/2022 00:00:00,Kim Michael,4,G-Gift,--I,290000,26,5,0001782762,Common Stock
+A,06/26/2022 00:00:00,Kim Michael,4,G-Gift,--I,830,830,4,0001782762,Common Stock
+D,06/26/2022 00:00:00,Kim Michael,4,G-Gift,--I,2490,290026,3,0001782762,Common Stock
+A,06/22/2022 00:00:00,Kim Michael,4,G-Gift,--I,292516,292516,2,0001782762,Common Stock
+D,06/22/2022 00:00:00,Kim Michael,4,G-Gift,--D,292516,81258,1,0001782762,Common Stock
+D,06/10/2022 00:00:00,McNatt Joel David JR,4/A,S-Sale,--D,308,32795,3,0001884460,Common Stock
+D,06/10/2022 00:00:00,Minta-Jacobs Esi,4/A,S-Sale,--D,308,64596,3,0001806039,Common Stock
+D,06/10/2022 00:00:00,McNatt Joel David JR,4,S-Sale,--D,308,20239,3,0001884460,Common Stock
+D,06/10/2022 00:00:00,Zyla Gary G.,4,S-Sale,--D,877,98554,3,0001782589,Common Stock
+D,06/10/2022 00:00:00,Minta-Jacobs Esi,4,S-Sale,--D,308,66179,3,0001806039,Common Stock
+D,06/10/2022 00:00:00,Mehta Mukesh,4,S-Sale,--D,877,279951,3,0001782585,Common Stock
+D,06/10/2022 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,1383,418115,3,0001782587,Common Stock
+D,06/10/2022 00:00:00,Kim Michael,4,S-Sale,--D,965,373773,3,0001782762,Common Stock
+D,06/10/2022 00:00:00,Hansen Carrie E.,4,S-Sale,--D,877,122973,3,0001782584,Common Stock
+D,06/10/2022 00:00:00,Angus Ted F.,4,S-Sale,--D,877,102627,3,0001782568,Common Stock
+D,06/09/2022 00:00:00,McNatt Joel David JR,4/A,S-Sale,--D,505,33103,2,0001884460,Common Stock
+D,06/09/2022 00:00:00,Minta-Jacobs Esi,4/A,S-Sale,--D,505,64904,2,0001806039,Common Stock
+D,06/09/2022 00:00:00,McNatt Joel David JR,4,S-Sale,--D,505,20547,2,0001884460,Common Stock
+D,06/09/2022 00:00:00,Zyla Gary G.,4,S-Sale,--D,1585,99431,2,0001782589,Common Stock
+D,06/09/2022 00:00:00,Minta-Jacobs Esi,4,S-Sale,--D,505,66487,2,0001806039,Common Stock
+D,06/09/2022 00:00:00,Mehta Mukesh,4,S-Sale,--D,1585,280828,2,0001782585,Common Stock
+D,06/09/2022 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,3227,419498,2,0001782587,Common Stock
+D,06/09/2022 00:00:00,Kim Michael,4,S-Sale,--D,1801,374738,2,0001782762,Common Stock
+D,06/09/2022 00:00:00,Hansen Carrie E.,4,S-Sale,--D,1585,123850,2,0001782584,Common Stock
+D,06/09/2022 00:00:00,Angus Ted F.,4,S-Sale,--D,1585,103504,2,0001782568,Common Stock
+A,06/08/2022 00:00:00,McNatt Joel David JR,4/A,A-Award,--D,10526,33608,1,0001884460,Common Stock
+A,06/08/2022 00:00:00,Minta-Jacobs Esi,4/A,A-Award,--D,6141,65409,1,0001806039,Common Stock
+A,06/08/2022 00:00:00,Wolfsen Natalie Grace,4/A,A-Award,--D,263146,263146,2,0001782587,Stock Appreciation Right
+A,06/08/2022 00:00:00,Wolfsen Natalie Grace,4/A,A-Award,--D,30701,422726,1,0001782587,Common Stock
+A,06/08/2022 00:00:00,Kim Michael,4/A,A-Award,--D,23026,376540,1,0001782762,Common Stock
+A,06/08/2022 00:00:00,Zyla Gary G.,4/A,A-Award,--D,19298,101017,1,0001782589,Common Stock
+A,06/08/2022 00:00:00,Mehta Mukesh,4/A,A-Award,--D,19298,282414,1,0001782585,Common Stock
+A,06/08/2022 00:00:00,Hansen Carrie E.,4/A,A-Award,--D,19298,125436,1,0001782584,Common Stock
+A,06/08/2022 00:00:00,Angus Ted F.,4/A,A-Award,--D,19298,105090,1,0001782568,Common Stock
+A,06/08/2022 00:00:00,Bhagat Rohit,4/A,A-Award,--D,6215,63743,1,0001497047,Common Stock
+A,06/08/2022 00:00:00,VELLI JOSEPH M,4/A,A-Award,--D,6215,16138,1,0001209494,Common Stock
+A,06/08/2022 00:00:00,Guinn Patricia Lynn,4/A,A-Award,--D,6215,22047,1,0001477854,Common Stock
+A,06/08/2022 00:00:00,Bhagat Rohit,4,A-Award,--D,6214,63742,1,0001497047,Common Stock
+A,06/08/2022 00:00:00,McNatt Joel David JR,4,A-Award,--D,45111,45111,4,0001884460,Stock Appreciation Right
+A,06/08/2022 00:00:00,McNatt Joel David JR,4,A-Award,--D,10526,21052,1,0001884460,Common Stock
+A,06/08/2022 00:00:00,Zyla Gary G.,4,A-Award,--D,82703,82703,4,0001782589,Stock Appreciation Right
+A,06/08/2022 00:00:00,Zyla Gary G.,4,A-Award,--D,19297,101016,1,0001782589,Common Stock
+A,06/08/2022 00:00:00,Minta-Jacobs Esi,4,A-Award,--D,26315,26315,4,0001806039,Stock Appreciation Right
+A,06/08/2022 00:00:00,Minta-Jacobs Esi,4,A-Award,--D,6140,66992,1,0001806039,Common Stock
+A,06/08/2022 00:00:00,Mehta Mukesh,4,A-Award,--D,82703,82703,4,0001782585,Stock Appreciation Right
+A,06/08/2022 00:00:00,Mehta Mukesh,4,A-Award,--D,19297,282413,1,0001782585,Common Stock
+A,06/08/2022 00:00:00,Wolfsen Natalie Grace,4,A-Award,--D,263145,263145,4,0001782587,Stock Appreciation Right
+A,06/08/2022 00:00:00,Wolfsen Natalie Grace,4,A-Award,--D,30700,422725,1,0001782587,Common Stock
+A,06/08/2022 00:00:00,Kim Michael,4,A-Award,--D,197359,197359,4,0001782762,Stock Appreciation Right
+A,06/08/2022 00:00:00,Kim Michael,4,A-Award,--D,23025,376539,1,0001782762,Common Stock
+A,06/08/2022 00:00:00,Hansen Carrie E.,4,A-Award,--D,82703,82703,4,0001782584,Stock Appreciation Right
+A,06/08/2022 00:00:00,Hansen Carrie E.,4,A-Award,--D,19297,125435,1,0001782584,Common Stock
+A,06/08/2022 00:00:00,Angus Ted F.,4,A-Award,--D,82703,82703,4,0001782568,Stock Appreciation Right
+A,06/08/2022 00:00:00,Angus Ted F.,4,A-Award,--D,19297,105089,1,0001782568,Common Stock
+A,06/08/2022 00:00:00,VELLI JOSEPH M,4,A-Award,--D,6214,16137,1,0001209494,Common Stock
+A,06/08/2022 00:00:00,Guinn Patricia Lynn,4,A-Award,--D,6214,22046,1,0001477854,Common Stock
+D,03/04/2022 00:00:00,Kim Michael,4,S-Sale,--D,4114,353514,1,0001782762,Common Stock
+D,03/04/2022 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,5075,392025,1,0001782587,Common Stock
+D,11/12/2021 00:00:00,Mehta Mukesh,4,S-Sale,--D,607,263116,3,0001782585,Common Stock
+D,11/11/2021 00:00:00,Mehta Mukesh,4,S-Sale,--D,1456,263723,2,0001782585,Common Stock
+D,11/10/2021 00:00:00,Mehta Mukesh,4,S-Sale,--D,27937,265179,1,0001782585,Common Stock
+D,09/14/2021 00:00:00,Chafkin Jeremiah H,4,S-Sale,--I,15346,306459,2,0001311476,Common Stock
+D,09/13/2021 00:00:00,Chafkin Jeremiah H,4,S-Sale,--I,34654,321805,1,0001311476,Common Stock
+D,09/02/2021 00:00:00,Mehta Mukesh,4,S-Sale,--D,9377,293116,1,0001782585,Common Stock
+D,08/19/2021 00:00:00,Mehta Mukesh,4/A,S-Sale,--D,500,302493,3,0001782585,Common Stock
+D,08/18/2021 00:00:00,Mehta Mukesh,4/A,S-Sale,--D,15872,302993,2,0001782585,Common Stock
+D,08/11/2021 00:00:00,Chafkin Jeremiah H,4,S-Sale,--I,50000,356889,1,0001311476,Common Stock
+D,06/25/2021 00:00:00,Mehta Mukesh,4,S-Sale,--D,2534,302643,1,0001782585,Common Stock
+D,06/17/2021 00:00:00,Mehta Mukesh,4,S-Sale,--D,1617,305177,1,0001782585,Common Stock
+D,06/16/2021 00:00:00,Mehta Mukesh,4,S-Sale,--D,100,306794,1,0001782585,Common Stock
+D,06/11/2021 00:00:00,Hahn John,4,S-Sale,--D,301,13053,13,0001905161,Common Stock
+D,06/09/2021 00:00:00,Angus Ted F.,4/A,S-Sale,--D,859,85792,1,0001782568,Common Stock
+D,06/09/2021 00:00:00,Chafkin Jeremiah H,4/A,S-Sale,--I,430,406459,1,0001311476,Common Stock
+D,06/09/2021 00:00:00,Hansen Carrie E.,4/A,S-Sale,--D,859,106138,1,0001782584,Common Stock
+D,06/09/2021 00:00:00,Kim Michael,4/A,S-Sale,--D,945,357628,1,0001782762,Common Stock
+D,06/09/2021 00:00:00,Mehta Mukesh,4/A,S-Sale,--D,859,318865,1,0001782585,Common Stock
+D,06/09/2021 00:00:00,Minta-Jacobs Esi,4/A,S-Sale,--D,301,55618,1,0001806039,Common Stock
+D,06/09/2021 00:00:00,Wolfsen Natalie Grace,4/A,S-Sale,--D,945,397100,1,0001782587,Common Stock
+D,06/09/2021 00:00:00,Zyla Gary G.,4/A,S-Sale,--D,859,81719,1,0001782589,Common Stock
+A,06/09/2021 00:00:00,Bhagat Rohit,4,A-Award,--D,5047,57528,1,0001497047,Common stock
+A,06/09/2021 00:00:00,Guinn Patricia Lynn,4,A-Award,--D,5047,15832,1,0001477854,Common stock
+A,06/09/2021 00:00:00,Minta-Jacobs Esi,4,A-Award,--D,23282,23282,2,0001806039,Stock Appreciation Right
+A,06/09/2021 00:00:00,Minta-Jacobs Esi,4,A-Award,--D,5435,55919,1,0001806039,Common stock
+A,06/09/2021 00:00:00,Angus Ted F.,4,A-Award,--D,73171,73171,2,0001782568,Stock Appreciation Right
+A,06/09/2021 00:00:00,Angus Ted F.,4,A-Award,--D,17081,86651,1,0001782568,Common stock
+A,06/09/2021 00:00:00,Hansen Carrie E.,4,A-Award,--D,73171,73171,2,0001782584,Stock Appreciation Right
+A,06/09/2021 00:00:00,Hansen Carrie E.,4,A-Award,--D,17081,106997,1,0001782584,Common stock
+A,06/09/2021 00:00:00,Mehta Mukesh,4,A-Award,--D,73171,73171,2,0001782585,Stock Appreciation Right
+A,06/09/2021 00:00:00,Mehta Mukesh,4,A-Award,--D,17081,319724,1,0001782585,Common stock
+A,06/09/2021 00:00:00,VELLI JOSEPH M,4,A-Award,--D,5047,9923,1,0001209494,Common stock
+A,06/09/2021 00:00:00,Zyla Gary G.,4,A-Award,--D,73171,73171,2,0001782589,Stock Appreciation Right
+A,06/09/2021 00:00:00,Zyla Gary G.,4,A-Award,--D,17081,82578,1,0001782589,Common stock
+A,06/09/2021 00:00:00,Kim Michael,4,A-Award,--D,166298,166298,2,0001782762,Stock Appreciation Right
+A,06/09/2021 00:00:00,Kim Michael,4,A-Award,--D,19410,358573,1,0001782762,Common stock
+A,06/09/2021 00:00:00,Wolfsen Natalie Grace,4,A-Award,--D,207872,207872,2,0001782587,Stock Appreciation Right
+A,06/09/2021 00:00:00,Wolfsen Natalie Grace,4,A-Award,--D,24263,398045,1,0001782587,Common stock
+A,06/08/2021 00:00:00,Hahn John,4,A-Award,--D,9701,9701,15,0001905161,Stock Appreciation Right
+A,06/08/2021 00:00:00,Hahn John,4,A-Award,--D,3397,13354,12,0001905161,Common Stock
+D,05/18/2021 00:00:00,Zyla Gary G.,4,S-Sale,--D,1000,65497,2,0001782589,Common Stock
+D,05/18/2021 00:00:00,Zyla Gary G.,4,S-Sale,--D,64000,66497,1,0001782589,Common Stock
+D,05/10/2021 00:00:00,Angus Ted F.,4,S-Sale,--D,9780,69570,1,0001782568,Common Stock
+A,04/26/2021 00:00:00,Kim Michael,4,A-Award,--D,45135,339163,1,0001782762,Common stock
+A,04/26/2021 00:00:00,Wolfsen Natalie Grace,4,A-Award,--D,45135,373782,1,0001782587,Common stock
+D,04/09/2021 00:00:00,Angus Ted F.,4,S-Sale,--D,10069,79350,1,0001782568,Common Stock
+D,03/10/2021 00:00:00,Hahn John,4,S-Sale,--D,2590,9957,11,0001905161,Common Stock
+D,03/10/2021 00:00:00,Angus Ted F.,4,S-Sale,--D,9923,89419,1,0001782568,Common Stock
+D,03/09/2021 00:00:00,Hahn John,4,S-Sale,--D,16635,12547,10,0001905161,Common Stock
+D,03/08/2021 00:00:00,Hahn John,4,S-Sale,--D,800,29182,9,0001905161,Common Stock
+D,03/01/2021 00:00:00,Angus Ted F.,4,S-Sale,--D,20291,99342,1,0001782568,Common Stock
+D,02/11/2021 00:00:00,Hansen Carrie E.,4,S-Sale,--D,3662,89916,1,0001782584,Common Stock
+D,02/10/2021 00:00:00,Hansen Carrie E.,4,S-Sale,--D,32160,93578,1,0001782584,Common Stock
+D,02/10/2021 00:00:00,Angus Ted F.,4,S-Sale,--D,16687,119633,1,0001782568,Common Stock
+D,02/09/2021 00:00:00,Hansen Carrie E.,4,S-Sale,--D,3557,125738,2,0001782584,Common Stock
+D,02/09/2021 00:00:00,Hansen Carrie E.,4,S-Sale,--D,19516,129295,1,0001782584,Common Stock
+D,02/08/2021 00:00:00,Hansen Carrie E.,4,S-Sale,--D,36338,148811,1,0001782584,Common Stock
+D,02/05/2021 00:00:00,Hahn John,4,S-Sale,--D,6675,29982,8,0001905161,Common Stock
+D,02/05/2021 00:00:00,Hansen Carrie E.,4,S-Sale,--D,29816,185149,1,0001782584,Common Stock
+D,02/05/2021 00:00:00,Zyla Gary G.,4,S-Sale,--D,35034,130497,1,0001782589,Common Stock
+D,02/04/2021 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,56,328647,2,0001782587,Common Stock
+D,02/04/2021 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,8053,328703,1,0001782587,Common Stock
+D,02/04/2021 00:00:00,Hansen Carrie E.,4,S-Sale,--D,16561,214965,1,0001782584,Common Stock
+D,02/03/2021 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,22846,336756,1,0001782587,Common Stock
+D,02/02/2021 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,18452,359602,1,0001782587,Common Stock
+D,02/01/2021 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,4146,378054,1,0001782587,Common Stock
+D,01/25/2021 00:00:00,Zyla Gary G.,4,S-Sale,--D,101,165531,1,0001782589,Common Stock
+D,01/21/2021 00:00:00,Kim Michael,4,S-Sale,--D,637,294028,1,0001782762,Common Stock
+D,01/21/2021 00:00:00,Zyla Gary G.,4,S-Sale,--D,1909,165632,1,0001782589,Common Stock
+D,01/20/2021 00:00:00,Zyla Gary G.,4,S-Sale,--D,2756,167541,1,0001782589,Common Stock
+D,01/20/2021 00:00:00,Kim Michael,4,S-Sale,--D,3479,294665,1,0001782762,Common Stock
+D,01/19/2021 00:00:00,Zyla Gary G.,4,S-Sale,--D,200,170297,1,0001782589,Common Stock
+D,01/05/2021 00:00:00,Angus Ted F.,4,S-Sale,--D,17888,136320,1,0001782568,Common Stock
+D,01/04/2021 00:00:00,Angus Ted F.,4,S-Sale,--D,1,154208,2,0001782568,Common Stock
+D,01/04/2021 00:00:00,Angus Ted F.,4,S-Sale,--D,13846,154209,1,0001782568,Common Stock
+D,12/15/2020 00:00:00,Kim Michael,4,S-Sale,--D,5895,298144,1,0001782762,Common Stock
+D,12/14/2020 00:00:00,Kim Michael,4,S-Sale,--D,2042,304039,2,0001782762,Common Stock
+D,12/14/2020 00:00:00,Kim Michael,4,S-Sale,--D,18652,306081,1,0001782762,Common Stock
+D,12/11/2020 00:00:00,Kim Michael,4,S-Sale,--D,100,324733,2,0001782762,Common Stock
+D,12/11/2020 00:00:00,Kim Michael,4,S-Sale,--D,13311,324833,1,0001782762,Common Stock
+D,12/08/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,2292,406889,1,0001311476,Common Stock
+D,12/08/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,16611,170497,1,0001782589,Common Stock
+D,12/07/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,10931,409181,1,0001311476,Common Stock
+D,12/04/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,1389,187108,1,0001782589,Common Stock
+D,12/03/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,9893,420112,1,0001311476,Common Stock
+D,12/02/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,6007,430005,3,0001311476,Common Stock
+D,12/01/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,8137,436012,2,0001311476,Common Stock
+D,11/30/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,15119,444149,1,0001311476,Common Stock
+D,11/24/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,1032,231526,2,0001782584,Common Stock
+D,11/23/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,18831,232558,1,0001782584,Common Stock
+D,11/20/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,19244,251389,3,0001782584,Common Stock
+D,11/18/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,14280,382200,1,0001782587,Common Stock
+D,11/18/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,3100,270633,2,0001782584,Common Stock
+D,11/18/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,13329,273733,1,0001782584,Common Stock
+D,11/18/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,2700,459268,3,0001311476,Common Stock
+D,11/18/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,10523,461968,2,0001311476,Common Stock
+D,11/16/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,13223,472491,1,0001311476,Common Stock
+D,11/09/2020 00:00:00,Mehta Mukesh,4,S-Sale,--D,5034,306894,2,0001782585,Common Stock
+D,11/09/2020 00:00:00,Mehta Mukesh,4,S-Sale,--D,17503,311928,1,0001782585,Common Stock
+D,11/03/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,7933,485714,1,0001311476,Common Stock
+D,10/14/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,3473,493647,2,0001311476,Common Stock
+D,10/13/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,4461,497120,1,0001311476,Common Stock
+D,09/01/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,7934,501581,1,0001311476,Common Stock
+D,08/03/2020 00:00:00,Mehta Mukesh,4,S-Sale,--D,3000,329431,2,0001782585,Common Stock
+D,08/03/2020 00:00:00,Mehta Mukesh,4,S-Sale,--D,7000,332431,1,0001782585,Common Stock
+D,08/03/2020 00:00:00,Kim Michael,4,S-Sale,--D,10000,338144,1,0001782762,Common Stock
+D,08/03/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,7934,509515,1,0001311476,Common Stock
+D,07/20/2020 00:00:00,Hahn John,4,M-Exempt,--D,4252,8506,14,0001905161,Employee Stock Option (right to buy)
+D,07/20/2020 00:00:00,Hahn John,4,S-Sale,--D,4252,36657,7,0001905161,Common Stock
+A,07/20/2020 00:00:00,Hahn John,4,M-Exempt,--D,4252,40909,6,0001905161,Common Stock
+D,07/10/2020 00:00:00,Angus Ted F.,4,S-Sale,--D,9447,168055,1,0001782568,Common Stock
+D,07/02/2020 00:00:00,Kim Michael,4,S-Sale,--D,1939,348144,2,0001782762,Common Stock
+D,07/02/2020 00:00:00,Mehta Mukesh,4,S-Sale,--D,2995,339431,3,0001782585,Common Stock
+D,07/01/2020 00:00:00,Kim Michael,4,S-Sale,--D,8061,350083,1,0001782762,Common Stock
+D,07/01/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,7934,517449,1,0001311476,Common Stock
+D,07/01/2020 00:00:00,Mehta Mukesh,4,S-Sale,--D,4005,342426,2,0001782585,Common Stock
+D,07/01/2020 00:00:00,Mehta Mukesh,4,S-Sale,--D,3000,346431,1,0001782585,Common Stock
+D,06/23/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,16983,396480,3,0001782587,Common Stock
+D,06/22/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,5191,413463,2,0001782587,Common Stock
+D,06/19/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,100,418654,1,0001782587,Common Stock
+D,06/11/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,1400,0,2,0001311478,Common Stock
+D,06/11/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,6491,1400,1,0001311478,Common Stock
+D,06/11/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,100,188497,5,0001782589,Common Stock
+D,06/11/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,1300,188597,4,0001782589,Common Stock
+D,06/11/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,3868,189897,3,0001782589,Common Stock
+D,06/10/2020 00:00:00,Hahn John,4,S-Sale,--D,2225,36657,5,0001905161,Common Stock
+D,06/10/2020 00:00:00,Hahn John,4,S-Sale,--D,2225,38882,4,0001905161,Common Stock
+D,06/10/2020 00:00:00,Hahn John,4,S-Sale,--D,2225,41107,3,0001905161,Common Stock
+D,06/10/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,6572,193765,2,0001782589,Common Stock
+D,06/10/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,3660,200337,1,0001782589,Common Stock
+D,06/10/2020 00:00:00,Angus Ted F.,4,S-Sale,--D,3247,177502,2,0001782568,Common Stock
+D,06/10/2020 00:00:00,Angus Ted F.,4,S-Sale,--D,6200,180749,1,0001782568,Common Stock
+D,06/10/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,3396,408439,3,0001782587,Common Stock
+D,06/10/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,3396,408439,3,0001782587,Common Stock
+D,06/10/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,4411,7891,4,0001311478,Common Stock
+D,06/10/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,5810,12302,3,0001311478,Common Stock
+A,06/09/2020 00:00:00,Hahn John,4,A-Award,--D,9377,9377,16,0001905161,Stock Appreciation Right
+A,06/09/2020 00:00:00,Hahn John,4,A-Award,--D,3282,43332,2,0001905161,Common Stock
+A,06/09/2020 00:00:00,Goldman Charles G,4,A-Award,--D,88415,88415,2,0001311478,Stock Appreciation Right
+A,06/09/2020 00:00:00,Goldman Charles G,4,A-Award,--D,10315,2023512,1,0001311478,Common Stock
+A,06/09/2020 00:00:00,Minta-Jacobs Esi,4,A-Award,--D,28132,28132,2,0001806039,Stock Appreciation Right
+A,06/09/2020 00:00:00,Minta-Jacobs Esi,4,A-Award,--D,3282,50484,1,0001806039,Common Stock
+A,06/09/2020 00:00:00,Chafkin Jeremiah H,4,A-Award,--D,40189,40189,2,0001311476,Stock Appreciation Right
+A,06/09/2020 00:00:00,Chafkin Jeremiah H,4,A-Award,--D,4689,525383,1,0001311476,Common Stock
+A,06/09/2020 00:00:00,Zyla Gary G.,4,A-Award,--D,80377,80377,2,0001782589,Stock Appreciation Right
+A,06/09/2020 00:00:00,Zyla Gary G.,4,A-Award,--D,9377,203997,1,0001782589,Common Stock
+A,06/09/2020 00:00:00,Mehta Mukesh,4,A-Award,--D,80377,80377,2,0001782585,Stock Appreciation Right
+A,06/09/2020 00:00:00,Mehta Mukesh,4,A-Award,--D,9377,349431,1,0001782585,Common Stock
+A,06/09/2020 00:00:00,Hansen Carrie E.,4,A-Award,--D,80377,80377,2,0001782584,Stock Appreciation Right
+A,06/09/2020 00:00:00,Hansen Carrie E.,4,A-Award,--D,9377,287062,1,0001782584,Common Stock
+A,06/09/2020 00:00:00,Wolfsen Natalie Grace,4,A-Award,--D,88415,88415,2,0001782587,Stock Appreciation Right
+A,06/09/2020 00:00:00,Wolfsen Natalie Grace,4,A-Award,--D,10315,422150,1,0001782587,Common Stock
+A,06/09/2020 00:00:00,Kim Michael,4,A-Award,--D,88415,88415,2,0001782762,Stock Appreciation Right
+A,06/09/2020 00:00:00,Kim Michael,4,A-Award,--D,10315,358144,1,0001782762,Common Stock
+A,06/09/2020 00:00:00,VELLI JOSEPH M,4,A-Award,--D,4876,4876,1,0001209494,Common Stock
+A,06/09/2020 00:00:00,Bhagat Rohit,4,A-Award,--D,4876,52481,1,0001497047,Common Stock
+A,06/09/2020 00:00:00,Guinn Patricia Lynn,4,A-Award,--D,4876,10785,1,0001477854,Common Stock
+A,06/09/2020 00:00:00,Angus Ted F.,4,A-Award,--D,80377,80377,2,0001782568,Stock Appreciation Right
+A,06/09/2020 00:00:00,Angus Ted F.,4,A-Award,--D,9377,186949,1,0001782568,Common Stock
+D,06/09/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,9720,411835,2,0001782587,Common Stock
+D,06/09/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,9720,411835,2,0001782587,Common Stock
+D,06/09/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,9685,18112,2,0001311478,Common Stock
+D,06/08/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,7926,421555,1,0001782587,Common Stock
+D,06/08/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,7926,421555,1,0001782587,Common Stock
+D,06/08/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,11276,27797,1,0001311478,Common Stock
+D,06/05/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,11730,39073,3,0001311478,Common Stock
+D,06/04/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,6835,50803,2,0001311478,Common Stock
+D,06/03/2020 00:00:00,Minta-Jacobs Esi,4,S-Sale,--D,443,47202,1,0001806039,Common Stock
+D,06/03/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,10085,57638,1,0001311478,Common Stock
+D,06/02/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,8699,67723,5,0001311478,Common Stock
+D,06/01/2020 00:00:00,Mehta Mukesh,4,S-Sale,--D,3000,340054,3,0001782585,Common Stock
+D,06/01/2020 00:00:00,Mehta Mukesh,4,S-Sale,--D,2900,343054,2,0001782585,Common Stock
+D,06/01/2020 00:00:00,Mehta Mukesh,4,S-Sale,--D,4100,345954,1,0001782585,Common Stock
+D,06/01/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,2800,520694,2,0001311476,Common Stock
+D,06/01/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,5134,523494,1,0001311476,Common Stock
+D,06/01/2020 00:00:00,Kim Michael,4,S-Sale,--D,800,347829,2,0001782762,Common Stock
+D,06/01/2020 00:00:00,Kim Michael,4,S-Sale,--D,9200,348629,1,0001782762,Common Stock
+D,06/01/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,7984,76422,4,0001311478,Common Stock
+D,06/01/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,4722,84406,3,0001311478,Common Stock
+D,05/29/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,9303,89128,2,0001311478,Common Stock
+D,05/29/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,7646,98431,1,0001311478,Common Stock
+D,05/28/2020 00:00:00,Minta-Jacobs Esi,4,S-Sale,--D,1000,47645,2,0001806039,Common Stock
+D,05/28/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,9227,106077,7,0001311478,Common Stock
+D,05/28/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,9546,115304,6,0001311478,Common Stock
+D,05/27/2020 00:00:00,Minta-Jacobs Esi,4,S-Sale,--D,3710,48645,1,0001806039,Common Stock
+D,05/27/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,21991,124850,5,0001311478,Common Stock
+D,05/26/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,5,146841,4,0001311478,Common Stock
+D,05/26/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,5302,146846,3,0001311478,Common Stock
+D,05/26/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,25475,152148,2,0001311478,Common Stock
+D,05/26/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,14518,177623,1,0001311478,Common Stock
+D,05/26/2020 00:00:00,Minta-Jacobs Esi,4,S-Sale,--D,1736,52355,3,0001806039,Common Stock
+D,05/22/2020 00:00:00,Minta-Jacobs Esi,4,S-Sale,--D,1103,54091,2,0001806039,Common Stock
+D,05/22/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,2000,192141,6,0001311478,Common Stock
+D,05/22/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,17373,194141,5,0001311478,Common Stock
+D,05/21/2020 00:00:00,Minta-Jacobs Esi,4,S-Sale,--D,2008,55194,1,0001806039,Common Stock
+D,05/21/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,16515,211514,4,0001311478,Common Stock
+D,05/21/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,12763,228029,3,0001311478,Common Stock
+D,05/20/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,305,240792,2,0001311478,Common Stock
+D,05/20/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,10726,241097,1,0001311478,Common Stock
+D,05/19/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,20708,251823,5,0001311478,Common Stock
+D,05/18/2020 00:00:00,Kim Michael,4,S-Sale,--D,1763,357829,1,0001782762,Common Stock
+D,05/18/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,33614,272531,4,0001311478,Common Stock
+D,05/18/2020 00:00:00,Goldman Charles G,4,S-Sale,--I,4463,306145,3,0001311478,Common Stock
+D,05/18/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,3851,2013197,2,0001311478,Common Stock
+D,05/15/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,7708,2017048,1,0001311478,Common Stock
+D,05/12/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,2619,194620,3,0001782589,Common Stock
+D,05/12/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,700,2024756,4,0001311478,Common Stock
+D,05/11/2020 00:00:00,Angus Ted F.,4,S-Sale,--D,100,177572,2,0001782568,Common Stock
+D,05/11/2020 00:00:00,Angus Ted F.,4,S-Sale,--D,9347,177672,1,0001782568,Common Stock
+D,05/11/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,100,197239,2,0001782589,Common Stock
+D,05/11/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,12781,197339,1,0001782589,Common Stock
+D,05/11/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,5423,2025456,3,0001311478,Common Stock
+D,05/08/2020 00:00:00,Mehta Mukesh,4,S-Sale,--D,13200,350054,2,0001782585,Common Stock
+D,05/08/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,27732,2030879,2,0001311478,Common Stock
+D,05/08/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,23824,2058611,1,0001311478,Common Stock
+D,05/08/2020 00:00:00,Kim Michael,4,S-Sale,--D,15637,359592,2,0001782762,Common Stock
+D,05/07/2020 00:00:00,Mehta Mukesh,4,S-Sale,--D,6800,363254,1,0001782585,Common Stock
+D,05/07/2020 00:00:00,Kim Michael,4,S-Sale,--D,2600,375229,1,0001782762,Common Stock
+D,05/07/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,3093,2082435,7,0001311478,Common Stock
+D,05/07/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,27341,2085528,6,0001311478,Common Stock
+D,05/06/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,6011,2112869,5,0001311478,Common Stock
+D,05/06/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,6572,2118880,4,0001311478,Common Stock
+D,05/06/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,35739,2125452,3,0001311478,Common Stock
+D,05/05/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,4880,2161191,2,0001311478,Common Stock
+D,05/05/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,6939,2166071,1,0001311478,Common Stock
+D,05/04/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,200,2173010,6,0001311478,Common Stock
+D,05/04/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,88117,2173210,5,0001311478,Common Stock
+D,05/01/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,7934,528628,1,0001311476,Common Stock
+D,05/01/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,921,2261327,4,0001311478,Common Stock
+D,05/01/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,24904,2262248,3,0001311478,Common Stock
+D,04/30/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,6083,429481,1,0001782587,Common Stock
+D,04/30/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,32039,2287152,2,0001311478,Common Stock
+D,04/30/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,7063,2319191,1,0001311478,Common Stock
+D,04/29/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,1555,277685,3,0001782584,Common Stock
+D,04/29/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,7375,279240,2,0001782584,Common Stock
+D,04/29/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,12494,2326254,4,0001311478,Common Stock
+D,04/29/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,16824,2338748,3,0001311478,Common Stock
+D,04/29/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,13917,435564,2,0001782587,Common Stock
+D,04/29/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,7074,536562,2,0001311476,Common Stock
+D,04/28/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,5595,286615,1,0001782584,Common Stock
+D,04/28/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,11160,2355572,2,0001311478,Common Stock
+D,04/27/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,6320,2366732,1,0001311478,Common Stock
+D,04/27/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,2500,449481,1,0001782587,Common Stock
+D,04/27/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,860,543636,1,0001311476,Common Stock
+D,04/27/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,3172,292210,3,0001782584,Common Stock
+D,04/24/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,2100,295382,2,0001782584,Common Stock
+D,04/24/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,4115,2373052,3,0001311478,Common Stock
+D,04/23/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,11796,297482,1,0001782584,Common Stock
+D,04/23/2020 00:00:00,Angus Ted F.,4,S-Sale,--D,4946,187019,1,0001782568,Common Stock
+D,04/23/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,23411,2377167,2,0001311478,Common Stock
+D,04/22/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,63,2400578,1,0001311478,Common Stock
+D,04/17/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,7040,2400641,1,0001311478,Common Stock
+D,04/17/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,3668,309278,1,0001782584,Common Stock
+D,04/17/2020 00:00:00,Angus Ted F.,4,S-Sale,--D,4200,191965,1,0001782568,Common Stock
+D,04/14/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,550,2407681,1,0001311478,Common Stock
+D,04/14/2020 00:00:00,Angus Ted F.,4,S-Sale,--D,300,196165,1,0001782568,Common Stock
+D,04/14/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,300,312946,1,0001782584,Common Stock
+D,04/14/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,4764,210120,4,0001782589,Common Stock
+D,04/14/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,2700,214884,3,0001782589,Common Stock
+D,04/13/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,300,451981,2,0001782587,Common Stock
+D,04/13/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,2200,452281,1,0001782587,Common Stock
+D,04/13/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,600,217584,2,0001782589,Common Stock
+D,04/13/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,7436,218184,1,0001782589,Common Stock
+D,04/09/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,3000,2408231,2,0001311478,Common stock
+D,04/09/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,1500,313246,2,0001782584,Common stock
+D,04/08/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,1200,2411231,1,0001311478,Common stock
+D,04/08/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,600,314746,1,0001782584,Common stock
+D,03/30/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,2500,454481,2,0001782587,Common stock
+D,03/26/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,2500,456981,1,0001782587,Common stock
+D,03/11/2020 00:00:00,Angus Ted F.,4,S-Sale,--D,746,196465,3,0001782568,Common stock
+D,03/11/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,6269,315346,2,0001782584,Common stock
+D,03/11/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,3786,225620,3,0001782589,Common stock
+D,03/11/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,2825,229406,2,0001782589,Common stock
+D,03/11/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,6330,2412431,2,0001311478,Common stock
+D,03/10/2020 00:00:00,Angus Ted F.,4,S-Sale,--D,100,197211,2,0001782568,Common stock
+D,03/10/2020 00:00:00,Angus Ted F.,4,S-Sale,--D,8600,197311,1,0001782568,Common stock
+D,03/10/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,8886,321615,1,0001782584,Common stock
+D,03/10/2020 00:00:00,Zyla Gary G.,4,S-Sale,--D,8889,232231,1,0001782589,Common stock
+D,03/10/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,8733,2418761,1,0001311478,Common stock
+D,03/09/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,3591,330501,5,0001782584,Common stock
+D,03/09/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,6480,334092,4,0001782584,Common stock
+D,03/09/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,9118,340572,3,0001782584,Common stock
+D,03/09/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,3460,2427494,5,0001311478,Common stock
+D,03/09/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,6840,2430954,4,0001311478,Common stock
+D,03/09/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,8874,2437794,3,0001311478,Common stock
+D,03/06/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,13240,349690,2,0001782584,Common stock
+D,03/06/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,13413,2446668,2,0001311478,Common stock
+D,03/05/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,4614,362930,1,0001782584,Common stock
+D,03/05/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,4700,2460081,1,0001311478,Common stock
+D,03/04/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,3271,367544,5,0001782584,Common stock
+D,03/04/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,2453,370815,4,0001782584,Common stock
+D,03/04/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,2618,2464781,5,0001311478,Common stock
+D,03/04/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,3142,2467399,4,0001311478,Common stock
+D,03/03/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,4029,544496,3,0001311476,Common stock
+D,03/03/2020 00:00:00,Mehta Mukesh,4,S-Sale,--D,6120,370054,3,0001782585,Common stock
+D,03/03/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,3641,459481,3,0001782587,Common stock
+D,03/03/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,8408,373268,3,0001782584,Common stock
+D,03/03/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,8727,2470541,3,0001311478,Common stock
+D,03/02/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,1705,548525,2,0001311476,Common stock
+D,03/02/2020 00:00:00,Chafkin Jeremiah H,4,S-Sale,--D,2200,550230,1,0001311476,Common stock
+D,03/02/2020 00:00:00,Mehta Mukesh,4,S-Sale,--D,1825,376174,2,0001782585,Common stock
+D,03/02/2020 00:00:00,Mehta Mukesh,4,S-Sale,--D,2055,377999,1,0001782585,Common stock
+D,03/02/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,1740,463122,2,0001782587,Common stock
+D,03/02/2020 00:00:00,Wolfsen Natalie Grace,4,S-Sale,--D,2119,464862,1,0001782587,Common stock
+D,03/02/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,2686,381676,2,0001782584,Common stock
+D,03/02/2020 00:00:00,Hansen Carrie E.,4,S-Sale,--D,2129,384362,1,0001782584,Common stock
+D,03/02/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,2710,2479268,2,0001311478,Common stock
+D,03/02/2020 00:00:00,Goldman Charles G,4,S-Sale,--D,2149,2481978,1,0001311478,Common stock
+A,07/22/2019 00:00:00,Mehta Mukesh,4,P-Purchase,--I,500,500,2,0001782585,Common stock
+D,07/22/2019 00:00:00,"Huatai Securities Co., Ltd.",4,S-Sale,--I,8125000,50873799,1,0001782677,Common stock
+A,07/17/2019 00:00:00,Hahn John,4,A-Award,--D,12758,12758,17,0001905161,Employee Stock Option (right to buy)
+A,07/17/2019 00:00:00,Hahn John,4,A-Award,--D,40050,40050,1,0001905161,Common Stock
+A,07/17/2019 00:00:00,Bhagat Rohit,4,J-Other,--D,47605,47605,1,0001497047,Common stock
+A,07/17/2019 00:00:00,Guinn Patricia Lynn,4,A-Award,--D,5909,5909,1,0001477854,Common stock
+A,07/17/2019 00:00:00,Angus Ted F.,4,A-Award,--D,62095,62095,2,0001782568,Employee Stock Option (right to buy)
+A,07/17/2019 00:00:00,Angus Ted F.,4,J-Other,--D,205911,205911,1,0001782568,Common stock
+A,07/17/2019 00:00:00,Zyla Gary G.,4,A-Award,--D,62095,62095,2,0001782589,Employee Stock Option (right to buy)
+A,07/17/2019 00:00:00,Zyla Gary G.,4,J-Other,--D,241120,241120,1,0001782589,Common stock
+A,07/17/2019 00:00:00,Mehta Mukesh,4,A-Award,--D,62095,62095,2,0001782585,Employee Stock Option (right to buy)
+A,07/17/2019 00:00:00,Mehta Mukesh,4,J-Other,--D,380054,380054,1,0001782585,Common stock
+A,07/17/2019 00:00:00,Kim Michael,4,A-Award,--D,62095,62095,2,0001782762,Employee Stock Option (right to buy)
+A,07/17/2019 00:00:00,Kim Michael,4,J-Other,--D,377829,377829,1,0001782762,Common stock
+A,07/17/2019 00:00:00,Hansen Carrie E.,4,A-Award,--D,62095,62095,2,0001782584,Employee Stock Option (right to buy)
+A,07/17/2019 00:00:00,Hansen Carrie E.,4,J-Other,--D,386491,386491,1,0001782584,Common stock
+A,07/17/2019 00:00:00,Wolfsen Natalie Grace,4,A-Award,--D,62095,62095,2,0001782587,Employee Stock Option (right to buy)
+A,07/17/2019 00:00:00,Wolfsen Natalie Grace,4,J-Other,--D,466981,466981,1,0001782587,Common stock
+A,07/17/2019 00:00:00,Chafkin Jeremiah H,4,A-Award,--D,62095,62095,2,0001311476,Employee Stock Option (right to buy)
+A,07/17/2019 00:00:00,Chafkin Jeremiah H,4,J-Other,--D,552430,552430,1,0001311476,Common stock
+A,07/17/2019 00:00:00,Goldman Charles G,4,A-Award,--D,284605,284605,3,0001311478,Employee Stock Option (right to buy)
+A,07/17/2019 00:00:00,Goldman Charles G,4,J-Other,--I,310608,310608,2,0001311478,Common stock
+A,07/17/2019 00:00:00,Goldman Charles G,4,J-Other,--D,2484127,2484127,1,0001311478,Common stock
+D,07/17/2019 00:00:00,"Huatai Securities Co., Ltd.",4,J-Other,--I,7151201,0,1,0001782677,Common stock
