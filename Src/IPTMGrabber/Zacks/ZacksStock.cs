@@ -1,4 +1,5 @@
 ﻿using CsvHelper.Configuration.Attributes;
+using System.Text;
 
 namespace IPTMGrabber.Zacks
 {
@@ -9,6 +10,38 @@ namespace IPTMGrabber.Zacks
         public string Ticker { get; set; }
 
         [Name("Company Name")]
-        public string CompanyName { get; set; }    
+        public string CompanyName { get; set; }
+
+        public string Exchange { get; set; }
+
+        public string CleanedCompanyName
+            => AddSpacesBetweenWords(
+                CompanyName
+                    .Replace(" Unsponsored ADR", "")
+                    .Replace(" Sponsored ADR", ""));
+
+        private string AddSpacesBetweenWords(string input)
+        {
+            if (string.IsNullOrEmpty(input))
+                return input;
+
+            StringBuilder result = new StringBuilder();
+            result.Append(input[0]);
+
+            for (int i = 1; i < input.Length; i++)
+            {
+                char currentChar = input[i];
+                char previousChar = input[i - 1];
+
+                if (i > 1 && char.IsUpper(currentChar) && !char.IsUpper(previousChar) && previousChar != ' ')
+                {
+                    result.Append(' ');
+                }
+
+                result.Append(currentChar);
+            }
+
+            return result.ToString();
+        }
     }
 }
