@@ -9,22 +9,30 @@ namespace IPTMGrabber.DNB
         public string Name { get; set; }
         public string Website { get; set; }
 
-        [Ignore]
         public string DNBExchange { get; set; }
-        [Ignore]
         public string DNBTicker { get; set; }
 
-        public string NaicsIndusties1 { get; set; }
-        public string NaicsIndusties2 { get; set; }
+        public string NaicsSector { get; set; }
+        public string NaicsIndustry { get; set; }
 
-        public DNBStock(string ticker, string name, string website, string[] naicsIndusties, string stockExchange)
+        public string KeyPrincipal { get; }
+
+        public DNBStock(
+            string ticker, 
+            string name, 
+            string website,
+            string naicsSector,
+            string naicsIndustry,
+            string stockExchange, 
+            string keyPrincipal)
         {
             var exchangeParts = stockExchange?.Split(':', StringSplitOptions.RemoveEmptyEntries|StringSplitOptions.TrimEntries);
             Ticker = ticker;
             Name = name;
             Website = website;
-            NaicsIndusties1 = naicsIndusties.Length > 0 ? naicsIndusties[0] : "";
-            NaicsIndusties2 = naicsIndusties.Length > 1 ? naicsIndusties[1] : "";
+            NaicsSector = naicsSector;
+            NaicsIndustry = naicsIndustry;
+            KeyPrincipal = keyPrincipal;
             DNBExchange = exchangeParts?.Length == 2 ? exchangeParts[0] : "";
             DNBTicker = exchangeParts?.Length == 2 ? exchangeParts[1] : "";
         }

@@ -117,6 +117,7 @@ namespace IPTMGrabber.YahooFinance
 
                 return "";
             }
+            set => YahooWebsite = value;
         }
 
         public SensibilityType? Sensibility

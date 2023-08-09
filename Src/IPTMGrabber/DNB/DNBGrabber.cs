@@ -7,6 +7,7 @@ using System.Net.Http.Headers;
 using CefSharp;
 using CefSharp.OffScreen;
 using IPTMGrabber.YahooFinance;
+using IPTMGrabber.NAICS;
 
 namespace IPTMGrabber.DNB
 {
@@ -15,7 +16,8 @@ namespace IPTMGrabber.DNB
         private const int Timeout = 40000;
 
         private ChromiumWebBrowser _browser;
-        private const string SearchUrlFormat = "https://www.dnb.com/apps/dnb/servlets/CompanySearchServlet?familyTreeRolesPlayed=9141&pageNumber=1&pageSize=25&resourcePath=%2Fcontent%2Fdnb-us%2Fen%2Fhome%2Fsite-search-results%2Fjcr:content%2Fcontent-ipar-cta%2Fsinglepagesearch&returnNav=true&searchTerm={0}&token=eyJwNCI6IlQxaWc4QmVzZ3RDenJzRjVCR0pBSkFJQUdKQUhHIiwicDIiOjAsInAzIjoyOSwicDEiOjE2OTA5MDgwNjkwNzZ9";
+        private const string SearchUrlFormat1 = "https://www.dnb.com/apps/dnb/servlets/CompanySearchServlet?familyTreeRolesPlayed=9141&pageNumber=1&pageSize=25&resourcePath=%2Fcontent%2Fdnb-us%2Fen%2Fhome%2Fsite-search-results%2Fjcr:content%2Fcontent-ipar-cta%2Fsinglepagesearch&returnNav=true&searchTerm={0}&token=eyJwNCI6IlQxaWc4QmVzZ3RDenJzRjVCR0pBSkFJQUdKQUhHIiwicDIiOjAsInAzIjoyOSwicDEiOjE2OTA5MDgwNjkwNzZ9";
+        private const string SearchUrlFormat2 = "https://www.dnb.com/apps/dnb/servlets/CompanySearchServlet?pageNumber=1&pageSize=25&resourcePath=%2Fcontent%2Fdnb-us%2Fen%2Fhome%2Fsite-search-results%2Fjcr:content%2Fcontent-ipar-cta%2Fsinglepagesearch&returnNav=true&searchTerm={0}&token=eyJwNCI6IlQxaWc4QmVzZ3RDenJzRjVCR0pBSkFJQUdKQUhHIiwicDIiOjAsInAzIjoyOSwicDEiOjE2OTA5MDgwNjkwNzZ9";
 
         public DNBGrabber()
         {
@@ -25,6 +27,8 @@ namespace IPTMGrabber.DNB
         {
             var dnbFilename = Path.Combine(dataroot, "DNB", "stocks.csv");
             var dnbStocks = File.Exists(dnbFilename) ? Enumerators.EnumerateFromCsv<DNBStock>(dnbFilename).ToList() : new List<DNBStock>();
+            var naicsItems = Enumerators.EnumerateFromCsv<NAICSItem>(Path.Combine(dataroot, "NAICS", "NAICS_Structure.csv")).ToList();
+            var mappings = Enumerators.EnumerateFromCsv<ManualMapping>(Path.Combine(dataroot, "DNB", "ManualMapping.csv")).ToList();
 
             var different = 0;
             var yahooStocks = Enumerators.EnumerateFromCsv<QuoteDetail>(FileHelper.GetYahooScreenerFilename(dataroot)).ToArray();
@@ -56,13 +60,17 @@ namespace IPTMGrabber.DNB
             var count = 0;
             foreach (var zacksStock in Enumerators.EnumerateFromCsv<ZacksStock>(Path.Combine(dataroot, "Zacks", "Screener.csv")).Where(s => !string.IsNullOrEmpty(s.CompanyName)))
             {
-                if (dnbStocks.Any(s => s.Ticker == zacksStock.Ticker))
+                if (zacksStock.Exchange == "OTC" || dnbStocks.Any(s => s.Ticker == zacksStock.Ticker))
                 {
                     //Console.WriteLine($"Already exists {stock.CompanyName}");
                     continue;
                 }
-
-                var searchResult = await GetRequestAsync<SearchResult2>(string.Format(SearchUrlFormat, zacksStock.CleanedCompanyName.Replace(" ", "+").Replace("&", "%26")));
+                var mapping = mappings.FirstOrDefault(m => m.ZacksTicker == zacksStock.Ticker);
+                var searchResult = (mapping != null) ?
+                    new SearchResult2 { Companies = new List<Company>{ new() { CompanyProfileLink = mapping.DNBLink } } } :
+                    await GetRequestAsync<SearchResult2>(string.Format(SearchUrlFormat2, zacksStock.CompanyName.Replace(" ", "+").Replace("&", "%26")));
+                if (searchResult?.Companies.Count == 0)
+                    searchResult = await GetRequestAsync<SearchResult2>(string.Format(SearchUrlFormat2, zacksStock.CleanedCompanyName.Replace(" ", "+").Replace("&", "%26")));
                 if (searchResult?.Companies.Count > 0)
                 {
                     var found = false;
@@ -92,16 +100,34 @@ namespace IPTMGrabber.DNB
                                 ?.SelectNodes(".//a[@class='company_profile_overview_underline_links']")
                                 ?.Select(n => n.InnerText.Trim())
                                 ?.ToArray() ?? Array.Empty<string>();
-                            var dnbStock = new DNBStock(zacksStock.Ticker, dnbName, companyWebsite, industries, stockExchange);
+                            var keyPrincipal = detailDoc.DocumentNode
+                                .SelectSingleNode("//span[@name='key_principal']")
+                                ?.SelectSingleNode(".//span[1]")
+                                ?.InnerText
+                                ?.Trim()
+                                ?.Split('\n')
+                                ?.First();
+
+                            if (industries.Length == 0)
+                                continue;
+
+                            var naicsItem = GetNAISCItem(naicsItems, industries);
+                            var dnbStock = new DNBStock(
+                                zacksStock.Ticker, 
+                                dnbName, 
+                                companyWebsite,
+                                naicsItem.Sector,
+                                naicsItem.Industry,
+                                stockExchange, 
+                                keyPrincipal);
 
                             var yahooStock = yahooStocks.SingleOrDefault(y => y.Ticker == zacksStock.Ticker);
-                            if (SameTicker(dnbStock, zacksStock) || SameUrl(dnbStock, yahooStock?.YahooWebsite))
+                            if (dnbStock.NaicsIndustry != "Management of Companies and Enterprises" &&                // We don't want holdings
+                                (mapping != null || SameTicker(dnbStock, zacksStock) || SameUrl(dnbStock, yahooStock?.YahooWebsite)))
                             {
                                 Console.WriteLine($"Search {zacksStock.CompanyName}, found {dnbStock.Name} ({dnbStock.Website})");
-                                foreach (var industry in industries)
-                                {
-                                    Console.WriteLine($"  - {industry}");
-                                }
+                                Console.WriteLine($"  - {dnbStock.NaicsSector}");
+                                Console.WriteLine($"  - {dnbStock.NaicsIndustry}");
 
                                 writer.WriteRecord(dnbStock);
                                 await writer.NextRecordAsync();
@@ -110,6 +136,7 @@ namespace IPTMGrabber.DNB
                                 found = true;
                                 break;
                             }
+                            //Console.WriteLine($"Can be: {zacksStock.Ticker},{yahooStock?.YahooWebsite},\"{zacksStock.CompanyName}\",{dnbStock.DNBTicker},{dnbStock.Website},\"{dnbStock.Name}\"");
                         }
                         await Task.Delay(100);
                     }
@@ -118,20 +145,31 @@ namespace IPTMGrabber.DNB
                         Console.WriteLine($"Cannot find data for {zacksStock.Ticker} ({zacksStock.CompanyName})");
                 }
                 else
-                    Console.WriteLine($"Not found for {zacksStock.CompanyName}!");
+                    Console.WriteLine($"Not found for {zacksStock.Ticker} ({zacksStock.CompanyName})");
                 await Task.Delay(100);
             }
         }
 
+        private (string Sector, string Industry) GetNAISCItem(List<NAICSItem> naicsItems, string[] industries)
+        {
+            var industry = industries
+                .Select(i => naicsItems.LastOrDefault(n => n.Name.Equals(i, StringComparison.OrdinalIgnoreCase)))
+                ?.LastOrDefault(n => n != null && n.Code.Length > 3);
+            
+            var sectorCode = industry?.Code.Substring(0, industry.Code.StartsWith("3") ? 3 : 2);
+            var sector = naicsItems.SingleOrDefault(i => i.Code.Equals(sectorCode));
+
+            return (sector?.Name, industry?.Name);
+        }
+
         private async Task ResetBrowser()
         {
-            //Console.WriteLine("===> Reset browser");
             var settings = new CefSettings
             {
                 LogSeverity = LogSeverity.Disable
             };
-            //settings.CefCommandLineArgs.Add("disable-application-cache", "1");
-            //settings.CefCommandLineArgs.Add("disable-session-storage", "1"); 
+            settings.CefCommandLineArgs.Add("disable-application-cache", "1");
+            settings.CefCommandLineArgs.Add("disable-session-storage", "1"); 
             _browser.Dispose();
             Cef.GetGlobalCookieManager().DeleteCookies(string.Empty, string.Empty);
             await Cef.InitializeAsync(settings);
@@ -141,182 +179,16 @@ namespace IPTMGrabber.DNB
 
         private bool SameTicker(DNBStock dnbStock, ZacksStock zacksStock)
         {
-            return (dnbStock.DNBExchange.Equals(zacksStock.Exchange) || (dnbStock.DNBExchange.Equals("NYSE MKT") && zacksStock.Exchange.Equals("AMEX"))) &&
-                    dnbStock.DNBTicker.Equals(zacksStock.Ticker);
+            return dnbStock.DNBTicker.Equals(zacksStock.Ticker);
         }
 
         private bool SameUrl(DNBStock dnbStock, string yahooUrl)
         {
-            if (dnbStock.Ticker == "ABBNY" && dnbStock.Website == "www.dodge.com")
-                dnbStock.Website = "global.abb";
-            if (dnbStock.Ticker == "AHKSY" && dnbStock.Website == "https://www.asahi-kasei.co.jp/")
-                dnbStock.Website = "www.asahi-kasei.com";
-            if (dnbStock.Ticker == "AIRC" && dnbStock.Website == "www.aimco.com")
-                dnbStock.Website = "https://www.aircommunities.com/";
-            if (dnbStock.Ticker == "AMFPF" && dnbStock.Website == "www.amplifon.com")
-                dnbStock.Website = "corporate.amplifon.com";
-            if (dnbStock.Ticker == "AMN" && dnbStock.Website == "www.nursefinders.com")
-                dnbStock.Website = "www.amnhealthcare.com";
-            if (dnbStock.Ticker == "AMZN" && dnbStock.Website == "www.amazon.com")
-                dnbStock.Website = "https://www.aboutamazon.com";
-            if (dnbStock.Ticker == "APPF" && dnbStock.Website == "www.appfolio.com")
-                return true;
-            if (dnbStock.Ticker == "ASEKY" && dnbStock.Website == "www.aisin-china.com.cn")     // TODO: exactly the same?? BAD!!!! remove!!!!
-                return true;
-            if (dnbStock.Ticker == "AVB" && dnbStock.Website == "www.avaloncommunities.com")
-                return true;
-            if (dnbStock.Ticker == "AVIFY" && dnbStock.Website == "investor.ais.co.th")
-                return true;
-            if (dnbStock.Ticker == "AWI" && dnbStock.Website == "www.armstrong.com")
-                return true;
-            if (dnbStock.Ticker == "AWR" && dnbStock.Website == "americanstateswatercompany.gcs-web.com")
-                return true;
-            if (dnbStock.Ticker == "BBD" && dnbStock.Website == "www.bradesco.com.br")
-                return true;
-            if (dnbStock.Ticker == "BBDO" && dnbStock.Website == "www.bradesco.com.br")
-                return true;
-           if (dnbStock.Ticker == "BBWI" && dnbStock.Website == "www.lb.com")
-                return true;
-           if (dnbStock.Ticker == "BBY" && dnbStock.Website == "www.bestbuy.com")
-                return true;
-           if (dnbStock.Ticker == "BCH" && dnbStock.Website == "www.bancochile.cl")
-                return true;
-           if (dnbStock.Ticker == "BIP" && dnbStock.Website == "www.brookfieldinfrastructure.com")
-                return true;
-           if (dnbStock.Ticker == "BKHYY" && dnbStock.Website == "www.bankhapoalim.co.il")
-                return true;
-           if (dnbStock.Ticker == "BNTX" && dnbStock.Website == "www.biontech.com")
-                return true;
-           if (dnbStock.Ticker == "BOWFF" && dnbStock.Website == "www.bwalk.com")
-                return true;
-           if (dnbStock.Ticker == "BRTHY" && dnbStock.Website == "https://www.brother.co.jp/")
-                return true;
-           if (dnbStock.Ticker == "BSAC" && dnbStock.Website == "www.santander.cl")
-               return true;
-           if (dnbStock.Ticker == "BURL" && dnbStock.Website == "www.burlington.com")
-               return true;
-            if (dnbStock.Ticker == "BRP" && dnbStock.Website == "www.capitalgroup.com")
-                return true;
-            if (dnbStock.Ticker == "CABO" && dnbStock.Website == "www.sparklight.com")
-                return true;
-            if (dnbStock.Ticker == "CARR" && dnbStock.Website == "www.johnsoncontrols.com")
-                return true;
-            if (dnbStock.Ticker == "CATY" && dnbStock.Website == "www.cathaybank.com")
-                return true;
-            if (dnbStock.Ticker == "CBU" && dnbStock.Website == "ir.communitybanksystem.com")
-                return true;
-            if (dnbStock.Ticker == "CIGI" && dnbStock.Website == "www.collierscanada.com")
-                return true;
-            if (dnbStock.Ticker == "CMPGY" && dnbStock.Website == "www.compass-group.co.uk")
-                return true;
-            if (dnbStock.Ticker == "COLB" && dnbStock.Website == "www.umpquabank.com")
-                return true;
-            if (dnbStock.Ticker == "CPA" && dnbStock.Website == "www.copa.com")
-                return true;
-            if (dnbStock.Ticker == "CPNG" && dnbStock.Website == "www.coupang.jobs")
-                return true;
-            if (dnbStock.Ticker == "CRHKY" && dnbStock.Website == "www.cre.com.hk")
-                return true;
-            if (dnbStock.Ticker == "CSGP" && dnbStock.Website == "www.costar.com")
-                return true;
-            if (dnbStock.Ticker == "CSIOY" && dnbStock.Website == "https://www.casio.com/jp/")
-                return true;
-            if (dnbStock.Ticker == "CVCO" && dnbStock.Website == "www.cavcoindustries.com")
-                return true;
-            if (dnbStock.Ticker == "DBRG" && dnbStock.Website == "www.hilton.com")
-                return true;
-            if (dnbStock.Ticker == "DKILY" && dnbStock.Website == "https://www.daikin.co.jp/")
-                return true;
-            if (dnbStock.Ticker == "DPZ" && dnbStock.Website == "www.dominos.com")
-                return true;
-            if (dnbStock.Ticker == "DRVN" && dnbStock.Website == "www.carstar.com")
-                return true;
-            if (dnbStock.Ticker == "EBC" && dnbStock.Website == "www.nationwide.com")
-                return true;
-            if (dnbStock.Ticker == "ED" && dnbStock.Website == "www.coned.com")
-                return true;
-            if (dnbStock.Ticker == "ELUXY" && dnbStock.Website == "www.electrolux.se")
-                return true;
-            if (dnbStock.Ticker == "EQH" && dnbStock.Website == "www.equitable.com")
-                return true;
-            if (dnbStock.Ticker == "FBIN" && dnbStock.Website == "www.fbhs.com")
-                return true;
-            if (dnbStock.Ticker == "FHI" && dnbStock.Website == "www.federatedhermes.com")
-                return true;
-            if (dnbStock.Ticker == "FL" && dnbStock.Website == "www.footlocker.com")
-                return true;
-            if (dnbStock.Ticker == "FOX" && dnbStock.Website == "www.fox.com")
-                return true;
-            if (dnbStock.Ticker == "FSK" && dnbStock.Website == "www.fsinvestmentcorp.com")
-                return true;
-            if (dnbStock.Ticker == "FUJIY" && dnbStock.Website == "https://www.fujifilmholdings.com")
-                return true;
-            if (dnbStock.Ticker == "FWRD" && dnbStock.Website == "www.forwardair.com")
-                return true;
-            if (dnbStock.Ticker == "GEN" && dnbStock.Website == "www.nortonlifelock.com")
-                return true;
-            if (dnbStock.Ticker == "GGB" && dnbStock.Website == "www.gerdau.com.br")
-                return true;
-            if (dnbStock.Ticker == "HAYPY" && dnbStock.Website == "www.hays.co.uk")
-                return true;
-            if (dnbStock.Ticker == "HAYW" && dnbStock.Website == "www.hayward-pool.com")
-                return true;
-            if (dnbStock.Ticker == "HENKY" && dnbStock.Website == "www.henkel.de")
-                return true;
-             if (dnbStock.Ticker == "HII" && dnbStock.Website == "www.hii.com")
-                return true;
-            if (dnbStock.Ticker == "HNLGY" && dnbStock.Website == "www.hanglunggroup.co")
-                return true;
-            if (dnbStock.Ticker == "HNNMY" && dnbStock.Website == "www.hm.com")
-                return true;
-            if (dnbStock.Ticker == "HP" && dnbStock.Website == "www.helmerichpayne.com")
-                return true;
-             if (dnbStock.Ticker == "JSAIY" && dnbStock.Website == "www.j-sainsbury.co.uk")
-                return true;
-            if (dnbStock.Ticker == "JTKWY" && dnbStock.Website == "www.grubhub.com")
-                return true;
-            if (dnbStock.Ticker == "JWN" && dnbStock.Website == "www.nordstrom.com")
-                return true;
-            if (dnbStock.Ticker == "KEP" && dnbStock.Website == "www.kepco.co.kr")
-                return true;
-             if (dnbStock.Ticker == "KMTUY" && dnbStock.Website == "https://home.komatsu/jp/")
-                return true;
-            if (dnbStock.Ticker == "LAD" && dnbStock.Website == "www.lithia.com")
-                return true;
-            if (dnbStock.Ticker == "LNC" && dnbStock.Website == "www.lincolnfinancial.com")
-                return true;
-            if (dnbStock.Ticker == "LSPD" && dnbStock.Website == "www.lightspeedhq.com")
-                return true;
-             if (dnbStock.Ticker == "LYSDY" && dnbStock.Website == "www.lynasre.com")
-                return true;
-            if (dnbStock.Ticker == "LYV" && dnbStock.Website == "www.livenation.com")
-                return true;
-            if (dnbStock.Ticker == "MAKSY" && dnbStock.Website == "www.marksandspencer.com")
-                return true;
-            if (dnbStock.Ticker == "MBGAF" && dnbStock.Website == "info.daimler.com")
-                return true;
-             if (dnbStock.Ticker == "MDC" && dnbStock.Website == "www.richmondamerican.com")
-                return true;
-             /*
-             if (dnbStock.Ticker == "" && dnbStock.Website == "")
-                 return true;
-             if (dnbStock.Ticker == "" && dnbStock.Website == "")
-                 return true;
-             if (dnbStock.Ticker == "" && dnbStock.Website == "")
-                 return true;
-              if (dnbStock.Ticker == "" && dnbStock.Website == "")
-                 return true;
-             if (dnbStock.Ticker == "" && dnbStock.Website == "")
-                 return true;
-             if (dnbStock.Ticker == "" && dnbStock.Website == "")
-                 return true;
-            */
-
             var cleanUrl = Uri.IsWellFormedUriString(dnbStock.Website, UriKind.Absolute)
                 ? new Uri(dnbStock.Website).Host
                 : dnbStock.Website;
 
-            return cleanUrl?.Contains(yahooUrl?? "", StringComparison.OrdinalIgnoreCase) == true;
+            return dnbStock.Website?.Contains(yahooUrl?? "", StringComparison.OrdinalIgnoreCase) == true;
         }
 
         private async Task<HtmlDocument?> GetCompanyDetailAsync(string url)
@@ -378,6 +250,7 @@ namespace IPTMGrabber.DNB
                 }
 
                 result = await LoadUrlWithTimeout(url, OnLoadingStateChanged, tcs.Task, Timeout, null);
+                retry++;
             } while(result == null && retry < 3);
 
             return result;
@@ -392,13 +265,13 @@ namespace IPTMGrabber.DNB
                 {
                     var script = isHtml ? "document.documentElement.outerHTML;" : "document.documentElement.innerText;";
                     var result = (await browser.EvaluateScriptAsync(script))?.Result as string ?? "";
-                    try
+                    /*try
                     {
                         File.WriteAllText(@"C:\Data\Sources\Github\Necksus\log.txt", $"{browser.Address}\n{result}");
                     }
                     catch
                     {
-                    }
+                    }*/
                     return result;
                 }
                 catch (Exception ex)
