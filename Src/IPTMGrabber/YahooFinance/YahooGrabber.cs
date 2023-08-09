@@ -24,21 +24,21 @@ namespace IPTMGrabber.YahooFinance
     // Taken from : https://cryptocointracker.com/yahoo-finance/yahoo-finance-api
     public enum YahooModule
     {
-        AssetProfile,
-        DefaultKeyStatistics,
-        RecommendationTrend,
-        FinancialData,
-        MajorHoldersBreakdown,
-        Earnings,
-        EarningsHistory,
-        EarningsTrend,
-        IndexTrend,
-        IndustryTrend,
-        NetSharePurchaseActivity,
-        SectorTrend,
-        InsiderHolders,
-        UpgradeDowngradeHistory,
-        CalendarEvents,
+        assetProfile,
+        defaultKeyStatistics,
+        recommendationTrend,
+        financialData,
+        majorHoldersBreakdown,
+        earnings,
+        earningsHistory,
+        earningsTrend,
+        indexTrend,
+        industryTrend,
+        netSharePurchaseActivity,
+        sectorTrend,
+        insiderHolders,
+        upgradeDowngradeHistory,
+        calendarEvents,
     }
 
     internal class YahooGrabber
@@ -80,7 +80,7 @@ namespace IPTMGrabber.YahooFinance
                     error = false;
                     try
                     {
-                        response = await client.GetAsync(GetUrl(FixTicker(ticker), YahooModule.AssetProfile, YahooModule.CalendarEvents));
+                        response = await client.GetAsync(GetUrl(FixTicker(ticker), YahooModule.assetProfile, YahooModule.calendarEvents));
                     }
                     catch (Exception ex)
                     {
@@ -133,6 +133,6 @@ namespace IPTMGrabber.YahooFinance
         }
 
         string GetUrl(string ticker, params YahooModule[] modules)
-            => $"https://query1.finance.yahoo.com/v10/finance/quoteSummary/{ticker}?modules={string.Join(",", modules)}";
+            => $"https://query1.finance.yahoo.com/v6/finance/quoteSummary/{ticker}?{string.Join("&", modules.Select(m => $"modules={m}"))}";
     }
 }

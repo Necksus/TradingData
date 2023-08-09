@@ -107,6 +107,10 @@ namespace IPTMGrabber.DNB
                                 ?.Trim()
                                 ?.Split('\n')
                                 ?.First();
+                            var description = detailDoc.DocumentNode
+                                .SelectSingleNode("//span[@data-tracking-name='Company Description:']")
+                                ?.InnerText
+                                ?.Trim();
 
                             if (industries.Length == 0)
                                 continue;
@@ -119,7 +123,9 @@ namespace IPTMGrabber.DNB
                                 naicsItem.Sector,
                                 naicsItem.Industry,
                                 stockExchange, 
-                                keyPrincipal);
+                                keyPrincipal,
+                                company.CompanyProfileLink,
+                                description);
 
                             var yahooStock = yahooStocks.SingleOrDefault(y => y.Ticker == zacksStock.Ticker);
                             if (dnbStock.NaicsIndustry != "Management of Companies and Enterprises" &&                // We don't want holdings
@@ -154,7 +160,7 @@ namespace IPTMGrabber.DNB
         {
             var industry = industries
                 .Select(i => naicsItems.LastOrDefault(n => n.Name.Equals(i, StringComparison.OrdinalIgnoreCase)))
-                ?.LastOrDefault(n => n != null && n.Code.Length > 3);
+                ?.FirstOrDefault(n => n != null && n.Code.Length > 3);
             
             var sectorCode = industry?.Code.Substring(0, industry.Code.StartsWith("3") ? 3 : 2);
             var sector = naicsItems.SingleOrDefault(i => i.Code.Equals(sectorCode));

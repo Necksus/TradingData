@@ -15,16 +15,19 @@ namespace IPTMGrabber.DNB
         public string NaicsSector { get; set; }
         public string NaicsIndustry { get; set; }
 
-        public string KeyPrincipal { get; }
+        public string KeyPrincipal { get; set; }
+        public string DetailLink { get; set; }
+        public string Description { get; set; }
 
-        public DNBStock(
-            string ticker, 
-            string name, 
+        public DNBStock(string ticker,
+            string name,
             string website,
             string naicsSector,
             string naicsIndustry,
-            string stockExchange, 
-            string keyPrincipal)
+            string stockExchange,
+            string keyPrincipal,
+            string detailLink,
+            string description)
         {
             var exchangeParts = stockExchange?.Split(':', StringSplitOptions.RemoveEmptyEntries|StringSplitOptions.TrimEntries);
             Ticker = ticker;
@@ -33,6 +36,8 @@ namespace IPTMGrabber.DNB
             NaicsSector = naicsSector;
             NaicsIndustry = naicsIndustry;
             KeyPrincipal = keyPrincipal;
+            Description = description;
+            DetailLink = detailLink;
             DNBExchange = exchangeParts?.Length == 2 ? exchangeParts[0] : "";
             DNBTicker = exchangeParts?.Length == 2 ? exchangeParts[1] : "";
         }
