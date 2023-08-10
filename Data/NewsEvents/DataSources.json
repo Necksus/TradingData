@@ -1,0 +1,121 @@
+[
+	{
+		"Ticker": "UA",
+		"NewsUrls": {
+			"Urls": [
+				"https://about.underarmour.com/en/investors/press-releases--events---presentations.html"
+			]
+		},
+		"EventsUrls": {
+			"Urls": []
+		}
+	},
+	{
+		"Ticker": "LYB",
+		"NewsUrls": {
+			"Urls": [
+				"https://www.lyondellbasell.com/en/news-events/products--technology-news/",
+				"https://www.lyondellbasell.com/en/news-events/corporate--financial-news/"
+			]
+		},
+		"EventsUrls": {
+			"Urls": [
+				"https://www.lyondellbasell.com/en/investors/investor-events/"
+			]
+		}
+	},
+	{
+		"Ticker": "ABNB",
+		"NewsUrls": {
+			"Urls": [
+				"https://investors.airbnb.com/press-releases/default.aspx"
+			]
+		},
+		"EventsUrls": {
+			"Urls": [
+				"https://investors.airbnb.com/events-and-presentations/default.aspx"
+			]
+		}
+	},
+	{
+		"Ticker": "ADI",
+		"NewsUrls": {
+			"Urls": [
+				"https://investor.analog.com/press-releases?a9d908dd_year%5Bvalue%5D=_none&op=Filter"
+			]
+		},
+		"EventsUrls": {
+			"DateFormat": "MMM dd, yyyy 'at' h:mm tt",
+			"Urls": [
+				"https://investor.analog.com/events"
+			]
+		}
+	},
+	{
+		"Ticker": "KLAC",
+		"NewsUrls": {
+			"DateFormat": "MMM dd, yyyy h:mm tt",
+			"Delay": 1000,
+			"Urls": [
+				"https://ir.kla.com/news-events/press-releases"
+			]
+		},
+		"EventsUrls": {
+			"Urls": [
+				"https://ir.kla.com/news-events/presentations"
+			]
+		}
+	},
+	{
+		"Ticker": "MBLY",
+		"NewsUrls": {
+			"Urls": [
+				"https://ir.mobileye.com/news-events/news-releases?a9d908dd_year%5Bvalue%5D=_none&op=Filter"
+			]
+		},
+		"EventsUrls": {
+			"Urls": [
+				"https://ir.mobileye.com/news-events/events-presentations"
+			]
+		}
+	},
+	{
+		"Ticker": null,
+		"NewsUrls": {
+			"Urls": [
+				"https://ir.hubspot.com/news" , "HUBS"
+			]
+		},
+		"EventsUrls": {
+			"Urls": [
+				"https://ir.hubspot.com/events"
+			]
+		}
+	},
+	{
+		"Ticker": "FLR",
+		"NewsUrls": {
+			"Urls": [
+				"https://investor.fluor.com/news/default.aspx"
+			]
+		},
+		"EventsUrls": {
+			"Urls": [
+				"https://investor.fluor.com/events-and-presentations/default.aspx"
+			]
+		}
+	},
+	{
+		"Ticker": "",
+		"NewsUrls": {
+			"Urls": [
+				""
+			]
+		},
+		"EventsUrls": {
+			"Urls": [
+				""
+			]
+		}
+	}
+]

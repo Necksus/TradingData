@@ -19,7 +19,7 @@ internal class SelectPager : Pager
         _selectNode = selectNode;
         _values = selectNode
             .SelectNodes(".//option")
-            .Select(n => n.Attributes["value"].Value)
+            .Select(o => o.InnerText)
             .ToArray();
 
         _currentIndex = 0;
@@ -31,10 +31,10 @@ internal class SelectPager : Pager
     {
         _currentIndex++;
 
-        if (_currentIndex < _values.Length)
+        if (!LastPage)
         {
             var script =
-                $"var select = document.querySelector('#{_selectNode.Attributes["Id"].Value}');" +
+                $"var select = document.querySelector('{_selectNode.GetQuerySelector()}');" +
                 $" select.value = '{_values[_currentIndex]}';" +
                 "select.dispatchEvent(new Event('change'));";
             await _browser.EvaluateScriptAsPromiseAsync(script);
@@ -50,7 +50,8 @@ internal class SelectPager : Pager
 
     public static bool FoundPager(ChromiumWebBrowser browser, HtmlDocument doc, out SelectPager? pager)
     {
-        var selectNode = doc.DocumentNode.SelectSingleNode($"//select[option/@value='{DateTime.UtcNow.Year - 1}']");
+        //var selectNode = doc.DocumentNode.SelectSingleNode($"//select[option/@value='{DateTime.UtcNow.Year - 1}']");
+        var selectNode = doc.DocumentNode.SelectSingleNode($"//select[option[text()='{DateTime.UtcNow.Year - 1}']]");
 
         pager = selectNode != null ? new SelectPager(browser, selectNode) : null;
 

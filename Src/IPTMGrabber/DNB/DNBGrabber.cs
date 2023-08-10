@@ -89,10 +89,10 @@ namespace IPTMGrabber.DNB
                                 .SelectSingleNode("//div[@class='company-profile-header-title']").InnerText?.Trim();
                             var companyWebsite = detailDoc.DocumentNode
                                 .SelectSingleNode("//a[@id='hero-company-link']")
-                                ?.InnerText?.Trim();
+                                ?.GetUnescapedText();
                             var stockExchange = detailDoc.DocumentNode
                                 .SelectSingleNode("//span[@name='stock_exchange']/span")
-                                ?.InnerText?.Trim();
+                                ?.GetUnescapedText();
                             var industries = detailDoc.DocumentNode
                                 .SelectSingleNode("//span[@name='industry_links']")
                                 ?.SelectNodes(".//a[@class='company_profile_overview_underline_links']")
@@ -101,14 +101,12 @@ namespace IPTMGrabber.DNB
                             var keyPrincipal = detailDoc.DocumentNode
                                 .SelectSingleNode("//span[@name='key_principal']")
                                 ?.SelectSingleNode(".//span[1]")
-                                ?.InnerText
-                                ?.Trim()
+                                ?.GetUnescapedText()
                                 ?.Split('\n')
                                 ?.First();
                             var description = detailDoc.DocumentNode
                                 .SelectSingleNode("//span[@data-tracking-name='Company Description:']")
-                                ?.InnerText
-                                ?.Trim();
+                                ?.GetUnescapedText();
 
                             if (industries.Length == 0)
                                 continue;

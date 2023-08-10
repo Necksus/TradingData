@@ -1,4 +1,5 @@
 ﻿using CefSharp;
+using CefSharp.DevTools.Page;
 using CefSharp.OffScreen;
 using HtmlAgilityPack;
 
@@ -15,5 +16,8 @@ namespace IPTMGrabber.Utils
 
             return doc;
         }
+
+        public static async Task SaveAsPNGAsync(this ChromiumWebBrowser browser, string filename, CancellationToken cancellationToken)
+            => await File.WriteAllBytesAsync(filename, await browser.CaptureScreenshotAsync(CaptureScreenshotFormat.Png), cancellationToken);
     }
 }

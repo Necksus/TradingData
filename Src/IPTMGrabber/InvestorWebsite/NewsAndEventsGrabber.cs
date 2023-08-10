@@ -4,63 +4,80 @@ using CefSharp.OffScreen;
 using HtmlAgilityPack;
 using System.Globalization;
 using IPTMGrabber.Utils;
+using Newtonsoft.Json;
+using System;
 
 namespace IPTMGrabber.InvestorWebsite
 {
     internal class NewsAndEventsGrabber
     {
-        public readonly TimeSpan Timeout = TimeSpan.FromSeconds(20);
-
-        public async Task ExecuteAsync(string url, CancellationToken cancellationToken)
+        public async Task ExecuteAsync(string dataroot, CancellationToken cancellationToken)
         {
-            using var browser = await CreateBrowserAsync(url);
-            var doc = await browser.GetHtmlDocumentAsync(cancellationToken);
-            var pager = FindPager(browser, doc);
-
-            Console.WriteLine($"=== {url}");
-            do
+            var dataSourceFilename = Path.Combine(dataroot, "NewsEvents", "DataSources.json");
+            foreach (var dataSource in JsonConvert.DeserializeObject<DataSource[]>(File.ReadAllText(dataSourceFilename))!)
             {
-                var publicationDates = FindPublicationDate(doc.DocumentNode);
-                var events = FindDescriptions(publicationDates);
-
-                foreach (var eventInfo in events)
+                if (!string.IsNullOrEmpty(dataSource.Ticker))
                 {
-                    Console.WriteLine(eventInfo);
+                    await DownloadAsync(dataSource.EventsUrls, cancellationToken);
+                    await DownloadAsync(dataSource.NewsUrls, cancellationToken);
                 }
+            }
+        }
 
-                doc = await pager.MoveNextAsync(cancellationToken);
-                
-            } while (!pager.LastPage && doc != null);
-            Console.WriteLine();
+
+        private async Task DownloadAsync(UrlDefinition urlsInfo, CancellationToken cancellationToken)
+        {
+            foreach (var url in urlsInfo.Urls)
+            {
+                using var browser = await CreateBrowserAsync(url);
+                var doc = await browser.GetHtmlDocumentAsync(cancellationToken);
+                var pager = FindPager(browser, doc);
+
+                Console.WriteLine($"=== {url}");
+                do
+                {
+                    var publicationDates =
+                        FindPublicationDate(doc.DocumentNode, urlsInfo.DateFormat, urlsInfo.Culture).ToArray();
+                    if (publicationDates.Length > 0)
+                    {
+                        var events = FindDescriptions(publicationDates);
+
+                        foreach (var eventInfo in events)
+                        {
+                            Console.WriteLine(eventInfo);
+                        }
+                    }
+
+                    doc = await pager.MoveNextAsync(cancellationToken);
+
+                    if (urlsInfo.Delay.HasValue)
+                        await Task.Delay(urlsInfo.Delay.Value, cancellationToken);
+                } while (!pager.LastPage && doc != null);
+
+                Console.WriteLine();
+            }
         }
 
         private Pager FindPager(ChromiumWebBrowser browser, HtmlDocument doc)
         {
-            if (LinkPager.FoundPager(browser, doc, out var linkPager))
-                return linkPager!;
+            if (NextPager.FoundPager(browser, doc, out var nextPager))
+                return nextPager!;
 
             if (SelectPager.FoundPager(browser, doc, out var selectPager))
                 return selectPager!;
-            /*
-            var selectNode = doc.DocumentNode.SelectSingleNode($"//select[option/@value='{DateTime.UtcNow.Year - 1}']");
-
-            if (selectNode != null)
-            {
-                return new SelectPager(browser, selectNode);
-            }*/
 
             return new Pager();
         }
 
         private IEnumerable<EventInfo> FindDescriptions(IEnumerable<TargetNode<DateTime>> publicationDates)
         {
-            string? FindDescription(HtmlNode node)
+            string? FindDescription(HtmlNode candidateNode, HtmlNode dateNode)
             {
-                if (node.ChildNodes.Count == 0 && TryParseDescription(node.InnerText.Trim()))
-                    return node.InnerText.Trim();
-                foreach (var childNode in node.ChildNodes)
+                if (candidateNode != dateNode && candidateNode.ChildNodes.Count == 0 && TryParseDescription(candidateNode.GetUnescapedText()))
+                    return candidateNode.GetUnescapedText();
+                foreach (var childNode in candidateNode.ChildNodes)
                 {
-                    var result = FindDescription(childNode);
+                    var result = FindDescription(childNode, dateNode);
                     if (!string.IsNullOrEmpty(result))
                         return result;
                 }
@@ -68,23 +85,23 @@ namespace IPTMGrabber.InvestorWebsite
             }
 
             var ancestors = publicationDates.Select(d => (HighestParent: d.Node.ParentNode, DateNode: d)).ToArray();
-            while (ancestors.All(a => FindDescription(a.HighestParent) == null))
+            while (ancestors.All(a => FindDescription(a.HighestParent, a.DateNode.Node) == null))
             {
                 ancestors = ancestors.Select(a => (CurrentParent: a.HighestParent.ParentNode, DateNode: a.DateNode)).ToArray();
             }
 
             var descriptions = ancestors
-                .Select(a => new EventInfo(a.DateNode.Value, FindDescription(a.HighestParent), ""))
+                .Select(a => new EventInfo(a.DateNode.Value, FindDescription(a.HighestParent, a.DateNode.Node), ""))
                 .Where(e => !string.IsNullOrEmpty(e.Description))
                 .ToArray();
             return descriptions;
         }
 
-        private IEnumerable<TargetNode<DateTime>> FindPublicationDate(HtmlNode node)
+        private IEnumerable<TargetNode<DateTime>> FindPublicationDate(HtmlNode node, string? datetimeFormat, string? culture)
         {
             IEnumerable<TargetNode<DateTime>> FindAllDates(HtmlNode node, int level)
             {
-                if (node.ChildNodes.Count == 0 && TryParseDate(node.InnerText, out var foundDate))
+                if (node.ChildNodes.Count == 0 && TryParseDate(node.GetUnescapedText(), datetimeFormat, culture, out var foundDate))
                 {
                     yield return new TargetNode<DateTime>(foundDate, node, level);
                 }
@@ -109,9 +126,24 @@ namespace IPTMGrabber.InvestorWebsite
         }
 
 
-        private bool TryParseDate(string text, out DateTime result)
-            => DateTime.TryParse(text, new CultureInfo("en-US"), out result) ||
-               DateTime.TryParse(text, new CultureInfo("fr-FR"), out result);
+        private bool TryParseDate(string text, string? datetimeFormat, string? culture, out DateTime result)
+        {
+            if (string.IsNullOrEmpty(datetimeFormat))
+                return DateTime.TryParse(text, new CultureInfo(culture ?? "en-US"), out result);
+
+            if (text.Length >= datetimeFormat.Length)
+            {
+                return DateTime.TryParseExact(
+                    text.Substring(0, datetimeFormat.Length),
+                    datetimeFormat,
+                    CultureInfo.InvariantCulture,
+                    DateTimeStyles.None,
+                    out result);
+            }
+
+            result = default;
+            return false;
+        }
 
         private bool TryParseDescription(string text)
             => text.Split(' ').Length > 3; // At least 4 words!
