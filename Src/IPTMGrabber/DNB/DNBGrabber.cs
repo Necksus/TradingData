@@ -1,13 +1,11 @@
 ﻿using HtmlAgilityPack;
 using IPTMGrabber.Utils;
-using IPTMGrabber.Zacks;
 using Newtonsoft.Json;
 using System.Net;
 using System.Net.Http.Headers;
 using CefSharp;
 using CefSharp.OffScreen;
 using IPTMGrabber.YahooFinance;
-using IPTMGrabber.NAICS;
 
 namespace IPTMGrabber.DNB
 {

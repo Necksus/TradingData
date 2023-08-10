@@ -1,7 +1,7 @@
 ﻿using System.Net;
 using IPTMGrabber.Utils;
 
-namespace IPTMGrabber.FinancialModeling
+namespace IPTMGrabber.YahooFinance
 {
     internal class FinancialModelingGrabber
     {

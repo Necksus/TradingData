@@ -1,6 +1,6 @@
 ﻿using HtmlAgilityPack;
 
-namespace IPTMGrabber
+namespace IPTMGrabber.Utils
 {
     internal static class HtmlNodeExtension
     {

@@ -1,7 +1,7 @@
 ﻿using CsvHelper.Configuration.Attributes;
 using System.Text;
 
-namespace IPTMGrabber.Zacks
+namespace IPTMGrabber.DNB
 {
     internal class ZacksStock
     {

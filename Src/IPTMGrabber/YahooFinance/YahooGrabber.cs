@@ -92,7 +92,7 @@ namespace IPTMGrabber.YahooFinance
                 {
                     var quoteDetail = QuoteDetail.FromJson(ticker, await response.Content.ReadAsStringAsync());
 
-                    var financialModelingFile = FinancialModeling.FinancialModelingGrabber.GetFilename(dataRoot, ticker);
+                    var financialModelingFile = FinancialModelingGrabber.GetFilename(dataRoot, ticker);
                     if (File.Exists(financialModelingFile))
                     {
                         var jArray = JsonConvert.DeserializeObject<JArray>(File.ReadAllText(financialModelingFile));

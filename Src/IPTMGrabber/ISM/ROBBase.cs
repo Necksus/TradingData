@@ -3,6 +3,7 @@ using System.Globalization;
 using System.Text;
 using System.Text.RegularExpressions;
 using IPTMGrabber.Nasdaq;
+using IPTMGrabber.Utils;
 
 namespace IPTMGrabber.ISM
 {

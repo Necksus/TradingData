@@ -1,6 +1,7 @@
 ﻿using HtmlAgilityPack;
 using System.Text;
 using IPTMGrabber.Nasdaq;
+using IPTMGrabber.Utils;
 
 namespace IPTMGrabber.ISM
 {

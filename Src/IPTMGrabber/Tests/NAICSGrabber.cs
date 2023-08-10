@@ -6,7 +6,7 @@ using System;
 using System.Globalization;
 using System.Net;
 
-namespace IPTMGrabber.NAICS
+namespace IPTMGrabber.Tests
 {
     internal class NAICSGrabber
     {
@@ -72,7 +72,7 @@ namespace IPTMGrabber.NAICS
                 }
 
                 var companyDetail = doc.DocumentNode.SelectSingleNode("//table[@class='companyDetail topCompanyDetail']");
-                if (companyDetail == null) 
+                if (companyDetail == null)
                     break;
 
                 var companyNameNode = doc.DocumentNode.SelectSingleNode("//td[contains(., 'Company Name: ')]");
