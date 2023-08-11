@@ -6,6 +6,7 @@ using System.Globalization;
 using IPTMGrabber.Utils;
 using Newtonsoft.Json;
 using System;
+using IPTMGrabber.DNB;
 
 namespace IPTMGrabber.InvestorWebsite
 {
@@ -18,43 +19,49 @@ namespace IPTMGrabber.InvestorWebsite
             {
                 if (!string.IsNullOrEmpty(dataSource.Ticker))
                 {
-                    await DownloadAsync(dataSource.EventsUrls, cancellationToken);
-                    await DownloadAsync(dataSource.NewsUrls, cancellationToken);
+                    await DownloadAsync(dataSource.EventsUrls, Path.Combine(dataroot, "NewsEvents", "Events", $"{dataSource.Ticker}.csv"), cancellationToken);
+                    await DownloadAsync(dataSource.NewsUrls, Path.Combine(dataroot, "NewsEvents", "News", $"{dataSource.Ticker}.csv"), cancellationToken);
                 }
             }
         }
 
 
-        private async Task DownloadAsync(UrlDefinition urlsInfo, CancellationToken cancellationToken)
+        private async Task DownloadAsync(UrlDefinition urlsInfo, string csvFilename, CancellationToken cancellationToken)
         {
-            foreach (var url in urlsInfo.Urls)
+            if (urlsInfo.Urls.Length > 0)
             {
-                using var browser = await CreateBrowserAsync(url);
-                var doc = await browser.GetHtmlDocumentAsync(cancellationToken);
-                var pager = FindPager(browser, doc);
-
-                Console.WriteLine($"=== {url}");
-                do
+                using var writer = await FileHelper.CreateCsvWriterAsync<DNBStock>(csvFilename);
+                foreach (var url in urlsInfo.Urls)
                 {
-                    var publicationDates =
-                        FindPublicationDate(doc.DocumentNode, urlsInfo.DateFormat, urlsInfo.Culture).ToArray();
-                    if (publicationDates.Length > 0)
+                    using var browser = await CreateBrowserAsync(url);
+                    var doc = await browser.GetHtmlDocumentAsync(cancellationToken);
+                    var pager = FindPager(browser, doc);
+
+                    Console.WriteLine($"=== {url}");
+                    do
                     {
-                        var events = FindDescriptions(publicationDates);
-
-                        foreach (var eventInfo in events)
+                        var publicationDates =
+                            FindPublicationDate(doc.DocumentNode, urlsInfo.DateFormat, urlsInfo.Culture).ToArray();
+                        if (publicationDates.Length > 0)
                         {
-                            Console.WriteLine(eventInfo);
+                            var events = FindDescriptions(publicationDates);
+
+                            foreach (var eventInfo in events)
+                            {
+                                Console.WriteLine(eventInfo);
+                            }
+
+                            await writer.WriteRecordsAsync(events, cancellationToken);
                         }
-                    }
 
-                    doc = await pager.MoveNextAsync(cancellationToken);
+                        doc = await pager.MoveNextAsync(cancellationToken);
 
-                    if (urlsInfo.Delay.HasValue)
-                        await Task.Delay(urlsInfo.Delay.Value, cancellationToken);
-                } while (!pager.LastPage && doc != null);
+                        if (urlsInfo.Delay.HasValue)
+                            await Task.Delay(urlsInfo.Delay.Value, cancellationToken);
+                    } while (!pager.LastPage && doc != null);
 
-                Console.WriteLine();
+                    Console.WriteLine();
+                }
             }
         }
 
