@@ -1,5 +1,36 @@
 [
 	{
+		"Ticker": "YOU",
+		"NewsUrls": {
+			"DateFormat": "MMM d, yyyy h:mmtt",
+			"Urls": [
+				"https://ir.clearme.com/news-events/press-releases"
+			]
+		},
+		"EventsUrls": {
+			"DateFormat": "MMMM d, yyyy h:mm tt",
+			"Urls": [
+				"https://ir.clearme.com/news-events/ir-calendar",
+				"https://ir.clearme.com/news-events/ir-calendar/past"
+			]
+		}
+	},
+	{
+		"Ticker": "DELL",
+		"NewsUrls": {
+			"Urls": [
+				"https://investors.delltechnologies.com/news-events/press-release?af23095e_year%5Bvalue%5D=_none&op=Filter&page=0"
+			]
+		},
+		"EventsUrls": {
+			"DateFormat": "MMM dd, yyyy 'at' h:mm tt",
+			"Urls": [
+				"https://investors.delltechnologies.com/news-events/upcoming-events",
+				"https://investors.delltechnologies.com/news-events/past-events"
+			]
+		}
+	},
+	{
 		"Ticker": "UA",
 		"NewsUrls": {
 			"Urls": [
@@ -117,5 +148,5 @@
 				""
 			]
 		}
-	}
+	},
 ]

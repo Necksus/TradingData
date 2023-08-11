@@ -19,8 +19,8 @@ namespace IPTMGrabber.InvestorWebsite
             {
                 if (!string.IsNullOrEmpty(dataSource.Ticker))
                 {
-                    await DownloadAsync(dataSource.EventsUrls, Path.Combine(dataroot, "NewsEvents", "Events", $"{dataSource.Ticker}.csv"), cancellationToken);
                     await DownloadAsync(dataSource.NewsUrls, Path.Combine(dataroot, "NewsEvents", "News", $"{dataSource.Ticker}.csv"), cancellationToken);
+                    await DownloadAsync(dataSource.EventsUrls, Path.Combine(dataroot, "NewsEvents", "Events", $"{dataSource.Ticker}.csv"), cancellationToken);
                 }
             }
         }
@@ -138,15 +138,8 @@ namespace IPTMGrabber.InvestorWebsite
             if (string.IsNullOrEmpty(datetimeFormat))
                 return DateTime.TryParse(text, new CultureInfo(culture ?? "en-US"), out result);
 
-            if (text.Length >= datetimeFormat.Length)
-            {
-                return DateTime.TryParseExact(
-                    text.Substring(0, datetimeFormat.Length),
-                    datetimeFormat,
-                    CultureInfo.InvariantCulture,
-                    DateTimeStyles.None,
-                    out result);
-            }
+            return (DateTime.TryParseExact(text, datetimeFormat, CultureInfo.InvariantCulture, DateTimeStyles.None, out result) ||
+                    (text.Length>4 && DateTime.TryParseExact(text.Substring(0, text.Length-4), datetimeFormat, CultureInfo.InvariantCulture, DateTimeStyles.None, out result)));
 
             result = default;
             return false;
