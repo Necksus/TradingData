@@ -1,5 +1,18 @@
 [
 	{
+		"Ticker": "AXON",
+		"NewsUrls": {
+			"Urls": [
+				"https://investor.axon.com/press-releases"
+			]
+		},
+		"EventsUrls": {
+			"Urls": [
+				"https://investor.axon.com/events-and-presentations"
+			]
+		}
+	},
+	{
 		"Ticker": "YOU",
 		"NewsUrls": {
 			"DateFormat": "MMM d, yyyy h:mmtt",
