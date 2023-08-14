@@ -10,6 +10,8 @@
         public string? Culture { get; set; }
 
         public int? Delay { get; set; }
+
+        public string? NextButton { get; set; }
     }
 
     internal class DataSource

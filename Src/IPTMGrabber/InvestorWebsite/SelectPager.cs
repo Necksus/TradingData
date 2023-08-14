@@ -1,4 +1,5 @@
 ﻿using CefSharp;
+using CefSharp.DevTools.Page;
 using CefSharp.OffScreen;
 using HtmlAgilityPack;
 using IPTMGrabber.Utils;
@@ -19,7 +20,7 @@ internal class SelectPager : Pager
         _selectNode = selectNode;
         _values = selectNode
             .SelectNodes(".//option")
-            .Select(o => o.InnerText)
+            .Select(o => o.GetUnescapedAttribute("value"))
             .ToArray();
 
         _currentIndex = 0;
@@ -39,10 +40,10 @@ internal class SelectPager : Pager
                 "select.dispatchEvent(new Event('change'));";
             await _browser.EvaluateScriptAsPromiseAsync(script);
 
+            //File.WriteAllBytes(@"C:\Data\Downloads\ConsoleApp2\screeshot.png", await _browser.CaptureScreenshotAsync(CaptureScreenshotFormat.Png));
             //await _browser.WaitForRenderIdleAsync(cancellationToken: cancellationToken);
             await Task.Delay(300, cancellationToken);
             return await _browser.GetHtmlDocumentAsync(cancellationToken);
-            //File.WriteAllBytes(@"C:\Data\Downloads\ConsoleApp2\screeshot.png", await _browser.CaptureScreenshotAsync(CaptureScreenshotFormat.Png));
         }
 
         return await base.MoveNextAsync(cancellationToken);

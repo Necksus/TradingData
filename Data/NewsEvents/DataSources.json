@@ -1,12 +1,27 @@
 [
 	{
+		"Ticker": "HUBS",
+		"NewsUrls": {
+			"Urls": [
+				"https://ir.hubspot.com/news"
+			]
+		},
+		"EventsUrls": {
+			"Urls": [
+				"https://ir.hubspot.com/events"
+			]
+		}
+	},
+	{
 		"Ticker": "AXON",
 		"NewsUrls": {
+			"NextButton": "//a[@aria-label='Show next page']",
 			"Urls": [
 				"https://investor.axon.com/press-releases"
 			]
 		},
 		"EventsUrls": {
+			"NextButton": "//a[@aria-label='Show next page']",
 			"Urls": [
 				"https://investor.axon.com/events-and-presentations"
 			]
@@ -16,12 +31,14 @@
 		"Ticker": "YOU",
 		"NewsUrls": {
 			"DateFormat": "MMM d, yyyy h:mmtt",
+			"NextButton": "//a[@aria-label='Next Page']",
 			"Urls": [
 				"https://ir.clearme.com/news-events/press-releases"
 			]
 		},
 		"EventsUrls": {
 			"DateFormat": "MMMM d, yyyy h:mm tt",
+			"NextButton": "//a[@aria-label='Next Page']",
 			"Urls": [
 				"https://ir.clearme.com/news-events/ir-calendar",
 				"https://ir.clearme.com/news-events/ir-calendar/past"
@@ -57,12 +74,14 @@
 	{
 		"Ticker": "LYB",
 		"NewsUrls": {
+			"NextButton": "//button[@title='Next page']",
 			"Urls": [
 				"https://www.lyondellbasell.com/en/news-events/products--technology-news/",
 				"https://www.lyondellbasell.com/en/news-events/corporate--financial-news/"
 			]
 		},
 		"EventsUrls": {
+			"NextButton": "//button[@title='Next page']",
 			"Urls": [
 				"https://www.lyondellbasell.com/en/investors/investor-events/"
 			]
@@ -99,7 +118,6 @@
 		"Ticker": "KLAC",
 		"NewsUrls": {
 			"DateFormat": "MMM dd, yyyy h:mm tt",
-			"Delay": 1000,
 			"Urls": [
 				"https://ir.kla.com/news-events/press-releases"
 			]
@@ -120,19 +138,6 @@
 		"EventsUrls": {
 			"Urls": [
 				"https://ir.mobileye.com/news-events/events-presentations"
-			]
-		}
-	},
-	{
-		"Ticker": null,
-		"NewsUrls": {
-			"Urls": [
-				"https://ir.hubspot.com/news" , "HUBS"
-			]
-		},
-		"EventsUrls": {
-			"Urls": [
-				"https://ir.hubspot.com/events"
 			]
 		}
 	},

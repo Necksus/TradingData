@@ -13,7 +13,7 @@ namespace IPTMGrabber.Utils
         public static async Task<CsvWriter> CreateCsvWriterAsync<T>(string filename)
         {
             var writer = new StreamWriter(filename);
-            var csvWriter = new CsvWriter(writer, new CsvConfiguration(CultureInfo.InvariantCulture)
+            var csvWriter = new CsvWriter(writer, new CsvConfiguration(new CultureInfo("fr-FR"))
             {
                 Delimiter = ",",
                 HasHeaderRecord = true,

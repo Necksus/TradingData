@@ -8,13 +8,15 @@ namespace IPTMGrabber.InvestorWebsite
     internal class NextPager : Pager
     {
         private readonly ChromiumWebBrowser _browser;
+        private readonly string? _nextButton;
         private HtmlNode? _nextNode;
 
         public override bool LastPage => _nextNode == null;
 
-        public NextPager(ChromiumWebBrowser browser, HtmlDocument doc)
+        public NextPager(ChromiumWebBrowser browser, HtmlDocument doc, string? nextButton)
         {
             _browser = browser;
+            _nextButton = nextButton;
             FindNextLink(doc);
         }
 
@@ -75,25 +77,19 @@ namespace IPTMGrabber.InvestorWebsite
 
         private void FindNextLink(HtmlDocument doc)
         {
-            _nextNode = doc.DocumentNode
-                .Descendants()
-                .FirstOrDefault(node => node.ChildNodes.Count == 0 &&
-                                        (node.GetUnescapedText()?.Equals("next", StringComparison.OrdinalIgnoreCase) == true ||
-                                         node.GetUnescapedText()?.Equals("next page", StringComparison.OrdinalIgnoreCase) == true) ||
-                                         node.GetUnescapedAttribute("title")?.Equals("next", StringComparison.OrdinalIgnoreCase) == true ||
-                                         node.GetUnescapedAttribute("title")?.Equals("next page", StringComparison.OrdinalIgnoreCase) == true);
+            _nextNode = doc.DocumentNode.SelectSingleNode(_nextButton ?? "//*[not(*) and (normalize-space(text()) = 'Next' or normalize-space(text()) = 'Next page')]");
 
             int level = 0;
-            while (level < 3 && _nextNode != null && _nextNode.GetQuerySelector() == null)
+            while (level < 3 && _nextNode != null && string.IsNullOrEmpty(_nextNode.GetUnescapedAttribute("href")) && _nextNode.GetQuerySelector() == null)
                 _nextNode = _nextNode.ParentNode;
 
-            if (_nextNode?.Attributes?.Contains("disabled") == true || _nextNode?.GetQuerySelector() == null)
+            if (_nextNode?.Attributes?.Contains("disabled") == true)
                 _nextNode = null;
         }
 
-        public static bool FoundPager(ChromiumWebBrowser browser, HtmlDocument doc, out NextPager? pager)
+        public static bool FoundPager(ChromiumWebBrowser browser, HtmlDocument doc, string? nextButton, out NextPager? pager)
         {
-            var nextPager = new NextPager(browser, doc);
+            var nextPager = new NextPager(browser, doc, nextButton);
             pager = !nextPager.LastPage ? nextPager : null;
             return pager != null;
         }

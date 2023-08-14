@@ -19,6 +19,8 @@ namespace IPTMGrabber.InvestorWebsite
             {
                 if (!string.IsNullOrEmpty(dataSource.Ticker))
                 {
+                    Console.WriteLine($"=== Start grabbing data for {dataSource.Ticker}");
+
                     await DownloadAsync(dataSource.NewsUrls, Path.Combine(dataroot, "NewsEvents", "News", $"{dataSource.Ticker}.csv"), cancellationToken);
                     await DownloadAsync(dataSource.EventsUrls, Path.Combine(dataroot, "NewsEvents", "Events", $"{dataSource.Ticker}.csv"), cancellationToken);
                 }
@@ -30,44 +32,55 @@ namespace IPTMGrabber.InvestorWebsite
         {
             if (urlsInfo.Urls.Length > 0)
             {
-                using var writer = await FileHelper.CreateCsvWriterAsync<DNBStock>(csvFilename);
+                var allEvents = new List<EventInfo>();
                 foreach (var url in urlsInfo.Urls)
                 {
                     using var browser = await CreateBrowserAsync(url);
                     var doc = await browser.GetHtmlDocumentAsync(cancellationToken);
-                    var pager = FindPager(browser, doc);
+                    var pager = FindPager(browser, doc, urlsInfo);
+                    var counter = 1;
+                    bool newItems;
 
-                    Console.WriteLine($"=== {url}");
                     do
                     {
-                        var publicationDates =
-                            FindPublicationDate(doc.DocumentNode, urlsInfo.DateFormat, urlsInfo.Culture).ToArray();
+                        var publicationDates = FindPublicationDate(doc.DocumentNode, urlsInfo.DateFormat, urlsInfo.Culture).ToArray();
+                        newItems = false;
+
                         if (publicationDates.Length > 0)
                         {
+                            Console.WriteLine($"   - {browser.Address} ({counter++})");
                             var events = FindDescriptions(publicationDates);
 
                             foreach (var eventInfo in events)
                             {
-                                Console.WriteLine(eventInfo);
+                                if (!allEvents.Contains(eventInfo))
+                                {
+                                    allEvents.Add(eventInfo);
+                                    newItems = true;
+                                    //Console.WriteLine(eventInfo);
+                                }
                             }
-
-                            await writer.WriteRecordsAsync(events, cancellationToken);
                         }
 
                         doc = await pager.MoveNextAsync(cancellationToken);
 
-                        if (urlsInfo.Delay.HasValue)
-                            await Task.Delay(urlsInfo.Delay.Value, cancellationToken);
-                    } while (!pager.LastPage && doc != null);
+                        await Task.Delay(urlsInfo.Delay ?? 1000, cancellationToken);
+                    } while (doc != null && newItems);
 
                     Console.WriteLine();
+                }
+
+                if (allEvents.Count > 0)
+                {
+                    await using var writer = await FileHelper.CreateCsvWriterAsync<EventInfo>(csvFilename);
+                    await writer.WriteRecordsAsync(allEvents.OrderByDescending(e => e.Date), cancellationToken);
                 }
             }
         }
 
-        private Pager FindPager(ChromiumWebBrowser browser, HtmlDocument doc)
+        private Pager FindPager(ChromiumWebBrowser browser, HtmlDocument doc, UrlDefinition urlInfo)
         {
-            if (NextPager.FoundPager(browser, doc, out var nextPager))
+            if (NextPager.FoundPager(browser, doc, urlInfo.NextButton, out var nextPager))
                 return nextPager!;
 
             if (SelectPager.FoundPager(browser, doc, out var selectPager))
@@ -98,7 +111,7 @@ namespace IPTMGrabber.InvestorWebsite
             }
 
             var descriptions = ancestors
-                .Select(a => new EventInfo(a.DateNode.Value, FindDescription(a.HighestParent, a.DateNode.Node), ""))
+                .Select(a => new EventInfo(a.DateNode.Value, FindDescription(a.HighestParent, a.DateNode.Node), "", null))
                 .Where(e => !string.IsNullOrEmpty(e.Description))
                 .ToArray();
             return descriptions;
@@ -166,7 +179,6 @@ namespace IPTMGrabber.InvestorWebsite
             //browser.LoadingStateChanged += (s, e) =>
             //    Console.WriteLine($"{e.IsLoading} {e.Browser.MainFrame.Url}");
 
-            Console.WriteLine($"Loading {url}...");
             await Task.Delay(500);
             await browser.LoadUrlAsync(url);
             return browser;
