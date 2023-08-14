@@ -29,7 +29,7 @@ namespace IPTMGrabber.Utils
         public static IEnumerable<T> EnumerateFromCsv<T>(string filename)
         {
             using var reader = new StreamReader(filename);
-            using var csv = new CsvReader(reader, new CsvConfiguration(CultureInfo.InvariantCulture)
+            using var csv = new CsvReader(reader, new CsvConfiguration(new CultureInfo("fr-FR"))
             {
                 HasHeaderRecord = true,
                 TrimOptions = TrimOptions.Trim,

@@ -2,12 +2,12 @@
 {
     internal class EventInfo : IEquatable<EventInfo>
     {
-        public DateTime Date { get; }
-        public string? Description { get; }
-        public string Link { get; }
-        public bool? EarningRelated { get; }
+        public DateTime Date { get; set; }
+        public string? Description { get; set; }
+        public string Link { get; set; }
+        public int? EarningRelated { get; set; }
 
-        public EventInfo(DateTime date, string? description, string link, bool? earningRelated)
+        public EventInfo(DateTime date, string? description, string link, int? earningRelated)
         {
             Date = date;
             Description = description;
@@ -15,8 +15,12 @@
             EarningRelated = earningRelated;
         }
 
+        public EventInfo()
+        {
+        }
+
         public override string ToString()
-            => $"{Date:dd/MM/yyyy} : {Description}";
+            => $"{Date:dd/MM/yyyy} : {Description} ({(EarningRelated != 0 ? "Earning related" : "Non earning related")})";
 
         public bool Equals(EventInfo? other)
         {

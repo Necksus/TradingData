@@ -1,5 +1,19 @@
 [
 	{
+		"Ticker": "LSCC",
+		"NewsUrls": {
+			"Urls": [
+				"https://ir.latticesemi.com/investor-overview/news-releases"
+			]
+		},
+		"EventsUrls": {
+			"DateFormat": "MMM dd, yyyy 'at' h:mm tt",
+			"Urls": [
+				"https://ir.latticesemi.com/past-events"
+			]
+		}
+	},
+	{
 		"Ticker": "HUBS",
 		"NewsUrls": {
 			"Urls": [

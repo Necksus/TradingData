@@ -12,9 +12,13 @@ namespace IPTMGrabber.InvestorWebsite
 {
     internal class NewsAndEventsGrabber
     {
+        private EarningPredictionModel _earningPrediction;
+
         public async Task ExecuteAsync(string dataroot, CancellationToken cancellationToken)
         {
             var dataSourceFilename = Path.Combine(dataroot, "NewsEvents", "DataSources.json");
+            _earningPrediction = new EarningPredictionModel(dataroot);
+
             foreach (var dataSource in JsonConvert.DeserializeObject<DataSource[]>(File.ReadAllText(dataSourceFilename))!)
             {
                 if (!string.IsNullOrEmpty(dataSource.Ticker))
@@ -110,11 +114,11 @@ namespace IPTMGrabber.InvestorWebsite
                 ancestors = ancestors.Select(a => (CurrentParent: a.HighestParent.ParentNode, DateNode: a.DateNode)).ToArray();
             }
 
-            var descriptions = ancestors
-                .Select(a => new EventInfo(a.DateNode.Value, FindDescription(a.HighestParent, a.DateNode.Node), "", null))
-                .Where(e => !string.IsNullOrEmpty(e.Description))
-                .ToArray();
-            return descriptions;
+            foreach (var ancestor in ancestors)
+            {
+                var description = FindDescription(ancestor.HighestParent, ancestor.DateNode.Node);
+                yield return new EventInfo(ancestor.DateNode.Value, description, "", _earningPrediction.PredictEarning(description!));
+            }
         }
 
         private IEnumerable<TargetNode<DateTime>> FindPublicationDate(HtmlNode node, string? datetimeFormat, string? culture)
