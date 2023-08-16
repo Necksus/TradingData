@@ -13,7 +13,7 @@ namespace IPTMGrabber.InvestorWebsite
 
         public override bool LastPage => _pages.Length == 0 || CurrentPage >= _pages.Max(p => p.Value);
 
-        public LinkPager(ChromiumWebBrowser browser, HtmlDocument doc)
+        public LinkPager(ChromiumWebBrowser browser, PagerDefinition? pagerInfo, HtmlDocument doc) : base(browser, pagerInfo)
         {
             _browser = browser;
             _pages = FindAllPages(doc);
@@ -47,9 +47,9 @@ namespace IPTMGrabber.InvestorWebsite
             return await base.MoveNextAsync(cancellationToken);
         }
 
-        public static bool FoundPager(ChromiumWebBrowser browser, HtmlDocument doc, out LinkPager? pager)
+        public static bool FoundPager(ChromiumWebBrowser browser, PagerDefinition pagerInfo, HtmlDocument doc, out LinkPager? pager)
         {
-            var linkPager = new LinkPager(browser, doc);
+            var linkPager = new LinkPager(browser, pagerInfo, doc);
 
             pager = linkPager.CurrentPage == 1 ? linkPager : null;
 

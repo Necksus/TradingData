@@ -7,16 +7,12 @@ namespace IPTMGrabber.InvestorWebsite
 {
     internal class NextPager : Pager
     {
-        private readonly ChromiumWebBrowser _browser;
-        private readonly string? _nextButton;
         private HtmlNode? _nextNode;
 
         public override bool LastPage => _nextNode == null;
 
-        public NextPager(ChromiumWebBrowser browser, HtmlDocument doc, string? nextButton)
+        public NextPager(ChromiumWebBrowser browser, PagerDefinition? pagerInfo, HtmlDocument doc) : base(browser, pagerInfo)
         {
-            _browser = browser;
-            _nextButton = nextButton;
             FindNextLink(doc);
         }
 
@@ -24,7 +20,7 @@ namespace IPTMGrabber.InvestorWebsite
         {
             if (!LastPage && (await TryNavigateHrefAsync() || await TryClickAsync()))
             {
-                var doc = await _browser.GetHtmlDocumentAsync(cancellationToken);
+                var doc = await Browser.GetHtmlDocumentAsync(cancellationToken);
                 FindNextLink(doc);
 
                 return doc;
@@ -39,8 +35,8 @@ namespace IPTMGrabber.InvestorWebsite
 
             if (!string.IsNullOrEmpty(selector))
             {
-                await _browser.EvaluateScriptAsPromiseAsync($"document.querySelector(\"{selector}\").click()");
-                await _browser.WaitForRenderIdleAsync();
+                await Browser.EvaluateScriptAsPromiseAsync($"document.querySelector(\"{selector}\").click()");
+                await Browser.WaitForRenderIdleAsync();
                 return true;
             }
 
@@ -59,12 +55,12 @@ namespace IPTMGrabber.InvestorWebsite
                     if (Uri.TryCreate(href, UriKind.RelativeOrAbsolute, out var url))
                     {
                         if (!url.IsAbsoluteUri)
-                            url = new Uri(new Uri(_browser.Address), url);
+                            url = new Uri(new Uri(Browser.Address), url);
 
                         if (!url.Scheme.Equals("https", StringComparison.OrdinalIgnoreCase) && !url.Scheme.Equals("http", StringComparison.OrdinalIgnoreCase))
                             return false;
 
-                        await _browser.LoadUrlAsync(url.AbsoluteUri);
+                        await Browser.LoadUrlAsync(url.AbsoluteUri);
                         return true;
                     }
                 }
@@ -77,19 +73,22 @@ namespace IPTMGrabber.InvestorWebsite
 
         private void FindNextLink(HtmlDocument doc)
         {
-            _nextNode = doc.DocumentNode.SelectSingleNode(_nextButton ?? "//*[not(*) and (normalize-space(text()) = 'Next' or normalize-space(text()) = 'Next page')]");
+            _nextNode = doc.DocumentNode.SelectSingleNode(PagerInfo?.NextButton ?? "//*[not(*) and (normalize-space(text()) = 'Next' or normalize-space(text()) = 'Next page')]");
 
             int level = 0;
             while (level < 3 && _nextNode != null && string.IsNullOrEmpty(_nextNode.GetUnescapedAttribute("href")) && _nextNode.GetQuerySelector() == null)
+            {
                 _nextNode = _nextNode.ParentNode;
+                level++;
+            }
 
             if (_nextNode?.Attributes?.Contains("disabled") == true)
                 _nextNode = null;
         }
 
-        public static bool FoundPager(ChromiumWebBrowser browser, HtmlDocument doc, string? nextButton, out NextPager? pager)
+        public static bool FoundPager(ChromiumWebBrowser browser, PagerDefinition? pagerInfo, HtmlDocument doc, out NextPager? pager)
         {
-            var nextPager = new NextPager(browser, doc, nextButton);
+            var nextPager = new NextPager(browser, pagerInfo, doc);
             pager = !nextPager.LastPage ? nextPager : null;
             return pager != null;
         }

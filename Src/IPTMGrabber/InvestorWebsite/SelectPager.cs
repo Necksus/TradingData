@@ -8,25 +8,24 @@ namespace IPTMGrabber.InvestorWebsite;
 
 internal class SelectPager : Pager
 {
-    private readonly ChromiumWebBrowser _browser;
-    private readonly HtmlNode _selectNode;
     private readonly string[] _values;
 
     private int _currentIndex;
+    private HtmlNode? _selectNode;
 
-    public SelectPager(ChromiumWebBrowser browser, HtmlNode selectNode)
+    public SelectPager(ChromiumWebBrowser browser, PagerDefinition? pagerInfo, HtmlDocument doc)
+        : base(browser, pagerInfo)
     {
-        _browser = browser;
-        _selectNode = selectNode;
-        _values = selectNode
-            .SelectNodes(".//option")
-            .Select(o => o.GetUnescapedAttribute("value"))
-            .ToArray();
+        _selectNode = GetSelectNode(doc);
+        _values = _selectNode
+            ?.SelectNodes(".//option")
+            ?.Select(o => o.GetUnescapedAttribute("value"))
+            ?.ToArray() ?? Array.Empty<string>();
 
         _currentIndex = 0;
     }
 
-    public override bool LastPage => _currentIndex >= _values.Length;
+    public override bool LastPage => _selectNode == null || _currentIndex >= _values.Length;
 
     public override async Task<HtmlDocument?> MoveNextAsync(CancellationToken cancellationToken)
     {
@@ -38,24 +37,38 @@ internal class SelectPager : Pager
                 $"var select = document.querySelector('{_selectNode.GetQuerySelector()}');" +
                 $" select.value = '{_values[_currentIndex]}';" +
                 "select.dispatchEvent(new Event('change'));";
-            await _browser.EvaluateScriptAsPromiseAsync(script);
+            await Browser.EvaluateScriptAsPromiseAsync(script);
+            await Browser.WaitForRenderIdleAsync(cancellationToken: cancellationToken);
+            if (PagerInfo?.MoveNextScript != null)
+            {
+                await Browser.EvaluateScriptAsPromiseAsync(PagerInfo.MoveNextScript);
+                await Browser.WaitForRenderIdleAsync(cancellationToken: cancellationToken);
+            }
 
-            //File.WriteAllBytes(@"C:\Data\Downloads\ConsoleApp2\screeshot.png", await _browser.CaptureScreenshotAsync(CaptureScreenshotFormat.Png));
-            //await _browser.WaitForRenderIdleAsync(cancellationToken: cancellationToken);
-            await Task.Delay(300, cancellationToken);
-            return await _browser.GetHtmlDocumentAsync(cancellationToken);
+            var doc = await Browser.GetHtmlDocumentAsync(cancellationToken);
+            _selectNode = GetSelectNode(doc);
+
+            return doc;
         }
 
         return await base.MoveNextAsync(cancellationToken);
     }
 
-    public static bool FoundPager(ChromiumWebBrowser browser, HtmlDocument doc, out SelectPager? pager)
+    private HtmlNode? GetSelectNode(HtmlDocument doc)
+        => doc.DocumentNode.SelectSingleNode($"//select[option[text()='{DateTime.UtcNow.Year - 1}']]");
+
+    public static bool FoundPager(ChromiumWebBrowser browser, PagerDefinition? pagerInfo, HtmlDocument doc, out SelectPager? pager)
     {
-        //var selectNode = doc.DocumentNode.SelectSingleNode($"//select[option/@value='{DateTime.UtcNow.Year - 1}']");
+        var nextPager = new SelectPager(browser, pagerInfo, doc);
+        pager = !nextPager.LastPage ? nextPager : null;
+        return pager != null;
+        /*
         var selectNode = doc.DocumentNode.SelectSingleNode($"//select[option[text()='{DateTime.UtcNow.Year - 1}']]");
 
-        pager = selectNode != null ? new SelectPager(browser, selectNode) : null;
+        pager = selectNode != null ? new SelectPager(browser, pagerInfo, selectNode) : null;
 
         return pager != null;
+
+        */
     }
 }

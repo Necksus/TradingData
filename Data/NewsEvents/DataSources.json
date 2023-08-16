@@ -1,5 +1,23 @@
 [
 	{
+		"Ticker": "ELF",
+		"NewsUrls": {
+			"PagerDefinition": {
+				"MoreButton": "//a[@title='Load more items']",
+				"MoveNextScript": "document.querySelector('#views-exposed-form-newsroom-block-3').dispatchEvent(new Event('change'));"
+			},
+			"Urls": [
+				"https://investor.elfbeauty.com/news-and-events/press-releases"
+			]
+		},
+		"EventsUrls": {
+			"DateFormat": "M/d/yyyy hh:mmtt",
+			"Urls": [
+				"https://investor.elfbeauty.com/news-and-events/events-and-presentations"
+			]
+		}
+	},
+	{
 		"Ticker": "LSCC",
 		"NewsUrls": {
 			"Urls": [
@@ -29,13 +47,17 @@
 	{
 		"Ticker": "AXON",
 		"NewsUrls": {
-			"NextButton": "//a[@aria-label='Show next page']",
+			"PagerDefinition": {
+				"NextButton": "//a[@aria-label='Show next page']"
+			},
 			"Urls": [
 				"https://investor.axon.com/press-releases"
 			]
 		},
 		"EventsUrls": {
-			"NextButton": "//a[@aria-label='Show next page']",
+			"PagerDefinition": {
+				"NextButton": "//a[@aria-label='Show next page']"
+			},
 			"Urls": [
 				"https://investor.axon.com/events-and-presentations"
 			]
@@ -45,14 +67,18 @@
 		"Ticker": "YOU",
 		"NewsUrls": {
 			"DateFormat": "MMM d, yyyy h:mmtt",
-			"NextButton": "//a[@aria-label='Next Page']",
+			"PagerDefinition": {
+				"NextButton": "//a[@aria-label='Next Page']"
+			},
 			"Urls": [
 				"https://ir.clearme.com/news-events/press-releases"
 			]
 		},
 		"EventsUrls": {
 			"DateFormat": "MMMM d, yyyy h:mm tt",
-			"NextButton": "//a[@aria-label='Next Page']",
+			"PagerDefinition": {
+				"NextButton": "//a[@aria-label='Next Page']"
+			},
 			"Urls": [
 				"https://ir.clearme.com/news-events/ir-calendar",
 				"https://ir.clearme.com/news-events/ir-calendar/past"
@@ -88,14 +114,18 @@
 	{
 		"Ticker": "LYB",
 		"NewsUrls": {
-			"NextButton": "//button[@title='Next page']",
+			"PagerDefinition": {
+				"NextButton": "//button[@title='Next page']"
+			},
 			"Urls": [
 				"https://www.lyondellbasell.com/en/news-events/products--technology-news/",
 				"https://www.lyondellbasell.com/en/news-events/corporate--financial-news/"
 			]
 		},
 		"EventsUrls": {
-			"NextButton": "//button[@title='Next page']",
+			"PagerDefinition": {
+				"NextButton": "//button[@title='Next page']"
+			},
 			"Urls": [
 				"https://www.lyondellbasell.com/en/investors/investor-events/"
 			]
@@ -180,5 +210,5 @@
 				""
 			]
 		}
-	},
+	}
 ]

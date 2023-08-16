@@ -41,12 +41,14 @@ namespace IPTMGrabber.InvestorWebsite
                 {
                     using var browser = await CreateBrowserAsync(url);
                     var doc = await browser.GetHtmlDocumentAsync(cancellationToken);
-                    var pager = FindPager(browser, doc, urlsInfo);
+                    var pager = FindPager(browser, urlsInfo.PagerDefinition, doc);
                     var counter = 1;
                     bool newItems;
 
                     do
                     {
+                        doc = await pager.LoadMoreAsync(doc, cancellationToken);
+
                         var publicationDates = FindPublicationDate(doc.DocumentNode, urlsInfo.DateFormat, urlsInfo.Culture).ToArray();
                         newItems = false;
 
@@ -82,15 +84,15 @@ namespace IPTMGrabber.InvestorWebsite
             }
         }
 
-        private Pager FindPager(ChromiumWebBrowser browser, HtmlDocument doc, UrlDefinition urlInfo)
+        private Pager FindPager(ChromiumWebBrowser browser, PagerDefinition? pagerInfo, HtmlDocument doc)
         {
-            if (NextPager.FoundPager(browser, doc, urlInfo.NextButton, out var nextPager))
+            if (NextPager.FoundPager(browser, pagerInfo, doc, out var nextPager))
                 return nextPager!;
 
-            if (SelectPager.FoundPager(browser, doc, out var selectPager))
+            if (SelectPager.FoundPager(browser, pagerInfo, doc, out var selectPager))
                 return selectPager!;
 
-            return new Pager();
+            return new Pager(browser, pagerInfo);
         }
 
         private IEnumerable<EventInfo> FindDescriptions(IEnumerable<TargetNode<DateTime>> publicationDates)
@@ -117,7 +119,8 @@ namespace IPTMGrabber.InvestorWebsite
             foreach (var ancestor in ancestors)
             {
                 var description = FindDescription(ancestor.HighestParent, ancestor.DateNode.Node);
-                yield return new EventInfo(ancestor.DateNode.Value, description, "", _earningPrediction.PredictEarning(description!));
+                if (!string.IsNullOrEmpty(description))
+                    yield return new EventInfo(ancestor.DateNode.Value, description, "", _earningPrediction.PredictEarning(description!));
             }
         }
 
@@ -152,11 +155,17 @@ namespace IPTMGrabber.InvestorWebsite
 
         private bool TryParseDate(string text, string? datetimeFormat, string? culture, out DateTime result)
         {
+            string RemoveTimezone(string value)
+            {
+                var index = value.LastIndexOf(' ');
+                return index > 0 ? value.Substring(0, index) : value;
+            }
+
             if (string.IsNullOrEmpty(datetimeFormat))
                 return DateTime.TryParse(text, new CultureInfo(culture ?? "en-US"), out result);
 
-            return (DateTime.TryParseExact(text, datetimeFormat, CultureInfo.InvariantCulture, DateTimeStyles.None, out result) ||
-                    (text.Length>4 && DateTime.TryParseExact(text.Substring(0, text.Length-4), datetimeFormat, CultureInfo.InvariantCulture, DateTimeStyles.None, out result)));
+            return DateTime.TryParseExact(text, datetimeFormat, CultureInfo.InvariantCulture, DateTimeStyles.None, out result) ||
+                   DateTime.TryParseExact(RemoveTimezone(text), datetimeFormat, CultureInfo.InvariantCulture, DateTimeStyles.None, out result);
 
             result = default;
             return false;

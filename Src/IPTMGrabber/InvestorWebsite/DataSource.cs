@@ -1,6 +1,13 @@
 ﻿namespace IPTMGrabber.InvestorWebsite
 {
 
+    internal class PagerDefinition
+    {
+        public string? NextButton { get; set; }
+        public string? MoreButton { get; set; }
+        public string? MoveNextScript { get; set; }
+    }
+
     internal class UrlDefinition
     {
         public string[] Urls { get; set; }
@@ -11,7 +18,7 @@
 
         public int? Delay { get; set; }
 
-        public string? NextButton { get; set; }
+        public PagerDefinition? PagerDefinition { get; set; }
     }
 
     internal class DataSource
