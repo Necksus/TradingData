@@ -1,15 +1,12 @@
-﻿using CefSharp;
-using IPTMGrabber.Utils;
+﻿using IPTMGrabber.Utils;
 using Microsoft.ML;
 using Microsoft.ML.Data;
-using Microsoft.ML.Trainers.FastTree;
-using System.Data;
 
 namespace IPTMGrabber.InvestorWebsite
 {
     internal class EarningPredictionModel
     {
-        private readonly string _dataRoot;
+        private const string PredictionModelName = "EarningPrediction.zip";
         private PredictionEngine<EventInfoInfo, EventInfoInfoPrediction> _predictionEngine;
 
         // Définition de la classe de données
@@ -29,12 +26,12 @@ namespace IPTMGrabber.InvestorWebsite
             [ColumnName("PredictedLabel")]
             public int Category;
         }
-        public void TrainModel()
+        public void TrainModel(string dataroot, string modelFolder)
         {
             var mlContext = new MLContext();
 
             // Load data, then split between training and test data
-            var data = mlContext.Data.LoadFromEnumerable(GetTrainingData());
+            var data = mlContext.Data.LoadFromEnumerable(GetTrainingData(dataroot));
             var dataSplit = mlContext.Data.TrainTestSplit(data);
 
             // Create learning pipeline
@@ -56,7 +53,7 @@ namespace IPTMGrabber.InvestorWebsite
             Console.WriteLine($"Metrics - Log-loss: {metrics.LogLoss}");
 
             // Save the model
-            mlContext.Model.Save(model, dataSplit.TrainSet.Schema, TrainingModel);
+            mlContext.Model.Save(model, dataSplit.TrainSet.Schema, Path.Combine(modelFolder, PredictionModelName));
         }
 
         public int PredictEarning(string text)
@@ -66,7 +63,7 @@ namespace IPTMGrabber.InvestorWebsite
                 var mlContext = new MLContext();
 
                 // Charger le modèle à partir du fichier
-                var loadedModel = mlContext.Model.Load(TrainingModel, out var modelSchema);
+                var loadedModel = mlContext.Model.Load(GetType().Assembly.GetManifestResourceStream($"IPTMGrabber.MachineLearning.{PredictionModelName}"), out var modelSchema);
 
                 // Créer le moteur de prédiction
                 _predictionEngine = mlContext.Model.CreatePredictionEngine<EventInfoInfo, EventInfoInfoPrediction>(loadedModel);
@@ -77,17 +74,11 @@ namespace IPTMGrabber.InvestorWebsite
             return prediction.Category;
         }
 
-        public string TrainingModel 
-            => Path.Combine(_dataRoot, "NewsEvents", "EarningPrediction.zip");
 
-        public EarningPredictionModel(string dataRoot)
-        {
-            _dataRoot = dataRoot;
-        }
 
-        private IEnumerable<EventInfoInfo> GetTrainingData()
+        private IEnumerable<EventInfoInfo> GetTrainingData(string dataroot)
         {
-            foreach (var file in Directory.GetFiles(Path.Combine(_dataRoot, "NewsEvents", "News"), "*"))
+            foreach (var file in Directory.GetFiles(Path.Combine(dataroot, "NewsEvents", "News"), "*"))
             {
                 foreach (var eventInfo in Enumerators.EnumerateFromCsv<EventInfo>(file))
                 {

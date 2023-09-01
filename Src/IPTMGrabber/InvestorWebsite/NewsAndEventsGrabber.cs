@@ -1,38 +1,48 @@
-﻿using System.Drawing;
-using CefSharp;
-using CefSharp.OffScreen;
-using HtmlAgilityPack;
+﻿using HtmlAgilityPack;
 using System.Globalization;
 using IPTMGrabber.Utils;
 using Newtonsoft.Json;
-using System;
-using IPTMGrabber.DNB;
+using PuppeteerSharp;
+using System.Data;
 
 namespace IPTMGrabber.InvestorWebsite
 {
-    internal class NewsAndEventsGrabber
+    public class NewsAndEventsGrabber
     {
-        private EarningPredictionModel _earningPrediction;
+        private EarningPredictionModel _earningPrediction = new EarningPredictionModel();
+        private IBrowser _browser;
 
         public async Task ExecuteAsync(string dataroot, CancellationToken cancellationToken)
         {
-            var dataSourceFilename = Path.Combine(dataroot, "NewsEvents", "DataSources.json");
-            _earningPrediction = new EarningPredictionModel(dataroot);
-
-            foreach (var dataSource in JsonConvert.DeserializeObject<DataSource[]>(File.ReadAllText(dataSourceFilename))!)
+            foreach (var dataSource in Data.NewsEventsDataSource)
             {
                 if (!string.IsNullOrEmpty(dataSource.Ticker))
                 {
                     Console.WriteLine($"=== Start grabbing data for {dataSource.Ticker}");
 
-                    await DownloadAsync(dataSource.NewsUrls, Path.Combine(dataroot, "NewsEvents", "News", $"{dataSource.Ticker}.csv"), cancellationToken);
-                    await DownloadAsync(dataSource.EventsUrls, Path.Combine(dataroot, "NewsEvents", "Events", $"{dataSource.Ticker}.csv"), cancellationToken);
+                    try
+                    {
+                        await DownloadAsync(dataSource.NewsUrls, File.OpenWrite(Path.Combine(dataroot, "NewsEvents", "News", $"{dataSource.Ticker}.csv")), cancellationToken);
+                        await DownloadAsync(dataSource.EventsUrls, File.OpenWrite(Path.Combine(dataroot, "NewsEvents", "Events", $"{dataSource.Ticker}.csv")), cancellationToken);
+                    }
+                    catch(Exception ex)
+                    {
+                        Console.WriteLine($"Cannot get data for {dataSource.Ticker}: {ex.Message}");
+                    }
                 }
             }
         }
 
+        public async Task GrabPressReleasesAsync(string ticker, Stream csvStream, CancellationToken cancellationToken)
+        {
+            var source = Data.NewsEventsDataSource.FirstOrDefault(s => s.Ticker.Equals(ticker, StringComparison.OrdinalIgnoreCase));
+            if (source != null) 
+            {
+                await DownloadAsync(source.NewsUrls, csvStream, cancellationToken);
+            }
+        }
 
-        private async Task DownloadAsync(UrlDefinition urlsInfo, string csvFilename, CancellationToken cancellationToken)
+        private async Task DownloadAsync(UrlDefinition urlsInfo, Stream csvStream, CancellationToken cancellationToken)
         {
             if (urlsInfo.Urls.Length > 0)
             {
@@ -54,7 +64,7 @@ namespace IPTMGrabber.InvestorWebsite
 
                         if (publicationDates.Length > 0)
                         {
-                            Console.WriteLine($"   - {browser.Address} ({counter++})");
+                            Console.WriteLine($"   - {browser.Url} ({counter++})");
                             var events = FindDescriptions(publicationDates);
 
                             foreach (var eventInfo in events)
@@ -63,7 +73,7 @@ namespace IPTMGrabber.InvestorWebsite
                                 {
                                     allEvents.Add(eventInfo);
                                     newItems = true;
-                                    //Console.WriteLine(eventInfo);
+                                    Console.WriteLine(eventInfo);
                                 }
                             }
                         }
@@ -78,13 +88,13 @@ namespace IPTMGrabber.InvestorWebsite
 
                 if (allEvents.Count > 0)
                 {
-                    await using var writer = await FileHelper.CreateCsvWriterAsync<EventInfo>(csvFilename);
-                    await writer.WriteRecordsAsync(allEvents.OrderByDescending(e => e.Date), cancellationToken);
+                    await using var writer = await FileHelper.CreateCsvWriterAsync<EventInfo>(csvStream);
+                    await writer.WriteRecordsAsync(allEvents.OrderByDescending(e => e.Date).ThenBy(e => e.Description), cancellationToken);
                 }
             }
         }
 
-        private Pager FindPager(ChromiumWebBrowser browser, PagerDefinition? pagerInfo, HtmlDocument doc)
+        private Pager FindPager(IPage browser, PagerDefinition? pagerInfo, HtmlDocument doc)
         {
             if (NextPager.FoundPager(browser, pagerInfo, doc, out var nextPager))
                 return nextPager!;
@@ -174,27 +184,29 @@ namespace IPTMGrabber.InvestorWebsite
         private bool TryParseDescription(string text)
             => text.Split(' ').Length > 3; // At least 4 words!
 
-        private async Task<ChromiumWebBrowser> CreateBrowserAsync(string url)
+        private async Task<IPage> CreateBrowserAsync(string url)
         {
-            var settings = new CefSettings
+            // see https://stackoverflow.com/questions/70752901/how-to-get-puppeteer-sharp-working-on-an-aws-elastic-beanstalk-running-docker
+            if (_browser == null)
             {
-                LogSeverity = LogSeverity.Disable,
-                BackgroundColor = Cef.ColorSetARGB(255, 255, 255, 255), MultiThreadedMessageLoop = true
-            };
-            await Cef.InitializeAsync(settings);
-
-
-            var browser = new ChromiumWebBrowser
-            {
-                Size = new Size(1920, 4096)
-            };
-
-            //browser.LoadingStateChanged += (s, e) =>
-            //    Console.WriteLine($"{e.IsLoading} {e.Browser.MainFrame.Url}");
-
-            await Task.Delay(500);
-            await browser.LoadUrlAsync(url);
-            return browser;
+                using var browserFetcher = new BrowserFetcher();
+                await browserFetcher.DownloadAsync();
+                _browser = await Puppeteer.LaunchAsync(
+                    new LaunchOptions
+                    {
+                        Headless = true,
+                        Args = new[] {
+                            "--disable-gpu",
+                            "--disable-dev-shm-usage",
+                            "--disable-setuid-sandbox",
+                            "--no-sandbox"}
+                    });
+            }
+            var page = await _browser.NewPageAsync();
+            await page.SetCacheEnabledAsync(false);
+            await page.SetViewportAsync(new ViewPortOptions { Width = 1280, Height = 4000 });
+            await page.NavigateAsync(url);
+            return page;
         }
     }
 }

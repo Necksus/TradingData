@@ -1,7 +1,6 @@
-﻿using CefSharp;
-using CefSharp.OffScreen;
-using HtmlAgilityPack;
+﻿using HtmlAgilityPack;
 using IPTMGrabber.Utils;
+using PuppeteerSharp;
 
 namespace IPTMGrabber.InvestorWebsite
 {
@@ -11,7 +10,7 @@ namespace IPTMGrabber.InvestorWebsite
 
         public override bool LastPage => _nextNode == null;
 
-        public NextPager(ChromiumWebBrowser browser, PagerDefinition? pagerInfo, HtmlDocument doc) : base(browser, pagerInfo)
+        public NextPager(IPage browser, PagerDefinition? pagerInfo, HtmlDocument doc) : base(browser, pagerInfo)
         {
             FindNextLink(doc);
         }
@@ -35,8 +34,7 @@ namespace IPTMGrabber.InvestorWebsite
 
             if (!string.IsNullOrEmpty(selector))
             {
-                await Browser.EvaluateScriptAsPromiseAsync($"document.querySelector(\"{selector}\").click()");
-                await Browser.WaitForRenderIdleAsync();
+                await Browser.ExecuteJavascriptAsync($"document.querySelector(\"{selector}\").click()");
                 return true;
             }
 
@@ -55,12 +53,12 @@ namespace IPTMGrabber.InvestorWebsite
                     if (Uri.TryCreate(href, UriKind.RelativeOrAbsolute, out var url))
                     {
                         if (!url.IsAbsoluteUri)
-                            url = new Uri(new Uri(Browser.Address), url);
+                            url = new Uri(new Uri(Browser.Url), url);
 
                         if (!url.Scheme.Equals("https", StringComparison.OrdinalIgnoreCase) && !url.Scheme.Equals("http", StringComparison.OrdinalIgnoreCase))
                             return false;
 
-                        await Browser.LoadUrlAsync(url.AbsoluteUri);
+                        await Browser.NavigateAsync(url.AbsoluteUri);
                         return true;
                     }
                 }
@@ -86,7 +84,7 @@ namespace IPTMGrabber.InvestorWebsite
                 _nextNode = null;
         }
 
-        public static bool FoundPager(ChromiumWebBrowser browser, PagerDefinition? pagerInfo, HtmlDocument doc, out NextPager? pager)
+        public static bool FoundPager(IPage browser, PagerDefinition? pagerInfo, HtmlDocument doc, out NextPager? pager)
         {
             var nextPager = new NextPager(browser, pagerInfo, doc);
             pager = !nextPager.LastPage ? nextPager : null;

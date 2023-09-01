@@ -1,19 +1,20 @@
 ﻿using CefSharp.OffScreen;
 using HtmlAgilityPack;
 using IPTMGrabber.Utils;
+using PuppeteerSharp;
 
 namespace IPTMGrabber.InvestorWebsite
 {
     internal class LinkPager : Pager
     {
-        private readonly ChromiumWebBrowser _browser;
+        private readonly IPage _browser;
         
         private TargetNode<int>[] _pages;
         public int CurrentPage { get; private set; }
 
         public override bool LastPage => _pages.Length == 0 || CurrentPage >= _pages.Max(p => p.Value);
 
-        public LinkPager(ChromiumWebBrowser browser, PagerDefinition? pagerInfo, HtmlDocument doc) : base(browser, pagerInfo)
+        public LinkPager(IPage browser, PagerDefinition? pagerInfo, HtmlDocument doc) : base(browser, pagerInfo)
         {
             _browser = browser;
             _pages = FindAllPages(doc);
@@ -34,9 +35,9 @@ namespace IPTMGrabber.InvestorWebsite
                 if (Uri.TryCreate(href, UriKind.RelativeOrAbsolute, out var url))
                 {
                     if (!url.IsAbsoluteUri)
-                        url = new Uri(new Uri(_browser.Address), url);
+                        url = new Uri(new Uri(_browser.Url), url);
 
-                    await _browser.LoadUrlAsync(url.AbsoluteUri);
+                    await _browser.NavigateAsync(url.AbsoluteUri);
                     var doc = await _browser.GetHtmlDocumentAsync(cancellationToken);
                     _pages = FindAllPages(doc);
 
@@ -47,7 +48,7 @@ namespace IPTMGrabber.InvestorWebsite
             return await base.MoveNextAsync(cancellationToken);
         }
 
-        public static bool FoundPager(ChromiumWebBrowser browser, PagerDefinition pagerInfo, HtmlDocument doc, out LinkPager? pager)
+        public static bool FoundPager(IPage browser, PagerDefinition pagerInfo, HtmlDocument doc, out LinkPager? pager)
         {
             var linkPager = new LinkPager(browser, pagerInfo, doc);
 

@@ -1,8 +1,6 @@
-﻿using CefSharp;
-using CefSharp.DevTools.Page;
-using CefSharp.OffScreen;
-using HtmlAgilityPack;
+﻿using HtmlAgilityPack;
 using IPTMGrabber.Utils;
+using PuppeteerSharp;
 
 namespace IPTMGrabber.InvestorWebsite;
 
@@ -13,7 +11,7 @@ internal class SelectPager : Pager
     private int _currentIndex;
     private HtmlNode? _selectNode;
 
-    public SelectPager(ChromiumWebBrowser browser, PagerDefinition? pagerInfo, HtmlDocument doc)
+    public SelectPager(IPage browser, PagerDefinition? pagerInfo, HtmlDocument doc)
         : base(browser, pagerInfo)
     {
         _selectNode = GetSelectNode(doc);
@@ -34,15 +32,13 @@ internal class SelectPager : Pager
         if (!LastPage)
         {
             var script =
-                $"var select = document.querySelector('{_selectNode.GetQuerySelector()}');" +
+                $"var select = document.querySelector(\"{_selectNode.GetQuerySelector()}\");" +
                 $" select.value = '{_values[_currentIndex]}';" +
                 "select.dispatchEvent(new Event('change'));";
-            await Browser.EvaluateScriptAsPromiseAsync(script);
-            await Browser.WaitForRenderIdleAsync(cancellationToken: cancellationToken);
+            await Browser.ExecuteJavascriptAsync(script);
             if (PagerInfo?.MoveNextScript != null)
             {
-                await Browser.EvaluateScriptAsPromiseAsync(PagerInfo.MoveNextScript);
-                await Browser.WaitForRenderIdleAsync(cancellationToken: cancellationToken);
+                await Browser.ExecuteJavascriptAsync(PagerInfo.MoveNextScript);
             }
 
             var doc = await Browser.GetHtmlDocumentAsync(cancellationToken);
@@ -57,7 +53,7 @@ internal class SelectPager : Pager
     private HtmlNode? GetSelectNode(HtmlDocument doc)
         => doc.DocumentNode.SelectSingleNode($"//select[option[text()='{DateTime.UtcNow.Year - 1}']]");
 
-    public static bool FoundPager(ChromiumWebBrowser browser, PagerDefinition? pagerInfo, HtmlDocument doc, out SelectPager? pager)
+    public static bool FoundPager(IPage browser, PagerDefinition? pagerInfo, HtmlDocument doc, out SelectPager? pager)
     {
         var nextPager = new SelectPager(browser, pagerInfo, doc);
         pager = !nextPager.LastPage ? nextPager : null;
