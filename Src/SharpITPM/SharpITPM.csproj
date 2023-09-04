@@ -7,7 +7,18 @@
     <UserSecretsId>36684b14-8372-46df-ab47-d1996838e0d2</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileRunArguments>-v "$(SolutionDir.Replace("Src\", ""))Data:/data"</DockerfileRunArguments>
+    <Configurations>Debug;Release;Release ARM32</Configurations>
   </PropertyGroup>
+  
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+    <DockerfileBuildArguments>--build-arg DOTNET_VERSION=7.0</DockerfileBuildArguments>
+    <DockerfileTag>sharpitpm</DockerfileTag>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Release ARM32'">
+    <DockerfileBuildArguments>--build-arg DOTNET_VERSION=7.0.10-bookworm-slim-arm32v7</DockerfileBuildArguments>
+    <DockerfileTag>sharpitpm.arm32</DockerfileTag>
+  </PropertyGroup>
+
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.3" />

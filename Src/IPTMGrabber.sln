@@ -5,20 +5,25 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IPTMGrabber", "IPTMGrabber\IPTMGrabber.csproj", "{A85BD0FA-D086-4B88-8C5E-E96DB3744586}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpITPM", "SharpITPM\SharpITPM.csproj", "{68CDB39E-6473-4645-B33F-8CD3CEEAB58B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpITPM", "SharpITPM\SharpITPM.csproj", "{68CDB39E-6473-4645-B33F-8CD3CEEAB58B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release ARM32|Any CPU = Release ARM32|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{A85BD0FA-D086-4B88-8C5E-E96DB3744586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A85BD0FA-D086-4B88-8C5E-E96DB3744586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A85BD0FA-D086-4B88-8C5E-E96DB3744586}.Release ARM32|Any CPU.ActiveCfg = Release ARM32|Any CPU
+		{A85BD0FA-D086-4B88-8C5E-E96DB3744586}.Release ARM32|Any CPU.Build.0 = Release ARM32|Any CPU
 		{A85BD0FA-D086-4B88-8C5E-E96DB3744586}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A85BD0FA-D086-4B88-8C5E-E96DB3744586}.Release|Any CPU.Build.0 = Release|Any CPU
 		{68CDB39E-6473-4645-B33F-8CD3CEEAB58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{68CDB39E-6473-4645-B33F-8CD3CEEAB58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CDB39E-6473-4645-B33F-8CD3CEEAB58B}.Release ARM32|Any CPU.ActiveCfg = Release ARM32|Any CPU
+		{68CDB39E-6473-4645-B33F-8CD3CEEAB58B}.Release ARM32|Any CPU.Build.0 = Release ARM32|Any CPU
 		{68CDB39E-6473-4645-B33F-8CD3CEEAB58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68CDB39E-6473-4645-B33F-8CD3CEEAB58B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection

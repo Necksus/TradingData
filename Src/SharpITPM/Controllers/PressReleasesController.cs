@@ -7,27 +7,29 @@ namespace SharpITPM.Controllers
     [Route("[controller]")]
     public class PressReleasesController : ControllerBase
     {
-        private static readonly string[] Summaries = new[]
-        {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-    };
-
         private readonly ILogger<PressReleasesController> _logger;
+        private readonly NewsAndEventsGrabber _pressReleasesGrabber;
 
-        public PressReleasesController(ILogger<PressReleasesController> logger)
+        public PressReleasesController(ILogger<PressReleasesController> logger, NewsAndEventsGrabber pressReleasesGrabber)
         {
             _logger = logger;
+            _pressReleasesGrabber = pressReleasesGrabber;
         }
 
         [HttpGet(Name = "GetPressReleases")]
-        public async Task<string> GetAsync(string ticker)
+        public async Task<string> GetAsync(string ticker, CancellationToken cancellationToken)
         {
-            var grabber = new NewsAndEventsGrabber();
-
-            using var memoryStream = new MemoryStream();
-            await grabber.GrabPressReleasesAsync(ticker, memoryStream, default);
-            memoryStream.Position = 0;
-            return await new StreamReader(memoryStream).ReadToEndAsync();
+            try
+            {
+                using var memoryStream = new MemoryStream();
+                await _pressReleasesGrabber.GrabPressReleasesAsync(ticker, memoryStream, cancellationToken);
+                memoryStream.Position = 0;
+                return await new StreamReader(memoryStream).ReadToEndAsync(cancellationToken);
+            }
+            catch(Exception ex)
+            {
+                return $"{ex.Message}\n{ex.StackTrace}";
+            }
         }
     }
 }

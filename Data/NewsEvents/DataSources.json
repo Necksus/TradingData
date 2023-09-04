@@ -1,5 +1,19 @@
 [
 	{
+		"Ticker": "AMAT",
+		"NewsUrls": {
+			"DateFormat": "MMM dd, yyyy",
+			"Urls": [
+				"https://ir.appliedmaterials.com/news-releases"
+			]
+		},
+		"EventsUrls": {
+			"Urls": [
+				"https://ir.appliedmaterials.com/events"
+			]
+		}
+	},
+	{
 		"Ticker": "ELF",
 		"NewsUrls": {
 			"PagerDefinition": {

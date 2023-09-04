@@ -1,16 +1,21 @@
 ﻿using HtmlAgilityPack;
 using System.Globalization;
 using IPTMGrabber.Utils;
-using Newtonsoft.Json;
 using PuppeteerSharp;
-using System.Data;
+using Microsoft.Extensions.Logging;
 
 namespace IPTMGrabber.InvestorWebsite
 {
     public class NewsAndEventsGrabber
     {
+        private readonly ILogger<NewsAndEventsGrabber> _logger;
         private EarningPredictionModel _earningPrediction = new EarningPredictionModel();
         private IBrowser _browser;
+
+        public NewsAndEventsGrabber(ILogger<NewsAndEventsGrabber> logger)
+        {
+            _logger = logger;
+        }
 
         public async Task ExecuteAsync(string dataroot, CancellationToken cancellationToken)
         {
@@ -18,16 +23,19 @@ namespace IPTMGrabber.InvestorWebsite
             {
                 if (!string.IsNullOrEmpty(dataSource.Ticker))
                 {
-                    Console.WriteLine($"=== Start grabbing data for {dataSource.Ticker}");
+                    _logger?.LogInformation($"=== Start grabbing data for {dataSource.Ticker}");
 
                     try
                     {
-                        await DownloadAsync(dataSource.NewsUrls, File.OpenWrite(Path.Combine(dataroot, "NewsEvents", "News", $"{dataSource.Ticker}.csv")), cancellationToken);
-                        await DownloadAsync(dataSource.EventsUrls, File.OpenWrite(Path.Combine(dataroot, "NewsEvents", "Events", $"{dataSource.Ticker}.csv")), cancellationToken);
+                        await using var newsOutputFile = File.OpenWrite(Path.Combine(dataroot, "NewsEvents", "News", $"{dataSource.Ticker}.csv"));
+                        await DownloadAsync(dataSource.NewsUrls, newsOutputFile, cancellationToken);
+
+                        await using var eventsOutputFile = File.OpenWrite(Path.Combine(dataroot, "NewsEvents", "Events", $"{dataSource.Ticker}.csv"));
+                        await DownloadAsync(dataSource.EventsUrls, eventsOutputFile, cancellationToken);
                     }
                     catch(Exception ex)
                     {
-                        Console.WriteLine($"Cannot get data for {dataSource.Ticker}: {ex.Message}");
+                        _logger?.LogError(ex, $"Cannot get data for {dataSource.Ticker}: {ex.Message}");
                     }
                 }
             }
@@ -77,6 +85,10 @@ namespace IPTMGrabber.InvestorWebsite
                                 }
                             }
                         }
+                        else
+                        {
+                            _logger?.LogWarning("Publication date not found, please check for custum date time format.");
+                        }
 
                         doc = await pager.MoveNextAsync(cancellationToken);
 
@@ -97,11 +109,18 @@ namespace IPTMGrabber.InvestorWebsite
         private Pager FindPager(IPage browser, PagerDefinition? pagerInfo, HtmlDocument doc)
         {
             if (NextPager.FoundPager(browser, pagerInfo, doc, out var nextPager))
+            {
+                _logger?.LogInformation("Found a 'next button' pager.");
                 return nextPager!;
+            }
 
             if (SelectPager.FoundPager(browser, pagerInfo, doc, out var selectPager))
+            {
+                _logger?.LogInformation("Found a 'combo box' pager.");
                 return selectPager!;
+            }
 
+            _logger?.LogWarning("No pager found");
             return new Pager(browser, pagerInfo);
         }
 
@@ -203,6 +222,11 @@ namespace IPTMGrabber.InvestorWebsite
                     });
             }
             var page = await _browser.NewPageAsync();
+
+            var userAgent = (await page.Browser.GetUserAgentAsync()).Replace("Headless", "");
+            await page.SetUserAgentAsync(userAgent);
+            _logger?.LogInformation($"Using the user agent: {userAgent}");
+
             await page.SetCacheEnabledAsync(false);
             await page.SetViewportAsync(new ViewPortOptions { Width = 1280, Height = 4000 });
             await page.NavigateAsync(url);

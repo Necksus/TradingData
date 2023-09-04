@@ -18,7 +18,7 @@ namespace IPTMGrabber.Utils
         }
 
         public static string? GetUnescapedText(this HtmlNode node)
-            => HttpUtility.HtmlDecode(node?.InnerText?.Trim());
+            => HttpUtility.HtmlDecode(node?.InnerText?.Trim().Trim('\n'));
 
         public static string? GetUnescapedAttribute(this HtmlNode node, string attributeName)
             => HttpUtility.HtmlDecode(node.Attributes[attributeName]?.Value?.Trim());
