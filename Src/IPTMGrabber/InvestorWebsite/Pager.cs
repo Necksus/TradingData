@@ -7,12 +7,12 @@ namespace IPTMGrabber.InvestorWebsite
     internal class Pager
     {
         public virtual bool LastPage => false;
-        public IPage Browser { get; }
+        public BrowserService Browser { get; }
         public PagerDefinition? PagerInfo { get; }
 
         public virtual Task<HtmlDocument?> MoveNextAsync(CancellationToken cancellationToken) => Task.FromResult<HtmlDocument?>(null);
 
-        public Pager(IPage browser, PagerDefinition? pagerInfo)
+        public Pager(BrowserService browser, PagerDefinition? pagerInfo)
         {
             Browser = browser;
             PagerInfo = pagerInfo;
@@ -26,9 +26,7 @@ namespace IPTMGrabber.InvestorWebsite
                 {
                     // Convert "classic" xpath to querySelector
                     var selector = PagerInfo.MoreButton.Trim('/').Replace("@", "");
-                    await Browser.ExecuteJavascriptAsync($"document.querySelector(\"{selector}\")?.click()");
-
-                    doc = await Browser.GetHtmlDocumentAsync(cancellationToken);
+                    doc = await Browser.ExecuteJavascriptAsync($"document.querySelector(\"{selector}\")?.click()", cancellationToken);
                 }
             }
 

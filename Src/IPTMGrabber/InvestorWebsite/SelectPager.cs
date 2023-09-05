@@ -11,7 +11,7 @@ internal class SelectPager : Pager
     private int _currentIndex;
     private HtmlNode? _selectNode;
 
-    public SelectPager(IPage browser, PagerDefinition? pagerInfo, HtmlDocument doc)
+    public SelectPager(BrowserService browser, PagerDefinition? pagerInfo, HtmlDocument doc)
         : base(browser, pagerInfo)
     {
         _selectNode = GetSelectNode(doc);
@@ -35,13 +35,12 @@ internal class SelectPager : Pager
                 $"var select = document.querySelector(\"{_selectNode.GetQuerySelector()}\");" +
                 $" select.value = '{_values[_currentIndex]}';" +
                 "select.dispatchEvent(new Event('change'));";
-            await Browser.ExecuteJavascriptAsync(script);
+            var doc = await Browser.ExecuteJavascriptAsync(script, cancellationToken);
             if (PagerInfo?.MoveNextScript != null)
             {
-                await Browser.ExecuteJavascriptAsync(PagerInfo.MoveNextScript);
+                doc = await Browser.ExecuteJavascriptAsync(PagerInfo.MoveNextScript, cancellationToken);
             }
 
-            var doc = await Browser.GetHtmlDocumentAsync(cancellationToken);
             _selectNode = GetSelectNode(doc);
 
             return doc;
@@ -53,7 +52,7 @@ internal class SelectPager : Pager
     private HtmlNode? GetSelectNode(HtmlDocument doc)
         => doc.DocumentNode.SelectSingleNode($"//select[option[text()='{DateTime.UtcNow.Year - 1}']]");
 
-    public static bool FoundPager(IPage browser, PagerDefinition? pagerInfo, HtmlDocument doc, out SelectPager? pager)
+    public static bool FoundPager(BrowserService browser, PagerDefinition? pagerInfo, HtmlDocument doc, out SelectPager? pager)
     {
         var nextPager = new SelectPager(browser, pagerInfo, doc);
         pager = !nextPager.LastPage ? nextPager : null;

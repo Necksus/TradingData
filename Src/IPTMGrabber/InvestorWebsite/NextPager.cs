@@ -10,38 +10,39 @@ namespace IPTMGrabber.InvestorWebsite
 
         public override bool LastPage => _nextNode == null;
 
-        public NextPager(IPage browser, PagerDefinition? pagerInfo, HtmlDocument doc) : base(browser, pagerInfo)
+        public NextPager(BrowserService browser, PagerDefinition? pagerInfo, HtmlDocument doc) : base(browser, pagerInfo)
         {
             FindNextLink(doc);
         }
 
         public override async Task<HtmlDocument?> MoveNextAsync(CancellationToken cancellationToken)
         {
-            if (!LastPage && (await TryNavigateHrefAsync() || await TryClickAsync()))
+            if (!LastPage)
             {
-                var doc = await Browser.GetHtmlDocumentAsync(cancellationToken);
-                FindNextLink(doc);
-
-                return doc;
+                var doc = await TryNavigateHrefAsync(cancellationToken) ?? await TryClickAsync(cancellationToken);
+                if (doc != null)
+                {
+                    FindNextLink(doc);
+                    return doc;
+                }
             }
 
             return await base.MoveNextAsync(cancellationToken);
         }
 
-        private async Task<bool> TryClickAsync()
+        private async Task<HtmlDocument?> TryClickAsync(CancellationToken cancellationToken)
         {
             var selector = _nextNode?.GetQuerySelector();
 
             if (!string.IsNullOrEmpty(selector))
             {
-                await Browser.ExecuteJavascriptAsync($"document.querySelector(\"{selector}\").click()");
-                return true;
+                return await Browser.ExecuteJavascriptAsync($"document.querySelector(\"{selector}\").click()", cancellationToken);
             }
 
-            return false;
+            return null;
         }
 
-        private async Task<bool> TryNavigateHrefAsync()
+        private async Task<HtmlDocument?> TryNavigateHrefAsync(CancellationToken cancellationToken)
         {
             var ancestor = _nextNode;
             var level = 0;
@@ -56,17 +57,16 @@ namespace IPTMGrabber.InvestorWebsite
                             url = new Uri(new Uri(Browser.Url), url);
 
                         if (!url.Scheme.Equals("https", StringComparison.OrdinalIgnoreCase) && !url.Scheme.Equals("http", StringComparison.OrdinalIgnoreCase))
-                            return false;
+                            return null;
 
-                        await Browser.NavigateAsync(url.AbsoluteUri);
-                        return true;
+                        return await Browser.OpenUrlAsync(url.AbsoluteUri, cancellationToken);
                     }
                 }
 
                 ancestor = ancestor.ParentNode;
                 level++;
             }
-            return false;
+            return null;
         }
 
         private void FindNextLink(HtmlDocument doc)
@@ -84,7 +84,7 @@ namespace IPTMGrabber.InvestorWebsite
                 _nextNode = null;
         }
 
-        public static bool FoundPager(IPage browser, PagerDefinition? pagerInfo, HtmlDocument doc, out NextPager? pager)
+        public static bool FoundPager(BrowserService browser, PagerDefinition? pagerInfo, HtmlDocument doc, out NextPager? pager)
         {
             var nextPager = new NextPager(browser, pagerInfo, doc);
             pager = !nextPager.LastPage ? nextPager : null;

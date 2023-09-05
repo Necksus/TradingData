@@ -9,12 +9,14 @@ namespace IPTMGrabber.InvestorWebsite
     public class NewsAndEventsGrabber
     {
         private readonly ILogger<NewsAndEventsGrabber> _logger;
+        private readonly BrowserService _browserService;
         private readonly EarningPredictionModel _earningPrediction;
         private IBrowser _browser;
 
-        public NewsAndEventsGrabber(ILogger<NewsAndEventsGrabber> logger, EarningPredictionModel earningPrediction)
+        public NewsAndEventsGrabber(ILogger<NewsAndEventsGrabber> logger, BrowserService browserService, EarningPredictionModel earningPrediction)
         {
             _logger = logger;
+            _browserService = browserService;
             _earningPrediction = earningPrediction;
         }
 
@@ -58,9 +60,8 @@ namespace IPTMGrabber.InvestorWebsite
                 var allEvents = new List<EventInfo>();
                 foreach (var url in urlsInfo.Urls)
                 {
-                    using var browser = await CreateBrowserAsync(url);
-                    var doc = await browser.GetHtmlDocumentAsync(cancellationToken);
-                    var pager = FindPager(browser, urlsInfo.PagerDefinition, doc);
+                    var doc = await _browserService.OpenUrlAsync(url, cancellationToken);
+                    var pager = FindPager(urlsInfo.PagerDefinition, doc);
                     var counter = 1;
                     bool newItems;
 
@@ -73,7 +74,7 @@ namespace IPTMGrabber.InvestorWebsite
 
                         if (publicationDates.Length > 0)
                         {
-                            Console.WriteLine($"   - {browser.Url} ({counter++})");
+                            Console.WriteLine($"   - {_browserService.Url} ({counter++})");
                             var events = FindDescriptions(publicationDates);
 
                             foreach (var eventInfo in events)
@@ -107,22 +108,22 @@ namespace IPTMGrabber.InvestorWebsite
             }
         }
 
-        private Pager FindPager(IPage browser, PagerDefinition? pagerInfo, HtmlDocument doc)
+        private Pager FindPager(PagerDefinition? pagerInfo, HtmlDocument doc)
         {
-            if (NextPager.FoundPager(browser, pagerInfo, doc, out var nextPager))
+            if (NextPager.FoundPager(_browserService, pagerInfo, doc, out var nextPager))
             {
                 _logger?.LogInformation("Found a 'next button' pager.");
                 return nextPager!;
             }
 
-            if (SelectPager.FoundPager(browser, pagerInfo, doc, out var selectPager))
+            if (SelectPager.FoundPager(_browserService, pagerInfo, doc, out var selectPager))
             {
                 _logger?.LogInformation("Found a 'combo box' pager.");
                 return selectPager!;
             }
 
             _logger?.LogWarning("No pager found");
-            return new Pager(browser, pagerInfo);
+            return new Pager(_browserService, pagerInfo);
         }
 
         private IEnumerable<EventInfo> FindDescriptions(IEnumerable<TargetNode<DateTime>> publicationDates)
@@ -203,35 +204,5 @@ namespace IPTMGrabber.InvestorWebsite
 
         private bool TryParseDescription(string text)
             => text.Split(' ').Length > 3; // At least 4 words!
-
-        private async Task<IPage> CreateBrowserAsync(string url)
-        {
-            // see https://stackoverflow.com/questions/70752901/how-to-get-puppeteer-sharp-working-on-an-aws-elastic-beanstalk-running-docker
-            if (_browser == null)
-            {
-                using var browserFetcher = new BrowserFetcher();
-                await browserFetcher.DownloadAsync();
-                _browser = await Puppeteer.LaunchAsync(
-                    new LaunchOptions
-                    {
-                        Headless = true,
-                        Args = new[] {
-                            "--disable-gpu",
-                            "--disable-dev-shm-usage",
-                            "--disable-setuid-sandbox",
-                            "--no-sandbox"}
-                    });
-            }
-            var page = await _browser.NewPageAsync();
-
-            var userAgent = (await page.Browser.GetUserAgentAsync()).Replace("Headless", "");
-            await page.SetUserAgentAsync(userAgent);
-            _logger?.LogInformation($"Using the user agent: {userAgent}");
-
-            await page.SetCacheEnabledAsync(false);
-            await page.SetViewportAsync(new ViewPortOptions { Width = 1280, Height = 4000 });
-            await page.NavigateAsync(url);
-            return page;
-        }
     }
 }

@@ -1,10 +1,33 @@
 [
 	{
+		"Ticker": "COLM",
+		"NewsUrls": {
+			"Urls": [
+				"https://investor.columbia.com/news-events/press-releases"
+			]
+		},
+		"EventsUrls": {
+			"Urls": [
+				"https://investor.columbia.com/news-events/ir-calendar/past",
+				"https://investor.columbia.com/news-events/ir-calendar"
+			]
+		}
+	},
+	{
 		"Ticker": "AMAT",
 		"NewsUrls": {
 			"DateFormat": "MMM dd, yyyy",
 			"Urls": [
-				"https://ir.appliedmaterials.com/news-releases"
+				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2023",
+				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2022",
+				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2021",
+				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2020",
+				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2019",
+				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2018",
+				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2017",
+				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2016",
+				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2015",
+				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2014"
 			]
 		},
 		"EventsUrls": {
