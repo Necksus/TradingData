@@ -9,12 +9,13 @@ namespace IPTMGrabber.InvestorWebsite
     public class NewsAndEventsGrabber
     {
         private readonly ILogger<NewsAndEventsGrabber> _logger;
-        private EarningPredictionModel _earningPrediction = new EarningPredictionModel();
+        private readonly EarningPredictionModel _earningPrediction;
         private IBrowser _browser;
 
-        public NewsAndEventsGrabber(ILogger<NewsAndEventsGrabber> logger)
+        public NewsAndEventsGrabber(ILogger<NewsAndEventsGrabber> logger, EarningPredictionModel earningPrediction)
         {
             _logger = logger;
+            _earningPrediction = earningPrediction;
         }
 
         public async Task ExecuteAsync(string dataroot, CancellationToken cancellationToken)
@@ -27,10 +28,10 @@ namespace IPTMGrabber.InvestorWebsite
 
                     try
                     {
-                        await using var newsOutputFile = File.OpenWrite(Path.Combine(dataroot, "NewsEvents", "News", $"{dataSource.Ticker}.csv"));
+                        await using var newsOutputFile = File.OpenWrite(Data.GetPressReleasesFilename(dataSource.Ticker));
                         await DownloadAsync(dataSource.NewsUrls, newsOutputFile, cancellationToken);
 
-                        await using var eventsOutputFile = File.OpenWrite(Path.Combine(dataroot, "NewsEvents", "Events", $"{dataSource.Ticker}.csv"));
+                        await using var eventsOutputFile = File.OpenWrite(Data.GetEventsFilename(dataSource.Ticker));
                         await DownloadAsync(dataSource.EventsUrls, eventsOutputFile, cancellationToken);
                     }
                     catch(Exception ex)

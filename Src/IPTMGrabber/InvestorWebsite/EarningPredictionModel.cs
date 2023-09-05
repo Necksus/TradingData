@@ -4,7 +4,7 @@ using Microsoft.ML.Data;
 
 namespace IPTMGrabber.InvestorWebsite
 {
-    internal class EarningPredictionModel
+    public class EarningPredictionModel
     {
         private const string PredictionModelName = "EarningPrediction.zip";
         private PredictionEngine<EventInfoInfo, EventInfoInfoPrediction> _predictionEngine;

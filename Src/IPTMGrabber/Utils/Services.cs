@@ -8,6 +8,7 @@ namespace IPTMGrabber.Utils
         public static void AddITPM(this IServiceCollection services)
         {
             services.AddSingleton<NewsAndEventsGrabber>();
+            services.AddSingleton<EarningPredictionModel>();
         }
     }
 }

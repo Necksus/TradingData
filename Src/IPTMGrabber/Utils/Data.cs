@@ -1,5 +1,6 @@
 ﻿using IPTMGrabber.InvestorWebsite;
 using Newtonsoft.Json;
+using System.Data;
 
 namespace IPTMGrabber.Utils
 {
@@ -11,5 +12,11 @@ namespace IPTMGrabber.Utils
 
         public static DataSource[] NewsEventsDataSource
            => JsonConvert.DeserializeObject<DataSource[]>(File.ReadAllText(Path.Combine(DataRoot, "NewsEvents", "DataSources.json")))!;
+
+        public static string GetPressReleasesFilename(string ticker)
+                => Path.Combine(DataRoot, "NewsEvents", "News", $"{ticker}.csv");
+
+        public static string GetEventsFilename(string ticker)
+            => Path.Combine(DataRoot, "NewsEvents", "Events", $"{ticker}.csv");
     }
 }
