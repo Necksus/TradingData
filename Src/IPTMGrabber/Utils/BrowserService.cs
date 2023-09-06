@@ -18,8 +18,8 @@ namespace IPTMGrabber.Utils
         public async Task<HtmlDocument> OpenUrlAsync(string url, CancellationToken cancellationToken)
         {
             // Trick for AMAT: keep it?
-            //_browser?.Dispose();
-            //_browser = null;
+            _browser?.Dispose();
+            _browser = null;
 
             if (_browser == null)
                 await CreateBrowserAsync();
