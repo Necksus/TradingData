@@ -3,6 +3,7 @@ using System.Globalization;
 using IPTMGrabber.Utils;
 using PuppeteerSharp;
 using Microsoft.Extensions.Logging;
+using IPTMGrabber.Utils.Browser;
 
 namespace IPTMGrabber.InvestorWebsite
 {
@@ -61,7 +62,7 @@ namespace IPTMGrabber.InvestorWebsite
                 foreach (var url in urlsInfo.Urls)
                 {
                     var doc = await _browserService.OpenUrlAsync(url, cancellationToken);
-                    var pager = FindPager(urlsInfo.PagerDefinition, doc);
+                    var pager = _browserService.FindPager(urlsInfo.PagerDefinition, doc);
                     var counter = 1;
                     bool newItems;
 
@@ -108,23 +109,6 @@ namespace IPTMGrabber.InvestorWebsite
             }
         }
 
-        private Pager FindPager(PagerDefinition? pagerInfo, HtmlDocument doc)
-        {
-            if (NextPager.FoundPager(_browserService, pagerInfo, doc, out var nextPager))
-            {
-                _logger?.LogInformation("Found a 'next button' pager.");
-                return nextPager!;
-            }
-
-            if (SelectPager.FoundPager(_browserService, pagerInfo, doc, out var selectPager))
-            {
-                _logger?.LogInformation("Found a 'combo box' pager.");
-                return selectPager!;
-            }
-
-            _logger?.LogWarning("No pager found");
-            return new Pager(_browserService, pagerInfo);
-        }
 
         private IEnumerable<EventInfo> FindDescriptions(IEnumerable<TargetNode<DateTime>> publicationDates)
         {

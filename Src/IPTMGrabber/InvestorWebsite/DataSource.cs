@@ -1,9 +1,10 @@
 ﻿namespace IPTMGrabber.InvestorWebsite
 {
 
-    internal class PagerDefinition
+    public class PagerDefinition
     {
         public string? NextButton { get; set; }
+        public string? NextQuerySelector { get; set; }
         public string? MoreButton { get; set; }
         public string? MoveNextScript { get; set; }
     }

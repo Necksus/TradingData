@@ -1,8 +1,9 @@
 ﻿using HtmlAgilityPack;
+using IPTMGrabber.InvestorWebsite;
 using IPTMGrabber.Utils;
 using PuppeteerSharp;
 
-namespace IPTMGrabber.InvestorWebsite;
+namespace IPTMGrabber.Utils.Browser;
 
 internal class SelectPager : Pager
 {

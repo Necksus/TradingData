@@ -1,76 +1,46 @@
-﻿using CsvHelper.Configuration;
-using CsvHelper;
-using HtmlAgilityPack;
+﻿using HtmlAgilityPack;
+using IPTMGrabber.InvestorWebsite;
 using IPTMGrabber.Utils;
-using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Data;
+using IPTMGrabber.Utils.Browser;
 using IPTMGrabber.YahooFinance;
+using Microsoft.Extensions.Logging;
 
 namespace IPTMGrabber.Edgar
 {
-    internal class EdgarGrabber
+    public class EdgarGrabber
     {
-        private const string InsiderUrlFormat = "https://www.sec.gov/cgi-bin/own-disp?action=getissuer&CIK={0}&type=&dateb=&owner=include&start={1}";
+        private readonly ILogger<EdgarGrabber> _logger;
+        private readonly BrowserService _browserService;
+        private const string InsiderUrlFormat = "https://www.sec.gov/cgi-bin/own-disp?action=getissuer&CIK={0}&type=&dateb=&owner=include&start=0";
 
-        public async Task ExecuteAsync(string dataroot, bool force)
+        public EdgarGrabber(ILogger<EdgarGrabber> logger, BrowserService browserService)
         {
-            var web = new HtmlWeb
+            _logger = logger;
+            _browserService = browserService;
+        }
+
+        public async Task GragInsidersAsync(string ticker, Stream csvStream, CancellationToken cancellationToken)
+        {
+            var pagerDefinition = new PagerDefinition
             {
-                CaptureRedirect = true,
-                UseCookies = true,
-                PreRequest = r =>
-                {
-                    r.AllowAutoRedirect = true;
-                    return true;
-                }
+                NextButton = "//input[@value='Next 80']",
+                NextQuerySelector = "input[value='Next 80']"
             };
+            var doc = await _browserService.OpenUrlAsync(string.Format(InsiderUrlFormat, ticker), cancellationToken);
+            var pager = _browserService.FindPager(pagerDefinition, doc);
+            await using var writer = await FileHelper.CreateCsvWriterAsync<InsiderMove>(csvStream);
 
-            foreach (var quote in Enumerators.EnumerateFromCsv<QuoteDetail>(FileHelper.GetYahooScreenerFilename(dataroot)))
+            while (!pager.LastPage)
             {
-                var end = false;
-                var index = 0;
-                var filename = Path.Combine(dataroot, "Edgar", "Transactions", $"{quote.Ticker}.csv");
+                _logger?.LogInformation($"Grabbing from {_browserService.Url}");
 
+                var moves = doc
+                    .ParseTable<InsiderMove>("//table[@id='transaction-report']", preprocess: FixEdgarTable)
+                    .Where(m => m.MoveType != MoveType.Unknown)
+                    .ToArray();
 
-                if ((force || !File.Exists(filename)) && !string.IsNullOrEmpty(quote.Cik))
-                {
-                    await using var csvWriter = await FileHelper.CreateCsvWriterAsync<InsiderMove>(filename);
-
-                    while (!end)
-                    {
-                        try
-                        {
-                            var doc = web.Load(string.Format(InsiderUrlFormat, quote.Cik, index));
-                            var moves = doc
-                                .ParseTable<InsiderMove>("//table[@id='transaction-report']", preprocess: FixEdgarTable)
-                                .Where(m => m.MoveType != MoveType.Unknown)
-                                .ToArray();
-
-                            await csvWriter.WriteRecordsAsync(moves);
-                            end = moves.Length == 0 || moves.Last().Date < DateTime.Now - TimeSpan.FromDays(365 * 6);
-                            index += 80;
-                        }
-                        catch (Exception ex)
-                        {
-
-                        }
-                    }
-                }
-
-                if (File.Exists(filename))
-                {
-                    var aggregateFilename = Path.Combine(dataroot, "Edgar", "TransactionsPerMonth", $"{quote.Ticker}.csv");
-                    var insiderMoves = Enumerators.EnumerateFromCsv<InsiderMove>(filename);
-                    await using var aggregateWriter = await FileHelper.CreateCsvWriterAsync<MonthlyTransaction>(aggregateFilename);
-                    await aggregateWriter.WriteRecordsAsync(AggregateData(insiderMoves).ToArray());
-                }
-
-                Console.WriteLine($"Get Edgar data for {quote.Ticker}");
+                await writer.WriteRecordsAsync(moves, cancellationToken);
+                doc = await pager.MoveNextAsync(cancellationToken);
             }
         }
 
@@ -89,22 +59,6 @@ namespace IPTMGrabber.Edgar
                 default:
                     return value;
             }
-        }
-
-        private IEnumerable<MonthlyTransaction> AggregateData(IEnumerable<InsiderMove> insiderMoves)
-        {
-            return insiderMoves
-                .GroupBy(move => new {move.Date.Year, move.Date.Month})
-                .Select(group => new MonthlyTransaction
-                {
-                    Date = new DateTime(group.Key.Year, group.Key.Month, 1),
-                    TotalBuy = group
-                        .Where(move => move.MoveType == MoveType.A)
-                        .Sum(move => move.NumberOfSecuritiesTransacted),
-                    TotalSell = group
-                        .Where(move => move.MoveType == MoveType.D)
-                        .Sum(move => move.NumberOfSecuritiesTransacted)
-                });
         }
     }
 }

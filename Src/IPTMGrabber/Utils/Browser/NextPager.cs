@@ -1,8 +1,9 @@
 ﻿using HtmlAgilityPack;
+using IPTMGrabber.InvestorWebsite;
 using IPTMGrabber.Utils;
 using PuppeteerSharp;
 
-namespace IPTMGrabber.InvestorWebsite
+namespace IPTMGrabber.Utils.Browser
 {
     internal class NextPager : Pager
     {
@@ -32,7 +33,7 @@ namespace IPTMGrabber.InvestorWebsite
 
         private async Task<HtmlDocument?> TryClickAsync(CancellationToken cancellationToken)
         {
-            var selector = _nextNode?.GetQuerySelector();
+            var selector = _nextNode?.GetQuerySelector() ?? PagerInfo.NextQuerySelector;
 
             if (!string.IsNullOrEmpty(selector))
             {

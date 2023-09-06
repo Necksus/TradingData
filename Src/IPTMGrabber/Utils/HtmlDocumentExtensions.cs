@@ -20,10 +20,10 @@ namespace IPTMGrabber.Utils
 
             if (tableNodes?.Count > index)
             {
-                foreach (var row in tableNodes[index].SelectNodes("tr").Skip(1))
+                foreach (var row in tableNodes[index].SelectNodes(".//tr").Skip(1))
                 {
                     var newResult = new T();
-                    var tdNodes = row.SelectNodes("td");
+                    var tdNodes = row.SelectNodes(".//td");
                     for (int i = 0; i < tdNodes.Count; i++)
                     {
                         var currentProperty = mapping.FirstOrDefault(p =>

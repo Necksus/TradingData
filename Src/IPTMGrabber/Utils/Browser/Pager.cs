@@ -1,10 +1,10 @@
 ﻿using HtmlAgilityPack;
-using IPTMGrabber.Utils;
+using IPTMGrabber.InvestorWebsite;
 using PuppeteerSharp;
 
-namespace IPTMGrabber.InvestorWebsite
+namespace IPTMGrabber.Utils.Browser
 {
-    internal class Pager
+    public class Pager
     {
         public virtual bool LastPage => false;
         public BrowserService Browser { get; }

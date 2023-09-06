@@ -1,11 +1,12 @@
 ﻿using HtmlAgilityPack;
+using IPTMGrabber.InvestorWebsite;
 using IPTMGrabber.Utils;
 
-namespace IPTMGrabber.InvestorWebsite
+namespace IPTMGrabber.Utils.Browser
 {
     internal class LinkPager : Pager
     {
-        
+
         private TargetNode<int>[] _pages;
         public int CurrentPage { get; private set; }
 
