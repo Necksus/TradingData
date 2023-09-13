@@ -1,251 +1,264 @@
 [
-	{
-		"Ticker": "COLM",
-		"NewsUrls": {
-			"Urls": [
-				"https://investor.columbia.com/news-events/press-releases"
-			]
-		},
-		"EventsUrls": {
-			"Urls": [
-				"https://investor.columbia.com/news-events/ir-calendar/past",
-				"https://investor.columbia.com/news-events/ir-calendar"
-			]
-		}
-	},
-	{
-		"Ticker": "AMAT",
-		"NewsUrls": {
-			"DateFormat": "MMM dd, yyyy",
-			"Urls": [
-				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2023",
-				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2022",
-				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2021",
-				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2020",
-				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2019",
-				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2018",
-				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2017",
-				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2016",
-				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2015",
-				"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2014"
-			]
-		},
-		"EventsUrls": {
-			"Urls": [
-				"https://ir.appliedmaterials.com/events"
-			]
-		}
-	},
-	{
-		"Ticker": "ELF",
-		"NewsUrls": {
-			"PagerDefinition": {
-				"MoreButton": "//a[@title='Load more items']",
-				"MoveNextScript": "document.querySelector('#views-exposed-form-newsroom-block-3').dispatchEvent(new Event('change'));"
+		{
+			"Ticker": "AIN",
+			"NewsUrls": {
+				"Urls": [
+					"https://investors.albint.com/news-and-events/press-releases?a606091c_year%5Bvalue%5D=_none&op=Filter"
+				]
 			},
-			"Urls": [
-				"https://investor.elfbeauty.com/news-and-events/press-releases"
-			]
+			"EventsUrls": {
+				"Urls": [
+					"https://investors.albint.com/news-and-events/events-calendar"
+				]
+			}
 		},
-		"EventsUrls": {
-			"DateFormat": "M/d/yyyy hh:mmtt",
-			"Urls": [
-				"https://investor.elfbeauty.com/news-and-events/events-and-presentations"
-			]
-		}
-	},
-	{
-		"Ticker": "LSCC",
-		"NewsUrls": {
-			"Urls": [
-				"https://ir.latticesemi.com/investor-overview/news-releases"
-			]
-		},
-		"EventsUrls": {
-			"DateFormat": "MMM dd, yyyy 'at' h:mm tt",
-			"Urls": [
-				"https://ir.latticesemi.com/past-events"
-			]
-		}
-	},
-	{
-		"Ticker": "HUBS",
-		"NewsUrls": {
-			"Urls": [
-				"https://ir.hubspot.com/news"
-			]
-		},
-		"EventsUrls": {
-			"Urls": [
-				"https://ir.hubspot.com/events"
-			]
-		}
-	},
-	{
-		"Ticker": "AXON",
-		"NewsUrls": {
-			"PagerDefinition": {
-				"NextButton": "//a[@aria-label='Show next page']"
+		{
+			"Ticker": "COLM",
+			"NewsUrls": {
+				"Urls": [
+					"https://investor.columbia.com/news-events/press-releases"
+				]
 			},
-			"Urls": [
-				"https://investor.axon.com/press-releases"
-			]
+			"EventsUrls": {
+				"Urls": [
+					"https://investor.columbia.com/news-events/ir-calendar/past",
+					"https://investor.columbia.com/news-events/ir-calendar"
+				]
+			}
 		},
-		"EventsUrls": {
-			"PagerDefinition": {
-				"NextButton": "//a[@aria-label='Show next page']"
+		{
+			"Ticker": "AMAT",
+			"NewsUrls": {
+				"DateFormat": "MMM dd, yyyy",
+				"Urls": [
+					"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2023",
+					"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2022",
+					"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2021",
+					"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2020",
+					"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2019",
+					"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2018",
+					"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2017",
+					"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2016",
+					"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2015",
+					"https://ir.appliedmaterials.com/news-releases?9f150924_year[value]=2014"
+				]
 			},
-			"Urls": [
-				"https://investor.axon.com/events-and-presentations"
-			]
-		}
-	},
-	{
-		"Ticker": "YOU",
-		"NewsUrls": {
-			"DateFormat": "MMM d, yyyy h:mmtt",
-			"PagerDefinition": {
-				"NextButton": "//a[@aria-label='Next Page']"
+			"EventsUrls": {
+				"Urls": [
+					"https://ir.appliedmaterials.com/events"
+				]
+			}
+		},
+		{
+			"Ticker": "ELF",
+			"NewsUrls": {
+				"PagerDefinition": {
+					"MoreButton": "//a[@title='Load more items']",
+					"MoveNextScript": "document.querySelector('#views-exposed-form-newsroom-block-3').dispatchEvent(new Event('change'));"
+				},
+				"Urls": [
+					"https://investor.elfbeauty.com/news-and-events/press-releases"
+				]
 			},
-			"Urls": [
-				"https://ir.clearme.com/news-events/press-releases"
-			]
+			"EventsUrls": {
+				"DateFormat": "M/d/yyyy hh:mmtt",
+				"Urls": [
+					"https://investor.elfbeauty.com/news-and-events/events-and-presentations"
+				]
+			}
 		},
-		"EventsUrls": {
-			"DateFormat": "MMMM d, yyyy h:mm tt",
-			"PagerDefinition": {
-				"NextButton": "//a[@aria-label='Next Page']"
+		{
+			"Ticker": "LSCC",
+			"NewsUrls": {
+				"Urls": [
+					"https://ir.latticesemi.com/investor-overview/news-releases"
+				]
 			},
-			"Urls": [
-				"https://ir.clearme.com/news-events/ir-calendar",
-				"https://ir.clearme.com/news-events/ir-calendar/past"
-			]
-		}
-	},
-	{
-		"Ticker": "DELL",
-		"NewsUrls": {
-			"Urls": [
-				"https://investors.delltechnologies.com/news-events/press-release?af23095e_year%5Bvalue%5D=_none&op=Filter&page=0"
-			]
+			"EventsUrls": {
+				"DateFormat": "MMM dd, yyyy 'at' h:mm tt",
+				"Urls": [
+					"https://ir.latticesemi.com/past-events"
+				]
+			}
 		},
-		"EventsUrls": {
-			"DateFormat": "MMM dd, yyyy 'at' h:mm tt",
-			"Urls": [
-				"https://investors.delltechnologies.com/news-events/upcoming-events",
-				"https://investors.delltechnologies.com/news-events/past-events"
-			]
-		}
-	},
-	{
-		"Ticker": "UA",
-		"NewsUrls": {
-			"Urls": [
-				"https://about.underarmour.com/en/investors/press-releases--events---presentations.html"
-			]
-		},
-		"EventsUrls": {
-			"Urls": []
-		}
-	},
-	{
-		"Ticker": "LYB",
-		"NewsUrls": {
-			"PagerDefinition": {
-				"NextButton": "//button[@title='Next page']"
+		{
+			"Ticker": "HUBS",
+			"NewsUrls": {
+				"Urls": [
+					"https://ir.hubspot.com/news"
+				]
 			},
-			"Urls": [
-				"https://www.lyondellbasell.com/en/news-events/products--technology-news/",
-				"https://www.lyondellbasell.com/en/news-events/corporate--financial-news/"
-			]
+			"EventsUrls": {
+				"Urls": [
+					"https://ir.hubspot.com/events"
+				]
+			}
 		},
-		"EventsUrls": {
-			"PagerDefinition": {
-				"NextButton": "//button[@title='Next page']"
+		{
+			"Ticker": "AXON",
+			"NewsUrls": {
+				"PagerDefinition": {
+					"NextButton": "//a[@aria-label='Show next page']"
+				},
+				"Urls": [
+					"https://investor.axon.com/press-releases"
+				]
 			},
-			"Urls": [
-				"https://www.lyondellbasell.com/en/investors/investor-events/"
-			]
-		}
-	},
-	{
-		"Ticker": "ABNB",
-		"NewsUrls": {
-			"Urls": [
-				"https://investors.airbnb.com/press-releases/default.aspx"
-			]
+			"EventsUrls": {
+				"PagerDefinition": {
+					"NextButton": "//a[@aria-label='Show next page']"
+				},
+				"Urls": [
+					"https://investor.axon.com/events-and-presentations"
+				]
+			}
 		},
-		"EventsUrls": {
-			"Urls": [
-				"https://investors.airbnb.com/events-and-presentations/default.aspx"
-			]
-		}
-	},
-	{
-		"Ticker": "ADI",
-		"NewsUrls": {
-			"Urls": [
-				"https://investor.analog.com/press-releases?a9d908dd_year%5Bvalue%5D=_none&op=Filter"
-			]
+		{
+			"Ticker": "YOU",
+			"NewsUrls": {
+				"DateFormat": "MMM d, yyyy h:mmtt",
+				"PagerDefinition": {
+					"NextButton": "//a[@aria-label='Next Page']"
+				},
+				"Urls": [
+					"https://ir.clearme.com/news-events/press-releases"
+				]
+			},
+			"EventsUrls": {
+				"DateFormat": "MMMM d, yyyy h:mm tt",
+				"PagerDefinition": {
+					"NextButton": "//a[@aria-label='Next Page']"
+				},
+				"Urls": [
+					"https://ir.clearme.com/news-events/ir-calendar",
+					"https://ir.clearme.com/news-events/ir-calendar/past"
+				]
+			}
 		},
-		"EventsUrls": {
-			"DateFormat": "MMM dd, yyyy 'at' h:mm tt",
-			"Urls": [
-				"https://investor.analog.com/events"
-			]
-		}
-	},
-	{
-		"Ticker": "KLAC",
-		"NewsUrls": {
-			"DateFormat": "MMM dd, yyyy h:mm tt",
-			"Urls": [
-				"https://ir.kla.com/news-events/press-releases"
-			]
+		{
+			"Ticker": "DELL",
+			"NewsUrls": {
+				"Urls": [
+					"https://investors.delltechnologies.com/news-events/press-release?af23095e_year%5Bvalue%5D=_none&op=Filter&page=0"
+				]
+			},
+			"EventsUrls": {
+				"DateFormat": "MMM dd, yyyy 'at' h:mm tt",
+				"Urls": [
+					"https://investors.delltechnologies.com/news-events/upcoming-events",
+					"https://investors.delltechnologies.com/news-events/past-events"
+				]
+			}
 		},
-		"EventsUrls": {
-			"Urls": [
-				"https://ir.kla.com/news-events/presentations"
-			]
-		}
-	},
-	{
-		"Ticker": "MBLY",
-		"NewsUrls": {
-			"Urls": [
-				"https://ir.mobileye.com/news-events/news-releases?a9d908dd_year%5Bvalue%5D=_none&op=Filter"
-			]
+		{
+			"Ticker": "UA",
+			"NewsUrls": {
+				"Urls": [
+					"https://about.underarmour.com/en/investors/press-releases--events---presentations.html"
+				]
+			},
+			"EventsUrls": {
+				"Urls": []
+			}
 		},
-		"EventsUrls": {
-			"Urls": [
-				"https://ir.mobileye.com/news-events/events-presentations"
-			]
-		}
-	},
-	{
-		"Ticker": "FLR",
-		"NewsUrls": {
-			"Urls": [
-				"https://investor.fluor.com/news/default.aspx"
-			]
+		{
+			"Ticker": "LYB",
+			"NewsUrls": {
+				"PagerDefinition": {
+					"NextButton": "//button[@title='Next page']"
+				},
+				"Urls": [
+					"https://www.lyondellbasell.com/en/news-events/products--technology-news/",
+					"https://www.lyondellbasell.com/en/news-events/corporate--financial-news/"
+				]
+			},
+			"EventsUrls": {
+				"PagerDefinition": {
+					"NextButton": "//button[@title='Next page']"
+				},
+				"Urls": [
+					"https://www.lyondellbasell.com/en/investors/investor-events/"
+				]
+			}
 		},
-		"EventsUrls": {
-			"Urls": [
-				"https://investor.fluor.com/events-and-presentations/default.aspx"
-			]
-		}
-	},
-	{
-		"Ticker": "",
-		"NewsUrls": {
-			"Urls": [
-				""
-			]
+		{
+			"Ticker": "ABNB",
+			"NewsUrls": {
+				"Urls": [
+					"https://investors.airbnb.com/press-releases/default.aspx"
+				]
+			},
+			"EventsUrls": {
+				"Urls": [
+					"https://investors.airbnb.com/events-and-presentations/default.aspx"
+				]
+			}
 		},
-		"EventsUrls": {
-			"Urls": [
-				""
-			]
+		{
+			"Ticker": "ADI",
+			"NewsUrls": {
+				"Urls": [
+					"https://investor.analog.com/press-releases?a9d908dd_year%5Bvalue%5D=_none&op=Filter"
+				]
+			},
+			"EventsUrls": {
+				"DateFormat": "MMM dd, yyyy 'at' h:mm tt",
+				"Urls": [
+					"https://investor.analog.com/events"
+				]
+			}
+		},
+		{
+			"Ticker": "KLAC",
+			"NewsUrls": {
+				"DateFormat": "MMM dd, yyyy h:mm tt",
+				"Urls": [
+					"https://ir.kla.com/news-events/press-releases"
+				]
+			},
+			"EventsUrls": {
+				"Urls": [
+					"https://ir.kla.com/news-events/presentations"
+				]
+			}
+		},
+		{
+			"Ticker": "MBLY",
+			"NewsUrls": {
+				"Urls": [
+					"https://ir.mobileye.com/news-events/news-releases?a9d908dd_year%5Bvalue%5D=_none&op=Filter"
+				]
+			},
+			"EventsUrls": {
+				"Urls": [
+					"https://ir.mobileye.com/news-events/events-presentations"
+				]
+			}
+		},
+		{
+			"Ticker": "FLR",
+			"NewsUrls": {
+				"Urls": [
+					"https://investor.fluor.com/news/default.aspx"
+				]
+			},
+			"EventsUrls": {
+				"Urls": [
+					"https://investor.fluor.com/events-and-presentations/default.aspx"
+				]
+			}
+		},
+		{
+			"Ticker": "",
+			"NewsUrls": {
+				"Urls": [
+					""
+				]
+			},
+			"EventsUrls": {
+				"Urls": [
+					""
+				]
+			}
 		}
-	}
 ]
