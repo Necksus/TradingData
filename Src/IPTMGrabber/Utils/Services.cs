@@ -1,6 +1,7 @@
 ﻿using IPTMGrabber.Edgar;
 using IPTMGrabber.InvestorWebsite;
 using IPTMGrabber.Utils.Browser;
+using IPTMGrabber.YahooFinance;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace IPTMGrabber.Utils
@@ -12,7 +13,8 @@ namespace IPTMGrabber.Utils
             services.AddSingleton<BrowserService>();
             services.AddSingleton<NewsAndEventsGrabber>();
             services.AddSingleton<EarningPredictionModel>();
-            services.AddSingleton<EdgarGrabber>();
+            services.AddSingleton<EdgarService>();
+            services.AddSingleton<YahooService>();
         }
     }
 }

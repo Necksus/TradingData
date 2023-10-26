@@ -9,20 +9,20 @@ namespace SharpITPM.Controllers
     [ApiController]
     public class EdgarController : ControllerBase
     {
-        private readonly EdgarGrabber _edgarGrabber;
+        private readonly EdgarService _edgarService;
 
-        public EdgarController(ILogger<EdgarController> logger, EdgarGrabber _edgarGrabber)
+        public EdgarController(ILogger<EdgarController> logger, EdgarService edgarService)
         {
-            this._edgarGrabber = _edgarGrabber;
+            this._edgarService = edgarService;
         }
 
-        [HttpGet(Name = "GetInsiders")]
-        public async Task<string> GetAsync(string cik, CancellationToken cancellationToken)
+        [HttpGet("Insiders", Name = "GetInsiders")]
+        public async Task<string> GetInsidersAsync(string ticker, CancellationToken cancellationToken)
         {
             try
             {
                 using var memoryStream = new MemoryStream();
-                await _edgarGrabber.GrabInsidersAsync(cik, memoryStream, cancellationToken);
+                await _edgarService.GrabInsidersAsync(ticker, memoryStream, cancellationToken);
                 memoryStream.Position = 0;
                 return await new StreamReader(memoryStream).ReadToEndAsync(cancellationToken);
             }
@@ -32,5 +32,21 @@ namespace SharpITPM.Controllers
             }
         }
 
+
+        [HttpGet("Fillings", Name= "GetFillings")]
+        public async Task<string> GetFillingsAsync(string ticker, CancellationToken cancellationToken)
+        {
+            try
+            {
+                using var memoryStream = new MemoryStream();
+                await _edgarService.GrabFillings(ticker, memoryStream, cancellationToken);
+                memoryStream.Position = 0;
+                return await new StreamReader(memoryStream).ReadToEndAsync(cancellationToken);
+            }
+            catch (Exception ex)
+            {
+                return $"{ex.Message}\n{ex.StackTrace}";
+            }
+        }
     }
 }
