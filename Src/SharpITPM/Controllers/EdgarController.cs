@@ -22,7 +22,7 @@ namespace SharpITPM.Controllers
             try
             {
                 using var memoryStream = new MemoryStream();
-                await _edgarGrabber.GragInsidersAsync(cik, memoryStream, cancellationToken);
+                await _edgarGrabber.GrabInsidersAsync(cik, memoryStream, cancellationToken);
                 memoryStream.Position = 0;
                 return await new StreamReader(memoryStream).ReadToEndAsync(cancellationToken);
             }
