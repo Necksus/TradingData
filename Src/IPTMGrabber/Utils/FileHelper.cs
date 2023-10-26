@@ -7,9 +7,6 @@ namespace IPTMGrabber.Utils
 {
     internal static class FileHelper
     {
-        public static string GetYahooScreenerFilename(string dataRoot)
-            => Path.Combine(dataRoot, "YahooFinance", "ScreenerDetails.csv");
-
         public static async Task<CsvWriter> CreateCsvWriterAsync<T>(string filename)
         {
             await using var csvStream = File.OpenRead(filename);

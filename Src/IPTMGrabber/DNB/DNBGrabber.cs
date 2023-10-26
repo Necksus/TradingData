@@ -1,8 +1,6 @@
 ﻿using HtmlAgilityPack;
 using IPTMGrabber.Utils;
 using Newtonsoft.Json;
-using System.Net;
-using System.Net.Http.Headers;
 using CefSharp;
 using CefSharp.OffScreen;
 using IPTMGrabber.YahooFinance;
@@ -29,7 +27,7 @@ namespace IPTMGrabber.DNB
             var mappings = Enumerators.EnumerateFromCsv<ManualMapping>(Path.Combine(dataroot, "DNB", "ManualMapping.csv")).ToList();
 
             var different = 0;
-            var yahooStocks = Enumerators.EnumerateFromCsv<QuoteDetail>(FileHelper.GetYahooScreenerFilename(dataroot)).ToArray();
+            var yahooStocks = Enumerators.EnumerateFromCsv<QuoteDetail>(Data.GetYahooScreenerFilename()).ToArray();
 
             var writer = await FileHelper.CreateCsvWriterAsync<DNBStock>(dnbFilename);
             await writer.WriteRecordsAsync(dnbStocks.OrderBy(s => s.Ticker));

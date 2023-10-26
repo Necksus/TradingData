@@ -3,6 +3,7 @@
 
 using System.Globalization;
 using CsvHelper;
+using IPTMGrabber.Utils;
 using Newtonsoft.Json;
 
 namespace IPTMGrabber.Investing
@@ -17,10 +18,6 @@ namespace IPTMGrabber.Investing
 
     class InvestingGrabber
     {
-        private const string InvestingFolder = "Investing";
-
-        private readonly string _rootFolder;
-
         private Dictionary<InvestingType, string> _datasets = new Dictionary<InvestingType, string>()
         {
             {InvestingType.Migigan_ConsumerExpectations, "https://sbcharts.investing.com/events_charts/us/900.json"},
@@ -68,15 +65,10 @@ namespace IPTMGrabber.Investing
                 case InvestingType.Migigan_ConsumerExpectations:
                 case InvestingType.Michigan_UMCSI:
                 case InvestingType.Michigan_CurrentCondition:
-                    return Path.Combine(_rootFolder, InvestingFolder, $"{type}.csv");
+                    return Path.Combine(Data.GetInvestingFolder(), $"{type}.csv");
                 default:
                     throw new ArgumentOutOfRangeException(nameof(type), type, null);
             }
-        }
-
-        public InvestingGrabber(string rootFolder)
-        {
-            _rootFolder = rootFolder;
         }
     }
 }
