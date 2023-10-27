@@ -1,4 +1,5 @@
 ﻿using IPTMGrabber.InvestorWebsite;
+using IPTMGrabber.Nasdaq;
 using Newtonsoft.Json;
 using System.Data;
 
@@ -16,6 +17,11 @@ namespace IPTMGrabber.Utils
         public static string GetYahooScreenerFilename()
             => Path.Combine(DataRoot, "YahooFinance", "ScreenerDetails.csv");
 
+        public static string GetZacksScreener()
+            => Path.Combine(DataRoot, "Zacks", "Screener.csv");
+
+        public static string GetFinancialModeling(string ticker)
+            => Path.Combine(DataRoot, "FinancialModeling", $"{ticker}.json");
 
         public static DataSource[] NewsEventsDataSource
            => JsonConvert.DeserializeObject<DataSource[]>(File.ReadAllText(Path.Combine(DataRoot, "NewsEvents", "DataSources.json")))!;
@@ -35,5 +41,10 @@ namespace IPTMGrabber.Utils
             var uri = new Uri(url);
             return Path.Combine(DataRoot, "SEC", "Fillings", "Details", fillingType.Replace("/", "-"), ticker, uri.Segments.Last());
         }
+
+        public static string GetISMManufacturingFilename(NasdaqType type) => Path.Combine(DataRoot, "ISM", "Manufacturing ROB", $"{type}.csv");
+        public static string GetISMServiceFilename(NasdaqType type) => Path.Combine(DataRoot, "ISM", "Service ROB", $"{type}.csv");
+        public static string GetISMSectorFilename(bool isManufacturing) => Path.Combine(DataRoot, "ISM", isManufacturing ? "Manufacturing ROB" : "Service ROB", "Sectors.csv");
+
     }
 }

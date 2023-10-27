@@ -7,10 +7,10 @@ namespace IPTMGrabber.Utils
 {
     internal class Enumerators
     {
-        public static IEnumerable<string> GetTickers(string dataRoot)
+        public static IEnumerable<string> GetTickers()
         {
             // Prepare reader
-            using var reader = new StreamReader(Path.Combine(dataRoot, "Zacks", "Screener.csv"));
+            using var reader = new StreamReader(Data.GetZacksScreener());
             using var csv = new CsvReader(reader, new CsvConfiguration(CultureInfo.InvariantCulture)
             {
                 HasHeaderRecord = true,

@@ -19,13 +19,10 @@ namespace IPTMGrabber.YahooFinance
             "5be13c41d65855b9f03652fd66033c59"
         };
 
-        public static string GetFilename(string dataroot, string ticker)
-            => Path.Combine(dataroot, "FinancialModeling", $"{ticker}.json");
-
         private string GetUrl(string ticker, string apiKey)
             => $"https://financialmodelingprep.com/api/v3/profile/{ticker}?apikey={apiKey}";
 
-        public async Task ExecuteAsync(string dataroot)
+        public async Task ExecuteAsync()
         {
             var currentApiKey = 0;
             using var client = new HttpClient
@@ -33,9 +30,9 @@ namespace IPTMGrabber.YahooFinance
                 Timeout = TimeSpan.FromSeconds(5)
 
             };
-            foreach (var ticker in Enumerators.GetTickers(dataroot))
+            foreach (var ticker in Enumerators.GetTickers())
             {
-                if (File.Exists(GetFilename(dataroot, ticker)))
+                if (File.Exists(Data.GetFinancialModeling(ticker)))
                     continue;
 
                 HttpResponseMessage response = null;
@@ -66,7 +63,7 @@ namespace IPTMGrabber.YahooFinance
                                 error = true;
                                 break;
                             case HttpStatusCode.Forbidden:
-                                File.WriteAllText(GetFilename(dataroot, ticker), "[]");
+                                File.WriteAllText(Data.GetFinancialModeling(ticker), "[]");
                                 continue;
                             default:
                                 break;
@@ -74,7 +71,7 @@ namespace IPTMGrabber.YahooFinance
                     }
                 } while (error);
 
-                await File.WriteAllTextAsync(GetFilename(dataroot, ticker), await response.Content.ReadAsStringAsync());
+                await File.WriteAllTextAsync(Data.GetFinancialModeling(ticker), await response.Content.ReadAsStringAsync());
                 Console.WriteLine($"Get Financial Modeling profile for {ticker}.");
             }
         }

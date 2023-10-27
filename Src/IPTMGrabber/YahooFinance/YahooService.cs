@@ -37,10 +37,10 @@ namespace IPTMGrabber.YahooFinance
     public class YahooService
     {
 
-        public async Task ExecuteAsync(string dataRoot)
+        public async Task ExecuteAsync()
         {
             // Prepare reader
-            using var reader = new StreamReader(Path.Combine(dataRoot, "Zacks", "Screener.csv"));
+            using var reader = new StreamReader(Data.GetZacksScreener());
             using var csv = new CsvReader(reader, new CsvConfiguration(CultureInfo.InvariantCulture)
             {
                 HasHeaderRecord = true,
@@ -52,7 +52,7 @@ namespace IPTMGrabber.YahooFinance
 
             // Prepare writer
             using var client = new HttpClient();
-            await using var writer = new StreamWriter(Path.Combine(dataRoot, "YahooFinance", "ScreenerDetails.csv"));
+            await using var writer = new StreamWriter(Data.GetYahooScreenerFilename());
             await using var csvWriter = new CsvWriter(writer, new CsvConfiguration(CultureInfo.InvariantCulture)
             {
                 Delimiter = ",",
@@ -85,7 +85,7 @@ namespace IPTMGrabber.YahooFinance
                 {
                     var quoteDetail = QuoteDetail.FromJson(ticker, await response.Content.ReadAsStringAsync());
 
-                    var financialModelingFile = FinancialModelingGrabber.GetFilename(dataRoot, ticker);
+                    var financialModelingFile = Data.GetFinancialModeling(ticker);
                     if (File.Exists(financialModelingFile))
                     {
                         var jArray = JsonConvert.DeserializeObject<JArray>(File.ReadAllText(financialModelingFile));

@@ -54,7 +54,7 @@ namespace IPTMGrabber.DNB
 
             Console.WriteLine("Start scrapping...");
             var count = 0;
-            foreach (var zacksStock in Enumerators.EnumerateFromCsv<ZacksStock>(Path.Combine(dataroot, "Zacks", "Screener.csv")).Where(s => !string.IsNullOrEmpty(s.CompanyName)))
+            foreach (var zacksStock in Enumerators.EnumerateFromCsv<ZacksStock>(Data.GetZacksScreener()).Where(s => !string.IsNullOrEmpty(s.CompanyName)))
             {
                 if (zacksStock.Exchange == "OTC" || dnbStocks.Any(s => s.Ticker == zacksStock.Ticker))
                 {
