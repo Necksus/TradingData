@@ -5,11 +5,30 @@ using System.Data;
 
 namespace IPTMGrabber.Utils
 {
-    internal static class Data
+    internal static class Config
     {
+
+        internal class ConfigParameters
+        {
+            public string DataRoot { get; set; }
+            public string ZacksScreenerUrl { get; set; }
+        }
+
+        private static ConfigParameters _parameters;
+
+        static Config()
+        {
         // Thanks to Scott https://www.hanselman.com/blog/detecting-that-a-net-core-app-is-running-in-a-docker-container-and-skippablefacts-in-xunit
-        private static readonly string DataRoot = 
-            Environment.GetEnvironmentVariable("DOTNET_RUNNING_IN_CONTAINER") == "true" ? "/data" : Environment.GetCommandLineArgs().Skip(1).Single();
+            var configPath = Environment.GetEnvironmentVariable("DOTNET_RUNNING_IN_CONTAINER") == "true" ?
+                "/data/config.json" :
+                Environment.GetCommandLineArgs().Skip(1).Single();
+
+            Console.WriteLine($"Using config file: {configPath}");
+            _parameters = JsonConvert.DeserializeObject<ConfigParameters>(File.ReadAllText(configPath))!;
+            Console.WriteLine("Config file is loaded");
+        }
+
+        private static string DataRoot => _parameters.DataRoot;
 
         public static string GetInvestingFolder()
                => Path.Combine(DataRoot, "Investing");
@@ -19,6 +38,9 @@ namespace IPTMGrabber.Utils
 
         public static string GetZacksScreener()
             => Path.Combine(DataRoot, "Zacks", "Screener.csv");
+
+        public static string ZacksScreenerUrl
+            => _parameters.ZacksScreenerUrl;
 
         public static string GetFinancialModeling(string ticker)
             => Path.Combine(DataRoot, "FinancialModeling", $"{ticker}.json");

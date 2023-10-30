@@ -18,7 +18,7 @@ namespace IPTMGrabber.Utils.Browser
             PagerInfo = pagerInfo;
         }
 
-        public async Task<HtmlDocument> LoadMoreAsync(HtmlDocument doc, CancellationToken cancellationToken)
+        public virtual async Task<HtmlDocument> LoadMoreAsync(HtmlDocument doc, CancellationToken cancellationToken)
         {
             if (!string.IsNullOrEmpty(PagerInfo?.MoreButton))
             {

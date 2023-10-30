@@ -65,7 +65,7 @@ namespace IPTMGrabber.Investing
                 case InvestingType.Migigan_ConsumerExpectations:
                 case InvestingType.Michigan_UMCSI:
                 case InvestingType.Michigan_CurrentCondition:
-                    return Path.Combine(Data.GetInvestingFolder(), $"{type}.csv");
+                    return Path.Combine(Config.GetInvestingFolder(), $"{type}.csv");
                 default:
                     throw new ArgumentOutOfRangeException(nameof(type), type, null);
             }

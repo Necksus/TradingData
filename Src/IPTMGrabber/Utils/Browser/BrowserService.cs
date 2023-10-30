@@ -2,6 +2,7 @@
 using IPTMGrabber.InvestorWebsite;
 using Microsoft.Extensions.Logging;
 using PuppeteerSharp;
+using System;
 
 namespace IPTMGrabber.Utils.Browser
 {
@@ -50,6 +51,9 @@ namespace IPTMGrabber.Utils.Browser
 
         public string Url => _currentPage?.Url;
 
+        public async Task SavePNGAsync(string filename, CancellationToken cancellationToken)
+            => await _currentPage.ScreenshotAsync(filename, new ScreenshotOptions { Type = ScreenshotType.Png });
+
         public Pager FindPager(PagerDefinition? pagerInfo, HtmlDocument doc)
         {
             if (NextPager.FoundPager(this, pagerInfo, doc, out var nextPager))
@@ -96,5 +100,17 @@ namespace IPTMGrabber.Utils.Browser
             return doc;
         }
 
+        public async Task SetDownloadFolder(string downloadPath)
+        {
+            var downloadManager = new DownloadManager(downloadPath);
+            downloadManager.CleanDownloadDirectory();
+            await downloadManager.SetupPageAsync(_currentPage);
+        }
+
+        public async Task CloseCurrentPage()
+        {
+            await _currentPage.DisposeAsync();
+            _currentPage = null;
+        }
     }
 }

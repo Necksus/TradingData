@@ -23,7 +23,7 @@ namespace IPTMGrabber.InvestorWebsite
 
         public async Task ExecuteAsync(string dataroot, CancellationToken cancellationToken)
         {
-            foreach (var dataSource in Data.NewsEventsDataSource)
+            foreach (var dataSource in Config.NewsEventsDataSource)
             {
                 if (!string.IsNullOrEmpty(dataSource.Ticker))
                 {
@@ -31,10 +31,10 @@ namespace IPTMGrabber.InvestorWebsite
 
                     try
                     {
-                        await using var newsOutputFile = File.OpenWrite(Data.GetPressReleasesFilename(dataSource.Ticker));
+                        await using var newsOutputFile = File.OpenWrite(Config.GetPressReleasesFilename(dataSource.Ticker));
                         await DownloadAsync(dataSource.NewsUrls, newsOutputFile, cancellationToken);
 
-                        await using var eventsOutputFile = File.OpenWrite(Data.GetEventsFilename(dataSource.Ticker));
+                        await using var eventsOutputFile = File.OpenWrite(Config.GetEventsFilename(dataSource.Ticker));
                         await DownloadAsync(dataSource.EventsUrls, eventsOutputFile, cancellationToken);
                     }
                     catch(Exception ex)
@@ -47,7 +47,7 @@ namespace IPTMGrabber.InvestorWebsite
 
         public async Task GrabPressReleasesAsync(string ticker, Stream csvStream, CancellationToken cancellationToken)
         {
-            var source = Data.NewsEventsDataSource.FirstOrDefault(s => s.Ticker.Equals(ticker, StringComparison.OrdinalIgnoreCase));
+            var source = Config.NewsEventsDataSource.FirstOrDefault(s => s.Ticker.Equals(ticker, StringComparison.OrdinalIgnoreCase));
             if (source != null) 
             {
                 await DownloadAsync(source.NewsUrls, csvStream, cancellationToken);

@@ -27,7 +27,7 @@ namespace IPTMGrabber.DNB
             var mappings = Enumerators.EnumerateFromCsv<ManualMapping>(Path.Combine(dataroot, "DNB", "ManualMapping.csv")).ToList();
 
             var different = 0;
-            var yahooStocks = Enumerators.EnumerateFromCsv<QuoteDetail>(Data.GetYahooScreenerFilename()).ToArray();
+            var yahooStocks = Enumerators.EnumerateFromCsv<QuoteDetail>(Config.GetYahooScreenerFilename()).ToArray();
 
             var writer = await FileHelper.CreateCsvWriterAsync<DNBStock>(dnbFilename);
             await writer.WriteRecordsAsync(dnbStocks.OrderBy(s => s.Ticker));
@@ -54,7 +54,7 @@ namespace IPTMGrabber.DNB
 
             Console.WriteLine("Start scrapping...");
             var count = 0;
-            foreach (var zacksStock in Enumerators.EnumerateFromCsv<ZacksStock>(Data.GetZacksScreener()).Where(s => !string.IsNullOrEmpty(s.CompanyName)))
+            foreach (var zacksStock in Enumerators.EnumerateFromCsv<ZacksStock>(Config.GetZacksScreener()).Where(s => !string.IsNullOrEmpty(s.CompanyName)))
             {
                 if (zacksStock.Exchange == "OTC" || dnbStocks.Any(s => s.Ticker == zacksStock.Ticker))
                 {

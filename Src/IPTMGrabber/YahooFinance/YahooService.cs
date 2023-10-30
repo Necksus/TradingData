@@ -40,7 +40,7 @@ namespace IPTMGrabber.YahooFinance
         public async Task ExecuteAsync()
         {
             // Prepare reader
-            using var reader = new StreamReader(Data.GetZacksScreener());
+            using var reader = new StreamReader(Config.GetZacksScreener());
             using var csv = new CsvReader(reader, new CsvConfiguration(CultureInfo.InvariantCulture)
             {
                 HasHeaderRecord = true,
@@ -52,7 +52,7 @@ namespace IPTMGrabber.YahooFinance
 
             // Prepare writer
             using var client = new HttpClient();
-            await using var writer = new StreamWriter(Data.GetYahooScreenerFilename());
+            await using var writer = new StreamWriter(Config.GetYahooScreenerFilename());
             await using var csvWriter = new CsvWriter(writer, new CsvConfiguration(CultureInfo.InvariantCulture)
             {
                 Delimiter = ",",
@@ -85,7 +85,7 @@ namespace IPTMGrabber.YahooFinance
                 {
                     var quoteDetail = QuoteDetail.FromJson(ticker, await response.Content.ReadAsStringAsync());
 
-                    var financialModelingFile = Data.GetFinancialModeling(ticker);
+                    var financialModelingFile = Config.GetFinancialModeling(ticker);
                     if (File.Exists(financialModelingFile))
                     {
                         var jArray = JsonConvert.DeserializeObject<JArray>(File.ReadAllText(financialModelingFile));
@@ -129,7 +129,7 @@ namespace IPTMGrabber.YahooFinance
             => $"https://query1.finance.yahoo.com/v6/finance/quoteSummary/{ticker}?{string.Join("&", modules.Select(m => $"modules={m}"))}";
 
         public string? GetCIK(string ticker)
-            => Enumerators.EnumerateFromCsv<QuoteDetail>(Data.GetYahooScreenerFilename())
+            => Enumerators.EnumerateFromCsv<QuoteDetail>(Config.GetYahooScreenerFilename())
             .SingleOrDefault(t => t.Ticker == ticker)
             ?.Cik;
     }

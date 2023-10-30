@@ -32,7 +32,7 @@ namespace IPTMGrabber.YahooFinance
             };
             foreach (var ticker in Enumerators.GetTickers())
             {
-                if (File.Exists(Data.GetFinancialModeling(ticker)))
+                if (File.Exists(Config.GetFinancialModeling(ticker)))
                     continue;
 
                 HttpResponseMessage response = null;
@@ -63,7 +63,7 @@ namespace IPTMGrabber.YahooFinance
                                 error = true;
                                 break;
                             case HttpStatusCode.Forbidden:
-                                File.WriteAllText(Data.GetFinancialModeling(ticker), "[]");
+                                File.WriteAllText(Config.GetFinancialModeling(ticker), "[]");
                                 continue;
                             default:
                                 break;
@@ -71,7 +71,7 @@ namespace IPTMGrabber.YahooFinance
                     }
                 } while (error);
 
-                await File.WriteAllTextAsync(Data.GetFinancialModeling(ticker), await response.Content.ReadAsStringAsync());
+                await File.WriteAllTextAsync(Config.GetFinancialModeling(ticker), await response.Content.ReadAsStringAsync());
                 Console.WriteLine($"Get Financial Modeling profile for {ticker}.");
             }
         }

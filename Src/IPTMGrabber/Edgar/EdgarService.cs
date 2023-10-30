@@ -105,7 +105,7 @@ namespace IPTMGrabber.Edgar
                         foreach (XmlNode hrefNode in fillingNodes)
                         {
                             var detailUrl = hrefNode.InnerText.Replace("-index.html", ".txt").Replace("-index.htm", ".txt");
-                            var filePath = Data.GetSECDetailPathFromUrl(fillingType, ticker, detailUrl);
+                            var filePath = Config.GetSECDetailPathFromUrl(fillingType, ticker, detailUrl);
 
                             _logger.LogDebug($"Downloading {detailUrl}");
                             var detail = await client.ReadOrDownloadAsync(detailUrl, filePath, cancellationToken);
