@@ -21,7 +21,7 @@ namespace IPTMGrabber.InvestorWebsite
             _earningPrediction = earningPrediction;
         }
 
-        public async Task ExecuteAsync(string dataroot, CancellationToken cancellationToken)
+        public async Task ExecuteAsync(CancellationToken cancellationToken)
         {
             foreach (var dataSource in Config.NewsEventsDataSource)
             {

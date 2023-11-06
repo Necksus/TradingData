@@ -127,6 +127,9 @@ namespace IPTMGrabber.YahooFinance
             crumbResponse.EnsureSuccessStatusCode();
             var crumb = await crumbResponse.Content.ReadAsStringAsync();
 
+            if (string.IsNullOrEmpty(crumb))
+                throw new InvalidOperationException("Yahoo crumb cannot be found");
+
             return (client, crumb);
         }
 

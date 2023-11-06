@@ -1,5 +1,22 @@
 [
 		{
+			"Ticker": "LULU",
+			"NewsUrls": {
+				"PagerDefinition": {
+					"MoreButton": "//a[@class='cta cta-viewmore']"
+				},
+				"DateFormat": "MM/dd/yyyy",
+				"Urls": [
+					"https://corporate.lululemon.com/media/press-releases"
+				]
+			},
+			"EventsUrls": {
+				"Urls": [
+					"https://corporate.lululemon.com/investors/news-and-events/events-and-presentations"
+				]
+			}
+		},
+		{
 			"Ticker": "AIN",
 			"NewsUrls": {
 				"Urls": [
