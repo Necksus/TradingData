@@ -2,6 +2,7 @@
 using CsvHelper.Configuration;
 using Newtonsoft.Json;
 using System.Globalization;
+using System.Net;
 using IPTMGrabber.Utils;
 using Newtonsoft.Json.Linq;
 
@@ -36,9 +37,13 @@ namespace IPTMGrabber.YahooFinance
 
     public class YahooService
     {
+        private const string StartUrl = "https://fc.yahoo.com";
+        private const string CrumbUrl = "https://query1.finance.yahoo.com/v1/test/getcrumb";
 
         public async Task ExecuteAsync()
         {
+            var http = await CreateHttpClientAsync();
+
             // Prepare reader
             using var reader = new StreamReader(Config.GetZacksScreener());
             using var csv = new CsvReader(reader, new CsvConfiguration(CultureInfo.InvariantCulture)
@@ -51,7 +56,6 @@ namespace IPTMGrabber.YahooFinance
             csv.ReadHeader();
 
             // Prepare writer
-            using var client = new HttpClient();
             await using var writer = new StreamWriter(Config.GetYahooScreenerFilename());
             await using var csvWriter = new CsvWriter(writer, new CsvConfiguration(CultureInfo.InvariantCulture)
             {
@@ -73,7 +77,7 @@ namespace IPTMGrabber.YahooFinance
                     error = false;
                     try
                     {
-                        response = await client.GetAsync(GetUrl(FixTicker(ticker), YahooModule.assetProfile, YahooModule.calendarEvents));
+                        response = await http.Client.GetAsync(GetUrl(http.Crumb, FixTicker(ticker), YahooModule.assetProfile, YahooModule.calendarEvents));
                     }
                     catch (Exception ex)
                     {
@@ -104,12 +108,27 @@ namespace IPTMGrabber.YahooFinance
                 {
                     Console.WriteLine($"Erreur HTTP : {response.StatusCode}, ticker {ticker}");
                 }
-
-                //TimeSerieType.annualTotalAssets + TimeSerieType.annualInterestExpense + TimeSerieType.annualWorkingCapital
             }
-
         }
 
+        private async Task<(HttpClient Client, string Crumb)> CreateHttpClientAsync()
+        {
+            var handler = new HttpClientHandler { CookieContainer = new CookieContainer() };
+            var client = new HttpClient(handler);
+            
+            // Use a commonly used user agent
+            client.DefaultRequestHeaders.Add("User-Agent", "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36");
+
+            // First request to set cookies, event if page returns 404! (https://stackoverflow.com/questions/76065035/yahoo-finance-v7-api-now-requiring-cookies-python)
+            await client.GetAsync(StartUrl);
+
+            // Get the crumb for v10 API
+            var crumbResponse = await client.GetAsync(CrumbUrl);
+            crumbResponse.EnsureSuccessStatusCode();
+            var crumb = await crumbResponse.Content.ReadAsStringAsync();
+
+            return (client, crumb);
+        }
 
         private string FixTicker(string ticker)
         {
@@ -125,8 +144,8 @@ namespace IPTMGrabber.YahooFinance
             }
         }
 
-        string GetUrl(string ticker, params YahooModule[] modules)
-            => $"https://query1.finance.yahoo.com/v6/finance/quoteSummary/{ticker}?{string.Join("&", modules.Select(m => $"modules={m}"))}";
+        string GetUrl(string crumb, string ticker, params YahooModule[] modules)
+            => $"https://query1.finance.yahoo.com/v10/finance/quoteSummary/{ticker}?{string.Join("&", modules.Select(m => $"modules={m}"))}&crumb={crumb}";
 
         public string? GetCIK(string ticker)
             => Enumerators.EnumerateFromCsv<QuoteDetail>(Config.GetYahooScreenerFilename())
