@@ -1,13 +1,10 @@
-﻿using HtmlAgilityPack;
-using IPTMGrabber.InvestorWebsite;
+﻿using IPTMGrabber.InvestorWebsite;
 using IPTMGrabber.Utils;
 using IPTMGrabber.Utils.Browser;
 using IPTMGrabber.YahooFinance;
 using Microsoft.Extensions.Logging;
-using System.Diagnostics;
 using System.Text.RegularExpressions;
 using System.Xml;
-using System.Xml.XPath;
 
 namespace IPTMGrabber.Edgar
 {
@@ -26,23 +23,23 @@ namespace IPTMGrabber.Edgar
 
         private readonly ILogger<EdgarService> _logger;
         private readonly BrowserService _browserService;
-        private readonly YahooService _yahooService;
+        private readonly FinancialModelingService _financialModelingService;
 
         private const string InsiderUrlFormat = "https://www.sec.gov/cgi-bin/own-disp?action=getissuer&CIK={0}&type=&dateb=&owner=include&start=0";
 
         // http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&output=xml&start=10&type=8-K&datea=20081005&dateb=20231002&ownership=include&CIK=0001739940
         private const string FillingUrlFormat = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&output=xml&start={0}&type={1}&datea{2}&dateb={3}&ownership=include&CIK={4}";
 
-        public EdgarService(ILogger<EdgarService> logger, BrowserService browserService, YahooService yahooService)
+        public EdgarService(ILogger<EdgarService> logger, BrowserService browserService, FinancialModelingService financialModelingService)
         {
             _logger = logger;
             _browserService = browserService;
-            _yahooService = yahooService;
+            _financialModelingService = financialModelingService;
         }
 
         public async Task GrabInsidersAsync(string ticker, Stream csvStream, CancellationToken cancellationToken)
         {
-            var cikCode = _yahooService.GetCIK(ticker);
+            var cikCode = (await _financialModelingService.GetFinancialInfoAsync(ticker))?.Cik;
             if (string.IsNullOrEmpty(cikCode))
                 throw new ArgumentException($"CIK code not found for ticker {ticker}");
 
@@ -71,7 +68,7 @@ namespace IPTMGrabber.Edgar
 
         public async Task GrabFillings(string ticker, Stream csvStream, CancellationToken cancellationToken)
         {
-            var cikCode = _yahooService.GetCIK(ticker);
+            var cikCode = (await _financialModelingService.GetFinancialInfoAsync(ticker))?.Cik;
             if (string.IsNullOrEmpty(cikCode))
                 throw new ArgumentException($"CIK code not found for ticker {ticker}");
 

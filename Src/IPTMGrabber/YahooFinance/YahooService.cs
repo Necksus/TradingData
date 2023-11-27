@@ -149,10 +149,5 @@ namespace IPTMGrabber.YahooFinance
 
         string GetUrl(string crumb, string ticker, params YahooModule[] modules)
             => $"https://query1.finance.yahoo.com/v10/finance/quoteSummary/{ticker}?{string.Join("&", modules.Select(m => $"modules={m}"))}&crumb={crumb}";
-
-        public string? GetCIK(string ticker)
-            => Enumerators.EnumerateFromCsv<QuoteDetail>(Config.GetYahooScreenerFilename())
-            .SingleOrDefault(t => t.Ticker == ticker)
-            ?.Cik;
     }
 }

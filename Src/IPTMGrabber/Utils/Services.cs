@@ -17,6 +17,7 @@ namespace IPTMGrabber.Utils
             services.AddSingleton<EdgarService>();
             services.AddSingleton<YahooService>();
             services.AddSingleton<ZacksService>();
+            services.AddSingleton<FinancialModelingService>();
         }
     }
 }
