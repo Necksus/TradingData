@@ -35,7 +35,7 @@ namespace IPTMGrabber.YahooFinance
             else
             {
                 json = await GetJsonResponseAsync(ticker);
-                if (!string.IsNullOrEmpty(json))
+                if (!string.IsNullOrEmpty(json) && json != "[]")
                     await File.WriteAllTextAsync(filename, json);
             }
             return JsonConvert.DeserializeObject<FinancialModelingItem[]>(json).SingleOrDefault();

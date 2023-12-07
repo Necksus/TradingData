@@ -13,24 +13,29 @@ namespace SharpITPM
             // Add services to the container.
             builder.Services.AddITPM();
 
+            // Add Blazor stuff
+            builder.Services.AddRazorPages();
+            builder.Services.AddServerSideBlazor();
+            builder.Services.AddBlazorBootstrap();
+
+            // Add API stuff
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
-            //if (app.Environment.IsDevelopment())
-            {
-                app.UseSwagger();
-                app.UseSwaggerUI();
-            }
-
             app.UseHttpsRedirection();
+            app.UseStaticFiles();
+            app.UseRouting();
+
+            app.MapBlazorHub();
+            app.MapFallbackToPage("/_Host");
 
             app.UseAuthorization();
 
+            app.UseSwagger();
+            app.UseSwaggerUI();
             app.MapControllers();
 
             app.Run();

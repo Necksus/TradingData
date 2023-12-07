@@ -5,7 +5,7 @@ using IPTMGrabber.YahooFinance;
 
 namespace IPTMGrabber.Utils
 {
-    internal class Enumerators
+    public class Enumerators
     {
         public static IEnumerable<string> GetTickers()
         {
@@ -27,13 +27,18 @@ namespace IPTMGrabber.Utils
         }
 
         public static IEnumerable<T> EnumerateFromCsv<T>(string filename)
+            => EnumerateFromCsv<T>(File.OpenRead(filename));
+
+
+        public static IEnumerable<T> EnumerateFromCsv<T>(Stream stream)
         {
-            using var reader = new StreamReader(filename);
+            using var reader = new StreamReader(stream);
             using var csv = new CsvReader(reader, new CsvConfiguration(new CultureInfo("fr-FR"))
             {
                 HasHeaderRecord = true,
                 TrimOptions = TrimOptions.Trim,
-                Delimiter = ","
+                Delimiter = ",",
+                MissingFieldFound=null
             });
             csv.Read();
             csv.ReadHeader();

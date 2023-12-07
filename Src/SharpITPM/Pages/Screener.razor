@@ -1,0 +1,39 @@
+﻿@page "/"
+@using IPTMGrabber.Zacks
+
+@inject ZacksService ZacksService
+
+<Grid @ref="grid"
+      TItem="ScreenerStock"
+      Class="table table-hover table-bordered"
+      DataProvider="ScreenerDataProvider"
+      FixedHeader="true"
+      Height="350"
+      Responsive="true"
+      Unit="Unit.Px">
+
+    <GridColumn TItem="ScreenerStock" HeaderText="Ticker" PropertyName="Ticker">
+        @context.Ticker
+    </GridColumn>
+    <GridColumn TItem="ScreenerStock" HeaderText="Ticker" PropertyName="CompanyName">
+        @context.CompanyName
+    </GridColumn>
+    <GridColumn TItem="ScreenerStock" HeaderText="EG1" PropertyName="EG1" TextAlignment="Alignment.Center">
+        @FormatToPercent(context.EG1)
+    </GridColumn>
+    <GridColumn TItem="ScreenerStock" HeaderText="EG2" PropertyName="EG2"  TextAlignment="Alignment.Center">
+        @FormatToPercent(context.EG2)
+    </GridColumn>
+    <GridColumn TItem="ScreenerStock" HeaderText="PE1" PropertyName="PE1" TextAlignment="Alignment.Center">
+        @FormatToDecimal(context.PE1)
+    </GridColumn>
+    <GridColumn TItem="ScreenerStock" HeaderText="PE2" PropertyName="PE2" TextAlignment="Alignment.Center">
+        @FormatToDecimal(context.PE2)
+    </GridColumn>
+    <GridColumn TItem="ScreenerStock" HeaderText="PEG1" PropertyName="PEG1" TextAlignment="Alignment.Center">
+        @FormatToDecimal(context.PEG1)
+    </GridColumn>
+    <GridColumn TItem="ScreenerStock" HeaderText="PEG2" PropertyName="PEG2" TextAlignment="Alignment.Center">
+        @FormatToDecimal(context.PEG2)
+    </GridColumn>
+</Grid>
