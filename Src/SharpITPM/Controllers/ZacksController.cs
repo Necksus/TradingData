@@ -23,7 +23,6 @@ namespace SharpITPM.Controllers
             {
                 using var memoryStream = new MemoryStream();
                 await _zacksService.GetScreenerAsync(memoryStream, cancellationToken);
-                memoryStream.Position = 0;
                 return await new StreamReader(memoryStream).ReadToEndAsync(cancellationToken);
             }
             catch (Exception ex)

@@ -1,6 +1,8 @@
 
+using System.Diagnostics.Metrics;
 using IPTMGrabber.InvestorWebsite;
 using IPTMGrabber.Utils;
+using SharpITPM.Components;
 
 namespace SharpITPM
 {
@@ -10,12 +12,16 @@ namespace SharpITPM
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            // Add Blazor stuff
+            builder.Services.AddRazorComponents()
+                .AddInteractiveServerComponents()
+                .AddInteractiveWebAssemblyComponents();
+
             // Add services to the container.
             builder.Services.AddITPM();
 
-            // Add Blazor stuff
-            builder.Services.AddRazorPages();
-            builder.Services.AddServerSideBlazor();
+            //builder.Services.AddRazorPages();
+            //builder.Services.AddServerSideBlazor();
             builder.Services.AddBlazorBootstrap();
 
             // Add API stuff
@@ -25,18 +31,37 @@ namespace SharpITPM
 
             var app = builder.Build();
 
+            // Configure the HTTP request pipeline.
+            if (app.Environment.IsDevelopment())
+            {
+                app.UseWebAssemblyDebugging();
+            }
+            else
+            {
+                app.UseExceptionHandler("/Error");
+                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+                app.UseHsts();
+            }
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-            app.UseRouting();
+            app.UseAntiforgery();
 
-            app.MapBlazorHub();
-            app.MapFallbackToPage("/_Host");
+            //app.UseRouting();
 
-            app.UseAuthorization();
+            //app.MapBlazorHub();
+            //app.MapFallbackToPage("/_Host");
+
+            //app.UseAuthorization();
 
             app.UseSwagger();
             app.UseSwaggerUI();
             app.MapControllers();
+
+            app.MapRazorComponents<App>()
+                .AddInteractiveServerRenderMode()
+                .AddInteractiveWebAssemblyRenderMode()
+                .AddAdditionalAssemblies(typeof(Counter<>).Assembly);       // TODO: remove this
 
             app.Run();
         }

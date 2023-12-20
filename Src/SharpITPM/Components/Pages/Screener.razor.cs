@@ -3,7 +3,7 @@ using IPTMGrabber.Zacks;
 using IPTMGrabber.Utils;
 
 
-namespace SharpITPM.Pages
+namespace SharpITPM.Components.Pages
 {
     public partial class Screener
     {
@@ -13,6 +13,16 @@ namespace SharpITPM.Pages
         {
             _zacksService = zacksService;
         }*/
+
+        public Screener()
+        {
+                
+        }
+
+        protected override Task OnInitializedAsync()
+        {
+            return base.OnInitializedAsync();
+        }
 
         private async Task<GridDataProviderResult<ScreenerStock>> ScreenerDataProvider(GridDataProviderRequest<ScreenerStock> request)
         {

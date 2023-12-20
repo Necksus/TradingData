@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IPTMGrabber", "IPTMGrabber\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpITPM", "SharpITPM\SharpITPM.csproj", "{68CDB39E-6473-4645-B33F-8CD3CEEAB58B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpITPM.Client", "SharpITPM.Client\SharpITPM.Client.csproj", "{639B35A8-A818-47AE-9B5F-EA99F33DDB9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,12 @@ Global
 		{68CDB39E-6473-4645-B33F-8CD3CEEAB58B}.Release ARM32|Any CPU.Build.0 = Release ARM32|Any CPU
 		{68CDB39E-6473-4645-B33F-8CD3CEEAB58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68CDB39E-6473-4645-B33F-8CD3CEEAB58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{639B35A8-A818-47AE-9B5F-EA99F33DDB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639B35A8-A818-47AE-9B5F-EA99F33DDB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639B35A8-A818-47AE-9B5F-EA99F33DDB9E}.Release ARM32|Any CPU.ActiveCfg = Release|Any CPU
+		{639B35A8-A818-47AE-9B5F-EA99F33DDB9E}.Release ARM32|Any CPU.Build.0 = Release|Any CPU
+		{639B35A8-A818-47AE-9B5F-EA99F33DDB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639B35A8-A818-47AE-9B5F-EA99F33DDB9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
