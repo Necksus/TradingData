@@ -79,7 +79,7 @@ namespace IPTMGrabber.ISM
                         .Split(';', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries);
 
                     var weight = 0;
-                    var direction = Regex.Match(sentence, @"\b(?:reported|reporting)\b\s+(?<direction>.*)").Value;
+                    var direction = Regex.Match(sentence, @"\b(?:reported|reporting|report)\b\s+(?<direction>.*)").Value;
                     if (direction == null)
                         throw new InvalidOperationException("Cannot find reporting direction");
 
