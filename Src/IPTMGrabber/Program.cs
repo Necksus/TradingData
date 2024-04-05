@@ -47,7 +47,8 @@ namespace IPTMGrabber
             "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-47-4-december-2023-manufacturing-ism-report-on-business-302024715.html",
 
             "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-49-1-january-2024-manufacturing-ism-report-on-business-302049663.html",
-            "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-47-8-february-2024-manufacturing-ism-report-on-business-302076127.html"
+            "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-47-8-february-2024-manufacturing-ism-report-on-business-302076127.html",
+            "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-50-3-march-2024-manufacturing-ism-report-on-business-302104149.html"
         };
 
         // Official link: https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/april/
@@ -76,7 +77,8 @@ namespace IPTMGrabber
             "https://www.prnewswire.com/news-releases/services-pmi-at-50-6-december-2023-services-ism-report-on-business-302026587.html",
 
             "https://www.prnewswire.com/news-releases/services-pmi-at-53-4-january-2024-services-ism-report-on-business-302052175.html",
-            "https://www.prnewswire.com/news-releases/services-pmi-at-52-6-february-2024-services-ism-report-on-business-302078785.html"
+            "https://www.prnewswire.com/news-releases/services-pmi-at-52-6-february-2024-services-ism-report-on-business-302078785.html",
+            "https://www.prnewswire.com/news-releases/services-pmi-at-51-4-march-2024-services-ism-report-on-business-302106133.html"
         };
 
         static async Task Main(string[] args)
